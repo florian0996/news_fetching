@@ -1,0 +1,6 @@
+# Ignore Papermill’s output notebooks
+data/fetch_news_*.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
