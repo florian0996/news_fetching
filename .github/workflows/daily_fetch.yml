@@ -1,0 +1,43 @@
+name: Daily News Fetch
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 07:00 UTC → 09:00 CEST
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install papermill
+
+      - name: Run fetch_news notebook
+        run: |
+          TS=$(date +'%Y-%m-%d')
+          papermill \
+            scripts/fetch_news.ipynb \
+            data/news_${TS}.json
+
+      - name: Merge into all_news.json
+        run: python scripts/merge_news.py
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news_*.json data/all_news.json
+          git commit -m "Daily news update for $TS" || echo "No changes to commit"
+      - uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
