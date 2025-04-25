@@ -21,8 +21,9 @@ jobs:
 
       - name: Install dependencies & register kernel
         run: |
-          pip install papermill ipykernel
-          # this makes a 'python3' kernel available to Papermill
+          # install everything your notebook imports
+          pip install papermill ipykernel feedparser requests
+          # register the "python3" kernel for papermill
           python -m ipykernel install --user --name python3 --display-name python3
 
       - name: Run fetch_news notebook
