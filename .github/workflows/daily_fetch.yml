@@ -1,5 +1,9 @@
 name: Daily News Fetch
 
+# Grant this workflow write access so we can push JSON updates
+permissions:
+  contents: write
+
 on:
   schedule:
     # Runs at 07:00 UTC → 09:00 CEST
@@ -14,6 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
+          # needed so that our later git commit/push uses the GITHUB_TOKEN
           persist-credentials: true
 
       - name: Set up Python
