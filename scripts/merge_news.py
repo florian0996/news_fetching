@@ -7,7 +7,7 @@ from pathlib import Path
 DATA_DIR = Path.cwd() / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-TODAY = date.today().isoformat()
+TODAY = date.today().isoformat()           # e.g. "2025-04-27"
 NEW_FILE = DATA_DIR / f"news_{TODAY}.json"
 MASTER_FILE = DATA_DIR / "all_news.json"
 # ────────────────────────────────────────────────────────────────────────────────
@@ -24,32 +24,38 @@ else:
 # Load today’s batch
 today_batch = json.loads(NEW_FILE.read_text(encoding="utf-8"))
 
-# ── DEDUPE LOGIC ────────────────────────────────────────────────────────────────
-# Build set of seen IDs (for dicts with "id") and raw values (for non-dicts)
+# ── DEDUPE SETUP ───────────────────────────────────────────────────────────────
+# IDs for dicts
 seen_ids = {
     item["id"]
     for item in master
     if isinstance(item, dict) and "id" in item
 }
+# raw values for non-dicts
 seen_raw = {
     item
     for item in master
     if not isinstance(item, dict)
 }
+# ────────────────────────────────────────────────────────────────────────────────
 
 to_add = []
 for item in today_batch:
     if isinstance(item, dict) and "id" in item:
-        # Deduplicate on id
+        # Dedupe by id
         if item["id"] not in seen_ids:
             to_add.append(item)
             seen_ids.add(item["id"])
-    else:
-        # Non-dict (e.g. string) dedupe on the raw value
+
+    elif not isinstance(item, dict):
+        # Only do raw-membership tests on non-dicts
         if item not in seen_raw:
             to_add.append(item)
             seen_raw.add(item)
-# ────────────────────────────────────────────────────────────────────────────────
+
+    else:
+        # A dict with no 'id'—just include it (rare)
+        to_add.append(item)
 
 # Append & write back
 if to_add:
