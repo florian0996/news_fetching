@@ -4,37 +4,60 @@ from datetime import date
 from pathlib import Path
 
 # ── CONFIG ─────────────────────────────────────────────────────────────────────
-# Compute a repo-relative data directory
-# In Actions, cwd() == /github/workspace; locally it'll be wherever you run this
+# Use the repo’s `data/` directory (cwd() is /github/workspace in Actions)
 DATA_DIR = Path.cwd() / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-# Filenames
-TODAY = date.today().isoformat()   # e.g. "2025-04-23"
-NEW_FILE = f"news_{TODAY}.json"
+TODAY = date.today().isoformat()           # e.g. "2025-04-27"
+NEW_FILE = DATA_DIR / f"news_{TODAY}.json"
 MASTER_FILE = DATA_DIR / "all_news.json"
 # ────────────────────────────────────────────────────────────────────────────────
 
-new_path = DATA_DIR / NEW_FILE
-if not new_path.exists():
-    raise FileNotFoundError(f"Expected today’s JSON at {new_path}")
+# Ensure today's file exists
+if not NEW_FILE.exists():
+    raise FileNotFoundError(f"Expected today’s JSON at {NEW_FILE}")
 
-# Load or initialize master list
+# Load or initialize the master list
 if MASTER_FILE.exists():
     master = json.loads(MASTER_FILE.read_text(encoding="utf-8"))
 else:
     master = []
 
 # Load today’s batch
-today_batch = json.loads(new_path.read_text(encoding="utf-8"))
+today_batch = json.loads(NEW_FILE.read_text(encoding="utf-8"))
 
-# Optional: dedupe on some unique key, e.g. 'id'
-seen_ids = {item.get("id") for item in master if "id" in item}
-to_add = [item for item in today_batch if item.get("id") not in seen_ids]
+# ── DEDUPE LOGIC ────────────────────────────────────────────────────────────────
+# If items are dicts with an 'id', dedupe by id; else dedupe by raw value.
+seen_ids = {
+    item["id"]
+    for item in master
+    if isinstance(item, dict) and "id" in item
+}
+seen_raw = {
+    item
+    for item in master
+    if not (isinstance(item, dict) and "id" in item)
+}
 
+to_add = []
+for item in today_batch:
+    if isinstance(item, dict) and "id" in item:
+        if item["id"] not in seen_ids:
+            to_add.append(item)
+            seen_ids.add(item["id"])
+    else:
+        if item not in seen_raw:
+            to_add.append(item)
+            seen_raw.add(item)
+# ────────────────────────────────────────────────────────────────────────────────
+
+# Append and write back if there’s anything new
 if to_add:
     master.extend(to_add)
-    MASTER_FILE.write_text(json.dumps(master, indent=2), encoding="utf-8")
+    MASTER_FILE.write_text(
+        json.dumps(master, indent=2),
+        encoding="utf-8"
+    )
     print(f"Appended {len(to_add)} new items to all_news.json")
 else:
     print("No new items to append.")
