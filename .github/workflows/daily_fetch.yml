@@ -2,7 +2,8 @@ name: Daily News Fetch
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # 07:00 UTC → 09:00 CEST
+    # Runs at 07:00 UTC → 09:00 CEST
+    - cron: '0 7 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
           persist-credentials: true
 
@@ -21,9 +23,7 @@ jobs:
 
       - name: Install dependencies & register kernel
         run: |
-          # install everything your notebook imports
           pip install papermill ipykernel feedparser requests
-          # register the "python3" kernel for papermill
           python -m ipykernel install --user --name python3 --display-name python3
 
       - name: Run fetch_news notebook
@@ -31,19 +31,21 @@ jobs:
           TS=$(date +'%Y-%m-%d')
           papermill \
             scripts/fetch_news.ipynb \
-            data/news_${TS}.json \
+            data/fetch_news_${TS}.ipynb \
             --kernel python3
 
       - name: Merge into all_news.json
         run: python scripts/merge_news.py
 
-      - name: Commit and push updates
+      - name: Commit data updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news_*.json data/all_news.json
           git commit -m "Daily news update for $TS" || echo "No changes to commit"
+
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
