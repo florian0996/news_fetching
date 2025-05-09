@@ -1,34 +1,36 @@
-name: Hourly Finanzen.net  RSS capture
+#!/usr/bin/env python3
+"""
+Grab the current Finanzen.net RSS feed and save it as a time-stamped JSON
+inside data/.
+"""
+from pathlib import Path
+import feedparser, json, datetime as dt
 
-on:
-  schedule:
-    - cron: '5 * * * *'         # every hour, 05 min past (UTC)
-  workflow_dispatch:
+FEED_URL = "https://www.finanzen.net/rss/news"
 
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    concurrency:
-      group: finanzen-hourly     # avoid overlaps
-      cancel-in-progress: true
+def main() -> None:
+    data_dir = Path(__file__).resolve().parents[1] / "data"
+    data_dir.mkdir(exist_ok=True)
 
-    steps:
-      - uses: actions/checkout@v4
+    ts = dt.datetime.utcnow().strftime("%Y-%m-%d_%H%M")
+    outfile = data_dir / f"finanzen_{ts}.json"
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
+    feed = feedparser.parse(FEED_URL)
+    items = [
+        {
+            "guid": e.id,
+            "title": e.title,
+            "link": e.link,
+            "published": dt.datetime(*e.published_parsed[:6]).isoformat(),
+            "source": "finanzen.net",
+        }
+        for e in feed.entries
+    ]
 
-      - name: Install feedparser
-        run: pip install feedparser
+    with outfile.open("w", encoding="utf-8") as f:
+        json.dump(items, f, ensure_ascii=False, indent=2)
 
-      - name: Run grabber
-        run: python scripts/fetch_finanzen_net_json.py
+    print(f"Wrote {outfile.relative_to(Path.cwd())}  ({len(items)} items)")
 
-      - name: Commit new hourly JSON
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name  "GitHub Action"
-          git add data/finanzen_*.json
-          git diff --cached --quiet || git commit -m "Finanzen hourly update $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
-          git push
+if __name__ == "__main__":
+    main()
