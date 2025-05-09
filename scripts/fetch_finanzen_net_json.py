@@ -1,0 +1,34 @@
+name: Hourly Finanzen.net  RSS capture
+
+on:
+  schedule:
+    - cron: '5 * * * *'         # every hour, 05 min past (UTC)
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: finanzen-hourly     # avoid overlaps
+      cancel-in-progress: true
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+
+      - name: Install feedparser
+        run: pip install feedparser
+
+      - name: Run grabber
+        run: python scripts/fetch_finanzen_net_json.py
+
+      - name: Commit new hourly JSON
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name  "GitHub Action"
+          git add data/finanzen_*.json
+          git diff --cached --quiet || git commit -m "Finanzen hourly update $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          git push
