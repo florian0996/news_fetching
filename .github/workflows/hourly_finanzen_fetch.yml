@@ -1,0 +1,35 @@
+name: Hourly Finanzen.net RSS capture
+
+on:
+  # ─── Runs every hour at 05 min past the hour (UTC) ───
+  schedule:
+    - cron: '5 * * * *'
+  # ─── Manual trigger from the Actions tab ───
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    # Prevent two overlapping runs if one is still in progress
+    concurrency:
+      group: finanzen-hourly
+      cancel-in-progress: true
+
+    steps:
+      #  Check out this repository
+      - uses: actions/checkout@v4
+
+      # Set up Python (choose whatever version you prefer)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Install the single dependency the script needs
+      - name: Install dependencies
+        run: pip install feedparser
+
+      # Run the grabber script
+      - name: Run hourly Finanzen.net fetch
+        run: python scripts/fetch_finanzen_net.py
