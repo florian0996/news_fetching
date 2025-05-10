@@ -1,5 +1,16 @@
 #!/usr/bin/env python3
-import json
+"""
+Merge today's portal JSON files (news_YYYY-MM-DD.json, finanzen_YYYY-MM-DD.json)
+into all_news.json while avoiding duplicates.
+
+Dedup priority:
+  1. 'id'   (if present)
+  2. 'guid' (Finanzen items)
+  3. 'link' (fallback for other feeds)
+  4. raw equality for non-dict items
+"""
+
+import json, re
 from datetime import date
 from pathlib import Path
 
@@ -7,57 +18,54 @@ from pathlib import Path
 DATA_DIR = Path.cwd() / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-TODAY = date.today().isoformat()           # e.g. "2025-04-27"
-NEW_FILE = DATA_DIR / f"news_{TODAY}.json"
+TODAY = date.today().isoformat()           # e.g. "2025-05-09"
+DAILY_PATTERNS = [
+    re.compile(rf"news_{TODAY}\.json$"),
+    re.compile(rf"finanzen_{TODAY}\.json$"),
+]
+
 MASTER_FILE = DATA_DIR / "all_news.json"
 # ────────────────────────────────────────────────────────────────────────────────
 
-if not NEW_FILE.exists():
-    raise FileNotFoundError(f"Expected today’s JSON at {NEW_FILE}")
-
-# Load or initialize master list
+# ---------- load master ----------
 if MASTER_FILE.exists():
     master = json.loads(MASTER_FILE.read_text(encoding="utf-8"))
 else:
     master = []
 
-# Load today’s batch
-today_batch = json.loads(NEW_FILE.read_text(encoding="utf-8"))
+# ---------- collect today's batches ----------
+batches = []
+for fp in DATA_DIR.iterdir():
+    if any(pat.search(fp.name) for pat in DAILY_PATTERNS):
+        batches.extend(json.loads(fp.read_text(encoding="utf-8")))
 
-# ── DEDUPE SETUP ───────────────────────────────────────────────────────────────
-# IDs for dicts
-seen_ids = {
-    item["id"]
-    for item in master
-    if isinstance(item, dict) and "id" in item
-}
-# raw values for non-dicts
-seen_raw = {
-    item
-    for item in master
-    if not isinstance(item, dict)
-}
-# ────────────────────────────────────────────────────────────────────────────────
+if not batches:
+    raise FileNotFoundError("No daily batch JSON found for today.")
+
+# ---------- dedupe ----------
+seen_ids    = {item.get("id")   for item in master if isinstance(item, dict) and "id"   in item}
+seen_guids  = {item.get("guid") for item in master if isinstance(item, dict) and "guid" in item}
+seen_links  = {item.get("link") for item in master if isinstance(item, dict) and "link" in item}
+seen_raw    = {item             for item in master if not isinstance(item, dict)}
 
 to_add = []
-for item in today_batch:
-    if isinstance(item, dict) and "id" in item:
-        # Dedupe by id
-        if item["id"] not in seen_ids:
+for item in batches:
+    if isinstance(item, dict):
+        if "id" in item and item["id"] not in seen_ids:
+            to_add.append(item); seen_ids.add(item["id"])
+        elif "guid" in item and item["guid"] not in seen_guids:
+            to_add.append(item); seen_guids.add(item["guid"])
+        elif "link" in item and item["link"] not in seen_links:
+            to_add.append(item); seen_links.add(item["link"])
+        elif "id" not in item and "guid" not in item and "link" not in item:
+            # dict but lacks the usual keys—include blindly
             to_add.append(item)
-            seen_ids.add(item["id"])
-
-    elif not isinstance(item, dict):
-        # Only do raw-membership tests on non-dicts
-        if item not in seen_raw:
-            to_add.append(item)
-            seen_raw.add(item)
-
     else:
-        # A dict with no 'id'—just include it (rare)
-        to_add.append(item)
+        # primitive types (str, int, …)
+        if item not in seen_raw:
+            to_add.append(item); seen_raw.add(item)
 
-# Append & write back
+# ---------- write back ----------
 if to_add:
     master.extend(to_add)
     MASTER_FILE.write_text(json.dumps(master, indent=2), encoding="utf-8")
