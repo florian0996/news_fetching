@@ -22,8 +22,9 @@ jobs:
         uses: actions/setup-python@v5
         with: { python-version: '3.11' }
 
-      - name: Install feedparser
-        run: pip install feedparser
+      - name: Install dependencies
+        run: |
+           pip install feedparser langdetect yake
 
       - name: Run grabber
         run: python scripts/fetch_finanzen_net_json.py
