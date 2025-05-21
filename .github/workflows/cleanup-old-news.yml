@@ -26,3 +26,4 @@ jobs:
             git push
           else
             echo "Nothing to clean up."
+          fi
