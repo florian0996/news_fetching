@@ -1,3 +1,28 @@
-   - name: Run cleanup script
-     # no chmod needed—call it with bash
-     run: bash scripts/cleanup_old_news.sh
+name: 🧹 Cleanup old news JSON
+
+on:
+  schedule:
+    - cron:  '5 0 * * *'    # every night at 00:05 UTC
+  workflow_dispatch:       # manual trigger in the Actions UI
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+
+      - name: Run cleanup script
+        run: bash scripts/cleanup_old_news.sh
+
+      - name: Commit & push deletions
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "ci: remove per-day JSON older than 7 days"
+            git push
+          else
+            echo "Nothing to clean up."
