@@ -4,8 +4,8 @@
 # exit on any error
 set -e
 
-# absolute path to your data dir (adjust as needed)
-DATA_DIR="/full/path/to/your/news_fetching/data"
+# run against the checked-out `data/` folder
+DATA_DIR="data"
 
 # (optional) log what we’re about to delete
 echo "Cleaning up JSON files older than 7 days in $DATA_DIR …"
