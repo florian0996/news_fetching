@@ -5,7 +5,8 @@
 set -e
 
 # run against the checked-out `data/` folder
-DATA_DIR="data"
+DATA_DIR = Path.cwd() / "data"
+DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 # (optional) log what we’re about to delete
 echo "Cleaning up JSON files older than 7 days in $DATA_DIR …"
