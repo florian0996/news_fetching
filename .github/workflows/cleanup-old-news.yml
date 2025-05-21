@@ -1,0 +1,3 @@
+   - name: Run cleanup script
+     # no chmod needed—call it with bash
+     run: bash scripts/cleanup_old_news.sh
