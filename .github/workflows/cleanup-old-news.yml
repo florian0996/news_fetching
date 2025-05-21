@@ -1,17 +1,21 @@
 name: 🧹 Cleanup old news JSON
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron:  '5 0 * * *'    # every night at 00:05 UTC
-  workflow_dispatch:       # manual trigger in the Actions UI
+    - cron:  '5 0 * * *'
+  workflow_dispatch:
 
 jobs:
   cleanup:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Run cleanup script
         run: bash scripts/cleanup_old_news.sh
