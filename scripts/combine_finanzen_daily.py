@@ -1,31 +1,44 @@
+#!/usr/bin/env python3
+import json
+from pathlib import Path
+from datetime import date
+
 def main():
+    # ── CONFIG ────────────────────────────────────────────────────────────────
+    data_dir = Path(__file__).resolve().parents[1] / "data"
+    data_dir.mkdir(exist_ok=True)
+    today = date.today().isoformat()  # e.g. "2025-05-27"
+    # ──────────────────────────────────────────────────────────────────────────
+
     seen = set()
     all_items = []
 
-    # load all JSON files
-    for filepath in sorted(data_dir.glob("finanzen_*.json")):
+    # load only the timestamped feeds for today
+    for filepath in sorted(data_dir.glob(f"finanzen_{today}_*.json")):
         with open(filepath, encoding="utf-8") as f:
             try:
-                data = json.load(f)
+                batch = json.load(f)
             except Exception as e:
-                print(f"⚠️ Failed to load {filepath}: {e}")
+                print(f"⚠️  Failed to load {filepath.name}: {e}")
                 continue
 
-            for item in data:
-                # Only handle items using the new schema
-                url = item.get("url")
-                if not url:
-                    continue  # skip old-format entries without 'url'
-                if url in seen:
-                    continue  # skip duplicates
+        for item in batch:
+            url = item.get("url")
+            if not url or url in seen:
+                continue
+            seen.add(url)
+            all_items.append(item)
 
-                seen.add(url)
-                all_items.append(item)
+    if not all_items:
+        print(f"No finanzen files found for {today} – nothing to combine.")
+        return
 
-    # Save merged results
-    today = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
-    outfile = data_dir / f"finanzen_combined_{today}.json"
-    with outfile.open("w", encoding="utf-8") as f:
+    # write out the daily-aggregated file
+    outfile = data_dir / f"finanzen_{today}.json"
+    with open(outfile, "w", encoding="utf-8") as f:
         json.dump(all_items, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ Saved {len(all_items)} unique entries to {outfile}")
+    print(f"✅ Saved {len(all_items)} unique entries to {outfile.name}")
+
+if __name__ == "__main__":
+    main()
