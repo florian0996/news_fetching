@@ -41,7 +41,7 @@ jobs:
       - name: Run fetch_news notebook
         run: |
           papermill \
-            scripts/fetch_news.ipynb \
+            scripts/fetch_news.py \
             data/fetch_news_$(date +'%Y-%m-%d').ipynb \
             --kernel python3
 
