@@ -13,6 +13,7 @@ Dedup priority:
 import json, re
 from datetime import date
 from pathlib import Path
+from collections import defaultdict
 
 # ── CONFIG ─────────────────────────────────────────────────────────────────────
 DATA_DIR = Path.cwd() / "data"
@@ -72,3 +73,20 @@ if to_add:
     print(f"Appended {len(to_add)} new items to all_news.json")
 else:
     print("No new items to append.")
+
+
+# 1) bucket by quarter
+by_q = defaultdict(list)
+for item in all_items:
+    dt_obj = dt.datetime.fromisoformat(item["published_at"])
+    q = (dt_obj.month - 1) // 3 + 1
+    y = dt_obj.year
+    by_q[(y, q)].append(item)
+
+# 2) write each quarter’s file
+data_dir = Path(__file__).resolve().parents[1] / "data"
+for (year, quarter), items in by_q.items():
+    quarter_path = data_dir / f"news_{year}_Q{quarter}.json"
+    with open(quarter_path, "w", encoding="utf-8") as f:
+        json.dump(items, f, ensure_ascii=False, indent=2)
+    print(f"Wrote {len(items)} items to {quarter_path.name}")
