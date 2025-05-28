@@ -1,17 +1,11 @@
 #!/usr/bin/env python3
 """
 Merge today's portal JSON files (news_YYYY-MM-DD.json, finanzen_YYYY-MM-DD.json)
-into all_news.json while avoiding duplicates.
-
-Dedup priority:
-  1. 'id'   (if present)
-  2. 'guid' (Finanzen items)
-  3. 'link' (fallback for other feeds)
-  4. raw equality for non-dict items
+into all_news.json while avoiding duplicates, then snapshot per quarter.
 """
 
 import json, re
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 from collections import defaultdict
 
@@ -28,7 +22,7 @@ DAILY_PATTERNS = [
 MASTER_FILE = DATA_DIR / "all_news.json"
 # ────────────────────────────────────────────────────────────────────────────────
 
-# ---------- load master ----------
+# ---------- load existing all_news.json (or start fresh) ----------
 if MASTER_FILE.exists():
     master = json.loads(MASTER_FILE.read_text(encoding="utf-8"))
 else:
@@ -43,7 +37,7 @@ for fp in DATA_DIR.iterdir():
 if not batches:
     raise FileNotFoundError("No daily batch JSON found for today.")
 
-# ---------- dedupe ----------
+# ---------- dedupe based on id, guid, link, raw equality ----------
 seen_ids    = {item.get("id")   for item in master if isinstance(item, dict) and "id"   in item}
 seen_guids  = {item.get("guid") for item in master if isinstance(item, dict) and "guid" in item}
 seen_links  = {item.get("link") for item in master if isinstance(item, dict) and "link" in item}
@@ -58,15 +52,15 @@ for item in batches:
             to_add.append(item); seen_guids.add(item["guid"])
         elif "link" in item and item["link"] not in seen_links:
             to_add.append(item); seen_links.add(item["link"])
-        elif "id" not in item and "guid" not in item and "link" not in item:
-            # dict but lacks the usual keys—include blindly
+        elif all(k not in item for k in ("id","guid","link")):
+            # dict without those keys: include it
             to_add.append(item)
     else:
-        # primitive types (str, int, …)
+        # primitive (str, int, etc.)
         if item not in seen_raw:
             to_add.append(item); seen_raw.add(item)
 
-# ---------- write back ----------
+# ---------- write back merged master feed ----------
 if to_add:
     master.extend(to_add)
     MASTER_FILE.write_text(json.dumps(master, indent=2), encoding="utf-8")
@@ -74,19 +68,18 @@ if to_add:
 else:
     print("No new items to append.")
 
-
-# 1) bucket by quarter
+# ---------- bucket into quarterly files ----------
 by_q = defaultdict(list)
-for item in all_items:
-    dt_obj = dt.datetime.fromisoformat(item["published_at"])
+for item in master:
+    # ensure item has a published_at field
+    dt_str = item.get("published_at")
+    try:
+        dt_obj = datetime.fromisoformat(dt_str)
+    except Exception:
+        continue
     q = (dt_obj.month - 1) // 3 + 1
     y = dt_obj.year
     by_q[(y, q)].append(item)
 
-# 2) write each quarter’s file
-data_dir = Path(__file__).resolve().parents[1] / "data"
 for (year, quarter), items in by_q.items():
-    quarter_path = data_dir / f"news_{year}_Q{quarter}.json"
-    with open(quarter_path, "w", encoding="utf-8") as f:
-        json.dump(items, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {len(items)} items to {quarter_path.name}")
+    quarter_path_
