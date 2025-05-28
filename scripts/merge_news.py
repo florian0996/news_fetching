@@ -82,4 +82,7 @@ for item in master:
     by_q[(y, q)].append(item)
 
 for (year, quarter), items in by_q.items():
-    quarter_path_
+    quarter_path = DATA_DIR / f"news_{year}_Q{quarter}.json"
+    with open(quarter_path, "w", encoding="utf-8") as f:
+        json.dump(items, f, ensure_ascii=False, indent=2)
+    print(f"Wrote {len(items)} items to {quarter_path.name}")
