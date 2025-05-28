@@ -6,7 +6,7 @@ permissions:
 
 on:
   schedule:
-    # Runs at 07 :00 UTC → 09 :00 CEST
+    # Runs at 07:00 UTC → 09:00 CEST
     - cron: '0 7 * * *'
   workflow_dispatch:
 
@@ -15,41 +15,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout
+      # 1) Checkout
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: true      # use the GITHUB_TOKEN later
 
-      # combine the hourly Finanzen shards into one daily file
+      # 2) Combine the hourly Finanzen shards into one daily file
       - name: Combine hourly Finanzen files
         run: python scripts/combine_finanzen_daily.py
       #    └── writes data/finanzen_YYYY-MM-DD.json and deletes the hourly files
 
-      # Python env (unchanged)
+      # 3) Python env
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install dependencies & register kernel
-        run: |
-          pip install papermill ipykernel feedparser requests
-          python -m ipykernel install --user --name python3 --display-name python3
+      - name: Install dependencies
+        run: pip install feedparser requests langdetect yake
 
-      # Run your existing notebook that creates news_YYYY-MM-DD.json
-      - name: Run fetch_news notebook
-        run: |
-          papermill \
-            scripts/fetch_news.py \
-            data/fetch_news_$(date +'%Y-%m-%d').ipynb \
-            --kernel python3
+      # 4) Run your scraper script to produce data/news_YYYY-MM-DD.json
+      - name: Run fetch_news script
+        run: python3 scripts/fetch_news.py
 
-      # Merge today’s portal files + Finanzen into all_news.json
+      # 5) Merge today’s portal files + Finanzen into all_news.json
       - name: Merge into all_news.json
         run: python scripts/merge_news.py
 
-      # Commit *all* changes, including deletions of the hourly shards
+      # 6) Commit *all* changes, including deletions of the hourly shards
       - name: Commit data updates
         run: |
           git config user.name  "github-actions[bot]"
@@ -60,7 +54,7 @@ jobs:
           git add -u data/
           git commit -m "Daily news update $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
 
-      # Push
+      # 7) Push
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
