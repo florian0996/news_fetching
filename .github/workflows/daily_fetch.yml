@@ -32,18 +32,27 @@ jobs:
         with:
           python-version: '3.10'
 
+      # 4) Install dependencies
       - name: Install dependencies
-        run: pip install feedparser requests langdetect yake
+        run: |
+          pip install \
+            feedparser \
+            requests \
+            langdetect \
+            yake \
+            beautifulsoup4 \
+            lxml \
+            python-dateutil
 
-      # 4) Run your scraper script to produce data/news_YYYY-MM-DD.json
+      # 5) Run your scraper script to produce data/news_YYYY-MM-DD.json
       - name: Run fetch_news script
         run: python3 scripts/fetch_news.py
 
-      # 5) Merge today’s portal files + Finanzen into all_news.json
+      # 6) Merge today’s portal files + Finanzen into all_news.json
       - name: Merge into all_news.json
         run: python scripts/merge_news.py
 
-      # 6) Commit *all* changes, including deletions of the hourly shards
+      # 7) Commit *all* changes, including deletions of the hourly shards
       - name: Commit data updates
         run: |
           git config user.name  "github-actions[bot]"
@@ -54,9 +63,7 @@ jobs:
           git add -u data/
           git commit -m "Daily news update $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
 
-      # 7) Push
+      # 8) Push
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
