@@ -1,6 +1,5 @@
 name: Daily News Fetch
 
-# ─── permission so the workflow can push back to the repo ───────────────
 permissions:
   contents: write
 
@@ -19,14 +18,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true      # use the GITHUB_TOKEN later
+          persist-credentials: true
 
-      # 2) Combine the hourly Finanzen shards into one daily file
+      # 2) Combine the hourly Finanzen shards
       - name: Combine hourly Finanzen files
         run: python scripts/combine_finanzen_daily.py
-      #    └── writes data/finanzen_YYYY-MM-DD.json and deletes the hourly files
 
-      # 3) Python env
+      # 3) Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -44,26 +42,26 @@ jobs:
             lxml \
             python-dateutil
 
-      # 5) Run your scraper script to produce data/news_YYYY-MM-DD.json
+      # 5) Fetch news
       - name: Run fetch_news script
         run: python3 scripts/fetch_news.py
 
-      # 6) Merge today’s portal files + Finanzen into all_news.json
+      # 6) Merge into all_news.json
       - name: Merge into all_news.json
         run: python scripts/merge_news.py
 
-      # 7) Commit *all* changes, including deletions of the hourly shards
+      # 7) Commit data updates
       - name: Commit data updates
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # stage new & changed JSONs
           git add data/news_*.json data/finanzen_*.json data/all_news.json
-          # -u also stages deletions (the hourly shards that were removed)
           git add -u data/
           git commit -m "Daily news update $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
 
-      # 8) Push
+      # 8) Push changes
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
