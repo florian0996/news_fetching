@@ -98,4 +98,4 @@ def fetch_newsapi() -> list[dict]:
             "source":            f"{a['source']['name']} [NewsAPI]",
             "url":               a["url"],
             "title":             a["title"],
-        }
+        }]
