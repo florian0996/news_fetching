@@ -2,7 +2,7 @@
 """
 merge_news.py
 
-- Finds today’s “batch” files (data/news_<YYYY-MM-DD>_*.json).
+- Finds today’s “batch” files (data/news_<YYYY-MM-DD>*.json).
 - If none are found: prints a message and exits with status 0.
 - Otherwise, loads (or creates) data/all_news.json, appends every JSON entry
   in the batch files, deduplicates by link/id, and writes back to all_news.json.
@@ -38,7 +38,7 @@ def load_json(path: str):
 
 def save_json(path: str, data):
     """
-    Writes `data` to `path` as pretty‐printed JSON (indent=2, ensure_ascii=False).
+    Writes `data` to `path` as pretty-printed JSON (indent=2, ensure_ascii=False).
     """
     dirname = os.path.dirname(path)
     if dirname and not os.path.exists(dirname):
@@ -51,13 +51,13 @@ def save_json(path: str, data):
 def dedupe_news_items(news_list: list) -> list:
     """
     Deduplicate a list of dicts by 'link', or by 'id', or by the entire object if neither key exists.
-    Returns a new list in which each unique key appears only once, preserving first‐seen order.
+    Returns a new list in which each unique key appears only once, preserving first-seen order.
     """
     seen_keys = set()
     unique_items = []
 
     for item in news_list:
-        # Decide on a “key” for deduplication. Prefer link, then id, otherwise a JSON‐dump fallback.
+        # Decide on a "key" for deduplication. Prefer link, then id, otherwise a JSON-dump fallback.
         if isinstance(item, dict):
             key = item.get("link") or item.get("id") or json.dumps(item, sort_keys=True)
         else:
@@ -75,7 +75,12 @@ def dedupe_news_items(news_list: list) -> list:
 def main():
     # 1) Determine today's date (UTC) → e.g. "2025-05-31"
     today = get_today_utc_date_str()
-    pattern = f"data/news_{today}_*.json"
+
+    # === CHANGE START ===
+    # Match either `news_YYYY-MM-DD.json` OR `news_YYYY-MM-DD_HHMM.json` etc.
+    pattern = f"data/news_{today}*.json"
+    # === CHANGE END ===
+
     batch_files = sorted(glob.glob(pattern))
 
     # 2) If no batch files found, print a message and exit(0) instead of raising an error.
