@@ -1,19 +1,21 @@
 #!/usr/bin/env python3
 import json
 from pathlib import Path
-from datetime import date
+from datetime import date, timedelta
 
 def main():
     # ── CONFIG ────────────────────────────────────────────────────────────────
     data_dir = Path(__file__).resolve().parents[1] / "data"
     data_dir.mkdir(exist_ok=True)
-    today = date.today().isoformat()  # e.g. "2025-05-29"
+    # we want to combine/delete yesterday’s hourly files, not today’s (so that
+    # running this after midnight will catch the previous day’s JSONs).
+    yesterday = (date.today() - timedelta(days=1)).isoformat()  # e.g. "2025-05-30"
     # ──────────────────────────────────────────────────────────────────────────
 
     # 0) grab all the hourly parts up front
-    parts = sorted(data_dir.glob(f"finanzen_{today}_*.json"))
+    parts = sorted(data_dir.glob(f"finanzen_{yesterday}_*.json"))
     if not parts:
-        print(f"No finanzen parts found for {today} – nothing to combine.")
+        print(f"No finanzen parts found for {yesterday} – nothing to combine.")
         return
 
     all_items = []
@@ -34,7 +36,7 @@ def main():
                 all_items.append(item)
 
     # 2) write out the daily aggregate
-    outfile = data_dir / f"finanzen_{today}.json"
+    outfile = data_dir / f"finanzen_{yesterday}.json"
     outfile.write_text(
         json.dumps(all_items, ensure_ascii=False, indent=2),
         encoding="utf-8"
