@@ -1,31 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
-pip install beautifulsoup4 lxml
-
-
-# In[3]:
-
-
-pip install yake
-
-
-# In[4]:
-
-
 import os
 import json
 import requests
 import feedparser
 from datetime import datetime
 from pathlib import Path
-
-
-# In[5]:
-
 
 import yake
 kw_extractor = yake.KeywordExtractor(lan="en", n=1, top=10)
