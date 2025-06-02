@@ -2,24 +2,26 @@
 """
 merge_news.py
 
-- Finds today’s “batch” files (data/news_<YYYY-MM-DD>*.json).
-- If none are found: prints a message and exits with status 0.
-- Otherwise, loads (or creates) data/all_news.json, appends every JSON entry
-  in the batch files, deduplicates by link/id, and writes back to all_news.json.
+- Finds today’s batch files: data/news_<YYYY-MM-DD>*.json
+- If none are found: prints a message and exits(0).
+- Otherwise:
+    • Loads (or creates) data/all_news.json → appends batch items → dedupes → writes it.
+    • Then computes the current quarter (YYYY_Qn), loads that file (or starts empty) → appends the same batch items → dedupes → writes it.
 """
 
 import glob
 import json
 import os
 import sys
-from datetime import datetime
+from datetime import date, datetime
 from dateutil import tz
 
-def get_today_utc_date_str() -> str:
+
+def get_today_local_date_str() -> str:
     """
-    Returns today’s date in UTC as 'YYYY-MM-DD'.
+    Returns today’s date in the local timezone as 'YYYY-MM-DD'.
     """
-    return datetime.utcnow().strftime("%Y-%m-%d")
+    return date.today().strftime("%Y-%m-%d")
 
 
 def load_json(path: str):
@@ -57,7 +59,6 @@ def dedupe_news_items(news_list: list) -> list:
     unique_items = []
 
     for item in news_list:
-        # Decide on a "key" for deduplication. Prefer link, then id, otherwise a JSON-dump fallback.
         if isinstance(item, dict):
             key = item.get("link") or item.get("id") or json.dumps(item, sort_keys=True)
         else:
@@ -72,56 +73,59 @@ def dedupe_news_items(news_list: list) -> list:
     return unique_items
 
 
+def get_quarter_str(dt: datetime) -> str:
+    """
+    Given a datetime (or date) object, return a string like '2025_Q2'.
+    Q1: Jan–Mar, Q2: Apr–Jun, Q3: Jul–Sep, Q4: Oct–Dec.
+    """
+    quarter_num = (dt.month - 1) // 3 + 1
+    return f"{dt.year}_Q{quarter_num}"
+
+
 def main():
-    # 1) Determine today's date (UTC) → e.g. "2025-05-31"
-    today = get_today_utc_date_str()
+    # 1) Determine today's date in local time
+    today_str = get_today_local_date_str()
 
-    # === CHANGE START ===
-    # Match either `news_YYYY-MM-DD.json` OR `news_YYYY-MM-DD_HHMM.json` etc.
-    pattern = f"data/news_{today}*.json"
-    # === CHANGE END ===
-
+    # 2) Find all files matching data/news_<YYYY-MM-DD>*.json
+    pattern = f"data/news_{today_str}*.json"
     batch_files = sorted(glob.glob(pattern))
 
-    # 2) If no batch files found, print a message and exit(0) instead of raising an error.
+    # 3) If no daily file is found, skip (exit 0)
     if not batch_files:
-        print(f"No daily batch JSON found for {today} → skipping merge.")
+        print(f"No daily batch JSON found for {today_str} → skipping merge.")
         sys.exit(0)
 
-    # 3) Load existing all_news.json if present, else start with empty list
+    # 4) Load existing data/all_news.json (or start with an empty list)
     all_news_path = "data/all_news.json"
-    existing = load_json(all_news_path)
-    if existing is None:
+    existing_all = load_json(all_news_path)
+    if existing_all is None:
         all_news = []
-    elif isinstance(existing, list):
-        all_news = existing
+    elif isinstance(existing_all, list):
+        all_news = existing_all
     else:
         print(f"Warning: '{all_news_path}' is not a list; overwriting it.", file=sys.stderr)
         all_news = []
 
-    # 4) For each batch file, load its contents (expecting a JSON list) and extend all_news
+    # 5) Load each batch file, extend all_news, and also collect “today’s batch items”
     total_loaded = 0
+    today_batch_items = []
     for batch_file in batch_files:
         data = load_json(batch_file)
-        if data is None:
-            print(f"Warning: skipping '{batch_file}' (could not load or decode).", file=sys.stderr)
-            continue
-
-        if not isinstance(data, list):
-            print(f"Warning: '{batch_file}' does not contain a JSON list; skipping.", file=sys.stderr)
+        if data is None or not isinstance(data, list):
+            print(f"Warning: skipping '{batch_file}' (could not load or not a list)", file=sys.stderr)
             continue
 
         all_news.extend(data)
         total_loaded += len(data)
+        today_batch_items.extend(data)
         print(f"Loaded {len(data)} items from '{batch_file}'.")
 
-    # 5) Deduplicate all_news by link/id
-    before_dedupe = len(all_news)
+    # 6) Deduplicate the combined all_news list
+    before_dedupe_all = len(all_news)
     all_news = dedupe_news_items(all_news)
-    after_dedupe = len(all_news)
+    after_dedupe_all = len(all_news)
 
-    # 6) (Optional) Sort by published date, if each item has a 'published' or 'published_parsed' field.
-    #    If you want to keep them in insertion order, you can comment this block out.
+    # 7) (Optional) Sort all_news by published date if that field exists
     def _get_timestamp(item):
         if not isinstance(item, dict):
             return 0
@@ -142,17 +146,53 @@ def main():
     try:
         all_news.sort(key=_get_timestamp, reverse=True)
     except Exception:
-        # If sorting fails for any reason, just leave the order as is.
         pass
 
-    # 7) Write back to data/all_news.json
+    # 8) Write back to data/all_news.json
     save_json(all_news_path, all_news)
 
-    # 8) Print a summary
+    # 9) Print a summary of all_news merge
     print(
-        f"Merged {len(batch_files)} batch file(s) (≈{total_loaded} total items), "
-        f"deduped from {before_dedupe} → {after_dedupe} items. "
+        f"Merged {len(batch_files)} batch file(s) (≈{total_loaded} items), "
+        f"deduped from {before_dedupe_all} → {after_dedupe_all} items. "
         f"Wrote to '{all_news_path}'."
+    )
+
+    # === NEW: QUARTERLY FILE MERGE ===
+
+    # 10) Compute which quarter this date belongs to, e.g. "2025_Q2"
+    today_dt = datetime.fromisoformat(today_str)
+    quarter_filename = f"data/news_{get_quarter_str(today_dt)}.json"
+
+    # 11) Load the existing quarter file, or start with an empty list
+    existing_quarter = load_json(quarter_filename)
+    if existing_quarter is None:
+        quarter_list = []
+    elif isinstance(existing_quarter, list):
+        quarter_list = existing_quarter
+    else:
+        print(f"Warning: '{quarter_filename}' is not a list; overwriting it.", file=sys.stderr)
+        quarter_list = []
+
+    # 12) Append today’s batch items, then dedupe
+    before_dedupe_q = len(quarter_list)
+    quarter_list.extend(today_batch_items)
+    quarter_list = dedupe_news_items(quarter_list)
+    after_dedupe_q = len(quarter_list)
+
+    # 13) (Optional) Sort the quarter list by published date (same logic)
+    try:
+        quarter_list.sort(key=_get_timestamp, reverse=True)
+    except Exception:
+        pass
+
+    # 14) Write back to data/news_<YYYY>_Qn.json
+    save_json(quarter_filename, quarter_list)
+
+    # 15) Print a summary of the quarterly merge
+    print(
+        f"Quarter file '{quarter_filename}': "
+        f"added {len(today_batch_items)} new → deduped from {before_dedupe_q} → {after_dedupe_q} items."
     )
 
 
