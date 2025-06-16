@@ -6,7 +6,7 @@ found inside the repo’s data/ folder.
 Folder layout
 .
 ├─ data/
-│  ├─ Master_Entities_Table___Originator_Platforms__Funds_and_Competitors.csv
+│  ├─ Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv
 │  ├─ news_2025-06-15.json
 │  ├─ news_2025-06-16.json
 │  └─ … (your rolling 6-7 daily files)
@@ -28,7 +28,7 @@ import sys
 REPO_ROOT  = Path(__file__).resolve().parent.parent      # “…/repo/”
 DATA_DIR   = REPO_ROOT / "data"
 
-MASTER_CSV = DATA_DIR / "Master_Entities_Table___Originator_Platforms__Funds_and_Competitors.csv"
+MASTER_CSV = DATA_DIR / "Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv"
 NEWS_GLOB  = DATA_DIR.glob("news_*.json")
 
 # ──────────────────────────────────────────────────────────────────────────────
