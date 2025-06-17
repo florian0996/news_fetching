@@ -3,56 +3,69 @@
 build_daily_company_digest.py
 Create data/news_filtered_for_companies_of_interest.json
 
-For every news_*.json file (already tagged by tag_platforms.py) we emit
-either
-  {"status": "no company in the news"}
-or
-  {"articles": [ {title, url?, platforms_mentioned}, ... ]}
+For each day represented by at least one news_*.json file we output either
 
-The top-level keys are calendar dates (YYYY-MM-DD).
+  {
+    "status": "no company in the news"
+  }
+
+or
+
+  {
+    "articles": [
+       { "title": "...", "url": "...", "platforms_mentioned": [...] },
+       …
+    ]
+  }
 """
 
 from pathlib import Path
 import json, re
 from collections import defaultdict
 
+# ───────────────────────── paths ─────────────────────────
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR  = REPO_ROOT / "data"
 NEWS_GLOB = DATA_DIR.glob("news_*.json")
 
-DIGEST = DATA_DIR / "news_filtered_for_companies_of_interest.json"
+OUTFILE   = DATA_DIR / "news_filtered_for_companies_of_interest.json"
 
-date_re = re.compile(r"(\d{4}-\d{2}-\d{2})")      # pull date from filename
+date_rx   = re.compile(r"\d{4}-\d{2}-\d{2}")      # YYYY-MM-DD
 
-daily: dict[str, list] = defaultdict(list)
+# ───────────────────────── pass 1: gather dates & matches ────────────────────
+all_days: set[str]          = set()
+hits:     dict[str, list]   = defaultdict(list)   # day → list[article]
 
-for news_file in NEWS_GLOB:
-    m = date_re.search(news_file.stem)
+for jf in NEWS_GLOB:
+    # Extract the date from filename.
+    m = date_rx.search(jf.stem)
     if not m:
         continue
-    day = m.group(1)
+    day = m.group(0)
+    all_days.add(day)
 
-    with news_file.open(encoding="utf-8") as f:
+    with jf.open(encoding="utf-8") as f:
         articles = json.load(f)
 
     for art in articles:
-        platforms = art.get("platforms_mentioned", [])
-        if platforms:                                # keep only relevant pieces
-            daily[day].append({
+        plats = art.get("platforms_mentioned", [])
+        if plats:                                   # keep only relevant stories
+            hits[day].append({
                 "title": art.get("title", "").strip(),
-                "url":   art.get("url"),             # may be None / absent
-                "platforms_mentioned": platforms
+                "url":   art.get("url"),             # may be None / missing
+                "platforms_mentioned": plats
             })
 
-# ------------------------------------------------------ build final object
+# ───────────────────────── build digest object ───────────────────────────────
 digest: dict[str, dict] = {}
-for day in sorted(daily):
-    if daily[day]:
-        digest[day] = {"articles": daily[day]}
+for day in sorted(all_days):
+    if hits.get(day):
+        digest[day] = {"articles": hits[day]}
     else:
         digest[day] = {"status": "no company in the news"}
 
-with DIGEST.open("w", encoding="utf-8") as f:
+# ───────────────────────── write file ────────────────────────────────────────
+with OUTFILE.open("w", encoding="utf-8") as f:
     json.dump(digest, f, ensure_ascii=False, indent=2)
 
-print(f"✅  Wrote digest for {len(digest)} day(s) → {DIGEST.relative_to(REPO_ROOT)}")
+print(f"✅ Digest created with {len(digest)} day(s) → {OUTFILE.relative_to(REPO_ROOT)}")
