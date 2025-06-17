@@ -7,7 +7,7 @@ DATA_DIR="${GITHUB_WORKSPACE}/data"
 cd "$DATA_DIR"
 
 # how many days to keep
-RETENTION_DAYS=7
+RETENTION_DAYS=5
 # cutoff in seconds since epoch
 CUTOFF=$(( $(date +%s) - RETENTION_DAYS * 86400 ))
 
