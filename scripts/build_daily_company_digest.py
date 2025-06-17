@@ -1,46 +1,32 @@
 #!/usr/bin/env python3
 """
-build_daily_company_digest.py – Create data/company_digest.json
+build_daily_company_digest.py
+Create data/news_filtered_for_companies_of_interest.json
 
- Assumes tag_platforms.py has already populated `platforms_mentioned`
- in every news_*.json file.
+For every news_*.json file (already tagged by tag_platforms.py) we emit
+either
+  {"status": "no company in the news"}
+or
+  {"articles": [ {title, url?, platforms_mentioned}, ... ]}
 
-Output structure
-================
-{
-  "2025-06-15": {
-    "status": "no company in the news"
-  },
-  "2025-06-16": {
-    "articles": [
-      {
-        "title": "Funding round for X-Platform …",
-        "url":   "https://example.com/article123",   # optional if present
-        "platforms_mentioned": ["X-Platform"]
-      },
-      …
-    ]
-  },
-  …
-}
+The top-level keys are calendar dates (YYYY-MM-DD).
 """
 
 from pathlib import Path
-import json
-import re
+import json, re
 from collections import defaultdict
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR  = REPO_ROOT / "data"
 NEWS_GLOB = DATA_DIR.glob("news_*.json")
-DIGEST    = DATA_DIR / "company_digest.json"
 
-date_re = re.compile(r"(\d{4}-\d{2}-\d{2})")          # extract YYYY-MM-DD
+DIGEST = DATA_DIR / "news_filtered_for_companies_of_interest.json"
 
-daily = defaultdict(list)     # date → [article dicts]
+date_re = re.compile(r"(\d{4}-\d{2}-\d{2})")      # pull date from filename
+
+daily: dict[str, list] = defaultdict(list)
 
 for news_file in NEWS_GLOB:
-    # infer date from filename, e.g. news_2025-06-16.json  →  2025-06-16
     m = date_re.search(news_file.stem)
     if not m:
         continue
@@ -51,23 +37,22 @@ for news_file in NEWS_GLOB:
 
     for art in articles:
         platforms = art.get("platforms_mentioned", [])
-        if platforms:                        # keep only interesting articles
+        if platforms:                                # keep only relevant pieces
             daily[day].append({
                 "title": art.get("title", "").strip(),
-                "url":   art.get("url"),     # may be None / absent
+                "url":   art.get("url"),             # may be None / absent
                 "platforms_mentioned": platforms
             })
 
-# build the digest object
-digest = {}
+# ------------------------------------------------------ build final object
+digest: dict[str, dict] = {}
 for day in sorted(daily):
-    if not daily[day]:
-        digest[day] = {"status": "no company in the news"}
-    else:
+    if daily[day]:
         digest[day] = {"articles": daily[day]}
+    else:
+        digest[day] = {"status": "no company in the news"}
 
-# write
 with DIGEST.open("w", encoding="utf-8") as f:
     json.dump(digest, f, ensure_ascii=False, indent=2)
 
-print(f"✅  Wrote digest for {len(digest)} day(s) → {DIGEST}")
+print(f"✅  Wrote digest for {len(digest)} day(s) → {DIGEST.relative_to(REPO_ROOT)}")
