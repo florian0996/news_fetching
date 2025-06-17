@@ -1,5 +1,8 @@
 name: Populate platforms_mentioned
 
+permissions:
+  contents: write        # allow git push
+
 on:
   schedule:
     - cron: "15 3 * * *"      # daily at 03:15 UTC
