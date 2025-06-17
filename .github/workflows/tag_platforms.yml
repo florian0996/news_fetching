@@ -50,12 +50,12 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stage modified artefacts
-          git add data/news_*.json data/company_digest.json
+          # ▼ stage the new digest file in addition to the daily news files
+          git add data/news_*.json data/news_filtered_for_companies_of_interest.json
 
-          # Commit only when there are staged changes
+          # commit only if there are staged changes
           if ! git diff --cached --quiet; then
-            git commit -m "ci: auto-tag platforms"
+            git commit -m "ci: auto-tag platforms & refresh company digest"
             git push
           else
             echo "No changes to commit"
