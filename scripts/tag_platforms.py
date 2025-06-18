@@ -11,7 +11,7 @@ Folder layout
 │  ├─ news_2025-06-16.json
 │  └─ … (rolling daily files)
 └─ scripts/
-   └─ tag_platforms.py   ← this file
+   └─ tag_platforms.py
 
 Run from anywhere; paths are derived from this file’s location.
 Requires: pandas ≥1.0
@@ -48,7 +48,7 @@ alias_to_name = {
 }
 
 alias_regex = {
-    alias: re.compile(rf"\b{re.escape(alias)}\b", re.I)  # whole-word, case-insensitive
+    alias: re.compile(rf"\b{re.escape(alias)}\b", re.I)   # whole-word, case-insensitive
     for alias in alias_to_name
 }
 
@@ -57,19 +57,28 @@ alias_regex = {
 # ────────────────────────────────────────────────────────────────
 def ensure_article_dict(item, file_name: str, idx: int) -> dict:
     """
-    Guarantee a dict with non-empty 'title' and 'content'.
-    Raises ValueError if the requirement isn't met.
+    Guarantee a dict with at least ONE non-empty field (title or content).
+    • If title missing but content present → derive a surrogate title (first 120 chars).
+    • If content missing but title present → keep content as empty string.
+    Raises ValueError when both fields are empty / missing or type isn't dict.
     """
-    if isinstance(item, dict):
-        title   = item.get("title")   or item.get("headline")
-        content = item.get("content") or item.get("text")
-        if title and content:
-            item["title"], item["content"] = title, content
-            return item
-        raise ValueError(f"{file_name}[{idx}] missing title/content")
+    if not isinstance(item, dict):
+        raise ValueError(f"{file_name}[{idx}] expected object, got {type(item).__name__}")
 
-    # Some crawlers have produced plain strings; treat them as invalid here
-    raise ValueError(f"{file_name}[{idx}] expected object, got {type(item).__name__}")
+    title   = (item.get("title")    or item.get("headline") or "").strip()
+    content = (item.get("content")  or item.get("text")     or "").strip()
+
+    if not title and not content:                         # truly empty
+        raise ValueError(f"{file_name}[{idx}] missing both title AND content")
+
+    # normalise so both keys exist
+    if not title:
+        title = (content[:120] + "…") if len(content) > 120 else content
+    if not content:
+        content = ""
+
+    item["title"], item["content"] = title, content
+    return item
 
 # ────────────────────────────────────────────────────────────────
 # 3. Tag every news_*.json file (in-place, no backups)
@@ -84,7 +93,7 @@ try:
 
         articles = []
         for idx, raw in enumerate(raw_items):
-            art = ensure_article_dict(raw, news_file.name, idx)   # ← strict check
+            art = ensure_article_dict(raw, news_file.name, idx)
 
             haystack = f"{art['title']} {art['content']}".lower()
             matches  = {
