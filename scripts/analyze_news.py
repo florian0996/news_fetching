@@ -124,7 +124,7 @@ for article in news_data:
     })
 
 # Save enriched JSON
-with open('enriched_news.json', 'w', encoding='utf-8') as f:
+with open('data/enriched_news.json', 'w', encoding='utf-8') as f:
     json.dump(enriched_data, f, indent=2, ensure_ascii=False)
 
 # Optionally save to CSV (flattening lists as comma-separated strings)
@@ -134,7 +134,7 @@ csv_columns = [
     "keywords", "insolvency_risk"
 ]
 
-with open('enriched_news.csv', 'w', newline='', encoding='utf-8') as f:
+with open('data/enriched_news.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=csv_columns)
     writer.writeheader()
     for row in enriched_data:
