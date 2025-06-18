@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-tag_platforms.py – Populate `platforms_mentioned` in every news_*.json
-stored in the repo’s data/ folder.
+tag_platforms.py – Populate `platforms_mentioned` in every raw news_*.json
+stored in data/, ignoring the summary file
+news_filtered_for_companies_of_interest.json.
 
 Folder layout
 .
@@ -9,18 +10,14 @@ Folder layout
 │  ├─ Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv
 │  ├─ news_2025-06-15.json
 │  ├─ news_2025-06-16.json
-│  └─ … (rolling daily files)
+│  ├─ news_filtered_for_companies_of_interest.json  ← skipped
+│  └─ …
 └─ scripts/
    └─ tag_platforms.py
-
-Run from anywhere; paths are derived from this file’s location.
-Requires: pandas ≥1.0
 """
 
 from pathlib import Path
-import json
-import re
-import sys
+import json, re, sys
 import pandas as pd
 
 # ────────────────────────────────────────────────────────────────
@@ -30,10 +27,15 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR  = REPO_ROOT / "data"
 
 MASTER_CSV = DATA_DIR / "Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv"
-NEWS_GLOB  = DATA_DIR.glob("news_*.json")
+
+# collect only genuine daily news files
+NEWS_GLOB = [
+    p for p in DATA_DIR.glob("news_*.json")
+    if "filtered_for_companies_of_interest" not in p.name        # ▼ skip digest
+]
 
 # ────────────────────────────────────────────────────────────────
-# 1. Build  alias → canonical-name  map
+# 1. Build alias → canonical-name map
 # ────────────────────────────────────────────────────────────────
 df = pd.read_csv(MASTER_CSV)
 
@@ -48,30 +50,24 @@ alias_to_name = {
 }
 
 alias_regex = {
-    alias: re.compile(rf"\b{re.escape(alias)}\b", re.I)   # whole-word, case-insensitive
-    for alias in alias_to_name
+    a: re.compile(rf"\b{re.escape(a)}\b", re.I)      # whole-word, case-insensitive
+    for a in alias_to_name
 }
 
 # ────────────────────────────────────────────────────────────────
 # 2. Helper – validate / normalise one raw item
 # ────────────────────────────────────────────────────────────────
 def ensure_article_dict(item, file_name: str, idx: int) -> dict:
-    """
-    Guarantee a dict with at least ONE non-empty field (title or content).
-    • If title missing but content present → derive a surrogate title (first 120 chars).
-    • If content missing but title present → keep content as empty string.
-    Raises ValueError when both fields are empty / missing or type isn't dict.
-    """
+    """Return a dict with at least one non-empty field (title or content)."""
     if not isinstance(item, dict):
         raise ValueError(f"{file_name}[{idx}] expected object, got {type(item).__name__}")
 
-    title   = (item.get("title")    or item.get("headline") or "").strip()
-    content = (item.get("content")  or item.get("text")     or "").strip()
+    title   = (item.get("title")   or item.get("headline") or "").strip()
+    content = (item.get("content") or item.get("text")     or "").strip()
 
-    if not title and not content:                         # truly empty
+    if not title and not content:
         raise ValueError(f"{file_name}[{idx}] missing both title AND content")
 
-    # normalise so both keys exist
     if not title:
         title = (content[:120] + "…") if len(content) > 120 else content
     if not content:
@@ -81,7 +77,7 @@ def ensure_article_dict(item, file_name: str, idx: int) -> dict:
     return item
 
 # ────────────────────────────────────────────────────────────────
-# 3. Tag every news_*.json file (in-place, no backups)
+# 3. Tag every raw news file
 # ────────────────────────────────────────────────────────────────
 files_processed = 0
 articles_tagged = 0
@@ -104,7 +100,6 @@ try:
             art["platforms_mentioned"] = sorted(matches)
             articles.append(art)
 
-        # overwrite file with validated & tagged content
         with news_file.open("w", encoding="utf-8") as f:
             json.dump(articles, f, ensure_ascii=False, indent=2)
 
@@ -113,10 +108,9 @@ try:
         print(f"✅  {news_file.name}: {len(articles)} articles tagged")
 
 except ValueError as err:
-    # Abort the run with a clear error for GitHub Actions
     sys.exit(f"✋  Data validation failed – {err}")
 
 if not files_processed:
-    print("⚠️  No news_*.json files found in data/. Nothing to do.", file=sys.stderr)
+    print("⚠️  No raw news_*.json files found in data/.", file=sys.stderr)
 else:
     print(f"\n✔️  Completed: {files_processed} file(s), {articles_tagged} articles total.")
