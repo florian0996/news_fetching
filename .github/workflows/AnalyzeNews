@@ -1,0 +1,48 @@
+name: Analyze News & Export CSV
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '30 7 * * *'  # runs 30 minutes after the fetch job
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2) Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # 3) Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install nbconvert nbformat pandas
+
+      # 4) Run the notebook
+      - name: Execute Jupyter notebook
+        run: |
+          jupyter nbconvert --to notebook --execute JUNE14exporttocsv.ipynb --output executed_JUNE14exporttocsv.ipynb
+
+      # 5) Commit the output CSV
+      - name: Commit CSV export
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add *.csv
+          git commit -m "Updated CSV from news analysis on $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+
+      # 6) Push changes
+      - name: Push to repo
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
