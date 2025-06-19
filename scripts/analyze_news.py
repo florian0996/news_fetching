@@ -88,7 +88,7 @@ def extract_keywords(text):
     return list(set(raw_keywords))
 
 # Load scraped news
-with open('data/news_2025-06-14.json', 'r', encoding='utf-8') as f:
+with open('data/all_news.json', 'r', encoding='utf-8') as f:
     news_data = json.load(f)
 
 enriched_data = []
