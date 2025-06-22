@@ -1,8 +1,8 @@
 import pandas as pd
 from pathlib import Path
 
-MASTER = Path("Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv")
-OUT    = Path("Entity_GNews_Queries.csv")
+MASTER = Path("data/Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv")
+OUT    = Path("data/Entity_GNews_Queries.csv")
 
 # ------------ helper ------------
 def build_query_short(aliases: str, max_chars: int = 480) -> str:
