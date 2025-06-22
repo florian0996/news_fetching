@@ -212,7 +212,37 @@ def fetch_gnews(query_str):
             "platforms_mentioned": [],
         })
 
-    return apply_query_filter(articles)
+    return apply_query_filter(articles
+
+def run_gnews_for_all_entities():
+    """
+    Read Entity_GNews_Queries.csv and pull GNews for each entity.
+    Returns a flat list of article-dicts (so you can concat it with the other
+    sources further below).
+    """
+    QUERIES_CSV = Path("Entity_GNews_Queries.csv")
+    if not QUERIES_CSV.exists():
+        raise FileNotFoundError(
+            f"{QUERIES_CSV} not found.  Generate it first with "
+            "generate_entity_queries.py."
+        )
+
+    gnews_articles = []
+    qdf = pd.read_csv(QUERIES_CSV, dtype=str).fillna("")
+
+    print(f"▶ GNews: fetching {len(qdf)} entities …")
+    for _, row in qdf.iterrows():
+        entity = row["entity_name"]
+        query  = row["QUERY_short"]
+
+        arts = fetch_gnews(query_str=query)      # reuse your new signature
+        for art in arts:
+            art["entity"] = entity               # tag the article
+        gnews_articles.extend(arts)
+
+    print(f"→ GNews total: {len(gnews_articles)} articles across "
+          f"{len(qdf)} entities.")
+    return gnews_articles
 
 
 # In[12]:
