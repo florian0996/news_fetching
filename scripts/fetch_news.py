@@ -5,6 +5,7 @@ import os
 import json
 import requests
 import feedparser
+import pandas as pd
 from datetime import datetime
 from pathlib import Path
 
@@ -37,10 +38,6 @@ QUERY = (
     "credit OR loan OR Exaloan OR lending OR fintech startup OR digital lending OR credit platform OR loan service"
     "OR peer-to-peer lending OR online loan platform OR investment platform"
     "OR digital wealth management OR fractional investing OR seed funding OR fintech VC OR risk assessment"
-)
-
-QUERY_short = (
-    "credit OR loan OR Exaloan OR lending"
 )
 
 LANGUAGE = "en"
@@ -175,14 +172,14 @@ def fetch_sec_press_releases():
 
 
 # ========== GNEWS FETCH ==========
-def fetch_gnews_financial_times():
+def fetch_gnews(query_str):
     # show the actual short query you’re using
-    print(f"Fetching from GNews (query: '{QUERY_short}')…")
+    print(f"Fetching from GNews (query: '{query_str}')…")
     
     api_key = "c4f8fe7bbdaea71cd2ec22279906c40f"
     url     = "https://gnews.io/api/v4/search"
     params  = {
-        "q":       QUERY_short,
+        "q":       query_str,
         "in":      "title,description",
         "lang":    LANGUAGE,
         "country": "us",
@@ -190,27 +187,32 @@ def fetch_gnews_financial_times():
         "token":   api_key,
     }
 
-    response = requests.get(url, params=params)
+  try:
+        response = requests.get(url, params=params, timeout=10)
+    except Exception as exc:
+        print(f"GNews request error: {exc}")
+        return []
+
     if response.status_code != 200:
-        print(f"GNews error: {response.status_code} – {response.text}")
+        print(f"GNews error {response.status_code}: {response.text[:200]} …")
         return []
 
     raw = response.json().get("articles", [])
-    print(f"→ GNews: {len(raw)} articles fetched'.")
+    print(f"→ GNews: {len(raw)} articles fetched.")
 
-    all_articles = []
+    articles = []
     for a in raw:
-        source_name = a.get("source", {}).get("name", "N/A")
-        all_articles.append({
-            "source":            f"{source_name} [GNews]",
-            "url":               a.get("url", ""),
-            "title":             a.get("title", ""),
-            "published_at":      a.get("publishedAt", ""),
-            "content":           a.get("description", ""),
+        src_name = a.get("source", {}).get("name", "Unknown")
+        articles.append({
+            "source":             f"{src_name} [GNews]",
+            "url":                a.get("url", ""),
+            "title":              a.get("title", ""),
+            "published_at":       a.get("publishedAt", ""),
+            "content":            a.get("description", "") or a.get("content", ""),
             "platforms_mentioned": [],
         })
 
-    return apply_query_filter(all_articles)
+    return apply_query_filter(articles)
 
 
 # In[12]:
@@ -491,7 +493,7 @@ def save_articles(articles):
 # ========== RUN ==========
 newsapi_articles     = fetch_newsapi()
 rss_articles         = fetch_bloomberg_rss()
-gnews_articles       = fetch_gnews_financial_times()
+gnews_articles       = run_gnews_for_all_entities()
 investing_articles   = fetch_investing_rss()
 sec_articles         = fetch_sec_press_releases()
 crunchbase_articles  = fetch_crunchbase_sections()
