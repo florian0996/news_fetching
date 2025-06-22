@@ -47,8 +47,8 @@ jobs:
 
       # 5) Fetch news
       - name: Run fetch_news script
-        run: python3 scripts/fetch_news.py
-
+        run: python3 scripts/fetch_news.py --entity-queries data/Entity_GNews_Queries.csv
+  
       # 6) Merge into all_news.json
       - name: Merge into all_news.json
         run: python scripts/merge_news.py
