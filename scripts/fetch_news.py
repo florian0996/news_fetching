@@ -233,7 +233,7 @@ def run_gnews_for_all_entities():
     Returns a flat list of article-dicts (so you can concat it with the other
     sources further below).
     """
-    QUERIES_CSV = Path("Entity_GNews_Queries.csv")
+    QUERIES_CSV = Path("data/Entity_GNews_Queries.csv")
     if not QUERIES_CSV.exists():
         raise FileNotFoundError(
             f"{QUERIES_CSV} not found.  Generate it first with "
