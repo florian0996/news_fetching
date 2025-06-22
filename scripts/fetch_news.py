@@ -170,24 +170,33 @@ def fetch_sec_press_releases():
 
 # In[50]:
 
-
 # ========== GNEWS FETCH ==========
-def fetch_gnews(query_str):
-    # show the actual short query you’re using
+#  GNews configuration
+# ---------------------------------------------------------------------------
+GNEWS_API_KEY = os.getenv(
+    "GNEWS_API_KEY",
+    "c4f8fe7bbdaea71cd2ec22279906c40f"   # fallback if the env-var isn't set
+)
+
+def fetch_gnews(query_str: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
+    """
+    Query the GNews Search endpoint with *query_str* and return a list of
+    uniform article-dicts.  Results are passed through apply_query_filter()
+    so the global ENABLE_FILTERING switch behaves like for other sources.
+    """
     print(f"Fetching from GNews (query: '{query_str}')…")
-    
-    api_key = "c4f8fe7bbdaea71cd2ec22279906c40f"
-    url     = "https://gnews.io/api/v4/search"
-    params  = {
+
+    url = "https://gnews.io/api/v4/search"
+    params = {
         "q":       query_str,
         "in":      "title,description",
         "lang":    LANGUAGE,
         "country": "us",
-        "max":     PAGE_SIZE,
-        "token":   api_key,
+        "max":     max_results,
+        "token":   GNEWS_API_KEY,            # ← uses env-var, not hard-coded key
     }
 
-  try:
+    try:
         response = requests.get(url, params=params, timeout=10)
     except Exception as exc:
         print(f"GNews request error: {exc}")
@@ -212,7 +221,11 @@ def fetch_gnews(query_str):
             "platforms_mentioned": [],
         })
 
-    return apply_query_filter(articles
+    # Apply QUERY-based filtering only if ENABLE_FILTERING is True
+    return apply_query_filter(articles)
+
+
+                              
 
 def run_gnews_for_all_entities():
     """
