@@ -42,7 +42,8 @@ jobs:
             yake \
             beautifulsoup4 \
             lxml \
-            python-dateutil
+            python-dateutil \
+            pandas
 
       # 5) Fetch news
       - name: Run fetch_news script
