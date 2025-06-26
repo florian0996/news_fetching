@@ -11,6 +11,7 @@ short summary string.
 import argparse
 import json
 import datetime
+import os
 from collections import defaultdict
 from email.utils import parsedate_to_datetime
 
@@ -49,6 +50,9 @@ def summarize_text(text: str, word_count: int) -> str:
 
 def generate_summaries(input_path: str, output_path: str) -> None:
     """Create daily and weekly summaries from ``input_path`` and save them."""
+
+    # ensure output directory exists
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
     with open(input_path, "r", encoding="utf-8") as f:
         entries = json.load(f)
