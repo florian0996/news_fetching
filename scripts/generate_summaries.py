@@ -94,7 +94,7 @@ def generate_summaries(input_path: str, output_path: str) -> None:
     weekly_summary: dict[str, str] = {}
     for week, texts in weekly_texts.items():
         combined = "\n".join(texts)
-        weekly_summary[week] = summarize_text(combined, word_count=120)
+        weekly_summary[week] = summarize_text(combined, word_count=200)
 
     summary = {"daily_summary": daily_summary, "weekly_summary": weekly_summary}
     with open(output_path, "w", encoding="utf-8") as f:
