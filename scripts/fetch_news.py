@@ -19,16 +19,10 @@ def extract_keywords(text):
     return [kw for kw, score in keywords]
 
 
-# In[1]:
-
-
 def matches_query(text, query):
     query_terms = [term.strip().lower() for term in query.split("OR")]
     text_lower = text.lower()
     return any(term in text_lower for term in query_terms)
-
-
-# In[83]:
 
 
 # ========== CONFIG ==========
@@ -65,10 +59,6 @@ def apply_query_filter(articles):
     print(f"→ {len(filtered)} articles after filtering.")
     return filtered
 
-
-# In[7]:
-
-
 RSS_FEEDS = {
     "Markets":   "https://feeds.bloomberg.com/markets/news.rss",
     "Politics":  "https://feeds.bloomberg.com/politics/news.rss",
@@ -77,10 +67,6 @@ RSS_FEEDS = {
     "Economics": "https://feeds.bloomberg.com/economics/news.rss",
     "Industries":"https://feeds.bloomberg.com/industries/news.rss"
 }
-
-
-# In[8]:
-
 
 # ========== BLOOMBERG RSS FETCH ==========
 def fetch_bloomberg_rss():
@@ -102,9 +88,6 @@ def fetch_bloomberg_rss():
 
     # ——— apply QUERY-based filtering if ENABLE_FILTERING is True ———
     return apply_query_filter(all_articles)
-
-
-# In[9]:
 
 
 # ========== NEWSAPI FETCH ==========
@@ -144,9 +127,6 @@ def fetch_newsapi():
     return apply_query_filter(all_articles)
 
 
-# In[10]:
-
-
 # ========== SEC FETCH ==========
 def fetch_sec_press_releases():
     RSS_URL = "https://www.sec.gov/news/pressreleases.rss"
@@ -167,8 +147,6 @@ def fetch_sec_press_releases():
     # apply QUERY-based filtering if ENABLE_FILTERING is True
     return apply_query_filter(entries)
 
-
-# In[50]:
 
 # ========== GNEWS FETCH ==========
 #  GNews configuration
@@ -223,8 +201,6 @@ def fetch_gnews(query_str: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
 
     # Apply QUERY-based filtering only if ENABLE_FILTERING is True
     return apply_query_filter(articles)
-
-
                               
 
 def run_gnews_for_all_entities():
@@ -258,9 +234,6 @@ def run_gnews_for_all_entities():
     return gnews_articles
 
 
-# In[12]:
-
-
 # ========== INVESTING.COM RSS FETCH ==========
 def fetch_investing_rss():
     print("Fetching Investing.com RSS feeds...")
@@ -286,9 +259,6 @@ def fetch_investing_rss():
 
     # apply QUERY-based filtering if ENABLE_FILTERING is True
     return apply_query_filter(articles)
-
-
-# In[13]:
 
 
 # ========== CRUNCHBASE FETCH ==========
@@ -400,9 +370,6 @@ def fetch_crunchbase_sections():
     return apply_query_filter(articles)
 
 
-# In[71]:
-
-
 CNBC_RSS_FEEDS = {
     "CNBC Top News":      "https://www.cnbc.com/id/100003114/device/rss/rss.html",
     "CNBC Markets":       "https://www.cnbc.com/id/19746125/device/rss/rss.html",
@@ -439,9 +406,6 @@ def fetch_cnbc_rss():
 
     print(f"→ CNBC RSS: {len(articles)} articles fetched.")
     return apply_query_filter(articles)
-
-
-# In[73]:
 
 
 YAHOO_FINANCE_RSS_FEEDS = {
@@ -482,9 +446,6 @@ def fetch_yahoo_rss():
     return apply_query_filter(articles)
 
 
-# In[75]:
-
-
 # ========== Sifted FETCH ==========
 def fetch_sifted_rss():
     print("Fetching Sifted RSS feeds…")
@@ -510,9 +471,6 @@ def fetch_sifted_rss():
     return apply_query_filter(articles)
 
 
-# In[77]:
-
-
 # ========== SAVE ==========
 # ── Compute a repo-relative data directory ──────────────────────────────────────
 # In Actions, cwd() will be /github/workspace; locally it'll be wherever you launch Jupyter.
@@ -528,9 +486,6 @@ def save_articles(articles):
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(articles, f, indent=2)
     print(f"✅ Saved {len(articles)} articles to {filepath}")
-
-
-# In[79]:
 
 
 # ========== RUN ==========
@@ -564,9 +519,3 @@ for article in all_articles:
 # Save to daily file with keywords included
 if all_articles:
     save_articles(all_articles)
-
-
-# In[ ]:
-
-
-
