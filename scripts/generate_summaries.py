@@ -14,6 +14,7 @@ import datetime
 import os
 from collections import defaultdict
 from email.utils import parsedate_to_datetime
+from dateutil import parser as dateutil_parser
 
 try:
     from gensim.summarization import summarize
@@ -22,16 +23,28 @@ except Exception:  # pragma: no cover - gensim optional
 
 
 def parse_date(date_str: str) -> datetime.datetime:
-    """Parse various date string formats to ``datetime``."""
+    """
+    Parse various date string formats to a datetime.
+    Uses dateutil.isoparse for ISO-8601 (handles 'Z', offsets, etc.),
+    then falls back to email.utils for other formats.
+    """
     if not date_str:
         raise ValueError("empty date string")
+
+    # 1) Try dateutil for full ISO-8601 support (incl. trailing Z)
     try:
-        return datetime.datetime.fromisoformat(date_str)
-    except Exception:
-        try:
-            return parsedate_to_datetime(date_str)
-        except Exception:
-            raise ValueError(f"Unrecognized date format: {date_str}")
+        return dateutil_parser.isoparse(date_str)
+    except (ValueError, TypeError):
+        pass
+
+    # 2) Fallback to email.utils (for RFC-2822, etc.)
+    try:
+        return parsedate_to_datetime(date_str)
+    except (ValueError, TypeError):
+        pass
+
+    # 3) Give up
+    raise ValueError(f"Unrecognized date format: {date_str!r}")
 
 
 def summarize_text(text: str, word_count: int) -> str:
