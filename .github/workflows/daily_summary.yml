@@ -31,7 +31,7 @@ jobs:
         run: |
           # make sure data/ exists (your script also does this)
           mkdir -p data
-          python scripts/generate_summary.py \
+          python scripts/generate_summaries.py \
             -i data/all_news.json \
             -o data/summary.json
 
