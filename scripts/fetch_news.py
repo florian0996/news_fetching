@@ -156,17 +156,17 @@ GNEWS_API_KEY = os.getenv(
     "c4f8fe7bbdaea71cd2ec22279906c40f"   # fallback if the env-var isn't set
 )
 
-def fetch_gnews(query_str: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
+def fetch_gnews(QUERY: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
     """
-    Query the GNews Search endpoint with *query_str* and return a list of
+    Query the GNews Search endpoint with *QUERY* and return a list of
     uniform article-dicts.  Results are passed through apply_query_filter()
     so the global ENABLE_FILTERING switch behaves like for other sources.
     """
-    print(f"Fetching from GNews (query: '{query_str}')…")
+    print(f"Fetching from GNews (query: '{QUERY}')…")
 
     url = "https://gnews.io/api/v4/search"
     params = {
-        "q":       query_str,
+        "q":       QUERY,
         "in":      "title,description",
         "lang":    LANGUAGE,
         "country": "us",
@@ -498,6 +498,7 @@ def save_articles(articles):
 # ========== RUN ==========
 newsapi_articles     = fetch_newsapi()
 rss_articles         = fetch_bloomberg_rss()
+gnews_keywords       = fetch_gnews()
 gnews_articles       = run_gnews_for_all_entities()
 investing_articles   = fetch_investing_rss()
 sec_articles         = fetch_sec_press_releases()
@@ -509,6 +510,7 @@ sifted_articles      = fetch_sifted_rss()
 all_articles = (
     rss_articles
   + newsapi_articles
+  + gnews_keywords
   + gnews_articles
   + investing_articles
   + sec_articles
