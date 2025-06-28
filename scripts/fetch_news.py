@@ -205,32 +205,39 @@ def fetch_gnews(query_str: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
 
 def run_gnews_for_all_entities():
     """
-    Read Entity_GNews_Queries.csv and pull GNews for each entity.
-    Returns a flat list of article-dicts (so you can concat it with the other
-    sources further below).
+    Read Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv
+    and pull GNews for each entity based on their aliases.
     """
-    QUERIES_CSV = Path("data/Entity_GNews_Queries.csv")
-    if not QUERIES_CSV.exists():
+    ENTITIES_CSV = Path("data/Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv")
+    if not ENTITIES_CSV.exists():
         raise FileNotFoundError(
-            f"{QUERIES_CSV} not found.  Generate it first with "
-            "generate_entity_queries.py."
+            f"{ENTITIES_CSV} not found.  Make sure the path is correct."
         )
 
+    # Read all entities
+    df = pd.read_csv(ENTITIES_CSV, dtype=str).fillna("")
+
+    # (Optional) Only include platforms, funds, etc.
+    # df = df[df["category"] == "Platform"]
+
+    print(f"▶ GNews: fetching {len(df)} entities …")
     gnews_articles = []
-    qdf = pd.read_csv(QUERIES_CSV, dtype=str).fillna("")
 
-    print(f"▶ GNews: fetching {len(qdf)} entities …")
-    for _, row in qdf.iterrows():
-        entity = row["entity_name"]
-        query  = row["QUERY_short"]
+    for _, row in df.iterrows():
+        entity = row["entity_name"].strip()
+        # build a query out of all aliases
+        aliases = [a.strip() for a in row["aliases"].split(";") if a.strip()]
+        if not aliases:
+            continue
+        query_str = " OR ".join(aliases)
 
-        arts = fetch_gnews(query_str=query)      # reuse your new signature
+        # fetch and tag
+        arts = fetch_gnews(query_str=query_str)
         for art in arts:
-            art["entity"] = entity               # tag the article
+            art["entity"] = entity
         gnews_articles.extend(arts)
 
-    print(f"→ GNews total: {len(gnews_articles)} articles across "
-          f"{len(qdf)} entities.")
+    print(f"→ GNews total: {len(gnews_articles)} articles across {len(df)} entities.")
     return gnews_articles
 
 
