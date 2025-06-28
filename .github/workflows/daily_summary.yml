@@ -26,6 +26,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install gensim
+          pip install python-dateutil
 
       - name: Run summary script
         run: |
