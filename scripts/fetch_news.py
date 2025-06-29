@@ -498,7 +498,7 @@ def save_articles(articles):
 # ========== RUN ==========
 newsapi_articles     = fetch_newsapi()
 rss_articles         = fetch_bloomberg_rss()
-gnews_keywords       = fetch_gnews()
+gnews_keywords       = fetch_gnews(QUERY)
 gnews_articles       = run_gnews_for_all_entities()
 investing_articles   = fetch_investing_rss()
 sec_articles         = fetch_sec_press_releases()
