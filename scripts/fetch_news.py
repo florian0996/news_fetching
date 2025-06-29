@@ -11,13 +11,11 @@ from pathlib import Path
 
 import yake
 kw_extractor = yake.KeywordExtractor(lan="en", n=1, top=10)
-
 def extract_keywords(text):
     if not text:
         return []
     keywords = kw_extractor.extract_keywords(text)
     return [kw for kw, score in keywords]
-
 
 def matches_query(text, query):
     query_terms = [term.strip().lower() for term in query.split("OR")]
@@ -27,18 +25,20 @@ def matches_query(text, query):
 
 # ========== CONFIG ==========
 NEWSAPI_KEY = "186dd4ccd2234f6a89f850bf16effb06"
-
-QUERY = (
-    "credit OR loan OR Exaloan OR lending OR fintech startup OR digital lending OR credit platform OR loan service"
-    "OR peer-to-peer lending OR online loan platform OR investment platform"
-    "OR digital wealth management OR fractional investing OR seed funding OR fintech VC OR risk assessment"
-)
-
 LANGUAGE = "en"
 PAGE_SIZE = 100
-
-# Switch to enable/disable article filtering
 ENABLE_FILTERING = False  # Set to False to bypass QUERY-based filtering
+
+TERMS = [
+    "credit", "loan", "Exaloan", "lending", "fintech startup",
+    "digital lending", "credit platform", "loan service",
+    "peer-to-peer lending", "online loan platform", "investment platform",
+    "digital wealth management", "fractional investing", "seed funding",
+    "fintech VC", "risk assessment"
+]
+
+# the OR-joined string you use in apply_query_filter():
+QUERY = " OR ".join(TERMS)
 
 def apply_query_filter(articles):
     """
@@ -151,57 +151,59 @@ def fetch_sec_press_releases():
 # ========== GNEWS FETCH ==========
 #  GNews configuration
 # ---------------------------------------------------------------------------
+def chunk_queries(terms: list[str], max_len: int = 180) -> list[str]:
+    """
+    Build OR-joined query strings under max_len chars each.
+    """
+    chunks: list[list[str]] = []
+    current: list[str] = []
+
+    for term in terms:
+        candidate = " OR ".join(current + [term])
+        if len(candidate) <= max_len:
+            current.append(term)
+        else:
+            chunks.append(current)
+            current = [term]
+
+    if current:
+        chunks.append(current)
+
+    # return list of joined strings
+    return [" OR ".join(chunk) for chunk in chunks]
+
+GNEWS_QUERIES = chunk_queries(TERMS, max_len=180)
+
 GNEWS_API_KEY = os.getenv(
-    "GNEWS_API_KEY",
-    "c4f8fe7bbdaea71cd2ec22279906c40f"   # fallback if the env-var isn't set
-)
+    "GNEWS_API_KEY", "c4f8fe7bbdaea71cd2ec22279906c40f")
 
 def fetch_gnews(QUERY: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
-    """
-    Query the GNews Search endpoint with *QUERY* and return a list of
-    uniform article-dicts.  Results are passed through apply_query_filter()
-    so the global ENABLE_FILTERING switch behaves like for other sources.
-    """
-    print(f"Fetching from GNews (query: '{QUERY}')…")
-
+    print(f"Fetching from GNews (q={QUERY[:50]}…)")
     url = "https://gnews.io/api/v4/search"
-    params = {
-        "q":       QUERY,
-        "in":      "title,description",
-        "lang":    LANGUAGE,
-        "country": "us",
-        "max":     max_results,
-        "token":   GNEWS_API_KEY,            # ← uses env-var, not hard-coded key
-    }
-
+    params = {"q": QUERY, "in": "title,description", "lang": LANGUAGE,
+              "country": "us", "max": max_results, "token": GNEWS_API_KEY}
     try:
-        response = requests.get(url, params=params, timeout=10)
-    except Exception as exc:
-        print(f"GNews request error: {exc}")
+        resp = requests.get(url, params=params, timeout=10)
+    except Exception as e:
+        print(f"GNews request error: {e}")
         return []
-
-    if response.status_code != 200:
-        print(f"GNews error {response.status_code}: {response.text[:200]} …")
+    if resp.status_code != 200:
+        print(f"GNews error {resp.status_code}: {resp.text[:200]} …")
         return []
-
-    raw = response.json().get("articles", [])
+    raw = resp.json().get("articles", [])
     print(f"→ GNews: {len(raw)} articles fetched.")
-
-    articles = []
+    out = []
     for a in raw:
-        src_name = a.get("source", {}).get("name", "Unknown")
-        articles.append({
-            "source":             f"{src_name} [GNews]",
-            "url":                a.get("url", ""),
-            "title":              a.get("title", ""),
-            "published_at":       a.get("publishedAt", ""),
-            "content":            a.get("description", "") or a.get("content", ""),
+        src = a.get("source",{}).get("name","Unknown")
+        out.append({
+            "source": f"{src} [GNews]",
+            "url": a.get("url",""),
+            "title": a.get("title",""),
+            "published_at": a.get("publishedAt",""),
+            "content": a.get("description","") or a.get("content",""),
             "platforms_mentioned": [],
         })
-
-    # Apply QUERY-based filtering only if ENABLE_FILTERING is True
-    return apply_query_filter(articles)
-                              
+    return apply_query_filter(out)                              
 
 def run_gnews_for_all_entities():
     """
@@ -232,7 +234,7 @@ def run_gnews_for_all_entities():
         query_str = " OR ".join(aliases)
 
         # fetch and tag
-        arts = fetch_gnews(query_str=query_str)
+        arts = fetch_gnews(query_str)
         for art in arts:
             art["entity"] = entity
         gnews_articles.extend(arts)
@@ -498,7 +500,6 @@ def save_articles(articles):
 # ========== RUN ==========
 newsapi_articles     = fetch_newsapi()
 rss_articles         = fetch_bloomberg_rss()
-gnews_keywords       = fetch_gnews(QUERY)
 gnews_articles       = run_gnews_for_all_entities()
 investing_articles   = fetch_investing_rss()
 sec_articles         = fetch_sec_press_releases()
@@ -506,6 +507,11 @@ crunchbase_articles  = fetch_crunchbase_sections()
 cnbc_articles        = fetch_cnbc_rss()
 yahoo_articles       = fetch_yahoo_rss()
 sifted_articles      = fetch_sifted_rss()
+
+gnews_keywords = []
+for sub_q in GNEWS_QUERIES:
+    print(f"→ GNews chunk ({len(sub_q)} chars)…")
+    gnews_keywords.extend(fetch_gnews(sub_q))
 
 all_articles = (
     rss_articles
