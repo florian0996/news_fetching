@@ -40,6 +40,8 @@ TERMS = [
 # the OR-joined string you use in apply_query_filter():
 QUERY = " OR ".join(TERMS)
 
+RUN_DATE = datetime.now().strftime("%Y-%m-%d")
+
 def apply_query_filter(articles):
     """
     Filters a list of article dicts based on the global QUERY if ENABLE_FILTERING is True.
@@ -369,7 +371,7 @@ def fetch_crunchbase_sections():
                 "source":    sec["label"],
                 "url":       url,
                 "title":     title,
-                "published_at": published_iso,
+                "published_at": RUN_DATE,
                 "content":     content_snip,
                 "platforms_mentioned": [],
             })
@@ -408,7 +410,7 @@ def fetch_cnbc_rss():
                 "source":       f"{label} [RSS]",
                 "url":          entry.get("link", ""),
                 "title":        entry.get("title", "").strip(),
-                "published_at": published_iso,
+                "published_at": RUN_DATE,
                 "content":      summary.strip(),
                 "platforms_mentioned": [],
             })
@@ -446,7 +448,7 @@ def fetch_yahoo_rss():
                 "source":       f"{label} [RSS]",
                 "url":          entry.get("link", ""),
                 "title":        entry.get("title", "").strip(),
-                "published_at": published_iso,
+                "published_at": RUN_DATE,
                 "content":      summary.strip(),
                 "platforms_mentioned": [],
             })
