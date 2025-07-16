@@ -408,7 +408,7 @@ def fetch_cnbc_rss():
                 "source":       f"{label} [RSS]",
                 "url":          entry.get("link", ""),
                 "title":        entry.get("title", "").strip(),
-                "published_at": published,
+                "published_at": published_iso,
                 "content":      summary.strip(),
                 "platforms_mentioned": [],
             })
@@ -446,7 +446,7 @@ def fetch_yahoo_rss():
                 "source":       f"{label} [RSS]",
                 "url":          entry.get("link", ""),
                 "title":        entry.get("title", "").strip(),
-                "published_at": published,
+                "published_at": published_iso,
                 "content":      summary.strip(),
                 "platforms_mentioned": [],
             })
