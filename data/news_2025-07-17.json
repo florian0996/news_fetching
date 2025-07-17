@@ -1,6 +1,46 @@
 [
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/goldman-leads-purchase-of-about-460-million-of-santander-loans",
+    "title": "Goldman Leads Purchase of About \u20ac460 Million of Santander Loans",
+    "published_at": "Thu, 17 Jul 2025 07:10:56 GMT",
+    "content": "Goldman Sachs Group Inc. agreed to buy about \u20ac460 million ($534 million) in Spanish mortgages from Banco Santander SA, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Goldman",
+      "Leads",
+      "Purchase",
+      "Loans",
+      "Sachs",
+      "Group",
+      "Santander",
+      "Spanish",
+      "Banco"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/swatch-posts-profit-drop-as-china-weakness-continues-to-bite",
+    "title": "Swatch Profit Plunges as China Weakness Continues to Bite",
+    "published_at": "Thu, 17 Jul 2025 05:26:46 GMT",
+    "content": "Swatch Group AG reported another six months of falling sales and profit, hit hard by sluggish demand for luxury timepieces in China. Shares tumbled.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Swatch",
+      "Profit",
+      "Plunges",
+      "Weakness",
+      "Continues",
+      "Bite",
+      "Group",
+      "hit",
+      "reported"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-17/gold-steadies-as-investors-weigh-outlook-for-trump-powell-saga",
     "title": "Gold Edges Lower as Traders Weigh Outlook for Trump-Powell Saga",
     "published_at": "Thu, 17 Jul 2025 00:40:57 GMT",
@@ -17,6 +57,26 @@
       "Wednesday",
       "Jerome",
       "Powell"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/doubts-about-7-eleven-us-ipo-emerge-after-couche-tard-scraps-bid",
+    "title": "Doubts About 7-Eleven US IPO Emerge After Couche-Tard Scraps Bid",
+    "published_at": "Thu, 17 Jul 2025 06:23:57 GMT",
+    "content": "Seven &amp; i Holdings Co. is drawing some skepticism about its plan to take its North American convenience stores business public after Circle K-operator Alimentation Couche-Tard Inc. abandoned its \u00a56.77 trillion ($46 billion) takeover bid of the Japanese retailer.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IPO",
+      "Emerge",
+      "Scraps",
+      "Holdings",
+      "North",
+      "American",
+      "Circle",
+      "K-operator",
+      "Alimentation",
+      "Couche-Tard"
     ]
   },
   {
@@ -232,26 +292,6 @@
       "Michelle",
       "Asia",
       "Real"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Markets [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/swatch-posts-profit-drop-as-china-weakness-continues-to-bite",
-    "title": "Swatch Posts Profit Drop as China Weakness Continues to Bite",
-    "published_at": "Thu, 17 Jul 2025 05:26:46 GMT",
-    "content": "Swatch Group AG reported another six months of falling sales and profit, hit hard by sluggish demand for luxury timepieces in China.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "China",
-      "Swatch",
-      "Profit",
-      "Posts",
-      "Drop",
-      "Weakness",
-      "Continues",
-      "Bite",
-      "Group",
-      "hit"
     ]
   },
   {
@@ -555,43 +595,23 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/five-pointers-for-commodities-as-china-targets-overcapacity",
-    "title": "Five Things to Watch in\u00a0Commodities as China Targets Overcapacity",
-    "published_at": "Thu, 17 Jul 2025 00:28:11 GMT",
-    "content": "Involution, a state of hyper-competition that yields ever-diminishing returns, has become a buzzword for all that ails the Chinese economy &mdash; and a distinguishing feature of its commodities markets.",
+    "source": "Bloomberg \u2013 Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/pbs-npr-set-to-lose-federal-funding-as-senate-passes-doge-cuts",
+    "title": "PBS, NPR Set to Lose Federal Funding as Senate Passes DOGE Cuts",
+    "published_at": "Thu, 17 Jul 2025 06:31:35 GMT",
+    "content": "Republicans are set to succeed in their decades-long quest to end federal funding for public broadcasting after the Senate passed a $9 billion package of cuts derived from Elon Musk\u2019s Department of Government Efficiency effort.",
     "platforms_mentioned": [],
     "keywords": [
-      "Involution",
-      "Commodities",
-      "Things",
-      "Watch",
-      "China",
-      "Targets",
-      "Overcapacity",
-      "Chinese",
-      "returns",
-      "economy"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Markets [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/private-equity-veteran-shawkwei-is-shunning-china-investments",
-    "title": "Private Equity Veteran ShawKwei Is Shunning China Investments",
-    "published_at": "Thu, 17 Jul 2025 00:16:52 GMT",
-    "content": "ShawKwei &amp; Partners, one of Hong Kong oldest private equity firms that three years ago decamped for rival Singapore, is staying away from China despite a more bullish sentiment growing toward the world\u2019s second largest economy.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Partners",
-      "Singapore",
-      "China",
-      "Equity",
-      "Veteran",
-      "Shunning",
-      "Investments",
-      "Hong",
-      "Kong",
-      "Private"
+      "PBS",
+      "Senate",
+      "Set",
+      "Federal",
+      "Funding",
+      "NPR",
+      "Cuts",
+      "Lose",
+      "Passes",
+      "DOGE"
     ]
   },
   {
@@ -1175,23 +1195,23 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Politics [RSS]",
-    "url": "https://www.bloomberg.com/news/newsletters/2025-07-16/trump-toys-with-firing-powell-then-backpedals",
-    "title": "Trump Toys With Firing Powell, Then Backpedals",
-    "published_at": "Wed, 16 Jul 2025 20:48:37 GMT",
-    "content": "This is Washington Edition, the newsletter about money, power and politics in the nation\u2019s capital. Today, White House reporter Josh Wingrove looks at President Trump\u2019s latest escalation against the Fed\u00a0chief. Sign up here and follow us at @bpolitics. Email our editors here.",
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/eqt-underlying-profit-surges-as-first-half-exits-hit-13-billion",
+    "title": "EQT Underlying Profit Surges as Exits Climb to \u20ac13 Billion",
+    "published_at": "Thu, 17 Jul 2025 05:28:34 GMT",
+    "content": "Swedish private equity group EQT AB reported better-than-expected underlying profit in the first half of 2025 as exit volumes jumped and all of its funds performed at or above plan.",
     "platforms_mentioned": [],
     "keywords": [
-      "Powell",
-      "Edition",
-      "Toys",
-      "Firing",
-      "Backpedals",
-      "Washington",
-      "Trump",
-      "money",
-      "power",
-      "capital"
+      "Billion",
+      "EQT",
+      "Underlying",
+      "Profit",
+      "Surges",
+      "Climb",
+      "Swedish",
+      "reported",
+      "plan",
+      "Exits"
     ]
   },
   {
@@ -1210,6 +1230,26 @@
       "Source",
       "Labour",
       "Market"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/couche-tard-ends-yearlong-pursuit-of-seven-i-as-turnaround-pressure-mounts",
+    "title": "Couche-Tard Ends Yearlong Pursuit of 7-Eleven Owner as Turnaround Pressure Builds",
+    "published_at": "Thu, 17 Jul 2025 06:15:03 GMT",
+    "content": "Canada\u2019s Alimentation Couche-Tard Inc. dropped its \u00a56.77 trillion ($45.8 billion) proposal to buy Seven &amp; i Holdings Co., putting pressure on the operator of 7-Eleven convenience stores to show shareholders it can stage a turnaround in an environment that\u2019s made corporate deals more likely in Japan.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Owner",
+      "Ends",
+      "Yearlong",
+      "Pursuit",
+      "Builds",
+      "Canada",
+      "Alimentation",
+      "Couche-Tard",
+      "Turnaround",
+      "Pressure"
     ]
   },
   {
@@ -1307,26 +1347,6 @@
       "send",
       "tariff",
       "House"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Business [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/eqt-underlying-profit-surges-as-first-half-exits-hit-13-billion",
-    "title": "EQT Underlying Profit Surges as First-Half Exits Hit \u20ac13 Billion",
-    "published_at": "Thu, 17 Jul 2025 05:28:34 GMT",
-    "content": "Swedish private equity group EQT AB reported better-than-expected underlying profit in the first half of 2025 as exit volumes jumped and all of its funds performed at or above plan.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Hit",
-      "Billion",
-      "EQT",
-      "Underlying",
-      "Profit",
-      "Surges",
-      "Swedish",
-      "reported",
-      "plan",
-      "Exits"
     ]
   },
   {
@@ -1762,43 +1782,23 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Business [RSS]",
-    "url": "https://www.bloomberg.com/news/audio/2025-07-16/trump-denies-plan-to-fire-powell-brainard-on-fed-news-more",
-    "title": "Trump Denies Plan to Fire Powell, Brainard on Fed News, More",
-    "published_at": "Wed, 16 Jul 2025 22:02:38 GMT",
-    "content": "Source: Bloomberg, 5:27",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Bloomberg",
-      "5:27",
-      "Powell",
-      "Brainard",
-      "Source",
-      "Denies",
-      "Plan",
-      "Fire",
-      "Fed",
-      "Trump"
-    ]
-  },
-  {
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-17/tsmc-profit-surges-again-after-ai-drives-big-jump-in-sales",
-    "title": "TSMC Raises 2025 Sales Outlook in Big Boost for AI Chip Demand",
+    "title": "TSMC Raises 2025 Outlook in Big Boost for AI Demand Hopes",
     "published_at": "Thu, 17 Jul 2025 05:35:54 GMT",
-    "content": "Taiwan Semiconductor Manufacturing Co. raised its outlook for 2025 revenue growth, delivering a big boost to confidence in the momentum of the global AI spending spree.",
+    "content": "Taiwan Semiconductor Manufacturing Co. raised its outlook for 2025 revenue growth, shoring up investors\u2019 confidence in the momentum of the global AI spending spree.",
     "platforms_mentioned": [],
     "keywords": [
       "TSMC",
       "Raises",
-      "Sales",
+      "Outlook",
       "Big",
       "Boost",
-      "Outlook",
-      "Chip",
       "Demand",
+      "Hopes",
       "Taiwan",
-      "Semiconductor"
+      "Semiconductor",
+      "Manufacturing"
     ]
   },
   {
@@ -2381,21 +2381,41 @@
   {
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-17/uk-firms-cut-jobs-wage-growth-slows-in-cooling-labor-market",
-    "title": "UK Firms Cut Jobs, Wage Growth Slows in Cooling Labor Market",
+    "title": "UK Unemployment Increases to 4.7%, Highest Rate in Four Years",
     "published_at": "Thu, 17 Jul 2025 06:09:05 GMT",
-    "content": "Britain\u2019s economy lost jobs again in June as the Labour government faces growing criticism for lifting the minimum wage and imposing a \u00a326 billion ($35 billion) payroll tax hike on companies.",
+    "content": "Fresh jobs data reinforced a picture of a weakening British jobs market, with unemployment notching up to the highest level in four years.",
     "platforms_mentioned": [],
     "keywords": [
-      "billion",
-      "Jobs",
-      "Wage",
-      "Firms",
-      "Cut",
-      "Growth",
-      "Slows",
-      "Cooling",
-      "Labor",
-      "Market"
+      "Years",
+      "Unemployment",
+      "Highest",
+      "Increases",
+      "Rate",
+      "Fresh",
+      "British",
+      "market",
+      "jobs",
+      "data"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/south-korean-minister-nominee-says-us-deal-possible-in-two-weeks",
+    "title": "South Korean Minister Nominee Says US Deal Possible in Two Weeks",
+    "published_at": "Thu, 17 Jul 2025 06:30:11 GMT",
+    "content": "South Korea\u2019s foreign minister nominee said he believes it may be possible to reach a trade deal with the US before the 25% across-the-board tariffs proposed by President Donald Trump take effect in August.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "Minister",
+      "Nominee",
+      "South",
+      "Deal",
+      "Korean",
+      "Weeks",
+      "Korea",
+      "President",
+      "Donald"
     ]
   },
   {
@@ -2959,23 +2979,103 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Economics [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-15/hassett-grabs-pole-position-in-race-to-be-trump-s-new-fed-chair",
-    "title": "Hassett Grabs Pole Position in Race to Be Trump\u2019s New Fed Chair",
-    "published_at": "Tue, 15 Jul 2025 23:44:17 GMT",
-    "content": "Kevin Hassett, one of President Donald Trump\u2019s longest-serving economic aides, is the early frontrunner to replace Jerome Powell as Federal Reserve chief next year, according to people familiar with the process.",
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/volvo-car-income-fell-in-second-quarter-as-tariffs-hit-sales",
+    "title": "Volvo Car CEO Urges EU to Cut Tariffs on US for Trade Deal",
+    "published_at": "Thu, 17 Jul 2025 05:19:18 GMT",
+    "content": "Volvo Car AB Chief Executive Officer Hakan Samuelsson said the European Union should bring down its tariffs on US car imports as Brussels works toward a trade agreement with Washington.",
     "platforms_mentioned": [],
     "keywords": [
-      "Trump",
-      "Hassett",
-      "Grabs",
-      "Pole",
-      "Position",
-      "Race",
-      "Fed",
-      "Chair",
-      "Kevin",
-      "President"
+      "Car",
+      "Volvo",
+      "Tariffs",
+      "Washington",
+      "Trade",
+      "CEO",
+      "Urges",
+      "Cut",
+      "Deal",
+      "Chief"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/novartis-lifts-outlook-after-quarterly-profit-beats-estimates",
+    "title": "Novartis Drops as CFO Plans Retirement, Cosentyx Disappoints",
+    "published_at": "Thu, 17 Jul 2025 05:14:43 GMT",
+    "content": "Novartis AG slumped after disappointing sales for its key psoriasis drug and the looming retirement of its respected finance chief overshadowed a modest outlook raise.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cosentyx",
+      "Novartis",
+      "Retirement",
+      "Drops",
+      "CFO",
+      "Plans",
+      "Disappoints",
+      "raise",
+      "slumped",
+      "disappointing"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/swedbank-earnings-beat-on-lower-costs-as-lending-income-drops",
+    "title": "Swedbank Profit Beats on Lower Costs as Lending Income Drops",
+    "published_at": "Thu, 17 Jul 2025 05:21:39 GMT",
+    "content": "Swedbank AB reported second-quarter earnings that beat analysts estimates as lower costs offset slowing income from lending and fees and commissions.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lower",
+      "Costs",
+      "Swedbank",
+      "Lending",
+      "Income",
+      "Profit",
+      "Drops",
+      "commissions",
+      "Beats",
+      "beat"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/swatch-posts-profit-drop-as-china-weakness-continues-to-bite",
+    "title": "Swatch Profit Plunges as China Weakness Continues to Bite",
+    "published_at": "Thu, 17 Jul 2025 05:26:46 GMT",
+    "content": "Swatch Group AG reported another six months of falling sales and profit, hit hard by sluggish demand for luxury timepieces in China. Shares tumbled.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Swatch",
+      "Profit",
+      "Plunges",
+      "Weakness",
+      "Continues",
+      "Bite",
+      "Group",
+      "hit",
+      "reported"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/eqt-underlying-profit-surges-as-first-half-exits-hit-13-billion",
+    "title": "EQT Underlying Profit Surges as Exits Climb to \u20ac13 Billion",
+    "published_at": "Thu, 17 Jul 2025 05:28:34 GMT",
+    "content": "Swedish private equity group EQT AB reported better-than-expected underlying profit in the first half of 2025 as exit volumes jumped and all of its funds performed at or above plan.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "EQT",
+      "Underlying",
+      "Profit",
+      "Surges",
+      "Climb",
+      "Swedish",
+      "reported",
+      "plan",
+      "Exits"
     ]
   },
   {
@@ -3000,42 +3100,62 @@
   },
   {
     "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/volvo-car-income-fell-in-second-quarter-as-tariffs-hit-sales",
-    "title": "Volvo Car Posts $1 Billion Loss Over Impairment, Tariffs",
-    "published_at": "Thu, 17 Jul 2025 05:19:18 GMT",
-    "content": "Volvo Car AB posted a 10 billion Swedish kronor ($1.03 billion) operating loss in the second quarter, hit by a previously announced impairment charge over model delays and the escalating cost of tariffs.",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-16/julius-baer-seeks-to-cut-bonuses-of-bankers-with-high-risk-books",
+    "title": "Julius Baer Seeks to Cut Bonuses of Bankers With Risky Books",
+    "published_at": "Wed, 16 Jul 2025 11:04:19 GMT",
+    "content": "Julius Baer Group Ltd. plans to reduce the bonuses of relationship managers who generate revenue from high-risk business, as the bank seeks to introduce a new pay culture, according to people familiar with the matter.",
     "platforms_mentioned": [],
     "keywords": [
-      "Billion",
-      "Car",
-      "Volvo",
-      "Posts",
-      "Loss",
-      "Impairment",
-      "Tariffs",
-      "Swedish",
-      "kronor",
-      "operating"
+      "Baer",
+      "Julius",
+      "Cut",
+      "Bankers",
+      "Risky",
+      "Books",
+      "Group",
+      "Seeks",
+      "Bonuses",
+      "plans"
     ]
   },
   {
     "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/novartis-lifts-outlook-after-quarterly-profit-beats-estimates",
-    "title": "Novartis Lifts Profit Outlook as Cancer Drugs Fuel Growth",
-    "published_at": "Thu, 17 Jul 2025 05:14:43 GMT",
-    "content": "Novartis AG raised its profit outlook after reporting better-than-expected results for the latest quarter, helped by cancer medicines.",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/easyjet-third-quarter-profit-growth-hit-by-fuel-costs-strikes",
+    "title": "EasyJet Third-Quarter Profit Growth Hit by Fuel Costs, Strikes",
+    "published_at": "Thu, 17 Jul 2025 06:40:12 GMT",
+    "content": "EasyJet Plc said higher fuel costs and air traffic control strikes have weighed on profit, while predicting capacity will continue to grow, albeit at a slower pace in the second half of the fiscal year.",
     "platforms_mentioned": [],
     "keywords": [
-      "Profit",
-      "Outlook",
-      "Novartis",
-      "Cancer",
-      "Lifts",
-      "Drugs",
       "Fuel",
+      "Costs",
+      "Profit",
+      "Strikes",
       "Growth",
-      "reporting",
-      "results"
+      "Hit",
+      "Plc",
+      "grow",
+      "albeit",
+      "year"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/abb-posts-strong-order-growth-on-rising-demand-from-us",
+    "title": "ABB Posts Record Orders on Data Center, Automation Demand",
+    "published_at": "Thu, 17 Jul 2025 05:07:54 GMT",
+    "content": "ABB Ltd. reported record order intake in the second quarter and profit margins that surpassed views, spurred by rising demand for automation tools and data center-driven investments in electrical grids.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ABB",
+      "Center",
+      "Posts",
+      "Record",
+      "Data",
+      "Automation",
+      "Demand",
+      "Orders",
+      "order",
+      "reported"
     ]
   },
   {
@@ -3076,86 +3196,6 @@
       "Market",
       "North",
       "reported"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/eqt-underlying-profit-surges-as-first-half-exits-hit-13-billion",
-    "title": "EQT Underlying Profit Surges as First-Half Exits Hit \u20ac13 Billion",
-    "published_at": "Thu, 17 Jul 2025 05:28:34 GMT",
-    "content": "Swedish private equity group EQT AB reported better-than-expected underlying profit in the first half of 2025 as exit volumes jumped and all of its funds performed at or above plan.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Hit",
-      "Billion",
-      "EQT",
-      "Underlying",
-      "Profit",
-      "Surges",
-      "Swedish",
-      "reported",
-      "plan",
-      "Exits"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/swatch-posts-profit-drop-as-china-weakness-continues-to-bite",
-    "title": "Swatch Posts Profit Drop as China Weakness Continues to Bite",
-    "published_at": "Thu, 17 Jul 2025 05:26:46 GMT",
-    "content": "Swatch Group AG reported another six months of falling sales and profit, hit hard by sluggish demand for luxury timepieces in China.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "China",
-      "Swatch",
-      "Profit",
-      "Posts",
-      "Drop",
-      "Weakness",
-      "Continues",
-      "Bite",
-      "Group",
-      "hit"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/swedbank-earnings-beat-on-lower-costs-as-lending-income-drops",
-    "title": "Swedbank Earnings Beat on Lower Costs as Lending Income Drops",
-    "published_at": "Thu, 17 Jul 2025 05:21:39 GMT",
-    "content": "Swedbank AB reported second-quarter earnings that beat analysts estimates as lower costs offset slowing income from lending and fees and commissions.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Lower",
-      "Costs",
-      "Swedbank",
-      "Earnings",
-      "Beat",
-      "Lending",
-      "Income",
-      "Drops",
-      "commissions",
-      "reported"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/abb-posts-strong-order-growth-on-rising-demand-from-us",
-    "title": "ABB Posts Strong Order Growth on Rising Demand From US",
-    "published_at": "Thu, 17 Jul 2025 05:07:54 GMT",
-    "content": "ABB Ltd. reported better-than-expected order growth and profit margins in the second quarter, as its business selling factory automation tools was lifted by a large order.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "ABB",
-      "Posts",
-      "Strong",
-      "Rising",
-      "Demand",
-      "Order",
-      "Growth",
-      "reported",
-      "quarter",
-      "profit"
     ]
   },
   {
@@ -3539,43 +3579,643 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-16/starwood-strikes-2-2-billion-real-estate-deal-with-brookfield",
-    "title": "Starwood Strikes $2.2 Billion Real Estate Deal With Brookfield",
-    "published_at": "Wed, 16 Jul 2025 20:50:02 GMT",
-    "content": "Starwood Property Trust agreed to acquire Fundamental Income Properties for $2.2 billion as Chief Executive Officer Barry Sternlicht aims to further diversify the company\u2019s revenue.",
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/8bitdo-pro-3",
+    "title": "Multifunctional Modern Gamepads - 8BitDo's Pro 3 Gamepad is Designed for Modern and Retro Games (TrendHunter.com)",
+    "published_at": "2025-07-16T07:23:05Z",
+    "content": "The 8BitDo Pro 3 Bluetooth Gamepad is a multi-platform wireless controller available for pre-order at USD 69.99, with shipments slated to begin on August 12, 2025. It offers broad compatibility out o\u2026 [+1144 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "Billion",
-      "Strikes",
-      "Starwood",
-      "Real",
-      "Estate",
-      "Deal",
-      "Brookfield",
-      "Property",
-      "Trust",
-      "Fundamental"
+      "Pro",
+      "Gamepad",
+      "Modern",
+      "Games",
+      "Bluetooth",
+      "USD",
+      "August",
+      "TrendHunter.com",
+      "Designed",
+      "Retro"
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-16/tesla-failed-to-stop-autopilot-misuse-safety-expert-testifies",
-    "title": "Tesla Failed to Stop Autopilot Misuse, Safety Expert Testifies",
-    "published_at": "Wed, 16 Jul 2025 20:45:08 GMT",
-    "content": "Tesla Inc. hasn\u2019t done enough to protect against drivers misusing its Autopilot system, a safety expert testified at a trial over a 2019 fatal collision.",
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/16/teacher-retirement-system-of-texas-sells-14388-shares-of-old-second-bancorp-inc-nasdaqosbc/",
+    "title": "Teacher Retirement System of Texas Sells 14,388 Shares of Old Second Bancorp, Inc. (NASDAQ:OSBC)",
+    "published_at": "2025-07-16T07:22:49Z",
+    "content": "Teacher Retirement System of Texas decreased its stake in shares of Old Second Bancorp, Inc. (NASDAQ:OSBC \u2013 Free Report) by 26.1% during the 1st quarter, Holdings Channel reports. The institutional i\u2026 [+5272 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "Misuse",
-      "Tesla",
-      "Failed",
-      "Stop",
-      "Testifies",
-      "Autopilot",
-      "Safety",
-      "Expert",
-      "system",
-      "fatal"
+      "Bancorp",
+      "NASDAQ",
+      "OSBC",
+      "Retirement",
+      "System",
+      "Teacher",
+      "Sells",
+      "Texas",
+      "Shares",
+      "Free"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178390290",
+    "title": "Americans' medical debt can stay in credit reports, judge rules. What does that mean? - NPR",
+    "published_at": "2025-07-16T07:14:44Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans'",
+      "reports",
+      "judge",
+      "rules",
+      "medical",
+      "debt",
+      "stay",
+      "credit",
+      "NPR",
+      "Print"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/indias-bond-market-grows-at-25-cagr-in-10-years-jiraaf-data-shows-surge-in-private-sector-issuances/articleshow/122562257.cms",
+    "title": "India\u2019s bond market grows at 25% CAGR in 10 years: Jiraaf data shows surge in private sector issuances",
+    "published_at": "2025-07-16T07:13:36Z",
+    "content": "Indias bond market is witnessing remarkable growth, with data from the Jiraaf Bond Analyser highlighting an accelerating trend over the past decade.Jiraaf, an online bond investment platform, provide\u2026 [+3858 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "bond",
+      "Jiraaf",
+      "CAGR",
+      "years",
+      "provide",
+      "chars",
+      "market",
+      "Analyser",
+      "data",
+      "growth"
+    ]
+  },
+  {
+    "source": "Globalsecurity.org [NewsAPI]",
+    "url": "https://www.globalsecurity.org/space/library/news/2025/space-250715-globaltimes01.htm",
+    "title": "China's Tiangong space station welcomes Tianzhou-9 as spacecraft delivers over 1.5 tons of food and key science payloads",
+    "published_at": "2025-07-16T07:13:31Z",
+    "content": "Global Times\r\nBy Global Times Published: Jul 15, 2025 02:15 PM Updated: Jul 15, 2025 02:23 PM\r\nChina's Tianzhou-9 cargo spacecraft successfully docked with the rear port of the orbiting Tiangong spac\u2026 [+4784 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jul",
+      "Global",
+      "Times",
+      "chars",
+      "Published",
+      "Updated",
+      "Tiangong",
+      "China",
+      "tons",
+      "02:15"
+    ]
+  },
+  {
+    "source": "Globalsecurity.org [NewsAPI]",
+    "url": "https://www.globalsecurity.org/space/library/news/2025/space-250715-globaltimes02.htm",
+    "title": "China Space Station receives new supplies from Tianzhou-9 craft",
+    "published_at": "2025-07-16T07:13:31Z",
+    "content": "Global Times\r\nBy Deng Xiaoci in Wenchang Published: Jul 15, 2025 07:47 PM\r\nShenzhou-20 taikonauts who are currently staying and working in the orbiting China Tiangong Space Station have opened the ha\u2026 [+6392 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jul",
+      "Space",
+      "Station",
+      "chars",
+      "Published",
+      "China",
+      "Global",
+      "Times",
+      "Deng",
+      "Xiaoci"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/the-reigning-champ-x-puma-golf",
+    "title": "Athletic Boundary-Blurring Collabs - The Reigning Champ x PUMA Golf Collection Bridges Worlds (TrendHunter.com)",
+    "published_at": "2025-07-16T07:13:06Z",
+    "content": "The Reigning Champ x PUMA Golf collection has officially launched, bringing a bold fusion of soccer heritage and golf performance to the Summer 25 sportswear scene. Dubbed the 'Field to Fairway' coll\u2026 [+861 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Golf",
+      "Reigning",
+      "Champ",
+      "PUMA",
+      "Collection",
+      "Collabs",
+      "Worlds",
+      "Summer",
+      "Bridges",
+      "TrendHunter.com"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/16/transunion-nysetru-receives-110-64-average-pt-from-brokerages/",
+    "title": "TransUnion (NYSE:TRU) Receives $110.64 Average PT from Brokerages",
+    "published_at": "2025-07-16T07:12:51Z",
+    "content": "Shares of TransUnion (NYSE:TRU \u2013 Get Free Report) have been given a consensus rating of \u201cModerate Buy\u201d by the fifteen brokerages that are covering the stock, Marketbeat Ratings reports. One investmen\u2026 [+5679 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "TRU",
+      "Receives",
+      "Average",
+      "Moderate",
+      "Buy",
+      "Marketbeat",
+      "TransUnion",
+      "Brokerages",
+      "Shares"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/smollm3-compact-ai-model/",
+    "title": "Why SmolLM3 is the Future of Local AI Deployment : Compact AI Outperforming the Giants",
+    "published_at": "2025-07-16T07:11:54Z",
+    "content": "What if the next big leap in AI wasnt about scaling up but scaling downwithout sacrificing performance? Enter SmolLM3, a compact yet powerful 3-billion-parameter language model thats rewriting the ru\u2026 [+7521 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deployment",
+      "Future",
+      "Local",
+      "Outperforming",
+      "Giants",
+      "scaling",
+      "Compact",
+      "performance",
+      "big",
+      "leap"
+    ]
+  },
+  {
+    "source": "7NEWS.com.au [NewsAPI]",
+    "url": "https://7news.com.au/news/teenage-boy-fighting-for-life-roads-closed-after-serious-collision-with-car-in-wynnum-c-19371942",
+    "title": "Teen pedestrian dies after being struck by learner car",
+    "published_at": "2025-07-16T07:11:36Z",
+    "content": "A teenage boy has died after he was struck by a car while crossing the road at a roundabout.\r\nThe 14-year-old pedestrian was hit by a car with learner plates at the roundabout intersection of Tingal \u2026 [+1337 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "struck",
+      "car",
+      "Teen",
+      "pedestrian",
+      "learner",
+      "roundabout",
+      "dies",
+      "teenage",
+      "boy",
+      "died"
+    ]
+  },
+  {
+    "source": "Adweek [NewsAPI]",
+    "url": "https://www.adweek.com/brand-marketing/why-u-s-bank-is-joining-the-happy-gilmore-2-universe-in-its-first-netflix-deal/",
+    "title": "Why U.S. Bank Is Joining the Happy Gilmore 2 Universe in Its First Netflix Deal",
+    "published_at": "2025-07-16T07:10:18Z",
+    "content": "U.S. Bank is taking a big swing at the silver screen with a Happy Gilmore 2 tie-in.\r\nAhead of the sequels July 25 release, the bank has teamed up with Netflix for a sponsorship deal that marks its fi\u2026 [+4765 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gilmore",
+      "Happy",
+      "Universe",
+      "Bank",
+      "Joining",
+      "tie-in",
+      "Netflix",
+      "Deal",
+      "taking",
+      "big"
+    ]
+  },
+  {
+    "source": "India Today [NewsAPI]",
+    "url": "https://www.indiatoday.in/entertainment/music/story/lewis-hamilton-dior-collection-bts-jimin-instagram-2756519-2025-07-16",
+    "title": "Lewis Hamilton shares Jimin\u2019s Dior look, fans call it best crossover moment",
+    "published_at": "2025-07-16T07:07:55Z",
+    "content": "Two of the world\u2019s most influential stars, Formula 1 legend Lewis Hamilton and BTS member Jimin, have collaborated in the most stylish way imaginable, and the internet can\u2019t get enough. Hamilton rece\u2026 [+1626 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Formula",
+      "Jimin",
+      "Lewis",
+      "Hamilton",
+      "Dior",
+      "BTS",
+      "fans",
+      "stars",
+      "legend",
+      "imaginable"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/citigroup-inc-c-q2-2025-070523592.html",
+    "title": "Citigroup Inc (C) Q2 2025 Earnings Call Highlights: Strong Revenue Growth and Increased Dividend",
+    "published_at": "2025-07-16T07:05:23Z",
+    "content": "<ul><li>Net Income: $4 billion.\r\n</li><li>Earnings Per Share (EPS): $1.96.\r\n</li><li>Return on Tangible Common Equity (RoTCE): 8.7%.\r\n</li><li>Revenue: $21.7 billion, up 8% year-over-year.\r\n</li><li>\u2026 [+4537 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earnings",
+      "Highlights",
+      "Strong",
+      "Dividend",
+      "Net",
+      "Income",
+      "Call",
+      "Growth",
+      "Increased",
+      "billion"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/fire-for-life",
+    "title": "Charitable Flat-Packed Cooking Stoves - The Fire for Life Stove Offers Safe, Fuel-Efficient Cooking (TrendHunter.com)",
+    "published_at": "2025-07-16T07:03:06Z",
+    "content": "The Fire for Life cook stove offers safe, fuel-efficient cooking in displacement camps. A collaboration between Escea and ReliefAid, the lightweight, flat-packed stove is shipped to places like Syria\u2026 [+644 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fire",
+      "Safe",
+      "Cooking",
+      "Life",
+      "Offers",
+      "Fuel-Efficient",
+      "Stove",
+      "TrendHunter.com",
+      "Charitable",
+      "camps"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/solanas-tokenized-assets-just-hit-550m-in-volume-heres-why-it-matters/",
+    "title": "Solana\u2019s tokenized assets just hit $550M in volume \u2013 Here\u2019s why it matters!",
+    "published_at": "2025-07-16T07:00:57Z",
+    "content": "Key Takeaways\r\nSolana\u2019s tokenized assets have surged to $550M in value, making it the third-largest RWA chain by volume. However, can they offer the scalability and cost-efficiency needed to rival Et\u2026 [+2224 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Solana",
+      "tokenized",
+      "volume",
+      "hit",
+      "matters",
+      "assets",
+      "Takeaways",
+      "RWA",
+      "chars",
+      "Key"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q1-preview-modest-pat-and-nii-growth-expected-amid-margin-pressures/articleshow/122561675.cms",
+    "title": "Axis Bank Q1 Preview: Modest PAT and NII growth expected amid margin pressures",
+    "published_at": "2025-07-16T07:00:57Z",
+    "content": "Axis Bank is expected to report a 2% year-on-year growth in profit after tax (PAT) and net interest income (NII) for the June quarter (Q1FY26), according to the average estimates from five brokerages\u2026 [+2343 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Preview",
+      "Bank",
+      "chars",
+      "Modest",
+      "PAT",
+      "NII",
+      "Axis",
+      "June",
+      "tax",
+      "income"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/16/sofi-technologies-nasdaqsofi-lowered-to-market-perform-rating-by-citizens-jmp/",
+    "title": "SoFi Technologies (NASDAQ:SOFI) Lowered to \u201cMarket Perform\u201d Rating by Citizens Jmp",
+    "published_at": "2025-07-16T07:00:47Z",
+    "content": "SoFi Technologies (NASDAQ:SOFI \u2013 Get Free Report) was downgraded by Citizens Jmp from a \u201cstrong-buy\u201d rating to a \u201cmarket perform\u201d rating in a research report issued on Monday, Marketbeat.com reports.\u2026 [+5580 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "Technologies",
+      "Market",
+      "Perform",
+      "SoFi",
+      "Citizens",
+      "Rating",
+      "Jmp",
+      "Lowered",
+      "Monday"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/ios-18-6-beta-3-is-out-should-you-install-it-right-away/",
+    "title": "iOS 18.6 Beta 3 is OUT! Should You Install It Right Away?",
+    "published_at": "2025-07-16T07:00:26Z",
+    "content": "Apple has introduced iOS 18.6 Developer Beta 3, surprising developers and beta testers alike. This release was accompanied by updates for iPadOS, macOS, tvOS, visionOS, and watchOS. However, the abse\u2026 [+6647 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Beta",
+      "iOS",
+      "Install",
+      "macOS",
+      "tvOS",
+      "visionOS",
+      "chars",
+      "Developer",
+      "developers",
+      "Apple"
+    ]
+  },
+  {
+    "source": "C21media.net [NewsAPI]",
+    "url": "https://www.c21media.net/news/canadas-insight-makes-promotions-as-it-prepares-for-international-expansion/",
+    "title": "Canada\u2019s Insight makes promotions as it prepares for international expansion",
+    "published_at": "2025-07-16T06:54:41Z",
+    "content": "L-R: Tanya Low, Jessica Brunton and Eric Abboud\r\nToronto-based Insight Productions has announced a number of promotions, including Tanya Lows elevation to chief development officer and Jessica Brunto\u2026 [+2060 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tanya",
+      "chars",
+      "Brunto",
+      "Insight",
+      "Jessica",
+      "Brunton",
+      "Eric",
+      "Abboud",
+      "Toronto-based",
+      "Productions"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/rosalind-franklin-wing",
+    "title": "Updated School Innovation Wings - The Rosalind Franklin Wing Fuses Historic Form with Timber Design (TrendHunter.com)",
+    "published_at": "2025-07-16T06:53:07Z",
+    "content": "The Rosalind Franklin Wing bridges historic form with timber design at St Pauls Girls School in London. It is designed by Jestico + Whiles, the new extension pairs a sensitive Edwardian retrofit with\u2026 [+701 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rosalind",
+      "Franklin",
+      "Form",
+      "Timber",
+      "Wing",
+      "School",
+      "Historic",
+      "Design",
+      "London",
+      "TrendHunter.com"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/16/reviewing-mtn-group-otcmktsmtnoy-and-vodafone-group-nasdaqvod/",
+    "title": "Reviewing MTN Group (OTCMKTS:MTNOY) and Vodafone Group (NASDAQ:VOD)",
+    "published_at": "2025-07-16T06:52:53Z",
+    "content": "Vodafone Group (NASDAQ:VOD \u2013 Get Free Report) and MTN Group (OTCMKTS:MTNOY \u2013 Get Free Report) are both large-cap computer and technology companies, but which is the better investment? We will compare\u2026 [+5914 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group",
+      "OTCMKTS",
+      "MTNOY",
+      "NASDAQ",
+      "VOD",
+      "Report",
+      "Free",
+      "MTN",
+      "Vodafone",
+      "Reviewing"
+    ]
+  },
+  {
+    "source": "Rediff.com [NewsAPI]",
+    "url": "https://www.rediff.com/movies/special/when-suchitra-sen-got-upset-with-dev-anand/20250716.htm",
+    "title": "When Suchitra Sen Got Upset With Dev Anand",
+    "published_at": "2025-07-16T06:50:20Z",
+    "content": "'Suchitra Sen threatened to leave, with the film only 80 per cent complete.'\r\nIMAGE: Suchitra Sen and Dev Anand in Bombai Ka Babu.\r\nRaj Khosla made several blockbusters like\u00a0CID (1956), Woh Kaun Thi?\u2026 [+6713 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Suchitra",
+      "Sen",
+      "Dev",
+      "Anand",
+      "Upset",
+      "IMAGE",
+      "leave",
+      "complete",
+      "Babu",
+      "threatened"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/16/navient-navi-projected-to-post-quarterly-earnings-on-wednesday/",
+    "title": "Navient (NAVI) Projected to Post Quarterly Earnings on Wednesday",
+    "published_at": "2025-07-16T06:48:43Z",
+    "content": "Navient (NASDAQ:NAVI \u2013 Get Free Report) is projected to announce its earnings results before the market opens on Wednesday, July 23rd. Analysts expect the company to announce earnings of $0.32 per sh\u2026 [+4338 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NAVI",
+      "Wednesday",
+      "NASDAQ",
+      "July",
+      "Navient",
+      "Projected",
+      "Report",
+      "Post",
+      "Quarterly",
+      "Free"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-is-spending-billions-to-become-an-ai-superpower/articleshow/122560904.cms",
+    "title": "China is spending billions to become an AI superpower",
+    "published_at": "2025-07-16T06:46:45Z",
+    "content": "When OpenAI blocked China's access to its advanced artificial intelligence systems last July, Chinese coders shrugged. They would rely instead on open-source systems, where the underlying technology \u2026 [+7329 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "Chinese",
+      "China",
+      "shrugged",
+      "chars",
+      "systems",
+      "spending",
+      "billions",
+      "superpower",
+      "OpenAI"
+    ]
+  },
+  {
+    "source": "Thechronicle.com.gh [NewsAPI]",
+    "url": "https://thechronicle.com.gh/daniel-ayittah-becomes-first-ghanaian-gospel-engineer-to-join-grammy-academy/",
+    "title": "Daniel Ayittah becomes first Ghanaian gospel engineer to join GRAMMY Academy",
+    "published_at": "2025-07-16T06:43:12Z",
+    "content": "Daniel Ayittah, founder of Outluk Records, has been named to the Recording Academys 2025 New Member Class, becoming the first Ghanaian gospel audio engineer to receive such recognition.\r\nHe joins nea\u2026 [+1991 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ghanaian",
+      "Ayittah",
+      "Daniel",
+      "Records",
+      "Class",
+      "GRAMMY",
+      "Outluk",
+      "Recording",
+      "Member",
+      "gospel"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/915828",
+    "title": "1,000 Bonus Flybuys Points on $50/$100 TCN Her, Teen and Restaurant Gift Cards (In-Store Only) @ Coles",
+    "published_at": "2025-07-16T06:40:06Z",
+    "content": "Full credit to FreePoints\r\nNext week's upcoming Coles gift card deal!\r\nIt's only worth getting the $50 cards here, as 1,000 Flybuys Points are only worth about $5.\r\n<table><tr><th>Gift Card</th><th>W\u2026 [+1962 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coles",
+      "Bonus",
+      "TCN",
+      "Teen",
+      "Flybuys",
+      "Points",
+      "Gift",
+      "Restaurant",
+      "Full",
+      "Cards"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/16/jmp-securities-reiterates-market-perform-rating-for-the-goldman-sachs-group-nysegs/",
+    "title": "JMP Securities Reiterates Market Perform Rating for The Goldman Sachs Group (NYSE:GS)",
+    "published_at": "2025-07-16T06:38:53Z",
+    "content": "The Goldman Sachs Group (NYSE:GS \u2013 Get Free Report)\u2018s stock had its \u201cmarket perform\u201d rating reissued by equities researchers at JMP Securities in a report released on Monday,Benzinga reports. They cu\u2026 [+5139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "Group",
+      "Goldman",
+      "Sachs",
+      "JMP",
+      "Securities",
+      "Market",
+      "Perform",
+      "Rating",
+      "Reiterates"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/claude-code-advanced-features-guide/",
+    "title": "Unlock Advanced Features in Claude Code to Supercharge Your Workflows",
+    "published_at": "2025-07-16T06:38:26Z",
+    "content": "Have you ever found yourself wrestling with a complex codebase, wishing for a tool that could not only streamline your workflow but also anticipate your needs? Enter Claude Codea powerhouse for devel\u2026 [+7068 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Advanced",
+      "Features",
+      "Code",
+      "Supercharge",
+      "Claude",
+      "Workflows",
+      "workflow",
+      "Unlock",
+      "codebase",
+      "wishing"
+    ]
+  },
+  {
+    "source": "CNBC [NewsAPI]",
+    "url": "https://www.cnbc.com/2025/07/16/cnbcs-the-china-connection-newsletter-from-didi-to-deepseek.html",
+    "title": "CNBC's The China Connection newsletter: From Didi to DeepSeek",
+    "published_at": "2025-07-16T06:38:23Z",
+    "content": "The Hong Kong Stock Exchange said that for the first time, six gongs filled its main hall on July 9, 2025, as 5 companies and an ETF marked their listings.\r\nThis report is from this week's CNBC's The\u2026 [+8243 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "CNBC",
+      "China",
+      "Connection",
+      "Didi",
+      "Hong",
+      "Kong",
+      "Stock",
+      "Exchange",
+      "ETF"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/thornbury-house",
+    "title": "Timber-Clad Home Extensions - The Thornbury House Extension Adds Bright, Timber-Clad Living Space (TrendHunter.com)",
+    "published_at": "2025-07-16T06:38:06Z",
+    "content": "The Thornbury House Extension adds bright, timber-clad living space to a heritage cottage in Melbourne. Designed by Healy Ryan Architects, the 35m\u00b2 addition features a sculptural, cross-laminated tim\u2026 [+819 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bright",
+      "Thornbury",
+      "House",
+      "Timber-Clad",
+      "Extension",
+      "Adds",
+      "Living",
+      "Space",
+      "Melbourne",
+      "Extensions"
+    ]
+  },
+  {
+    "source": "Thechronicle.com.gh [NewsAPI]",
+    "url": "https://thechronicle.com.gh/israeli-ultra-orthodox-party-quits-netanyahu-government-over-conscription/",
+    "title": "Israeli ultra-Orthodox party quits Netanyahu government over conscription",
+    "published_at": "2025-07-16T06:37:50Z",
+    "content": "Israels ultra-Orthodox party, United Torah Judaism (UTJ), has announced it is quitting the countrys fractious right-wing coalition due to a long-running dispute over mandatory military service, threa\u2026 [+1094 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UTJ",
+      "threa",
+      "chars",
+      "United",
+      "Judaism",
+      "Netanyahu",
+      "Israels",
+      "Torah",
+      "ultra-Orthodox",
+      "party"
+    ]
+  },
+  {
+    "source": "Thechronicle.com.gh [NewsAPI]",
+    "url": "https://thechronicle.com.gh/cameroon-president-seeks-to-remain-in-power-until-almost-his-100th-birthday/",
+    "title": "Cameroon president seeks to remain in power until almost his 100th birthday",
+    "published_at": "2025-07-16T06:35:44Z",
+    "content": "Cameroons 92-year-old President Paul Biya, who has held an iron grip on the Central African nation for nearly 43 years has launched a reelection bid that could keep him in power until almost his 100t\u2026 [+1308 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Biya",
+      "power",
+      "president",
+      "Paul",
+      "Central",
+      "African",
+      "birthday",
+      "years",
+      "Cameroon"
     ]
   },
   {
@@ -4159,26 +4799,6 @@
     ]
   },
   {
-    "source": "GlobeNewswire [NewsAPI]",
-    "url": "https://www.globenewswire.com/news-release/2025/07/16/3116144/0/en/Q1-Trading-Statement-for-the-three-months-ended-30-June-2025.html",
-    "title": "Q1 Trading Statement for the three months ended 30 June 2025",
-    "published_at": "2025-07-16T06:00:00Z",
-    "content": "<table><tr><td>\u00a0</td><td>\u00a0</td><td>\u00a0</td></tr><tr><td>\u00a0</td><td>\u00a0</td><td>\u00a0</td></tr><tr><td>\u00a0</td><td>Intermediate Capital Group plc16 July 2025\r\nQ1 Trading Statement for the three months ended 30 J\u2026 [+9930 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Trading",
-      "Statement",
-      "ended",
-      "months",
-      "June",
-      "July",
-      "Intermediate",
-      "Group",
-      "Capital",
-      "table"
-    ]
-  },
-  {
     "source": "The Star Online [NewsAPI]",
     "url": "https://www.thestar.com.my/tech/tech-news/2025/07/16/china-is-spending-billions-to-become-an-ai-superpower",
     "title": "China is spending billions to become an AI superpower",
@@ -4196,6 +4816,26 @@
       "chars",
       "systems",
       "spending"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/07/16/3116144/0/en/Q1-Trading-Statement-for-the-three-months-ended-30-June-2025.html",
+    "title": "Q1 Trading Statement for the three months ended 30 June 2025",
+    "published_at": "2025-07-16T06:00:00Z",
+    "content": "<table><tr><td>\u00a0</td><td>\u00a0</td><td>\u00a0</td></tr><tr><td>\u00a0</td><td>\u00a0</td><td>\u00a0</td></tr><tr><td>\u00a0</td><td>Intermediate Capital Group plc16 July 2025\r\nQ1 Trading Statement for the three months ended 30 J\u2026 [+9930 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trading",
+      "Statement",
+      "ended",
+      "months",
+      "June",
+      "July",
+      "Intermediate",
+      "Group",
+      "Capital",
+      "table"
     ]
   },
   {
@@ -4859,1058 +5499,125 @@
     ]
   },
   {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/c64-1",
-    "title": "Retro Nostalgic Computing Revivals - Ultimate 64 Revives Iconic C64 with Modern Updates (TrendHunter.com)",
-    "published_at": "2025-07-16T05:17:06Z",
-    "content": "Ultimate 64 revives the iconic C64 with modern updates. The new Commodore 64 Ultimate returns after more than 30 years, powered by an AMD Artix7 FPGA for 99% compatibility with 10,000+ classic games \u2026 [+794 chars]",
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/european-stocks-rise-after-earnings-deluge-eurozone-cpi-due-4138820",
+    "title": "European stocks rise after earnings deluge; eurozone CPI due",
+    "published_at": "2025-07-17 07:19:10",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Updates",
-      "Revives",
-      "Iconic",
-      "Modern",
-      "Ultimate",
-      "Revivals",
-      "TrendHunter.com",
-      "Nostalgic",
-      "Computing",
-      "Retro"
-    ]
-  },
-  {
-    "source": "Insurance Journal [NewsAPI]",
-    "url": "https://www.insurancejournal.com/news/international/2025/07/16/831667.htm",
-    "title": "ECB Stress Test to Ask Banks Which Geopolitical Risks Would Hurt",
-    "published_at": "2025-07-16T05:15:39Z",
-    "content": "The European Central Bank\u2019s next stress test will ask lenders to come up with hypothetical situations in which risks like trade disruptions or wars could hit their financial strength.\r\nThe exam next \u2026 [+1539 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "ECB",
-      "Stress",
-      "Test",
-      "Risks",
-      "Geopolitical",
-      "Hurt",
+      "CPI",
       "European",
-      "Central",
-      "Banks",
-      "Bank"
+      "deluge",
+      "eurozone",
+      "due",
+      "stocks",
+      "rise",
+      "earnings"
     ]
   },
   {
-    "source": "Android Central [NewsAPI]",
-    "url": "https://www.androidcentral.com/phones/vivo/vivo-x-fold-5-review",
-    "title": "Vivo does it again \u2014 the X Fold 5 is the best foldable I used in 2025",
-    "published_at": "2025-07-16T05:13:20Z",
-    "content": "Why you can trust Android Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.If you're ready to \u2026 [+15608 chars]",
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/tsmc-quarterly-profit-seen-hitting-record-but-trump-tariffs-forex-a-concern-4138585",
+    "title": "TSMC beats forecasts to post record quarterly profit of $13.5 billion",
+    "published_at": "2025-07-17 07:05:31",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Fold",
-      "Android",
-      "Central",
-      "Vivo",
-      "foldable",
-      "trust",
-      "expert",
-      "reviewers",
-      "spend",
-      "hours"
+      "billion",
+      "TSMC",
+      "beats",
+      "forecasts",
+      "post",
+      "record",
+      "quarterly",
+      "profit"
     ]
   },
   {
-    "source": "Louder [NewsAPI]",
-    "url": "https://www.loudersound.com/bands-artists/stewart-copeland-police-curved-air-pink-floyd-neil-peart",
-    "title": "\u201cNo debate, no coaxing, no schmoozing, nothing \u2013 I put music on the page and they play it. Don\u2019t tell Sting!\u201d Stewart Copeland on making music after The Police, being outdone by Pink Floyd, Curved Air, Neil Peart and life in his 70s",
-    "published_at": "2025-07-16T05:12:20Z",
-    "content": "Long-limbed Police drummer Stewart Copeland has had a colourful life so far, taking in time with Curved Air and Gizmodrome as well as scoring movies for Francis Ford Coppola and Oliver Stone. He tell\u2026 [+17185 chars]",
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-057-4138815",
+    "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.57%",
+    "published_at": "2025-07-17 07:05:04",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "debate",
-      "coaxing",
-      "schmoozing",
-      "Copeland",
-      "Curved",
-      "Air",
-      "Police",
-      "Stewart",
-      "Sting",
-      "put"
+      "Nikkei",
+      "Japan",
+      "trade",
+      "stocks",
+      "higher",
+      "close"
     ]
   },
   {
-    "source": "ETF Daily News [NewsAPI]",
-    "url": "https://www.etfdailynews.com/2025/07/16/brokerages-set-nerdwallet-inc-nasdaqnrds-target-price-at-15-00/",
-    "title": "Brokerages Set NerdWallet, Inc. (NASDAQ:NRDS) Target Price at $15.00",
-    "published_at": "2025-07-16T05:11:00Z",
-    "content": "NerdWallet, Inc. (NASDAQ:NRDS \u2013 Get Free Report) has been given a consensus rating of \u201cModerate Buy\u201d by the six ratings firms that are presently covering the stock, Marketbeat.com reports. Two invest\u2026 [+3345 chars]",
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/abb-draws-record-orders-on-booming-demand-from-ai-data-centres-and-us-4138811",
+    "title": "ABB draws record orders on booming demand from AI data centres and US",
+    "published_at": "2025-07-17 07:00:49",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "NASDAQ",
-      "NRDS",
-      "Set",
-      "NerdWallet",
-      "Brokerages",
-      "Target",
-      "Moderate",
-      "Buy",
-      "Marketbeat.com",
-      "Price"
+      "ABB",
+      "draws",
+      "record",
+      "orders",
+      "booming",
+      "demand",
+      "data",
+      "centres"
     ]
   },
   {
-    "source": "ETF Daily News [NewsAPI]",
-    "url": "https://www.etfdailynews.com/2025/07/16/harborone-bancorp-inc-nasdaqhone-receives-13-00-consensus-target-price-from-brokerages/",
-    "title": "HarborOne Bancorp, Inc. (NASDAQ:HONE) Receives $13.00 Consensus Target Price from Brokerages",
-    "published_at": "2025-07-16T05:11:00Z",
-    "content": "Shares of HarborOne Bancorp, Inc. (NASDAQ:HONE \u2013 Get Free Report) have received an average recommendation of \u201cModerate Buy\u201d from the three ratings firms that are currently covering the stock, Marketb\u2026 [+4465 chars]",
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/south-koreas-top-court-clears-samsung-chairman-lee-in-2015-merger-case-yonhap-says-4138669",
+    "title": "South Korea's top court clears Samsung Chairman Lee in 2015 merger fraud case",
+    "published_at": "2025-07-17 06:46:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "NASDAQ",
-      "HONE",
-      "Bancorp",
-      "Receives",
-      "Marketb",
-      "HarborOne",
-      "Consensus",
-      "Report",
-      "Moderate",
-      "Buy"
-    ]
-  },
-  {
-    "source": "Insurance Journal [NewsAPI]",
-    "url": "https://www.insurancejournal.com/news/international/2025/07/16/831778.htm",
-    "title": "Helvetia, Baloise Said To Tap McKinsey For Merger Help",
-    "published_at": "2025-07-16T05:10:45Z",
-    "content": "Helvetia Holding AG and Baloise Holding AG hired strategy consultant McKinsey for advice on Europe\u2019s biggest insurance deal this year, according to people familiar with the matter.\r\nMcKinsey is set t\u2026 [+2145 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Holding",
-      "Baloise",
-      "Helvetia",
-      "Tap",
-      "Merger",
-      "Europe",
-      "McKinsey",
-      "year",
-      "matter",
-      "hired"
-    ]
-  },
-  {
-    "source": "The West Australian [NewsAPI]",
-    "url": "https://thewest.com.au/news/health/vape-use-among-teens-dropping-for-the-first-time-as-government-regulation-stems-access-c-19373844",
-    "title": "Vape use among teens dropping for the first time as government regulation stems access",
-    "published_at": "2025-07-16T05:09:56Z",
-    "content": "Rates of vaping among young people have started to drop for the first time in signs tighter government regulation is turning the tide.\r\nLatest figures from the Generation Vape study reveal 85 per cen\u2026 [+2379 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "time",
-      "government",
-      "regulation",
-      "Rates",
-      "Vape",
-      "tide",
-      "teens",
-      "dropping",
-      "stems",
-      "access"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/recov",
-    "title": "Smart Incense Burners - Recov Makes Incense Rituals Modern, Timed, and Guilt-Free (TrendHunter.com)",
-    "published_at": "2025-07-16T05:07:06Z",
-    "content": "Recov makes incense rituals modern, timed, and guilt-free. Created by designers Ko Ye Been, Lee Ji Ho, Roh Woo Hyun, and Oh Yun, this smart incense burner transforms a traditional practice into a wel\u2026 [+676 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Timed",
-      "Recov",
-      "Modern",
-      "Incense",
-      "Makes",
-      "Rituals",
-      "Guilt-Free",
-      "TrendHunter.com",
-      "Smart",
-      "Lee"
-    ]
-  },
-  {
-    "source": "Insurance Journal [NewsAPI]",
-    "url": "https://www.insurancejournal.com/news/international/2025/07/16/831084.htm",
-    "title": "Viewpoint: US Life Reinsurance Driven by Insurers Seeking Growth, Capital Optimization",
-    "published_at": "2025-07-16T05:05:56Z",
-    "content": "Strategic partnerships between re/insurers and alternative investment managers, the use of offshore platforms, and a fourth consecutive record year of annuity sales led to continued reinsurance growt\u2026 [+7050 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Viewpoint",
-      "chars",
-      "Growth",
-      "Capital",
-      "Reinsurance",
-      "Insurers",
-      "Life",
-      "Driven",
-      "Seeking",
-      "Optimization"
-    ]
-  },
-  {
-    "source": "Crosswalk.com [NewsAPI]",
-    "url": "https://www.crosswalk.com/devotionals/crosswalk-couples-devotional/the-best-sex-ever-crosswalk-couples-devotional-july-16.html",
-    "title": "The Best Sex Ever - Crosswalk Couples Devotional - July 16",
-    "published_at": "2025-07-16T05:05:00Z",
-    "content": "The Best Sex Ever\r\nBy: Michelle Lazurek\r\n\"To present her to himself as a radiant church, without stain\u00a0or wrinkle\u00a0or any other blemish, but holy and blameless.\"\u00a0Ephesians 5:27\r\n\"Lord, help my sex lif\u2026 [+5164 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "July",
-      "Crosswalk",
-      "Devotional",
-      "Michelle",
-      "Lazurek",
-      "Sex",
-      "Couples",
-      "church",
-      "blemish",
-      "blameless"
-    ]
-  },
-  {
-    "source": "Ozbargain.com.au [NewsAPI]",
-    "url": "https://www.ozbargain.com.au/node/915817",
-    "title": "[Targeted] $40 Bonus Credit after 2 Separate Visits (Activation Required) @ The Pass App",
-    "published_at": "2025-07-16T05:03:02Z",
-    "content": "In-app activation required (see Offers section). 2 visits by 29 July. Bonus credit expires 2 weeks after being earnt.\r\nI'm a level 2 member so it's probably targeted and YMMV depending what level you\u2026 [+4 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Required",
-      "Activation",
-      "Separate",
-      "Pass",
-      "App",
-      "In-app",
-      "Offers",
-      "Bonus",
-      "Visits",
-      "Credit"
-    ]
-  },
-  {
-    "source": "7NEWS.com.au [NewsAPI]",
-    "url": "https://7news.com.au/news/another-melbourne-childcare-centre-added-to-list-where-accused-paedophile-joshua-brown-worked--c-19373352",
-    "title": "Another Melbourne childcare centre added to list where accused paedophile Joshua Brown worked",
-    "published_at": "2025-07-16T05:01:07Z",
-    "content": "Another Melbourne childcare centre where accused paedophile Joshua Brown worked has been named.\r\nIn a note sent to parents on Tuesday, major childcare operator G8 Education said it had identified the\u2026 [+5088 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Melbourne",
-      "Joshua",
-      "Brown",
-      "accused",
-      "paedophile",
-      "centre",
-      "worked",
-      "childcare",
-      "named",
-      "Tuesday"
-    ]
-  },
-  {
-    "source": "Geeky Gadgets [NewsAPI]",
-    "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-flip7/",
-    "title": "Samsung Galaxy Z Flip7 Unboxing and What\u2019s New (4K 60)",
-    "published_at": "2025-07-16T05:00:23Z",
-    "content": "The Samsung Galaxy Z Flip7 represents a significant leap forward in foldable smartphone technology, offering a seamless blend of portability and powerful features. Designed for users who prioritize b\u2026 [+6599 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Galaxy",
-      "Unboxing",
+      "Korea",
       "Samsung",
-      "represents",
-      "technology",
-      "offering",
-      "features",
-      "chars",
-      "significant",
-      "leap"
+      "Chairman",
+      "Lee",
+      "South",
+      "merger",
+      "case",
+      "top",
+      "court",
+      "clears"
     ]
   },
   {
-    "source": "Hackaday [NewsAPI]",
-    "url": "https://hackaday.com/2025/07/15/a-history-of-the-tandy-computers/",
-    "title": "A History of the Tandy Computers",
-    "published_at": "2025-07-16T05:00:10Z",
-    "content": "Radio Shack, despite being gone for a number of years, is still in our cultural consciousness. But Tandy, the company behind Radio Shack for many years. Did you ever wonder how a leather company star\u2026 [+1664 chars]",
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/trump-says-cocacola-agreed-to-use-real-cane-sugar-in-us-4138486",
+    "title": "Trump says Coca-Cola agreed to use real cane sugar in US",
+    "published_at": "2025-07-17 06:41:44",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Radio",
-      "Shack",
-      "History",
-      "Computers",
-      "Tandy",
-      "years",
-      "consciousness",
-      "number",
-      "cultural",
-      "company"
-    ]
-  },
-  {
-    "source": "The Irish Times [NewsAPI]",
-    "url": "https://www.irishtimes.com/ireland/education/2025/07/16/third-of-parents-expected-to-go-into-debt-to-fund-back-to-school-costs/",
-    "title": "Third of parents expected to go into debt to fund back-to-school costs",
-    "published_at": "2025-07-16T05:00:01Z",
-    "content": "Parents sending children back to school next month are likely to see a spike in associated costs, with one in three expected to go into debt and more than a third forced to deny their children at lea\u2026 [+2582 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "parents",
-      "expected",
-      "debt",
-      "costs",
-      "children",
-      "chars",
-      "fund",
-      "lea",
-      "sending",
-      "back"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/picoplanktonics",
-    "title": "Barcon-Negative Architecture - Living Bio\u2011cement Architecture's Picoplanktonics Captures Co\u2082 (TrendHunter.com)",
-    "published_at": "2025-07-16T04:57:06Z",
-    "content": "Picoplanktonics is a carbon-negative pavilion that captures CO through living architecture. Designed by The Living Room Collective for the Canada Pavilion at the 2025 Venice Architecture Biennale, th\u2026 [+858 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Picoplanktonics",
-      "Architecture",
-      "Captures",
-      "Living",
-      "Bio\u2011cement",
-      "TrendHunter.com",
-      "pavilion",
-      "Barcon-Negative",
-      "carbon-negative",
-      "Venice"
-    ]
-  },
-  {
-    "source": "LatestLY [NewsAPI]",
-    "url": "https://www.latestly.com/entertainment/bollywood/they-have-zero-clue-or-interest-in-the-game-sophie-choudry-slams-influencers-and-celebs-who-attended-wimbledon-2025-just-for-social-media-view-p-6999129.html",
-    "title": "\u2018They Have Zero Clue or Interest in the Game\u2019: Sophie Choudry Slams \u2018Influencers\u2019 and \u2018Celebs\u2019 Who Attended Wimbledon 2025 Just for Social Media (View Post)",
-    "published_at": "2025-07-16T04:54:51Z",
-    "content": "Wimbledon 2025 concluded on July 13, with Jannik Sinner clinching the trophy after defeating World No. 2 Carlos Alcaraz. This years edition of the tennis championship saw several celebrities in atten\u2026 [+2803 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Wimbledon",
-      "Game\u2019",
-      "Sophie",
-      "Slams",
-      "Influencers\u2019",
-      "Celebs\u2019",
-      "Media",
-      "View",
-      "Post",
-      "July"
-    ]
-  },
-  {
-    "source": "The Sydney Morning Herald [NewsAPI]",
-    "url": "https://www.smh.com.au/business/companies/credit-card-airline-points-could-be-wound-back-due-to-surcharge-ban-20250716-p5mfcg.html",
-    "title": "Bank surcharge fees: Credit car airline points could be wound back",
-    "published_at": "2025-07-16T04:54:12Z",
-    "content": "Some issuers may choose to increase cardholder fees or reduce benefits such as rewards points, particularly on credit cards, to boost their profitability in response to reductions in interchange sett\u2026 [+2915 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "chars",
-      "Credit",
-      "fees",
-      "points",
-      "Bank",
-      "cards",
-      "sett",
-      "surcharge",
-      "car",
-      "airline"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/bodxl",
-    "title": "Qatar 3d-Printed Building Plans - Qatar Launches Largest 3D\u2011printed School with Dual Bodxl Printers (TrendHunter.com)",
-    "published_at": "2025-07-16T04:47:05Z",
-    "content": "Qatar launches the largest 3Dprinted school with dual BODXL printers. UCC Holding and Ashghal have begun constructing two colossal schools in the desert, each covering about 20,000m\u00b2, using planesize\u2026 [+649 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Qatar",
-      "Printers",
-      "Largest",
-      "Dual",
-      "Bodxl",
-      "Launches",
-      "Building",
-      "Plans",
-      "TrendHunter.com",
-      "School"
-    ]
-  },
-  {
-    "source": "New Zealand Herald [NewsAPI]",
-    "url": "https://www.nzherald.co.nz/business/companies/banking-finance/anz-dismisses-300m-legal-settlement-offer-as-a-cynical-attempt-to-influence-law-reform/FOWGR6IBGFDJPMEHWT7ICIIZEY/",
-    "title": "ANZ dismisses $300m legal settlement offer as a \u2018cynical\u2019 attempt to influence law reform",
-    "published_at": "2025-07-16T04:41:45Z",
-    "content": "This is a very new development and were not in a position to comment at this stage, it said.\r\nASB has already paid 73,000 customers $8m to rectify the disclosure mistakes it made. \r\nThe $600m offer c\u2026 [+2150 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "ANZ",
-      "dismisses",
-      "legal",
-      "cynical\u2019",
-      "stage",
-      "settlement",
-      "attempt",
-      "influence",
-      "law",
-      "reform"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/twotone-x7",
-    "title": "Japanese-Inspired Car Interiors - The Two\u2011tone X7 Adds Paint Split and Japanese Interior Accents (TrendHunter.com)",
-    "published_at": "2025-07-16T04:37:06Z",
-    "content": "The new TwoTone X7 adds paint split and Japanese interior accents. BMW has introduced twotone bodywork for the X7 SUV, allowing lower and upper paint colors separated by a handapplied coach line, mir\u2026 [+735 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Adds",
-      "Accents",
-      "Japanese",
-      "Split",
-      "Interior",
-      "Two\u2011tone",
-      "Paint",
-      "TrendHunter.com",
-      "Car",
-      "Interiors"
-    ]
-  },
-  {
-    "source": "Ndtvprofit.com [NewsAPI]",
-    "url": "https://www.ndtvprofit.com/personal-finance/best-shopping-credit-cards-for-july-2025-check-features-charges-and-more",
-    "title": "Best Shopping Credit Cards For July 2025: Check Features, Charges And More",
-    "published_at": "2025-07-16T04:33:38Z",
-    "content": "1.\u00a0\u00a0\u00a0\u00a0Amazon Pay ICICI Bank Credit Card\r\nThe Amazon Pay ICICI Bank Credit Card is a good pick for shoppers who frequently use Amazon. It offers 5% cashback for Amazon Prime members. Non-Prime members\u2026 [+1422 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Credit",
-      "July",
-      "Check",
-      "Features",
-      "Charges",
-      "Card",
-      "Amazon",
-      "Shopping",
-      "Pay",
-      "ICICI"
-    ]
-  },
-  {
-    "source": "Pypi.org [NewsAPI]",
-    "url": "https://pypi.org/project/mcp-pdf-reader/",
-    "title": "mcp-pdf-reader added to PyPI",
-    "published_at": "2025-07-16T04:30:34Z",
-    "content": "A PDF file reading server based on FastMCP.\r\nSupports PDF text extraction, OCR recognition, and image extraction via the MCP protocol, with a built-in web debugger for easy testing.\r\nFeatures\r\n<ul><l\u2026 [+2054 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "PDF",
-      "added",
-      "FastMCP",
-      "OCR",
-      "PyPI",
-      "file",
-      "reading",
-      "server",
-      "based",
-      "MCP"
-    ]
-  },
-  {
-    "source": "Independent.ie [NewsAPI]",
-    "url": "https://www.independent.ie/irish-news/a-third-of-parents-are-getting-into-debt-to-pay-back-to-school-costs-credit-union-report-warns/a485267413.html",
-    "title": "A third of parents are getting into debt to pay back-to-school costs, credit union report warns",
-    "published_at": "2025-07-16T04:30:00Z",
-    "content": "One in three families spend beyond their means and get into debt when their children go back to school.Over 60pc of people surveyed said they were finding the expense of kitting out students a huge f\u2026 [+3253 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "costs",
-      "chars",
-      "debt",
-      "pay",
-      "credit",
-      "school.Over",
-      "parents",
-      "union",
-      "report",
-      "warns"
-    ]
-  },
-  {
-    "source": "Livefromalounge.com [NewsAPI]",
-    "url": "https://livefromalounge.com/marriott-2x-points-homes-villas-stay-summer-2025/",
-    "title": "Flash Sale: Marriott offering 2X points to Bonvoy members for Homes & Villas Stay through September 2025",
-    "published_at": "2025-07-16T04:28:12Z",
-    "content": "Marriott Homes &amp; Villas is Marriott\u2019s home-sharing platform, where they list, as the name indicates, homes and villas. Homes &amp; Villas properties are run by individual owners or management com\u2026 [+3437 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Marriott",
-      "Villas",
-      "Sale",
-      "September",
-      "Homes",
-      "Bonvoy",
-      "Stay",
-      "Flash",
-      "offering",
-      "points"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/brooklyn-loft",
-    "title": "NYC Apartment Renovations - The Brooklyn Loft Revamp Blends Industrial Heritage with Playful Design (TrendHunter.com)",
-    "published_at": "2025-07-16T04:27:06Z",
-    "content": "The Brooklyn Loft Revamp blends industrial heritage with playful custom design. Located in a century-old manufacturing building, the 1,700sqft loft by Batliboi Studio for Elizabeth Ardens Valerie Tsv\u2026 [+802 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Brooklyn",
-      "Revamp",
-      "Blends",
-      "Industrial",
-      "Heritage",
-      "Design",
-      "Playful",
-      "Loft",
-      "NYC",
-      "Renovations"
-    ]
-  },
-  {
-    "source": "Yahoo Entertainment [NewsAPI]",
-    "url": "https://sports.yahoo.com/wrestling/article/wwe-aew-power-rankings-whirlwind-weekend-of-wrestling-chaos-gives-us-a-brand-new-no-1-naomi-seth-rollins-injury-042205166.html",
-    "title": "WWE, AEW power rankings: Whirlwind weekend of wrestling chaos gives us a brand new No. 1",
-    "published_at": "2025-07-16T04:22:05Z",
-    "content": "It was the biggest weekend in pro wrestling since WrestleMania (and arguably a better one too), but what did it mean for our Uncrowned power rankings? From new champions and No. 1 contenders to one o\u2026 [+11437 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "WWE",
-      "rankings",
-      "AEW",
-      "Whirlwind",
-      "Uncrowned",
-      "power",
-      "WrestleMania",
-      "weekend",
-      "wrestling",
-      "chars"
-    ]
-  },
-  {
-    "source": "The Times of India [NewsAPI]",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/not-welcome-here-canadian-leader-urges-govt-to-list-bishnoi-gang-as-terrorist-entity/articleshow/122552540.cms",
-    "title": "Not welcome here: Canadian leader urges govt to list Bishnoi gang as \"terrorist entity\"",
-    "published_at": "2025-07-16T04:21:54Z",
-    "content": "Canadian province Alberta's Premier Danielle Smith has urged Prime Minister Mark Carney and his cabinet to formally label the Lawrence Bishnoi gang as a \"terrorist entity\". The lawmaker said the gang\u2026 [+1752 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Canadian",
-      "Bishnoi",
-      "terrorist",
-      "entity",
-      "Alberta",
-      "Premier",
-      "Danielle",
-      "Smith",
-      "Prime",
-      "Minister"
-    ]
-  },
-  {
-    "source": "Chicago Reader [NewsAPI]",
-    "url": "http://chicagoreader.com/music/gossip-wolf/cocojoey-comemos-jones-kinsey-dandelions-secret-river-parade-neo-reunion/",
-    "title": "Will this be the night Cocojoey finally plays a keyboard solo while crowd-surfing?",
-    "published_at": "2025-07-16T04:19:41Z",
-    "content": "Cocojoey (aka Joey Meland) headlines Cole\u2019s Bar on Saturday, July 19. Credit: Matty Gagui\r\nUnderground Chicago pop experimentalist Cocojoey (aka Joey Meland) recently wrapped a two-week tour supporti\u2026 [+6686 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Meland",
-      "Cocojoey",
-      "Joey",
-      "aka",
-      "July",
-      "crowd-surfing",
-      "Saturday",
-      "night",
-      "finally",
-      "plays"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/saramonic-air",
-    "title": "Stylish Portable Microphones - The Saramonic Air Mic Merges Design with Dual-Channel Recording (TrendHunter.com)",
-    "published_at": "2025-07-16T04:17:06Z",
-    "content": "Saramonic Air mic system merges sleek design with dual-channel recording. Designed for creators, the minimalist wireless kit includes two compact transmitters and a matching receiver in metal housing\u2026 [+689 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Recording",
-      "Air",
-      "Saramonic",
-      "Microphones",
-      "Mic",
-      "Design",
-      "TrendHunter.com",
-      "Dual-Channel",
-      "Merges",
-      "Portable"
-    ]
-  },
-  {
-    "source": "Neowin [NewsAPI]",
-    "url": "https://www.neowin.net/news/aws-free-tier-overhauled-new-users-get-200-in-credits-but-theres-a-catch/",
-    "title": "AWS Free Tier overhauled: New users get $200 in credits, but there's a catch",
-    "published_at": "2025-07-16T04:16:01Z",
-    "content": "Amazon has significantly overhauled its AWS Free Tier program for new customers. They will now get $100 in AWS credits when signing up, plus an additional $100 when completing five specific service a\u2026 [+2203 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Free",
-      "Tier",
-      "AWS",
-      "Amazon",
-      "overhauled",
-      "customers",
-      "credits",
-      "users",
-      "catch",
-      "significantly"
-    ]
-  },
-  {
-    "source": "NBC10 Boston [GNews]",
-    "url": "https://www.nbcboston.com/boston-business-journal/hospital-revamps-er-amid-overcrowding-since-steward-collapse/3763237/",
-    "title": "Hospital revamps ER amid overcrowding since Steward collapse",
-    "published_at": "2025-07-10T05:00:00Z",
-    "content": "Hospital revamps ER amid overcrowding since Steward collapse",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "Steward",
-      "Hospital",
-      "revamps",
-      "amid",
-      "overcrowding",
-      "collapse"
-    ]
-  },
-  {
-    "source": "New York Post [GNews]",
-    "url": "https://nypost.com/2025/06/18/real-estate/westchester-farm-with-ties-to-alexander-hamilton-asks-5-5m/",
-    "title": "Westchester farm with ties to Alexander Hamilton asks $5.5M",
-    "published_at": "2025-06-18T16:53:30Z",
-    "content": "Buxton Pond Farm has seen it all over the course of centuries -- and now it seeks its next steward to carry it into the next chapter.",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "Buxton",
-      "farm",
-      "Alexander",
-      "Hamilton",
-      "Pond",
-      "Westchester",
-      "centuries",
-      "chapter",
-      "ties",
-      "seeks"
-    ]
-  },
-  {
-    "source": "The Boston Globe [GNews]",
-    "url": "https://www.bostonglobe.com/2025/05/29/business/lawrence-general-haverhill-holy-family-hospital/",
-    "title": "Lawrence General to cut services at Haverhill Holy Family hospital",
-    "published_at": "2025-05-29T04:00:00Z",
-    "content": "Many inpatient services will end at the hospital, formerly operated by Steward Health Care, though the emergency department will stay open.",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "Care",
-      "General",
-      "Haverhill",
-      "Holy",
-      "Family",
-      "Steward",
-      "Health",
-      "Lawrence",
-      "open",
-      "services"
-    ]
-  },
-  {
-    "source": "TechCrunch [GNews]",
-    "url": "https://techcrunch.com/2025/05/27/wordpress-has-formed-an-ai-team/",
-    "title": "WordPress has formed an AI team",
-    "published_at": "2025-05-27T17:50:36Z",
-    "content": "WordPress announced on Tuesday that it has formed an AI team to steward the development of AI products among its developer community. The team includes",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "formed",
-      "Tuesday",
-      "WordPress",
-      "team",
-      "community",
-      "announced",
-      "steward",
-      "development",
-      "products",
-      "developer"
-    ]
-  },
-  {
-    "source": "The Boston Globe [GNews]",
-    "url": "https://www.bostonglobe.com/2025/05/06/business/warren-markey-steward-criminal-probe/",
-    "title": "Mass. lawmakers want criminal probe of Steward CEO",
-    "published_at": "2025-05-06T04:00:00Z",
-    "content": "Senators Elizabeth Warren and Ed Markey are pushing the Justice Department to investigate Steward chief executive Ralph de la Torre for contempt of Congress.",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "Mass",
-      "Steward",
-      "Congress",
-      "CEO",
-      "Senators",
-      "Elizabeth",
-      "Warren",
-      "Markey",
-      "Justice",
-      "Department"
-    ]
-  },
-  {
-    "source": "New York Post [GNews]",
-    "url": "https://nypost.com/2025/04/10/real-estate/historic-hamptons-summer-cottage-lists-for-14-25m/",
-    "title": "Historic Hamptons summer cottage lists for $14.25M",
-    "published_at": "2025-04-10T21:18:51Z",
-    "content": "Rosemary Lodge in Water Mill has received nods for its exceptional preservation and craftsmanship -- and now it seeks a new steward for its next chapter.",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "Rosemary",
-      "Hamptons",
-      "Lodge",
-      "Water",
-      "Mill",
-      "Historic",
-      "craftsmanship",
-      "chapter",
-      "summer",
-      "cottage"
-    ]
-  },
-  {
-    "source": "Deadline [GNews]",
-    "url": "https://deadline.com/2025/04/the-daily-show-jon-stewart-donald-trump-tariff-trade-war-1236362922/",
-    "title": "Jon Stewart Rips Trump's Tariffs, Compares Econ Plan To 'Squid Game'",
-    "published_at": "2025-04-08T03:48:18Z",
-    "content": "Jon Steward ripped Donald Trump's tariff rollout and economic plan, comparing POTUS' approach to a tagline from 'Squid Game.'",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "Squid",
-      "Game",
-      "Jon",
       "Trump",
-      "Compares",
-      "POTUS",
-      "Plan",
-      "Stewart",
-      "Rips",
-      "Econ"
+      "Coca-Cola",
+      "agreed",
+      "real",
+      "cane",
+      "sugar"
     ]
   },
   {
-    "source": "The Associated Press [GNews]",
-    "url": "https://apnews.com/article/corporation-for-public-broadcasting-fema-lawsuit-emergency-alerts-2f79c5df5dd87b28d95d559f081d4e47",
-    "title": "FEMA sued over hold on funds for upgrading nation's emergency alert system",
-    "published_at": "2025-03-14T02:05:50Z",
-    "content": "The federal government\u2019s steward of funding for public broadcasting stations has sued the Trump administration over its pause in grant payments for upgrading the nation\u2019s emergency alert system.",
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-090-4138785",
+    "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.90%",
+    "published_at": "2025-07-17 06:35:04",
+    "content": "",
     "platforms_mentioned": [],
-    "entity": "Steward",
     "keywords": [
-      "alert",
-      "FEMA",
-      "upgrading",
-      "emergency",
-      "system",
-      "Trump",
-      "sued",
-      "nation",
-      "hold",
-      "funds"
-    ]
-  },
-  {
-    "source": "The Boston Globe [GNews]",
-    "url": "https://www.bostonglobe.com/2025/02/27/business/lawrence-general-hospital-ceo-abha-agrawal-departs/",
-    "title": "Lawrence General Hospital CEO Abha Agrawal departs, following tumultuous year",
-    "published_at": "2025-02-27T05:00:00Z",
-    "content": "Dr. Abha Agrawal, who oversaw the struggling system\u2019s takeovers of two Steward-owned hospitals, is leaving after little more than a year in her role.",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "Abha",
-      "Agrawal",
-      "General",
-      "CEO",
-      "Steward-owned",
-      "Lawrence",
-      "departs",
-      "role",
-      "year",
-      "Hospital"
-    ]
-  },
-  {
-    "source": "CBS News [GNews]",
-    "url": "https://www.cbsnews.com/news/the-story-of-two-brooklyn-sisters-who-forged-a-family-of-firsts/",
-    "title": "The story of two Brooklyn sisters who forged a family of firsts",
-    "published_at": "2025-02-13T13:20:00Z",
-    "content": "A look at the lives of Dr. Susan Smith McKinney Steward, the first Black female doctor in New York, and her sister Sarah J. S. Tompkins Garnet, the first Black female principal in NYC.",
-    "platforms_mentioned": [],
-    "entity": "Steward",
-    "keywords": [
-      "Black",
-      "Steward",
-      "York",
-      "Brooklyn",
-      "Susan",
-      "Smith",
-      "Sarah",
-      "female",
-      "story",
-      "forged"
-    ]
-  },
-  {
-    "source": "Variety [GNews]",
-    "url": "https://variety.com/2025/film/news/goldfinch-digital-genesis-web3-ai-cannes-1236395689/",
-    "title": "Goldfinch, Digital Genesis Launch $20 Million Web3, AI Deal",
-    "published_at": "2025-05-13T13:15:07Z",
-    "content": "British film financier Goldfinch and Digital Genesis to launch $20 million Web3 and AI entertainment partnership at Cannes.",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Million",
-      "Launch",
-      "Digital",
-      "Genesis",
-      "Cannes",
-      "Goldfinch",
-      "Deal",
-      "British",
-      "film",
-      "financier"
-    ]
-  },
-  {
-    "source": "Westword [GNews]",
-    "url": "https://www.westword.com/restaurants/the-goldfinch-cocktail-bar-south-broadway-19925068",
-    "title": "Cocktail Bar The Goldfinch Opens in Denver",
-    "published_at": "2024-03-13T16:05:00Z",
-    "content": "Located on South Broadway and owned by Iain Chisholm, it also serves a light dinner menu and brunch on weekends.",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Chisholm",
-      "Bar",
-      "Goldfinch",
-      "Opens",
-      "Denver",
-      "Located",
-      "South",
-      "Broadway",
-      "Iain",
-      "Cocktail"
-    ]
-  },
-  {
-    "source": "Deadline [GNews]",
-    "url": "https://deadline.com/2024/03/chicago-hounds-major-league-rugby-goldfinch-doc-series-1235844578/",
-    "title": "Chicago Hounds In Series About North America Growth Of Rugby Union",
-    "published_at": "2024-03-04T13:00:00Z",
-    "content": "Major League Rugby and Goldfinch are behind a doc featuring the Chicago Hounds about the growth of rugby union in North America.",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Rugby",
-      "Hounds",
-      "North",
-      "America",
-      "Chicago",
-      "Growth",
-      "Union",
-      "Series",
-      "Major",
-      "League"
-    ]
-  },
-  {
-    "source": "Variety [GNews]",
-    "url": "https://variety.com/2024/film/global/concourse-goldfinch-the-number-44-1235907369/",
-    "title": "Concourse Teams With Goldfinch's Genre Label The Number 44 for Sales",
-    "published_at": "2024-02-12T13:07:12Z",
-    "content": "Concourse Media will serve as sales partner for Goldfinch's genre label The Number 44.",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Number",
-      "Goldfinch",
-      "Genre",
-      "Label",
-      "Concourse",
-      "Sales",
-      "Teams",
-      "Media",
-      "serve",
-      "partner"
-    ]
-  },
-  {
-    "source": "The Wall Street Journal [GNews]",
-    "url": "https://www.wsj.com/articles/the-goldfinch-carel-fabritiuss-rare-bird-235a492f",
-    "title": "\u2018The Goldfinch\u2019: Carel Fabritius\u2019s Rare Bird",
-    "published_at": "2023-07-28T21:31:00Z",
-    "content": "This charming 1654 painting was made famous by Donna Tartt\u2019s 2013 novel, but its own story of survival and the mysteries that surround the work and its maker speak volumes on their own",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Goldfinch\u2019",
-      "Carel",
-      "Fabritius",
-      "Rare",
-      "Bird",
-      "Donna",
-      "Tartt",
-      "charming",
-      "painting",
-      "made"
-    ]
-  },
-  {
-    "source": "New York Post [GNews]",
-    "url": "https://nypost.com/2023/02/26/south-carolina-lawmaker-proposes-yankee-tax-to-newcomers/",
-    "title": "South Carolina lawmaker proposes 'Yankee tax' to newcomers",
-    "published_at": "2023-02-26T05:47:42Z",
-    "content": "State Senator Stephen Goldfinch introduced the bill as more northerners move to southern states.",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Yankee",
-      "Carolina",
-      "Senator",
-      "Stephen",
-      "Goldfinch",
-      "South",
-      "proposes",
-      "tax",
-      "State",
-      "states"
-    ]
-  },
-  {
-    "source": "Variety [GNews]",
-    "url": "https://variety.com/2023/film/news/quant-goldfinch-the-number-44-genre-slate-1235516959/",
-    "title": "'Quant' Producer, Goldfinch's The Number 44 Reveals Genre Slate",
-    "published_at": "2023-02-08T14:45:59Z",
-    "content": "Ben Charles Edwards and Goldfinch's production company The Number 44, has revealed its slate of productions due to be completed by the end of 2023.",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Number",
-      "Quant",
-      "Producer",
-      "Goldfinch",
-      "Reveals",
-      "Slate",
-      "Genre",
-      "Ben",
-      "Charles",
-      "Edwards"
-    ]
-  },
-  {
-    "source": "The Mercury News [GNews]",
-    "url": "https://www.mercurynews.com/2022/12/26/animal-life-did-the-recent-cold-weather-kill-a-sunnyvale-goldfinch/",
-    "title": "Did the recent cold weather kill a Sunnyvale goldfinch?",
-    "published_at": "2022-12-26T14:30:29Z",
-    "content": "Also: What are the best plants for a yard redesign?",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Sunnyvale",
-      "goldfinch",
-      "recent",
-      "cold",
-      "weather",
-      "kill",
-      "redesign",
-      "plants",
-      "yard"
-    ]
-  },
-  {
-    "source": "WLTX.com [GNews]",
-    "url": "https://www.wltx.com/article/news/local/south-carolina-lawmaker-proposes-fee-for-new-residents/275-c04fa438-4b65-4142-ad7f-31d53b0b95fc",
-    "title": "South Carolina bill would charge new residents a $250 fee",
-    "published_at": "2022-12-16T13:43:00Z",
-    "content": "Sen. Stephen Goldfinch pre-filed a bill that would require all new South Carolina residents to pay a $250 fee to help offset the cost of growth statewide.",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Sen",
-      "Carolina",
-      "South",
-      "fee",
-      "bill",
-      "residents",
-      "charge",
-      "Goldfinch",
-      "Stephen",
-      "statewide"
-    ]
-  },
-  {
-    "source": "Deadline [GNews]",
-    "url": "https://deadline.com/2022/10/mickey-rourke-the-wheels-of-heaven-dessy-tenekedjieva-bulgaria-1235148716/",
-    "title": "Mickey Rourke Leads Cast Of \u2018The Wheels Of Heaven\u2019",
-    "published_at": "2022-10-19T17:12:02Z",
-    "content": "Production is wrapping up on The Wheels of Heaven, a dramatic thriller starring Oscar nominee Mickey Rourke (The Wrestler), from Bulgaria's Black Sea Film and UK-based Goldfinch.",
-    "platforms_mentioned": [],
-    "entity": "Goldfinch",
-    "keywords": [
-      "Wheels",
-      "Rourke",
-      "Mickey",
-      "Heaven",
-      "Wrestler",
-      "Goldfinch",
-      "Leads",
-      "Cast",
-      "Heaven\u2019",
-      "Production"
+      "ASX",
+      "Australia",
+      "trade",
+      "stocks",
+      "higher",
+      "close"
     ]
   },
   {
@@ -5948,7 +5655,7 @@
   {
     "source": "Investing.com (English) [RSS]",
     "url": "https://www.investing.com/news/stock-market-news/tsmc-q2-profit-soars-61-to-record-high-beats-expectations-on-solid-ai-demand-4138714",
-    "title": "TSMC Q2 profit soars 61% to record high, beats expectations on solid AI demand",
+    "title": "TSMC Q2 profit soars 61% to record high; sees AI demand offsetting forex headwinds",
     "published_at": "2025-07-17 05:45:52",
     "content": "",
     "platforms_mentioned": [],
@@ -5957,132 +5664,11 @@
       "profit",
       "soars",
       "high",
-      "beats",
+      "headwinds",
+      "record",
       "demand",
-      "record",
-      "expectations",
-      "solid"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/tsmc-quarterly-profit-seen-hitting-record-but-trump-tariffs-forex-a-concern-4138585",
-    "title": "TSMC quarterly profit hits record, handily beats market forecast",
-    "published_at": "2025-07-17 05:45:34",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "TSMC",
-      "record",
-      "handily",
-      "forecast",
-      "quarterly",
-      "profit",
-      "hits",
-      "beats",
-      "market"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/tsmc-q2-profit-surges-60-reaches-historic-high-4138710",
-    "title": "TSMC Q2 profit surges 60%, reaches historic high",
-    "published_at": "2025-07-17 05:40:55",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "TSMC",
-      "profit",
-      "surges",
-      "reaches",
-      "high",
-      "historic"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/publicis-ceo-dismisses-meta-threat-raises-yearly-growth-guidance-4138708",
-    "title": "Publicis' CEO dismisses Meta threat, raises yearly growth guidance",
-    "published_at": "2025-07-17 05:35:52",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "CEO",
-      "Meta",
-      "Publicis'",
-      "threat",
-      "raises",
-      "guidance",
-      "dismisses",
-      "yearly",
-      "growth"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/couchetard-pulls-47-billion-bid-for-japans-seven--i-4138706",
-    "title": "Couche-Tard pulls $47 billion bid for Japan's Seven & i",
-    "published_at": "2025-07-17 05:35:34",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Japan",
-      "Couche-Tard",
-      "pulls",
-      "billion",
-      "bid"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/volvo-cars-q2-operating-profit-falls-as-tariffs-bite-4138700",
-    "title": "Volvo Cars Q2 operating profit falls as tariffs bite",
-    "published_at": "2025-07-17 05:25:54",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Cars",
-      "Volvo",
-      "operating",
-      "bite",
-      "profit",
-      "falls",
-      "tariffs"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/stocks-drift-before-tech-earnings-as-fed-drama-confounds-4138667",
-    "title": "Stocks steady ahead of tech earnings as Fed drama confounds",
-    "published_at": "2025-07-17 05:25:37",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Fed",
-      "Stocks",
-      "confounds",
-      "steady",
-      "ahead",
-      "tech",
-      "earnings",
-      "drama"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/eu-delays-probe-into-musks-x-amid-sensitive-us-trade-talks--ft-4138699",
-    "title": "EU delays probe into Musk\u2019s X amid sensitive US trade talks \u2013 FT",
-    "published_at": "2025-07-17 05:15:15",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Musk",
-      "talks",
-      "delays",
-      "probe",
-      "amid",
-      "sensitive",
-      "trade"
+      "offsetting",
+      "forex"
     ]
   },
   {
@@ -7274,22 +6860,22 @@
   },
   {
     "source": "CNBC Top News [RSS]",
-    "url": "https://www.cnbc.com/2025/07/17/tsmcs-second-quarter-profit-soars-nearly-61percent-as-ai-chip-demand-stays-strong-.html",
-    "title": "TSMC's second-quarter profit soars nearly 61%, beating estimates as AI chip demand stays strong",
+    "url": "https://www.cnbc.com/2025/07/17/cnbcs-inside-india-newsletter-musks-india-relationship-moves-beyond-talk.html",
+    "title": "CNBC's Inside India newsletter: Musk\u2019s India relationship moves beyond talk \u2014 but will it blossom?",
     "published_at": "2025-07-17",
-    "content": "Taiwan Semiconductor Manufacturing Company reported a near 61% year-on-year rise in second-quarter profit on strong AI chips demand.",
+    "content": "Musk has talked about India for years. This time, the groundwork is finally being laid. The next few months will show if this is the start of something lasting.",
     "platforms_mentioned": [],
     "keywords": [
-      "TSMC",
-      "Taiwan",
-      "Semiconductor",
-      "Manufacturing",
-      "Company",
-      "second-quarter",
-      "profit",
-      "demand",
-      "beating",
-      "rise"
+      "CNBC",
+      "India",
+      "Inside",
+      "Musk",
+      "newsletter",
+      "talk",
+      "blossom",
+      "relationship",
+      "moves",
+      "years"
     ]
   },
   {
@@ -7310,6 +6896,26 @@
       "xAI",
       "challenged",
       "filed"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2025/07/17/tsmcs-second-quarter-profit-soars-nearly-61percent-as-ai-chip-demand-stays-strong-.html",
+    "title": "TSMC forecasts 38% jump in third-quarter revenue after results beat on AI chip demand",
+    "published_at": "2025-07-17",
+    "content": "The world's biggest chipmaker reported a near 61% year-on-year rise in second-quarter profit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TSMC",
+      "forecasts",
+      "jump",
+      "rise",
+      "profit",
+      "third-quarter",
+      "revenue",
+      "results",
+      "beat",
+      "chip"
     ]
   },
   {
@@ -7354,26 +6960,6 @@
   },
   {
     "source": "CNBC Top News [RSS]",
-    "url": "https://www.cnbc.com/2025/07/16/blackstone-is-buying-rental-homes-again-heres-why.html",
-    "title": "Why Blackstone is buying rental homes in the U.S.",
-    "published_at": "2025-07-17",
-    "content": "Blackstone sees opportunities ahead for its rental housing portfolio, particularly in the growing U.S. Sun Belt and coastal cities.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Sun",
-      "Blackstone",
-      "Belt",
-      "portfolio",
-      "growing",
-      "cities",
-      "rental",
-      "buying",
-      "homes",
-      "opportunities"
-    ]
-  },
-  {
-    "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/07/16/best-places-for-workers-jobs-careers-america-top-states-for-business.html",
     "title": "These 10 states are America's best for workers in 2025",
     "published_at": "2025-07-17",
@@ -7390,6 +6976,46 @@
       "educational",
       "career",
       "support"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2025/07/17/autos-volvo-cars-switches-gears-in-the-us-as-trumps-tariffs-bite.html",
+    "title": "Sweden's Volvo Cars switches gears in the U.S. as tariffs bite",
+    "published_at": "2025-07-17",
+    "content": "Volvo Cars is widely considered to be one of the most exposed European carmakers to U.S. tariffs.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Volvo",
+      "Cars",
+      "European",
+      "Sweden",
+      "tariffs",
+      "switches",
+      "gears",
+      "bite",
+      "widely",
+      "considered"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2025/07/16/blackstone-is-buying-rental-homes-again-heres-why.html",
+    "title": "Why Blackstone is buying rental homes in the U.S.",
+    "published_at": "2025-07-17",
+    "content": "Blackstone sees opportunities ahead for its rental housing portfolio, particularly in the growing U.S. Sun Belt and coastal cities.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sun",
+      "Blackstone",
+      "Belt",
+      "portfolio",
+      "growing",
+      "cities",
+      "rental",
+      "buying",
+      "homes",
+      "opportunities"
     ]
   },
   {
@@ -7454,6 +7080,26 @@
   },
   {
     "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2025/07/16/jim-cramer-praises-nvidias-jensen-huangs-handling-of-us-china-tensions.html",
+    "title": "Jensen Huang's deft handling of U.S.-China tensions cements status as more than a CEO",
+    "published_at": "2025-07-17",
+    "content": "CNBC's Jim Cramer said Wednesday that Nvidia CEO Jensen Huang is a \"statesman\" and a \"salesman.\"",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Huang",
+      "CEO",
+      "Jensen",
+      "China",
+      "statesman",
+      "salesman",
+      "CNBC",
+      "Jim",
+      "Cramer",
+      "Wednesday"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/07/17/las-vegas-sands-8-billion-luxury-resort-in-singapore-what-to-know.html",
     "title": "Construction begins on Las Vegas Sands' $8 billion 'ultra luxurious' resort in Singapore",
     "published_at": "2025-07-17",
@@ -7490,26 +7136,6 @@
       "Shares",
       "plunge",
       "withdraws"
-    ]
-  },
-  {
-    "source": "CNBC Top News [RSS]",
-    "url": "https://www.cnbc.com/2025/07/16/jim-cramer-praises-nvidias-jensen-huangs-handling-of-us-china-tensions.html",
-    "title": "Jensen Huang's deft handling of U.S.-China tensions cements status as more than a CEO",
-    "published_at": "2025-07-17",
-    "content": "CNBC's Jim Cramer said Wednesday that Nvidia CEO Jensen Huang is a \"statesman\" and a \"salesman.\"",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Huang",
-      "CEO",
-      "Jensen",
-      "China",
-      "statesman",
-      "salesman",
-      "CNBC",
-      "Jim",
-      "Cramer",
-      "Wednesday"
     ]
   },
   {
@@ -7793,43 +7419,23 @@
     ]
   },
   {
-    "source": "CNBC Top News [RSS]",
-    "url": "https://www.cnbc.com/2025/07/16/crypto-market-today.html",
-    "title": "Crypto rises on renewed optimism House will pass key stablecoin legislation this week",
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/07/17/autos-volvo-cars-switches-gears-in-the-us-as-trumps-tariffs-bite.html",
+    "title": "Sweden's Volvo Cars switches gears in the U.S. as tariffs bite",
     "published_at": "2025-07-17",
-    "content": "Investors dismissed what they hope will turn out to be only a temporary snag in what is  expected to be a winning week for crypto regulation.",
+    "content": "Volvo Cars is widely considered to be one of the most exposed European carmakers to U.S. tariffs.",
     "platforms_mentioned": [],
     "keywords": [
-      "House",
-      "Investors",
-      "regulation",
-      "Crypto",
-      "week",
-      "rises",
-      "renewed",
-      "optimism",
-      "pass",
-      "key"
-    ]
-  },
-  {
-    "source": "CNBC Top News [RSS]",
-    "url": "https://www.cnbc.com/2025/07/16/media-shifts-new-crop-of-leaders.html",
-    "title": "As media reckons with strategic shifts, a new crop of leaders is coming into play",
-    "published_at": "2025-07-17",
-    "content": "In an industry that's long been run by storied Hollywood executives, those with backgrounds in finance and dealmaking are increasingly reshaping the landscape.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Hollywood",
-      "shifts",
-      "executives",
-      "landscape",
-      "media",
-      "reckons",
-      "strategic",
-      "crop",
-      "leaders",
-      "coming"
+      "Volvo",
+      "Cars",
+      "European",
+      "Sweden",
+      "tariffs",
+      "switches",
+      "gears",
+      "bite",
+      "widely",
+      "considered"
     ]
   },
   {
@@ -7875,21 +7481,21 @@
   {
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/07/17/tsmcs-second-quarter-profit-soars-nearly-61percent-as-ai-chip-demand-stays-strong-.html",
-    "title": "TSMC's second-quarter profit soars nearly 61%, beating estimates as AI chip demand stays strong",
+    "title": "TSMC forecasts 38% jump in third-quarter revenue after results beat on AI chip demand",
     "published_at": "2025-07-17",
-    "content": "Taiwan Semiconductor Manufacturing Company reported a near 61% year-on-year rise in second-quarter profit on strong AI chips demand.",
+    "content": "The world's biggest chipmaker reported a near 61% year-on-year rise in second-quarter profit.",
     "platforms_mentioned": [],
     "keywords": [
       "TSMC",
-      "Taiwan",
-      "Semiconductor",
-      "Manufacturing",
-      "Company",
-      "second-quarter",
+      "forecasts",
+      "jump",
+      "rise",
       "profit",
-      "demand",
-      "beating",
-      "rise"
+      "third-quarter",
+      "revenue",
+      "results",
+      "beat",
+      "chip"
     ]
   },
   {
@@ -8054,26 +7660,6 @@
   },
   {
     "source": "CNBC Markets [RSS]",
-    "url": "https://www.cnbc.com/2025/07/16/scale-ai-cuts-14percent-of-workforce-after-meta-investment-hiring-of-wang.html",
-    "title": "Scale AI cuts 14% of workforce after Meta investment, hiring of founder Wang",
-    "published_at": "2025-07-17",
-    "content": "Scale AI said it's cutting 14% of its staff weeks after Meta invested $14.3 billion in the startup and hired a number of top staffers.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Meta",
-      "Scale",
-      "Wang",
-      "cuts",
-      "investment",
-      "hiring",
-      "cutting",
-      "invested",
-      "billion",
-      "staffers"
-    ]
-  },
-  {
-    "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/07/16/trump-powell-fed-fire.html",
     "title": "Trump denies that he plans to fire Powell: 'Highly unlikely'",
     "published_at": "2025-07-17",
@@ -8090,6 +7676,26 @@
       "Fed",
       "Chair",
       "Jerome"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/07/16/scale-ai-cuts-14percent-of-workforce-after-meta-investment-hiring-of-wang.html",
+    "title": "Scale AI cuts 14% of workforce after Meta investment, hiring of founder Wang",
+    "published_at": "2025-07-17",
+    "content": "Scale AI said it's cutting 14% of its staff weeks after Meta invested $14.3 billion in the startup and hired a number of top staffers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Meta",
+      "Scale",
+      "Wang",
+      "cuts",
+      "investment",
+      "hiring",
+      "cutting",
+      "invested",
+      "billion",
+      "staffers"
     ]
   },
   {
@@ -8410,26 +8016,6 @@
       "revenue",
       "strong",
       "performance"
-    ]
-  },
-  {
-    "source": "CNBC Markets [RSS]",
-    "url": "https://www.cnbc.com/2025/07/16/weekly-mortgage-demand-plummets-10percent-as-rates-and-economic-concerns-rise.html",
-    "title": "Weekly mortgage demand plummets 10%, as rates and economic concerns rise",
-    "published_at": "2025-07-17",
-    "content": "Mortgage demand dropped 10%, as new concerns over tariffs and the economy hit both investors and consumers.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "mortgage",
-      "demand",
-      "concerns",
-      "Weekly",
-      "plummets",
-      "dropped",
-      "consumers",
-      "rates",
-      "economic",
-      "rise"
     ]
   },
   {
@@ -10228,295 +9814,6 @@
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/insurance/article/commercial-auto-insurance-181754910.html",
-    "title": "What is commercial auto insurance, and do you need it?",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "insurance",
-      "commercial",
-      "auto"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-chevron-cvx-stock-amd-stock/?src=A00220&yptr=yahoo",
-    "title": "Dow Jones Energy Giant Chevron Eyes New Entry; AMD Stock Jumps Into Buy Range",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Entry",
-      "AMD",
-      "Range",
-      "Jones",
-      "Energy",
-      "Giant",
-      "Chevron",
-      "Eyes",
-      "Stock",
-      "Jumps"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/ev-maker-mullen-automotive-rebrands-182933272.html",
-    "title": "EV Maker Mullen Automotive Rebrands To Bollinger Innovations",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Innovations",
-      "Maker",
-      "Mullen",
-      "Automotive",
-      "Rebrands",
-      "Bollinger"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/la-corpgov-forum-sept-4-183116157.html",
-    "title": "LA CorpGov Forum Sept 4: Featuring Sports, Entertainment, IPOs, VCs, Activism & Asia",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Entertainment",
-      "Activism",
-      "Asia",
-      "IPOs",
-      "VCs",
-      "Sept",
-      "Featuring",
-      "Sports",
-      "Forum",
-      "CorpGov"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-ahead-of-u-s-cpi-data-f5332cef?siteid=yhoof2&yptr=yahoo",
-    "title": "Gold Slips as Big Buyers Pull Back",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Back",
-      "Slips",
-      "Big",
-      "Buyers",
-      "Pull",
-      "Gold"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/trade-desk-joining-p-500-190315222.html",
-    "title": "Trade Desk Is Joining the S&P 500. Should You Buy TTD Stock Here?",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Desk",
-      "Joining",
-      "Trade",
-      "Buy",
-      "TTD",
-      "Stock"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.wsj.com/economy/central-banking/dimon-defends-fed-independence-after-trump-attacks-6cb6b05f?siteid=yhoof2&yptr=yahoo",
-    "title": "Dimon Defends Fed Independence After Trump Attacks",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Attacks",
-      "Defends",
-      "Fed",
-      "Independence",
-      "Trump",
-      "Dimon"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/jamie-dimon-says-jpmorgan-more-190632064.html",
-    "title": "Jamie Dimon Says JPMorgan to Get More Involved With Stablecoins",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Stablecoins",
-      "Dimon",
-      "Involved",
-      "Jamie",
-      "JPMorgan"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/energy-commodities-q2-where-heading-190003863.html",
-    "title": "Energy Commodities in Q2- Where are they Heading in Q3?",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Commodities",
-      "Heading",
-      "Energy"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/articles/60-40-portfolio-stocks-bonds-risks-underperform-e62e7fae?siteid=yhoof2&yptr=yahoo",
-    "title": "The 60/40 Portfolio Doesn\u2019t Work Anymore. Why It Might Still Make Sense.",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Portfolio",
-      "Anymore",
-      "Work",
-      "Sense",
-      "n\u2019t",
-      "Make"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/dear-nvidia-stock-fans-mark-185459156.html",
-    "title": "Dear Nvidia Stock Fans, Mark Your Calendars for July 16",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Fans",
-      "Mark",
-      "July",
-      "Nvidia",
-      "Stock",
-      "Calendars",
-      "Dear"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/citigroup-ceo-confirms-bank-looking-190445686.html",
-    "title": "Citigroup CEO Confirms the Bank Is \u2018Looking at the Issuance of a Citi Stablecoin\u2019",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Stablecoin\u2019",
-      "CEO",
-      "Confirms",
-      "Bank",
-      "Issuance",
-      "Citi",
-      "Citigroup"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/mp-materials-surging-500-million-184933027.html",
-    "title": "MP Materials Is Surging on a $500 Million Apple Deal. Should You Buy MP Stock Here?",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Million",
-      "Deal",
-      "Materials",
-      "Surging",
-      "Apple",
-      "Buy",
-      "Stock"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.wsj.com/business/deals/waters-corp-deal-for-becton-dickinson-unit-a-long-term-play-with-some-risks-b8c095f5?siteid=yhoof2&yptr=yahoo",
-    "title": "Waters Corp. Deal for Becton Dickinson Unit a Long-Term Play With Some Risks",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Corp",
-      "Waters",
-      "Risks",
-      "Becton",
-      "Dickinson",
-      "Unit",
-      "Play",
-      "Deal",
-      "Long-Term"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/lennar-corporation-len-bull-case-184638757.html",
-    "title": "Lennar Corporation (LEN): A Bull Case Theory",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "LEN",
-      "Corporation",
-      "Theory",
-      "Bull",
-      "Case",
-      "Lennar"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/articles/insurance-stocks-earnings-tailwind-4b3d3650?siteid=yhoof2&yptr=yahoo",
-    "title": "Insurance Stocks Could See a Tailwind, Says Analyst",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Tailwind",
-      "Analyst",
-      "Stocks",
-      "Insurance"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/video/nvidia-able-sell-h20-ai-190514662.html",
-    "title": "Nvidia to be Able to Sell H20 AI Chip",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Sell",
-      "Chip",
-      "Nvidia"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/mp-materials-corp-mp-bull-184335079.html",
-    "title": "MP Materials Corp. (MP): A Bull Case Theory",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Corp",
-      "Materials",
-      "Theory",
-      "Bull",
-      "Case"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
     "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071525/card/s-p-500-falters-as-30-year-yield-hits-5-nasdaq-nvidia-eye-record-levels--vFO2QtUsnUePaLm8qdBk?siteid=yhoof2&yptr=yahoo",
     "title": "S&P 500 Falters as 30-Year Yield Hits 5%. Nasdaq, Nvidia Eye Record Levels.",
     "published_at": "2025-07-17",
@@ -10548,6 +9845,25 @@
   },
   {
     "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/credit-score-could-negatively-impacted-192000119.html",
+    "title": "Your credit score could be negatively impacted by this controversial court ruling about medical debt",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "debt",
+      "credit",
+      "score",
+      "negatively",
+      "impacted",
+      "controversial",
+      "court",
+      "ruling",
+      "medical"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
     "url": "https://finance.yahoo.com/news/crude-oil-prices-remain-weak-192149915.html",
     "title": "Crude Oil Prices Remain Weak on Lack of Fresh Russian Sanctions",
     "published_at": "2025-07-17",
@@ -10563,22 +9879,6 @@
       "Fresh",
       "Russian",
       "Crude"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/video/nvidia-amd-stocks-rise-us-190235776.html",
-    "title": "Nvidia, AMD Stocks Rise on US-China Reversal",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Nvidia",
-      "AMD",
-      "Reversal",
-      "Stocks",
-      "Rise",
-      "US-China"
     ]
   },
   {
@@ -10622,6 +9922,35 @@
   },
   {
     "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071525/card/gold-slips-as-big-buyers-pull-back-SaiDix4N8C9r9OAR9qJv?siteid=yhoof2&yptr=yahoo",
+    "title": "Gold Slips as Big Buyers Pull Back",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Back",
+      "Slips",
+      "Big",
+      "Buyers",
+      "Pull",
+      "Gold"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/why-blackrock-fell-today-192136940.html",
+    "title": "Why BlackRock Fell Today",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Today",
+      "Fell",
+      "BlackRock"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
     "url": "https://finance.yahoo.com/news/yellow-corp-sell-4-terminals-193215065.html",
     "title": "Yellow Corp. to sell 4 terminals for $6.9M",
     "published_at": "2025-07-17",
@@ -10632,23 +9961,6 @@
       "Yellow",
       "sell",
       "terminals"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/kraft-heinz-bondholders-position-company-185912709.html",
-    "title": "Kraft Heinz Bondholders Position for Company\u2019s Potential Split",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Split",
-      "Heinz",
-      "Bondholders",
-      "Position",
-      "Company",
-      "Potential",
-      "Kraft"
     ]
   },
   {
@@ -10665,21 +9977,6 @@
       "Tariffs",
       "Boost",
       "Treasury"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/transition-spending-from-debit-to-credit-card-182829893.html",
-    "title": "How to transition your spending from a debit to a credit card",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "card",
-      "transition",
-      "spending",
-      "debit",
-      "credit"
     ]
   },
   {
@@ -10701,6 +9998,22 @@
   },
   {
     "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/why-joby-aviation-stock-flying-192931742.html",
+    "title": "Why Joby Aviation Stock Is Flying High Today",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Today",
+      "Joby",
+      "Aviation",
+      "Stock",
+      "Flying",
+      "High"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
     "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-developments-82341c79?siteid=yhoof2&yptr=yahoo",
     "title": "Oil Falls As Eventual Oversupply Concerns Weigh",
     "published_at": "2025-07-17",
@@ -10717,21 +10030,6 @@
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/banking-experts-7-tricks-most-190148453.html",
-    "title": "Banking Experts: 7 Tricks To Make the Most of Your Accounts",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Experts",
-      "Tricks",
-      "Accounts",
-      "Make",
-      "Banking"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
     "url": "https://www.barrons.com/livecoverage/wells-fargo-jp-morgan-morgan-stanley-blackrock-bny-mellon-earnings/card/bank-earnings-show-the-economy-is-doing-just-fine-for-now-1zTBybcMFqhDp4VpI1OW?siteid=yhoof2&yptr=yahoo",
     "title": "Bank Earnings Show the Economy Is Doing Just Fine\u2014For Now",
     "published_at": "2025-07-17",
@@ -10743,20 +10041,6 @@
       "Show",
       "Economy",
       "Bank"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-spot-credit-card-skimmers-220005531.html",
-    "title": "How to spot credit card skimmers",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "skimmers",
-      "spot",
-      "credit",
-      "card"
     ]
   },
   {
@@ -10781,15 +10065,16 @@
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/investing-myth-investing-just-gambling-184100441.html",
-    "title": "Investing Myth: Is Investing Just \"Gambling\"?",
+    "url": "https://finance.yahoo.com/news/heres-why-whirlpool-stock-broke-193353364.html",
+    "title": "Here's Why Whirlpool Stock Broke Down Today",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Gambling",
-      "Myth",
-      "Investing"
+      "Today",
+      "Whirlpool",
+      "Stock",
+      "Broke"
     ]
   },
   {
@@ -10839,292 +10124,340 @@
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/insurance/article/commercial-auto-insurance-181754910.html",
-    "title": "What is commercial auto insurance, and do you need it?",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/former-h-m-ceo-helena-193619016.html",
+    "title": "Former H&M CEO Helena Helmersson Joins Mango Board",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "insurance",
-      "commercial",
-      "auto"
+      "Board",
+      "CEO",
+      "Helena",
+      "Helmersson",
+      "Joins",
+      "Mango"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-chevron-cvx-stock-amd-stock/?src=A00220&yptr=yahoo",
-    "title": "Dow Jones Energy Giant Chevron Eyes New Entry; AMD Stock Jumps Into Buy Range",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/neogen-neog-bull-case-theory-200303619.html",
+    "title": "Neogen (NEOG): A Bull Case Theory",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Entry",
-      "AMD",
-      "Range",
-      "Jones",
+      "NEOG",
+      "Neogen",
+      "Theory",
+      "Bull",
+      "Case"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/global-blue-group-holding-ag-200342448.html",
+    "title": "Global Blue Group Holding AG (GB): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Theory",
+      "Blue",
+      "Group",
+      "Holding",
+      "Bull",
+      "Case",
+      "Global"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/camping-world-holdings-inc-cwh-200357026.html",
+    "title": "Camping World Holdings, Inc. (CWH): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Holdings",
+      "CWH",
+      "World",
+      "Camping",
+      "Theory",
+      "Bull",
+      "Case"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/chord-energy-corporation-chrd-bull-200554373.html",
+    "title": "Chord Energy Corporation (CHRD): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CHRD",
+      "Corporation",
+      "Theory",
       "Energy",
-      "Giant",
-      "Chevron",
-      "Eyes",
-      "Stock",
-      "Jumps"
+      "Bull",
+      "Case",
+      "Chord"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/ev-maker-mullen-automotive-rebrands-182933272.html",
-    "title": "EV Maker Mullen Automotive Rebrands To Bollinger Innovations",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/video/us-studying-crypto-assets-mortgage-193804008.html",
+    "title": "US Studying Crypto Assets in Mortgage Checks (Correct)",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Innovations",
-      "Maker",
-      "Mullen",
-      "Automotive",
-      "Rebrands",
-      "Bollinger"
+      "Correct",
+      "Checks",
+      "Studying",
+      "Crypto",
+      "Assets",
+      "Mortgage"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/la-corpgov-forum-sept-4-183116157.html",
-    "title": "LA CorpGov Forum Sept 4: Featuring Sports, Entertainment, IPOs, VCs, Activism & Asia",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/american-express-company-axp-bull-200611684.html",
+    "title": "American Express Company (AXP): A Bull Case Theory",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Entertainment",
-      "Activism",
-      "Asia",
-      "IPOs",
-      "VCs",
-      "Sept",
-      "Featuring",
-      "Sports",
-      "Forum",
-      "CorpGov"
+      "AXP",
+      "Company",
+      "Theory",
+      "Express",
+      "Bull",
+      "Case",
+      "American"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-ahead-of-u-s-cpi-data-f5332cef?siteid=yhoof2&yptr=yahoo",
-    "title": "Gold Slips as Big Buyers Pull Back",
+    "source": "Top Stories [RSS]",
+    "url": "https://www.wsj.com/finance/investing/blackrock-shares-tumble-after-big-client-redemption-blunts-quarterly-results-76295570?siteid=yhoof2&yptr=yahoo",
+    "title": "BlackRock Shares Tumble After Big Client Redemption Blunts Quarterly Results",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Back",
-      "Slips",
+      "Results",
+      "Shares",
+      "Tumble",
       "Big",
-      "Buyers",
-      "Pull",
-      "Gold"
+      "Client",
+      "Redemption",
+      "Blunts",
+      "Quarterly",
+      "BlackRock"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/trade-desk-joining-p-500-190315222.html",
-    "title": "Trade Desk Is Joining the S&P 500. Should You Buy TTD Stock Here?",
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/articles/nvidia-stock-price-china-h20-ai-00ab9860?siteid=yhoof2&yptr=yahoo",
+    "title": "Nvidia Stock Climbs to New Record. Here\u2019s How Much Revenue H20 Chip Sales Can Drive.",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Desk",
-      "Joining",
-      "Trade",
-      "Buy",
-      "TTD",
-      "Stock"
+      "Record",
+      "Stock",
+      "Climbs",
+      "Nvidia",
+      "Revenue",
+      "Chip",
+      "Drive",
+      "Sales"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://www.wsj.com/economy/central-banking/dimon-defends-fed-independence-after-trump-attacks-6cb6b05f?siteid=yhoof2&yptr=yahoo",
-    "title": "Dimon Defends Fed Independence After Trump Attacks",
+    "source": "Top Stories [RSS]",
+    "url": "https://www.investors.com/news/tesla-stock-china-ev-sales-stabilizing-us-demand/?src=A00220&yptr=yahoo",
+    "title": "Tesla EV Sales Stabilizing In This Key Market But U.S. Demand Under Pressure",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Attacks",
-      "Defends",
-      "Fed",
-      "Independence",
-      "Trump",
-      "Dimon"
+      "Demand",
+      "Pressure",
+      "Sales",
+      "Stabilizing",
+      "Key",
+      "Market",
+      "Tesla"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/jamie-dimon-says-jpmorgan-more-190632064.html",
-    "title": "Jamie Dimon Says JPMorgan to Get More Involved With Stablecoins",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/jamie-dimon-says-jpmorgan-plans-194633900.html",
+    "title": "Jamie Dimon Says JPMorgan Plans to Get More Involved in Stablecoins",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "Stablecoins",
       "Dimon",
+      "Plans",
       "Involved",
       "Jamie",
       "JPMorgan"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/energy-commodities-q2-where-heading-190003863.html",
-    "title": "Energy Commodities in Q2- Where are they Heading in Q3?",
+    "source": "Top Stories [RSS]",
+    "url": "https://www.investors.com/news/tesla-stock-new-base-cathie-wood-is-buying-elon-musk-business-empire-consolidation/?src=A00220&yptr=yahoo",
+    "title": "Tesla Stock Has A New Base And Cathie Wood Is Buying As Elon Musk Looks To Consolidate Business Empire",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Commodities",
-      "Heading",
-      "Energy"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/articles/60-40-portfolio-stocks-bonds-risks-underperform-e62e7fae?siteid=yhoof2&yptr=yahoo",
-    "title": "The 60/40 Portfolio Doesn\u2019t Work Anymore. Why It Might Still Make Sense.",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Portfolio",
-      "Anymore",
-      "Work",
-      "Sense",
-      "n\u2019t",
-      "Make"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/dear-nvidia-stock-fans-mark-185459156.html",
-    "title": "Dear Nvidia Stock Fans, Mark Your Calendars for July 16",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Fans",
-      "Mark",
-      "July",
-      "Nvidia",
+      "Empire",
       "Stock",
-      "Calendars",
-      "Dear"
+      "Base",
+      "Cathie",
+      "Wood",
+      "Buying",
+      "Elon",
+      "Musk",
+      "Consolidate",
+      "Business"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/citigroup-ceo-confirms-bank-looking-190445686.html",
-    "title": "Citigroup CEO Confirms the Bank Is \u2018Looking at the Issuance of a Citi Stablecoin\u2019",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/dollar-rallies-higher-t-note-201138079.html",
+    "title": "Dollar Rallies on Higher T-note Yields",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Stablecoin\u2019",
-      "CEO",
-      "Confirms",
-      "Bank",
-      "Issuance",
-      "Citi",
-      "Citigroup"
+      "Yields",
+      "Rallies",
+      "Higher",
+      "T-note",
+      "Dollar"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/mp-materials-surging-500-million-184933027.html",
-    "title": "MP Materials Is Surging on a $500 Million Apple Deal. Should You Buy MP Stock Here?",
+    "source": "Top Stories [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-tariffs-07-15-2025/card/surprise-the-market-s-worst-kept-secret-9AmbH8HXfJnJFFfLcTsO?siteid=yhoof2&yptr=yahoo",
+    "title": "Surprise! The Market\u2019s Worst-Kept Secret",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Million",
-      "Deal",
-      "Materials",
-      "Surging",
-      "Apple",
-      "Buy",
-      "Stock"
+      "Surprise",
+      "Secret",
+      "Market",
+      "Worst-Kept"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://www.wsj.com/business/deals/waters-corp-deal-for-becton-dickinson-unit-a-long-term-play-with-some-risks-b8c095f5?siteid=yhoof2&yptr=yahoo",
-    "title": "Waters Corp. Deal for Becton Dickinson Unit a Long-Term Play With Some Risks",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-does-cash-back-work-204139973.html",
+    "title": "How to use a cash-back card to save money on everyday expenses",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Corp",
-      "Waters",
-      "Risks",
-      "Becton",
-      "Dickinson",
-      "Unit",
-      "Play",
-      "Deal",
-      "Long-Term"
+      "expenses",
+      "cash-back",
+      "card",
+      "save",
+      "money",
+      "everyday"
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/lennar-corporation-len-bull-case-184638757.html",
-    "title": "Lennar Corporation (LEN): A Bull Case Theory",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/p-500-only-crypto-stock-194634263.html",
+    "title": "S&P 500\u2019s only crypto stock shrugs off hot CPI",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "LEN",
-      "Corporation",
-      "Theory",
-      "Bull",
+      "CPI",
+      "crypto",
+      "stock",
+      "shrugs",
+      "hot"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.investors.com/news/technology/credo-stock-hits-record-high-amid-ai-data-center-ramps/?src=A00220&yptr=yahoo",
+    "title": "Credo Stock Hits Record High Amid AI Data Center Ramps",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ramps",
+      "Stock",
+      "Hits",
+      "Record",
+      "High",
+      "Amid",
+      "Data",
+      "Center",
+      "Credo"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/articles/chinese-ev-geely-zeekr-c8cfee00?siteid=yhoof2&yptr=yahoo",
+    "title": "Chinese EV Makers to Combine. Geely Is Buying Zeekr.",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Combine",
+      "Makers",
+      "Chinese",
+      "Zeekr",
+      "Buying",
+      "Geely"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/nvidia-stock-hits-fresh-record-with-ai-chipmaker-set-to-resume-sales-in-china-after-us-reversal-on-ban-201403792.html",
+    "title": "Nvidia stock hits fresh record with AI chipmaker set to resume sales in China after US reversal on ban",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Nvidia",
+      "ban",
+      "stock",
+      "hits",
+      "fresh",
+      "record",
+      "chipmaker",
+      "set",
+      "resume"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/articles/southern-copper-stock-freeport-mcmoran-downgrade-8cdb6e0e?siteid=yhoof2&yptr=yahoo",
+    "title": "Copper Fever Cools. The Case to Sell This Mining Stock.",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cools",
+      "Fever",
+      "Copper",
+      "Stock",
       "Case",
-      "Lennar"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/articles/insurance-stocks-earnings-tailwind-4b3d3650?siteid=yhoof2&yptr=yahoo",
-    "title": "Insurance Stocks Could See a Tailwind, Says Analyst",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Tailwind",
-      "Analyst",
-      "Stocks",
-      "Insurance"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/video/nvidia-able-sell-h20-ai-190514662.html",
-    "title": "Nvidia to be Able to Sell H20 AI Chip",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
       "Sell",
-      "Chip",
-      "Nvidia"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/mp-materials-corp-mp-bull-184335079.html",
-    "title": "MP Materials Corp. (MP): A Bull Case Theory",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Corp",
-      "Materials",
-      "Theory",
-      "Bull",
-      "Case"
+      "Mining"
     ]
   },
   {
@@ -11160,6 +10493,25 @@
   },
   {
     "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/credit-score-could-negatively-impacted-192000119.html",
+    "title": "Your credit score could be negatively impacted by this controversial court ruling about medical debt",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "debt",
+      "credit",
+      "score",
+      "negatively",
+      "impacted",
+      "controversial",
+      "court",
+      "ruling",
+      "medical"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
     "url": "https://finance.yahoo.com/news/crude-oil-prices-remain-weak-192149915.html",
     "title": "Crude Oil Prices Remain Weak on Lack of Fresh Russian Sanctions",
     "published_at": "2025-07-17",
@@ -11175,22 +10527,6 @@
       "Fresh",
       "Russian",
       "Crude"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/video/nvidia-amd-stocks-rise-us-190235776.html",
-    "title": "Nvidia, AMD Stocks Rise on US-China Reversal",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Nvidia",
-      "AMD",
-      "Reversal",
-      "Stocks",
-      "Rise",
-      "US-China"
     ]
   },
   {
@@ -11234,6 +10570,35 @@
   },
   {
     "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071525/card/gold-slips-as-big-buyers-pull-back-SaiDix4N8C9r9OAR9qJv?siteid=yhoof2&yptr=yahoo",
+    "title": "Gold Slips as Big Buyers Pull Back",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Back",
+      "Slips",
+      "Big",
+      "Buyers",
+      "Pull",
+      "Gold"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/why-blackrock-fell-today-192136940.html",
+    "title": "Why BlackRock Fell Today",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Today",
+      "Fell",
+      "BlackRock"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
     "url": "https://finance.yahoo.com/news/yellow-corp-sell-4-terminals-193215065.html",
     "title": "Yellow Corp. to sell 4 terminals for $6.9M",
     "published_at": "2025-07-17",
@@ -11244,23 +10609,6 @@
       "Yellow",
       "sell",
       "terminals"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/kraft-heinz-bondholders-position-company-185912709.html",
-    "title": "Kraft Heinz Bondholders Position for Company\u2019s Potential Split",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Split",
-      "Heinz",
-      "Bondholders",
-      "Position",
-      "Company",
-      "Potential",
-      "Kraft"
     ]
   },
   {
@@ -11277,21 +10625,6 @@
       "Tariffs",
       "Boost",
       "Treasury"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/transition-spending-from-debit-to-credit-card-182829893.html",
-    "title": "How to transition your spending from a debit to a credit card",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "card",
-      "transition",
-      "spending",
-      "debit",
-      "credit"
     ]
   },
   {
@@ -11313,6 +10646,22 @@
   },
   {
     "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/why-joby-aviation-stock-flying-192931742.html",
+    "title": "Why Joby Aviation Stock Is Flying High Today",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Today",
+      "Joby",
+      "Aviation",
+      "Stock",
+      "Flying",
+      "High"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
     "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-developments-82341c79?siteid=yhoof2&yptr=yahoo",
     "title": "Oil Falls As Eventual Oversupply Concerns Weigh",
     "published_at": "2025-07-17",
@@ -11329,21 +10678,6 @@
   },
   {
     "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/banking-experts-7-tricks-most-190148453.html",
-    "title": "Banking Experts: 7 Tricks To Make the Most of Your Accounts",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Experts",
-      "Tricks",
-      "Accounts",
-      "Make",
-      "Banking"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
     "url": "https://www.barrons.com/livecoverage/wells-fargo-jp-morgan-morgan-stanley-blackrock-bny-mellon-earnings/card/bank-earnings-show-the-economy-is-doing-just-fine-for-now-1zTBybcMFqhDp4VpI1OW?siteid=yhoof2&yptr=yahoo",
     "title": "Bank Earnings Show the Economy Is Doing Just Fine\u2014For Now",
     "published_at": "2025-07-17",
@@ -11355,20 +10689,6 @@
       "Show",
       "Economy",
       "Bank"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-spot-credit-card-skimmers-220005531.html",
-    "title": "How to spot credit card skimmers",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "skimmers",
-      "spot",
-      "credit",
-      "card"
     ]
   },
   {
@@ -11393,15 +10713,16 @@
   },
   {
     "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/investing-myth-investing-just-gambling-184100441.html",
-    "title": "Investing Myth: Is Investing Just \"Gambling\"?",
+    "url": "https://finance.yahoo.com/news/heres-why-whirlpool-stock-broke-193353364.html",
+    "title": "Here's Why Whirlpool Stock Broke Down Today",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Gambling",
-      "Myth",
-      "Investing"
+      "Today",
+      "Whirlpool",
+      "Stock",
+      "Broke"
     ]
   },
   {
@@ -11451,292 +10772,340 @@
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/insurance/article/commercial-auto-insurance-181754910.html",
-    "title": "What is commercial auto insurance, and do you need it?",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/former-h-m-ceo-helena-193619016.html",
+    "title": "Former H&M CEO Helena Helmersson Joins Mango Board",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "insurance",
-      "commercial",
-      "auto"
+      "Board",
+      "CEO",
+      "Helena",
+      "Helmersson",
+      "Joins",
+      "Mango"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-chevron-cvx-stock-amd-stock/?src=A00220&yptr=yahoo",
-    "title": "Dow Jones Energy Giant Chevron Eyes New Entry; AMD Stock Jumps Into Buy Range",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/neogen-neog-bull-case-theory-200303619.html",
+    "title": "Neogen (NEOG): A Bull Case Theory",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Entry",
-      "AMD",
-      "Range",
-      "Jones",
+      "NEOG",
+      "Neogen",
+      "Theory",
+      "Bull",
+      "Case"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/global-blue-group-holding-ag-200342448.html",
+    "title": "Global Blue Group Holding AG (GB): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Theory",
+      "Blue",
+      "Group",
+      "Holding",
+      "Bull",
+      "Case",
+      "Global"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/camping-world-holdings-inc-cwh-200357026.html",
+    "title": "Camping World Holdings, Inc. (CWH): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Holdings",
+      "CWH",
+      "World",
+      "Camping",
+      "Theory",
+      "Bull",
+      "Case"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/chord-energy-corporation-chrd-bull-200554373.html",
+    "title": "Chord Energy Corporation (CHRD): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CHRD",
+      "Corporation",
+      "Theory",
       "Energy",
-      "Giant",
-      "Chevron",
-      "Eyes",
-      "Stock",
-      "Jumps"
+      "Bull",
+      "Case",
+      "Chord"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/ev-maker-mullen-automotive-rebrands-182933272.html",
-    "title": "EV Maker Mullen Automotive Rebrands To Bollinger Innovations",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/video/us-studying-crypto-assets-mortgage-193804008.html",
+    "title": "US Studying Crypto Assets in Mortgage Checks (Correct)",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Innovations",
-      "Maker",
-      "Mullen",
-      "Automotive",
-      "Rebrands",
-      "Bollinger"
+      "Correct",
+      "Checks",
+      "Studying",
+      "Crypto",
+      "Assets",
+      "Mortgage"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/la-corpgov-forum-sept-4-183116157.html",
-    "title": "LA CorpGov Forum Sept 4: Featuring Sports, Entertainment, IPOs, VCs, Activism & Asia",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/american-express-company-axp-bull-200611684.html",
+    "title": "American Express Company (AXP): A Bull Case Theory",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Entertainment",
-      "Activism",
-      "Asia",
-      "IPOs",
-      "VCs",
-      "Sept",
-      "Featuring",
-      "Sports",
-      "Forum",
-      "CorpGov"
+      "AXP",
+      "Company",
+      "Theory",
+      "Express",
+      "Bull",
+      "Case",
+      "American"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-ahead-of-u-s-cpi-data-f5332cef?siteid=yhoof2&yptr=yahoo",
-    "title": "Gold Slips as Big Buyers Pull Back",
+    "source": "News Index [RSS]",
+    "url": "https://www.wsj.com/finance/investing/blackrock-shares-tumble-after-big-client-redemption-blunts-quarterly-results-76295570?siteid=yhoof2&yptr=yahoo",
+    "title": "BlackRock Shares Tumble After Big Client Redemption Blunts Quarterly Results",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Back",
-      "Slips",
+      "Results",
+      "Shares",
+      "Tumble",
       "Big",
-      "Buyers",
-      "Pull",
-      "Gold"
+      "Client",
+      "Redemption",
+      "Blunts",
+      "Quarterly",
+      "BlackRock"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/trade-desk-joining-p-500-190315222.html",
-    "title": "Trade Desk Is Joining the S&P 500. Should You Buy TTD Stock Here?",
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/nvidia-stock-price-china-h20-ai-00ab9860?siteid=yhoof2&yptr=yahoo",
+    "title": "Nvidia Stock Climbs to New Record. Here\u2019s How Much Revenue H20 Chip Sales Can Drive.",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Desk",
-      "Joining",
-      "Trade",
-      "Buy",
-      "TTD",
-      "Stock"
+      "Record",
+      "Stock",
+      "Climbs",
+      "Nvidia",
+      "Revenue",
+      "Chip",
+      "Drive",
+      "Sales"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://www.wsj.com/economy/central-banking/dimon-defends-fed-independence-after-trump-attacks-6cb6b05f?siteid=yhoof2&yptr=yahoo",
-    "title": "Dimon Defends Fed Independence After Trump Attacks",
+    "source": "News Index [RSS]",
+    "url": "https://www.investors.com/news/tesla-stock-china-ev-sales-stabilizing-us-demand/?src=A00220&yptr=yahoo",
+    "title": "Tesla EV Sales Stabilizing In This Key Market But U.S. Demand Under Pressure",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Attacks",
-      "Defends",
-      "Fed",
-      "Independence",
-      "Trump",
-      "Dimon"
+      "Demand",
+      "Pressure",
+      "Sales",
+      "Stabilizing",
+      "Key",
+      "Market",
+      "Tesla"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/jamie-dimon-says-jpmorgan-more-190632064.html",
-    "title": "Jamie Dimon Says JPMorgan to Get More Involved With Stablecoins",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/jamie-dimon-says-jpmorgan-plans-194633900.html",
+    "title": "Jamie Dimon Says JPMorgan Plans to Get More Involved in Stablecoins",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "Stablecoins",
       "Dimon",
+      "Plans",
       "Involved",
       "Jamie",
       "JPMorgan"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/energy-commodities-q2-where-heading-190003863.html",
-    "title": "Energy Commodities in Q2- Where are they Heading in Q3?",
+    "source": "News Index [RSS]",
+    "url": "https://www.investors.com/news/tesla-stock-new-base-cathie-wood-is-buying-elon-musk-business-empire-consolidation/?src=A00220&yptr=yahoo",
+    "title": "Tesla Stock Has A New Base And Cathie Wood Is Buying As Elon Musk Looks To Consolidate Business Empire",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Commodities",
-      "Heading",
-      "Energy"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/articles/60-40-portfolio-stocks-bonds-risks-underperform-e62e7fae?siteid=yhoof2&yptr=yahoo",
-    "title": "The 60/40 Portfolio Doesn\u2019t Work Anymore. Why It Might Still Make Sense.",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Portfolio",
-      "Anymore",
-      "Work",
-      "Sense",
-      "n\u2019t",
-      "Make"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/dear-nvidia-stock-fans-mark-185459156.html",
-    "title": "Dear Nvidia Stock Fans, Mark Your Calendars for July 16",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Fans",
-      "Mark",
-      "July",
-      "Nvidia",
+      "Empire",
       "Stock",
-      "Calendars",
-      "Dear"
+      "Base",
+      "Cathie",
+      "Wood",
+      "Buying",
+      "Elon",
+      "Musk",
+      "Consolidate",
+      "Business"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/citigroup-ceo-confirms-bank-looking-190445686.html",
-    "title": "Citigroup CEO Confirms the Bank Is \u2018Looking at the Issuance of a Citi Stablecoin\u2019",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/dollar-rallies-higher-t-note-201138079.html",
+    "title": "Dollar Rallies on Higher T-note Yields",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Stablecoin\u2019",
-      "CEO",
-      "Confirms",
-      "Bank",
-      "Issuance",
-      "Citi",
-      "Citigroup"
+      "Yields",
+      "Rallies",
+      "Higher",
+      "T-note",
+      "Dollar"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/mp-materials-surging-500-million-184933027.html",
-    "title": "MP Materials Is Surging on a $500 Million Apple Deal. Should You Buy MP Stock Here?",
+    "source": "News Index [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-tariffs-07-15-2025/card/surprise-the-market-s-worst-kept-secret-9AmbH8HXfJnJFFfLcTsO?siteid=yhoof2&yptr=yahoo",
+    "title": "Surprise! The Market\u2019s Worst-Kept Secret",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Million",
-      "Deal",
-      "Materials",
-      "Surging",
-      "Apple",
-      "Buy",
-      "Stock"
+      "Surprise",
+      "Secret",
+      "Market",
+      "Worst-Kept"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://www.wsj.com/business/deals/waters-corp-deal-for-becton-dickinson-unit-a-long-term-play-with-some-risks-b8c095f5?siteid=yhoof2&yptr=yahoo",
-    "title": "Waters Corp. Deal for Becton Dickinson Unit a Long-Term Play With Some Risks",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-does-cash-back-work-204139973.html",
+    "title": "How to use a cash-back card to save money on everyday expenses",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Corp",
-      "Waters",
-      "Risks",
-      "Becton",
-      "Dickinson",
-      "Unit",
-      "Play",
-      "Deal",
-      "Long-Term"
+      "expenses",
+      "cash-back",
+      "card",
+      "save",
+      "money",
+      "everyday"
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/lennar-corporation-len-bull-case-184638757.html",
-    "title": "Lennar Corporation (LEN): A Bull Case Theory",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/p-500-only-crypto-stock-194634263.html",
+    "title": "S&P 500\u2019s only crypto stock shrugs off hot CPI",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "LEN",
-      "Corporation",
-      "Theory",
-      "Bull",
+      "CPI",
+      "crypto",
+      "stock",
+      "shrugs",
+      "hot"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.investors.com/news/technology/credo-stock-hits-record-high-amid-ai-data-center-ramps/?src=A00220&yptr=yahoo",
+    "title": "Credo Stock Hits Record High Amid AI Data Center Ramps",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ramps",
+      "Stock",
+      "Hits",
+      "Record",
+      "High",
+      "Amid",
+      "Data",
+      "Center",
+      "Credo"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/chinese-ev-geely-zeekr-c8cfee00?siteid=yhoof2&yptr=yahoo",
+    "title": "Chinese EV Makers to Combine. Geely Is Buying Zeekr.",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Combine",
+      "Makers",
+      "Chinese",
+      "Zeekr",
+      "Buying",
+      "Geely"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/nvidia-stock-hits-fresh-record-with-ai-chipmaker-set-to-resume-sales-in-china-after-us-reversal-on-ban-201403792.html",
+    "title": "Nvidia stock hits fresh record with AI chipmaker set to resume sales in China after US reversal on ban",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Nvidia",
+      "ban",
+      "stock",
+      "hits",
+      "fresh",
+      "record",
+      "chipmaker",
+      "set",
+      "resume"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/southern-copper-stock-freeport-mcmoran-downgrade-8cdb6e0e?siteid=yhoof2&yptr=yahoo",
+    "title": "Copper Fever Cools. The Case to Sell This Mining Stock.",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cools",
+      "Fever",
+      "Copper",
+      "Stock",
       "Case",
-      "Lennar"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/articles/insurance-stocks-earnings-tailwind-4b3d3650?siteid=yhoof2&yptr=yahoo",
-    "title": "Insurance Stocks Could See a Tailwind, Says Analyst",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Tailwind",
-      "Analyst",
-      "Stocks",
-      "Insurance"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/video/nvidia-able-sell-h20-ai-190514662.html",
-    "title": "Nvidia to be Able to Sell H20 AI Chip",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
       "Sell",
-      "Chip",
-      "Nvidia"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/mp-materials-corp-mp-bull-184335079.html",
-    "title": "MP Materials Corp. (MP): A Bull Case Theory",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Corp",
-      "Materials",
-      "Theory",
-      "Bull",
-      "Case"
+      "Mining"
     ]
   },
   {
@@ -11772,6 +11141,25 @@
   },
   {
     "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/credit-score-could-negatively-impacted-192000119.html",
+    "title": "Your credit score could be negatively impacted by this controversial court ruling about medical debt",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "debt",
+      "credit",
+      "score",
+      "negatively",
+      "impacted",
+      "controversial",
+      "court",
+      "ruling",
+      "medical"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/crude-oil-prices-remain-weak-192149915.html",
     "title": "Crude Oil Prices Remain Weak on Lack of Fresh Russian Sanctions",
     "published_at": "2025-07-17",
@@ -11787,22 +11175,6 @@
       "Fresh",
       "Russian",
       "Crude"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/video/nvidia-amd-stocks-rise-us-190235776.html",
-    "title": "Nvidia, AMD Stocks Rise on US-China Reversal",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Nvidia",
-      "AMD",
-      "Reversal",
-      "Stocks",
-      "Rise",
-      "US-China"
     ]
   },
   {
@@ -11846,6 +11218,35 @@
   },
   {
     "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071525/card/gold-slips-as-big-buyers-pull-back-SaiDix4N8C9r9OAR9qJv?siteid=yhoof2&yptr=yahoo",
+    "title": "Gold Slips as Big Buyers Pull Back",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Back",
+      "Slips",
+      "Big",
+      "Buyers",
+      "Pull",
+      "Gold"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/why-blackrock-fell-today-192136940.html",
+    "title": "Why BlackRock Fell Today",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Today",
+      "Fell",
+      "BlackRock"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/yellow-corp-sell-4-terminals-193215065.html",
     "title": "Yellow Corp. to sell 4 terminals for $6.9M",
     "published_at": "2025-07-17",
@@ -11856,23 +11257,6 @@
       "Yellow",
       "sell",
       "terminals"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/kraft-heinz-bondholders-position-company-185912709.html",
-    "title": "Kraft Heinz Bondholders Position for Company\u2019s Potential Split",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Split",
-      "Heinz",
-      "Bondholders",
-      "Position",
-      "Company",
-      "Potential",
-      "Kraft"
     ]
   },
   {
@@ -11889,21 +11273,6 @@
       "Tariffs",
       "Boost",
       "Treasury"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/transition-spending-from-debit-to-credit-card-182829893.html",
-    "title": "How to transition your spending from a debit to a credit card",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "card",
-      "transition",
-      "spending",
-      "debit",
-      "credit"
     ]
   },
   {
@@ -11925,6 +11294,22 @@
   },
   {
     "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/why-joby-aviation-stock-flying-192931742.html",
+    "title": "Why Joby Aviation Stock Is Flying High Today",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Today",
+      "Joby",
+      "Aviation",
+      "Stock",
+      "Flying",
+      "High"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
     "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-mixed-developments-82341c79?siteid=yhoof2&yptr=yahoo",
     "title": "Oil Falls As Eventual Oversupply Concerns Weigh",
     "published_at": "2025-07-17",
@@ -11941,21 +11326,6 @@
   },
   {
     "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/banking-experts-7-tricks-most-190148453.html",
-    "title": "Banking Experts: 7 Tricks To Make the Most of Your Accounts",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Experts",
-      "Tricks",
-      "Accounts",
-      "Make",
-      "Banking"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
     "url": "https://www.barrons.com/livecoverage/wells-fargo-jp-morgan-morgan-stanley-blackrock-bny-mellon-earnings/card/bank-earnings-show-the-economy-is-doing-just-fine-for-now-1zTBybcMFqhDp4VpI1OW?siteid=yhoof2&yptr=yahoo",
     "title": "Bank Earnings Show the Economy Is Doing Just Fine\u2014For Now",
     "published_at": "2025-07-17",
@@ -11967,20 +11337,6 @@
       "Show",
       "Economy",
       "Bank"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-spot-credit-card-skimmers-220005531.html",
-    "title": "How to spot credit card skimmers",
-    "published_at": "2025-07-17",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "skimmers",
-      "spot",
-      "credit",
-      "card"
     ]
   },
   {
@@ -12005,15 +11361,16 @@
   },
   {
     "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/investing-myth-investing-just-gambling-184100441.html",
-    "title": "Investing Myth: Is Investing Just \"Gambling\"?",
+    "url": "https://finance.yahoo.com/news/heres-why-whirlpool-stock-broke-193353364.html",
+    "title": "Here's Why Whirlpool Stock Broke Down Today",
     "published_at": "2025-07-17",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Gambling",
-      "Myth",
-      "Investing"
+      "Today",
+      "Whirlpool",
+      "Stock",
+      "Broke"
     ]
   },
   {
@@ -12060,6 +11417,343 @@
       "fix",
       "problems",
       "global"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/former-h-m-ceo-helena-193619016.html",
+    "title": "Former H&M CEO Helena Helmersson Joins Mango Board",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Board",
+      "CEO",
+      "Helena",
+      "Helmersson",
+      "Joins",
+      "Mango"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/neogen-neog-bull-case-theory-200303619.html",
+    "title": "Neogen (NEOG): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NEOG",
+      "Neogen",
+      "Theory",
+      "Bull",
+      "Case"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/global-blue-group-holding-ag-200342448.html",
+    "title": "Global Blue Group Holding AG (GB): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Theory",
+      "Blue",
+      "Group",
+      "Holding",
+      "Bull",
+      "Case",
+      "Global"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/camping-world-holdings-inc-cwh-200357026.html",
+    "title": "Camping World Holdings, Inc. (CWH): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Holdings",
+      "CWH",
+      "World",
+      "Camping",
+      "Theory",
+      "Bull",
+      "Case"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/chord-energy-corporation-chrd-bull-200554373.html",
+    "title": "Chord Energy Corporation (CHRD): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CHRD",
+      "Corporation",
+      "Theory",
+      "Energy",
+      "Bull",
+      "Case",
+      "Chord"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/video/us-studying-crypto-assets-mortgage-193804008.html",
+    "title": "US Studying Crypto Assets in Mortgage Checks (Correct)",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Correct",
+      "Checks",
+      "Studying",
+      "Crypto",
+      "Assets",
+      "Mortgage"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/american-express-company-axp-bull-200611684.html",
+    "title": "American Express Company (AXP): A Bull Case Theory",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AXP",
+      "Company",
+      "Theory",
+      "Express",
+      "Bull",
+      "Case",
+      "American"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/investing/blackrock-shares-tumble-after-big-client-redemption-blunts-quarterly-results-76295570?siteid=yhoof2&yptr=yahoo",
+    "title": "BlackRock Shares Tumble After Big Client Redemption Blunts Quarterly Results",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Results",
+      "Shares",
+      "Tumble",
+      "Big",
+      "Client",
+      "Redemption",
+      "Blunts",
+      "Quarterly",
+      "BlackRock"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/nvidia-stock-price-china-h20-ai-00ab9860?siteid=yhoof2&yptr=yahoo",
+    "title": "Nvidia Stock Climbs to New Record. Here\u2019s How Much Revenue H20 Chip Sales Can Drive.",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Record",
+      "Stock",
+      "Climbs",
+      "Nvidia",
+      "Revenue",
+      "Chip",
+      "Drive",
+      "Sales"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.investors.com/news/tesla-stock-china-ev-sales-stabilizing-us-demand/?src=A00220&yptr=yahoo",
+    "title": "Tesla EV Sales Stabilizing In This Key Market But U.S. Demand Under Pressure",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Demand",
+      "Pressure",
+      "Sales",
+      "Stabilizing",
+      "Key",
+      "Market",
+      "Tesla"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/jamie-dimon-says-jpmorgan-plans-194633900.html",
+    "title": "Jamie Dimon Says JPMorgan Plans to Get More Involved in Stablecoins",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stablecoins",
+      "Dimon",
+      "Plans",
+      "Involved",
+      "Jamie",
+      "JPMorgan"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.investors.com/news/tesla-stock-new-base-cathie-wood-is-buying-elon-musk-business-empire-consolidation/?src=A00220&yptr=yahoo",
+    "title": "Tesla Stock Has A New Base And Cathie Wood Is Buying As Elon Musk Looks To Consolidate Business Empire",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Empire",
+      "Stock",
+      "Base",
+      "Cathie",
+      "Wood",
+      "Buying",
+      "Elon",
+      "Musk",
+      "Consolidate",
+      "Business"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/dollar-rallies-higher-t-note-201138079.html",
+    "title": "Dollar Rallies on Higher T-note Yields",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Yields",
+      "Rallies",
+      "Higher",
+      "T-note",
+      "Dollar"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-tariffs-07-15-2025/card/surprise-the-market-s-worst-kept-secret-9AmbH8HXfJnJFFfLcTsO?siteid=yhoof2&yptr=yahoo",
+    "title": "Surprise! The Market\u2019s Worst-Kept Secret",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Surprise",
+      "Secret",
+      "Market",
+      "Worst-Kept"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-does-cash-back-work-204139973.html",
+    "title": "How to use a cash-back card to save money on everyday expenses",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "expenses",
+      "cash-back",
+      "card",
+      "save",
+      "money",
+      "everyday"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/p-500-only-crypto-stock-194634263.html",
+    "title": "S&P 500\u2019s only crypto stock shrugs off hot CPI",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CPI",
+      "crypto",
+      "stock",
+      "shrugs",
+      "hot"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.investors.com/news/technology/credo-stock-hits-record-high-amid-ai-data-center-ramps/?src=A00220&yptr=yahoo",
+    "title": "Credo Stock Hits Record High Amid AI Data Center Ramps",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ramps",
+      "Stock",
+      "Hits",
+      "Record",
+      "High",
+      "Amid",
+      "Data",
+      "Center",
+      "Credo"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/chinese-ev-geely-zeekr-c8cfee00?siteid=yhoof2&yptr=yahoo",
+    "title": "Chinese EV Makers to Combine. Geely Is Buying Zeekr.",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Combine",
+      "Makers",
+      "Chinese",
+      "Zeekr",
+      "Buying",
+      "Geely"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/nvidia-stock-hits-fresh-record-with-ai-chipmaker-set-to-resume-sales-in-china-after-us-reversal-on-ban-201403792.html",
+    "title": "Nvidia stock hits fresh record with AI chipmaker set to resume sales in China after US reversal on ban",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Nvidia",
+      "ban",
+      "stock",
+      "hits",
+      "fresh",
+      "record",
+      "chipmaker",
+      "set",
+      "resume"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/southern-copper-stock-freeport-mcmoran-downgrade-8cdb6e0e?siteid=yhoof2&yptr=yahoo",
+    "title": "Copper Fever Cools. The Case to Sell This Mining Stock.",
+    "published_at": "2025-07-17",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cools",
+      "Fever",
+      "Copper",
+      "Stock",
+      "Case",
+      "Sell",
+      "Mining"
     ]
   }
 ]
