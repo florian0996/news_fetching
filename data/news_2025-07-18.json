@@ -1,22 +1,78 @@
 [
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/live-blog/2025-07-18/ftse-100-live-pound-burberry-gilts-usd-gbp-trump-tariffs-what-s-moving-uk-markets-right-now-markets-today",
+    "title": "FTSE 100 Returns to 9,000 Point Milestone, Burberry Rises",
+    "published_at": "Fri, 18 Jul 2025 05:41:27 GMT",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FTSE",
+      "Returns",
+      "Point",
+      "Milestone",
+      "Burberry",
+      "Rises"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-18/japan-bond-yields-slump-as-traders-navigate-uncertain-election",
-    "title": "Japan Bond Yields Slump as Traders Navigate Uncertain Election",
+    "title": "Japanese Bonds Rally as Traders Navigate Uncertain Election",
     "published_at": "Fri, 18 Jul 2025 06:21:12 GMT",
-    "content": "Japanese government bonds rallied Friday, with yields dropping across maturities, ahead of Sunday\u2019s closely-watched upper house election.",
+    "content": "Japanese government bonds rose Friday, with yields dropping across maturities, ahead of Sunday\u2019s closely-watched upper house election.",
     "platforms_mentioned": [],
     "keywords": [
       "Friday",
-      "Yields",
+      "Japanese",
+      "Bonds",
       "Election",
-      "Slump",
+      "Rally",
       "Traders",
       "Navigate",
       "Uncertain",
-      "Japanese",
       "Sunday",
-      "Japan"
+      "maturities"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/latest-oil-market-news-and-analysis-for-july-18",
+    "title": "Oil Climbs as EU Tightens Russian Sanctions With Lower Price Cap",
+    "published_at": "Thu, 17 Jul 2025 23:31:16 GMT",
+    "content": "Oil rose as the European Union agreed to a lower price cap for Russian crude, and data showed the US economy holding up despite the fallout from the Washington-led trade war.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Price",
+      "Russian",
+      "Lower",
+      "Cap",
+      "Oil",
+      "Climbs",
+      "Tightens",
+      "Sanctions",
+      "European",
+      "Union"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-18/valterra-first-half-profit-slumps-on-lower-sales-demerger-costs",
+    "title": "Valterra First-Half\u00a0Profit\u00a0Slumps On Lower Sales, Demerger Costs",
+    "published_at": "Fri, 18 Jul 2025 06:28:12 GMT",
+    "content": "Valterra Platinum Ltd. said first-half profit likely fell as much as 98% due to a drop in sales and costs related to the company\u2019s spinoff from Anglo American Plc earlier this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Demerger",
+      "Valterra",
+      "Slumps",
+      "Lower",
+      "Platinum",
+      "Profit",
+      "Sales",
+      "Costs",
+      "First-Half",
+      "Anglo"
     ]
   },
   {
@@ -101,25 +157,6 @@
   },
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
-    "url": "https://www.bloomberg.com/news/live-blog/2025-07-18/ftse-100-live-pound-burberry-gilts-usd-gbp-trump-tariffs-what-s-moving-uk-markets-right-now-markets-today",
-    "title": "FTSE 100 Live: UK Stocks Set to Extend Rise, Pound Pares Against Dollar",
-    "published_at": "Fri, 18 Jul 2025 05:41:27 GMT",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "FTSE",
-      "Live",
-      "Rise",
-      "Pound",
-      "Dollar",
-      "Stocks",
-      "Set",
-      "Extend",
-      "Pares"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-18/gold-steady-as-traders-weigh-us-economy-rate-cut-directions",
     "title": "Gold Steady as Traders Weigh US Economy, Rate Cut Directions",
     "published_at": "Fri, 18 Jul 2025 00:59:53 GMT",
@@ -136,26 +173,6 @@
       "Federal",
       "Reserve",
       "Cut"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Markets [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/latest-oil-market-news-and-analysis-for-july-18",
-    "title": "Oil Climbs Again as Traders Weigh Signals of Near-Term Tightness",
-    "published_at": "Thu, 17 Jul 2025 23:31:16 GMT",
-    "content": "Oil headed for a back-to-back daily gain after US data showed the world\u2019s largest economy holding up despite the fallout from the Washington-led trade war, while market metrics pointed to near-term tightness.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Tightness",
-      "Oil",
-      "Near-Term",
-      "Climbs",
-      "Traders",
-      "Weigh",
-      "Signals",
-      "Washington-led",
-      "daily",
-      "war"
     ]
   },
   {
@@ -281,7 +298,7 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-18/ecb-may-wait-until-december-to-make-final-rate-cut-survey-shows",
-    "title": "ECB May Wait Until December to Make Final Rate Cut, Survey Shows",
+    "title": "ECB Can Afford to Wait Until December to Make Final Rate Cut, Survey Shows",
     "published_at": "Fri, 18 Jul 2025 04:00:00 GMT",
     "content": "The European Central Bank can delay its final interest-rate cut until December without investors concluding in the meantime that easing is over, a Bloomberg survey of economists showed.",
     "platforms_mentioned": [],
@@ -291,11 +308,11 @@
       "Final",
       "Cut",
       "Survey",
+      "Afford",
       "Wait",
       "Make",
       "Rate",
-      "Shows",
-      "European"
+      "Shows"
     ]
   },
   {
@@ -376,6 +393,26 @@
       "ramped",
       "injection",
       "banking"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-18/hk-builder-emperor-revises-debt-plan-seeks-loan-extensions",
+    "title": "Hong Kong\u00a0Builder Emperor Revises Debt Plan, Seeks Loan Extensions",
+    "published_at": "Fri, 18 Jul 2025 02:32:26 GMT",
+    "content": "Hong Kong\u2019s property slump is weighing on a range of local developers, with a well-known but smaller-scale builder the latest to seek relief from creditors.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kong",
+      "Plan",
+      "Hong",
+      "Builder",
+      "Emperor",
+      "Revises",
+      "Debt",
+      "Loan",
+      "Extensions",
+      "developers"
     ]
   },
   {
@@ -559,43 +596,63 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
-    "url": "https://www.bloomberg.com/news/videos/2025-07-17/the-close-7-17-2025-video",
-    "title": "S&P 500, Nasdaq New Record Highs; Netflix Earnings | The Close 7/17/2025",
-    "published_at": "Thu, 17 Jul 2025 23:08:26 GMT",
-    "content": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Cleo Capital's Sarah Kunst, City University of New York's Paul Krugman, Marathon Asset Management's Bruce Richards, Telsey Advisory Group's Dana Telsey, Lightshed Partners' Walter Piecyk, Simpler Trading's Danielle Shay, Emarketer's Paul Verna, Touring Plans' Len Testa, and Waseda University's Roland Kelts. (Source: Bloomberg)",
+    "source": "Bloomberg \u2013 Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/g-20-tries-to-keep-agenda-on-course-in-face-of-trump-s-trade-war",
+    "title": "Trump\u2019s Trade War Tests G-20\u2019s Resolve to Stay on Course",
+    "published_at": "Thu, 17 Jul 2025 16:39:06 GMT",
+    "content": "As some of the world\u2019s most powerful finance ministers meet at a beach-side resort in South Africa, this year\u2019s Group of 20 host is trying to keep its agenda on course.",
     "platforms_mentioned": [],
     "keywords": [
-      "Nasdaq",
-      "Highs",
-      "Netflix",
-      "Earnings",
-      "Close",
-      "Street",
-      "Record",
-      "Television",
-      "Wall",
-      "Bloomberg"
+      "Tests",
+      "Africa",
+      "Trade",
+      "War",
+      "Resolve",
+      "Stay",
+      "South",
+      "Group",
+      "Trump",
+      "host"
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/ftc-sets-aside-orders-against-exxon-chevron-board-appointments-md7x2o8k",
-    "title": "FTC Tosses Orders Against Exxon, Chevron Board Appointments",
-    "published_at": "Thu, 17 Jul 2025 21:43:14 GMT",
-    "content": "The US Federal Trade Commission set aside orders barring long-time shale bosses Scott Sheffield and John Hess from joining the boards of Exxon Mobil Corp. and Chevron Corp.",
+    "source": "Bloomberg \u2013 Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/uk-labour-suspends-veteran-left-wing-mp-over-anti-semitism-row",
+    "title": "UK Labour Suspends Veteran Left-Wing MP Over Anti-Semitism",
+    "published_at": "Thu, 17 Jul 2025 17:57:17 GMT",
+    "content": "Keir Starmer\u2019s Labour Party has suspended a veteran left-wing Member of Parliament and launched an investigation into comments she made about anti-Jewish racism, the latest in a spate of ill-discipline dogging the British prime minister.",
     "platforms_mentioned": [],
     "keywords": [
-      "FTC",
-      "Corp",
-      "Exxon",
-      "Chevron",
-      "Orders",
-      "Tosses",
-      "Appointments",
-      "Federal",
-      "Trade",
-      "Commission"
+      "Labour",
+      "Veteran",
+      "Suspends",
+      "Keir",
+      "Starmer",
+      "Party",
+      "Member",
+      "Parliament",
+      "British",
+      "Left-Wing"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-18/eu-backs-revised-russia-oil-price-cap-and-new-russia-sanctions",
+    "title": "EU Backs Revised Russia Oil Price Cap and New Russia Sanctions",
+    "published_at": "Fri, 18 Jul 2025 06:46:22 GMT",
+    "content": "European Union states have approved a fresh sanctions package on Russia over its war against Ukraine, which includes a revised oil price cap and new banking restrictions, after Slovakia lifted its veto.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Russia",
+      "Price",
+      "Cap",
+      "Oil",
+      "Ukraine",
+      "Revised",
+      "Sanctions",
+      "Backs",
+      "European",
+      "Union"
     ]
   },
   {
@@ -616,26 +673,6 @@
       "Deal",
       "Set",
       "Meet"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Politics [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/g-20-tries-to-keep-agenda-on-course-in-face-of-trump-s-trade-war",
-    "title": "Trump\u2019s Trade War Tests G-20\u2019s Resolve to Stay on Course",
-    "published_at": "Thu, 17 Jul 2025 16:39:06 GMT",
-    "content": "As some of the world\u2019s most powerful finance ministers meet at a beach-side resort in South Africa, this year\u2019s Group of 20 host is trying to keep its agenda on course.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Tests",
-      "Africa",
-      "Trade",
-      "War",
-      "Resolve",
-      "Stay",
-      "South",
-      "Group",
-      "Trump",
-      "host"
     ]
   },
   {
@@ -701,7 +738,7 @@
   {
     "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-18/ecb-may-wait-until-december-to-make-final-rate-cut-survey-shows",
-    "title": "ECB May Wait Until December to Make Final Rate Cut, Survey Shows",
+    "title": "ECB Can Afford to Wait Until December to Make Final Rate Cut, Survey Shows",
     "published_at": "Fri, 18 Jul 2025 04:00:00 GMT",
     "content": "The European Central Bank can delay its final interest-rate cut until December without investors concluding in the meantime that easing is over, a Bloomberg survey of economists showed.",
     "platforms_mentioned": [],
@@ -711,11 +748,11 @@
       "Final",
       "Cut",
       "Survey",
+      "Afford",
       "Wait",
       "Make",
       "Rate",
-      "Shows",
-      "European"
+      "Shows"
     ]
   },
   {
@@ -1156,46 +1193,6 @@
       "Elizabeth",
       "Treasury",
       "Secretary"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Politics [RSS]",
-    "url": "https://www.bloomberg.com/news/newsletters/2025-07-17/trump-s-budget-director-says-more-partisan-spending-bills-are-better",
-    "title": "White House Says \u2018More Partisan\u2019 Spending Bills Are Better",
-    "published_at": "Thu, 17 Jul 2025 20:36:58 GMT",
-    "content": "This is Washington Edition, the newsletter about money, power and politics in the nation\u2019s capital. Today, White House correspondent Gregory Korte looks at the Trump administration\u2019s latest budget maneuvers. Sign up here and follow us at @bpolitics. Email our editors here.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "White",
-      "Edition",
-      "House",
-      "Partisan\u2019",
-      "Spending",
-      "Bills",
-      "Washington",
-      "money",
-      "power",
-      "capital"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Politics [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/texas-google-antitrust-trial-delayed-pending-related-doj-case",
-    "title": "Texas Google Antitrust Trial Delayed Pending Related DOJ Case",
-    "published_at": "Thu, 17 Jul 2025 20:05:49 GMT",
-    "content": "A judge delayed an Aug. 11 trial against Alphabet Inc.\u2019s Google over claims by a Texas-led group of states that the company illegally monopolized the market for tools to publish online display advertisements.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Aug.",
-      "Google",
-      "Trial",
-      "Delayed",
-      "Antitrust",
-      "Pending",
-      "Related",
-      "DOJ",
-      "Case",
-      "Alphabet"
     ]
   },
   {
@@ -1792,7 +1789,7 @@
   {
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-18/nvidia-ceo-huang-emerges-as-reluctant-emissary-in-us-china-clash",
-    "title": "Nvidia CEO Huang Emerges as Reluctant Emissary in US-China Clash",
+    "title": "Nvidia CEO Huang Emerges as Reluctant Emissary for US-China",
     "published_at": "Fri, 18 Jul 2025 05:30:00 GMT",
     "content": "Days after a White House meeting with President Donald Trump, Jensen Huang was being hailed by an audience on a stage in Beijing.",
     "platforms_mentioned": [],
@@ -1805,8 +1802,8 @@
       "Emerges",
       "Reluctant",
       "Emissary",
-      "Clash",
-      "Days"
+      "Days",
+      "White"
     ]
   },
   {
@@ -2431,7 +2428,7 @@
   {
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-18/ecb-may-wait-until-december-to-make-final-rate-cut-survey-shows",
-    "title": "ECB May Wait Until December to Make Final Rate Cut, Survey Shows",
+    "title": "ECB Can Afford to Wait Until December to Make Final Rate Cut, Survey Shows",
     "published_at": "Fri, 18 Jul 2025 04:00:00 GMT",
     "content": "The European Central Bank can delay its final interest-rate cut until December without investors concluding in the meantime that easing is over, a Bloomberg survey of economists showed.",
     "platforms_mentioned": [],
@@ -2441,11 +2438,11 @@
       "Final",
       "Cut",
       "Survey",
+      "Afford",
       "Wait",
       "Make",
       "Rate",
-      "Shows",
-      "European"
+      "Shows"
     ]
   },
   {
@@ -2987,21 +2984,61 @@
   {
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-18/reckitt-to-sell-homecare-brands-to-advent-in-4-8-billion-deal",
-    "title": "Reckitt to Sell Homecare Brands to Advent in $4.8 Billion Deal",
+    "title": "Reckitt Sells Homecare Brands to Advent in $4.8 Billion Deal",
     "published_at": "Fri, 18 Jul 2025 06:16:09 GMT",
-    "content": "Reckitt Benckiser Group Plc agreed to sell most of its home-care business to private equity firm Advent International for an enterprise value of up to $4.8 billion.",
+    "content": "Reckitt Benckiser Group Plc agreed to sell most of its homecare business to private equity firm Advent International for an enterprise value of up to $4.8 billion as the UK consumer goods company focuses on faster-growing operations.",
     "platforms_mentioned": [],
     "keywords": [
       "Billion",
       "Advent",
-      "Sell",
       "Reckitt",
       "Homecare",
       "Brands",
       "Deal",
       "Benckiser",
       "Group",
+      "Plc",
+      "International"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-17/gsk-s-blood-cancer-drug-blenrep-fails-to-win-fda-panel-support",
+    "title": "GSK Falls After FDA Advisory Panel Fails to Back Cancer Drug",
+    "published_at": "Thu, 17 Jul 2025 17:02:57 GMT",
+    "content": "GSK Plc shares tumbled after its blood cancer drug failed to secure the backing of a panel of US regulatory advisers, putting its approval in doubt.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GSK",
+      "Cancer",
+      "Drug",
+      "Panel",
+      "Falls",
+      "FDA",
+      "Advisory",
+      "Fails",
+      "Back",
       "Plc"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-18/danske-net-interest-income-tops-estimates-on-lending-activity",
+    "title": "Danske Net Interest Income Tops Estimates on Loan Demand",
+    "published_at": "Fri, 18 Jul 2025 05:48:16 GMT",
+    "content": "Danske Bank A/S, the largest lender in Denmark, reported better-than-expected lending income in the second quarter as brisker demand for loans offset the impact of lower deposit margins.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Denmark",
+      "reported",
+      "Danske",
+      "Income",
+      "Demand",
+      "Net",
+      "Interest",
+      "Tops",
+      "Estimates",
+      "Bank"
     ]
   },
   {
@@ -3022,26 +3059,6 @@
       "underperformance",
       "agreed",
       "company"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-18/danske-net-interest-income-tops-estimates-on-lending-activity",
-    "title": "Danske Net Interest Income Tops Estimates on Lending Activity",
-    "published_at": "Fri, 18 Jul 2025 05:48:16 GMT",
-    "content": "Danske Bank A/S, the largest lender in Denmark, reported better-than-expected lending income in the second quarter as brisker demand for loans offset the impact of lower deposit margins.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Denmark",
-      "reported",
-      "Danske",
-      "Income",
-      "Lending",
-      "Net",
-      "Interest",
-      "Tops",
-      "Estimates",
-      "Activity"
     ]
   },
   {
@@ -3366,26 +3383,6 @@
   },
   {
     "source": "Bloomberg \u2013 Industries [RSS]",
-    "url": "https://www.bloomberg.com/news/articles/2025-07-17/gsk-s-blood-cancer-drug-blenrep-fails-to-win-fda-panel-support",
-    "title": "GSK Blood Cancer Drug Blenrep Fails to Win FDA Panel Support",
-    "published_at": "Thu, 17 Jul 2025 17:02:57 GMT",
-    "content": "GSK Plc\u2019s blood cancer drug failed to secure the backing of a panel of US regulatory advisers, putting its approval in doubt.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Cancer",
-      "GSK",
-      "Blood",
-      "Drug",
-      "Panel",
-      "Blenrep",
-      "Fails",
-      "Win",
-      "FDA",
-      "Support"
-    ]
-  },
-  {
-    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-17/unigel-said-to-get-loan-offer-that-could-force-bankruptcy-filing",
     "title": "Fertilizer Maker Unigel Gets Loan Offer That Could Force Bankruptcy Filing",
     "published_at": "Thu, 17 Jul 2025 21:13:37 GMT",
@@ -3582,6 +3579,886 @@
       "buy",
       "Rolls-Royce",
       "Dreamliner"
+    ]
+  },
+  {
+    "source": "PerthNow [NewsAPI]",
+    "url": "https://www.perthnow.com.au/entertainment/comedy/kevin-hart-comedian-and-film-star-bringing-acting-my-age-stand-up-tour-to-australia-in-september--c-19387171",
+    "title": "Kevin Hart: Comedian and film star bringing Acting My Age stand up tour to Australia in September",
+    "published_at": "2025-07-17T07:22:54Z",
+    "content": "Comedy superstar Kevin Hart will bring his larger-than-life stand-up show Down Under this year, launching his Acting My Age tour at Perths RAC Arena on September 23.\r\nAnnouncing a very limited nation\u2026 [+1484 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hart",
+      "Acting",
+      "Age",
+      "September",
+      "Comedian",
+      "Kevin",
+      "Australia",
+      "Comedy",
+      "Perths",
+      "RAC"
+    ]
+  },
+  {
+    "source": "Fast3d.io [NewsAPI]",
+    "url": "https://fast3d.io",
+    "title": "Show HN:Convert text/image to 3D model in seconds,No Login Required",
+    "published_at": "2025-07-17T07:22:13Z",
+    "content": "What file formats can I export my 3D models in?\r\nFast3D.io supports multiple export formats including GLB/GLTF, FBX, OBJ/MTL, and STL, making it compatible with virtually any 3D software, game engine\u2026 [+2477 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Convert",
+      "model",
+      "models",
+      "Login",
+      "Required",
+      "Show",
+      "text",
+      "image",
+      "GLTF",
+      "FBX"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/keycorp-nysekey-receives-19-18-average-price-target-from-brokerages/",
+    "title": "KeyCorp (NYSE:KEY) Receives $19.18 Average Price Target from Brokerages",
+    "published_at": "2025-07-17T07:20:56Z",
+    "content": "Shares of KeyCorp (NYSE:KEY \u2013 Get Free Report) have earned a consensus rating of \u201cModerate Buy\u201d from the twenty-one analysts that are currently covering the company, Marketbeat.com reports. Ten analy\u2026 [+5508 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "KEY",
+      "Receives",
+      "Average",
+      "Moderate",
+      "Buy",
+      "Marketbeat.com",
+      "KeyCorp",
+      "Price",
+      "Target"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/avoid-pure-play-brokerage-firms-go-for-wealth-management-stocks-hemang-jani/articleshow/122622120.cms",
+    "title": "Avoid pure play brokerage firms, go for wealth management stocks: Hemang Jani",
+    "published_at": "2025-07-17T07:20:47Z",
+    "content": "Hemang Jani, Independent Market Expert, says pure play brokerage firms, heavily reliant on F&amp;O volume for 75-80% of their revenue, may face pressure until volume stability emerges. While Angel On\u2026 [+4775 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hemang",
+      "Jani",
+      "firms",
+      "Independent",
+      "Expert",
+      "play",
+      "brokerage",
+      "Market",
+      "pure",
+      "Avoid"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/?p=463962",
+    "title": "Kimi K2 AI Model by Moonshot Review : The Affordable AI That\u2019s Shaking Up the Industry",
+    "published_at": "2025-07-17T07:18:37Z",
+    "content": "What if you could harness the power of advanced AI without draining your budget? Enter the Kimi K2 AI model by Moonshot AI, a tool that\u2019s turning heads in the developer community for its bold promise\u2026 [+6775 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Review",
+      "Moonshot",
+      "Kimi",
+      "Model",
+      "Affordable",
+      "Shaking",
+      "Industry",
+      "budget",
+      "harness",
+      "power"
+    ]
+  },
+  {
+    "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG [NewsAPI]",
+    "url": "https://www.legit.ng/entertainment/celebrities/1664710-michelle-barack-obama-finally-address-divorce-rumours-ve-hard-times/",
+    "title": "Michelle And Barack Obama Finally Address Divorce Rumours: \"We've Had Some Really Hard Times\"",
+    "published_at": "2025-07-17T07:16:31Z",
+    "content": "<ul><li>Former US president Barack Obama and Michelle have finally addressed the divorce rumours swirling around them</li><li>The ex-First Lady has, on several occasions, thrown shots at Barack, furt\u2026 [+3616 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Barack",
+      "Obama",
+      "Divorce",
+      "Rumours",
+      "Times",
+      "furt",
+      "chars",
+      "Michelle",
+      "Finally",
+      "Address"
+    ]
+  },
+  {
+    "source": "Globalsecurity.org [NewsAPI]",
+    "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250716-usn01.htm",
+    "title": "USNS Comfort Arrives in Dominican Republic for CP25",
+    "published_at": "2025-07-17T07:16:28Z",
+    "content": "US Navy\r\n16 July 2025From Petty Officer 2nd Class Alfredo Marron - U.S. Naval Forces Southern Command / U.S. 4th Fleet\r\nPUERTO PLATA, Dominican Republic -- The Mercy-class hospital ship USNS Comfort \u2026 [+4798 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "USNS",
+      "Comfort",
+      "Dominican",
+      "Republic",
+      "chars",
+      "Navy",
+      "Petty",
+      "Officer",
+      "Class"
+    ]
+  },
+  {
+    "source": "Japan Today [NewsAPI]",
+    "url": "https://japantoday.com/category/politics/factbox-how-could-japan%27s-election-affect-economic-policy",
+    "title": "How could Japan's election affect economic policy?",
+    "published_at": "2025-07-17T07:13:38Z",
+    "content": "Japan's Liberal Democratic Party ruling coalition may lose its majority in the upper house in an election on Sunday, which could heighten calls for the government to boost spending and cut tax.\r\nHere\u2026 [+3491 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "policy",
+      "Japan",
+      "Sunday",
+      "election",
+      "affect",
+      "economic",
+      "Liberal",
+      "Democratic",
+      "Party",
+      "chars"
+    ]
+  },
+  {
+    "source": "7NEWS.com.au [NewsAPI]",
+    "url": "https://7news.com.au/news/elderly-woman-killed-as-car-crashes-into-tree-on-a-major-adelaide-highway-c-19387867",
+    "title": "Elderly woman killed as car crashes into tree on a major Adelaide highway",
+    "published_at": "2025-07-17T07:11:55Z",
+    "content": "A woman has died and a man is fighting for his life in hospital after their car hit a tree on a major highway.\r\nThe man was behind the wheel of the car when it crashed into the tree along Adelaides A\u2026 [+491 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "major",
+      "woman",
+      "highway",
+      "tree",
+      "car",
+      "Elderly",
+      "man",
+      "Adelaide",
+      "Adelaides",
+      "killed"
+    ]
+  },
+  {
+    "source": "Cleanthesky.com [NewsAPI]",
+    "url": "https://www.cleanthesky.com/innovation/mondi-partnered-with-saga-nutrition",
+    "title": "Sustainable Pet Food Packaging - Mondi Partnered with Saga Nutrition Creating Eco-Friendly Solutions (TrendHunter.com)",
+    "published_at": "2025-07-17T07:10:06Z",
+    "content": "Mondi partnered with Saga Nutrition to launch sustainable pet food packaging, combining the global packaging leader's sustainability expertise with specialized pet nutrition knowledge to create innov\u2026 [+966 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mondi",
+      "Saga",
+      "Nutrition",
+      "Food",
+      "Partnered",
+      "Pet",
+      "Packaging",
+      "Solutions",
+      "TrendHunter.com",
+      "chars"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/credit-card-emi-explained-how-to-use-pros-and-cons",
+    "title": "Credit Card EMI Explained: How To Use, Pros And Cons",
+    "published_at": "2025-07-17T07:07:07Z",
+    "content": "Credit card EMIs (Equated Monthly Instalments) have transformed the shopping experience, particularly for online purchases. They have become a popular option to manage large expenses with minimal imm\u2026 [+445 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "Explained",
+      "Pros",
+      "Equated",
+      "Instalments",
+      "Credit",
+      "Cons",
+      "Monthly",
+      "EMI",
+      "EMIs"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/maanum-knocked-out-euro-2025-norway",
+    "title": "Maanum knocked out of Euro 2025 with Norway",
+    "published_at": "2025-07-17T07:06:55Z",
+    "content": "Norway have been eliminated from UEFA Womens Euro 2025 following last nights 2-1 defeat to Italy.\r\nFrida Maanum played 64 minutes before being replaced by Elisabeth Terland as their nations journey c\u2026 [+894 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Euro",
+      "Norway",
+      "Italy",
+      "UEFA",
+      "Womens",
+      "Maanum",
+      "chars",
+      "knocked",
+      "eliminated",
+      "nights"
+    ]
+  },
+  {
+    "source": "Observer.co.uk [NewsAPI]",
+    "url": "https://observer.co.uk/news/international/article/there-is-no-political-power-without-power-over-the-archive",
+    "title": "'There is no political power without power over the archive' [The Observer]",
+    "published_at": "2025-07-17T07:06:09Z",
+    "content": "I am a librarian. I am fortunate enough to run one of the worlds largest and best known libraries the Bodleian in Oxford but my experience of libraries began as a reader. My mother took me as a child\u2026 [+22959 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Observer",
+      "power",
+      "archive",
+      "librarian",
+      "political",
+      "libraries",
+      "Bodleian",
+      "Oxford",
+      "chars",
+      "reader"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/south-plains-financial-inc-spfi-070507187.html",
+    "title": "South Plains Financial Inc (SPFI) Q2 2025 Earnings Call Highlights: Strong Earnings Growth Amid ...",
+    "published_at": "2025-07-17T07:05:07Z",
+    "content": "<ul><li>Loans Held for Investment: Increased by $23.1 million or 3% annualized to $3.1 billion in Q2.\r\n</li><li>Yield on Loans: 6.99% in Q2, boosted by a one-time interest recovery; excluding this, t\u2026 [+4276 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SPFI",
+      "Earnings",
+      "Highlights",
+      "Strong",
+      "Amid",
+      "Plains",
+      "Financial",
+      "Call",
+      "Growth",
+      "South"
+    ]
+  },
+  {
+    "source": "Music Ally [NewsAPI]",
+    "url": "http://musically.com/2025/07/17/tiktok-launches-new-tools-to-give-more-credit-to-songwriters/",
+    "title": "TikTok launches new tools to give more credit to songwriters",
+    "published_at": "2025-07-17T07:05:07Z",
+    "content": "A recent survey of songwriters by Midia Research found that building their social media profiles is an increasingly important priority for them \u00a0with TikTok one of the key platforms.\r\nNow the company\u2026 [+1201 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Midia",
+      "Research",
+      "platforms",
+      "TikTok",
+      "songwriters",
+      "chars",
+      "launches",
+      "tools",
+      "give",
+      "credit"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/comparing-barings-participation-investors-nysempv-artisan-partners-asset-management-nyseapam/",
+    "title": "Comparing Barings Participation Investors (NYSE:MPV) & Artisan Partners Asset Management (NYSE:APAM)",
+    "published_at": "2025-07-17T07:04:57Z",
+    "content": "Artisan Partners Asset Management (NYSE:APAM \u2013 Get Free Report) and Barings Participation Investors (NYSE:MPV \u2013 Get Free Report) are both finance companies, but which is the better business? We will \u2026 [+5663 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "MPV",
+      "APAM",
+      "Investors",
+      "Artisan",
+      "Management",
+      "Report",
+      "Participation",
+      "Partners",
+      "Asset"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/what-is-seaport-res-ptns-estimate-for-paypal-q3-earnings/",
+    "title": "What is Seaport Res Ptn\u2019s Estimate for PayPal Q3 Earnings?",
+    "published_at": "2025-07-17T07:00:50Z",
+    "content": "PayPal Holdings, Inc. (NASDAQ:PYPL \u2013 Free Report) \u2013 Seaport Res Ptn lifted their Q3 2025 earnings estimates for shares of PayPal in a research note issued on Monday, July 14th. Seaport Res Ptn analys\u2026 [+5674 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Res",
+      "Ptn",
+      "Seaport",
+      "Earnings",
+      "PayPal",
+      "NASDAQ",
+      "PYPL",
+      "July",
+      "Holdings",
+      "Free"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/iios-26-beta-4-public-beta-1/",
+    "title": "iOS 26 Beta 4 & Public Beta 1: What\u2019s New & When to Get It",
+    "published_at": "2025-07-17T07:00:30Z",
+    "content": "Apple has officially unveiled the release schedule for iOS 26 Developer Beta 4 and the first Public Beta, marking a significant milestone in the evolution of its latest operating system. With a focus\u2026 [+4876 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Beta",
+      "Public",
+      "Developer",
+      "iOS",
+      "Apple",
+      "marking",
+      "system",
+      "officially",
+      "unveiled",
+      "release"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/tottenham-friendly-screening-emirates-stadium",
+    "title": "Tottenham friendly screening at Emirates Stadium",
+    "published_at": "2025-07-17T07:00:00Z",
+    "content": "If youre looking for the perfect place to watch our pre-season friendly against Tottenham in Hong Kong, then why not head to Emirates Stadium to witness the thrills and spills with a host of fellow G\u2026 [+1017 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Emirates",
+      "Stadium",
+      "Kong",
+      "chars",
+      "Tottenham",
+      "Hong",
+      "friendly",
+      "screening",
+      "youre",
+      "perfect"
+    ]
+  },
+  {
+    "source": "Inside Higher Ed [NewsAPI]",
+    "url": "https://www.insidehighered.com/news/government/politics-elections/2025/07/17/how-colleges-and-states-can-make-workforce-pell",
+    "title": "Workforce Pell Grant Expansion Faces 'Aggressive' Timeline",
+    "published_at": "2025-07-17T07:00:00Z",
+    "content": "Community colleges secured a massive legislative win earlier this month after more than a decade of advocacy. Workforce Pell, at long last, is en route to become a reality.\r\nThe One Big Beautiful Bil\u2026 [+9103 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aggressive",
+      "Faces",
+      "Timeline",
+      "Workforce",
+      "Pell",
+      "Grant",
+      "Expansion",
+      "Community",
+      "advocacy",
+      "colleges"
+    ]
+  },
+  {
+    "source": "Creative Bloq [NewsAPI]",
+    "url": "https://www.creativebloq.com/entertainment/gaming/it-turns-out-that-switch-2-made-donkey-kong-bananza-possible-for-a-surprising-reason",
+    "title": "How Switch 2 made Donkey Kong Bananza possible \u2013 for a surprising reason",
+    "published_at": "2025-07-17T07:00:00Z",
+    "content": "This week's release of Donkey Kong Bananza is an undoubted highlight of Nintendo Switch 2 so far \u2013 at least for those who have the console (see our guide to Switch 2 Stock if you're still searching).\u2026 [+6103 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Switch",
+      "Kong",
+      "Donkey",
+      "Bananza",
+      "Stock",
+      "chars",
+      "Nintendo",
+      "made",
+      "console",
+      "searching"
+    ]
+  },
+  {
+    "source": "Creative Bloq [NewsAPI]",
+    "url": "https://www.creativebloq.com/3d/i-think-the-3doodler-pro-3d-pen-is-a-must-have-tool-for-designers",
+    "title": "I think the 3Doodler Pro 3D pen is a must-have tool for designers",
+    "published_at": "2025-07-17T07:00:00Z",
+    "content": "Why you can trust Creative Bloq\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.\r\nIf you're reading t\u2026 [+8470 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "Creative",
+      "Bloq",
+      "pen",
+      "must-have",
+      "tool",
+      "designers",
+      "trust",
+      "expert",
+      "reviewers"
+    ]
+  },
+  {
+    "source": "Thechronicle.com.gh [NewsAPI]",
+    "url": "https://thechronicle.com.gh/three-jailed-over-murder-of-swedish-hip-hop-star-in-car-park/",
+    "title": "Three jailed over murder of Swedish hip-hop star in car park",
+    "published_at": "2025-07-17T06:59:21Z",
+    "content": "Three men in their 20s have been given long jail terms for their part in the fatal shooting of award-winning hip-hop artist C Gambino in Gothenburg last year.\r\nC Gambino, whose real name was Karar Ra\u2026 [+2068 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gambino",
+      "Swedish",
+      "Gothenburg",
+      "hip-hop",
+      "year",
+      "jailed",
+      "murder",
+      "star",
+      "car",
+      "park"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/save/small-savings-schemes-these-post-office-savings-accounts-will-be-frozen-after-3-years-here-is-how-to-unfreeze-your-account/articleshow/122620559.cms",
+    "title": "Small savings schemes: These post office savings accounts will be frozen after 3 years: Here is how to unfreeze your account",
+    "published_at": "2025-07-17T06:59:13Z",
+    "content": "The Department of Posts (DoP) has announced that it will freeze matured accounts under various small savings schemes accounts that have not been extended or closed even after three years from the dat\u2026 [+2822 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "savings",
+      "DoP",
+      "chars",
+      "Small",
+      "schemes",
+      "Department",
+      "accounts",
+      "years",
+      "dat",
+      "post"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/bank-of-new-york-mellon-nysebk-reaches-new-1-year-high-after-earnings-beat/",
+    "title": "Bank of New York Mellon (NYSE:BK) Reaches New 1-Year High After Earnings Beat",
+    "published_at": "2025-07-17T06:58:45Z",
+    "content": "The Bank of New York Mellon Corporation (NYSE:BK \u2013 Get Free Report)\u2019s stock price reached a new 52-week high on Wednesday following a stronger than expected earnings report. The stock traded as high \u2026 [+5703 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "York",
+      "Mellon",
+      "Report",
+      "Bank",
+      "Reaches",
+      "Corporation",
+      "Earnings",
+      "Beat",
+      "Free"
+    ]
+  },
+  {
+    "source": "Synthtopia.com [NewsAPI]",
+    "url": "https://www.synthtopia.com/content/2025/07/17/gig-performer-essentials-now-available/",
+    "title": "Gig Performer Essentials Now Available",
+    "published_at": "2025-07-17T06:57:26Z",
+    "content": "Deskew Technologies has released Gig Performer Essentials, an entry-level, budget-friendly edition of its live performance plugin host. Designed for musicians, Gig Performer Essentials delivers the f\u2026 [+2755 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Performer",
+      "Essentials",
+      "Gig",
+      "Deskew",
+      "Technologies",
+      "entry-level",
+      "budget-friendly",
+      "host",
+      "released",
+      "edition"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/archaeology/article-861277",
+    "title": "Did Neanderthals have 'family recipes'? Study suggests butchery practices in ancient groups",
+    "published_at": "2025-07-17T06:57:01Z",
+    "content": "Their meticulous examination of cut-marks on the remains of animal prey revealed patterns that cannot be explained by differences in skill, resources, or available tools at each site.\r\nNew research i\u2026 [+5370 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Neanderthals",
+      "family",
+      "recipes",
+      "resources",
+      "chars",
+      "Study",
+      "skill",
+      "site",
+      "suggests",
+      "butchery"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/lloyds-banking-group-lyg-to-release-quarterly-earnings-on-thursday/",
+    "title": "Lloyds Banking Group (LYG) to Release Quarterly Earnings on Thursday",
+    "published_at": "2025-07-17T06:56:46Z",
+    "content": "Lloyds Banking Group (NYSE:LYG \u2013 Get Free Report) will likely be releasing its Q2 2025 earnings data before the market opens on Thursday, July 24th. Analysts expect Lloyds Banking Group to post earni\u2026 [+4134 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LYG",
+      "Banking",
+      "Thursday",
+      "NYSE",
+      "July",
+      "Group",
+      "Report",
+      "Lloyds",
+      "Earnings",
+      "Release"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/independent-bank-ibcp-to-release-earnings-on-thursday/",
+    "title": "Independent Bank (IBCP) to Release Earnings on Thursday",
+    "published_at": "2025-07-17T06:56:45Z",
+    "content": "Independent Bank (NASDAQ:IBCP \u2013 Get Free Report) will likely be issuing its Q2 2025 quarterly earnings data before the market opens on Thursday, July 24th. Analysts expect the company to announce ear\u2026 [+5452 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IBCP",
+      "Bank",
+      "NASDAQ",
+      "July",
+      "Thursday",
+      "Report",
+      "Independent",
+      "Earnings",
+      "Release",
+      "Free"
+    ]
+  },
+  {
+    "source": "Thechronicle.com.gh [NewsAPI]",
+    "url": "https://thechronicle.com.gh/harry-potter-actress-emma-watson-banned-from-driving-for-speeding/",
+    "title": "Harry Potter actress\u00a0Emma Watson banned from driving for speeding",
+    "published_at": "2025-07-17T06:56:33Z",
+    "content": "Harry Potter actress Emma Watson has been banned from driving for six months, after she was caught speeding.\r\nWatson, who played Hermione Granger in the film franchise, drove a blue Audi at 38mph in \u2026 [+1530 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Potter",
+      "Emma",
+      "Harry",
+      "actress",
+      "driving",
+      "Watson",
+      "banned",
+      "speeding",
+      "months",
+      "caught"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/claude-code-tips-tricks-to-boost-your-workflows-and-coding/",
+    "title": "Claude Code Tips & Tricks to Boost Your Workflows and Coding",
+    "published_at": "2025-07-17T06:55:05Z",
+    "content": "What if you could dramatically simplify your coding workflow while tackling even the most complex projects with ease? For developers juggling intricate codebases or repetitive tasks, the challenge of\u2026 [+7373 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tips",
+      "Tricks",
+      "Coding",
+      "Code",
+      "Boost",
+      "Claude",
+      "ease",
+      "Workflows",
+      "workflow",
+      "chars"
+    ]
+  },
+  {
+    "source": "Thechronicle.com.gh [NewsAPI]",
+    "url": "https://thechronicle.com.gh/my-track-is-not-a-diss-song-king-paluta-hits-back-at-critics/",
+    "title": "My track is not a diss song \u2013King Paluta hits back at critics",
+    "published_at": "2025-07-17T06:53:06Z",
+    "content": "Ghanaian musician, King Paluta, has responded to critics over allegations that his newly-released single, Between Me and God, is a diss song.\r\nIt may be recalled that King Paluta became the center of\u2026 [+818 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "song",
+      "King",
+      "Paluta",
+      "God",
+      "diss",
+      "Ghanaian",
+      "critics",
+      "musician",
+      "single",
+      "track"
+    ]
+  },
+  {
+    "source": "Thechronicle.com.gh [NewsAPI]",
+    "url": "https://thechronicle.com.gh/tinny-returns-with-new-afropop-song-barrier/",
+    "title": "Tinny returns with new Afropop song \u2018Barrier\u2019",
+    "published_at": "2025-07-17T06:50:32Z",
+    "content": "Ghanaian rapper Tinny has released a new single titled\u00a0Barrier, sparking excitement among fans and reigniting conversations about his influence in Ghanas music scene.\r\nThe track, produced by Phredext\u2026 [+865 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Barrier\u2019",
+      "Barrier",
+      "Tinny",
+      "Afropop",
+      "Ghanaian",
+      "Ghanas",
+      "song",
+      "sparking",
+      "scene",
+      "chars"
+    ]
+  },
+  {
+    "source": "Cleanthesky.com [NewsAPI]",
+    "url": "https://www.cleanthesky.com/innovation/entopia-living-lab",
+    "title": "Collaborative Innovation Platforms - CISL Partnered with Crown Estate on the 'Entopia Living Lab' (TrendHunter.com)",
+    "published_at": "2025-07-17T06:49:05Z",
+    "content": "The University of Cambridge Institute for Sustainability Leadership (CISL) and The Crown Estate announced on 16 July 2025 the launch of the Entopia Living Lab, a major partnership designed to acceler\u2026 [+1231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lab",
+      "CISL",
+      "Living",
+      "Crown",
+      "Estate",
+      "Entopia",
+      "July",
+      "Platforms",
+      "Leadership",
+      "TrendHunter.com"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/analyzing-kroger-nysekr-and-marks-and-spencer-group-otcmktsmaksy/",
+    "title": "Analyzing Kroger (NYSE:KR) and Marks and Spencer Group (OTCMKTS:MAKSY)",
+    "published_at": "2025-07-17T06:46:50Z",
+    "content": "Marks and Spencer Group (OTCMKTS:MAKSY \u2013 Get Free Report) and Kroger (NYSE:KR \u2013 Get Free Report) are both retail/wholesale companies, but which is the superior stock? We will compare the two companie\u2026 [+5103 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "OTCMKTS",
+      "MAKSY",
+      "Group",
+      "Report",
+      "Kroger",
+      "Spencer",
+      "Free",
+      "Marks",
+      "Analyzing"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/agnc-investment-agnc-outlook-agency-064640318.html",
+    "title": "AGNC Investment (AGNC)\u2019s Outlook for Agency MBS Remains Favorable",
+    "published_at": "2025-07-17T06:46:40Z",
+    "content": "AGNC Investment Corp.\u00a0(NASDAQ:AGNC) is one of the Most Undervalued Stocks Under $10 to Buy Now.In Q1 2025, the prospects of potential governmental policy actions impacting economic growth and acceler\u2026 [+1987 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Investment",
+      "AGNC",
+      "Corp",
+      "Outlook",
+      "Agency",
+      "MBS",
+      "Remains",
+      "Favorable",
+      "NASDAQ",
+      "Undervalued"
+    ]
+  },
+  {
+    "source": "Khabarhub.com [NewsAPI]",
+    "url": "https://english.khabarhub.com/2025/17/485945/",
+    "title": "NRB revises unified directive to implement new monetary policy",
+    "published_at": "2025-07-17T06:45:24Z",
+    "content": "KATHMANDU: Nepal Rastra Bank (NRB) has revised its Unified Directive 2024, targeting class A, B, and C banks and financial institutions (BFIs), in line with the implementation of the monetary policy \u2026 [+2299 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NRB",
+      "BFIs",
+      "chars",
+      "KATHMANDU",
+      "Nepal",
+      "unified",
+      "directive",
+      "Rastra",
+      "monetary",
+      "policy"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/shore-capital-reaffirms-buy-rating-for-experian-lonexpn/",
+    "title": "Shore Capital Reaffirms Buy Rating for Experian (LON:EXPN)",
+    "published_at": "2025-07-17T06:42:50Z",
+    "content": "Experian (LON:EXPN \u2013 Get Free Report)\u2018s stock had its \u201cbuy\u201d rating reissued by Shore Capital in a note issued to investors on Tuesday, MarketBeat Ratings reports.\r\nExperian Price Performance\r\nShares \u2026 [+1769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LON",
+      "EXPN",
+      "Capital",
+      "Shore",
+      "Tuesday",
+      "Rating",
+      "Buy",
+      "Reaffirms",
+      "Free",
+      "Experian"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/what-is-a-cif-number-and-why-it-is-key-to-your-bank-account-access-11752733409956.html",
+    "title": "What is a CIF number and why it is key to your bank account access",
+    "published_at": "2025-07-17T06:41:19Z",
+    "content": "In the rapidly evolving digital era, efficiently managing your financial life begins with understanding the codes and identifiers tied to your banking account. One such important code is the CIF numb\u2026 [+3033 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CIF",
+      "account",
+      "era",
+      "efficiently",
+      "number",
+      "key",
+      "bank",
+      "access",
+      "rapidly",
+      "evolving"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/princeton-bancorp-bprn-expected-to-announce-quarterly-earnings-on-thursday/",
+    "title": "Princeton Bancorp (BPRN) Expected to Announce Quarterly Earnings on Thursday",
+    "published_at": "2025-07-17T06:40:47Z",
+    "content": "Princeton Bancorp (NASDAQ:BPRN \u2013 Get Free Report) is expected to release its Q2 2025 earnings data before the market opens on Thursday, July 24th. Analysts expect the company to announce earnings of \u2026 [+4212 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BPRN",
+      "Bancorp",
+      "Thursday",
+      "NASDAQ",
+      "July",
+      "Princeton",
+      "Expected",
+      "Report",
+      "Quarterly",
+      "Free"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/obsidian-zettelkasten/",
+    "title": "The Essential Guide to Mastering Zettelkasten Knowledge Management System",
+    "published_at": "2025-07-17T06:39:42Z",
+    "content": "What if the very tools designed to simplify your life are actually steering you away from their true purpose? In the world of personal knowledge management, the Zettelkasten method has become a beaco\u2026 [+7348 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Essential",
+      "Guide",
+      "Mastering",
+      "System",
+      "Zettelkasten",
+      "Knowledge",
+      "Management",
+      "purpose",
+      "tools",
+      "designed"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/what-is-b-rileys-forecast-for-ready-capital-q2-earnings/",
+    "title": "What is B. Riley\u2019s Forecast for Ready Capital Q2 Earnings?",
+    "published_at": "2025-07-17T06:38:49Z",
+    "content": "Ready Capital Corp (NYSE:RC \u2013 Free Report) \u2013 Research analysts at B. Riley lowered their Q2 2025 EPS estimates for Ready Capital in a report released on Monday, July 14th. B. Riley analyst R. Binner \u2026 [+4527 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ready",
+      "Capital",
+      "Earnings",
+      "Riley",
+      "NYSE",
+      "Report",
+      "July",
+      "Forecast",
+      "Corp",
+      "Free"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/17/q2-eps-estimate-for-civista-bancshares-increased-by-analyst/",
+    "title": "Q2 EPS Estimate for Civista Bancshares Increased by Analyst",
+    "published_at": "2025-07-17T06:38:49Z",
+    "content": "Civista Bancshares, Inc. (NASDAQ:CIVB \u2013 Free Report) \u2013 Research analysts at DA Davidson raised their Q2 2025 earnings estimates for shares of Civista Bancshares in a research report issued on Tuesday\u2026 [+5414 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Civista",
+      "Bancshares",
+      "EPS",
+      "Increased",
+      "NASDAQ",
+      "CIVB",
+      "Report",
+      "Research",
+      "Free",
+      "Tuesday"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/4-smart-credit-habits-every-fresher-should-adopt-to-build-a-strong-credit-score-11752729265583.html",
+    "title": "4 smart credit habits every fresher should adopt to build a strong credit score",
+    "published_at": "2025-07-17T06:34:39Z",
+    "content": "Are you a fresher who has just started their professional journey? If yes, you must develop good credit habits to build a good credit profile. A good credit score and profile will help you get access\u2026 [+7796 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "fresher",
+      "build",
+      "good",
+      "habits",
+      "smart",
+      "journey",
+      "score",
+      "adopt",
+      "strong"
     ]
   },
   {
@@ -4085,26 +4962,6 @@
     ]
   },
   {
-    "source": "RTE [NewsAPI]",
-    "url": "https://www.rte.ie/entertainment/2025/0717/1521687-behind-the-music-pamplemousse/",
-    "title": "Behind the music - Pamplemousse",
-    "published_at": "2025-07-17T06:00:00Z",
-    "content": "Pamplemousse have released their new single, More Beautiful Than Madonna, from the forthcoming album Porcelain, which is released in September. We asked them the BIG questions . . .\r\nWe need your con\u2026 [+1809 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Pamplemousse",
-      "Madonna",
-      "Porcelain",
-      "September",
-      "Beautiful",
-      "released",
-      "music",
-      "single",
-      "forthcoming",
-      "album"
-    ]
-  },
-  {
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/07/17/3116973/0/en/Aspocomp-s-Half-Year-Report-2025-Order-book-and-net-sales-increased-significantly-and-the-operating-result-was-profitable.html",
     "title": "Aspocomp\u2019s Half-Year Report 2025: Order book and net sales increased significantly, and the operating result was profitable.",
@@ -4122,6 +4979,26 @@
       "significantly",
       "profitable",
       "Half-Year"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/entertainment/2025/0717/1521687-behind-the-music-pamplemousse/",
+    "title": "Behind the music - Pamplemousse",
+    "published_at": "2025-07-17T06:00:00Z",
+    "content": "Pamplemousse have released their new single, More Beautiful Than Madonna, from the forthcoming album Porcelain, which is released in September. We asked them the BIG questions . . .\r\nWe need your con\u2026 [+1809 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pamplemousse",
+      "Madonna",
+      "Porcelain",
+      "September",
+      "Beautiful",
+      "released",
+      "music",
+      "single",
+      "forthcoming",
+      "album"
     ]
   },
   {
@@ -4206,26 +5083,6 @@
   },
   {
     "source": "CounterPunch [NewsAPI]",
-    "url": "https://www.counterpunch.org/2025/07/17/escape-to-vatra-dornet/",
-    "title": "Escape to Vatra Dornet",
-    "published_at": "2025-07-17T05:51:47Z",
-    "content": "The heat dome tour finished its Old Europe dates, e.g., Iberia, France, Italy and even the Swiss Alps, of which I caught the last sweltering segment.\r\nReturning to Transylvania, although with the dom\u2026 [+5820 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Iberia",
-      "France",
-      "Italy",
-      "Alps",
-      "Vatra",
-      "Dornet",
-      "Europe",
-      "Swiss",
-      "Escape",
-      "dates"
-    ]
-  },
-  {
-    "source": "CounterPunch [NewsAPI]",
     "url": "https://www.counterpunch.org/2025/07/17/escape-to-vatra-dornei/",
     "title": "Escape to Vatra Dornei",
     "published_at": "2025-07-17T05:51:47Z",
@@ -4238,6 +5095,26 @@
       "Alps",
       "Vatra",
       "Dornei",
+      "Europe",
+      "Swiss",
+      "Escape",
+      "dates"
+    ]
+  },
+  {
+    "source": "CounterPunch [NewsAPI]",
+    "url": "https://www.counterpunch.org/2025/07/17/escape-to-vatra-dornet/",
+    "title": "Escape to Vatra Dornet",
+    "published_at": "2025-07-17T05:51:47Z",
+    "content": "The heat dome tour finished its Old Europe dates, e.g., Iberia, France, Italy and even the Swiss Alps, of which I caught the last sweltering segment.\r\nReturning to Transylvania, although with the dom\u2026 [+5820 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Iberia",
+      "France",
+      "Italy",
+      "Alps",
+      "Vatra",
+      "Dornet",
       "Europe",
       "Swiss",
       "Escape",
@@ -4685,1085 +5562,64 @@
     ]
   },
   {
-    "source": "The Irish Times [NewsAPI]",
-    "url": "https://www.irishtimes.com/opinion/2025/07/17/newton-emerson-a-tricky-question-on-breakfast-tv-for-mary-lou-mcdonald/",
-    "title": "Newton Emerson: A tricky question on breakfast TV for Mary Lou McDonald",
-    "published_at": "2025-07-17T05:00:01Z",
-    "content": "Does the island of Ireland contain two badly-run economies or one, or none? The question arises following Mary Lou McDonalds appearance on Mondays Good Morning Britain on ITV.\r\nAfter calling for a un\u2026 [+4953 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Emerson",
-      "Lou",
-      "Mary",
-      "Ireland",
-      "Newton",
-      "question",
-      "ITV",
-      "tricky",
-      "breakfast",
-      "island"
-    ]
-  },
-  {
-    "source": "The Irish Times [NewsAPI]",
-    "url": "https://www.irishtimes.com/sport/gaelic-games/2025/07/17/tipperary-focusing-on-the-little-things-to-solve-cork-conundrum/",
-    "title": "Tipperary focusing on the little things to solve Cork conundrum",
-    "published_at": "2025-07-17T05:00:01Z",
-    "content": "Tipperary hobbled away from P\u00e1irc U\u00ed Chaoimh in April having been vanquished by 15 points but Declan Laffan feels there were also important gains made by the Premier County on Leeside that afternoon.\u2026 [+2962 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "chars",
-      "Tipperary",
-      "Cork",
-      "P\u00e1irc",
-      "Chaoimh",
-      "April",
-      "Declan",
-      "Laffan",
-      "Premier",
-      "County"
-    ]
-  },
-  {
-    "source": "The Quietus [NewsAPI]",
-    "url": "https://thequietus.com/quietus-reviews/album-of-the-week/simulation-dismantled-beside-myself-by-dj-haram/",
-    "title": "Simulation Dismantled: Beside Myself by DJ Haram",
-    "published_at": "2025-07-17T05:00:00Z",
-    "content": "The New Jersey-born, Philadelphia-based 'multidisciplinary propagandist' weaves non-Western sounds into a potent critique of the West's exoticising gaze, finds Aydin KhaliliSampling in electronic mus\u2026 [+6289 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Philadelphia-based",
-      "chars",
-      "Dismantled",
-      "Jersey-born",
-      "Haram",
-      "West",
-      "Aydin",
-      "Simulation",
-      "multidisciplinary",
-      "propagandist"
-    ]
-  },
-  {
-    "source": "GlobeNewswire [NewsAPI]",
-    "url": "https://www.globenewswire.com/news-release/2025/07/17/3116950/0/en/Verkkokauppa-com-Oyj-Strong-performance-in-a-cautiously-recovering-market.html",
-    "title": "Verkkokauppa.com Oyj: Strong performance in a cautiously recovering market",
-    "published_at": "2025-07-17T05:00:00Z",
-    "content": "HALF-YEARREPORTfor 1January30June 2025\r\nVerkkokauppa.comOyj:Strongperformanceinacautiouslyrecoveringmarket\r\nVerkkokauppa.com Oyj\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0HALF-YEAR REPORT 17 July 2025, 8:00 a.m. EET\r\nUnless otherwise \u2026 [+33045 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "July",
-      "Oyj",
-      "Strong",
-      "Strongperformanceinacautiouslyrecoveringmarket",
-      "REPORT",
-      "Verkkokauppa.comOyj",
-      "Verkkokauppa.com",
-      "HALF-YEAR",
-      "HALF-YEARREPORTfor",
-      "8:00"
-    ]
-  },
-  {
-    "source": "The-independent.com [NewsAPI]",
-    "url": "https://www.the-independent.com/arts-entertainment/films/features/uk-release-dates-the-pitt-a24-materialists-b2789936.html",
-    "title": "Delay another day: why Britain can\u2019t (yet) see America\u2019s buzziest movies and TV shows",
-    "published_at": "2025-07-17T05:00:00Z",
-    "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+9474 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Tech",
-      "story",
-      "Britain",
-      "America",
-      "Big",
-      "Independent",
-      "Delay",
-      "day",
-      "n\u2019t",
-      "developing"
-    ]
-  },
-  {
-    "source": "PC Gamer [NewsAPI]",
-    "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-dying-light-the-beast/",
-    "title": "PC Gamer magazine's new issue is on sale now: Dying Light: The Beast",
-    "published_at": "2025-07-17T05:00:00Z",
-    "content": "This month PC Gamer gets world-exclusive access to Dying Light: The Beast, Techland's brutal new open world survival horror FPS. For this authoritative cover story, PC Gamer travels to Wroc\u0142aw, Polan\u2026 [+3150 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Light",
-      "Dying",
-      "Beast",
-      "Gamer",
-      "Techland",
-      "FPS",
-      "Polan",
-      "magazine",
-      "issue",
-      "sale"
-    ]
-  },
-  {
-    "source": "GlobeNewswire [NewsAPI]",
-    "url": "https://www.globenewswire.com/news-release/2025/07/17/3116947/0/en/Novartis-reports-strong-Q2-with-double-digit-sales-growth-and-core-margin-expansion-raises-FY-2025-core-operating-income-guidance.html",
-    "title": "Novartis reports strong Q2 with double-digit sales growth and core margin expansion; raises FY 2025 core operating income guidance",
-    "published_at": "2025-07-17T05:00:00Z",
-    "content": "Ad hoc announcement pursuant to Art. 53 LR\r\n<ul><li>Q2 net sales grew +11% (cc1, +12% USD) with core operating income1 up +21% (cc, +20% USD) <ul><li>Sales growth driven by continued strong performan\u2026 [+30649 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "USD",
-      "Art",
-      "sales",
-      "core",
-      "Novartis",
-      "expansion",
-      "raises",
-      "growth",
-      "operating",
-      "strong"
-    ]
-  },
-  {
-    "source": "Newhumanist.org.uk [NewsAPI]",
-    "url": "https://newhumanist.org.uk/articles/6443/minds-in-search-of-meaning#utm_source=rss",
-    "title": "Minds in search of meaning",
-    "published_at": "2025-07-17T05:00:00Z",
-    "content": "Therapists need to do more to help the many people today who feel their lives lack purpose\r\nCredit: Francisco T. Santos via Unsplash\r\nAlmost 40 years ago, I was looking into the ordinary phenomenon o\u2026 [+20983 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "chars",
-      "Credit",
-      "Francisco",
-      "Therapists",
-      "Santos",
-      "Unsplash",
-      "Minds",
-      "years",
-      "ago",
-      "search"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/plush-sneaker",
-    "title": "Adorable Plush Sneaker Collections - Colorful Plush-Inspired Sneakers Unite Character and Comfort (TrendHunter.com)",
-    "published_at": "2025-07-17T04:57:06Z",
-    "content": "This Plush Sneaker Collection unites character and comfort through vibrant, playful design. It is the newest to come from sportswear brand PUMA as it launches the special Squishmallows collaboration \u2026 [+734 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Sneaker",
-      "Plush",
-      "Character",
-      "Comfort",
-      "Colorful",
-      "TrendHunter.com",
-      "Sneakers",
-      "Collections",
-      "Unite",
-      "unites"
-    ]
-  },
-  {
-    "source": "The Times of India [NewsAPI]",
-    "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/free-electricity-jdu-terms-it-a-gift-for-consumers-rjd-claims-cm-surrenders-front-of-tejashwis-vision/articleshow/122614597.cms",
-    "title": "Free electricity: JDU terms it a \"gift\" for consumers; RJD claims CM surrenders front of Tejashwi's vision",
-    "published_at": "2025-07-17T04:56:01Z",
-    "content": "JDU leader Rajeev Ranjan on Thursday hailed Bihar Chief Minister Nitish Kumar's decision to provide free electricity up to 125 units for domestic consumers and termed it a \"gift\" to the 1.67 crore fa\u2026 [+2678 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "gift",
-      "JDU",
-      "RJD",
-      "chars",
-      "Free",
-      "electricity",
-      "Tejashwi",
-      "Rajeev",
-      "Ranjan",
-      "Thursday"
-    ]
-  },
-  {
-    "source": "PC Gamer [NewsAPI]",
-    "url": "https://www.pcgamer.com/software/ai/ai-appreciation-day-origin/",
-    "title": "The origin of 'AI Appreciation Day' isn't what you think: It was started by an Elon Musk admirer who camped outside of SpaceX Starbase for a year hoping to talk to the billionaire about AI regulation",
-    "published_at": "2025-07-17T04:52:32Z",
-    "content": "AI companies don't need an excuse to pat themselves on the back, but they've got one anyway: \"AI Appreciation Day.\"\r\nThe July 16 occasion was started in 2021. It's mainly celebrated on the social med\u2026 [+12484 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Day",
-      "Appreciation",
-      "Elon",
-      "Musk",
-      "Starbase",
-      "started",
-      "back",
-      "origin",
-      "admirer",
-      "camped"
-    ]
-  },
-  {
-    "source": "Forbes [NewsAPI]",
-    "url": "https://www.forbes.com/sites/saharhashmi/2025/07/17/are-agentic-ai-systems-quietly-taking-over-enterprises-3-ways-to-keep-humans-in-the-loop/",
-    "title": "Are Agentic AI Systems Quietly Taking Over Enterprises? 3 Ways To Keep Humans In The Loop",
-    "published_at": "2025-07-17T04:51:01Z",
-    "content": "Are Agentic AI Systems Quietly Taking Over Enterprises?\r\ngetty\r\nImagine a future where AI agents run the majority of your companys daily operations by handling complex tasks, managing workflows, and \u2026 [+6640 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Enterprises",
-      "Agentic",
-      "Systems",
-      "Quietly",
-      "Taking",
-      "Humans",
-      "Loop",
-      "chars",
-      "Imagine",
-      "getty"
-    ]
-  },
-  {
-    "source": "Substack.com [NewsAPI]",
-    "url": "https://anthonyjhall.substack.com/p/was-israel-doing-the-wests-dirty",
-    "title": "Was Israel Doing the West\u2019s \u201cDirty Work\u201d by Invading Iran",
-    "published_at": "2025-07-17T04:47:16Z",
-    "content": "On the sidelines of the recent G7 meetings near Banff Canada, Germanys top official, Chancellor Friedrich Merz, congratulated the government of Israel on June 18 for doing the dirty work on behalf of\u2026 [+28862 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Israel",
-      "Dirty",
-      "Work",
-      "Canada",
-      "Germanys",
-      "Chancellor",
-      "Merz",
-      "June",
-      "chars",
-      "West"
-    ]
-  },
-  {
-    "source": "7NEWS.com.au [NewsAPI]",
-    "url": "https://7news.com.au/news/childcare-worker-charged-over-alleged-indecent-act-involving-four-year-old-in-brisbane-c-19385135",
-    "title": "Childcare worker charged over alleged indecent act involving four-year-old in Brisbane",
-    "published_at": "2025-07-17T04:45:39Z",
-    "content": "A childcare worker has been charged over an alleged indecent treatment of a four-year-old child.\r\nPolice allege the incident occurred on July 10 at an Affinity Education Group centre in Tingalpa, Bri\u2026 [+2346 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "child",
-      "Brisbane",
-      "Childcare",
-      "worker",
-      "charged",
-      "alleged",
-      "indecent",
-      "Bri",
-      "involving",
-      "July"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/milanocortina-medals",
-    "title": "Split-Surface Olympic Medals - Milano\u2011cortina Medals Feature Sustainable Split\u2011Surface Design (TrendHunter.com)",
-    "published_at": "2025-07-17T04:42:06Z",
-    "content": "MilanoCortina medals feature a striking splitsurface design that symbolizes unity through contrast. Unveiled in Venice on July 15, Italys state mint (IPZS) crafted these 80mm, 10mm thick medals from \u2026 [+881 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Feature",
-      "Medals",
-      "Design",
-      "Milano\u2011cortina",
-      "Olympic",
-      "Sustainable",
-      "TrendHunter.com",
-      "Split-Surface",
-      "contrast",
-      "IPZS"
-    ]
-  },
-  {
-    "source": "CNA [NewsAPI]",
-    "url": "https://www.channelnewsasia.com/business/australias-qantas-obtains-court-order-prevent-third-party-access-stolen-data-5242891",
-    "title": "Australia's Qantas obtains court order to prevent third-party access to stolen data",
-    "published_at": "2025-07-17T04:36:02Z",
-    "content": "Australia's Qantas Airways said on Thursday it has obtained an interim injunction in the New South Wales (NSW) Supreme Court to prevent the stolen data from being accessed or published by anyone, inc\u2026 [+1036 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "NSW",
-      "Qantas",
-      "Australia",
-      "Wales",
-      "Supreme",
-      "chars",
-      "court",
-      "prevent",
-      "stolen",
-      "data"
-    ]
-  },
-  {
-    "source": "Slashdot.org [NewsAPI]",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178398614",
-    "title": "Steam introduces vague new rules banning 'certain kinds of adult content' to appease credit card companies - Eurogamer",
-    "published_at": "2025-07-17T04:32:15Z",
-    "content": "If it is a Miracle, any sort of evidence will answer, but if it is a Fact,\r\nproof is necessary.\r\n-- Samuel Clemens",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Eurogamer",
-      "Miracle",
-      "Fact",
-      "Steam",
-      "banning",
-      "content",
-      "companies",
-      "answer",
-      "proof",
-      "introduces"
-    ]
-  },
-  {
-    "source": "Cleanthesky.com [NewsAPI]",
-    "url": "https://www.cleanthesky.com/innovation/the-unfccc",
-    "title": "Renewable Energy Guidebooks - The UNFCCC Launched a Renewable Technology Resource (TrendHunter.com)",
-    "published_at": "2025-07-17T04:32:06Z",
-    "content": "The UNFCCC launched a new guidebook on renewable energy technologies during the June UN Climate Meetings in Bonn, providing developing countries with practical resources to advance climate action thr\u2026 [+1154 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "UNFCCC",
-      "Launched",
-      "Renewable",
-      "Energy",
-      "Bonn",
-      "TrendHunter.com",
-      "chars",
-      "Climate",
-      "Technology",
-      "June"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/betby-x-battle-fc",
-    "title": "Engaging E-Soccer Video Games - Betby Announced Two New Soccer Titles for its Portfolio (TrendHunter.com)",
-    "published_at": "2025-07-17T04:21:06Z",
-    "content": "Betby has expanded its Betby.Games portfolio with two new eSoccer titles: X-Battle FC and a Pro Evolution Soccer (PES)powered eSim game. X-Battle FC continues Betbys Blitz series, offering sub-one-mi\u2026 [+1356 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "PES",
-      "Soccer",
-      "Titles",
-      "Portfolio",
-      "X-Battle",
-      "TrendHunter.com",
-      "Video",
-      "Announced",
-      "Pro",
-      "Evolution"
-    ]
-  },
-  {
-    "source": "Digitimes [NewsAPI]",
-    "url": "https://www.digitimes.com/news/a20250717PD210/tcc-lithium-battery-plant-fire.html",
-    "title": "Taiwan Cement's battery unit starts insurance claims after plant fire",
-    "published_at": "2025-07-17T04:18:52Z",
-    "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function\u2026 [+307 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "User",
-      "Password",
-      "Save",
-      "Cement",
-      "Taiwan",
-      "site",
-      "battery",
-      "unit",
-      "starts",
-      "insurance"
-    ]
-  },
-  {
-    "source": "Biztoc.com [NewsAPI]",
-    "url": "https://biztoc.com/x/1e079e920a5d2bc3",
-    "title": "Japan Inc. takes global credit by storm with record sales",
-    "published_at": "2025-07-17T04:13:21Z",
-    "content": "More and more Japanese companies are heading overseas to borrow as their local market is becoming too volatile and rates are rising.\r\nThis story appeared on japantimes.co.jp, 2025-07-17 04:05:00.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Japan",
-      "Japanese",
-      "rising",
-      "global",
-      "credit",
-      "storm",
-      "record",
-      "sales",
-      "companies",
-      "heading"
-    ]
-  },
-  {
-    "source": "Bleeding Cool News [NewsAPI]",
-    "url": "https://bleedingcool.com/games/cyberpunk-2077-will-release-update-2-3-this-week/",
-    "title": "Cyberpunk 2077 Will Release Update 2.3 This Week",
-    "published_at": "2025-07-17T04:13:04Z",
-    "content": "Posted in: CD Projekt Red, Cyberpunk 2077, Games, Video Games | Tagged: cyberpunk 2077\r\nCyberpunk 2077 is getting an update this week with new vehicles, new jobs, and a number of improvements across \u2026 [+2794 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Cyberpunk",
-      "Games",
-      "Tagged",
-      "Week",
-      "Red",
-      "Video",
-      "Update",
-      "chars",
-      "Release",
-      "Posted"
-    ]
-  },
-  {
-    "source": "Livemint [NewsAPI]",
-    "url": "https://www.livemint.com/money/personal-finance/relief-for-borrowers-as-rbi-s-guidelines-on-loan-prepayment-to-come-into-force-from-january-1-11752674405924.html",
-    "title": "Relief for borrowers as RBI\u2019s guidelines on loan prepayment to come into force from January 1",
-    "published_at": "2025-07-17T04:12:57Z",
-    "content": "The Reserve Bank of India (RBI) has released a set of guidelines with regards to levy of prepayment charges in case of loans sanctioned to MSEs, something that tends to leave the customers disgruntle\u2026 [+2435 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "RBI",
-      "January",
-      "India",
-      "chars",
-      "Reserve",
-      "Bank",
-      "guidelines",
-      "prepayment",
-      "Relief",
-      "MSEs"
-    ]
-  },
-  {
-    "source": "The Japan Times [NewsAPI]",
-    "url": "https://www.japantimes.co.jp/business/2025/07/17/companies/japan-firms-credit-sales-overseas/",
-    "title": "Japan Inc. takes global credit by storm with record sales",
-    "published_at": "2025-07-17T04:05:00Z",
-    "content": "Debt bankers and investors are bracing for what is shaping up to be the next big trend in the global credit market: Japan Inc. raising billions abroad.\r\nA string of recent megadeals is setting the to\u2026 [+532 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Japan",
-      "global",
-      "credit",
-      "Debt",
-      "market",
-      "chars",
-      "raising",
-      "abroad",
-      "storm",
-      "record"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/pal-recuerdo",
-    "title": "Multisensory Bathroom Activations - method Launches its 'pa'l recuerdo' Campaign (TrendHunter.com)",
-    "published_at": "2025-07-17T04:00:06Z",
-    "content": "method has launched 'pal recuerdo,' a dynamic 360-degree campaign that celebrates its role as the exclusive body wash and hand wash sponsor of the Bad Bunny No Me Quiero Ir de Aqu\u00ed residency in Puert\u2026 [+850 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Campaign",
-      "TrendHunter.com",
-      "chars",
-      "Activations",
-      "Puert",
-      "method",
-      "recuerdo",
-      "Bathroom",
-      "Launches",
-      "Bad"
-    ]
-  },
-  {
-    "source": "Christianity.com [NewsAPI]",
-    "url": "https://www.christianity.com/wiki/current-events/what-the-gen-z-stare-reveals-about-expression-and-identity-across-generations.html",
-    "title": "What the Gen Z Stare Reveals about Expression and Identity across Generations",
-    "published_at": "2025-07-17T04:00:00Z",
-    "content": "A viral TikTok trend known as the \"Gen Z Stare\" characterized by emotionless, deadpan expressions are fueling debates between Millennials and Zoomers about self-expression, identity, and online cultu\u2026 [+8850 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Gen",
-      "Stare",
-      "chars",
-      "Identity",
-      "Reveals",
-      "Generations",
-      "Millennials",
-      "Zoomers",
-      "characterized",
-      "emotionless"
-    ]
-  },
-  {
-    "source": "RTE [NewsAPI]",
-    "url": "https://www.rte.ie/news/business/2025/0717/1523858-bank-of-ireland-revises-economic-forecasts-upwards/",
-    "title": "Bank of Ireland revises economic forecasts upwards",
-    "published_at": "2025-07-17T04:00:00Z",
-    "content": "Bank of Ireland has revised upwards its economic forecasts for the year, despite the uncertainty posed by US tariff threats.\r\nIt predicts GDP growth of 8.5%, higher that the 3.5% growth previously fo\u2026 [+3354 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Ireland",
-      "Bank",
-      "economic",
-      "forecasts",
-      "upwards",
-      "year",
-      "threats",
-      "revises",
-      "revised",
-      "uncertainty"
-    ]
-  },
-  {
-    "source": "FDA.gov [NewsAPI]",
-    "url": "https://www.fda.gov/medical-devices/medical-device-recalls/early-alert-microbore-extension-set-issue-b-braun-medical-inc",
-    "title": "Early Alert: Microbore Extension Set Issue from B. Braun Medical Inc.",
-    "published_at": "2025-07-17T04:00:00Z",
-    "content": "This communication is part of the Communications Pilot to Enhance the Medical Device Recall Program. The FDA has become aware of a potentially high-risk issue. The FDA will keep the public informed a\u2026 [+4359 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Alert",
-      "Microbore",
-      "Extension",
-      "Set",
-      "Medical",
-      "Early",
-      "FDA",
-      "Issue",
-      "Program",
-      "Pilot"
-    ]
-  },
-  {
-    "source": "BusinessLine [NewsAPI]",
-    "url": "https://www.thehindubusinessline.com/markets/stock-markets/q1-results-today-live-axis-bank-wipro-jio-financial-ltimindtree-hdfc-asset-managment-tata-communications-polycab-waree-renewable-newgen-software-ceat-tech-mahindra-itc-hotels-onward-tech-angel-one-17/article69821727.ece",
-    "title": "Q1 Results Live: Axis Bank, Wipro, Jio Financial, LTIMindtree, HDFC AMC, Tata Communications to announce Q1 results today, Tech Mahindra, ITC Hotels, LTTS shares in focus post results",
-    "published_at": "2025-07-17T03:56:00Z",
-    "content": "Business man or analyst in front of desktop computer holding a modern transparent tablet screen reviewing business performance and a return on investment, ROI, and investement risk analysis istock ph\u2026 [+2327 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Wipro",
-      "ROI",
-      "LTIMindtree",
-      "chars",
-      "Live",
-      "Axis",
-      "Bank",
-      "Jio",
-      "Financial",
-      "HDFC"
-    ]
-  },
-  {
-    "source": "The Times of India [NewsAPI]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/mobikwik-shares-down-61-from-peak-charts-hint-at-upside-till-rs-300-should-you-buy/articleshow/122611650.cms",
-    "title": "MobiKwik shares down 61% from peak, charts hint at upside till Rs 300. Should you buy?",
-    "published_at": "2025-07-17T03:54:27Z",
-    "content": "Shares of One MobiKwik Systems, the parent company of digital payments platform MobiKwik, have staged an 11% rebound over the past week, offering a brief respite after a punishing 61% slide from thei\u2026 [+6287 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "peak",
-      "charts",
-      "MobiKwik",
-      "hint",
-      "upside",
-      "till",
-      "shares",
-      "Systems",
-      "chars",
-      "buy"
-    ]
-  },
-  {
-    "source": "BusinessLine [NewsAPI]",
-    "url": "https://www.thehindubusinessline.com/markets/nifty-50-may-touch-new-record-high-of-28957-by-december-if-bull-run-returns-report/article69821696.ece",
-    "title": "Nifty 50 may touch new record high of 28,957 by December if bull run returns: Report",
-    "published_at": "2025-07-17T03:52:40Z",
-    "content": "Indian equity markets may witness a strong upward move in the coming months, with the Nifty 50 index expected to touch a new all-time high of 28,957 by December 2025 if a bull run returns, according \u2026 [+2191 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "returns",
-      "December",
-      "Nifty",
-      "Report",
-      "run",
-      "chars",
-      "Indian",
-      "high",
-      "bull",
-      "months"
-    ]
-  },
-  {
-    "source": "The Times of India [NewsAPI]",
-    "url": "https://timesofindia.indiatimes.com/science/astronomers-capture-birth-of-planets-around-a-baby-sun/articleshow/122611217.cms",
-    "title": "Astronomers capture birth of planets around a baby sun",
-    "published_at": "2025-07-17T03:47:56Z",
-    "content": "Astronomers capture birth of planets around a baby sun ( Picture credit: AP)",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Picture",
-      "Astronomers",
-      "capture",
-      "birth",
-      "planets",
-      "baby",
-      "sun",
-      "credit"
-    ]
-  },
-  {
-    "source": "The Irish Times [NewsAPI]",
-    "url": "https://www.irishtimes.com/culture/books/review/2025/07/12/old-kiln-by-jia-pingwa-an-unforgettable-masterpiece-depicting-rural-china-during-the-cultural-revolution/",
-    "title": "Old Kiln by Jia Pingwa: An unforgettable masterpiece depicting rural China during the Cultural Revolution",
-    "published_at": "2025-07-17T03:44:00Z",
-    "content": "Author: Jia Pingwa, translated by James Trapp, Olivia Milburn and Christopher Payne \r\nJia Pingwa is one of the most respected and widely read writers in China. He is particularly associated with real\u2026 [+2088 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Jia",
-      "Pingwa",
-      "China",
-      "Author",
-      "Trapp",
-      "Olivia",
-      "Kiln",
-      "Cultural",
-      "Revolution",
-      "James"
-    ]
-  },
-  {
-    "source": "Science Daily [NewsAPI]",
-    "url": "https://www.sciencedaily.com/releases/2025/07/250716000858.htm",
-    "title": "Frozen for 12,000 years, this Alpine ice core captures the rise of civilization",
-    "published_at": "2025-07-17T03:41:23Z",
-    "content": "Glaciers hold layers of history preserved in ice, offering unique insights into Earth's past that can also help us interpret the future. Trapped amidst the frozen water are microscopic deposits of du\u2026 [+8108 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "years",
-      "Alpine",
-      "Glaciers",
-      "Earth",
-      "ice",
-      "offering",
-      "future",
-      "Frozen",
-      "core",
-      "captures"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/flash-repair-jelly",
-    "title": "Hair Removal Irritation Solutions - Fur Debuts Its Flash Repair Jelly for Post-Hair Removal Relief (TrendHunter.com)",
-    "published_at": "2025-07-17T03:37:06Z",
-    "content": "Fur has officially launched its 'Flash Repair Jelly,' a skin-soothing treatment formulated with 0.02% hypochlorous acid to provide instant relief after hair removal. Designed to be applied immediatel\u2026 [+660 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Fur",
-      "Repair",
-      "Removal",
-      "Flash",
-      "Jelly",
-      "Solutions",
-      "Relief",
-      "TrendHunter.com",
-      "Irritation",
-      "Debuts"
-    ]
-  },
-  {
-    "source": "The Times of India [NewsAPI]",
-    "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-fixed-income-remains-relevant-but-corporate-bonds-favoured-joseph-thomas/articleshow/122610883.cms",
-    "title": "ETMarkets Smart Talk | Fixed income remains relevant, but corporate bonds favoured: Joseph Thomas",
-    "published_at": "2025-07-17T03:30:00Z",
-    "content": "Fixed income remains an important component of a well-diversified portfolio, but investors should now focus on corporate bond and credit risk funds for better yields, says Dr. Joseph Thomas, Head of \u2026 [+8960 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Fixed",
-      "Joseph",
-      "Thomas",
-      "chars",
-      "Talk",
-      "Head",
-      "income",
-      "Smart",
-      "remains",
-      "corporate"
-    ]
-  },
-  {
-    "source": "The Times of India [NewsAPI]",
-    "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-fixed-income-remains-relevant-but-corporate-bonds-favoured-joseph-thomas/articleshow/122555452.cms",
-    "title": "ETMarkets Smart Talk | Fixed income remains relevant, but corporate bonds favoured: Joseph Thomas",
-    "published_at": "2025-07-17T03:30:00Z",
-    "content": "Fixed income remains an important component of a well-diversified portfolio, but investors should now focus on corporate bond and credit risk funds for better yields, says Dr. Joseph Thomas, Head of \u2026 [+8960 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Fixed",
-      "Joseph",
-      "Thomas",
-      "chars",
-      "Talk",
-      "Head",
-      "income",
-      "Smart",
-      "remains",
-      "corporate"
-    ]
-  },
-  {
-    "source": "Trendhunter.com [NewsAPI]",
-    "url": "https://www.trendhunter.com/trends/bloomers-intimates",
-    "title": "Luxe Comfort-Forward Loungewear - Bloomers Intimates Features Stylish Loungewear Essentials (TrendHunter.com)",
-    "published_at": "2025-07-17T03:26:06Z",
-    "content": "Bloomers Intimates presents a refined collection of comfort-forward loungewear, thoughtfully designed to balance elegance, coverage, and all-day wearability. With an emphasis on softness and ease, th\u2026 [+968 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Bloomers",
-      "Loungewear",
-      "Intimates",
-      "Essentials",
-      "TrendHunter.com",
-      "coverage",
-      "Features",
-      "Stylish",
-      "Comfort-Forward",
-      "Luxe"
-    ]
-  },
-  {
-    "source": "The Times of India [NewsAPI]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-shares-in-focus-after-q1-profit-falls-61-yoy-wealth-aum-jumps-34-qoq/articleshow/122610340.cms",
-    "title": "Angel One shares in focus after Q1 profit falls 61% YoY, wealth AUM jumps 34% QoQ",
-    "published_at": "2025-07-17T03:23:16Z",
-    "content": "Angel One shares will be in focus on Thursday after the company reported a 61% year-on-year drop in net profit to Rs 114.4 crore for the June 2025 quarter, down from Rs 292.7 crore a year earlier. Re\u2026 [+1869 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Angel",
-      "June",
-      "crore",
-      "YoY",
-      "quarter",
-      "AUM",
-      "Thursday",
-      "shares",
-      "focus",
-      "profit"
-    ]
-  },
-  {
-    "source": "Connortumbleson.com [NewsAPI]",
-    "url": "https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/",
-    "title": "Original Xbox Hacks: The A20 CPU Gate",
-    "published_at": "2025-07-17T03:22:53Z",
-    "content": "In November of this year (2021) we will hit 20 years since the release of the original Xbox. This console was full of vulnerabilities (or misconfiguration) from the software to the hardware and with \u2026 [+5195 chars]",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Xbox",
-      "Hacks",
-      "CPU",
-      "Original",
-      "Gate",
-      "November",
-      "hit",
-      "release",
-      "year",
-      "years"
-    ]
-  },
-  {
-    "source": "CNBC [GNews]",
-    "url": "https://www.cnbc.com/2025/06/16/how-trump-went-from-opposing-israels-strikes-on-iran-to-reluctant-support.html",
-    "title": "How Trump went from opposing Israel's strikes on Iran to reluctant support",
-    "published_at": "2025-06-16T10:13:04Z",
-    "content": "The president had opposed Israeli action against Iran but came to believe that Israel had reason to act and that the U.S. would have to lend some support.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "Israel",
-      "Iran",
-      "Trump",
-      "Israeli",
-      "support",
-      "opposing",
-      "strikes",
-      "reluctant",
-      "president",
-      "opposed"
-    ]
-  },
-  {
-    "source": "NBC News [GNews]",
-    "url": "https://www.nbcnews.com/politics/national-security/trump-went-opposing-israels-strikes-iran-reluctant-support-rcna213091",
-    "title": "How Trump went from opposing Israel's strikes on Iran to reluctant support",
-    "published_at": "2025-06-16T09:00:40Z",
-    "content": "President Trump had opposed Israeli action against Iran, but came to believe Israel had reason to act and that the U.S. would have to lend some support.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "Trump",
-      "Israel",
-      "Iran",
-      "President",
-      "Israeli",
-      "support",
-      "opposing",
-      "strikes",
-      "reluctant",
-      "opposed"
-    ]
-  },
-  {
-    "source": "Washington Examiner [GNews]",
-    "url": "https://www.washingtonexaminer.com/news/investigations/3420513/trump-claims-of-violence-against-white-south-africans-backed-state-department-reports/",
-    "title": "Trump\u2019s claims of violence against white South Africans backed by years of State Department reports",
-    "published_at": "2025-05-25T10:00:00Z",
-    "content": "Pre-Trump government reports of human rights abuses in South Africa help lend credibility to President Donald Trump's support of white South African refugees.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "South",
-      "Trump",
-      "white",
-      "Africans",
-      "African",
-      "State",
-      "Department",
-      "Africa",
-      "President",
-      "Donald"
-    ]
-  },
-  {
-    "source": "SpaceNews [GNews]",
-    "url": "https://spacenews.com/china-to-lend-change-5-moon-samples-to-u-s-universities/",
-    "title": "China to lend Chang\u2019e-5 moon samples to U.S. universities",
-    "published_at": "2025-04-26T21:02:25Z",
-    "content": "China to lend Chang\u2019e-5 moon samples to U.S. universities China has approved international requests, including from two U.S. universities, to borrow small portions of moon samples collected by its Chang\u2019e-5 mission.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "China",
-      "universities",
-      "samples",
-      "lend",
-      "moon",
-      "mission",
-      "requests",
-      "including",
-      "approved",
-      "international"
-    ]
-  },
-  {
-    "source": "Gizmodo [GNews]",
-    "url": "https://gizmodo.com/cynthia-erivo-will-lend-her-voice-as-elphaba-and-everyone-else-in-new-wicked-audiobook-2000592788",
-    "title": "Cynthia Erivo Will Lend Her Voice as Elphaba and Everyone Else in New Wicked Audiobook",
-    "published_at": "2025-04-22T19:30:47Z",
-    "content": "RB Media is publishing a new audio version of Gregory Maguire's novel which inspired the hit musical and film.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "Erivo",
-      "Lend",
-      "Voice",
-      "Elphaba",
-      "Wicked",
-      "Audiobook",
-      "Media",
-      "Gregory",
-      "Maguire",
-      "Cynthia"
-    ]
-  },
-  {
-    "source": "TechCrunch [GNews]",
-    "url": "https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/",
-    "title": "OpenAI's models 'memorized' copyrighted content, new study suggests",
-    "published_at": "2025-04-04T18:42:11Z",
-    "content": "A new study appears to lend credence to allegations that OpenAI trained at least some of its AI models on copyrighted content.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "content",
-      "memorized",
-      "copyrighted",
-      "study",
-      "OpenAI",
-      "models",
-      "suggests",
-      "lend",
-      "credence",
-      "allegations"
-    ]
-  },
-  {
-    "source": "The Boston Globe [GNews]",
-    "url": "https://www.bostonglobe.com/2025/02/20/magazine/worried-parents-boston-childrens-hospital/",
-    "title": "Worried parents lend each other support at Children\u2019s Hospital",
-    "published_at": "2025-02-20T05:00:00Z",
-    "content": "The man in line ahead of me was in agony. I\u2019d been there myself when my child had cancer.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "Children",
-      "Hospital",
-      "Worried",
-      "agony",
-      "parents",
-      "lend",
-      "support",
-      "man",
-      "line",
-      "ahead"
-    ]
-  },
-  {
-    "source": "/FILM [GNews]",
-    "url": "https://www.slashfilm.com/1777270/clint-eastwood-dirty-harry-canceled-video-game/",
-    "title": "The Canceled Adaptation That Would Have Been Clint Eastwood's Video Game Debut",
-    "published_at": "2025-02-04T12:45:55Z",
-    "content": "Clint Eastwood was once set to lend his talents to a video game based on one of his most famous movies, only for the project to fall apart in development.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "Clint",
-      "Eastwood",
-      "Video",
-      "Game",
-      "Canceled",
-      "Adaptation",
-      "Debut",
-      "movies",
-      "development",
-      "set"
-    ]
-  },
-  {
-    "source": "Newsweek [GNews]",
-    "url": "https://www.newsweek.com/connection-february-3-puzzle-603-2024839",
-    "title": "'Connections' February 3rd: Hints and Answers for Game #603",
-    "published_at": "2025-02-03T05:01:01Z",
-    "content": "Newsweek is here to lend a helping hand if you're trying to tackle your first word puzzle of the week.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "Connections'",
-      "February",
-      "Hints",
-      "Game",
-      "Newsweek",
-      "Answers",
-      "week",
-      "lend",
-      "helping",
-      "hand"
-    ]
-  },
-  {
-    "source": "The Boston Globe [GNews]",
-    "url": "https://www.bostonglobe.com/2025/02/01/nation/rfk-jr-letter-senate/",
-    "title": "Pro-RFK Jr. letter to the Senate includes names of doctors whose licenses were revoked or suspended",
-    "published_at": "2025-02-01T05:00:00Z",
-    "content": "The letter was meant to lend credibility to Kennedy\u2019s nomination, which has faced strenuous opposition from medical experts due to his two decades of anti-vaccine activism.",
-    "platforms_mentioned": [],
-    "entity": "Lend",
-    "keywords": [
-      "Senate",
-      "Kennedy",
-      "letter",
-      "Pro-RFK",
-      "nomination",
-      "activism",
-      "includes",
-      "doctors",
-      "licenses",
-      "revoked"
-    ]
-  },
-  {
     "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/skanska-reports-solid-q2-with-residential-segment-beating-expectations-93CH-4141069",
-    "title": "Skanska reports solid Q2 with residential segment beating expectations",
-    "published_at": "2025-07-18 06:26:16",
+    "url": "https://www.investing.com/news/stock-market-news/china-commerce-minister-says-he-met-nvidia-ceo-in-beijing-4140973",
+    "title": "China commerce minister discussed foreign investment, AI at meet with Nvidia CEO",
+    "published_at": "2025-07-18 07:11:19",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Skanska",
-      "solid",
-      "expectations",
-      "reports",
-      "residential",
-      "segment",
-      "beating"
+      "CEO",
+      "Nvidia",
+      "China",
+      "investment",
+      "commerce",
+      "minister",
+      "discussed",
+      "foreign",
+      "meet"
     ]
   },
   {
     "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/reckitt-to-sell-essential-home-business-to-advent-in-48-billion-deal-4141059",
-    "title": "Reckitt to sell Essential Home business to Advent in $4.8 billion deal",
-    "published_at": "2025-07-18 06:25:30",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Essential",
-      "Home",
-      "Advent",
-      "Reckitt",
-      "billion",
-      "deal",
-      "sell",
-      "business"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/burberry-reports-1-dip-in-firstquarter-comparable-store-sales-4141044",
-    "title": "Burberry reports smaller-than-expected dip in first-quarter comparable sales",
-    "published_at": "2025-07-18 06:20:59",
+    "url": "https://www.investing.com/news/stock-market-news/european-stocks-edge-higher-on-earnings-deluge-burberry-shows-recovery-4141112",
+    "title": "European stocks edge higher on earnings deluge; Burberry shows recovery",
+    "published_at": "2025-07-18 07:10:26",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "Burberry",
-      "reports",
-      "dip",
-      "sales",
-      "first-quarter",
-      "comparable"
+      "European",
+      "deluge",
+      "recovery",
+      "stocks",
+      "edge",
+      "higher",
+      "earnings",
+      "shows"
     ]
   },
   {
     "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/vend-marketplaces-reports-solid-q2-with-ebitda-beat-93CH-4141056",
-    "title": "Vend Marketplaces reports solid Q2 with EBITDA beat",
-    "published_at": "2025-07-18 06:18:54",
+    "url": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-017-4141113",
+    "title": "Japan stocks lower at close of trade; Nikkei 225 down 0.17%",
+    "published_at": "2025-07-18 07:05:03",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Marketplaces",
-      "EBITDA",
-      "Vend",
-      "solid",
-      "beat",
-      "reports"
+      "Nikkei",
+      "Japan",
+      "trade",
+      "stocks",
+      "lower",
+      "close"
     ]
   },
   {
     "source": "Investing.com (English) [RSS]",
     "url": "https://www.investing.com/news/stock-market-news/factboxforeign-firms-executives-entangled-in-chinese-probes-4140969",
     "title": "Factbox-Foreign firms' executives entangled in Chinese probes",
-    "published_at": "2025-07-18 06:15:34",
+    "published_at": "2025-07-18 07:00:48",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -5777,9 +5633,27 @@
   },
   {
     "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/uks-reckitt-sells-majority-of-essential-home-unit-to-advent-for-up-to-48-bln-4141105",
+    "title": "U.K.'s Reckitt sells majority of Essential Home unit to Advent for up to $4.8 bln",
+    "published_at": "2025-07-18 06:56:06",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "bln",
+      "Reckitt",
+      "Essential",
+      "Home",
+      "Advent",
+      "sells",
+      "majority",
+      "unit"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
     "url": "https://www.investing.com/news/stock-market-news/electrolux-q2-profit-rises-more-than-expected-as-it-outperforms-market-in-north-america-4141005",
     "title": "Electrolux beats expectations in Q2 as it outperforms in North America, offsets tariffs",
-    "published_at": "2025-07-18 06:11:01",
+    "published_at": "2025-07-18 06:50:35",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -5795,72 +5669,101 @@
   },
   {
     "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-091-4141032",
-    "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.91%",
-    "published_at": "2025-07-18 06:05:03",
+    "url": "https://www.investing.com/news/stock-market-news/hemnet-q2-results-show-solid-arpl-growth-despite-listing-decline-93CH-4141093",
+    "title": "Hemnet Q2 results show solid ARPL growth despite listing decline",
+    "published_at": "2025-07-18 06:49:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Taiwan",
-      "Weighted",
-      "trade",
-      "stocks",
-      "higher",
-      "close"
+      "Hemnet",
+      "ARPL",
+      "results",
+      "decline",
+      "show",
+      "solid",
+      "growth",
+      "listing"
     ]
   },
   {
     "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/defence-group-saab-lands-profit-beat-raises-2025-outlook-4141013",
-    "title": "Defence group Saab lands profit beat, raises 2025 outlook",
-    "published_at": "2025-07-18 05:55:32",
+    "url": "https://www.investing.com/news/stock-market-news/yara-reports-2q25-results-with-ebitda-in-line-with-estimates-93CH-4141092",
+    "title": "Yara reports 2Q25 results with EBITDA in line with estimates",
+    "published_at": "2025-07-18 06:48:20",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "raises",
-      "outlook",
-      "Saab",
-      "Defence",
-      "beat",
-      "group",
-      "lands",
-      "profit"
-    ]
-  },
-  {
-    "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/kering-and-qatars-mayhoola-considering-valentino-sale-italian-daily-reports-4141016",
-    "title": "Kering and Qatar's Mayhoola considering Valentino sale, Italian daily reports",
-    "published_at": "2025-07-18 05:50:32",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Italian",
-      "Qatar",
-      "Mayhoola",
-      "Valentino",
-      "Kering",
-      "sale",
+      "EBITDA",
+      "Yara",
       "reports",
-      "daily"
+      "results",
+      "estimates",
+      "line"
     ]
   },
   {
     "source": "Investing.com (English) [RSS]",
-    "url": "https://www.investing.com/news/stock-market-news/chinas-commerce-minister-says-he-met-nvidia-ceo-huang-in-beijing-4141015",
-    "title": "China\u2019s commerce minister says he met Nvidia CEO Huang in Beijing",
-    "published_at": "2025-07-18 05:43:15",
+    "url": "https://www.investing.com/news/stock-market-news/vimian-group-reports-7-miss-in-q2-adjusted-ebita-93CH-4141086",
+    "title": "Vimian Group reports 7% miss in Q2 adjusted EBITA",
+    "published_at": "2025-07-18 06:40:35",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Beijing",
-      "Nvidia",
-      "CEO",
-      "Huang",
-      "China",
-      "commerce",
-      "minister",
-      "met"
+      "EBITA",
+      "Group",
+      "Vimian",
+      "reports",
+      "miss",
+      "adjusted"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/billerud-reports-weak-q2-as-european-packaging-demand-softens-93CH-4141081",
+    "title": "Billerud reports weak Q2 as European packaging demand softens",
+    "published_at": "2025-07-18 06:38:14",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "European",
+      "Billerud",
+      "weak",
+      "softens",
+      "reports",
+      "packaging",
+      "demand"
+    ]
+  },
+  {
+    "source": "Investing.com (German)  [RSS]",
+    "url": "https://de.investing.com/news/economic-indicators/baugenehmigungen-das-comeback-des-einfamilienhauses-3071482",
+    "title": "Baugenehmigungen: Das Comeback des Einfamilienhauses",
+    "published_at": "2025-07-18 07:15:04",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Baugenehmigungen",
+      "Das",
+      "Einfamilienhauses",
+      "Comeback",
+      "des"
+    ]
+  },
+  {
+    "source": "Investing.com (German)  [RSS]",
+    "url": "https://de.investing.com/news/economic-indicators/deutschland-ruckgang-der-erzeugerpreise-beschleunigt-sich-etwas-3071442",
+    "title": "Deutschland: R\u00fcckgang der Erzeugerpreise beschleunigt sich etwas",
+    "published_at": "2025-07-18 06:45:11",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deutschland",
+      "R\u00fcckgang",
+      "Erzeugerpreise",
+      "etwas",
+      "der",
+      "beschleunigt",
+      "sich"
     ]
   },
   {
@@ -5992,39 +5895,6 @@
       "steigt",
       "st\u00e4rker",
       "als"
-    ]
-  },
-  {
-    "source": "Investing.com (German)  [RSS]",
-    "url": "https://de.investing.com/news/economic-indicators/usa-anstieg-der-erzeugerpreise-schwacht-sich-starker-als-erwartet-ab-3068617",
-    "title": "USA: Anstieg der Erzeugerpreise schw\u00e4cht sich st\u00e4rker als erwartet ab",
-    "published_at": "2025-07-16 13:00:12",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "USA",
-      "Anstieg",
-      "Erzeugerpreise",
-      "der",
-      "schw\u00e4cht",
-      "sich",
-      "st\u00e4rker",
-      "als",
-      "erwartet"
-    ]
-  },
-  {
-    "source": "Investing.com (German)  [RSS]",
-    "url": "https://de.investing.com/news/economic-indicators/sudafrika-einzelhandelsumsatze-steigen-im-mai-um-42--93CH-3068492",
-    "title": "S\u00fcdafrika: Einzelhandelsums\u00e4tze steigen im Mai um 4,2 %",
-    "published_at": "2025-07-16 12:06:00",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "S\u00fcdafrika",
-      "Einzelhandelsums\u00e4tze",
-      "Mai",
-      "steigen"
     ]
   },
   {
@@ -7050,7 +6920,7 @@
   {
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/07/18/jane-street-sebi-arbitrage-become-market-manipulation-mens-re-derivative-india-markets.html",
-    "title": "When does arbitrage become market manipulation? Jane Street case brings gray line in focus",
+    "title": "When does arbitrage become market manipulation? India crackdown brings issue into focus",
     "published_at": "2025-07-18",
     "content": "When does arbitrage edge into illegality? The line between arbitrage and market manipulation has long been one of the greyest areas in financial markets.",
     "platforms_mentioned": [],
@@ -7058,13 +6928,33 @@
       "arbitrage",
       "manipulation",
       "market",
-      "Street",
-      "line",
-      "Jane",
+      "India",
       "illegality",
       "markets",
-      "case",
-      "brings"
+      "crackdown",
+      "brings",
+      "issue",
+      "focus"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2025/07/18/investing-in-space-the-markets-taking-off.html",
+    "title": "Investing in Space: The market\u2019s taking off",
+    "published_at": "2025-07-18",
+    "content": "Between fundraising, IPOs and acquisitions, the space sector heated up in the second quarter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Space",
+      "Investing",
+      "fundraising",
+      "IPOs",
+      "acquisitions",
+      "quarter",
+      "market",
+      "taking",
+      "sector",
+      "heated"
     ]
   },
   {
@@ -7108,26 +6998,6 @@
   },
   {
     "source": "CNBC Top News [RSS]",
-    "url": "https://www.cnbc.com/2025/07/17/elon-musks-neuralink-says-owned-by-disadvantaged-persons-in-filing.html",
-    "title": "Elon Musk's Neuralink filed as 'disadvantaged business' before being valued at $9 billion",
-    "published_at": "2025-07-18",
-    "content": "Neuralink labeled itself in April as a \"small disadvantaged business\" in a federal filing with the U.S. Small Business Administration.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "small",
-      "Administration",
-      "Neuralink",
-      "business",
-      "Musk",
-      "April",
-      "Elon",
-      "billion",
-      "disadvantaged",
-      "filed"
-    ]
-  },
-  {
-    "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/07/17/new-york-city-braces-for-wealth-flight-with-mamdanis-political-rise.html",
     "title": "New York City braces for wealth flight with Mamdani's political rise",
     "published_at": "2025-07-18",
@@ -7164,6 +7034,26 @@
       "offer",
       "sellers",
       "stable"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2025/07/17/elon-musks-neuralink-says-owned-by-disadvantaged-persons-in-filing.html",
+    "title": "Elon Musk's Neuralink filed as 'disadvantaged business' before being valued at $9 billion",
+    "published_at": "2025-07-18",
+    "content": "Neuralink labeled itself in April as a \"small disadvantaged business\" in a federal filing with the U.S. Small Business Administration.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "small",
+      "Administration",
+      "Neuralink",
+      "business",
+      "Musk",
+      "April",
+      "Elon",
+      "billion",
+      "disadvantaged",
+      "filed"
     ]
   },
   {
@@ -7248,26 +7138,6 @@
   },
   {
     "source": "CNBC Top News [RSS]",
-    "url": "https://www.cnbc.com/2025/07/17/homebuilders-slash-prices-at-the-highest-rate-in-3-years.html",
-    "title": "Homebuilders are slashing prices at the highest rate in 3 years",
-    "published_at": "2025-07-18",
-    "content": "More homebuilders are cutting prices as interest rates remain stubbornly high, and potential buyers pull back over concerns in the economy.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Homebuilders",
-      "years",
-      "high",
-      "economy",
-      "prices",
-      "slashing",
-      "highest",
-      "cutting",
-      "interest",
-      "remain"
-    ]
-  },
-  {
-    "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/07/17/bristol-myers-goes-dtc-on-a-blockbuster-drug-heres-our-take.html",
     "title": "Bristol Myers goes direct-to-consumer on one of its blockbuster drugs. Here's our take",
     "published_at": "2025-07-18",
@@ -7284,6 +7154,26 @@
       "weekday",
       "trading",
       "releases"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2025/07/17/homebuilders-slash-prices-at-the-highest-rate-in-3-years.html",
+    "title": "Homebuilders are slashing prices at the highest rate in 3 years",
+    "published_at": "2025-07-18",
+    "content": "More homebuilders are cutting prices as interest rates remain stubbornly high, and potential buyers pull back over concerns in the economy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Homebuilders",
+      "years",
+      "high",
+      "economy",
+      "prices",
+      "slashing",
+      "highest",
+      "cutting",
+      "interest",
+      "remain"
     ]
   },
   {
@@ -7587,23 +7477,23 @@
     ]
   },
   {
-    "source": "CNBC Top News [RSS]",
-    "url": "https://www.cnbc.com/2025/07/16/united-airlines-ual-2q-2025-earnings.html",
-    "title": "United Airlines issues new 2025 forecast as CEO says 'world is less uncertain'",
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/07/18/investing-in-space-the-markets-taking-off.html",
+    "title": "Investing in Space: The market\u2019s taking off",
     "published_at": "2025-07-18",
-    "content": "United Airlines is the second of the major U.S. carriers to report results.",
+    "content": "Between fundraising, IPOs and acquisitions, the space sector heated up in the second quarter.",
     "platforms_mentioned": [],
     "keywords": [
-      "United",
-      "Airlines",
-      "CEO",
-      "forecast",
-      "world",
-      "uncertain",
-      "major",
-      "carriers",
-      "results",
-      "issues"
+      "Space",
+      "Investing",
+      "fundraising",
+      "IPOs",
+      "acquisitions",
+      "quarter",
+      "market",
+      "taking",
+      "sector",
+      "heated"
     ]
   },
   {
@@ -7629,7 +7519,7 @@
   {
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/07/18/jane-street-sebi-arbitrage-become-market-manipulation-mens-re-derivative-india-markets.html",
-    "title": "When does arbitrage become market manipulation? Jane Street case brings gray line in focus",
+    "title": "When does arbitrage become market manipulation? India crackdown brings issue into focus",
     "published_at": "2025-07-18",
     "content": "When does arbitrage edge into illegality? The line between arbitrage and market manipulation has long been one of the greyest areas in financial markets.",
     "platforms_mentioned": [],
@@ -7637,13 +7527,13 @@
       "arbitrage",
       "manipulation",
       "market",
-      "Street",
-      "line",
-      "Jane",
+      "India",
       "illegality",
       "markets",
-      "case",
-      "brings"
+      "crackdown",
+      "brings",
+      "issue",
+      "focus"
     ]
   },
   {
@@ -7827,26 +7717,6 @@
   },
   {
     "source": "CNBC Markets [RSS]",
-    "url": "https://www.cnbc.com/2025/07/17/trump-powell-warren-market-crash.html",
-    "title": "Markets will 'crash' if Trump fires Powell, Sen. Warren warns",
-    "published_at": "2025-07-18",
-    "content": "Trump wants Powell to lower interest rates in order to boost the economy, but the Fed chair has said the president's tariff plans have kept him from doing so.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Sen",
-      "crash",
-      "Trump",
-      "Powell",
-      "Markets",
-      "fires",
-      "Fed",
-      "Warren",
-      "economy",
-      "warns"
-    ]
-  },
-  {
-    "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/07/17/homebuilders-slash-prices-at-the-highest-rate-in-3-years.html",
     "title": "Homebuilders are slashing prices at the highest rate in 3 years",
     "published_at": "2025-07-18",
@@ -7883,6 +7753,26 @@
       "calls",
       "partnership",
       "called"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/07/17/trump-powell-warren-market-crash.html",
+    "title": "Markets will 'crash' if Trump fires Powell, Sen. Warren warns",
+    "published_at": "2025-07-18",
+    "content": "Trump wants Powell to lower interest rates in order to boost the economy, but the Fed chair has said the president's tariff plans have kept him from doing so.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sen",
+      "crash",
+      "Trump",
+      "Powell",
+      "Markets",
+      "fires",
+      "Fed",
+      "Warren",
+      "economy",
+      "warns"
     ]
   },
   {
@@ -8183,26 +8073,6 @@
       "grew",
       "pharma",
       "giant"
-    ]
-  },
-  {
-    "source": "CNBC Markets [RSS]",
-    "url": "https://www.cnbc.com/2025/07/17/autos-volvo-cars-switches-gears-in-the-us-as-trumps-tariffs-bite.html",
-    "title": "Sweden's Volvo Cars shakes up plans in the U.S. as tariffs bite",
-    "published_at": "2025-07-18",
-    "content": "Volvo Cars is widely considered to be one of the most exposed European carmakers to U.S. tariffs.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Volvo",
-      "Cars",
-      "European",
-      "Sweden",
-      "tariffs",
-      "shakes",
-      "plans",
-      "bite",
-      "widely",
-      "considered"
     ]
   },
   {
@@ -10001,349 +9871,6 @@
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/high-income-taxpayers-california-york-182838329.html",
-    "title": "High income taxpayers in California and New York set for a SALT windfall in 2026",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "California",
-      "York",
-      "SALT",
-      "High",
-      "income",
-      "taxpayers",
-      "set",
-      "windfall"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/advisor/articles/banks-earnings-wealth-management-stock-market-rebound-3792d07f?siteid=yhoof2&yptr=yahoo",
-    "title": "Banks\u2019 Wealth Management Units Ride Market Rebound in Second Quarter",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Quarter",
-      "Wealth",
-      "Management",
-      "Units",
-      "Ride",
-      "Market",
-      "Rebound",
-      "Banks\u2019"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/faced-geopolitics-trade-war-us-183125210.html",
-    "title": "Daunted by geopolitics and trade war, US companies in China report record-low new investment plans",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "China",
-      "Daunted",
-      "war",
-      "plans",
-      "geopolitics",
-      "trade",
-      "companies",
-      "report",
-      "record-low",
-      "investment"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/articles/megacap-tech-stock-rally-25b1cac6?siteid=yhoof2&yptr=yahoo",
-    "title": "Megacap Tech Is Dominating This Rally. That Could Test Investor Sentiment.",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Rally",
-      "Tech",
-      "Dominating",
-      "Megacap",
-      "Sentiment",
-      "Test",
-      "Investor"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/prologis-says-warehouse-demand-piling-183341334.html",
-    "title": "Prologis says warehouse \u2018demand is piling up\u2019",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Prologis",
-      "warehouse",
-      "demand",
-      "up\u2019",
-      "piling"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/ford-recall-problem-keeps-getting-183000525.html",
-    "title": "Ford\u2019s recall problem keeps getting worse\u2014and this one could start fires",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Ford",
-      "worse",
-      "fires",
-      "recall",
-      "problem",
-      "start"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/advisor/articles/jd-power-2025-advisor-satisfaction-ranking-454c433b?siteid=yhoof2&yptr=yahoo",
-    "title": "Stifel and Commonwealth Lead J.D. Power\u2019s 2025 Advisor Satisfaction Rankings",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Commonwealth",
-      "Lead",
-      "Stifel",
-      "Advisor",
-      "Rankings",
-      "Satisfaction",
-      "Power"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.investors.com/news/technology/ibd-rating-upgrades-applied-materials-shows-improved-price-strength/?src=A00220&yptr=yahoo",
-    "title": "Chip Equipment Giant Applied Materials Emerges From Dark Period; Earns Key IBD Rating Upgrade",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Period",
-      "Earns",
-      "Upgrade",
-      "Equipment",
-      "Giant",
-      "Applied",
-      "Materials",
-      "Emerges",
-      "Dark",
-      "Key"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-by-credit-score-185409590.html",
-    "title": "Current mortgage rates by credit score",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Current",
-      "score",
-      "mortgage",
-      "rates",
-      "credit"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/longer-term-inflation-expectations-tick-higher-6ISlBbwfbtU0WUfsJGg1?siteid=yhoof2&yptr=yahoo",
-    "title": "Longer-Term Inflation Expectations Tick Higher",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Higher",
-      "Inflation",
-      "Expectations",
-      "Tick",
-      "Longer-Term"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/travel-credit-cards-vacation-savings-224339669.html",
-    "title": "How to save big on your next vacation with a travel credit card",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "card",
-      "save",
-      "big",
-      "vacation",
-      "travel",
-      "credit"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-possible-position-adjustments-4e9d2ab3?siteid=yhoof2&yptr=yahoo",
-    "title": "Gold Finishes Higher With Powell\u2019s Status in Question",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Question",
-      "Finishes",
-      "Higher",
-      "Powell",
-      "Status",
-      "Gold"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/lowest-mortgage-rates-155235056.html",
-    "title": "Where and how to find the lowest mortgage rates right now",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "find",
-      "lowest",
-      "mortgage",
-      "rates"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/articles/trump-401k-retirement-private-equity-23f9dcc5?siteid=yhoof2&yptr=yahoo",
-    "title": "Trump to Open 401(k)s to Private Equity",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Open",
-      "Equity",
-      "Private",
-      "Trump"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/oil-futures-settle-above-lows-as-u-s-crude-stocks-decline-CstaaGiVgzZwmmH7IOPS?siteid=yhoof2&yptr=yahoo",
-    "title": "Oil Futures Settle Above Lows as U.S. Crude Stocks Decline",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Crude",
-      "Decline",
-      "Futures",
-      "Settle",
-      "Lows",
-      "Stocks",
-      "Oil"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-do-credit-card-companies-make-money-220247707.html",
-    "title": "How do credit card companies make money?",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "money",
-      "credit",
-      "card",
-      "companies",
-      "make"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/crude-oil-prices-fall-due-190040008.html",
-    "title": "Crude Oil Prices Fall Due to a Focus on Oil Surplus",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Surplus",
-      "Oil",
-      "Prices",
-      "Fall",
-      "Due",
-      "Focus",
-      "Crude"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/why-usa-rare-earth-stock-183542054.html",
-    "title": "Why USA Rare Earth Stock Gave Up Some Gains Today",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Today",
-      "USA",
-      "Rare",
-      "Earth",
-      "Stock",
-      "Gave",
-      "Gains"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/why-johnson-johnson-rallied-today-183800784.html",
-    "title": "Why Johnson & Johnson Rallied Today",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Today",
-      "Johnson",
-      "Rallied"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://www.barrons.com/articles/stock-market-bubble-tech-ai-71c9bfdc?siteid=yhoof2&yptr=yahoo",
-    "title": "Stocks Are Pricier Than They Were in the Dot-Com Era. That Alone Doesn\u2019t Make a Bubble.",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Era",
-      "Pricier",
-      "Stocks",
-      "Bubble",
-      "Dot-Com",
-      "Make",
-      "n\u2019t"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/donald-trump-says-fed-chief-184404448.html",
-    "title": "Donald Trump says Fed chief could be sacked for fraud",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Trump",
-      "Fed",
-      "Donald",
-      "fraud",
-      "chief",
-      "sacked"
-    ]
-  },
-  {
-    "source": "Top Stories [RSS]",
     "url": "https://www.barrons.com/livecoverage/wells-fargo-jp-morgan-morgan-stanley-blackrock-bny-mellon-earnings/card/trading-desks-rejoice-wall-street-keeps-benefitting-from-tariff-upheaval-9wdmwRoswZzT7Fqq9fCM?siteid=yhoof2&yptr=yahoo",
     "title": "Trading Desks Rejoice: Wall Street Keeps Benefitting From Tariff Upheaval",
     "published_at": "2025-07-18",
@@ -10362,36 +9889,34 @@
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://www.wsj.com/articles/riverside-raises-750-million-to-back-businesses-in-transition-05938761?siteid=yhoof2&yptr=yahoo",
-    "title": "Riverside Raises $750 Million to Back Businesses in Transition",
+    "url": "https://finance.yahoo.com/news/why-asml-stock-plummeting-today-192708802.html",
+    "title": "Why ASML Stock Is Plummeting Today",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Raises",
-      "Million",
-      "Transition",
-      "Back",
-      "Businesses",
-      "Riverside"
+      "Today",
+      "ASML",
+      "Stock",
+      "Plummeting"
     ]
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/jpmorgan-flexes-revenue-muscle-again-183041470.html",
-    "title": "JPMorgan Flexes Revenue Muscle Again As Wells Fargo Battles NII Woes",
+    "url": "https://finance.yahoo.com/news/ondo-finance-partners-bitget-offer-194435307.html",
+    "title": "Ondo Finance partners with Bitget to offer tokenized U.S. stocks and ETFs",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Woes",
-      "Flexes",
-      "Revenue",
-      "Muscle",
-      "Fargo",
-      "Battles",
-      "NII",
-      "JPMorgan"
+      "Finance",
+      "Bitget",
+      "Ondo",
+      "tokenized",
+      "stocks",
+      "ETFs",
+      "partners",
+      "offer"
     ]
   },
   {
@@ -10426,34 +9951,61 @@
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/vanguard-becomes-top-shareholder-michael-185322031.html",
-    "title": "Vanguard becomes top shareholder in Michael Saylor\u2019s MicroStrategy",
+    "url": "https://finance.yahoo.com/news/jason-brown-highest-paid-nfl-200400960.html",
+    "title": "Jason Brown was the highest-paid NFL center with a $37.5M deal \u2014 until he quit in his prime to become a farmer",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Michael",
-      "Saylor",
-      "Vanguard",
-      "MicroStrategy",
-      "top",
-      "shareholder"
+      "deal",
+      "Brown",
+      "NFL",
+      "Jason",
+      "farmer",
+      "highest-paid",
+      "center",
+      "quit",
+      "prime"
     ]
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/video/bofas-moynihan-says-fed-wont-185910117.html",
-    "title": "BofA's Moynihan Says Fed Won't Cut Rates Until Next Year",
+    "url": "https://finance.yahoo.com/news/elon-musks-spacex-commits-2-193137087.html",
+    "title": "Elon Musk's SpaceX Commits $2 Billion To xAI In $5 Billion Round As AI Startup Hits $113 Billion Valuation Amid Controversy",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Year",
-      "Moynihan",
+      "Billion",
+      "Commits",
+      "Hits",
+      "Controversy",
+      "Musk",
+      "Round",
+      "Startup",
+      "Valuation",
+      "Amid",
+      "Elon"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/dollar-falls-back-apparent-trial-195625978.html",
+    "title": "Dollar Falls Back on Apparent Trial Balloon for Firing Fed Chair Powell",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Powell",
+      "Falls",
+      "Back",
+      "Apparent",
+      "Trial",
+      "Balloon",
+      "Firing",
       "Fed",
-      "Cut",
-      "Rates",
-      "BofA"
+      "Chair",
+      "Dollar"
     ]
   },
   {
@@ -10493,37 +10045,32 @@
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/dollar-falls-back-apparent-trial-195625978.html",
-    "title": "Dollar Falls Back on Apparent Trial Balloon for Firing Fed Chair Powell",
+    "url": "https://finance.yahoo.com/news/company-used-obscure-now-apple-193556480.html",
+    "title": "This Company Used To Be Obscure. Now Apple and the DOD Are Buying In",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Powell",
-      "Falls",
-      "Back",
-      "Apparent",
-      "Trial",
-      "Balloon",
-      "Firing",
-      "Fed",
-      "Chair",
-      "Dollar"
+      "Obscure",
+      "Company",
+      "Apple",
+      "DOD",
+      "Buying"
     ]
   },
   {
     "source": "Top Stories [RSS]",
-    "url": "https://finance.yahoo.com/news/j-b-hunt-fundamentals-still-190029691.html",
-    "title": "J.B. Hunt Fundamentals Still Stuck In The Mud: Analyst",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-by-credit-score-185409590.html",
+    "title": "Current mortgage rates by credit score",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Analyst",
-      "Mud",
-      "Fundamentals",
-      "Stuck",
-      "Hunt"
+      "Current",
+      "score",
+      "mortgage",
+      "rates",
+      "credit"
     ]
   },
   {
@@ -10542,346 +10089,357 @@
     ]
   },
   {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/high-income-taxpayers-california-york-182838329.html",
-    "title": "High income taxpayers in California and New York set for a SALT windfall in 2026",
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/video/bofas-moynihan-us-consumers-fed-193024017.html",
+    "title": "BofA's Moynihan on US Consumers, Fed Policy and AI",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "California",
-      "York",
-      "SALT",
-      "High",
-      "income",
-      "taxpayers",
-      "set",
-      "windfall"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/advisor/articles/banks-earnings-wealth-management-stock-market-rebound-3792d07f?siteid=yhoof2&yptr=yahoo",
-    "title": "Banks\u2019 Wealth Management Units Ride Market Rebound in Second Quarter",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Quarter",
-      "Wealth",
-      "Management",
-      "Units",
-      "Ride",
-      "Market",
-      "Rebound",
-      "Banks\u2019"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/faced-geopolitics-trade-war-us-183125210.html",
-    "title": "Daunted by geopolitics and trade war, US companies in China report record-low new investment plans",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "China",
-      "Daunted",
-      "war",
-      "plans",
-      "geopolitics",
-      "trade",
-      "companies",
-      "report",
-      "record-low",
-      "investment"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/articles/megacap-tech-stock-rally-25b1cac6?siteid=yhoof2&yptr=yahoo",
-    "title": "Megacap Tech Is Dominating This Rally. That Could Test Investor Sentiment.",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Rally",
-      "Tech",
-      "Dominating",
-      "Megacap",
-      "Sentiment",
-      "Test",
-      "Investor"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/prologis-says-warehouse-demand-piling-183341334.html",
-    "title": "Prologis says warehouse \u2018demand is piling up\u2019",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Prologis",
-      "warehouse",
-      "demand",
-      "up\u2019",
-      "piling"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/ford-recall-problem-keeps-getting-183000525.html",
-    "title": "Ford\u2019s recall problem keeps getting worse\u2014and this one could start fires",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Ford",
-      "worse",
-      "fires",
-      "recall",
-      "problem",
-      "start"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/advisor/articles/jd-power-2025-advisor-satisfaction-ranking-454c433b?siteid=yhoof2&yptr=yahoo",
-    "title": "Stifel and Commonwealth Lead J.D. Power\u2019s 2025 Advisor Satisfaction Rankings",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Commonwealth",
-      "Lead",
-      "Stifel",
-      "Advisor",
-      "Rankings",
-      "Satisfaction",
-      "Power"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.investors.com/news/technology/ibd-rating-upgrades-applied-materials-shows-improved-price-strength/?src=A00220&yptr=yahoo",
-    "title": "Chip Equipment Giant Applied Materials Emerges From Dark Period; Earns Key IBD Rating Upgrade",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Period",
-      "Earns",
-      "Upgrade",
-      "Equipment",
-      "Giant",
-      "Applied",
-      "Materials",
-      "Emerges",
-      "Dark",
-      "Key"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-by-credit-score-185409590.html",
-    "title": "Current mortgage rates by credit score",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Current",
-      "score",
-      "mortgage",
-      "rates",
-      "credit"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/longer-term-inflation-expectations-tick-higher-6ISlBbwfbtU0WUfsJGg1?siteid=yhoof2&yptr=yahoo",
-    "title": "Longer-Term Inflation Expectations Tick Higher",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Higher",
-      "Inflation",
-      "Expectations",
-      "Tick",
-      "Longer-Term"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/travel-credit-cards-vacation-savings-224339669.html",
-    "title": "How to save big on your next vacation with a travel credit card",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "card",
-      "save",
-      "big",
-      "vacation",
-      "travel",
-      "credit"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-possible-position-adjustments-4e9d2ab3?siteid=yhoof2&yptr=yahoo",
-    "title": "Gold Finishes Higher With Powell\u2019s Status in Question",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Question",
-      "Finishes",
-      "Higher",
-      "Powell",
-      "Status",
-      "Gold"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/lowest-mortgage-rates-155235056.html",
-    "title": "Where and how to find the lowest mortgage rates right now",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "find",
-      "lowest",
-      "mortgage",
-      "rates"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/articles/trump-401k-retirement-private-equity-23f9dcc5?siteid=yhoof2&yptr=yahoo",
-    "title": "Trump to Open 401(k)s to Private Equity",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Open",
-      "Equity",
-      "Private",
-      "Trump"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/oil-futures-settle-above-lows-as-u-s-crude-stocks-decline-CstaaGiVgzZwmmH7IOPS?siteid=yhoof2&yptr=yahoo",
-    "title": "Oil Futures Settle Above Lows as U.S. Crude Stocks Decline",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Crude",
-      "Decline",
-      "Futures",
-      "Settle",
-      "Lows",
-      "Stocks",
-      "Oil"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-do-credit-card-companies-make-money-220247707.html",
-    "title": "How do credit card companies make money?",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "money",
-      "credit",
-      "card",
-      "companies",
-      "make"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/crude-oil-prices-fall-due-190040008.html",
-    "title": "Crude Oil Prices Fall Due to a Focus on Oil Surplus",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Surplus",
-      "Oil",
-      "Prices",
-      "Fall",
-      "Due",
-      "Focus",
-      "Crude"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/why-usa-rare-earth-stock-183542054.html",
-    "title": "Why USA Rare Earth Stock Gave Up Some Gains Today",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Today",
-      "USA",
-      "Rare",
-      "Earth",
-      "Stock",
-      "Gave",
-      "Gains"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/why-johnson-johnson-rallied-today-183800784.html",
-    "title": "Why Johnson & Johnson Rallied Today",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Today",
-      "Johnson",
-      "Rallied"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://www.barrons.com/articles/stock-market-bubble-tech-ai-71c9bfdc?siteid=yhoof2&yptr=yahoo",
-    "title": "Stocks Are Pricier Than They Were in the Dot-Com Era. That Alone Doesn\u2019t Make a Bubble.",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Era",
-      "Pricier",
-      "Stocks",
-      "Bubble",
-      "Dot-Com",
-      "Make",
-      "n\u2019t"
-    ]
-  },
-  {
-    "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/donald-trump-says-fed-chief-184404448.html",
-    "title": "Donald Trump says Fed chief could be sacked for fraud",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Trump",
+      "Consumers",
       "Fed",
-      "Donald",
-      "fraud",
-      "chief",
-      "sacked"
+      "Moynihan",
+      "Policy",
+      "BofA"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.investors.com/news/technology/johnson-johnson-stock-j-j-earnings-q2-205/?src=A00220&yptr=yahoo",
+    "title": "Dow's J&J Surges; Why Its Report Is Also Bullish For Stryker, Medtronic, Boston Scientific",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Medtronic",
+      "Surges",
+      "Stryker",
+      "Boston",
+      "Scientific",
+      "Report",
+      "Bullish",
+      "Dow"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-end-higher-after-trumps-powell-talk-sparks-volatile-trading-200548241.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq end higher after Trump's Powell talk sparks volatile trading",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dow",
+      "Nasdaq",
+      "Trump",
+      "Powell",
+      "Stock",
+      "today",
+      "trading",
+      "market",
+      "end",
+      "higher"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/road-stock-construction-partners-nvidia-best-mutual-funds/?src=A00220&yptr=yahoo",
+    "title": "This Road Warrior Joins Nvidia On Elite Screen \u2013 Again",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Screen",
+      "Road",
+      "Warrior",
+      "Joins",
+      "Nvidia",
+      "Elite"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/us-etf-assets-hit-record-201500207.html",
+    "title": "US ETF Assets Hit New Record of $11.5T in June",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "ETF",
+      "Assets",
+      "Hit",
+      "Record"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/why-nvidias-china-comeback-could-194506922.html",
+    "title": "Why Nvidia's China Comeback Could Propel Its Stock To New Heights",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Heights",
+      "Nvidia",
+      "China",
+      "Comeback",
+      "Propel",
+      "Stock"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/pipeline-operator-kinder-morgan-posts-201504264.html",
+    "title": "Kinder Morgan quarterly profit jumps on strong natgas demand",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Kinder",
+      "demand",
+      "quarterly",
+      "profit",
+      "jumps",
+      "strong",
+      "natgas"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.investors.com/news/jpmorgan-stock-q2-earnings-wells-fargo-blackrock-morgan-stanley-goldman-sachs-bac/?src=A00220&yptr=yahoo",
+    "title": "Bank Of America Rises On Earnings; JPMorgan's Dimon Sees Strengths And Risk",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earnings",
+      "Risk",
+      "America",
+      "Rises",
+      "Dimon",
+      "Strengths",
+      "Bank",
+      "JPMorgan"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/wall-street-ceos-see-tariff-201902578.html",
+    "title": "Wall Street CEOs see some tariff impact filtering into customer behavior",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Street",
+      "Wall",
+      "behavior",
+      "CEOs",
+      "tariff",
+      "impact",
+      "filtering",
+      "customer"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/nasdaq-clinches-a-record-despite-trump-powell-drama-ipigv4DelDtmuBx4iepj?siteid=yhoof2&yptr=yahoo",
+    "title": "Nasdaq Clinches a Record Despite Trump-Powell Drama",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Drama",
+      "Clinches",
+      "Record",
+      "Nasdaq",
+      "Trump-Powell"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/one-most-critical-ai-companies-195445391.html",
+    "title": "One of the most critical AI companies in the world just said it \u2018cannot confirm\u2019 growth in 2026, wiping out $30 billion",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "wiping",
+      "critical",
+      "companies",
+      "world",
+      "confirm\u2019",
+      "growth"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.investors.com/news/technology/asml-stock-q2-2025-earnings-report/?src=A00220&yptr=yahoo",
+    "title": "Chip Gear Leader ASML Beats Q2 Targets But Gives Cautious Outlook",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Beats",
+      "Targets",
+      "Outlook",
+      "Gear",
+      "Leader",
+      "ASML",
+      "Cautious",
+      "Chip"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/advisor/articles/investing-opportunities-now-69de7536?siteid=yhoof2&yptr=yahoo",
+    "title": "Where Money Pros See Investment Opportunities Now",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Money",
+      "Pros",
+      "Investment",
+      "Opportunities"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.investors.com/news/technology/netflix-stock-analysts-upbeat-anxious-q2-2025-earnings/?src=A00220&yptr=yahoo",
+    "title": "Netflix Analysts Upbeat But Anxious Ahead Of Q2 Report",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Analysts",
+      "Upbeat",
+      "Anxious",
+      "Ahead",
+      "Netflix"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-ark-cathie-wood-bcc0c7f2?siteid=yhoof2&yptr=yahoo",
+    "title": "Tesla Is Worth $1 Trillion Again. ARK\u2019s Cathie Wood Bought More Stock.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Worth",
+      "Trillion",
+      "Tesla",
+      "ARK",
+      "Stock",
+      "Cathie",
+      "Wood",
+      "Bought"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/jpmorgan-plan-charge-data-could-195633869.html",
+    "title": "JPMorgan\u2019s plan to charge for data could \u2018cripple\u2019 crypto and fintech startups, execs warn",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "JPMorgan",
+      "cripple\u2019",
+      "startups",
+      "execs",
+      "warn",
+      "plan",
+      "charge",
+      "data",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2025/card/fed-s-favored-inflation-gauge-likely-stalled-in-june-WpyNTdPnr9JXUVfaWefn?siteid=yhoof2&yptr=yahoo",
+    "title": "Fed\u2019s Favored Inflation Gauge Likely Stalled in June",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "Favored",
+      "Inflation",
+      "Gauge",
+      "Stalled",
+      "Fed"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/articles/ford-stock-price-recalls-0cda275c?siteid=yhoof2&yptr=yahoo",
+    "title": "Ford Stock Dropped. This Is When Recalls Matter.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dropped",
+      "Stock",
+      "Ford",
+      "Matter",
+      "Recalls"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/articles/boeing-stock-price-new-highs-2b281e62?siteid=yhoof2&yptr=yahoo",
+    "title": "Boeing Stock Keeps Hitting New Highs. Here\u2019s Why.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Highs",
+      "Stock",
+      "Hitting",
+      "Boeing"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://www.barrons.com/articles/rockwell-stock-price-targets-4de5dd12?siteid=yhoof2&yptr=yahoo",
+    "title": "Rockwell Stock Rises as Wall Street Firms Raise Price Targets",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Targets",
+      "Stock",
+      "Rises",
+      "Wall",
+      "Street",
+      "Firms",
+      "Raise",
+      "Price",
+      "Rockwell"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/rigetti-computing-stock-price-why-200100057.html",
+    "title": "Rigetti Computing stock price: Why shares took a quantum leap today",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Computing",
+      "Rigetti",
+      "price",
+      "today",
+      "stock",
+      "shares",
+      "quantum",
+      "leap"
     ]
   },
   {
@@ -10904,36 +10462,34 @@
   },
   {
     "source": "News Index [RSS]",
-    "url": "https://www.wsj.com/articles/riverside-raises-750-million-to-back-businesses-in-transition-05938761?siteid=yhoof2&yptr=yahoo",
-    "title": "Riverside Raises $750 Million to Back Businesses in Transition",
+    "url": "https://finance.yahoo.com/news/why-asml-stock-plummeting-today-192708802.html",
+    "title": "Why ASML Stock Is Plummeting Today",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Raises",
-      "Million",
-      "Transition",
-      "Back",
-      "Businesses",
-      "Riverside"
+      "Today",
+      "ASML",
+      "Stock",
+      "Plummeting"
     ]
   },
   {
     "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/jpmorgan-flexes-revenue-muscle-again-183041470.html",
-    "title": "JPMorgan Flexes Revenue Muscle Again As Wells Fargo Battles NII Woes",
+    "url": "https://finance.yahoo.com/news/ondo-finance-partners-bitget-offer-194435307.html",
+    "title": "Ondo Finance partners with Bitget to offer tokenized U.S. stocks and ETFs",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Woes",
-      "Flexes",
-      "Revenue",
-      "Muscle",
-      "Fargo",
-      "Battles",
-      "NII",
-      "JPMorgan"
+      "Finance",
+      "Bitget",
+      "Ondo",
+      "tokenized",
+      "stocks",
+      "ETFs",
+      "partners",
+      "offer"
     ]
   },
   {
@@ -10968,34 +10524,61 @@
   },
   {
     "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/vanguard-becomes-top-shareholder-michael-185322031.html",
-    "title": "Vanguard becomes top shareholder in Michael Saylor\u2019s MicroStrategy",
+    "url": "https://finance.yahoo.com/news/jason-brown-highest-paid-nfl-200400960.html",
+    "title": "Jason Brown was the highest-paid NFL center with a $37.5M deal \u2014 until he quit in his prime to become a farmer",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Michael",
-      "Saylor",
-      "Vanguard",
-      "MicroStrategy",
-      "top",
-      "shareholder"
+      "deal",
+      "Brown",
+      "NFL",
+      "Jason",
+      "farmer",
+      "highest-paid",
+      "center",
+      "quit",
+      "prime"
     ]
   },
   {
     "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/video/bofas-moynihan-says-fed-wont-185910117.html",
-    "title": "BofA's Moynihan Says Fed Won't Cut Rates Until Next Year",
+    "url": "https://finance.yahoo.com/news/elon-musks-spacex-commits-2-193137087.html",
+    "title": "Elon Musk's SpaceX Commits $2 Billion To xAI In $5 Billion Round As AI Startup Hits $113 Billion Valuation Amid Controversy",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Year",
-      "Moynihan",
+      "Billion",
+      "Commits",
+      "Hits",
+      "Controversy",
+      "Musk",
+      "Round",
+      "Startup",
+      "Valuation",
+      "Amid",
+      "Elon"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/dollar-falls-back-apparent-trial-195625978.html",
+    "title": "Dollar Falls Back on Apparent Trial Balloon for Firing Fed Chair Powell",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Powell",
+      "Falls",
+      "Back",
+      "Apparent",
+      "Trial",
+      "Balloon",
+      "Firing",
       "Fed",
-      "Cut",
-      "Rates",
-      "BofA"
+      "Chair",
+      "Dollar"
     ]
   },
   {
@@ -11035,37 +10618,32 @@
   },
   {
     "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/dollar-falls-back-apparent-trial-195625978.html",
-    "title": "Dollar Falls Back on Apparent Trial Balloon for Firing Fed Chair Powell",
+    "url": "https://finance.yahoo.com/news/company-used-obscure-now-apple-193556480.html",
+    "title": "This Company Used To Be Obscure. Now Apple and the DOD Are Buying In",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Powell",
-      "Falls",
-      "Back",
-      "Apparent",
-      "Trial",
-      "Balloon",
-      "Firing",
-      "Fed",
-      "Chair",
-      "Dollar"
+      "Obscure",
+      "Company",
+      "Apple",
+      "DOD",
+      "Buying"
     ]
   },
   {
     "source": "News Index [RSS]",
-    "url": "https://finance.yahoo.com/news/j-b-hunt-fundamentals-still-190029691.html",
-    "title": "J.B. Hunt Fundamentals Still Stuck In The Mud: Analyst",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-by-credit-score-185409590.html",
+    "title": "Current mortgage rates by credit score",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Analyst",
-      "Mud",
-      "Fundamentals",
-      "Stuck",
-      "Hunt"
+      "Current",
+      "score",
+      "mortgage",
+      "rates",
+      "credit"
     ]
   },
   {
@@ -11084,346 +10662,357 @@
     ]
   },
   {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/high-income-taxpayers-california-york-182838329.html",
-    "title": "High income taxpayers in California and New York set for a SALT windfall in 2026",
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/video/bofas-moynihan-us-consumers-fed-193024017.html",
+    "title": "BofA's Moynihan on US Consumers, Fed Policy and AI",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "California",
-      "York",
-      "SALT",
-      "High",
-      "income",
-      "taxpayers",
-      "set",
-      "windfall"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/advisor/articles/banks-earnings-wealth-management-stock-market-rebound-3792d07f?siteid=yhoof2&yptr=yahoo",
-    "title": "Banks\u2019 Wealth Management Units Ride Market Rebound in Second Quarter",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Quarter",
-      "Wealth",
-      "Management",
-      "Units",
-      "Ride",
-      "Market",
-      "Rebound",
-      "Banks\u2019"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/faced-geopolitics-trade-war-us-183125210.html",
-    "title": "Daunted by geopolitics and trade war, US companies in China report record-low new investment plans",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "China",
-      "Daunted",
-      "war",
-      "plans",
-      "geopolitics",
-      "trade",
-      "companies",
-      "report",
-      "record-low",
-      "investment"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/articles/megacap-tech-stock-rally-25b1cac6?siteid=yhoof2&yptr=yahoo",
-    "title": "Megacap Tech Is Dominating This Rally. That Could Test Investor Sentiment.",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Rally",
-      "Tech",
-      "Dominating",
-      "Megacap",
-      "Sentiment",
-      "Test",
-      "Investor"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/prologis-says-warehouse-demand-piling-183341334.html",
-    "title": "Prologis says warehouse \u2018demand is piling up\u2019",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Prologis",
-      "warehouse",
-      "demand",
-      "up\u2019",
-      "piling"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/ford-recall-problem-keeps-getting-183000525.html",
-    "title": "Ford\u2019s recall problem keeps getting worse\u2014and this one could start fires",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Ford",
-      "worse",
-      "fires",
-      "recall",
-      "problem",
-      "start"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/advisor/articles/jd-power-2025-advisor-satisfaction-ranking-454c433b?siteid=yhoof2&yptr=yahoo",
-    "title": "Stifel and Commonwealth Lead J.D. Power\u2019s 2025 Advisor Satisfaction Rankings",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Commonwealth",
-      "Lead",
-      "Stifel",
-      "Advisor",
-      "Rankings",
-      "Satisfaction",
-      "Power"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.investors.com/news/technology/ibd-rating-upgrades-applied-materials-shows-improved-price-strength/?src=A00220&yptr=yahoo",
-    "title": "Chip Equipment Giant Applied Materials Emerges From Dark Period; Earns Key IBD Rating Upgrade",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Period",
-      "Earns",
-      "Upgrade",
-      "Equipment",
-      "Giant",
-      "Applied",
-      "Materials",
-      "Emerges",
-      "Dark",
-      "Key"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-by-credit-score-185409590.html",
-    "title": "Current mortgage rates by credit score",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Current",
-      "score",
-      "mortgage",
-      "rates",
-      "credit"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/longer-term-inflation-expectations-tick-higher-6ISlBbwfbtU0WUfsJGg1?siteid=yhoof2&yptr=yahoo",
-    "title": "Longer-Term Inflation Expectations Tick Higher",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Higher",
-      "Inflation",
-      "Expectations",
-      "Tick",
-      "Longer-Term"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/travel-credit-cards-vacation-savings-224339669.html",
-    "title": "How to save big on your next vacation with a travel credit card",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "card",
-      "save",
-      "big",
-      "vacation",
-      "travel",
-      "credit"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-possible-position-adjustments-4e9d2ab3?siteid=yhoof2&yptr=yahoo",
-    "title": "Gold Finishes Higher With Powell\u2019s Status in Question",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Question",
-      "Finishes",
-      "Higher",
-      "Powell",
-      "Status",
-      "Gold"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/lowest-mortgage-rates-155235056.html",
-    "title": "Where and how to find the lowest mortgage rates right now",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "find",
-      "lowest",
-      "mortgage",
-      "rates"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/articles/trump-401k-retirement-private-equity-23f9dcc5?siteid=yhoof2&yptr=yahoo",
-    "title": "Trump to Open 401(k)s to Private Equity",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Open",
-      "Equity",
-      "Private",
-      "Trump"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/oil-futures-settle-above-lows-as-u-s-crude-stocks-decline-CstaaGiVgzZwmmH7IOPS?siteid=yhoof2&yptr=yahoo",
-    "title": "Oil Futures Settle Above Lows as U.S. Crude Stocks Decline",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Crude",
-      "Decline",
-      "Futures",
-      "Settle",
-      "Lows",
-      "Stocks",
-      "Oil"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-do-credit-card-companies-make-money-220247707.html",
-    "title": "How do credit card companies make money?",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "money",
-      "credit",
-      "card",
-      "companies",
-      "make"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/crude-oil-prices-fall-due-190040008.html",
-    "title": "Crude Oil Prices Fall Due to a Focus on Oil Surplus",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Surplus",
-      "Oil",
-      "Prices",
-      "Fall",
-      "Due",
-      "Focus",
-      "Crude"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/why-usa-rare-earth-stock-183542054.html",
-    "title": "Why USA Rare Earth Stock Gave Up Some Gains Today",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Today",
-      "USA",
-      "Rare",
-      "Earth",
-      "Stock",
-      "Gave",
-      "Gains"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/why-johnson-johnson-rallied-today-183800784.html",
-    "title": "Why Johnson & Johnson Rallied Today",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Today",
-      "Johnson",
-      "Rallied"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://www.barrons.com/articles/stock-market-bubble-tech-ai-71c9bfdc?siteid=yhoof2&yptr=yahoo",
-    "title": "Stocks Are Pricier Than They Were in the Dot-Com Era. That Alone Doesn\u2019t Make a Bubble.",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Era",
-      "Pricier",
-      "Stocks",
-      "Bubble",
-      "Dot-Com",
-      "Make",
-      "n\u2019t"
-    ]
-  },
-  {
-    "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/donald-trump-says-fed-chief-184404448.html",
-    "title": "Donald Trump says Fed chief could be sacked for fraud",
-    "published_at": "2025-07-18",
-    "content": "",
-    "platforms_mentioned": [],
-    "keywords": [
-      "Trump",
+      "Consumers",
       "Fed",
-      "Donald",
-      "fraud",
-      "chief",
-      "sacked"
+      "Moynihan",
+      "Policy",
+      "BofA"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.investors.com/news/technology/johnson-johnson-stock-j-j-earnings-q2-205/?src=A00220&yptr=yahoo",
+    "title": "Dow's J&J Surges; Why Its Report Is Also Bullish For Stryker, Medtronic, Boston Scientific",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Medtronic",
+      "Surges",
+      "Stryker",
+      "Boston",
+      "Scientific",
+      "Report",
+      "Bullish",
+      "Dow"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-end-higher-after-trumps-powell-talk-sparks-volatile-trading-200548241.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq end higher after Trump's Powell talk sparks volatile trading",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dow",
+      "Nasdaq",
+      "Trump",
+      "Powell",
+      "Stock",
+      "today",
+      "trading",
+      "market",
+      "end",
+      "higher"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/road-stock-construction-partners-nvidia-best-mutual-funds/?src=A00220&yptr=yahoo",
+    "title": "This Road Warrior Joins Nvidia On Elite Screen \u2013 Again",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Screen",
+      "Road",
+      "Warrior",
+      "Joins",
+      "Nvidia",
+      "Elite"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/us-etf-assets-hit-record-201500207.html",
+    "title": "US ETF Assets Hit New Record of $11.5T in June",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "ETF",
+      "Assets",
+      "Hit",
+      "Record"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/why-nvidias-china-comeback-could-194506922.html",
+    "title": "Why Nvidia's China Comeback Could Propel Its Stock To New Heights",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Heights",
+      "Nvidia",
+      "China",
+      "Comeback",
+      "Propel",
+      "Stock"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/pipeline-operator-kinder-morgan-posts-201504264.html",
+    "title": "Kinder Morgan quarterly profit jumps on strong natgas demand",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Kinder",
+      "demand",
+      "quarterly",
+      "profit",
+      "jumps",
+      "strong",
+      "natgas"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.investors.com/news/jpmorgan-stock-q2-earnings-wells-fargo-blackrock-morgan-stanley-goldman-sachs-bac/?src=A00220&yptr=yahoo",
+    "title": "Bank Of America Rises On Earnings; JPMorgan's Dimon Sees Strengths And Risk",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earnings",
+      "Risk",
+      "America",
+      "Rises",
+      "Dimon",
+      "Strengths",
+      "Bank",
+      "JPMorgan"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/wall-street-ceos-see-tariff-201902578.html",
+    "title": "Wall Street CEOs see some tariff impact filtering into customer behavior",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Street",
+      "Wall",
+      "behavior",
+      "CEOs",
+      "tariff",
+      "impact",
+      "filtering",
+      "customer"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/nasdaq-clinches-a-record-despite-trump-powell-drama-ipigv4DelDtmuBx4iepj?siteid=yhoof2&yptr=yahoo",
+    "title": "Nasdaq Clinches a Record Despite Trump-Powell Drama",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Drama",
+      "Clinches",
+      "Record",
+      "Nasdaq",
+      "Trump-Powell"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/one-most-critical-ai-companies-195445391.html",
+    "title": "One of the most critical AI companies in the world just said it \u2018cannot confirm\u2019 growth in 2026, wiping out $30 billion",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "wiping",
+      "critical",
+      "companies",
+      "world",
+      "confirm\u2019",
+      "growth"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.investors.com/news/technology/asml-stock-q2-2025-earnings-report/?src=A00220&yptr=yahoo",
+    "title": "Chip Gear Leader ASML Beats Q2 Targets But Gives Cautious Outlook",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Beats",
+      "Targets",
+      "Outlook",
+      "Gear",
+      "Leader",
+      "ASML",
+      "Cautious",
+      "Chip"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/advisor/articles/investing-opportunities-now-69de7536?siteid=yhoof2&yptr=yahoo",
+    "title": "Where Money Pros See Investment Opportunities Now",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Money",
+      "Pros",
+      "Investment",
+      "Opportunities"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.investors.com/news/technology/netflix-stock-analysts-upbeat-anxious-q2-2025-earnings/?src=A00220&yptr=yahoo",
+    "title": "Netflix Analysts Upbeat But Anxious Ahead Of Q2 Report",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Analysts",
+      "Upbeat",
+      "Anxious",
+      "Ahead",
+      "Netflix"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-ark-cathie-wood-bcc0c7f2?siteid=yhoof2&yptr=yahoo",
+    "title": "Tesla Is Worth $1 Trillion Again. ARK\u2019s Cathie Wood Bought More Stock.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Worth",
+      "Trillion",
+      "Tesla",
+      "ARK",
+      "Stock",
+      "Cathie",
+      "Wood",
+      "Bought"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/jpmorgan-plan-charge-data-could-195633869.html",
+    "title": "JPMorgan\u2019s plan to charge for data could \u2018cripple\u2019 crypto and fintech startups, execs warn",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "JPMorgan",
+      "cripple\u2019",
+      "startups",
+      "execs",
+      "warn",
+      "plan",
+      "charge",
+      "data",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2025/card/fed-s-favored-inflation-gauge-likely-stalled-in-june-WpyNTdPnr9JXUVfaWefn?siteid=yhoof2&yptr=yahoo",
+    "title": "Fed\u2019s Favored Inflation Gauge Likely Stalled in June",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "Favored",
+      "Inflation",
+      "Gauge",
+      "Stalled",
+      "Fed"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/ford-stock-price-recalls-0cda275c?siteid=yhoof2&yptr=yahoo",
+    "title": "Ford Stock Dropped. This Is When Recalls Matter.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dropped",
+      "Stock",
+      "Ford",
+      "Matter",
+      "Recalls"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/boeing-stock-price-new-highs-2b281e62?siteid=yhoof2&yptr=yahoo",
+    "title": "Boeing Stock Keeps Hitting New Highs. Here\u2019s Why.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Highs",
+      "Stock",
+      "Hitting",
+      "Boeing"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/rockwell-stock-price-targets-4de5dd12?siteid=yhoof2&yptr=yahoo",
+    "title": "Rockwell Stock Rises as Wall Street Firms Raise Price Targets",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Targets",
+      "Stock",
+      "Rises",
+      "Wall",
+      "Street",
+      "Firms",
+      "Raise",
+      "Price",
+      "Rockwell"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/rigetti-computing-stock-price-why-200100057.html",
+    "title": "Rigetti Computing stock price: Why shares took a quantum leap today",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Computing",
+      "Rigetti",
+      "price",
+      "today",
+      "stock",
+      "shares",
+      "quantum",
+      "leap"
     ]
   },
   {
@@ -11446,36 +11035,34 @@
   },
   {
     "source": "All Finance [RSS]",
-    "url": "https://www.wsj.com/articles/riverside-raises-750-million-to-back-businesses-in-transition-05938761?siteid=yhoof2&yptr=yahoo",
-    "title": "Riverside Raises $750 Million to Back Businesses in Transition",
+    "url": "https://finance.yahoo.com/news/why-asml-stock-plummeting-today-192708802.html",
+    "title": "Why ASML Stock Is Plummeting Today",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Raises",
-      "Million",
-      "Transition",
-      "Back",
-      "Businesses",
-      "Riverside"
+      "Today",
+      "ASML",
+      "Stock",
+      "Plummeting"
     ]
   },
   {
     "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/jpmorgan-flexes-revenue-muscle-again-183041470.html",
-    "title": "JPMorgan Flexes Revenue Muscle Again As Wells Fargo Battles NII Woes",
+    "url": "https://finance.yahoo.com/news/ondo-finance-partners-bitget-offer-194435307.html",
+    "title": "Ondo Finance partners with Bitget to offer tokenized U.S. stocks and ETFs",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Woes",
-      "Flexes",
-      "Revenue",
-      "Muscle",
-      "Fargo",
-      "Battles",
-      "NII",
-      "JPMorgan"
+      "Finance",
+      "Bitget",
+      "Ondo",
+      "tokenized",
+      "stocks",
+      "ETFs",
+      "partners",
+      "offer"
     ]
   },
   {
@@ -11510,34 +11097,61 @@
   },
   {
     "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/vanguard-becomes-top-shareholder-michael-185322031.html",
-    "title": "Vanguard becomes top shareholder in Michael Saylor\u2019s MicroStrategy",
+    "url": "https://finance.yahoo.com/news/jason-brown-highest-paid-nfl-200400960.html",
+    "title": "Jason Brown was the highest-paid NFL center with a $37.5M deal \u2014 until he quit in his prime to become a farmer",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Michael",
-      "Saylor",
-      "Vanguard",
-      "MicroStrategy",
-      "top",
-      "shareholder"
+      "deal",
+      "Brown",
+      "NFL",
+      "Jason",
+      "farmer",
+      "highest-paid",
+      "center",
+      "quit",
+      "prime"
     ]
   },
   {
     "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/video/bofas-moynihan-says-fed-wont-185910117.html",
-    "title": "BofA's Moynihan Says Fed Won't Cut Rates Until Next Year",
+    "url": "https://finance.yahoo.com/news/elon-musks-spacex-commits-2-193137087.html",
+    "title": "Elon Musk's SpaceX Commits $2 Billion To xAI In $5 Billion Round As AI Startup Hits $113 Billion Valuation Amid Controversy",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Year",
-      "Moynihan",
+      "Billion",
+      "Commits",
+      "Hits",
+      "Controversy",
+      "Musk",
+      "Round",
+      "Startup",
+      "Valuation",
+      "Amid",
+      "Elon"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/dollar-falls-back-apparent-trial-195625978.html",
+    "title": "Dollar Falls Back on Apparent Trial Balloon for Firing Fed Chair Powell",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Powell",
+      "Falls",
+      "Back",
+      "Apparent",
+      "Trial",
+      "Balloon",
+      "Firing",
       "Fed",
-      "Cut",
-      "Rates",
-      "BofA"
+      "Chair",
+      "Dollar"
     ]
   },
   {
@@ -11577,37 +11191,32 @@
   },
   {
     "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/dollar-falls-back-apparent-trial-195625978.html",
-    "title": "Dollar Falls Back on Apparent Trial Balloon for Firing Fed Chair Powell",
+    "url": "https://finance.yahoo.com/news/company-used-obscure-now-apple-193556480.html",
+    "title": "This Company Used To Be Obscure. Now Apple and the DOD Are Buying In",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Powell",
-      "Falls",
-      "Back",
-      "Apparent",
-      "Trial",
-      "Balloon",
-      "Firing",
-      "Fed",
-      "Chair",
-      "Dollar"
+      "Obscure",
+      "Company",
+      "Apple",
+      "DOD",
+      "Buying"
     ]
   },
   {
     "source": "All Finance [RSS]",
-    "url": "https://finance.yahoo.com/news/j-b-hunt-fundamentals-still-190029691.html",
-    "title": "J.B. Hunt Fundamentals Still Stuck In The Mud: Analyst",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-by-credit-score-185409590.html",
+    "title": "Current mortgage rates by credit score",
     "published_at": "2025-07-18",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Analyst",
-      "Mud",
-      "Fundamentals",
-      "Stuck",
-      "Hunt"
+      "Current",
+      "score",
+      "mortgage",
+      "rates",
+      "credit"
     ]
   },
   {
@@ -11623,6 +11232,360 @@
       "Stir",
       "Bond",
       "Threats"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/video/bofas-moynihan-us-consumers-fed-193024017.html",
+    "title": "BofA's Moynihan on US Consumers, Fed Policy and AI",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Consumers",
+      "Fed",
+      "Moynihan",
+      "Policy",
+      "BofA"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.investors.com/news/technology/johnson-johnson-stock-j-j-earnings-q2-205/?src=A00220&yptr=yahoo",
+    "title": "Dow's J&J Surges; Why Its Report Is Also Bullish For Stryker, Medtronic, Boston Scientific",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Medtronic",
+      "Surges",
+      "Stryker",
+      "Boston",
+      "Scientific",
+      "Report",
+      "Bullish",
+      "Dow"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-end-higher-after-trumps-powell-talk-sparks-volatile-trading-200548241.html",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq end higher after Trump's Powell talk sparks volatile trading",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dow",
+      "Nasdaq",
+      "Trump",
+      "Powell",
+      "Stock",
+      "today",
+      "trading",
+      "market",
+      "end",
+      "higher"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/road-stock-construction-partners-nvidia-best-mutual-funds/?src=A00220&yptr=yahoo",
+    "title": "This Road Warrior Joins Nvidia On Elite Screen \u2013 Again",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Screen",
+      "Road",
+      "Warrior",
+      "Joins",
+      "Nvidia",
+      "Elite"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/us-etf-assets-hit-record-201500207.html",
+    "title": "US ETF Assets Hit New Record of $11.5T in June",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "ETF",
+      "Assets",
+      "Hit",
+      "Record"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/why-nvidias-china-comeback-could-194506922.html",
+    "title": "Why Nvidia's China Comeback Could Propel Its Stock To New Heights",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Heights",
+      "Nvidia",
+      "China",
+      "Comeback",
+      "Propel",
+      "Stock"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/pipeline-operator-kinder-morgan-posts-201504264.html",
+    "title": "Kinder Morgan quarterly profit jumps on strong natgas demand",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Kinder",
+      "demand",
+      "quarterly",
+      "profit",
+      "jumps",
+      "strong",
+      "natgas"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.investors.com/news/jpmorgan-stock-q2-earnings-wells-fargo-blackrock-morgan-stanley-goldman-sachs-bac/?src=A00220&yptr=yahoo",
+    "title": "Bank Of America Rises On Earnings; JPMorgan's Dimon Sees Strengths And Risk",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earnings",
+      "Risk",
+      "America",
+      "Rises",
+      "Dimon",
+      "Strengths",
+      "Bank",
+      "JPMorgan"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/wall-street-ceos-see-tariff-201902578.html",
+    "title": "Wall Street CEOs see some tariff impact filtering into customer behavior",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Street",
+      "Wall",
+      "behavior",
+      "CEOs",
+      "tariff",
+      "impact",
+      "filtering",
+      "customer"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071625/card/nasdaq-clinches-a-record-despite-trump-powell-drama-ipigv4DelDtmuBx4iepj?siteid=yhoof2&yptr=yahoo",
+    "title": "Nasdaq Clinches a Record Despite Trump-Powell Drama",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Drama",
+      "Clinches",
+      "Record",
+      "Nasdaq",
+      "Trump-Powell"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/one-most-critical-ai-companies-195445391.html",
+    "title": "One of the most critical AI companies in the world just said it \u2018cannot confirm\u2019 growth in 2026, wiping out $30 billion",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "wiping",
+      "critical",
+      "companies",
+      "world",
+      "confirm\u2019",
+      "growth"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.investors.com/news/technology/asml-stock-q2-2025-earnings-report/?src=A00220&yptr=yahoo",
+    "title": "Chip Gear Leader ASML Beats Q2 Targets But Gives Cautious Outlook",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Beats",
+      "Targets",
+      "Outlook",
+      "Gear",
+      "Leader",
+      "ASML",
+      "Cautious",
+      "Chip"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/advisor/articles/investing-opportunities-now-69de7536?siteid=yhoof2&yptr=yahoo",
+    "title": "Where Money Pros See Investment Opportunities Now",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Money",
+      "Pros",
+      "Investment",
+      "Opportunities"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.investors.com/news/technology/netflix-stock-analysts-upbeat-anxious-q2-2025-earnings/?src=A00220&yptr=yahoo",
+    "title": "Netflix Analysts Upbeat But Anxious Ahead Of Q2 Report",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Analysts",
+      "Upbeat",
+      "Anxious",
+      "Ahead",
+      "Netflix"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/tesla-stock-price-ark-cathie-wood-bcc0c7f2?siteid=yhoof2&yptr=yahoo",
+    "title": "Tesla Is Worth $1 Trillion Again. ARK\u2019s Cathie Wood Bought More Stock.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Worth",
+      "Trillion",
+      "Tesla",
+      "ARK",
+      "Stock",
+      "Cathie",
+      "Wood",
+      "Bought"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/jpmorgan-plan-charge-data-could-195633869.html",
+    "title": "JPMorgan\u2019s plan to charge for data could \u2018cripple\u2019 crypto and fintech startups, execs warn",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "JPMorgan",
+      "cripple\u2019",
+      "startups",
+      "execs",
+      "warn",
+      "plan",
+      "charge",
+      "data",
+      "crypto",
+      "fintech"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2025/card/fed-s-favored-inflation-gauge-likely-stalled-in-june-WpyNTdPnr9JXUVfaWefn?siteid=yhoof2&yptr=yahoo",
+    "title": "Fed\u2019s Favored Inflation Gauge Likely Stalled in June",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "Favored",
+      "Inflation",
+      "Gauge",
+      "Stalled",
+      "Fed"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/ford-stock-price-recalls-0cda275c?siteid=yhoof2&yptr=yahoo",
+    "title": "Ford Stock Dropped. This Is When Recalls Matter.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dropped",
+      "Stock",
+      "Ford",
+      "Matter",
+      "Recalls"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/boeing-stock-price-new-highs-2b281e62?siteid=yhoof2&yptr=yahoo",
+    "title": "Boeing Stock Keeps Hitting New Highs. Here\u2019s Why.",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Highs",
+      "Stock",
+      "Hitting",
+      "Boeing"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/rockwell-stock-price-targets-4de5dd12?siteid=yhoof2&yptr=yahoo",
+    "title": "Rockwell Stock Rises as Wall Street Firms Raise Price Targets",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Targets",
+      "Stock",
+      "Rises",
+      "Wall",
+      "Street",
+      "Firms",
+      "Raise",
+      "Price",
+      "Rockwell"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/rigetti-computing-stock-price-why-200100057.html",
+    "title": "Rigetti Computing stock price: Why shares took a quantum leap today",
+    "published_at": "2025-07-18",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Computing",
+      "Rigetti",
+      "price",
+      "today",
+      "stock",
+      "shares",
+      "quantum",
+      "leap"
     ]
   }
 ]
