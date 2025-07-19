@@ -162,7 +162,8 @@ def fetch_sec_press_releases():
             "source":            "SEC Press Releases [RSS]",
             "url":               e.link,
             "title":             e.title,
-            "fetched_on": FETCHED_ON, "published", ""),
+            "fetched_on":        FETCHED_ON,
+            "published":         e.get("published", ""),
             "content":           e.get("summary", ""),
             "platforms_mentioned": [],
         })
