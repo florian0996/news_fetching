@@ -84,7 +84,7 @@ def fetch_finanzen_net():
             "source": "Finanzen.net [RSS]",
             "url": e.link,
             "title": title,
-            "published_at": datetime(*e.published_parsed[:6]).isoformat(),
+            "fetched_on": FETCHED_ON,
             "content": content,
             "platforms_mentioned": []
         })
@@ -104,7 +104,7 @@ def fetch_bloomberg_rss():
                 "source":         f"Bloomberg – {name} [RSS]",
                 "url":            entry.link,
                 "title":          entry.title,
-                "published_at":   entry.published if "published" in entry else "",
+                "fetched_on": FETCHED_ON,
                 "content":        content,
                 "platforms_mentioned": [],
             })
@@ -140,7 +140,7 @@ def fetch_newsapi():
             "source":            f"{a['source']['name']} [NewsAPI]",
             "url":               a["url"],
             "title":             a["title"],
-            "published_at":      a["publishedAt"],
+            "fetched_on": FETCHED_ON,
             "content":           a.get("content") or a.get("description", ""),
             "platforms_mentioned": [],
         }
@@ -162,7 +162,7 @@ def fetch_sec_press_releases():
             "source":            "SEC Press Releases [RSS]",
             "url":               e.link,
             "title":             e.title,
-            "published_at":      getattr(e, "published", ""),
+            "fetched_on": FETCHED_ON, "published", ""),
             "content":           e.get("summary", ""),
             "platforms_mentioned": [],
         })
@@ -223,7 +223,7 @@ def fetch_gnews(QUERY: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
             "source": f"{src} [GNews]",
             "url": a.get("url",""),
             "title": a.get("title",""),
-            "published_at": a.get("publishedAt",""),
+            "fetched_on": FETCHED_ON,""),
             "content": a.get("description","") or a.get("content",""),
             "platforms_mentioned": [],
         })
@@ -283,7 +283,7 @@ def fetch_investing_rss():
                 "source":             label,
                 "url":                entry.link,
                 "title":              entry.title,
-                "published_at":       entry.published if "published" in entry else "",
+                "fetched_on": FETCHED_ON,
                 "content":            entry.get("summary", ""),
                 "platforms_mentioned": [],
             })
@@ -393,7 +393,7 @@ def fetch_crunchbase_sections():
                 "source":    sec["label"],
                 "url":       url,
                 "title":     title,
-                "published_at": RUN_DATE,
+                "fetched_on": FETCHED_ON,
                 "content":     content_snip,
                 "platforms_mentioned": [],
             })
@@ -432,7 +432,7 @@ def fetch_cnbc_rss():
                 "source":       f"{label} [RSS]",
                 "url":          entry.get("link", ""),
                 "title":        entry.get("title", "").strip(),
-                "published_at": RUN_DATE,
+                "fetched_on": FETCHED_ON,
                 "content":      summary.strip(),
                 "platforms_mentioned": [],
             })
@@ -470,7 +470,7 @@ def fetch_yahoo_rss():
                 "source":       f"{label} [RSS]",
                 "url":          entry.get("link", ""),
                 "title":        entry.get("title", "").strip(),
-                "published_at": RUN_DATE,
+                "fetched_on": FETCHED_ON,
                 "content":      summary.strip(),
                 "platforms_mentioned": [],
             })
@@ -495,7 +495,7 @@ def fetch_sifted_rss():
                 "source":            f"Sifted — {label} [RSS]",
                 "url":               entry.link,
                 "title":             entry.title,
-                "published_at":      entry.get("published", ""),
+                "fetched_on": FETCHED_ON, ""),
                 "content":           content,
                 "platforms_mentioned": [],
             })
