@@ -16,23 +16,19 @@ from collections import defaultdict
 from email.utils import parsedate_to_datetime
 from dateutil import parser as dateutil_parser
 
-def trim_to_complete_sentence(text: str) -> str:
-    """
-    Remove any trailing ellipses and cut text at the last full sentence-ending punctuation.
-    """
-    t = text.strip()
-    # remove trailing ellipses if present
-    if t.endswith("..."):
-        t = t[:-3].rstrip()
-    # find last sentence-ending punctuation
-    last = max(t.rfind("."), t.rfind("?"), t.rfind("!"))
-    if last != -1:
-        return t[: last + 1]
-    return t
-
-
 try:
     from gensim.summarization import summarize
+from transformers import pipeline
+
+# Initialize Pegasus-Finance summarization pipeline
+SUMMARIZER = pipeline(
+    "summarization",
+    model="human-centered-summarization/financial-summarization-pegasus",
+    tokenizer="human-centered-summarization/financial-summarization-pegasus",
+    device=-1,             # CPU
+    do_sample=False
+)
+
 except Exception:  # pragma: no cover - gensim optional
     summarize = None
 
@@ -63,20 +59,27 @@ def parse_date(date_str: str) -> datetime.datetime:
 
 
 def summarize_text(text: str, word_count: int) -> str:
-    """Return a condensed summary of ``text``, trimmed to complete sentences."""
-    if summarize:
+    """Return a condensed summary of text, trimmed to complete sentences."""
+    try:
+        # Use Pegasus-Finance abstractive summarizer
+        raw = SUMMARIZER(
+            text,
+            max_length=word_count*2,
+            min_length=word_count
+        )[0]["summary_text"]
+        return trim_to_complete_sentence(raw)
+    except Exception:
+        # Fallback to gensim extractive summarizer
         try:
             raw = summarize(text, word_count=word_count)
             return trim_to_complete_sentence(raw)
         except Exception:
-            pass
-    # Fallback: simple excerpt
-    words = text.split()
-    excerpt = " ".join(words[:word_count])
-    if len(words) > word_count:
-        excerpt += "..."
-    return trim_to_complete_sentence(excerpt)
-
+            # Fallback to simple excerpt
+            words = text.split()
+            excerpt = " ".join(words[:word_count])
+            if len(words) > word_count:
+                excerpt += "..."
+            return trim_to_complete_sentence(excerpt)
 def generate_summaries(input_path: str, output_path: str) -> None:
     """Create daily and weekly summaries from ``input_path`` and save them."""
 
