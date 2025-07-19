@@ -499,6 +499,28 @@ def save_articles(articles):
     print(f"✅ Saved {len(articles)} articles to {filepath}")
 
 
+
+def update_daily_file(articles):
+    today = datetime.now().strftime("%Y-%m-%d")
+    filepath = SAVE_DIR / f"news_{today}.json"
+    
+    # Load existing articles
+    if filepath.exists():
+        with open(filepath, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+    else:
+        existing = []
+    
+    # Merge and dedupe by URL
+    combined = {art.get("url"): art for art in existing}
+    for art in articles:
+        combined[art.get("url")] = art
+    
+    merged = list(combined.values())
+    
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(merged, f, indent=2)
+    print(f"✅ Updated {len(articles)} new articles, total {len(merged)} saved to {filepath}")
 # ========== RUN ==========
 newsapi_articles     = fetch_newsapi()
 rss_articles         = fetch_bloomberg_rss()
@@ -535,4 +557,4 @@ for article in all_articles:
 
 # Save to daily file with keywords included
 if all_articles:
-    save_articles(all_articles)
+    update_daily_file(all_articles)
