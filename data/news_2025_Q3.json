@@ -161541,26 +161541,6 @@
     ]
   },
   {
-    "source": "Crunchbase News – Seed Funding [Scrape]",
-    "url": "https://news.crunchbase.com/venture/april-2025-global-startup-funding-slows-top-deal-sectors-ai/",
-    "title": "Global Venture Funding Slowed In April, Despite Strong AI Showing",
-    "published_at": "2025-07-18",
-    "content": "Global venture funding totaled $23 billion in April 2025, flat year over year and down significantly month over month from $68 billion invested in March, Crunchbase data shows.",
-    "platforms_mentioned": [],
-    "keywords": [
-      "April",
-      "Venture",
-      "Global",
-      "Funding",
-      "March",
-      "Crunchbase",
-      "billion",
-      "Slowed",
-      "Strong",
-      "Showing"
-    ]
-  },
-  {
     "source": "Top Stories [RSS]",
     "url": "https://finance.yahoo.com/news/mclane-debuts-c-store-foodservice-163831038.html",
     "title": "McLane debuts c-store foodservice commissary",
@@ -241040,6 +241020,967 @@
       "Earnings",
       "Send",
       "Upbeat"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-07-19/doj-unseal-epstein-grand-jury-transcripts-trump-sues-more",
+    "title": "DOJ: Unseal Epstein Grand Jury Transcripts, Trump Sues, More",
+    "published_at": "Sat, 19 Jul 2025 03:46:09 GMT",
+    "content": "Source: Bloomberg, 4:48",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DOJ",
+      "Bloomberg",
+      "4:48",
+      "Unseal",
+      "Transcripts",
+      "Trump",
+      "Sues",
+      "Source",
+      "Epstein",
+      "Grand"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-19/ambani-s-jio-agrees-to-reinsurance-venture-with-allianz-in-india",
+    "title": "Ambani’s Jio Agrees to Reinsurance Venture With Allianz in India",
+    "published_at": "Sat, 19 Jul 2025 04:04:35 GMT",
+    "content": "Mukesh Ambani’s Jio Financial Services Ltd. agreed to form a reinsurance venture with Allianz SE in India, advancing the billionaire’s quest to broaden his reach in the sector.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jio",
+      "Ambani",
+      "Allianz",
+      "India",
+      "Venture",
+      "Agrees",
+      "Mukesh",
+      "Financial",
+      "Services",
+      "Reinsurance"
+    ]
+  },
+  {
+    "source": "Help Net Security [NewsAPI]",
+    "url": "https://www.helpnetsecurity.com/2025/07/18/buy-now-pay-later-bnpl-privacy/",
+    "title": "Buy Now, Pay Later… with your data",
+    "published_at": "2025-07-18T04:30:04Z",
+    "content": "Buy Now, Pay Later (BNPL) apps are everywhere these days. Whether youre buying sneakers or groceries, chances are youve seen the option to split your payments over time. Its quick and easy. But behin… [+2690 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pay",
+      "BNPL",
+      "Buy",
+      "apps",
+      "days",
+      "data",
+      "chars",
+      "groceries",
+      "chances",
+      "time"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/budget-2026-rent-tax-credit-for-parents-with-college-going-children-not-guaranteed/a1508790297.html",
+    "title": "Budget 2026: Rent tax credit for parents with college-going children not guaranteed",
+    "published_at": "2025-07-18T04:30:00Z",
+    "content": "Higher Education Minister James Lawless recently said that reductions in student fees are also not guaranteed in this years budget\r\nThe continuation of the rent tax credit available to the parents of… [+224 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rent",
+      "tax",
+      "chars",
+      "credit",
+      "guaranteed",
+      "Higher",
+      "Education",
+      "Minister",
+      "James",
+      "Lawless"
+    ]
+  },
+  {
+    "source": "Redfin.com [NewsAPI]",
+    "url": "https://www.redfin.com/blog/mortgage-without-2-years-work-history/",
+    "title": "Can You Get a Mortgage Without 2 Years of Work History?",
+    "published_at": "2025-07-18T04:29:49Z",
+    "content": "Yes, it is possible to get a mortgage without two years of work history. \r\nLenders generally like to see at least two years of steady employment. It gives them confidence that your income is reliable… [+7754 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "History",
+      "Years",
+      "Mortgage",
+      "Work",
+      "chars",
+      "Lenders",
+      "employment",
+      "reliable",
+      "generally",
+      "steady"
+    ]
+  },
+  {
+    "source": "Paul Tan's Automotive News [NewsAPI]",
+    "url": "https://paultan.org/2025/07/18/rapid-kl-on-demand-van-service-expands-in-shah-alam-and-klang-12-new-zones-from-today-july-18/",
+    "title": "Rapid KL On-Demand van service expands in Shah Alam and Klang – 12 new zones from today, July 18",
+    "published_at": "2025-07-18T04:25:48Z",
+    "content": "Rapid KL On-Demand vans have been doing a good job connecting commuters to and from their homes to train stations, bridging the so-called first and last mile. So far, the stations are LRT and MRT one… [+1534 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rapid",
+      "July",
+      "On-Demand",
+      "Klang",
+      "Shah",
+      "Alam",
+      "today",
+      "bridging",
+      "mile",
+      "van"
+    ]
+  },
+  {
+    "source": "Pleated-jeans.com [NewsAPI]",
+    "url": "https://pleated-jeans.com/2025/07/17/malicious-compliance/",
+    "title": "21 People Who Got Their Humorous Petty Revenge By Doing Exactly What They Were Told To Do",
+    "published_at": "2025-07-18T04:24:39Z",
+    "content": "People conforming to the letter, but not the spirit, of a request is always funny, but the longer I’m in therapy the less satisfaction I get out of petty revenge.\r\nBig emphasis on “less” though, beca… [+52413 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "People",
+      "Petty",
+      "Revenge",
+      "Humorous",
+      "Told",
+      "letter",
+      "spirit",
+      "funny",
+      "conforming",
+      "request"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/funding-carbon-credits-pouring-in-africa-via-clean-cooking-plan",
+    "title": "Funding, Carbon Credits Pouring in Africa Via Clean-Cooking Plan",
+    "published_at": "2025-07-18T04:23:17Z",
+    "content": "(Bloomberg) Hundreds of millions of dollars poured into Africa over the past year, with more expected, as part of an effort to end harmful cooking methods on the continent, according to the Internati… [+4302 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Africa",
+      "Funding",
+      "chars",
+      "Carbon",
+      "Plan",
+      "Hundreds",
+      "Internati",
+      "Credits",
+      "Pouring"
+    ]
+  },
+  {
+    "source": "Victorwynne.com [NewsAPI]",
+    "url": "https://victorwynne.com/apple-open-web/",
+    "title": "Apple is ruining the open web",
+    "published_at": "2025-07-18T04:22:08Z",
+    "content": "For over a year, Apple has deliberately obstructed any genuine opportunity for rival browser engines to operate on its iOS platform within the European Union, all while disingenuously claiming confus… [+3782 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "chars",
+      "Union",
+      "European",
+      "year",
+      "confus",
+      "ruining",
+      "open",
+      "web",
+      "deliberately"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/markets/axis-bank-share-price-slides-over-6-as-brokerages-turn-cautious-after-lackluster-q1-earnings",
+    "title": "Axis Bank Share Price Slides Over 6% As Brokerages Turn Cautious After Lackluster Q1 Earnings",
+    "published_at": "2025-07-18T04:18:22Z",
+    "content": "Provisions and contingencies soared 94% year-on-year to Rs 3,948 crore, while gross non-performing assets rose to 1.57% from 1.28% in the March quarter. Net NPAs also increased to 0.45%, up from 0.33… [+389 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lackluster",
+      "Earnings",
+      "crore",
+      "Bank",
+      "Share",
+      "Price",
+      "Slides",
+      "Brokerages",
+      "Turn",
+      "Cautious"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/quarterly-earnings/hdfc-bank-q1-results-date-bonus-issue-special-interim-dividend-earnings-call-schedule-and-more",
+    "title": "HDFC Bank Q1 Results: Date, Bonus Issue, Special Interim Dividend, Earnings Call Schedule And More",
+    "published_at": "2025-07-18T04:15:31Z",
+    "content": "Shares of HDFC Bank have risen 0.1% in the past five trading sessions on the NSE. In the past month, the stock has increased by 2.45% and in the past six months, it has advanced nearly 20%. On a year… [+391 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "Bank",
+      "Results",
+      "Date",
+      "Bonus",
+      "Issue",
+      "Special",
+      "Dividend",
+      "Earnings",
+      "NSE"
+    ]
+  },
+  {
+    "source": "The Cincinnati Enquirer [NewsAPI]",
+    "url": "https://www.cincinnati.com/story/entertainment/music/2025/07/18/cincinnati-music-festival-2025-lineup-parking-bag-policy-tickets/84461417007/",
+    "title": "What to know about Cincinnati Music Festival 2025, feat. LL Cool J, Toni Braxton and more",
+    "published_at": "2025-07-18T04:15:28Z",
+    "content": "It's time to break out your dancing shoes because Cincinnati Music Festival is returning.\r\nThe annual festival, which is set to take over downtown Cincinnati from July 24-26, is featuring Earth, Wind… [+6456 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Music",
+      "Cincinnati",
+      "feat",
+      "Festival",
+      "Wind",
+      "Toni",
+      "Cool",
+      "Braxton",
+      "Earth",
+      "July"
+    ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/games/wild-west-supermarket-simulator-gets-rebranded-with-a-release-date/",
+    "title": "Wild West Supermarket Simulator Gets Rebranded With a Release Date",
+    "published_at": "2025-07-18T04:12:03Z",
+    "content": "Posted in: Games, Indie Games, Video Games | Tagged: SunDust, Wild West Supermarket Simulator\r\nWild West Supermarket Simulator has gotten a name change, as the game will arring in Early Access on Ste… [+2725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "West",
+      "Supermarket",
+      "Simulator",
+      "Wild",
+      "Tagged",
+      "Games",
+      "Indie",
+      "Video",
+      "Ste",
+      "SunDust"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/cheesy-mcchicken",
+    "title": "Exclusive Cheesy Chicken Sandwiches - McDonald's UK Launched the Limited Edition 'Cheesy McChicken' (TrendHunter.com)",
+    "published_at": "2025-07-18T04:04:06Z",
+    "content": "McDonalds UK has launched the limited edition 'Cheesy McChicken,' a premium take on its classic chicken sandwich offering. The sandwich features a 100% chicken breast fillet, prepared in a crispy, cr… [+754 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Edition",
+      "Cheesy",
+      "Limited",
+      "McChicken",
+      "Launched",
+      "Sandwiches",
+      "TrendHunter.com",
+      "McDonald",
+      "McDonalds",
+      "Chicken"
+    ]
+  },
+  {
+    "source": "Nep123.com [NewsAPI]",
+    "url": "https://nep123.com/%f0%9f%9a%a8-facebooks-big-change-%f0%9f%9a%ab-no-more-copy-pasting-%f0%9f%92%b0-new-rules-what-you-need-to-know-%f0%9f%a4%af/",
+    "title": " Facebook’s BIG Change:  No More Copy-Pasting!  New Rules & What You NEED to Know! ",
+    "published_at": "2025-07-18T04:03:54Z",
+    "content": "Hey Facebook users! Big news coming straight from the social media giant itself. Meta, Facebook’s parent company, is making some serious changes to how they handle content on the platform. The goal? … [+3230 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Facebook",
+      "Copy-Pasting",
+      "BIG",
+      "Rules",
+      "Meta",
+      "Change",
+      "changes",
+      "chars",
+      "Hey",
+      "users"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/bri-bagwell-talks-about-her-new-country-single-hit-the-highway-and-podcast/article",
+    "title": "Bri Bagwell talks about her new country single ‘Hit the Highway’ and podcast",
+    "published_at": "2025-07-18T04:02:58Z",
+    "content": "Bri Bagwell. Photo Credit: Twenty Photography Austin.\r\nBri Bagwell chatted about her new country single “Hit the Highway” and her podcast. She is a Texas Female Vocalist of the Year winner.\r\nHow did … [+5285 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hit",
+      "Bagwell",
+      "Highway’",
+      "Bri",
+      "single",
+      "country",
+      "Credit",
+      "Twenty",
+      "Austin",
+      "talks"
+    ]
+  },
+  {
+    "source": "Bloomberg [NewsAPI]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-18/weak-credit-growth-and-rate-cuts-to-squeeze-profit-at-india-s-hdfc-icici-banks",
+    "title": "Weak credit growth and rate cuts to squeeze profit at HDFC, ICICI Banks",
+    "published_at": "2025-07-18T04:02:33Z",
+    "content": "Indias top private-sector banks HDFC Bank Ltd. and ICICI Bank Ltd. could see profits come under pressure from loan growth at a three-year low and thinning margins driven by central bank rate cuts, as… [+3908 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ICICI",
+      "HDFC",
+      "Bank",
+      "Indias",
+      "Ltd.",
+      "Banks",
+      "rate",
+      "cuts",
+      "Weak",
+      "growth"
+    ]
+  },
+  {
+    "source": "Columbia.edu [NewsAPI]",
+    "url": "https://clsbluesky.law.columbia.edu/2025/07/18/sec-commissioner-peirce-discusses-a-uk-u-s-digital-securities-sandbox/",
+    "title": "SEC Commissioner Peirce Discusses a UK-U.S. Digital Securities Sandbox",
+    "published_at": "2025-07-18T04:01:46Z",
+    "content": "Thank you, Chairman [Chris] Hayward. You have once again gone out of your way to make me feel welcome in London. Thank you also to all of you who are here today. Before I begin, I must remind you tha… [+23145 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chairman",
+      "Chris",
+      "Hayward",
+      "SEC",
+      "Digital",
+      "Commissioner",
+      "Peirce",
+      "Discusses",
+      "Securities",
+      "Sandbox"
+    ]
+  },
+  {
+    "source": "Christianity.com [NewsAPI]",
+    "url": "https://www.christianity.com/wiki/christian-life/how-gratitude-guards-your-heart-from-the-quiet-danger-of-entitlement.html",
+    "title": "How Gratitude Guards Your Heart From the Quiet Danger of Entitlement",
+    "published_at": "2025-07-18T04:00:00Z",
+    "content": "Gratitude is like a shield that guards our hearts against the sneaky poison of entitlement that can so easily creep in if we're not careful. The moment we start focusing on what we think we deserve, … [+3167 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gratitude",
+      "Entitlement",
+      "Guards",
+      "Quiet",
+      "Danger",
+      "Heart",
+      "hearts",
+      "careful",
+      "shield",
+      "sneaky"
+    ]
+  },
+  {
+    "source": "Americanthinker.com [NewsAPI]",
+    "url": "https://www.americanthinker.com/articles/2025/07/the_crisis_of_antisemitism_on_campus_and_where_it_s_coming_from.html",
+    "title": "The Crisis of Antisemitism on Campus and Where It’s Coming From",
+    "published_at": "2025-07-18T04:00:00Z",
+    "content": "On October 7, 2023, crossing the Gaza border during a ceasefire, Hamas and other Islamic terror groups slaughtered 1,200 Israelis and took 240 hostage. The magnitude of this unprovoked act should hav… [+8325 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "Hamas",
+      "Israelis",
+      "hostage",
+      "Crisis",
+      "Antisemitism",
+      "Campus",
+      "Coming",
+      "Gaza",
+      "Islamic"
+    ]
+  },
+  {
+    "source": "Americanthinker.com [NewsAPI]",
+    "url": "https://www.americanthinker.com/articles/2025/07/if_mamdani_sinks_the_democrats_so_what.html",
+    "title": "If Mamdani Sinks the Democrats, So What?",
+    "published_at": "2025-07-18T04:00:00Z",
+    "content": "What’s wrong with New Yorkers electing Zohran Mamdani mayor? Seriously. He’s a socialist, isn’t he? He’ll wreck New York City, you say. But didn’t that process start with Bill DeBlasio? Do you think … [+8002 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Democrats",
+      "Sinks",
+      "Mamdani",
+      "Yorkers",
+      "Zohran",
+      "n’t",
+      "City",
+      "mayor",
+      "York",
+      "Bill"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/streaming-news/after-the-pitt-noah-wyle-first-emmy-nomination-in-26-years-how-things-have-changed-since-his-er-days",
+    "title": "After The Pitt's Noah Wyle Got His First Emmy Nomination In 26 Years, He Amusingly Pointed Out How Things Have Changed Since His ER Days",
+    "published_at": "2025-07-18T03:58:14Z",
+    "content": "After weeks and weeks of FYC promotions, the 2025 Emmy Award nominations were revealed this week, and reactions have ranged from Kristen Bell’s pants-free cartwheels to star-studded text threads. Som… [+4138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Years",
+      "Emmy",
+      "Pitt",
+      "Noah",
+      "Wyle",
+      "Amusingly",
+      "Pointed",
+      "Things",
+      "Changed",
+      "Days"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/07/mechanics-impatient-boss-cant-repair-the-damage-of-his-outburst-at-work-over-a-car-with-locked-lug-nuts/",
+    "title": "Mechanic’s Impatient Boss Can’t Repair The Damage Of His Outburst At Work Over A Car With Locked Lug Nuts",
+    "published_at": "2025-07-18T03:55:06Z",
+    "content": "Reddit/Unsplash\r\nHey, who hasn’t been given an impossible directive at one point or another?\r\nIn this story, a mechanic says, “OK, boss.” To heck with the consequences!\r\nLet’s take a look under the h… [+1714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reddit",
+      "Unsplash",
+      "Hey",
+      "Impatient",
+      "Repair",
+      "Damage",
+      "Outburst",
+      "Work",
+      "Car",
+      "Locked"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/beauty-entrepreneurship",
+    "title": "Beauty Entrepreneurship Incubators - Estée Lauder Companies Expanded Its India Innovation Initiative (TrendHunter.com)",
+    "published_at": "2025-07-18T03:54:06Z",
+    "content": "The Estée Lauder Companies launched the fourth edition of BEAUTY&amp;YOU India, a beauty entrepreneurship program designed to discover and support the next generation of India-focused beauty innovato… [+901 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lauder",
+      "Estée",
+      "Companies",
+      "Beauty",
+      "India",
+      "Entrepreneurship",
+      "Incubators",
+      "Initiative",
+      "TrendHunter.com",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e64a2068f0b74e89",
+    "title": "Apollo Wins Bid for Singapore’s $1 Billion Private Credit Fund",
+    "published_at": "2025-07-18T03:50:49Z",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon cutting cloud jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Uber's robotaxi deal with … [+794 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Billion",
+      "Fund",
+      "return",
+      "false",
+      "Wins",
+      "Bid",
+      "Singapore"
+    ]
+  },
+  {
+    "source": "Bozmen.io [NewsAPI]",
+    "url": "https://bozmen.io/fhe",
+    "title": "Fully Homomorphic Encryption and the Dawn of a Truly Private Internet",
+    "published_at": "2025-07-18T03:49:50Z",
+    "content": "2025-07-16   fheprogrammingessay\r\ngene-spafford\"Using encryption on the Internet is the equivalent of arranging an armored car to deliver credit card information from someone living in a cardboard bo… [+23356 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Internet",
+      "chars",
+      "Encryption",
+      "Homomorphic",
+      "Dawn",
+      "Private",
+      "Fully",
+      "fheprogrammingessay",
+      "gene-spafford",
+      "equivalent"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-in-focus-after-weak-q1-results-should-you-buy-sell-or-hold/articleshow/122722586.cms",
+    "title": "Axis Bank shares slide 6% after weak Q1 results. Should you buy, sell or hold?",
+    "published_at": "2025-07-18T03:48:48Z",
+    "content": "Axis Bank shares fell 6.4% to their day's low of Rs 1,086 on NSE on Friday, after the private lender reported a 4% year-on-year (YoY) decline in standalone net profit to Rs 5,806 crore for Q1FY26, co… [+2370 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "results",
+      "Bank",
+      "Axis",
+      "slide",
+      "weak",
+      "shares",
+      "Friday",
+      "YoY",
+      "chars",
+      "NSE"
+    ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/07/17/faraday-future-unveils-fx-super-one-an-ev-minivan-with-a-funny-f-a-c-e/",
+    "title": "Faraday Future unveils FX Super One, an EV minivan with a funny F.A.C.E.",
+    "published_at": "2025-07-18T03:45:00Z",
+    "content": "Faraday Future is still kicking and unveiled its next planned vehicle tonight – the FX Super One, an all-electric MPV.\r\nThe FX Super One is an MPV, “Multi Purpose Vehicle,” which is… basically the ne… [+16636 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Super",
+      "Future",
+      "Faraday",
+      "MPV",
+      "funny",
+      "vehicle",
+      "unveils",
+      "minivan",
+      "Multi",
+      "Purpose"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/smiley",
+    "title": "Esports Streetwear Partnerships - G2 Esports is Working with Smiley on a New Streetwear Line (TrendHunter.com)",
+    "published_at": "2025-07-18T03:43:05Z",
+    "content": "G2 Esports has united with lifestyle brand Smiley to introduce a new capsule collection merging esports and streetwear aesthetics. Smiley is known for its signature smiley face symbol, which is featu… [+581 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Esports",
+      "Streetwear",
+      "Partnerships",
+      "Line",
+      "Smiley",
+      "Working",
+      "TrendHunter.com",
+      "aesthetics",
+      "united",
+      "lifestyle"
+    ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/games/killing-floor-3-drops-a-launch-trailer-ahead-of-release/",
+    "title": "Killing Floor 3 Drops a Launch Trailer Ahead of Release",
+    "published_at": "2025-07-18T03:42:04Z",
+    "content": "Posted in: Games, Indie Games, Tripwire Interactive, Video Games | Tagged: Killing Floor 3\r\nCheck out the official launch trailer for Killing Floor 3, as we get one final look at the game ahead of it… [+2763 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Floor",
+      "Killing",
+      "Tagged",
+      "Games",
+      "Launch",
+      "Trailer",
+      "Ahead",
+      "Drops",
+      "Indie",
+      "Tripwire"
+    ]
+  },
+  {
+    "source": "CBS Sports [NewsAPI]",
+    "url": "https://www.cbssports.com/nba/news/damian-lillards-return-to-portland-is-a-great-story-but-also-a-questionable-basketball-move/",
+    "title": "Damian Lillard's return to Portland is a great story, but also a questionable basketball move",
+    "published_at": "2025-07-18T03:40:39Z",
+    "content": "We all thought the same thing when Damian Lillard agreed to return to the Portland Trail Blazers: \"Oh, what a nice story!\"\r\nAnd, yes, it certainly is a nice story.\r\nLillard took his shot at trying to… [+9089 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Portland",
+      "Damian",
+      "story",
+      "Blazers",
+      "Trail",
+      "Lillard",
+      "return",
+      "nice",
+      "great",
+      "questionable"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/weak-credit-growth-and-rate-cuts-to-squeeze-profit-at-hdfc-icici-banks/articleshow/122721349.cms",
+    "title": "Weak credit growth and rate cuts to squeeze profit at HDFC, ICICI Banks",
+    "published_at": "2025-07-18T03:35:55Z",
+    "content": "Margins face pressure from the Reserve Bank of Indias rate cuts 100 basis points since the start of the year and a reduction of the cash reserve ratio to boost liquidity and further reduce funding co… [+3559 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "ICICI",
+      "Reserve",
+      "chars",
+      "rate",
+      "cuts",
+      "Margins",
+      "Indias",
+      "Banks",
+      "Bank"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/article-861456",
+    "title": "Former hostage Or Levy opens up about learning of wife’s murder, time with Hersh Goldberg-Polin",
+    "published_at": "2025-07-18T03:35:51Z",
+    "content": "Former Gaza hostage Or Levy learned upon his release that his wife Einav was murdered by Hamas.\r\nFormer hostage Or Levy, who was held by Hamas for 491 days, opened up about his experience in captivit… [+2685 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Levy",
+      "Hamas",
+      "hostage",
+      "Hersh",
+      "Gaza",
+      "Einav",
+      "wife",
+      "murder",
+      "time",
+      "opens"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/tax/how-to-download-form-26as-for-itr-filing-fy-2024-25-ay-2025-26/articleshow/122640481.cms",
+    "title": "How to download Form 26AS for ITR filing FY 2024-25 (AY 2025-26)?",
+    "published_at": "2025-07-18T03:30:00Z",
+    "content": "The Income Tax Department has extended the last date for filing income tax returns (ITR) from July 31, 2025, to September 15, 2025, for FY 2024-25 (AY 2025-26). With the extended deadline, certain ta… [+4656 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Form",
+      "2024-25",
+      "2025-26",
+      "ITR",
+      "Income",
+      "Tax",
+      "filing",
+      "July",
+      "September",
+      "download"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-fixed-income-is-portfolios-seatbelt-against-volatility-chakri-lokapriya-of-lgt-wealth-india/articleshow/122619377.cms",
+    "title": "ETMarkets Smart Talk | Fixed Income is portfolio’s seatbelt against volatility: Chakri Lokapriya of LGT Wealth India",
+    "published_at": "2025-07-18T03:30:00Z",
+    "content": "In this edition of ETMarkets Smart Talk, Chakri Lokapriya, CIO Equities at LGT Wealth India, explains why fixed income should be viewed as a critical stabilizer in any investment portfolio.Comparing … [+6015 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Talk",
+      "Chakri",
+      "Smart",
+      "Wealth",
+      "Lokapriya",
+      "LGT",
+      "India",
+      "chars",
+      "CIO",
+      "Fixed"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-fixed-income-is-portfolios-seatbelt-against-volatility-chakri-lokapriya-of-lgt-wealth-india/articleshow/122722945.cms",
+    "title": "ETMarkets Smart Talk | Fixed income is portfolio’s seatbelt against volatility: Chakri Lokapriya of LGT Wealth India",
+    "published_at": "2025-07-18T03:30:00Z",
+    "content": "In this edition of ETMarkets Smart Talk, Chakri Lokapriya, CIO Equities at LGT Wealth India, explains why fixed income should be viewed as a critical stabilizer in any investment portfolio.Comparing … [+6017 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Talk",
+      "Chakri",
+      "Smart",
+      "Wealth",
+      "Lokapriya",
+      "LGT",
+      "India",
+      "chars",
+      "CIO",
+      "Fixed"
+    ]
+  },
+  {
+    "source": "Wordpress.org [NewsAPI]",
+    "url": "https://make.wordpress.org/community/2025/07/18/how-to-talk-about-and-support-the-new-wordpress-education-initiatives/",
+    "title": "How to Talk About and Support the New WordPress Education Initiatives",
+    "published_at": "2025-07-18T03:26:51Z",
+    "content": "There has been a lot of talk and momentum lately about WordPress in the education space. From the development of the WordPress Campus Connect event series and its affiliated WordPress Student Clubs, … [+6779 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Talk",
+      "Education",
+      "Support",
+      "Initiatives",
+      "WordPress",
+      "space",
+      "lot",
+      "momentum",
+      "Clubs",
+      "Campus"
+    ]
+  },
+  {
+    "source": "Nep123.com [NewsAPI]",
+    "url": "https://nep123.com/%f0%9f%92%b0-kamana-sewa-bikas-banks-q4-results-huge-profits-strong-performance-big-plans-%f0%9f%9a%80%f0%9f%93%88-what-investors-need-to-know-%f0%9f%87%b3%f0%9f%87%b5/",
+    "title": " Kamana Sewa Bikas Bank’s Q4 Results: HUGE Profits, Strong Performance & Big Plans!  What Investors NEED to Know! ",
+    "published_at": "2025-07-18T01:20:05Z",
+    "content": "Kamana Sewa Bikas Bank has released its unaudited financial results for the fourth quarter of the fiscal year 2081/82. These results highlight the bank’s robust performance driven by balanced busines… [+2600 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HUGE",
+      "Profits",
+      "Strong",
+      "Big",
+      "Plans",
+      "Sewa",
+      "Bikas",
+      "Bank",
+      "Kamana",
+      "Results"
+    ]
+  },
+  {
+    "source": "CBS News [GNews]",
+    "url": "https://www.cbsnews.com/news/steward-health-care-hospital-bankruptcy-filing-greed-misconduct/",
+    "title": "Steward Health Care claims former executives' \"greed and bad faith misconduct\" led to hospitals chain's bankruptcy",
+    "published_at": "2025-07-18T19:39:00Z",
+    "content": "Bankruptcy filing alleges Steward Health Care executives siphoned $245 million from needy hospitals.",
+    "platforms_mentioned": [],
+    "entity": "Steward",
+    "keywords": [
+      "Health",
+      "Care",
+      "Steward",
+      "bankruptcy",
+      "executives'",
+      "greed",
+      "misconduct",
+      "led",
+      "siphoned",
+      "million"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/netflix-strong-sales-wider-margins-213956423.html",
+    "title": "Netflix: Strong Sales and Wider Margins",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Strong",
+      "Margins",
+      "Sales",
+      "Wider"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/sbil-adds-675m-assets-powell-220000218.html",
+    "title": "SBIL Adds $675M in Assets as Powell Rumors Swirl",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBIL",
+      "Adds",
+      "Swirl",
+      "Assets",
+      "Powell",
+      "Rumors"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/upstream-mergers-really-deliver-value-220000607.html",
+    "title": "Do Upstream Mergers Really Deliver Value for Shareholders?",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shareholders",
+      "Upstream",
+      "Mergers",
+      "Deliver"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/milei-wins-second-upgrade-moody-214605737.html",
+    "title": "Milei Wins Second Upgrade by Moody’s on Easing FX Controls",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Controls",
+      "Wins",
+      "Upgrade",
+      "Moody",
+      "Easing",
+      "Milei"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/cratering-oil-prices-2025-dangerously-220518177.html",
+    "title": "Cratering oil prices in 2025 are 'dangerously close' to being unprofitable for producers, top investor says",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cratering",
+      "dangerously",
+      "close",
+      "producers",
+      "top",
+      "oil",
+      "prices",
+      "unprofitable",
+      "investor"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-credit-report-221417880.html",
+    "title": "What is a credit report, and how do you read one?",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "report",
+      "credit",
+      "read"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/union-pacific-norfolk-southern-merger-221505784.html",
+    "title": "Union Pacific, Norfolk Southern in merger talks: WSJ",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WSJ",
+      "Pacific",
+      "Norfolk",
+      "Southern",
+      "Union",
+      "talks",
+      "merger"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/cratering-oil-prices-2025-dangerously-220518177.html",
+    "title": "Cratering oil prices in 2025 are 'dangerously close' to being unprofitable for producers, top investor says",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cratering",
+      "dangerously",
+      "close",
+      "producers",
+      "top",
+      "oil",
+      "prices",
+      "unprofitable",
+      "investor"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/buy-win-streak-red-hot-204110418.html",
+    "title": "Should You Buy the Win Streak in Red-Hot QuantumScape Stock?",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stock",
+      "Buy",
+      "Win",
+      "Streak",
+      "Red-Hot",
+      "QuantumScape"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/cratering-oil-prices-2025-dangerously-220518177.html",
+    "title": "Cratering oil prices in 2025 are 'dangerously close' to being unprofitable for producers, top investor says",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cratering",
+      "dangerously",
+      "close",
+      "producers",
+      "top",
+      "oil",
+      "prices",
+      "unprofitable",
+      "investor"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/video/netflix-thrives-estimates-topped-forecast-221324861.html",
+    "title": "Netflix Thrives as Estimates Topped, Forecast Raised",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Topped",
+      "Forecast",
+      "Raised",
+      "Thrives",
+      "Estimates",
+      "Netflix"
     ]
   }
 ]
