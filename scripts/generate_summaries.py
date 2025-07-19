@@ -16,6 +16,21 @@ from collections import defaultdict
 from email.utils import parsedate_to_datetime
 from dateutil import parser as dateutil_parser
 
+def trim_to_complete_sentence(text: str) -> str:
+    """
+    Remove any trailing ellipses and cut text at the last full sentence-ending punctuation.
+    """
+    t = text.strip()
+    # remove trailing ellipses if present
+    if t.endswith("..."):
+        t = t[:-3].rstrip()
+    # find last sentence-ending punctuation
+    last = max(t.rfind("."), t.rfind("?"), t.rfind("!"))
+    if last != -1:
+        return t[: last + 1]
+    return t
+
+
 try:
     from gensim.summarization import summarize
 except Exception:  # pragma: no cover - gensim optional
@@ -48,18 +63,19 @@ def parse_date(date_str: str) -> datetime.datetime:
 
 
 def summarize_text(text: str, word_count: int) -> str:
-    """Return a condensed summary of ``text``."""
+    """Return a condensed summary of ``text``, trimmed to complete sentences."""
     if summarize:
         try:
-            return summarize(text, word_count=word_count)
+            raw = summarize(text, word_count=word_count)
+            return trim_to_complete_sentence(raw)
         except Exception:
             pass
+    # Fallback: simple excerpt
     words = text.split()
     excerpt = " ".join(words[:word_count])
     if len(words) > word_count:
         excerpt += "..."
-    return excerpt
-
+    return trim_to_complete_sentence(excerpt)
 
 def generate_summaries(input_path: str, output_path: str) -> None:
     """Create daily and weekly summaries from ``input_path`` and save them."""
