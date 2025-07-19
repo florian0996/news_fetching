@@ -1120,21 +1120,21 @@
   {
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-19/monaco-government-favored-prince-s-nephews-official-testified",
-    "title": "<strong>Monaco Government \u2018Favored\u2019 Prince\u2019s Nephews, Official Testified</strong>",
+    "title": "Monaco Government \u2018Favored\u2019 Prince\u2019s Nephews, Official Testified",
     "published_at": "Sat, 19 Jul 2025 08:00:08 GMT",
-    "content": "<p><strong>In a police interview, a member of a government committee that picked a company belonging to Albert\u2019s nephews for a state contract said the outcome was \u201cpredetermined.\u201d&nbsp;Albert and his nephews have denied wrongdoing.</strong></p>",
+    "content": "<p>In a police interview, a member of a government committee that picked a company belonging to Albert\u2019s nephews for a state contract said the outcome was \u201cpredetermined.\u201d&nbsp;Albert and his nephews have denied wrongdoing.</p>",
     "platforms_mentioned": [],
     "keywords": [
-      "strong",
       "Nephews",
       "Albert",
       "Government",
-      "Monaco",
       "Favored\u2019",
       "Official",
       "Testified",
       "predetermined.",
-      "Prince"
+      "Prince",
+      "Monaco",
+      "interview"
     ]
   },
   {
@@ -9709,7 +9709,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-19/hsbc-renews-hunt-for-chair-amid-struggle-to-fill-shortlist-ft-says",
     "title": "HSBC Renews Hunt for Chair Amid Struggle to Fill Shortlist, FT Says",
     "published_at": "Sat, 19 Jul 2025 09:30:29 GMT",
@@ -9749,7 +9749,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-19/nigeria-mpc-member-sees-undervalued-naira-rallying-this-year",
     "title": "Nigeria MPC Member Sees \u2018Undervalued\u2019 Naira Rallying This Year",
     "published_at": "Sat, 19 Jul 2025 09:22:22 GMT",
@@ -9811,25 +9811,25 @@
   {
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-19/hdfc-bank-posts-net-profit-despite-increased-provisions",
-    "title": "HDFC Bank Posts Net Profit Despite Increased Provisions",
+    "title": "HDFC Bank Profit Beats Estimate Despite Higher Provision",
     "published_at": "Sat, 19 Jul 2025 09:41:41 GMT",
     "content": "HDFC Bank Ltd., India\u2019s largest private sector lender, posted first quarter profits that beat estimates despite increased provisions on its balance sheet.",
     "platforms_mentioned": [],
     "keywords": [
-      "Increased",
       "HDFC",
       "Bank",
       "Ltd.",
       "India",
-      "Provisions",
-      "Posts",
-      "Net",
+      "Higher",
+      "Estimate",
+      "estimates",
       "lender",
-      "posted"
+      "posted",
+      "sheet"
     ]
   },
   {
-    "source": "Bloomberg \u2013 Business [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-07-19/carrefour-said-to-tap-rothschild-for-potential-italy-unit-sale",
     "title": "Carrefour Said to Tap Rothschild for Potential Italy Unit Sale",
     "published_at": "Sat, 19 Jul 2025 09:16:04 GMT",
@@ -12133,6 +12133,1975 @@
       "Major",
       "Million",
       "Bid"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-19/icici-bank-beats-estimates-on-lending-growth",
+    "title": "ICICI Bank Profit Beats Estimates on Lending Growth",
+    "published_at": "Sat, 19 Jul 2025 10:00:26 GMT",
+    "content": "ICICI Bank Ltd., India\u2019s second-largest private lender, posted first quarter profits that beat estimates, driven by growth in its business and corporate lending divisions.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ICICI",
+      "Bank",
+      "Ltd.",
+      "India",
+      "Estimates",
+      "Lending",
+      "Growth",
+      "lender",
+      "posted",
+      "driven"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-07-19/could-trump-spur-a-china-india-dragon-elephant-tango",
+    "title": "Could Trump Spur a China-India \u2018Dragon-Elephant Tango\u2019?",
+    "published_at": "Sat, 19 Jul 2025 10:45:06 GMT",
+    "content": "China\u00a0is far from being alone when it comes to\u00a0using animalistic metaphors in its political imagery.\u00a0After all, Russia has its ferocious\u00a0bear, the US its high-flying eagle and the British their plucky bulldog. But when it comes to imagery, it\u2019s kind of hard to top a dragon.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tango\u2019",
+      "Trump",
+      "Spur",
+      "China-India",
+      "Dragon-Elephant",
+      "imagery",
+      "Russia",
+      "British",
+      "China",
+      "bear"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/games/rpg/cyberpunk-2077-patch-2-3-has-ps5-pro-owners-living-their-best-life-as-v-can-now-slice-through-night-city-in-40fps-on-quality-mode-and-80fps-in-performance-mode/",
+    "title": "Cyberpunk 2077 patch 2.3 has PS5 Pro owners living their best life as V can now slice through Night City in 40fps on Quality Mode and 80fps in Performance Mode",
+    "published_at": "2025-07-18T11:16:26Z",
+    "content": "Cyberpunk 2077\r\n patch 2.3 is now live on all platforms, and while the biggest features are the new vehicles, automatic driving modes inspired by chill YouTube videos\r\n, and Delamain taxis, a perform\u2026 [+2011 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "patch",
+      "Cyberpunk",
+      "Pro",
+      "chars",
+      "Mode",
+      "Night",
+      "City",
+      "Quality",
+      "Performance",
+      "Delamain"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/article-861474",
+    "title": "Two police officers, police dog wounded in Jaljulya explosion during search for illegal weapons",
+    "published_at": "2025-07-18T11:16:18Z",
+    "content": "A Border Police officer conducting operations, May 2025. (photo credit: ISRAEL POLICE)\r\nFive suspects have been arrested so far as police continue to work to clear the scene.\r\nTwo police officers and\u2026 [+1134 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "police",
+      "Jaljulya",
+      "Border",
+      "operations",
+      "officers",
+      "dog",
+      "wounded",
+      "explosion",
+      "search",
+      "illegal"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/entertainment/james-bond-movies/former-james-bond-producer-barbara-broccoli-praises-amazons-hiring-of-denis-villeneuve-to-direct-the-next-007-movie-calling-him-a-fantastic-director/",
+    "title": "Former James Bond producer Barbara Broccoli praises Amazon's hiring of Denis Villeneuve to direct the next 007 movie, calling him \"a fantastic director\"",
+    "published_at": "2025-07-18T11:16:07Z",
+    "content": "Former James Bond producer Barbara Broccoli has weighed in on the hiring of Denis Villeneuve to direct the long-awaited next instalment of the spy saga. Speaking to the Kermode on Film podcast, Brocc\u2026 [+1714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "James",
+      "Bond",
+      "Barbara",
+      "Denis",
+      "Villeneuve",
+      "Broccoli",
+      "producer",
+      "direct",
+      "hiring",
+      "Amazon"
+    ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/news/manchester-united-report-emi-martinez-talks-confirmed-by-fabrizio-romano-in-stark-update-on-move",
+    "title": "Manchester United report: Emi Martinez talks confirmed by Fabrizio Romano, in stark update on move",
+    "published_at": "2025-07-18T11:15:57Z",
+    "content": "Manchester United aren\u2019t holding back in the summer transfer window, with Matheus Cunha already in place and the pursuit of Bryan Mbeumo seemingly picking up pace.\r\nManchester United are keen to offl\u2026 [+2822 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "United",
+      "Emi",
+      "Romano",
+      "Manchester",
+      "Martinez",
+      "Fabrizio",
+      "Matheus",
+      "Cunha",
+      "Bryan",
+      "Mbeumo"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/hardware/laptops/i-hated-laptop-mechanical-keyboards-until-i-reviewed-this-2025-release/",
+    "title": "I hated laptop mechanical keyboards until I reviewed this 2025 release",
+    "published_at": "2025-07-18T11:15:04Z",
+    "content": "I've just finished testing the Alienware 16 Area-51, a turbo charged gaming laptop with top-of-the-range components, excellent performance, and a slick new fan design. It's the keyboard that truly ha\u2026 [+2112 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alienware",
+      "components",
+      "laptop",
+      "release",
+      "excellent",
+      "performance",
+      "design",
+      "hated",
+      "mechanical",
+      "reviewed"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Model-3-now-comes-with-free-Supercharging-and-0-APR-financing-interest-rate-with-FSD.1061215.0.html",
+    "title": "Model 3 now comes with free Supercharging and 0% APR financing interest rate with FSD",
+    "published_at": "2025-07-18T11:15:00Z",
+    "content": "Tesla has announced a number of new Model 3 deals that are supposed to run for a limited time, but there is no deadline set in the fine print.\r\nThe 0% APR financing deal on the Model 3 sedan from las\u2026 [+2205 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "APR",
+      "Model",
+      "Supercharging",
+      "FSD",
+      "Tesla",
+      "time",
+      "print",
+      "financing",
+      "free",
+      "interest"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/microsoft-project-tutorial-for-project-managers/",
+    "title": "Master Microsoft Project 2025 : Transform Chaos into Seamless Success",
+    "published_at": "2025-07-18T11:14:37Z",
+    "content": "What if you could transform chaos into clarity and turn even the most complex projects into seamless operations? For project managers, the stakes are highdeadlines loom, resources stretch thin, and u\u2026 [+7443 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chaos",
+      "Transform",
+      "Seamless",
+      "Microsoft",
+      "Success",
+      "Master",
+      "operations",
+      "Project",
+      "clarity",
+      "turn"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/07/brie-larson-or-zendaya-luke-skywalkers-wife-reportedly-entering-star-wars-canon-th1/",
+    "title": "Brie Larson or Zendaya? Luke Skywalker\u2019s Wife Reportedly Coming to \u2018Star Wars\u2019",
+    "published_at": "2025-07-18T11:13:54Z",
+    "content": "As the Star Wars franchise continues to build out its post-Skywalker era, theres renewed interest in a long-standing fan-favorite character whos never appeared on screen: Mara Jade.\r\nCredit: Lucasfil\u2026 [+5467 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zendaya",
+      "Larson",
+      "Brie",
+      "Star",
+      "Lucasfil",
+      "Mara",
+      "Jade",
+      "Credit",
+      "chars",
+      "Skywalker"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/ceejay",
+    "title": "Smart Inbox Managers - Ceejay Enhances Email And Calendar Management With AI Intelligence (TrendHunter.com)",
+    "published_at": "2025-07-18T11:13:06Z",
+    "content": "Ceejay is an AI-powered productivity tool designed to enhance email and calendar management for users, particularly those on iPhone and Gmail platforms. The app offers advanced inbox search capabilit\u2026 [+719 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ceejay",
+      "Email",
+      "Calendar",
+      "Management",
+      "Managers",
+      "Intelligence",
+      "TrendHunter.com",
+      "Gmail",
+      "Enhances",
+      "enhance"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/pro/hinomi-h1-pro-ergonomic-office-chair-review",
+    "title": "I tested out this Hinomi ergonomic office chair - and it's a serious space-saver with a big catch",
+    "published_at": "2025-07-18T11:12:00Z",
+    "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you\u2019re buying the best. Find out more about how we test.The Hinomi H1 Pro has more adjustabi\u2026 [+6131 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hinomi",
+      "chair",
+      "review",
+      "tested",
+      "ergonomic",
+      "office",
+      "space-saver",
+      "big",
+      "catch",
+      "trust"
+    ]
+  },
+  {
+    "source": "Windows Central [NewsAPI]",
+    "url": "https://www.windowscentral.com/artificial-intelligence/elon-musk-teasing-a-grok-male-companion",
+    "title": "Elon Musk teasing a Grok male companion inspired by \"50 Shades of Grey\" \u2014 beating Microsoft's AI CEO at his own game",
+    "published_at": "2025-07-18T11:10:36Z",
+    "content": "Generative AI has really come a long way from the early days when ChatGPT and Bing Chat (now Microsoft Copilot) used to hallucinate. It seems we're in a new reality and AI era with companies like Ope\u2026 [+3154 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Microsoft",
+      "Shades",
+      "Grey",
+      "Chat",
+      "Copilot",
+      "Musk",
+      "Grok",
+      "CEO",
+      "Generative",
+      "Bing"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-crease-free-screen-3578872/",
+    "title": "The Galaxy Z Fold 8 could finally get rid of one of the worst things about foldables",
+    "published_at": "2025-07-18T11:08:07Z",
+    "content": "<ul><li>Samsungs Galaxy Z Fold 8 will apparently use the same laser-drilled display metal plates as the foldable iPhone.</li><li>These parts reportedly enable a crease-free screen on Apples device, s\u2026 [+1459 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fold",
+      "Galaxy",
+      "Samsungs",
+      "chars",
+      "Apples",
+      "iPhone.",
+      "device",
+      "finally",
+      "rid",
+      "worst"
+    ]
+  },
+  {
+    "source": "STLtoday.com [NewsAPI]",
+    "url": "https://www.stltoday.com/news/local/government-politics/article_cbb01ecb-a18c-4e6d-8e9a-93c34733cabd.html",
+    "title": "Former Missouri congressman Billy Long will be sworn in as IRS commissioner",
+    "published_at": "2025-07-18T11:07:00Z",
+    "content": "U.S. Rep. Billy Long, R-Missouri, asks questions during hearing May 14, 2020, on Capitol Hill in Washington.\u00a0\u00a0\r\nGreg Nash/Pool via AP, File\r\nWASHINGTON Former Missouri congressman Billy Long will be \u2026 [+3458 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rep",
+      "Long",
+      "Billy",
+      "IRS",
+      "Missouri",
+      "commissioner",
+      "congressman",
+      "Washington",
+      "sworn",
+      "Capitol"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/07/18/3117827/33170/en/Veritex-Holdings-Inc-Reports-Second-Quarter-2025-Operating-Results-and-Declares-Quarterly-Dividend.html",
+    "title": "Veritex Holdings, Inc. Reports Second Quarter 2025 Operating Results and Declares Quarterly Dividend",
+    "published_at": "2025-07-18T11:05:00Z",
+    "content": "DALLAS, July 18, 2025 (GLOBE NEWSWIRE) -- \u00a0Veritex Holdings,\u00a0Inc. (Veritex, the Company, we or our) (Nasdaq: VBTX), the holding company for Veritex Community Bank, today announced the results for the\u2026 [+148510 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Veritex",
+      "Holdings",
+      "July",
+      "Results",
+      "Quarter",
+      "Operating",
+      "DALLAS",
+      "GLOBE",
+      "NEWSWIRE",
+      "Nasdaq"
+    ]
+  },
+  {
+    "source": "The Globe And Mail [NewsAPI]",
+    "url": "https://www.theglobeandmail.com/business/commentary/article-mark-carney-economy-fiscal-deficit-debt-interest-taxes/",
+    "title": "Carney inherited a fiscal mess from Trudeau, and he is set to make it worse",
+    "published_at": "2025-07-18T11:04:06Z",
+    "content": "Open this photo in gallery:Prime Minister Mark Carney tried to address concerns on the campaign trail by promising to balance the operating budget within three years.PATRICK DOYLE/The Canadian Press\r\u2026 [+3963 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Trudeau",
+      "Prime",
+      "DOYLE",
+      "Press",
+      "Carney",
+      "Open",
+      "Minister",
+      "Mark",
+      "Canadian"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/gold-loan-vs-fd-loan-vs-stock-loan-which-asset-gives-you-the-best-deal-11752834147732.html",
+    "title": "Gold loan vs FD loan vs stock loan: Which asset gives you the best deal?",
+    "published_at": "2025-07-18T11:03:39Z",
+    "content": "As borrowing aspirations and appetite rise in India, a number of borrowers are turning towards secured personal loans by pledging fixed deposits (FDs), gold or equities. These asset backed loans prov\u2026 [+5397 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gold",
+      "loan",
+      "deal",
+      "stock",
+      "India",
+      "asset",
+      "loans",
+      "FDs",
+      "deposits",
+      "equities"
+    ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/news/real-madrid-rocked-by-huge-vinicius-jr-offer-as-brazilian-weighs-up-record-breaking-exit-report",
+    "title": "Real Madrid rocked by huge Vinicius Jr offer, as Brazilian weighs up record-breaking exit: report",
+    "published_at": "2025-07-18T11:03:11Z",
+    "content": "Real Madrid have been given plenty to think about with an historic offer on the table for winger Vinicius Jr.\r\nThe 25-year-old, ranked at no.3 in FourFourTwo'slist of the best left wingers in the wor\u2026 [+2872 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Madrid",
+      "Vinicius",
+      "Real",
+      "Brazilian",
+      "offer",
+      "exit",
+      "report",
+      "rocked",
+      "huge",
+      "weighs"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/wordamour",
+    "title": "Custom Puzzle Gifts - Wordamour Creates Personalized Word Search Puzzles For Special Occasion (TrendHunter.com)",
+    "published_at": "2025-07-18T11:03:05Z",
+    "content": "Wordamour is a customizable word search puzzle service that allows its users to create personalized puzzles using their choice of meaningful words. By incorporating elements such as nicknames, inside\u2026 [+683 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wordamour",
+      "Search",
+      "Personalized",
+      "Gifts",
+      "Occasion",
+      "Word",
+      "Puzzle",
+      "Puzzles",
+      "Special",
+      "TrendHunter.com"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/streaming-news/i-think-poker-face-season-2-ending-plays-almost-perfect-hand-except-one-missed-opportunity",
+    "title": "I Think The Poker Face Season 2 Ending Plays An Almost Perfect Hand, Except For One Missed Opportunity",
+    "published_at": "2025-07-18T11:02:00Z",
+    "content": "SPOILER WARNING: The following article gives away a few key details from Poker Face Season 2, including from the season finale. If you have not been keeping up with the series\u2019 latest mysteries with \u2026 [+3427 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Face",
+      "Season",
+      "Poker",
+      "Ending",
+      "Hand",
+      "WARNING",
+      "Plays",
+      "Perfect",
+      "Missed",
+      "Opportunity"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/?p=782151",
+    "title": "Snake Slithers Onto Disney World Ride With Guests, Shuts Down Attraction",
+    "published_at": "2025-07-18T11:01:18Z",
+    "content": "Theres something magical about a day at Walt Disney Worldwhere the only kind of thrills you\u2019re expecting are the kind that come with a lightspeed jump on Star Wars: Rise of the Resistance, a spooky d\u2026 [+2478 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "chars",
+      "Guests",
+      "Shuts",
+      "Wars",
+      "Rise",
+      "Resistance",
+      "Slithers",
+      "World",
+      "Ride"
+    ]
+  },
+  {
+    "source": "Travelingformiles.com [NewsAPI]",
+    "url": "https://travelingformiles.com/time-to-refresh-the-world-of-hyatt-card/",
+    "title": "It\u2019s time the World of Hyatt credit card was given a refresh or replaced completely",
+    "published_at": "2025-07-18T11:01:04Z",
+    "content": "TravelingForMiles.com may receive commission from card issuers. Some or all of the card offers that appear on TravelingForMiles.com are from advertisers and may impact how and where card products app\u2026 [+12034 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Hyatt",
+      "card",
+      "issuers",
+      "TravelingForMiles.com",
+      "time",
+      "credit",
+      "refresh",
+      "replaced",
+      "completely"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/nothing-phone-3-teardown/",
+    "title": "Nothing Phone 3 Taken Apart! See What\u2019s Inside",
+    "published_at": "2025-07-18T11:00:59Z",
+    "content": "The Nothing Phone 3 has emerged as a flagship device that seamlessly combines innovation, sustainability, and aesthetics. A comprehensive teardown of the device reveals the intricate engineering behi\u2026 [+6530 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phone",
+      "sustainability",
+      "Inside",
+      "device",
+      "chars",
+      "innovation",
+      "aesthetics",
+      "behi",
+      "emerged",
+      "flagship"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/finance/asked-on-reddit-how-do-i-recover-from-a-big-money-mistake#article",
+    "title": "Asked on Reddit: How Do I Recover From a Big Money Mistake?",
+    "published_at": "2025-07-18T11:00:40Z",
+    "content": "On Reddit, a user recently asked how to recover from a money mistake. \r\nThey had taken out a high-interest loan for a car and made good on the payments, but regretted the extra cost the interest adde\u2026 [+4324 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reddit",
+      "Mistake",
+      "Big",
+      "Recover",
+      "Money",
+      "Asked",
+      "chars",
+      "user",
+      "recently",
+      "payments"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/opinion/3-reasons-californias-green-energy-campaign-dying-vine",
+    "title": "3 reasons California\u2019s green energy campaign is dying on the vine",
+    "published_at": "2025-07-18T11:00:03Z",
+    "content": "California Democrat Governor Gavin Newsoms presidential aspirations are Washingtons worst-kept secret. More than three years before the next election, hes on the campaign trail in South Carolina, pro\u2026 [+5069 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "California",
+      "Democrat",
+      "Governor",
+      "Gavin",
+      "Newsoms",
+      "Washingtons",
+      "reasons",
+      "secret",
+      "campaign",
+      "green"
+    ]
+  },
+  {
+    "source": "The Atlantic [NewsAPI]",
+    "url": "https://www.theatlantic.com/politics/archive/2025/07/leonard-leo-consumers-research-esg-climate/683581/",
+    "title": "How the Right Is Waging War on Climate-Conscious Investing",
+    "published_at": "2025-07-18T11:00:00Z",
+    "content": "In January 2020, Larry Fink, the CEO of BlackRock\u2014the world\u2019s largest asset-management firm\u2014released his annual letter to corporate executives. The letters had become something of a tradition: part i\u2026 [+16672 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "Larry",
+      "Fink",
+      "Waging",
+      "War",
+      "Investing",
+      "CEO",
+      "BlackRock",
+      "firm",
+      "released"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/games/best-gta-activities/",
+    "title": "I'm going to play GTA 6 for the side activities above all, and it's got me thinking about the top 5 ways I've always loved spending my time in GTA",
+    "published_at": "2025-07-18T11:00:00Z",
+    "content": "For as long as I can remember, I've always played GTA the same way: as a law abiding citizen who enjoys the simple pleasures in life. I'm talking about the smaller side activities you can so often do\u2026 [+4628 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GTA",
+      "side",
+      "activities",
+      "top",
+      "remember",
+      "life",
+      "play",
+      "thinking",
+      "loved",
+      "spending"
+    ]
+  },
+  {
+    "source": "Live Science [NewsAPI]",
+    "url": "https://www.livescience.com/archaeology/2-200-year-old-celtic-settlement-discovered-in-czech-republic-and-its-awash-in-gold-and-silver-coins",
+    "title": "2,200-year-old Celtic settlement discovered in Czech Republic \u2014 and it's awash in gold and silver coins",
+    "published_at": "2025-07-18T11:00:00Z",
+    "content": "A 2,200-year-old Celtic\r\n settlement containing several hundred coins and over 1,000 pieces of jewelry has been discovered in the Bohemia region of the Czech Republic.\r\nThe site, \"unparalleled in its\u2026 [+4717 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Celtic",
+      "Republic",
+      "Czech",
+      "settlement",
+      "discovered",
+      "Bohemia",
+      "coins",
+      "pieces",
+      "awash",
+      "gold"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/entertainment/space-movies-shows/who-is-dr-roger-korby-a-brief-history-of-christine-chapels-new-boyfriend-in-star-trek-strange-new-worlds",
+    "title": "Who is Dr Roger Korby? A brief history of Christine Chapel's new boyfriend in 'Star Trek: Strange New Worlds'",
+    "published_at": "2025-07-18T11:00:00Z",
+    "content": "After the previous mission's life-or-death skirmish with the Gorn, \"Star Trek: Strange New Worlds\" season 3 episode 2, \"Wedding Bell Blues\", adjusts course to take in some affairs of the heart.\r\nNurs\u2026 [+6272 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Korby",
+      "Star",
+      "Trek",
+      "Strange",
+      "Roger",
+      "Gorn",
+      "Worlds",
+      "Wedding",
+      "Blues",
+      "season"
+    ]
+  },
+  {
+    "source": "NASA [NewsAPI]",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-digs-up-galactic-time-capsule/",
+    "title": "Hubble Digs Up Galactic Time Capsule",
+    "published_at": "2025-07-18T11:00:00Z",
+    "content": "This NASA/ESA Hubble Space Telescope image features the field of stars that is NGC 1786. The globular cluster is located in the Large Magellanic Cloud (LMC), a small satellite galaxy of the Milky Way\u2026 [+1524 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hubble",
+      "NASA",
+      "ESA",
+      "NGC",
+      "Digs",
+      "Galactic",
+      "Time",
+      "Capsule",
+      "Space",
+      "Telescope"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/khari-ranson-contract-signing-confidence-boost",
+    "title": "Khari Ranson: Contract signing a confidence boost",
+    "published_at": "2025-07-18T11:00:00Z",
+    "content": "Khari Ranson started life as a midfielder but having found his calling as a goalkeeper, the stopper is now aiming to make big strides between the sticks after signing his first professional contract.\u2026 [+2499 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ranson",
+      "Khari",
+      "Contract",
+      "chars",
+      "signing",
+      "goalkeeper",
+      "contract.",
+      "confidence",
+      "boost",
+      "started"
+    ]
+  },
+  {
+    "source": "Theaviationist.com [NewsAPI]",
+    "url": "https://theaviationist.com/2025/07/18/lockheed-martin-clears-f-35-backlog-deliveries/",
+    "title": "Lockheed Martin Clears F-35 Backlog Deliveries",
+    "published_at": "2025-07-18T10:59:09Z",
+    "content": "Lockheed Martin has delivered the backlogged F-35 Lightning II fighters that were parked at its facilities owing to problems with the Technology Refresh 3 (TR-3) software code, reported Bloomberg. Th\u2026 [+6897 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Martin",
+      "Clears",
+      "Backlog",
+      "Lightning",
+      "Refresh",
+      "Bloomberg",
+      "Lockheed",
+      "Deliveries",
+      "Technology",
+      "backlogged"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/phones/samsungs-galaxy-z-fold-8-could-match-the-foldable-iphone-in-this-one-key-way-setting-the-scene-for-an-epic-showdown-next-year",
+    "title": "Samsung\u2019s Galaxy Z Fold 8 could match the foldable iPhone in this one key way, setting the scene for an epic showdown next year",
+    "published_at": "2025-07-18T10:58:23Z",
+    "content": "<ul><li>Apple is said to be using new tech to nix the crease in its foldable iPhone</li><li>Now, Samsung wants to use the same feature for its own devices</li><li>This sets the stage for a major fold\u2026 [+2711 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Samsung",
+      "Fold",
+      "Apple",
+      "foldable",
+      "iPhone",
+      "chars",
+      "Galaxy",
+      "setting",
+      "year",
+      "devices"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/axis-bank-elevates-neeraj-gambhir-as-executive-director/article69827257.ece",
+    "title": "Axis Bank elevates Neeraj Gambhir as executive director",
+    "published_at": "2025-07-18T10:57:17Z",
+    "content": "Private sector Axis Bank on Friday announced the appointment of Neeraj Gambhir as a whole-time director, designated as executive director of the bank.\r\n His appointment is effective from August 4, 20\u2026 [+846 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gambhir",
+      "Bank",
+      "Neeraj",
+      "Axis",
+      "executive",
+      "director",
+      "Private",
+      "Friday",
+      "designated",
+      "appointment"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/fontviz",
+    "title": "Web Typography Inspectors - FontViz Simplifies Font Inspection and Styling Validation for Web Apps (TrendHunter.com)",
+    "published_at": "2025-07-18T10:53:06Z",
+    "content": "FontViz is a browser-based tool designed for developers, designers, and QA teams to efficiently inspect and validate font styles within web applications. It enables quick access to font properties su\u2026 [+646 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Web",
+      "Inspectors",
+      "Apps",
+      "FontViz",
+      "TrendHunter.com",
+      "designers",
+      "Typography",
+      "Simplifies",
+      "Inspection",
+      "Styling"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-redditor-says-it-wasnt-even-that-difficult-to-get-a-sub-usd100-broken-steam-deck-working-again-with-parts-from-an-old-nintendo-ds-lite-not-that-hard-at-all/",
+    "title": "This Redditor says it wasn't even that difficult to get a sub-$100 broken Steam Deck working again with parts from an old Nintendo DS Lite: 'not that hard at all'",
+    "published_at": "2025-07-18T10:51:54Z",
+    "content": "It feels like, at long last, at least some technology is moving in the direction of repairability. This is no doubt in large part thanks to the public pushing for the right to repair, which has proba\u2026 [+3873 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lite",
+      "Redditor",
+      "Steam",
+      "Deck",
+      "Nintendo",
+      "broken",
+      "repairability",
+      "difficult",
+      "working",
+      "hard"
+    ]
+  },
+  {
+    "source": "Gizchina.com [NewsAPI]",
+    "url": "https://www.gizchina.com/2025/07/18/galaxy-s26-ultra-to-feature-larger-screen-without-size-increase/",
+    "title": "Galaxy S26 Ultra to Feature Larger Screen Without Size Increase",
+    "published_at": "2025-07-18T10:49:32Z",
+    "content": "Samsung is getting ready to unveil its latest flagship smartphone, the Galaxy S26 Ultra, in 2026. Although the upgrade may not look all that promising at first, there are a couple of significant impr\u2026 [+2468 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ultra",
+      "Galaxy",
+      "Feature",
+      "Larger",
+      "Screen",
+      "Size",
+      "Increase",
+      "Samsung",
+      "smartphone",
+      "chars"
+    ]
+  },
+  {
+    "source": "Rock Paper Shotgun [NewsAPI]",
+    "url": "https://www.rockpapershotgun.com/breath-of-the-wild-meets-banjo-kazooie-golem-adventure-tall-trails-is-just-plain-nice",
+    "title": "Breath Of The Wild meets Banjo-Kazooie golem adventure Tall Trails is just plain nice",
+    "published_at": "2025-07-18T10:47:55Z",
+    "content": "If you don't have anything else on this morning, perhaps you'd like to fill the life of a small clay golem up with purpose. I cannot be certain, but at present I believe that the easiest way to do th\u2026 [+2137 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wild",
+      "Tall",
+      "Trails",
+      "golem",
+      "Breath",
+      "morning",
+      "purpose",
+      "meets",
+      "Banjo-Kazooie",
+      "adventure"
+    ]
+  },
+  {
+    "source": "Frequentmiler.com [NewsAPI]",
+    "url": "https://frequentmiler.com/making-a-strategic-change-to-pay-less-for-the-flight-you-want/",
+    "title": "Making a strategic change to pay less for the flight you want",
+    "published_at": "2025-07-18T10:45:12Z",
+    "content": "I promise that today\u2019s post isn\u2019t really about the JetBlue 25 for 25 promotion and contains strategy that you can file away for a rainy day. However, the full truth is that our first day chasing JetB\u2026 [+16172 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Making",
+      "JetBlue",
+      "promotion",
+      "day",
+      "strategic",
+      "change",
+      "pay",
+      "flight",
+      "promise",
+      "today"
+    ]
+  },
+  {
+    "source": "CNET [NewsAPI]",
+    "url": "https://www.cnet.com/personal-finance/love-live-music-these-7-tips-save-me-hundreds-on-tickets/",
+    "title": "Love Live Music? These 7 Tips Save Me Hundreds on Tickets",
+    "published_at": "2025-07-18T10:45:03Z",
+    "content": "Ticket prices have gone up faster than the cost of other consumer goods over the last 20 years.\u00a0\r\nFlashpop/Getty Images\r\nIf you're wanting to see your favorite artist perform live, you'll likely need\u2026 [+5395 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Music",
+      "Love",
+      "Live",
+      "Tips",
+      "years",
+      "Getty",
+      "Save",
+      "Hundreds",
+      "Flashpop",
+      "chars"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4329324/posts",
+    "title": "California illegal immigrant faked ICE \u2018kidnapping\u2019 at fast-food joint for fundraiser scam \u2014 as family pleaded for public\u2019s help: DOJ",
+    "published_at": "2025-07-18T10:44:50Z",
+    "content": "Skip to comments.\r\nCalifornia illegal immigrant faked ICE kidnapping at fast-food joint for fundraiser scam as family pleaded for publics help: DOJNY Post ^\r\n | 7/18/25\r\n | Richard Pollina\r\nPosted on\u2026 [+2327 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DOJ",
+      "ICE",
+      "California",
+      "Skip",
+      "illegal",
+      "immigrant",
+      "faked",
+      "fast-food",
+      "joint",
+      "fundraiser"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/global-startup-ecosystem",
+    "title": "Startup Networking Platforms - 'Solution' Connects the Global Startup Ecosystem in One Digital Hub (TrendHunter.com)",
+    "published_at": "2025-07-18T10:43:06Z",
+    "content": "Solution is a social business platform developed to centralize and streamline interaction within the global startup ecosystem. It functions as a digital hub where entrepreneurs, investors, service pr\u2026 [+768 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Solution",
+      "Startup",
+      "Global",
+      "Ecosystem",
+      "Connects",
+      "TrendHunter.com",
+      "Networking",
+      "Digital",
+      "Hub",
+      "Platforms"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/claude-code-github-say-goodbye-to-tedious-code-reviews/",
+    "title": "Claude Code & GitHub : Say Goodbye to Tedious Code Reviews",
+    "published_at": "2025-07-18T10:41:19Z",
+    "content": "What if you could spend less time sifting through pull requests and debugging errors, and more time crafting innovative solutions? For developers, the repetitive grind of code reviews and issue track\u2026 [+6891 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Code",
+      "GitHub",
+      "Goodbye",
+      "Tedious",
+      "Reviews",
+      "time",
+      "Claude",
+      "errors",
+      "solutions",
+      "spend"
+    ]
+  },
+  {
+    "source": "7NEWS.com.au [NewsAPI]",
+    "url": "https://7news.com.au/news/ex-boss-of-major-textile-brand-trigema-reveals-suicide-attempt-just-days-after-smiling-for-the-cameras-c-19399839",
+    "title": "Ex-boss of major textile brand Trigema reveals suicide attempt just days after smiling for the cameras",
+    "published_at": "2025-07-18T10:40:41Z",
+    "content": "He built one of Germanys most iconic textile empires and became a symbol of loyalty, tradition, and business success.\r\nNow, former Trigema boss Wolfgang Grupp has revealed in a deeply personal disclo\u2026 [+5076 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "tradition",
+      "Germanys",
+      "Trigema",
+      "textile",
+      "Ex-boss",
+      "loyalty",
+      "success",
+      "major",
+      "brand",
+      "reveals"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/games/destiny/destiny-2-vessel-of-the-nine-quest/",
+    "title": "How to complete the Destiny 2 Vessel of the Nine quest",
+    "published_at": "2025-07-18T10:38:37Z",
+    "content": "The Destiny 2 Vessel of the Nine quest is a side mission you\u2019ll unlock for Lodi in The Edge of Fate campaign. You\u2019ll be able to access it once you finish the Central Academy wing of Destiny 2\u2019s lates\u2026 [+4315 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vessel",
+      "Destiny",
+      "quest",
+      "Lodi",
+      "Edge",
+      "Fate",
+      "\u2019ll",
+      "campaign",
+      "complete",
+      "side"
+    ]
+  },
+  {
+    "source": "Windows Central [NewsAPI]",
+    "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-introduces-chatgpt-agent",
+    "title": "OpenAI introduces \"ChatGPT agent\" as the ultimate jack of all AI trades \u2014 with its own computer to check out your to-do list",
+    "published_at": "2025-07-18T10:38:08Z",
+    "content": "OpenAI just concluded its much-anticipated livestream, where it launched a new AI agent dubbed \"ChatGPT agent\". The tool ships with sophisticated capabilities that allow it to perform a wide range of\u2026 [+3763 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ChatGPT",
+      "agent",
+      "OpenAI",
+      "introduces",
+      "trades",
+      "livestream",
+      "dubbed",
+      "ultimate",
+      "jack",
+      "computer"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/07/disney-walt-disney-magical-life-contingency-mr-lincoln-th1/",
+    "title": "Disney Confirms Some Guests Won\u2019t See New Walt Disney Show",
+    "published_at": "2025-07-18T10:35:13Z",
+    "content": "Walt Disney may be back in Disneyland Resort, but not every guest will get to see him in action.\r\nCredit: Disney\r\nThis summer marks a landmark occasion in Disney history as Disneyland Resort celebrat\u2026 [+3461 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Walt",
+      "Disney",
+      "Disneyland",
+      "Resort",
+      "Confirms",
+      "Show",
+      "Guests",
+      "guest",
+      "action",
+      "n\u2019t"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/red-white-bloom-brands-reports-fiscal-2024-financial-results",
+    "title": "Red White & Bloom Brands Reports Fiscal 2024 Financial Results",
+    "published_at": "2025-07-18T10:34:10Z",
+    "content": "THE FORWARD-LOOKING INFORMATION CONTAINED IN THIS PRESS RELEASE REPRESENTS THE EXPECTATIONS OF THE COMPANY AS OF THE DATE OF THIS PRESS RELEASE AND, ACCORDINGLY, IS SUBJECT TO CHANGE AFTER SUCH DATE.\u2026 [+2208 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PRESS",
+      "RELEASE",
+      "White",
+      "Bloom",
+      "Fiscal",
+      "Financial",
+      "DATE.",
+      "chars",
+      "Brands",
+      "Reports"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/07/18/3117806/0/en/Installment-Loans-For-Bad-Credit-Direct-Lenders-Only-RadCred-Relieves-U-S-Borrowers-of-Poor-Credit-Score-By-Same-day-Installment-Loan.html",
+    "title": "Installment Loans For Bad Credit Direct Lenders Only : RadCred Relieves U.S. Borrowers of Poor Credit Score By Same day Installment Loan",
+    "published_at": "2025-07-18T10:34:00Z",
+    "content": "Glendale, California, July 18, 2025 (GLOBE NEWSWIRE) -- As Google searches for installmentloansforbadcredit, nodenialinstallmentloans, and directlendersonly reach record highs, RadCred today unveiled\u2026 [+9887 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "California",
+      "July",
+      "nodenialinstallmentloans",
+      "chars",
+      "Relieves",
+      "Borrowers",
+      "Glendale",
+      "GLOBE",
+      "NEWSWIRE",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/anymodel1",
+    "title": "Multi-Model Comparison Tools - AnyModel Lets You Compare Top AI Models Side-by-Side Effortlessly (TrendHunter.com)",
+    "published_at": "2025-07-18T10:33:06Z",
+    "content": "AnyModel is a tool designed for users who want to evaluate and compare outputs from multiple leading AI models in a single interface. By viewing results side-by-side, users can more easily identify i\u2026 [+680 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Effortlessly",
+      "Models",
+      "TrendHunter.com",
+      "AnyModel",
+      "Compare",
+      "Comparison",
+      "Top",
+      "Multi-Model",
+      "interface",
+      "Tools"
+    ]
+  },
+  {
+    "source": "Loudwire [NewsAPI]",
+    "url": "https://loudwire.com/dropkick-murphys-ken-casey-new-album-interview/",
+    "title": "Ken Casey Discusses Dropkick Murphys' Legacy, New Album + More",
+    "published_at": "2025-07-18T10:32:21Z",
+    "content": "Ken Casey joined Loudwire Nights on Thursday (July 17) to dive into For the People, the latest album from Dropkick Murphys.\r\nListen to the full conversation in the player near the end of this article\u2026 [+4088 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Casey",
+      "Dropkick",
+      "Ken",
+      "July",
+      "Album",
+      "Legacy",
+      "Thursday",
+      "People",
+      "Murphys",
+      "Discusses"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/flagship-showdown-exynos-2500-snapdragon-8-elite-tensor-g5-a18-pro-compared/",
+    "title": "Flagship Showdown: Exynos 2500, Snapdragon 8 Elite, Tensor G5, & A18 Pro Compared",
+    "published_at": "2025-07-18T10:30:46Z",
+    "content": "When assessing flagship chipsets, performance remains the definitive metric for determining their value. The video below from Techmo gives us more insights into the latest processors from leading man\u2026 [+7324 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Exynos",
+      "Snapdragon",
+      "Elite",
+      "Tensor",
+      "Showdown",
+      "Pro",
+      "Compared",
+      "Flagship",
+      "chipsets",
+      "performance"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2025/07/18/sports/david-wright-tells-the-post-about-his-special-mets-career/",
+    "title": "David Wright tells The Post about the special bonds and moments that made his Mets career special",
+    "published_at": "2025-07-18T10:30:00Z",
+    "content": "David Wright, who is set to enter the Mets Hall of Fame and have his No. 5 retired by the franchise Saturday, sat down for some Q&amp;A with Post columnist Steve Serby.\u00a0\r\nQ: That moment when (then-ma\u2026 [+39646 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wright",
+      "Post",
+      "Mets",
+      "David",
+      "Saturday",
+      "Serby",
+      "Hall",
+      "Fame",
+      "Steve",
+      "special"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/07/18/3117804/0/en/Red-White-Bloom-Brands-Reports-Fiscal-2024-Financial-Results.html",
+    "title": "Red White & Bloom Brands Reports\u00a0Fiscal 2024 Financial Results",
+    "published_at": "2025-07-18T10:30:00Z",
+    "content": "TORONTO, July 18, 2025 (GLOBE NEWSWIRE) -- Red White &amp; Bloom Brands Inc. (CSE: RWB) (RWB or the Company) is pleased to report that it has filed its consolidated audited financial statements for t\u2026 [+9490 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "White",
+      "Bloom",
+      "Red",
+      "July",
+      "Brands",
+      "Fiscal",
+      "TORONTO",
+      "GLOBE",
+      "NEWSWIRE",
+      "Results"
+    ]
+  },
+  {
+    "source": "Just Arsenal News [NewsAPI]",
+    "url": "https://www.justarsenal.com/opinion-any-half-decent-striker-will-bang-under-arteta-havertz-and-merino-prove-this/396802",
+    "title": "Opinion: Any half-decent striker will bang under Arteta. Havertz and Merino prove this",
+    "published_at": "2025-07-18T10:30:00Z",
+    "content": "Arsenal entered the summer window with a clear list of priorities, and at the top was the signing of a traditional centre-forward. After finishing second for a third successive season, attention quic\u2026 [+3417 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Arteta",
+      "Opinion",
+      "half-decent",
+      "striker",
+      "bang",
+      "Merino",
+      "Arsenal",
+      "chars",
+      "Havertz",
+      "priorities"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/audio/wireless-headphones/happy-plugs-play-pro-review",
+    "title": "I think these cheap, comfy headphones mostly overcome their flaws in testing... bar one key area",
+    "published_at": "2025-07-18T10:30:00Z",
+    "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you\u2019re buying the best. Find out more about how we test.Happy Plugs Pro: Two-minute review\r\n\u2026 [+15403 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cheap",
+      "comfy",
+      "review",
+      "testing",
+      "headphones",
+      "overcome",
+      "flaws",
+      "Pro",
+      "Two-minute",
+      "chars"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/brandonkochkodin/2025/07/18/inside-americas-top-small-business-bank/",
+    "title": "Inside America\u2019s Top Small Business Bank",
+    "published_at": "2025-07-18T10:30:00Z",
+    "content": "Ifsmall business is the beating heart of the Americans $30 trillion economy then it might be surprising to find out that the lifeblood it counts in the form of funding via loans, comes not from Wall \u2026 [+10786 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Business",
+      "Americans",
+      "Wall",
+      "chars",
+      "America",
+      "Top",
+      "Small",
+      "Bank",
+      "Ifsmall",
+      "Inside"
+    ]
+  },
+  {
+    "source": "The Mac Observer [NewsAPI]",
+    "url": "https://www.macobserver.com/tips/ted-lasso-season-4-is-official-everything-we-know/",
+    "title": "Ted Lasso Season 4 Is Official: Here\u2019s Everything We Know",
+    "published_at": "2025-07-18T10:29:51Z",
+    "content": "After months of speculation and mixed signals, Ted Lasso Season 4 is officially happening, and fans of the optimistic coach from Kansas couldnt be happier. Apple TV+ has confirmed the return of one o\u2026 [+3492 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Ted",
+      "Lasso",
+      "Official",
+      "Kansas",
+      "signals",
+      "happening",
+      "happier",
+      "months",
+      "speculation"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/entertainment/movies/the-32-greatest-movies-about-technology/",
+    "title": "The 32 greatest movies about technology",
+    "published_at": "2025-07-18T10:27:20Z",
+    "content": "Technology has always been a big part of moviemaking. Film cameras were themselves an invention, and artists and technicians have been inventing and improving technology and techniques to make better\u2026 [+21586 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "technology",
+      "greatest",
+      "moviemaking",
+      "movies",
+      "big",
+      "part",
+      "chars",
+      "Film",
+      "invention",
+      "cameras"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-ceo-charming-102506417.html",
+    "title": "NVIDIA Corporation (NVDA)\u2019s CEO Is \u201cA Charming DaVinci,\u201d Says Jim Cramer",
+    "published_at": "2025-07-18T10:25:06Z",
+    "content": "We recently published 10 Stocks On Jim Cramers Radar As He Says Trump Has Been Good For Growth. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed.\r\nNVIDIA Corporatio\u2026 [+2419 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NVDA",
+      "NVIDIA",
+      "Corporation",
+      "Jim",
+      "Growth",
+      "Cramer",
+      "CEO",
+      "Charming",
+      "Radar",
+      "Trump"
+    ]
+  },
+  {
+    "source": "YEN.COM.GH [NewsAPI]",
+    "url": "https://yen.com.gh/entertainment/celebrities/287476-hassan-ayariga-clashes-igbo-kings-spokesperson-fiery-debate-good-evening-ghana-video/",
+    "title": "Hassan Ayariga Clashes With Igbo King\u2019s Spokesperson in Fiery Debate on Good Evening Ghana, Video",
+    "published_at": "2025-07-18T10:23:22Z",
+    "content": "<ul><li>Ghanaian politician Hassan Ayariga clashed with the spokesperson of the Igbo King in Ghana during an appearance on Good Evening Ghana</li><li>Ayariga slammed the spokesperson for his claims t\u2026 [+4181 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ayariga",
+      "Good",
+      "Evening",
+      "Ghana",
+      "Video",
+      "Igbo",
+      "King",
+      "Spokesperson",
+      "Hassan",
+      "Ghanaian"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/kann",
+    "title": "Targeted Language Learning - Kann Helps You Master Japanese Vocabulary That Matches Your Interests (TrendHunter.com)",
+    "published_at": "2025-07-18T10:23:06Z",
+    "content": "Kann is a language learning app tailored for intermediate and advanced learners of Japanese, with a focus on personalized vocabulary acquisition. Rather than following a generic curriculum, Kann enab\u2026 [+762 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kann",
+      "Japanese",
+      "Language",
+      "Learning",
+      "Interests",
+      "Vocabulary",
+      "TrendHunter.com",
+      "Master",
+      "Matches",
+      "Targeted"
+    ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/tv-shows/news/splinter-cell-deathwatch-netflix-animated-series-sam-fisher-image/",
+    "title": "Netflix Reveals New Look at Next Big Video Game Series (& Fans Will Be Hyped)",
+    "published_at": "2025-07-18T10:23:00Z",
+    "content": "Netflix has unveiled an intense new official look at its upcoming animated series, Splinter Cell: Deadwatch, showcasing a battle-hardened and bloodied Sam Fisher. The image shows the super-spy aiming\u2026 [+4084 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deadwatch",
+      "Netflix",
+      "Series",
+      "Fans",
+      "Hyped",
+      "Splinter",
+      "Cell",
+      "Fisher",
+      "Reveals",
+      "Big"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-11-2025-100013246.html",
+    "title": "Best CD rates today, July 18, 2025 (up to 5.5% APY return)",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "APY",
+      "today",
+      "return",
+      "rates"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-july-18-2025-100000873.html",
+    "title": "Best money market account rates today, July 18, 2025 (up to 4.41% APY return)",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "APY",
+      "today",
+      "return",
+      "money",
+      "market",
+      "account",
+      "rates"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/colbert-is-latest-casualty-of-latenight-tvs-fadeout-4142703",
+    "title": "Colbert is latest casualty of late-night TV's fade-out",
+    "published_at": "2025-07-19 11:06:22",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Colbert",
+      "fade-out",
+      "latest",
+      "casualty",
+      "late-night"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-microsoft-pt-hike-tesla-intel-could-soar-on-earnings-4142699",
+    "title": "5 big analyst AI moves: Microsoft PT hike; Tesla, Intel could soar on earnings",
+    "published_at": "2025-07-19 10:21:49",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "Microsoft",
+      "Intel",
+      "big",
+      "moves",
+      "hike",
+      "earnings",
+      "analyst",
+      "soar"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/07/19/student-loan-bills-save-relief-expires.html",
+    "title": "Student loan bills could double for some borrowers as Biden-era relief expires",
+    "published_at": "2025-07-19",
+    "content": "Many student loan borrowers could see their monthly bills more than double now that the Biden-era SAVE plan is defunct.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Biden-era",
+      "SAVE",
+      "Student",
+      "loan",
+      "defunct",
+      "bills",
+      "double",
+      "borrowers",
+      "relief",
+      "expires"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/business/earnings/saab-raises-full-year-sales-guidance-as-defense-spending-continues-to-rise-0b334212?siteid=yhoof2&yptr=yahoo",
+    "title": "Saab Shares Jump After Defense Boom Prompts Higher Guidance",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Guidance",
+      "Shares",
+      "Jump",
+      "Defense",
+      "Boom",
+      "Prompts",
+      "Higher",
+      "Saab"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/world/china/wells-fargo-banker-china-89824413?siteid=yhoof2&yptr=yahoo",
+    "title": "U.S.-Based Wells Fargo Banker Blocked From Leaving China",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Based",
+      "China",
+      "Fargo",
+      "Banker",
+      "Blocked",
+      "Leaving"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/arts-culture/fine-art/art-market-investment-high-interest-rates-7e3ba131?siteid=yhoof2&yptr=yahoo",
+    "title": "The Worst Performer in Billionaires\u2019 Portfolios? Trophy Art.",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Portfolios",
+      "Worst",
+      "Performer",
+      "Billionaires\u2019",
+      "Art",
+      "Trophy"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/transocean-secures-multi-well-deal-092156569.html",
+    "title": "Transocean Secures Multi-Well Deal in Australia, Boosting Offshore Visibility",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Australia",
+      "Boosting",
+      "Visibility",
+      "Secures",
+      "Deal",
+      "Offshore",
+      "Transocean",
+      "Multi-Well"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/3-brilliant-growth-stocks-buy-094500284.html",
+    "title": "3 Brilliant Growth Stocks to Buy Now and Hold for the Long Term",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brilliant",
+      "Term",
+      "Growth",
+      "Stocks",
+      "Buy",
+      "Hold",
+      "Long"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/kraft-heinz-khc-considers-20-092157554.html",
+    "title": "Kraft Heinz (KHC) Considers $20 Billion Grocery Spinoff Amid Restructuring",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KHC",
+      "Heinz",
+      "Billion",
+      "Restructuring",
+      "Grocery",
+      "Spinoff",
+      "Amid",
+      "Kraft"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/sable-offshore-faces-legal-heat-092201721.html",
+    "title": "Sable Offshore Faces Legal Heat After Pipeline Setback, But Eyes Q3 Restart",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Restart",
+      "Setback",
+      "Eyes",
+      "Offshore",
+      "Faces",
+      "Legal",
+      "Heat",
+      "Pipeline",
+      "Sable"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/seadrill-gets-price-target-boost-092154852.html",
+    "title": "Seadrill Gets Price Target Boost as Offshore Momentum Builds",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Builds",
+      "Price",
+      "Target",
+      "Boost",
+      "Offshore",
+      "Momentum",
+      "Seadrill"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/spanish-retailer-mango-reports-12-094817421.html",
+    "title": "Spanish retailer Mango reports 12% turnover growth for H1 2025",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mango",
+      "Spanish",
+      "reports",
+      "turnover",
+      "retailer",
+      "growth"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/charter-chtr-target-raised-ubs-092154528.html",
+    "title": "Charter (CHTR) Target Raised by UBS Despite Broadband Growth Concerns",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CHTR",
+      "Charter",
+      "Target",
+      "Concerns",
+      "Raised",
+      "UBS",
+      "Broadband",
+      "Growth"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/citi-raises-verisign-vrsn-price-092207848.html",
+    "title": "Citi Raises VeriSign (VRSN) Price Target After .com Domain Growth",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "VRSN",
+      "Price",
+      "Growth",
+      "Raises",
+      "Target",
+      "Domain",
+      "Citi",
+      "VeriSign"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/visa-v-strengthens-value-added-092202438.html",
+    "title": "Visa (V) Strengthens Value-Added Services With FIS Partnership Expansion",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Visa",
+      "Strengthens",
+      "Expansion",
+      "Services",
+      "FIS",
+      "Partnership",
+      "Value-Added"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/frasers-group-posts-profit-growth-094110574.html",
+    "title": "Frasers Group posts profit growth in FY25 but expects \u00a350m budget hit",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group",
+      "Frasers",
+      "expects",
+      "budget",
+      "hit",
+      "posts",
+      "profit",
+      "growth"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/precision-drilling-gets-lift-piper-092209484.html",
+    "title": "Precision Drilling Gets a Lift: Piper Sandler Sees 40% Upside",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Upside",
+      "Lift",
+      "Piper",
+      "Drilling",
+      "Sandler",
+      "Precision"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/nabors-industries-rebounds-hedge-funds-092159286.html",
+    "title": "Nabors Industries Rebounds as Hedge Funds Eye a Quiet Comeback",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Comeback",
+      "Industries",
+      "Rebounds",
+      "Hedge",
+      "Funds",
+      "Eye",
+      "Quiet",
+      "Nabors"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/piper-sandler-ups-amazon-amzn-092159005.html",
+    "title": "Piper Sandler Ups Amazon (AMZN) Target, Cites AWS Strength and Robotics Gains",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AMZN",
+      "Target",
+      "Amazon",
+      "Cites",
+      "Gains",
+      "Sandler",
+      "Ups",
+      "AWS",
+      "Strength",
+      "Robotics"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/burgundy-diamond-halts-operations-canada-093939710.html",
+    "title": "Burgundy Diamond halts operations at Canada mine amid low diamond prices",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Diamond",
+      "Canada",
+      "Burgundy",
+      "prices",
+      "halts",
+      "operations",
+      "mine",
+      "amid",
+      "low"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/noble-corporation-earns-price-target-092151000.html",
+    "title": "Noble Corporation Earns Price Target Hike as Offshore Tailwinds Build",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Build",
+      "Corporation",
+      "Earns",
+      "Price",
+      "Target",
+      "Hike",
+      "Offshore",
+      "Tailwinds",
+      "Noble"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/piper-sandler-maintains-overweight-coca-092147244.html",
+    "title": "Piper Sandler Maintains Overweight on Coca-Cola (KO), Trims North America Growth Forecast",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trims",
+      "Forecast",
+      "Sandler",
+      "Maintains",
+      "Overweight",
+      "North",
+      "America",
+      "Growth",
+      "Piper",
+      "Coca-Cola"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/mastercard-ma-expands-stablecoin-fiserv-092210107.html",
+    "title": "Mastercard (MA) Expands Stablecoin Use With Fiserv FIUSD Integration",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mastercard",
+      "Expands",
+      "Integration",
+      "Stablecoin",
+      "Fiserv",
+      "FIUSD"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/moody-mco-stock-adjusted-ubs-092144221.html",
+    "title": "Moody\u2019s (MCO) Stock Adjusted by UBS Despite Strong Q1 Performance",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MCO",
+      "Performance",
+      "Stock",
+      "Strong",
+      "Adjusted",
+      "UBS",
+      "Moody"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/asia-spearhead-worldwide-butadiene-capacity-093818189.html",
+    "title": "Asia to spearhead worldwide butadiene capacity additions through 2030",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asia",
+      "spearhead",
+      "worldwide",
+      "butadiene",
+      "capacity",
+      "additions"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/kroger-kr-beats-earnings-sales-092151935.html",
+    "title": "Kroger (KR) Beats Earnings and Sales Estimates, Citi Adjusts Target",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kroger",
+      "Beats",
+      "Estimates",
+      "Citi",
+      "Target",
+      "Earnings",
+      "Sales",
+      "Adjusts"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/patterson-uti-gets-neutral-rating-092147586.html",
+    "title": "Patterson-UTI Gets Neutral Rating, but Scale Keeps It in the Game",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rating",
+      "Game",
+      "Neutral",
+      "Scale",
+      "Patterson-UTI"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/valaris-gets-target-bump-citi-092145420.html",
+    "title": "Valaris Gets Target Bump from Citi as Offshore Execution Holds Steady",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Steady",
+      "Target",
+      "Bump",
+      "Citi",
+      "Offshore",
+      "Execution",
+      "Holds",
+      "Valaris"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/inszone-insurance-acquires-stephenson-baggs-094605149.html",
+    "title": "Inszone Insurance acquires Stephenson, Baggs & Guthrie",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Baggs",
+      "Guthrie",
+      "Stephenson",
+      "Insurance",
+      "Inszone",
+      "acquires"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/utah-copper-mine-reopens-laying-100000952.html",
+    "title": "Utah copper mine reopens after lying dormant for years \u2014 what could it mean for other struggling rural towns?",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Utah",
+      "years",
+      "towns",
+      "copper",
+      "mine",
+      "reopens",
+      "lying",
+      "dormant",
+      "struggling",
+      "rural"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-july-18-2025-100058057.html",
+    "title": "Mortgage and refinance interest rates today, July 18, 2025: Mortgage rates are slightly lower than last summer",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "Mortgage",
+      "today",
+      "summer",
+      "rates",
+      "refinance",
+      "interest",
+      "slightly",
+      "lower"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/penny-pennington-investment-advice-firm-093941438.html",
+    "title": "Penny Pennington of investment advice firm Edward Jones: \u2018We\u2019re a wealth and wellbeing company\u2019",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jones",
+      "Pennington",
+      "Edward",
+      "Penny",
+      "company\u2019",
+      "investment",
+      "advice",
+      "firm",
+      "\u2019re",
+      "wealth"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/analysis-us-airlines-reap-rewards-100336138.html",
+    "title": "US airlines' premium travel strategy is paying off amid demand slump",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "slump",
+      "airlines'",
+      "premium",
+      "travel",
+      "strategy",
+      "paying",
+      "amid",
+      "demand"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/p-futures-gain-strong-u-100357974.html",
+    "title": "S&P Futures Gain as Strong U.S. Economic Data and Earnings Boost Optimism",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Strong",
+      "Economic",
+      "Optimism",
+      "Futures",
+      "Gain",
+      "Data",
+      "Earnings",
+      "Boost"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/feds-rate-cut-delay-intact-100657810.html",
+    "title": "Fed's rate-cut delay intact as inflation fears override Trump pressure",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Fed",
+      "pressure",
+      "rate-cut",
+      "delay",
+      "intact",
+      "inflation",
+      "fears",
+      "override"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/us-imposes-anti-dumping-duties-093755240.html",
+    "title": "US imposes anti-dumping duties on Chinese graphite imports",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chinese",
+      "imports",
+      "imposes",
+      "anti-dumping",
+      "duties",
+      "graphite"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/chevron-prevails-mediation-over-exxon-101312388.html",
+    "title": "Chevron closes Hess acquisition after winning Exxon legal battle",
+    "published_at": "2025-07-19",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hess",
+      "Exxon",
+      "Chevron",
+      "battle",
+      "closes",
+      "acquisition",
+      "winning",
+      "legal"
     ]
   }
 ]
