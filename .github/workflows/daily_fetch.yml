@@ -24,6 +24,7 @@ jobs:
 
       # 2) Combine the hourly Finanzen shards
       - name: Combine hourly Finanzen files
+        if: false
         run: python scripts/combine_finanzen_daily.py
 
       # 3) Set up Python
