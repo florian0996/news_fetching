@@ -104,7 +104,7 @@ def fetch_bloomberg_rss():
                 "source":         f"Bloomberg – {name} [RSS]",
                 "url":            entry.link,
                 "title":          entry.title,
-                "fetched_on": FETCHED_ON,
+                "fetched_on":     FETCHED_ON,
                 "content":        content,
                 "platforms_mentioned": [],
             })
@@ -140,7 +140,7 @@ def fetch_newsapi():
             "source":            f"{a['source']['name']} [NewsAPI]",
             "url":               a["url"],
             "title":             a["title"],
-            "fetched_on": FETCHED_ON,
+            "fetched_on":        FETCHED_ON,
             "content":           a.get("content") or a.get("description", ""),
             "platforms_mentioned": [],
         }
@@ -163,7 +163,6 @@ def fetch_sec_press_releases():
             "url":               e.link,
             "title":             e.title,
             "fetched_on":        FETCHED_ON,
-            "published":         e.get("published", ""),
             "content":           e.get("summary", ""),
             "platforms_mentioned": [],
         })
@@ -221,11 +220,11 @@ def fetch_gnews(QUERY: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
     for a in raw:
         src = a.get("source",{}).get("name","Unknown")
         out.append({
-            "source": f"{src} [GNews]",
-            "url": a.get("url",""),
-            "title": a.get("title",""),
-            "fetched_on": FETCHED_ON,""),
-            "content": a.get("description","") or a.get("content",""),
+            "source":         f"{src} [GNews]",
+            "url":            a.get("url",""),
+            "title":          a.get("title",""),
+            "fetched_on":     FETCHED_ON,
+            "content":        a.get("description","") or a.get("content",""),
             "platforms_mentioned": [],
         })
     return apply_query_filter(out)                              
@@ -284,7 +283,7 @@ def fetch_investing_rss():
                 "source":             label,
                 "url":                entry.link,
                 "title":              entry.title,
-                "fetched_on": FETCHED_ON,
+                "fetched_on":         FETCHED_ON,
                 "content":            entry.get("summary", ""),
                 "platforms_mentioned": [],
             })
@@ -391,11 +390,11 @@ def fetch_crunchbase_sections():
                     continue
 
             articles.append({
-                "source":    sec["label"],
-                "url":       url,
-                "title":     title,
-                "fetched_on": FETCHED_ON,
-                "content":     content_snip,
+                "source":        sec["label"],
+                "url":           url,
+                "title":         title,
+                "fetched_on":    FETCHED_ON,
+                "content":       content_snip,
                 "platforms_mentioned": [],
             })
 
@@ -430,11 +429,11 @@ def fetch_cnbc_rss():
             published = getattr(entry, "published", entry.get("pubDate", ""))
 
             articles.append({
-                "source":       f"{label} [RSS]",
-                "url":          entry.get("link", ""),
-                "title":        entry.get("title", "").strip(),
-                "fetched_on": FETCHED_ON,
-                "content":      summary.strip(),
+                "source":           f"{label} [RSS]",
+                "url":              entry.get("link", ""),
+                "title":            entry.get("title", "").strip(),
+                "fetched_on":       FETCHED_ON,
+                "content":          summary.strip(),
                 "platforms_mentioned": [],
             })
 
@@ -471,7 +470,7 @@ def fetch_yahoo_rss():
                 "source":       f"{label} [RSS]",
                 "url":          entry.get("link", ""),
                 "title":        entry.get("title", "").strip(),
-                "fetched_on": FETCHED_ON,
+                "fetched_on":   FETCHED_ON,
                 "content":      summary.strip(),
                 "platforms_mentioned": [],
             })
@@ -496,7 +495,7 @@ def fetch_sifted_rss():
                 "source":            f"Sifted — {label} [RSS]",
                 "url":               entry.link,
                 "title":             entry.title,
-                "fetched_on": FETCHED_ON, ""),
+                "fetched_on":        FETCHED_ON,
                 "content":           content,
                 "platforms_mentioned": [],
             })
