@@ -1,4 +1,4 @@
-name: Daily News Summary
+name: Create News Summary
 
 permissions:
   contents: write
