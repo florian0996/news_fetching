@@ -27,7 +27,7 @@ def matches_query(text, query):
 NEWSAPI_KEY = "186dd4ccd2234f6a89f850bf16effb06"
 LANGUAGE = "en"
 PAGE_SIZE = 100
-ENABLE_FILTERING = TRUE  # Set to False to bypass QUERY-based filtering
+ENABLE_FILTERING = False  # Set to False to bypass QUERY-based filtering
 
 TERMS = [
     "credit", "loan", "Exaloan", "lending", "fintech startup",
@@ -69,6 +69,28 @@ RSS_FEEDS = {
     "Economics": "https://feeds.bloomberg.com/economics/news.rss",
     "Industries":"https://feeds.bloomberg.com/industries/news.rss"
 }
+
+# ========== FINANZEN.NET FETCH ==========
+FINANZEN_FEED_URL = "https://www.finanzen.net/rss/news"
+
+def fetch_finanzen_net():
+    print("→ Fetching Finanzen.net RSS feed…")
+    feed = feedparser.parse(FINANZEN_FEED_URL)
+    articles = []
+    for e in feed.entries:
+        title = e.title
+        content = getattr(e, 'summary', '')
+        articles.append({
+            "source": "Finanzen.net [RSS]",
+            "url": e.link,
+            "title": title,
+            "published_at": datetime(*e.published_parsed[:6]).isoformat(),
+            "content": content,
+            "platforms_mentioned": []
+        })
+    print(f"→ Finanzen.net: {len(articles)} articles fetched.")
+    return apply_query_filter(articles)
+
 
 # ========== BLOOMBERG RSS FETCH ==========
 def fetch_bloomberg_rss():
@@ -531,6 +553,7 @@ crunchbase_articles  = fetch_crunchbase_sections()
 cnbc_articles        = fetch_cnbc_rss()
 yahoo_articles       = fetch_yahoo_rss()
 sifted_articles      = fetch_sifted_rss()
+finanzen_articles      = fetch_finanzen_net()
 
 gnews_keywords = []
 for sub_q in GNEWS_QUERIES:
@@ -548,6 +571,7 @@ all_articles = (
   + cnbc_articles
   + yahoo_articles
   + sifted_articles
+  + finanzen_articles
 )
 
 # Add keywords to each article
