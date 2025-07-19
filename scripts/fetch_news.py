@@ -6,8 +6,11 @@ import json
 import requests
 import feedparser
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
+
+# snapshot timestamp for this run
+FETCHED_ON = datetime.now(timezone.utc).isoformat()
 
 import yake
 kw_extractor = yake.KeywordExtractor(lan="en", n=1, top=10)
