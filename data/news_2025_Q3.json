@@ -180761,5 +180761,928 @@
       "Krypto",
       "und"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-20/iran-agrees-to-talks-with-uk-france-and-germany-tasnim-reports",
+    "title": "Iran Agrees to Talks With UK, France and Germany, Tasnim Reports",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Iran has reached an agreement in principle to hold talks with the UK, France and Germany over its nuclear program, the semi-official Tasnim news agency reported.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "France",
+      "Germany",
+      "Tasnim",
+      "Talks",
+      "Iran",
+      "Agrees",
+      "Reports",
+      "program",
+      "reported",
+      "reached"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-20/stanchart-kenya-bii-ink-100m-deal-for-small-firms-eastafrican",
+    "title": "StanChart Kenya, BII Ink $100M Deal for Small Firms: EastAfrican",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Standard Chartered Bank Kenya Ltd. has signed a $100 million deal with British International Investment to support trade finance and working capital needs for micro, small, and medium-sized enterprises, The EastAfrican newspaper reported.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BII",
+      "Ink",
+      "Firms",
+      "Kenya",
+      "Deal",
+      "Small",
+      "Standard",
+      "Chartered",
+      "Bank",
+      "Ltd."
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/07/everything-we-know-about-stranger-things-tales-from-85-dr1mmb/",
+    "title": "Everything We Know About the ‘Stranger Things: Tales From ’85’ Animated Spinoff",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "As Stranger Things prepares to wrap its flagship series with Season 5 this holiday season, Netflix is expanding the world of Hawkins in a bold new direction.\r\nAnnounced in April, Stranger Things: Tal… [+5465 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Stranger",
+      "Things",
+      "Tales",
+      "Netflix",
+      "Animated",
+      "Spinoff",
+      "Hawkins",
+      "direction",
+      "Tal"
+    ]
+  },
+  {
+    "source": "Honolulu Star-Advertiser [NewsAPI]",
+    "url": "https://www.staradvertiser.com/2025/07/19/hawaii-news/kauai-welcomes-filipino-teachers-ahead-of-new-school-year/",
+    "title": "Kauai welcomes Filipino teachers ahead of new school year | Honolulu Star-Advertiser",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "For the third year, members of the state Department of Education, the Kauai Filipino Chamber of Commerce, the Kauai Philippine Cultural Center and the Kauai Filipino Community Council this week welco… [+2933 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kauai",
+      "Filipino",
+      "year",
+      "Honolulu",
+      "Education",
+      "Commerce",
+      "chars",
+      "Department",
+      "Chamber",
+      "Philippine"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2025/07/19/notre-dame-football-recruiting-top-2026-classes-average-per-commitment-rivals/85285970007/",
+    "title": "Notre Dame is among the top schools in average rating per commitment in the 2026 class",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "While recruiting is a numbers game, Notre Dame isnt just taking twenty-six prospects to fill its roster. There are multiple impact players among the group, along with others that will make their pres… [+1059 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Notre",
+      "Dame",
+      "class",
+      "game",
+      "roster",
+      "top",
+      "schools",
+      "average",
+      "rating",
+      "commitment"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/openai-ai-vs-human-coding-competition/",
+    "title": "Human vs ChatGPT : The Epic Battle at the 2025 AtCoder World Finals",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "What happens when a machine almost outsmarts the worlds best coders? At the 2025 AtCoder World Finals, OpenAIs secret internal AI model came astonishingly close to claiming victory in one of the most… [+7372 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finals",
+      "AtCoder",
+      "Epic",
+      "Battle",
+      "World",
+      "Human",
+      "ChatGPT",
+      "coders",
+      "worlds",
+      "machine"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/time-to-switch-back-to-a-pixel-3577246/",
+    "title": "After six years, it’s finally time for me to switch back to a Pixel",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "In my five years working as an Android journalist, Ive been known as the Samsung guy. Thats been an accurate description, but it may surprise you to learn that I used to be a Nexus/Pixel fanatic, usi… [+11235 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ive",
+      "Android",
+      "Samsung",
+      "Pixel",
+      "years",
+      "journalist",
+      "guy",
+      "finally",
+      "time",
+      "switch"
+    ]
+  },
+  {
+    "source": "Salon [NewsAPI]",
+    "url": "https://www.salon.com/2025/07/19/how-the-big-beautiful-bill-will-deepen-the-racial-wealth-gap/",
+    "title": "How the “big, beautiful bill” will deepen the racial wealth gap",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "President Donald Trump has said the big, beautiful bill he signed into law on July 4, 2025, will stimulate the economy and foster financial security.\r\nBut a close look at the legislation reveals a di… [+6539 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "beautiful",
+      "big",
+      "July",
+      "bill",
+      "President",
+      "Donald",
+      "Trump",
+      "security",
+      "deepen",
+      "racial"
+    ]
+  },
+  {
+    "source": "Windows Central [NewsAPI]",
+    "url": "https://www.windowscentral.com/accessories/headphones/steelseries-arctis-nova-3x-wireless-review",
+    "title": "This lightweight, colorful wireless Xbox headset offers a lot of bang for your buck, but not always the best performance",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.There's no shortage… [+6882 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Xbox",
+      "Windows",
+      "Central",
+      "lightweight",
+      "colorful",
+      "buck",
+      "wireless",
+      "headset",
+      "offers",
+      "lot"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/audio/speakers/sonus-faber-concertino-g4-review",
+    "title": "I test audio kit every day and these bookshelf speakers are the dragon I’ll be chasing for decades to come",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you’re buying the best. Find out more about how we test.Sonus Faber Concertino G4: Two-minut… [+17097 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "review",
+      "Two-minut",
+      "test",
+      "audio",
+      "kit",
+      "day",
+      "bookshelf",
+      "speakers",
+      "dragon",
+      "’ll"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/astronomy/2-new-nasa-satellites-will-track-space-weather-to-help-keep-us-safe-from-solar-storms",
+    "title": "2 new NASA satellites will track space weather to help keep us safe from solar storms",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "A new mission set to blast off for low-Earth orbit will study magnetic storms around the Earth and learn more about how they affect our atmosphere and satellites.\r\nNASA's Tandem Reconnection and Cusp… [+4504 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earth",
+      "NASA",
+      "satellites",
+      "storms",
+      "track",
+      "space",
+      "weather",
+      "safe",
+      "solar",
+      "mission"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/phones/nothing-phones/the-nothing-phone-3-might-be-the-most-distinctive-smartphone-of-2025-but-is-it-enough-to-lure-in-apple-and-samsung-fans",
+    "title": "The Nothing Phone 3 might be the most distinctive smartphone of 2025 – but is it enough to lure in Apple and Samsung fans?",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "If there’s one thing about Nothing’s entire philosophy as a company that rings completely true, it’s that modern tech looks boring. With focus applied to manufacturing efficiency and broad appeal, th… [+9467 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phone",
+      "Apple",
+      "Samsung",
+      "fans",
+      "distinctive",
+      "smartphone",
+      "lure",
+      "chars",
+      "true",
+      "boring"
+    ]
+  },
+  {
+    "source": "NBC News [NewsAPI]",
+    "url": "https://www.nbcnews.com/politics/politics-news/biggest-political-fights-trumps-megabill-are-converging-nevada-rcna219368",
+    "title": "The biggest political fights over Trump's megabill are converging in Nevada",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "When it comes to President Donald Trumps big, beautiful bill, few places could be impacted more significantly than Nevada one of the countrys most closely divided swing states.\r\nFor starters, Nevada … [+8629 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nevada",
+      "President",
+      "Donald",
+      "Trump",
+      "Trumps",
+      "big",
+      "beautiful",
+      "bill",
+      "states",
+      "biggest"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/renaegregoire/2025/07/19/how-to-become-a-mid-tier-influencer-and-earn-1000-per-post/",
+    "title": "How To Become A Mid-Tier Influencer And Earn $1,000+ Per Post",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "I bet you'd look just like this guy if you became a mid-tier influencer earning at least $1,000 per ... More social post.\r\ngetty\r\nThe lure (and lore) of internet riches is intoxicating. Its whats bee… [+16046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earn",
+      "Influencer",
+      "Mid-Tier",
+      "Post",
+      "bet",
+      "guy",
+      "earning",
+      "chars",
+      "getty",
+      "lure"
+    ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/news/iconic-trading-cards-company-launches-shiny-new-premier-league-collection-with-ultra-rare-finds-to-unearth",
+    "title": "Iconic trading cards company launches shiny new Premier League collection with ultra rare finds to unearth",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Topps has announced its return as an official Premier League licensee and launched a new official Premier League collection.\r\nTopps Premier League 2025/26 Trading Cards will hit the shelves in the UK… [+2691 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "League",
+      "Premier",
+      "collection",
+      "official",
+      "trading",
+      "cards",
+      "Topps",
+      "Iconic",
+      "company",
+      "launches"
+    ]
+  },
+  {
+    "source": "PCMag.com [NewsAPI]",
+    "url": "https://uk.pcmag.com/games/159207/dont-let-your-anime-horse-girls-lose-13-umamusume-pretty-derby-tips-you-need",
+    "title": "Don't Let Your Anime Horse Girls Lose: 13 Umamusume Pretty Derby Tips You Need",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "I must admit, I didn't expect to write a story about the free-to-play Umamusume Pretty Derby. I also didn't expect that an extremely anime-troped game for Android, iOS, and Steam would pop off to the… [+11057 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Umamusume",
+      "Pretty",
+      "Derby",
+      "Lose",
+      "Anime",
+      "Horse",
+      "Girls",
+      "Tips",
+      "admit",
+      "expect"
+    ]
+  },
+  {
+    "source": "Live Science [NewsAPI]",
+    "url": "https://www.livescience.com/animals/sharks/how-to-watch-shark-week-2025-live-tv-and-streaming-schedule-for-discovery-special",
+    "title": "How to watch Shark Week 2025: Live TV & streaming schedule for Discovery special",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Shark Week 2025 is almost here, offering new shows full of thrills to celebrate its 37th year. Once again, we've put together a handy guide on how to watch Shark Week 2025, including air times, where… [+6842 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Week",
+      "Shark",
+      "Live",
+      "year",
+      "Discovery",
+      "watch",
+      "streaming",
+      "offering",
+      "schedule",
+      "special"
+    ]
+  },
+  {
+    "source": "Catholicnewsagency.com [NewsAPI]",
+    "url": "https://www.catholicnewsagency.com/news/265441/charity-doesn-t-go-on-vacation-pope-leo-xiv-sends-food-to-families-in-ukraine",
+    "title": "‘Charity doesn’t go on vacation’: Pope Leo XIV sends food to families in Ukraine",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "ACI Prensa Staff, Jul 19, 2025 /\r\n 06:00 am\r\nPope Leo XIV once again expressed his closeness to the people of Ukraine by sending packages of food destined to families who have suffered from the Russi… [+2320 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Leo",
+      "Jul",
+      "Pope",
+      "XIV",
+      "Ukraine",
+      "Charity",
+      "Staff",
+      "Russi",
+      "chars",
+      "families"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/bombay-hc-directs-gst-council-gstn-to-enable-cross-state-itc-transfers-in-mergers/article69830997.ece",
+    "title": "Bombay HC directs GST Council, GSTN to enable cross-State ITC transfers in mergers",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Bombay High Court has urged the GST Council and the GST Network (GSTN) to provide for a regular mechanism for transfer of unutilised Input Tax Credit (ITC) from the electronic credit ledger of a tran… [+3047 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GST",
+      "GSTN",
+      "Council",
+      "ITC",
+      "Network",
+      "chars",
+      "Bombay",
+      "Credit",
+      "High",
+      "Court"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/living-with-family-brother-after-losing-job-save-money-2025-7",
+    "title": "I moved in with my brother's family at 56 after losing my job. It cut my expenses by 90% and allowed me to start over.",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "The author (not pictured) moved in with his brother's family after losing his job.YURTAYEVA ALA/Getty Images\r\n<ul><li>Earlier this year, my car was totaled, and shortly after, I lost my full-time con… [+4481 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "job",
+      "moved",
+      "brother",
+      "family",
+      "losing",
+      "ALA",
+      "Getty",
+      "Images",
+      "Earlier",
+      "chars"
+    ]
+  },
+  {
+    "source": "YEN.COM.GH [NewsAPI]",
+    "url": "https://yen.com.gh/entertainment/music/287529-sarkodie-receives-asantehenes-blessing-host-rapperholic-kumasi-fans-excite/",
+    "title": "Sarkodie Receives the Asantehene’s Blessing to Host Rapperholic in Kumasi, Fans Excite",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "<ul><li> Celebrated Ghanaian rapper Sarkodie paid homage to Otumfuo Nana Osei Tutu II on July 19, 2025, at the Manhyia Palace</li><li> During his visit, the Non Living Thing hitmaker asked for the bl… [+2280 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sarkodie",
+      "Kumasi",
+      "Fans",
+      "Excite",
+      "Celebrated",
+      "July",
+      "Palace",
+      "chars",
+      "Receives",
+      "Asantehene"
+    ]
+  },
+  {
+    "source": "Asianetnews.com [NewsAPI]",
+    "url": "https://kannada.asianetnews.com/gallery/business/small-changes-fuel-saving-tips-for-drivers-mrq-p9hd99f",
+    "title": "Fuel Saving Hacks: ಪೆಟ್ರೋಲ್‌, ಡೀಸೆಲ್‌ ದುಬಾರಿಯಾಗ್ತಿದ್ದು, ಈ ಬದಲಾವಣೆಗಳಿಗೆ ಇಂಧನ ಉಳಿಸಿ, ಜೇಬು ತುಂಬಿಸಿಕೊಳ್ಳಿ | Small Changes Fuel Saving Tips For Drivers Mrq",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Fuel Efficiency Made Easy Tips: , . . , .\r\n, . .\r\n. . , . .\r\nImage Credit : Asianet News\r\n. . .   , . .\r\n. . . .\r\n. .     . , .\r\n/ . GPS, . . \r\n© Copyright 2025 Asianxt Digital Technologies Private L… [+102 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fuel",
+      "Saving",
+      "Tips",
+      "Hacks",
+      "Small",
+      "Drivers",
+      "Mrq",
+      "Efficiency",
+      "Made",
+      "Easy"
+    ]
+  },
+  {
+    "source": "Nakedcapitalism.com [NewsAPI]",
+    "url": "https://www.nakedcapitalism.com/2025/07/michael-hudson-todays-civilizational-conflict.html",
+    "title": "Michael Hudson: Today’s Civilizational Conflict",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Yves here. Get a cup of coffee. This is an important piece by Hudson, giving another important historical long view, here on the use of trade as a tool of colonial exploitation. However, I feel compe… [+36282 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Today",
+      "Civilizational",
+      "Conflict",
+      "Yves",
+      "Hudson",
+      "Michael",
+      "important",
+      "coffee",
+      "chars",
+      "giving"
+    ]
+  },
+  {
+    "source": "The West Australian [NewsAPI]",
+    "url": "https://thewest.com.au/news/wa/donna-nelson-jailed-perth-grandmother-preparing-to-appeal-drug-smuggling-charges-in-tokyo-high-court-c-19408370",
+    "title": "Donna Nelson: Jailed Perth grandmother preparing to appeal drug smuggling charges in Tokyo High Court",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Perth grandmother Donna Nelson is preparing to appear in the Tokyo High Court on Thursday hoping to appeal her drug smuggling conviction.\r\nIt is understood the brief hearing will allow the court to d… [+3506 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "High",
+      "Nelson",
+      "Perth",
+      "Tokyo",
+      "Donna",
+      "Jailed",
+      "Court",
+      "Thursday",
+      "grandmother",
+      "preparing"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/19/arizona-state-retirement-system-trims-position-in-wex-inc-nysewex/",
+    "title": "Arizona State Retirement System Trims Position in WEX Inc. (NYSE:WEX)",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "Arizona State Retirement System lessened its holdings in shares of WEX Inc. (NYSE:WEX – Free Report) by 4.3% during the first quarter, HoldingsChannel reports. The firm owned 11,412 shares of the bus… [+5883 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WEX",
+      "NYSE",
+      "State",
+      "Retirement",
+      "Arizona",
+      "System",
+      "Trims",
+      "Position",
+      "shares",
+      "Free"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/android-16-is-a-mess-right-now-3578945/",
+    "title": "Android 16 is a mess right now",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "If youre reading this article, chances are you love Android. Or, at the very least, have a fairly high interest in the OS. You probably like staying up-to-date with the latest features, new platform … [+5732 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Android",
+      "article",
+      "chances",
+      "mess",
+      "youre",
+      "reading",
+      "love",
+      "chars",
+      "staying",
+      "features"
+    ]
+  },
+  {
+    "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG [NewsAPI]",
+    "url": "https://www.legit.ng/entertainment/celebrities/1665060-gov-okpebholos-warning-peter-obi-verydarkman-expresses-concerns-growing-pattern/",
+    "title": "Gov Okpebholo’s Warning to Peter Obi: VeryDarkMan Expresses Concerns Over Growing Pattern",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "<ul><li>VeryDarkMan has reacted to Governor Monday Okpebholo's warning to Peter Obi, former Anambra State governor</li><li>The social media critic who apologised on behalf of the people of Edo expres… [+3671 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Obi",
+      "Peter",
+      "Okpebholo",
+      "Warning",
+      "VeryDarkMan",
+      "Pattern",
+      "chars",
+      "Governor",
+      "Expresses",
+      "Concerns"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/4-reasons-why-ai-wont-kill-developer-hiring-according-to-piper-sandler-4140598",
+    "title": "4 reasons why AI won’t kill developer hiring, according to Piper Sandler",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sandler",
+      "Piper",
+      "reasons",
+      "hiring",
+      "n’t",
+      "kill",
+      "developer"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/ubs-unveils-its-outlook-for-the-middle-east-and-north-africa-region-4140088",
+    "title": "UBS unveils its outlook for the Middle East and North Africa region",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UBS",
+      "Middle",
+      "East",
+      "North",
+      "Africa",
+      "region",
+      "unveils",
+      "outlook"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/2025-is-seeing-the-beginning-of-a-new-era-in-commerce--the-agentic-one-4140460",
+    "title": "2025 is seeing the beginning of a new era in commerce - the Agentic One",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Agentic",
+      "commerce",
+      "beginning",
+      "era"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/bofa-looks-at-the-impact-of-trumps-signature-fiscal-policy-on-defense-stocks-4137956",
+    "title": "BofA looks at the impact of Trump's signature fiscal policy on defense stocks",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "BofA",
+      "stocks",
+      "impact",
+      "signature",
+      "fiscal",
+      "policy",
+      "defense"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/could-buy-hold-just-1-080200312.html",
+    "title": "If I Could Buy and Hold Just 1 Stock Forever, This Would Be It",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stock",
+      "Forever",
+      "Buy",
+      "Hold"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/1-unstoppable-stock-quietly-outperformed-080400394.html",
+    "title": "1 Unstoppable Stock Has Quietly Outperformed Every Single Member of the \"Magnificent Seven,\" and It's Still a Buy Right Now, According to Wall Street.",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unstoppable",
+      "Magnificent",
+      "Street",
+      "Stock",
+      "Quietly",
+      "Outperformed",
+      "Single",
+      "Member",
+      "Buy",
+      "Wall"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/warren-buffett-sold-apple-bank-080500592.html",
+    "title": "Warren Buffett Sold Apple and Bank of America in Favor of This Boring Investment Offering a 4.3% Yield",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Yield",
+      "Buffett",
+      "Sold",
+      "Apple",
+      "Bank",
+      "America",
+      "Favor",
+      "Boring",
+      "Investment",
+      "Offering"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/10-reasons-buy-hold-market-080800487.html",
+    "title": "10 Reasons to Buy and Hold This Market-Leading Stock Forever",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reasons",
+      "Forever",
+      "Buy",
+      "Hold",
+      "Stock",
+      "Market-Leading"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/nvidia-reach-5-trillion-market-081000419.html",
+    "title": "Will Nvidia Reach a $5 Trillion Market Cap in 2025?",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trillion",
+      "Nvidia",
+      "Reach",
+      "Market",
+      "Cap"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/2-bargain-stocks-buy-now-081500151.html",
+    "title": "2 Bargain Stocks to Buy Now",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bargain",
+      "Stocks",
+      "Buy"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/1-stock-turned-1-000-082600619.html",
+    "title": "1 Stock That Turned $1,000 Into $66,000",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stock",
+      "Turned"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/draftkings-weighs-entry-prediction-markets-110002572.html",
+    "title": "As DraftKings Weighs Entry into Prediction Markets, How Should You Play DKNG Stock?",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Markets",
+      "Stock",
+      "Weighs",
+      "Entry",
+      "Prediction",
+      "Play",
+      "DKNG",
+      "DraftKings"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/salesforce-crm-wins-analyst-confidence-110120453.html",
+    "title": "Salesforce (CRM) Wins Analyst Confidence With AI Advances and Price Hike Potential",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CRM",
+      "Salesforce",
+      "Wins",
+      "Potential",
+      "Analyst",
+      "Confidence",
+      "Advances",
+      "Price",
+      "Hike"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/2-reliable-dividend-stocks-yields-082700425.html",
+    "title": "2 Reliable Dividend Stocks With Yields Above 6% That You Can Buy With $100 Right Now",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reliable",
+      "Dividend",
+      "Stocks",
+      "Yields",
+      "Buy"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/nvidia-nvda-china-opportunity-reopens-110610498.html",
+    "title": "Nvidia’s (NVDA) China Opportunity Reopens — Price Target Raised to $192 by Mizuho",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NVDA",
+      "China",
+      "Reopens",
+      "Price",
+      "Mizuho",
+      "Opportunity",
+      "Target",
+      "Raised",
+      "Nvidia"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/meta-ai-innovations-drive-850-111109598.html",
+    "title": "Meta’s AI Innovations Drive $850 Price Target as Analysts See Strong Q2 Ahead",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ahead",
+      "Drive",
+      "Price",
+      "Strong",
+      "Innovations",
+      "Target",
+      "Analysts",
+      "Meta"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/tesla-stock-could-track-only-083000004.html",
+    "title": "Tesla Stock Could Be on Track to Do This for Only the Second Time in 10 Years. (Hint: It's Not a Good Thing)",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Years",
+      "Hint",
+      "Stock",
+      "Track",
+      "Time",
+      "Tesla",
+      "Thing",
+      "Good"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/wochenausblick-us-bluechips-im-fokus-14641004",
+    "title": "Wochenausblick – US-Bluechips im Fokus",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "<p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\t<tbody><tr>\n\t\t<td>\n\t\t<font face=\"Arial,Helvetica,sans-serif\" style=\"font-size: 12px; line-height: 16px;\">Werbung</font>\n\t\t<a href=\"https://app.newstool.de/t/huvRHJDYmqP7q7iuCUJke2/?as=9iKiryxptP9D84duERwaix\"></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Werbung",
+      "font",
+      "Wochenausblick",
+      "cellpadding",
+      "cellspacing",
+      "width",
+      "tbody",
+      "style",
+      "font-size",
+      "line-height"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/cfd/wochenausblick-us-bluechips-im-fokus-14641003",
+    "title": "Wochenausblick – US-Bluechips im Fokus",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "<p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\t<tbody><tr>\n\t\t<td>\n\t\t<font face=\"Arial,Helvetica,sans-serif\" style=\"font-size: 12px; line-height: 16px;\">Werbung</font>\n\t\t<a href=\"https://app.newstool.de/t/6Y4TJtYuxNgsWtbcaxwLjz/?as=WzXmmQfrV49nBmSfegndMu\"></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Werbung",
+      "font",
+      "Wochenausblick",
+      "cellpadding",
+      "cellspacing",
+      "width",
+      "tbody",
+      "style",
+      "font-size",
+      "line-height"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/zertifikate/wochenausblick-us-bluechips-im-fokus-14641002",
+    "title": "Wochenausblick – US-Bluechips im Fokus",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "<p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\t<tbody><tr>\n\t\t<td>\n\t\t<font face=\"Arial,Helvetica,sans-serif\" style=\"font-size: 12px; line-height: 16px;\">Werbung</font>\n\t\t<a href=\"https://app.newstool.de/t/VuHuEuafQkPCj4VBEnVPxk/?as=4cAaoHBNW5DP8qoVEV2H7e\"></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Werbung",
+      "font",
+      "Wochenausblick",
+      "cellpadding",
+      "cellspacing",
+      "width",
+      "tbody",
+      "style",
+      "font-size",
+      "line-height"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/devisen/dogecoin-vollendet-bullisches-muster-waehrend-hyper-ueber-3-75-mio-explodiert-14641006",
+    "title": "Dogecoin vollendet bullisches Muster, während HYPER über 3,75 Mio. $ explodiert",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "<p></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mio",
+      "Muster",
+      "HYPER",
+      "Dogecoin",
+      "während",
+      "über",
+      "explodiert",
+      "vollendet",
+      "bullisches"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/lufthansa-aktie-gewerkschaft-der-swiss-piloten-will-gesamtarbeitsvertrag-kuendigen-14641001",
+    "title": "Lufthansa-Aktie: Gewerkschaft der Swiss-Piloten will Gesamtarbeitsvertrag kündigen",
+    "fetched_on": "2025-07-20T10:23:10.353196+00:00",
+    "content": "<p>Aeropers, die Gewerkschaft der Pilotinnen und Piloten, wird den Gesamtarbeitsvertrag mit der Fluggesellschaft Swiss voraussichtlich kündigen.<a href=\"https://www.finanzen.ch/nachrichten/lufthansa-aktie-gewerkschaft-der-swiss-piloten-will-gesamtarbeitsvertrag-kuendigen-1034914939\"></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aeropers",
+      "Gewerkschaft",
+      "Gesamtarbeitsvertrag",
+      "Piloten",
+      "Lufthansa-Aktie",
+      "der",
+      "Pilotinnen",
+      "Fluggesellschaft",
+      "Swiss",
+      "kündigen"
+    ]
   }
 ]
