@@ -43,19 +43,25 @@ jobs:
         run: python scripts/build_daily_company_digest.py
 
       # ────────────────────────────────────────────────────────────────
-      # 5. Commit & push any changes
+      # 5. Refresh aggregate news files
+      # ────────────────────────────────────────────────────────────────
+      - name: Merge into aggregate files
+        run: python scripts/merge_news.py
+
+      # ────────────────────────────────────────────────────────────────
+      # 6. Commit & push any changes
       # ────────────────────────────────────────────────────────────────
       - name: Commit updated JSON
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # ▼ stage the new digest file in addition to the daily news files
-          git add data/news_*.json data/news_filtered_for_companies_of_interest.json
+          # ▼ stage digest, daily files and aggregate files
+          git add data/news_*.json data/news_filtered_for_companies_of_interest.json data/all_news.json
 
           # commit only if there are staged changes
           if ! git diff --cached --quiet; then
-            git commit -m "ci: auto-tag platforms & refresh company digest"
+            git commit -m "ci: auto-tag platforms & refresh aggregates"
             git push
           else
             echo "No changes to commit"
