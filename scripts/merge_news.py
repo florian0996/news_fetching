@@ -52,15 +52,21 @@ def save_json(path: str, data):
 
 def dedupe_news_items(news_list: list) -> list:
     """
-    Deduplicate a list of dicts by 'link', or by 'id', or by the entire object if neither key exists.
-    Returns a new list in which each unique key appears only once, preserving first-seen order.
+    Deduplicate a list of dicts by 'url', 'link' or 'id'. If none of those
+    keys exist the entire object is used as the identifier. The order of the
+    first occurrence of each key is preserved.
     """
     seen_keys = set()
     unique_items = []
 
     for item in news_list:
         if isinstance(item, dict):
-            key = item.get("link") or item.get("id") or json.dumps(item, sort_keys=True)
+            key = (
+                item.get("url")
+                or item.get("link")
+                or item.get("id")
+                or json.dumps(item, sort_keys=True)
+            )
         else:
             key = repr(item)
 
