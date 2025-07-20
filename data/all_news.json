@@ -517956,5 +517956,557 @@
       "Week",
       "Tesla"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-20/japan-s-political-uncertainty-sends-yen-higher-markets-wrap",
+    "title": "Japan’s Political Uncertainty Sends Yen Higher: Markets Wrap",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "The yen strengthened after Japan’s ruling coalition suffered a historic defeat in the weekend’s upper house election, setting the stage for political uncertainty. Asian markets are poised for a mixed start.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Japan",
+      "Political",
+      "Uncertainty",
+      "Higher",
+      "Yen",
+      "Sends",
+      "Wrap",
+      "Markets",
+      "election",
+      "setting"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-20/japan-stock-futures-steady-after-coalition-set-to-lose-majority",
+    "title": "Japan Stock Futures Steady After Coalition Set to Lose Majority",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Japanese stock futures were little changed in early trading after the nation’s ruling coalition was projected to lose its majority in the upper house election.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stock",
+      "Futures",
+      "Lose",
+      "Coalition",
+      "Majority",
+      "Steady",
+      "Set",
+      "Japanese",
+      "Japan",
+      "election"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-07-20/colbert-firing-signals-the-end-of-late-night-tv-and-the-start-of-the-ellison-era",
+    "title": "Colbert Firing Signals the End of Late-Night TV and the Start of the Ellison Era",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "<p><em>The Late Show</em>&nbsp;is the first of the three major late-night talk shows to call it quits. It won’t be the last.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Era",
+      "Late-Night",
+      "Firing",
+      "Signals",
+      "End",
+      "Start",
+      "Ellison",
+      "Late",
+      "Show",
+      "shows"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-07-20/european-union-trade-retaliation-plan-japan-elections-more",
+    "title": "European Union Trade Retaliation Plan, Japan Elections, More",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Source: Bloomberg, 5:21",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "5:21",
+      "Plan",
+      "Japan",
+      "Elections",
+      "Source",
+      "Union",
+      "Trade",
+      "Retaliation",
+      "European"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/television/as-michael-jordan-and-charles-barkley-remain-estranged-one-sports-analyst-is-still-trying-to-bring-them-together",
+    "title": "As Michael Jordan And Charles Barkley Remain Estranged, One Sports Analyst Is Still Trying To Bring Them Together",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Michael Jordan and Charles Barkley were fierce competitors when they faced off against each other in various NBA games during the ‘90s. However, the two also developed a close friendship, which resul… [+3467 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jordan",
+      "Charles",
+      "Michael",
+      "Barkley",
+      "Estranged",
+      "Remain",
+      "Sports",
+      "Analyst",
+      "Bring",
+      "NBA"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/07/19/3118294/0/en/Legal-Tax-Defense-Announces-Expanded-Services-for-Tax-Debt-Relief.html",
+    "title": "Legal Tax Defense Announces Expanded Services for Tax Debt Relief",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Legal Tax Defense, Inc. Logo\r\nLOS ANGELES, July 19, 2025 (GLOBE NEWSWIRE) -- Legal Tax Defense, Inc., a trusted name in tax law representation, announces the expansion of its services through the add… [+3830 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Defense",
+      "Legal",
+      "Expanded",
+      "Debt",
+      "Relief",
+      "Announces",
+      "Services",
+      "July",
+      "Inc."
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2025/07/19/trump-vulnerability-jeffrey-epstein-files-federal-reserve-health-concerns/",
+    "title": "Trump’s ambitions collide with Epstein, Fed and health concerns",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "For President Donald Trump, whose political career has benefited from voter anxiety over Washington elites, the health of his predecessor and the riches of Wall Street, the past week offered a revers… [+6463 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Epstein",
+      "Fed",
+      "Street",
+      "Trump",
+      "President",
+      "Donald",
+      "Washington",
+      "Wall",
+      "health"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/article/usyk-knocks-dubois-become-undisputed-230922284.html",
+    "title": "Usyk knocks out Dubois to become undisputed world heavyweight champion",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Oleksandr Usyk cemented his status as the outstanding heavyweight of his generation with an emphatic fifth-round knockout of Daniel Dubois in their undisputed world title bout at London's Wembley Sta… [+3170 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Sta",
+      "Dubois",
+      "Usyk",
+      "Oleksandr",
+      "Daniel",
+      "London",
+      "Wembley",
+      "undisputed",
+      "world"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/movies/hailee-steinfeld-doing-rom-com-about-olympics-please-tell-me-josh-allen-cameo",
+    "title": "I Just Found Out Hailee Steinfeld's Doing A Rom-Com About The Olympics, And Please Tell Me Josh Allen’s Gonna Cameo?",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "As someone who is a big fan of both romantic comedies and sports movies, imagine my excitement when I found out about Winter Games, an Olympic rom-com set to star Hailee Steinfeld and Miles Teller. I… [+3359 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cameo",
+      "Hailee",
+      "Steinfeld",
+      "Josh",
+      "Allen",
+      "Gonna",
+      "Found",
+      "Rom-Com",
+      "Games",
+      "Teller"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/c30741j351go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "How the rise of green tech is feeding another environmental crisis",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Raquel Celina Rodriguez watches her step as she walks across the Vega de Tilopozo in Chile's Atacama salt flats. \r\nIt's a wetland, known for its groundwater springs, but the plain is now dry and crac… [+12481 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raquel",
+      "Celina",
+      "Rodriguez",
+      "Vega",
+      "Tilopozo",
+      "Chile",
+      "Atacama",
+      "flats",
+      "rise",
+      "green"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/c30741j351go",
+    "title": "How the rise of green tech is feeding another environmental crisis",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Raquel Celina Rodriguez watches her step as she walks across the Vega de Tilopozo in Chile's Atacama salt flats. \r\nIt's a wetland, known for its groundwater springs, but the plain is now dry and crac… [+12480 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raquel",
+      "Celina",
+      "Rodriguez",
+      "Vega",
+      "Tilopozo",
+      "Chile",
+      "Atacama",
+      "flats",
+      "rise",
+      "green"
+    ]
+  },
+  {
+    "source": "Ringside News [NewsAPI]",
+    "url": "https://www.ringsidenews.com/adam-coles-emotional-promo-sparks-serious-concern-his-health/",
+    "title": "Adam Cole’s Emotional Promo Sparks Serious Concern Over His Health",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Jim Cornette is sounding the alarm on Adam Coles healthand he doesnt think this is just part of the show.\r\nOn a recent episode of Jim Cornettes Drive-Thru, the wrestling legend reacted to Adam Coles … [+2156 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Adam",
+      "Jim",
+      "Coles",
+      "Emotional",
+      "Promo",
+      "Sparks",
+      "Concern",
+      "Health",
+      "show",
+      "Cornette"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/?p=782403&preview=true&preview_id=782403",
+    "title": "Incident at Dollywood: Employee Airlifted Out of Park, Investigation Launched",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Dollywood has been fined over an incident at the beloved theme park earlier this year.\r\nInspired by the one and only Dolly Parton, Dollywood has enchanted Pigeon Forge parkgoers of all ages for decad… [+3053 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dollywood",
+      "Employee",
+      "Investigation",
+      "Park",
+      "Airlifted",
+      "Launched",
+      "Incident",
+      "year",
+      "fined",
+      "beloved"
+    ]
+  },
+  {
+    "source": "International Business Times [NewsAPI]",
+    "url": "https://www.ibtimes.com/usyk-knocks-out-dubois-become-undisputed-world-heavyweight-champion-3778935",
+    "title": "Usyk Knocks Out Dubois To Become Undisputed World Heavyweight Champion",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Oleksandr Usyk cemented his status as the outstanding heavyweight of his generation with an emphatic fifth-round knockout of Daniel Dubois in their undisputed world title bout at London's Wembley Sta… [+2935 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Sta",
+      "Dubois",
+      "Undisputed",
+      "World",
+      "Usyk",
+      "Heavyweight",
+      "Knocks",
+      "Champion",
+      "Oleksandr"
+    ]
+  },
+  {
+    "source": "Al Jazeera English [NewsAPI]",
+    "url": "https://www.aljazeera.com/sports/2025/7/19/usyk-knocks-out-dubois-to-unify-heavyweight-boxing-belts",
+    "title": "Usyk knocks out Dubois in fifth to unify heavyweight boxing belts",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Oleksandr Usyk has cemented his status as the outstanding heavyweight of his generation with an emphatic fifth-round knockout of Daniel Dubois in their undisputed world title bout at Londons Wembley … [+2573 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dubois",
+      "chars",
+      "Wembley",
+      "Usyk",
+      "Oleksandr",
+      "Daniel",
+      "Londons",
+      "heavyweight",
+      "knocks",
+      "unify"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/article/usyk-knocks-dubois-become-undisputed-224739518.html",
+    "title": "Usyk knocks out Dubois to become undisputed world heavyweight champion",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Oleksandr Usyk cemented his status as the outstanding heavyweight of his generation with an emphatic fifth-round knockout of Daniel Dubois in their undisputed world title bout at London's Wembley Sta… [+2969 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Sta",
+      "Dubois",
+      "Usyk",
+      "Oleksandr",
+      "Daniel",
+      "London",
+      "Wembley",
+      "undisputed",
+      "world"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/07/boma-best-buffet-in-walt-disney-world-ks1/",
+    "title": "If You Skip This Disney World Buffet, You Are MISSING OUT!",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Lets be honest, one of the most exciting, but also most overwhelming parts of a planning a Walt Disney World Resort vacation is figuring out where you want to eat. There are more than 400 dining opti… [+4347 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buffet",
+      "Disney",
+      "World",
+      "Skip",
+      "MISSING",
+      "Walt",
+      "Resort",
+      "chars",
+      "honest",
+      "exciting"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/stevebaltin/2025/07/19/two-ambitious-projects-bring-alexander-mcqueens-story-to-life/",
+    "title": "Two Ambitious Projects Bring Alexander McQueen’s Story To Life",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "Rick Lazes and Gary McQueen are behind two projects celebrating the life of late designer Alexander ... More Mcqueen.\r\nPhoto Courtesy of House of McQueen\r\nThe late designer Alexander McQueen wasnt ju… [+9932 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alexander",
+      "Projects",
+      "Life",
+      "McQueen",
+      "Ambitious",
+      "Bring",
+      "Story",
+      "Rick",
+      "Lazes",
+      "Gary"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/australias-abacus-storage-king-opens-books-for-141-billion-takeover-bid-4142808",
+    "title": "Australia's Abacus Storage King opens books for $1.41 billion takeover bid",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Abacus",
+      "Storage",
+      "King",
+      "Australia",
+      "billion",
+      "bid",
+      "opens",
+      "books",
+      "takeover"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/ionq-millionaire-maker-stock-220700175.html",
+    "title": "Is IonQ a Millionaire-Maker Stock?",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stock",
+      "IonQ",
+      "Millionaire-Maker"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/the-american-consumer-is-proving-to-be-resilient-at-least-according-to-their-bankers-222724546.html",
+    "title": "The American consumer is proving to be resilient, at least according to their bankers",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "American",
+      "resilient",
+      "bankers",
+      "consumer",
+      "proving"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/articles/corrections-amplifications-c1c46077?siteid=yhoof2&yptr=yahoo",
+    "title": "Corrections & Amplifications",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amplifications",
+      "Corrections"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/scott-trench-don-t-buy-223331289.html",
+    "title": "Scott Trench: Don’t Buy a Rental Property Unless You Have This Financial Cushion",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trench",
+      "Cushion",
+      "Buy",
+      "Rental",
+      "Property",
+      "Financial",
+      "Scott",
+      "n’t"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/best-stock-buy-now-realty-221500025.html",
+    "title": "Best Stock to Buy Right Now: Realty Income vs. W.P. Carey",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Realty",
+      "Stock",
+      "Buy",
+      "Income",
+      "Carey"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/6-best-chatgpt-prompts-high-190003415.html",
+    "title": "I asked ChatGPT for Prompts To Find High-Income Side Gigs — Here are the 6 Best",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gigs",
+      "Prompts",
+      "Find",
+      "Side",
+      "asked",
+      "ChatGPT",
+      "High-Income"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/uber-stock-looks-expensive-does-220500347.html",
+    "title": "Uber Stock Looks Expensive -- or Does It?",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Expensive",
+      "Stock",
+      "Uber"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/could-monster-nvidia-backed-artificial-220200833.html",
+    "title": "Could This Monster Nvidia-Backed Artificial Intelligence (AI) Data Center Stock Be the Best Bargain in the Market Right Now?",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Intelligence",
+      "Data",
+      "Monster",
+      "Artificial",
+      "Center",
+      "Stock",
+      "Bargain",
+      "Market",
+      "Nvidia-Backed"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/lucid-uber-robotaxi-deal-nvidia-220000240.html",
+    "title": "The Lucid-Uber Robotaxi Deal: How Nvidia Will Also Benefit",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deal",
+      "Benefit",
+      "Robotaxi",
+      "Nvidia",
+      "Lucid-Uber"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/top-economist-sounds-alarm-even-205542455.html",
+    "title": "Top economist sounds the alarm even louder on the housing market and says homebuilders are ‘giving up’",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Top",
+      "giving",
+      "up’",
+      "economist",
+      "sounds",
+      "alarm",
+      "louder",
+      "housing",
+      "market",
+      "homebuilders"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/bin-stores-inflation-tariffs-28c0e8ef?siteid=yhoof2&yptr=yahoo",
+    "title": "Bin Stores Are Thriving Among Inflation-Weary Shoppers. What’s the Lure?",
+    "fetched_on": "2025-07-20T23:21:52.127505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shoppers",
+      "Stores",
+      "Thriving",
+      "Bin",
+      "Lure",
+      "Inflation-Weary"
+    ]
   }
 ]
