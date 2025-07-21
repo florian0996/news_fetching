@@ -9,8 +9,6 @@ import pandas as pd
 from datetime import datetime, timezone
 from pathlib import Path
 
-# snapshot timestamp for this run
-FETCHED_ON = datetime.now(timezone.utc).isoformat()
 
 import yake
 kw_extractor = yake.KeywordExtractor(lan="en", n=1, top=10)
@@ -83,11 +81,12 @@ def fetch_finanzen_net():
     for e in feed.entries:
         title = e.title
         content = getattr(e, 'summary', '')
+        now = datetime.now(timezone.utc).isoformat()
         articles.append({
             "source": "Finanzen.net [RSS]",
             "url": e.link,
             "title": title,
-            "fetched_on": FETCHED_ON,
+            "fetched_on": now,
             "content": content,
             "platforms_mentioned": []
         })
@@ -103,11 +102,12 @@ def fetch_bloomberg_rss():
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
             content = getattr(entry, 'summary', entry.get('description', ''))
+            now = datetime.now(timezone.utc).isoformat()
             all_articles.append({
                 "source":         f"Bloomberg – {name} [RSS]",
                 "url":            entry.link,
                 "title":          entry.title,
-                "fetched_on":     FETCHED_ON,
+                "fetched_on":     now,
                 "content":        content,
                 "platforms_mentioned": [],
             })
@@ -143,7 +143,7 @@ def fetch_newsapi():
             "source":            f"{a['source']['name']} [NewsAPI]",
             "url":               a["url"],
             "title":             a["title"],
-            "fetched_on":        FETCHED_ON,
+            "fetched_on":        now,
             "content":           a.get("content") or a.get("description", ""),
             "platforms_mentioned": [],
         }
@@ -161,11 +161,12 @@ def fetch_sec_press_releases():
 
     entries = []
     for e in feed.entries:
+        now = datetime.now(timezone.utc).isoformat()
         entries.append({
             "source":            "SEC Press Releases [RSS]",
             "url":               e.link,
             "title":             e.title,
-            "fetched_on":        FETCHED_ON,
+            "fetched_on":        now,
             "content":           e.get("summary", ""),
             "platforms_mentioned": [],
         })
@@ -222,11 +223,12 @@ def fetch_gnews(QUERY: str, *, max_results: int = PAGE_SIZE) -> list[dict]:
     out = []
     for a in raw:
         src = a.get("source",{}).get("name","Unknown")
+        now = datetime.now(timezone.utc).isoformat()
         out.append({
             "source":         f"{src} [GNews]",
             "url":            a.get("url",""),
             "title":          a.get("title",""),
-            "fetched_on":     FETCHED_ON,
+            "fetched_on":     now,
             "content":        a.get("description","") or a.get("content",""),
             "platforms_mentioned": [],
         })
@@ -282,11 +284,12 @@ def fetch_investing_rss():
     for label, feed_url in feeds.items():
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
+            now = datetime.now(timezone.utc).isoformat()
             articles.append({
                 "source":             label,
                 "url":                entry.link,
                 "title":              entry.title,
-                "fetched_on":         FETCHED_ON,
+                "fetched_on":         now,
                 "content":            entry.get("summary", ""),
                 "platforms_mentioned": [],
             })
@@ -392,11 +395,12 @@ def fetch_crunchbase_sections():
                 if not any(k in txt for k in sec["keywords"]):
                     continue
 
+            now = datetime.now(timezone.utc).isoformat()
             articles.append({
                 "source":        sec["label"],
                 "url":           url,
                 "title":         title,
-                "fetched_on":    FETCHED_ON,
+                "fetched_on":    now,
                 "content":       content_snip,
                 "platforms_mentioned": [],
             })
@@ -431,11 +435,12 @@ def fetch_cnbc_rss():
                 summary = entry.get("description", "")
             published = getattr(entry, "published", entry.get("pubDate", ""))
 
+            now = datetime.now(timezone.utc).isoformat()
             articles.append({
                 "source":           f"{label} [RSS]",
                 "url":              entry.get("link", ""),
                 "title":            entry.get("title", "").strip(),
-                "fetched_on":       FETCHED_ON,
+                "fetched_on":       now,
                 "content":          summary.strip(),
                 "platforms_mentioned": [],
             })
@@ -469,11 +474,12 @@ def fetch_yahoo_rss():
             # published date fallback
             published = getattr(entry, "published", "") or entry.get("pubDate", "")
 
+            now = datetime.now(timezone.utc).isoformat()
             articles.append({
                 "source":       f"{label} [RSS]",
                 "url":          entry.get("link", ""),
                 "title":        entry.get("title", "").strip(),
-                "fetched_on":   FETCHED_ON,
+                "fetched_on":   now,
                 "content":      summary.strip(),
                 "platforms_mentioned": [],
             })
@@ -494,11 +500,12 @@ def fetch_sifted_rss():
 
         for entry in feed.entries:
             content = getattr(entry, "summary", entry.get("description", ""))
+            now = datetime.now(timezone.utc).isoformat()
             articles.append({
                 "source":            f"Sifted — {label} [RSS]",
                 "url":               entry.link,
                 "title":             entry.title,
-                "fetched_on":        FETCHED_ON,
+                "fetched_on":        now,
                 "content":           content,
                 "platforms_mentioned": [],
             })
