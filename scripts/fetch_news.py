@@ -120,6 +120,7 @@ def fetch_bloomberg_rss():
 # ========== NEWSAPI FETCH ==========
 def fetch_newsapi():
     print("Fetching from NewsAPI...")
+    now = datetime.now(timezone.utc).isoformat()
     url = "https://newsapi.org/v2/everything"
     params = {
         "q":        "lending OR credit",
