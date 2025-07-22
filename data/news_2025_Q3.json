@@ -227475,5 +227475,981 @@
       "abstimmen",
       "eine"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-07-22/the-asia-trade-7-22-25-video",
+    "title": "The Asia Trade 7/22/25",
+    "fetched_on": "2025-07-22T04:40:16.498493+00:00",
+    "content": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asia",
+      "Trade",
+      "Bloomberg",
+      "brings",
+      "ahead",
+      "trading",
+      "day",
+      "begins",
+      "Allen",
+      "Source"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-22/putin-restores-stalin-s-victorious-ww2-legacy-as-he-cracks-down-in-russia",
+    "title": "Stalin Makes a Comeback in Putin’s Wartime Crackdown on Dissent",
+    "fetched_on": "2025-07-22T04:40:16.660198+00:00",
+    "content": "At Moscow’s central Taganskaya metro station, commuters stream past a newly-restored monument to a former ruler whose reputation is undergoing a dramatic revision in Russia: Joseph Stalin.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stalin",
+      "Russia",
+      "Joseph",
+      "Makes",
+      "Comeback",
+      "Putin",
+      "Wartime",
+      "Crackdown",
+      "Dissent",
+      "Moscow"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-07-22/pressure-on-powell-ex-officer-in-taylor-case-sentenced-more",
+    "title": "Pressure on Powell, Ex-Officer in Taylor Case Sentenced, More",
+    "fetched_on": "2025-07-22T04:40:16.811523+00:00",
+    "content": "Source: Bloomberg, 5:46",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "5:46",
+      "Powell",
+      "Sentenced",
+      "Source",
+      "Taylor",
+      "Case",
+      "Pressure",
+      "Ex-Officer"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-22/la-times-billionaire-owner-plans-to-take-newspaper-public",
+    "title": "LA Times Billionaire Owner Plans to Take Newspaper Public",
+    "fetched_on": "2025-07-22T04:40:17.307671+00:00",
+    "content": "Patrick Soon-Shiong plans to take the Los Angeles Times public over the next year, the billionaire owner told Jon Stewart on Monday night.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Times",
+      "Billionaire",
+      "Owner",
+      "Plans",
+      "Public",
+      "Newspaper",
+      "Patrick",
+      "Los",
+      "Angeles",
+      "Jon"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-22/nordea-signs-contract-with-swedish-startup-mynt-for-sme-platform",
+    "title": "Nordea Signs Contract With Swedish Startup Mynt for SME Platform",
+    "fetched_on": "2025-07-22T04:40:16.987304+00:00",
+    "content": "Nordea Bank Abp has enlisted the services of Mynt AB, a Swedish startup offering white-label products for the financial services industry, to improve its platform for small and mid-sized companies in the Nordic region.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Swedish",
+      "Mynt",
+      "Startup",
+      "Nordea",
+      "Platform",
+      "Signs",
+      "Contract",
+      "SME",
+      "Bank",
+      "Abp"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-22/bank-of-england-considers-shelving-plans-for-a-digital-pound",
+    "title": "Bank of England Considers Shelving Plans for a Digital Pound",
+    "fetched_on": "2025-07-22T04:40:17.138611+00:00",
+    "content": "Bank of England officials are mulling whether to set aside plans to create a digital pound for households amid growing skepticism over the project’s benefits, the latest sign of dwindling support for state-backed digital currencies globally.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "England",
+      "Digital",
+      "Bank",
+      "Pound",
+      "Plans",
+      "Shelving",
+      "benefits",
+      "globally",
+      "officials",
+      "mulling"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-22/nigeria-to-hold-interest-rates-again-after-inflation-statistics-revamp",
+    "title": "Nigeria Set to Hold Rates Pending Clarity on Inflation Outlook",
+    "fetched_on": "2025-07-22T04:40:17.138632+00:00",
+    "content": "Policymakers at the Central Bank of Nigeria are poised to leave borrowing costs unchanged at their third meeting of the year to gauge the durability of a recent slowdown in inflation.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nigeria",
+      "Inflation",
+      "Set",
+      "Hold",
+      "Rates",
+      "Pending",
+      "Clarity",
+      "Outlook",
+      "Policymakers",
+      "Central"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-22/hungary-to-hold-key-rate-steady-for-10th-month-decision-guide",
+    "title": "Hungary to Hold Key Rate Steady for 10th Month: Decision Guide",
+    "fetched_on": "2025-07-22T04:40:17.138639+00:00",
+    "content": "Hungary’s central bank is poised to keep borrowing costs unchanged for a 10th month after a rebound in inflation.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Month",
+      "Decision",
+      "Hungary",
+      "Hold",
+      "Key",
+      "Rate",
+      "Steady",
+      "Guide",
+      "inflation",
+      "central"
+    ]
+  },
+  {
+    "source": "HYPEBEAST [NewsAPI]",
+    "url": "https://hypebeast.com/2025/7/maurice-medcalfe-bubble-house-new-york-city-for-sale",
+    "title": "NYC’s Iconic Bubble House Hits the Market After 50 Years",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Summary\r\n<ul><li>The Bubble House in Lenox Hill, NYC, is listed at $5.75 million USD, first time in 50 years</li><li>Designed by Maurice Medcalfe, it features 12 oval windows and a Space-Age stucco f… [+1471 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYC",
+      "Years",
+      "Bubble",
+      "House",
+      "Summary",
+      "Hill",
+      "USD",
+      "Designed",
+      "Medcalfe",
+      "chars"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/cicchetti-piccadilly",
+    "title": "Venetian-Style Eatery Designs - Fettle’s Cicchetti Piccadilly Melds Venetian Warmth and Theatrics (TrendHunter.com)",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Fettles Cicchetti Piccadilly melds Venetian warmth and theatrical design in a newly relocated 7,520sqft two-storey space in central London. Inspired by Venetian sunsets and the floating lantern ambia… [+923 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Piccadilly",
+      "Cicchetti",
+      "Melds",
+      "Warmth",
+      "Venetian",
+      "Theatrics",
+      "London",
+      "Fettle",
+      "Fettles",
+      "TrendHunter.com"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/companies/banking-finance/commerce-commission-dismisses-federated-farmers-bank-collusion-claim/EVX66COJX5BT3NSLDKZ4SXKCPQ/",
+    "title": "Commerce Commission dismisses Federated Farmers’ bank collusion claim",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Under the alliance, signatories make public their intentions to ensure the greenhouse gas emissions from their lending and investment portfolios align with net-zero pathways by 2050 or earlier. It do… [+1888 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Commission",
+      "Federated",
+      "Farmers’",
+      "Commerce",
+      "alliance",
+      "signatories",
+      "earlier",
+      "chars",
+      "dismisses",
+      "bank"
+    ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/games/life-is-strange-collection-announced-for-ps5-release/",
+    "title": "Life Is Strange Collection Announced For PS5 Release",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Posted in: Games, Life Is Strange, Square Enix, Video Games | Tagged: life is strange\r\nSquare Enix will release the Life Is Strange Collection for the PS5, as the entire set of games and their DLCs w… [+2338 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Strange",
+      "Life",
+      "Collection",
+      "Square",
+      "Enix",
+      "Tagged",
+      "Games",
+      "Video",
+      "Release",
+      "chars"
+    ]
+  },
+  {
+    "source": "Boredpanda.com [NewsAPI]",
+    "url": "https://www.boredpanda.com/daughter-refuses-help-parents-debt-college-fund/",
+    "title": "Teen Refuses To Sacrifice Her Future To Fix Parents’ Financial Mistakes, They Don’t Take It Well",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Quite often, it’s the parents who sit down for “the talk” when kids start growing up, usually about money, responsibilities, and becoming independent. As young adults, we’re told how important it is … [+6685 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mistakes",
+      "responsibilities",
+      "Refuses",
+      "Sacrifice",
+      "Future",
+      "Fix",
+      "Parents’",
+      "Financial",
+      "Teen",
+      "talk"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/samuel-green-rejoins-goldman-sachs-041744632.html",
+    "title": "Samuel Green rejoins Goldman Sachs to lead real estate investing team in Sydney",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "(Reuters) -Goldman Sachs has appointed Samuel Green as managing director of its Sydney-based real estate investing team, according to an internal memo seen by Reuters on Monday.\r\nGreen, who previousl… [+719 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Goldman",
+      "Sachs",
+      "Reuters",
+      "Samuel",
+      "Sydney",
+      "Monday",
+      "estate",
+      "investing",
+      "Green",
+      "Sydney-based"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-150-pts-nifty-tests-24900-it-bank-stocks-tumble/articleshow/122805538.cms",
+    "title": "Sensex falls over 150 pts, Nifty tests 24,900; IT, bank stocks tumble",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Indian benchmark equity indices turned positive after a flat start on Monday, supported by better-than-expected Q1 earnings from heavyweights HDFC Bank, ICICI Bank, and Reliance Industries, which hel… [+3736 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "bank",
+      "Nifty",
+      "Monday",
+      "ICICI",
+      "Industries",
+      "pts",
+      "chars",
+      "Indian",
+      "HDFC",
+      "Reliance"
+    ]
+  },
+  {
+    "source": "Gizchina.com [NewsAPI]",
+    "url": "https://www.gizchina.com/2025/07/21/why-midrange-tablets-still-havent-figured-out-their-identity-in-2025/",
+    "title": "Why midrange tablets still haven’t figured out their identity in 2025",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Ive tested, reviewed, and used more tablets than I care to count, and yet theres one part of the market I still dont fully understand: midrange tablets. These are the $300$500 slates that try to brid… [+3930 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ive",
+      "tablets",
+      "reviewed",
+      "midrange",
+      "tested",
+      "count",
+      "understand",
+      "n’t",
+      "figured",
+      "identity"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/income-tax-cuts-eased-lending-rates-and-above-normal-rainfall-not-yet-translated-into-revival-of-vehicle-demand-report/article69836826.ece",
+    "title": "Income tax cuts, eased lending rates, and above-normal rainfall, not yet translated into revival of vehicle demand: Report",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "The positive macroeconomic indicators of Indian economy, such as income tax cuts, easing lending rates, and above-normal rainfall, have not yet translated into a revival in vehicle demand in the coun… [+2540 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cuts",
+      "rates",
+      "rainfall",
+      "chars",
+      "Report",
+      "tax",
+      "above-normal",
+      "translated",
+      "Indian",
+      "Income"
+    ]
+  },
+  {
+    "source": "Screen Rant [NewsAPI]",
+    "url": "https://screenrant.com/superman-james-gunn-squirrel-rescue-almost-cut/",
+    "title": "James Gunn Reveals The Superman Scene That Was Heatedly Debated But Ultimately Stayed In The Movie",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "James Gunn addresses the one Superman scene that received unexpected backlash. The DCU's first Superman installment leans heavily on the Man of Steel's lighthearted qualities and hopeful themes. Davi… [+3048 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gunn",
+      "Scene",
+      "James",
+      "Superman",
+      "Reveals",
+      "Heatedly",
+      "Debated",
+      "Ultimately",
+      "Stayed",
+      "Movie"
+    ]
+  },
+  {
+    "source": "Digiday [NewsAPI]",
+    "url": "http://digiday.com/marketing/with-performance-channels-under-scrutiny-these-marketers-are-testing-out-brand-first-strategies/",
+    "title": "With performance channels under scrutiny, these marketers are testing out brand-first strategies",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Amid an uncertain economy, some marketers are reconsidering their former dependence on performance strategies. Theyre not cutting back on digital, though. Instead, theyre running with an updated play… [+6866 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amid",
+      "marketers",
+      "performance",
+      "strategies",
+      "scrutiny",
+      "economy",
+      "Theyre",
+      "channels",
+      "testing",
+      "brand-first"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/toyhill-house",
+    "title": "Circular Usonian Residences - The Toyhill House Brings Wright’s Intersecting Circles to Usonia (TrendHunter.com)",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "The Toyhill Houseofficially the Sol Friedman House is a Usonian home designed by FrankLloydWright in 1948, situated in Pleasantville, NewYork. The design is composed of two intersecting circles: a la… [+965 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Toyhill",
+      "Usonian",
+      "House",
+      "Residences",
+      "Usonia",
+      "Pleasantville",
+      "Brings",
+      "Wright",
+      "Houseofficially",
+      "Sol"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-in-focus-as-q1fy26-net-profit-declines-46-yoy-should-you-buy/articleshow/122805622.cms",
+    "title": "RBL Bank shares in focus as Q1FY26 net profit declines 46% YoY. Should you buy?",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Shares of RBL Bank slid 3% to an intraday low of Rs 255.45 on the BSE on Monday after the private sector lender reported a 46% year-on-year (YoY) decline in its standalone net profit for the first qu… [+2753 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "YoY",
+      "RBL",
+      "Bank",
+      "net",
+      "profit",
+      "focus",
+      "shares",
+      "BSE",
+      "Monday",
+      "chars"
+    ]
+  },
+  {
+    "source": "Christianity.com [NewsAPI]",
+    "url": "https://www.christianity.com/wiki/christian-life/why-is-it-important-for-christians-to-pray-for-and-have-good-discernment.html",
+    "title": "Why is it Important for Christians to Pray for and Have Good Discernment?",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Be careful who you listen to.  \r\nThis advice applies to the people we seek counsel from, the information we consume, and the philosophies we follow. The voices and stories we allow to become a part o… [+9497 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Discernment",
+      "Important",
+      "Christians",
+      "Pray",
+      "Good",
+      "chars",
+      "careful",
+      "listen",
+      "consume",
+      "follow"
+    ]
+  },
+  {
+    "source": "Americanthinker.com [NewsAPI]",
+    "url": "https://www.americanthinker.com/articles/2025/07/leftists_can_t_don_t_won_t_ever_learn.html",
+    "title": "Leftists Can’t-Don’t-Won’t Ever Learn",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Watching leftists endlessly promote the same catastrophic policies is tiresome. Some quotations come to mind:\r\n<ul><li>\"“It isn't so much that liberals are ignorant. It's just that they know so many … [+5499 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Learn",
+      "Watching",
+      "Leftists",
+      "tiresome",
+      "endlessly",
+      "promote",
+      "catastrophic",
+      "policies",
+      "chars",
+      "mind"
+    ]
+  },
+  {
+    "source": "FDA.gov [NewsAPI]",
+    "url": "https://www.fda.gov/medical-devices/medical-device-recalls/applicator-recall-integra-lifesciences-removes-micromyst-applicators-due-potential-sterility",
+    "title": "Applicator Recall: Integra LifeSciences Removes MicroMyst Applicators Due to Potential Sterility Concerns",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "This recall involves removing devices from where they are used or sold. The FDA has identified this recall as the most serious type. This device may cause serious injury or death if you continue to u… [+5278 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Integra",
+      "Removes",
+      "Due",
+      "Potential",
+      "Sterility",
+      "Concerns",
+      "Recall",
+      "Applicator",
+      "sold",
+      "LifeSciences"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/tickets/arsenal/2025-Aug-31/liverpool",
+    "title": "Ticket info: Liverpool v Arsenal",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Below is ticketing information for our Premier League fixture against Liverpool at Anfield on Sunday, August 31 at 16:30 pm.\r\nWe have received an allocation of 3,052 tickets for this fixture, which w… [+5161 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "Liverpool",
+      "Sunday",
+      "Arsenal",
+      "Premier",
+      "League",
+      "Anfield",
+      "info",
+      "chars",
+      "fixture"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/07/his-messy-desk-sparked-his-temper-tantrum-so-the-office-manager-put-important-paperwork-on-the-floor/",
+    "title": "His Messy Desk Sparked His Temper Tantrum, So The Office Manager Put Important Paperwork On The Floor",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Pexels/Reddit\r\nPeople handle stress at work in different ways.\r\nA lot of successful workers get that way by being able to adapt to new situations and, as in this story, new surroundings.\r\nSee how thi… [+2432 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tantrum",
+      "Pexels",
+      "Reddit",
+      "Messy",
+      "Desk",
+      "Sparked",
+      "Temper",
+      "Office",
+      "Manager",
+      "Put"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/google-fast-pair-ui-change-tws-earbuds-3579127/",
+    "title": "Google could soon make a helpful change to Fast Pair UI for TWS earbuds (APK teardown)",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "<ul><li>Google is updating the Fast Pair notification UI for TWS earbuds to make battery status easier to read at a glance.</li><li>The redesigned notifications include circular battery progress bars… [+3145 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TWS",
+      "Fast",
+      "Pair",
+      "Google",
+      "APK",
+      "chars",
+      "earbuds",
+      "teardown",
+      "glance.",
+      "bars"
+    ]
+  },
+  {
+    "source": "7NEWS.com.au [NewsAPI]",
+    "url": "https://7news.com.au/news/paul-hogan-breaks-his-silence-over-wheelchair-photos-they-got-me--c-19400730",
+    "title": "Paul Hogan breaks his silence over wheelchair photos",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "They were the photos that sparked alarm.\r\nPaul Hogan - appearing frail, hunched in a wheelchair - pushed through Sydney Airport as he returned home.\r\nFor months, the questions have swirled. Is Hoges … [+1771 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paul",
+      "Hogan",
+      "photos",
+      "alarm",
+      "wheelchair",
+      "breaks",
+      "silence",
+      "sparked",
+      "Sydney",
+      "Airport"
+    ]
+  },
+  {
+    "source": "PerthNow [NewsAPI]",
+    "url": "https://www.perthnow.com.au/entertainment/influencers/faith-ward-perth-dancer-on-becoming-a-dallas-cowboys-cheerleader-selection-process-and-texas-life-c-19422776",
+    "title": "Faith Ward: Perth dancer on becoming a Dallas Cowboys Cheerleader, selection process and Texas life",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "She came from half a world away, had never held a pair of pom-poms, and was thrown into the worlds most cut-throat cheerleading squad and still, Perths Faith Ward made it.\r\nThe 22-year-old dancer has… [+3981 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ward",
+      "Faith",
+      "Cheerleader",
+      "Perth",
+      "Perths",
+      "Dallas",
+      "Cowboys",
+      "Texas",
+      "selection",
+      "pom-poms"
+    ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/games/new-physics-co-op-game-paddle-paddle-paddle-arrives-this-week/",
+    "title": "New Physics Co-Op Game Paddle Paddle Paddle Arrives This Week",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Posted in: Games, Indie Games, Video Games | Tagged: Paddle Paddle Paddle, Zoroarts\r\nA new fun but frustrating physics game is coming out this week, as Paddle Paddle Paddle will test your friendships… [+2526 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paddle",
+      "Games",
+      "Week",
+      "Game",
+      "Physics",
+      "Tagged",
+      "Indie",
+      "Video",
+      "Zoroarts",
+      "Arrives"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8",
+    "title": "Samsung Galaxy Z Fold 8: Everything we want to see",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Samsung delivered plenty of upgrades with the Galaxy Z Fold 7; the foldable has a thinner and lighter design than its predecessor, and it holds its own against its Chinese rivals in this regard. That… [+3985 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fold",
+      "Galaxy",
+      "Samsung",
+      "Chinese",
+      "predecessor",
+      "regard",
+      "delivered",
+      "plenty",
+      "upgrades",
+      "foldable"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/parliament-session-congress-gives-adjournment-motion-notice-in-lok-sabha-seeks-suspension-of-business-in-rajya-sabha/articleshow/122805416.cms",
+    "title": "Parliament Session: Congress gives Adjournment Motion notice in Lok Sabha, seeks Suspension of Business in Rajya Sabha",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Congress whip in the Lok Sabha Manickam Tagore on Monday gave an Adjournment Motion notice in the Lok Sabha, while Congress Rajya Sabha MP Randeep Surjewala has given a Suspension of Business notice … [+4688 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sabha",
+      "Lok",
+      "Motion",
+      "Congress",
+      "Adjournment",
+      "Suspension",
+      "Business",
+      "Rajya",
+      "notice",
+      "Session"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/snapdragon-8-elite-gen-2-looking-like-best-processor-for-samsung-galaxy-s26_id172442",
+    "title": "Snapdragon 8 Elite Gen 2 is suddenly looking like the best processor for Samsung Galaxy S26",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Many previous rumors since the launch of the Galaxy S25 phones have claimed that Qualcomm is planning a massive price increase for the 8 Elite Gen 2. This was one of the reasons, according to reports… [+1334 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Elite",
+      "Gen",
+      "Galaxy",
+      "Samsung",
+      "Qualcomm",
+      "Snapdragon",
+      "phones",
+      "suddenly",
+      "processor",
+      "previous"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-shares-in-focus-after-q1-pat-zooms-59-yoy/articleshow/122805367.cms",
+    "title": "Yes Bank shares in focus after Q1 PAT zooms 59% YoY",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Shares of Yes Bank are likely to be in focus on Monday, July 21, following the announcement of its strong Q1FY26 results. The private lender reported a 59% year-on-year (YoY) jump in standalone profi… [+1713 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "July",
+      "PAT",
+      "Monday",
+      "shares",
+      "results",
+      "focus",
+      "YoY",
+      "zooms",
+      "strong"
+    ]
+  },
+  {
+    "source": "ScreenCrush [NewsAPI]",
+    "url": "https://screencrush.com/marvel-making-too-much/",
+    "title": "Kevin Feige Says Marvel Was Making ‘Too Much’",
+    "fetched_on": "2025-07-22T04:40:15.823643+00:00",
+    "content": "Marvel Studios chief Kevin Feige now concedes what most Marvel fans have felt for a while: The company was making too many hours of film and television.\r\nSpeaking with The Hollywood Reporter, gave a … [+2450 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marvel",
+      "Feige",
+      "Kevin",
+      "Making",
+      "Much’",
+      "Studios",
+      "television",
+      "Reporter",
+      "chief",
+      "concedes"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/exclusiveindonesia-plans-8-billion-refineries-contract-with-us-firm-amid-tariffs-deal-sources-say-4144946",
+    "title": "Exclusive-Indonesia plans $8 billion refineries contract with US firm amid tariffs deal, sources say",
+    "fetched_on": "2025-07-22T04:40:24.435773+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Exclusive-Indonesia",
+      "plans",
+      "billion",
+      "deal",
+      "sources",
+      "refineries",
+      "contract",
+      "firm",
+      "amid",
+      "tariffs"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/south-park-creators-reach-15-billion-streaming-deal-with-paramount-la-times-reports-4144944",
+    "title": "'South Park' creators reach $1.5 billion streaming deal with Paramount, LA Times reports",
+    "fetched_on": "2025-07-22T04:40:24.435790+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "South",
+      "Park",
+      "Paramount",
+      "Times",
+      "creators",
+      "reach",
+      "billion",
+      "reports",
+      "streaming",
+      "deal"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/ethereums-eth-breaks-3-800-170114052.html",
+    "title": "Ethereum's ETH Breaks $3,800 Amid Massive Whale Buy, Large Capital Inflow",
+    "fetched_on": "2025-07-22T04:40:30.261871+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Breaks",
+      "Amid",
+      "Buy",
+      "Large",
+      "Inflow",
+      "ETH",
+      "Massive",
+      "Whale",
+      "Capital",
+      "Ethereum"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/stagwell-assembly-launches-assembly-control-041429401.html",
+    "title": "Stagwell’s Assembly Launches Assembly Control to Enhance Programmatic Ad Safety",
+    "fetched_on": "2025-07-22T04:40:30.069327+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Safety",
+      "Assembly",
+      "Launches",
+      "Control",
+      "Enhance",
+      "Programmatic",
+      "Stagwell"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/dax-flash-erneute-verluste-neuer-vorstoss-auf-rekord-laesst-auf-sich-warten-14644851",
+    "title": "DAX-FLASH: Erneute Verluste - Neuer Vorstoß auf Rekord lässt auf sich warten",
+    "fetched_on": "2025-07-22T04:40:30.500222+00:00",
+    "content": "<p>FRANKFURT (dpa-AFX) - Der <a href=\"https://www.finanzen.net/index/dax\">DAX</a> bleibt unweit seines Rekordes auf Schlingerkurs. Der Broker IG taxierte den deutschen Leitindex zweieinhalb Stunden vor dem Auftakt des Xetra-Handels rund 0,4 Prozent tiefer auf 24.205 Punkte.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DAX-FLASH",
+      "FRANKFURT",
+      "DAX",
+      "Erneute",
+      "Verluste",
+      "Neuer",
+      "Schlingerkurs",
+      "Der",
+      "Vorstoß",
+      "Rekord"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/scb-x-stellte-ergebnisse-des-abgelaufenen-quartals-vor-14644841",
+    "title": "SCB X stellte Ergebnisse des abgelaufenen Quartals vor",
+    "fetched_on": "2025-07-22T04:40:30.500240+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/scb_x_3-aktie\">SCB X</a> veröffentlichte am 21.07.2025 auf der all-dreimonatlichen Finanzkonferenz die Zahlen zum am 30.06.2025 abgelaufenen Jahresviertel.Im abgelaufenen Quartal wurde ein Ergebnis je Aktie von 0,46 USD eingefahren. Im  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SCB",
+      "USD",
+      "abgelaufenen",
+      "Quartals",
+      "Quartal",
+      "Ergebnisse",
+      "Finanzkonferenz",
+      "Zahlen",
+      "Ergebnis",
+      "Aktie"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/ksolves-india-das-sind-die-juengsten-quartalszahlen-14644840",
+    "title": "Ksolves India: Das sind die jüngsten Quartalszahlen",
+    "fetched_on": "2025-07-22T04:40:30.500247+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/ksolves_india_1-aktie\">Ksolves India</a> lud am 20.07.2025 zur turnusmäßigen Finanzkonferenz und hat dort das Zahlenwerk zum jüngsten Quartal veröffentlicht, das am 30.06.2025 endete.Es wurde ein Ergebnis je Aktie in Höhe von 2,71 INR  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Ksolves",
+      "INR",
+      "Quartalszahlen",
+      "Das",
+      "Finanzkonferenz",
+      "Zahlenwerk",
+      "Quartal",
+      "Ergebnis",
+      "Aktie"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/julien-agro-infratech-zog-bilanz-zum-juengsten-jahresviertel-14644839",
+    "title": "Julien Agro Infratech zog Bilanz zum jüngsten Jahresviertel",
+    "fetched_on": "2025-07-22T04:40:30.500253+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/julien_agro_infratech-aktie\">Julien Agro Infratech</a> hat in der Finanzkonferenz zum Quartalsende am 21.07.2025 die Bücher zum vergangenen Jahresviertel geöffnet, das am 30.06.2025 abgelaufen war.Der Gewinn je Aktie belief sich auf 0,53  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Julien",
+      "Agro",
+      "Infratech",
+      "Jahresviertel",
+      "Bilanz",
+      "Finanzkonferenz",
+      "Quartalsende",
+      "Bücher",
+      "Gewinn",
+      "Aktie"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/shradha-ai-technologies-hat-die-zahlen-zum-juengsten-quartal-vorgelegt-14644838",
+    "title": "Shradha AI Technologies hat die Zahlen zum jüngsten Quartal vorgelegt",
+    "fetched_on": "2025-07-22T04:40:30.500259+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/shradha_ai_technologies-aktie\">Shradha AI Technologies</a> lud am 21.07.2025 zur turnusmäßigen Finanzkonferenz und hat dort das Zahlenwerk zum jüngsten Quartal veröffentlicht, das am 30.06.2025 endete.Es wurde ein Gewinn je Aktie von  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shradha",
+      "Technologies",
+      "Quartal",
+      "jüngsten",
+      "Zahlen",
+      "Finanzkonferenz",
+      "Zahlenwerk",
+      "Gewinn",
+      "Aktie",
+      "zum"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/the-national-bank-of-ras-al-khaimah-psc-bearer-stellte-zahlen-zum-juengsten-quartal-vor-14644837",
+    "title": "The National Bank of Ras Al-Khaimah (PSC) Bearer stellte Zahlen zum jüngsten Quartal vor",
+    "fetched_on": "2025-07-22T04:40:30.500265+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/the_national_bank_of_ras_al-khaimah_(psc)_bearer-aktie\">The National Bank of Ras Al-Khaimah (PSC) Bearer</a> hat am 21.07.2025 Zahlen zum jüngsten Quartal vorgelegt, das am 30.06.2025 endete.Es wurde ein Gewinn je Aktie von 0,33 AED präsentiert.  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PSC",
+      "National",
+      "Bank",
+      "Ras",
+      "Bearer",
+      "Zahlen",
+      "Quartal",
+      "Al-Khaimah",
+      "AED",
+      "bearer-aktie"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/magellanic-cloud-bilanzvorlage-zum-letzten-quartal-14644836",
+    "title": "Magellanic Cloud: Bilanzvorlage zum letzten Quartal",
+    "fetched_on": "2025-07-22T04:40:30.500270+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/magellanic_cloud-aktie\">Magellanic Cloud</a> hat am 21.07.2025 das Zahlenwerk zum am 30.06.2025 ausgelaufenen Quartal vorgelegt.Der Gewinn je Aktie lag bei 0,47 INR. Im Vorjahresviertel waren 0,450 INR je Aktie erzielt worden.Der Umsatz  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cloud",
+      "Magellanic",
+      "Quartal",
+      "Bilanzvorlage",
+      "INR",
+      "Aktie",
+      "Zahlenwerk",
+      "Gewinn",
+      "href",
+      "hat"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/bansal-wire-industries-hat-bilanz-fuer-das-abgelaufene-quartal-gezogen-14644835",
+    "title": "Bansal Wire Industries hat Bilanz für das abgelaufene Quartal gezogen",
+    "fetched_on": "2025-07-22T04:40:30.500276+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/bansal_wire_industries-aktie\">Bansal Wire Industries</a> hat in der Finanzkonferenz zum Quartalsende am 21.07.2025 die Bücher zum vergangenen Jahresviertel geöffnet, das am 30.06.2025 abgelaufen war.In Sachen EPS wurden 2,51 INR je Aktie  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bansal",
+      "Wire",
+      "Industries",
+      "INR",
+      "Aktie",
+      "Bilanz",
+      "Quartal",
+      "Finanzkonferenz",
+      "Quartalsende",
+      "Bücher"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/purple-finance-stellte-quartalsergebnis-zum-abgelaufenen-jahresviertel-vor-14644834",
+    "title": "Purple Finance stellte Quartalsergebnis zum abgelaufenen Jahresviertel vor",
+    "fetched_on": "2025-07-22T04:40:30.500282+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/purple_finance-aktie\">Purple Finance</a> hat am 21.07.2025 die Geschäftsergebnisse zum am 30.06.2025 abgelaufenen Quartal offengelegt.Für das jüngste Jahresviertel wies das Unternehmen ein EPS von -0,89 INR je Aktie aus. Ein Jahr zuvor  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Purple",
+      "Finance",
+      "Jahresviertel",
+      "INR",
+      "Quartalsergebnis",
+      "Geschäftsergebnisse",
+      "Quartal",
+      "Unternehmen",
+      "EPS",
+      "Aktie"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/scb-x-informierte-ueber-die-juengsten-quartalsergebnisse-14644833",
+    "title": "SCB X informierte über die jüngsten Quartalsergebnisse",
+    "fetched_on": "2025-07-22T04:40:30.500288+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/scb_x_2-aktie\">SCB X</a> hat am 21.07.2025 die Bilanz für das jüngste Quartal veröffentlicht, das zum 30.06.2025 abgelaufen war.Das EPS wurde auf 3,80 THB beziffert. Im Vorjahresquartal hatten 2,97 THB je Aktie in den Büchern gestanden.Auf  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SCB",
+      "Quartalsergebnisse",
+      "THB",
+      "Bilanz",
+      "Quartal",
+      "EPS",
+      "href",
+      "hat",
+      "veröffentlicht",
+      "zum"
+    ]
   }
 ]
