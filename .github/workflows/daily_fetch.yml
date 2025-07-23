@@ -59,7 +59,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/news_*.json data/finanzen_*.json data/all_news.json
+          # only add the files your script actually outputs:
+          git add data/news_*.json data/all_news.json
           git add -u data/
           git commit -m "Daily news update $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
 
