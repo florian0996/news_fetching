@@ -413716,5 +413716,866 @@
       "hier",
       "ein"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-26/dancers-and-a-dam-world-bank-hones-new-strategy-in-mozambique",
+    "title": "Dancers and a Dam: World Bank Hones New Strategy in Mozambique",
+    "fetched_on": "2025-07-26T05:23:47.217644+00:00",
+    "content": "World Bank chief Ajay Banga’s visit to Mozambique this month at the invitation of President Daniel Chapo to discuss a $6.4 billion hydropower project the lender is helping fund had all the hallmarks of a political rally.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Bank",
+      "Mozambique",
+      "Dam",
+      "Hones",
+      "Strategy",
+      "Ajay",
+      "Banga",
+      "President",
+      "Daniel"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-07-26/g-20-search-for-consensus-bloomberg-next-africa",
+    "title": "G-20 Search for Consensus | Bloomberg Next Africa",
+    "fetched_on": "2025-07-26T05:23:47.560606+00:00",
+    "content": "Group of 20 finance ministers and central bankers met in Ballito, South Africa, earlier in July. This episode of Bloomberg Next Africa looks at how South Africa is using its G-20 presidency to highlight issues faced by the entire the continent while also delving into the country's aims for the group ahead of the leaders' summit later this year. Big banks are also in focus as Capitec -- South Africa's fastest growing bank -- enters a new phase with its new leadership. Also on the show: The head of Kenya's largest lender, Equity Bank, discusses navigating uncertainty in Kenyan and Congolese markets along with plans for Middle East expansion.  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Africa",
+      "South",
+      "Bloomberg",
+      "Search",
+      "Consensus",
+      "Ballito",
+      "July",
+      "Group",
+      "finance",
+      "earlier"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/features/2025-07-26/voters-in-wales-eye-nigel-farage-s-reform-uk-as-useless-labour-s-appeal-wanes",
+    "title": "Welsh Voters Eye Reform as ‘Useless’ Labour’s Appeal Diminishes",
+    "fetched_on": "2025-07-26T05:23:47.560625+00:00",
+    "content": "<p>Voters in Wales are peeling away from Labour in favor of minor parties, a trend that threatens to turn&nbsp;Nigel Farage’s Reform UK into the biggest party in the Welsh Senedd next year.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Voters",
+      "Reform",
+      "Labour",
+      "Useless’",
+      "Diminishes",
+      "Welsh",
+      "Eye",
+      "Appeal",
+      "Wales",
+      "Nigel"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/vinklu",
+    "title": "Boldly Designed Minimal Cafes - Boiler Coffee Opens a Serene Spot in a Narrow Urban Gap (TrendHunter.com)",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Boiler Coffees newest location in Bucharest redefines whats possible in tight urban spaces. Designed by Vinklu, the café transforms a narrow 2.4-meter alley between two buildings into a tranquil arch… [+743 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Boiler",
+      "Urban",
+      "Cafes",
+      "Gap",
+      "Coffee",
+      "Coffees",
+      "Minimal",
+      "Opens",
+      "Serene",
+      "Spot"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/friendlystack-reminder",
+    "title": "Digital Sticky Reminders - FriendlyStack Reminder Brings Emails to Life as Playful Desktop Notes (TrendHunter.com)",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "The FriendlySTACK Reminder is a delightful DIY desktop gadget that transforms your emails into real-time digital sticky notes, turning the mundane flow of communication into something visual, interac… [+810 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Notes",
+      "Reminder",
+      "Sticky",
+      "TrendHunter.com",
+      "interac",
+      "chars",
+      "Emails",
+      "Desktop",
+      "Brings",
+      "Life"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/stock-markets/bajaj-finance-shares-fall-6-on-asset-quality-credit-costs-msme-stress/article69853574.ece",
+    "title": "Bajaj Finance shares fall 6% on asset quality, credit costs & MSME stress",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Shares of Bajaj Finance fell 6 per cent in early trade on Friday amid concerns over MSME stress, deteriorating asset quality and elevated credit costs.\r\nThe NBFC posted a consolidated net profit of 4… [+1783 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "MSME",
+      "costs",
+      "Bajaj",
+      "shares",
+      "Friday",
+      "asset",
+      "quality",
+      "credit",
+      "stress"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/news/sports/humpy-sets-up-all-indian-final-with-divya-at-fide-womens-world-cup/article69853576.ece",
+    "title": "Humpy sets up all-Indian final with Divya at FIDE Women’s World Cup",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Grandmaster Koneru Humpy held her nerves to score a come-from-behind victory over China'sTIngjie Lei in the tiebreaker to set up an all-Indian summit clash against Divya Deshmukh at the FIDE Women's … [+1991 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FIDE",
+      "Women",
+      "chars",
+      "Divya",
+      "Humpy",
+      "World",
+      "Cup",
+      "Grandmaster",
+      "Koneru",
+      "Lei"
+    ]
+  },
+  {
+    "source": "7NEWS.com.au [NewsAPI]",
+    "url": "https://7news.com.au/news/nsw-mp-gareth-ward-guilty-of-sexual-intercourse-without-consent-and-indecent-assault-c-19472025",
+    "title": "NSW MP Gareth Ward guilty of sexual intercourse without consent and indecent assault",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Kiama MP Gareth Ward has been found guilty of sexual intercourse without consent and indecent assault.\r\nThe 44-year-old state MP and former NSW Minister for Families, Communities and Disability Servi… [+1793 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gareth",
+      "Ward",
+      "sexual",
+      "intercourse",
+      "consent",
+      "indecent",
+      "Kiama",
+      "guilty",
+      "assault",
+      "NSW"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/california-water-cwt-steady-utility-050801130.html",
+    "title": "California Water (CWT): A Steady Utility Stock You Might Be Missing",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "California Water Service Group (NYSE:CWT) was recently included on our list of Dividend Champion vs Aristocrats: 12 Under the Radar Stocks to Buy.\r\nCalifornia Water (CWT): A Steady Utility Stock You … [+2036 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CWT",
+      "NYSE",
+      "Water",
+      "Group",
+      "Aristocrats",
+      "Buy",
+      "Steady",
+      "Utility",
+      "California",
+      "Stock"
+    ]
+  },
+  {
+    "source": "Newsonjapan.com [NewsAPI]",
+    "url": "https://newsonjapan.com/article/146453.php",
+    "title": "All Tokyo Metro Lines to Allow Tap Payments",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "TOKYO, Jul 25 (News On Japan) -\r\n From spring 2026, passengers will be able to ride the entire Tokyo Metro network using contactless payments via credit cards or smartphones, without the need for tic… [+761 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tokyo",
+      "Jul",
+      "Metro",
+      "Japan",
+      "chars",
+      "Payments",
+      "Lines",
+      "Tap",
+      "spring",
+      "passengers"
+    ]
+  },
+  {
+    "source": "Crosswalk.com [NewsAPI]",
+    "url": "https://www.crosswalk.com/devotionals/your-daily-prayer/a-prayer-when-we-go-on-vacation.html",
+    "title": "A Prayer for When We Go on Vacation - Your Daily Prayer - July 25",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "A Prayer for When We Go on VacationBy Kyle Norman\r\nBible Reading:Jesus said to them Come away with me. Let us go alone to a quiet place and rest a while. - Mark 6:31\r\nListen or Read Below:\r\nSummer ha… [+5635 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Prayer",
+      "July",
+      "Vacation",
+      "Reading",
+      "Jesus",
+      "Daily",
+      "Kyle",
+      "Norman",
+      "Bible",
+      "VacationBy"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/25/share-repurchase-program-declared-by-lexinfintech-nasdaqlx-board/",
+    "title": "Share Repurchase Program Declared by LexinFintech (NASDAQ:LX) Board",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "LexinFintech (NASDAQ:LX – Get Free Report) announced that its Board of Directors has authorized a share buyback program on Thursday, July 24th, RTT News reports. The company plans to repurchase $0.00… [+1970 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "July",
+      "Board",
+      "Thursday",
+      "RTT",
+      "LexinFintech",
+      "Program",
+      "Declared",
+      "Free",
+      "Directors"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/exploring-ios-26-beta-4/",
+    "title": "Exploring iOS 26 Beta 4: What’s Been Added",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Apple has officially released the fourth developer beta of iOS 26, showcasing a variety of updates aimed at improving functionality, enhancing visual appeal, and expanding customization options. Thes… [+5571 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "iOS",
+      "Beta",
+      "Added",
+      "Apple",
+      "Exploring",
+      "showcasing",
+      "functionality",
+      "enhancing",
+      "appeal",
+      "options"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/uperfect-omega",
+    "title": "Portable Dual Displays - The UPERFECT Omega Monitor Folds in Half for Travel-Ready Productivity (TrendHunter.com)",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "The UPERFECT Omega isnt just a sleek gadgetits a full-fledged 4K dual-screen monitor that folds neatly in half, merging compact portability with expanded productivity. Designed for remote workers, tr… [+808 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UPERFECT",
+      "Omega",
+      "Productivity",
+      "Displays",
+      "Half",
+      "TrendHunter.com",
+      "Monitor",
+      "Folds",
+      "Dual",
+      "Portable"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/sport/gaelic-games/2025/07/25/kerrys-gavin-white-on-going-from-a-complete-malfunction-to-the-all-ireland-final/",
+    "title": "Kerry’s Gavin White on going from a ‘complete malfunction’ to the All-Ireland final",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "As Kerry football captain for a second term, Gavin White felt some obligation to sit down and watch Donegal face Meath in the second All-Ireland semi-final last Sunday week. With Kerrys passage alrea… [+4751 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gavin",
+      "White",
+      "Donegal",
+      "Meath",
+      "Sunday",
+      "All-Ireland",
+      "Kerry",
+      "complete",
+      "term",
+      "week"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/opinion/2025/07/25/justine-mccarthy-thirty-two-children-from-the-west-bank-watched-the-all-ireland-in-jordan-this-wasnt-the-plan/",
+    "title": "Justine McCarthy: Thirty two children from the West Bank watched the All-Ireland in Jordan. This wasn’t the plan",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "The cheering coming from a hotel room in Amman last Sunday sprang from an astonishing source. Gathered in front of a big screen, 32 Palestinian children from the West Bank were watching the All-Irela… [+6664 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Thirty",
+      "Jordan",
+      "West",
+      "Bank",
+      "Justine",
+      "McCarthy",
+      "children",
+      "watched",
+      "All-Ireland",
+      "Amman"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/your-money/2025/07/25/here-are-the-key-budget-decisions-facing-ministers-and-what-they-will-mean-for-your-pocket/",
+    "title": "Here are the key budget decisions facing Ministers and what they will mean for your pocket",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Octobers budget is quickly coming into focus, with the Government publishing a key pre-budget document, the summer economic statement, this week. \r\nAnd Ministers face a string of key decisions about … [+7349 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Octobers",
+      "Government",
+      "Ministers",
+      "budget",
+      "focus",
+      "document",
+      "statement",
+      "week",
+      "key",
+      "decisions"
+    ]
+  },
+  {
+    "source": "Sporting News [NewsAPI]",
+    "url": "https://www.sportingnews.com/us/cricket/news/watch-west-indies-australia-free-live-stream-tv-channel-time-3rd-t20/aaa734bd473a469fc2cf2131",
+    "title": "Where to watch West Indies vs. Australia free live stream, TV channel, start time for 3rd T20 match",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "After whitewashing West Indies in the Test series, Australia will look to clinch the T20I series as well when they take on the home team in the 3rd T20I on Friday.\r\nShai Hope's West Indies are on the… [+5922 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Australia",
+      "West",
+      "Indies",
+      "Friday",
+      "Test",
+      "series",
+      "stream",
+      "channel",
+      "start",
+      "match"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/sport/gaelic-games/2025/07/25/joe-canning-long-winter-for-cork-as-they-come-to-terms-with-being-outfoxed-by-tipp-when-victory-was-in-sight/",
+    "title": "Joe Canning: Long winter for Cork as they come to terms with being outfoxed by Tipp when victory was in sight",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Hindsight is easy. Its what everyone does as soon as the final whistle blows. Its what were doing here now. But before you knew what happened next, put yourself in the Cork dressing room at half-time… [+5598 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canning",
+      "Long",
+      "Tipp",
+      "Hindsight",
+      "Joe",
+      "easy",
+      "Cork",
+      "winter",
+      "terms",
+      "outfoxed"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/culture/music/2025/07/25/veronica-electronica-by-madonna-lost-album-is-like-a-postcard-from-the-edge-of-the-rave-era/",
+    "title": "Veronica Electronica by Madonna: Lost album is like a postcard from the edge of the rave era",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Artist:Veronica Electronica\r\nFrom Taylor Swift to Beyoncé, pop star reinventions are a dime a dozen nowadays. But that was not the case in February 1998, when Madonna ended a four-year recording sile… [+4533 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Veronica",
+      "Electronica",
+      "Lost",
+      "Artist",
+      "Beyoncé",
+      "Taylor",
+      "Swift",
+      "Madonna",
+      "pop",
+      "nowadays"
+    ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/news/manchester-united-told-price-to-solve-striker-issue-report",
+    "title": "Manchester United told price to solve striker issue: report",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Manchester United’s attention can now turn to finding a new striker, and have discovered the cost of one of their top targets.\r\nThe early part of the summer has been dominated by the Red Devils recru… [+2492 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "United",
+      "Manchester",
+      "striker",
+      "issue",
+      "report",
+      "targets",
+      "told",
+      "price",
+      "solve",
+      "attention"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/siladityaray/2025/07/25/subsidiesdo-not-exist-musk-dismisses-trumps-apparent-overture-wanting-him-to-thrive/",
+    "title": "‘Subsidies…Do Not Exist’: Musk Dismisses Trump’s Apparent Overture Wanting Him To ‘Thrive’",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Elon Musk on Thursday insisted that his companies do not receive any special subsidies or favorable contracts from the federal government, as he dismissed an apparent peace offering from President Do… [+4131 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Musk",
+      "Exist’",
+      "Thrive’",
+      "chars",
+      "Subsidies",
+      "Apparent",
+      "Dismisses",
+      "Trump",
+      "Overture",
+      "Wanting"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-infra-reliance-power-shares-slide-10-in-2-days-after-ed-raids-sites-linked-to-anil-ambani/articleshow/122895407.cms",
+    "title": "Reliance Infra, Reliance Power shares slide 10% in 2 days after ED raids sites linked to Anil Ambani",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Shares of Reliance Infrastructure and Reliance Power have dropped 10% over two sessions, hitting their lower circuits of 5% on Friday after the Enforcement Directorate (ED) raided multiple premises l… [+3290 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reliance",
+      "Power",
+      "Infra",
+      "Directorate",
+      "shares",
+      "chars",
+      "Anil",
+      "Ambani",
+      "Infrastructure",
+      "Friday"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/populus-seattle",
+    "title": "Nature-Inspired Brick Properties - Populus Seattle Channels the Spirit of the Pacific Northwest (TrendHunter.com)",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Populus Seattle blurs the line between interior design and nature by drawing direct inspiration from the landscapes of the Pacific Northwest. Created by HKS and Harwell Godfrey Studio, the hotels des… [+848 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Populus",
+      "Northwest",
+      "Pacific",
+      "Seattle",
+      "Properties",
+      "Brick",
+      "Channels",
+      "Spirit",
+      "TrendHunter.com",
+      "Nature-Inspired"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/07/oblivious-woman-is-busy-chatting-on-the-phone-so-she-is-shocked-to-find-out-that-she-greenlit-a-grocery-payment-that-left-her-with-no-change/",
+    "title": "Oblivious Woman Is Busy Chatting On The Phone, So She Is Shocked To Find Out That She Greenlit A Grocery Payment That Left Her With No Change",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Reddit/Pexels\r\nMulti-tasking is so commonplace now, but if you can’t do it well what’s the point?\r\nImagine being distracted by your phone while paying for your grocery store purchase. That probably w… [+2880 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reddit",
+      "Pexels",
+      "Woman",
+      "Busy",
+      "Chatting",
+      "Shocked",
+      "Find",
+      "Greenlit",
+      "Payment",
+      "Left"
+    ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/games/battle-beast-joins-invincible-vs-roster-during-san-diego-comic-con/",
+    "title": "Battle Beast Joins Invincible VS Roster During San Diego Comic-Con",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Posted in: Games, Skybound Entertainment, Video Games | Tagged: Invincible VS, Quarter Up, Skybound Games\r\nA new character for Invincible VS was revealed during San Diego Comic-Con, as Battle Beast w… [+2543 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Invincible",
+      "San",
+      "Diego",
+      "Skybound",
+      "Tagged",
+      "Games",
+      "Beast",
+      "Battle",
+      "Entertainment",
+      "Video"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/zakdoffman/2025/07/25/fbi-warning-do-not-install-these-apps/",
+    "title": "FBI Warning—Do Not Install This App On Your PC Or Smartphone",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "It starts with a message it ends with you losing your life savings.\r\nNurPhoto via Getty Images\r\nRepublished on July 25 with information on new tactics as attacks evolve.\r\nIt starts with an unsolicite… [+7029 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FBI",
+      "Warning",
+      "Install",
+      "App",
+      "Smartphone",
+      "savings",
+      "starts",
+      "message",
+      "ends",
+      "losing"
+    ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/movies/stephen-kings-the-girl-who-loved-tom-gordon-heads-to-lionsgate/",
+    "title": "Stephen King's The Girl Who Loved Tom Gordon Heads To Lionsgate",
+    "fetched_on": "2025-07-26T05:23:45.683424+00:00",
+    "content": "Posted in: Lionsgate, Movies | Tagged: lionsgate, stephen king, the girl who loved tom gordon\r\nLionsgate has tapped JT Mollner to adapt and direct a film version of Stephen King's The Girl Who Loved … [+2383 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Girl",
+      "King",
+      "Loved",
+      "Lionsgate",
+      "Stephen",
+      "Tom",
+      "Movies",
+      "Tagged",
+      "Gordon",
+      "chars"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/qqq-attracts-1-4b-nasdaq-223000614.html",
+    "title": "QQQ Attracts $1.4B as Nasdaq Surges Past 21,000",
+    "fetched_on": "2025-07-26T05:24:18.142741+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "QQQ",
+      "Attracts",
+      "Past",
+      "Nasdaq",
+      "Surges"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/cotton-holds-onto-thursday-gains-223122414.html",
+    "title": "Cotton Holds onto Thursday Gains",
+    "fetched_on": "2025-07-26T05:24:18.142750+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gains",
+      "Holds",
+      "Thursday",
+      "Cotton"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/her-husband-didnt-pay-82-223145213.html",
+    "title": "Her Husband Didn't Pay $82,000 In Taxes And Now The IRS Plans To Levy Their Home. She's Divorcing Him, But Still Wants To Bail Him Out",
+    "fetched_on": "2025-07-26T05:24:18.142759+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pay",
+      "Home",
+      "Husband",
+      "Taxes",
+      "IRS",
+      "Plans",
+      "Levy",
+      "Divorcing",
+      "Bail"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/watch-chipotle-stock-price-levels-223737545.html",
+    "title": "Watch These Chipotle Stock Price Levels After Post-Earnings Plunge",
+    "fetched_on": "2025-07-26T05:24:18.142814+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Plunge",
+      "Chipotle",
+      "Stock",
+      "Price",
+      "Levels",
+      "Watch",
+      "Post-Earnings"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-credit-cardholders-should-know-2025-215423049.html",
+    "title": "What credit cardholders should know for 2025: Predictions, interest rates, changing benefits, and more",
+    "fetched_on": "2025-07-26T05:24:18.143044+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Predictions",
+      "interest",
+      "rates",
+      "changing",
+      "benefits",
+      "credit",
+      "cardholders"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-happens-if-you-exceed-your-credit-limit-180743802.html",
+    "title": "What happens if you exceed your credit limit, and how to avoid doing so — even if you can pay it off",
+    "fetched_on": "2025-07-26T05:24:18.143052+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "limit",
+      "exceed",
+      "credit",
+      "avoid",
+      "pay"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/vc-victor-lazarte-leaving-benchmark-224245621.html",
+    "title": "VC Victor Lazarte is leaving Benchmark to launch his own firm",
+    "fetched_on": "2025-07-26T05:24:18.142967+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Victor",
+      "Lazarte",
+      "Benchmark",
+      "firm",
+      "leaving",
+      "launch"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-happens-if-you-miss-a-credit-card-payment-133408532.html",
+    "title": "What happens if you miss a credit card payment?",
+    "fetched_on": "2025-07-26T05:24:18.143076+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "payment",
+      "miss",
+      "credit",
+      "card"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-happens-if-you-stop-paying-credit-cards-201022171.html",
+    "title": "What happens if you stop paying your credit cards?",
+    "fetched_on": "2025-07-26T05:24:18.143091+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cards",
+      "stop",
+      "paying",
+      "credit"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/so-koennen-whatsapp-nachrichten-schneller-gelesen-werden-14660104",
+    "title": "So können WhatsApp-Nachrichten schneller gelesen werden",
+    "fetched_on": "2025-07-26T05:24:18.516049+00:00",
+    "content": "<p>Die Nachrichtenflut bei WhatsApp ist teilweise unüberschaubar. Um möglichst wenig Zeit mit dem Lesen einzelner Nachrichten zu verbringen, gibt es sowohl bei Android als auch bei iOS eine einfache Möglichkeit.<a href=\"https://www.finanzen.ch/nachrichten/so-koennen-whatsapp-nachrichten-schneller-gelesen-werden-1030780099\"></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Die",
+      "Nachrichtenflut",
+      "werden",
+      "unüberschaubar",
+      "bei",
+      "können",
+      "WhatsApp-Nachrichten",
+      "schneller",
+      "gelesen",
+      "WhatsApp"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/storagevault-canada-so-schnitt-der-konzern-im-vergangenen-quartal-ab-14660090",
+    "title": "Storagevault Canada: So schnitt der Konzern im vergangenen Quartal ab",
+    "fetched_on": "2025-07-26T05:24:18.516062+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/storagevault_canada_1-aktie\">Storagevault Canada</a> gab am 23.07.2025 die Zahlen für das am 30.06.2025 abgelaufene Quartal bekannt.Es wurde ein Verlust je Aktie von 0,06 USD gegenüber -0,080 USD im Vorjahresquartal verkündet.Der Umsatz  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canada",
+      "Storagevault",
+      "USD",
+      "Umsatz",
+      "Quartal",
+      "Konzern",
+      "Zahlen",
+      "Verlust",
+      "Aktie",
+      "Vorjahresquartal"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/indogulf-cropsciences-so-viel-setzte-das-unternehmen-zuletzt-um-14660089",
+    "title": "Indogulf Cropsciences: So viel setzte das Unternehmen zuletzt um",
+    "fetched_on": "2025-07-26T05:24:18.516068+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/indogulf_cropsciences-aktie\">Indogulf Cropsciences</a> hat am 25.07.2025 das Zahlenwerk zum am 31.03.2025 abgelaufenen Jahresviertel vorgestellt.Der Gewinn je Aktie für das Gesamtjahr wurde auf 7,02 INR beziffert. Im Vorjahr waren 5,79  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cropsciences",
+      "Indogulf",
+      "INR",
+      "Unternehmen",
+      "Zahlenwerk",
+      "Jahresviertel",
+      "Gewinn",
+      "Aktie",
+      "Gesamtjahr",
+      "das"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/loblaw-companies-gab-ergebnis-zum-abgelaufenen-quartal-bekannt-14660088",
+    "title": "Loblaw Companies gab Ergebnis zum abgelaufenen Quartal bekannt",
+    "fetched_on": "2025-07-26T05:24:18.516074+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/loblaw_companies_3-aktie\">Loblaw Companies</a> ließ sich am 24.07.2025 in die Bücher schauen: Auf der vierteljährlichen Finanzkonferenz hat Loblaw Companies die Bilanz zum am 30.06.2025 beendeten Jahresviertel offengelegt.Das Ergebnis  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Companies",
+      "Loblaw",
+      "Ergebnis",
+      "Auf",
+      "Quartal",
+      "Bücher",
+      "Finanzkonferenz",
+      "Bilanz",
+      "Jahresviertel",
+      "bekannt"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/bajaj-finance-quartalsergebnisse-zum-juengsten-jahresviertel-14660087",
+    "title": "Bajaj Finance: Quartalsergebnisse zum jüngsten Jahresviertel",
+    "fetched_on": "2025-07-26T05:24:18.516079+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/bajaj_finance_3-aktie\">Bajaj Finance</a> hat am 24.07.2025 in der Finanzkonferenz die Quartalszahlen zum jüngsten Jahresviertel – Abschlussdatum 30.06.2025 – vorgestellt.Es wurde ein Gewinn je Aktie von 7,57 INR präsentiert. Im Vorjahresquartal  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "Jahresviertel",
+      "Bajaj",
+      "Abschlussdatum",
+      "Quartalsergebnisse",
+      "INR",
+      "jüngsten",
+      "Finanzkonferenz",
+      "Quartalszahlen",
+      "Gewinn"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/deckers-outdoor-verkuendete-quartalsergebnis-zum-juengsten-jahresviertel-14660086",
+    "title": "Deckers Outdoor verkündete Quartalsergebnis zum jüngsten Jahresviertel",
+    "fetched_on": "2025-07-26T05:24:18.516084+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/deckers_outdoor_1-aktie\">Deckers Outdoor</a> hat am 24.07.2025 Zahlen zum jüngsten Quartal vorgelegt, das am 30.06.2025 endete.Der Gewinn je Aktie wurde auf 26735,32 ARS beziffert. Im Vorjahresquartal waren 16676,84 ARS je Aktie in den  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deckers",
+      "Outdoor",
+      "Jahresviertel",
+      "Zahlen",
+      "ARS",
+      "Aktie",
+      "Quartalsergebnis",
+      "Quartal",
+      "Gewinn",
+      "zum"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/pt-indonesia-kendaraan-terminal-tbk-registered-hat-bilanz-fuer-das-abgelaufene-quartal-gezogen-14660085",
+    "title": "PT Indonesia Kendaraan Terminal Tbk Registered hat Bilanz für das abgelaufene Quartal gezogen",
+    "fetched_on": "2025-07-26T05:24:18.516090+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/pt_indonesia_kendaraan_terminal_tbk_registered-aktie\">PT Indonesia Kendaraan Terminal Tbk Registered</a> hat am 24.07.2025 in der Finanzkonferenz die Quartalszahlen zum jüngsten Jahresviertel – Abschlussdatum 30.06.2025 – vorgestellt.Es  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Abschlussdatum",
+      "Indonesia",
+      "Kendaraan",
+      "Terminal",
+      "Tbk",
+      "Registered",
+      "vorgestellt.Es",
+      "Jahresviertel",
+      "Bilanz",
+      "Quartal"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/indigrid-infrastructure-trust-series-iv-informierte-ueber-die-juengsten-quartalsergebnisse-14660084",
+    "title": "IndiGrid Infrastructure Trust Series - IV informierte über die jüngsten Quartalsergebnisse",
+    "fetched_on": "2025-07-26T05:24:18.516095+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/indigrid_infrastructure_trust_series_-_iv-aktie\">IndiGrid Infrastructure Trust Series - IV</a> äußerte sich am 24.07.2025 zu den Geschäftsergebnissen des am 30.06.2025 abgelaufenen Quartals.Das EPS belief sich auf 0,87 INR gegenüber 1,71  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Series",
+      "Infrastructure",
+      "Trust",
+      "IndiGrid",
+      "Quartalsergebnisse",
+      "INR",
+      "Geschäftsergebnissen",
+      "EPS",
+      "href",
+      "äußerte"
+    ]
   }
 ]
