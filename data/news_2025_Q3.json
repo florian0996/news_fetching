@@ -436637,5 +436637,45 @@
       "Clean",
       "breaks"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-07-27/eu-agrees-to-pay-15-tariff-on-most-exports-to-us",
+    "title": "EU Agrees to Pay 15% Tariff on Most Exports to US",
+    "fetched_on": "2025-07-27T22:20:51.110136+00:00",
+    "content": "Good morning. The US and EU strike a deal. A new premium credit card joins the fray. And China moves to launch an international AI organization. Listen to the day’s top stories.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pay",
+      "Tariff",
+      "Agrees",
+      "Exports",
+      "Good",
+      "morning",
+      "deal",
+      "China",
+      "strike",
+      "fray"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/07/26/massachusetts-ags-credit-card-spending-stirs-debate-between-gop-gubernatorial-candidates/",
+    "title": "Massachusetts AG’s credit card spending stirs debate between GOP gubernatorial candidates",
+    "fetched_on": "2025-07-27T22:20:49.990721+00:00",
+    "content": "Massachusetts Attorney General Andrea Campbells spending habits with her taxpayer-funded credit card are stirring a debate between a pair of Republicans looking to become the Bay States next governor… [+2377 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Massachusetts",
+      "GOP",
+      "Attorney",
+      "General",
+      "Andrea",
+      "Campbells",
+      "Republicans",
+      "Bay",
+      "States"
+    ]
   }
 ]
