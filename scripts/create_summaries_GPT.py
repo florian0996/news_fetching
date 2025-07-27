@@ -10,7 +10,7 @@ create_summaries_GPT.py
                   under weekly_summary[YYYY-Www]. 1st sentence must start with
                   "Calendar Week <N> summary …".
 """
-import os, sys, json, re, glob, textwrap, itertools, pathlib, datetime as dt
+import os, sys, argparse, json, re, glob, textwrap, itertools, pathlib, datetime as dt
 import openai
 
 # --- Configuration ---
