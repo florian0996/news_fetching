@@ -10,8 +10,9 @@ create_summaries_GPT.py
                   under weekly_summary[YYYY-Www]. 1st sentence must start with
                   "Calendar Week <N> summary …".
 """
-import os, sys, argparse, json, re, glob, textwrap, itertools, pathlib, datetime as dt
-import openai
+import os, sys, argparse, json, re, pathlib
+from datetime import date
+from openai import OpenAI
 
 # --- Configuration ---
 # Base directory of the project (assumes this script lives in scripts/)
@@ -19,11 +20,12 @@ BASE_DIR   = pathlib.Path(__file__).resolve().parent.parent
 DATA_DIR   = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "summaries"
 
-# Ensure OpenAI key is set in env
-openai.api_key = os.getenv("OPENAI_API_KEY")
-if not openai.api_key:
+# Ensure OpenAI key is set in env and initialize client
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
     print("ERROR: OPENAI_API_KEY environment variable not set.")
     sys.exit(1)
+client = OpenAI(api_key=api_key)
 
 
 def latest_news_file() -> tuple[str, list[dict]]:
@@ -59,45 +61,43 @@ def summarize_daily(date_str: str, articles: list[dict]) -> str:
         snippets.append(f"- {title}: {desc}")
     prompt_body = "\n".join(snippets)
 
-    system = {
-        "role":    "system",
-        "content": (
-            "You are an expert news summarizer. "            
-            "Produce a concise, forward-looking daily briefing."
-        )
-    }
-    user = {
-        "role":    "user",
-        "content": (
-            f"Here are today's news items for {date_str}:\n"
-            f"{prompt_body}\n\n"
+    # Build message list
+    messages = [
+        {"role": "system", "content": (
+            "You are an expert news summarizer. Produce a concise, forward-looking daily briefing."
+        )},
+        {"role": "user", "content": (
+            f"Here are today's news items for {date_str}:\n{prompt_body}\n\n"
             "Write me a 3–5 sentence summary highlighting key trends and implications."
-        )
-    }
+        )}
+    ]
 
-    resp = openai.ChatCompletion.create(
+    # Call new OpenAI client
+    response = client.chat.completions.create(
         model="gpt-3.5-turbo",
-        messages=[system, user],
+        messages=messages,
         temperature=0.7,
         max_tokens=300,
     )
-    return resp.choices[0].message.content.strip()
+    return response.choices[0].message.content.strip()
 
 
 def summarize_weekly(date_str: str, articles: list[dict]) -> str:
     """Generate a weekly analysis summary via GPT."""
-    system = {"role": "system", "content": "You are an expert weekly news analyst."}
-    user   = {"role": "user",   "content": (
-        f"Summarize the key themes and forward-looking insights for the week ending {date_str}. "
-        "Focus on developments that will matter next week."
-    )}
-    resp = openai.ChatCompletion.create(
+    messages = [
+        {"role": "system", "content": "You are an expert weekly news analyst."},
+        {"role": "user",   "content": (
+            f"Summarize the key themes and forward-looking insights for the week ending {date_str}. "
+            "Focus on developments that will matter next week."
+        )}
+    ]
+    response = client.chat.completions.create(
         model="gpt-3.5-turbo",
-        messages=[system, user],
+        messages=messages,
         temperature=0.7,
         max_tokens=400,
     )
-    return resp.choices[0].message.content.strip()
+    return response.choices[0].message.content.strip()
 
 
 def main():
@@ -122,8 +122,7 @@ def main():
     # Write output
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     out_file = OUTPUT_DIR / f"summary_{args.mode}_{date_str}.md"
-    with open(out_file, "w") as f:
-        f.write(summary)
+    out_file.write_text(summary)
     print(f"✔️ Wrote {out_file}")
 
 
