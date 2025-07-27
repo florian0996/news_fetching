@@ -86,7 +86,7 @@ def summarize_weekly(date_str: str, articles: list[dict]) -> str:
     """Generate a weekly analysis summary via GPT."""
     messages = [
         {"role": "system", "content": "You are an expert weekly news analyst."},
-        {"role": "user",   "content": (
+        {"role": "user", "content": (
             f"Summarize the key themes and forward-looking insights for the week ending {date_str}. "
             "Focus on developments that will matter next week."
         )}
@@ -119,11 +119,23 @@ def main():
     else:
         summary = summarize_weekly(date_str, articles)
 
-    # Write output
+    # Write output Markdown
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     out_file = OUTPUT_DIR / f"summary_{args.mode}_{date_str}.md"
     out_file.write_text(summary)
     print(f"✔️ Wrote {out_file}")
+
+    # Update JSON summary file
+    JSON_PATH = DATA_DIR / "summary_GPT_3.5.json"
+    if JSON_PATH.exists():
+        json_data = json.loads(JSON_PATH.read_text())
+    else:
+        json_data = {"daily_summary": {}, "weekly_summary": {}}
+    key = "daily_summary" if args.mode == "daily" else "weekly_summary"
+    json_data[key][date_str] = summary
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    JSON_PATH.write_text(json.dumps(json_data, indent=2))
+    print(f"✔️ Updated {JSON_PATH}")
 
 
 if __name__ == "__main__":
