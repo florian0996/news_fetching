@@ -13,89 +13,120 @@ create_summaries_GPT.py
 import os, sys, json, re, glob, textwrap, itertools, pathlib, datetime as dt
 import openai
 
-# ─── configuration ─────────────────────────────────────────────────────────
-ROOT      = pathlib.Path(__file__).resolve().parents[1]   # repo root
-DATA_DIR  = ROOT / "data"
-OUT_PATH  = DATA_DIR / "summary GPT 3.5.json"
-MODEL     = "gpt-3.5-turbo"
+# --- Configuration ---
+# Base directory of the project (assumes this script lives in scripts/)
+BASE_DIR   = pathlib.Path(__file__).resolve().parent.parent
+DATA_DIR   = BASE_DIR / "data"
+OUTPUT_DIR = BASE_DIR / "summaries"
+
+# Make sure OpenAI key is set in env
 openai.api_key = os.getenv("OPENAI_API_KEY")
-# ───────────────────────────────────────────────────────────────────────────
+if not openai.api_key:
+    print("ERROR: OPENAI_API_KEY environment variable not set.")
+    sys.exit(1)
+
 
 def latest_news_file() -> tuple[str, list[dict]]:
-    """Return (date_str, articles[]) for the most-recent raw JSON file."""
-    files = sorted(glob.glob(str(DATA_DIR / "news_*.json")))
+    """Return (date_str, articles[]) for the most-recent raw JSON file in data/."""
+    # 1) Glob only the dumps we expect
+    files = list(DATA_DIR.glob("news_*.json"))
     if not files:
-        print("::notice ::No raw news files present")
+        print("::notice ::No raw news files present in {}".format(DATA_DIR))
         sys.exit(0)
-    latest = files[-1]
-    date_str = re.search(r"news_(\d{4}-\d{2}-\d{2})", latest).group(1)
-    return date_str, json.load(open(latest))
 
-def seven_recent_articles() -> tuple[str, list[dict]]:
-    """Return (ISO-week key, aggregated_articles[]) from last seven files."""
-    files = sorted(glob.glob(str(DATA_DIR / "news_*.json")), reverse=True)[:7]
-    if not files:
-        print("::notice ::No raw news files present")
-        sys.exit(0)
-    articles = list(itertools.chain.from_iterable(json.load(open(f)) for f in files))
-    today = dt.date.today()
-    iso_year, iso_week, _ = today.isocalendar()
-    return f"{iso_year}-W{iso_week:02d}", articles
+    # 2) Pick the file with the latest modified timestamp
+    latest = max(files, key=lambda p: p.stat().st_mtime)
 
-def gpt_summary(prompt: str, max_tokens: int) -> str:
+    # 3) Sanity-check the filename and extract date
+    fname = latest.name  # e.g. "news_2025-07-27.json"
+    m = re.match(r"^news_(\d{4}-\d{2}-\d{2})\.json$", fname)
+    if not m:
+        raise RuntimeError(f"Unexpected news filename format: {fname}")
+    date_str = m.group(1)
+
+    # 4) Load and return
+    articles = json.loads(latest.read_text())
+    return date_str, articles
+
+
+def summarize_daily(date_str: str, articles: list[dict]) -> str:
+    """Generate a daily summary via GPT."""
+    # Build your prompt from the articles list
+    snippets = []
+    for art in articles:
+        title = art.get("title") or ""
+        desc  = art.get("description") or art.get("content") or ""
+        snippets.append(f"- {title}: {desc}")
+    prompt_body = "\n".join(snippets)
+
+    system = {
+        "role":    "system",
+        "content": (
+            "You are an expert news summarizer. "            
+            "Produce a concise, forward-looking daily briefing."
+        )
+    }
+    user = {
+        "role":    "user",
+        "content": (
+            f"Here are today's news items for {date_str}:\n"
+            f"{prompt_body}\n\n"
+            "Write me a 3–5 sentence summary highlighting key trends and implications."
+        )
+    }
+
     resp = openai.ChatCompletion.create(
-        model=MODEL,
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.2,
-        max_tokens=max_tokens,
+        model="gpt-3.5-turbo",            # adjust model as needed
+        messages=[system, user],
+        temperature=0.7,
+        max_tokens=300,
     )
     return resp.choices[0].message.content.strip()
 
+
+def summarize_weekly(date_str: str, articles: list[dict]) -> str:
+    """Generate a weekly analysis summary via GPT."""
+    # (Implement similarly, grouping by theme/date)
+    system = {"role": "system", "content": "You are an expert weekly news analyst."}
+    user   = {"role": "user",   "content": (
+        f"Summarize the key themes and forward-looking insights for the week ending {date_str}. "
+        "Focus on developments that will matter next week."
+    )}
+    resp = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",            # adjust model as needed
+        messages=[system, user],
+        temperature=0.7,
+        max_tokens=400,
+    )
+    return resp.choices[0].message.content.strip()
+
+
 def main():
-    mode = (sys.argv[1] if len(sys.argv) > 1 else "daily").lower()
-    if mode not in {"daily", "weekly"}:
-        sys.exit("Usage: create_summaries_GPT.py [daily|weekly]")
+    # Parse arguments
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "mode",
+        choices=["daily", "weekly"],
+        help="Which summary mode to run."
+    )
+    args = parser.parse_args()
 
-    # ------------------------------------------------ daily mode ----------
-    if mode == "daily":
-        date_str, articles = latest_news_file()
-        prompt = textwrap.dedent(f"""
-            Provide an objective news summary (3–5 sentences) for analysts.
-            Date: {date_str}
-            ---
-        """) + "\n\n".join(f"{a.get('title')}\n{a.get('content')}" for a in articles)
+    # Fetch the most recent news
+    date_str, articles = latest_news_file()
 
-        summary_txt = gpt_summary(prompt, max_tokens=600)
+    # Generate summary
+    if args.mode == "daily":
+        summary = summarize_daily(date_str, articles)
+    else:
+        summary = summarize_weekly(date_str, articles)
 
-        key_path = ("daily_summary", date_str)
+    # Write output
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_file = OUTPUT_DIR / f"summary_{args.mode}_{date_str}.md"
+    with open(out_file, "w") as f:
+        f.write(summary)
+    print(f"✔️ Wrote {out_file}")
 
-    # ------------------------------------------------ weekly mode ---------
-    else:  # weekly
-        week_key, articles = seven_recent_articles()
-        iso_week_num = week_key.split("-W")[1]
-        prompt = textwrap.dedent(f"""
-            Summarise the following {len(articles)} news items in 12–15 sentences.
-            Tone: objective, analyst-friendly.
-            First sentence must begin: "Calendar Week {iso_week_num} summary".
-            ---
-        """) + "\n\n".join(f"{a.get('title')}\n{a.get('content')}" for a in articles)
-
-        summary_txt = gpt_summary(prompt, max_tokens=1200)
-
-        key_path = ("weekly_summary", week_key)
-
-    # -------------------------- write / update output JSON ---------------
-    doc = {"daily_summary": {}, "weekly_summary": {}}
-    if OUT_PATH.exists():
-        doc.update(json.load(open(OUT_PATH)))
-
-    parent_key, child_key = key_path
-    doc[parent_key][child_key] = summary_txt
-
-    with open(OUT_PATH, "w") as f:
-        json.dump(doc, f, ensure_ascii=False, indent=2)
-
-    print(f"Wrote {parent_key[:-8]} summary for {child_key} → {OUT_PATH.relative_to(ROOT)}")
 
 if __name__ == "__main__":
     main()
