@@ -31,7 +31,7 @@ def latest_news_file() -> tuple[str, list[dict]]:
     # 1) Glob only the dumps we expect
     files = list(DATA_DIR.glob("news_*.json"))
     if not files:
-        print("::notice ::No raw news files present in {}".format(DATA_DIR))
+        print(f"::notice ::No raw news files present in {DATA_DIR}")
         sys.exit(0)
 
     # 2) Pick the file with the latest modified timestamp
@@ -51,7 +51,6 @@ def latest_news_file() -> tuple[str, list[dict]]:
 
 def summarize_daily(date_str: str, articles: list[dict]) -> str:
     """Generate a daily summary via GPT."""
-    # Build your prompt from the articles list
     snippets = []
     for art in articles:
         title = art.get("title") or ""
@@ -76,7 +75,7 @@ def summarize_daily(date_str: str, articles: list[dict]) -> str:
     }
 
     resp = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",            # adjust model as needed
+        model="gpt-3.5-turbo",
         messages=[system, user],
         temperature=0.7,
         max_tokens=300,
@@ -86,14 +85,13 @@ def summarize_daily(date_str: str, articles: list[dict]) -> str:
 
 def summarize_weekly(date_str: str, articles: list[dict]) -> str:
     """Generate a weekly analysis summary via GPT."""
-    # (Implement similarly, grouping by theme/date)
     system = {"role": "system", "content": "You are an expert weekly news analyst."}
     user   = {"role": "user",   "content": (
         f"Summarize the key themes and forward-looking insights for the week ending {date_str}. "
         "Focus on developments that will matter next week."
     )}
     resp = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",            # adjust model as needed
+        model="gpt-3.5-turbo",
         messages=[system, user],
         temperature=0.7,
         max_tokens=400,
