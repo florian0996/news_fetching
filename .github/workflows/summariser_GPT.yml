@@ -31,12 +31,9 @@ jobs:
         run: python scripts/create_summaries_GPT.py ${{ github.event.inputs.mode }}
 
       - name: Commit & push if changed
-        env:
-          GH_EMAIL: ${{ secrets.GH_EMAIL }}
-          GH_NAME:  ${{ secrets.GH_NAME }}
         run: |
-          git config --global user.email "$GH_EMAIL"
-          git config --global user.name  "$GH_NAME"
-          git add data/'summary_GPT_3.5.json'
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git config user.name  "${{ github.actor }}"
+          git add data/summary_GPT_3.5.json
           git diff --cached --quiet || git commit -m "bot: update ${{ github.event.inputs.mode }} summary"
           git push
