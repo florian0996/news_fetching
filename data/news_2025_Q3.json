@@ -436577,5 +436577,45 @@
       "Rising",
       "debt"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/new-age-lending-model-helping-banks-to-cut-costs-and-meet-customer-expectations/articleshow/122927723.cms",
+    "title": "New-Age lending model helping banks to cut costs and meet customer expectations",
+    "fetched_on": "2025-07-27T20:23:48.822031+00:00",
+    "content": "Are you a couch potato? 8 moves you can do while watching TV",
+    "platforms_mentioned": [],
+    "keywords": [
+      "New-Age",
+      "potato",
+      "lending",
+      "model",
+      "helping",
+      "banks",
+      "cut",
+      "costs",
+      "meet",
+      "customer"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/07/chinese-nationals-dominate-foreign-purchase-us-homes-83/",
+    "title": "Chinese Nationals Dominate Foreign Purchase of US Homes-83% Jump from Prior Year",
+    "fetched_on": "2025-07-27T20:23:48.822031+00:00",
+    "content": "Image:Wikicommons/ Credit: David Shankbone\r\nAs Americans, especially younger generations, struggle to achieve a slice of the American dream by purchasing a home, Chinese buyers continue to snap up pr… [+2725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wikicommons",
+      "Credit",
+      "Chinese",
+      "chars",
+      "Jump",
+      "Image",
+      "David",
+      "Nationals",
+      "Dominate",
+      "Foreign"
+    ]
   }
 ]
