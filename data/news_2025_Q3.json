@@ -436016,5 +436016,65 @@
       "credit",
       "holds"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5cf7c7b6bbfb1166",
+    "title": "Will a Fed interest rate cut shake up your finances next week?",
+    "fetched_on": "2025-07-27T14:19:13.237500+00:00",
+    "content": "Your mortgage, credit cards, and savings are vibing on high alert right now.Anticipation is palpable among U.S. consumers, businesses and investors as the Federal Reserves Federal Open Market Committ… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "week",
+      "Federal",
+      "consumers",
+      "chars",
+      "Committ",
+      "interest",
+      "rate",
+      "cut",
+      "shake"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/fake-app-alerts-how-to-spot-fraud-in-loan-upi-and-credit-score-apps",
+    "title": "Fake App Alerts: How to Spot Fraud In Loan, UPI And Credit Score Apps",
+    "fetched_on": "2025-07-27T14:19:13.237500+00:00",
+    "content": "With the emergence of innovative technology, one of the sectors that has witnessed a massive transformation is the financial services industry. From applying for a loan to making payments via UPI, ev… [+582 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alerts",
+      "Spot",
+      "Fraud",
+      "Credit",
+      "Score",
+      "UPI",
+      "App",
+      "Apps",
+      "Loan",
+      "Fake"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/fc867cbb32f88866",
+    "title": "Tesla investors are growing wary of Elon Musk's futuristic promises",
+    "fetched_on": "2025-07-27T14:19:13.237500+00:00",
+    "content": "At Tesla, vehicle sales are slumping, profits are thinning and revenue from regulatory credit sales are poised to dry up due to Republican-led policy changes.In the past, CEO Elon Musk's futuristic p… [+131 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Musk",
+      "Elon",
+      "CEO",
+      "Tesla",
+      "chars",
+      "futuristic",
+      "sales",
+      "Republican-led",
+      "vehicle",
+      "slumping"
+    ]
   }
 ]
