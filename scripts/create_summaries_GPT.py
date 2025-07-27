@@ -19,7 +19,7 @@ BASE_DIR   = pathlib.Path(__file__).resolve().parent.parent
 DATA_DIR   = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "summaries"
 
-# Make sure OpenAI key is set in env
+# Ensure OpenAI key is set in env
 openai.api_key = os.getenv("OPENAI_API_KEY")
 if not openai.api_key:
     print("ERROR: OPENAI_API_KEY environment variable not set.")
@@ -27,21 +27,22 @@ if not openai.api_key:
 
 
 def latest_news_file() -> tuple[str, list[dict]]:
-    """Return (date_str, articles[]) for the most-recent raw JSON file in data/."""
-    # 1) Glob only the dumps we expect
-    files = list(DATA_DIR.glob("news_*.json"))
+    """Return (date_str, articles[]) for the most-recent daily JSON file in data/."""
+    # 1) Glob only daily dumps YYYY-MM-DD
+    pattern = "news_[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"
+    files = list(DATA_DIR.glob(pattern))
     if not files:
-        print(f"::notice ::No raw news files present in {DATA_DIR}")
+        print(f"::notice ::No daily news files present in {DATA_DIR}")
         sys.exit(0)
 
     # 2) Pick the file with the latest modified timestamp
     latest = max(files, key=lambda p: p.stat().st_mtime)
 
-    # 3) Sanity-check the filename and extract date
+    # 3) Extract date from filename
     fname = latest.name  # e.g. "news_2025-07-27.json"
     m = re.match(r"^news_(\d{4}-\d{2}-\d{2})\.json$", fname)
     if not m:
-        raise RuntimeError(f"Unexpected news filename format: {fname}")
+        raise RuntimeError(f"Unexpected daily news filename format: {fname}")
     date_str = m.group(1)
 
     # 4) Load and return
@@ -109,7 +110,7 @@ def main():
     )
     args = parser.parse_args()
 
-    # Fetch the most recent news
+    # Fetch the most recent daily news
     date_str, articles = latest_news_file()
 
     # Generate summary
