@@ -37,8 +37,9 @@ def latest_news_file() -> tuple[str, list[dict]]:
         print(f"::notice ::No daily news files present in {DATA_DIR}")
         sys.exit(0)
 
-    # 2) Pick the file with the latest modified timestamp
-    latest = max(files, key=lambda p: p.stat().st_mtime)
+    # 2) Pick the file with the highest YYYY-MM-DD in its filename
+    files.sort(key=lambda p: p.name)   # e.g. news_2025-07-27 < news_2025-07-28
+    latest = files[-1]
 
     # 3) Extract date from filename
     fname = latest.name  # e.g. "news_2025-07-27.json"
