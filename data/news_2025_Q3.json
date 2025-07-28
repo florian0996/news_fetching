@@ -437326,5 +437326,145 @@
       "Rule",
       "Today"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-28/insurer-pzu-eyes-seed-funding-role-for-big-polish-projects",
+    "title": "Insurer PZU Eyes Seed Funding Role for Big Polish Projects",
+    "fetched_on": "2025-07-28T12:49:43.392084+00:00",
+    "content": "Polish insurer PZU SA envisages playing a key role in attracting financing for the country’s big-ticket energy and infrastructure projects after it completes a merger with Bank Pekao SA.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PZU",
+      "Polish",
+      "Role",
+      "Projects",
+      "Eyes",
+      "Seed",
+      "Funding",
+      "Big",
+      "Bank",
+      "Pekao"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-28/sun-king-wins-citi-backed-loan-to-boost-kenya-solar-power-access",
+    "title": "Sun King Wins Citi-Backed Loan to Boost Kenya Solar Power Access",
+    "fetched_on": "2025-07-28T12:49:41.636582+00:00",
+    "content": "Sun King, the world’s largest off-grid solar company, has secured $156 million in financing backed by Citigroup Inc. and British International Investment to boost access to affordable solar power across Kenya.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "King",
+      "Kenya",
+      "Solar",
+      "Sun",
+      "Boost",
+      "Power",
+      "Access",
+      "Wins",
+      "Loan",
+      "Citigroup"
+    ]
+  },
+  {
+    "source": "Viewfromthewing.com [NewsAPI]",
+    "url": "https://viewfromthewing.com/grandma-heading-to-meet-newborn-grandchild-leaps-from-first-class-seat-tackles-passenger-storming-cockpit-roundup/",
+    "title": "Grandma Heading To Meet Newborn Grandchild Leaps From First Class Seat, Tackles Passenger Storming Cockpit [Roundup]",
+    "fetched_on": "2025-07-28T12:49:40.347940+00:00",
+    "content": "Total new credit-card openings across four major lenders fell 5% in the second quarter, marking the first decline in more than a year.\r\nAt American Express, new account openings fell 6% from a year e… [+501 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Roundup",
+      "Seat",
+      "Tackles",
+      "Cockpit",
+      "Total",
+      "Heading",
+      "Meet",
+      "Newborn",
+      "Grandchild",
+      "Leaps"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://idle.slashdot.org/story/25/07/27/0532227/chuck-e-cheese-handcuffed-and-arrested-in-florida-charged-with-using-a-stolen-credit-card",
+    "title": "'Chuck E. Cheese' Handcuffed and Arrested in Florida, Charged with Using a Stolen Credit Card",
+    "fetched_on": "2025-07-28T12:49:40.347940+00:00",
+    "content": "NBC News reports:\r\nCustomers watched in disbelief as Florida police arrested a Chuck E. Cheese employee — in costume portraying the pizza-hawking rodent — and accused him of using a stolen credit car… [+1400 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stolen",
+      "Chuck",
+      "Cheese",
+      "Florida",
+      "Credit",
+      "Handcuffed",
+      "Charged",
+      "Customers",
+      "chars",
+      "Arrested"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/canara-bank-may-sell-its-excess-priority-sector-loans-in-q2-md-raju-11753615690662.html",
+    "title": "Canara Bank may sell its excess priority sector loans in Q2: MD Raju",
+    "fetched_on": "2025-07-28T12:49:40.347940+00:00",
+    "content": "New Delhi, Jul 27 (PTI) State-owned Canara Bank plans to sell its excess priority sector loans in the ongoing quarter to compensate for the stress on margins due to moderation in interest rates. \r\n D… [+2499 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Jul",
+      "PTI",
+      "Canara",
+      "Delhi",
+      "State-owned",
+      "excess",
+      "priority",
+      "sector",
+      "loans"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/07/disney-sends-warning-to-guests-staying-on-property-this-fall-th1/",
+    "title": "Disney Sends Warning to Guests Staying on Property This Fall",
+    "fetched_on": "2025-07-28T12:49:40.347940+00:00",
+    "content": "Disney has issued a warning for guests staying at this hotel from next month.\r\nCredit: Disney\r\nThe Walt Disney World Resort comprises over 25 hotel resorts catering to all budgets and needs. From the… [+2454 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Guests",
+      "Staying",
+      "Disney",
+      "Warning",
+      "Sends",
+      "Property",
+      "Fall",
+      "month",
+      "hotel",
+      "issued"
+    ]
+  },
+  {
+    "source": "Good News Network [NewsAPI]",
+    "url": "https://www.goodnewsnetwork.org/this-bracelet-from-meta-translates-hand-movements-into-computer-actions/",
+    "title": "This Bracelet from Meta Translates Hand Movements into Computer Actions",
+    "fetched_on": "2025-07-28T12:49:40.347940+00:00",
+    "content": "Meta’s Neuromotor Interface – credit, Reality Labs, via Springer Press\r\nA very sci-fi invention has been introduced by engineers from Facebook’s parent company that translates hand gestures into comp… [+2411 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "chars",
+      "Interface",
+      "Reality",
+      "Labs",
+      "Meta",
+      "Translates",
+      "Hand",
+      "Bracelet",
+      "Movements"
+    ]
   }
 ]
