@@ -437149,5 +437149,122 @@
       "world",
       "stage"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-28/ardagh-creditors-agree-to-take-over-packaging-firm-from-coulson",
+    "title": "Irish Tycoon Coulson Cedes Control of Ardagh to Creditors",
+    "fetched_on": "2025-07-28T10:25:40.639187+00:00",
+    "content": "Ardagh Group SA has agreed a debt restructuring that will see some of its creditors take over the whole business from Irish billionaire Paul Coulson.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coulson",
+      "Ardagh",
+      "Irish",
+      "Creditors",
+      "Tycoon",
+      "Cedes",
+      "Control",
+      "Group",
+      "Paul",
+      "agreed"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/divine-research-issues-30000-unbacked-crypto-loans-world-id",
+    "title": "Divine Research issues unbacked crypto loans using Sam Altman’s World ID",
+    "fetched_on": "2025-07-28T10:25:39.745892+00:00",
+    "content": "San Francisco-based lender Divine Research has issued around 30,000 unbacked short-term crypto loans since December, using OpenAI CEO Sam Altmans iris-scanning platform World ID to verify borrowers.\r… [+2672 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Research",
+      "Sam",
+      "World",
+      "December",
+      "Divine",
+      "San",
+      "Francisco-based",
+      "CEO",
+      "Altman",
+      "Altmans"
+    ]
+  },
+  {
+    "source": "Pittsburgh Post-Gazette [NewsAPI]",
+    "url": "https://www.post-gazette.com/business/powersource/2025/07/27/pennsylvania-solar-clean-energy/stories/202507270047",
+    "title": "Cuts to clean energy credits in GOP spending bill rattle Pennylvania's solar industry",
+    "fetched_on": "2025-07-28T10:25:39.745892+00:00",
+    "content": "MENU",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MENU",
+      "GOP",
+      "Pennylvania",
+      "Cuts",
+      "clean",
+      "energy",
+      "credits",
+      "spending",
+      "bill",
+      "rattle"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-july-27-2025-100006947.html",
+    "title": "HELOC rates today, July 27, 2025: The home equity line of credit rate holds steady through the weekend",
+    "fetched_on": "2025-07-28T10:25:39.745892+00:00",
+    "content": "The HELOC interest rate remains attractive this weekend, and introductory rates are even better. A home equity line of credit could be a sensible option for a homeowner who wants to access some of th… [+4186 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "July",
+      "equity",
+      "line",
+      "weekend",
+      "home",
+      "credit",
+      "rates",
+      "rate",
+      "today"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-monday-july-28-2025-100023811.html",
+    "title": "The HELOC rate today, July 28 2025: The home equity line of credit rate is locked-in to start Fed week",
+    "fetched_on": "2025-07-28T10:26:11.772482+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "HELOC",
+      "Fed",
+      "today",
+      "week",
+      "rate",
+      "home",
+      "equity",
+      "line",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/credit-card-users-are-cautious-now-rate-cuts-could-open-the-floodgates-55227817?siteid=yhoof2&yptr=yahoo",
+    "title": "Credit-Card Users Are Cautious Now. Rate Cuts Could Open the Floodgates.",
+    "fetched_on": "2025-07-28T10:26:11.772523+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Users",
+      "Cautious",
+      "Credit-Card",
+      "Floodgates",
+      "Cuts",
+      "Open",
+      "Rate"
+    ]
   }
 ]
