@@ -438152,5 +438152,65 @@
       "credit",
       "cards"
     ]
+  },
+  {
+    "source": "/FILM [NewsAPI]",
+    "url": "https://www.slashfilm.com/1920124/sons-of-anarchy-what-does-samcro-stand-for/",
+    "title": "Sons Of Anarchy: What Does SAMCRO Stand For?",
+    "fetched_on": "2025-07-28T17:23:02.806923+00:00",
+    "content": "We may receive a commission on purchases made from links.\r\nThough it may not get as much credit as shows like \"The Sopranos\" or \"Breaking Bad\" as far as the golden age of television goes, \"Sons of An… [+1043 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Anarchy",
+      "Sons",
+      "SAMCRO",
+      "Stand",
+      "Sopranos",
+      "Breaking",
+      "Bad",
+      "chars",
+      "links",
+      "receive"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/dave-ramsey-debt-most-aggressively-171207666.html",
+    "title": "Dave Ramsey: Debt Is Most Aggressively Marketed Product in US — 5 Ways To Avoid It",
+    "fetched_on": "2025-07-28T17:23:02.806923+00:00",
+    "content": "Between home mortgages, travel credit cards and car loans, debt is everywhere. Yet, its impossible to escape the message that debt is normal, helpful and there is such a thing as good debt. Financial… [+3653 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Debt",
+      "Ramsey",
+      "Aggressively",
+      "Marketed",
+      "Product",
+      "Avoid",
+      "Dave",
+      "mortgages",
+      "travel",
+      "loans"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/euler-dao-votes-boost-revenue-162538332.html",
+    "title": "Euler DAO votes to boost revenue 414% with new fees amid red-hot lending competition",
+    "fetched_on": "2025-07-28T17:23:21.516539+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DAO",
+      "Euler",
+      "revenue",
+      "competition",
+      "votes",
+      "boost",
+      "fees",
+      "amid",
+      "red-hot",
+      "lending"
+    ]
   }
 ]
