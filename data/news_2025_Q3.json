@@ -437109,5 +437109,45 @@
       "chars",
       "Mike"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/27/ifp-advisors-inc-has-328000-holdings-in-dimensional-global-credit-etf-nasdaqdgcb/",
+    "title": "IFP Advisors Inc Has $328,000 Holdings in Dimensional Global Credit ETF (NASDAQ:DGCB)",
+    "fetched_on": "2025-07-28T09:30:11.609951+00:00",
+    "content": "IFP Advisors Inc lifted its holdings in Dimensional Global Credit ETF (NASDAQ:DGCB – Free Report) by 5.6% during the 1st quarter, according to its most recent disclosure with the SEC. The institution… [+2630 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "DGCB",
+      "IFP",
+      "ETF",
+      "Advisors",
+      "Dimensional",
+      "Global",
+      "Credit",
+      "Holdings",
+      "Free"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/mikestubbs/2025/07/27/how-the-mlbb-womens-invitational-is-shaking-up-female-esports/",
+    "title": "How The ‘MLBB’ Women’s Invitational Is Shaking Up Female Esports",
+    "fetched_on": "2025-07-28T09:30:11.609951+00:00",
+    "content": "The MLBB MWI is giving female players opportunities on the world stage. \r\nCredit: Esports World Cup / Igor Bezborodov\r\nWhen the confetti cannons explode, the hosts announce a new champion and the now… [+4976 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Female",
+      "MLBB’",
+      "Women",
+      "Invitational",
+      "Shaking",
+      "MLBB",
+      "MWI",
+      "Esports",
+      "world",
+      "stage"
+    ]
   }
 ]
