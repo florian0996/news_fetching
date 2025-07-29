@@ -439101,5 +439101,125 @@
       "hit",
       "learn"
     ]
+  },
+  {
+    "source": "RNZ [NewsAPI]",
+    "url": "https://www.rnz.co.nz/news/business/568259/ban-on-card-payment-surcharges-cafe-owner-says-they-ll-have-to-pass-on-cost",
+    "title": "Ban on card payment surcharges: Cafe owner says they'll have to pass on cost",
+    "fetched_on": "2025-07-29T06:35:03.244886+00:00",
+    "content": "The government plans to ban surcharges on card payments for in-person payments. Photo: 123rf\r\nPrices may need to rise at restaurants and cafes due to a ban on credit card surcharges, the sector is wa… [+2926 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "payments",
+      "Ban",
+      "surcharges",
+      "owner",
+      "pass",
+      "cost",
+      "government",
+      "plans",
+      "in-person"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/research-reports/sbi-cards-gets-yes-securities-reduce-rating-post-q1-results-check-target-price",
+    "title": "SBI Cards Gets Yes Securities 'Reduce' Rating Post Q1 Results - Check Target Price",
+    "fetched_on": "2025-07-29T06:35:03.244886+00:00",
+    "content": "While indeed SBI Cards and Payment Services Ltd. seems to be at an inflection point in its credit cycle, the demonstration of reduction in delinquency flows/write-offs remains the key for sustaining … [+431 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reduce",
+      "Results",
+      "SBI",
+      "Cards",
+      "Securities",
+      "Rating",
+      "Post",
+      "Check",
+      "Target",
+      "Price"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/28/northland-capmk-forecasts-reduced-earnings-for-lendingtree/",
+    "title": "Northland Capmk Forecasts Reduced Earnings for LendingTree",
+    "fetched_on": "2025-07-29T06:35:03.244886+00:00",
+    "content": "LendingTree, Inc. (NASDAQ:TREE – Free Report) – Equities researchers at Northland Capmk dropped their Q1 2026 earnings per share (EPS) estimates for shares of LendingTree in a research report issued … [+4803 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capmk",
+      "Forecasts",
+      "Reduced",
+      "Northland",
+      "Earnings",
+      "NASDAQ",
+      "TREE",
+      "EPS",
+      "LendingTree",
+      "Report"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/what-role-does-digital-kyc-play-in-personal-loan-approvals-all-you-need-to-know-11753679087781.html",
+    "title": "What role does digital KYC play in personal loan approvals? All you need to know",
+    "fetched_on": "2025-07-29T06:35:03.244886+00:00",
+    "content": "Digital KYC or know your customer is changing the landscape of personal loan processing in a fast-paced banking environment. KYC is paramount for compliance, and remote authentication which are all n… [+4139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KYC",
+      "digital",
+      "approvals",
+      "personal",
+      "loan",
+      "role",
+      "play",
+      "chars",
+      "environment",
+      "compliance"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/5-brutal-consequences-of-exceeding-your-credit-card-limit-credit-score-11753679410376.html",
+    "title": "5 brutal consequences of exceeding your credit card limit",
+    "fetched_on": "2025-07-29T06:35:03.244886+00:00",
+    "content": "Exceeding your credit card limit can result in hefty penalties, higher interest rate charges, stricter repayment terms and a sharp decline in your credit score. Given comfort and convenience may seem… [+4474 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "exceeding",
+      "card",
+      "limit",
+      "brutal",
+      "penalties",
+      "higher",
+      "charges",
+      "stricter",
+      "score"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/28/lendingclub-corporation-nyselc-receives-16-71-average-pt-from-brokerages/",
+    "title": "LendingClub Corporation (NYSE:LC) Receives $16.71 Average PT from Brokerages",
+    "fetched_on": "2025-07-29T06:35:03.244886+00:00",
+    "content": "Shares of LendingClub Corporation (NYSE:LC – Get Free Report) have been given an average recommendation of “Moderate Buy” by the nine analysts that are presently covering the firm, MarketBeat Ratings… [+5585 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "Corporation",
+      "Receives",
+      "chars",
+      "Report",
+      "Moderate",
+      "Buy",
+      "Ratings",
+      "Average",
+      "Brokerages"
+    ]
   }
 ]
