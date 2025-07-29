@@ -28,7 +28,7 @@ def matches_query(text, query):
 NEWSAPI_KEY = "186dd4ccd2234f6a89f850bf16effb06"
 LANGUAGE = "en"
 PAGE_SIZE = 100
-ENABLE_FILTERING = True  # Set to False to bypass QUERY-based filtering
+ENABLE_FILTERING=True  # Set to False to bypass QUERY-based filtering
 
 TERMS = [
     "credit", "loan", "Exaloan", "lending", "fintech startup",
