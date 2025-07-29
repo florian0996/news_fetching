@@ -442544,5 +442544,45 @@
       "Markt",
       "Vielzahl"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49fef5b3-111c-4f3f-9897-50d26bbb2b9f",
+    "title": "‘I did it’: Cuomo claims credit for NYC’s universal pre-K program, stoking outrage",
+    "fetched_on": "2025-07-29T23:22:13.522827+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Cuomo",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "NYC",
+      "IAB",
+      "it’"
+    ]
+  },
+  {
+    "source": "Finovate.com [NewsAPI]",
+    "url": "https://finovate.com/earnin-helps-employees-receive-payment-in-real-time/",
+    "title": "EarnIn Helps Employees Receive Payment in Real-Time",
+    "fetched_on": "2025-07-29T23:22:13.522827+00:00",
+    "content": "<ul>\n<li>EarnIn launched a new Live Pay tool and Visa card that let users access their earnings in real time as they work, up to $1,500, per pay period. with no interest and no credit check required.… [+3919 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "EarnIn",
+      "Pay",
+      "Employees",
+      "Receive",
+      "Payment",
+      "Live",
+      "Visa",
+      "Real-Time",
+      "work"
+    ]
   }
 ]
