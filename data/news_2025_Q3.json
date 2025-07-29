@@ -438981,5 +438981,125 @@
       "chars",
       "Overweight"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/bgo-and-aditya-birla-sun-life-amc-invest-350-crore-in-namo-realtech-to-fuel-real-estate-expansion/articleshow/122945935.cms",
+    "title": "BGO and Aditya Birla Sun Life AMC invest ₹350 crore in Namo Realtech to fuel real estate expansion",
+    "fetched_on": "2025-07-29T05:30:45.267882+00:00",
+    "content": "Real estate credit platform of BGO, a global real estate investment management advisor and Aditya Birla Sun Life AMC has invested Rs 350 crore in debt to NCR-based Namo Realtech to fund its expansion… [+2162 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aditya",
+      "Birla",
+      "Sun",
+      "Life",
+      "Realtech",
+      "crore",
+      "AMC",
+      "Namo",
+      "real",
+      "BGO"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/new-balance-1000-3",
+    "title": "Reinvented Retro Running Shoes - The New Balance 1000 Returns with Bold Lime and Metallic Contrast (TrendHunter.com)",
+    "fetched_on": "2025-07-29T05:30:45.267882+00:00",
+    "content": "The New Balance 1000 makes a striking comeback in a Dark Silver Metallic/Lime Leaf colorway, blending vintage running aesthetics with future-facing flair. Mesh uppers in gunmetal gray are layered wit… [+668 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Balance",
+      "Lime",
+      "Metallic",
+      "Shoes",
+      "Returns",
+      "Contrast",
+      "TrendHunter.com",
+      "Running",
+      "Retro",
+      "Bold"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/opinion/comment/ruth-medjber-after-breaking-an-ankle-on-tour-i-can-tell-you-the-difference-between-a-us-and-irish-hospital-drugs-bills-and-even-more-drugs/a634699254.html",
+    "title": "Ruth Medjber: After breaking an ankle on tour, I can tell you the difference between a US and Irish hospital – drugs, bills and even more drugs",
+    "fetched_on": "2025-07-29T05:30:45.267882+00:00",
+    "content": "After a clumsy accident saw me break a bone in the US, I realised that without my bosss credit card I could have been in a lot more trouble\r\nI broke my ankle and got to experience the American health… [+254 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Medjber",
+      "chars",
+      "Irish",
+      "American",
+      "ankle",
+      "drugs",
+      "Ruth",
+      "tour",
+      "hospital",
+      "bills"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/is-this-wise-to-use-credit-card-for-rental-payment-key-points-explained-11753483743325.html",
+    "title": "Is this wise to use credit card for rental payment? Key points explained",
+    "fetched_on": "2025-07-29T05:30:45.267882+00:00",
+    "content": "It is no brainer that rental payment is a recurring expense. So, it is wise to use your credit card for this expense. Right? Typically, any payment made through a card could be seen as the money on c… [+2353 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "payment",
+      "card",
+      "rental",
+      "expense",
+      "wise",
+      "credit",
+      "Key",
+      "Typically",
+      "chars",
+      "points"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.co.uk/news/live/c93dy4g436nt",
+    "title": "Cambodia and Thailand agree to 'immediate and unconditional ceasefire'",
+    "fetched_on": "2025-07-29T05:30:45.267882+00:00",
+    "content": "Jonathan HeadBBC South East Asia Correspondent\r\nPresident Trump may have delivered the kick, with his trade talks threat, that enabled this ceasefire, but it is Malaysia which is getting the credit.\r… [+960 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jonathan",
+      "ceasefire",
+      "Thailand",
+      "South",
+      "East",
+      "Asia",
+      "Correspondent",
+      "President",
+      "Trump",
+      "Malaysia"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/sbi-hit-by-rs-5-5-crore-personal-loan-scam-what-you-can-learn-from-this-fraud-11753456383041.html",
+    "title": "SBI hit by ₹5.5 crore personal loan scam — What you can learn from this fraud",
+    "fetched_on": "2025-07-29T05:30:45.267882+00:00",
+    "content": "Since personal loans are unsecured, banks are supposed to exercise due diligence before disbursing loan money to borrowers. Banks typically check the salary slips and the employment history of applic… [+3541 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "personal",
+      "banks",
+      "loan",
+      "crore",
+      "scam",
+      "unsecured",
+      "borrowers",
+      "hit",
+      "learn"
+    ]
   }
 ]
