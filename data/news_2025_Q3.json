@@ -446248,5 +446248,125 @@
       "Nostalgic",
       "Irish"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-07-30/bloomberg-markets-7-30-2025-video",
+    "title": "Countdown to the FOMC Decision | Bloomberg Markets 7/30/2025",
+    "fetched_on": "2025-07-30T21:21:35.438110+00:00",
+    "content": "\"Bloomberg Markets\" follows the market moves across every global asset class and discusses the biggest issues for Wall Street. Today's guests; TCW CIO Bryan Whalen, LendingClub CEO Scott Sanborn, Stifel Chairman and CCEO Ron Kruszewski, Teva CEO Richard Francis, and JPMorgan Investment Management Fixed Income Executive Director Kelsey Berro. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Markets",
+      "Decision",
+      "Street",
+      "FOMC",
+      "Wall",
+      "market",
+      "CEO",
+      "Countdown",
+      "Source"
+    ]
+  },
+  {
+    "source": "WWD [NewsAPI]",
+    "url": "http://wwd.com/footwear-news/shoe-industry-news/moodys-footwear-tariffs-conference-board-consumer-1238015997/",
+    "title": "Tariffs Hurt Footwear, Apparel Growth, Says Moody’s",
+    "fetched_on": "2025-07-30T21:21:34.157116+00:00",
+    "content": "Unresolved U.S. tariff policy keeps outlook for the global retail and apparel sector at negative, said credit ratings firm Moody’s Ratings.\r\n“U.S. companies in the segment still face higher costs eve… [+2761 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moody",
+      "Footwear",
+      "Growth",
+      "Unresolved",
+      "Apparel",
+      "ratings",
+      "Hurt",
+      "negative",
+      "Tariffs",
+      "tariff"
+    ]
+  },
+  {
+    "source": "Kotaku [NewsAPI]",
+    "url": "https://kotaku.com/steam-itch-io-sex-game-nsfw-censor-visa-mastercard-1851787281",
+    "title": "The War Over Credit Cards Censoring Games Is Just Getting Started",
+    "fetched_on": "2025-07-30T21:21:34.157116+00:00",
+    "content": "Artist Gilbert Martinez had just poured himself a glass of water and was pacing his suburban home in San Antonio, Texas while trying to navigate Mastercards byzantine customer service hotline. He was… [+6630 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Antonio",
+      "Texas",
+      "War",
+      "Credit",
+      "Cards",
+      "Censoring",
+      "Games",
+      "Started",
+      "Artist",
+      "Gilbert"
+    ]
+  },
+  {
+    "source": "Json2invoice.com [NewsAPI]",
+    "url": "https://json2invoice.com",
+    "title": "Show HN: I built an API to generate PDF invoices from JSON",
+    "fetched_on": "2025-07-30T21:21:34.157116+00:00",
+    "content": "With the Pay-as-you-go plan, you start with 10 free API credits. After using those, you can use the slider to pre-purchase invoice credits as needed, from 50 up to 2,100 at a time. You are charged 2 … [+76 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "API",
+      "plan",
+      "PDF",
+      "JSON",
+      "Show",
+      "free",
+      "credits",
+      "built",
+      "generate",
+      "start"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/07/29/3123658/0/en/JetBack-Launches-to-Help-Travelers-Automatically-Get-Airline-Credits-When-Flight-Prices-Drop.html",
+    "title": "JetBack Launches to Help Travelers Automatically Get Airline Credits When Flight Prices Drop",
+    "fetched_on": "2025-07-30T21:21:34.157116+00:00",
+    "content": "Seattle, WA , July 29, 2025 (GLOBE NEWSWIRE) -- JetBack, a new travel savings app for iOS and Android, has officially launched with a mission to make airfare price-drop refunds automatic. The app mon… [+2198 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "Seattle",
+      "GLOBE",
+      "NEWSWIRE",
+      "Android",
+      "JetBack",
+      "Launches",
+      "Travelers",
+      "Automatically",
+      "Airline"
+    ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/movies/news/fantastic-four-first-steps-thunderbolts-post-credits-scene-no-connection-explained/",
+    "title": "Why Fantastic Four Doesn’t Address Thunderbolts Post-Credits Scene",
+    "fetched_on": "2025-07-30T21:21:34.157116+00:00",
+    "content": "This post contains spoilers for The Fantastic Four: First Steps\r\nThe Fantastic Four: First Steps director Matt Shakman explains why the film doesn’t address the Thunderbolts* post-credits scene. A co… [+3085 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fantastic",
+      "Steps",
+      "Thunderbolts",
+      "Address",
+      "Scene",
+      "n’t",
+      "Matt",
+      "Shakman",
+      "Post-Credits",
+      "post"
+    ]
   }
 ]
