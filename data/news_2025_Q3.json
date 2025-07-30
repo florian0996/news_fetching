@@ -446448,5 +446448,65 @@
       "annual",
       "fee"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/917520",
+    "title": "[Targeted] Spend $40, Earn $30 Credit @ The Pass App",
+    "fetched_on": "2025-07-30T23:22:06.121513+00:00",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Targeted",
+      "Spend",
+      "Earn",
+      "Credit",
+      "Pass",
+      "App",
+      "owners",
+      "respective",
+      "Copyright",
+      "2006-2"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/newsarticle/46370/apple-and-jpmorgan-chase-close-in-on-credit-card-deal",
+    "title": "Apple and JPMorgan Chase close in on credit card deal",
+    "fetched_on": "2025-07-30T23:22:06.121513+00:00",
+    "content": "JPMorgan Chase is on the verge of closing a deal to replace Goldman Sachs as issuer for the Apple credit card, according to reports.The two firms are nearing an arrangement on the Apple Card portfoli… [+1531 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "Chase",
+      "card",
+      "chars",
+      "Goldman",
+      "Sachs",
+      "JPMorgan",
+      "credit",
+      "portfoli",
+      "deal"
+    ]
+  },
+  {
+    "source": "Theeconomiccollapseblog.com [NewsAPI]",
+    "url": "http://theeconomiccollapseblog.com/the-bubble-is-bursting-delinquency-rates-have-doubled-and-credit-card-defaults-are-soaring/",
+    "title": "The Bubble Is Bursting: Delinquency Rates Have Doubled And Credit Card Defaults Are Soaring",
+    "fetched_on": "2025-07-30T23:22:06.121513+00:00",
+    "content": "Did you know that U.S. households are carrying $1.18 trillion in credit card debt? Considering the fact that the average rate of interest on credit card balances is now over 20 percent, that is not g… [+8288 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bursting",
+      "Delinquency",
+      "Credit",
+      "Card",
+      "Bubble",
+      "Doubled",
+      "Defaults",
+      "Soaring",
+      "households",
+      "carrying"
+    ]
   }
 ]
