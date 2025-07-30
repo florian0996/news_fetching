@@ -442904,5 +442904,65 @@
       "Today",
       "Mondays"
     ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/government-not-doing-enough-to-promote-rent-tax-credit-as-number-of-claimants-drops/a1885004097.html",
+    "title": "Government ‘not doing enough to promote rent tax credit’ as number of claimants drops",
+    "fetched_on": "2025-07-30T04:46:10.131772+00:00",
+    "content": "The Government has been accused of not doing enough to promote a tax credit for renters, after new figures showed a fall in the numbers claiming it.Single people can claim up to 1,000 a year in the c… [+2227 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Government",
+      "promote",
+      "tax",
+      "renters",
+      "rent",
+      "credit’",
+      "claimants",
+      "drops",
+      "accused"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/article-862524",
+    "title": "Boxer Floyd Mayweather opens Tel Aviv Stock Exchange",
+    "fetched_on": "2025-07-30T04:46:10.131772+00:00",
+    "content": "Floyd Mayweather at the Tel Aviv Stock Exchange on July 28, 2025. (photo credit: Vered Farkash)\r\nMayweather, who is in Israel as part of a private delegation aimed at enhancing the countrys internati… [+1540 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aviv",
+      "Stock",
+      "Floyd",
+      "Tel",
+      "Exchange",
+      "Mayweather",
+      "July",
+      "Boxer",
+      "Vered",
+      "Farkash"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/credit-score-could-big-change-181500177.html",
+    "title": "Your credit score could go through a big change this fall — but that’s good news if you’re part of this growing group",
+    "fetched_on": "2025-07-30T04:46:24.508575+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "fall",
+      "group",
+      "credit",
+      "score",
+      "big",
+      "change",
+      "good",
+      "’re",
+      "part",
+      "growing"
+    ]
   }
 ]
