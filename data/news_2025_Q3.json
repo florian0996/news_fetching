@@ -442964,5 +442964,65 @@
       "part",
       "growing"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/29/lendingtree-tree-projected-to-post-earnings-on-thursday/",
+    "title": "LendingTree (TREE) Projected to Post Earnings on Thursday",
+    "fetched_on": "2025-07-30T05:30:18.559756+00:00",
+    "content": "LendingTree (NASDAQ:TREE – Get Free Report) is projected to announce its Q2 2025 earnings results after the market closes on Thursday, July 31st. Analysts expect the company to announce earnings of $… [+4011 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TREE",
+      "Thursday",
+      "NASDAQ",
+      "July",
+      "Projected",
+      "Report",
+      "LendingTree",
+      "Post",
+      "Free",
+      "Earnings"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/mitchwallace/2025/07/29/grab-your-nintendo-switch-2-mice-mario-paint-is-here/",
+    "title": "Grab Your Nintendo Switch 2 Mice, ‘Mario Paint’ Is Here",
+    "fetched_on": "2025-07-30T05:30:18.559756+00:00",
+    "content": "Mario Paint\r\nCredit: Nintendo\r\nNothing like a good shadow drop: Mario Paint is now available to play in the Nintendo Switch Online Super Nintendo catalog for both Switch and Switch 2. If youre a subs… [+2354 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nintendo",
+      "Switch",
+      "Mario",
+      "Paint",
+      "Mice",
+      "Credit",
+      "Paint’",
+      "Online",
+      "Super",
+      "Grab"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/ubs-erzielt-quartalsgewinn-von-2-4-milliarden-dollar-14669852",
+    "title": "UBS erzielt Quartalsgewinn von 2,4 Milliarden Dollar",
+    "fetched_on": "2025-07-30T05:30:34.572252+00:00",
+    "content": "<p>ZÜRICH (dpa-AFX) - Die <a href=\"https://www.finanzen.net/aktien/ubs-aktie\">UBS</a> hat im zweiten Quartal 2025 deutlich mehr verdient als vor einem Jahr. Sie übertraf die Erwartungen von Analysten. Bei der Integration der vor über zwei Jahren übernommenen Credit Suisse macht  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UBS",
+      "ZÜRICH",
+      "Milliarden",
+      "Dollar",
+      "Quartal",
+      "Jahr",
+      "dpa-AFX",
+      "Quartalsgewinn",
+      "href",
+      "hat"
+    ]
   }
 ]
