@@ -443024,5 +443024,85 @@
       "href",
       "hat"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1f9147e6e51df9b6",
+    "title": "Unicaja's Q2 net profit falls 2.4% on banking tax, lower lending income",
+    "fetched_on": "2025-07-30T06:36:19.026242+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Spirit Airlines furloughing pilots? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will US-EU trade deal impa… [+723 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Unicaja",
+      "return",
+      "false",
+      "Spirit",
+      "Airlines",
+      "net",
+      "falls"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/29/sixth-street-specialty-lending-nysetslx-and-medallion-financial-nasdaqmfin-financial-contrast/",
+    "title": "Sixth Street Specialty Lending (NYSE:TSLX) and Medallion Financial (NASDAQ:MFIN) Financial Contrast",
+    "fetched_on": "2025-07-30T06:36:19.026242+00:00",
+    "content": "Medallion Financial (NASDAQ:MFIN – Get Free Report) and Sixth Street Specialty Lending (NYSE:TSLX – Get Free Report) are both finance companies, but which is the better investment? We will contrast t… [+6211 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "TSLX",
+      "NASDAQ",
+      "MFIN",
+      "Lending",
+      "Report",
+      "Financial",
+      "Street",
+      "Specialty",
+      "Free"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/michaelharley/2025/07/29/should-you-buy-a-new-ev-before-the-7500-tax-credit-expires/",
+    "title": "Should You Buy A New EV Before The $7,500 Tax Credit Expires?",
+    "fetched_on": "2025-07-30T06:36:19.026242+00:00",
+    "content": "NEW YORK: A new Lexus electric car is displayed at the New York International Auto Show (Photo by ... More Spencer Platt/Getty Images)\r\nGetty Images\r\nIn 2009, the American Recovery and Reinvestment A… [+2995 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Expires",
+      "Buy",
+      "Credit",
+      "Getty",
+      "YORK",
+      "Images",
+      "Show",
+      "Photo",
+      "Lexus"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/29/comparing-manhattan-bridge-capital-nasdaqloan-and-onemain-nyseomf/",
+    "title": "Comparing Manhattan Bridge Capital (NASDAQ:LOAN) and OneMain (NYSE:OMF)",
+    "fetched_on": "2025-07-30T06:36:19.026242+00:00",
+    "content": "Manhattan Bridge Capital (NASDAQ:LOAN – Get Free Report) and OneMain (NYSE:OMF – Get Free Report) are both finance companies, but which is the superior stock? We will compare the two companies based … [+5445 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "LOAN",
+      "NYSE",
+      "OMF",
+      "Capital",
+      "Report",
+      "Bridge",
+      "Free",
+      "Manhattan",
+      "OneMain"
+    ]
   }
 ]
