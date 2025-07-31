@@ -446806,5 +446806,105 @@
       "Card",
       "JPMorgan"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-31/ing-beats-estimates-as-fees-offset-falling-lending-income",
+    "title": "ING Beats Estimates as Fees Offset Falling Lending Income",
+    "fetched_on": "2025-07-31T05:28:04.114884+00:00",
+    "content": "ING Groep NV profit topped analysts’ estimates in the second quarter as fee growth offset a decline in lending income.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ING",
+      "Lending",
+      "Income",
+      "Estimates",
+      "Offset",
+      "Beats",
+      "Falling",
+      "Groep",
+      "Fees",
+      "fee"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-07-31/credit-agricole-beats-on-profit-under-new-ceo-olivier-gavalda",
+    "title": "Credit Agricole Beats on Profit Under New CEO Olivier Gavalda",
+    "fetched_on": "2025-07-31T05:28:04.114914+00:00",
+    "content": "Credit Agricole SA’s profit exceeded analyst estimates in the second quarter, providing tailwind to the lender’s new chief executive officer, Olivier Gavalda.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Agricole",
+      "Olivier",
+      "Gavalda",
+      "Credit",
+      "Profit",
+      "Beats",
+      "CEO",
+      "quarter",
+      "providing",
+      "officer"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/547c4261251a3459",
+    "title": "Caixabank's Q2 net profit falls 11% on banking tax, lower lending income",
+    "fetched_on": "2025-07-31T05:28:02.914159+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Palo Alto Networks acquiring CyberArk? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Union Pacific's No… [+766 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Caixabank",
+      "return",
+      "false",
+      "Palo",
+      "Alto",
+      "Networks",
+      "net"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18493012-amazon-select-household-supplies-products-get-15-amazon-credit-w-50-purchase-free-shipping",
+    "title": "Amazon: Select Household Supplies / Products: Get $15 Amazon Credit w/ $50 Purchase + Free Shipping (0 replies)",
+    "fetched_on": "2025-07-31T05:28:02.914159+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Products",
+      "Purchase",
+      "Amazon",
+      "Select",
+      "Supplies",
+      "Shipping",
+      "replies",
+      "tips",
+      "Household",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/personal-loans-how-to-use-emi-calculator-for-managing-your-loan-11753716726234.html",
+    "title": "Personal loans: How to use EMI calculator for managing your loan?",
+    "fetched_on": "2025-07-31T05:28:02.914159+00:00",
+    "content": "At the time of taking out a personal loan, it is important for borrowers to streamline their finances by using a personal loan EMI calculator. Those who are not aware, a personal loan EMI calculator … [+1896 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Personal",
+      "loan",
+      "calculator",
+      "managing",
+      "loans",
+      "chars",
+      "time",
+      "taking",
+      "important"
+    ]
   }
 ]
