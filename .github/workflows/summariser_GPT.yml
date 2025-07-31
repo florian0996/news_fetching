@@ -1,4 +1,4 @@
-name: Create GPT summaries (manual )
+name: Create GPT summaries (manual)
 
 on:
   workflow_dispatch:
@@ -8,7 +8,9 @@ on:
         required: true
         default: "daily"
         type: choice
-        options: [daily, weekly]
+        options:
+          - daily
+          - weekly
 
 permissions:
   contents: write
@@ -29,11 +31,12 @@ jobs:
       - name: Install dependencies
         run: pip install "openai>=1,<2"
 
-      - name: Debug: show mode & file list
+      - name: "Debug: show mode & file list"
         run: |
-          echo "⚙️ MODE = ${{ github.event.inputs.mode }}"
-          echo "🗂️ Found news files count: $(ls -1 data/news_*.json | wc -l)"
-          ls -1 data/news_*.json || echo "⚠️ No news files found"
+          echo "MODE = ${{ github.event.inputs.mode }}"
+          echo "Found news files count: $(ls -1 data/news_*.json 2>/dev/null | wc -l)"
+          echo "Listing news files:"
+          ls -1 data/news_*.json 2>/dev/null || echo "⚠️  No news files found"
 
       - name: Run chosen summary mode
         run: python scripts/create_summaries_GPT.py ${{ github.event.inputs.mode }}
