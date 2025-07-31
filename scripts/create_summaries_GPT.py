@@ -69,7 +69,10 @@ def summarize_daily(date_str: str, articles: list[dict]) -> str:
         )},
         {"role": "user", "content": (
             f"Here are today's news items for {date_str}:\n{prompt_body}\n\n"
-            "Write me a 3–5 sentence summary highlighting key trends and implications."
+            "Write me a 3–5 sentence summary highlighting key trends and implications, "
+            "focusing on topics such as credit, loan, lending, fintech startups, "
+            "digital lending, credit platforms, loan services, peer-to-peer lending, online loan platforms, "
+            "investment platforms, digital wealth management, fractional investing, seed funding, fintech VC, and risk assessment."
         )}
     ]
 
@@ -89,7 +92,10 @@ def summarize_weekly(date_str: str, articles: list[dict]) -> str:
         {"role": "system", "content": "You are an expert weekly news analyst."},
         {"role": "user", "content": (
             f"Summarize the key themes and forward-looking insights for the week ending {date_str}. "
-            "Focus on developments that will matter next week."
+            "Focus especially on developments in areas such as credit, loan, Exaloan, lending, "
+            "fintech startups, digital lending, credit platforms, loan services, peer-to-peer lending, "
+            "online loan platforms, investment platforms, digital wealth management, fractional investing, "
+            "seed funding, fintech VC, and risk assessment."
         )}
     ]
     response = client.chat.completions.create(
