@@ -23,9 +23,17 @@ jobs:
 
       - name: Set up Python
         uses: actions/setup-python@v5
-        with: { python-version: '3.12' }
+        with:
+          python-version: '3.12'
 
-      - run: pip install "openai>=1,<2"
+      - name: Install dependencies
+        run: pip install "openai>=1,<2"
+
+      - name: Debug: show mode & file list
+        run: |
+          echo "⚙️ MODE = ${{ github.event.inputs.mode }}"
+          echo "🗂️ Found news files count: $(ls -1 data/news_*.json | wc -l)"
+          ls -1 data/news_*.json || echo "⚠️ No news files found"
 
       - name: Run chosen summary mode
         run: python scripts/create_summaries_GPT.py ${{ github.event.inputs.mode }}
