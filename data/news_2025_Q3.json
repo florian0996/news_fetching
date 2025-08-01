@@ -451247,5 +451247,145 @@
       "affects",
       "bank"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/31/comparing-credit-acceptance-nasdaqcacc-and-capital-one-financial-nysecof/",
+    "title": "Comparing Credit Acceptance (NASDAQ:CACC) and Capital One Financial (NYSE:COF)",
+    "fetched_on": "2025-08-01T06:36:06.030816+00:00",
+    "content": "Credit Acceptance (NASDAQ:CACC – Get Free Report) and Capital One Financial (NYSE:COF – Get Free Report) are both finance companies, but which is the better stock? We will contrast the two companies … [+5263 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "CACC",
+      "NYSE",
+      "COF",
+      "Acceptance",
+      "Financial",
+      "Report",
+      "Capital",
+      "Free",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Globalsecurity.org [NewsAPI]",
+    "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/07/ukraine-250730-govua01.htm",
+    "title": "Government permits drone and EW equipment manufacturers to include loan costs in contract prices",
+    "fetched_on": "2025-08-01T06:36:06.030816+00:00",
+    "content": "Ukraine Government\r\nMinistry of Defence of Ukraine, posted 30 July 2025 17:00\r\nDomestic manufacturers of unmanned systems and electronic warfare equipment have been granted the right to include loan … [+1421 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "Ukraine",
+      "include",
+      "posted",
+      "chars",
+      "Government",
+      "loan",
+      "Ministry",
+      "Defence",
+      "Domestic"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/07/31/lendingclub-nyselc-shares-gap-up-following-strong-earnings/",
+    "title": "LendingClub (NYSE:LC) Shares Gap Up Following Strong Earnings",
+    "fetched_on": "2025-08-01T06:36:06.030816+00:00",
+    "content": "LendingClub Corporation (NYSE:LC – Get Free Report) shares gapped up prior to trading on Wednesday following a stronger than expected earnings report. The stock had previously closed at $13.11, but o… [+4658 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "Shares",
+      "Report",
+      "Corporation",
+      "Earnings",
+      "Gap",
+      "Strong",
+      "Free",
+      "Wednesday",
+      "LendingClub"
+    ]
+  },
+  {
+    "source": "Github.com [NewsAPI]",
+    "url": "https://github.com/dipampaul17/AgentGuard",
+    "title": "Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget",
+    "fetched_on": "2025-08-01T06:36:06.030816+00:00",
+    "content": "Your AI agent has a bug. It makes 1000 API calls in a loop. Your $2000 credit card gets charged.\r\nThis happens to developers every week:\r\n<ul><li>Infinite loops in AI workflows</li><li>Testing with p… [+9723 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Auto-kill",
+      "AgentGuard",
+      "Show",
+      "bug",
+      "agents",
+      "agent",
+      "API",
+      "burn",
+      "budget",
+      "Infinite"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/385cfa9b32794652",
+    "title": "BBVA's Q2 net profit falls 2% on lower lending income",
+    "fetched_on": "2025-08-01T06:36:06.030816+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps new tariffs impact US automakers? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Metas stock… [+717 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BBVA",
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Trumps",
+      "net",
+      "falls",
+      "income"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/flieger-45g",
+    "title": "Modern Pilot GMT Watches - The Flieger 45G Fuses Aviation Tradition with Accessible GMT Functions (TrendHunter.com)",
+    "fetched_on": "2025-08-01T06:36:06.030816+00:00",
+    "content": "The Flieger 45G is a pilot-style GMT timepiece from Australian micro-brand Panzera, blending vintage aviation aesthetics with real-world utility. The 45mm stainless steel case features a domed sapphi… [+718 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Flieger",
+      "GMT",
+      "Watches",
+      "Fuses",
+      "Functions",
+      "Panzera",
+      "Aviation",
+      "TrendHunter.com",
+      "Pilot",
+      "Tradition"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/credit-card-loans-explained-how-they-work-and-what-to-check-before-you-borrow",
+    "title": "Credit Card Loans Explained: How They Work And What To Check Before You Borrow",
+    "fetched_on": "2025-08-01T06:36:06.030816+00:00",
+    "content": "If you need funds urgently and dont want to go through the paperwork of a personal loan, a credit card loan could be a quick fix. It is also useful for large purchases or medical emergencies, especia… [+1134 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "Explained",
+      "loan",
+      "Work",
+      "Check",
+      "Borrow",
+      "Credit",
+      "fix",
+      "Loans",
+      "funds"
+    ]
   }
 ]
