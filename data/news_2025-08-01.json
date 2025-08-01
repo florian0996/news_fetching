@@ -343,7 +343,7 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-08-01T22:22:21.577847+00:00",
+    "fetched_on": "2025-08-01T23:22:14.348491+00:00",
     "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/seed/2025-funding-trends-defense-space-recycle-health/",
     "title": "What Seed Trends Say About The Future: Live Long, Recycle And Launch More Satellites",
-    "fetched_on": "2025-08-01T22:22:30.494147+00:00",
+    "fetched_on": "2025-08-01T23:22:23.085926+00:00",
     "content": "After plowing through a huge pile of seed funding rounds, we identified four areas where seed is trending this year: longevity, defense, waste reduction and spacetech.\u00a0Here's where a lot of that investment is going.",
     "platforms_mentioned": [],
     "keywords": [
@@ -380,23 +380,23 @@
     ]
   },
   {
-    "source": "CNBC Top News [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2025/07/31/fico-ceo-defends-credit-score-pricing-amid-fhfa-criticism.html",
     "title": "FICO CEO defends credit score pricing amid FHFA criticism, says cost isn't blocking home ownership",
-    "fetched_on": "2025-08-01T15:25:27.170645+00:00",
-    "content": "In a Thursday interview with CNBC's Jim Cramer, Fair Isaac CEO Will Lansing pushed back against recent criticism of his company.",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
+    "content": "In a Thursday interview with CNBC's Jim Cramer, Fair Isaac CEO Will Lansing pushed back against recent criticism of his company, saying FICO credit score pricing isn't an issue for home owners.\r\n\"We \u2026 [+1812 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "FICO",
+      "CEO",
       "Cramer",
       "Fair",
-      "CEO",
+      "score",
       "FHFA",
       "Thursday",
       "CNBC",
       "Jim",
-      "Isaac",
-      "Lansing"
+      "Isaac"
     ]
   },
   {
@@ -423,7 +423,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/fed-holds-interest-rates-steady-what-that-means-for-your-money.html",
     "title": "Fed holds interest rates steady: What that means for car loans, credit cards, mortgages and more",
-    "fetched_on": "2025-08-01T22:22:31.515422+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010127+00:00",
     "content": "From credit cards, car loans, mortgages, savings and student debt,\u00a0here's how the Federal Reserve's interest-rate decision influences your wallet.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/25/fed-likely-to-hold-interest-rates-steady-despite-trumps-pressure.html",
     "title": "Federal Reserve likely to hold interest rates steady despite pressure from Trump. Here's what that means for your money",
-    "fetched_on": "2025-08-01T22:22:31.515495+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010202+00:00",
     "content": "The Fed's decision on interest rates affects many types of consumer borrowing costs, from credit cards and mortgages to auto loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/07/29/jpmorgan-chase-apple-card-goldman-sachs-issuer.html",
     "title": "JPMorgan Chase is nearing a deal to replace Goldman Sachs as Apple Card issuer, sources say",
-    "fetched_on": "2025-08-01T22:22:31.355639+00:00",
+    "fetched_on": "2025-08-01T23:22:23.815128+00:00",
     "content": "A deal for JPMorgan to take over the Apple Card and its huge book of loans would further burnish the bank's reputation as a leader in American finance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/public-service-loan-forgiveness-pslf-becomes-harder-for-borrowers.html",
     "title": "38-year-old woman has already waited eight months in a 65,448-person backlog for Public Service Loan Forgiveness",
-    "fetched_on": "2025-08-01T22:22:31.515429+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010135+00:00",
     "content": "A Biden-era program aimed at helping borrowers access the Public Service Loan Forgiveness program has stalled under the Trump administration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/26/using-credit-cards-to-pay-for-your-wedding.html",
     "title": "Credit cards can be an 'amazing tool' for your wedding, expert says \u2014 but only if you're 'strategic'",
-    "fetched_on": "2025-08-01T22:22:31.515466+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010173+00:00",
     "content": "If done strategically, using credit cards to cover wedding expenses can help you earn rewards, experts say. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/25/student-loan-forgiveness-tax-trump-big-beautiful-bill.html",
     "title": "Student loan forgiveness may soon be taxed again \u2014 here's how much borrowers could owe",
-    "fetched_on": "2025-08-01T22:22:31.515488+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010195+00:00",
     "content": "Starting next year, student loan borrowers who get their debt forgiven may wind up with a tax bill. Here's what borrowers should know about the changes.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/23/student-loan-forgiveness-paused-under-ibr-plan.html",
     "title": "Student loan forgiveness paused for borrowers on IBR plan. Here's what to know",
-    "fetched_on": "2025-08-01T22:22:31.515517+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010223+00:00",
     "content": "Student loan forgiveness is on hold for borrowers enrolled in the Income-Based Repayment plan. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/22/trump-big-beautiful-bill-student-loan-plan-rap.html",
     "title": "Trump's 'big beautiful bill' created a new student loan repayment plan: Here's what borrowers need to know",
-    "fetched_on": "2025-08-01T22:22:31.515546+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010251+00:00",
     "content": "Congress has created a new student loan repayment plan, called RAP. Here's what to know about the option, which will be available next summer.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/19/student-loan-bills-save-relief-expires.html",
     "title": "Student loan bills could double for some borrowers as Biden-era relief expires",
-    "fetched_on": "2025-08-01T22:22:31.515567+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010271+00:00",
     "content": "Many student loan borrowers could see their monthly bills more than double now that the Biden-era SAVE plan is defunct.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2007,7 +2007,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-01/barings-fuels-europe-s-private-credit-clo-push-with-second-deal",
     "title": "Barings Fuels Europe\u2019s Private Credit CLO Push With Second Deal",
-    "fetched_on": "2025-08-01T22:22:01.885184+00:00",
+    "fetched_on": "2025-08-01T23:21:54.944566+00:00",
     "content": "Barings has registered its second European middle-market CLO, just months after launching the region\u2019s first, stepping up efforts to tap new capital as private credit firms face a global fundraising slowdown.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2247,7 +2247,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/01/student-loan-interest-free-save-forbearance-ends.html",
     "title": "Millions of student loan borrowers could see their debt grow as interest-free break ends",
-    "fetched_on": "2025-08-01T22:22:31.515391+00:00",
+    "fetched_on": "2025-08-01T23:22:24.010096+00:00",
     "content": "Borrowers who remain in the so-called SAVE forbearance could see their education debt grow if they don't make payments\u00a0large enough to cover accruing interest.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3700,7 +3700,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-01/barclays-says-credit-liquidity-premium-gone-as-e-trading-thrives",
     "title": "Barclays Says Credit Liquidity Premium Gone as E-Trading Thrives",
-    "fetched_on": "2025-08-01T22:22:00.412289+00:00",
+    "fetched_on": "2025-08-01T23:21:53.472294+00:00",
     "content": "The additional compensation investors demand to own tougher-to-sell investment-grade bonds has vanished, thanks to a boom in electronic and portfolio trading, according to Barclays Plc.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3856,7 +3856,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-01/saks-sees-chunks-of-new-loan-already-offered-at-discount-prices",
     "title": "Saks Sees Chunks of New Loan Already Offered at Discount Prices",
-    "fetched_on": "2025-08-01T22:22:00.412182+00:00",
+    "fetched_on": "2025-08-01T23:21:53.472188+00:00",
     "content": "Portions of a new loan that struggling retailer Saks Global Enterprises obtained a little more than a month ago were being offered in the secondary market at below-par prices ahead of a key debt swap deadline, according to people familiar with the matter.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3876,7 +3876,7 @@
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/karineldor/2025/07/31/fragrance-disrupted-how-dedcool-turned-scent-into-a-smoothie/",
     "title": "Fragrance, Disrupted: How DedCool Turned Scent Into A Smoothie",
-    "fetched_on": "2025-08-01T22:21:59.470805+00:00",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
     "content": "Carina Chaz, founder of DedCool, Photo Credit: Courtesy of DedCool\r\nPhoto Credit: Courtesy of DedCool\r\nCarina Chaz didnt set out to disrupt the fragrance industry; she just wanted to make something t\u2026 [+5275 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3896,7 +3896,7 @@
     "source": "Redfin.com [NewsAPI]",
     "url": "https://www.redfin.com/blog/can-you-get-a-loan-for-a-down-payment/",
     "title": "Can You Get a Loan for a Down Payment?",
-    "fetched_on": "2025-08-01T22:21:59.470805+00:00",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
     "content": "Saving enough money for a down payment on a house can feel like a long journey. This often leads prospective homebuyers to consider a \u201cdown payment loan.\u201d But is it really a good option to get a loan\u2026 [+12500 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3916,7 +3916,7 @@
     "source": "/FILM [NewsAPI]",
     "url": "https://www.slashfilm.com/1926675/the-naked-gun-credits-jokes/",
     "title": "The Naked Gun's Credits Are Loaded With Secret Jokes \u2013 Here's What To Look For",
-    "fetched_on": "2025-08-01T22:21:59.470805+00:00",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
     "content": "If you haven't seen \"The Naked Gun\" yet, and you'd rather find out about these jokes yourself, then we encourage you to head out to the theater to scope them out yourself. However, if you saw \"The Na\u2026 [+1242 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3936,7 +3936,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/5f099e9208daefd3",
     "title": "Magazine solutions - August 8, 2025",
-    "fetched_on": "2025-08-01T22:21:59.470805+00:00",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
     "content": "CROSSWORD - AUGUST 8, 2025(Image credit: Credit: The Week )SUDOKU - AUGUST 8, 2025(Image credit: Credit: The Week)\r\nThis story appeared on theweek.com, 2025-07-31 21:35:35.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3956,7 +3956,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/f5088fc56980e8c3",
     "title": "Magazine printables - August 8, 2025",
-    "fetched_on": "2025-08-01T22:21:59.470805+00:00",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
     "content": "CROSSWORD - AUGUST 8, 2025(Image credit: Credit: The Week)SUDOKU - AUGUST 8, 2025(Image credit: Credit: The Week)\r\nThis story appeared on theweek.com, 2025-07-31 21:34:45.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3976,7 +3976,7 @@
     "source": "Investing.com (English) [RSS]",
     "url": "https://www.investing.com/news/stock-market-news/fitch-upgrades-pemexs-credit-rating-to-bb-citing-stronger-government-support-4166780",
     "title": "Fitch upgrades Pemex's credit rating to 'BB', citing stronger government support",
-    "fetched_on": "2025-08-01T22:22:21.126624+00:00",
+    "fetched_on": "2025-08-01T23:22:14.003930+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -3989,6 +3989,106 @@
       "rating",
       "stronger",
       "government"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9a7f384e5ca9186b",
+    "title": "FICO CEO defends credit score pricing amid FHFA criticism, says cost isn't blocking home ownership",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
+    "content": "In a Thursday interview with CNBC's Jim Cramer, Fair Isaac CEO Will Lansing pushed back against recent criticism of his company, saying FICO credit score pricing isn't an issue for home owners.\"We ha\u2026 [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Cramer",
+      "Fair",
+      "FICO",
+      "CEO",
+      "score",
+      "FHFA",
+      "Thursday",
+      "CNBC",
+      "Jim"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/credit-card-debt-questions-to-ask-with-interest-rate-relief-delayed/",
+    "title": "3 credit card debt questions to ask with interest rate relief delayed",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
+    "content": "If your credit card debt is piling up with high interest rates on pause, it may be time to start contemplating your potential debt relief solutions.\r\nGetty Images\r\nAt the start of 2025, there was som\u2026 [+4759 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "debt",
+      "credit",
+      "interest",
+      "relief",
+      "pause",
+      "solutions",
+      "start",
+      "rate",
+      "rates"
+    ]
+  },
+  {
+    "source": "fox6now.com [NewsAPI]",
+    "url": "https://www.fox6now.com/news/brookfield-fraudulent-credit-card-use-more-than-18k-liquor-purchased",
+    "title": "Brookfield fraudulent credit card use; more than $18K of liquor purchased",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
+    "content": "BROOKFIELD, Wis. - Brookfield police are investigating multiple instances of\u00a0fraudulent credit card use.\r\nThe Brookfield Police Department said a stolen credit card from the Lifetime Fitness on Golf \u2026 [+1719 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wis",
+      "Brookfield",
+      "credit",
+      "card",
+      "fraudulent",
+      "police",
+      "liquor",
+      "purchased",
+      "Golf",
+      "Department"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/07/disneyland-park-crowds-chaos-2025-emd1/",
+    "title": "Urgent Safety Disturbance Emerges at Disneyland, Leaving Guests Troubled",
+    "fetched_on": "2025-08-01T23:21:52.343830+00:00",
+    "content": "Evenings at Disneyland Park are becoming increasingly chaotic, and some might say even dangerous, as numerous offerings lead to crowd surges, hazardous intersections, and stampedes.\r\nCredit: Inside t\u2026 [+3815 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disneyland",
+      "Leaving",
+      "Safety",
+      "Disturbance",
+      "Emerges",
+      "Guests",
+      "Troubled",
+      "Evenings",
+      "Park",
+      "Urgent"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/mosaic-company-mos-launches-84-162737504.html",
+    "title": "The Mosaic Company (MOS) Launches $84 Million Blending, Storage, and Distribution Plant in Brazil",
+    "fetched_on": "2025-08-01T23:22:24.348278+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MOS",
+      "Launches",
+      "Storage",
+      "Company",
+      "Million",
+      "Blending",
+      "Brazil",
+      "Mosaic",
+      "Distribution",
+      "Plant"
     ]
   }
 ]
