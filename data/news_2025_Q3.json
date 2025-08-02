@@ -454759,5 +454759,125 @@
       "Rate",
       "Today"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/281f65c9986596f2",
+    "title": "Fannie, Freddie Set Stage For Mortgage Credit Overhaul With VantageScore 4.0, But Lenders Urge Caution",
+    "fetched_on": "2025-08-02T05:24:56.671088+00:00",
+    "content": "Rent and light-bill history could soon help millions secure a mortgage. The Federal Housing Finance Agency (FHFA) has told Fannie Mae and Freddie Mac they may now accept VantageScore 4.0, a credit mo… [+141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "Set",
+      "Stage",
+      "Overhaul",
+      "Lenders",
+      "Urge",
+      "Caution",
+      "Rent",
+      "Freddie",
+      "FHFA"
+    ]
+  },
+  {
+    "source": "Bitcoinist [NewsAPI]",
+    "url": "https://bitcoinist.com/crypto-leverage-under-fire-south-korea-set-tighten/",
+    "title": "Crypto Leverage Under Fire: South Korea Set to Tighten Lending Rules",
+    "fetched_on": "2025-08-02T05:24:56.671088+00:00",
+    "content": "South Korean financial regulators are preparing new guidelines to address cryptocurrency lending services, particularly those offering high leverage to retail investors. The initiative, announced on … [+3143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "South",
+      "Fire",
+      "Leverage",
+      "Lending",
+      "Korea",
+      "Set",
+      "Tighten",
+      "Rules",
+      "Korean",
+      "Crypto"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2025/08/01/goldman-sachs-buys-key-interests-in-over-1bn-of-mortgages-issued-by-finance-ireland/",
+    "title": "Goldman Sachs buys key interests in over €1bn of mortgages issued by Finance Ireland",
+    "fetched_on": "2025-08-02T05:24:56.671088+00:00",
+    "content": "Goldman Sachs has acquired key economic interests to more than 1 billion of mortgages written by Finance Ireland before it exited the home loans market this year, according to sources. \r\nThe loans we… [+3159 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "Sachs",
+      "Ireland",
+      "Goldman",
+      "mortgages",
+      "billion",
+      "year",
+      "sources",
+      "key",
+      "interests"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/startups/mobikwik-q1-loss-widens-six-fold-to-rs-42-crore-revenue-falls-21/articleshow/123035187.cms",
+    "title": "Mobikwik Q1 loss widens six-fold to Rs 42 crore, revenue falls 21%",
+    "fetched_on": "2025-08-02T05:24:56.671088+00:00",
+    "content": "Fintech startup One Mobikwik Systems, which operates payments and financial services company Mobikwik, remained in the red as its net loss widened over six-fold to Rs 41.9 crore for the June quarter,… [+2771 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mobikwik",
+      "crore",
+      "Fintech",
+      "Systems",
+      "chars",
+      "six-fold",
+      "June",
+      "revenue",
+      "falls",
+      "remained"
+    ]
+  },
+  {
+    "source": "SoyaCincau.com [NewsAPI]",
+    "url": "https://soyacincau.com/2025/08/01/paidchain-ultimate-pos-duitnow-qr-cards-e-invoice-madani-digital-grant/",
+    "title": "The POS accepts DuitNow QR and credit cards, and issues e-Invoice instantly. Claim it now with Digital Grant MADANI",
+    "fetched_on": "2025-08-02T05:24:56.671088+00:00",
+    "content": "If you’re running a micro, small and medium-sized business, managing various cashless payment methods and complying with e-Invoicing requirements can be a hassle. \r\nIt doesn’t have to be this way and… [+3216 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "POS",
+      "cards",
+      "instantly",
+      "accepts",
+      "DuitNow",
+      "credit",
+      "issues",
+      "e-Invoice",
+      "Digital",
+      "Grant"
+    ]
+  },
+  {
+    "source": "PerthNow [NewsAPI]",
+    "url": "https://www.perthnow.com.au/entertainment/influencers/bec-judd-reveals-incredible-near-death-story-in-perth-on-safms-bernie-and-emma-g-with-bel-sloane-c-19545227",
+    "title": "Bec Judd reveals incredible near death story in Perth on SAFM’s Bernie and Emma G with Bel Sloane",
+    "fetched_on": "2025-08-02T05:24:56.671088+00:00",
+    "content": "Bec Judd has revealed the scary moment her parachute failed to open while skydiving with her husband Chris Judd in Perth.\r\nThe model on Friday told SAFM Breakfast with Bernie and Emma G that the terr… [+2487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Judd",
+      "Perth",
+      "Bec",
+      "Emma",
+      "Bernie",
+      "Bel",
+      "Sloane",
+      "Chris",
+      "SAFM",
+      "reveals"
+    ]
   }
 ]
