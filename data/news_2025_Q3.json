@@ -457722,5 +457722,65 @@
       "price",
       "drop"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/most-people-today-car-payments-230141766.html",
+    "title": "Most People Today Have Car Payments, But One Owner Now Asks What Few Even Think About: What's The Longest You've Gone Without One?",
+    "fetched_on": "2025-08-02T23:22:50.934388+00:00",
+    "content": "A Reddit user with just a year left on their car loan asked a simple but revealing question: What's the longest you've owned a vehicle without a payment post-financing?\r\nThe post, shared to r/MiddleC… [+4078 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Longest",
+      "People",
+      "Today",
+      "Owner",
+      "Car",
+      "Payments",
+      "payment",
+      "Reddit",
+      "question",
+      "post-financing"
+    ]
+  },
+  {
+    "source": "Redfin.com [NewsAPI]",
+    "url": "https://www.redfin.com/blog/buying-house-with-600-credit-score/",
+    "title": "Can I Buy a House with a 600 Credit Score?",
+    "fetched_on": "2025-08-02T23:22:50.934388+00:00",
+    "content": "Having a high credit score has plenty of perks. Higher credit limits and lower interest rates for loans and credit cards are among the many reasons people try to improve their credit. But what if you… [+4184 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Buy",
+      "House",
+      "Score",
+      "perks",
+      "chars",
+      "high",
+      "plenty",
+      "Higher",
+      "limits"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/17e40cb39122a30e",
+    "title": "Brazil tightens credit fund rules to limit bank risk-taking",
+    "fetched_on": "2025-08-02T23:22:50.934388+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump fire the labor statistics chief? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How are Trump's tariffs af… [+732 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Trump",
+      "Brazil",
+      "risk-taking",
+      "chief",
+      "chars"
+    ]
   }
 ]
