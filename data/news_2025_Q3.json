@@ -457302,5 +457302,105 @@
       "planning",
       "major"
     ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/is-pbs-shutting-down-5432349/",
+    "title": "Is PBS Shutting Down? What Corporation for Public Broadcasting Says",
+    "fetched_on": "2025-08-02T20:23:25.207641+00:00",
+    "content": "Image Credit: Getty Images\r\nThe Corporation for Public Broadcasting (CPB), which funds PBS and NPR, announced a change to its operations in the coming months after Donald Trump signed an executive or… [+2744 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shutting",
+      "Public",
+      "PBS",
+      "CPB",
+      "Corporation",
+      "Broadcasting",
+      "Credit",
+      "Getty",
+      "NPR",
+      "chars"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/what-to-watch/best-new-movies-on-netflix-august-2025/",
+    "title": "9 Best New Movies on Netflix in August 2025",
+    "fetched_on": "2025-08-02T20:23:25.207641+00:00",
+    "content": "GERARD BUTLER in KANDAHAR (2023), directed by RIC ROMAN WAUGH. Credit: Thunder Road Pictures / Album\r\nA new month is here, and while Netflixs movie lineup for August 2025 may not be the strongest wel… [+9411 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GERARD",
+      "KANDAHAR",
+      "WAUGH",
+      "August",
+      "BUTLER",
+      "RIC",
+      "ROMAN",
+      "directed",
+      "Thunder",
+      "Pictures"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/pamwindsor/2025/08/01/new-album-strange-hours-brings-eli-young-band-full-circle/",
+    "title": "New Album ‘Strange Hours’ Brings Eli Young Band Full-Circle",
+    "fetched_on": "2025-08-02T20:23:25.207641+00:00",
+    "content": "Eli Young Band (Left to Right) Jon Jones, Chris Thompson, Mike Eli, and James Young\r\nCredit: Jeff Ray\r\nIts been 25 years since their love of music brought them together at the University of Texas. Si… [+4418 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Young",
+      "Eli",
+      "Band",
+      "Album",
+      "Strange",
+      "Left",
+      "Jon",
+      "Jones",
+      "Chris",
+      "Thompson"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/952c44df657008e4",
+    "title": "Tested: Microsoft Recall can still capture credit cards and passwords, a treasure trove for crooks",
+    "fetched_on": "2025-08-02T20:23:25.207641+00:00",
+    "content": "Our tests have shown there are ways to get around the promised security improvementsexclusive Microsoft Recall, the AI app that takes screenshots of what you do on your PC so you can search for it la… [+151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Microsoft",
+      "Recall",
+      "Tested",
+      "chars",
+      "passwords",
+      "capture",
+      "credit",
+      "cards",
+      "treasure",
+      "trove"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/elon-musk-warns-losing-tesla-194631637.html",
+    "title": "Elon Musk Warns of Losing Tesla Control, Denies Personal Loans Tied To Shares",
+    "fetched_on": "2025-08-02T20:23:47.133685+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Control",
+      "Denies",
+      "Shares",
+      "Musk",
+      "Warns",
+      "Losing",
+      "Tesla",
+      "Personal",
+      "Loans",
+      "Tied"
+    ]
   }
 ]
