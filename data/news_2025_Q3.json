@@ -456169,5 +456169,222 @@
       "Loan",
       "Qualifies"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/devvstream-deploys-crypto-treasury-with-initial-bitcoin-and-solana-purchases-intends-to-expand-credit-facility-to-300m",
+    "title": "DevvStream Deploys Crypto Treasury with Initial Bitcoin and Solana Purchases; Intends to Expand Credit Facility to $300M",
+    "fetched_on": "2025-08-02T14:20:01.853869+00:00",
+    "content": "CALGARY, Alberta DevvStream Corp. (Nasdaq: DEVS) (DevvStream or the Company), a leading carbon management firm specializing in the development, investment, and sale of environmental assets, today ann… [+7358 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CALGARY",
+      "Purchases",
+      "Intends",
+      "Alberta",
+      "Corp",
+      "Deploys",
+      "Crypto",
+      "Treasury",
+      "Initial",
+      "Bitcoin"
+    ]
+  },
+  {
+    "source": "SPIN [NewsAPI]",
+    "url": "https://www.spin.com/2025/08/deep-cut-friday-im-a-man-you-dont-meet-every-day-by-the-pogues/",
+    "title": "Deep Cut Friday: “I’m a Man You Don’t Meet Every Day” by the Pogues",
+    "fetched_on": "2025-08-02T14:20:01.853869+00:00",
+    "content": "Each week, SPIN digs into the catalogs of great artists and highlights songs you might not know for our Deep Cut Friday series.\r\nThe Pogues performing in Amsterdam on November 4, 1989. (Credit: Frans… [+2821 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cut",
+      "Friday",
+      "Deep",
+      "Day",
+      "SPIN",
+      "Pogues",
+      "Man",
+      "Meet",
+      "week",
+      "series"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/walt-disney-world-advisory-weather-2025-emd1/",
+    "title": "Walt Disney World Parks Deemed ‘Not the Safest’ and Here’s Why",
+    "fetched_on": "2025-08-02T14:20:01.853869+00:00",
+    "content": "Walt Disney World guests are scrambling to figure out alternative vacation plans as the weather in Central Florida transforms into a soup of heat exhaustion, flooding, and sickness.\r\nCredit: 0soulis0… [+3813 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "World",
+      "Deemed",
+      "flooding",
+      "Walt",
+      "Parks",
+      "Safest’",
+      "Central",
+      "Florida",
+      "exhaustion"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/city-union-bank-sees-q1-growth-momentum-continuing-through-fy26/article69883407.ece",
+    "title": "City Union Bank sees Q1 growth momentum continuing through FY26",
+    "fetched_on": "2025-08-02T14:20:01.853869+00:00",
+    "content": "As private sector lender City Union Bank posted credit growth of 16 per cent in the quarter ended June, MD and CEO N Kamakodi believes that the post-Covid challenges are all behind the bank, and it i… [+2526 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Union",
+      "Bank",
+      "City",
+      "June",
+      "chars",
+      "CEO",
+      "Kamakodi",
+      "growth",
+      "momentum",
+      "continuing"
+    ]
+  },
+  {
+    "source": "Ninjadoc.ai [NewsAPI]",
+    "url": "https://ninjadoc.ai",
+    "title": "Show HN: An API to extract structured data from any document without training",
+    "fetched_on": "2025-08-02T14:20:01.853869+00:00",
+    "content": "One Unified Platform with Powerful Capabilities, buy credits starting from $10(replaces $3K-$20K+/mo in manual work &amp; complex tools).\r\nReplaces Manual Data Entry, Outdated OCR, Cumbersome Templat… [+2021 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capabilities",
+      "API",
+      "Unified",
+      "Platform",
+      "Powerful",
+      "replaces",
+      "Show",
+      "buy",
+      "work",
+      "complex"
+    ]
+  },
+  {
+    "source": "Prtimes.jp [NewsAPI]",
+    "url": "https://prtimes.jp/main/html/rd/p/000000244.000118144.html",
+    "title": "【COCO DEAL】8/1（金）宮田聡子が魅せる、ヴィンテージムード漂う初秋カタログvol.2を公開",
+    "fetched_on": "2025-08-02T14:20:01.853869+00:00",
+    "content": "/ COCO DEAL 8/110:00WEBvol.2Heritage Allure\r\nCOCO DEAL 2025\"Heritage Allure\"\r\nCOCO DEAL\r\nstaff credit\r\nModel_SATOKO MIYATAPhotograph_SAKAI DE JUNStyling_ERINA KAWASEHair&amp;makeup_NAYADesign_ma-hgra… [+49 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "COCO",
+      "DEAL",
+      "Allure",
+      "Heritage",
+      "Model",
+      "SATOKO",
+      "SAKAI",
+      "ERINA",
+      "を公開",
+      "makeup"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/the-strange-rule-at-epic-universe-everyone-is-expected-to-follow-ld1/",
+    "title": "The Strange Rule at Epic Universe Everyone Is Expected To Follow",
+    "fetched_on": "2025-08-02T14:20:01.853869+00:00",
+    "content": "Make sure you follow this rule next time you’re visiting Epic Universe.\r\nCredit: Universal Orlando\r\nRelated: Disney Adds Walls Around Galaxys Edge for Mystery Construction Project\r\nEpic Universe has … [+3240 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Epic",
+      "Universe",
+      "Rule",
+      "Follow",
+      "Strange",
+      "Expected",
+      "Make",
+      "Universal",
+      "Related",
+      "Disney"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/battlefield-6-release-date-5432212/",
+    "title": "Battlefield 6 Release Date: Latest Updates, Leaks & What to Expect in 2025",
+    "fetched_on": "2025-08-02T14:20:01.853869+00:00",
+    "content": "Image Credit: Getty Images\r\nThe highly anticipated Battlefield 6 multiplayer finally has a confirmed release date, price and details that gamers have been dying to know all after that viral leak onli… [+1338 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Date",
+      "Battlefield",
+      "chars",
+      "Latest",
+      "Updates",
+      "Credit",
+      "Getty",
+      "Release",
+      "Expect",
+      "multiplayer"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/altice-usa-inc-atus-secures-133353869.html",
+    "title": "Altice USA, Inc. (ATUS) Secures $1B Loan Backed by NYC Network Assets",
+    "fetched_on": "2025-08-02T14:20:14.789847+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "USA",
+      "ATUS",
+      "Secures",
+      "Altice",
+      "Loan",
+      "Assets",
+      "Backed",
+      "NYC",
+      "Network"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/lufax-holding-ltd-lu-sells-133257813.html",
+    "title": "Lufax Holding Ltd (LU) Sells $64M in Bad Loans to Cut Credit Risk, Stabilize Outlook",
+    "fetched_on": "2025-08-02T14:20:14.789855+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sells",
+      "Risk",
+      "Stabilize",
+      "Outlook",
+      "Holding",
+      "Bad",
+      "Loans",
+      "Cut",
+      "Credit",
+      "Lufax"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/plug-power-inc-plug-secures-133059863.html",
+    "title": "Plug Power Inc. (PLUG) Secures $1.66B DOE Loan for Green Hydrogen Plants",
+    "fetched_on": "2025-08-02T14:20:14.789870+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Plug",
+      "Power",
+      "Secures",
+      "DOE",
+      "Plants",
+      "Loan",
+      "Green",
+      "Hydrogen"
+    ]
   }
 ]
