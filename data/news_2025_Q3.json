@@ -457822,5 +457822,45 @@
       "risks",
       "volatility"
     ]
+  },
+  {
+    "source": "New York Daily News [NewsAPI]",
+    "url": "https://www.nydailynews.com/2025/08/01/michael-phelps-teaching-baltimore-racens-to-swim/",
+    "title": "Michael Phelps is teaching NFL players how to swim",
+    "fetched_on": "2025-08-03T04:09:43.507682+00:00",
+    "content": "Olympic hero Michael Phelps is lending his skills to his hometown Baltimore Ravens, agreeing to teach the football players how to swim.\r\nThe Ravens contacted the 23-time gold medal winner this week a… [+1174 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phelps",
+      "Michael",
+      "players",
+      "swim",
+      "NFL",
+      "Olympic",
+      "Baltimore",
+      "Ravens",
+      "agreeing",
+      "teaching"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/917998",
+    "title": "$3000 off Tesla Model Y 2025 (Through Novated lease) @ Tesla",
+    "fetched_on": "2025-08-03T04:09:43.507682+00:00",
+    "content": "Referee gets $350 off Model Y &amp; 3 purchase.\r\nReferrer gets $150 credit toward Supercharging, software upgrades, merchandise, service payments or a new vehicle. Limit of 10 referral benefits per c… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Model",
+      "Tesla",
+      "purchase",
+      "Novated",
+      "Referee",
+      "lease",
+      "Supercharging",
+      "merchandise",
+      "chars",
+      "Referrer"
+    ]
   }
 ]
