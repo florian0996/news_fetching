@@ -459578,5 +459578,85 @@
       "Action",
       "Ban"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-08-03/in-singapore-cfos-provide-candid-commentary-on-sustainability-c31-sie-0522",
+    "title": "From Singapore, CFOs Provide Candid Commentary on Sustainability",
+    "fetched_on": "2025-08-03T20:24:40.875338+00:00",
+    "content": "<p>Cost concerns are becoming more pressing as Trump’s trade war puts company finances under strain. Plus, CapitaLand Investment’s Paul Tham talks about the firm’s push into private credit.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Singapore",
+      "Sustainability",
+      "Cost",
+      "Provide",
+      "Candid",
+      "Commentary",
+      "Trump",
+      "CFOs",
+      "strain",
+      "concerns"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/gaming-industry/new-report-alleges-microsoft-recall-is-still-screenshotting-credit-card-numbers-and-passwords/",
+    "title": "New report alleges Microsoft Recall is still screenshotting credit card numbers and passwords",
+    "fetched_on": "2025-08-03T20:24:39.909584+00:00",
+    "content": "Microsoft Recall's security woes have come back to the fore after a test caught the AI screenshotting tool capturing sensitive data (again). Ahead of its public beta release in April, Microsoft made … [+2783 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Recall",
+      "Microsoft",
+      "screenshotting",
+      "data",
+      "report",
+      "alleges",
+      "credit",
+      "card",
+      "numbers",
+      "passwords"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/08/illegal-alien-child-rapist-el-salvador-captured-sanctuary/",
+    "title": "Illegal Alien Child Rapist from El Salvador Captured in Sanctuary Massachusetts After Wild Chase (VIDEO)",
+    "fetched_on": "2025-08-03T20:24:39.909584+00:00",
+    "content": "Manuel Umana Solorzano (Credit: Milford Police Department)\r\nMilford Police, alongside federal authorities, chased down, fought, tased, and arrested an illegal alien from El Salvador accused of raping… [+3121 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Milford",
+      "VIDEO",
+      "Credit",
+      "Salvador",
+      "Police",
+      "fought",
+      "tased",
+      "chars",
+      "Chase",
+      "Manuel"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4332304/posts",
+    "title": "Astronomy Picture of the Day - Fireflies, Meteors, and Milky Way",
+    "fetched_on": "2025-08-03T20:24:39.909584+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Fireflies, Meteors, and Milky WayNASA ^\r\n | 2 Aug, 2025\r\n | Image Credit &amp; Copyright: Daniel Korona\r\nPosted on 08/02/2025 12:41:11 PM PDT by MtnC… [+2377 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fireflies",
+      "Meteors",
+      "Day",
+      "Picture",
+      "Astronomy",
+      "Milky",
+      "Skip",
+      "Aug",
+      "Copyright",
+      "comments"
+    ]
   }
 ]
