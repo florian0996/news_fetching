@@ -457782,5 +457782,45 @@
       "chief",
       "chars"
     ]
+  },
+  {
+    "source": "Benzinga [NewsAPI]",
+    "url": "https://www.benzinga.com/personal-finance/management/25/08/46812375/most-people-today-have-car-payments-but-one-owner-now-asks-what-few-even-think-about-whats-the-longest-youve-gone-without-one",
+    "title": "Most People Today Have Car Payments, But One Owner Now Asks What Few Even Think About: What's The Longest You've Gone Without One?",
+    "fetched_on": "2025-08-03T02:04:06.487978+00:00",
+    "content": "A Reddit user with just a year left on their car loan asked a simple but revealing question: What's the longest you've owned a vehicle without a payment post-financing? \r\nThe post, shared to r/Middle… [+3626 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Longest",
+      "People",
+      "Today",
+      "Owner",
+      "Car",
+      "Payments",
+      "payment",
+      "Middle",
+      "Reddit",
+      "question"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/what-is-crypto-lending-and-how-does-it-work/",
+    "title": "What is crypto lending and how does it work?",
+    "fetched_on": "2025-08-03T02:04:06.487978+00:00",
+    "content": "Key takeaways \r\nCrypto lending blends blockchain innovation with traditional finance, offering high returns and easy access to credit. But serious risks, from hacks to volatility, demand transparency… [+7908 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "crypto",
+      "work",
+      "lending",
+      "chars",
+      "Key",
+      "finance",
+      "offering",
+      "credit",
+      "risks",
+      "volatility"
+    ]
   }
 ]
