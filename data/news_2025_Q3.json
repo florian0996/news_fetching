@@ -457998,5 +457998,85 @@
       "Committee",
       "chars"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/02/universal-beteiligungs-und-servicegesellschaft-mbh-has-839000-holdings-in-oaktree-specialty-lending-corp-nasdaqocsl/",
+    "title": "Universal Beteiligungs und Servicegesellschaft mbH Has $839,000 Holdings in Oaktree Specialty Lending Corp. (NASDAQ:OCSL)",
+    "fetched_on": "2025-08-03T07:20:27.648836+00:00",
+    "content": "Universal Beteiligungs und Servicegesellschaft mbH decreased its stake in Oaktree Specialty Lending Corp. (NASDAQ:OCSL – Free Report) by 28.3% during the 1st quarter, HoldingsChannel reports. The ins… [+5727 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "OCSL",
+      "Corp",
+      "Holdings",
+      "Universal",
+      "Beteiligungs",
+      "Servicegesellschaft",
+      "Oaktree",
+      "Specialty",
+      "Lending"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-credit-growth-to-remain-low-as-corporates-using-other-funding-sources-in-low-interest-rate-regime-sbi-report/articleshow/123058023.cms",
+    "title": "Banks' credit growth to remain low as corporates using other funding sources in low interest rate regime: SBI Report",
+    "fetched_on": "2025-08-03T07:20:27.648836+00:00",
+    "content": "Credit growth of banks in the country is likely to remain low as corporates continue to opt for alternative methods of funding in the current low-interest rate environment, according to a report by t… [+2134 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "low",
+      "credit",
+      "remain",
+      "SBI",
+      "Report",
+      "chars",
+      "growth",
+      "corporates",
+      "funding",
+      "rate"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/banks-credit-growth-to-remain-low-as-corporates-using-other-funding-sources-in-low-interest-rate-regime-sbi-report/article69886238.ece",
+    "title": "Banks' credit growth to remain low as corporates using other funding sources in low interest rate regime: SBI Report",
+    "fetched_on": "2025-08-03T07:20:27.648836+00:00",
+    "content": "Credit growth of banks in the country is likely to remain low as corporates continue to opt for alternative methods of funding in the current low-interest rate environment, according to a report by t… [+2089 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "low",
+      "credit",
+      "remain",
+      "SBI",
+      "Report",
+      "chars",
+      "growth",
+      "corporates",
+      "funding",
+      "rate"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/markets/private-credit-funds-thriving-in-times-of-market-uncertainty",
+    "title": "Private Credit Funds: Thriving In Times Of Market Uncertainty",
+    "fetched_on": "2025-08-03T07:20:27.648836+00:00",
+    "content": "Markets, for all their noise and novelty, are cyclical in nature. Optimism builds quietly, peaks loudly, and then, often without warning, gives way to unease. At the time of global market volatility,… [+1959 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Funds",
+      "Thriving",
+      "Credit",
+      "Uncertainty",
+      "Private",
+      "novelty",
+      "nature",
+      "Market",
+      "noise",
+      "cyclical"
+    ]
   }
 ]
