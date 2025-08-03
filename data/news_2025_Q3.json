@@ -459278,5 +459278,45 @@
       "risk",
       "loan"
     ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/nz/heather-du-plessis-allan-is-the-govt-so-desperate-they-announce-any-half-baked-idea/AQ437NXF6REFROPGJG7QDFUMGE/",
+    "title": "Heather du Plessis-Allan: Is the Govt so desperate they announce any half-baked idea?",
+    "fetched_on": "2025-08-03T17:19:38.573016+00:00",
+    "content": "Of all of the above, its the ban thats going to give them ongoing headaches.\r\nOn the face of it, its great retail politics. Everyone hates being stung 2% for using the credit card at the sushi shop. … [+3119 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Govt",
+      "Heather",
+      "Plessis-Allan",
+      "idea",
+      "desperate",
+      "announce",
+      "half-baked",
+      "headaches",
+      "ban",
+      "give"
+    ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/Business/wireStory/risk-wages-garnished-student-loan-debt-124309934",
+    "title": "What to know if you're at risk of having your wages garnished over student loan debt",
+    "fetched_on": "2025-08-03T17:19:38.573016+00:00",
+    "content": "NEW YORK -- Millions of student borrowers could begin having their wages garnished as soon as this summer, according to estimates from credit bureau TransUnion. \r\nThe company predicts that by August … [+5530 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "YORK",
+      "Millions",
+      "wages",
+      "garnished",
+      "summer",
+      "TransUnion",
+      "student",
+      "August",
+      "chars",
+      "risk"
+    ]
   }
 ]
