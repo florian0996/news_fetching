@@ -458078,5 +458078,65 @@
       "noise",
       "cyclical"
     ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2025/08/02/sports/jelly-roll-gives-credit-to-wwe-stars-ahead-of-summerslam-2025-at-metlife-stadium/",
+    "title": "Jelly Roll gives credit to WWE stars ahead of SummerSlam: ‘That wrestling-is-fake stuff gotta go out the door’",
+    "fetched_on": "2025-08-03T08:27:42.772492+00:00",
+    "content": "Country music star Jelly Roll is set for a tag-team match at SummerSlam with WWE star Randy Orton against Drew McIntyre and Logan Paul this weekend.\r\nJelly Roll appeared at WrestleMania 41 back in Ap… [+2048 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WWE",
+      "Roll",
+      "Jelly",
+      "Country",
+      "Randy",
+      "Orton",
+      "Drew",
+      "Logan",
+      "Paul",
+      "star"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7b32cd7d3fd5b8f4",
+    "title": "5 inexcusably hilarious cartoons about Ghislaine Maxwell angling for a pardon",
+    "fetched_on": "2025-08-03T08:27:42.772492+00:00",
+    "content": "(Image credit: Drew Sheneman / Copyright 2025 Tribune Content Agency)(Image credit: John Darkow / Copyright 2025 Cagle Cartoons, Inc.)(Image credit: Clay Jones / Copyright 2025 Claytoonz)(Image credi… [+137 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Image",
+      "credit",
+      "Inc.",
+      "Claytoonz",
+      "Drew",
+      "Sheneman",
+      "Tribune",
+      "Agency",
+      "John"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/389169/archaeologists-discover-ruins-in-israel-linked-to-the-ark-of-the-covenant",
+    "title": "Archaeologists discover ruins in Israel linked to the Ark of the Covenant",
+    "fetched_on": "2025-08-03T08:27:42.772492+00:00",
+    "content": "Archaeology &amp; History\r\nBy T.K. RandallAugust 2, 2025 ·  0 commentsWhere is the Ark of the Covenant now ? Image Credit: Benjamin WestThe structure was thought to have once housed the chest in whic… [+1555 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ark",
+      "Covenant",
+      "Archaeology",
+      "History",
+      "Image",
+      "Credit",
+      "Benjamin",
+      "RandallAugust",
+      "chars",
+      "Israel"
+    ]
   }
 ]
