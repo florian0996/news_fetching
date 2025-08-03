@@ -457862,5 +457862,41 @@
       "chars",
       "Referrer"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/save/i-managed-to-cut-rs-6000-restaurant-food-bill-by-42-by-using-this-food-app-and-credit-card-discount-heres-how-i-cracked-the-deal/articleshow/123055865.cms",
+    "title": "I managed to cut Rs 6,000 restaurant food bill by 42% by using this food app and credit card discount; Here’s how I cracked the deal",
+    "fetched_on": "2025-08-03T05:28:00.425463+00:00",
+    "content": "Several food apps, including Zomato and Dine-out, are offering dine-in discounts at restaurants, with some discounts reaching up to 50% . The coolest thing about these offers is that they apply to bo… [+5632 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dine-out",
+      "chars",
+      "food",
+      "Zomato",
+      "including",
+      "discounts",
+      "managed",
+      "cut",
+      "bill",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/economy/moodys-raises-dominican-republics-credit-rating-to-ba2-52ae3609?siteid=yhoof2&yptr=yahoo",
+    "title": "Moody’s Raises Dominican Republic’s Credit Rating to Ba2",
+    "fetched_on": "2025-08-03T05:28:22.141816+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raises",
+      "Dominican",
+      "Republic",
+      "Credit",
+      "Rating",
+      "Moody"
+    ]
   }
 ]
