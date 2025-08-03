@@ -1,16 +1,12 @@
 name: Create GPT summaries (manual)
 
 on:
+  # Manual trigger
   workflow_dispatch:
-    inputs:
-      mode:
-        description: "Run a daily or weekly summary?"
-        required: true
-        default: "daily"
-        type: choice
-        options:
-          - daily
-          - weekly
+  # Run daily summary every day at 08:00 UTC
+  schedule:
+    - cron: '0 8 * * *'
+
 
 permissions:
   contents: write
