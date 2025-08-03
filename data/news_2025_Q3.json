@@ -457898,5 +457898,105 @@
       "Rating",
       "Moody"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/02/lendingtree-nasdaqtree-stock-price-up-7-1-following-better-than-expected-earnings/",
+    "title": "LendingTree (NASDAQ:TREE) Stock Price Up 7.1% Following Better-Than-Expected Earnings",
+    "fetched_on": "2025-08-03T06:31:33.594600+00:00",
+    "content": "Shares of LendingTree, Inc. (NASDAQ:TREE – Get Free Report) traded up 7.1% during trading on Friday after the company announced better than expected quarterly earnings. The company traded as high as … [+4186 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "TREE",
+      "Stock",
+      "LendingTree",
+      "Price",
+      "Shares",
+      "Earnings",
+      "Report",
+      "company",
+      "Free"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/02/credit-acceptance-nasdaqcacc-shares-gap-down-on-disappointing-earnings/",
+    "title": "Credit Acceptance (NASDAQ:CACC) Shares Gap Down on Disappointing Earnings",
+    "fetched_on": "2025-08-03T06:31:33.594600+00:00",
+    "content": "Credit Acceptance Corporation (NASDAQ:CACC – Get Free Report) gapped down before the market opened on Friday following a dissappointing earnings announcement. The stock had previously closed at $490.… [+3799 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "CACC",
+      "Acceptance",
+      "Shares",
+      "Corporation",
+      "Report",
+      "Credit",
+      "Earnings",
+      "Gap",
+      "Disappointing"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-may-announce-25-bps-rate-cut-in-august-to-boost-credit-growth-ahead-of-diwali-sbi-report/article69886125.ece",
+    "title": "RBI may announce 25 bps rate cut in August to boost credit growth ahead of Diwali: SBI Report",
+    "fetched_on": "2025-08-03T06:31:33.594600+00:00",
+    "content": "The Reserve Bank of India (RBI) is expected to announce a 25 basis points (bps) repo rate cut in the upcoming Monetary Policy Committee (MPC) meeting scheduled from August 5 to 7, according to a repo… [+2056 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "MPC",
+      "August",
+      "bps",
+      "cut",
+      "Diwali",
+      "SBI",
+      "India",
+      "Committee",
+      "chars"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/02/eagle-point-credit-ecc-to-release-earnings-on-monday/",
+    "title": "Eagle Point Credit (ECC) to Release Earnings on Monday",
+    "fetched_on": "2025-08-03T06:31:33.594600+00:00",
+    "content": "Eagle Point Credit (NYSE:ECC – Get Free Report) is anticipated to release its Q2 2025 earnings data before the market opens on Monday, August 4th. Analysts expect Eagle Point Credit to post earnings … [+3117 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ECC",
+      "Point",
+      "Monday",
+      "NYSE",
+      "August",
+      "Credit",
+      "Release",
+      "Report",
+      "Eagle",
+      "Free"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-may-announce-25-bps-rate-cut-in-august-to-boost-credit-growth-ahead-of-diwali-sbi-report/articleshow/123056753.cms",
+    "title": "RBI may announce 25 bps rate cut in August to boost credit growth ahead of Diwali: SBI Report",
+    "fetched_on": "2025-08-03T06:31:33.594600+00:00",
+    "content": "The Reserve Bank of India (RBI) is expected to announce a 25 basis points (bps) repo rate cut in the upcoming Monetary Policy Committee (MPC) meeting scheduled from August 5 to 7, according to a repo… [+2072 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "MPC",
+      "August",
+      "bps",
+      "cut",
+      "Diwali",
+      "SBI",
+      "India",
+      "Committee",
+      "chars"
+    ]
   }
 ]
