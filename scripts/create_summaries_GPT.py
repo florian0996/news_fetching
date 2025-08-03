@@ -34,7 +34,7 @@ client = OpenAI(api_key=api_key)
 
 def latest_news_file() -> tuple[str, list[dict]]:
     """Return date_str and articles list for the second-most-recent daily file."""
-    pattern = "news_[0-9]{4}-[0-9]{2}-[0-9]{2}.json"
+    pattern = "news_????-??-??.json"
     files = sorted(DATA_DIR.glob(pattern), key=lambda p: p.name)
     if not files:
         print(f"::notice ::No daily news files present in {DATA_DIR}")
@@ -51,7 +51,7 @@ def latest_news_file() -> tuple[str, list[dict]]:
 
 def latest_weekly_files(n: int = 7) -> tuple[str, list[dict]]:
     """Return date_str (of second-most-recent) and combined articles from that plus n-1 preceding files."""
-    pattern = "news_[0-9]{4}-[0-9]{2}-[0-9]{2}.json"
+    pattern = "news_????-??-??.json"
     files = sorted(DATA_DIR.glob(pattern), key=lambda p: p.name)
     if not files:
         print(f"::notice ::No daily news files present in {DATA_DIR}")
