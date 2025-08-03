@@ -1,15 +1,14 @@
 name: Create GPT summaries (manual)
 
+permissions:
+  contents: write
+
 on:
   # Manual trigger
   workflow_dispatch:
   # Run daily summary every day at 08:00 UTC
   schedule:
     - cron: '0 8 * * *'
-
-
-permissions:
-  contents: write
 
 jobs:
   summarise:
