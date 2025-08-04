@@ -461439,5 +461439,45 @@
       "TODAY",
       "Sports"
     ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/2028-presidential-election-candidates-5432548/",
+    "title": "2028 Presidential Election Candidates: Republicans & Democrats Vying for White House",
+    "fetched_on": "2025-08-04T21:22:38.030733+00:00",
+    "content": "Image Credit: Getty Images\r\nWere still three years away from the 2028 presidential election, but multiple names in both the Democrat and Republican parties are in the conversation to run for office. … [+2544 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Presidential",
+      "Election",
+      "Candidates",
+      "Credit",
+      "Getty",
+      "Vying",
+      "White",
+      "House",
+      "Republicans",
+      "Democrats"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_af083bf4-1e58-4175-959a-c04f0ebdd8fb",
+    "title": "What Can You Actually Use a Home Equity Line of Credit For?",
+    "fetched_on": "2025-08-04T21:22:38.030733+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Home",
+      "Equity",
+      "Line",
+      "Credit",
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework"
+    ]
   }
 ]
