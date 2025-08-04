@@ -1,0 +1,27 @@
+```yaml
+# .github/workflows/cleanup-old-news.yml
+name: Cleanup old news files
+
+on:
+  schedule:
+    # runs every day at 09:00 UTC
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    name: Remove JSON news files older than 7 days
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Delete news_*.json older than 7 days
+        run: |
+          # find and delete files in the data/ directory matching news_*.json older than 7 days
+          find data -maxdepth 1 -type f -name 'news_*.json' -mtime +7 -print -delete
+```
