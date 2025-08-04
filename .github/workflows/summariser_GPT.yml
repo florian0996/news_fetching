@@ -1,40 +1,28 @@
-name: Create GPT summaries (manual)
-
-permissions:
-  contents: write
+name: summarise with GPT
 
 on:
-  # Manual trigger
+  # Allow manual triggers
   workflow_dispatch:
-  # Run daily summary every day at 08:00 UTC
+  # Run all summaries every day at 08:00 UTC
   schedule:
     - cron: '0 8 * * *'
-    
+
 jobs:
   summarise:
     runs-on: ubuntu-latest
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repo
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.12'
+          python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install "openai>=1,<2"
-
-      - name: "Debug: show mode & file list"
         run: |
-          echo "MODE = ${{ github.event.inputs.mode }}"
-          echo "Found news files count: $(ls -1 data/news_*.json 2>/dev/null | wc -l)"
-          echo "Listing news files:"
-          ls -1 data/news_*.json 2>/dev/null || echo "⚠️  No news files found"
-
-      - name: Run chosen summary mode
-        run: python scripts/create_summaries_GPT.py ${{ github.event.inputs.mode }}
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run daily summary
         run: |
@@ -47,11 +35,3 @@ jobs:
           else
             echo "Not Monday, skipping weekly summary."
           fi
-
-      - name: Commit & push if changed
-        run: |
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git config user.name  "${{ github.actor }}"
-          git add data/summary_GPT_3.5.json
-          git diff --cached --quiet || git commit -m "bot: update ${{ github.event.inputs.mode }} summary"
-          git push
