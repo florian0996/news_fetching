@@ -460226,5 +460226,65 @@
       "Purchases",
       "Shares"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/exporters-seek-assistance-credit-at-affordable-rates-to-deal-with-trump-tariff/article69889619.ece",
+    "title": "Exporters seek assistance, credit at affordable rates to deal with Trump tariff",
+    "fetched_on": "2025-08-04T08:33:19.813598+00:00",
+    "content": "Indian exporters from various sectors, including food, marine, and textiles, have sought financial assistance and affordable credit from the government to cope with the 25 per cent Trump tariff, indu… [+2981 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "marine",
+      "indu",
+      "chars",
+      "Indian",
+      "tariff",
+      "sectors",
+      "including",
+      "food",
+      "textiles"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/cecdab088f2ed44c",
+    "title": "5 darkly funny cartoons about Israel blocking aid to Gaza",
+    "fetched_on": "2025-08-04T08:33:19.813598+00:00",
+    "content": "(Image credit: Christopher Weyant / Copyright 2025 Cagle Cartoons, Inc.)(Image credit: Pat Byrnes / Copyright 2025 Cagle Cartoons, Inc.)(Image credit: Chris Britt / Copyright 2025 Creators Syndicate)… [+141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Image",
+      "Inc.",
+      "credit",
+      "Cagle",
+      "cartoons",
+      "Gaza",
+      "Christopher",
+      "Weyant",
+      "Pat"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exporters-seek-assistance-credit-at-affordable-rates-to-deal-with-trump-tariff/articleshow/123073626.cms",
+    "title": "Exporters seek assistance, credit at affordable rates to deal with Trump tariff",
+    "fetched_on": "2025-08-04T08:33:19.813598+00:00",
+    "content": "Indian exporters from various sectors, including food, marine, and textiles, have sought financial assistance and affordable credit from the government to cope with the 25 per cent Trump tariff, indu… [+3022 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "marine",
+      "indu",
+      "chars",
+      "Indian",
+      "tariff",
+      "sectors",
+      "including",
+      "food",
+      "textiles"
+    ]
   }
 ]
