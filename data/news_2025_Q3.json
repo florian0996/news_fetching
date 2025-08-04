@@ -461579,5 +461579,101 @@
       "HELOC",
       "Benzinga"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/08/03/wwe-summerslam-2025-results-as-naomi-wins-with-sneaky-pin-on-rhea-ripley/",
+    "title": "WWE SummerSlam 2025 Results As Naomi Wins With Sneaky Pin On Rhea Ripley",
+    "fetched_on": "2025-08-04T23:22:28.086354+00:00",
+    "content": "Naomi won the women's title last month at WWE Evolution. (Credit: Chansey Augustine/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE SummerSlam 2025 marked another massive womens triple threat match,… [+4454 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WWE",
+      "Naomi",
+      "Results",
+      "Evolution",
+      "SummerSlam",
+      "Wins",
+      "Sneaky",
+      "Pin",
+      "Rhea",
+      "Ripley"
+    ]
+  },
+  {
+    "source": "Breitbart News [NewsAPI]",
+    "url": "https://www.breitbart.com/politics/2025/08/03/fruits-of-october-7-hamas-leader-boasts-massacre-spurred-western-recognition-of-palestinian-state/",
+    "title": "‘Fruits of October 7’: Hamas Leader Boasts Massacre Spurred Western Recognition of Palestinian State",
+    "fetched_on": "2025-08-04T23:22:28.086354+00:00",
+    "content": "Senior Hamas political bureau member Ghazi Hamad openly credited the October 7 terrorist massacre with forcing Western nations to recognize a Palestinian state, declaring in a weekend Al Jazeera inte… [+5769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Palestinian",
+      "chars",
+      "Fruits",
+      "October",
+      "Hamas",
+      "Western",
+      "State",
+      "Massacre",
+      "Leader",
+      "Boasts"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/08/03/when-will-caitlin-clark-be-back/",
+    "title": "When Will Caitlin Clark Be Back? Why She Isn’t Playing Today",
+    "fetched_on": "2025-08-04T23:22:28.086354+00:00",
+    "content": "Image Credit: Getty Images\r\nCaitlin Clark has been notably absent from the basketball court this season, and fans are dying to know the answers to two questions. 1) Why isnt she playing right now, an… [+2527 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Back",
+      "Caitlin",
+      "Clark",
+      "Credit",
+      "Getty",
+      "Playing",
+      "Today",
+      "chars",
+      "Image",
+      "Images"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/intels-credit-rating-downgraded-by-fitch-on-demand-challenges-4169077",
+    "title": "Intel's credit rating downgraded by Fitch on demand challenges",
+    "fetched_on": "2025-08-04T23:22:31.435732+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fitch",
+      "Intel",
+      "challenges",
+      "credit",
+      "rating",
+      "downgraded",
+      "demand"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/republican-lawmakers-slow-trump-treasury-picks-over-wind-solar-credits-4169073",
+    "title": "Republican lawmakers slow Trump Treasury picks over wind, solar credits",
+    "fetched_on": "2025-08-04T23:22:31.435739+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Treasury",
+      "Republican",
+      "wind",
+      "solar",
+      "credits",
+      "lawmakers",
+      "slow",
+      "picks"
+    ]
   }
 ]
