@@ -23,7 +23,7 @@ jobs:
       - name: Delete news_*.json older than 7 days
         run: |
           # adjust path to your data directory
-          TARGET_DIR=news_fetching/data
+          TARGET_DIR=/data
           find "$TARGET_DIR" -maxdepth 1 -type f -name 'news_*.json' -mtime +7 -print -delete
 
       - name: Commit and push deletions
