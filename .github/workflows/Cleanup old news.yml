@@ -20,23 +20,30 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Delete news_*.json older than 7 days
+      - name: Delete news_*.json older than 7 days by filename date
         id: delete
         run: |
           TARGET_DIR=data
-          echo "Looking in $TARGET_DIR for old news files..."
-          # find and delete files older than 7 days
-          DELETED=$(find "$TARGET_DIR" -maxdepth 1 -type f -name 'news_*.json' -mtime +7 -print -delete)
-          echo "$DELETED"
-          # export a flag if deletions occurred
-          if [ -n "$DELETED" ]; then
-            echo "deletions_occurred=true" >> $GITHUB_OUTPUT
-          else
-            echo "deletions_occurred=false" >> $GITHUB_OUTPUT
-          fi
+          echo "Scanning $TARGET_DIR for old news files based on filename date..."
+          NOW=$(date +%s)
+          THRESHOLD=$(date -d '7 days ago' +%s)
+          DELETIONS=0
+          for f in "$TARGET_DIR"/news_*.json; do
+            [ -e "$f" ] || continue
+            d=$(basename "$f" .json)
+            DATE_STR=${d#news_}
+            # parse YYYY-MM-DD from filename
+            FILE_TS=$(date -d "$DATE_STR" +%s 2>/dev/null || echo 0)
+            if [ "$FILE_TS" -gt 0 ] && [ "$FILE_TS" -lt "$THRESHOLD" ]; then
+              echo "Deleting $f (date: $DATE_STR)"
+              rm "$f"
+              DELETIONS=$((DELETIONS + 1))
+            fi
+          done
+          echo "deleted_count=$DELETIONS" >> $GITHUB_OUTPUT
 
       - name: Commit and push deletions
-        if: steps.delete.outputs.deletions_occurred == 'true'
+        if: steps.delete.outputs.deleted_count && steps.delete.outputs.deleted_count != '0'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
