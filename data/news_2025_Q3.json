@@ -460383,5 +460383,84 @@
       "Schweizer",
       "Bank"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-08-04/fca-ceo-car-loan-lenders-face-minimum-9-billion-bill-video",
+    "title": "FCA CEO: Car Loan Lenders Face Minimum £9 Billion Bill",
+    "fetched_on": "2025-08-04T10:26:54.222142+00:00",
+    "content": "Source: Bloomberg, 00:04:55",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "FCA",
+      "CEO",
+      "Car",
+      "Minimum",
+      "Billion",
+      "Source",
+      "Loan",
+      "Lenders",
+      "Face"
+    ]
+  },
+  {
+    "source": "The Daily Hodl [NewsAPI]",
+    "url": "https://dailyhodl.com/2025/08/03/200000-potential-victims-identified-as-malware-disguised-as-legitimate-apps-crack-bank-accounts-warns-cifas/",
+    "title": "200,000 Potential Victims Identified As Malware Disguised As Legitimate Apps Crack Bank Accounts, Warns CIFAS",
+    "fetched_on": "2025-08-04T10:26:53.783067+00:00",
+    "content": "A prominent fraud prevention service says international crime groups are spreading malware designed to steal victims’ banking information.\r\nThe London-based Credit Industry Fraud Avoidance System (CI… [+1873 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Potential",
+      "Accounts",
+      "Warns",
+      "Malware",
+      "Victims",
+      "Identified",
+      "Disguised",
+      "Legitimate",
+      "Apps",
+      "Crack"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-august-3-2025-100022461.html",
+    "title": "HELOC rates today, August 3, 2025: The second-most popular use for a HELOC may surprise you",
+    "fetched_on": "2025-08-04T10:26:53.783067+00:00",
+    "content": "The HELOC interest rate remains unchanged. A home equity line of credit can be used for just about anything, and while home improvements have been the most common purpose of HELOC proceeds in recent … [+4018 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "HELOC",
+      "today",
+      "unchanged",
+      "second-most",
+      "popular",
+      "surprise",
+      "interest",
+      "remains",
+      "rates"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/video/fca-ceo-car-loan-lenders-093730410.html",
+    "title": "FCA CEO: Car Loan Lenders Face Minimum £9 Billion Bill",
+    "fetched_on": "2025-08-04T10:27:09.217230+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FCA",
+      "CEO",
+      "Car",
+      "Minimum",
+      "Billion",
+      "Bill",
+      "Loan",
+      "Lenders",
+      "Face"
+    ]
   }
 ]
