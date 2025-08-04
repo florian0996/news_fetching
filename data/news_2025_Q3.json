@@ -460106,5 +460106,45 @@
       "settles",
       "probe"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/03/comparing-pennymac-financial-services-nysepfsi-and-lendingtree-nasdaqtree/",
+    "title": "Comparing PennyMac Financial Services (NYSE:PFSI) and LendingTree (NASDAQ:TREE)",
+    "fetched_on": "2025-08-04T06:40:29.152733+00:00",
+    "content": "PennyMac Financial Services (NYSE:PFSI – Get Free Report) and LendingTree (NASDAQ:TREE – Get Free Report) are both finance companies, but which is the better business? We will contrast the two compan… [+6389 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "PFSI",
+      "NASDAQ",
+      "TREE",
+      "Services",
+      "Report",
+      "Financial",
+      "Free",
+      "LendingTree",
+      "PennyMac"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/03/seaport-res-ptn-increases-earnings-estimates-for-lendingclub/",
+    "title": "Seaport Res Ptn Increases Earnings Estimates for LendingClub",
+    "fetched_on": "2025-08-04T06:40:29.152733+00:00",
+    "content": "LendingClub Corporation (NYSE:LC – Free Report) – Research analysts at Seaport Res Ptn increased their FY2025 earnings per share (EPS) estimates for shares of LendingClub in a research report issued … [+5399 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Res",
+      "NYSE",
+      "EPS",
+      "Ptn",
+      "Seaport",
+      "Estimates",
+      "Corporation",
+      "Free",
+      "chars",
+      "Earnings"
+    ]
   }
 ]
