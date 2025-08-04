@@ -11,14 +11,31 @@ permissions:
 
 jobs:
   cleanup:
-    name: Remove JSON news files older than 7 days
+    name: Remove and commit deletion of old news JSONs
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Delete news_*.json older than 7 days
         run: |
-          # find and delete files in the data/ directory matching news_*.json older than 7 days
-          find data -maxdepth 1 -type f -name 'news_*.json' -mtime +7 -print -delete
+          # adjust path to your data directory
+          TARGET_DIR=news_fetching/data
+          find "$TARGET_DIR" -maxdepth 1 -type f -name 'news_*.json' -mtime +7 -print -delete
+
+      - name: Commit and push deletions
+        if: ${{ steps.cleanup.outputs.deleted }} || true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news_fetching/data
+          # Only commit if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "cleanup: remove news files older than 7 days"
+            git push
+          else
+            echo "No files to delete."
+          fi
