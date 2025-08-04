@@ -9,10 +9,6 @@ on:
   # Run daily summary every day at 08:00 UTC
   schedule:
     - cron: '0 8 * * *'
-  # Run weekly summary every Monday at 08:00 UTC
-  weekly:
-    - cron: '0 8 * * MON'
-
     
 jobs:
   summarise:
