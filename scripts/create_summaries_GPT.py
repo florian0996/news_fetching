@@ -2,19 +2,17 @@
 """
 create_summaries_GPT.py
 -----------------------
-• Mode 'daily'  : pick second-most-recent finished news_YYYY-MM-DD.json
-                  and store a 3–5 sentence summary under daily_summary[date].
+• Mode 'daily': pick second-most-recent finished news_YYYY-MM-DD.json
+                and store a 3–5 sentence summary under summaries/summary_daily_{date}.md.
 
-• Mode 'weekly' : pick the second-most-recent file plus the six files before it
-                  (skipping the most recent, which may still be populating), and
-                  write a 12–15 sentence synthesis under weekly_summary[YYYY-Www].
-                  1st sentence must start with "Calendar Week <N> summary …".
+• Mode 'weekly': load the latest 7 daily summaries from data/summary_GPT_3.5.json
+                 and write a 12–15 sentence synthesis under summaries/summary_weekly_{date}.md.
+                 The first sentence starts with "Calendar Week <N> summary …".
 """
 import os
 import sys
 import argparse
 import json
-import re
 import pathlib
 from datetime import date
 from openai import OpenAI
@@ -25,7 +23,7 @@ DATA_DIR   = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "summaries"
 
 # Initialize OpenAI client
-api_key = os.getenv("OPENAI_API_KEY")
+a pi_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
     print("ERROR: OPENAI_API_KEY environment variable not set.")
     sys.exit(1)
@@ -33,83 +31,59 @@ client = OpenAI(api_key=api_key)
 
 
 def latest_news_file() -> tuple[str, list[dict]]:
-    """Return date_str and articles list for the second-most-recent daily file."""
-    pattern = "news_????-??-??.json"
-    files = sorted(DATA_DIR.glob(pattern), key=lambda p: p.name)
-    if not files:
-        print(f"::notice ::No daily news files present in {DATA_DIR}")
-        sys.exit(0)
-
-    target = files[-2] if len(files) >= 2 else files[-1]
-    m = re.match(r"news_(\d{4}-\d{2}-\d{2})\.json", target.name)
-    if not m:
-        raise RuntimeError(f"Unexpected filename: {target.name}")
-    date_str = m.group(1)
+    """Return date_str and articles list for daily summary."""
+    files = sorted(DATA_DIR.glob("news_????-??-??.json"), key=lambda p: p.name)
+    if len(files) < 2:
+        print("ERROR: Not enough news files for daily summary.")
+        sys.exit(1)
+    target = files[-2]
+    date_str = target.stem.split('_')[-1]
     articles = json.loads(target.read_text(encoding="utf-8"))
     return date_str, articles
 
 
-def latest_weekly_files(n: int = 7) -> tuple[str, list[dict]]:
-    """Return date_str (of second-most-recent) and combined articles from that plus n-1 preceding files."""
-    pattern = "news_????-??-??.json"
-    files = sorted(DATA_DIR.glob(pattern), key=lambda p: p.name)
-    if not files:
-        print(f"::notice ::No daily news files present in {DATA_DIR}")
+def latest_weekly_summaries(n: int = 7) -> tuple[str, list[str]]:
+    """Return last date_str and list of last n daily summary texts from JSON."""
+    json_path = DATA_DIR / "summary_GPT_3.5.json"
+    if not json_path.exists():
+        print(f"::notice ::No summary JSON at {json_path}")
         sys.exit(0)
-
-    # drop the most recent file
-    remainder = files[:-1]
-    # take last n files (second-most-recent and preceding n-1)
-    week_files = remainder[-n:]
-    if not week_files:
-        print("::notice ::Not enough files for weekly summary, using available ones.")
-        week_files = remainder
-
-    # date_str is the date of the latest in this set (the second-most-recent overall)
-    latest = week_files[-1]
-    m = re.match(r"news_(\d{4}-\d{2}-\d{2})\.json", latest.name)
-    date_str = m.group(1) if m else date.today().isoformat()
-
-    # aggregate articles
-    articles = []
-    for f in week_files:
-        batch = json.loads(f.read_text(encoding="utf-8"))
-        articles.extend(batch)
-    return date_str, articles
+    data = json.loads(json_path.read_text(encoding="utf-8"))
+    daily = data.get("daily_summary", {})
+    if not daily:
+        print("::notice ::No daily summaries present.")
+        sys.exit(0)
+    dates = sorted(daily.keys())
+    last_dates = dates[-n:]
+    summaries = [daily[d] for d in last_dates]
+    week_label = last_dates[-1]
+    return week_label, summaries
 
 
 def summarize_daily(date_str: str, articles: list[dict]) -> str:
-    """Produce a forward-looking 3–5 sentence daily summary via GPT."""
-    snippets = [f"- {art.get('title','').strip()}: {art.get('description') or art.get('content','')}" for art in articles]
-    prompt_body = "\n".join(snippets)
-
+    """Produce a 3–5 sentence daily summary via GPT."""
     messages = [
         {"role": "system", "content": "You are an expert news summarizer. Produce a concise, forward-looking daily briefing."},
-        {"role": "user", "content": (
-            f"Here are today's news items for {date_str}:\n{prompt_body}\n\n"
-            "Write me a 3–5 sentence summary highlighting key trends and implications, "
-            "focusing on topics such as credit, loan, lending, fintech startups, digital lending, "
-            "credit platforms, loan services, peer-to-peer lending, online loan platforms, investment platforms, "
-            "digital wealth management, fractional investing, seed funding, fintech VC, and risk assessment."
+        {"role": "user",   "content": (
+            f"Here are today's news items for {date_str}:\n" +
+            "\n".join([f"- {art.get('title','').strip()}: {art.get('description') or art.get('content','')}" for art in articles]) +
+            "\n\nWrite me a 3–5 sentence summary highlighting key trends and implications."
         )}
     ]
     resp = client.chat.completions.create(model="gpt-3.5-turbo", messages=messages, temperature=0.7, max_tokens=300)
     return resp.choices[0].message.content.strip()
 
 
-def summarize_weekly(date_str: str, articles: list[dict]) -> str:
+def summarize_weekly(date_str: str, daily_summaries: list[str]) -> str:
     """Produce a 12–15 sentence weekly synthesis via GPT."""
-    snippets = [f"- {art.get('title','').strip()}: {art.get('description') or art.get('content','')}" for art in articles]
+    snippets = [f"- {s.strip()}" for s in daily_summaries]
     prompt_body = "\n".join(snippets)
-
     week_num = date.fromisoformat(date_str).isocalendar()[1]
     messages = [
         {"role": "system", "content": "You are an expert weekly news analyst."},
-        {"role": "user", "content": (
-            f"Calendar Week {week_num} summary: Here are the week's finished news items for week ending {date_str}:\n{prompt_body}\n\n"
-            "Summarize the key themes and forward-looking insights, focusing especially on developments in areas such as credit, loan, Exaloan, lending, "
-            "fintech startups, digital lending, credit platforms, loan services, peer-to-peer lending, online loan platforms, investment platforms, "
-            "digital wealth management, fractional investing, seed funding, fintech VC, and risk assessment."
+        {"role": "user",   "content": (
+            f"Calendar Week {week_num} summary: Here are the daily summaries for week ending {date_str}:\n{prompt_body}\n\n"
+            "Please produce a 12–15 sentence summary highlighting key themes and forward-looking insights."
         )}
     ]
     resp = client.chat.completions.create(model="gpt-3.5-turbo", messages=messages, temperature=0.7, max_tokens=400)
@@ -117,7 +91,7 @@ def summarize_weekly(date_str: str, articles: list[dict]) -> str:
 
 
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="Generate daily or weekly summaries via GPT.")
     parser.add_argument("mode", choices=["daily", "weekly"], help="Summary mode to run.")
     args = parser.parse_args()
 
@@ -125,8 +99,8 @@ def main():
         date_str, articles = latest_news_file()
         summary = summarize_daily(date_str, articles)
     else:
-        date_str, articles = latest_weekly_files(n=7)
-        summary = summarize_weekly(date_str, articles)
+        date_str, daily_summaries = latest_weekly_summaries()
+        summary = summarize_weekly(date_str, daily_summaries)
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     out_md = OUTPUT_DIR / f"summary_{args.mode}_{date_str}.md"
