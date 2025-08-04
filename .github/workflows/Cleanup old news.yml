@@ -21,21 +21,25 @@ jobs:
           fetch-depth: 0
 
       - name: Delete news_*.json older than 7 days
+        id: delete
         run: |
-          # adjust path to your data directory
-          TARGET_DIR=/data
-          find "$TARGET_DIR" -maxdepth 1 -type f -name 'news_*.json' -mtime +7 -print -delete
+          TARGET_DIR=data
+          echo "Looking in $TARGET_DIR for old news files..."
+          # find and delete files older than 7 days
+          DELETED=$(find "$TARGET_DIR" -maxdepth 1 -type f -name 'news_*.json' -mtime +7 -print -delete)
+          echo "$DELETED"
+          # export a flag if deletions occurred
+          if [ -n "$DELETED" ]; then
+            echo "deletions_occurred=true" >> $GITHUB_OUTPUT
+          else
+            echo "deletions_occurred=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and push deletions
-        if: ${{ steps.cleanup.outputs.deleted }} || true
+        if: steps.delete.outputs.deletions_occurred == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add news_fetching/data
-          # Only commit if there are changes
-          if ! git diff --staged --quiet; then
-            git commit -m "cleanup: remove news files older than 7 days"
-            git push
-          else
-            echo "No files to delete."
-          fi
+          git add data
+          git commit -m "cleanup: remove news files older than 7 days"
+          git push
