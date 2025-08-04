@@ -23,7 +23,7 @@ DATA_DIR   = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "summaries"
 
 # Initialize OpenAI client
-a pi_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
     print("ERROR: OPENAI_API_KEY environment variable not set.")
     sys.exit(1)
