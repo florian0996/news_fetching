@@ -460028,5 +460028,83 @@
       "Confirms",
       "Narrow"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-04/ubs-settles-credit-suisse-mortgage-bond-case-for-300-million",
+    "title": "UBS Settles Credit Suisse Mortgage-Bond Case for $300 Million",
+    "fetched_on": "2025-08-04T05:37:23.645205+00:00",
+    "content": "UBS Group AG said it has reached an agreement with the US Department of Justice to resolve a legacy Credit Suisse matter related to the former bank’s role in selling residential mortgage-backed securities in the US.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Suisse",
+      "UBS",
+      "Million",
+      "Settles",
+      "Case",
+      "Group",
+      "Department",
+      "Justice",
+      "Mortgage-Bond"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-04/asian-credit-gauges-head-for-biggest-two-day-blowout-since-april",
+    "title": "Asian Credit Gauges Head for Biggest Two-Day Blowout Since April",
+    "fetched_on": "2025-08-04T05:37:23.114069+00:00",
+    "content": "Credit spreads on Asian investment-grade dollar bonds widened Monday, putting them on course for the biggest two-day blowout since early April, following worse-than-expected US jobs data.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Blowout",
+      "Monday",
+      "Credit",
+      "April",
+      "Biggest",
+      "Two-Day",
+      "Asian",
+      "Gauges",
+      "Head",
+      "putting"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-04/korea-expects-less-than-5-of-350-billion-us-fund-as-investment",
+    "title": "Korea Expects $350 Billion US Fund to Be Less Than 5% Equity",
+    "fetched_on": "2025-08-04T05:37:23.114087+00:00",
+    "content": "South Korea’s presidential policy chief said the country’s $350 billion investment pledge as part of the US trade deal is largely structured as loan guarantees rather than direct capital injections, seeking to ease domestic concerns over the scale and risks of the agreement.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Korea",
+      "Expects",
+      "Equity",
+      "Fund",
+      "South",
+      "injections",
+      "seeking",
+      "agreement",
+      "presidential"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/ubs-settles-doj-credit-suisse-probe-with-300-mln-penalty-4166937",
+    "title": "UBS settles DOJ Credit Suisse probe with $300 mln penalty",
+    "fetched_on": "2025-08-04T05:37:28.538173+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UBS",
+      "DOJ",
+      "Credit",
+      "Suisse",
+      "mln",
+      "penalty",
+      "settles",
+      "probe"
+    ]
   }
 ]
