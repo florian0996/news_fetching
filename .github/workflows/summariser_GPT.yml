@@ -10,6 +10,10 @@ on:
 jobs:
   summarise:
     runs-on: ubuntu-latest
+
+    env:
+     OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
