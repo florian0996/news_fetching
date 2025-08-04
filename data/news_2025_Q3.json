@@ -460462,5 +460462,65 @@
       "Lenders",
       "Face"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-04/firstrand-may-revise-provision-after-uk-car-loans-ruling",
+    "title": "FirstRand Weighs Higher Cost Provisions After UK Car-Loan Ruling",
+    "fetched_on": "2025-08-04T11:20:34.752734+00:00",
+    "content": "FirstRand Ltd., South Africa’s biggest bank by market value, may revise the amount of provisions it set aside to cover potential compensation and other costs it is facing tied to missold car loans in the UK.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ltd.",
+      "South",
+      "Provisions",
+      "Weighs",
+      "Higher",
+      "Ruling",
+      "Africa",
+      "FirstRand",
+      "Cost",
+      "costs"
+    ]
+  },
+  {
+    "source": "iPhone in Canada [NewsAPI]",
+    "url": "https://www.iphoneincanada.ca/2025/08/03/telus-and-koodo-to-kill-5-credit-card-discount-heres-how-to-keep-it/",
+    "title": "Telus and Koodo to Kill $5 Credit Card Discount—Here’s How to Keep It",
+    "fetched_on": "2025-08-04T11:20:33.801712+00:00",
+    "content": "Telus and Koodo are ending a long-standing $5 monthly discount for customers who pay their wireless bills using pre-authorized credit card payments.\r\nAccoriding to emails seen by iPhone in Canada sen… [+1567 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Koodo",
+      "Telus",
+      "Credit",
+      "Card",
+      "Kill",
+      "Discount",
+      "long-standing",
+      "monthly",
+      "payments",
+      "ending"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/08/04/student-loan-borrowers-tell-cnbc-how-the-end-of-save-may-affect-you.html",
+    "title": "Student loan borrowers — how will the end of the SAVE plan impact you? Tell us",
+    "fetched_on": "2025-08-04T11:20:47.374569+00:00",
+    "content": "CNBC wants to hear from student loan borrowers who are grappling with the end of the Biden-era SAVE plan, and trying to figure out their next steps.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SAVE",
+      "loan",
+      "end",
+      "Student",
+      "borrowers",
+      "plan",
+      "impact",
+      "CNBC",
+      "Biden-era",
+      "steps"
+    ]
   }
 ]
