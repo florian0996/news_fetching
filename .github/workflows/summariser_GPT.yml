@@ -33,12 +33,12 @@ jobs:
 
       - name: Run daily summary
         run: |
-          python scripts/create_summaries_GPT.py --mode daily
+          python scripts/create_summaries_GPT.py daily
 
       - name: Run weekly summary (Mondays only)
         run: |
           if [ "$(date -u +%u)" = "1" ]; then
-            python scripts/create_summaries_GPT.py --mode weekly
+            python scripts/create_summaries_GPT.py weekly
           else
             echo "Not Monday, skipping weekly summary."
           fi
