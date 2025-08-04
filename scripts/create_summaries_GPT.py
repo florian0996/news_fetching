@@ -68,6 +68,7 @@ def summarize_daily(date_str: str, articles: list[dict]) -> str:
             f"Here are today's news items for {date_str}:\n" +
             "\n".join([f"- {art.get('title','').strip()}: {art.get('description') or art.get('content','')}" for art in articles]) +
             "\n\nWrite me a 3–5 sentence summary highlighting key trends and implications."
+            "Be precise: if you refer to regulatory actions or corporate deals, give the exact law, agency, or company name."
         )}
     ]
     resp = client.chat.completions.create(model="gpt-3.5-turbo", messages=messages, temperature=0.7, max_tokens=300)
@@ -84,6 +85,8 @@ def summarize_weekly(date_str: str, daily_summaries: list[str]) -> str:
         {"role": "user",   "content": (
             f"Calendar Week {week_num} summary: Here are the daily summaries for week ending {date_str}:\n{prompt_body}\n\n"
             "Please produce a 12–15 sentence summary highlighting key themes and forward-looking insights."
+            "Whenever you mention regulatory moves or economic policies, name the law or agency; "
+            "whenever you mention corporate actions, name the exact company or fund."
         )}
     ]
     resp = client.chat.completions.create(model="gpt-3.5-turbo", messages=messages, temperature=0.7, max_tokens=400)
