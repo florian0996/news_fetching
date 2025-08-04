@@ -460146,5 +460146,85 @@
       "chars",
       "Earnings"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-04/mufg-profit-beats-estimates-maintains-record-earnings-target",
+    "title": "MUFG Profit Beats Estimates; Maintains Record Earnings Target",
+    "fetched_on": "2025-08-04T07:30:18.375911+00:00",
+    "content": "Mitsubishi UFJ Financial Group Inc. kept its forecast for another year of record profit after earnings exceeded analysts’ expectations in the first quarter, thanks to a drop in credit costs.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUFG",
+      "Estimates",
+      "Maintains",
+      "Beats",
+      "Target",
+      "Mitsubishi",
+      "UFJ",
+      "Financial",
+      "Group",
+      "Profit"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/03/head-to-head-contrast-lendingclub-nyselc-vs-vanquis-banking-group-otcmktsfplpf/",
+    "title": "Head-To-Head Contrast: LendingClub (NYSE:LC) vs. Vanquis Banking Group (OTCMKTS:FPLPF)",
+    "fetched_on": "2025-08-04T07:30:16.281784+00:00",
+    "content": "LendingClub (NYSE:LC – Get Free Report) and Vanquis Banking Group (OTCMKTS:FPLPF – Get Free Report) are both financial services companies, but which is the better investment? We will compare the two … [+4157 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "OTCMKTS",
+      "FPLPF",
+      "LendingClub",
+      "Group",
+      "Report",
+      "Banking",
+      "Free",
+      "Contrast",
+      "Vanquis"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/08/03/editorial-healey-a-coward-for-failing-to-thank-trump/",
+    "title": "Editorial: Healey a coward for failing to thank Trump",
+    "fetched_on": "2025-08-04T07:30:16.281784+00:00",
+    "content": "Gov. Maura Healey won’t say this, so we will!\r\nYou can thank President Donald Trump for helping end the taxpayer-funded Right to Shelter crisis, which has cost Massachusetts billions. Credit ICE, too… [+3097 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gov",
+      "Editorial",
+      "Healey",
+      "Trump",
+      "coward",
+      "failing",
+      "ICE",
+      "chars",
+      "President",
+      "Donald"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/03/alfreton-capital-llp-purchases-20000-shares-of-credit-acceptance-corporation-nasdaqcacc/",
+    "title": "Alfreton Capital LLP Purchases 20,000 Shares of Credit Acceptance Corporation (NASDAQ:CACC)",
+    "fetched_on": "2025-08-04T07:30:16.281784+00:00",
+    "content": "Alfreton Capital LLP raised its position in Credit Acceptance Corporation (NASDAQ:CACC – Free Report) by 11.8% in the 1st quarter, according to the company in its most recent filing with the Securiti… [+5016 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "CACC",
+      "Corporation",
+      "Alfreton",
+      "Capital",
+      "Acceptance",
+      "LLP",
+      "Credit",
+      "Purchases",
+      "Shares"
+    ]
   }
 ]
