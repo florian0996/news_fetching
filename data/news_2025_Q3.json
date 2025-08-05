@@ -462033,5 +462033,85 @@
       "Rakyat",
       "KUALA"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/stock-markets/federal-bank-shares-dive-5-amid-mfi-stress-q1-profit-dips/article69892175.ece",
+    "title": "Federal Bank shares dive 5% amid MFI stress, Q1 profit dips",
+    "fetched_on": "2025-08-05T05:30:52.485122+00:00",
+    "content": "Shares of Federal Bank crashed 5 per cent on Monday following a 14.6 per cent decrease in standalone net profit in Q1 FY26, elevated credit costs and MFI stress. \r\nThe bank posted a profit of 861.75 … [+2108 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MFI",
+      "stress",
+      "Federal",
+      "shares",
+      "Bank",
+      "Monday",
+      "cent",
+      "dive",
+      "amid",
+      "crashed"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/04/b-riley-has-optimistic-outlook-of-tslx-q3-earnings/",
+    "title": "B. Riley Has Optimistic Outlook of TSLX Q3 Earnings",
+    "fetched_on": "2025-08-05T05:30:52.485122+00:00",
+    "content": "Sixth Street Specialty Lending, Inc. (NYSE:TSLX – Free Report) – Equities researchers at B. Riley lifted their Q3 2025 earnings per share (EPS) estimates for shares of Sixth Street Specialty Lending … [+5427 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "TSLX",
+      "Optimistic",
+      "Outlook",
+      "Street",
+      "Specialty",
+      "NYSE",
+      "Sixth",
+      "Earnings",
+      "EPS"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/08/03/reverse-engineering-the-tda7000-fm-radio-receiver-ic/",
+    "title": "Reverse-Engineering the TDA7000 FM Radio Receiver IC",
+    "fetched_on": "2025-08-05T05:30:52.485122+00:00",
+    "content": "A wristwatch featuring the TDA7000 FM radio receiver IC. (Credit: Philips Technical Review)\r\nDuring the 1980s a lot of consumer devices suddenly got a lot smaller as large-scale integration using sem… [+1353 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Radio",
+      "Receiver",
+      "Reverse-Engineering",
+      "Credit",
+      "wristwatch",
+      "featuring",
+      "Philips",
+      "Review",
+      "lot",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2025/08/04/pepper-says-13-of-loans-managed-for-funds-refinanced-over-19-months/",
+    "title": "Pepper says 13% of loans managed for funds refinanced over 19 months",
+    "fetched_on": "2025-08-05T05:30:52.485122+00:00",
+    "content": "Pepper Advantage Ireland, the mortgage services provider, said more than 13 per cent of loans it manages on behalf of nonbanks that are not active lenders have been refinanced since the start of 2024… [+2364 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ireland",
+      "Pepper",
+      "chars",
+      "loans",
+      "Advantage",
+      "refinanced",
+      "months",
+      "provider",
+      "managed",
+      "funds"
+    ]
   }
 ]
