@@ -464680,5 +464680,325 @@
       "Jail",
       "Paying"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-05/markets-brace-for-televisa-junk-downgrade-as-subscribers-flee",
+    "title": "Markets Brace for Televisa Junk Downgrade as Subscribers Flee",
+    "fetched_on": "2025-08-05T18:36:17.395220+00:00",
+    "content": "Tough industry competition and a persistent cord-cutting customer base continue to pile pressure on Grupo Televisa SAB’s credit ratings even amid signs that the media conglomerate has made some progress stemming subscriber losses.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Televisa",
+      "Brace",
+      "Junk",
+      "Downgrade",
+      "Flee",
+      "Tough",
+      "Grupo",
+      "SAB",
+      "Markets",
+      "losses"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-05/carney-pledges-870-million-for-lumber-sector-targeted-by-trump",
+    "title": "Carney Pledges $870 Million for Lumber Sector Hit by Trump",
+    "fetched_on": "2025-08-05T18:36:18.673647+00:00",
+    "content": "Prime Minister Mark Carney promised as much as C$700 million ($508 million) in loan guarantees to shore up Canada’s lumber industry, which has been hit hard by US duties that are about to significantly increase.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Pledges",
+      "Carney",
+      "Lumber",
+      "Hit",
+      "Sector",
+      "Trump",
+      "Prime",
+      "Minister",
+      "Mark"
+    ]
+  },
+  {
+    "source": "Theregister.com [NewsAPI]",
+    "url": "https://www.theregister.com/2025/08/04/pxa_stealer_4000_victims/",
+    "title": "Python-powered malware snags hundreds of credit cards, 200K passwords, and 4M cookies",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "More than 4,000 victims across 62 countries have been infected by stealthy infostealers pilfering people's passwords, credit card numbers, and browser cookies, which are then sold to other criminals … [+4472 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "passwords",
+      "credit",
+      "Python-powered",
+      "victims",
+      "countries",
+      "numbers",
+      "criminals",
+      "cookies",
+      "malware"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/08/04/celebrated-shipwreck-explorer-dies-while-diving-on-wreck-off-cape-cod-crew-says/",
+    "title": "Celebrated shipwreck explorer dies while diving on wreck off Cape Cod, crew says",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "MIAMI A shipwreck explorer with numerous discoveries to his credit has died while on a wreck off Cape Cod, according to his crew.\r\nCapt. Joe Mazraani died Tuesday, July 29, in a diving related incide… [+2062 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cod",
+      "Cape",
+      "MIAMI",
+      "shipwreck",
+      "explorer",
+      "wreck",
+      "crew",
+      "July",
+      "Celebrated",
+      "diving"
+    ]
+  },
+  {
+    "source": "KCCI Des Moines [NewsAPI]",
+    "url": "https://www.kcci.com/article/skittles-hershey-nestle-removing-artificial-colors/65588995",
+    "title": "'It's just PR': Skittles, Hershey and Nestle are removing artificial colors",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "The Trump administration declared victory after Kraft Heinz, Skittles and General Mills made splashy announcements to remove artificial colors even taking credit for Coca-Cola's plan to replace high-… [+8288 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Skittles",
+      "chars",
+      "Hershey",
+      "Heinz",
+      "Nestle",
+      "Trump",
+      "Kraft",
+      "General",
+      "Mills",
+      "artificial"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d0c0fb04cc51989e",
+    "title": "Stone secures IBD financing to offer credit to businesses in the Amazon",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Boeing workers strike this week? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's tariffs affect … [+734 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Amazon",
+      "return",
+      "false",
+      "IBD",
+      "Boeing",
+      "Stone",
+      "week"
+    ]
+  },
+  {
+    "source": "WMUR Manchester [NewsAPI]",
+    "url": "https://www.wmur.com/article/skittles-hershey-nestle-removing-artificial-colors/65588995",
+    "title": "'It's just PR': Skittles, Hershey and Nestle are removing artificial colors",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "The Trump administration declared victory after Kraft Heinz, Skittles and General Mills made splashy announcements to remove artificial colors even taking credit for Coca-Cola's plan to replace high-… [+8288 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Skittles",
+      "chars",
+      "Hershey",
+      "Heinz",
+      "Nestle",
+      "Trump",
+      "Kraft",
+      "General",
+      "Mills",
+      "artificial"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_50f1022f-2c59-4ca6-ba85-4fb0fd838330",
+    "title": "Stone secures IBD financing to offer credit to businesses in the Amazon",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IBD",
+      "Amazon",
+      "IAB",
+      "Stone"
+    ]
+  },
+  {
+    "source": "Futilitycloset.com [NewsAPI]",
+    "url": "https://www.futilitycloset.com/2025/08/04/a-credit-to-the-gpo/",
+    "title": "“A Credit to the GPO”",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "Futility Closet is a collection of entertaining curiosities in history, literature, language, art, philosophy, and mathematics, designed to help you waste time as enjoyably as possible.\r\nYou can read… [+129 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "literature",
+      "language",
+      "art",
+      "philosophy",
+      "GPO",
+      "Futility",
+      "Credit",
+      "Closet",
+      "history",
+      "mathematics"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/be52cff570af9811",
+    "title": "What is a credit card spending limit — and what to know",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "Your credit card spending limit is the maximum amount you can spend on the card, and is determined by your credit card company.A credit limit has a bigger impact on how you use your card than you mig… [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "credit",
+      "spending",
+      "limit",
+      "chars",
+      "mig",
+      "maximum",
+      "amount",
+      "spend",
+      "determined"
+    ]
+  },
+  {
+    "source": "Calculatedriskblog.com [NewsAPI]",
+    "url": "https://www.calculatedriskblog.com/2025/08/fed-july-sloos-survey-banks-reported.html",
+    "title": "Fed July SLOOS Survey: Banks reported Weaker Demand for Most Loan Categories",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "From the Federal Reserve: The July 2025 Senior Loan Officer Opinion Survey on Bank Lending PracticesThe July 2025 Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) addressed change… [+1861 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Senior",
+      "Survey",
+      "Loan",
+      "Officer",
+      "Opinion",
+      "Bank",
+      "July",
+      "Lending",
+      "SLOOS",
+      "Reserve"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/apps-software/ai/motorola-is-so-close-to-getting-mobile-ai-right-but-theres-still-work-to-do",
+    "title": "Motorola is so close to getting mobile AI right, but there's still work to do",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "(Image credit: Future)\r\nAI Byte is a weekly column covering all things artificial intelligence, including AI models, apps, features, and how they all impact your favorite devices.\r\nGoogle is finally … [+6409 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Image",
+      "apps",
+      "features",
+      "Byte",
+      "Motorola",
+      "credit",
+      "intelligence",
+      "including",
+      "models"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/british-actor-tom-holland-to-rep-prada-beauty-as-global-ambassador/",
+    "title": "British actor Tom Holland to rep Prada Beauty as global ambassador",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "Commerce\r\nAugust 4, 2025\r\n British actor Tom Holland fronts a campaign for Prada Paradigme, a new men's fragrance from the maison. Image credit: Prada Beauty \r\n By Amirah Keaton for Luxury Daily News… [+6108 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "British",
+      "Tom",
+      "Holland",
+      "August",
+      "Paradigme",
+      "Prada",
+      "actor",
+      "Beauty",
+      "Commerce",
+      "maison"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/actor-tom-holland-reps-prada-beauty-as-global-ambassador/",
+    "title": "Actor Tom Holland reps Prada Beauty as global ambassador",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "Commerce\r\nAugust 4, 2025\r\n British actor Tom Holland fronts a campaign for Prada Paradigme, a new men's fragrance from the maison. Image credit: Prada Beauty \r\n By Amirah Keaton for Luxury Daily News… [+6103 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tom",
+      "Holland",
+      "August",
+      "British",
+      "Paradigme",
+      "Prada",
+      "Beauty",
+      "Commerce",
+      "Actor",
+      "maison"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_26e27678-4582-4b65-81af-8b2a2043d1ca",
+    "title": "What is a credit card spending limit — and what to know vbefo",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "limit",
+      "click",
+      "partners"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/the-gilded-age-season-4-release-date-5432816/",
+    "title": "‘The Gilded Age’ Season 4 Release Date: When Does the Next Season Air?",
+    "fetched_on": "2025-08-05T18:36:16.043484+00:00",
+    "content": "Image Credit: Karolina Wojtasik/HBO\r\nWhats better than a period drama series? Some of TVs hottest shows right now take place way back in the 19th and 20th centuries, including The Gilded Age, which f… [+1804 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Release",
+      "Date",
+      "Air",
+      "Age’",
+      "Gilded",
+      "Credit",
+      "Karolina",
+      "Wojtasik",
+      "HBO"
+    ]
   }
 ]
