@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-04/corporate-bond-spreads-flashing-signs-of-complacency-ubs-says",
     "title": "Corporate Credit Markets Are Flashing Signs of Complacency, UBS Says",
     "fetched_on": "2025-08-05T03:51:14.271615+00:00",
@@ -20,10 +20,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Technology [RSS]",
+    "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-04/texas-approves-loan-for-nrg-s-new-houston-gas-fired-power-plant",
-    "title": "Texas Approves $216 Million Loan for NRG’s New Houston Gas-Fired Power Plant",
-    "fetched_on": "2025-08-05T03:51:14.676292+00:00",
+    "title": "Texas Approves $216 Million Loan for NRG\u2019s New Houston Gas-Fired Power Plant",
+    "fetched_on": "2025-08-05T04:50:29.169029+00:00",
     "content": "NRG Energy Inc. received a $216 million, low-interest loan from the state-run Texas Energy Fund to build a new power plant in Houston.",
     "platforms_mentioned": [],
     "keywords": [
@@ -40,10 +40,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-04/petsmart-plans-to-sell-4-7-billion-of-debt-to-fund-refinancing",
     "title": "PetSmart Plans to Sell $4.7 Billion of Debt to Fund Refinancing",
-    "fetched_on": "2025-08-05T03:51:15.012755+00:00",
+    "fetched_on": "2025-08-05T04:50:29.372661+00:00",
     "content": "PetSmart LLC launched a $1.7 billion leveraged loan on Monday that the retailer plans to use as part of a multibillion-dollar debt refinancing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -60,11 +60,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-04/firstrand-may-revise-provision-after-uk-car-loans-ruling",
     "title": "FirstRand Mulls Higher Provisions After UK Car-Loan Ruling",
-    "fetched_on": "2025-08-05T03:51:15.012792+00:00",
-    "content": "FirstRand Ltd., South Africa’s biggest bank by market value, may revise the amount of provisions it set aside to cover potential compensation and other costs it is facing tied to missold car loans in the UK.",
+    "fetched_on": "2025-08-05T04:50:29.372702+00:00",
+    "content": "FirstRand Ltd., South Africa\u2019s biggest bank by market value, may revise the amount of provisions it set aside to cover potential compensation and other costs it is facing tied to missold car loans in the UK.",
     "platforms_mentioned": [],
     "keywords": [
       "Ltd.",
@@ -82,9 +82,9 @@
   {
     "source": "pymnts.com [NewsAPI]",
     "url": "http://www.pymnts.com/credit-cards/2025/goldmans-apple-card-partner-faces-uncertain-future/",
-    "title": "Goldman’s Apple Card Partner Faces Uncertain Future",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "A deal between Apple and JPMorgan could reportedly leave a lesser-known company in the cold.As the Wall Street Journal (WSJ) reported Sunday (Aug. 3), CoreCard has helped provide Apples credit card w… [+2111 chars]",
+    "title": "Goldman\u2019s Apple Card Partner Faces Uncertain Future",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "A deal between Apple and JPMorgan could reportedly leave a lesser-known company in the cold.As the Wall Street Journal (WSJ) reported Sunday (Aug. 3), CoreCard has helped provide Apples credit card w\u2026 [+2111 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "WSJ",
@@ -103,8 +103,8 @@
     "source": "BusinessLine [NewsAPI]",
     "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-4th-august-2025/article69889736.ece",
     "title": "Stock Market Live Updates 4 August 2025: Stock to buy today: Jindal Stainless",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Percentage sign on top of coin stacks before blue financial graph. Horizontal composition with copy space. Business and finance concept. istock photo for BL\r\n | Photo Credit: \r\n MicroStockHub\r\nStock … [+2496 chars]",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Percentage sign on top of coin stacks before blue financial graph. Horizontal composition with copy space. Business and finance concept. istock photo for BL\r\n | Photo Credit: \r\n MicroStockHub\r\nStock \u2026 [+2496 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "August",
@@ -123,8 +123,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/wealth/borrow/what-eblr-and-mclr-mean-and-how-your-home-loan-and-personal-loan-are-affected-by-changes-in-these-rates/articleshow/123047164.cms",
     "title": "What EBLR and MCLR mean and how your home loan and personal loan are affected by changes in these rates",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Benchmark rate\r\nWhen you take a loan from a bank, it charges an interest rate. This rate is linked to a base or reference rate, which is called the benchmark rate. The banks add a premium or a markup… [+2041 chars]",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Benchmark rate\r\nWhen you take a loan from a bank, it charges an interest rate. This rate is linked to a base or reference rate, which is called the benchmark rate. The banks add a premium or a markup\u2026 [+2041 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "loan",
@@ -143,8 +143,8 @@
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/blakeoestriecher/2025/08/03/wwe-summerslam-2025-results-as-solo-sikoa-escapes-defeats-jacob-fatu/",
     "title": "WWE SummerSlam 2025 Results As Solo Sikoa Escapes, Defeats Jacob Fatu",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Solo Sikoa has taken over as the leader of a new look Bloodline. (Credit: Joe Maher/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE SummerSlam 2025 was a shot at a redemption for Jacob Fatu as he ba… [+4424 chars]",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Solo Sikoa has taken over as the leader of a new look Bloodline. (Credit: Joe Maher/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE SummerSlam 2025 was a shot at a redemption for Jacob Fatu as he ba\u2026 [+4424 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Solo",
@@ -163,8 +163,8 @@
     "source": "Ozbargain.com.au [NewsAPI]",
     "url": "https://www.ozbargain.com.au/node/918212",
     "title": "Kogan Credit Card: $400 Kogan Credit ($3k Eligible Spend 90 Days), 6 Months 0% BT, $0 Annual Fee, FIRST Membership @ Kogan Money",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Similar deal to https://www.ozbargain.com.au/node/908411$400 credit is only eligible for those who have never applied this card before\r\nWhy choose the Kogan Money Credit Card?\r\n$400 Kogan.com CreditW… [+827 chars]",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Similar deal to https://www.ozbargain.com.au/node/908411$400 credit is only eligible for those who have never applied this card before\r\nWhy choose the Kogan Money Credit Card?\r\n$400 Kogan.com CreditW\u2026 [+827 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -183,8 +183,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-exclusive-ed-to-question-bank-officials-over-rs-17000-cr-loan-fraud-linked-to-anil-ambani-led-reliance-group/articleshow/123080988.cms",
     "title": "ET Exclusive: ED to question bank officials over Rs 17,000 cr loan fraud linked to Anil Ambani-led Reliance Group",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "The Enforcement Directorate (ED) will summon officials of private and public sector banks that had given loans to Anil Ambani-led Reliance Group for questioning in connection with its money launderin… [+5391 chars]",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "The Enforcement Directorate (ED) will summon officials of private and public sector banks that had given loans to Anil Ambani-led Reliance Group for questioning in connection with its money launderin\u2026 [+5391 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Anil",
@@ -203,8 +203,8 @@
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/blakeoestriecher/2025/08/03/wwe-summerslam-2025-results-as-bayley-interferes-becky-lynch--beats-lyra-valkyria/",
     "title": "WWE SummerSlam 2025 Results As Bayley Interferes, Becky Lynch Beats Lyra Valkyria",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Becky Lynch has helped elevate Lyra Valkyria to new heights. (Credit: Georgiana Dallas/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE SummerSlam 2025 seemed to be the perfect setup for the final ch… [+5718 chars]",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Becky Lynch has helped elevate Lyra Valkyria to new heights. (Credit: Georgiana Dallas/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE SummerSlam 2025 seemed to be the perfect setup for the final ch\u2026 [+5718 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Becky",
@@ -224,7 +224,7 @@
     "url": "https://www.forbes.com/sites/blakeoestriecher/2025/08/03/wwe-summerslam-2025-results-as-naomi-wins-with-sneaky-pin-on-rhea-ripley/",
     "title": "WWE SummerSlam 2025 Results As Naomi Wins With Sneaky Pin On Rhea Ripley",
     "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Naomi won the women's title last month at WWE Evolution. (Credit: Chansey Augustine/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE SummerSlam 2025 marked another massive womens triple threat match,… [+4454 chars]",
+    "content": "Naomi won the women's title last month at WWE Evolution. (Credit: Chansey Augustine/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE SummerSlam 2025 marked another massive womens triple threat match,\u2026 [+4454 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "WWE",
@@ -242,9 +242,9 @@
   {
     "source": "Breitbart News [NewsAPI]",
     "url": "https://www.breitbart.com/politics/2025/08/03/fruits-of-october-7-hamas-leader-boasts-massacre-spurred-western-recognition-of-palestinian-state/",
-    "title": "‘Fruits of October 7’: Hamas Leader Boasts Massacre Spurred Western Recognition of Palestinian State",
+    "title": "\u2018Fruits of October 7\u2019: Hamas Leader Boasts Massacre Spurred Western Recognition of Palestinian State",
     "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Senior Hamas political bureau member Ghazi Hamad openly credited the October 7 terrorist massacre with forcing Western nations to recognize a Palestinian state, declaring in a weekend Al Jazeera inte… [+5769 chars]",
+    "content": "Senior Hamas political bureau member Ghazi Hamad openly credited the October 7 terrorist massacre with forcing Western nations to recognize a Palestinian state, declaring in a weekend Al Jazeera inte\u2026 [+5769 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Palestinian",
@@ -262,9 +262,9 @@
   {
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/2025/08/03/when-will-caitlin-clark-be-back/",
-    "title": "When Will Caitlin Clark Be Back? Why She Isn’t Playing Today",
+    "title": "When Will Caitlin Clark Be Back? Why She Isn\u2019t Playing Today",
     "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Image Credit: Getty Images\r\nCaitlin Clark has been notably absent from the basketball court this season, and fans are dying to know the answers to two questions. 1) Why isnt she playing right now, an… [+2527 chars]",
+    "content": "Image Credit: Getty Images\r\nCaitlin Clark has been notably absent from the basketball court this season, and fans are dying to know the answers to two questions. 1) Why isnt she playing right now, an\u2026 [+2527 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Back",
@@ -284,7 +284,7 @@
     "url": "https://www.calculatedriskblog.com/2025/08/sunday-night-futures.html",
     "title": "Sunday Night Futures",
     "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Weekend:• Schedule for Week of August 3, 2025\r\nMonday:• At 2:00 PM ET, Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) for July.\r\nFrom CNBC: Pre-Market Data and Bloomberg futures… [+483 chars]",
+    "content": "Weekend:\u2022 Schedule for Week of August 3, 2025\r\nMonday:\u2022 At 2:00 PM ET, Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) for July.\r\nFrom CNBC: Pre-Market Data and Bloomberg futures\u2026 [+483 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Monday",
@@ -304,7 +304,7 @@
     "url": "https://biztoc.com/x/1064e58f33ee79c5",
     "title": "Thinking About a HELOC in 2025? Here's What Lenders Are Looking For",
     "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "A home equity line of credit (HELOC) can be a powerful tool for homeowners offering flexible access to your home's equity and a revolving line of credit that can be used for renovations, debt consoli… [+147 chars]",
+    "content": "A home equity line of credit (HELOC) can be a powerful tool for homeowners offering flexible access to your home's equity and a revolving line of credit that can be used for renovations, debt consoli\u2026 [+147 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "HELOC",
@@ -324,7 +324,7 @@
     "url": "https://finance.yahoo.com/news/thinking-heloc-2025-heres-lenders-214625522.html",
     "title": "Thinking About a HELOC in 2025? Here's What Lenders Are Looking For",
     "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "A home equity line of credit (HELOC) can be a powerful tool for homeowners offering flexible access to your home's equity and a revolving line of credit that can be used for renovations, debt consoli… [+7261 chars]",
+    "content": "A home equity line of credit (HELOC) can be a powerful tool for homeowners offering flexible access to your home's equity and a revolving line of credit that can be used for renovations, debt consoli\u2026 [+7261 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "HELOC",
@@ -344,7 +344,7 @@
     "url": "https://biztoc.com/x/12135a77cfa3c61a",
     "title": "What Can You Actually Use a Home Equity Line of Credit For?",
     "fetched_on": "2025-08-05T01:58:43.549134+00:00",
-    "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.A home equity line of credit or HELOC is one of the most flexible tools homeowners have to tap into… [+144 chars]",
+    "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.A home equity line of credit or HELOC is one of the most flexible tools homeowners have to tap into\u2026 [+144 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Equity",
@@ -364,7 +364,7 @@
     "url": "https://hollywoodlife.com/feature/2028-presidential-election-candidates-5432548/",
     "title": "2028 Presidential Election Candidates: Republicans & Democrats Vying for White House",
     "fetched_on": "2025-08-05T01:58:43.549134+00:00",
-    "content": "Image Credit: Getty Images\r\nWere still three years away from the 2028 presidential election, but multiple names in both the Democrat and Republican parties are in the conversation to run for office. … [+2544 chars]",
+    "content": "Image Credit: Getty Images\r\nWere still three years away from the 2028 presidential election, but multiple names in both the Democrat and Republican parties are in the conversation to run for office. \u2026 [+2544 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Presidential",
@@ -401,8 +401,8 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-08-05T03:51:18.880442+00:00",
-    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in…",
+    "fetched_on": "2025-08-05T04:50:32.363005+00:00",
+    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
       "Building",
@@ -418,11 +418,11 @@
     ]
   },
   {
-    "source": "Crunchbase News – Seed Funding [Scrape]",
+    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/seed/2025-funding-trends-defense-space-recycle-health/",
     "title": "What Seed Trends Say About The Future: Live Long, Recycle And Launch More Satellites",
-    "fetched_on": "2025-08-05T03:51:27.729321+00:00",
-    "content": "After plowing through a huge pile of seed funding rounds, we identified four areas where seed is trending this year: longevity, defense, waste reduction and spacetech. Here's where a lot of that investment is going.",
+    "fetched_on": "2025-08-05T04:50:40.834761+00:00",
+    "content": "After plowing through a huge pile of seed funding rounds, we identified four areas where seed is trending this year: longevity, defense, waste reduction and spacetech.\u00a0Here's where a lot of that investment is going.",
     "platforms_mentioned": [],
     "keywords": [
       "Seed",
@@ -440,8 +440,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/04/student-loan-borrowers-who-stay-in-save-forbearance.html",
-    "title": "3 things student loan borrowers can expect if they stay in the SAVE payment pause — and what they should do instead",
-    "fetched_on": "2025-08-05T03:51:28.524831+00:00",
+    "title": "3 things student loan borrowers can expect if they stay in the SAVE payment pause \u2014 and what they should do instead",
+    "fetched_on": "2025-08-05T04:50:41.823056+00:00",
     "content": "Student loan borrowers who don't leave the so-called SAVE payment pause could see their debt grow from interest and find their progress to loan relief stalled.",
     "platforms_mentioned": [],
     "keywords": [
@@ -461,8 +461,8 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/fed-holds-interest-rates-steady-what-that-means-for-your-money.html",
     "title": "Fed holds interest rates steady: What that means for car loans, credit cards, mortgages and more",
-    "fetched_on": "2025-08-05T03:51:28.524920+00:00",
-    "content": "From credit cards, car loans, mortgages, savings and student debt, here's how the Federal Reserve's interest-rate decision influences your wallet.",
+    "fetched_on": "2025-08-05T04:50:41.823163+00:00",
+    "content": "From credit cards, car loans, mortgages, savings and student debt,\u00a0here's how the Federal Reserve's interest-rate decision influences your wallet.",
     "platforms_mentioned": [],
     "keywords": [
       "loans",
@@ -481,7 +481,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/25/fed-likely-to-hold-interest-rates-steady-despite-trumps-pressure.html",
     "title": "Federal Reserve likely to hold interest rates steady despite pressure from Trump. Here's what that means for your money",
-    "fetched_on": "2025-08-05T03:51:28.524990+00:00",
+    "fetched_on": "2025-08-05T04:50:41.823238+00:00",
     "content": "The Fed's decision on interest rates affects many types of consumer borrowing costs, from credit cards and mortgages to auto loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -501,7 +501,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/07/29/jpmorgan-chase-apple-card-goldman-sachs-issuer.html",
     "title": "JPMorgan Chase is nearing a deal to replace Goldman Sachs as Apple Card issuer, sources say",
-    "fetched_on": "2025-08-05T03:51:28.449832+00:00",
+    "fetched_on": "2025-08-05T04:50:41.729239+00:00",
     "content": "A deal for JPMorgan to take over the Apple Card and its huge book of loans would further burnish the bank's reputation as a leader in American finance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -520,8 +520,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/04/student-loan-borrowers-tell-cnbc-how-the-end-of-save-may-affect-you.html",
-    "title": "Student loan borrowers — how will the end of the SAVE plan impact you? Tell us",
-    "fetched_on": "2025-08-05T03:51:28.524863+00:00",
+    "title": "Student loan borrowers \u2014 how will the end of the SAVE plan impact you? Tell us",
+    "fetched_on": "2025-08-05T04:50:41.823098+00:00",
     "content": "CNBC wants to hear from student loan borrowers who are grappling with the end of the Biden-era SAVE plan, and trying to figure out their next steps.",
     "platforms_mentioned": [],
     "keywords": [
@@ -541,8 +541,8 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/01/student-loan-interest-free-save-forbearance-ends.html",
     "title": "Millions of student loan borrowers could see their debt grow as interest-free break ends",
-    "fetched_on": "2025-08-05T03:51:28.524892+00:00",
-    "content": "Borrowers who remain in the so-called SAVE forbearance could see their education debt grow if they don't make payments large enough to cover accruing interest.",
+    "fetched_on": "2025-08-05T04:50:41.823129+00:00",
+    "content": "Borrowers who remain in the so-called SAVE forbearance could see their education debt grow if they don't make payments\u00a0large enough to cover accruing interest.",
     "platforms_mentioned": [],
     "keywords": [
       "borrowers",
@@ -561,7 +561,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/public-service-loan-forgiveness-pslf-becomes-harder-for-borrowers.html",
     "title": "38-year-old woman has already waited eight months in a 65,448-person backlog for Public Service Loan Forgiveness",
-    "fetched_on": "2025-08-05T03:51:28.524927+00:00",
+    "fetched_on": "2025-08-05T04:50:41.823171+00:00",
     "content": "A Biden-era program aimed at helping borrowers access the Public Service Loan Forgiveness program has stalled under the Trump administration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -580,8 +580,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/26/using-credit-cards-to-pay-for-your-wedding.html",
-    "title": "Credit cards can be an 'amazing tool' for your wedding, expert says — but only if you're 'strategic'",
-    "fetched_on": "2025-08-05T03:51:28.524961+00:00",
+    "title": "Credit cards can be an 'amazing tool' for your wedding, expert says \u2014 but only if you're 'strategic'",
+    "fetched_on": "2025-08-05T04:50:41.823209+00:00",
     "content": "If done strategically, using credit cards to cover wedding expenses can help you earn rewards, experts say. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -600,8 +600,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/25/student-loan-forgiveness-tax-trump-big-beautiful-bill.html",
-    "title": "Student loan forgiveness may soon be taxed again — here's how much borrowers could owe",
-    "fetched_on": "2025-08-05T03:51:28.524983+00:00",
+    "title": "Student loan forgiveness may soon be taxed again \u2014 here's how much borrowers could owe",
+    "fetched_on": "2025-08-05T04:50:41.823231+00:00",
     "content": "Starting next year, student loan borrowers who get their debt forgiven may wind up with a tax bill. Here's what borrowers should know about the changes.",
     "platforms_mentioned": [],
     "keywords": [
@@ -621,7 +621,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/23/student-loan-forgiveness-paused-under-ibr-plan.html",
     "title": "Student loan forgiveness paused for borrowers on IBR plan. Here's what to know",
-    "fetched_on": "2025-08-05T03:51:28.525011+00:00",
+    "fetched_on": "2025-08-05T04:50:41.823259+00:00",
     "content": "Student loan forgiveness is on hold for borrowers enrolled in the Income-Based Repayment plan. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -641,7 +641,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/22/trump-big-beautiful-bill-student-loan-plan-rap.html",
     "title": "Trump's 'big beautiful bill' created a new student loan repayment plan: Here's what borrowers need to know",
-    "fetched_on": "2025-08-05T03:51:28.525038+00:00",
+    "fetched_on": "2025-08-05T04:50:41.823287+00:00",
     "content": "Congress has created a new student loan repayment plan, called RAP. Here's what to know about the option, which will be available next summer.",
     "platforms_mentioned": [],
     "keywords": [
@@ -658,10 +658,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-05/hong-kong-billionaire-s-developer-tai-hung-fai-gets-private-loan",
-    "title": "Hong Kong Billionaire’s Developer Tai Hung Fai Gets Private Loan",
-    "fetched_on": "2025-08-05T03:51:14.271498+00:00",
+    "title": "Hong Kong Billionaire\u2019s Developer Tai Hung Fai Gets Private Loan",
+    "fetched_on": "2025-08-05T04:50:28.898436+00:00",
     "content": "Hong Kong developer Tai Hung Fai Enterprise Co., founded by billionaire Edwin Leong, has secured a private loan of up to HK$900 million ($115 million), people familiar with the matter said, as more property firms turn to such financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -681,8 +681,8 @@
     "source": "BusinessLine [NewsAPI]",
     "url": "https://www.thehindubusinessline.com/markets/stock-markets/q1-results-today-live-updates-dlf-bosch-siemens-ather-energy-aditya-birla-capital-fortis-malar-crizac-esaar-oswal-pumps-abb-india-federal-bank-upl-adani-power-delhivery-itc-godrej-properties-4-aug-202/article69889851.ece",
     "title": "Q1 Results Live: DLF, Bosch, Siemens, Ather Energy, Aditya Birla Capital, Fortis Malar, Crizac, Esaar, Oswal Pumps Q1 results today",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Businessman and team analyzing financial statement Finance task. with smart phone and laptop and tablet. Wealth management concept at office istock photo for BL\r\n | Photo Credit: \r\n nuttapong punna\r\n… [+2237 chars]",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Businessman and team analyzing financial statement Finance task. with smart phone and laptop and tablet. Wealth management concept at office istock photo for BL\r\n | Photo Credit: \r\n nuttapong punna\r\n\u2026 [+2237 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Results",
@@ -700,9 +700,9 @@
   {
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/loni-anderson-illness-5432644/",
-    "title": "Loni Anderson’s Illness Explained: Her Health Journey Before Her Death at 79",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Image Credit: Getty Images\r\nLoni Anderson was battling an illness by the time she died. After news broke of her death on August 3, 2025, fans, loved ones and industry peers mourned the late actress, … [+2822 chars]",
+    "title": "Loni Anderson\u2019s Illness Explained: Her Health Journey Before Her Death at 79",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Image Credit: Getty Images\r\nLoni Anderson was battling an illness by the time she died. After news broke of her death on August 3, 2025, fans, loved ones and industry peers mourned the late actress, \u2026 [+2822 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Anderson",
@@ -720,9 +720,9 @@
   {
     "source": "Twistedsifter.com [NewsAPI]",
     "url": "http://twistedsifter.com/2025/08/school-project-partner-wouldnt-help-out-so-this-student-got-all-the-credit-when-he-decided-to-do-it-without-him/",
-    "title": "School Project Partner Wouldn’t Help Out, So A Student Got All The Credit When He Decided To Do It Without Him",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Shutterstock/Reddit\r\nUgh, this story brings back some bad school memories…\r\nBecause we all had to do group projects with people who didn’t pull their weight and made the whole experience miserable.\r\n… [+3014 chars]",
+    "title": "School Project Partner Wouldn\u2019t Help Out, So A Student Got All The Credit When He Decided To Do It Without Him",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Shutterstock/Reddit\r\nUgh, this story brings back some bad school memories\u2026\r\nBecause we all had to do group projects with people who didn\u2019t pull their weight and made the whole experience miserable.\r\n\u2026 [+3014 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Shutterstock",
@@ -741,8 +741,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/0eb2fb7d45fdb3cf",
     "title": "Young Americans are increasingly turning to BNPL loans from Affirm and others, as getting approved for credit cards becomes harder in today's economic climate",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Boeing defense workers striking? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will new tariffs impact the … [+801 chars]",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Boeing defense workers striking? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will new tariffs impact the \u2026 [+801 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -760,9 +760,9 @@
   {
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/2025/08/03/loni-anderson-cause-of-death/",
-    "title": "Loni Anderson’s Cause of Death Updates: How the Late ‘WKRP in Cincinnati’ Star Died",
-    "fetched_on": "2025-08-05T03:51:13.704190+00:00",
-    "content": "Image Credit: Bettmann Archive\r\nLoni Anderson, recognized for playing Jennifer Marlowe on WKRP in Cincinnati,died on August 3, 2025. While her precise cause of death has not been disclosed, the late … [+3431 chars]",
+    "title": "Loni Anderson\u2019s Cause of Death Updates: How the Late \u2018WKRP in Cincinnati\u2019 Star Died",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "Image Credit: Bettmann Archive\r\nLoni Anderson, recognized for playing Jennifer Marlowe on WKRP in Cincinnati,died on August 3, 2025. While her precise cause of death has not been disclosed, the late \u2026 [+3431 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Anderson",
@@ -773,7 +773,7 @@
       "Bettmann",
       "August",
       "Loni",
-      "Cincinnati’",
+      "Cincinnati\u2019",
       "Star"
     ]
   },
@@ -782,7 +782,7 @@
     "url": "https://techcrunch.com/2022/05/26/viola-credit-closes-700m-fund-to-provide-asset-based-lending-fintech-startups/",
     "title": "Viola Credit closes $700M fund to provide asset-based lending FinTech startups",
     "fetched_on": "2025-08-05T03:51:18.201230+00:00",
-    "content": "Fintech startup and alternative credit asset manager Viola Credit, has closed its latest $700 million fund which provides asset-based lending capital to FinTech, PropTech, and InsurTech startups. If this FinTech play reminds you of Silicon Valley Bank, then think again. The latter provides corporate lending, also known as venture lending. Instead, Viola provides lending capital to […]",
+    "content": "Fintech startup and alternative credit asset manager Viola\u00a0Credit, has closed its latest $700 million fund which provides asset-based lending capital to FinTech, PropTech, and InsurTech startups. If this FinTech play reminds you of Silicon Valley Bank, then think again. The latter provides corporate lending, also known as venture lending. Instead, Viola provides lending capital to [\u2026]",
     "platforms_mentioned": [],
     "entity": "Viola Credit",
     "keywords": [
@@ -796,6 +796,86 @@
       "PropTech",
       "closes",
       "latest"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-05/kkr-taps-goldman-s-murata-as-first-japan-hire-for-private-credit",
+    "title": "KKR Taps Goldman\u2019s Murata as First Japan Hire for Private Credit",
+    "fetched_on": "2025-08-05T04:50:28.898515+00:00",
+    "content": "KKR &amp; Co. has hired Goldman Sachs Group Inc.\u2019s Ken Murata as a managing director for its credit business in Japan, as the country becomes a key market for the private credit boom in Asia.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Murata",
+      "KKR",
+      "Goldman",
+      "Japan",
+      "Credit",
+      "Private",
+      "Asia",
+      "Taps",
+      "Hire",
+      "Sachs"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/korea-expects-350-billion-us-fund-to-be-less-than-5-equity",
+    "title": "Korea Expects $350 Billion US Fund to Be Less Than 5% Equity",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "(Bloomberg) South Koreas presidential policy chief said the countrys $350 billion investment pledge as part of the US trade deal is largely structured as loan guarantees rather than direct capital in\u2026 [+5365 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Equity",
+      "Bloomberg",
+      "Billion",
+      "chars",
+      "Expects",
+      "South",
+      "Fund",
+      "countrys",
+      "Korea",
+      "Koreas"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/2c36a49a3e8223ab",
+    "title": "Asian Credit Gauges Head for Biggest Two-Day Blowout Since April",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Boeing workers planning to strike? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is Trumps tariff policy af\u2026 [+756 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "April",
+      "return",
+      "false",
+      "Credit",
+      "Gauges",
+      "Head",
+      "Biggest"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/08/04/bnpl-interest-rate-charges-being-monitored-dewan-rakyat-told",
+    "title": "BNPL interest rate charges being monitored, Dewan Rakyat told",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "KUALA LUMPUR: The Consumer Credit Commission (CCC) is studying the plans to adopt a code of conduct for credit practices, including the interest rates charged by providers, says Finance Minister II D\u2026 [+2783 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CCC",
+      "BNPL",
+      "Dewan",
+      "LUMPUR",
+      "Commission",
+      "chars",
+      "Credit",
+      "interest",
+      "Rakyat",
+      "KUALA"
     ]
   }
 ]

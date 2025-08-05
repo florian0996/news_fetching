@@ -461953,5 +461953,85 @@
       "Cincinnati’",
       "Star"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-05/kkr-taps-goldman-s-murata-as-first-japan-hire-for-private-credit",
+    "title": "KKR Taps Goldman’s Murata as First Japan Hire for Private Credit",
+    "fetched_on": "2025-08-05T04:50:28.898515+00:00",
+    "content": "KKR &amp; Co. has hired Goldman Sachs Group Inc.’s Ken Murata as a managing director for its credit business in Japan, as the country becomes a key market for the private credit boom in Asia.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Murata",
+      "KKR",
+      "Goldman",
+      "Japan",
+      "Credit",
+      "Private",
+      "Asia",
+      "Taps",
+      "Hire",
+      "Sachs"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/korea-expects-350-billion-us-fund-to-be-less-than-5-equity",
+    "title": "Korea Expects $350 Billion US Fund to Be Less Than 5% Equity",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "(Bloomberg) South Koreas presidential policy chief said the countrys $350 billion investment pledge as part of the US trade deal is largely structured as loan guarantees rather than direct capital in… [+5365 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Equity",
+      "Bloomberg",
+      "Billion",
+      "chars",
+      "Expects",
+      "South",
+      "Fund",
+      "countrys",
+      "Korea",
+      "Koreas"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/2c36a49a3e8223ab",
+    "title": "Asian Credit Gauges Head for Biggest Two-Day Blowout Since April",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Boeing workers planning to strike? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is Trumps tariff policy af… [+756 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "April",
+      "return",
+      "false",
+      "Credit",
+      "Gauges",
+      "Head",
+      "Biggest"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/08/04/bnpl-interest-rate-charges-being-monitored-dewan-rakyat-told",
+    "title": "BNPL interest rate charges being monitored, Dewan Rakyat told",
+    "fetched_on": "2025-08-05T04:50:28.417072+00:00",
+    "content": "KUALA LUMPUR: The Consumer Credit Commission (CCC) is studying the plans to adopt a code of conduct for credit practices, including the interest rates charged by providers, says Finance Minister II D… [+2783 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CCC",
+      "BNPL",
+      "Dewan",
+      "LUMPUR",
+      "Commission",
+      "chars",
+      "Credit",
+      "interest",
+      "Rakyat",
+      "KUALA"
+    ]
   }
 ]
