@@ -469954,5 +469954,245 @@
       "credit",
       "businesses"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-06/manulife-buys-comvest-to-build-18-4-billion-private-credit-unit",
+    "title": "Manulife Buys Comvest to Build $18.4 Billion Private Credit Unit",
+    "fetched_on": "2025-08-06T22:23:24.685680+00:00",
+    "content": "Manulife Financial Corp. agreed to buy a majority stake in Comvest Credit Partners, creating an $18.4 billion private credit platform as the insurer accelerates its expansion into alternative investments.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Build",
+      "Corp",
+      "Manulife",
+      "Credit",
+      "Private",
+      "Unit",
+      "Financial",
+      "Comvest",
+      "Partners"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-06/blackstone-private-debt-fund-marks-down-largest-holding-medallia",
+    "title": "Blackstone Private Debt Fund Marks Down Largest Holding Medallia",
+    "fetched_on": "2025-08-06T22:23:24.685769+00:00",
+    "content": "A Blackstone Inc. fund further cut the value of a private credit loan for Thoma Bravo-backed software company Medallia Inc., the vehicle’s largest holding.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Blackstone",
+      "Debt",
+      "Marks",
+      "Medallia",
+      "Largest",
+      "Holding",
+      "Private",
+      "Fund",
+      "Inc.",
+      "Thoma"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/carolineprice/2025/08/05/olympians-and-rising-stars-to-face-off-at-us-gymnastics-championships/",
+    "title": "Olympians And Rising Stars To Face Off At U.S. Gymnastics Championships",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "Gymnastics: 2024 Summer Olympics: USA Hezly Rivera in action, performs on balance beam during Women's Qualification at Bercy Arena. Paris, France 7/28/2024 CREDIT: Erick W. Rasco (Photo by Erick W. R… [+8901 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gymnastics",
+      "Summer",
+      "Olympics",
+      "USA",
+      "Arena",
+      "Rising",
+      "Stars",
+      "Face",
+      "Championships",
+      "Hezly"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/six-flags-theme-park-carowinds-emd1/",
+    "title": "Devastating Update Given to Thousands of Six Flags Guests as Entire Theme Park Closes",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "A Six Flags theme park closed its doors to everyone following some unfortunate news.\r\nCredit: Carowinds\r\nSix Flags Theme Park Shuts Its Doors: What Happened?\r\nIt was supposed to be another thrilling … [+4316 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Flags",
+      "Theme",
+      "Park",
+      "Update",
+      "Thousands",
+      "Guests",
+      "Entire",
+      "Closes",
+      "doors",
+      "Devastating"
+    ]
+  },
+  {
+    "source": "Cryptopolitan [NewsAPI]",
+    "url": "https://partner.cryptopolitan.com/ripple-xrp-sets-sights-on-4-as-mutuum-finance-mutm-steals-the-show-in-august-2025/",
+    "title": "Ripple (XRP) Sets Sights on $4 as Mutuum Finance (MUTM) Steals the Show in August 2025",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "As the crypto markets navigate a volatile yet optimistic August, eyes are turning to Ripple (XRP) and Mutuum Finance (MUTM), the DeFi newcomer that’s rewriting the script for decentralized lending. O… [+3496 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "XRP",
+      "MUTM",
+      "Finance",
+      "August",
+      "Mutuum",
+      "Ripple",
+      "Sets",
+      "Steals",
+      "Sights",
+      "Show"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/rivian-earnings-shock-triggers-stock-plungeq2-miss-and-2-25b-loss-spark-4-drop-as-ev-credit-cut-trump-tariffs-fuel-panic-sell-off/articleshow/123127672.cms",
+    "title": "Rivian earnings shock triggers stock plunge—Q2 miss and $2.25B loss spark 4% drop as EV credit cut, Trump tariffs fuel panic sell-off",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "Rivian stock drops as Q2 earnings miss expectations and 2025 loss forecast widens amid EV tax credit blow and tariffs: The electric truck maker reported mixed Q2 2025 earnings, delivered fewer vehicl… [+5440 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "loss",
+      "chars",
+      "Rivian",
+      "earnings",
+      "plunge",
+      "spark",
+      "cut",
+      "mixed",
+      "delivered"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/rivian-reports-mixed-q2-results-widens-2025-loss-projection-as-tariffs-and-loss-of-ev-tax-credit-bite-200448610.html",
+    "title": "Rivian reports mixed Q2 results, widens 2025 loss projection as tariffs and loss of EV tax credit bite",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "Rivian (RIVN) reported mixed second quarter earnings after the bell on Tuesday and did not report a gross profit, as policy changes like tariffs blunted its performance. The company also widened its … [+3672 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RIVN",
+      "results",
+      "widens",
+      "Rivian",
+      "Tuesday",
+      "reported",
+      "profit",
+      "performance",
+      "mixed",
+      "loss"
+    ]
+  },
+  {
+    "source": "Frequentflyerbonuses.com [NewsAPI]",
+    "url": "https://blog.frequentflyerbonuses.com/2025/08/kenya-airways-status-match.html",
+    "title": "Kenya Airways Asante Rewards paid status match opportunity – airlines, hotels AND credit cards included!",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "Loyalty Status Co. has a new status match offer in place and this one is for Kenya Airways Asante Rewards. This is a good opportunity to get SkyTeam status, especially if you live outside of the coun… [+9752 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airways",
+      "Asante",
+      "Rewards",
+      "status",
+      "Kenya",
+      "airlines",
+      "match",
+      "hotels",
+      "included",
+      "paid"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f32da3573dda8248",
+    "title": "Household Debts, Debt-to-Income Ratio, Serious Delinquencies, Collections, Foreclosures, Bankruptcies: Our Drunken Sailors’ Debts in Q2 2025",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "The long-defaulted federal student loans come out of the shadows of government forbearance.By Wolf Richter for WOLF STREET.Total household debt outstanding rose by $185 billion in Q2 from Q1, or by 1… [+146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ratio",
+      "Collections",
+      "Foreclosures",
+      "Bankruptcies",
+      "Delinquencies",
+      "chars",
+      "Debts",
+      "Wolf",
+      "Household",
+      "Drunken"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b41840dfb7e8785c",
+    "title": "Shark Tank’s Kevin O’Leary bluntly speaks on Americans' 401(k)s",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "Few voices in investing and retirement planning are as blunt and unyielding as Kevin OLearys.The Shark Tank investor and entrepreneur has issued a stark warning: Credit card debt is more than a finan… [+136 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tank",
+      "Kevin",
+      "Shark",
+      "Americans'",
+      "Credit",
+      "chars",
+      "warning",
+      "finan",
+      "O’Leary",
+      "bluntly"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/credit-cards/tilt-cards-launch-as-replacement-for-petal-cards#article",
+    "title": "New Tilt Cards to Replace Petal Cards, Retain Focus on Building Credit",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "Empower the company that acquired the Petal portfolio of credit cards in 2024 is rebranding as Tilt and launching a trio of new products for credit builders.\r\nThe Tilt Engage, Tilt Motion and Tilt Es… [+4092 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cards",
+      "Tilt",
+      "Petal",
+      "Credit",
+      "Retain",
+      "Replace",
+      "Focus",
+      "Building",
+      "Empower",
+      "builders"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/08/fifth-suspect-viral-cincinnati-beating-arrested-georgia-extradition/",
+    "title": "Fifth Suspect in Viral Cincinnati Beating Arrested in Georgia, Extradition Pending",
+    "fetched_on": "2025-08-06T22:23:24.077255+00:00",
+    "content": "Patrick Rosemond (Credit: Fulton County Sheriff’s Office)\r\nThe fifth suspect linked to the brutal and racially charged mob attack that rocked Cincinnatis business district last month has been arreste… [+2991 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "chars",
+      "Georgia",
+      "Extradition",
+      "Rosemond",
+      "Fulton",
+      "Office",
+      "Suspect",
+      "Viral",
+      "Beating"
+    ]
   }
 ]
