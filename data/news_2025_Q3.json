@@ -466394,5 +466394,142 @@
       "Submission",
       "Blockhain-Based"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-08-06/commerzbank-has-regular-investor-talks-with-unicredit",
+    "title": "Commerzbank Has Regular Investor Talks With UniCredit",
+    "fetched_on": "2025-08-06T07:27:00.365556+00:00",
+    "content": "Source: Bloomberg, 00:01:42",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Source",
+      "Regular",
+      "Investor",
+      "Talks",
+      "Commerzbank",
+      "UniCredit"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/389252/trumps-nasa-chief-expedites-plan-to-build-nuclear-reactor-on-the-moon",
+    "title": "Trump's NASA chief expedites plan to build nuclear reactor on the Moon",
+    "fetched_on": "2025-08-06T07:26:59.580935+00:00",
+    "content": "Space &amp; Astronomy\r\nBy T.K. RandallAugust 5, 2025 ·  0 commentsAn artist's impression of the lunar reactor. Image Credit: NASASean Duffy, who is the acting head of the US space agency, has ordered… [+1332 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Astronomy",
+      "RandallAugust",
+      "NASA",
+      "Moon",
+      "reactor",
+      "Space",
+      "Trump",
+      "commentsAn",
+      "chief",
+      "expedites"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/rbi-rate-cuts-monetary-policy-liquidity-credit-demand-growth-2025-11754364538904.html",
+    "title": "Is credit demand really slowing? RBI’s liquidity push tells a different story",
+    "fetched_on": "2025-08-06T07:26:59.580935+00:00",
+    "content": "Lately, market watchers have voiced concern over tepid bank credit growth and its implications for the broader economy. With liquidity flush in the system, many have argued for further rate cuts to s… [+4993 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "slowing",
+      "RBI",
+      "credit",
+      "demand",
+      "chars",
+      "liquidity",
+      "market",
+      "economy",
+      "system",
+      "push"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5e8ce24e88fc544e",
+    "title": "Australian debt buyer Credit Corp forecasts higher profit in FY26, shares soar",
+    "fetched_on": "2025-08-06T07:26:59.580935+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Tesla grant Elon Musk $29 billion stock award? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's n… [+809 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Musk",
+      "return",
+      "false",
+      "Credit",
+      "Corp",
+      "Tesla",
+      "Elon"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e99246499e9ef629",
+    "title": "Indonesian growth unexpectedly jumps 5.12%, defying weak lending",
+    "fetched_on": "2025-08-06T07:26:59.580935+00:00",
+    "content": "Indonesias second-quarter growth unexpectedly accelerated to the fastest pace in two years, with exports and investment helping an economy thats beset by weak loan growth and mass job losses in manuf… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "growth",
+      "unexpectedly",
+      "Indonesias",
+      "weak",
+      "Indonesian",
+      "jumps",
+      "defying",
+      "years",
+      "manuf"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/05/truist-financial-issues-positive-forecast-for-lendingtree-nasdaqtree-stock-price/",
+    "title": "Truist Financial Issues Positive Forecast for LendingTree (NASDAQ:TREE) Stock Price",
+    "fetched_on": "2025-08-06T07:26:59.580935+00:00",
+    "content": "LendingTree (NASDAQ:TREE – Free Report) had its price target raised by Truist Financial from $60.00 to $62.00 in a report issued on Monday,Benzinga reports. The firm currently has a buy rating on the… [+4167 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "TREE",
+      "Financial",
+      "Truist",
+      "Stock",
+      "Free",
+      "LendingTree",
+      "Price",
+      "Issues",
+      "Positive"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/asia/2025/08/05/indonesia-gdp-growth-jumps-weak-lending/",
+    "title": "Indonesian growth unexpectedly jumps 5.12%, defying weak lending",
+    "fetched_on": "2025-08-06T07:26:59.580935+00:00",
+    "content": "Indonesias second-quarter growth unexpectedly accelerated to the fastest pace in two years, with exports and investment helping an economy thats beset by weak loan growth and mass job losses in manuf… [+4036 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "growth",
+      "unexpectedly",
+      "Indonesias",
+      "weak",
+      "Indonesian",
+      "jumps",
+      "defying",
+      "years",
+      "manuf"
+    ]
   }
 ]
