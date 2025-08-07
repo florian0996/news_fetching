@@ -471084,5 +471084,184 @@
       "LendingClub",
       "Reviewing"
     ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/this-library-offers-over-200-instruments-for-loan-and-counting-1.7596540",
+    "title": "This library offers over 200 instruments for loan — and counting",
+    "fetched_on": "2025-08-07T08:31:52.897446+00:00",
+    "content": "The A.C. Hunter Public Library has much more than just books. \r\nFrom mandolins to djembes, there's an instrument for everyone in the library's growing collection. \r\n\"We are so much beyond books. Besi… [+3185 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "library",
+      "loan",
+      "books",
+      "offers",
+      "counting",
+      "Public",
+      "Hunter",
+      "instruments",
+      "Besi",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/can-loans-taken-by-my-nri-relatives-through-poa-affect-my-credit-score/articleshow/123138126.cms",
+    "title": "Can loans taken by my NRI relatives through PoA affect my credit score?",
+    "fetched_on": "2025-08-07T08:31:52.897446+00:00",
+    "content": "Our panel of experts will answer questions related to any aspect of personal finance. If you have a query, mail it to us right away.My sister and brother-in-law are NRIs and have taken multiple home … [+2476 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "score",
+      "loans",
+      "relatives",
+      "PoA",
+      "affect",
+      "credit",
+      "chars",
+      "finance",
+      "NRI",
+      "NRIs"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/idfc-first-bank-raises-the-bar-with-credit-cards-offering-interest-as-low-as-8-5-pa-11754465239019.html",
+    "title": "IDFC FIRST Bank raises the bar with credit cards offering interest as low as 8.5% p.a.",
+    "fetched_on": "2025-08-07T08:31:52.897446+00:00",
+    "content": "IDFC FIRST Bank has disrupted the Indian credit card market by offering interest rates starting as low as 8.5% per annum (0.71% per annum), this figure is significantly below the industry average of … [+2135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IDFC",
+      "Bank",
+      "low",
+      "annum",
+      "credit",
+      "offering",
+      "interest",
+      "raises",
+      "bar",
+      "Indian"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/08/woman-loans-her-coworker-money-but-when-she-didnt-repay-the-loan-another-coworker-stepped-in-to-help/",
+    "title": "Woman Loans Her Coworker Money, But When She Didn’t Repay The Loan, Another Coworker Stepped In To Help",
+    "fetched_on": "2025-08-07T08:31:52.897446+00:00",
+    "content": "Pexels/Reddit\r\nBorrowing from or lending to a coworker can get messy.\r\nIf a coworker asked to borrow money and didn’t repay it, would you handle the problem yourself, or would you involve other cowor… [+2352 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coworker",
+      "Pexels",
+      "Reddit",
+      "Stepped",
+      "Borrowing",
+      "Loans",
+      "Loan",
+      "Repay",
+      "n’t",
+      "Money"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/credit-cards/2025/credit-card-loyalty-shifts-as-millennials-prioritize-value-over-gimmicks/",
+    "title": "Credit Card Loyalty Shifts as Millennials Prioritize Value Over Gimmicks",
+    "fetched_on": "2025-08-07T08:31:52.897446+00:00",
+    "content": "Generation Z and millennial consumers are rewriting the rules of engagement when it comes to credit cards.Unlike previous generations who may have stuck with one or two financial institutions for dec… [+3721 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Card",
+      "Loyalty",
+      "Shifts",
+      "Prioritize",
+      "Gimmicks",
+      "dec",
+      "Credit",
+      "Millennials",
+      "Generation"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/data-stories/data-focus/skewed-access-marks-kisan-credit-card-growth-story/article69900550.ece",
+    "title": "Skewed access marks Kisan Credit Card growth story",
+    "fetched_on": "2025-08-07T08:31:52.897446+00:00",
+    "content": "As Indias Kisan Credit Card (KCC) scheme surpasses 10.2 lakh crore in outstanding credit across 7.72 crore active accounts, a closer look reveals both a remarkable expansion and worrying exclusions.\r… [+4000 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Kisan",
+      "Card",
+      "KCC",
+      "Indias",
+      "crore",
+      "Skewed",
+      "scheme",
+      "surpasses",
+      "lakh"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/389274/you-can-now-stay-at-the-house-from-the-1982-movie-poltergeist",
+    "title": "You can now stay at the house from the 1982 movie 'Poltergeist'",
+    "fetched_on": "2025-08-07T08:31:52.897446+00:00",
+    "content": "Ghosts &amp; Hauntings\r\nBy T.K. RandallAugust 6, 2025 ·  0 commentsThey're heeeere.... Image Credit: Bing AI / Dall-E 3Those brave (and wealthy) enough can spend the night in the literal house that t… [+1477 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Poltergeist",
+      "Ghosts",
+      "Hauntings",
+      "movie",
+      "RandallAugust",
+      "commentsThey",
+      "heeeere",
+      "house",
+      "stay",
+      "Credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/florida-bank-axes-sba-loan-165327088.html",
+    "title": "Florida bank axes SBA loan program after bad loans surge",
+    "fetched_on": "2025-08-07T08:32:09.318204+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBA",
+      "Florida",
+      "surge",
+      "bank",
+      "axes",
+      "program",
+      "bad",
+      "loan",
+      "loans"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/business/earnings/rivian-sees-results-hurt-by-scrapped-ev-tax-credit-lucid-cuts-production-forecast-35715e17?siteid=yhoof2&yptr=yahoo",
+    "title": "Rivian Sees Results Hurt by Scrapped EV Tax Credit; Lucid Cuts Production Forecast",
+    "fetched_on": "2025-08-07T08:32:09.318370+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Lucid",
+      "Forecast",
+      "Results",
+      "Hurt",
+      "Scrapped",
+      "Tax",
+      "Cuts",
+      "Production",
+      "Rivian"
+    ]
   }
 ]
