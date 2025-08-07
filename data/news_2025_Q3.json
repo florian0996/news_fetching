@@ -470964,5 +470964,125 @@
       "loans",
       "good"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/bank-credit-down-because-corporates-using-bond-market-to-raise-funds-rbi/article69900487.ece",
+    "title": "Bank credit down because corporates using bond market to raise funds: RBI",
+    "fetched_on": "2025-08-07T07:26:44.008909+00:00",
+    "content": "Corporates are increasingly relying on the bond market to raise funds as the transmission of policy rate cuts is faster in the money market compared to banks, Reserve Bank of India (RBI) Governor San… [+2249 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Reserve",
+      "India",
+      "Governor",
+      "San",
+      "market",
+      "raise",
+      "chars",
+      "corporates",
+      "bond"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/inflation-forecasts-leave-little-room-for-further-rbi-rate-cuts/articleshow/123135447.cms",
+    "title": "Inflation forecasts leave little room for further RBI rate cuts",
+    "fetched_on": "2025-08-07T07:26:44.008909+00:00",
+    "content": "What are the odds of the central bank lowering rates later this fiscal year after Governor Sanjay Malhotra outlined the latest growth and inflation forecasts in his credit policy statement?At first g… [+2829 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Inflation",
+      "forecasts",
+      "RBI",
+      "Governor",
+      "Sanjay",
+      "Malhotra",
+      "statement",
+      "leave",
+      "room"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/ewelinaochab/2025/08/06/peoples-tribunal-to-consider-dire-situation-of-women-in-afghanistan/",
+    "title": "People’s Tribunal To Consider Dire Situation Of Women In Afghanistan",
+    "fetched_on": "2025-08-07T07:26:44.008909+00:00",
+    "content": "An Afghan burqa-clad woman looks for alms as she sits in the middle of the road after the Eid al-Adha prayers in Kabul on June 7, 2025. (Photo credit: WAKIL KOHSAR/AFP via Getty Images)\r\nAFP via Gett… [+4927 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "AFP",
+      "Tribunal",
+      "Dire",
+      "Situation",
+      "Women",
+      "Afghanistan",
+      "Afghan",
+      "Eid",
+      "Kabul"
+    ]
+  },
+  {
+    "source": "Inside Higher Ed [NewsAPI]",
+    "url": "https://www.insidehighered.com/news/students/diversity/2025/08/06/resilience-first-generation-students",
+    "title": "The Resilience of First-Generation Students",
+    "fetched_on": "2025-08-07T07:26:44.008909+00:00",
+    "content": "First-generation students face a host of barriers when they go to college. Terms commonly used in higher ed, like registrar, provost or credit hours, can be mystifying. Theyre confronted with a hidde… [+13876 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "First-Generation",
+      "Students",
+      "Resilience",
+      "college",
+      "face",
+      "host",
+      "barriers",
+      "chars",
+      "Terms",
+      "registrar"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/618c6b8a1682a048",
+    "title": "British lender Metro Bank triples half-year profit on lending pivot, cost cuts",
+    "fetched_on": "2025-08-07T07:26:44.008909+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Bayer cut 12,000 jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did tariffs impact Tesla's European sa… [+756 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "jobs",
+      "return",
+      "false",
+      "Metro",
+      "Bank",
+      "Bayer",
+      "British"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/06/reviewing-lendingclub-nyselc-and-kruk-spolka-akcyjna-otcmktskrkkf/",
+    "title": "Reviewing LendingClub (NYSE:LC) and KRUK Spólka Akcyjna (OTCMKTS:KRKKF)",
+    "fetched_on": "2025-08-07T07:26:44.008909+00:00",
+    "content": "KRUK Spólka Akcyjna (OTCMKTS:KRKKF – Get Free Report) and LendingClub (NYSE:LC – Get Free Report) are both financial services companies, but which is the better stock? We will compare the two compani… [+4553 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "OTCMKTS",
+      "KRKKF",
+      "Akcyjna",
+      "Report",
+      "Spólka",
+      "Free",
+      "KRUK",
+      "LendingClub",
+      "Reviewing"
+    ]
   }
 ]
