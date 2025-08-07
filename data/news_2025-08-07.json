@@ -42,21 +42,21 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-06/blackstone-private-debt-fund-marks-down-largest-holding-medallia",
-    "title": "Blackstone Private Debt Fund Marks Down Largest Holding Medallia",
-    "fetched_on": "2025-08-07T01:57:19.207205+00:00",
-    "content": "A Blackstone Inc. fund further cut the value of a private credit loan for Thoma Bravo-backed software company Medallia Inc., the vehicle\u2019s largest holding.",
+    "title": "Blackstone Private Debt Fund Cuts Value of Largest Holding",
+    "fetched_on": "2025-08-07T17:23:30.688116+00:00",
+    "content": "A Blackstone Inc. fund further cut the value of a private credit loan for Thoma Bravo-backed software company Medallia Inc., revealing growing stress for its single largest investment.",
     "platforms_mentioned": [],
     "keywords": [
       "Blackstone",
       "Debt",
-      "Marks",
-      "Medallia",
-      "Largest",
       "Holding",
       "Private",
       "Fund",
+      "Largest",
       "Inc.",
-      "Thoma"
+      "Thoma",
+      "Bravo-backed",
+      "Medallia"
     ]
   },
   {
@@ -363,7 +363,7 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-08-07T16:30:36.528763+00:00",
+    "fetched_on": "2025-08-07T17:23:51.756951+00:00",
     "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/06/student-loan-borrowers-and-changes-to-public-service-loan-forgiveness-pslf.html",
     "title": "Student loan borrowers face new challenges trying to get Public Service Loan Forgiveness",
-    "fetched_on": "2025-08-07T16:30:45.508914+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728807+00:00",
     "content": "Borrowers pursuing Public Service Loan Forgiveness are hitting walls trying to access the relief, and the Trump administration wants to limit eligibility.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/fed-holds-interest-rates-steady-what-that-means-for-your-money.html",
     "title": "Fed holds interest rates steady: What that means for car loans, credit cards, mortgages and more",
-    "fetched_on": "2025-08-07T16:30:45.509017+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728919+00:00",
     "content": "From credit cards, car loans, mortgages, savings and student debt,\u00a0here's how the Federal Reserve's interest-rate decision influences your wallet.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/25/fed-likely-to-hold-interest-rates-steady-despite-trumps-pressure.html",
     "title": "Federal Reserve likely to hold interest rates steady despite pressure from Trump. Here's what that means for your money",
-    "fetched_on": "2025-08-07T16:30:45.509085+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728989+00:00",
     "content": "The Fed's decision on interest rates affects many types of consumer borrowing costs, from credit cards and mortgages to auto loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/07/29/jpmorgan-chase-apple-card-goldman-sachs-issuer.html",
     "title": "JPMorgan Chase is nearing a deal to replace Goldman Sachs as Apple Card issuer, sources say",
-    "fetched_on": "2025-08-07T16:30:45.234857+00:00",
+    "fetched_on": "2025-08-07T17:24:01.557424+00:00",
     "content": "A deal for JPMorgan to take over the Apple Card and its huge book of loans would further burnish the bank's reputation as a leader in American finance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/05/ny-fed-credit-card-debt-second-quarter-2025.html",
     "title": "Credit card debt reaches $1.21 trillion \u2014 in line with last year's all-time high, NY Fed finds",
-    "fetched_on": "2025-08-07T16:30:45.508935+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728830+00:00",
     "content": "Credit card balances rose by $27 billion in the second quarter to $1.21 trillion, according to a new report by the New York Fed.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/04/student-loan-borrowers-who-stay-in-save-forbearance.html",
     "title": "3 things student loan borrowers can expect if they stay in the SAVE payment pause \u2014 and what they should do instead",
-    "fetched_on": "2025-08-07T16:30:45.508942+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728838+00:00",
     "content": "Student loan borrowers who don't leave the so-called SAVE payment pause could see their debt grow from interest and find their progress to loan relief stalled.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/04/student-loan-borrowers-tell-cnbc-how-the-end-of-save-may-affect-you.html",
     "title": "Student loan borrowers \u2014 how will the end of the SAVE plan impact you? Tell us",
-    "fetched_on": "2025-08-07T16:30:45.508962+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728863+00:00",
     "content": "CNBC wants to hear from student loan borrowers who are grappling with the end of the Biden-era SAVE plan, and trying to figure out their next steps.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/01/student-loan-interest-free-save-forbearance-ends.html",
     "title": "Millions of student loan borrowers could see their debt grow as interest-free break ends",
-    "fetched_on": "2025-08-07T16:30:45.508990+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728891+00:00",
     "content": "Borrowers who remain in the so-called SAVE forbearance could see their education debt grow if they don't make payments\u00a0large enough to cover accruing interest.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/public-service-loan-forgiveness-pslf-becomes-harder-for-borrowers.html",
     "title": "38-year-old woman has already waited eight months in a 65,448-person backlog for Public Service Loan Forgiveness",
-    "fetched_on": "2025-08-07T16:30:45.509024+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728926+00:00",
     "content": "A Biden-era program aimed at helping borrowers access the Public Service Loan Forgiveness program has stalled under the Trump administration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/26/using-credit-cards-to-pay-for-your-wedding.html",
     "title": "Credit cards can be an 'amazing tool' for your wedding, expert says \u2014 but only if you're 'strategic'",
-    "fetched_on": "2025-08-07T16:30:45.509058+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728960+00:00",
     "content": "If done strategically, using credit cards to cover wedding expenses can help you earn rewards, experts say. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/07/25/student-loan-forgiveness-tax-trump-big-beautiful-bill.html",
     "title": "Student loan forgiveness may soon be taxed again \u2014 here's how much borrowers could owe",
-    "fetched_on": "2025-08-07T16:30:45.509078+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728981+00:00",
     "content": "Starting next year, student loan borrowers who get their debt forgiven may wind up with a tax bill. Here's what borrowers should know about the changes.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1703,7 +1703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/07/trumps-big-beautiful-bill-sets-student-loan-caps-for-medical-school.html",
     "title": "New federal student loan limits are a 'punch in the face' for aspiring doctors: American Medical Association president",
-    "fetched_on": "2025-08-07T16:30:45.508906+00:00",
+    "fetched_on": "2025-08-07T17:24:01.728799+00:00",
     "content": "Trump\u2019s \"big beautiful bill\" caps medical school loans, which may make it harder for future doctors to finance their degree or force them to scrap their plans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1863,7 +1863,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-07/angola-says-it-got-back-200-million-collateral-from-jpmorgan",
     "title": "Angola Says It Got Back $200 Million Collateral From JPMorgan",
-    "fetched_on": "2025-08-07T16:30:24.296048+00:00",
+    "fetched_on": "2025-08-07T17:23:32.370219+00:00",
     "content": "Angola\u2019s government got back $200 million from JPMorgan Chase &amp; Co. that it used as additional collateral for a loan from the US lender, the finance ministry said.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3001,7 +3001,7 @@
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/howard-stern-kids-daughters-4620459/",
     "title": "Howard Stern\u2019s Kids: Meet His 3 Daughters Ashley, Emily, & Deborah",
-    "fetched_on": "2025-08-07T16:30:22.135579+00:00",
+    "fetched_on": "2025-08-07T17:23:29.487995+00:00",
     "content": "View galleryImage Credit: WireImage\r\nHoward Stern has spent decades redefining radio and pop culture. Now 71, the self-proclaimed King of All Media became a household name through his wildly populara\u2026 [+3873 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3021,7 +3021,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/08/06/3128520/0/en/Gen-Z-s-Embrace-of-Loud-Budgeting-Drives-Increased-Demand-for-Credit-Counseling-at-Navicore-Solutions.html",
     "title": "Gen Z\u2019s Embrace of \u2018Loud Budgeting\u2019 Drives Increased Demand for Credit Counseling at Navicore Solutions",
-    "fetched_on": "2025-08-07T16:30:22.135579+00:00",
+    "fetched_on": "2025-08-07T17:23:29.487995+00:00",
     "content": "MANALAPAN, N.J., Aug. 06, 2025 (GLOBE NEWSWIRE) -- In an era defined by social media transparency and a shift toward open conversations about financial stress, Gen Z is emerging as a leading voice in\u2026 [+2876 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3235,6 +3235,126 @@
       "Image",
       "Mazur",
       "Amid"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/ipos/all-time-plastics-mobilises-rs-120-crore-from-anchor-investors-ahead-of-ipo",
+    "title": "All Time Plastics Mobilises Rs 120 Crore From Anchor Investors Ahead Of IPO",
+    "fetched_on": "2025-08-07T17:23:29.487995+00:00",
+    "content": "Ashoka India Equity Investment Trust PLC, Canara Robeco Mutual Fund, Bandhan MF, Edelweiss MF, 360 ONE Equity Opportunity Fund, Nuvama and Gagandeep Credit Capital are among the anchor investors, acc\u2026 [+46 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "acc",
+      "chars",
+      "Crore",
+      "PLC",
+      "Canara",
+      "Bandhan",
+      "Edelweiss",
+      "Nuvama",
+      "Equity"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/blogposting/29059/how-ai-is-redefining-financial-infrastructure-from-embedded-lending-to-autonomous-finance",
+    "title": "How AI is Redefining Financial Infrastructure: From Embedded Lending to Autonomous Finance (Raktim Singh)",
+    "fetched_on": "2025-08-07T17:23:29.487995+00:00",
+    "content": "Introduction: From Digital Efficiency to Intelligent Infrastructure\r\nWe are entering the most transformative decade in financial services since the birth of digital banking.\r\nWhat began as a wave of \u2026 [+7776 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Introduction",
+      "Infrastructure",
+      "Finance",
+      "Raktim",
+      "Singh",
+      "Financial",
+      "Digital",
+      "Redefining",
+      "Embedded",
+      "Lending"
+    ]
+  },
+  {
+    "source": "The Points Guy [NewsAPI]",
+    "url": "https://thepointsguy.com/credit-cards/reviews/southwest-performance-business-credit-card-review/",
+    "title": "Southwest Performance Business card review: Solid benefits for Southwest's most frequent flyers",
+    "fetched_on": "2025-08-07T17:23:29.487995+00:00",
+    "content": "Southwest Rapid Rewards Performance Business Credit Card overview\r\nThe Southwest\u00ae Rapid Rewards\u00ae Performance Business Credit Card (see rates and fees) is Southwest Airlines' top-tier business credit \u2026 [+9941 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Business",
+      "Credit",
+      "Performance",
+      "Southwest",
+      "card",
+      "Rapid",
+      "Rewards",
+      "Solid",
+      "Airlines'",
+      "chars"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/howard-stern-net-worth-5433157/",
+    "title": "Howard Stern Net Worth 2025: His Annual SiriusXM Salary Explained",
+    "fetched_on": "2025-08-07T17:23:29.487995+00:00",
+    "content": "Image Credit: Kevin Mazur\r\nHoward Stern has been the host of SiriusXMs long-running radio show, The Howard Stern Show, since the early 2000s. With his success, SiriusXM has substantially increased th\u2026 [+1992 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stern",
+      "Howard",
+      "show",
+      "Worth",
+      "Credit",
+      "Kevin",
+      "Net",
+      "Annual",
+      "Salary",
+      "Explained"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a3740d6dacfedfb4",
+    "title": "A new Supreme Court case asks whether children still have First Amendment rights",
+    "fetched_on": "2025-08-07T17:23:29.487995+00:00",
+    "content": "Students, who may soon lose their right to access information online, walk from school. | Getty Images Lets give credit where it is due. The current Supreme Court has a decent record on free speech i\u2026 [+132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Students",
+      "Amendment",
+      "Supreme",
+      "Court",
+      "online",
+      "walk",
+      "school",
+      "Getty",
+      "case",
+      "children"
+    ]
+  },
+  {
+    "source": "Vox [NewsAPI]",
+    "url": "https://www.vox.com/scotus/422520/supreme-court-free-speech-children-social-media",
+    "title": "A new Supreme Court case asks whether children still have First Amendment rights",
+    "fetched_on": "2025-08-07T17:23:29.487995+00:00",
+    "content": "\ufeffStudents, who may soon lose their right to access information online, walk from school. | Getty Images\r\n\n\nLet\u2019s give credit where it is due. The current Supreme Court has a decent record on free spe\u2026 [+11331 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Students",
+      "Amendment",
+      "Supreme",
+      "Court",
+      "online",
+      "walk",
+      "school",
+      "Getty",
+      "case",
+      "children"
     ]
   }
 ]
