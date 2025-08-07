@@ -470754,5 +470754,65 @@
       "Cancer",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-07/vietnam-pm-calls-for-state-bank-to-scrap-credit-growth-targets",
+    "title": "Vietnam PM Calls for State Bank to Scrap Credit Growth Targets",
+    "fetched_on": "2025-08-07T05:29:53.876379+00:00",
+    "content": "Vietnam’s Prime Minister ordered the central bank to develop a pilot plan to remove credit growth targets starting next year, as part of efforts to boost the economy, the government said Thursday.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Growth",
+      "Bank",
+      "Credit",
+      "Targets",
+      "Thursday",
+      "Vietnam",
+      "Calls",
+      "State",
+      "Scrap",
+      "Prime"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/economy-finance/rbi-mpc-keeps-interest-rates-unchanged-at-55-maintains-neutral-stance",
+    "title": "RBI MPC Keeps Repo Rates Unchanged At 5.5%, Maintains 'Neutral' Stance Amid Tariff Uncertainties",
+    "fetched_on": "2025-08-07T05:29:52.620450+00:00",
+    "content": "The Reserve Bank of India's Monetary Policy Committee has kept the benchmark lending rates unchanged, which is in-line with the expectations. The country's central bank also maintained its 'neutral' … [+1247 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Neutral",
+      "Maintains",
+      "Rates",
+      "Unchanged",
+      "RBI",
+      "Stance",
+      "MPC",
+      "Repo",
+      "Amid",
+      "Tariff"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/06/golub-capital-bdc-nasdaqgbdc-and-carlyle-secured-lending-nasdaqcgbd-head-to-head-analysis/",
+    "title": "Golub Capital BDC (NASDAQ:GBDC) and Carlyle Secured Lending (NASDAQ:CGBD) Head-To-Head Analysis",
+    "fetched_on": "2025-08-07T05:29:52.620450+00:00",
+    "content": "Golub Capital BDC (NASDAQ:GBDC – Get Free Report) and Carlyle Secured Lending (NASDAQ:CGBD – Get Free Report) are both finance companies, but which is the superior business? We will contrast the two … [+5639 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "GBDC",
+      "CGBD",
+      "BDC",
+      "Lending",
+      "Report",
+      "Capital",
+      "Carlyle",
+      "Secured",
+      "Free"
+    ]
   }
 ]
