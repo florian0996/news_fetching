@@ -471263,5 +471263,105 @@
       "Production",
       "Rivian"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/42de5a3e08efea35",
+    "title": "Voice of America director says Trump officials are illegally ousting him",
+    "fetched_on": "2025-08-07T09:28:48.241379+00:00",
+    "content": "A judge is demanding answers about the international broadcaster's future from Trump official Kari Lake.(Image credit: Saul Loeb)\r\nThis story appeared on npr.org, 2025-08-06 09:00:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Lake.",
+      "Image",
+      "Saul",
+      "Loeb",
+      "America",
+      "Kari",
+      "Voice",
+      "credit",
+      "npr.org"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1b2d2f347ec186d0",
+    "title": "Credit Card Loyalty Shifts as Millennials Prioritize Value Over Gimmicks",
+    "fetched_on": "2025-08-07T09:28:48.241379+00:00",
+    "content": "Generation Z and millennial consumers are rewriting the rules of engagement when it comes to credit cards.\r\n[contact-form-7]\r\nUnlike previous generations who may have stuck with one or two financial … [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loyalty",
+      "Shifts",
+      "Prioritize",
+      "Gimmicks",
+      "Credit",
+      "Card",
+      "cards",
+      "Millennials",
+      "Unlike",
+      "chars"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/opinion/congress-repealed-green-new-deal-can-trump-finish-job",
+    "title": "Congress repealed the Green New Deal. Can Trump finish the job?",
+    "fetched_on": "2025-08-07T09:28:48.241379+00:00",
+    "content": "The Republicans \"Big, Beautiful Bill\" included the largest repeal of green corporate subsidies in U.S. history. Congress cut more than half a trillion dollars in open-ended tax credits from the Biden… [+5050 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deal",
+      "Green",
+      "Congress",
+      "repealed",
+      "Big",
+      "Trump",
+      "Republicans",
+      "Beautiful",
+      "Bill",
+      "Biden"
+    ]
+  },
+  {
+    "source": "Skift [NewsAPI]",
+    "url": "http://skift.com/2025/08/06/bookings-credit-card-marriotts-slower-growth-and-spains-rental-crackdown/",
+    "title": "Booking’s Credit Card, Marriott’s Slower Growth and Spain’s Rental Crackdown",
+    "fetched_on": "2025-08-07T09:28:48.241379+00:00",
+    "content": "Good morning from Skift. Its Wednesday, August 6. Heres what you need to know about the business of travel today. \r\nBooking.com has soft-launched its first credit card in the U.S., the Booking.com Ge… [+1770 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marriott",
+      "Skift",
+      "Slower",
+      "Growth",
+      "Spain",
+      "Rental",
+      "Crackdown",
+      "Good",
+      "August",
+      "Booking"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/suitcases-over-stethoscopes-travel-loans-beat-medical-and-home-needs-study-shows/articleshow/123137767.cms",
+    "title": "Suitcases over stethoscopes: Travel loans beat medical and home needs, study shows",
+    "fetched_on": "2025-08-07T09:28:48.241379+00:00",
+    "content": "Indians are increasingly choosing vacations over ventilators or varnish when it comes to personal loans, reported TOI. A new report by Paisabazaar reveals that travel has become the top reason for ta… [+1383 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TOI",
+      "Indians",
+      "Suitcases",
+      "stethoscopes",
+      "study",
+      "reported",
+      "loans",
+      "Travel",
+      "chars",
+      "beat"
+    ]
   }
 ]
