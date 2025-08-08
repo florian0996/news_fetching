@@ -475292,5 +475292,105 @@
       "composer",
       "group"
     ]
+  },
+  {
+    "source": "AOL [NewsAPI]",
+    "url": "https://www.aol.com/finance/texas-scammers-were-caught-tricking-101500762.html",
+    "title": "Texas scammers were caught tricking elderly victims into taking loans as high as $30K — here's how to avoid this scheme",
+    "fetched_on": "2025-08-08T10:24:54.846181+00:00",
+    "content": "Texas scammers were caught tricking elderly victims into taking loans as high as $30K\r\nFollowing an extensive multi-month investigation, authorities have apprehended three individuals allegedly invol… [+4537 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Texas",
+      "scammers",
+      "caught",
+      "tricking",
+      "elderly",
+      "victims",
+      "taking",
+      "loans",
+      "high",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/56191a2afbc551f3",
+    "title": "Credit where it’s due: Buy now, pay later gets a bad rap. But it could be genuinely useful",
+    "fetched_on": "2025-08-08T10:24:54.846181+00:00",
+    "content": "Buy now, pay later gets a bad rap. But it could be genuinely usefulProvided lenders open upNew forms of credit are often met with suspicion. A century ago retailers selling furniture and cars realise… [+137 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buy",
+      "pay",
+      "rap",
+      "bad",
+      "due",
+      "genuinely",
+      "Credit",
+      "chars",
+      "suspicion",
+      "realise"
+    ]
+  },
+  {
+    "source": "Thenation.com [NewsAPI]",
+    "url": "https://www.thenation.com/?post_type=article&p=565876",
+    "title": "The Trump Economy? Some Reagan Parallels",
+    "fetched_on": "2025-08-08T10:24:54.846181+00:00",
+    "content": "Politics / August 7, 2025\r\nIn contrast with the now sober-seeming Reaganites, Trump has taken credit for the economy from day one.\r\nAd Policy\r\nA painting of former US President Ronald Reagan behind D… [+5928 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Economy",
+      "August",
+      "Reagan",
+      "Politics",
+      "Reaganites",
+      "Parallels",
+      "chars",
+      "Policy",
+      "President"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/loan-demand-outlook-shows-signs-of-optimism-for-q2-fy26-onwards-rbi-survey-personal-loans-11754556346427.html",
+    "title": "Loan demand outlook shows signs of optimism for Q2 FY26 onwards: RBI survey",
+    "fetched_on": "2025-08-08T10:24:54.846181+00:00",
+    "content": "Loan demand across major sectors saw a bit of moderation in the first quarter of FY26, while bankers expect a recovery in the forthcoming quarters, as per the Reserve Bank of India's latest Bank Lend… [+3167 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Loan",
+      "RBI",
+      "Lend",
+      "onwards",
+      "chars",
+      "demand",
+      "Reserve",
+      "India",
+      "outlook"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/08/08/student-loan-borrowers-standard-plan-changes.html",
+    "title": "Student loan borrowers face an expensive ‘cliff effect’ under the new 'standard' repayment plan, expert says",
+    "fetched_on": "2025-08-08T10:25:12.689232+00:00",
+    "content": "Historically, the Standard Plan was the quickest way for federal student loan borrowers to pay down their debt. That may soon change for many people.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Historically",
+      "loan",
+      "standard",
+      "plan",
+      "Student",
+      "borrowers",
+      "expensive",
+      "cliff",
+      "repayment",
+      "expert"
+    ]
   }
 ]
