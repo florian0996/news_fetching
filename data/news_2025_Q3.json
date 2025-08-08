@@ -475152,5 +475152,145 @@
       "boarding",
       "credits"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-08/sbi-s-strong-retail-credit-growth-drives-profit-beat",
+    "title": "SBI’s Strong Retail Credit Growth Drives Profit Beat",
+    "fetched_on": "2025-08-08T09:28:49.056950+00:00",
+    "content": "State Bank of India reported better-than-expected profit for the first quarter, driven by strong credit growth above the industry average.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "Credit",
+      "Growth",
+      "Strong",
+      "Profit",
+      "Retail",
+      "Drives",
+      "Beat",
+      "State",
+      "Bank"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-08/granite-asia-picks-orion-capital-veteran-to-drive-private-credit",
+    "title": "Granite Asia Picks Orion Capital Veteran to Drive Private Credit",
+    "fetched_on": "2025-08-08T09:28:49.791410+00:00",
+    "content": "Granite Asia is promoting former Orion Capital Asia executive Ming Eng to a role overseeing the investment firm’s expansion into the burgeoning private credit market.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asia",
+      "Orion",
+      "Capital",
+      "Granite",
+      "Private",
+      "Credit",
+      "Picks",
+      "Veteran",
+      "Drive",
+      "Ming"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/jet-set-on-emi-vacations-now-top-reason-for-personal-loans-in-india",
+    "title": "Jet-Set On EMI: Vacations Now Top Reason For Personal Loans In India",
+    "fetched_on": "2025-08-08T09:28:47.718884+00:00",
+    "content": "In a striking shift in borrowing behavior, more Indians are now taking personal loans to fund vacations than for home renovations, according to the latest consumer insights report released by Paisaba… [+2230 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Personal",
+      "Loans",
+      "EMI",
+      "Paisaba",
+      "chars",
+      "Vacations",
+      "Top",
+      "Reason",
+      "India",
+      "Indians"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/silversea-embraces-nature-at-worlds-southernmost-hotel/",
+    "title": "Silversea embraces nature at world’s southernmost hotel",
+    "fetched_on": "2025-08-08T09:28:47.718884+00:00",
+    "content": "Travel and hospitality\r\nAugust 7, 2025\r\n The label is showcasing the environmental delights of an ambitious, in-development project. Image credit: Silversea \r\n By Zach James\r\nLuxury cruise line Silve… [+10937 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "Silversea",
+      "Travel",
+      "ambitious",
+      "in-development",
+      "project",
+      "chars",
+      "Silve",
+      "embraces",
+      "nature"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/greatspeculations/2025/08/07/robinhood-stock-buy-sell-or-hold/",
+    "title": "Robinhood Stock: Buy, Sell or Hold?",
+    "fetched_on": "2025-08-08T09:28:47.718884+00:00",
+    "content": "SUQIAN, CHINA - JULY 5, 2025 - A Robinhood LOGO displayed on a smartphone in Suqian City, Jiangsu Province on China, July 5, 2025. (Photo credit should read CFOTO/Future Publishing via Getty Images)\r… [+6011 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buy",
+      "JULY",
+      "Stock",
+      "Sell",
+      "Hold",
+      "CHINA",
+      "Robinhood",
+      "City",
+      "Jiangsu",
+      "SUQIAN"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/girotti",
+    "title": "Premium Italian Footwear Brands - Girotti Showcases Italian Footwear Blending Heritage Modernity (TrendHunter.com)",
+    "fetched_on": "2025-08-08T09:28:47.718884+00:00",
+    "content": "'Girotti,' the premium Italian footwear brand, is redefining personal style through exquisite craftsmanship and fully customizable design. Each pair is handcrafted in Italy by skilled artisans using … [+924 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Italian",
+      "Footwear",
+      "Girotti",
+      "Modernity",
+      "Brands",
+      "brand",
+      "TrendHunter.com",
+      "Showcases",
+      "Blending",
+      "Heritage"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/qatar-airways-creates-sonic-symphony-with-composer-hans-zimmer/",
+    "title": "Qatar Airways creates sonic symphony with composer Hans Zimmer",
+    "fetched_on": "2025-08-08T09:28:47.718884+00:00",
+    "content": "The group is linking up with one of the most iconic names in the film industry. Image credit: Qatar Airways Doha-based airline Qatar Airways is collaborating with a multi-time Academy Award-winning m… [+3164 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airways",
+      "Qatar",
+      "Hans",
+      "Zimmer",
+      "industry",
+      "creates",
+      "sonic",
+      "symphony",
+      "composer",
+      "group"
+    ]
   }
 ]
