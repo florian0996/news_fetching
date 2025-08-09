@@ -481086,5 +481086,45 @@
       "Insights",
       "Georgia"
     ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/travel/how-to-use-points-valuations#article",
+    "title": "How to Use Points and Miles Valuations",
+    "fetched_on": "2025-08-09T23:20:25.248552+00:00",
+    "content": "Imagine youre planning to get a new credit card and youre weighing two similar options. Both offer comparable benefits and charge the same annual fee. But one card offers a welcome bonus of 80,000 po… [+10277 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Points",
+      "Miles",
+      "Valuations",
+      "Imagine",
+      "youre",
+      "options",
+      "planning",
+      "credit",
+      "weighing",
+      "similar"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/08/todays-nyt-strands-puzzle-hints-spangram-and-answers-for-saturday-august-9th-gastronomic-gadgets/",
+    "title": "Today’s NYT Strands Puzzle: Hints, Spangram And Answers For Saturday, August 9th",
+    "fetched_on": "2025-08-09T23:20:25.248552+00:00",
+    "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nI have returned, dearest Strandistarians! After a couple weeks off, I am back as your humble Strands guide, here to help you string toge… [+2376 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYT",
+      "August",
+      "Today",
+      "Answers",
+      "Puzzle",
+      "Spangram",
+      "Saturday",
+      "Credit",
+      "Strandistarians",
+      "Strands"
+    ]
   }
 ]
