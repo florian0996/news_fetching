@@ -478066,5 +478066,65 @@
       "loans",
       "financial"
     ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/turning-credit-reports-into-strategic-tool/",
+    "title": "Credit Report: A Strategic Tool for Financial Health",
+    "fetched_on": "2025-08-09T03:20:53.527595+00:00",
+    "content": "Credit reports are often misunderstood, viewed with suspicion as tools that restrict access to credit or penalise past mistakes. But when used correctly, they serve a positive and empowering purpose:… [+5015 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Strategic",
+      "Financial",
+      "Health",
+      "Report",
+      "reports",
+      "misunderstood",
+      "viewed",
+      "mistakes",
+      "Tool"
+    ]
+  },
+  {
+    "source": "Ocworkbench.com [NewsAPI]",
+    "url": "https://en.ocworkbench.com/simba-sg60-national-day-offer-free-credits-for-port-in-recharge-and-purchase-of-sharp-wish4-5-lucky-draw/",
+    "title": "SIMBA SG60 National Day offer – free credits for port in, recharge and purchase of Sharp wish4/5 + lucky draw",
+    "fetched_on": "2025-08-09T03:20:53.527595+00:00",
+    "content": "SIMBA is joining the SG60 celebrations with exciting rewards! \r\nSwitch to SIMBA now and enjoy $20 free credits instantly. Plus, every $20 recharge earns you an extra $6 credit in your wallet.\r\nBuy a … [+11904 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "National",
+      "Sharp",
+      "SIMBA",
+      "Day",
+      "free",
+      "offer",
+      "lucky",
+      "celebrations",
+      "rewards",
+      "recharge"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/hdmpy/",
+    "title": "hdmpy added to PyPI",
+    "fetched_on": "2025-08-09T03:20:53.527595+00:00",
+    "content": "The hdmpy package is a Python port of parts of the R package hdm. All credit for the original package goes to the authors of hdm, all mistakes are my own. This project is in its very early stages and… [+712 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Python",
+      "hdmpy",
+      "hdm",
+      "package",
+      "added",
+      "PyPI",
+      "port",
+      "parts",
+      "chars",
+      "credit"
+    ]
   }
 ]
