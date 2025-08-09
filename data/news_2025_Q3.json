@@ -481006,5 +481006,85 @@
       "Central",
       "Cut"
     ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/08/developing-active-shooter-situation-emory-university-campus-atlanta/",
+    "title": "Developing: Active Shooter Situation at Emory University Campus in Atlanta: “RUN, HIDE, FIGHT,” UPDATES: Police Officer and Civilian Transported to Hospital, Shooter Deceased",
+    "fetched_on": "2025-08-09T22:20:22.214387+00:00",
+    "content": "Credit: Wikimedia Commons\r\nEmory University in Atlanta announced there was an active shooter on their campus Friday afternoon.\r\n“Active shooter on Emory Atlanta campus near Emory Point,” Emory Colleg… [+2138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Emory",
+      "University",
+      "Shooter",
+      "RUN",
+      "HIDE",
+      "FIGHT",
+      "UPDATES",
+      "Atlanta",
+      "Active",
+      "Police"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ce6a12c717128c67",
+    "title": "Platforms Lure SMBs Seeking Capital From Alternative Lending Options",
+    "fetched_on": "2025-08-09T22:20:22.214387+00:00",
+    "content": "PYMNTS Intelligence has long chronicled the challenges facing smaller firms navigating the storms of economic volatility. Capital, of course, offers up a buffer against the turbulence, and capital ca… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lure",
+      "Seeking",
+      "Alternative",
+      "Lending",
+      "Options",
+      "PYMNTS",
+      "Intelligence",
+      "Capital",
+      "Platforms",
+      "volatility"
+    ]
+  },
+  {
+    "source": "Wordpress.org [NewsAPI]",
+    "url": "https://core.trac.wordpress.org/changeset/60620",
+    "title": "Changeset [60620]: Twenty Twenty-Five: Fix typo in font credit URL protocol. Follow-up ...",
+    "fetched_on": "2025-08-09T22:20:22.214387+00:00",
+    "content": "Twenty Twenty-Five: Fix typo in font credit URL protocol.\r\nFollow-up to [59146].\r\nProps rollybueno, sabernhardt, dhruvang21, shailu25.Fixes #63747.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fix",
+      "Changeset",
+      "Twenty",
+      "URL",
+      "Twenty-Five",
+      "protocol",
+      "typo",
+      "font",
+      "credit",
+      "Follow-up"
+    ]
+  },
+  {
+    "source": "International Business Times [NewsAPI]",
+    "url": "https://www.ibtimes.com/exploring-smart-money-incentive-behind-georgias-film-boom-chrissie-merrills-insights-film-tax-3780556",
+    "title": "Exploring the Smart Money Incentive Behind Georgia's Film Boom: Chrissie Merrill's Insights On Film Tax Credits",
+    "fetched_on": "2025-08-09T22:20:22.214387+00:00",
+    "content": "Film tax credit, once an obscure policy in the tax landscape, has now found itself to be a touted and savvy cost-saving tax strategy. And in Georgia, this lucrative policy has been an effective catal… [+4464 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Film",
+      "Tax",
+      "Boom",
+      "Chrissie",
+      "Smart",
+      "Money",
+      "Incentive",
+      "Merrill",
+      "Insights",
+      "Georgia"
+    ]
   }
 ]
