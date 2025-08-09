@@ -478286,5 +478286,64 @@
       "high",
       "income"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/918816",
+    "title": "Special Gift Cards: $20 Cashback When You Spend $100 or More in One Transaction @ NAB Goodies",
+    "fetched_on": "2025-08-09T07:19:47.506989+00:00",
+    "content": "Could be targeted\r\nClaim this offer1. Shop with participating merchants.2. Pay with your active (used to make a purchase in the last 30 days) NAB personal Visa debit card, credit card or NAB Now Pay … [+314 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cashback",
+      "Spend",
+      "Transaction",
+      "Gift",
+      "Goodies",
+      "Claim",
+      "NAB",
+      "Special",
+      "card",
+      "targeted"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/hdfc-bank-cuts-lending-rates-on-these-tenures-by-up-to-5-bps-check-latest-loan-rates/articleshow/123182314.cms",
+    "title": "HDFC Bank cuts lending rates on these tenures by up to 5 bps: Check latest loan rates",
+    "fetched_on": "2025-08-09T07:19:47.506989+00:00",
+    "content": "Dr Ajai Chowdhry\r\nCo-Founder, HCL, Chairman EPIC Foundation, Author, Just Aspire\r\nWatch Now",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HCL",
+      "Author",
+      "bps",
+      "HDFC",
+      "Check",
+      "Chairman",
+      "Foundation",
+      "Bank",
+      "Ajai",
+      "Chowdhry"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/young-americans-drowning-credit-card-013326723.html",
+    "title": "Young Americans drowning in credit card debt as delinquency rates climb near 10% in Q2",
+    "fetched_on": "2025-08-09T07:20:11.129539+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "Young",
+      "drowning",
+      "credit",
+      "card",
+      "debt",
+      "delinquency",
+      "rates",
+      "climb"
+    ]
   }
 ]
