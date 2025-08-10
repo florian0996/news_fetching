@@ -481671,5 +481671,45 @@
       "prices",
       "charger"
     ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/culture/article-863449",
+    "title": "Secret Garden for All: The magic and accessibility at the National Library of Israel",
+    "fetched_on": "2025-08-10T10:22:08.562071+00:00",
+    "content": "Some of the 5 million books in the NLI collection. (photo credit: HOWARD BLAS)\r\nIsraels National Library is all of those things and more: it has truly become a modern-day gem since its founding in 18… [+7695 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "National",
+      "Library",
+      "Garden",
+      "NLI",
+      "Secret",
+      "million",
+      "collection",
+      "magic",
+      "accessibility",
+      "books"
+    ]
+  },
+  {
+    "source": "Cryptopolitan [NewsAPI]",
+    "url": "https://partner.cryptopolitan.com/better-buy-shiba-inu-shib-vs-mutuum-finance-mutm/",
+    "title": "Better Buy: Shiba Inu (SHIB) vs Mutuum Finance (MUTM)",
+    "fetched_on": "2025-08-10T10:22:08.562071+00:00",
+    "content": "Investors are keeping a close eye on Mutuum Finance (MUTM) as it emerges with a fresh take on decentralized lending and liquidity strategies. Mutuum Finance (MUTM) stands at $0.035 in phase 6 of its … [+3963 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "SHIB",
+      "Buy",
+      "Shiba",
+      "Inu",
+      "Investors",
+      "Mutuum",
+      "strategies",
+      "keeping"
+    ]
   }
 ]
