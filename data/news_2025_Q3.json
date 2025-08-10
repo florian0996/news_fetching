@@ -481971,5 +481971,45 @@
       "pull",
       "wallet"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/44a9e808fd4871b5",
+    "title": "'Is It Really That Simple?'—Daughter Questions A Lawyer's Advice To Her Elderly Parents: Ignore The Credit Card Bills And Debt Collectors",
+    "fetched_on": "2025-08-10T14:19:21.204820+00:00",
+    "content": "'Is It Really That Simple?'Daughter Questions A Lawyer's Advice To Her Elderly Parents: Ignore The Credit Card Bills And Debt CollectorsIn This Article:Benzinga and Yahoo Finance LLC may earn commiss… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Simple",
+      "Daughter",
+      "Parents",
+      "Ignore",
+      "Questions",
+      "Lawyer",
+      "Advice",
+      "Elderly",
+      "Credit",
+      "Card"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/board-games/how-much-do-you-know-about-the-universe-of-warhammer-40-000-put-your-faith-in-the-emperor-to-the-test-with-our-latest-quiz/",
+    "title": "How much do you know about the universe of Warhammer 40,000? Put your faith in the Emperor to the test with our latest quiz",
+    "fetched_on": "2025-08-10T14:19:21.204820+00:00",
+    "content": "(Image credit: Larian Studios, PC Gamer)\r\nWant to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes, on everything from healthbars to weird currencies to absurd patc… [+1076 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Warhammer",
+      "Gamer",
+      "universe",
+      "Image",
+      "Larian",
+      "Studios",
+      "Emperor",
+      "chars",
+      "Put",
+      "quiz"
+    ]
   }
 ]
