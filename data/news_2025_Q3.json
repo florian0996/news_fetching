@@ -482548,5 +482548,25 @@
       "Aug",
       "NASA"
     ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-08-10/when-does-the-rba-meeting-reserve-bank-interest-rates/105533028",
+    "title": "Inflation figures point to a rate cut. But how long until borrowers see savings?",
+    "fetched_on": "2025-08-10T23:20:23.497225+00:00",
+    "content": "The Reserve Bank of Australia (RBA) shocked many in the finance sector when it voted against cutting the cash rate last month.\r\nThe news came as a blow to people paying off home loans, who hoped a ra… [+3910 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Inflation",
+      "cut",
+      "figures",
+      "point",
+      "RBA",
+      "rate",
+      "Australia",
+      "Reserve",
+      "Bank",
+      "savings"
+    ]
   }
 ]
