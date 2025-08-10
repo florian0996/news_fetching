@@ -481126,5 +481126,100 @@
       "Strandistarians",
       "Strands"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/viq-solutions-announces-amendments-to-credit-agreement",
+    "title": "VIQ Solutions Announces Amendments to Credit Agreement",
+    "fetched_on": "2025-08-10T02:00:29.939102+00:00",
+    "content": "MISSISSAUGA, Ontario VIQ Solutions Inc. (VIQ, VIQ Solutions or the Company) (TSX: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, … [+8267 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "VIQ",
+      "Solutions",
+      "MISSISSAUGA",
+      "Ontario",
+      "Announces",
+      "Amendments",
+      "Credit",
+      "Agreement",
+      "TSX",
+      "VQS"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/41874437/boss-who-took-credit-for-everyones-work-finally-gets-fired-after-getting-exposed-for-expensing-fake",
+    "title": "Boss who took credit for everyone’s work finally gets fired after getting exposed for expensing fake work trips to visit his mistress: 'The whole thing unraveled'",
+    "fetched_on": "2025-08-10T02:00:29.939102+00:00",
+    "content": "Have you ever had a boss you just can't stand? The kind who takes credit for your hard work, brags nonstop about themselves, and somehow manages to avoid doing any real work? Maybe they show up late,… [+451 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "work",
+      "Boss",
+      "credit",
+      "mistress",
+      "unraveled",
+      "stand",
+      "finally",
+      "fired",
+      "exposed",
+      "expensing"
+    ]
+  },
+  {
+    "source": "The Japan Times [NewsAPI]",
+    "url": "https://www.japantimes.co.jp/business/2025/08/09/markets/credit-europe-defense/",
+    "title": "The hottest new credit deals in Europe are anything to do with defense",
+    "fetched_on": "2025-08-10T02:00:29.939102+00:00",
+    "content": "As NATO leaders huddled in The Hague in late June to iron out a plan to radically boost military spending, bankers in London were busy adding up the investor orders for a bond being offered by a litt… [+1048 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Europe",
+      "NATO",
+      "Hague",
+      "June",
+      "London",
+      "spending",
+      "bankers",
+      "litt",
+      "hottest"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/youve-been-ambushed-now-what/",
+    "title": "You’ve Been Ambushed…Now What?",
+    "fetched_on": "2025-08-10T02:00:29.939102+00:00",
+    "content": "Credit: Rick Osentoski-Imagn Images\r\nThe word “Issue” and the name “Tarik Skubal” haven’t been used in the same sentence very often in 2025. The Detroit Tigers’ lefty is the clear frontrunner for win… [+14634 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ambushed",
+      "’ve",
+      "Issue",
+      "Rick",
+      "Tarik",
+      "Skubal",
+      "Images",
+      "Credit",
+      "Detroit",
+      "Tigers’"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/why-did-my-credit-score-drop-191725655.html",
+    "title": "8 common reasons why your credit score could have dropped",
+    "fetched_on": "2025-08-10T02:00:47.382550+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "common",
+      "dropped",
+      "reasons",
+      "credit",
+      "score"
+    ]
   }
 ]
