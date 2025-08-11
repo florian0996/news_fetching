@@ -482728,5 +482728,45 @@
       "deserves",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-11/unicredit-backed-alpha-bank-plans-srt-on-1-2-billion-of-loans",
+    "title": "UniCredit-Backed Alpha Bank Plans SRT on €1.2 Billion of Loans",
+    "fetched_on": "2025-08-11T06:35:55.256383+00:00",
+    "content": "Greece’s Alpha Bank SA has started the process of selling a significant risk transfer transaction tied to a portfolio of corporate loans, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alpha",
+      "Bank",
+      "Billion",
+      "Loans",
+      "Plans",
+      "SRT",
+      "Greece",
+      "UniCredit-Backed",
+      "matter",
+      "started"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/10/ellington-credit-earn-projected-to-post-earnings-on-monday/",
+    "title": "Ellington Credit (EARN) Projected to Post Earnings on Monday",
+    "fetched_on": "2025-08-11T06:35:53.872425+00:00",
+    "content": "Ellington Credit (NYSE:EARN – Get Free Report) is expected to post its Q2 2025 quarterly earnings results before the market opens on Monday, August 11th. Analysts expect Ellington Credit to post earn… [+3773 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Monday",
+      "NYSE",
+      "August",
+      "EARN",
+      "Credit",
+      "Projected",
+      "Report",
+      "Ellington",
+      "Earnings",
+      "Post"
+    ]
   }
 ]
