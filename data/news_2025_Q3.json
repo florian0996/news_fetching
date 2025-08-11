@@ -483006,5 +483006,45 @@
       "lending",
       "businesses"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-unit-to-sell-2-1-pc-stake-in-home-loans-arm-to-bajaj-allianz-life-for-rs-65-5-cr/articleshow/123216405.cms",
+    "title": "JM Financial unit to sell 2.1 pc stake in home loans arm to Bajaj Allianz Life for Rs 65.5 cr",
+    "fetched_on": "2025-08-11T10:25:38.848519+00:00",
+    "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "Share",
+      "Telegram",
+      "market",
+      "Financial",
+      "Bajaj",
+      "Allianz",
+      "Life",
+      "Sensex",
+      "Nifty"
+    ]
+  },
+  {
+    "source": "Lizardbutton.site [NewsAPI]",
+    "url": "https://lizardbutton.site/",
+    "title": "Show HN: Lizard Button",
+    "fetched_on": "2025-08-11T10:25:38.848519+00:00",
+    "content": "The lizard button phenomenon originated from a memorable post-credit scene in Disney-Pixar's 2025\r\n film \"Elio,\" teasing the upcoming movie \"Hoppers.\" The scene features a small green lizard\r\n obsess… [+496 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Elio",
+      "Hoppers",
+      "Button",
+      "film",
+      "Lizard",
+      "Show",
+      "Disney-Pixar",
+      "teasing",
+      "movie",
+      "scene"
+    ]
   }
 ]
