@@ -483756,5 +483756,125 @@
       "owner",
       "negative"
     ]
+  },
+  {
+    "source": "/FILM [NewsAPI]",
+    "url": "https://www.slashfilm.com/1932794/why-hbo-max-canceled-warrior/",
+    "title": "Why HBO Max Canceled Warrior (Again)",
+    "fetched_on": "2025-08-11T17:21:38.227446+00:00",
+    "content": "In each episode, \"Warrior\" fought hard to be the badass series Bruce Lee would be proud of, with special credit going to stunt coordinator Brett Chan who gave each character their own unique approach… [+1799 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Warrior",
+      "chars",
+      "HBO",
+      "Max",
+      "Canceled",
+      "Bruce",
+      "Lee",
+      "Brett",
+      "Chan",
+      "episode"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-pictures/my-chemical-romance-metlife-stadium-photos-1235402389/",
+    "title": "My Chemical Romance Bring ‘The Black Parade’ Home to MetLife",
+    "fetched_on": "2025-08-11T17:21:38.227446+00:00",
+    "content": "Image Credit: Gabrielle Ravet for Rolling Stone\r\nDeath Cab for Cutie lead singer, Ben Gibbard, brought the band’s early-aughts emo staples to the MetLife stage.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bring",
+      "Credit",
+      "Gabrielle",
+      "Ben",
+      "Gibbard",
+      "Chemical",
+      "Romance",
+      "Black",
+      "Parade’",
+      "Home"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/chad-michael-murray-kids-5433853/",
+    "title": "Chad Michael Murray’s Kids: All About the ‘Freakier Friday’ Star’s Children",
+    "fetched_on": "2025-08-11T17:21:38.227446+00:00",
+    "content": "Image Credit: Anadolu via Getty Images\r\nChad Michael Murray might be an on-screen scene stealer, but hes a dedicated husband and dad all day, every day. The Freakier Friday star has kept a pretty low… [+1930 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Michael",
+      "Murray",
+      "Kids",
+      "Credit",
+      "Anadolu",
+      "Chad",
+      "day",
+      "Friday’",
+      "Children",
+      "Getty"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/41832197/i-can-see-how-many-red-flags-i-overlooked-woman-blocks-her-ex-fiancs-attempt-to-take-her-sons-trust",
+    "title": "‘I can see how many red flags I overlooked’: Woman blocks her ex-fiancé’s attempt to take her son’s trust fund, setting off pressure from family and work connections as he tries involving everyone from bosses to relatives to get his way",
+    "fetched_on": "2025-08-11T17:21:38.227446+00:00",
+    "content": "as untapped sources of leverage, contingency funds, or outright company credit. The moment access to a family trust or a personal savings account is denied, they unleash a parade of flying monkeys di… [+515 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Woman",
+      "fund",
+      "funds",
+      "overlooked’",
+      "setting",
+      "leverage",
+      "contingency",
+      "credit",
+      "trust",
+      "family"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/090e9a6d7098b897",
+    "title": "Here are all the EVs you can still lease for under $300 a month in August",
+    "fetched_on": "2025-08-11T17:21:38.227446+00:00",
+    "content": "With just under two months until the $7,500 federal tax credit for electric vehicles expires, automakers are pushing the savings. Weve put together a list of all the EVs you can still lease for under… [+149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "EVs",
+      "lease",
+      "federal",
+      "expires",
+      "automakers",
+      "savings",
+      "tax",
+      "credit",
+      "electric"
+    ]
+  },
+  {
+    "source": "Gizmodo.com [NewsAPI]",
+    "url": "https://gizmodo.com/the-great-american-ev-tax-credit-rush-has-begun-2000641202",
+    "title": "The Great American EV Tax Credit Rush Has Begun",
+    "fetched_on": "2025-08-11T17:21:38.227446+00:00",
+    "content": "The great EV buying frenzy has officially begun. In the last 48 hours, Tesla has seen delivery times for some of its most popular models skyrocket from a few weeks to nearly six months, a clear signa… [+3837 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Great",
+      "Begun",
+      "American",
+      "Tax",
+      "Credit",
+      "Rush",
+      "buying",
+      "frenzy",
+      "officially",
+      "Tesla"
+    ]
   }
 ]
