@@ -484576,5 +484576,105 @@
       "famously",
       "term"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-12/hong-kong-builder-parkview-seeks-loan-extension-as-talks-drag-on",
+    "title": "Hong Kong Builder Parkview Seeks Loan Extension as Talks Drag On",
+    "fetched_on": "2025-08-12T05:21:02.808651+00:00",
+    "content": "Hong Kong developer Parkview Group Ltd. is seeking a three-month extension on a $940 million loan due Friday, in a bid to get more time to negotiate a refinancing deal with banks, according to people familiar with the situation.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kong",
+      "Parkview",
+      "Hong",
+      "Friday",
+      "Loan",
+      "Extension",
+      "Builder",
+      "Seeks",
+      "Talks",
+      "Drag"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/hdfc-bank-cuts-lending-rates-check-new-rates",
+    "title": "HDFC Bank Cuts Lending Rates: Check New Rates",
+    "fetched_on": "2025-08-12T05:21:01.598952+00:00",
+    "content": "HDFC Bank has cut its overnight and one-month MCLR by 5 basis points, lowering them to 8.55% from 8.60%. The three-month MCLR has also been trimmed by 5 basis points, moving from 8.65% to 8.60%.\r\nSim… [+579 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "Bank",
+      "Rates",
+      "Check",
+      "basis",
+      "points",
+      "Lending",
+      "MCLR",
+      "lowering",
+      "Cuts"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/how-credit-card-statement-reveals-more-about-you-than-one-may-think-11754665360681.html",
+    "title": "How credit card statement reveals more about you than one may think?",
+    "fetched_on": "2025-08-12T05:21:01.598952+00:00",
+    "content": "Do you often use a credit card? When you bought something last time, you probably swiped a card or tapped your phone without a faint thought. That quick, simple action creates a ripple effect of data… [+3115 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "credit",
+      "statement",
+      "reveals",
+      "chars",
+      "time",
+      "thought",
+      "quick",
+      "simple",
+      "data"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/over-rs-11-crore-loan-fraud-in-pune-4-money-lessons-one-can-learn-from-it-personal-loans-11754659837904.html",
+    "title": "Over ₹11 crore loan fraud in Pune: 4 money lessons one can learn from it",
+    "fetched_on": "2025-08-12T05:21:01.598952+00:00",
+    "content": "Personal loan: A case of fraud has come to light in Pune, where a borrower took a loan of 5 crore from a bank against the collateral of a property. The same asset was later used to raise another loan… [+2147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pune",
+      "crore",
+      "Personal",
+      "loan",
+      "fraud",
+      "money",
+      "property",
+      "lessons",
+      "learn",
+      "case"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/4-smart-ways-to-start-building-your-credit-score-as-a-beginner-credit-cards-personal-loans-11754647571644.html",
+    "title": "4 smart ways to start building your credit score as a beginner",
+    "fetched_on": "2025-08-12T05:21:01.598952+00:00",
+    "content": "Have you newly joined the workforce? Have you applied for a personal loan or a credit card and got rejected due to the lack of a credit score? For new-to-credit individuals who have just joined the w… [+7573 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "score",
+      "smart",
+      "workforce",
+      "joined",
+      "start",
+      "building",
+      "beginner",
+      "newly",
+      "chars"
+    ]
   }
 ]
