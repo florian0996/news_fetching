@@ -486529,5 +486529,125 @@
       "inbox",
       "bill"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a8260c07bb6fd19e",
+    "title": "Trump says Nvidia will hand the U.S. 15% of its H20 chip sales to China",
+    "fetched_on": "2025-08-12T17:20:20.316145+00:00",
+    "content": "The president said Nvidia would pay the government in exchange for easing export restrictions and that he'd initially asked for a larger cut.(Image credit: Michel Euler)\r\nThis story appeared on npr.o… [+23 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nvidia",
+      "chars",
+      "Image",
+      "Michel",
+      "Euler",
+      "China",
+      "Trump",
+      "chip",
+      "cut.",
+      "credit"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-863914",
+    "title": "How much will Gaza occupation cost Israel? Expert weighs in",
+    "fetched_on": "2025-08-12T17:20:20.316145+00:00",
+    "content": "Hamas terrorists carrying clubs and firearms secure humanitarian aid trucks in the northern Gaza area of Jabaliya on June 25, 2025. (photo credit: TPS-IL)\r\nProfessor Elise Brezis estimates Gaza's ann… [+5622 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Israel",
+      "Gaza",
+      "TPS-IL",
+      "June",
+      "occupation",
+      "cost",
+      "Hamas",
+      "Jabaliya",
+      "Professor",
+      "chars"
+    ]
+  },
+  {
+    "source": "Commercial Observer [NewsAPI]",
+    "url": "http://commercialobserver.com/2025/08/cre-lending-volumes-increased-q2-cbre/",
+    "title": "CRE Lending Volumes Increased 45% Year Over Year in Q2: CBRE",
+    "fetched_on": "2025-08-12T17:20:20.316145+00:00",
+    "content": "In an uncertain economy, commercial real estate lending has rebounded in a big way in 2025. \r\nA new report from CBRE found that the firms internal United States commercial real estate loan closings i… [+2603 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Year",
+      "Lending",
+      "CRE",
+      "Increased",
+      "Volumes",
+      "CBRE",
+      "real",
+      "economy",
+      "commercial",
+      "estate"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/silversea-appoints-global-head-of-food-beverage/",
+    "title": "Silversea appoints global head of food, beverage",
+    "fetched_on": "2025-08-12T17:20:20.316145+00:00",
+    "content": "Commerce\r\nAugust 11, 2025\r\n Gianluca Sparacino most recently held the position of vice president of food and beverage at hospitality group Four Seasons. Image credit: Silversea \r\n By Kiran Gill for L… [+5138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "Gianluca",
+      "Seasons",
+      "Silversea",
+      "food",
+      "Commerce",
+      "Sparacino",
+      "beverage",
+      "appoints",
+      "global"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/cryptocurrency/2025/stablecoins-may-spur-loan-seekers-move-banks-fintechs/",
+    "title": "Stablecoins May Spur Loan Seekers to Move From Banks to FinTechs",
+    "fetched_on": "2025-08-12T17:20:20.316145+00:00",
+    "content": "The ascendant stablecoin market may set the stage for decreased lending from banks, opening an opportunity for alternative lenders, including FinTech platforms, to fill the gap.An economic bulletin r… [+2876 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks",
+      "chars",
+      "Spur",
+      "Loan",
+      "Seekers",
+      "Move",
+      "opening",
+      "lenders",
+      "including",
+      "platforms"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/canceled-disney-plus-shows-5433981/",
+    "title": "Canceled Disney+ Shows From ‘Lizzie McGuire’ to ‘Goosebumps’",
+    "fetched_on": "2025-08-12T17:20:20.316145+00:00",
+    "content": "Image Credit: Disney+\r\nIts been quite a rocky time for entertainment especially television shows. In 2025 alone, major companies including Paramount Global, NBCUniversal and The Walt Disney Company h… [+2699 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lizzie",
+      "Goosebumps’",
+      "Credit",
+      "Shows",
+      "Disney",
+      "Image",
+      "Canceled",
+      "McGuire’",
+      "rocky",
+      "time"
+    ]
   }
 ]
