@@ -487367,5 +487367,65 @@
       "rivalry",
       "manipulative"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d78431579be3d1d9",
+    "title": "WestJet says some passengers' personal information stolen in cyberattack",
+    "fetched_on": "2025-08-12T21:20:09.053567+00:00",
+    "content": "WestJet says some personal data including information about travel documents such as passports was stolen in a cyberattack earlier this year, but credit and debit card numbers as well as user passwor… [+76 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "WestJet",
+      "stolen",
+      "personal",
+      "information",
+      "cyberattack",
+      "year",
+      "passwor",
+      "passengers'",
+      "data"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/08/costco-customer-shared-how-she-makes-money-by-recycling-plastic-bottles-for-store-credit/",
+    "title": "Costco Customer Shared How She Makes Money By Recycling Plastic Bottles For Store Credit",
+    "fetched_on": "2025-08-12T21:20:09.053567+00:00",
+    "content": "TikTok/@_kerijoe\r\nFACT: we could all use a few extra bucks in our pockets these days.\r\nHey, things are tough out there!\r\nAnd this video might inspire you to make some extra money AND help out the env… [+1131 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FACT",
+      "Customer",
+      "Shared",
+      "Recycling",
+      "Plastic",
+      "Bottles",
+      "Store",
+      "Credit",
+      "Costco",
+      "TikTok"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/how-to-negotiate-credit-card-debt-relief-on-your-own/",
+    "title": "How to negotiate credit card debt relief on your own",
+    "fetched_on": "2025-08-12T21:20:09.053567+00:00",
+    "content": "If you're trying to get rid of your high-rate credit card debt, knowing how to negotiate could be key.\r\nGetty Images\r\nCredit card debt has been climbing steadily over the last several months, with Am… [+6591 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "credit",
+      "negotiate",
+      "debt",
+      "knowing",
+      "key",
+      "relief",
+      "rid",
+      "high-rate",
+      "chars"
+    ]
   }
 ]
