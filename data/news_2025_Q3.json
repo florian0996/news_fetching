@@ -485313,5 +485313,45 @@
       "loans",
       "boost"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-12/coller-strikes-record-3-billion-private-credit-secondaries-deal",
+    "title": "Coller Strikes Record $3 Billion Private-Credit Secondaries Deal",
+    "fetched_on": "2025-08-12T10:24:12.122686+00:00",
+    "content": "Coller Capital Ltd., a UK-based investor in the secondary market for private assets, closed a deal with middle-market direct lender TPG Twin Brook Capital Partners to establish a $3 billion continuation fund, according to a statement seen by Bloomberg News.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Capital",
+      "Record",
+      "Ltd.",
+      "Coller",
+      "Deal",
+      "Strikes",
+      "Secondaries",
+      "TPG",
+      "Twin"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/personal-loan-emi-what-to-do-immediately-after-defaulting-on-a-loan-find-out-11754905152913.html",
+    "title": "Personal loan EMI: What to do immediately after defaulting on a loan? Find out",
+    "fetched_on": "2025-08-12T10:24:11.713574+00:00",
+    "content": "The Indian banking sector is currently facing a significant uptick in personal loan defaults, most notably in small-ticket loans and rural regions. According to datacompiled by the Fintech Associatio… [+4038 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "loan",
+      "Personal",
+      "immediately",
+      "defaulting",
+      "Indian",
+      "Associatio",
+      "Fintech",
+      "chars",
+      "Find"
+    ]
   }
 ]
