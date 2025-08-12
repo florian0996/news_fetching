@@ -484436,5 +484436,45 @@
       "Financial",
       "Home"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-12/banks-consider-seizing-hong-kong-s-worfu-mall-after-loan-default",
+    "title": "Banks Consider Seizing Hong Kong’s Worfu Mall After Loan Default",
+    "fetched_on": "2025-08-12T03:17:57.666798+00:00",
+    "content": "Bank creditors are considering seizing control of a Hong Kong shopping center after a venture backed by Schroders Capital and Chelsfield’s Asia fund defaulted on a loan tied to the property, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hong",
+      "Kong",
+      "Seizing",
+      "Loan",
+      "Worfu",
+      "Mall",
+      "Default",
+      "Schroders",
+      "Capital",
+      "Chelsfield"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/tajh-bellow-discusses-his-2025-emmy-nomination-for-general-hospital-and-tackling-grief-in-his-storyline/article",
+    "title": "Tajh Bellow discusses his 2025 Emmy nomination for ‘General Hospital’ and tackling grief in his storyline",
+    "fetched_on": "2025-08-12T03:17:56.933488+00:00",
+    "content": "Tajh Bellow in 'General Hospital.' Photo Credit: Disney, Christine Bartolucci.\r\nActor Tajh Bellow discussed his 2025 Emmy nomination for “General Hospital” and tackling grief in his storyline. He is … [+4959 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "General",
+      "Bellow",
+      "Emmy",
+      "Hospital",
+      "Tajh",
+      "Hospital’",
+      "Disney",
+      "nomination",
+      "tackling",
+      "grief"
+    ]
   }
 ]
