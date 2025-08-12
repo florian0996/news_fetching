@@ -484676,5 +484676,85 @@
       "newly",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-12/top-philippine-bank-likely-to-sustain-record-profit-ceo-says",
+    "title": "Top Philippine Bank Likely to Sustain Record Profit, CEO Says",
+    "fetched_on": "2025-08-12T06:33:26.671803+00:00",
+    "content": "BDO Unibank Inc., the Philippines’ biggest lender, expects to sustain record-high earnings this year on broad-based growth in lending, its chief executive said, easing investor worries over the impact of US tariffs.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Profit",
+      "CEO",
+      "Inc.",
+      "Sustain",
+      "Philippine",
+      "Bank",
+      "Record",
+      "BDO",
+      "Unibank",
+      "Philippines’"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/11/blackstone-secured-lending-fund-nysebxsl-receives-31-54-consensus-pt-from-brokerages/",
+    "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Receives $31.54 Consensus PT from Brokerages",
+    "fetched_on": "2025-08-12T06:33:25.002725+00:00",
+    "content": "Blackstone Secured Lending Fund (NYSE:BXSL – Get Free Report) has been given an average rating of “Moderate Buy” by the six ratings firms that are currently covering the firm, MarketBeat Ratings repo… [+4812 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "BXSL",
+      "Fund",
+      "Secured",
+      "Lending",
+      "Receives",
+      "Blackstone",
+      "Consensus",
+      "Report",
+      "Moderate"
+    ]
+  },
+  {
+    "source": "Otago Daily Times [NewsAPI]",
+    "url": "https://www.odt.co.nz/business/anz-cuts-home-loan-rate-rnz",
+    "title": "ANZ cuts home loan rate",
+    "fetched_on": "2025-08-12T06:33:25.002725+00:00",
+    "content": "By Susan Edmunds of RNZANZ has trimmed some of its home loan rates - and there are predictions that other banks may soon follow.\r\nThe country's biggest bank said it would cut its one-year fixed rate … [+2687 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANZ",
+      "loan",
+      "Susan",
+      "Edmunds",
+      "RNZANZ",
+      "home",
+      "follow",
+      "rate",
+      "trimmed",
+      "predictions"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/business/difference-between-small-finance-banks-and-universal-banks",
+    "title": "Small Finance Banks Vs Universal Banks: Understanding The Key Differences",
+    "fetched_on": "2025-08-12T06:33:25.002725+00:00",
+    "content": "Here are some of the key differences between SFBs and universal banks:\r\nAt least 50% of the portfolio of an SFB must comprise loans and advances up to Rs 25 lakh.\r\nOn the other hand, no such restrict… [+944 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks",
+      "Key",
+      "Universal",
+      "Differences",
+      "Understanding",
+      "Finance",
+      "lakh",
+      "SFBs",
+      "SFB",
+      "Small"
+    ]
   }
 ]
