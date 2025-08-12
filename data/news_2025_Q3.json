@@ -487427,5 +487427,105 @@
       "high-rate",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-12/golub-leads-300-million-loan-for-pest-control-company-greenix",
+    "title": "Golub Leads $300 Million Loan for Pest Control Company Greenix",
+    "fetched_on": "2025-08-12T22:20:14.548442+00:00",
+    "content": "Golub Capital led a private credit loan of around $300 million to support private equity firm Gridiron Capital’s purchase of pest control company Greenix, according to people with knowledge of the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Greenix",
+      "Million",
+      "Control",
+      "Company",
+      "Capital",
+      "Pest",
+      "Leads",
+      "Golub",
+      "Loan",
+      "Gridiron"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-12/commonwealth-bank-of-australia-profit-meets-analyst-estimates",
+    "title": "Commonwealth Bank Profit Climbs on Home, Business Lending",
+    "fetched_on": "2025-08-12T22:20:14.705769+00:00",
+    "content": "Commonwealth Bank of Australia profit met estimates as home-loan growth and lending to businesses supported the country’s biggest lender.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Home",
+      "Business",
+      "Commonwealth",
+      "Profit",
+      "Lending",
+      "Climbs",
+      "Australia",
+      "lender",
+      "met"
+    ]
+  },
+  {
+    "source": "Bringatrailer.com [NewsAPI]",
+    "url": "https://bringatrailer.com/2025/08/11/question-of-the-week-which-car-features-your-all-time-favorite-seat-upholstery-design/",
+    "title": "Question of the Week: Which Car Features your All-Time Favorite Seat Upholstery Design?—WINNER’S UPDATE",
+    "fetched_on": "2025-08-12T22:20:13.884117+00:00",
+    "content": "WINNERS ANNOUNCEMENT:\r\nHappy Monday! Were back to announce the winner for our Question of the Week, where our victor will accept a $25 credit for a hat or T-shirt from the BaT Gear Store and the accl… [+2967 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Week",
+      "Design",
+      "WINNER’S",
+      "ANNOUNCEMENT",
+      "Happy",
+      "Monday",
+      "Car",
+      "Features",
+      "Favorite",
+      "Seat"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/frick-collection-concert-series-returns/",
+    "title": "Frick Collection concert series returns",
+    "fetched_on": "2025-08-12T22:20:13.884117+00:00",
+    "content": "Arts and entertainment\r\nAugust 11, 2025\r\n The museum's auditorium was renovated by German architect Annabelle Selldorf. Image credit: Rolex \r\n By Kiran Gill for Luxury Daily News Service\r\nNew Yorks F… [+4551 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "Selldorf",
+      "Collection",
+      "Arts",
+      "German",
+      "Annabelle",
+      "Frick",
+      "chars",
+      "Rolex",
+      "concert"
+    ]
+  },
+  {
+    "source": "Sporting News [NewsAPI]",
+    "url": "https://www.sportingnews.com/us/ncaa-football/news/dolphins-quinn-ewers-said-deserve-credit-not-arch-manning-if-texas-longhorns-win-national-title/df526c63331bb1bf82b19312",
+    "title": "Dolphins’ Quinn Ewers said to deserve credit, not Arch Manning, if Texas Longhorns win national title",
+    "fetched_on": "2025-08-12T22:20:13.884117+00:00",
+    "content": "The AP Poll top 25 was released Monday, and the Texas Longhorns were ranked No. 1 in the country.\r\nTexas has topped just about every preseason ranking this offseason and enters as the clear favorite … [+1514 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Longhorns",
+      "Manning",
+      "Monday",
+      "Texas",
+      "Quinn",
+      "Ewers",
+      "Arch",
+      "Poll",
+      "Dolphins’",
+      "credit"
+    ]
   }
 ]
