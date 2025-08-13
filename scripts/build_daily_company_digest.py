@@ -5,7 +5,7 @@ Create data/news_filtered_for_companies_of_interest.json
 
 What this script does
 - Scans quarterly aggregate files: data/news_*_Q*.json
-- Derives each article’s day from its timestamp (robust to ISO and RFC dates)
+- Derives each article’s day from its timestamp (handles ISO and RFC dates)
 - Groups articles by day when platforms/companies of interest are mentioned
 - Emits a day-wise digest JSON:
     {
@@ -18,26 +18,47 @@ What this script does
     }
   For days without hits:
     { "YYYY-MM-DD": { "status": "no company in the news" } }
+
+It also prints a short summary and fails loudly (non-zero exit) if no inputs or no days are found,
+so CI doesn’t “succeed” with a no-op.
 """
 
 from pathlib import Path
 import json
 import re
+import sys
 from collections import defaultdict
-from datetime import date, datetime
+from datetime import datetime
 from email.utils import parsedate_to_datetime
 
-# ───────────────────────── paths ─────────────────────────
-# repo root assumed as parent of the scripts/ directory
-REPO_ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = REPO_ROOT / "data"
+# ───────────────────────── locate data dir robustly ─────────────────────────
+HERE = Path(__file__).resolve()
+CANDIDATE_DATA_DIRS = [
+    HERE.parent / "data",              # repo_root/data if script in repo_root
+    HERE.parent.parent / "data",       # repo_root/data if script in repo_root/scripts
+    Path.cwd() / "data",               # data under current working directory (CI)
+]
 
-# process the current quarter aggregates only (as produced by the fetcher)
-NEWS_FILES = sorted(DATA_DIR.glob("news_*_Q*.json"))
+DATA_DIR = None
+for p in CANDIDATE_DATA_DIRS:
+    if p.is_dir():
+        DATA_DIR = p
+        break
+if DATA_DIR is None:
+    sys.stderr.write(
+        "ERROR: Could not locate the data/ directory. Tried:\n  - "
+        + "\n  - ".join(str(p) for p in CANDIDATE_DATA_DIRS)
+        + "\n"
+    )
+    sys.exit(2)
 
+# Output file path
 OUTFILE = DATA_DIR / "news_filtered_for_companies_of_interest.json"
 
-# recognise YYYY-MM-DD inside timestamp strings
+# Input aggregates: keep quarterly files (fetcher appends to the current quarter)
+NEWS_FILES = sorted(DATA_DIR.glob("news_*_Q*.json"))
+
+# Recognise YYYY-MM-DD inside timestamp strings
 DATE_RX = re.compile(r"\d{4}-\d{2}-\d{2}")
 
 # Accept common timestamp keys (flat or nested)
@@ -69,7 +90,7 @@ def get_timestamp(art: dict) -> str:
 def extract_day(ts: str) -> str | None:
     """
     Return YYYY-MM-DD from a timestamp string.
-    Accepts variants like '2025-04-28 16:55:44', '2025-04-28',
+    Accepts '2025-04-28 16:55:44', '2025-04-28',
     or RFC strings like 'Tue, 01 Jul 2025 05:43:55 GMT'.
     """
     if not ts:
@@ -89,8 +110,13 @@ def extract_day(ts: str) -> str | None:
         return None
 
 # ───────────────────────── pass 1: gather dates & matches ────────────
+if not NEWS_FILES:
+    sys.stderr.write(f"ERROR: No input aggregate files matched: {DATA_DIR}/news_*_Q*.json\n")
+    sys.exit(3)
+
 all_days: set[str] = set()
 hits: dict[str, list] = defaultdict(list)  # day → list[article]
+total_articles = 0
 
 for jf in NEWS_FILES:
     with jf.open(encoding="utf-8") as f:
@@ -102,6 +128,8 @@ for jf in NEWS_FILES:
             articles = payload.get("articles") or payload.get("items") or []
         else:
             articles = []
+
+    total_articles += len(articles)
 
     for art in articles:
         day = extract_day(get_timestamp(art))
@@ -118,11 +146,20 @@ for jf in NEWS_FILES:
         )
 
         if plats:
+            title_val = art.get("title")
+            title = title_val.strip() if isinstance(title_val, str) else ""
             hits[day].append({
-                "title": art.get("title", "").strip() if isinstance(art.get("title"), str) else "",
+                "title": title,
                 "url": art.get("url"),
                 "platforms_mentioned": plats
             })
+
+if not all_days:
+    sys.stderr.write(
+        "ERROR: Scanned files but extracted zero days. Likely timestamp key mismatch "
+        "or parsing failure. Enable debug logs or inspect a sample article.\n"
+    )
+    sys.exit(4)
 
 # ───────────────────────── build digest object ───────────────────────
 digest: dict[str, dict] = {}
@@ -138,7 +175,13 @@ OUTFILE.parent.mkdir(parents=True, exist_ok=True)
 with OUTFILE.open("w", encoding="utf-8") as f:
     json.dump(digest, f, ensure_ascii=False, indent=2)
 
+# ───────────────────────── summary ───────────────────────────────────
+latest_day = max(all_days) if all_days else "—"
 print(
-    f"✅ Digest created from {len(NEWS_FILES)} quarterly file(s) "
-    f"covering {len(digest)} day(s) → {OUTFILE.relative_to(REPO_ROOT)}"
+    "✅ Company digest updated\n"
+    f"  data dir:      {DATA_DIR}\n"
+    f"  inputs:        {len(NEWS_FILES)} file(s)\n"
+    f"  articles read: {total_articles}\n"
+    f"  days covered:  {len(digest)} (latest: {latest_day})\n"
+    f"  output:        {OUTFILE}\n"
 )
