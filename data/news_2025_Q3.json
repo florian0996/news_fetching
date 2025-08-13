@@ -488414,5 +488414,85 @@
       "buyers",
       "swarming"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/lower-emi-in-focus-will-your-emi-drop-as-leading-banks-reduce-lending-rates-post-rbi-mpc-august-meeting/articleshow/123252710.cms",
+    "title": "Lower EMI in focus: Will your EMI drop as leading banks reduce lending rates post RBI MPC August meeting",
+    "fetched_on": "2025-08-13T07:22:26.877968+00:00",
+    "content": "Dr Ajai Chowdhry\r\nCo-Founder, HCL, Chairman EPIC Foundation, Author, Just Aspire\r\nWatch Now",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HCL",
+      "Author",
+      "Chairman",
+      "Foundation",
+      "EMI",
+      "RBI",
+      "MPC",
+      "August",
+      "Ajai",
+      "Chowdhry"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/ewelinaochab/2025/08/12/the-fall-of-kabul-and-the-four-years-of-taliban-regime/",
+    "title": "The Fall Of Kabul And The Four Years Of Taliban Regime",
+    "fetched_on": "2025-08-13T07:22:26.877968+00:00",
+    "content": "Afghan burqa-clad women wait in a queue to receive free iftar meal during the Islamic holy fasting month of Ramadan, on the outskirts of Kabul on March 12, 2025. (Photo credit: WAKIL KOHSAR/AFP via G… [+5293 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kabul",
+      "Ramadan",
+      "March",
+      "Fall",
+      "Years",
+      "Taliban",
+      "Regime",
+      "Afghan",
+      "Islamic",
+      "burqa-clad"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/consumer-loan-growth-in-india-bottomed-out-expect-faster-recovery-amid-credit-cost-moderation-morgan-stanley/articleshow/123252512.cms",
+    "title": "Consumer loan growth in India bottomed out, expect faster recovery amid credit cost moderation: Morgan Stanley",
+    "fetched_on": "2025-08-13T07:22:26.877968+00:00",
+    "content": "Consumer loan growth in India appears to have bottomed out, and a faster recovery is expected with the moderation in credit costs in the coming quarters, noted a recent report by the global financial… [+2126 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Consumer",
+      "loan",
+      "growth",
+      "Morgan",
+      "chars",
+      "bottomed",
+      "faster",
+      "recovery",
+      "credit"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/consumer-loan-growth-in-india-bottomed-out-expect-faster-recovery-amid-credit-cost-moderation-morgan-stanley/article69923091.ece",
+    "title": "Consumer loan growth in India bottomed out, expect faster recovery amid credit cost moderation: Morgan Stanley",
+    "fetched_on": "2025-08-13T07:22:26.877968+00:00",
+    "content": "Consumer loan growth in India appears to have bottomed out, and a faster recovery is expected with the moderation in credit costs in the coming quarters, noted a recent report by the global financial… [+2068 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Consumer",
+      "loan",
+      "growth",
+      "Morgan",
+      "chars",
+      "bottomed",
+      "faster",
+      "recovery",
+      "credit"
+    ]
   }
 ]
