@@ -1,19 +1,14 @@
 #!/usr/bin/env python3
 """
-tag_platforms.py – Populate `platforms_mentioned` in every raw news_*.json
-stored in data/, ignoring the summary file
-news_filtered_for_companies_of_interest.json.
+tag_platforms.py – Populate `platforms_mentioned` across *daily* and *quarterly* news JSONs.
 
-Folder layout
-.
-├─ data/
-│  ├─ Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv
-│  ├─ news_2025-06-15.json
-│  ├─ news_2025-06-16.json
-│  ├─ news_filtered_for_companies_of_interest.json  ← skipped
-│  └─ …
-└─ scripts/
-   └─ tag_platforms.py
+Targets:
+  data/news_YYYY-MM-DD.json      (daily)
+  data/news_YYYY_QN.json         (quarterly)
+
+Skips:
+  data/news_filtered_for_companies_of_interest.json
+  data/all_news.json
 """
 
 from pathlib import Path
@@ -25,40 +20,48 @@ import pandas as pd
 # ────────────────────────────────────────────────────────────────
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR  = REPO_ROOT / "data"
-
 MASTER_CSV = DATA_DIR / "Master_Entities_Table - Originator_Platforms_Funds_and_Competitors.csv"
 
-# collect only genuine daily news files
-NEWS_GLOB = [
-    p for p in DATA_DIR.glob("news_*.json")
-    if "filtered_for_companies_of_interest" not in p.name        # ▼ skip digest
-]
+# ────────────────────────────────────────────────────────────────
+# FILE SELECTION (daily + quarterly, skip digest/all_news)
+# ────────────────────────────────────────────────────────────────
+daily_files      = set(DATA_DIR.glob("news_????-??-??.json"))
+quarterly_files  = set(DATA_DIR.glob("news_*_Q*.json"))
+NEWS_FILES = sorted(
+    p for p in (daily_files | quarterly_files)
+    if p.name not in {"news_filtered_for_companies_of_interest.json", "all_news.json"}
+)
+
+if not NEWS_FILES:
+    print("⚠️  No news files found to tag.", file=sys.stderr)
+    sys.exit(0)
 
 # ────────────────────────────────────────────────────────────────
-# 1. Build alias → canonical-name map
+# 1) Build alias → canonical-name map
 # ────────────────────────────────────────────────────────────────
 df = pd.read_csv(MASTER_CSV)
 
 canon_col  = next(c for c in df.columns if not c.lower().startswith("alias"))
 alias_cols = [c for c in df.columns if c.lower().startswith("alias")]
 
-alias_to_name = {
-    str(row[col]).strip().lower(): str(row[canon_col]).strip()
-    for _, row in df.iterrows()
-    for col in alias_cols
-    if str(row[col]).strip()
-}
+alias_to_name = {}
+for _, row in df.iterrows():
+    canon = str(row[canon_col]).strip()
+    for col in alias_cols:
+        alias_val = str(row[col]).strip()
+        if alias_val and alias_val.lower() != "nan":
+            alias_to_name[alias_val.lower()] = canon
 
 alias_regex = {
-    a: re.compile(rf"\b{re.escape(a)}\b", re.I)      # whole-word, case-insensitive
+    a: re.compile(rf"\b{re.escape(a)}\b", re.I)   # whole-word, case-insensitive
     for a in alias_to_name
 }
 
 # ────────────────────────────────────────────────────────────────
-# 2. Helper – validate / normalise one raw item
+# 2) Helper – normalise one item
 # ────────────────────────────────────────────────────────────────
 def ensure_article_dict(item, file_name: str, idx: int) -> dict:
-    """Return a dict with at least one non-empty field (title or content)."""
+    """Ensure dict and guarantee title/content presence."""
     if not isinstance(item, dict):
         raise ValueError(f"{file_name}[{idx}] expected object, got {type(item).__name__}")
 
@@ -77,20 +80,19 @@ def ensure_article_dict(item, file_name: str, idx: int) -> dict:
     return item
 
 # ────────────────────────────────────────────────────────────────
-# 3. Tag every raw news file
+# 3) Tag files
 # ────────────────────────────────────────────────────────────────
 files_processed = 0
 articles_tagged = 0
 
 try:
-    for news_file in sorted(NEWS_GLOB):
+    for news_file in NEWS_FILES:
         with news_file.open(encoding="utf-8") as f:
             raw_items = json.load(f)
 
         articles = []
         for idx, raw in enumerate(raw_items):
             art = ensure_article_dict(raw, news_file.name, idx)
-
             haystack = f"{art['title']} {art['content']}".lower()
             matches  = {
                 alias_to_name[a]
@@ -110,7 +112,4 @@ try:
 except ValueError as err:
     sys.exit(f"✋  Data validation failed – {err}")
 
-if not files_processed:
-    print("⚠️  No raw news_*.json files found in data/.", file=sys.stderr)
-else:
-    print(f"\n✔️  Completed: {files_processed} file(s), {articles_tagged} articles total.")
+print(f"\n✔️  Completed: {files_processed} file(s), {articles_tagged} articles total.")
