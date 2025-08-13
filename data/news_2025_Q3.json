@@ -488494,5 +488494,145 @@
       "recovery",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-08-13/dubai-s-booming-housing-market-shrugs-off-ghosts-of-2009-video",
+    "title": "Dubai’s Booming Housing Market Shrugs Off Ghosts of 2009",
+    "fetched_on": "2025-08-13T08:29:50.745618+00:00",
+    "content": "The Dubai real estate market has been booming since 2020, with some observers wondering if it is a bubble ready to burst, while others point to stringent lending rules and maturing market regulation. Bloomberg News' Zainab Fattah discusses with Lizzy Burden on Bloomberg Horizons Middle East & Africa (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Market",
+      "Dubai",
+      "Booming",
+      "Housing",
+      "Shrugs",
+      "Ghosts",
+      "Bloomberg",
+      "burst",
+      "regulation",
+      "Africa"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/106685/cambodias-wing-bank-issues-2-in-1-combined-debit-and-credit-card",
+    "title": "Cambodia's Wing Bank issues 2-in-1 combined debit and credit card",
+    "fetched_on": "2025-08-13T08:29:49.999144+00:00",
+    "content": "Wing Bank (Cambodia) Plc has revolutionised Cambodias payments landscape with the launch of the Wing Bank Mastercard One Card, the countrys first two-in-one debit and credit card.Designed to simplify… [+2528 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wing",
+      "Bank",
+      "Plc",
+      "chars",
+      "card",
+      "Cambodia",
+      "Mastercard",
+      "debit",
+      "credit",
+      "issues"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/credit-unions/2025/small-credit-unions-see-8-5percent-surge-in-early-tech-adoption/",
+    "title": "Small Credit Unions See 8.5% Surge in Early Tech Adoption",
+    "fetched_on": "2025-08-13T08:29:49.999144+00:00",
+    "content": "In a notable shift, new research indicates that smaller credit unions are not merely catching up to their larger counterparts in technological innovation but are rapidly emerging as leaders, defying … [+3067 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Unions",
+      "defying",
+      "chars",
+      "Surge",
+      "Early",
+      "Tech",
+      "Adoption",
+      "Small",
+      "shift"
+    ]
+  },
+  {
+    "source": "Equinechronicle.com [NewsAPI]",
+    "url": "http://www.equinechronicle.com/ec-photo-of-the-day-reyna-taylor-and-hide-your-crazy-crowned-trail-champs/",
+    "title": "EC Photo of the Day – Reyna Taylor and Hide Your Crazy Crowned Trail Champs",
+    "fetched_on": "2025-08-13T08:29:49.999144+00:00",
+    "content": "Photo credit: Jeff Kirkbride Photography.\r\nCongratulations to the winners of the CHP Trail Class at this year’s PHBA World Championship Show!  Pictured are the World Champions Reyna Taylor and Hide Y… [+522 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Photo",
+      "Day",
+      "Jeff",
+      "Photography",
+      "Crazy",
+      "Crowned",
+      "Champs",
+      "Kirkbride",
+      "Taylor",
+      "Trail"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/bithumb-halves-crypto-lending-leverage-slashes-loan-limits",
+    "title": "Bithumb halves crypto lending leverage, slashes loan limits by 80%: Report",
+    "fetched_on": "2025-08-13T08:29:49.999144+00:00",
+    "content": "South Korean exchange Bithumb tightened rules on its month-old crypto lending service, halving leverage and sharply reducing loan limits to address investor risk concerns.\r\nOn Monday, the exchange sa… [+2473 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Bithumb",
+      "South",
+      "Korean",
+      "crypto",
+      "lending",
+      "loan",
+      "limits",
+      "slashes",
+      "service"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://www.yahoo.com/lifestyle/articles/homeowner-shares-bill-received-energy-074500970.html",
+    "title": "Homeowner shares 'bill' they received from energy company after installing solar panels: 'Check to see if solar is a good fit'",
+    "fetched_on": "2025-08-13T08:29:49.999144+00:00",
+    "content": "If you have solar and think your solar credits allow you to make money from your energy company, you might have the wrong idea. But it's likely more important anyway that solar can save you money on … [+2668 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Check",
+      "energy",
+      "company",
+      "solar",
+      "bill",
+      "Homeowner",
+      "shares",
+      "panels",
+      "fit",
+      "idea"
+    ]
+  },
+  {
+    "source": "Feedbun.com [NewsAPI]",
+    "url": "https://feedbun.com/",
+    "title": "Show HN: A browser extension that decodes food labels for healthy eating",
+    "fetched_on": "2025-08-13T08:29:49.999144+00:00",
+    "content": "Is FeedBun really free?\r\nYes! The browser extension is completely free with limited number of product researches. No credit card required, no hidden fees, upgrade at anytime. We believe everyone dese… [+2780 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Show",
+      "browser",
+      "extension",
+      "decodes",
+      "food",
+      "labels",
+      "healthy",
+      "eating",
+      "FeedBun",
+      "free"
+    ]
   }
 ]
