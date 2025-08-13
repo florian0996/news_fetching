@@ -8,7 +8,6 @@ Changes vs. the original version
 ▸ Looks only at *quarterly* aggregate files:  news_*_Q*.json
 ▸ Derives each article’s day from its `published_at` timestamp instead of
   the file name.
-▸ Everything else (filtering logic, output format) is unchanged.
 
 Output example for a day with hits
 {
@@ -29,6 +28,7 @@ import json
 import re
 from collections import defaultdict
 from datetime import date, datetime
+from email.utils import parsedate_to_datetime  # NEW
 
 # ───────────────────────── paths ─────────────────────────
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -46,16 +46,22 @@ DATE_RX = re.compile(r"\d{4}-\d{2}-\d{2}")
 def extract_day(ts: str) -> str | None:
     """
     Return YYYY-MM-DD from a timestamp string.
-    Accepts variants like '2025-04-28 16:55:44' or '2025-04-28'.
+    Accepts variants like '2025-04-28 16:55:44', '2025-04-28',
+    or RFC strings like 'Tue, 01 Jul 2025 05:43:55 GMT'.
     """
     if not ts:
         return None
     m = DATE_RX.search(ts)
     if m:
         return m.group(0)
-    # fall back to dateutil parsing (isoformat, etc.)
+    # try ISO 8601, e.g. "2025-07-01T05:43:55"
     try:
         return str(datetime.fromisoformat(ts).date())
+    except Exception:
+        pass
+    # try RFC-style timestamps, e.g. "Tue, 01 Jul 2025 05:43:55 GMT"
+    try:
+        return str(parsedate_to_datetime(ts).date())
     except Exception:
         return None
 
