@@ -13,53 +13,42 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ────────────────────────────────────────────────────────────────
       # 1. Check out the repository
-      # ────────────────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ────────────────────────────────────────────────────────────────
       # 2. Python environment
-      # ────────────────────────────────────────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"      # no pip-cache → avoids requirements-file warning
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install pandas
 
-      # ────────────────────────────────────────────────────────────────
       # 3. Populate `platforms_mentioned`
-      # ────────────────────────────────────────────────────────────────
       - name: Tag news articles
         run: python scripts/tag_platforms.py
 
-      # ────────────────────────────────────────────────────────────────
-      # 4. Build daily company digest (optional utility file)
-      # ────────────────────────────────────────────────────────────────
-      - name: Build daily company digest
-        run: python scripts/build_daily_company_digest.py
-
-      # ────────────────────────────────────────────────────────────────
-      # 5. Refresh aggregate news files
-      # ────────────────────────────────────────────────────────────────
+      # 4. Refresh aggregate news files (must be before the digest)
       - name: Merge into aggregate files
         run: python scripts/merge_news.py
 
-      # ────────────────────────────────────────────────────────────────
+      # 5. Build daily company digest (reads news_*_Q*.json)
+      - name: Build daily company digest
+        run: python scripts/build_daily_company_digest.py
+
       # 6. Commit & push any changes
-      # ────────────────────────────────────────────────────────────────
       - name: Commit updated JSON
         run: |
+          set -eu
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # ▼ stage digest, daily files and aggregate files
+          # Stage digest, daily files and aggregate files
           git add data/news_*.json data/news_filtered_for_companies_of_interest.json data/all_news.json
 
-          # commit only if there are staged changes
+          # Commit only if there are staged changes
           if ! git diff --cached --quiet; then
             git commit -m "ci: auto-tag platforms & refresh aggregates"
             git push
