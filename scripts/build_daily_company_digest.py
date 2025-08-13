@@ -8,6 +8,7 @@ Changes vs. the original version
 ▸ Looks only at *quarterly* aggregate files:  news_*_Q*.json
 ▸ Derives each article’s day from its `fetched_on` timestamp
   (fallback to `published_at` if present).
+▸ De-duplicates articles per day by URL.
 ▸ Everything else (filtering logic, output format) is unchanged.
 
 Output example for a day with hits
@@ -83,9 +84,11 @@ def extract_day_from_article(art: dict) -> str | None:
 all_days: set[str]        = set()
 hits: dict[str, list]     = defaultdict(list)   # day → list[article]
 
-# Track unparseable timestamps and fail loudly
+# Track unparseable timestamps and duplicates
 unparsed_total = 0
 unparsed_samples: list[str | None] = []
+seen_urls_by_day: dict[str, set[str]] = defaultdict(set)
+duplicates_skipped = 0
 
 for jf in NEWS_FILES:
     with jf.open(encoding="utf-8") as f:
@@ -96,19 +99,28 @@ for jf in NEWS_FILES:
         if not day:
             unparsed_total += 1
             if len(unparsed_samples) < 5:
-                # show whichever of our two keys exists for debugging
                 unparsed_samples.append(art.get("fetched_on") or art.get("published_at"))
             continue
 
         all_days.add(day)
 
         plats = art.get("platforms_mentioned", [])
-        if plats:  # keep only relevant stories
-            hits[day].append({
-                "title": (art.get("title") or "").strip(),
-                "url":   art.get("url"),
-                "platforms_mentioned": plats
-            })
+        if not plats:
+            continue  # keep only relevant stories
+
+        # ── per-day de-duplication by URL ──
+        url = (art.get("url") or "").strip()
+        if url:
+            if url in seen_urls_by_day[day]:
+                duplicates_skipped += 1
+                continue
+            seen_urls_by_day[day].add(url)
+
+        hits[day].append({
+            "title": (art.get("title") or "").strip(),
+            "url":   url or None,  # keep field, may be None
+            "platforms_mentioned": plats
+        })
 
 if unparsed_total:
     raise RuntimeError(
@@ -131,5 +143,6 @@ with OUTFILE.open("w", encoding="utf-8") as f:
 
 print(
     f"✅ Digest created from {len(NEWS_FILES)} quarterly file(s) "
-    f"covering {len(digest)} day(s) → {OUTFILE.relative_to(REPO_ROOT)}"
+    f"covering {len(digest)} day(s); deduped {duplicates_skipped} duplicate link(s) "
+    f"→ {OUTFILE.relative_to(REPO_ROOT)}"
 )
