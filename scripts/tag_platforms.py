@@ -40,7 +40,6 @@ if not NEWS_FILES:
 # Helpers
 # ────────────────────────────────────────────────────────────────
 def norm_space(s: str) -> str:
-    # Unicode normalize, replace NBSP, collapse spaces, strip
     s = "" if s is None else str(s)
     s = unicodedata.normalize("NFKC", s)
     s = s.replace("\xa0", " ").replace("–", "-").replace("—", "-").replace("’", "'")
@@ -56,8 +55,19 @@ def split_aliases(val: str) -> list[str]:
     return [norm_space(p) for p in parts if norm_space(p)]
 
 def nospace(s: str) -> str:
-    # remove all non-alphanumerics; used for merged-name matching
+    # remove all non-alphanumerics; used only for multi-word merged-name matching
     return re.sub(r"[\W_]+", "", s.lower())
+
+# Ambiguous single-word aliases that need stricter checks
+# - TitleCase match required (case-sensitive)
+# - Plus one of the context terms must appear nearby in text
+AMBIGUOUS_SINGLE = {
+    "steward": ["health", "healthcare", "health care", "hospital"],
+    "goldfinch": ["capital", "finance", "protocol", "network", "crypto", "web3"],
+    "conda": ["crowdinvest", "crowd", "platform", "austria", "funding"],
+}
+# Aliases that are too generic to match reliably; drop them entirely
+DROP_ALIASES = {"lend"}  # avoid thousands of generic hits
 
 # ────────────────────────────────────────────────────────────────
 # 1) Build alias → canonical-name map
@@ -71,27 +81,49 @@ else:
 
 alias_cols = [c for c in df.columns if c.lower().startswith("alias")]
 
-alias_to_name: dict[str, str] = {}
+# Collect (alias, canon) with normalization and filtering
+pairs: list[tuple[str, str]] = []
 for _, row in df.iterrows():
-    canon = norm_space(row[canon_col])
+    canon = norm_space(row.get(canon_col, ""))
     if not canon:
         continue
+    # include the canonical name itself as an alias
     candidates = [canon]
     for col in alias_cols:
         candidates.extend(split_aliases(row.get(col, "")))
-
     for a in candidates:
-        if not a:
+        a_norm = norm_space(a)
+        if not a_norm:
             continue
-        a_l = a.lower()
-        alias_to_name[a_l] = canon
-        alias_to_name[nospace(a)] = canon  # add merged variant e.g., 'lendingclub'
+        a_low = a_norm.lower()
+        if a_low in DROP_ALIASES:
+            continue
+        pairs.append((a_norm, canon))
 
-# Regex for multi-word aliases; single tokens use nospace matching
-wordish_regex = {
+# Partition aliases by single-word vs multi-word
+single_aliases: dict[str, str] = {}  # lower(alias) -> canon
+multi_aliases: dict[str, str]  = {}  # lower(alias) -> canon
+for a, canon in pairs:
+    if " " in a or "-" in a:
+        multi_aliases[a.lower()] = canon
+    else:
+        single_aliases[a.lower()] = canon
+
+# Compile regex for multi-word aliases (word-boundary, case-insensitive)
+multi_regex = {
     a: re.compile(rf"\b{re.escape(a)}\b", re.I)
-    for a in alias_to_name
-    if (" " in a or "-" in a) and a == a.lower() and len(a) > 2
+    for a in multi_aliases
+}
+
+# For single words, compile a case-insensitive boundary regex
+single_regex_ci = {
+    a: re.compile(rf"(?<![A-Za-z0-9]){re.escape(a)}(?![A-Za-z0-9])", re.I)
+    for a in single_aliases
+}
+# And a case-sensitive TitleCase boundary regex for ambiguous ones
+single_regex_title = {
+    a: re.compile(rf"(?<![A-Za-z0-9]){re.escape(a.capitalize())}(?![A-Za-z0-9])")
+    for a in AMBIGUOUS_SINGLE
 }
 
 # ────────────────────────────────────────────────────────────────
@@ -120,19 +152,40 @@ try:
         articles = []
         for idx, raw in enumerate(raw_items):
             art = ensure_article_dict(raw, news_file.name, idx)
-            t1 = norm_space((art["title"] + " " + art["content"]).lower())
-            t2 = nospace(t1)
+
+            raw_text = norm_space(f"{art['title']} {art['content']}")
+            t_ci     = raw_text.lower()
+            t_ns     = nospace(raw_text)  # only for multi-word merged alias check
 
             matches = set()
-            # 1) wordish aliases with boundaries on t1
-            for a, rgx in wordish_regex.items():
-                if rgx.search(t1):
-                    matches.add(alias_to_name[a])
 
-            # 2) single-token/merged aliases checked in nospace string
-            for a, canon in alias_to_name.items():
-                if a not in wordish_regex and a in t2:
+            # 1) Multi-word aliases:
+            #    - boundary match (ci)
+            #    - merged variant (no spaces/hyphens) present in nospace text
+            for a, canon in multi_aliases.items():
+                if multi_regex[a].search(t_ci):
                     matches.add(canon)
+                    continue
+                merged = nospace(a)
+                if merged and merged in t_ns:
+                    matches.add(canon)
+
+            # 2) Single-word aliases:
+            #    - NEVER use 'nospace' containment (avoids 'lend' in 'blend', 'conda' in 'anacondas')
+            #    - default: boundary, case-insensitive
+            #    - ambiguous ones: require TitleCase boundary AND at least one context term nearby
+            for a, canon in single_aliases.items():
+                if a in AMBIGUOUS_SINGLE:
+                    # Case-sensitive TitleCase boundary
+                    if not single_regex_title[a].search(raw_text):
+                        continue
+                    # Context guard
+                    if not any(ctx in t_ci for ctx in AMBIGUOUS_SINGLE[a]):
+                        continue
+                    matches.add(canon)
+                else:
+                    if single_regex_ci[a].search(t_ci):
+                        matches.add(canon)
 
             art["platforms_mentioned"] = sorted(matches)
             articles.append(art)
