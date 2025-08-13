@@ -1,660 +1,273 @@
 {
-  "2021-03-17": {
+  "2025-08-13": {
+    "status": "no company in the news"
+  },
+  "2025-08-12": {
     "articles": [
       {
-        "title": "Credit-and-collect fintech start-up Diem raises $5.5M Seed led by Fasanara Capital",
-        "url": "https://techcrunch.com/2021/03/17/credit-and-collect-fintech-start-up-diem-raises-5-5m-seed-led-by-fasanara-capital/",
+        "title": "LendingClub CEO Warns Americans Underestimate Credit Card Interest Costs",
+        "url": "http://www.pymnts.com/credit-cards/2025/lendingclub-ceo-warns-americans-underestimate-credit-card-interest-costs/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub CEO Warns Americans Underestimate Credit Card Interest Costs",
+        "url": "https://biztoc.com/x/8c6812891b944038",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Castlelake Launches $1.8 Billion Aviation Lending Platform",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-12/castlelake-launches-1-8-billion-aviation-lending-platform",
+        "platforms_mentioned": [
+          "Castlelake"
+        ]
+      }
+    ]
+  },
+  "2025-08-11": {
+    "status": "no company in the news"
+  },
+  "2025-08-10": {
+    "status": "no company in the news"
+  },
+  "2025-08-09": {
+    "status": "no company in the news"
+  },
+  "2025-08-08": {
+    "articles": [
+      {
+        "title": "Comparing LendingClub (NYSE:LC) & Sezzle (OTC:SEZNL)",
+        "url": "https://www.etfdailynews.com/2025/08/07/comparing-lendingclub-nyselc-sezzle-otcseznl/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-08-07": {
+    "articles": [
+      {
+        "title": "Reviewing LendingClub (NYSE:LC) and KRUK Spólka Akcyjna (OTCMKTS:KRKKF)",
+        "url": "https://www.etfdailynews.com/2025/08/06/reviewing-lendingclub-nyselc-and-kruk-spolka-akcyjna-otcmktskrkkf/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-08-06": {
+    "articles": [
+      {
+        "title": "BlackRock Investing $1 Billion in LendingClub's Marketplace",
+        "url": "http://www.pymnts.com/loans/2025/blackrock-investing-1-billion-in-lendingclubs-marketplace/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-08-05": {
+    "articles": [
+      {
+        "title": "LendingClub Gains 21% While CE 100 Index Struggles",
+        "url": "http://www.pymnts.com/connectedeconomy/2025/lendingclub-gains-21percent-while-ce-100-index-struggles/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "BlackRock Advisers to Invest Up to $1 Billion With LendingClub",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-05/blackrock-advisers-to-invest-up-to-1-billion-with-lendingclub",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-08-04": {
+    "articles": [
+      {
+        "title": "Seaport Res Ptn Increases Earnings Estimates for LendingClub",
+        "url": "https://www.etfdailynews.com/2025/08/03/seaport-res-ptn-increases-earnings-estimates-for-lendingclub/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Head-To-Head Contrast: LendingClub (NYSE:LC) vs. Vanquis Banking Group (OTCMKTS:FPLPF)",
+        "url": "https://www.etfdailynews.com/2025/08/03/head-to-head-contrast-lendingclub-nyselc-vs-vanquis-banking-group-otcmktsfplpf/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-08-03": {
+    "status": "no company in the news"
+  },
+  "2025-08-02": {
+    "articles": [
+      {
+        "title": "Q3 EPS Estimates for LendingClub Lifted by Seaport Res Ptn",
+        "url": "https://www.etfdailynews.com/2025/08/01/q3-eps-estimates-for-lendingclub-lifted-by-seaport-res-ptn/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub (NYSE:LC) PT Set at $15.50 by Piper Sandler",
+        "url": "https://www.etfdailynews.com/2025/08/01/lendingclub-nyselc-pt-set-at-15-50-by-piper-sandler/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub (NYSE:LC) Stock Price Expected to Rise, Keefe, Bruyette & Woods Analyst Says",
+        "url": "https://www.etfdailynews.com/2025/08/01/lendingclub-nyselc-stock-price-expected-to-rise-keefe-bruyette-woods-analyst-says/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Analyzing Atlanticus (NASDAQ:ATLCP) & LendingClub (NYSE:LC)",
+        "url": "https://www.etfdailynews.com/2025/08/01/analyzing-atlanticus-nasdaqatlcp-lendingclub-nyselc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-08-01": {
+    "articles": [
+      {
+        "title": "LendingClub exceeds estimates alongside new product launch",
+        "url": "https://finance.yahoo.com/news/lendingclub-exceeds-estimates-alongside-product-140027928.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub (NYSE:LC) Shares Gap Up Following Strong Earnings",
+        "url": "https://www.etfdailynews.com/2025/07/31/lendingclub-nyselc-shares-gap-up-following-strong-earnings/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub price target raised to $16.50 from $14 at Keefe Bruyette",
+        "url": "https://finance.yahoo.com/news/lendingclub-price-target-raised-16-134055805.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-07-31": {
+    "articles": [
+      {
+        "title": "What Happens if Your Bank Stops Serving Businesses?",
+        "url": "https://www.nerdwallet.com/article/small-business/bank-ends-business-accounts#article",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-07-30": {
+    "articles": [
+      {
+        "title": "LendingClub Stock Soars 20%. The Online Lender Had a Stellar Quarter.",
+        "url": "https://www.barrons.com/articles/lendingclub-earnings-stock-price-247b621a?siteid=yhoof2&yptr=yahoo",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "These Stocks Are Moving the Most Today: Humana, Starbucks, SoFi, LendingClub, Palo Alto, Teradyne, Vertiv, Harley-Davidson, and More",
+        "url": "https://www.barrons.com/articles/stock-movers-624049e4?siteid=yhoof2&yptr=yahoo",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "We Set Ourselves Up to Thrive in Stable Rate Environment: Sanborn",
+        "url": "https://www.bloomberg.com/news/videos/2025-07-30/we-set-up-to-thrive-in-stable-rate-environment-sanborn-video",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Countdown to the FOMC Decision | Bloomberg Markets 7/30/2025",
+        "url": "https://www.bloomberg.com/news/videos/2025-07-30/bloomberg-markets-7-30-2025-video",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-07-29": {
+    "articles": [
+      {
+        "title": "LendingClub Corporation (NYSE:LC) Receives $16.71 Average PT from Brokerages",
+        "url": "https://www.etfdailynews.com/2025/07/28/lendingclub-corporation-nyselc-receives-16-71-average-pt-from-brokerages/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-07-28": {
+    "status": "no company in the news"
+  },
+  "2025-07-27": {
+    "articles": [
+      {
+        "title": "SAS secures $505 million financing to aid restructuring",
+        "url": "https://www.reuters.com/business/aerospace-defense/sas-enters-into-investment-agreement-with-castlelake-air-france-klm-2023-11-04/",
+        "platforms_mentioned": [
+          "Castlelake"
+        ]
+      }
+    ]
+  },
+  "2025-07-26": {
+    "status": "no company in the news"
+  },
+  "2025-07-25": {
+    "articles": [
+      {
+        "title": "Zvilo boosts working capital lending capacity to €75m with Fasanara Capital",
+        "url": "https://biztoc.com/x/11eabd04f79e027d",
+        "platforms_mentioned": [
+          "Fasanara"
+        ]
+      },
+      {
+        "title": "Zvilo boosts working capital lending capacity to €75m with Fasanara Capital",
+        "url": "https://www.leasinglife.com/news/zvilo-lending-e75m-fasanara-capital/",
+        "platforms_mentioned": [
+          "Fasanara"
+        ]
+      },
+      {
+        "title": "Zvilo boosts working capital lending capacity to €75m with Fasanara Capital",
+        "url": "https://finance.yahoo.com/news/zvilo-boosts-working-capital-lending-134015477.html",
         "platforms_mentioned": [
           "Fasanara"
         ]
       }
     ]
   },
-  "2022-05-26": {
-    "articles": [
-      {
-        "title": "Viola Credit closes $700M fund to provide asset-based lending FinTech startups",
-        "url": "https://techcrunch.com/2022/05/26/viola-credit-closes-700m-fund-to-provide-asset-based-lending-fintech-startups/",
-        "platforms_mentioned": [
-          "Viola Credit"
-        ]
-      }
-    ]
-  },
-  "2022-10-19": {
-    "status": "no company in the news"
-  },
-  "2022-12-16": {
-    "status": "no company in the news"
-  },
-  "2022-12-26": {
-    "status": "no company in the news"
-  },
-  "2023-02-08": {
-    "status": "no company in the news"
-  },
-  "2023-02-26": {
-    "status": "no company in the news"
-  },
-  "2023-07-28": {
-    "status": "no company in the news"
-  },
-  "2023-12-13": {
-    "status": "no company in the news"
-  },
-  "2023-12-14": {
-    "status": "no company in the news"
-  },
-  "2023-12-15": {
-    "status": "no company in the news"
-  },
-  "2023-12-21": {
-    "status": "no company in the news"
-  },
-  "2024-01-26": {
-    "status": "no company in the news"
-  },
-  "2024-02-12": {
-    "status": "no company in the news"
-  },
-  "2024-02-21": {
-    "status": "no company in the news"
-  },
-  "2024-02-23": {
-    "status": "no company in the news"
-  },
-  "2024-02-27": {
-    "status": "no company in the news"
-  },
-  "2024-03-04": {
-    "status": "no company in the news"
-  },
-  "2024-03-13": {
-    "status": "no company in the news"
-  },
-  "2024-04-01": {
-    "status": "no company in the news"
-  },
-  "2024-04-08": {
-    "status": "no company in the news"
-  },
-  "2024-04-11": {
-    "status": "no company in the news"
-  },
-  "2024-04-25": {
-    "status": "no company in the news"
-  },
-  "2024-05-07": {
-    "status": "no company in the news"
-  },
-  "2024-05-13": {
-    "status": "no company in the news"
-  },
-  "2024-06-06": {
-    "status": "no company in the news"
-  },
-  "2024-06-12": {
-    "status": "no company in the news"
-  },
-  "2024-06-13": {
-    "status": "no company in the news"
-  },
-  "2024-07-05": {
-    "status": "no company in the news"
-  },
-  "2024-07-08": {
-    "status": "no company in the news"
-  },
-  "2024-07-09": {
-    "status": "no company in the news"
-  },
-  "2024-07-17": {
-    "status": "no company in the news"
-  },
-  "2024-07-24": {
-    "status": "no company in the news"
-  },
-  "2024-07-30": {
-    "status": "no company in the news"
-  },
-  "2024-08-05": {
-    "status": "no company in the news"
-  },
-  "2024-08-07": {
-    "status": "no company in the news"
-  },
-  "2024-08-09": {
-    "status": "no company in the news"
-  },
-  "2024-08-14": {
-    "status": "no company in the news"
-  },
-  "2024-08-20": {
-    "status": "no company in the news"
-  },
-  "2024-08-26": {
-    "status": "no company in the news"
-  },
-  "2024-08-29": {
-    "status": "no company in the news"
-  },
-  "2024-09-05": {
-    "status": "no company in the news"
-  },
-  "2024-09-12": {
-    "status": "no company in the news"
-  },
-  "2024-09-13": {
-    "status": "no company in the news"
-  },
-  "2024-10-01": {
-    "status": "no company in the news"
-  },
-  "2024-10-09": {
-    "status": "no company in the news"
-  },
-  "2024-10-23": {
-    "status": "no company in the news"
-  },
-  "2024-11-01": {
-    "status": "no company in the news"
-  },
-  "2024-11-22": {
-    "status": "no company in the news"
-  },
-  "2024-12-04": {
-    "status": "no company in the news"
-  },
-  "2024-12-10": {
-    "status": "no company in the news"
-  },
-  "2024-12-17": {
-    "status": "no company in the news"
-  },
-  "2024-12-30": {
-    "status": "no company in the news"
-  },
-  "2025-01-20": {
-    "status": "no company in the news"
-  },
-  "2025-02-01": {
-    "status": "no company in the news"
-  },
-  "2025-02-03": {
-    "status": "no company in the news"
-  },
-  "2025-02-04": {
-    "status": "no company in the news"
-  },
-  "2025-02-13": {
-    "status": "no company in the news"
-  },
-  "2025-02-20": {
-    "status": "no company in the news"
-  },
-  "2025-02-27": {
-    "articles": [
-      {
-        "title": "Lawrence General Hospital CEO Abha Agrawal departs, following tumultuous year",
-        "url": "https://www.bostonglobe.com/2025/02/27/business/lawrence-general-hospital-ceo-abha-agrawal-departs/",
-        "platforms_mentioned": [
-          "Steward"
-        ]
-      }
-    ]
-  },
-  "2025-03-05": {
-    "status": "no company in the news"
-  },
-  "2025-03-10": {
-    "status": "no company in the news"
-  },
-  "2025-03-14": {
-    "status": "no company in the news"
-  },
-  "2025-03-18": {
-    "status": "no company in the news"
-  },
-  "2025-03-25": {
-    "status": "no company in the news"
-  },
-  "2025-03-26": {
-    "status": "no company in the news"
-  },
-  "2025-03-27": {
-    "status": "no company in the news"
-  },
-  "2025-03-28": {
-    "status": "no company in the news"
-  },
-  "2025-04-01": {
-    "status": "no company in the news"
-  },
-  "2025-04-02": {
-    "status": "no company in the news"
-  },
-  "2025-04-03": {
-    "status": "no company in the news"
-  },
-  "2025-04-04": {
-    "status": "no company in the news"
-  },
-  "2025-04-07": {
-    "status": "no company in the news"
-  },
-  "2025-04-08": {
-    "status": "no company in the news"
-  },
-  "2025-04-09": {
-    "status": "no company in the news"
-  },
-  "2025-04-10": {
-    "status": "no company in the news"
-  },
-  "2025-04-11": {
-    "status": "no company in the news"
-  },
-  "2025-04-14": {
-    "status": "no company in the news"
-  },
-  "2025-04-15": {
-    "status": "no company in the news"
-  },
-  "2025-04-16": {
-    "status": "no company in the news"
-  },
-  "2025-04-17": {
-    "status": "no company in the news"
-  },
-  "2025-04-18": {
-    "status": "no company in the news"
-  },
-  "2025-04-21": {
+  "2025-07-24": {
     "status": "no company in the news"
-  },
-  "2025-04-22": {
-    "status": "no company in the news"
-  },
-  "2025-04-23": {
-    "status": "no company in the news"
-  },
-  "2025-04-24": {
-    "status": "no company in the news"
-  },
-  "2025-04-25": {
-    "status": "no company in the news"
-  },
-  "2025-04-26": {
-    "status": "no company in the news"
-  },
-  "2025-04-28": {
-    "status": "no company in the news"
-  },
-  "2025-04-29": {
-    "status": "no company in the news"
-  },
-  "2025-04-30": {
-    "status": "no company in the news"
-  },
-  "2025-05-01": {
-    "status": "no company in the news"
-  },
-  "2025-05-02": {
-    "status": "no company in the news"
-  },
-  "2025-05-03": {
-    "status": "no company in the news"
-  },
-  "2025-05-04": {
-    "status": "no company in the news"
-  },
-  "2025-05-05": {
-    "status": "no company in the news"
-  },
-  "2025-05-06": {
-    "status": "no company in the news"
-  },
-  "2025-05-07": {
-    "status": "no company in the news"
-  },
-  "2025-05-08": {
-    "status": "no company in the news"
-  },
-  "2025-05-09": {
-    "status": "no company in the news"
-  },
-  "2025-05-10": {
-    "status": "no company in the news"
-  },
-  "2025-05-11": {
-    "status": "no company in the news"
-  },
-  "2025-05-12": {
-    "status": "no company in the news"
-  },
-  "2025-05-13": {
-    "articles": [
-      {
-        "title": "Goldfinch, Digital Genesis Launch $20 Million Web3, AI Deal",
-        "url": "https://variety.com/2025/film/news/goldfinch-digital-genesis-web3-ai-cannes-1236395689/",
-        "platforms_mentioned": [
-          "Goldfinch"
-        ]
-      }
-    ]
-  },
-  "2025-05-14": {
-    "status": "no company in the news"
-  },
-  "2025-05-15": {
-    "status": "no company in the news"
-  },
-  "2025-05-16": {
-    "status": "no company in the news"
-  },
-  "2025-05-17": {
-    "status": "no company in the news"
-  },
-  "2025-05-18": {
-    "status": "no company in the news"
-  },
-  "2025-05-19": {
-    "status": "no company in the news"
-  },
-  "2025-05-20": {
-    "status": "no company in the news"
-  },
-  "2025-05-21": {
-    "status": "no company in the news"
-  },
-  "2025-05-22": {
-    "status": "no company in the news"
-  },
-  "2025-05-23": {
-    "status": "no company in the news"
-  },
-  "2025-05-24": {
-    "status": "no company in the news"
-  },
-  "2025-05-25": {
-    "status": "no company in the news"
-  },
-  "2025-05-26": {
-    "status": "no company in the news"
-  },
-  "2025-05-27": {
-    "status": "no company in the news"
-  },
-  "2025-05-28": {
-    "status": "no company in the news"
-  },
-  "2025-05-29": {
-    "articles": [
-      {
-        "title": "Lawrence General to cut services at Haverhill Holy Family hospital",
-        "url": "https://www.bostonglobe.com/2025/05/29/business/lawrence-general-haverhill-holy-family-hospital/",
-        "platforms_mentioned": [
-          "Steward"
-        ]
-      }
-    ]
-  },
-  "2025-05-30": {
-    "status": "no company in the news"
-  },
-  "2025-05-31": {
-    "status": "no company in the news"
-  },
-  "2025-06-01": {
-    "status": "no company in the news"
-  },
-  "2025-06-02": {
-    "status": "no company in the news"
-  },
-  "2025-06-03": {
-    "status": "no company in the news"
-  },
-  "2025-06-04": {
-    "status": "no company in the news"
-  },
-  "2025-06-05": {
-    "articles": [
-      {
-        "title": "LendingClub Co. (NYSE:LC) Given Average Recommendation of “Moderate Buy” by Brokerages",
-        "url": "https://www.etfdailynews.com/2025/06/05/lendingclub-co-nyselc-given-average-recommendation-of-moderate-buy-by-brokerages/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-06-06": {
-    "status": "no company in the news"
-  },
-  "2025-06-07": {
-    "status": "no company in the news"
-  },
-  "2025-06-08": {
-    "status": "no company in the news"
-  },
-  "2025-06-09": {
-    "status": "no company in the news"
-  },
-  "2025-06-10": {
-    "status": "no company in the news"
-  },
-  "2025-06-11": {
-    "status": "no company in the news"
-  },
-  "2025-06-12": {
-    "status": "no company in the news"
-  },
-  "2025-06-13": {
-    "status": "no company in the news"
-  },
-  "2025-06-14": {
-    "articles": [
-      {
-        "title": "LendingClub (NYSE:LC) Rating Increased to Hold at Wall Street Zen",
-        "url": "https://www.etfdailynews.com/2025/06/14/lendingclub-nyselc-rating-increased-to-hold-at-wall-street-zen/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "Q2 EPS Estimates for LendingClub Lifted by Seaport Res Ptn",
-        "url": "https://www.etfdailynews.com/2025/06/14/q2-eps-estimates-for-lendingclub-lifted-by-seaport-res-ptn/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-06-15": {
-    "status": "no company in the news"
-  },
-  "2025-06-16": {
-    "status": "no company in the news"
-  },
-  "2025-06-17": {
-    "status": "no company in the news"
-  },
-  "2025-06-18": {
-    "status": "no company in the news"
-  },
-  "2025-06-19": {
-    "status": "no company in the news"
-  },
-  "2025-06-20": {
-    "status": "no company in the news"
-  },
-  "2025-06-21": {
-    "articles": [
-      {
-        "title": "Cash Back Made Smarter with LendingClub's New Account",
-        "url": "https://finance.yahoo.com/news/cash-back-made-smarter-lendingclub-195727376.html",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-06-22": {
-    "status": "no company in the news"
-  },
-  "2025-06-23": {
-    "status": "no company in the news"
-  },
-  "2025-06-24": {
-    "status": "no company in the news"
-  },
-  "2025-06-25": {
-    "status": "no company in the news"
-  },
-  "2025-06-26": {
-    "status": "no company in the news"
-  },
-  "2025-06-27": {
-    "status": "no company in the news"
-  },
-  "2025-06-28": {
-    "status": "no company in the news"
-  },
-  "2025-06-29": {
-    "status": "no company in the news"
-  },
-  "2025-06-30": {
-    "status": "no company in the news"
-  },
-  "2025-07-01": {
-    "status": "no company in the news"
-  },
-  "2025-07-02": {
-    "status": "no company in the news"
-  },
-  "2025-07-03": {
-    "articles": [
-      {
-        "title": "LendingClub Corporation (NYSE:LC) Receives $16.13 Consensus Price Target from Analysts",
-        "url": "https://www.etfdailynews.com/2025/07/03/lendingclub-corporation-nyselc-receives-16-13-consensus-price-target-from-analysts/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-07-04": {
-    "status": "no company in the news"
-  },
-  "2025-07-05": {
-    "status": "no company in the news"
-  },
-  "2025-07-06": {
-    "status": "no company in the news"
-  },
-  "2025-07-07": {
-    "status": "no company in the news"
-  },
-  "2025-07-08": {
-    "articles": [
-      {
-        "title": "LendingClub (NYSE:LC) Coverage Initiated by Analysts at Citizens Jmp",
-        "url": "https://www.etfdailynews.com/2025/07/08/lendingclub-nyselc-coverage-initiated-by-analysts-at-citizens-jmp/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-07-09": {
-    "status": "no company in the news"
-  },
-  "2025-07-10": {
-    "articles": [
-      {
-        "title": "Hospital revamps ER amid overcrowding since Steward collapse",
-        "url": "https://www.nbcboston.com/boston-business-journal/hospital-revamps-er-amid-overcrowding-since-steward-collapse/3763237/",
-        "platforms_mentioned": [
-          "Steward"
-        ]
-      }
-    ]
-  },
-  "2025-07-11": {
-    "status": "no company in the news"
-  },
-  "2025-07-12": {
-    "articles": [
-      {
-        "title": "LendingClub (NYSE:LC) Downgraded by Wall Street Zen to “Sell”",
-        "url": "https://www.etfdailynews.com/2025/07/12/lendingclub-nyselc-downgraded-by-wall-street-zen-to-sell/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-07-13": {
-    "articles": [
-      {
-        "title": "Teacher Retirement System of Texas Has $1.45 Million Stake in LendingClub Corporation (NYSE:LC)",
-        "url": "https://www.etfdailynews.com/2025/07/13/teacher-retirement-system-of-texas-has-1-45-million-stake-in-lendingclub-corporation-nyselc/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-07-14": {
-    "status": "no company in the news"
-  },
-  "2025-07-15": {
-    "status": "no company in the news"
-  },
-  "2025-07-16": {
-    "articles": [
-      {
-        "title": "Small Business Earnings Jump By 75% Since January. But There's A Catch",
-        "url": "https://www.forbes.com/sites/brandonkochkodin/2025/07/16/small-business-earnings-jump-by-75-since-january-but-theres-a-catch/",
-        "platforms_mentioned": [
-          "Biz2credit"
-        ]
-      }
-    ]
-  },
-  "2025-07-17": {
-    "articles": [
-      {
-        "title": "Steward Health Care sues Ralph de la Torre in explosive filing",
-        "url": "https://www.bostonglobe.com/2025/07/17/metro/steward-healthcare-spotlight/",
-        "platforms_mentioned": [
-          "Steward"
-        ]
-      }
-    ]
-  },
-  "2025-07-18": {
-    "articles": [
-      {
-        "title": "Steward Health Care Approved to Sue Insiders Under Wind-Down Plan",
-        "url": "https://www.wsj.com/articles/steward-health-care-approved-to-sue-insiders-under-wind-down-plan-34c99042?siteid=yhoof2&yptr=yahoo",
-        "platforms_mentioned": [
-          "Steward"
-        ]
-      },
-      {
-        "title": "Steward Health Care claims former executives' \"greed and bad faith misconduct\" led to hospitals chain's bankruptcy",
-        "url": "https://www.cbsnews.com/news/steward-health-care-hospital-bankruptcy-filing-greed-misconduct/",
-        "platforms_mentioned": [
-          "Steward"
-        ]
-      }
-    ]
   },
-  "2025-07-19": {
+  "2025-07-23": {
     "status": "no company in the news"
   },
-  "2025-07-20": {
+  "2025-07-22": {
     "status": "no company in the news"
   },
   "2025-07-21": {
@@ -731,275 +344,662 @@
       }
     ]
   },
-  "2025-07-22": {
+  "2025-07-20": {
     "status": "no company in the news"
   },
-  "2025-07-23": {
+  "2025-07-19": {
     "status": "no company in the news"
   },
-  "2025-07-24": {
-    "status": "no company in the news"
-  },
-  "2025-07-25": {
+  "2025-07-18": {
     "articles": [
       {
-        "title": "Zvilo boosts working capital lending capacity to €75m with Fasanara Capital",
-        "url": "https://biztoc.com/x/11eabd04f79e027d",
+        "title": "Steward Health Care Approved to Sue Insiders Under Wind-Down Plan",
+        "url": "https://www.wsj.com/articles/steward-health-care-approved-to-sue-insiders-under-wind-down-plan-34c99042?siteid=yhoof2&yptr=yahoo",
+        "platforms_mentioned": [
+          "Steward"
+        ]
+      },
+      {
+        "title": "Steward Health Care claims former executives' \"greed and bad faith misconduct\" led to hospitals chain's bankruptcy",
+        "url": "https://www.cbsnews.com/news/steward-health-care-hospital-bankruptcy-filing-greed-misconduct/",
+        "platforms_mentioned": [
+          "Steward"
+        ]
+      }
+    ]
+  },
+  "2025-07-17": {
+    "articles": [
+      {
+        "title": "Steward Health Care sues Ralph de la Torre in explosive filing",
+        "url": "https://www.bostonglobe.com/2025/07/17/metro/steward-healthcare-spotlight/",
+        "platforms_mentioned": [
+          "Steward"
+        ]
+      }
+    ]
+  },
+  "2025-07-16": {
+    "articles": [
+      {
+        "title": "Small Business Earnings Jump By 75% Since January. But There's A Catch",
+        "url": "https://www.forbes.com/sites/brandonkochkodin/2025/07/16/small-business-earnings-jump-by-75-since-january-but-theres-a-catch/",
+        "platforms_mentioned": [
+          "Biz2credit"
+        ]
+      }
+    ]
+  },
+  "2025-07-15": {
+    "status": "no company in the news"
+  },
+  "2025-07-14": {
+    "status": "no company in the news"
+  },
+  "2025-07-13": {
+    "articles": [
+      {
+        "title": "Teacher Retirement System of Texas Has $1.45 Million Stake in LendingClub Corporation (NYSE:LC)",
+        "url": "https://www.etfdailynews.com/2025/07/13/teacher-retirement-system-of-texas-has-1-45-million-stake-in-lendingclub-corporation-nyselc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-07-12": {
+    "articles": [
+      {
+        "title": "LendingClub (NYSE:LC) Downgraded by Wall Street Zen to “Sell”",
+        "url": "https://www.etfdailynews.com/2025/07/12/lendingclub-nyselc-downgraded-by-wall-street-zen-to-sell/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-07-11": {
+    "status": "no company in the news"
+  },
+  "2025-07-10": {
+    "articles": [
+      {
+        "title": "Hospital revamps ER amid overcrowding since Steward collapse",
+        "url": "https://www.nbcboston.com/boston-business-journal/hospital-revamps-er-amid-overcrowding-since-steward-collapse/3763237/",
+        "platforms_mentioned": [
+          "Steward"
+        ]
+      }
+    ]
+  },
+  "2025-07-09": {
+    "status": "no company in the news"
+  },
+  "2025-07-08": {
+    "articles": [
+      {
+        "title": "LendingClub (NYSE:LC) Coverage Initiated by Analysts at Citizens Jmp",
+        "url": "https://www.etfdailynews.com/2025/07/08/lendingclub-nyselc-coverage-initiated-by-analysts-at-citizens-jmp/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-07-07": {
+    "status": "no company in the news"
+  },
+  "2025-07-06": {
+    "status": "no company in the news"
+  },
+  "2025-07-05": {
+    "status": "no company in the news"
+  },
+  "2025-07-04": {
+    "status": "no company in the news"
+  },
+  "2025-07-03": {
+    "articles": [
+      {
+        "title": "LendingClub Corporation (NYSE:LC) Receives $16.13 Consensus Price Target from Analysts",
+        "url": "https://www.etfdailynews.com/2025/07/03/lendingclub-corporation-nyselc-receives-16-13-consensus-price-target-from-analysts/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-07-02": {
+    "status": "no company in the news"
+  },
+  "2025-07-01": {
+    "status": "no company in the news"
+  },
+  "2025-06-30": {
+    "status": "no company in the news"
+  },
+  "2025-06-29": {
+    "status": "no company in the news"
+  },
+  "2025-06-28": {
+    "status": "no company in the news"
+  },
+  "2025-06-27": {
+    "status": "no company in the news"
+  },
+  "2025-06-26": {
+    "status": "no company in the news"
+  },
+  "2025-06-25": {
+    "status": "no company in the news"
+  },
+  "2025-06-24": {
+    "status": "no company in the news"
+  },
+  "2025-06-23": {
+    "status": "no company in the news"
+  },
+  "2025-06-22": {
+    "status": "no company in the news"
+  },
+  "2025-06-21": {
+    "articles": [
+      {
+        "title": "Cash Back Made Smarter with LendingClub's New Account",
+        "url": "https://finance.yahoo.com/news/cash-back-made-smarter-lendingclub-195727376.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-06-20": {
+    "status": "no company in the news"
+  },
+  "2025-06-19": {
+    "status": "no company in the news"
+  },
+  "2025-06-18": {
+    "status": "no company in the news"
+  },
+  "2025-06-17": {
+    "status": "no company in the news"
+  },
+  "2025-06-16": {
+    "status": "no company in the news"
+  },
+  "2025-06-15": {
+    "status": "no company in the news"
+  },
+  "2025-06-14": {
+    "articles": [
+      {
+        "title": "LendingClub (NYSE:LC) Rating Increased to Hold at Wall Street Zen",
+        "url": "https://www.etfdailynews.com/2025/06/14/lendingclub-nyselc-rating-increased-to-hold-at-wall-street-zen/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Q2 EPS Estimates for LendingClub Lifted by Seaport Res Ptn",
+        "url": "https://www.etfdailynews.com/2025/06/14/q2-eps-estimates-for-lendingclub-lifted-by-seaport-res-ptn/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-06-13": {
+    "status": "no company in the news"
+  },
+  "2025-06-12": {
+    "status": "no company in the news"
+  },
+  "2025-06-11": {
+    "status": "no company in the news"
+  },
+  "2025-06-10": {
+    "status": "no company in the news"
+  },
+  "2025-06-09": {
+    "status": "no company in the news"
+  },
+  "2025-06-08": {
+    "status": "no company in the news"
+  },
+  "2025-06-07": {
+    "status": "no company in the news"
+  },
+  "2025-06-06": {
+    "status": "no company in the news"
+  },
+  "2025-06-05": {
+    "articles": [
+      {
+        "title": "LendingClub Co. (NYSE:LC) Given Average Recommendation of “Moderate Buy” by Brokerages",
+        "url": "https://www.etfdailynews.com/2025/06/05/lendingclub-co-nyselc-given-average-recommendation-of-moderate-buy-by-brokerages/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
+  "2025-06-04": {
+    "status": "no company in the news"
+  },
+  "2025-06-03": {
+    "status": "no company in the news"
+  },
+  "2025-06-02": {
+    "status": "no company in the news"
+  },
+  "2025-06-01": {
+    "status": "no company in the news"
+  },
+  "2025-05-31": {
+    "status": "no company in the news"
+  },
+  "2025-05-30": {
+    "status": "no company in the news"
+  },
+  "2025-05-29": {
+    "articles": [
+      {
+        "title": "Lawrence General to cut services at Haverhill Holy Family hospital",
+        "url": "https://www.bostonglobe.com/2025/05/29/business/lawrence-general-haverhill-holy-family-hospital/",
+        "platforms_mentioned": [
+          "Steward"
+        ]
+      }
+    ]
+  },
+  "2025-05-28": {
+    "status": "no company in the news"
+  },
+  "2025-05-27": {
+    "status": "no company in the news"
+  },
+  "2025-05-26": {
+    "status": "no company in the news"
+  },
+  "2025-05-25": {
+    "status": "no company in the news"
+  },
+  "2025-05-24": {
+    "status": "no company in the news"
+  },
+  "2025-05-23": {
+    "status": "no company in the news"
+  },
+  "2025-05-22": {
+    "status": "no company in the news"
+  },
+  "2025-05-21": {
+    "status": "no company in the news"
+  },
+  "2025-05-20": {
+    "status": "no company in the news"
+  },
+  "2025-05-19": {
+    "status": "no company in the news"
+  },
+  "2025-05-18": {
+    "status": "no company in the news"
+  },
+  "2025-05-17": {
+    "status": "no company in the news"
+  },
+  "2025-05-16": {
+    "status": "no company in the news"
+  },
+  "2025-05-15": {
+    "status": "no company in the news"
+  },
+  "2025-05-14": {
+    "status": "no company in the news"
+  },
+  "2025-05-13": {
+    "articles": [
+      {
+        "title": "Goldfinch, Digital Genesis Launch $20 Million Web3, AI Deal",
+        "url": "https://variety.com/2025/film/news/goldfinch-digital-genesis-web3-ai-cannes-1236395689/",
+        "platforms_mentioned": [
+          "Goldfinch"
+        ]
+      }
+    ]
+  },
+  "2025-05-12": {
+    "status": "no company in the news"
+  },
+  "2025-05-11": {
+    "status": "no company in the news"
+  },
+  "2025-05-10": {
+    "status": "no company in the news"
+  },
+  "2025-05-09": {
+    "status": "no company in the news"
+  },
+  "2025-05-08": {
+    "status": "no company in the news"
+  },
+  "2025-05-07": {
+    "status": "no company in the news"
+  },
+  "2025-05-06": {
+    "status": "no company in the news"
+  },
+  "2025-05-05": {
+    "status": "no company in the news"
+  },
+  "2025-05-04": {
+    "status": "no company in the news"
+  },
+  "2025-05-03": {
+    "status": "no company in the news"
+  },
+  "2025-05-02": {
+    "status": "no company in the news"
+  },
+  "2025-05-01": {
+    "status": "no company in the news"
+  },
+  "2025-04-30": {
+    "status": "no company in the news"
+  },
+  "2025-04-29": {
+    "status": "no company in the news"
+  },
+  "2025-04-28": {
+    "status": "no company in the news"
+  },
+  "2025-04-26": {
+    "status": "no company in the news"
+  },
+  "2025-04-25": {
+    "status": "no company in the news"
+  },
+  "2025-04-24": {
+    "status": "no company in the news"
+  },
+  "2025-04-23": {
+    "status": "no company in the news"
+  },
+  "2025-04-22": {
+    "status": "no company in the news"
+  },
+  "2025-04-21": {
+    "status": "no company in the news"
+  },
+  "2025-04-18": {
+    "status": "no company in the news"
+  },
+  "2025-04-17": {
+    "status": "no company in the news"
+  },
+  "2025-04-16": {
+    "status": "no company in the news"
+  },
+  "2025-04-15": {
+    "status": "no company in the news"
+  },
+  "2025-04-14": {
+    "status": "no company in the news"
+  },
+  "2025-04-11": {
+    "status": "no company in the news"
+  },
+  "2025-04-10": {
+    "status": "no company in the news"
+  },
+  "2025-04-09": {
+    "status": "no company in the news"
+  },
+  "2025-04-08": {
+    "status": "no company in the news"
+  },
+  "2025-04-07": {
+    "status": "no company in the news"
+  },
+  "2025-04-04": {
+    "status": "no company in the news"
+  },
+  "2025-04-03": {
+    "status": "no company in the news"
+  },
+  "2025-04-02": {
+    "status": "no company in the news"
+  },
+  "2025-04-01": {
+    "status": "no company in the news"
+  },
+  "2025-03-28": {
+    "status": "no company in the news"
+  },
+  "2025-03-27": {
+    "status": "no company in the news"
+  },
+  "2025-03-26": {
+    "status": "no company in the news"
+  },
+  "2025-03-25": {
+    "status": "no company in the news"
+  },
+  "2025-03-18": {
+    "status": "no company in the news"
+  },
+  "2025-03-14": {
+    "status": "no company in the news"
+  },
+  "2025-03-10": {
+    "status": "no company in the news"
+  },
+  "2025-03-05": {
+    "status": "no company in the news"
+  },
+  "2025-02-27": {
+    "articles": [
+      {
+        "title": "Lawrence General Hospital CEO Abha Agrawal departs, following tumultuous year",
+        "url": "https://www.bostonglobe.com/2025/02/27/business/lawrence-general-hospital-ceo-abha-agrawal-departs/",
+        "platforms_mentioned": [
+          "Steward"
+        ]
+      }
+    ]
+  },
+  "2025-02-20": {
+    "status": "no company in the news"
+  },
+  "2025-02-13": {
+    "status": "no company in the news"
+  },
+  "2025-02-04": {
+    "status": "no company in the news"
+  },
+  "2025-02-03": {
+    "status": "no company in the news"
+  },
+  "2025-02-01": {
+    "status": "no company in the news"
+  },
+  "2025-01-20": {
+    "status": "no company in the news"
+  },
+  "2024-12-30": {
+    "status": "no company in the news"
+  },
+  "2024-12-17": {
+    "status": "no company in the news"
+  },
+  "2024-12-10": {
+    "status": "no company in the news"
+  },
+  "2024-12-04": {
+    "status": "no company in the news"
+  },
+  "2024-11-22": {
+    "status": "no company in the news"
+  },
+  "2024-11-01": {
+    "status": "no company in the news"
+  },
+  "2024-10-23": {
+    "status": "no company in the news"
+  },
+  "2024-10-09": {
+    "status": "no company in the news"
+  },
+  "2024-10-01": {
+    "status": "no company in the news"
+  },
+  "2024-09-13": {
+    "status": "no company in the news"
+  },
+  "2024-09-12": {
+    "status": "no company in the news"
+  },
+  "2024-09-05": {
+    "status": "no company in the news"
+  },
+  "2024-08-29": {
+    "status": "no company in the news"
+  },
+  "2024-08-26": {
+    "status": "no company in the news"
+  },
+  "2024-08-20": {
+    "status": "no company in the news"
+  },
+  "2024-08-14": {
+    "status": "no company in the news"
+  },
+  "2024-08-09": {
+    "status": "no company in the news"
+  },
+  "2024-08-07": {
+    "status": "no company in the news"
+  },
+  "2024-08-05": {
+    "status": "no company in the news"
+  },
+  "2024-07-30": {
+    "status": "no company in the news"
+  },
+  "2024-07-24": {
+    "status": "no company in the news"
+  },
+  "2024-07-17": {
+    "status": "no company in the news"
+  },
+  "2024-07-09": {
+    "status": "no company in the news"
+  },
+  "2024-07-08": {
+    "status": "no company in the news"
+  },
+  "2024-07-05": {
+    "status": "no company in the news"
+  },
+  "2024-06-13": {
+    "status": "no company in the news"
+  },
+  "2024-06-12": {
+    "status": "no company in the news"
+  },
+  "2024-06-06": {
+    "status": "no company in the news"
+  },
+  "2024-05-13": {
+    "status": "no company in the news"
+  },
+  "2024-05-07": {
+    "status": "no company in the news"
+  },
+  "2024-04-25": {
+    "status": "no company in the news"
+  },
+  "2024-04-11": {
+    "status": "no company in the news"
+  },
+  "2024-04-08": {
+    "status": "no company in the news"
+  },
+  "2024-04-01": {
+    "status": "no company in the news"
+  },
+  "2024-03-13": {
+    "status": "no company in the news"
+  },
+  "2024-03-04": {
+    "status": "no company in the news"
+  },
+  "2024-02-27": {
+    "status": "no company in the news"
+  },
+  "2024-02-23": {
+    "status": "no company in the news"
+  },
+  "2024-02-21": {
+    "status": "no company in the news"
+  },
+  "2024-02-12": {
+    "status": "no company in the news"
+  },
+  "2024-01-26": {
+    "status": "no company in the news"
+  },
+  "2023-12-21": {
+    "status": "no company in the news"
+  },
+  "2023-12-15": {
+    "status": "no company in the news"
+  },
+  "2023-12-14": {
+    "status": "no company in the news"
+  },
+  "2023-12-13": {
+    "status": "no company in the news"
+  },
+  "2023-07-28": {
+    "status": "no company in the news"
+  },
+  "2023-02-26": {
+    "status": "no company in the news"
+  },
+  "2023-02-08": {
+    "status": "no company in the news"
+  },
+  "2022-12-26": {
+    "status": "no company in the news"
+  },
+  "2022-12-16": {
+    "status": "no company in the news"
+  },
+  "2022-10-19": {
+    "status": "no company in the news"
+  },
+  "2022-05-26": {
+    "articles": [
+      {
+        "title": "Viola Credit closes $700M fund to provide asset-based lending FinTech startups",
+        "url": "https://techcrunch.com/2022/05/26/viola-credit-closes-700m-fund-to-provide-asset-based-lending-fintech-startups/",
+        "platforms_mentioned": [
+          "Viola Credit"
+        ]
+      }
+    ]
+  },
+  "2021-03-17": {
+    "articles": [
+      {
+        "title": "Credit-and-collect fintech start-up Diem raises $5.5M Seed led by Fasanara Capital",
+        "url": "https://techcrunch.com/2021/03/17/credit-and-collect-fintech-start-up-diem-raises-5-5m-seed-led-by-fasanara-capital/",
         "platforms_mentioned": [
           "Fasanara"
         ]
-      },
-      {
-        "title": "Zvilo boosts working capital lending capacity to €75m with Fasanara Capital",
-        "url": "https://www.leasinglife.com/news/zvilo-lending-e75m-fasanara-capital/",
-        "platforms_mentioned": [
-          "Fasanara"
-        ]
-      },
-      {
-        "title": "Zvilo boosts working capital lending capacity to €75m with Fasanara Capital",
-        "url": "https://finance.yahoo.com/news/zvilo-boosts-working-capital-lending-134015477.html",
-        "platforms_mentioned": [
-          "Fasanara"
-        ]
       }
     ]
-  },
-  "2025-07-26": {
-    "status": "no company in the news"
-  },
-  "2025-07-27": {
-    "articles": [
-      {
-        "title": "SAS secures $505 million financing to aid restructuring",
-        "url": "https://www.reuters.com/business/aerospace-defense/sas-enters-into-investment-agreement-with-castlelake-air-france-klm-2023-11-04/",
-        "platforms_mentioned": [
-          "Castlelake"
-        ]
-      }
-    ]
-  },
-  "2025-07-28": {
-    "status": "no company in the news"
-  },
-  "2025-07-29": {
-    "articles": [
-      {
-        "title": "LendingClub Corporation (NYSE:LC) Receives $16.71 Average PT from Brokerages",
-        "url": "https://www.etfdailynews.com/2025/07/28/lendingclub-corporation-nyselc-receives-16-71-average-pt-from-brokerages/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-07-30": {
-    "articles": [
-      {
-        "title": "LendingClub Stock Soars 20%. The Online Lender Had a Stellar Quarter.",
-        "url": "https://www.barrons.com/articles/lendingclub-earnings-stock-price-247b621a?siteid=yhoof2&yptr=yahoo",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "These Stocks Are Moving the Most Today: Humana, Starbucks, SoFi, LendingClub, Palo Alto, Teradyne, Vertiv, Harley-Davidson, and More",
-        "url": "https://www.barrons.com/articles/stock-movers-624049e4?siteid=yhoof2&yptr=yahoo",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "We Set Ourselves Up to Thrive in Stable Rate Environment: Sanborn",
-        "url": "https://www.bloomberg.com/news/videos/2025-07-30/we-set-up-to-thrive-in-stable-rate-environment-sanborn-video",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "Countdown to the FOMC Decision | Bloomberg Markets 7/30/2025",
-        "url": "https://www.bloomberg.com/news/videos/2025-07-30/bloomberg-markets-7-30-2025-video",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-07-31": {
-    "articles": [
-      {
-        "title": "What Happens if Your Bank Stops Serving Businesses?",
-        "url": "https://www.nerdwallet.com/article/small-business/bank-ends-business-accounts#article",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-08-01": {
-    "articles": [
-      {
-        "title": "LendingClub exceeds estimates alongside new product launch",
-        "url": "https://finance.yahoo.com/news/lendingclub-exceeds-estimates-alongside-product-140027928.html",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "LendingClub (NYSE:LC) Shares Gap Up Following Strong Earnings",
-        "url": "https://www.etfdailynews.com/2025/07/31/lendingclub-nyselc-shares-gap-up-following-strong-earnings/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "LendingClub price target raised to $16.50 from $14 at Keefe Bruyette",
-        "url": "https://finance.yahoo.com/news/lendingclub-price-target-raised-16-134055805.html",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-08-02": {
-    "articles": [
-      {
-        "title": "Q3 EPS Estimates for LendingClub Lifted by Seaport Res Ptn",
-        "url": "https://www.etfdailynews.com/2025/08/01/q3-eps-estimates-for-lendingclub-lifted-by-seaport-res-ptn/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "LendingClub (NYSE:LC) PT Set at $15.50 by Piper Sandler",
-        "url": "https://www.etfdailynews.com/2025/08/01/lendingclub-nyselc-pt-set-at-15-50-by-piper-sandler/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "LendingClub (NYSE:LC) Stock Price Expected to Rise, Keefe, Bruyette & Woods Analyst Says",
-        "url": "https://www.etfdailynews.com/2025/08/01/lendingclub-nyselc-stock-price-expected-to-rise-keefe-bruyette-woods-analyst-says/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "Analyzing Atlanticus (NASDAQ:ATLCP) & LendingClub (NYSE:LC)",
-        "url": "https://www.etfdailynews.com/2025/08/01/analyzing-atlanticus-nasdaqatlcp-lendingclub-nyselc/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-08-03": {
-    "status": "no company in the news"
-  },
-  "2025-08-04": {
-    "articles": [
-      {
-        "title": "Seaport Res Ptn Increases Earnings Estimates for LendingClub",
-        "url": "https://www.etfdailynews.com/2025/08/03/seaport-res-ptn-increases-earnings-estimates-for-lendingclub/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "Head-To-Head Contrast: LendingClub (NYSE:LC) vs. Vanquis Banking Group (OTCMKTS:FPLPF)",
-        "url": "https://www.etfdailynews.com/2025/08/03/head-to-head-contrast-lendingclub-nyselc-vs-vanquis-banking-group-otcmktsfplpf/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-08-05": {
-    "articles": [
-      {
-        "title": "LendingClub Gains 21% While CE 100 Index Struggles",
-        "url": "http://www.pymnts.com/connectedeconomy/2025/lendingclub-gains-21percent-while-ce-100-index-struggles/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "BlackRock Advisers to Invest Up to $1 Billion With LendingClub",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-05/blackrock-advisers-to-invest-up-to-1-billion-with-lendingclub",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-08-06": {
-    "articles": [
-      {
-        "title": "BlackRock Investing $1 Billion in LendingClub's Marketplace",
-        "url": "http://www.pymnts.com/loans/2025/blackrock-investing-1-billion-in-lendingclubs-marketplace/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-08-07": {
-    "articles": [
-      {
-        "title": "Reviewing LendingClub (NYSE:LC) and KRUK Spólka Akcyjna (OTCMKTS:KRKKF)",
-        "url": "https://www.etfdailynews.com/2025/08/06/reviewing-lendingclub-nyselc-and-kruk-spolka-akcyjna-otcmktskrkkf/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-08-08": {
-    "articles": [
-      {
-        "title": "Comparing LendingClub (NYSE:LC) & Sezzle (OTC:SEZNL)",
-        "url": "https://www.etfdailynews.com/2025/08/07/comparing-lendingclub-nyselc-sezzle-otcseznl/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      }
-    ]
-  },
-  "2025-08-09": {
-    "status": "no company in the news"
-  },
-  "2025-08-10": {
-    "status": "no company in the news"
-  },
-  "2025-08-11": {
-    "status": "no company in the news"
-  },
-  "2025-08-12": {
-    "articles": [
-      {
-        "title": "LendingClub CEO Warns Americans Underestimate Credit Card Interest Costs",
-        "url": "http://www.pymnts.com/credit-cards/2025/lendingclub-ceo-warns-americans-underestimate-credit-card-interest-costs/",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "LendingClub CEO Warns Americans Underestimate Credit Card Interest Costs",
-        "url": "https://biztoc.com/x/8c6812891b944038",
-        "platforms_mentioned": [
-          "Lending Club"
-        ]
-      },
-      {
-        "title": "Castlelake Launches $1.8 Billion Aviation Lending Platform",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-12/castlelake-launches-1-8-billion-aviation-lending-platform",
-        "platforms_mentioned": [
-          "Castlelake"
-        ]
-      }
-    ]
-  },
-  "2025-08-13": {
-    "status": "no company in the news"
   }
 }
