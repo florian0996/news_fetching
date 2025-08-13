@@ -1,67 +1,56 @@
 name: Populate platforms_mentioned
 
 permissions:
-  contents: write            # let GITHUB_TOKEN push commits
+  contents: write
 
 on:
   schedule:
-    - cron: "15 3 * * *"     # daily at 03:15 UTC
-  workflow_dispatch:         # allow manual run from the Actions tab
+    - cron: "15 3 * * *"   # daily at 03:15 UTC
+  workflow_dispatch:
 
 jobs:
   tag:
     runs-on: ubuntu-latest
-
     steps:
-      # ────────────────────────────────────────────────────────────────
-      # 1. Check out the repository
-      # ────────────────────────────────────────────────────────────────
-      - name: Checkout repository
+      - name: Check out
         uses: actions/checkout@v4
 
-      # ────────────────────────────────────────────────────────────────
-      # 2. Python environment
-      # ────────────────────────────────────────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"      # no pip-cache → avoids requirements-file warning
+          python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install pandas
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
 
-      # ────────────────────────────────────────────────────────────────
-      # 3. Populate `platforms_mentioned`
-      # ────────────────────────────────────────────────────────────────
-      - name: Tag news articles
-        run: python scripts/tag_platforms.py
-
-      # ────────────────────────────────────────────────────────────────
-      # 4. Build daily company digest (optional utility file)
-      # ────────────────────────────────────────────────────────────────
-      - name: Build daily company digest
-        run: python scripts/build_daily_company_digest.py
-
-      # ────────────────────────────────────────────────────────────────
-      # 5. Refresh aggregate news files
-      # ────────────────────────────────────────────────────────────────
+      # 1) Merge dailies into quarterlies/all_news first
       - name: Merge into aggregate files
-        run: python scripts/merge_news.py
+        run: |
+          python scripts/merge_news.py
 
-      # ────────────────────────────────────────────────────────────────
-      # 6. Commit & push any changes
-      # ────────────────────────────────────────────────────────────────
+      # 2) Tag BOTH daily and quarterly files
+      - name: Tag news articles (daily + quarterly)
+        run: |
+          python scripts/tag_platforms.py
+
+      # 3) Build digest from quarterlies (now tagged)
+      - name: Build daily company digest
+        run: |
+          python scripts/build_daily_company_digest.py
+
+      # 4) Commit changes if any
       - name: Commit updated JSON
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # ▼ stage digest, daily files and aggregate files
+          # stage digest, daily, and aggregate files
           git add data/news_*.json data/news_filtered_for_companies_of_interest.json data/all_news.json
 
-          # commit only if there are staged changes
           if ! git diff --cached --quiet; then
-            git commit -m "ci: auto-tag platforms & refresh aggregates"
+            git commit -m "ci: tag platforms (daily+quarterly) & refresh digest"
             git push
           else
             echo "No changes to commit"
