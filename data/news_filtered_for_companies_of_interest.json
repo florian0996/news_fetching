@@ -1,6 +1,14 @@
 {
   "2025-08-13": {
-    "status": "no company in the news"
+    "articles": [
+      {
+        "title": "Castlelake Launches $1.8 Billion Aviation Lending Platform",
+        "url": "https://biztoc.com/x/9959f51689b34dd2",
+        "platforms_mentioned": [
+          "Castlelake"
+        ]
+      }
+    ]
   },
   "2025-08-12": {
     "articles": [
