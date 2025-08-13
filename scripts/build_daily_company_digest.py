@@ -9,6 +9,7 @@ Changes vs. the original version
 ▸ Derives each article’s day from its `fetched_on` timestamp
   (fallback to `published_at` if present).
 ▸ De-duplicates articles per day by URL.
+▸ Orders days with NEWEST first (descending).
 ▸ Everything else (filtering logic, output format) is unchanged.
 
 Output example for a day with hits
@@ -128,9 +129,9 @@ if unparsed_total:
         f"Examples: {unparsed_samples}"
     )
 
-# ───────────────────────── build digest object ───────────────────────
+# ───────────────────────── build digest object (newest first) ────────
 digest: dict[str, dict] = {}
-for day in sorted(all_days):
+for day in sorted(all_days, reverse=True):  # newest → oldest
     digest[day] = (
         {"articles": hits[day]}
         if hits.get(day)
