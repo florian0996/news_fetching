@@ -12,7 +12,7 @@ Skips:
 """
 
 from pathlib import Path
-import json, re, sys
+import json, re, sys, unicodedata
 import pandas as pd
 
 # ────────────────────────────────────────────────────────────────
@@ -25,8 +25,8 @@ MASTER_CSV = DATA_DIR / "Master_Entities_Table - Originator_Platforms_Funds_and_
 # ────────────────────────────────────────────────────────────────
 # FILE SELECTION (daily + quarterly, skip digest/all_news)
 # ────────────────────────────────────────────────────────────────
-daily_files      = set(DATA_DIR.glob("news_????-??-??.json"))
-quarterly_files  = set(DATA_DIR.glob("news_*_Q*.json"))
+daily_files     = set(DATA_DIR.glob("news_????-??-??.json"))
+quarterly_files = set(DATA_DIR.glob("news_*_Q*.json"))
 NEWS_FILES = sorted(
     p for p in (daily_files | quarterly_files)
     if p.name not in {"news_filtered_for_companies_of_interest.json", "all_news.json"}
@@ -37,53 +37,80 @@ if not NEWS_FILES:
     sys.exit(0)
 
 # ────────────────────────────────────────────────────────────────
+# Helpers
+# ────────────────────────────────────────────────────────────────
+def norm_space(s: str) -> str:
+    # Unicode normalize, replace NBSP, collapse spaces, strip
+    s = "" if s is None else str(s)
+    s = unicodedata.normalize("NFKC", s)
+    s = s.replace("\xa0", " ").replace("–", "-").replace("—", "-").replace("’", "'")
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+def split_aliases(val: str) -> list[str]:
+    # Accept semicolon/comma/pipe/slash separated lists
+    val = norm_space(val)
+    if not val:
+        return []
+    parts = re.split(r"[;,|/]+", val)
+    return [norm_space(p) for p in parts if norm_space(p)]
+
+def nospace(s: str) -> str:
+    # remove all non-alphanumerics; used for merged-name matching
+    return re.sub(r"[\W_]+", "", s.lower())
+
+# ────────────────────────────────────────────────────────────────
 # 1) Build alias → canonical-name map
 # ────────────────────────────────────────────────────────────────
 df = pd.read_csv(MASTER_CSV)
+cols = [c.lower() for c in df.columns]
+if "entity_name" in cols:
+    canon_col = df.columns[cols.index("entity_name")]
+else:
+    canon_col = next(c for c in df.columns if not c.lower().startswith("alias"))
 
-canon_col  = next(c for c in df.columns if not c.lower().startswith("alias"))
 alias_cols = [c for c in df.columns if c.lower().startswith("alias")]
 
-alias_to_name = {}
+alias_to_name: dict[str, str] = {}
 for _, row in df.iterrows():
-    canon = str(row[canon_col]).strip()
+    canon = norm_space(row[canon_col])
+    if not canon:
+        continue
+    candidates = [canon]
     for col in alias_cols:
-        alias_val = str(row[col]).strip()
-        if alias_val and alias_val.lower() != "nan":
-            alias_to_name[alias_val.lower()] = canon
+        candidates.extend(split_aliases(row.get(col, "")))
 
-alias_regex = {
-    a: re.compile(rf"\b{re.escape(a)}\b", re.I)   # whole-word, case-insensitive
+    for a in candidates:
+        if not a:
+            continue
+        a_l = a.lower()
+        alias_to_name[a_l] = canon
+        alias_to_name[nospace(a)] = canon  # add merged variant e.g., 'lendingclub'
+
+# Regex for multi-word aliases; single tokens use nospace matching
+wordish_regex = {
+    a: re.compile(rf"\b{re.escape(a)}\b", re.I)
     for a in alias_to_name
+    if (" " in a or "-" in a) and a == a.lower() and len(a) > 2
 }
 
 # ────────────────────────────────────────────────────────────────
-# 2) Helper – normalise one item
-# ────────────────────────────────────────────────────────────────
-def ensure_article_dict(item, file_name: str, idx: int) -> dict:
-    """Ensure dict and guarantee title/content presence."""
-    if not isinstance(item, dict):
-        raise ValueError(f"{file_name}[{idx}] expected object, got {type(item).__name__}")
-
-    title   = (item.get("title")   or item.get("headline") or "").strip()
-    content = (item.get("content") or item.get("text")     or "").strip()
-
-    if not title and not content:
-        raise ValueError(f"{file_name}[{idx}] missing both title AND content")
-
-    if not title:
-        title = (content[:120] + "…") if len(content) > 120 else content
-    if not content:
-        content = ""
-
-    item["title"], item["content"] = title, content
-    return item
-
-# ────────────────────────────────────────────────────────────────
-# 3) Tag files
+# 2) Tag files
 # ────────────────────────────────────────────────────────────────
 files_processed = 0
 articles_tagged = 0
+
+def ensure_article_dict(item, file_name: str, idx: int) -> dict:
+    if not isinstance(item, dict):
+        raise ValueError(f"{file_name}[{idx}] expected object, got {type(item).__name__}")
+    title   = norm_space(item.get("title") or item.get("headline") or "")
+    content = norm_space(item.get("content") or item.get("text") or "")
+    if not title and not content:
+        raise ValueError(f"{file_name}[{idx}] missing both title AND content")
+    if not title:
+        title = (content[:120] + "…") if len(content) > 120 else content
+    item["title"], item["content"] = title, content
+    return item
 
 try:
     for news_file in NEWS_FILES:
@@ -93,12 +120,20 @@ try:
         articles = []
         for idx, raw in enumerate(raw_items):
             art = ensure_article_dict(raw, news_file.name, idx)
-            haystack = f"{art['title']} {art['content']}".lower()
-            matches  = {
-                alias_to_name[a]
-                for a, rgx in alias_regex.items()
-                if rgx.search(haystack)
-            }
+            t1 = norm_space((art["title"] + " " + art["content"]).lower())
+            t2 = nospace(t1)
+
+            matches = set()
+            # 1) wordish aliases with boundaries on t1
+            for a, rgx in wordish_regex.items():
+                if rgx.search(t1):
+                    matches.add(alias_to_name[a])
+
+            # 2) single-token/merged aliases checked in nospace string
+            for a, canon in alias_to_name.items():
+                if a not in wordish_regex and a in t2:
+                    matches.add(canon)
+
             art["platforms_mentioned"] = sorted(matches)
             articles.append(art)
 
@@ -112,4 +147,7 @@ try:
 except ValueError as err:
     sys.exit(f"✋  Data validation failed – {err}")
 
-print(f"\n✔️  Completed: {files_processed} file(s), {articles_tagged} articles total.")
+if not files_processed:
+    print("⚠️  No news files found to tag.", file=sys.stderr)
+else:
+    print(f"\n✔️  Completed: {files_processed} file(s), {articles_tagged} articles total.")
