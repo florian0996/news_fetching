@@ -493231,5 +493231,125 @@
       "SMEs",
       "SME"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/mikestubbs/2025/08/13/the-ewc-esports-embassy-finally-nails-a-luxury-event-experience/",
+    "title": "The EWC Esports Embassy Finally Nails A Luxury Event Experience",
+    "fetched_on": "2025-08-14T13:36:41.914551+00:00",
+    "content": "The Esports Embassy offers incredible views of the arenas. \r\nCredit: Esports World Cup \r\nThe Esports World Cup 2025 has been a resounding success, with some incredible action taking place over the pa… [+4524 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Esports",
+      "Embassy",
+      "EWC",
+      "Finally",
+      "Nails",
+      "Luxury",
+      "Event",
+      "Experience",
+      "World",
+      "Cup"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/video/6376868687112",
+    "title": "Florida sheriff slams wild lake brawl after 8 arrested",
+    "fetched_on": "2025-08-14T13:36:41.914551+00:00",
+    "content": "Polk County Sheriff Grady Judd criticized a group of Florida boaters who were involved in a wild lakeside brawl over the weekend (Credit: Polk County Sheriff's Office)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "County",
+      "Credit",
+      "sheriff",
+      "Polk",
+      "Office",
+      "Florida",
+      "Grady",
+      "Judd",
+      "arrested",
+      "weekend"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cameron-stephens-launches-accelerated-lending-program-to-support-commercial-real-estate-loans-up-to-15-million",
+    "title": "Cameron Stephens Launches Accelerated Lending Program to Support Commercial Real Estate Loans Up To $15 Million",
+    "fetched_on": "2025-08-14T13:36:41.914551+00:00",
+    "content": "THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe O'Connor, Gabriel Friedman, … [+5587 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Canada",
+      "Stephens",
+      "Launches",
+      "Accelerated",
+      "Lending",
+      "Program",
+      "Support",
+      "Commercial",
+      "Real"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/disney-world-park-change-lightning-lane-emd1/",
+    "title": "Disney World Park Announces Major Change To Lighting Lane Multi Pass",
+    "fetched_on": "2025-08-14T13:36:41.914551+00:00",
+    "content": "A Disney World park will significantly change its Lightning Lane Multi-Pass option starting on August 20, 2025.\r\nCredit: Disney\r\nA Disney World Park Is Making a Big Change To Lightning Lane Starting … [+3695 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Disney",
+      "Lane",
+      "Park",
+      "August",
+      "Change",
+      "Lightning",
+      "Announces",
+      "Major",
+      "Lighting"
+    ]
+  },
+  {
+    "source": "Doctorofcredit.com [NewsAPI]",
+    "url": "https://www.doctorofcredit.com/skyla-credit-union-100-checking-bonus/",
+    "title": "Skyla Credit Union $100 Checking Bonus",
+    "fetched_on": "2025-08-14T13:36:41.914551+00:00",
+    "content": "Offer at a glance\r\n<ul><li>Maximum bonus amount: $100</li><li>Availability: Nationwide via ACC</li><li>Direct deposit required: $500+</li><li>Additional requirements: None </li><li>Hard/soft pull: Un… [+4055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bonus",
+      "Availability",
+      "Hard",
+      "Union",
+      "Checking",
+      "Maximum",
+      "Nationwide",
+      "ACC",
+      "Direct",
+      "Additional"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/small-business/secured-business-loans#article",
+    "title": "What Is a Secured Business Loan? Pros & Cons and How to Get One",
+    "fetched_on": "2025-08-14T13:36:41.914551+00:00",
+    "content": "If you have physical assets, you might consider putting them up as collateral to secure your small-business loan. Providing collateral reduces risk for the lender, which can help increase your chance… [+16088 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Secured",
+      "Business",
+      "Cons",
+      "Pros",
+      "chars",
+      "collateral",
+      "assets",
+      "Providing",
+      "lender"
+    ]
   }
 ]
