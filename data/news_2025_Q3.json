@@ -492071,5 +492071,45 @@
       "agreement",
       "signing"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/13/q3-eps-estimate-for-dominion-lending-centres-cut-by-analyst/",
+    "title": "Q3 EPS Estimate for Dominion Lending Centres Cut by Analyst",
+    "fetched_on": "2025-08-14T05:21:55.329387+00:00",
+    "content": "Dominion Lending Centres Inc. (TSE:DLC – Free Report) – Cormark decreased their Q3 2025 EPS estimates for Dominion Lending Centres in a report issued on Monday, August 11th. Cormark analyst J. Fenwic… [+725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "Dominion",
+      "EPS",
+      "Centres",
+      "Cut",
+      "TSE",
+      "DLC",
+      "August",
+      "Cormark",
+      "Analyst"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/nexpoint-residential-nxrt-restructures-credit-050143522.html",
+    "title": "NexPoint Residential (NXRT) Restructures Credit Line, Gains Improved Terms",
+    "fetched_on": "2025-08-14T05:21:55.329387+00:00",
+    "content": "NexPoint Residential Trust, Inc. (NYSE:NXRT) is one of the best residential REITs to buy. On July 16, NexPoint Residential announced that it has completed the restructuring of its corporate revolving… [+1892 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NXRT",
+      "Residential",
+      "Restructures",
+      "Line",
+      "Gains",
+      "Trust",
+      "Credit",
+      "Improved",
+      "Terms",
+      "NexPoint"
+    ]
   }
 ]
