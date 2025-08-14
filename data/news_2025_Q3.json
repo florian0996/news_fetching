@@ -491931,5 +491931,45 @@
       "pay",
       "comments"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/3cd946a80ed2f5b8",
+    "title": "Lula pledges $5.6B in credit to help firms hit by US tariffs",
+    "fetched_on": "2025-08-14T03:21:15.946289+00:00",
+    "content": "Brazilian President Luiz Inacio Lula da Silva announced a 30 billion reais (about $5.6 billion) credit package to help companies deal with the 50% tariffs imposed by the United States.\"There wi...\r\nT… [+62 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "States.",
+      "billion",
+      "Lula",
+      "Brazilian",
+      "President",
+      "Luiz",
+      "Inacio",
+      "Silva",
+      "United",
+      "pledges"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/q1-disbursement-dip-seen-as-temporary-q2-growth-expected-with-new-loans-sadaf-sayeed/articleshow/123258565.cms",
+    "title": "Q1 disbursement dip seen as temporary; Q2 growth expected with new loans : Sadaf Sayeed",
+    "fetched_on": "2025-08-14T03:21:15.946289+00:00",
+    "content": "\"This is a positive trend. Among customers with less leverageeither unique to us or with us plus one other trade linethe repayment track record is almost 97-98% on time. So, the guardrails have been … [+4857 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sadaf",
+      "Sayeed",
+      "disbursement",
+      "temporary",
+      "growth",
+      "loans",
+      "trend",
+      "dip",
+      "expected",
+      "positive"
+    ]
   }
 ]
