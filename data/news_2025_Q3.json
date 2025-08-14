@@ -492431,5 +492431,125 @@
       "Price",
       "Report"
     ]
+  },
+  {
+    "source": "Order-order.com [NewsAPI]",
+    "url": "https://order-order.com/2025/08/13/dwp-taxpayer-credit-card-spending-soars-by-145-after-freeze/",
+    "title": "DWP Taxpayer Credit Card Spending Soars by 145% After ‘Freeze’",
+    "fetched_on": "2025-08-14T09:25:45.064964+00:00",
+    "content": "In February, the Department for Work and Pensions and the Child Maintenance Group spent £61,314 on their government procurement cards. Back in March, when Chancellor of the Duchy of Lancaster Pat McF… [+426 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DWP",
+      "Freeze’",
+      "February",
+      "Taxpayer",
+      "Credit",
+      "Spending",
+      "Soars",
+      "Department",
+      "Work",
+      "Pensions"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2025/08/13/us-news/california-usps-worker-mary-ann-magdamit-stole-cards-and-checks-from-mail-to-fund-lavish-lifestyle-she-flaunted-online/",
+    "title": "US postal worker stole cards and checks from mail to fund lavish lifestyle, tropical vacations she flaunted online",
+    "fetched_on": "2025-08-14T09:25:45.064964+00:00",
+    "content": "A California postal worker allegedly stole credit, debit cards and checks to fuel a lavish lifestyle that included luxurious tropical vacations and Rolex watches she flaunted on social media\r\nMary An… [+3674 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "California",
+      "Rolex",
+      "Mary",
+      "postal",
+      "worker",
+      "cards",
+      "checks",
+      "lavish",
+      "lifestyle"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/burberry-returns-to-london-in-latest-campaign/",
+    "title": "Burberry returns to London in latest campaign",
+    "fetched_on": "2025-08-14T09:25:45.064964+00:00",
+    "content": "Apparel and accessories\r\nAugust 13, 2025\r\n British model Nora Attal wears the new Fitzrovia trench coat in the campaign. Image credit: Burberry \r\n By Kiran Gill\r\nBritish fashion house Burberry is spo… [+10225 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "London",
+      "Apparel",
+      "Nora",
+      "Attal",
+      "Fitzrovia",
+      "Burberry",
+      "British",
+      "campaign",
+      "returns"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/389452/bizarre-conspiracy-theory-suggests-that-the-titanic-didnt-actually-sink",
+    "title": "Bizarre conspiracy theory suggests that the Titanic didn't actually sink",
+    "fetched_on": "2025-08-14T09:25:45.064964+00:00",
+    "content": "Conspiracy\r\nBy T.K. RandallAugust 13, 2025 ·  0 commentsThe Titanic... or is it ? Image Credit: Francis Godolphin Osbourne StuartConspiracy theorists have perpetuated a rumor in recent years that rew… [+1731 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RandallAugust",
+      "chars",
+      "Image",
+      "Credit",
+      "Francis",
+      "Titanic",
+      "conspiracy",
+      "Godolphin",
+      "Osbourne",
+      "Bizarre"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-864075",
+    "title": "'A little humility wouldn't hurt': Katz defends control over senior IDF appointments",
+    "fetched_on": "2025-08-14T09:25:45.064964+00:00",
+    "content": "Defense Minister Israel Katz on a tour in the Gaza Strip, August 5, 2025. (photo credit: DEFENSE MINISTRY)\r\nKatz clarified that he would continue to accompany and guide the IDF and security establish… [+2348 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "Strip",
+      "Katz",
+      "Minister",
+      "Israel",
+      "Gaza",
+      "IDF",
+      "Defense",
+      "hurt",
+      "humility"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/roundup-trotz-rueckgaengen-procredit-bekraeftigt-renditeziel-14728548",
+    "title": "ROUNDUP/Trotz Rückgängen: Procredit bekräftigt Renditeziel",
+    "fetched_on": "2025-08-14T09:26:07.758407+00:00",
+    "content": "<p>FRANKFURT (dpa-AFX) - Die Procredit Holding (<a href=\"https://www.finanzen.net/aktien/procredit-aktie\">ProCredit</a>) hat im ersten Halbjahr wegen der gesunkenen Zinsen einen Gewinnrückgang verbucht. Auch das Kreditvolumen wuchs nicht so stark wie für das Gesamtjahr angepeilt. ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ROUNDUP",
+      "FRANKFURT",
+      "Procredit",
+      "Trotz",
+      "Rückgängen",
+      "Renditeziel",
+      "Die",
+      "Holding",
+      "dpa-AFX",
+      "Halbjahr"
+    ]
   }
 ]
