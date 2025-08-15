@@ -495947,5 +495947,85 @@
       "payments",
       "highest"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/14/carlyle-secured-lending-inc-nasdaqcgbd-receives-15-25-consensus-price-target-from-brokerages/",
+    "title": "Carlyle Secured Lending, Inc. (NASDAQ:CGBD) Receives $15.25 Consensus Price Target from Brokerages",
+    "fetched_on": "2025-08-15T05:22:21.820196+00:00",
+    "content": "Shares of Carlyle Secured Lending, Inc. (NASDAQ:CGBD – Get Free Report) have received a consensus rating of “Reduce” from the six ratings firms that are presently covering the company, MarketBeat Rat… [+4769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "CGBD",
+      "Lending",
+      "Secured",
+      "Receives",
+      "Carlyle",
+      "Reduce",
+      "Consensus",
+      "Report",
+      "Rat"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/14/analysts-set-oaktree-specialty-lending-corp-nasdaqocsl-price-target-at-15-00/",
+    "title": "Analysts Set Oaktree Specialty Lending Corp. (NASDAQ:OCSL) Price Target at $15.00",
+    "fetched_on": "2025-08-15T05:22:21.820196+00:00",
+    "content": "Oaktree Specialty Lending Corp. (NASDAQ:OCSL – Get Free Report) has received an average recommendation of “Hold” from the seven analysts that are covering the firm, Marketbeat reports. Seven investme… [+4268 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "OCSL",
+      "Corp",
+      "Specialty",
+      "Lending",
+      "Oaktree",
+      "Set",
+      "Hold",
+      "Price",
+      "Marketbeat"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/04e5298cdf0d1902",
+    "title": "UBS to miss job-cut goal after Credit Suisse takeover",
+    "fetched_on": "2025-08-15T05:22:21.820196+00:00",
+    "content": "UBS Group AG is set to miss its internal target of reducing its workforce to 85,000 by the time it completes the Credit Suisse integration in 2026, according to a Financial Times report, citing compa… [+69 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Suisse",
+      "UBS",
+      "chars",
+      "miss",
+      "Group",
+      "Financial",
+      "report",
+      "citing",
+      "compa"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/08/14/3133155/0/en/Bigbank-AS-Results-for-July-2025.html",
+    "title": "Bigbank AS Results for July 2025",
+    "fetched_on": "2025-08-15T05:22:21.820196+00:00",
+    "content": "Bigbanks loan portfolio grew by 59 million euros in July, marking the largest monthly increase in 2025. The growth was once again driven by focus products: the business loan portfolio expanded by 30 … [+6866 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "Results",
+      "Bigbank",
+      "Bigbanks",
+      "million",
+      "marking",
+      "loan",
+      "portfolio",
+      "grew",
+      "euros"
+    ]
   }
 ]
