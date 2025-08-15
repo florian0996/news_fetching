@@ -1,6 +1,17 @@
 {
-  "2025-08-14": {
+  "2025-08-15": {
     "status": "no company in the news"
+  },
+  "2025-08-14": {
+    "articles": [
+      {
+        "title": "PharmaCorp Rx Inc. Announces New Credit Facilities With CIBC and Unveils Pharmacist Co-Ownership Financing Initiative",
+        "url": "https://www.globenewswire.com/news-release/2025/08/13/3133066/0/en/PharmaCorp-Rx-Inc-Announces-New-Credit-Facilities-With-CIBC-and-Unveils-Pharmacist-Co-Ownership-Financing-Initiative.html",
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2025-08-13": {
     "articles": [
