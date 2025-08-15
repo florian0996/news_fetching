@@ -496027,5 +496027,125 @@
       "grew",
       "euros"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/14/carlyle-secured-lendings-cgbd-neutral-rating-reiterated-at-b-riley/",
+    "title": "Carlyle Secured Lending’s (CGBD) “Neutral” Rating Reiterated at B. Riley",
+    "fetched_on": "2025-08-15T06:32:59.295176+00:00",
+    "content": "B. Riley reissued their neutral rating on shares of Carlyle Secured Lending (NASDAQ:CGBD – Free Report) in a research report sent to investors on Monday morning, MarketBeat.com reports. They currentl… [+5073 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CGBD",
+      "Secured",
+      "Lending",
+      "Reiterated",
+      "Carlyle",
+      "Neutral",
+      "Rating",
+      "NASDAQ",
+      "Riley",
+      "Free"
+    ]
+  },
+  {
+    "source": "Globalsecurity.org [NewsAPI]",
+    "url": "https://www.globalsecurity.org/wmd/library/news/china/2025/08/china-250813-globaltimes03.htm",
+    "title": "China unveils new stimulus plan to subsidize consumption-linked loans",
+    "fetched_on": "2025-08-15T06:32:59.295176+00:00",
+    "content": "Global Times\r\nBy Zhang Weilan Published: Aug 13, 2025 11:38 PM\r\nChina's central government will offer interest subsidies for consumption loans for individuals and business entities in the consumer se… [+4282 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aug",
+      "chars",
+      "Published",
+      "China",
+      "Global",
+      "Times",
+      "Zhang",
+      "Weilan",
+      "11:38",
+      "loans"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/de89b698158240d8",
+    "title": "Private Credit Is a Booming Business. Where One Pro Sees Risks and Opportunities Now",
+    "fetched_on": "2025-08-15T06:32:59.295176+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Bitcoin hit a new all-time high today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump-Putin summi… [+706 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Business",
+      "window.open",
+      "this.href",
+      "blank",
+      "Credit",
+      "Booming",
+      "return",
+      "false",
+      "Private",
+      "Pro"
+    ]
+  },
+  {
+    "source": "Creative Bloq [NewsAPI]",
+    "url": "https://www.creativebloq.com/art/digital-art/how-to-tease-and-tell-stories-in-your-digital-art",
+    "title": "How to tease and tell stories in your digital art",
+    "fetched_on": "2025-08-15T06:32:59.295176+00:00",
+    "content": "(Image credit: Unknown)\r\n\"This was a piece for Unreal Bjornament 4, an art contest hosted by Bjorn Hurri. I set out to explore building a narrative with dramatic effect, all in a single image. To cre… [+2149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unknown",
+      "Bjornament",
+      "Hurri",
+      "Unreal",
+      "Bjorn",
+      "art",
+      "Image",
+      "credit",
+      "tease",
+      "stories"
+    ]
+  },
+  {
+    "source": "The Japan Times [NewsAPI]",
+    "url": "https://www.japantimes.co.jp/news/2025/08/14/japan/society/bangladesh-starto/",
+    "title": "Starto Entertainment fans targeted by social media phishing scam",
+    "fetched_on": "2025-08-15T06:32:59.295176+00:00",
+    "content": "A U.S. court has ordered X to disclose information on fake Starto Entertainment profiles that aimed to steal credit card information from fans, the talent agency said Wednesday.\r\nStarto Entertainment… [+1007 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Entertainment",
+      "Wednesday",
+      "Starto",
+      "fans",
+      "information",
+      "court",
+      "targeted",
+      "social",
+      "media",
+      "phishing"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/environment/climate-crisis/2025/08/14/the-reality-of-carbon-credits-corporate-greenwashing-displacement-and-sexual-exploitation/",
+    "title": "The dark heart of carbon credits: corporate greenwashing, displacement and sexual exploitation",
+    "fetched_on": "2025-08-15T06:32:59.295176+00:00",
+    "content": "As the climate crisis worsens and inches closer to a global catastrophe, the world is desperate to find solutions and quick fixes. Climate catastrophe is no longer a distant threat, it is our present… [+8878 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credits",
+      "corporate",
+      "greenwashing",
+      "displacement",
+      "fixes",
+      "climate",
+      "catastrophe",
+      "dark",
+      "heart",
+      "carbon"
+    ]
   }
 ]
