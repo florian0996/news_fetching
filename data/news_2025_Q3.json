@@ -500001,5 +500001,45 @@
       "renovation",
       "loans"
     ]
+  },
+  {
+    "source": "SoyaCincau.com [NewsAPI]",
+    "url": "https://soyacincau.com/2025/08/15/starlink-malaysia-rm1200-service-credit-satellite-broadband/",
+    "title": "Starlink offers RM1,200 service credit, pay nothing monthly for 5 months",
+    "fetched_on": "2025-08-16T04:27:09.536335+00:00",
+    "content": "If you’re thinking of subscribing to Starlink in Malaysia, they are currently running a promo where you’ll receive RM1,200 in service credit. With this offer, essentially you can enjoy 5 months of St… [+2011 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "Malaysia",
+      "Starlink",
+      "service",
+      "months",
+      "pay",
+      "receive",
+      "monthly",
+      "’re",
+      "thinking"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sp-global-upgrades-ratings-of-sbi-hdfc-bank-other-8-financial-institutions/articleshow/123316156.cms",
+    "title": "S&P Global upgrades ratings of SBI, HDFC Bank, other 8 financial institutions",
+    "fetched_on": "2025-08-16T04:27:09.536335+00:00",
+    "content": "S&amp;P Global Ratings upgraded the ratings of ten Indian financial institutions, including SBI and HDFC Bank, following an upgrade to India's sovereign credit rating. The improved ratings reflect ex… [+196 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Global",
+      "HDFC",
+      "SBI",
+      "ratings",
+      "Indian",
+      "India",
+      "financial",
+      "institutions",
+      "including"
+    ]
   }
 ]
