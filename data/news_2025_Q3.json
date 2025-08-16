@@ -500041,5 +500041,65 @@
       "institutions",
       "including"
     ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2025/08/15/ey-entrepreneur-of-the-year-profiles-from-online-teaching-and-dancing-with-the-stars-to-pharma-and-smes/",
+    "title": "EY Entrepreneur of the Year profiles: From online teaching and Dancing with the Stars to pharma and SMEs",
+    "fetched_on": "2025-08-16T05:20:18.373147+00:00",
+    "content": "Karl Fitzpatrick, Chevron College\r\nHeadquartered in Wexford town, Chevron College, a QQI accredited e-learning provider of further and higher education programmes, employs more than 250 lecturers and… [+18172 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chevron",
+      "College",
+      "Fitzpatrick",
+      "chars",
+      "Entrepreneur",
+      "Year",
+      "Dancing",
+      "Stars",
+      "Karl",
+      "Headquartered"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20250815PD226/taiwan-government-semiconductors-manufacturing-tariffs.html",
+    "title": "Tariff exemption for semiconductors and ICT products prioritized in negotiations for Taiwanese government",
+    "fetched_on": "2025-08-16T05:20:18.373147+00:00",
+    "content": "Taiwan-US economic and trade task force leader, Li-Chun Cheng (C). Credit: Executive YuanThe US government, under Section 232 of the Trade Expansion Act, has imposed tariffs on imports such as steel … [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cheng",
+      "ICT",
+      "Taiwanese",
+      "leader",
+      "Li-Chun",
+      "trade",
+      "Credit",
+      "chars",
+      "Executive",
+      "Section"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/value-of-car-loans-hits-record-high-up-by-25pc-when-compared-with-the-same-time-last-year/a836892947.html",
+    "title": "Value of car loans hits record high, up by 25pc when compared with the same time last year",
+    "fetched_on": "2025-08-16T05:20:18.373147+00:00",
+    "content": "The value of car loans taken out by ­consumers has hit a record high.The overall value of loans to buy ­vehicles was up by 25pc in the first three months of the year compared with the same period las… [+2331 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "car",
+      "loans",
+      "compared",
+      "chars",
+      "record",
+      "year",
+      "high",
+      "consumers",
+      "buy",
+      "vehicles"
+    ]
   }
 ]
