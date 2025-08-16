@@ -500481,5 +500481,45 @@
       "claims",
       "credit"
     ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/disney-updates-reservation-window-for-beak-and-barrel-after-technical-issues-rl1/",
+    "title": "After ‘Technical Issues’ Sunk Beak and Barrel Reservations, Disney Promises New Window Next Week",
+    "fetched_on": "2025-08-16T11:16:16.687002+00:00",
+    "content": "Yesterday must have been quite the day for the Disney tech team. Even before they could put their lunches in the breakroom fridge, all hell had broken loose.\r\nCredit: Disney\r\nHowever bad it was for D… [+2135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Technical",
+      "Reservations",
+      "Issues’",
+      "Sunk",
+      "Beak",
+      "Barrel",
+      "Promises",
+      "Window",
+      "Week",
+      "Yesterday"
+    ]
+  },
+  {
+    "source": "Hurriyet Daily News [NewsAPI]",
+    "url": "https://www.hurriyetdailynews.com/private-sector-external-debt-reaches-195-4-bln-in-june-212553",
+    "title": "Private sector external debt reaches $195.4 bln in June",
+    "fetched_on": "2025-08-16T11:16:16.687002+00:00",
+    "content": "ANKARA\r\nTürkiye's private sector external credit debt climbed to $195.4 billion in June, marking an $11.7 billion increase from the previous quarter and the highest level since November 2019, accordi… [+1101 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "accordi",
+      "chars",
+      "November",
+      "sector",
+      "billion",
+      "ANKARA",
+      "Türkiye",
+      "Private",
+      "external"
+    ]
   }
 ]
