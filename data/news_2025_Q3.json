@@ -500121,5 +500121,85 @@
       "Breaks",
       "Big"
     ]
+  },
+  {
+    "source": "Nep123.com [NewsAPI]",
+    "url": "https://nep123.com/banking-alert-npls-soar-to-75-everest-bank-leads-the-way-in-recovery-nepal-banking-finance/",
+    "title": " Banking Alert!  NPLs Soar to 7.5%!  Everest Bank Leads the Way in Recovery  #Nepal #Banking #Finance",
+    "fetched_on": "2025-08-16T08:26:26.002313+00:00",
+    "content": "The Nepali banking sector is currently navigating a challenging landscape. Recent data reveals a concerning trend: Non-Performing Loans (NPLs), a key indicator of asset quality, have risen across the… [+3229 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alert",
+      "Banking",
+      "Nepal",
+      "NPLs",
+      "Soar",
+      "Recovery",
+      "Finance",
+      "Loans",
+      "Bank",
+      "Leads"
+    ]
+  },
+  {
+    "source": "NorthJersey.com [NewsAPI]",
+    "url": "https://www.northjersey.com/story/news/new-jersey/2025/08/15/nj-credit-rating-2025-improved-again/85660235007/",
+    "title": "NJ's credit rating just improved again. Here's why it matters",
+    "fetched_on": "2025-08-16T08:26:26.002313+00:00",
+    "content": "Wall Street rating agency S&amp;P Global has upgraded New Jerseys credit rating for the third time under the tenure of outgoing Democratic Gov. Phil Murphy.\r\nThe move to raise the rating one notch to… [+4400 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "rating",
+      "credit",
+      "Gov",
+      "improved",
+      "Wall",
+      "Street",
+      "Global",
+      "Jerseys",
+      "Democratic",
+      "Murphy"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/08/15/3134072/0/en/SalMar-Mandate-announcement-for-additional-green-bonds.html",
+    "title": "SalMar – Mandate announcement for additional green bonds",
+    "fetched_on": "2025-08-16T08:26:26.002313+00:00",
+    "content": "SalMar ASA (SalMar), rated BBB+/Negative by Nordic Credit Rating, has issued NOK 1,000 million in a 8-year fixed tranche and 500 million in a 7-year floating rate tranche. The new senior unsecured gr… [+768 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "million",
+      "Mandate",
+      "ASA",
+      "BBB",
+      "Negative",
+      "Rating",
+      "NOK",
+      "Nordic",
+      "Credit",
+      "SalMar"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/15/mitsubishi-ufj-asset-management-co-ltd-boosts-stock-position-in-lendingclub-corporation-nyselc/",
+    "title": "Mitsubishi UFJ Asset Management Co. Ltd. Boosts Stock Position in LendingClub Corporation (NYSE:LC)",
+    "fetched_on": "2025-08-16T08:26:26.002313+00:00",
+    "content": "Mitsubishi UFJ Asset Management Co. Ltd. boosted its holdings in LendingClub Corporation (NYSE:LC – Free Report) by 11.2% during the 1st quarter, according to the company in its most recent disclosur… [+5863 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "Mitsubishi",
+      "UFJ",
+      "Asset",
+      "Management",
+      "Corporation",
+      "LendingClub",
+      "Stock",
+      "Position",
+      "Free"
+    ]
   }
 ]
