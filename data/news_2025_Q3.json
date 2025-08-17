@@ -504023,5 +504023,44 @@
       "Hospital’",
       "Star"
     ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2025/08/16/nx-s1-4961105/tips-for-how-to-manage-lending-money",
+    "title": "Tips for how to manage lending money",
+    "fetched_on": "2025-08-17T21:19:14.291088+00:00",
+    "content": "NPR's Life Kit has tips on how to manage lending money to friends and loved ones.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "manage",
+      "lending",
+      "NPR",
+      "Life",
+      "Kit",
+      "money",
+      "Tips",
+      "friends",
+      "loved"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18534643-s-s-53-13-3-59-count-cascade-platinum-dishwasher-pods-lemon-17-71-each-15-credit-at-amazon",
+    "title": "[S&S] $53.13: 3 Ã 59-Count Cascade Platinum Dishwasher Pods (Lemon) ($17.71 each) + $15 credit at Amazon (3 replies)",
+    "fetched_on": "2025-08-17T21:19:14.291088+00:00",
+    "content": "Amazon[amazon.com] has 59-Count Cascade Platinum Dishwasher Pods (Lemon) 3 for $55.92 - 5% when you check out via Subscribe &amp; Save = $53.13.Shipping is free with Prime or on $35+ orders.Price$6.8… [+445 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lemon",
+      "Cascade",
+      "Pods",
+      "Platinum",
+      "Dishwasher",
+      "Amazon",
+      "Save",
+      "Subscribe",
+      "replies",
+      "amazon.com"
+    ]
   }
 ]
