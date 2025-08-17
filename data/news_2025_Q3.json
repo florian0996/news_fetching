@@ -502655,5 +502655,65 @@
       "Schiff",
       "Peace"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/08a3abcba2b40db7",
+    "title": "US credit spreads hit lowest level this century after sharp rally",
+    "fetched_on": "2025-08-17T04:33:36.759812+00:00",
+    "content": "Investors warn credit markets are weirdly confident despite threats to global economy\r\nThis story appeared on ft.com, 2025-08-16 03:43:31.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Investors",
+      "ft.com",
+      "credit",
+      "spreads",
+      "hit",
+      "lowest",
+      "level",
+      "century",
+      "sharp",
+      "rally"
+    ]
+  },
+  {
+    "source": "TheWrap [NewsAPI]",
+    "url": "https://www.thewrap.com/bill-maher-trump-marijuana-reschedule-monologue-real-time-hbo/",
+    "title": "Bill Maher Takes Credit for Possibility Trump Might Reshedule Marijuana: ‘And They Said It Wasn’t Smart to Have Dinner With Him’ | Video",
+    "fetched_on": "2025-08-17T04:33:36.759812+00:00",
+    "content": "According to multiple reports, Donald Trump is now indicating he might actually finalize the rescheduling of cannabis (AKA marijuana), from a Schedule 1 narcotic to a Schedule III narcotic. If it hap… [+2312 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Schedule",
+      "Marijuana",
+      "Trump",
+      "Him’",
+      "Video",
+      "Donald",
+      "AKA",
+      "Maher",
+      "Credit",
+      "Possibility"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/agri-business/how-to-design-season-agnostic-financial-products-that-work-for-indian-farmers/article69934439.ece",
+    "title": "How to design season-agnostic financial products that work for Indian farmers",
+    "fetched_on": "2025-08-17T04:33:36.759812+00:00",
+    "content": "For decades, Agri-credit in India has been shaped around a basic assumption that farmers earn during harvest, repay soon after, and operate in predictable seasonal cycles. However, in reality, todays… [+4408 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Agri-credit",
+      "Indian",
+      "India",
+      "farmers",
+      "decades",
+      "harvest",
+      "repay",
+      "cycles",
+      "design",
+      "season-agnostic"
+    ]
   }
 ]
