@@ -503052,5 +503052,85 @@
       "chars",
       "made"
     ]
+  },
+  {
+    "source": "Barcauniversal.com [NewsAPI]",
+    "url": "https://barcauniversal.com/barcelona-president-credits-deco-for-securing-key-registrations-criticises-la-liga/",
+    "title": "Barcelona president credits Deco for securing key registrations, criticises La Liga",
+    "fetched_on": "2025-08-17T11:16:53.934709+00:00",
+    "content": "Barcelona president Joan Laporta spoke to the media before the squad arrived in Mallorca for their opening game of the 2025/26 La Liga campaign later this evening.\r\nThe Barça chief was visibly elated… [+1963 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Liga",
+      "Barcelona",
+      "president",
+      "Deco",
+      "Joan",
+      "Laporta",
+      "Mallorca",
+      "registrations",
+      "criticises",
+      "evening"
+    ]
+  },
+  {
+    "source": "Trinidad & Tobago Express Newspapers [NewsAPI]",
+    "url": "https://trinidadexpress.com/business/local/republic-cuts-us-card-limit-by-75-in-two-years/article_a95272f8-88ce-45c6-a104-2339e33f70a8.html",
+    "title": "Republic cuts US$ card limit by 75% in two years",
+    "fetched_on": "2025-08-17T11:16:53.934709+00:00",
+    "content": "IN JUST under two years, Republic Bank Ltd. (RBL) has slashed the US dollar limit on its credit cards by 75%.\r\nEffective August 21, 2025, the maximum US dollar spending limit per billing cycle on exi… [+2224 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Republic",
+      "Bank",
+      "years",
+      "RBL",
+      "limit",
+      "cuts",
+      "dollar",
+      "August",
+      "chars",
+      "card"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/sp-global-upgrades-credit-ratings-of-sbi-hdfc-bank-tata-capital-among-10-financial-institutions-11755337903274.html",
+    "title": "S&P Global upgrades credit ratings of SBI, HDFC Bank, Tata Capital, among 10 financial institutions",
+    "fetched_on": "2025-08-17T11:16:53.934709+00:00",
+    "content": "Global credit rating giant, S&amp;P Global Ratings, on Friday, 15 August 2025, upgraded the long-term issuer credit ratings for seven Indian banks and three financial institutions, one day after incr… [+2533 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Global",
+      "August",
+      "ratings",
+      "credit",
+      "SBI",
+      "HDFC",
+      "Tata",
+      "Capital",
+      "Friday",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-864364",
+    "title": "IDF Skylark drone malfunctions during Gaza City operation, seized by Palestinians",
+    "fetched_on": "2025-08-17T11:16:53.934709+00:00",
+    "content": "An Israeli soldier launches a Skylark unmanned aerial vehicle near the border with Gaza July 21, 2014 (photo credit: REUTERS/Ronen Zvulun)\r\nA video which surfaced online following the drone's landing… [+1455 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "REUTERS",
+      "chars",
+      "IDF",
+      "July",
+      "Ronen",
+      "Zvulun",
+      "Skylark",
+      "Gaza",
+      "City",
+      "Palestinians"
+    ]
   }
 ]
