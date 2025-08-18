@@ -504222,5 +504222,65 @@
       "network",
       "issues"
     ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/ios-26-features-2/",
+    "title": "iOS 26: The Game-Changing Features You Need to Know About",
+    "fetched_on": "2025-08-18T04:39:59.591622+00:00",
+    "content": "Apple’s iOS 26 introduces a pivotal update in the evolution of its ecosystem, blending innovative features with a focus on usability and integration. This release reflects Apple’s commitment to enhan… [+5321 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "iOS",
+      "Features",
+      "Apple",
+      "introduces",
+      "ecosystem",
+      "blending",
+      "integration",
+      "chars",
+      "Game-Changing",
+      "pivotal"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/cities/delhi/delhi-cybercrime-syndicate-sbi-credit-card-holders-10194027/",
+    "title": "Six-month police op dismantles cybercrime syndicate in Delhi targeting SBI credit card holders",
+    "fetched_on": "2025-08-18T04:39:59.591622+00:00",
+    "content": "In a six-month-long operation, Delhi Police said it dismantled what it described as a major cybercrime syndicate that defrauded State Bank of India credit card holders across the country, siphoning o… [+3604 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "operation",
+      "chars",
+      "Delhi",
+      "card",
+      "police",
+      "SBI",
+      "State",
+      "Bank",
+      "India",
+      "cybercrime"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/sbi-raises-home-loan-interest-rates-heres-what-hdfc-bank-pnb-icici-bank-and-others-levy-11755399509350.html",
+    "title": "SBI raises home loan interest rates: Here's what HDFC Bank, PNB, ICICI Bank and others levy",
+    "fetched_on": "2025-08-18T04:39:59.591622+00:00",
+    "content": "SBI home loan: India's biggest lender, State Bank of India, has revised its interest rates for home loans and home-related loans effective 1 August 2025. This rate revision comes after the Reserve Ba… [+2741 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "SBI",
+      "India",
+      "PNB",
+      "August",
+      "home",
+      "ICICI",
+      "State",
+      "HDFC",
+      "interest"
+    ]
   }
 ]
