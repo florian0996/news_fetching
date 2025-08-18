@@ -505769,5 +505769,65 @@
       "repayment",
       "budget"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-08-18/catching-up-on-ukraine-and-trump-s-tax-credits",
+    "title": "Catching Up on Ukraine and Trump’s Tax Credits",
+    "fetched_on": "2025-08-18T21:18:26.323567+00:00",
+    "content": "This is Washington Edition, the newsletter about money, power and politics in the nation’s capital. Every Monday, Bloomberg Intelligence senior analyst Nathan Dean gives his insights into what’s been happening and what’s coming up in the nooks and crannies of government and markets.  Sign up here and follow us at @bpolitics. Email our editors here.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Edition",
+      "Ukraine",
+      "Trump",
+      "Tax",
+      "Credits",
+      "Washington",
+      "Catching",
+      "money",
+      "power",
+      "capital"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/terence-stamp-ex-wife-5435046/",
+    "title": "Terence Stamp’s Ex-Wife: All About His Marriage & Divorce From Elizabeth O’Rourke",
+    "fetched_on": "2025-08-18T21:18:25.547731+00:00",
+    "content": "Image Credit: Getty Images\r\nTerence Stamp steadily worked his way toward becoming one of the most iconic actors in the biz. From his performances in Superman and Superman II, to The Adventures of Pri… [+1873 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stamp",
+      "Terence",
+      "Marriage",
+      "Divorce",
+      "Credit",
+      "Getty",
+      "Elizabeth",
+      "Image",
+      "Images",
+      "Ex-Wife"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/17/todays-nyt-connections-hints-and-answers-for-sunday-august-17th/",
+    "title": "Today’s NYT ‘Connections’ Hints And Answers For Sunday, August 17th",
+    "fetched_on": "2025-08-18T21:18:25.547731+00:00",
+    "content": "Credit: NYT / Erik Kain\r\nLooking for a little help with your Sunday Connections puzzle? The New York Times has set a pretty solid challenge with todays puzzle, so if youre looking for extra clues or … [+5507 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYT",
+      "August",
+      "Credit",
+      "Sunday",
+      "Connections’",
+      "Erik",
+      "Hints",
+      "Answers",
+      "Kain",
+      "puzzle"
+    ]
   }
 ]
