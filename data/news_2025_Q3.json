@@ -504282,5 +504282,65 @@
       "HDFC",
       "interest"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-08-18/why-chinese-stocks-are-defying-weak-economic-data-video",
+    "title": "Why Chinese Stocks Are Defying Weak Economic Data",
+    "fetched_on": "2025-08-18T06:35:33.940827+00:00",
+    "content": "Chinese equities are surging even as the economy shows more signs of weakness, with recent credit and activity numbers fueling worries of a deepening downturn. BofA Global Research's Helen Qiao and BNP Paribas' Jason Lui share their insights on the divergence between China's macro environment and markets on “Bloomberg: The China Show.” (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chinese",
+      "Bloomberg",
+      "Stocks",
+      "Defying",
+      "Weak",
+      "Economic",
+      "Data",
+      "weakness",
+      "downturn",
+      "China"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/17/reviewing-navient-nasdaqnavi-and-credit-acceptance-nasdaqcacc/",
+    "title": "Reviewing Navient (NASDAQ:NAVI) and Credit Acceptance (NASDAQ:CACC)",
+    "fetched_on": "2025-08-18T06:35:33.277067+00:00",
+    "content": "Credit Acceptance (NASDAQ:CACC – Get Free Report) and Navient (NASDAQ:NAVI – Get Free Report) are both finance companies, but which is the superior business? We will compare the two businesses based … [+5044 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "NAVI",
+      "CACC",
+      "Acceptance",
+      "Report",
+      "Navient",
+      "Free",
+      "Credit",
+      "Reviewing",
+      "companies"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/17/carlyle-credit-income-fund-ccif-to-release-quarterly-earnings-on-tuesday/",
+    "title": "Carlyle Credit Income Fund (CCIF) to Release Quarterly Earnings on Tuesday",
+    "fetched_on": "2025-08-18T06:35:33.277067+00:00",
+    "content": "Carlyle Credit Income Fund (NYSE:CCIF – Get Free Report) is expected to be issuing its Q3 2025 quarterly earnings data after the market closes on Tuesday, August 19th. Analysts expect the company to … [+3135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CCIF",
+      "Fund",
+      "Credit",
+      "Income",
+      "Tuesday",
+      "NYSE",
+      "August",
+      "Carlyle",
+      "Quarterly",
+      "Earnings"
+    ]
   }
 ]
