@@ -506209,5 +506209,145 @@
       "homes",
       "built"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-19/korea-household-debt-jumps-most-since-2021-before-bok-rate-call",
+    "title": "Korea Household Debt Jumps Most Since 2021 Before BOK Rate Call",
+    "fetched_on": "2025-08-19T03:11:27.666655+00:00",
+    "content": "South Korea’s household debt last quarter expanded at the quickest pace since 2021, fueled by a jump in mortgage lending, likely adding to concerns at the Bank of Korea ahead of its policy meeting next week.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Korea",
+      "Household",
+      "Debt",
+      "BOK",
+      "Rate",
+      "Call",
+      "South",
+      "Bank",
+      "fueled",
+      "lending"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-19/s-p-affirms-us-credit-rating-on-tariff-revenues-strong-economy",
+    "title": "S&amp;P Affirms US Credit Rating on Tariff Revenues, Resilience",
+    "fetched_on": "2025-08-19T03:11:27.666668+00:00",
+    "content": "The US can maintain its credit strength despite the fiscal hit of a recent spending bill, in part because tariff revenues will reduce the pain, according to S&amp;P Global Ratings, which has affirmed its rating for the world’s largest economy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tariff",
+      "Revenues",
+      "Resilience",
+      "Credit",
+      "Rating",
+      "Affirms",
+      "Global",
+      "bill",
+      "pain",
+      "economy"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-19/hk-builder-parkview-gets-loan-extension-easing-default-risk",
+    "title": "HK Builder Parkview Gets Loan Extension, Easing Default Risk",
+    "fetched_on": "2025-08-19T03:11:27.666695+00:00",
+    "content": "Hong Kong developer Parkview Group Ltd. has secured a three-month extension on a $940 million loan that was due Aug. 15, according to people familiar with the matter, giving it more time to work on a refinancing deal with banks.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Parkview",
+      "Easing",
+      "Aug.",
+      "Loan",
+      "Extension",
+      "Builder",
+      "Default",
+      "Risk",
+      "Hong",
+      "Kong"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/nz/politics/government-keeps-aa-credit-rating-but-fitch-warns-national-and-labour-to-keep-culture-of-fiscal-responsibility/MCPEUUYDWBGHBH32LBAQLXCU6Y/",
+    "title": "Government keeps AA+ credit rating but Fitch warns National and Labour to keep ‘culture of fiscal responsibility’",
+    "fetched_on": "2025-08-19T03:11:26.728622+00:00",
+    "content": "Keeping one of the highest possible credit ratings is a positive for the Government as it helps keep borrowing costs low. New Zealand has tended to have high credit ratings across the political cycle… [+1622 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Government",
+      "Fitch",
+      "National",
+      "Labour",
+      "Keeping",
+      "credit",
+      "culture",
+      "low",
+      "ratings",
+      "warns"
+    ]
+  },
+  {
+    "source": "Newsweek [NewsAPI]",
+    "url": "https://www.newsweek.com/sports/nfl/eagles-star-credits-myles-garrett-sharpening-his-game-2114702",
+    "title": "Eagles Star Credits Myles Garrett for Sharpening His Game",
+    "fetched_on": "2025-08-19T03:11:26.728622+00:00",
+    "content": "Saturday's game between the Philadelphia Eagles and the Cleveland Browns was mostly reserved for guys who are in position battles and looking to make the roster.\r\nPractice in the days leading up to t… [+2559 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Eagles",
+      "Game",
+      "Star",
+      "Credits",
+      "Myles",
+      "Garrett",
+      "Sharpening",
+      "Saturday",
+      "Philadelphia",
+      "Cleveland"
+    ]
+  },
+  {
+    "source": "Thefutoncritic.com [NewsAPI]",
+    "url": "http://www.thefutoncritic.com/news/2025/08/18/netflix-releases-the-first-look-images-key-art-and-premiere-date-for-house-of-guinness-634014/20250818netflix01/",
+    "title": "Netflix Releases the First Look Images, Key Art and Premiere Date for \"House of Guinness\"",
+    "fetched_on": "2025-08-19T03:11:26.728622+00:00",
+    "content": "Netflix Releases the First Look Images, Key Art and Premiere Date for House of Guinness\r\nHouse of Guinness will premiere on Netflix on\r\nSeptember 25, 2025\r\nCredit: Ben Blackall \r\n·Today, Netflix rele… [+2875 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Images",
+      "Key",
+      "House",
+      "Guinness",
+      "Netflix",
+      "Releases",
+      "Art",
+      "Date",
+      "Premiere",
+      "Credit"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/upgrading-credit-cards/article69944231.ece",
+    "title": "Upgrading credit cards",
+    "fetched_on": "2025-08-19T03:11:26.728622+00:00",
+    "content": "As your income, spending habits and lifestyle change, the existing credit card may not suit current needs and requirements. In such situations, a credit card upgrade could be helpful.\r\nUpgrading mean… [+3902 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "income",
+      "spending",
+      "change",
+      "requirements",
+      "Upgrading",
+      "card",
+      "habits",
+      "lifestyle",
+      "existing"
+    ]
   }
 ]
