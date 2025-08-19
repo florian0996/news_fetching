@@ -509183,5 +509183,65 @@
       "NASA",
       "ESA"
     ]
+  },
+  {
+    "source": "On3.com [NewsAPI]",
+    "url": "https://www.on3.com/sites/inside-nebraska/news/how-jordan-ochoa-put-himself-position-factor-nebraskas-lb-room/",
+    "title": "How Jordan Ochoa positioned himself to be a factor in Nebraska’s Jack LB room",
+    "fetched_on": "2025-08-19T22:19:35.161794+00:00",
+    "content": "Nebraska redshirt freshman Jack linebacker Jordan Ochoa. (Photo credit: Nebraska Athletics)\r\nNebraska redshirt freshman Jordan Ochoa is making a move in the Jack linebacker room under position coach … [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nebraska",
+      "Jordan",
+      "Ochoa",
+      "Jack",
+      "redshirt",
+      "freshman",
+      "linebacker",
+      "room",
+      "Photo",
+      "Athletics"
+    ]
+  },
+  {
+    "source": "CryptoSlate [NewsAPI]",
+    "url": "https://cryptoslate.com/gemini-ipo-filing-reveals-ripple-credit-deal-282m-net-loss-in-2025/",
+    "title": "Gemini IPO filing reveals Ripple credit deal, $282M net loss in 2025",
+    "fetched_on": "2025-08-19T22:19:35.161794+00:00",
+    "content": "Gemini has filed for a Nasdaq IPO under the ticker GEMI, revealing a $282.5 million net loss for the first half of 2025.\r\nThe exchange also disclosed a $75 million credit agreement with Ripple in the… [+4696 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gemini",
+      "IPO",
+      "GEMI",
+      "net",
+      "loss",
+      "Nasdaq",
+      "Ripple",
+      "million",
+      "deal",
+      "revealing"
+    ]
+  },
+  {
+    "source": "Autoweek [NewsAPI]",
+    "url": "https://www.autoweek.com/news/green-cars/a65806467/2026-lucid-gravity-tax-credit-program/",
+    "title": "Lucid Will Keep $7,500 Tax Credit Going—for Those Leasing Gravity SUV",
+    "fetched_on": "2025-08-19T22:19:35.161794+00:00",
+    "content": "<ul><li>Lucid Motors will offer $7,500 tax credit, which expires at the end of September for all EVs, for lessees of the Gravity SUV through a special program.\r\n</li><li>TheGravity Advantage Credit i… [+3435 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Gravity",
+      "SUV",
+      "Lucid",
+      "Credit",
+      "Leasing",
+      "Motors",
+      "September",
+      "offer",
+      "EVs"
+    ]
   }
 ]
