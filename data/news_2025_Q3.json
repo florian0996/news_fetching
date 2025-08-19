@@ -509243,5 +509243,45 @@
       "offer",
       "EVs"
     ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/gaming/news/helldivers-2-super-credits-farming-strategy/",
+    "title": "The Best Super Credit Farming Strategy in Helldivers 2",
+    "fetched_on": "2025-08-19T23:19:17.237142+00:00",
+    "content": "In Helldivers 2, Super Credits are the beating heart of your progress. You’ll need a steady stream of this premium currency to unlock new weapons, armor, and utility gear for future dives. Unlike reg… [+4850 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Helldivers",
+      "Super",
+      "Farming",
+      "Strategy",
+      "Credit",
+      "Credits",
+      "progress",
+      "armor",
+      "beating",
+      "heart"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-killed-meredith-kercher-5435225/",
+    "title": "Who Killed Meredith Kercher? Inside the Case Involving Amanda Knox",
+    "fetched_on": "2025-08-19T23:19:17.237142+00:00",
+    "content": "View galleryImage Credit: PA Images via Getty Images\r\nMeredith Kercher was a 21-year-old British college student living in Perugia, Italy, until her life was brutally cut short in 2007. She was murde… [+2810 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Meredith",
+      "Kercher",
+      "Killed",
+      "Italy",
+      "Images",
+      "Credit",
+      "British",
+      "Perugia",
+      "Case",
+      "Involving"
+    ]
   }
 ]
