@@ -506509,5 +506509,105 @@
       "loan",
       "State"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sp-upgrade-to-indias-credit-rating-may-have-limited-market-impact-bofa-says/articleshow/123358693.cms",
+    "title": "S&P upgrade to India’s credit rating may have limited market impact, BofA says",
+    "fetched_on": "2025-08-19T07:20:03.327746+00:00",
+    "content": "S&amp;P Global Ratings first upgrade of Indias sovereign credit rating in 18 years may have limited positive impact on the market, Bank of America Securities said, even as the step bolsters the gover… [+2560 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "chars",
+      "rating",
+      "Global",
+      "America",
+      "Securities",
+      "credit",
+      "limited",
+      "India",
+      "Indias"
+    ]
+  },
+  {
+    "source": "Eyeoftheflyer.com [NewsAPI]",
+    "url": "https://eyeoftheflyer.com/2025/08/18/chase-sapphire-reserve-best-offer/",
+    "title": "Final Days: 100,000 Bonus Points and $500 Travel Credit",
+    "fetched_on": "2025-08-19T07:20:03.327746+00:00",
+    "content": "Advertiser Disclosure: Eye of the Flyer, a division of Chatterbox Entertainment, Inc., is part of an affiliate sales network and receives compensation for sending traffic to partner sites, such as Cr… [+5940 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Inc.",
+      "chars",
+      "Days",
+      "Bonus",
+      "Travel",
+      "Disclosure",
+      "Eye",
+      "Flyer",
+      "Entertainment",
+      "Points"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/small-loans-make-big-news-as-indian-microfinance-makes-strategic-shift/articleshow/123357432.cms",
+    "title": "Small loans make big news as Indian microfinance makes strategic shift",
+    "fetched_on": "2025-08-19T07:20:03.327746+00:00",
+    "content": "As India's microfinance landscape changes, the focus seems to be clearly shifting towards sustainable lending practices, with an emphasis on maintaining portfolio stability. The industry's recalibrat… [+2628 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indian",
+      "India",
+      "Small",
+      "practices",
+      "stability",
+      "microfinance",
+      "chars",
+      "loans",
+      "big",
+      "strategic"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/6-common-credit-card-mistakes-that-lead-to-debt-and-how-to-avoid-them-11755497696577.html",
+    "title": "6 common credit card mistakes that lead to debt and how to avoid them",
+    "fetched_on": "2025-08-19T07:20:03.327746+00:00",
+    "content": "Credit card debt is spiralling across the country, with outstanding dues reaching a staggering figure of 2.90 lakh crore by May 2025. This marks a sharp rise of 9% over just one year.\r\nAs the nations… [+4333 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "card",
+      "debt",
+      "common",
+      "country",
+      "lakh",
+      "mistakes",
+      "lead",
+      "avoid",
+      "spiralling"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/what-happens-to-your-credit-score-if-you-close-an-unused-credit-card-credit-card-closure-11755498116748.html",
+    "title": "What happens to your credit score if you close an unused credit card",
+    "fetched_on": "2025-08-19T07:20:03.327746+00:00",
+    "content": "Banks evaluate the rewards program for their existing credit cards regularly. They also keep launching new credit cards regularly based on the evolving customer preferences. So, a change in the rewar… [+10505 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks",
+      "credit",
+      "cards",
+      "regularly",
+      "score",
+      "close",
+      "unused",
+      "evaluate",
+      "rewards",
+      "program"
+    ]
   }
 ]
