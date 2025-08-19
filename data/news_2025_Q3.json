@@ -506429,5 +506429,85 @@
       "chars",
       "card"
     ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/spend/smart-ways-to-use-your-credit-card-reward-points-effectively/pay-off-your-credit-card-bill/slideshow/123357789.cms",
+    "title": "Smart ways to use your credit card reward points effectively",
+    "fetched_on": "2025-08-19T06:32:23.880361+00:00",
+    "content": "Aug 18, 2025, 12:00:25 PM IST\r\nMany banks allow you to convert your accumulated reward points into statement credit. This helps directly reduce your outstanding bill and is one of the most practical … [+727 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aug",
+      "IST",
+      "reward",
+      "points",
+      "credit",
+      "Smart",
+      "card",
+      "effectively",
+      "banks",
+      "convert"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8b7b6126cbacefd8",
+    "title": "Eerily calm credit markets face pockets of concern",
+    "fetched_on": "2025-08-19T06:32:23.880361+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Air Canada flight crew still striking? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did OpenAI staff sell $… [+752 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Air",
+      "Canada",
+      "Eerily",
+      "concern",
+      "striking"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/18/head-to-head-analysis-ellington-credit-nyseearn-versus-altisource-portfolio-solutions-nasdaqasps/",
+    "title": "Head-To-Head Analysis: Ellington Credit (NYSE:EARN) versus Altisource Portfolio Solutions (NASDAQ:ASPS)",
+    "fetched_on": "2025-08-19T06:32:23.880361+00:00",
+    "content": "Ellington Credit (NYSE:EARN – Get Free Report) and Altisource Portfolio Solutions (NASDAQ:ASPS – Get Free Report) are both small-cap finance companies, but which is the superior stock? We will contra… [+6264 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "EARN",
+      "NASDAQ",
+      "ASPS",
+      "Ellington",
+      "Credit",
+      "Solutions",
+      "Report",
+      "Portfolio",
+      "Free"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/sbi-home-loan-rate-hike-august-2025-impact-borrowers-banks-11755439904468.html",
+    "title": "Mint Explainer | SBI hikes home loan rates in a low-rate cycle—what does it mean?",
+    "fetched_on": "2025-08-19T06:32:23.880361+00:00",
+    "content": "MUMBAI: The countrys largest lender, State Bank of India (SBI), and fellow public sector major Union Bank of India have raised home loan interest rates by 1025 basis points, even as the broader inter… [+6477 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Explainer",
+      "SBI",
+      "MUMBAI",
+      "Bank",
+      "India",
+      "Mint",
+      "cycle",
+      "home",
+      "loan",
+      "State"
+    ]
   }
 ]
