@@ -507187,5 +507187,42 @@
       "Emich",
       "end"
     ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/106746/53-of-brits-report-credit-sunburn-increased-spending-during-summer",
+    "title": "53% of Brits report 'Credit Sunburn', increased spending during summer",
+    "fetched_on": "2025-08-19T11:17:33.352384+00:00",
+    "content": "As temperatures rise, so does spending. For millions across the UK, summer is the costliest season. New research from Creditspring reveals the regions most likely to overspend, as seasonal pressures … [+4847 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Sunburn",
+      "Brits",
+      "spending",
+      "report",
+      "increased",
+      "rise",
+      "summer",
+      "temperatures",
+      "chars"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2025/card/s-p-maintains-u-s-credit-rating-points-to-robust-tariff-income--3Z9QzyRfdlRtBzf5cu61?siteid=yhoof2&yptr=yahoo",
+    "title": "S&P Maintains U.S. Credit Rating, Points to 'Robust Tariff Income'",
+    "fetched_on": "2025-08-19T11:17:52.916191+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Maintains",
+      "Credit",
+      "Rating",
+      "Points",
+      "Robust",
+      "Income",
+      "Tariff"
+    ]
   }
 ]
