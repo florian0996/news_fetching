@@ -510127,5 +510127,105 @@
       "literacy",
       "curriculum"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/19/lpl-financial-llc-has-2-45-million-position-in-oaktree-specialty-lending-corp-ocsl/",
+    "title": "LPL Financial LLC Has $2.45 Million Position in Oaktree Specialty Lending Corp. $OCSL",
+    "fetched_on": "2025-08-20T07:20:24.323356+00:00",
+    "content": "LPL Financial LLC increased its holdings in shares of Oaktree Specialty Lending Corp. (NASDAQ:OCSL – Free Report) by 49.4% in the 1st quarter, Holdings Channel.com reports. The firm owned 159,341 sha… [+5031 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Corp",
+      "Million",
+      "Financial",
+      "Specialty",
+      "Lending",
+      "LPL",
+      "LLC",
+      "Oaktree",
+      "Position",
+      "OCSL"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/19/wall-street-zen-downgrades-lendingtree-nasdaqtree-to-buy/",
+    "title": "Wall Street Zen Downgrades LendingTree (NASDAQ:TREE) to Buy",
+    "fetched_on": "2025-08-20T07:20:24.323356+00:00",
+    "content": "Wall Street Zen lowered shares of LendingTree (NASDAQ:TREE – Free Report) from a strong-buy rating to a buy rating in a research note released on Monday.\r\nSeveral other research firms have also recen… [+4515 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "TREE",
+      "Street",
+      "Zen",
+      "Wall",
+      "Free",
+      "Report",
+      "Monday",
+      "LendingTree",
+      "Buy"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2025/08/19/south-korea-tells-crypto-firms-to-stop-launching-new-lending-products-as-leverage-risk-builds",
+    "title": "South Korea Tells Crypto Firms to Stop Launching New Lending Products as Leverage Risk Builds",
+    "fetched_on": "2025-08-20T07:20:24.323356+00:00",
+    "content": "South Koreas Financial Services Commission (FSC) has ordered exchanges to suspend new crypto lending products until formal guidelines are in place, citing mounting risks to users and market stability… [+2332 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FSC",
+      "South",
+      "Lending",
+      "Products",
+      "Commission",
+      "chars",
+      "Crypto",
+      "Firms",
+      "Stop",
+      "Launching"
+    ]
+  },
+  {
+    "source": "Inside Higher Ed [NewsAPI]",
+    "url": "https://www.insidehighered.com/news/government/student-aid-policy/2025/08/19/new-dept-ed-rule-limits-public-service-loan",
+    "title": "New PSLF Rule Could Limit Debt Relief Access for Thousands",
+    "fetched_on": "2025-08-20T07:20:24.323356+00:00",
+    "content": "Proposed changes to a key student loan forgiveness program could lead to thousands of borrowers losing access, institutional lobbyists and student advocates say. In their view, the new policy would u… [+7681 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Access",
+      "Thousands",
+      "PSLF",
+      "Rule",
+      "Limit",
+      "Debt",
+      "Relief",
+      "Proposed",
+      "institutional",
+      "student"
+    ]
+  },
+  {
+    "source": "Live Science [NewsAPI]",
+    "url": "https://www.livescience.com/planet-earth/volcanos/supervolcanic-hell-caldera-in-japan-is-home-to-17-different-volcanoes-earth-from-space",
+    "title": "Supervolcanic 'hell' caldera in Japan is home to 17 different volcanoes — Earth from space",
+    "fetched_on": "2025-08-20T07:20:24.323356+00:00",
+    "content": "The Aso Crater \"supervolcano\" contains a cluster of central volcanoes surrounded by urban and agricultural land, which is further encircled by a giant ring of rocky ridges. (Image credit: NASA/ISS pr… [+4428 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Supervolcanic",
+      "hell",
+      "supervolcano",
+      "Earth",
+      "Crater",
+      "Japan",
+      "Aso",
+      "NASA",
+      "caldera",
+      "land"
+    ]
   }
 ]
