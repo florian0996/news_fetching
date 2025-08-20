@@ -510227,5 +510227,145 @@
       "caldera",
       "land"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/trump-tariffs-seal-approval-p-044755031.html",
+    "title": "Trump Tariffs Get Seal of Approval as S&P Affirms Credit Rating",
+    "fetched_on": "2025-08-20T08:27:58.213665+00:00",
+    "content": "(Bloomberg) -- S&amp;P Global Ratings said revenues from Donald Trumps tariffs will help soften the blow to the USs fiscal health from the presidents tax cuts, enabling it to maintain its current cre… [+4020 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Tariffs",
+      "chars",
+      "Seal",
+      "Approval",
+      "Affirms",
+      "Credit",
+      "Global",
+      "Donald",
+      "cuts"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/india-exim-bank-signs-40-million-credit-line-deal-with-africas-ecowas-bank/article69950763.ece",
+    "title": "India Exim Bank signs $40 million credit line deal with Africa’s ECOWAS Bank",
+    "fetched_on": "2025-08-20T08:27:58.213665+00:00",
+    "content": "The Export-Import Bank of India (India Exim Bank) and the ECOWAS Bank for Investment and Development (EBID) have signed a commercial credit line agreement of $40 million. \r\nThis agreement is aimed at… [+1102 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Exim",
+      "India",
+      "ECOWAS",
+      "EBID",
+      "Development",
+      "million",
+      "Africa",
+      "Investment",
+      "credit"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/xiaomi-might-give-you-reason-to-wait-before-you-grab-that-galaxy-or-pixel_id173329",
+    "title": "Xiaomi might give you a reason to wait before you grab that Galaxy or Pixel",
+    "fetched_on": "2025-08-20T08:27:58.213665+00:00",
+    "content": "Xiaomi 14T Pro. | Image credit PhoneArena\r\nXiaomi is gearing up to unveil its next T-series lineup the Xiaomi 15T and 15T Pro with the launch likely happening next month. And if youve been eyeing one… [+3284 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Xiaomi",
+      "Pro",
+      "Galaxy",
+      "Pixel",
+      "Image",
+      "give",
+      "reason",
+      "wait",
+      "grab",
+      "T-series"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/credit-unions/2025/churn-sparks-reinvention-as-credit-unions-race-to-meet-gen-z/",
+    "title": "Churn Sparks Reinvention as Credit Unions Race to Meet Gen Z",
+    "fetched_on": "2025-08-20T08:27:58.213665+00:00",
+    "content": "While many credit unions historically relied on strong community ties and personalized service, the youngest generation of members is increasingly eyeing the exit, demanding a digital-first experienc… [+2953 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Credit",
+      "Unions",
+      "Sparks",
+      "Reinvention",
+      "Race",
+      "Meet",
+      "Gen",
+      "Churn",
+      "service"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/business/2025/08/19/ripple-extends-usd75m-credit-facility-to-gemini-as-exchange-pursues-ipo",
+    "title": "Ripple Extends $75M Credit Facility to Gemini as Exchange Pursues IPO",
+    "fetched_on": "2025-08-20T08:27:58.213665+00:00",
+    "content": "Shaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.\r\nShaurya holds over $1,000 in BTC, ETH, S… [+467 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DeFi",
+      "Extends",
+      "Credit",
+      "Facility",
+      "Gemini",
+      "Exchange",
+      "Pursues",
+      "IPO",
+      "Asia",
+      "ETH"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7316585deadb6ff0",
+    "title": "South Korea Tells Crypto Firms to Stop Launching New Lending Products as Leverage Risk Builds",
+    "fetched_on": "2025-08-20T08:27:58.213665+00:00",
+    "content": "South Koreas Financial Services Commission (FSC) has ordered exchanges to suspend new crypto lending products until formal guidelines are in place, citing mounting risks to users and market stability… [+142 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FSC",
+      "South",
+      "Lending",
+      "Products",
+      "Commission",
+      "chars",
+      "Crypto",
+      "Firms",
+      "Stop",
+      "Launching"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4b07e4e40558c987",
+    "title": "S&P Reaffirms US Credit Rating Amid 'Meaningful Tariff Revenue,' But Says Fed Independence Key To Long-Term Outlook",
+    "fetched_on": "2025-08-20T08:27:58.213665+00:00",
+    "content": "S&amp;P Global has reaffirmed the AA+ credit rating for the U.S. The decision is largely based on the anticipated tariff revenue that is expected to counterbalance the fiscal impact of President Dona… [+151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Rating",
+      "Tariff",
+      "Revenue",
+      "Amid",
+      "Meaningful",
+      "Dona",
+      "chars",
+      "Reaffirms",
+      "Fed"
+    ]
   }
 ]
