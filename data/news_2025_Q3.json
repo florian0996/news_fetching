@@ -513713,5 +513713,105 @@
       "Copyright",
       "comments"
     ]
+  },
+  {
+    "source": "Las Vegas Review-Journal [NewsAPI]",
+    "url": "https://www.reviewjournal.com/post/3426600",
+    "title": "Rio casino-resort off Las Vegas Strip closes $176 million loan for renovations",
+    "fetched_on": "2025-08-20T23:18:51.698416+00:00",
+    "content": "Dreamscape Companies has received a $176.5 million loan for its recently renovated 2,520-room Rio casino-hotel in Las Vegas.\r\nAtlanta-based Peachtree Group originated the retroactive Commercial Prope… [+1535 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "million",
+      "Las",
+      "Vegas",
+      "Rio",
+      "loan",
+      "Strip",
+      "Dreamscape",
+      "Companies",
+      "closes",
+      "renovated"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/finca-style-coastal",
+    "title": "Rustic Coastal Retreats - A Finca Style Coastal Hideaway Blending Heritage with Modern Warmth (TrendHunter.com)",
+    "fetched_on": "2025-08-20T23:18:51.698416+00:00",
+    "content": "This finca style coastal hideaway reimagines Ibizas traditional farmhouse architecture with contemporary elegance. Designed with classic whitewashed cubic forms, thick stone walls, and shaded terrace… [+902 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coastal",
+      "Style",
+      "Finca",
+      "Hideaway",
+      "Retreats",
+      "Warmth",
+      "TrendHunter.com",
+      "Blending",
+      "Heritage",
+      "Modern"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/credit-cards/bmo-escape-credit-card-launches#article",
+    "title": "New BMO Escape Card: Travel Perks for a $150 Annual Fee",
+    "fetched_on": "2025-08-20T23:18:51.698416+00:00",
+    "content": "BMO, the Canadian-founded bank, has added a new travel option to its portfolio of credit cards. Launched on Aug. 18, 2025, the BMO Escape Credit Card charges a $150 annual fee and features a metal de… [+2948 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BMO",
+      "Annual",
+      "Travel",
+      "Escape",
+      "Perks",
+      "Canadian-founded",
+      "Fee",
+      "credit",
+      "Card",
+      "bank"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/45e9c25b2a93da16",
+    "title": "Nvidia-Backed AI Cloud Startup Lambda Closes $275 Million Credit Facility",
+    "fetched_on": "2025-08-20T23:18:51.698416+00:00",
+    "content": "Artificial intelligence (AI) cloud startup Lambda said Tuesday (Aug. 19) that it has closed a $275 million senior secured credit facility, led and arranged by JPMorgan.\r\n[contact-form-7]\r\nThe Nvidia-… [+138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aug.",
+      "Lambda",
+      "Startup",
+      "Million",
+      "Closes",
+      "Tuesday",
+      "Cloud",
+      "Credit",
+      "Facility",
+      "Artificial"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/why-credit-card-apr-so-high-222209877.html",
+    "title": "Why are credit card APRs so high?",
+    "fetched_on": "2025-08-20T23:18:51.698416+00:00",
+    "content": "Whether you carry a balance or not, youve likely noticed your high your credit card interest rates. With current APRs\r\n well above 20% on average, people who carry a balance could be left with higher… [+6997 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "card",
+      "high",
+      "carry",
+      "balance",
+      "APRs",
+      "chars",
+      "youve",
+      "rates",
+      "average"
+    ]
   }
 ]
