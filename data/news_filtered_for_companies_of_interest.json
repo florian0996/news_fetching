@@ -1,6 +1,24 @@
 {
-  "2025-08-19": {
+  "2025-08-20": {
     "status": "no company in the news"
+  },
+  "2025-08-19": {
+    "articles": [
+      {
+        "title": "Deutsche Bank AG Trims Stock Holdings in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/08/18/deutsche-bank-ag-trims-stock-holdings-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub (NYSE:LC) & Mitsubishi HC Capital (OTCMKTS:MIUFY) Critical Contrast",
+        "url": "https://www.etfdailynews.com/2025/08/18/lendingclub-nyselc-mitsubishi-hc-capital-otcmktsmiufy-critical-contrast/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-08-18": {
     "status": "no company in the news"
