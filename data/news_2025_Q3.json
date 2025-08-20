@@ -509827,5 +509827,105 @@
       "chars",
       "supplier"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c536b71d3a38cc32",
+    "title": "S&P affirms US 'AA+' credit rating, cites tariff revenue",
+    "fetched_on": "2025-08-20T05:20:32.189167+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Air Canada flight attendants strike illegal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will SoftBank's I… [+768 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Air",
+      "Canada",
+      "credit",
+      "rating",
+      "cites"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/interchange-fee-in-credit-cards-how-it-works-and-impacts-customers-11755578675148.html",
+    "title": "Interchange fee in credit cards: How it works and impacts customers",
+    "fetched_on": "2025-08-20T05:20:32.189167+00:00",
+    "content": "If you are a credit card user, you would have come across a number of terms that explain the various charges, financial parameters, and key metrics associated with it. But do you know what an interch… [+5343 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "Interchange",
+      "user",
+      "charges",
+      "financial",
+      "parameters",
+      "cards",
+      "card",
+      "fee",
+      "works"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18539614-evgo-mobile-app-5-electric-vehicle-charging-credit-free",
+    "title": "EVgo Mobile App: $5 Electric Vehicle Charging Credit Free",
+    "fetched_on": "2025-08-20T05:20:32.189167+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "App",
+      "Electric",
+      "tips",
+      "Mobile",
+      "Vehicle",
+      "Charging",
+      "Credit",
+      "EVgo",
+      "information",
+      "post"
+    ]
+  },
+  {
+    "source": "Globalsecurity.org [NewsAPI]",
+    "url": "https://www.globalsecurity.org/wmd/library/news/china/2025/08/china-250819-pdo02.htm",
+    "title": "Monetary easing to persist in near term",
+    "fetched_on": "2025-08-20T05:20:32.189167+00:00",
+    "content": "People's Daily Online\r\nBy ZHOU LANXU (China Daily) 09:49, August 19, 2025\r\nChina's monetary conditions are likely to remain reasonably accommodative in the coming months, continuing to support credit… [+3737 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "August",
+      "Daily",
+      "LANXU",
+      "09:49",
+      "chars",
+      "People",
+      "Online",
+      "ZHOU",
+      "Monetary"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8663c9cf63b975f0",
+    "title": "South Korea orders exchanges to halt crypto lending services until new guidelines established",
+    "fetched_on": "2025-08-20T05:20:32.189167+00:00",
+    "content": "South Korea's Financial Services Commission said crypto lending services exist in a legal gray area and could result in user losses.\r\nThis story appeared on theblock.co, 2025-08-19 04:29:54.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Korea",
+      "services",
+      "South",
+      "lending",
+      "Financial",
+      "Commission",
+      "crypto",
+      "losses",
+      "orders",
+      "exchanges"
+    ]
   }
 ]
