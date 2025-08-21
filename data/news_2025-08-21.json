@@ -43,7 +43,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-20/rappi-secures-100-million-loan-from-santander-private-credit",
     "title": "Rappi Secures $100 Million Loan From Santander, Private Credit",
-    "fetched_on": "2025-08-21T09:22:50.003827+00:00",
+    "fetched_on": "2025-08-21T10:22:01.878503+00:00",
     "content": "Rappi Inc., one of Latin America\u2019s most valuable startups, secured a $100 million loan from Banco Santander and Kirkoswald Capital Partners, marking its largest debt financing since the Colombian delivery startup\u2019s founding a decade ago.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-08-21T09:22:54.701652+00:00",
+    "fetched_on": "2025-08-21T10:22:06.892967+00:00",
     "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
@@ -560,30 +560,30 @@
     ]
   },
   {
-    "source": "CNBC Markets [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2025/08/20/alaska-airlines-credit-card-atmos-frequent-flyer-program.html",
     "title": "Alaska Airlines launches $395 credit card in premium travel race, combines loyalty program with Hawaiian",
-    "fetched_on": "2025-08-21T04:25:06.142464+00:00",
-    "content": "Alaska will join other airlines in raising the requirements to earn elite status.",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "Alaska Airlines is getting into the industry's race for high-end credit cards and creating a combined frequent flyer program, called Atmos, with Hawaiian Airlines, which it acquired last year.\r\nThe $\u2026 [+3654 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "Alaska",
       "Airlines",
       "Hawaiian",
-      "launches",
+      "Alaska",
+      "Atmos",
       "credit",
       "race",
+      "program",
+      "launches",
       "combines",
-      "status",
-      "card",
-      "premium"
+      "called"
     ]
   },
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/08/13/weekly-mortgage-refinancing-shoots-23percent-higher.html",
     "title": "Weekly mortgage refinancing demand shoots 23% higher, with riskier loans making a comeback",
-    "fetched_on": "2025-08-21T09:23:04.562949+00:00",
+    "fetched_on": "2025-08-21T10:22:17.664692+00:00",
     "content": "Mortgage rates dropped again last week, spurring big demand for mortgage refinancing. ARM loans also increased, as they offer lower rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/fed-holds-interest-rates-steady-what-that-means-for-your-money.html",
     "title": "Fed holds interest rates steady: What that means for car loans, credit cards, mortgages and more",
-    "fetched_on": "2025-08-21T09:23:04.563019+00:00",
+    "fetched_on": "2025-08-21T10:22:17.664809+00:00",
     "content": "From credit cards, car loans, mortgages, savings and student debt,\u00a0here's how the Federal Reserve's interest-rate decision influences your wallet.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/08/ev-sales-trump-tax-credit.html",
     "title": "EV sales soar as Trump axes $7,500 tax credit: 'People are rushing out' to buy, analyst says",
-    "fetched_on": "2025-08-21T09:23:04.825334+00:00",
+    "fetched_on": "2025-08-21T10:22:17.937179+00:00",
     "content": "Consumers are acting ahead of a fast-approaching Sept. 30 deadline to claim the tax break for electric vehicles.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/20/student-loan-forgiveness-still-unavailable-on-ibr-plan.html",
     "title": "Student loan forgiveness remains unavailable under popular repayment plan",
-    "fetched_on": "2025-08-21T09:23:04.825113+00:00",
+    "fetched_on": "2025-08-21T10:22:17.936935+00:00",
     "content": "Student loan borrowers enrolled in a popular repayment plan remain blocked from debt forgiveness. Here's what to know about the delays.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/18/trump-public-service-loan-forgiveness-pslf-eligibility.html",
     "title": "Trump administration moves to 'prevent benefits' for some under popular student loan forgiveness program",
-    "fetched_on": "2025-08-21T09:23:04.825157+00:00",
+    "fetched_on": "2025-08-21T10:22:17.936985+00:00",
     "content": "The Trump administration says that its proposed changes to Public Service Loan Forgiveness \"may delay or prevent forgiveness for a subset of borrowers.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/15/student-loan-forgiveness-trump-pslf-backlog.html",
     "title": "46-year-old woman is weeks away from student loan forgiveness but stuck in Trump-era backlog",
-    "fetched_on": "2025-08-21T09:23:04.825194+00:00",
+    "fetched_on": "2025-08-21T10:22:17.937033+00:00",
     "content": "Tens of thousands of student loan borrowers who are likely eligible for Public Service Loan Forgiveness are stuck in limbo. CNBC spoke to three of them.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/15/public-service-loan-forgiveness-buyback-has-a-72730-person-backlog.html",
     "title": "Student loan forgiveness program has a 72,730-person backlog. Here's what borrowers need to know",
-    "fetched_on": "2025-08-21T09:23:04.825201+00:00",
+    "fetched_on": "2025-08-21T10:22:17.937041+00:00",
     "content": "Many student loan borrowers have likely heard about or experienced issues with the Public Service Loan Forgivness 'Buyback' program. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/13/older-student-loan-delinquencies-under-trump.html",
     "title": "Nearly 1 in 5 older student loan borrowers are seriously delinquent as Trump steps up collections",
-    "fetched_on": "2025-08-21T09:23:04.825255+00:00",
+    "fetched_on": "2025-08-21T10:22:17.937101+00:00",
     "content": "There's still time for older student loan borrowers who are behind on their bills to avoid default, and garnishment of their retirement benefits and wages.",
     "platforms_mentioned": [],
     "keywords": [
@@ -763,7 +763,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/12/bad-credit-score-subprime-tax.html",
     "title": "Bad credit triggers a 'subprime tax,' Bankrate says \u2014 over decades, it can cost borrowers $100,000",
-    "fetched_on": "2025-08-21T09:23:04.825290+00:00",
+    "fetched_on": "2025-08-21T10:22:17.937136+00:00",
     "content": "A credit score of 620 and below can cost Americans roughly $3,400 annually in interest and high premiums, a report found. Here's how to improve your credit.",
     "platforms_mentioned": [],
     "keywords": [
@@ -783,7 +783,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/11/travel-credit-card-annual-fee.html",
     "title": "Travel card benefits are 'getting harder to maximize,' analyst says. What to know before you apply",
-    "fetched_on": "2025-08-21T09:23:04.825296+00:00",
+    "fetched_on": "2025-08-21T10:22:17.937143+00:00",
     "content": "Travel credit cards may be worth the cost as long as it fits your lifestyle. Otherwise, it may not make sense to have an expensive credit card in your wallet.",
     "platforms_mentioned": [],
     "keywords": [
@@ -803,7 +803,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/09/using-buy-now-pay-later-bnpl-loans-for-concert-tickets.html",
     "title": "Some concertgoers use buy now, pay later loans for tickets. Start a 'Beyonc\u00e9 fund' instead, analyst says",
-    "fetched_on": "2025-08-21T09:23:04.825317+00:00",
+    "fetched_on": "2025-08-21T10:22:17.937164+00:00",
     "content": "Some younger Americans are using buy now, pay later loans to pay for the costs of attending concerts and other live events.",
     "platforms_mentioned": [],
     "keywords": [
@@ -840,7 +840,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/does-debt-consolidation-hurt-your-credit-145259040.html",
     "title": "Does debt consolidation hurt your credit?",
-    "fetched_on": "2025-08-21T09:23:05.001567+00:00",
+    "fetched_on": "2025-08-21T10:22:18.286656+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1150,7 +1150,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/mortgages/article/va-loan-175400049.html",
     "title": "What is a VA loan, and what are the requirements to qualify?",
-    "fetched_on": "2025-08-21T09:23:05.001586+00:00",
+    "fetched_on": "2025-08-21T10:22:18.286371+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1163,7 +1163,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-20/kenya-in-talks-with-china-to-convert-dollar-loans-into-yuan-debt",
     "title": "Kenya, China in Talks to Convert Dollar Loans Into Yuan Debt",
-    "fetched_on": "2025-08-21T09:22:50.081735+00:00",
+    "fetched_on": "2025-08-21T10:22:02.026810+00:00",
     "content": "Kenya is in talks with China to convert dollar-denominated debt the East African nation owes its biggest bilateral lender to yuan and extend the repayment period, Treasury Secretary John Mbadi said.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1182,8 +1182,8 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-21/kenya-plans-to-refinance-more-eurobonds-renegotiate-bank-loans",
-    "title": "Kenya Plans to Refinance More Eurobonds, Renegotiate Bank Loans",
-    "fetched_on": "2025-08-21T09:22:49.730092+00:00",
+    "title": "Kenya Plans to Refinance Eurobonds, Renegotiate Bank Loans",
+    "fetched_on": "2025-08-21T10:22:01.510634+00:00",
     "content": "Kenya plans to refinance several eurobonds falling due over the next nine years to help spread out repayments, according to Treasury Secretary John Mbadi.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1303,7 +1303,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/banking/article/raise-credit-score-100-points-overnight-190954457.html",
     "title": "Can you raise your credit score by 100 points overnight?",
-    "fetched_on": "2025-08-21T09:23:05.001663+00:00",
+    "fetched_on": "2025-08-21T10:22:18.286501+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1398,7 +1398,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-21/singapore-to-launch-insolvency-arbitration-protocol-next-week",
     "title": "Singapore to Launch Insolvency Arbitration Protocol Next Week",
-    "fetched_on": "2025-08-21T09:22:49.729996+00:00",
+    "fetched_on": "2025-08-21T10:22:01.510848+00:00",
     "content": "Singapore will launch an arbitration framework next week for resolving restructuring, debt and insolvency disputes, offering businesses and creditors an alternative to traditional court processes.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1418,7 +1418,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-08-21/daybreak-europe-8-21-2025-video",
     "title": "Trump Presses Fed\u2019s Cook to Quit After Mortgage Fraud Allegation | Daybreak Europe 8/21/2025",
-    "fetched_on": "2025-08-21T09:22:49.892697+00:00",
+    "fetched_on": "2025-08-21T10:22:01.772776+00:00",
     "content": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nOn today's show, President Donald Trump called on Federal Reserve Governor Lisa Cook to resign after Federal Housing Finance Agency Director Bill Pulte urged an investigation of Cook's mortgages.\nPulte alleges that Cook \"falsified bank documents and property records to acquire more favorable loan terms, potentially committing mortgage fraud under the criminal statute\".\nNo charges have been filed and it\u2019s not clear whether Bondi will investigate. The Justice Department declined comment. The Fed declined comment. Cook did not respond to requests for comment late Tuesday.\u00a0\n\nToday's guest: Melanie Debono, Pantheon Macroeconomics Senior Europe Economist  (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -1558,7 +1558,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/student-loans/article/new-student-loan-repayment-after-trumps-budget-bill-194508401.html",
     "title": "What student loan repayment will look like after Trump's budget bill",
-    "fetched_on": "2025-08-21T09:23:05.001621+00:00",
+    "fetched_on": "2025-08-21T10:22:18.286526+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1574,7 +1574,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/banking/article/credit-unions-anyone-can-join-170123360.html",
     "title": "7 credit unions anyone can join",
-    "fetched_on": "2025-08-21T09:23:05.001604+00:00",
+    "fetched_on": "2025-08-21T10:22:18.286467+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1587,7 +1587,7 @@
     "source": "Haaretz [NewsAPI]",
     "url": "https://www.haaretz.com/israel-news/2025-08-20/ty-article/.premium/trump-says-netanyahu-a-war-hero-despite-attempts-to-put-him-in-jail/00000198-c645-d1e9-abf9-df7760250000",
     "title": "Trump says Netanyahu a 'war hero' despite attempts to 'put him in jail'",
-    "fetched_on": "2025-08-21T09:22:49.163887+00:00",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
     "content": "U.S. President Donald Trump took credit for the release of Israeli hostages, calling himself and Israeli Prime Minister Benjamin Netanyahu \"war heroes,\" during an interview on Tuesday on the Mark Lev\u2026 [+7 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1607,7 +1607,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/38aa9ed31a236746",
     "title": "Better Data Turns Small Business Loans From Problem to Profit",
-    "fetched_on": "2025-08-21T09:22:49.163887+00:00",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
     "content": "For decades, small business lending was bankings problem child.\r\n[contact-form-7]\r\nLoans to mom-and-pop shops and mid-size firms were seen as marginally profitable at best, and too risky at worst. At\u2026 [+136 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1627,7 +1627,7 @@
     "source": "NPR [NewsAPI]",
     "url": "https://www.npr.org/2025/08/20/g-s1-81561/guster-tiny-desk-concert",
     "title": "Guster: Tiny Desk Concert",
-    "fetched_on": "2025-08-21T09:22:49.163887+00:00",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
     "content": "Credit: Photo: Maansi Srivastava\r\nThe first time I saw Guster\r\n, the three members of the group, Adam Gardner, Ryan Miller and Brian Rosenworcel, were busking in a vacant storefront in Harvard Square\u2026 [+2822 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1667,7 +1667,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/why-credit-card-apr-so-high-222209877.html",
     "title": "Why are credit card APRs so high?",
-    "fetched_on": "2025-08-21T09:23:05.001695+00:00",
+    "fetched_on": "2025-08-21T10:22:18.286297+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1675,6 +1675,246 @@
       "credit",
       "card",
       "APRs"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6b083b740a730b63",
+    "title": "Neuberger Berman Launches First Private Credit Interval Fund",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Asia stocks tumble after US tech selloff? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will US steel tarif\u2026 [+738 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Fund",
+      "return",
+      "false",
+      "Berman",
+      "Launches",
+      "Private",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4b197c8a076a5d68",
+    "title": "Alaska Airlines launches $395 credit card in premium travel race, combines loyalty program with Hawaiian",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "Alaska Airlines is getting into the industry's race for high-end credit cards and creating a combined frequent flyer program, called Atmos, with Hawaiian Airlines, which it acquired last year.The $39\u2026 [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airlines",
+      "Hawaiian",
+      "Alaska",
+      "Atmos",
+      "chars",
+      "credit",
+      "launches",
+      "combines",
+      "called",
+      "year.The"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/news/live/google-pixel-10-launch-made-by-google-event",
+    "title": "Pixel 10 launch live \u2013 last-minute rumors ahead of today's Made by Google event",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "(Image credit: Future / Google)\r\nThe next Made by Google event, where the search giant shows off its latest hardware, will take place today (August 20) at 10pm PT / 1pm ET and 6pm UK time, and 3am on\u2026 [+840 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "Future",
+      "August",
+      "event",
+      "Made",
+      "Image",
+      "Pixel",
+      "chars",
+      "today",
+      "launch"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/2edcc47346328038",
+    "title": "HELOC rates today, August 20, 2025: Consistently below 9%",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "HELOC rates today remain under 9%. A home equity line of credit has an introductory rate, with a variable interest rate that follows. Your beginning rate, offered for six months or one year, can be m\u2026 [+152 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "August",
+      "Consistently",
+      "today",
+      "rate",
+      "rates",
+      "remain",
+      "chars",
+      "home",
+      "equity"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/robin-taylor-zander-talks-about-his-new-solo-music-and-the-digital-age/article",
+    "title": "Robin Taylor Zander talks about his new solo music and the digital age",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "Robin Taylor Zander. Photo Credit: Jay Gilbert and Chris Schmitt\r\nRobin Taylor Zander chatted about his new solo music, and he shared that he takes cues from his father, veteran rock musician Robin Z\u2026 [+2451 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Taylor",
+      "Robin",
+      "Zander",
+      "solo",
+      "music",
+      "talks",
+      "digital",
+      "age",
+      "Credit",
+      "Jay"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/travel/is-the-alaska-airlines-atmos-summit-card-worth-its-annual-fee#article",
+    "title": "Is the New Alaska Atmos Summit Card Worth a $395 Annual Fee?",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "Alaska Airlines just entered the premium credit card space with the release of the Atmos Rewards Summit Visa Infinite\u00ae Credit Card and for the airline's frequent flyers, it could be a great deal. The\u2026 [+9572 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "Annual",
+      "Fee",
+      "Worth",
+      "Atmos",
+      "Summit",
+      "Alaska",
+      "credit",
+      "Infinite",
+      "Rewards"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/credit-cards/alaska-airlines-launches-atmos-rewards-summit#article",
+    "title": "Alaska Airlines Launches $395 Premium Card, New Atmos Loyalty Program",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "Bank of America\u00ae has added a second Alaska Airlines consumer credit card to its portfolio, targeting flyers seeking a more luxurious experience. At the same time, Alaska Airlines and Hawaiian Airline\u2026 [+6154 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airlines",
+      "Alaska",
+      "Launches",
+      "Premium",
+      "America",
+      "Card",
+      "Atmos",
+      "Loyalty",
+      "Program",
+      "Bank"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/08/20/3136261/0/en/Jiayin-Group-Inc-Reports-Second-Quarter-2025-Unaudited-Financial-Results.html",
+    "title": "Jiayin Group Inc. Reports Second Quarter 2025 Unaudited Financial Results",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "-- Second Quarter Total Loan Facilitation Volume Grew 54.6% to RMB37.1 billion ---- Second Quarter Net Revenue Grew 27.8% to RMB1,886.2 million --\r\nSHANGHAI, China, Aug. 20, 2025 (GLOBE NEWSWIRE) -- \u2026 [+29162 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Quarter",
+      "Group",
+      "Grew",
+      "Jiayin",
+      "SHANGHAI",
+      "China",
+      "Aug.",
+      "Unaudited",
+      "Results",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/ramseyqubein/2025/08/20/new-alaska-airlines-premium-credit-card-transfer-bonuses-and-other-perks-for-fall/",
+    "title": "New Alaska Airlines Premium Credit Card, Transfer Bonuses And Other Perks For Fall",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "An Alaska Airlines Boeing 737 landing at Portland International Airport\r\ngetty\r\nNot only is Alaska Airlines launching a new premium credit card, but it is overhauling its Mileage Plan loyalty program\u2026 [+5625 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alaska",
+      "Airlines",
+      "Card",
+      "Credit",
+      "Premium",
+      "Transfer",
+      "Boeing",
+      "chars",
+      "Bonuses",
+      "Perks"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/gallery-41-great-photos-pfa-awards",
+    "title": "Gallery: 41 great photos from the PFA Awards",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "Copyright 2025 The Arsenal Football Club Limited. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Limited",
+      "Gallery",
+      "PFA",
+      "Awards",
+      "Arsenal",
+      "Football",
+      "Club",
+      "great",
+      "photos"
+    ]
+  },
+  {
+    "source": "Rigzone [NewsAPI]",
+    "url": "https://www.rigzone.com/news/philippines_working_on_carbon_credit_policy_for_energy_sector-20-aug-2025-181529-article/",
+    "title": "Philippines Working on Carbon Credit Policy for Energy Sector",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "The Philippine Department of Energy (DOE) said it is crafting a carbon credit policy for the energy sector to ensure integrity in prospective carbon trading mechanisms and drive investment in clean e\u2026 [+2811 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Energy",
+      "DOE",
+      "Credit",
+      "Policy",
+      "Carbon",
+      "Sector",
+      "chars",
+      "Working",
+      "Department",
+      "Philippines"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/companies/hudco-plans-to-swap-costly-foreign-loans-with-cheaper-rupee-debt-tightens-hedging-playbook/article69955015.ece",
+    "title": "\u200bHUDCO plans to swap costly foreign loans with cheaper rupee debt; tightens hedging playbook",
+    "fetched_on": "2025-08-21T10:22:00.722462+00:00",
+    "content": "Housing and Urban Development Corporation Ltd (HUDCO) is reworking its borrowing and risk strategy, with plans to refinance expensive foreign loans through cheaper rupee borrowings. It is also tighte\u2026 [+3223 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HUDCO",
+      "Housing",
+      "Urban",
+      "Development",
+      "Corporation",
+      "plans",
+      "foreign",
+      "loans",
+      "cheaper",
+      "rupee"
     ]
   }
 ]
