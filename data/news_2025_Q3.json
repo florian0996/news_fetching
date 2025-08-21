@@ -514313,5 +514313,85 @@
       "prime",
       "Credit"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/20/open-lending-corporation-nasdaqlpro-receives-3-10-average-pt-from-analysts/",
+    "title": "Open Lending Corporation (NASDAQ:LPRO) Receives $3.10 Average PT from Analysts",
+    "fetched_on": "2025-08-21T05:20:46.028102+00:00",
+    "content": "Shares of Open Lending Corporation (NASDAQ:LPRO – Get Free Report) have received a consensus recommendation of “Moderate Buy” from the six research firms that are covering the company, MarketBeat Rat… [+3933 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "LPRO",
+      "Corporation",
+      "Receives",
+      "Lending",
+      "chars",
+      "Average",
+      "Report",
+      "Moderate",
+      "Buy"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/deutsche-bank-chief-faces-scrutiny-about-role-in-risky-trades-over-a-decade-ago-11755666082566.html",
+    "title": "Deutsche Bank chief faces scrutiny about role in risky trades over a decade ago",
+    "fetched_on": "2025-08-21T05:20:46.028102+00:00",
+    "content": "* \r\n CEO Sewing credited with cleaning up scandal-ridden bank \r\n * \r\n Ex-banker sues Deutsche, claiming he was scapegoat for risky deals \r\n * \r\n Allegations prompt Deutsche to review case, person fam… [+6217 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deutsche",
+      "CEO",
+      "Ex-banker",
+      "Allegations",
+      "chars",
+      "Bank",
+      "Sewing",
+      "risky",
+      "ago",
+      "claiming"
+    ]
+  },
+  {
+    "source": "Insurance Journal [NewsAPI]",
+    "url": "https://www.insurancejournal.com/news/west/2025/08/20/836320.htm",
+    "title": "California Crafting New Auto Pollution Rules After Trump Attacks",
+    "fetched_on": "2025-08-21T05:20:46.028102+00:00",
+    "content": "California’s clean-air regulator is pressing ahead with work on new rules for auto emissions in the state and possible new tax credits for electric cars to counter the Trump administration’s effort t… [+2432 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "chars",
+      "California",
+      "Auto",
+      "Rules",
+      "Crafting",
+      "Pollution",
+      "Attacks",
+      "clean-air",
+      "regulator"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b90b75eac0529ece",
+    "title": "Trump tariff revenue expected to offset tax bill impact, S&P says in US credit rating hold",
+    "fetched_on": "2025-08-21T05:20:46.028102+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the Trump administration seeking Intel equity stake? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Air … [+736 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Trump",
+      "Intel",
+      "impact",
+      "hold",
+      "stake"
+    ]
   }
 ]
