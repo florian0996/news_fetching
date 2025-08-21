@@ -517136,5 +517136,65 @@
       "Back",
       "Trump"
     ]
+  },
+  {
+    "source": "Chicago Reader [NewsAPI]",
+    "url": "http://chicagoreader.com/music/music-feature/ukraine-house-closer-k41-techno-kyiv-strichka-dance/",
+    "title": "Dance against war",
+    "fetched_on": "2025-08-21T22:20:27.871463+00:00",
+    "content": "Revelers at the Strichka Festival in May 2024, held at Kyiv club and cultural center Closer Credit: Courtesy Sergey Yatsenko\r\nThis reporting was supported by the International Womens Media Foundation… [+23604 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Credit",
+      "Courtesy",
+      "Foundation",
+      "Revelers",
+      "Strichka",
+      "Festival",
+      "Kyiv",
+      "Closer",
+      "Sergey"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/bnz-lowers-variable-lending-rates-after-official-cash-rate-cut/JLRI4MZ7WRCHNE2TJYPGRFNAYI/",
+    "title": "BNZ lowers variable lending rates after Official Cash Rate cut",
+    "fetched_on": "2025-08-21T22:20:27.871463+00:00",
+    "content": "Westpac trimmed 4bps off its one-year, 18-month and three-year fixed-term special rates and 20bps off its two-year rate.\r\nIts one-year, 18-month and two-year special rates are now 4.75% a new low for… [+1296 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNZ",
+      "Official",
+      "Cash",
+      "Westpac",
+      "one-year",
+      "rates",
+      "special",
+      "trimmed",
+      "two-year",
+      "Rate"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/kiwibank-profit-drops-5-amid-challenging-economic-conditions/YPOATYMRDBBA5IJKDYSIRCGHUQ/",
+    "title": "Kiwibank profit drops 5% amid challenging economic conditions",
+    "fetched_on": "2025-08-21T22:20:27.871463+00:00",
+    "content": "Chief executive Steve Jurkovich said the bank delivered strong underlying growth in the highly competitive home lending and deposit markets.\r\nBusiness banking was a standout in a subdued market and a… [+1192 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chief",
+      "Steve",
+      "Jurkovich",
+      "Kiwibank",
+      "drops",
+      "amid",
+      "profit",
+      "challenging",
+      "economic",
+      "conditions"
+    ]
   }
 ]
