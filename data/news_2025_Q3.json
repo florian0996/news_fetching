@@ -514781,5 +514781,85 @@
       "join",
       "unions"
     ]
+  },
+  {
+    "source": "Haaretz [NewsAPI]",
+    "url": "https://www.haaretz.com/israel-news/2025-08-20/ty-article/.premium/trump-says-netanyahu-a-war-hero-despite-attempts-to-put-him-in-jail/00000198-c645-d1e9-abf9-df7760250000",
+    "title": "Trump says Netanyahu a 'war hero' despite attempts to 'put him in jail'",
+    "fetched_on": "2025-08-21T09:22:49.163887+00:00",
+    "content": "U.S. President Donald Trump took credit for the release of Israeli hostages, calling himself and Israeli Prime Minister Benjamin Netanyahu \"war heroes,\" during an interview on Tuesday on the Mark Lev… [+7 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "President",
+      "Lev",
+      "Netanyahu",
+      "Israeli",
+      "war",
+      "Trump",
+      "Donald",
+      "Prime",
+      "Minister"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/38aa9ed31a236746",
+    "title": "Better Data Turns Small Business Loans From Problem to Profit",
+    "fetched_on": "2025-08-21T09:22:49.163887+00:00",
+    "content": "For decades, small business lending was bankings problem child.\r\n[contact-form-7]\r\nLoans to mom-and-pop shops and mid-size firms were seen as marginally profitable at best, and too risky at worst. At… [+136 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Small",
+      "Business",
+      "Problem",
+      "Data",
+      "Turns",
+      "Profit",
+      "Loans",
+      "decades",
+      "child",
+      "lending"
+    ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2025/08/20/g-s1-81561/guster-tiny-desk-concert",
+    "title": "Guster: Tiny Desk Concert",
+    "fetched_on": "2025-08-21T09:22:49.163887+00:00",
+    "content": "Credit: Photo: Maansi Srivastava\r\nThe first time I saw Guster\r\n, the three members of the group, Adam Gardner, Ryan Miller and Brian Rosenworcel, were busking in a vacant storefront in Harvard Square… [+2822 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Photo",
+      "Guster",
+      "chars",
+      "Tiny",
+      "Credit",
+      "Maansi",
+      "Adam",
+      "Gardner",
+      "Ryan",
+      "Rosenworcel"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/mikestubbs/2025/08/20/escape-from-tarkov-patch-notes-make-major-pve-change/",
+    "title": "‘Escape From Tarkov’ Patch Notes Make Major PvE Change",
+    "fetched_on": "2025-08-21T09:22:49.163887+00:00",
+    "content": "Tarkov is making some changes. \r\nCredit: Battlestate Games / Mike Stubbs\r\nThe latest set of Escape From Tarkov patch notes have been released, with the 0.16.9.0 update set to make a major change to t… [+2631 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Escape",
+      "Tarkov’",
+      "Tarkov",
+      "Patch",
+      "Notes",
+      "Make",
+      "Major",
+      "Change",
+      "Battlestate",
+      "Games"
+    ]
   }
 ]
