@@ -515101,5 +515101,105 @@
       "cheaper",
       "rupee"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-units-raise-275-million-offshore-debt-from-global-lenders/articleshow/123408654.cms",
+    "title": "Adani units raise $275 million offshore debt from global lenders",
+    "fetched_on": "2025-08-21T11:18:03.833859+00:00",
+    "content": "Two units of Adani Group raised a total of about $275 million through two foreign currency loans as the Indian conglomerate continues to ramp up its borrowing, according to people familiar with the m… [+1732 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "million",
+      "Adani",
+      "Group",
+      "Indian",
+      "raise",
+      "borrowing",
+      "units",
+      "offshore",
+      "debt"
+    ]
+  },
+  {
+    "source": "Nakedcapitalism.com [NewsAPI]",
+    "url": "https://www.nakedcapitalism.com/2025/08/tucker-slams-predatory-buy-now-pay-later-loans-as-the-economist-celebrates-this-new-debt-slavery-device.html",
+    "title": "Tucker Slams Predatory Buy Now Pay Later Loans as the Economist Celebrates This New Debt Slavery Device",
+    "fetched_on": "2025-08-21T11:18:03.833859+00:00",
+    "content": "We have entered a parallel universe when Tucker Carlson, amplifying the concerns of right-wing activist Charlie Kirk, is calling for more financial regulation, here of a relatively new form of extrac… [+17597 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Carlson",
+      "Kirk",
+      "Tucker",
+      "Slams",
+      "Predatory",
+      "Buy",
+      "Pay",
+      "Loans",
+      "Economist"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/sbi-credit-card-rule-change-these-sbi-credit-card-customers-not-to-get-reward-points-for-digital-gaming-platforms-govt-related-transactions/articleshow/123408209.cms",
+    "title": "SBI credit card rule change: These SBI credit card customers not to get reward points for digital gaming platforms, govt-related transactions",
+    "fetched_on": "2025-08-21T11:18:03.833859+00:00",
+    "content": "SBI Card has revised its credit card rewards programme, effective from September 1, 2025. After the revision, customers of select SBI credit cards will no longer earn reward points on spends on digit… [+2723 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "credit",
+      "September",
+      "card",
+      "points",
+      "change",
+      "platforms",
+      "govt-related",
+      "programme",
+      "effective"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4186056/ALK;BAC-Alaska-Air-Bank-of-America-launch-credit-card",
+    "title": "Alaska Air, Bank of America launch credit card",
+    "fetched_on": "2025-08-21T11:18:03.833859+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Air",
+      "Bank",
+      "America",
+      "Earnings",
+      "Alaska",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows",
+      "launch"
+    ]
+  },
+  {
+    "source": "GhanaWeb [NewsAPI]",
+    "url": "https://www.ghanaweb.com/GhanaHomePage/entertainment/Work-hard-Shatta-Wale-tells-musicians-after-acquiring-new-Lamborghini-Urus-1996979",
+    "title": "'Work hard' - Shatta Wale tells musicians after acquiring new Lamborghini Urus",
+    "fetched_on": "2025-08-21T11:18:03.833859+00:00",
+    "content": "Shatta Wale has been in the headlines over the past few weeks for various reasons, including allegedly taking production credit for songs created by some music producers and the seizure of his yellow… [+1824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shatta",
+      "Wale",
+      "chars",
+      "Work",
+      "Lamborghini",
+      "Urus",
+      "hard",
+      "reasons",
+      "including",
+      "yellow"
+    ]
   }
 ]
