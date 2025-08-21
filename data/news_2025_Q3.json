@@ -517196,5 +517196,125 @@
       "economic",
       "conditions"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-21/spirit-air-borrows-275-million-to-avoid-card-payment-disruption",
+    "title": "Spirit Air Borrows $275 Million to Avoid Card Payment Disruption",
+    "fetched_on": "2025-08-21T23:19:10.597194+00:00",
+    "content": "Spirit Airlines Inc. borrowed $275 million via a revolving credit facility to avert a looming cash crunch that had threatened to cut off the company’s ability to accept credit card payments from customers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spirit",
+      "Borrows",
+      "Million",
+      "Air",
+      "Avoid",
+      "Disruption",
+      "Airlines",
+      "Card",
+      "Payment",
+      "payments"
+    ]
+  },
+  {
+    "source": "Crypto Briefing [NewsAPI]",
+    "url": "https://cryptobriefing.com/askvenice-diem-onchain-ai-compute-base/",
+    "title": "Venice launches DIEM tokens as tradeable AI compute asset for VVV holders",
+    "fetched_on": "2025-08-21T23:19:09.955156+00:00",
+    "content": "Key Takeaways\r\n<ul><li>Each DIEM token provides perpetual $1 per day API credit, making AI compute ownable and transferable.</li><li>DIEM can only be minted by locking VVV, reinforcing its role as th… [+1163 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DIEM",
+      "VVV",
+      "Takeaways",
+      "chars",
+      "compute",
+      "Key",
+      "API",
+      "Venice",
+      "perpetual",
+      "credit"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/08/woke-cracker-barrel-ceo-sparks-uproar-after-changing/",
+    "title": "Woke Cracker Barrel CEO Sparks Uproar After Changing the Company’s Iconic 47-Year-Old Logo",
+    "fetched_on": "2025-08-21T23:19:09.955156+00:00",
+    "content": "Credit: ABC Good Morning America screenshot\r\nThe woke CEO of Cracker Barrel has sparked a social media uproar after making an infuriating change to an iconic part of the restaurant chain.\r\nAs Yahoo r… [+2814 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cracker",
+      "Barrel",
+      "CEO",
+      "Uproar",
+      "Logo",
+      "Credit",
+      "ABC",
+      "Iconic",
+      "Sparks",
+      "Changing"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/consumer-finance/2025/embedded-finance-emerges-as-growth-engine-for-q2-earnings/",
+    "title": "Embedded Finance Emerges as Growth Engine for Q2 Earnings",
+    "fetched_on": "2025-08-21T23:19:09.955156+00:00",
+    "content": "Executives across the payments and lending spectrum have used their second-quarter earnings calls to emphasize embedded finance not just as a future prospect, but as a present-day growth engine. Embe… [+3675 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "Growth",
+      "Engine",
+      "Earnings",
+      "Emerges",
+      "Executives",
+      "Embedded",
+      "prospect",
+      "payments",
+      "lending"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/rawle-talks-about-his-new-single-unconditional-and-the-digital-age/article",
+    "title": "Rawle talks about his new single ‘Unconditional’ and the digital age",
+    "fetched_on": "2025-08-21T23:19:09.955156+00:00",
+    "content": "Artist Rawle. Photo Credit: Steve West.\r\nGuyanese-Canadian artist Rawle chatted about his new single “Unconditional” and being a part of the digital age.\r\nHow did Unconditional come about?\r\nUnconditi… [+3911 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unconditional’",
+      "Rawle",
+      "single",
+      "Artist",
+      "digital",
+      "Credit",
+      "Steve",
+      "West",
+      "age",
+      "talks"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/credit-cards/capital-one-revives-savorone-fair-credit#article",
+    "title": "Capital One Revives ‘SavorOne’ Name With New Card for Fair Credit",
+    "fetched_on": "2025-08-21T23:19:09.955156+00:00",
+    "content": "The Savor family of cash back credit cards from Capital One has announced a new addition and they've named it after an ancestor that was recently laid to rest.\r\nYou might call it SavorOne II. SavorTw… [+5114 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Revives",
+      "Capital",
+      "Credit",
+      "Fair",
+      "Savor",
+      "SavorOne’",
+      "rest",
+      "Card",
+      "cards",
+      "family"
+    ]
   }
 ]
