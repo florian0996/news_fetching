@@ -514153,5 +514153,85 @@
       "banks",
       "startup"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/19/todays-nyt-mini-crossword-clues-and-answers-for-wednesday-august-20th/",
+    "title": "Today’s NYT Mini Crossword Clues And Answers For Wednesday, August 20th",
+    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nIts the middle of the week, Odins Day, a day for mischief and mysticism. A day f… [+2248 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mini",
+      "Crossword",
+      "August",
+      "Wednesday",
+      "NYT",
+      "Clues",
+      "Answers",
+      "Today",
+      "puzzle",
+      "Day"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/08/20/3136106/0/en/MoneyMe-Selects-SEON-to-Strengthen-Fraud-Prevention-and-Credit-Decisioning.html",
+    "title": "MoneyMe Selects SEON to Strengthen Fraud Prevention and Credit Decisioning",
+    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
+    "content": "AUSTIN, Texas and SINGAPORE, Aug. 19, 2025 (GLOBE NEWSWIRE) -- SEON\r\n, the command center for fraud prevention and AML compliance, today announced that MoneyMe, one of Australia's leading digital len… [+2533 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aug.",
+      "Prevention",
+      "SEON",
+      "Fraud",
+      "AUSTIN",
+      "Texas",
+      "SINGAPORE",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/stamping-chair",
+    "title": "Perforated Steel Seating - A Stamping Chair Blending Industrial Punch with Playful Precision (TrendHunter.com)",
+    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
+    "content": "The Stamping Chair designed by Thinkk Studio transforms industrial technique into contemporary furniture. Crafted from perforated steel sheets shaped through a corrugated punching process, the chair … [+801 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stamping",
+      "Seating",
+      "Precision",
+      "Industrial",
+      "Chair",
+      "TrendHunter.com",
+      "Blending",
+      "Punch",
+      "Playful",
+      "Thinkk"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/697010091d1a95ab",
+    "title": "China leaves benchmark lending rates unchanged, matching forecast",
+    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve… [+767 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Intel",
+      "China",
+      "unchanged",
+      "matching",
+      "forecast"
+    ]
   }
 ]
