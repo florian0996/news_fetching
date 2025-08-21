@@ -514233,5 +514233,85 @@
       "matching",
       "forecast"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/gevo-gevo-becomes-profitable-amid-042209479.html",
+    "title": "Gevo (GEVO) Becomes Profitable amid Carbon Credit Demand",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "Gevo, Inc. (NASDAQ:GEVO) is one of the best multibagger penny stocks to buy according to analysts. On August 11, the company delivered its first-ever profitable quarter in the second quarter of 2025.… [+1698 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gevo",
+      "Carbon",
+      "Credit",
+      "Demand",
+      "NASDAQ",
+      "Profitable",
+      "amid",
+      "August",
+      "quarter",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9f0d26760bb9e0de",
+    "title": "Hong Kong lender Dah Sing says first-half credit charges surge 34%",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the Trump administration seeking Intel equity stake? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Air … [+773 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Kong",
+      "Dah",
+      "Sing",
+      "Trump",
+      "Intel"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/business/hong-kong-lender-dah-sing-says-first-half-credit-charges-surge-34-5303981",
+    "title": "Hong Kong lender Dah Sing says first-half credit charges surge 34%",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "HONG KONG :Hong Kong-headquartered lender Dah Sing Banking Group said its credit impairment in the first half of this year increased 34 per cent year-on-year, as the weakening commercial property mar… [+995 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hong",
+      "Dah",
+      "Sing",
+      "Kong",
+      "chars",
+      "Kong-headquartered",
+      "Banking",
+      "Group",
+      "lender",
+      "surge"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/interview-the-prime-of-rock-and-roll-hall-of-famer-colin-blunstone-of-the-zombies/article",
+    "title": "Interview: The prime of Rock and Roll Hall of Famer Colin Blunstone of The Zombies",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "Rock and Roll Hall of Famer Colin Blunstone of The Zombies. Photo Credit: Paul Ostrer\r\nRock and Roll Hall of Famer Colin Blunstone of The Zombies chatted about their new documentary “Hung Up on a Dre… [+7987 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Roll",
+      "Hall",
+      "Famer",
+      "Colin",
+      "Blunstone",
+      "Rock",
+      "Zombies",
+      "Interview",
+      "prime",
+      "Credit"
+    ]
   }
 ]

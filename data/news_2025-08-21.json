@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-20/shamrock-capital-taps-private-credit-for-penta-group-acquisition",
     "title": "Shamrock Capital Taps Private Credit for Penta Group Acquisition",
     "fetched_on": "2025-08-21T01:40:09.657381+00:00",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "source": "Bloomberg – Business [RSS]",
+    "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-20/liberty-puerto-rico-creditors-form-second-group-tapping-advisers",
     "title": "Liberty Puerto Rico Creditors Form Second Group Tapping Advisers",
     "fetched_on": "2025-08-21T03:08:11.410561+00:00",
@@ -40,11 +40,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Technology [RSS]",
+    "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-20/rappi-secures-100-million-loan-from-santander-private-credit",
     "title": "Rappi Secures $100 Million Loan From Santander, Private Credit",
-    "fetched_on": "2025-08-21T03:08:11.729120+00:00",
-    "content": "Rappi Inc., one of Latin America's most valuable startups, secured a $100 million loan from Banco Santander and Kirkoswald Capital Partners, marking its largest debt financing since the Colombian delivery startup's founding a decade ago.",
+    "fetched_on": "2025-08-21T04:24:42.029075+00:00",
+    "content": "Rappi Inc., one of Latin America\u2019s most valuable startups, secured a $100 million loan from Banco Santander and Kirkoswald Capital Partners, marking its largest debt financing since the Colombian delivery startup\u2019s founding a decade ago.",
     "platforms_mentioned": [],
     "keywords": [
       "Million",
@@ -60,10 +60,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Technology [RSS]",
+    "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-20/jpmorgan-rbc-seize-cogent-stock-in-margin-loan-fallout",
     "title": "CEO Loses Most of His Stock After Margin Loans at JPMorgan, RBC Backfire",
-    "fetched_on": "2025-08-21T03:08:11.729202+00:00",
+    "fetched_on": "2025-08-21T04:24:42.029174+00:00",
     "content": "Dave Schaeffer is running out of options to stave off the collapse of the Washington, DC, property empire he built over three decades.",
     "platforms_mentioned": [],
     "keywords": [
@@ -80,10 +80,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-20/jpmorgan-backed-c6-expects-portfolio-to-increase-40-in-2025",
     "title": "JPMorgan-Backed C6 Expects Portfolio to Increase 40% in 2025",
-    "fetched_on": "2025-08-21T03:08:12.287617+00:00",
+    "fetched_on": "2025-08-21T04:24:42.477126+00:00",
     "content": "C6, the Brazilian bank backed by JPMorgan Chase &amp; Co., said it expects profit to increase in the second half of the year and predicted its loan portfolio will surge about 40% compared to 2024.",
     "platforms_mentioned": [],
     "keywords": [
@@ -100,10 +100,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-20/neuberger-berman-launches-first-private-credit-interval-fund",
     "title": "Neuberger Berman Launches First Private Credit Interval Fund",
-    "fetched_on": "2025-08-21T03:08:12.287648+00:00",
+    "fetched_on": "2025-08-21T04:24:42.477156+00:00",
     "content": "Neuberger Berman launched its first interval fund, focused on private asset-based credit, as alternative asset managers look to raise more capital from retail investors.",
     "platforms_mentioned": [],
     "keywords": [
@@ -122,9 +122,9 @@
   {
     "source": "CinemaBlend [NewsAPI]",
     "url": "https://www.cinemablend.com/television/hacks-accidentally-mirrored-cbs-late-night-drama-how-creators-feel",
-    "title": "Hacks Accidentally Mirrored What's Going On With CBS And Late Night. How The Creators Feel About The ‘Surreal' Parallels",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "Spoilers below for Season 4 of Hacks (available to stream now with an HBO Max subscription ). If you are not caught up on the series, proceed at your own risk! (Image credit: hbo press) Truth is o... [+3195 chars]",
+    "title": "Hacks Accidentally Mirrored What\u2019s Going On With CBS And Late Night. How The Creators Feel About The \u2018Surreal\u2019 Parallels",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "Spoilers below for Season 4 of Hacks (available to stream now with an HBO Max subscription\r\n). If you are not caught up on the series, proceed at your own risk!\r\n(Image credit: hbo press)\r\nTruth is o\u2026 [+3195 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Night",
@@ -133,7 +133,7 @@
       "CBS",
       "Late",
       "Hacks",
-      "Surreal’",
+      "Surreal\u2019",
       "Season",
       "HBO",
       "Creators"
@@ -143,8 +143,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/401a999ebc22e1ed",
     "title": "China leaves benchmark lending rates unchanged, matching forecast",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve... [+760 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve\u2026 [+760 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -163,8 +163,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/88daaefb87719747",
     "title": "Apollo Seeks to Double India Assets to $4 Billion in Credit Boom",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve... [+762 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve\u2026 [+762 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -183,8 +183,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/88e4d1629b390150",
     "title": "China leaves benchmark lending rates unchanged in August, matching forecast",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve... [+767 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve\u2026 [+767 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -203,8 +203,8 @@
     "source": "Neatorama.com [NewsAPI]",
     "url": "https://www.neatorama.com/2025/08/19/Tanzlinden-the-Trees-That-You-Dance-In/",
     "title": "Tanzlinden, the Trees That You Dance In",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "(Image credit: Benreis) It's no wonder there are so many old German folk songs about linden trees. For more than a thousand years, people in German communities used a linden tree as a gathering plac... [+766 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "(Image credit: Benreis)\r\nIt's no wonder there are so many old German folk songs about linden trees. For more than a thousand years, people in German communities used a linden tree as a gathering plac\u2026 [+766 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Benreis",
@@ -223,8 +223,8 @@
     "source": "Ozbargain.com.au [NewsAPI]",
     "url": "https://www.ozbargain.com.au/node/920524",
     "title": "ASUS RT-AX3000P V2 Dual Band WiFi 6 Router + Dragon Age: Veilguard (PS5) & $50 Amazon Credit - $101 Delivered @ Amazon AU",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information. Similar to this ASUS RT-AX86U Pro AX5700 de... [+444 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nSimilar to this ASUS RT-AX86U Pro AX5700 de\u2026 [+444 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Amazon",
@@ -243,8 +243,8 @@
     "source": "Cheezburger.com [NewsAPI]",
     "url": "https://cheezburger.com/42033157/wannabe-reader-claims-to-read-100-books-a-week-thanks-to-ai-book-summarizing-app-fahrenheit-451-was",
     "title": "Wannabe reader claims to read 100 books a week thanks to AI book summarizing app: 'Fahrenheit 451 was non-fiction'",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "There are many who like to claim that we are in the middle of a growing literacy crisis, and to their credit, the evidence can seem compelling. It is no secret that most people only read when they pi... [+631 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "There are many who like to claim that we are in the middle of a growing literacy crisis, and to their credit, the evidence can seem compelling. It is no secret that most people only read when they pi\u2026 [+631 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Fahrenheit",
@@ -263,8 +263,8 @@
     "source": "Thechronicle.com.gh [NewsAPI]",
     "url": "https://thechronicle.com.gh/feature-tax-incentives-under-the-income-tax-act-2015-act-896-mapping-the-tools-to-drive-growth/",
     "title": "Feature: Tax Incentives Under The Income Tax Act, 2015 (Act 896): Mapping The Tools To Drive Growth.",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "Introduction Ghanas Income Tax Act, 2015 (Act 896) as amended uses a mix of reduced rates, temporary concessions, accelerated deductions, loss relief, and international tax credits to direct investm... [+14243 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "Introduction\r\nGhanas Income Tax Act, 2015 (Act 896) as amended uses a mix of reduced rates, temporary concessions, accelerated deductions, loss relief, and international tax credits to direct investm\u2026 [+14243 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Act",
@@ -283,8 +283,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/markets/stocks/news/is-viney-corps-high-cost-debt-refinancing-a-risky-move-for-future-growth/articleshow/123396956.cms",
     "title": "Is Viney Corp's high-cost debt refinancing a risky move for future growth?",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "Mumbai: Auto parts maker Viney Corp has mandated Alvarez &amp; Marsal (A&amp;M) for refinancing its existing high-cost credit line of around 800 crore, people familiar with the matter told ET. The re... [+1554 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "Mumbai: Auto parts maker Viney Corp has mandated Alvarez &amp; Marsal (A&amp;M) for refinancing its existing high-cost credit line of around 800 crore, people familiar with the matter told ET. The re\u2026 [+1554 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Viney",
@@ -422,7 +422,7 @@
   {
     "source": "What's on Netflix [NewsAPI]",
     "url": "https://www.whats-on-netflix.com/news/liam-neeson-action-thriller-ice-road-vengeance-sets-netflix-streaming-debut/",
-    "title": "Liam Neeson Action Thriller ‘Ice Road: Vengeance' Sets Netflix Streaming Debut",
+    "title": "Liam Neeson Action Thriller \u2018Ice Road: Vengeance' Sets Netflix Streaming Debut",
     "fetched_on": "2025-08-21T03:08:09.721185+00:00",
     "content": "Picture Credit: Vertical Liam Neeson is headed to Netflix this September with his latest action thriller blockbuster, Ice Road: Vegeance, confirmed to hit Netflix in the United States on September 1... [+2696 chars]",
     "platforms_mentioned": [],
@@ -436,7 +436,7 @@
       "Liam",
       "Action",
       "Thriller",
-      "Vengeance’"
+      "Vengeance\u2019"
     ]
   },
   {
@@ -543,8 +543,8 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-08-21T03:08:32.845337+00:00",
-    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in...",
+    "fetched_on": "2025-08-21T04:24:56.547326+00:00",
+    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
       "Building",
@@ -563,7 +563,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/08/20/alaska-airlines-credit-card-atmos-frequent-flyer-program.html",
     "title": "Alaska Airlines launches $395 credit card in premium travel race, combines loyalty program with Hawaiian",
-    "fetched_on": "2025-08-21T03:08:43.092437+00:00",
+    "fetched_on": "2025-08-21T04:25:06.142464+00:00",
     "content": "Alaska will join other airlines in raising the requirements to earn elite status.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/08/13/weekly-mortgage-refinancing-shoots-23percent-higher.html",
     "title": "Weekly mortgage refinancing demand shoots 23% higher, with riskier loans making a comeback",
-    "fetched_on": "2025-08-21T03:08:43.236098+00:00",
+    "fetched_on": "2025-08-21T04:25:06.444547+00:00",
     "content": "Mortgage rates dropped again last week, spurring big demand for mortgage refinancing. ARM loans also increased, as they offer lower rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,8 +603,8 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/fed-holds-interest-rates-steady-what-that-means-for-your-money.html",
     "title": "Fed holds interest rates steady: What that means for car loans, credit cards, mortgages and more",
-    "fetched_on": "2025-08-21T03:08:43.236167+00:00",
-    "content": "From credit cards, car loans, mortgages, savings and student debt, here's how the Federal Reserve's interest-rate decision influences your wallet.",
+    "fetched_on": "2025-08-21T04:25:06.444618+00:00",
+    "content": "From credit cards, car loans, mortgages, savings and student debt,\u00a0here's how the Federal Reserve's interest-rate decision influences your wallet.",
     "platforms_mentioned": [],
     "keywords": [
       "loans",
@@ -623,7 +623,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/07/25/fed-likely-to-hold-interest-rates-steady-despite-trumps-pressure.html",
     "title": "Federal Reserve likely to hold interest rates steady despite pressure from Trump. Here's what that means for your money",
-    "fetched_on": "2025-08-21T03:08:43.236222+00:00",
+    "fetched_on": "2025-08-21T04:25:06.444674+00:00",
     "content": "The Fed's decision on interest rates affects many types of consumer borrowing costs, from credit cards and mortgages to auto loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/08/ev-sales-trump-tax-credit.html",
     "title": "EV sales soar as Trump axes $7,500 tax credit: 'People are rushing out' to buy, analyst says",
-    "fetched_on": "2025-08-21T03:08:43.846504+00:00",
+    "fetched_on": "2025-08-21T04:25:06.885464+00:00",
     "content": "Consumers are acting ahead of a fast-approaching Sept. 30 deadline to claim the tax break for electric vehicles.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/20/student-loan-forgiveness-still-unavailable-on-ibr-plan.html",
     "title": "Student loan forgiveness remains unavailable under popular repayment plan",
-    "fetched_on": "2025-08-21T03:08:43.846286+00:00",
+    "fetched_on": "2025-08-21T04:25:06.885241+00:00",
     "content": "Student loan borrowers enrolled in a popular repayment plan remain blocked from debt forgiveness. Here's what to know about the delays.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/18/trump-public-service-loan-forgiveness-pslf-eligibility.html",
     "title": "Trump administration moves to 'prevent benefits' for some under popular student loan forgiveness program",
-    "fetched_on": "2025-08-21T03:08:43.846330+00:00",
+    "fetched_on": "2025-08-21T04:25:06.885284+00:00",
     "content": "The Trump administration says that its proposed changes to Public Service Loan Forgiveness \"may delay or prevent forgiveness for a subset of borrowers.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/15/student-loan-forgiveness-trump-pslf-backlog.html",
     "title": "46-year-old woman is weeks away from student loan forgiveness but stuck in Trump-era backlog",
-    "fetched_on": "2025-08-21T03:08:43.846368+00:00",
+    "fetched_on": "2025-08-21T04:25:06.885323+00:00",
     "content": "Tens of thousands of student loan borrowers who are likely eligible for Public Service Loan Forgiveness are stuck in limbo. CNBC spoke to three of them.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/15/public-service-loan-forgiveness-buyback-has-a-72730-person-backlog.html",
     "title": "Student loan forgiveness program has a 72,730-person backlog. Here's what borrowers need to know",
-    "fetched_on": "2025-08-21T03:08:43.846374+00:00",
+    "fetched_on": "2025-08-21T04:25:06.885331+00:00",
     "content": "Many student loan borrowers have likely heard about or experienced issues with the Public Service Loan Forgivness 'Buyback' program. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/13/older-student-loan-delinquencies-under-trump.html",
     "title": "Nearly 1 in 5 older student loan borrowers are seriously delinquent as Trump steps up collections",
-    "fetched_on": "2025-08-21T03:08:43.846429+00:00",
+    "fetched_on": "2025-08-21T04:25:06.885387+00:00",
     "content": "There's still time for older student loan borrowers who are behind on their bills to avoid default, and garnishment of their retirement benefits and wages.",
     "platforms_mentioned": [],
     "keywords": [
@@ -762,8 +762,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/12/bad-credit-score-subprime-tax.html",
-    "title": "Bad credit triggers a 'subprime tax,' Bankrate says - over decades, it can cost borrowers $100,000",
-    "fetched_on": "2025-08-21T03:08:43.846463+00:00",
+    "title": "Bad credit triggers a 'subprime tax,' Bankrate says \u2014 over decades, it can cost borrowers $100,000",
+    "fetched_on": "2025-08-21T04:25:06.885422+00:00",
     "content": "A credit score of 620 and below can cost Americans roughly $3,400 annually in interest and high premiums, a report found. Here's how to improve your credit.",
     "platforms_mentioned": [],
     "keywords": [
@@ -783,7 +783,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/11/travel-credit-card-annual-fee.html",
     "title": "Travel card benefits are 'getting harder to maximize,' analyst says. What to know before you apply",
-    "fetched_on": "2025-08-21T03:08:43.846470+00:00",
+    "fetched_on": "2025-08-21T04:25:06.885429+00:00",
     "content": "Travel credit cards may be worth the cost as long as it fits your lifestyle. Otherwise, it may not make sense to have an expensive credit card in your wallet.",
     "platforms_mentioned": [],
     "keywords": [
@@ -802,8 +802,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/09/using-buy-now-pay-later-bnpl-loans-for-concert-tickets.html",
-    "title": "Some concertgoers use buy now, pay later loans for tickets. Start a 'Beyoncé fund' instead, analyst says",
-    "fetched_on": "2025-08-21T03:08:43.846491+00:00",
+    "title": "Some concertgoers use buy now, pay later loans for tickets. Start a 'Beyonc\u00e9 fund' instead, analyst says",
+    "fetched_on": "2025-08-21T04:25:06.885449+00:00",
     "content": "Some younger Americans are using buy now, pay later loans to pay for the costs of attending concerts and other live events.",
     "platforms_mentioned": [],
     "keywords": [
@@ -811,7 +811,7 @@
       "tickets",
       "buy",
       "loans",
-      "Beyoncé",
+      "Beyonc\u00e9",
       "concertgoers",
       "Americans",
       "Start",
@@ -853,9 +853,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/08/19/todays-nyt-mini-crossword-clues-and-answers-for-wednesday-august-20th/",
-    "title": "Today's NYT Mini Crossword Clues And Answers For Wednesday, August 20th",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle. Credit: NYT Its the middle of the week, Odins Day, a day for mischief and mysticism. A day f... [+2248 chars]",
+    "title": "Today\u2019s NYT Mini Crossword Clues And Answers For Wednesday, August 20th",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nIts the middle of the week, Odins Day, a day for mischief and mysticism. A day f\u2026 [+2248 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Mini",
@@ -874,8 +874,8 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/08/20/3136106/0/en/MoneyMe-Selects-SEON-to-Strengthen-Fraud-Prevention-and-Credit-Decisioning.html",
     "title": "MoneyMe Selects SEON to Strengthen Fraud Prevention and Credit Decisioning",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "AUSTIN, Texas and SINGAPORE, Aug. 19, 2025 (GLOBE NEWSWIRE) -- SEON , the command center for fraud prevention and AML compliance, today announced that MoneyMe, one of Australia's leading digital len... [+2533 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "AUSTIN, Texas and SINGAPORE, Aug. 19, 2025 (GLOBE NEWSWIRE) -- SEON\r\n, the command center for fraud prevention and AML compliance, today announced that MoneyMe, one of Australia's leading digital len\u2026 [+2533 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Aug.",
@@ -894,8 +894,8 @@
     "source": "Trendhunter.com [NewsAPI]",
     "url": "https://www.trendhunter.com/trends/stamping-chair",
     "title": "Perforated Steel Seating - A Stamping Chair Blending Industrial Punch with Playful Precision (TrendHunter.com)",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "The Stamping Chair designed by Thinkk Studio transforms industrial technique into contemporary furniture. Crafted from perforated steel sheets shaped through a corrugated punching process, the chair ... [+801 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "The Stamping Chair designed by Thinkk Studio transforms industrial technique into contemporary furniture. Crafted from perforated steel sheets shaped through a corrugated punching process, the chair \u2026 [+801 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Stamping",
@@ -914,8 +914,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/697010091d1a95ab",
     "title": "China leaves benchmark lending rates unchanged, matching forecast",
-    "fetched_on": "2025-08-21T03:08:09.721185+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve... [+767 chars]",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US seeking a stake in Intel? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did SoftBank's $2B Intel inve\u2026 [+767 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -934,7 +934,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/first-solar-fslr-9-7-164250036.html",
     "title": "First Solar (FSLR) 9.7% Brighter on Updated Solar Tax Credits",
-    "fetched_on": "2025-08-21T03:08:44.165174+00:00",
+    "fetched_on": "2025-08-21T04:25:07.479764+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -964,6 +964,106 @@
       "federal",
       "student",
       "borrowers"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/gevo-gevo-becomes-profitable-amid-042209479.html",
+    "title": "Gevo (GEVO) Becomes Profitable amid Carbon Credit Demand",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "Gevo, Inc. (NASDAQ:GEVO) is one of the best multibagger penny stocks to buy according to analysts. On August 11, the company delivered its first-ever profitable quarter in the second quarter of 2025.\u2026 [+1698 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gevo",
+      "Carbon",
+      "Credit",
+      "Demand",
+      "NASDAQ",
+      "Profitable",
+      "amid",
+      "August",
+      "quarter",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9f0d26760bb9e0de",
+    "title": "Hong Kong lender Dah Sing says first-half credit charges surge 34%",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the Trump administration seeking Intel equity stake? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Air \u2026 [+773 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Kong",
+      "Dah",
+      "Sing",
+      "Trump",
+      "Intel"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/business/hong-kong-lender-dah-sing-says-first-half-credit-charges-surge-34-5303981",
+    "title": "Hong Kong lender Dah Sing says first-half credit charges surge 34%",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "HONG KONG :Hong Kong-headquartered lender Dah Sing Banking Group said its credit impairment in the first half of this year increased 34 per cent year-on-year, as the weakening commercial property mar\u2026 [+995 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hong",
+      "Dah",
+      "Sing",
+      "Kong",
+      "chars",
+      "Kong-headquartered",
+      "Banking",
+      "Group",
+      "lender",
+      "surge"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/interview-the-prime-of-rock-and-roll-hall-of-famer-colin-blunstone-of-the-zombies/article",
+    "title": "Interview: The prime of Rock and Roll Hall of Famer Colin Blunstone of The Zombies",
+    "fetched_on": "2025-08-21T04:24:40.494751+00:00",
+    "content": "Rock and Roll Hall of Famer Colin Blunstone of The Zombies. Photo Credit: Paul Ostrer\r\nRock and Roll Hall of Famer Colin Blunstone of The Zombies chatted about their new documentary \u201cHung Up on a Dre\u2026 [+7987 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Roll",
+      "Hall",
+      "Famer",
+      "Colin",
+      "Blunstone",
+      "Rock",
+      "Zombies",
+      "Interview",
+      "prime",
+      "Credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/south-korea-halts-crypto-lending-161835895.html",
+    "title": "South Korea Halts Crypto Lending as Market Leverage Sparks Regulatory Concern",
+    "fetched_on": "2025-08-21T04:25:07.479988+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Concern",
+      "Korea",
+      "Halts",
+      "Crypto",
+      "Lending",
+      "Market",
+      "Leverage",
+      "Sparks",
+      "Regulatory",
+      "South"
     ]
   }
 ]
