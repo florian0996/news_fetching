@@ -517933,5 +517933,84 @@
       "story",
       "appeared"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-08-22/private-credit-fears-eu-us-trade-details-more",
+    "title": "Private Credit Fears, EU-US Trade Details, More",
+    "fetched_on": "2025-08-22T07:19:26.269173+00:00",
+    "content": "Source: Bloomberg, 0:00",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "0:00",
+      "Fears",
+      "EU-US",
+      "Details",
+      "Source",
+      "Credit",
+      "Trade",
+      "Private"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/carriemccabe/2025/08/21/private-equity-in-your-401k-what-trumps-order-opens-and-doesnt/",
+    "title": "Private Equity In Your 401(k)? What Trump’s Order Opens—And Doesn’t",
+    "fetched_on": "2025-08-22T07:19:23.892581+00:00",
+    "content": "Photo credit: Getty Images\r\nEarlier this month, President Donald Trump signed an executive order titled Democratizing Access to Alternative Assets for 401(k) Investors, directing the Department of La… [+4502 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Equity",
+      "Investors",
+      "Private",
+      "Trump",
+      "chars",
+      "Opens",
+      "Getty",
+      "President",
+      "Order",
+      "Photo"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/economy-finance/gst-relief-could-cut-insurance-premiums-by-up-to-15-depending-on-credit-claims",
+    "title": "GST Relief Could Cut Insurance Premiums By Up To 15%, Depending on Credit Claims",
+    "fetched_on": "2025-08-22T07:19:23.892581+00:00",
+    "content": "Amidst the recommendation by the group of ministers (GoM) to exempt GST on health and life insurance premiums, the biggest question for policyholders now is how much would the premium fall if the pro… [+2484 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GST",
+      "Insurance",
+      "Premiums",
+      "Depending",
+      "GoM",
+      "chars",
+      "Relief",
+      "Cut",
+      "Credit",
+      "Claims"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/21/credit-suisse-x-links-monthly-pay-2xleveraged-mortgage-reit-etn-nysearcareml-stock-price-up-0-2-still-a-buy/",
+    "title": "Credit Suisse X-Links Monthly Pay 2xLeveraged Mortgage REIT ETN (NYSEARCA:REML) Stock Price Up 0.2% – Still a Buy?",
+    "fetched_on": "2025-08-22T07:19:23.892581+00:00",
+    "content": "Credit Suisse X-Links Monthly Pay 2xLeveraged Mortgage REIT ETN (NYSEARCA:REML – Get Free Report)’s share price shot up 0.2% during trading on Wednesday . The company traded as high as $6.00 and last… [+731 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSEARCA",
+      "REML",
+      "Pay",
+      "Mortgage",
+      "ETN",
+      "Stock",
+      "Buy",
+      "Suisse",
+      "Monthly",
+      "REIT"
+    ]
   }
 ]
