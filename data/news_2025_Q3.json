@@ -517496,5 +517496,105 @@
       "Call",
       "Duty"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-22/china-s-major-banks-country-garden-held-back-as-stimulus-expectations-grow",
+    "title": "China’s Major Banks, Country Garden Held Back as Stimulus Expectations Grow",
+    "fetched_on": "2025-08-22T03:08:47.391922+00:00",
+    "content": "Industrial &amp; Commercial Bank of China Ltd., China Construction Bank Corp., Agricultural Bank of China Ltd. and Bank of China Ltd. probably saw earnings impacted by weaker loan demand amid limited government stimulus and a sluggish economy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Bank",
+      "Ltd.",
+      "Country",
+      "Industrial",
+      "Commercial",
+      "Corp.",
+      "Agricultural",
+      "Major",
+      "Garden"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e01a2b0794817521",
+    "title": "What to know about the Alaska Airlines and Hawaiian Airlines new Atmos rewards program",
+    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
+    "content": "SEATTLE Alaska Airlines is bringing together Alaska Airlines and Hawaiian Airlines under a single loyalty brand by launching Atmos Rewards and a new credit card.Alaska Airlines and Bank of America ha… [+151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airlines",
+      "Alaska",
+      "Hawaiian",
+      "Atmos",
+      "rewards",
+      "SEATTLE",
+      "Bank",
+      "America",
+      "chars",
+      "program"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/20/todays-nyt-mini-crossword-clues-and-answers-for-thursday-august-21st/",
+    "title": "Today’s NYT Mini Crossword Clues And Answers For Thursday, August 21st",
+    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nWere rapidly approaching the end of the work week. Huzzah! Another lovely summer… [+2378 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mini",
+      "Crossword",
+      "August",
+      "Thursday",
+      "NYT",
+      "Clues",
+      "Answers",
+      "Today",
+      "puzzle",
+      "Credit"
+    ]
+  },
+  {
+    "source": "7NEWS.com.au [NewsAPI]",
+    "url": "https://7news.com.au/sunrise/john-farnhams-sons-james-and-rob-share-what-helped-save-the-legendary-singer-in-cancer-battle-c-19753410",
+    "title": "John Farnham’s sons James and Rob share what helped ‘save’ the legendary singer in cancer battle",
+    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
+    "content": "Beloved Aussie singer John Farnhams sons, James and Rob, have credited cancer research with helping to save their father when he battled throat cancer in 2022.\r\nThe now 76-year-old underwent a 12-hou… [+2229 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "James",
+      "Rob",
+      "John",
+      "Farnham",
+      "Farnhams",
+      "Beloved",
+      "Aussie",
+      "cancer",
+      "sons",
+      "singer"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20250821PD210/quanta-techman-robot-automation-2026.html",
+    "title": "Quanta unit Techman brings AI humanoids to smart factories, mass production set for 2026",
+    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
+    "content": "Quanta's Techman unveiled its first AI humanoid robot, TM Xplore I. Credit: DIGITIMESTechman Robot, a unit of Quanta Computer, has introduced its first AI humanoid robot, the TM Xplore I, with mass p… [+146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "robot",
+      "Xplore",
+      "Quanta",
+      "Techman",
+      "Credit",
+      "Computer",
+      "chars",
+      "humanoid",
+      "factories",
+      "DIGITIMESTechman"
+    ]
   }
 ]
