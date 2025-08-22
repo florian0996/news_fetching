@@ -520455,5 +520455,145 @@
       "narrow",
       "tariff"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-22/austria-s-outlook-cut-to-negative-at-moody-s-on-budget-deficit",
+    "title": "Austria’s Outlook Cut to Negative at Moody’s on Budget Deficit",
+    "fetched_on": "2025-08-22T21:18:14.247820+00:00",
+    "content": "Austria’s sovereign credit outlook was cut to negative by Moody’s Investors Service in the latest setback for the government’s efforts to mend its finances.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moody",
+      "Austria",
+      "Cut",
+      "Negative",
+      "Outlook",
+      "Budget",
+      "Deficit",
+      "Investors",
+      "Service",
+      "finances"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-22/jpmorgan-private-credit-secondaries-head-carter-is-leaving-bank",
+    "title": "JPMorgan Private Credit Secondaries Head Carter Is Leaving Bank",
+    "fetched_on": "2025-08-22T21:18:13.894390+00:00",
+    "content": "JPMorgan Chase &amp; Co.’s Andrew Carter is departing the firm after about three years of leading its private credit secondaries strategy, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Carter",
+      "Chase",
+      "Co.’s",
+      "Private",
+      "Secondaries",
+      "Head",
+      "Leaving",
+      "Bank",
+      "Andrew"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-22/what-is-the-mortgage-fraud-the-fed-s-lisa-cook-is-accused-of",
+    "title": "What Is the Mortgage Fraud Lisa Cook Is Accused Of?",
+    "fetched_on": "2025-08-22T21:18:13.979647+00:00",
+    "content": "President Donald Trump has called on Federal Reserve Governor Lisa Cook to resign amid a claim by a top administration official that she may have engaged in so-called mortgage occupancy fraud by falsely labeling a secondary home as her primary residence to get better loan terms. Cook hasn’t been charged with any crimes, but the allegation put a spotlight on what experts say is a relatively common type of financial misconduct.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lisa",
+      "Cook",
+      "Accused",
+      "Mortgage",
+      "Fraud",
+      "Donald",
+      "Trump",
+      "Federal",
+      "Reserve",
+      "Governor"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20250819PD221/xiaomi-2nm-arm-tsmc-3nm.html",
+    "title": "Xiaomi readies next-gen XRing O2 chip as it pushes toward 2nm and beyond",
+    "fetched_on": "2025-08-22T21:18:13.023597+00:00",
+    "content": "Xiaomi to invest at least US$6.96B in R&amp;D over the next decade. Credit: XiaomiXiaomi is accelerating its in-house semiconductor development. After unveiling its first 3nm flagship SoC, the XRing … [+136 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Xiaomi",
+      "chip",
+      "decade",
+      "XRing",
+      "Credit",
+      "readies",
+      "next-gen",
+      "pushes",
+      "invest",
+      "chars"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/mikestubbs/2025/08/21/escape-from-tarkov-release-date-revealed/",
+    "title": "‘Escape From Tarkov’ Release Date Revealed",
+    "fetched_on": "2025-08-22T21:18:13.023597+00:00",
+    "content": "The Escape From Tarkov release date has been revealed. \r\nCredit: Battlestate Games / Mike Stubbs\r\nBattlestate Games has revealed the release date for Escape From Tarkov, which is set to leave its bet… [+2458 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Escape",
+      "Tarkov",
+      "Release",
+      "Date",
+      "Tarkov’",
+      "Revealed",
+      "Battlestate",
+      "Games",
+      "Mike",
+      "Stubbs"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/08/watch-schiff-starts-legal-defense-fund-incoming-mortgage/",
+    "title": "WATCH: Schiff Starts Legal Defense Fund for Incoming Mortgage Fraud Indictment, Accuses Trump Admin of Weaponizing Justice – Federal Housing Director Bill Pulte Responds (VIDEO)",
+    "fetched_on": "2025-08-22T21:18:13.023597+00:00",
+    "content": "Credit: Senate.gov\r\nDemocratic California Senator Adam Schiff has formed the “Senator Schiff Legal Defense Fund” as the Trump Department of Justice closes in on his mortgage fraud scheme.  \r\nAs The G… [+4780 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Defense",
+      "Schiff",
+      "Legal",
+      "Fund",
+      "WATCH",
+      "VIDEO",
+      "Credit",
+      "Trump",
+      "Justice",
+      "Senator"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4187292/$ECON-Week-of--Fed-balance-sheet-reserve-bank-credit-B",
+    "title": "Week of 8/20 Fed balance sheet reserve bank credit $17.960B",
+    "fetched_on": "2025-08-22T21:18:13.023597+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "Earnings",
+      "Week",
+      "credit",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows",
+      "balance",
+      "sheet"
+    ]
   }
 ]
