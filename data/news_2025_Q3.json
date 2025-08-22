@@ -520595,5 +520595,65 @@
       "balance",
       "sheet"
     ]
+  },
+  {
+    "source": "Marca [NewsAPI]",
+    "url": "https://www.marca.com/en/mlb/new-york-yankees/2025/08/21/68a7931122601dd95f8b459c.html",
+    "title": "Everyone except Aaron Judge is being disrespected on the Yankees but the team must push forward",
+    "fetched_on": "2025-08-22T22:18:56.977616+00:00",
+    "content": "Despite entering a positive streak, it seems the New York Yankees aren't getting the respect they deserve. At least, that's the sentiment for many who see the team not receiving the credit it merits,… [+2293 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Yankees",
+      "Aaron",
+      "Judge",
+      "York",
+      "team",
+      "streak",
+      "deserve",
+      "disrespected",
+      "push",
+      "forward"
+    ]
+  },
+  {
+    "source": "9to5Mac [NewsAPI]",
+    "url": "https://9to5mac.com/2025/08/21/leaker-shares-alleged-iphone-17-techwoven-case-colors/",
+    "title": "Leaker shares alleged iPhone 17 TechWoven case colors",
+    "fetched_on": "2025-08-22T22:18:56.977616+00:00",
+    "content": "Credit: Majin Bu\r\nLeaker Majin Bu has been saying that Apple will ditch its failed FineWoven cases for TechWoven, a new synthetic fabric with a more technical, less luxury vibe. Now, Bu has shared a … [+1654 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Majin",
+      "Credit",
+      "Leaker",
+      "Apple",
+      "TechWoven",
+      "iPhone",
+      "technical",
+      "vibe",
+      "shares",
+      "alleged"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/eb943572b3e83c68",
+    "title": "Atmos Rewards Business Visa Card: Huge Welcome Bonus With A Low Fee",
+    "fetched_on": "2025-08-22T22:18:56.977616+00:00",
+    "content": "Link: Apply now for the Atmos Rewards Visa Signature® Business CardThe Atmos Rewards Visa Signature® Business Card (review) is the business credit card of the Atmos Rewards program, which is the new … [+155 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rewards",
+      "Atmos",
+      "Signature",
+      "Visa",
+      "Business",
+      "Card",
+      "Huge",
+      "Link",
+      "Apply",
+      "review"
+    ]
   }
 ]
