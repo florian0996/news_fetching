@@ -517856,5 +517856,82 @@
       "disputed",
       "crypto"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-08-22/bloomberg-daybreak-europe-private-credit-fears-podcast",
+    "title": "Bloomberg Daybreak Europe: Private Credit Fears (Podcast)",
+    "fetched_on": "2025-08-22T06:31:40.497632+00:00",
+    "content": "Source: Bloomberg, 17:13",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Source",
+      "Bloomberg",
+      "17:13",
+      "Europe",
+      "Private",
+      "Fears",
+      "Daybreak",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-08-22/private-credit-fears-nvidia-h20-possible-demand-slowdown-more",
+    "title": "Private Credit Fears, Nvidia H20 Possible Demand Slowdown, More",
+    "fetched_on": "2025-08-22T06:31:40.497639+00:00",
+    "content": "Source: Bloomberg, 0:00",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nvidia",
+      "Bloomberg",
+      "0:00",
+      "Fears",
+      "Slowdown",
+      "Source",
+      "Credit",
+      "Demand",
+      "Private"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/why-collecting-a-no-dues-certificate-after-closing-a-personal-loan-is-crucial-ndc-loan-repayment-emi-11755753979555.html",
+    "title": "Why collecting a ‘No Dues Certificate’ after closing a personal loan is crucial",
+    "fetched_on": "2025-08-22T06:31:38.770037+00:00",
+    "content": "You took a personal loan and paid all the EMIs on time. After paying the last EMI, you think your personal loan journey is over. That is only partially true because an important step remains, which i… [+5769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dues",
+      "Certificate’",
+      "personal",
+      "loan",
+      "time",
+      "collecting",
+      "closing",
+      "crucial",
+      "paid",
+      "EMIs"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/0b8106a4b5cc0340",
+    "title": "It’s not a default if you never ask for cash — right?",
+    "fetched_on": "2025-08-22T06:31:38.770037+00:00",
+    "content": "Just asking for a private credit fund friend\r\nThis story appeared on ft.com, 2025-08-21 05:00:09.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cash",
+      "default",
+      "ft.com",
+      "private",
+      "credit",
+      "fund",
+      "friend",
+      "story",
+      "appeared"
+    ]
   }
 ]
