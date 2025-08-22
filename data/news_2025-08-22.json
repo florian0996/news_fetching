@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-21/default-warnings-start-to-pile-up-in-the-private-credit-market",
     "title": "Default Warnings Start to Pile Up in Private Credit Market",
     "fetched_on": "2025-08-22T03:08:47.392004+00:00",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-21/spirit-air-borrows-275-million-to-avoid-card-payment-disruption",
     "title": "Spirit Air Borrows $275 Million to Avoid Card Payment Disruption",
     "fetched_on": "2025-08-22T03:08:47.392058+00:00",
@@ -40,10 +40,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Economics [RSS]",
+    "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-21/snb-s-martin-says-credit-demand-shifting-to-swiss-focused-banks",
-    "title": "SNB's Martin Says Credit Demand Shifting to Swiss-Focused Banks",
-    "fetched_on": "2025-08-22T03:08:47.813947+00:00",
+    "title": "SNB\u2019s Martin Says Credit Demand Shifting to Swiss-Focused Banks",
+    "fetched_on": "2025-08-22T04:23:55.416997+00:00",
     "content": "The takeover of Credit Suisse by UBS Group AG has triggered a shift in the Swiss credit market, driving demand to domestically oriented banks, according to Swiss National Bank Vice President Antoine Martin.",
     "platforms_mentioned": [],
     "keywords": [
@@ -62,9 +62,9 @@
   {
     "source": "Thechronicle.com.gh [NewsAPI]",
     "url": "https://thechronicle.com.gh/ghanas-smes-face-higher-more-volatile-borrowing-costs/",
-    "title": "Ghana's SMEs face higher, more volatile borrowing costs...",
-    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
-    "content": "An analysis of the Annualized Percentage Rates (APRs) for June 2025 has revealed a significant disparity in loan costs, with households often receiving more favourable rates than Small and Medium Ent... [+2042 chars]",
+    "title": "Ghana\u2019s SMEs face higher, more volatile borrowing costs\u2026",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "An analysis of the Annualized Percentage Rates (APRs) for June 2025 has revealed a significant disparity in loan costs, with households often receiving more favourable rates than Small and Medium Ent\u2026 [+2042 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "APRs",
@@ -82,9 +82,9 @@
   {
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/f30b736d24732e08",
-    "title": "Bank won't lower your credit-card APR? Here's how to fight back",
-    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Target's CEO stepping down amid sales slump? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How are Trump tariffs... [+866 chars]",
+    "title": "Bank won\u2019t lower your credit-card APR? Here\u2019s how to fight back",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Target's CEO stepping down amid sales slump? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How are Trump tariffs\u2026 [+866 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "APR",
@@ -94,7 +94,7 @@
       "return",
       "false",
       "Bank",
-      "n’t",
+      "n\u2019t",
       "lower",
       "credit-card"
     ]
@@ -102,13 +102,13 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/jon-mclaren-talks-about-starring-in-crossroad-springs-and-when-hope-calls-on-great-american-family/article",
-    "title": "Jon McLaren talks about starring in ‘Crossroad Springs' and ‘When Hope Calls' on Great American Family",
-    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
-    "content": "Jon McLaren. Photo Credit: Matthew Bennett. BAFTA-nominated actor Jon McLaren (“Marvel's Guardians of the Galaxy”) chatted about starring in the new series “Crossroad Springs” and “When Hope Calls” ... [+6506 chars]",
+    "title": "Jon McLaren talks about starring in \u2018Crossroad Springs\u2019 and \u2018When Hope Calls\u2019 on Great American Family",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "Jon McLaren. Photo Credit: Matthew Bennett.\r\nBAFTA-nominated actor Jon McLaren (\u201cMarvel\u2019s Guardians of the Galaxy\u201d) chatted about starring in the new series \u201cCrossroad Springs\u201d and \u201cWhen Hope Calls\u201d \u2026 [+6506 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "Springs’",
-      "Calls’",
+      "Springs\u2019",
+      "Calls\u2019",
       "Great",
       "American",
       "Family",
@@ -302,12 +302,12 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/rawle-talks-about-his-new-single-unconditional-and-the-digital-age/article",
-    "title": "Rawle talks about his new single ‘Unconditional' and the digital age",
+    "title": "Rawle talks about his new single \u2018Unconditional' and the digital age",
     "fetched_on": "2025-08-22T01:40:43.680543+00:00",
-    "content": "Artist Rawle. Photo Credit: Steve West. Guyanese-Canadian artist Rawle chatted about his new single “Unconditional” and being a part of the digital age. How did Unconditional come about? Unconditi... [+3911 chars]",
+    "content": "Artist Rawle. Photo Credit: Steve West. Guyanese-Canadian artist Rawle chatted about his new single \u201cUnconditional\u201d and being a part of the digital age. How did Unconditional come about? Unconditi... [+3911 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "Unconditional’",
+      "Unconditional\u2019",
       "Rawle",
       "single",
       "Artist",
@@ -322,7 +322,7 @@
   {
     "source": "NerdWallet [NewsAPI]",
     "url": "https://www.nerdwallet.com/article/credit-cards/capital-one-revives-savorone-fair-credit#article",
-    "title": "Capital One Revives ‘SavorOne' Name With New Card for Fair Credit",
+    "title": "Capital One Revives \u2018SavorOne' Name With New Card for Fair Credit",
     "fetched_on": "2025-08-22T01:40:43.680543+00:00",
     "content": "The Savor family of cash back credit cards from Capital One has announced a new addition and they've named it after an ancestor that was recently laid to rest. You might call it SavorOne II. SavorTw... [+5114 chars]",
     "platforms_mentioned": [],
@@ -332,7 +332,7 @@
       "Credit",
       "Fair",
       "Savor",
-      "SavorOne’",
+      "SavorOne\u2019",
       "rest",
       "Card",
       "cards",
@@ -383,8 +383,8 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-08-22T03:08:53.515363+00:00",
-    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in...",
+    "fetched_on": "2025-08-22T04:24:00.917666+00:00",
+    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
       "Building",
@@ -403,7 +403,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/08/13/weekly-mortgage-refinancing-shoots-23percent-higher.html",
     "title": "Weekly mortgage refinancing demand shoots 23% higher, with riskier loans making a comeback",
-    "fetched_on": "2025-08-22T03:09:03.726014+00:00",
+    "fetched_on": "2025-08-22T04:24:11.352079+00:00",
     "content": "Mortgage rates dropped again last week, spurring big demand for mortgage refinancing. ARM loans also increased, as they offer lower rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,8 +423,8 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/07/30/fed-holds-interest-rates-steady-what-that-means-for-your-money.html",
     "title": "Fed holds interest rates steady: What that means for car loans, credit cards, mortgages and more",
-    "fetched_on": "2025-08-22T03:09:03.726086+00:00",
-    "content": "From credit cards, car loans, mortgages, savings and student debt, here's how the Federal Reserve's interest-rate decision influences your wallet.",
+    "fetched_on": "2025-08-22T04:24:11.352148+00:00",
+    "content": "From credit cards, car loans, mortgages, savings and student debt,\u00a0here's how the Federal Reserve's interest-rate decision influences your wallet.",
     "platforms_mentioned": [],
     "keywords": [
       "loans",
@@ -443,7 +443,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/08/08/ev-sales-trump-tax-credit.html",
     "title": "EV sales soar as Trump axes $7,500 tax credit: 'People are rushing out' to buy, analyst says",
-    "fetched_on": "2025-08-22T03:09:03.809480+00:00",
+    "fetched_on": "2025-08-22T04:24:11.495011+00:00",
     "content": "Consumers are acting ahead of a fast-approaching Sept. 30 deadline to claim the tax break for electric vehicles.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/20/student-loan-forgiveness-still-unavailable-on-ibr-plan.html",
     "title": "Student loan forgiveness remains unavailable under popular repayment plan",
-    "fetched_on": "2025-08-22T03:09:03.990604+00:00",
+    "fetched_on": "2025-08-22T04:24:11.631982+00:00",
     "content": "Student loan borrowers enrolled in a popular repayment plan remain blocked from debt forgiveness. Here's what to know about the delays.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/18/trump-public-service-loan-forgiveness-pslf-eligibility.html",
     "title": "Trump administration moves to 'prevent benefits' for some under popular student loan forgiveness program",
-    "fetched_on": "2025-08-22T03:09:03.990633+00:00",
+    "fetched_on": "2025-08-22T04:24:11.632011+00:00",
     "content": "The Trump administration says that its proposed changes to Public Service Loan Forgiveness \"may delay or prevent forgiveness for a subset of borrowers.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/15/student-loan-forgiveness-trump-pslf-backlog.html",
     "title": "46-year-old woman is weeks away from student loan forgiveness but stuck in Trump-era backlog",
-    "fetched_on": "2025-08-22T03:09:03.990668+00:00",
+    "fetched_on": "2025-08-22T04:24:11.632047+00:00",
     "content": "Tens of thousands of student loan borrowers who are likely eligible for Public Service Loan Forgiveness are stuck in limbo. CNBC spoke to three of them.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/15/public-service-loan-forgiveness-buyback-has-a-72730-person-backlog.html",
     "title": "Student loan forgiveness program has a 72,730-person backlog. Here's what borrowers need to know",
-    "fetched_on": "2025-08-22T03:09:03.990675+00:00",
+    "fetched_on": "2025-08-22T04:24:11.632054+00:00",
     "content": "Many student loan borrowers have likely heard about or experienced issues with the Public Service Loan Forgivness 'Buyback' program. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/13/older-student-loan-delinquencies-under-trump.html",
     "title": "Nearly 1 in 5 older student loan borrowers are seriously delinquent as Trump steps up collections",
-    "fetched_on": "2025-08-22T03:09:03.990753+00:00",
+    "fetched_on": "2025-08-22T04:24:11.632108+00:00",
     "content": "There's still time for older student loan borrowers who are behind on their bills to avoid default, and garnishment of their retirement benefits and wages.",
     "platforms_mentioned": [],
     "keywords": [
@@ -562,8 +562,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/12/bad-credit-score-subprime-tax.html",
-    "title": "Bad credit triggers a 'subprime tax,' Bankrate says - over decades, it can cost borrowers $100,000",
-    "fetched_on": "2025-08-22T03:09:03.990788+00:00",
+    "title": "Bad credit triggers a 'subprime tax,' Bankrate says \u2014 over decades, it can cost borrowers $100,000",
+    "fetched_on": "2025-08-22T04:24:11.632142+00:00",
     "content": "A credit score of 620 and below can cost Americans roughly $3,400 annually in interest and high premiums, a report found. Here's how to improve your credit.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/11/travel-credit-card-annual-fee.html",
     "title": "Travel card benefits are 'getting harder to maximize,' analyst says. What to know before you apply",
-    "fetched_on": "2025-08-22T03:09:03.990795+00:00",
+    "fetched_on": "2025-08-22T04:24:11.632149+00:00",
     "content": "Travel credit cards may be worth the cost as long as it fits your lifestyle. Otherwise, it may not make sense to have an expensive credit card in your wallet.",
     "platforms_mentioned": [],
     "keywords": [
@@ -600,10 +600,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-22/china-s-major-banks-country-garden-held-back-as-stimulus-expectations-grow",
-    "title": "China's Major Banks, Country Garden Held Back as Stimulus Expectations Grow",
-    "fetched_on": "2025-08-22T03:08:47.391922+00:00",
+    "title": "China\u2019s Major Banks, Country Garden Held Back as Stimulus Expectations Grow",
+    "fetched_on": "2025-08-22T04:23:54.478760+00:00",
     "content": "Industrial &amp; Commercial Bank of China Ltd., China Construction Bank Corp., Agricultural Bank of China Ltd. and Bank of China Ltd. probably saw earnings impacted by weaker loan demand amid limited government stimulus and a sluggish economy.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,8 +623,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/e01a2b0794817521",
     "title": "What to know about the Alaska Airlines and Hawaiian Airlines new Atmos rewards program",
-    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
-    "content": "SEATTLE Alaska Airlines is bringing together Alaska Airlines and Hawaiian Airlines under a single loyalty brand by launching Atmos Rewards and a new credit card.Alaska Airlines and Bank of America ha... [+151 chars]",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "SEATTLE Alaska Airlines is bringing together Alaska Airlines and Hawaiian Airlines under a single loyalty brand by launching Atmos Rewards and a new credit card.Alaska Airlines and Bank of America ha\u2026 [+151 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Airlines",
@@ -642,9 +642,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/08/20/todays-nyt-mini-crossword-clues-and-answers-for-thursday-august-21st/",
-    "title": "Today's NYT Mini Crossword Clues And Answers For Thursday, August 21st",
-    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
-    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle. Credit: NYT Were rapidly approaching the end of the work week. Huzzah! Another lovely summer... [+2378 chars]",
+    "title": "Today\u2019s NYT Mini Crossword Clues And Answers For Thursday, August 21st",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nWere rapidly approaching the end of the work week. Huzzah! Another lovely summer\u2026 [+2378 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Mini",
@@ -662,9 +662,9 @@
   {
     "source": "7NEWS.com.au [NewsAPI]",
     "url": "https://7news.com.au/sunrise/john-farnhams-sons-james-and-rob-share-what-helped-save-the-legendary-singer-in-cancer-battle-c-19753410",
-    "title": "John Farnham's sons James and Rob share what helped ‘save' the legendary singer in cancer battle",
-    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
-    "content": "Beloved Aussie singer John Farnhams sons, James and Rob, have credited cancer research with helping to save their father when he battled throat cancer in 2022. The now 76-year-old underwent a 12-hou... [+2229 chars]",
+    "title": "John Farnham\u2019s sons James and Rob share what helped \u2018save\u2019 the legendary singer in cancer battle",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "Beloved Aussie singer John Farnhams sons, James and Rob, have credited cancer research with helping to save their father when he battled throat cancer in 2022.\r\nThe now 76-year-old underwent a 12-hou\u2026 [+2229 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "James",
@@ -683,8 +683,8 @@
     "source": "Digitimes [NewsAPI]",
     "url": "https://www.digitimes.com/news/a20250821PD210/quanta-techman-robot-automation-2026.html",
     "title": "Quanta unit Techman brings AI humanoids to smart factories, mass production set for 2026",
-    "fetched_on": "2025-08-22T03:08:46.674288+00:00",
-    "content": "Quanta's Techman unveiled its first AI humanoid robot, TM Xplore I. Credit: DIGITIMESTechman Robot, a unit of Quanta Computer, has introduced its first AI humanoid robot, the TM Xplore I, with mass p... [+146 chars]",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "Quanta's Techman unveiled its first AI humanoid robot, TM Xplore I. Credit: DIGITIMESTechman Robot, a unit of Quanta Computer, has introduced its first AI humanoid robot, the TM Xplore I, with mass p\u2026 [+146 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "robot",
@@ -716,13 +716,126 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/mortgages/article/is-now-a-good-time-to-get-a-va-loan-162333765.html",
     "title": "Is now a good time to get a VA loan?",
-    "fetched_on": "2025-08-22T03:09:04.231253+00:00",
+    "fetched_on": "2025-08-22T04:24:11.850013+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "loan",
       "good",
       "time"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-22/warburg-backed-avanse-is-said-to-mull-ipo-delay-on-us-visa-rules",
+    "title": "Warburg-Backed Avanse Is Said to Mull IPO Delay on US Visa Rules",
+    "fetched_on": "2025-08-22T04:23:55.319539+00:00",
+    "content": "Avanse Financial Services Ltd., an Indian education financing provider backed by private equity firm Warburg Pincus, is considering delaying its initial public offering as demand for loans slows due to stricter US visa rules, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Visa",
+      "Avanse",
+      "Rules",
+      "Ltd.",
+      "Pincus",
+      "Mull",
+      "IPO",
+      "Delay",
+      "Financial",
+      "Services"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/cities/delhi/delhi-hc-ex-canara-bank-executive-director-graft-10202025/",
+    "title": "Delhi HC quashes proceedings against ex-Canara Bank executive director accused of graft in 2018",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "The Delhi High Court quashed criminal proceedings initiated by CBI against a former executive director of Canara Bank accused of allegedly causing loss to the bank by sanctioning a loan proposal, and\u2026 [+2355 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "chars",
+      "Delhi",
+      "High",
+      "Court",
+      "CBI",
+      "Canara",
+      "executive",
+      "director",
+      "accused"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/374577/granite-asia-strengthens-multi-asset-leadership-with-appointment-of-three-new-managing-partners",
+    "title": "Granite Asia Strengthens Multi-Asset Leadership with Appointment of Three New Managing Partners",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "Singapore (ANTARA/PRNewswire)- Granite Asia today announced the appointment of three new Managing Partners, further strengthening the firm's leadership across equity and private credit. These appoint\u2026 [+3872 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Granite",
+      "Managing",
+      "ANTARA",
+      "Asia",
+      "Partners",
+      "Singapore",
+      "Appointment",
+      "PRNewswire",
+      "Leadership",
+      "Strengthens"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/quarterly-earnings/bajaj-finance-cholamandalam-investment-shriram-finance-are-jefferies-top-picks-as-it-sees-improved-growth",
+    "title": "Bajaj Finance, Cholamandalam Investment, & Shriram Finance Among Jefferies' Top NBFC Picks - Here's Why",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "Jefferies expects that growth of non-banking financial services will stabilise while credit costs are expected to decline in the second half of the financial year 2026. The brokerage chose Bajaj Fina\u2026 [+830 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "Cholamandalam",
+      "Investment",
+      "Shriram",
+      "Picks",
+      "Jefferies'",
+      "Top",
+      "NBFC",
+      "Jefferies",
+      "financial"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sbis-home-loan-rate-hike-may-delay-purchases-impact-first-time-buyers-the-most-yugen-infra/articleshow/123405626.cms",
+    "title": "SBI\u2019s home loan rate hike may delay purchases, impact first-time buyers the most: Yugen Infra",
+    "fetched_on": "2025-08-22T04:23:53.809365+00:00",
+    "content": "In a conversation with ETMarkets, Amit Mamgain, Director at Yugen Infra, said that SBIs recent decision to hike home loan rates, even as the broader trend points to falling interest rates, could temp\u2026 [+3172 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Yugen",
+      "Infra",
+      "Amit",
+      "Mamgain",
+      "Director",
+      "loan",
+      "chars",
+      "home",
+      "purchases",
+      "impact"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/va-construction-loan-195032285.html",
+    "title": "What is a VA construction loan, and how does it work?",
+    "fetched_on": "2025-08-22T04:24:11.850045+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "work",
+      "construction"
     ]
   }
 ]
