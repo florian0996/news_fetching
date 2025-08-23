@@ -522133,5 +522133,105 @@
       "top",
       "vulnerable"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/news/hotels-seek-5-gst-to-ease-compliance-improve-competitiveness/article69964802.ece",
+    "title": "Hotels seek 5% GST to ease compliance, improve competitiveness",
+    "fetched_on": "2025-08-23T13:25:51.078695+00:00",
+    "content": "Hoteliers are seeking an uniform 5 per cent goods and services tax with input tax credit across entire hospitality and tourism sector to ease compliance and reduce cost burden for travellers.\r\nThis d… [+1783 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ease",
+      "GST",
+      "compliance",
+      "Hoteliers",
+      "tax",
+      "Hotels",
+      "seek",
+      "improve",
+      "uniform",
+      "travellers"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/08/22/3137846/0/en/Worldline-S-P-Global-ratings-downgrade.html",
+    "title": "Worldline : S&P Global ratings downgrade",
+    "fetched_on": "2025-08-23T13:25:51.078695+00:00",
+    "content": "Following S&amp;P Global Ratings decision to move Worldlines credit rating to BB, the Group confirms its continued focus on financial discipline \r\nParis, La Défense, August 22, 2025 Worldline [Eurone… [+5074 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Global",
+      "August",
+      "Eurone",
+      "Paris",
+      "Défense",
+      "chars",
+      "Worldline",
+      "ratings",
+      "Group",
+      "Worldlines"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/389676/a-black-moon-is-coming--but-what-exactly-is-that",
+    "title": "A 'black moon' is coming - but what exactly is that ?",
+    "fetched_on": "2025-08-23T13:25:51.078695+00:00",
+    "content": "Space &amp; Astronomy\r\nAugust 22, 2025 ·  1 commentThe Moon goes through many phases. Image Credit: Pixabay / PoncianoAstronomer Laura Nicole Driessen takes a look at some of the different types of l… [+4646 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Space",
+      "Astronomy",
+      "August",
+      "moon",
+      "Pixabay",
+      "black",
+      "coming",
+      "commentThe",
+      "phases",
+      "chars"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/platoon-hitters-to-target-in-the-final-stretch/",
+    "title": "Platoon Hitters to Target In the Final Stretch",
+    "fetched_on": "2025-08-23T13:25:51.078695+00:00",
+    "content": "Credit: Nick Turchiaro-Imagn Images\r\nRostering hitters who only hit against one type of pitcher can be challenging. You must pay extra attention in a world where paying extra attention is the only wa… [+7888 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Nick",
+      "Hitters",
+      "Target",
+      "Final",
+      "Stretch",
+      "Images",
+      "Rostering",
+      "Platoon",
+      "challenging"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/106814/meridianlink-and-jack-henry-expand-partnership",
+    "title": "MeridianLink and Jack Henry expand partnership",
+    "fetched_on": "2025-08-23T13:25:51.078695+00:00",
+    "content": "MeridianLink, Inc. (NYSE: MLNK), a leading provider of lending software platforms for financial institutions, and Jack Henry (Nasdaq: JKHY) today announced an expansion of their existing relationship… [+2345 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jack",
+      "Henry",
+      "NYSE",
+      "MLNK",
+      "Nasdaq",
+      "JKHY",
+      "MeridianLink",
+      "chars",
+      "expand",
+      "partnership"
+    ]
   }
 ]
