@@ -520845,5 +520845,85 @@
       "loan",
       "credit"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/21/todays-nyt-mini-crossword-clues-and-answers-for-friday-august-22nd/",
+    "title": "Today’s NYT Mini Crossword Clues And Answers For Friday, August 22nd",
+    "fetched_on": "2025-08-23T03:02:53.935999+00:00",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nWeve come to the end of the road. This is my last NYT Mini Guide for the next co… [+3823 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crossword",
+      "August",
+      "Friday",
+      "Mini",
+      "NYT",
+      "Clues",
+      "Answers",
+      "Today",
+      "puzzle",
+      "Weve"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/920894",
+    "title": "10% Cashback on Coles Deliver More Orders over $200 in Select Areas in VIC&NSW @ ShopBack",
+    "fetched_on": "2025-08-23T03:02:53.935999+00:00",
+    "content": "ExclusionsYou won't get Cashback on:Cigarettes and Tobacco purchasesColes InsuranceColes App ordersPurchases made using promo codes not featured on our platformAny Gift Card, Voucher or store credit … [+406 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NSW",
+      "Cashback",
+      "chars",
+      "VIC",
+      "Cigarettes",
+      "Card",
+      "Voucher",
+      "Coles",
+      "Deliver",
+      "Orders"
+    ]
+  },
+  {
+    "source": "Github.com [NewsAPI]",
+    "url": "https://github.com/thoughtbot/top_secret",
+    "title": "Show HN: A Ruby gem that filters sensitive information from free text",
+    "fetched_on": "2025-08-23T03:02:53.935999+00:00",
+    "content": "Filter sensitive information from free text before sending it to external services or APIs, such as chatbots and LLMs.\r\nBy default it filters the following:\r\n<ul><li>Credit cards</li><li>Emails</li><… [+12259 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "sensitive",
+      "information",
+      "free",
+      "Ruby",
+      "text",
+      "filters",
+      "Show",
+      "APIs",
+      "LLMs",
+      "Emails"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/920879",
+    "title": "Handee Ultra White Paper Towel, 24 Rolls Value Pack $24.00 ($21.60 with S&S) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+    "fetched_on": "2025-08-23T03:02:53.935999+00:00",
+    "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nCredit to Eggsperential/triple675 for prior… [+494 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delivery",
+      "Spend",
+      "Towel",
+      "Rolls",
+      "Pack",
+      "Prime",
+      "Amazon",
+      "Ultra",
+      "White",
+      "Paper"
+    ]
   }
 ]
