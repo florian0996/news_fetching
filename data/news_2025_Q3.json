@@ -523806,5 +523806,25 @@
       "cough",
       "billion"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://www.yahoo.com/news/articles/piedmont-board-member-company-hired-230618213.html",
+    "title": "Piedmont board member’s company hired to provide patients with medical credit cards",
+    "fetched_on": "2025-08-23T23:18:35.543013+00:00",
+    "content": "Piedmont board members company hired to provide patients with medical credit cards\r\nChannel 2 Action News Investigates has learned that Piedmont Healthcare hired the company of a long-time Piedmont b… [+3375 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Piedmont",
+      "hired",
+      "Channel",
+      "Action",
+      "board",
+      "provide",
+      "patients",
+      "medical",
+      "credit",
+      "company"
+    ]
   }
 ]
