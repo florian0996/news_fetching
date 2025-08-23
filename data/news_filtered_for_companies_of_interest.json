@@ -1,6 +1,17 @@
 {
-  "2025-08-22": {
+  "2025-08-23": {
     "status": "no company in the news"
+  },
+  "2025-08-22": {
+    "articles": [
+      {
+        "title": "Nuveen LLC Purchases Shares of 1,582,259 LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/08/21/nuveen-llc-purchases-shares-of-1582259-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-08-21": {
     "status": "no company in the news"
