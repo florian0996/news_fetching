@@ -520755,5 +520755,95 @@
       "Preston",
       "Restless"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178815658",
+    "title": "Deals: Pixel 10/Pro/Fold with up to $300 FREE Amazon credit or Pixel Watch 4 for FREE, The Frame Pro $700 off, more - 9to5Google",
+    "fetched_on": "2025-08-23T01:37:17.853441+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "Pixel",
+      "FREE",
+      "Fold",
+      "Watch",
+      "Print",
+      "Deals",
+      "Amazon",
+      "Frame",
+      "Fine"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-see-historic-tightening-of-credit-spreads-amidst-rating-upgrade/articleshow/123442149.cms",
+    "title": "Indian bonds see historic tightening of credit spreads amidst rating upgrade",
+    "fetched_on": "2025-08-23T01:37:17.853441+00:00",
+    "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "Share",
+      "Telegram",
+      "market",
+      "Sensex",
+      "Nifty",
+      "Track",
+      "Indian",
+      "upgrade",
+      "stock"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/big-pipelines-slow-disbursements-india-inc-keeps-psu-bank-credit-on-hold-11755774691942.html",
+    "title": "Big pipelines, slow disbursements: India Inc keeps PSU bank credit on hold",
+    "fetched_on": "2025-08-23T01:37:17.853441+00:00",
+    "content": "Mumbai: Indias state-owned banks are sounding more upbeat than their private peers when it comes to corporate lending. SBI, PNB and Bank of Baroda have all lined up massive sanctioned loan pipelines,… [+7725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mumbai",
+      "India",
+      "Indias",
+      "PSU",
+      "pipelines",
+      "Big",
+      "slow",
+      "disbursements",
+      "lending",
+      "SBI"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/zero-emission-credit-revenue-dries-184113377.html",
+    "title": "As Zero-Emission Credit Revenue Dries Up, What Does That Mean for Tesla Stock?",
+    "fetched_on": "2025-08-23T01:37:52.460554+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stock",
+      "Credit",
+      "Revenue",
+      "Dries",
+      "Tesla",
+      "Zero-Emission"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/comparison/personal-loan-vs-credit-card-212658024.html",
+    "title": "Personal loan vs. credit card: Is one better than the other?",
+    "fetched_on": "2025-08-23T01:37:52.460705+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Personal",
+      "card",
+      "loan",
+      "credit"
+    ]
   }
 ]
