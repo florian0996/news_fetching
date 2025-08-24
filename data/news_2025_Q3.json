@@ -524092,5 +524092,104 @@
       "lifeline",
       "critical"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b5d3168365df2c24",
+    "title": "5 museum-grade cartoons about Trump's Smithsonian purge",
+    "fetched_on": "2025-08-24T08:24:06.261760+00:00",
+    "content": "(Image credit: Mike Luckovich / Copyright 2025 Creators Syndicate)(Image credit: Nick Anderson / Copyright 2025 Tribune Content Agency)(Image credit: Michael de Adder / Copyright 2025 Cagle Cartoons,… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Image",
+      "credit",
+      "Mike",
+      "Luckovich",
+      "Creators",
+      "Syndicate",
+      "Nick",
+      "Anderson",
+      "Tribune"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/23/swiss-national-bank-has-2-25-million-stock-position-in-lendingclub-corporation-lc/",
+    "title": "Swiss National Bank Has $2.25 Million Stock Position in LendingClub Corporation $LC",
+    "fetched_on": "2025-08-24T08:24:06.261760+00:00",
+    "content": "Swiss National Bank reduced its holdings in LendingClub Corporation (NYSE:LC – Free Report) by 1.0% during the 1st quarter, according to the company in its most recent disclosure with the SEC. The fu… [+6021 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Corporation",
+      "National",
+      "Bank",
+      "NYSE",
+      "Swiss",
+      "LendingClub",
+      "Million",
+      "Free",
+      "Report",
+      "SEC"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/2025-Ford-Mustang-Mach-E-AWD-lease-for-just-259-month.1094779.0.html",
+    "title": "2025 Ford Mustang Mach-E AWD lease for just $259/month",
+    "fetched_on": "2025-08-24T08:24:06.261760+00:00",
+    "content": "Looking to lease a high-performance electric SUV that can also serve as a family hauler? Now might be the best time to take advantage of the Ford Credit Red Carpet Lease program on the Mustang Mach-E… [+1533 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mustang",
+      "AWD",
+      "SUV",
+      "Ford",
+      "lease",
+      "month",
+      "hauler",
+      "Mach-E",
+      "high-performance",
+      "electric"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/dave-ramsey-warns-americans-1-023131988.html",
+    "title": "Dave Ramsey Warns Americans $1.21 Trillion Credit Card Debt Is A Wake-Up Call Saying 90% Of Solving A Problem Is Realizing It 'Exists'",
+    "fetched_on": "2025-08-24T08:24:41.794842+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Exists'",
+      "Americans",
+      "Trillion",
+      "Ramsey",
+      "Warns",
+      "Credit",
+      "Card",
+      "Debt",
+      "Call",
+      "Solving"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/jpmorgan-jpm-mufg-eye-22b-035708165.html",
+    "title": "JPMorgan (JPM) and MUFG Eye $22B Loan for Texas AI-Driven Data Hub",
+    "fetched_on": "2025-08-24T08:24:41.795087+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "JPM",
+      "JPMorgan",
+      "Eye",
+      "Loan",
+      "Hub",
+      "MUFG",
+      "Texas",
+      "Data",
+      "AI-Driven"
+    ]
   }
 ]
