@@ -523992,5 +523992,25 @@
       "Parker",
       "race"
     ]
+  },
+  {
+    "source": "SamMobile [NewsAPI]",
+    "url": "https://www.sammobile.com/news/samsung-takes-critical-step-towards-supremacy-qled-qd-oled-tvs/",
+    "title": "Samsung takes critical step towards supremacy in QLED and QD-OLED TVs",
+    "fetched_on": "2025-08-24T05:19:56.391473+00:00",
+    "content": "Samsung has been the number one television brand globally for the last nineteen years consecutively. The credit for the South Korean tech giant being the largest TV manufacturer in the last few years… [+1288 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Samsung",
+      "QLED",
+      "QD-OLED",
+      "consecutively",
+      "years",
+      "critical",
+      "step",
+      "supremacy",
+      "TVs",
+      "number"
+    ]
   }
 ]
