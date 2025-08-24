@@ -524951,5 +524951,65 @@
       "year",
       "livestock"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_602f6cef-5232-45d5-81bc-aed1534c4ce7",
+    "title": "Judge strikes down Minnesota law banning religious tests for college credit program",
+    "fetched_on": "2025-08-24T19:15:50.854512+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Minnesota",
+      "IAB",
+      "Judge",
+      "click"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/08/bed-bath-beyonds-ceo-smacks-down-gavin-newsom/",
+    "title": "Bed Bath and Beyond’s CEO Smacks Down Gavin Newsom After California Governor Pathetically Taunts the Company For Leaving His Failing State (VIDEO)",
+    "fetched_on": "2025-08-24T19:15:50.854512+00:00",
+    "content": "Credit; Fox News screenshot\r\nCalifornia Governor Gavin Newsom ended up red-faced after once again trying to dunk on Bed Bath and Beyond for leaving his failing state for greener pastures.\r\nAs The Gat… [+4333 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bath",
+      "Gavin",
+      "Newsom",
+      "California",
+      "Governor",
+      "VIDEO",
+      "Credit",
+      "Leaving",
+      "Failing",
+      "Bed"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2025/08/23/entertainment/sarah-jessica-parker-takes-credit-for-viral-ajlt-fashion-piece/",
+    "title": "Sarah Jessica Parker takes credit for this viral ‘And Just Like That… ‘ fashion piece",
+    "fetched_on": "2025-08-24T19:15:50.854512+00:00",
+    "content": "And just like that, Sarah Jessica Parker was sent into a fashion frenzy. \r\nThe actress, 60, recently revealed that it was her choice for Carrie Bradshaw to wear the massive cloud hat in the “And Just… [+5471 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sarah",
+      "Jessica",
+      "Parker",
+      "fashion",
+      "viral",
+      "frenzy",
+      "credit",
+      "piece",
+      "chars",
+      "Carrie"
+    ]
   }
 ]
