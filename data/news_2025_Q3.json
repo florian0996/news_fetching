@@ -523826,5 +523826,45 @@
       "credit",
       "company"
     ]
+  },
+  {
+    "source": "Billboard [NewsAPI]",
+    "url": "http://www.billboard.com/pro/missy-elliott-settles-writing-credit-lawsuit/",
+    "title": "Missy Elliott Settles Writing Credit Lawsuit Right Before Trial",
+    "fetched_on": "2025-08-24T01:49:51.610506+00:00",
+    "content": "Missy Elliot has reached a settlement with a music producer who claims to have co-written several of her songs from the 1990s, resolving the nearly seven-year-old dispute just as a trial was about to… [+2019 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Missy",
+      "Trial",
+      "Elliott",
+      "Settles",
+      "Writing",
+      "Credit",
+      "Lawsuit",
+      "Elliot",
+      "resolving"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6b49165ce8b7117d",
+    "title": "Credit union plans cafe-style campus expansion in south San Jose",
+    "fetched_on": "2025-08-24T01:49:51.610506+00:00",
+    "content": "A well-known coffee chain could become an integral part of MeriWest's strategy to create a community-focused campus in Silicon Valley.\r\nThis story appeared on bizjournals.com, 2025-08-22 23:03:23.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Valley",
+      "San",
+      "Jose",
+      "Silicon",
+      "Credit",
+      "campus",
+      "union",
+      "plans",
+      "cafe-style",
+      "expansion"
+    ]
   }
 ]
