@@ -524251,5 +524251,65 @@
       "calm",
       "weeks"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/mikestubbs/2025/08/23/the-esports-nations-cup-might-actually-make-national-competition-work/",
+    "title": "The Esports Nations Cup Might Actually Make National Competition Work",
+    "fetched_on": "2025-08-24T11:15:40.629942+00:00",
+    "content": "A new esports competition is here. \r\nCredit: Esports World Cup Foundation\r\nThe Esports World Cup Foundation has announced the Esports Nations Cup, a new competition that will see players and teams co… [+4390 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Esports",
+      "Cup",
+      "Nations",
+      "Make",
+      "National",
+      "Work",
+      "Competition",
+      "World",
+      "Foundation",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Screen Rant [NewsAPI]",
+    "url": "https://screenrant.com/fairy-tail-true-succesor-edens-zero-netflix/",
+    "title": "Fairy Tail’s True Successor Is Netflix's Eden's Zero",
+    "fetched_on": "2025-08-24T11:15:40.629942+00:00",
+    "content": "For years, Fairy Tail stood tall as one of the most beloved shnen anime, blending magic, humor, and heartfelt friendships into a story that kept fans invested for over a decade. But after the series … [+3263 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fairy",
+      "Tail",
+      "humor",
+      "True",
+      "Successor",
+      "Netflix",
+      "Eden",
+      "years",
+      "anime",
+      "blending"
+    ]
+  },
+  {
+    "source": "Crankyflier.com [NewsAPI]",
+    "url": "https://crankyflier.com/2025/08/23/cranky-on-the-web-spirits-trouble/",
+    "title": "Cranky on the Web: Spirit’s Trouble",
+    "fetched_on": "2025-08-24T11:15:40.629942+00:00",
+    "content": "Spirit Airlines is on shakier ground after avoiding hard decisions in bankruptcy – CNBCSpirit continues to teeter, most recently agreeing to extend its credit card processor agreement but only after … [+60 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Web",
+      "Spirit",
+      "Trouble",
+      "Airlines",
+      "Cranky",
+      "bankruptcy",
+      "CNBCSpirit",
+      "teeter",
+      "shakier"
+    ]
   }
 ]
