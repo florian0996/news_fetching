@@ -524231,5 +524231,25 @@
       "Credit",
       "asked"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-saturday-august-23-2025-100040041.html",
+    "title": "HELOC rates today, August 23, 2025: Rates expected to remain calm for weeks",
+    "fetched_on": "2025-08-24T10:20:09.321606+00:00",
+    "content": "HELOC rates today are mostly unchanged. Little movement is expected between now and the next Federal Reserve interest rate announcement on September 17. That's when home equity line of credit interes… [+3992 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "August",
+      "rates",
+      "today",
+      "unchanged",
+      "expected",
+      "September",
+      "remain",
+      "calm",
+      "weeks"
+    ]
   }
 ]
