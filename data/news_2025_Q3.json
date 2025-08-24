@@ -524351,5 +524351,65 @@
       "NEWSWIRE",
       "Borrowers"
     ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/08/23/electric-vehicle-sales-surge-as-end-of-tax-credits-nears/",
+    "title": "Electric vehicle sales surge as end of tax credits nears",
+    "fetched_on": "2025-08-24T13:26:35.461738+00:00",
+    "content": "By Summer Ballentine, The Detroit News\r\nMichael MacGillivray had planned for months to replace his gas-powered Ford Bronco with an electric vehicle.\r\nAs a certified public accountant, he followed con… [+6053 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ballentine",
+      "Summer",
+      "Detroit",
+      "Michael",
+      "Ford",
+      "Bronco",
+      "Electric",
+      "vehicle",
+      "chars",
+      "sales"
+    ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/08/23/evs-you-can-lease-for-under-300-a-month-in-august/",
+    "title": "Here are all the EVs you can still lease for under $300 a month in August",
+    "fetched_on": "2025-08-24T13:26:35.461738+00:00",
+    "content": "With just over a month left until the $7,500 federal tax credit for electric vehicles expires, automakers are pushing the savings. We’ve put together a list of all the EVs you can still lease for und… [+5140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "month",
+      "August",
+      "EVs",
+      "lease",
+      "federal",
+      "expires",
+      "automakers",
+      "savings",
+      "left",
+      "tax"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/94beb0757be55908",
+    "title": "Raghuram Rajan Says Fed Chair Powell Should Get More Credit",
+    "fetched_on": "2025-08-24T13:26:35.461738+00:00",
+    "content": "Fed Chair Jerome Powell opened the door slightly to a potential rate cut in September in his remarks at the Fed's annual ...\r\nThis story appeared on youtube.com, 2025-08-23 12:06:09.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "Chair",
+      "Powell",
+      "Rajan",
+      "Credit",
+      "Jerome",
+      "September",
+      "Raghuram",
+      "annual",
+      "opened"
+    ]
   }
 ]
