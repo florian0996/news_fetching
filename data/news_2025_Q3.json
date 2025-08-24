@@ -525131,5 +525131,65 @@
       "college",
       "strikes"
     ]
+  },
+  {
+    "source": "On3.com [NewsAPI]",
+    "url": "https://www.on3.com/sites/bulls-insider/news/could-usf-solve-the-accs-scheduling-dilemma/",
+    "title": "Could USF solve the ACC’s scheduling dilemma?",
+    "fetched_on": "2025-08-24T22:19:09.519939+00:00",
+    "content": "Sep 21, 2024; Tampa, Florida, USA; Miami Hurricanes head coach Mario Cristobal greet South Florida Bulls head coach Alex Goulash after a game at Raymond James Stadium. Mandatory Credit: Nathan Ray Se… [+254 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "USF",
+      "ACC",
+      "Tampa",
+      "USA",
+      "dilemma",
+      "Florida",
+      "Miami",
+      "Stadium",
+      "Sep",
+      "solve"
+    ]
+  },
+  {
+    "source": "Onegoodthingbyjillee.com [NewsAPI]",
+    "url": "https://www.onegoodthingbyjillee.com/10-brilliant-ironing-hacks/",
+    "title": "These 10 Brilliant Hacks Make Ironing Fast And Easy",
+    "fetched_on": "2025-08-24T22:19:09.519939+00:00",
+    "content": "My husbands white dress shirts are always impeccably ironed. Unfortunately I cant take credit for it. He is a little compulsive when it comes to his shirts, and he actually prefers to iron them himse… [+4039 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brilliant",
+      "Hacks",
+      "Make",
+      "Ironing",
+      "Fast",
+      "Easy",
+      "ironed",
+      "husbands",
+      "white",
+      "dress"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/921056",
+    "title": "Citi Premier Credit Card: 110,000 Bonus Velocity Points - $8k Spend in 3 Months, $300 Annual Fee @ Citibank",
+    "fetched_on": "2025-08-24T22:19:09.519939+00:00",
+    "content": "Once you meet the spend criteria and enrol into Points Autosweep, you will receive 220,000 Citi reward Points which will be automatically transferred to 110,000 Velocity Points and credited to your V… [+1436 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Points",
+      "Velocity",
+      "Citi",
+      "Months",
+      "Card",
+      "Bonus",
+      "Annual",
+      "Fee",
+      "Citibank",
+      "Autosweep"
+    ]
   }
 ]
