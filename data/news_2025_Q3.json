@@ -523912,5 +523912,85 @@
       "Framework",
       "Ramsey"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/fitch-affirms-us-credit-at-aa-rising-debt-a-ratings-constraint/articleshow/123465863.cms",
+    "title": "Fitch affirms US credit at 'AA+', rising debt a ratings constraint",
+    "fetched_on": "2025-08-24T04:26:58.415892+00:00",
+    "content": "Fitch affirmed the U.S. credit rating at \"AA+\" on Friday, highlighting concerns over rising debt levels while also citing the country's large, high-income economy, and its financing flexibility due t… [+2034 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Friday",
+      "Fitch",
+      "rising",
+      "debt",
+      "highlighting",
+      "large",
+      "high-income",
+      "economy",
+      "credit"
+    ]
+  },
+  {
+    "source": "Trendhunter.com [NewsAPI]",
+    "url": "https://www.trendhunter.com/trends/uneek-loafer-wk",
+    "title": "Outdoor Formal Hybrid Loafers - KEEN UNEEK Loafer WK Reimagines Corded Design with Premium Materials (TrendHunter.com)",
+    "fetched_on": "2025-08-24T04:26:58.415892+00:00",
+    "content": "The KEEN UNEEK Loafer WK reimagines the corded silhouette by blending the brands iconic woven upper with a classic loafer form to create an outdoor formal hybrid. Retailing at $190 USD and dropping o… [+769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loafer",
+      "UNEEK",
+      "KEEN",
+      "Formal",
+      "Hybrid",
+      "Reimagines",
+      "Materials",
+      "Corded",
+      "Design",
+      "Premium"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/why-lyle-menendez-was-denied-parole-5435876/",
+    "title": "Why Lyle Menendez Was Denied Parole: Court’s Reasons for His Rejection",
+    "fetched_on": "2025-08-24T04:26:58.415892+00:00",
+    "content": "View galleryImage Credit: Stephen Kim\r\nLyle Menendezhas been denied parole one day after his younger brother, Erik Menendez, had the same result. The brothers, who fatally shot their parents, Kitty a… [+2584 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lyle",
+      "Menendez",
+      "Court",
+      "Credit",
+      "Stephen",
+      "Erik",
+      "Denied",
+      "Parole",
+      "Reasons",
+      "Rejection"
+    ]
+  },
+  {
+    "source": "NBCSports.com [NewsAPI]",
+    "url": "https://www.nbcsports.com/nascar/news/parker-kligerman-drives-connor-zilischs-car-to-win-in-nascar-xfinity-race-at-daytona",
+    "title": "Parker Kligerman drives Connor Zilisch's car to win in NASCAR Xfinity race at Daytona",
+    "fetched_on": "2025-08-24T04:26:58.415892+00:00",
+    "content": "DAYTONA BEACH, Fla. Parker Kligerman drove the car across the finish line but Connor Zilisch will get credit for the victory in Fridays NASCAR Xfinity Series race at Daytona International Speedway.\r\n… [+2387 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fla",
+      "BEACH",
+      "Daytona",
+      "Kligerman",
+      "Connor",
+      "Zilisch",
+      "NASCAR",
+      "Xfinity",
+      "Parker",
+      "race"
+    ]
   }
 ]
