@@ -1,6 +1,31 @@
 {
-  "2025-08-23": {
+  "2025-08-24": {
     "status": "no company in the news"
+  },
+  "2025-08-23": {
+    "articles": [
+      {
+        "title": "Analysts Set LendingClub Corporation (NYSE:LC) PT at $16.57",
+        "url": "https://www.etfdailynews.com/2025/08/22/analysts-set-lendingclub-corporation-nyselc-pt-at-16-57/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub (NYSE:LC) vs. Grenke (OTCMKTS:GKSGF) Critical Contrast",
+        "url": "https://www.etfdailynews.com/2025/08/22/lendingclub-nyselc-vs-grenke-otcmktsgksgf-critical-contrast/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Vanguard Group Inc. Has $122.35 Million Stake in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/08/22/vanguard-group-inc-has-122-35-million-stake-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-08-22": {
     "articles": [
