@@ -526418,5 +526418,105 @@
       "tax",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/opinion/newsletters/2025-08-25/there-are-a-lot-of-etfs",
+    "title": "There Are a Lot of ETFs",
+    "fetched_on": "2025-08-25T18:30:43.418054+00:00",
+    "content": "<p>Also Intel, Virgin Orbit, Bollinger Innovations, continuation fund loans and a light snack.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Intel",
+      "Virgin",
+      "Orbit",
+      "Bollinger",
+      "Innovations",
+      "Lot",
+      "ETFs",
+      "continuation",
+      "snack.",
+      "fund"
+    ]
+  },
+  {
+    "source": "WREG NewsChannel 3 [NewsAPI]",
+    "url": "https://wreg.com/news/local/carjackers-spray-chemicals-at-man-steal-his-car-mpd/",
+    "title": "Carjackers spray chemicals at man, steal his car: MPD",
+    "fetched_on": "2025-08-25T18:30:42.326715+00:00",
+    "content": "MEMPHIS, Tenn. Police say carjackers sprayed chemicals in a mans face before pulling him out of his Ford Focus and stealing it.\r\nTwo women were seen the next day using the victims credit card at a Sa… [+923 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tenn",
+      "MPD",
+      "MEMPHIS",
+      "steal",
+      "car",
+      "Carjackers",
+      "chemicals",
+      "spray",
+      "Ford",
+      "Focus"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/vegetable-oils-body-seeks-removal-of-gst-refund-restrictions/articleshow/123488350.cms",
+    "title": "Vegetable oils body seeks removal of GST refund restrictions",
+    "fetched_on": "2025-08-25T18:30:42.326715+00:00",
+    "content": "Vegetable oil industry body IVPA has urged the government to lift restrictions on tax credit refunds in place since July 2022, saying the curbs are straining working capital and deterring investment … [+1383 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "July",
+      "Vegetable",
+      "GST",
+      "IVPA",
+      "investment",
+      "body",
+      "restrictions",
+      "seeks",
+      "removal"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/techcrunch-mobility-waymo-big-apple-180500095.html",
+    "title": "TechCrunch Mobility: Waymo’s Big Apple score and Nvidia backs Nuro",
+    "fetched_on": "2025-08-25T18:30:42.326715+00:00",
+    "content": "Image Credits:Waymo\r\nHey, all, and happy Friday! Welcome back to TechCrunch Mobility, your hub for news, analysis, and scoops around the future of transportation. To get this in your inbox, sign up h… [+4770 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Waymo",
+      "Mobility",
+      "Credits",
+      "Hey",
+      "Friday",
+      "Big",
+      "Apple",
+      "Nvidia",
+      "Nuro",
+      "Image"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/kevin-jonas-net-worth-5436037/",
+    "title": "Kevin Jonas Net Worth 2025: How Much Money He Has Now",
+    "fetched_on": "2025-08-25T18:30:42.326715+00:00",
+    "content": "View galleryImage Credit: Getty Images\r\nKevin Jonasis part of one of Americas most famous and successful bands, but hes had to explore different paths over the years primarily between the Jonas Broth… [+2511 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Worth",
+      "Credit",
+      "Getty",
+      "Broth",
+      "Jonas",
+      "Kevin",
+      "Net",
+      "Money",
+      "View"
+    ]
   }
 ]
