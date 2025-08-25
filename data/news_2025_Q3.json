@@ -525653,5 +525653,40 @@
       "Loan",
       "millennials"
     ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/08/24/healeys-tech-secretary-used-taxpayer-funded-credit-cards-to-hire-high-end-chauffeurs/",
+    "title": "Healey’s tech secretary used taxpayer-funded credit cards to hire high-end chauffeurs",
+    "fetched_on": "2025-08-25T09:24:01.343885+00:00",
+    "content": "Gov. Maura Healeys technology services and security secretary spent thousands on taxpayer-funded credit cards last fiscal year to stay at a four-star hotel in Barcelona and hire on-demand chauffeur s… [+7724 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gov",
+      "credit",
+      "taxpayer-funded",
+      "cards",
+      "chars",
+      "secretary",
+      "hire",
+      "tech",
+      "high-end",
+      "Barcelona"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/unicredit-raises-physical-stake-in-commerzbank-to-26-95ee1896?siteid=yhoof2&yptr=yahoo",
+    "title": "UniCredit Raises Physical Stake in Commerzbank to 26%",
+    "fetched_on": "2025-08-25T09:24:36.523005+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raises",
+      "Physical",
+      "Stake",
+      "Commerzbank",
+      "UniCredit"
+    ]
   }
 ]
