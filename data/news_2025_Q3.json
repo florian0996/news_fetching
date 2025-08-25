@@ -525393,5 +525393,125 @@
       "Access",
       "exte"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-25/asia-bond-talks-pick-up-as-issuers-eye-tight-spreads-fed-cues",
+    "title": "Asia Bond Talks Pick Up as Issuers Eye Tight Spreads, Fed Cues",
+    "fetched_on": "2025-08-25T06:33:38.027424+00:00",
+    "content": "Several Asian borrowers are opening talks with investors this week on dollar bond deals, aiming to lock in some of the tightest credit spreads seen in decades amid growing expectations for further US interest rate cuts.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "Bond",
+      "Talks",
+      "Spreads",
+      "Pick",
+      "Issuers",
+      "Eye",
+      "Tight",
+      "Cues",
+      "Asian"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/24/critical-comparison-nuveen-churchill-direct-lending-nysencdl-vs-barings-bdc-nysebbdc/",
+    "title": "Critical Comparison: Nuveen Churchill Direct Lending (NYSE:NCDL) vs. BARINGS BDC (NYSE:BBDC)",
+    "fetched_on": "2025-08-25T06:33:35.637740+00:00",
+    "content": "Nuveen Churchill Direct Lending (NYSE:NCDL – Get Free Report) and BARINGS BDC (NYSE:BBDC – Get Free Report) are both small-cap finance companies, but which is the better business? We will compare the… [+5459 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "NCDL",
+      "BBDC",
+      "Nuveen",
+      "Lending",
+      "BDC",
+      "Report",
+      "Churchill",
+      "Direct",
+      "Free"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/fiserv-inc-fi-signs-8-062333542.html",
+    "title": "Fiserv, Inc. (FI) Signs New $8 Billion Revolving Credit Facility",
+    "fetched_on": "2025-08-25T06:33:35.637740+00:00",
+    "content": "Fiserv, Inc. (NYSE:FI) is among the 13 Best S&amp;P 500 Stocks to Buy According to Wall Street Analysts. On August 12, the company announced that it had signed a new credit agreement with JPMorgan Ch… [+1415 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fiserv",
+      "NYSE",
+      "Signs",
+      "Billion",
+      "Credit",
+      "Stocks",
+      "Analysts",
+      "Revolving",
+      "Facility",
+      "August"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/24/b-riley-issues-pessimistic-estimate-for-ccif-earnings/",
+    "title": "B. Riley Issues Pessimistic Estimate for CCIF Earnings",
+    "fetched_on": "2025-08-25T06:33:35.637740+00:00",
+    "content": "Carlyle Credit Income Fund (NYSE:CCIF – Free Report) – B. Riley reduced their Q4 2025 earnings per share (EPS) estimates for Carlyle Credit Income Fund in a research note issued on Thursday, August 2… [+4527 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "EPS",
+      "August",
+      "Credit",
+      "Income",
+      "Riley",
+      "Carlyle",
+      "Fund",
+      "chars",
+      "Free"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/unicredit-erhoeht-direkten-commerzbank-anteil-auf-26-prozent-14758711",
+    "title": "Unicredit erhöht direkten Commerzbank-Anteil auf 26 Prozent",
+    "fetched_on": "2025-08-25T06:34:05.186865+00:00",
+    "content": "<p>DOW JONES--Unicredit erhöht den direkt gehaltenen Anteil an der <a href=\"https://www.finanzen.net/aktien/commerzbank-aktie\" rel=\"noopener\" target=\"_blank\">Commerzbank</a> weiter. Wie die italienische Bank mitteilte, hat sie weitere Finanzinstrumente in Aktien an dem DAX-Konzern  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unicredit",
+      "Prozent",
+      "Commerzbank",
+      "rel",
+      "noopener",
+      "target",
+      "blank",
+      "weiter",
+      "DOW",
+      "JONES"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/unicredit-erhoeht-anteil-an-commerzbank-auf-26-prozent-14758710",
+    "title": "Unicredit erhöht Anteil an Commerzbank auf 26 Prozent",
+    "fetched_on": "2025-08-25T06:34:05.186871+00:00",
+    "content": "<p>FRANKFURT/MAILAND (dpa-AFX) - Die <a href=\"https://www.finanzen.net/aktien/unicredit-aktie\">UniCredit</a> hat ihren direkten Anteil an der <a href=\"https://www.finanzen.net/aktien/commerzbank-aktie\">Commerzbank</a> nach eigenen Angaben auf rund 26 Prozent ausgebaut. Der Schritt war erwartet worden. ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Prozent",
+      "Anteil",
+      "Commerzbank",
+      "href",
+      "FRANKFURT",
+      "MAILAND",
+      "Die",
+      "Unicredit",
+      "Angaben",
+      "dpa-AFX"
+    ]
   }
 ]
