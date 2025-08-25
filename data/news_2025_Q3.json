@@ -526360,5 +526360,63 @@
       "works",
       "loan"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/walker-hayes-talks-about-his-17-problems-country-album/article",
+    "title": "Walker Hayes talks about his ’17 Problems’ country album and being an artist in the digital age",
+    "fetched_on": "2025-08-25T17:17:04.674320+00:00",
+    "content": "Walker Hayes. Photo Credit: Emma Delevante.\r\nMulti-platinum-selling country artist Walker Hayes chatted about his latest studio offering “17 Problems,” which was just released on August 22nd via RCA … [+8275 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hayes",
+      "Problems’",
+      "Walker",
+      "Problems",
+      "Credit",
+      "Emma",
+      "Delevante",
+      "talks",
+      "’17",
+      "album"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/credit-cardholders-share-best-tactics-170112008.html",
+    "title": "Credit Cardholders Share Their Best Tactics For Paying Off 0% APR Credit Card Debt",
+    "fetched_on": "2025-08-25T17:17:39.786173+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "APR",
+      "Debt",
+      "Credit",
+      "Cardholders",
+      "Share",
+      "Tactics",
+      "Paying",
+      "Card"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/tesla-gm-ford-ev-buyers-get-extra-breathing-room-ahead-of-tax-credit-expiration-161759362.html",
+    "title": "Tesla, GM, Ford EV buyers get extra breathing room ahead of tax credit expiration",
+    "fetched_on": "2025-08-25T17:17:39.786225+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "Ford",
+      "expiration",
+      "buyers",
+      "extra",
+      "breathing",
+      "room",
+      "ahead",
+      "tax",
+      "credit"
+    ]
   }
 ]
