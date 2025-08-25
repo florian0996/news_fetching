@@ -526518,5 +526518,45 @@
       "Money",
       "View"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/npa-provisioning-at-a-three-quarter-high-private-banks-take-the-brunt/articleshow/123491247.cms",
+    "title": "NPA provisioning at a three-quarter high; private banks take the brunt",
+    "fetched_on": "2025-08-25T19:16:35.606586+00:00",
+    "content": "The quarterly loan loss provisioning by the banking sector reached a three-year high in the June quarter, largely due to heightened provisioning by the private sector banks while their public sector … [+1703 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "provisioning",
+      "NPA",
+      "sector",
+      "chars",
+      "June",
+      "high",
+      "private",
+      "banks",
+      "quarter",
+      "largely"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/npa-provisioning-at-a-three-quarter-high-private-banks-take-the-brunt/articleshow/123489425.cms",
+    "title": "NPA provisioning at a three-quarter high; private banks take the brunt",
+    "fetched_on": "2025-08-25T19:16:35.606586+00:00",
+    "content": "The quarterly loan loss provisioning by the banking sector reached a three-year high in the June quarter, largely due to heightened provisioning by the private sector banks while their public sector … [+1708 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "provisioning",
+      "NPA",
+      "sector",
+      "chars",
+      "June",
+      "high",
+      "private",
+      "banks",
+      "quarter",
+      "largely"
+    ]
   }
 ]
