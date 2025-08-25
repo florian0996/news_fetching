@@ -525808,5 +525808,56 @@
       "borrowers",
       "backlogs"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-25/surging-car-prices-push-buyers-to-take-out-longer-auto-loans",
+    "title": "Cars Are So Expensive That Buyers Need Seven-Year Loans",
+    "fetched_on": "2025-08-25T12:43:07.874378+00:00",
+    "content": "<p>They make monthly payments manageable&nbsp;but add thousands to the car’s total cost.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loans",
+      "Expensive",
+      "Buyers",
+      "cost.",
+      "Seven-Year",
+      "make",
+      "monthly",
+      "payments",
+      "manageable",
+      "add"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/us-consumers-with-prime-credit-are-starting-to-slip-on-payments-4208847",
+    "title": "US consumers with prime credit are starting to slip on payments",
+    "fetched_on": "2025-08-25T12:43:28.349564+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "payments",
+      "consumers",
+      "prime",
+      "credit",
+      "starting",
+      "slip"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/cars-expensive-buyers-seven-loans-120019273.html",
+    "title": "Cars Are So Expensive That Buyers Need Seven-Year Loans",
+    "fetched_on": "2025-08-25T12:43:39.177538+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loans",
+      "Expensive",
+      "Buyers",
+      "Cars",
+      "Seven-Year"
+    ]
   }
 ]
