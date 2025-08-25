@@ -1,6 +1,17 @@
 {
-  "2025-08-24": {
+  "2025-08-25": {
     "status": "no company in the news"
+  },
+  "2025-08-24": {
+    "articles": [
+      {
+        "title": "Swiss National Bank Has $2.25 Million Stock Position in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/08/23/swiss-national-bank-has-2-25-million-stock-position-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-08-23": {
     "articles": [
