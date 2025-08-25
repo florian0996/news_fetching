@@ -526978,5 +526978,65 @@
       "comments",
       "Aug"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-25/argentina-peso-ars-usd-drop-prompts-look-into-activity-in-repo-loan-market",
+    "title": "Argentina Looks Into Activity in Repo Loan Market as Peso Slides",
+    "fetched_on": "2025-08-25T23:19:15.707322+00:00",
+    "content": "Argentine authorities are stepping up scrutiny of investor activity in repo loans, the short-term financial instruments that have seen interest rates touch record highs amid a liquidity crunch at the nation’s banks.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Repo",
+      "Activity",
+      "Market",
+      "Peso",
+      "Slides",
+      "Argentine",
+      "Argentina",
+      "banks",
+      "Loan",
+      "loans"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/newsarticle/46488/uk-banks-closed-third-of-branches-in-last-five-years",
+    "title": "UK banks closed third of branches in last five years",
+    "fetched_on": "2025-08-25T23:19:14.634987+00:00",
+    "content": "The number of bank, credit union and building society branches in the UK has fallen by more than a third over the last five years.Office of National Statistics (ONS) figures show branch numbers fell … [+1405 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ONS",
+      "Statistics",
+      "chars",
+      "branches",
+      "National",
+      "credit",
+      "figures",
+      "fell",
+      "closed",
+      "years"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/google-messages-branding-logo_id173512",
+    "title": "Even bigger Google Messages branding change spotted",
+    "fetched_on": "2025-08-25T23:19:14.634987+00:00",
+    "content": "Google Messages | Image Credit - Google\r\nGoogle Messages users are seeing three different versions of the app's branding right now.For a long time, the Google Messages app featured the well-recognize… [+2175 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "Messages",
+      "Image",
+      "Credit",
+      "chars",
+      "branding",
+      "app",
+      "time",
+      "well-recognize",
+      "bigger"
+    ]
   }
 ]
