@@ -525688,5 +525688,45 @@
       "Commerzbank",
       "UniCredit"
     ]
+  },
+  {
+    "source": "Live Science [NewsAPI]",
+    "url": "https://www.livescience.com/space/longest-canyon-in-the-solar-system-reveals-new-secrets-space-photo-of-the-week",
+    "title": "Longest canyon in the solar system reveals new secrets — Space photo of the week",
+    "fetched_on": "2025-08-25T10:23:23.899263+00:00",
+    "content": "Mars' Valles Marineris stretches nearly a quarter of the way around the planet's equator. (Image credit: NASA/JPL-Caltech/University of Arizona)\r\nWhat it is: Candor Chasma, a large canyon on Mars\r\nWh… [+3008 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Space",
+      "Mars'",
+      "Valles",
+      "Marineris",
+      "Longest",
+      "secrets",
+      "equator",
+      "NASA",
+      "canyon",
+      "solar"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/companies/piramal-finance-partners-with-bls-e-services-to-boost-credit-access-in-rural-semi-urban-india/article69971341.ece",
+    "title": "Piramal Finance partners with BLS E-Services to boost credit access in rural, semi-urban India",
+    "fetched_on": "2025-08-25T10:23:23.899263+00:00",
+    "content": "Non-Banking Financial Company (NBFC) Piramal Finance has partnered with BLS E-Services, a digital service provider, to enhance access to formal credit for individuals and MSMEs across rural and semi-… [+2707 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Piramal",
+      "BLS",
+      "NBFC",
+      "Finance",
+      "Company",
+      "chars",
+      "E-Services",
+      "India",
+      "Financial",
+      "semi-urban"
+    ]
   }
 ]
