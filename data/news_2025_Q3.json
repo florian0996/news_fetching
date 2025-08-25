@@ -525728,5 +525728,85 @@
       "Financial",
       "semi-urban"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-08-25/credit-crunch-palmer-s-bloomfield-on-traditional-static-clos",
+    "title": "Credit Crunch: Palmer’s Bloomfield on Traditional, Static CLOs",
+    "fetched_on": "2025-08-25T11:17:58.370867+00:00",
+    "content": "“So it’s a tough situation when you’re managing a spread-based portfolio, like a CLO. And obviously we don’t have the luxury of tightening the spreads on the liability side,” says Matt Bloomfield, partner at Palmer Square and president of Palmer Square Capital BDC, when discussing the current pace of re-pricings across the leveraged loan market. Bloomfield joins Bloomberg Intelligence’s Noel Hebert on this episode of the Credit Crunch podcast to talk about traditional and static CLOs, a less-con",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Palmer",
+      "Bloomfield",
+      "CLOs",
+      "Crunch",
+      "Square",
+      "Credit",
+      "Static",
+      "Traditional",
+      "portfolio",
+      "tough"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/24/peacemaker-season-2-episode-1-recap-and-review-a-strong-start-with-a-few-problems/",
+    "title": "‘Peacemaker’ Season 2, Episode 1 Recap And Review: A Strong Start With A Few Problems",
+    "fetched_on": "2025-08-25T11:17:56.884361+00:00",
+    "content": "Credit: HBO\r\nIts been over three years since Season 1 of Peacemaker came out. Back then, the DCU was still the DCEU and James Gunn wasnt the boss of DCs film division yet. The Season 1 finale aired o… [+13162 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Episode",
+      "Season",
+      "Peacemaker’",
+      "Recap",
+      "Review",
+      "Credit",
+      "HBO",
+      "Strong",
+      "Start",
+      "Problems"
+    ]
+  },
+  {
+    "source": "Typepad.com [NewsAPI]",
+    "url": "https://taxprof.typepad.com/taxprof_blog/2025/08/aba-legal-education-council-accreditation-experiential-education.html",
+    "title": "Barry Currier, Brian Leiter, And Dan Rodriguez On The ABA Legal Ed Council's Game Of Chicken",
+    "fetched_on": "2025-08-25T11:17:56.884361+00:00",
+    "content": "Following up on last week's post, ABA Seeks To Salvage Expansion Of Experiential Learning Accreditation Requirement In Face Of Fierce Opposition:  Barry Currier (Former Managing Director, ABA Section… [+7707 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Currier",
+      "Barry",
+      "ABA",
+      "Brian",
+      "Leiter",
+      "Opposition",
+      "Director",
+      "Section",
+      "chars",
+      "Dan"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/08/25/student-loan-forgiveness-delays-tax-bills.html",
+    "title": "Student loan forgiveness delays and backlogs could lead to 'massive' tax bills for borrowers, advocate says",
+    "fetched_on": "2025-08-25T11:18:22.499348+00:00",
+    "content": "Delays in student loan forgiveness could leave borrowers with an unexpected bill to the IRS.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "massive",
+      "IRS",
+      "loan",
+      "delays",
+      "Student",
+      "forgiveness",
+      "tax",
+      "advocate",
+      "borrowers",
+      "backlogs"
+    ]
   }
 ]
