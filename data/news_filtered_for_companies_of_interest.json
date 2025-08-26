@@ -1,6 +1,17 @@
 {
-  "2025-08-25": {
+  "2025-08-26": {
     "status": "no company in the news"
+  },
+  "2025-08-25": {
+    "articles": [
+      {
+        "title": "LendingClub personal loans review: Fast funding for up to $60K",
+        "url": "https://finance.yahoo.com/personal-finance/personal-loans/review/lendingclub-personal-loans-review-210812642.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-08-24": {
     "articles": [
