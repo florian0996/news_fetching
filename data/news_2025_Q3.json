@@ -527220,5 +527220,65 @@
       "instalments",
       "months"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-08-26/s-p-global-ratings-effects-of-tariffs-big-risk-on-em",
+    "title": "S&P Global Ratings: Effects of Tariffs Big Risk on EM",
+    "fetched_on": "2025-08-26T04:25:03.641922+00:00",
+    "content": "Emerging market currencies are falling for a sixth straight day, as strong US manufacturing data, combined with fresh hawkish signals from the Fed, weigh on expectations for rate cuts. Zahabia Gupta, Managing Director and Head of Emerging Markets Credit Research at  S&amp;P Global Ratings spoke to Bloomberg’s Chief Africa Correspondent Jennifer Zabasajja on Horizons Middle East and Africa. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Effects",
+      "Fed",
+      "Global",
+      "Ratings",
+      "Emerging",
+      "Tariffs",
+      "Big",
+      "Risk",
+      "day",
+      "data"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/companies/agribusiness/fonterras-sale-of-mainland-to-lactalis-wont-impact-credit-rating-sp-global/SFUFTODTRVGR3FCEXAD6YE66TY/",
+    "title": "Fonterra’s sale of Mainland to Lactalis won’t impact credit rating – S&P Global",
+    "fetched_on": "2025-08-26T04:25:02.570005+00:00",
+    "content": "Therefore, our view of Fonterras (A-/Stable/A-2) credit quality is not materially changed.\r\nS&amp;P said Fonterras consumer business was more capital-intensive and needed a higher level of operationa… [+2397 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stable",
+      "Mainland",
+      "Lactalis",
+      "Global",
+      "credit",
+      "rating",
+      "changed",
+      "Fonterras",
+      "sale",
+      "n’t"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/singapore/sg-culture-pass-credits-arts-heritage-programmes-5308626",
+    "title": "More than 400 arts, heritage programmes for Singaporeans to choose from when using new SG Culture Pass credits",
+    "fetched_on": "2025-08-26T04:25:02.570005+00:00",
+    "content": "About 70 per cent of the offerings are priced at S$50 and below.\r\nLive performances make up the highest number of listings at about 40 per cent, followed by workshops or talks at 30 percent.\r\nThe pro… [+778 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "arts",
+      "Singaporeans",
+      "Culture",
+      "Pass",
+      "heritage",
+      "cent",
+      "programmes",
+      "choose",
+      "credits",
+      "offerings"
+    ]
   }
 ]
