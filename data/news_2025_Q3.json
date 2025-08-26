@@ -527158,5 +527158,65 @@
       "Minister",
       "Narendra"
     ]
+  },
+  {
+    "source": "Hirunews.lk [NewsAPI]",
+    "url": "https://hirunews.lk/english/business/415246/hong-kong-property-sector-clouded-by-rising-debt-repayment-risks",
+    "title": "HONG KONG PROPERTY SECTOR CLOUDED BY RISING DEBT REPAYMENT RISKS",
+    "fetched_on": "2025-08-26T03:09:54.130474+00:00",
+    "content": "Hong Kong's debt-laden developers and their creditors are set to face intensifying financial pressure as bond maturities are slated to jump by nearly 70% next year amid falling sales and valuations f… [+3154 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "HONG",
+      "KONG",
+      "PROPERTY",
+      "SECTOR",
+      "CLOUDED",
+      "RISING",
+      "DEBT",
+      "REPAYMENT",
+      "RISKS"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/524d4ee26af3a212",
+    "title": "BlackRock Paused Fundraising for Latest Asia Private Credit Fund",
+    "fetched_on": "2025-08-26T03:09:54.130474+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Fed chair Powell signal a rate cut? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Waymo's NYC permit a… [+781 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Fund",
+      "return",
+      "false",
+      "Paused",
+      "Fundraising",
+      "Latest",
+      "Asia"
+    ]
+  },
+  {
+    "source": "SoyaCincau.com [NewsAPI]",
+    "url": "https://soyacincau.com/2025/08/25/ryt-bank-paylater-bnpl-duitnow-qr-digital-bank/",
+    "title": "Ryt PayLater: Ryt Bank’s Buy Now Pay Later offer from 0% interest, instalments up to 12 months",
+    "fetched_on": "2025-08-26T03:09:54.130474+00:00",
+    "content": "Ahead of its public release on 26th August, Ryt Bank has quietly introduced Ryt PayLater on its digital banking app. Essentially, this is a Buy Now Pay Later (BNPL) feature which provides a credit li… [+3419 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ryt",
+      "Bank",
+      "August",
+      "Pay",
+      "Buy",
+      "Ahead",
+      "PayLater",
+      "interest",
+      "instalments",
+      "months"
+    ]
   }
 ]
