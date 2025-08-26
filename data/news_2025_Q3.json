@@ -527320,5 +527320,82 @@
       "chars",
       "targeted"
     ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/0825/1529994-housing-finance-agency-report/",
+    "title": "HFA approves €2.1 billion for Approved Housing Bodies",
+    "fetched_on": "2025-08-26T06:32:05.966399+00:00",
+    "content": "The Housing Finance Agency, the public sector body which provides financing to support the delivery of social and affordable homes, saw a \"significant\" increase in lending for social and affordable h… [+3116 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Housing",
+      "HFA",
+      "Agency",
+      "significant",
+      "chars",
+      "social",
+      "affordable",
+      "Approved",
+      "Bodies",
+      "Finance"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/921262",
+    "title": "2 Free Credits for New Memberships ($18.99/Month) @ Libro.fm",
+    "fetched_on": "2025-08-26T06:32:05.966399+00:00",
+    "content": "Was looking for an alternative to Audible for my audiobook needs while still supporting authors and came across this platform.\r\nMonthly fee is slightly higher with Libro.fm ($18.99/month) compared to… [+824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Month",
+      "Free",
+      "Memberships",
+      "Credits",
+      "Audible",
+      "Libro.fm",
+      "platform",
+      "alternative",
+      "audiobook",
+      "supporting"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/25/b-riley-has-negative-outlook-for-ccif-fy2025-earnings/",
+    "title": "B. Riley Has Negative Outlook for CCIF FY2025 Earnings",
+    "fetched_on": "2025-08-26T06:32:05.966399+00:00",
+    "content": "Carlyle Credit Income Fund (NYSE:CCIF – Free Report) – B. Riley reduced their FY2025 earnings estimates for Carlyle Credit Income Fund in a research note issued on Thursday, August 21st. B. Riley ana… [+4601 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CCIF",
+      "Credit",
+      "Income",
+      "Carlyle",
+      "Fund",
+      "NYSE",
+      "August",
+      "Earnings",
+      "Riley",
+      "Free"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/power-solutions-international-psix-credit-040828915.html",
+    "title": "Power Solutions International (PSIX) Credit Facility Bolstered to $135M",
+    "fetched_on": "2025-08-26T06:32:22.362158+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PSIX",
+      "International",
+      "Credit",
+      "Solutions",
+      "Facility",
+      "Bolstered",
+      "Power"
+    ]
   }
 ]
