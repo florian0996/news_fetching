@@ -529860,5 +529860,105 @@
       "claims",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-26/crescent-capital-prepares-3-billion-credit-continuation-fund",
+    "title": "Crescent Capital Prepares $3 Billion Credit Continuation Fund",
+    "fetched_on": "2025-08-26T19:16:23.425770+00:00",
+    "content": "Crescent Capital Group is pitching a credit continuation fund to investors that will allow it to move some assets from a prior vehicle, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Continuation",
+      "Crescent",
+      "Credit",
+      "Fund",
+      "Prepares",
+      "Billion",
+      "Group",
+      "vehicle",
+      "matter"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d09ccb54-f407-40a9-9f8d-db0e4bcac6c2",
+    "title": "Why you might one day use stablecoins in place of credit cards or bank accounts",
+    "fetched_on": "2025-08-26T19:16:22.316153+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "click",
+      "partners",
+      "device"
+    ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-08-26/commonwealth-bank-personal-loans-problem-gambler-afca-cba/105695234",
+    "title": "Commonwealth Bank gave problem gambler $13k in personal loans",
+    "fetched_on": "2025-08-26T19:16:22.316153+00:00",
+    "content": "The Commonwealth Bank gave a problem gambler more than $13,000 in personal loans despite his transaction history with the bank showing he was spending as much as half his income on a months-long bett… [+8281 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Commonwealth",
+      "personal",
+      "chars",
+      "gave",
+      "problem",
+      "gambler",
+      "loans",
+      "bett",
+      "transaction"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5ba29f3a94f79e77",
+    "title": "Gemini and Ripple Launch Credit Card Offering Rewards in Crypto",
+    "fetched_on": "2025-08-26T19:16:22.316153+00:00",
+    "content": "Cryptocurrency exchange Gemini and blockchain company Ripple collaborated to release an XRP Edition of the Gemini Credit Card.\r\nThe credit card offers crypto rewards in the form of XRP, which is the … [+138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gemini",
+      "Ripple",
+      "Credit",
+      "Card",
+      "Launch",
+      "Offering",
+      "Cryptocurrency",
+      "Edition",
+      "XRP",
+      "Rewards"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/08/25/3138789/29825/en/Federal-Home-Loan-Bank-of-San-Francisco-Awards-10-Million-in-2025-Middle-Income-Downpayment-Assistance-Grants.html",
+    "title": "Federal Home Loan Bank of San Francisco Awards $10 Million in 2025 Middle-Income Downpayment Assistance Grants",
+    "fetched_on": "2025-08-26T19:16:22.316153+00:00",
+    "content": "SAN FRANCISCO, Aug. 25, 2025 (GLOBE NEWSWIRE) -- The Federal Home Loan Bank of San Francisco (FHLBank San Francisco) announced it awarded $10 million in 2025 Middle-Income Downpayment Assistance Prog… [+3872 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "San",
+      "Francisco",
+      "Million",
+      "Home",
+      "Loan",
+      "Bank",
+      "Downpayment",
+      "Assistance",
+      "Aug.",
+      "Middle-Income"
+    ]
   }
 ]
