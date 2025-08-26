@@ -528691,5 +528691,105 @@
       "marketwatch.com",
       "pay"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/685906225d489add",
+    "title": "US consumers with prime credit are starting to slip on payments",
+    "fetched_on": "2025-08-26T13:33:46.380074+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why are Keurig Dr Pepper shares surging today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Trumps tariff prob… [+762 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Keurig",
+      "Pepper",
+      "payments",
+      "today",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/217db0bd1dd72aee",
+    "title": "Gemini Targets XRP Army With New Credit Card, Expands Ripple USD Use for U.S. Customers",
+    "fetched_on": "2025-08-26T13:33:46.380074+00:00",
+    "content": "Crypto exchange Gemini, founded by billionaire twins Cameron and Tyler Winklevoss, has teamed up with Ripple to roll out on Monday an XRP edition of its credit card in collaboration with Ripple, offe… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ripple",
+      "XRP",
+      "Credit",
+      "Card",
+      "Expands",
+      "Customers",
+      "Winklevoss",
+      "offe",
+      "chars",
+      "Gemini"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ff4ac047-f4d5-47f0-9530-22e89270f3bb",
+    "title": "US consumers with prime credit are starting to slip on payments",
+    "fetched_on": "2025-08-26T13:33:46.380074+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "click",
+      "partners",
+      "device"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/business/2025/08/25/gemini-targets-xrp-army-with-new-credit-card-expands-ripple-usd-use-for-u-s-customers",
+    "title": "Gemini Targets XRP Army With New Credit Card, Expands Ripple USD Use for U.S. Customers",
+    "fetched_on": "2025-08-26T13:33:46.380074+00:00",
+    "content": "Crypto exchange Gemini, founded by billionaire twins Cameron and Tyler Winklevoss, told CoinDesk it has teamed up with Ripple to roll out an XRP edition of its credit card in collaboration with Rippl… [+1712 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "XRP",
+      "Ripple",
+      "Credit",
+      "Card",
+      "Expands",
+      "Customers",
+      "Winklevoss",
+      "Rippl",
+      "chars",
+      "Gemini"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/74057ca2ae143b74",
+    "title": "Shawbrook Bank reportedly in talks to acquire ThinCats",
+    "fetched_on": "2025-08-26T13:33:46.380074+00:00",
+    "content": "Shawbrook Bank is currently in exclusive discussions to purchase ThinCats, a lending company that serves medium-sized businesses, reported Sky News.The potential deal, which is reported to be valued … [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Shawbrook",
+      "chars",
+      "Sky",
+      "ThinCats",
+      "reported",
+      "businesses",
+      "deal",
+      "valued",
+      "reportedly"
+    ]
   }
 ]
