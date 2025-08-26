@@ -530417,5 +530417,85 @@
       "Ben",
       "Symons"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-26/bmo-led-group-seeks-to-shed-stuck-debt-for-hig-s-converge-buyout",
+    "title": "BMO-Led Group Seeks to Shed Stuck Debt for HIG’s Converge Buyout",
+    "fetched_on": "2025-08-26T23:18:24.234041+00:00",
+    "content": "A group of banks led by Bank of Montreal are looking to relaunch a loan supporting HIG Capital’s buyout of Converge Technology Solutions Corp., according to people with knowledge of the matter, four months after banks were forced to fund the deal when tariffs upended markets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HIG",
+      "Converge",
+      "Corp.",
+      "Group",
+      "Buyout",
+      "Seeks",
+      "Shed",
+      "Stuck",
+      "Debt",
+      "Montreal"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/newsarticle/46492/indonesias-pintarnya-raises-167m",
+    "title": "Indonesia's Pintarnya raises $16.7m",
+    "fetched_on": "2025-08-26T23:18:12.244105+00:00",
+    "content": "Pintarnya, an Indonesian platform that helps users find jobs and also offers access to secured loans, has raised $16.7 million in Series A funding.The round was led by Square Peg, with participation … [+622 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Peg",
+      "Pintarnya",
+      "Indonesian",
+      "Series",
+      "Square",
+      "Indonesia",
+      "raises",
+      "loans",
+      "raised"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/movies/great-comedians-who-became-filmmakers",
+    "title": "32 Great Comedians Who Became Filmmakers",
+    "fetched_on": "2025-08-26T23:18:12.244105+00:00",
+    "content": "Comedy is a lot harder to pull off successfully than it's often given credit for. It makes sense that some of the best filmmakers in history began their careers as comics, or at least comedic actors,… [+13059 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Great",
+      "Comedians",
+      "Comedy",
+      "Filmmakers",
+      "chars",
+      "lot",
+      "harder",
+      "pull",
+      "successfully",
+      "credit"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/the-country/news/banking-competition-and-rural-lending-farmers-respond-to-governments-report/SZ2AU6X4FJC5RAS6BLFAXGOZQ4/",
+    "title": "Banking competition and rural lending: Farmers respond to Government’s report",
+    "fetched_on": "2025-08-26T23:18:12.244105+00:00",
+    "content": "Rural lending rates should be more transparent, report says\r\nHooper explained that the report identified a considerable difference between rural and residential lending rates.\r\nThis has been a real g… [+2715 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "rural",
+      "lending",
+      "Farmers",
+      "Government",
+      "Hooper",
+      "report",
+      "rates",
+      "Banking",
+      "transparent",
+      "competition"
+    ]
   }
 ]
