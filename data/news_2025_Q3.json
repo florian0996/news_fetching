@@ -530337,5 +530337,85 @@
       "Trading",
       "Investment"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-26/svp-lenders-to-kloeckner-in-talks-to-restructure-packaging-firm",
+    "title": "SVP, Lenders to Kloeckner in Talks to Restructure Packaging Firm",
+    "fetched_on": "2025-08-26T22:18:52.605593+00:00",
+    "content": "Strategic Value Partners and a group of creditors to Kloeckner Pentaplast are in talks to restructure the German packaging company’s balance sheet as it faces ongoing earnings pressure from rising costs, according to people with knowledge of the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kloeckner",
+      "Talks",
+      "SVP",
+      "Restructure",
+      "Packaging",
+      "Lenders",
+      "Firm",
+      "Strategic",
+      "Partners",
+      "Pentaplast"
+    ]
+  },
+  {
+    "source": "CryptoSlate [NewsAPI]",
+    "url": "https://cryptoslate.com/aave-reaches-41-1-billion-tvl-record-equivalent-to-being-the-54th-largest-us-bank/",
+    "title": "Aave reaches $41.1 billion TVL record, equivalent to being the 54th largest US bank",
+    "fetched_on": "2025-08-26T22:18:51.917301+00:00",
+    "content": "Aave reached an all-time high total value locked (TVL) of $41.1 billion on Aug. 24, positioning the decentralized lending protocol as the equivalent of the 54th largest US commercial bank by total de… [+3017 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "largest",
+      "TVL",
+      "billion",
+      "Aug.",
+      "Aave",
+      "chars",
+      "equivalent",
+      "bank",
+      "total",
+      "reaches"
+    ]
+  },
+  {
+    "source": "9to5google.com [NewsAPI]",
+    "url": "http://9to5google.com/2025/08/25/youtube-tv-may-lose-fox-channels-including-fox-sports-with-a-10-credit-if-they-go-dark/",
+    "title": "YouTube TV may lose Fox channels, including Fox Sports, with a $10 credit if they go dark",
+    "fetched_on": "2025-08-26T22:18:51.917301+00:00",
+    "content": "YouTube TV is going through yet another set of strained negotiations this week as its renewal with Fox is coming down to the wire, threatening to let those channels go dark as soon as August 27.\r\nIn … [+1640 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fox",
+      "Sports",
+      "August",
+      "YouTube",
+      "dark",
+      "channels",
+      "including",
+      "credit",
+      "wire",
+      "threatening"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/what-time-does-love-island-usa-reunion-come-out-5436171/",
+    "title": "What Time Does the ‘Love Island USA’ Reunion Come Out? When the Season 7 Episode Airs",
+    "fetched_on": "2025-08-26T22:18:51.917301+00:00",
+    "content": "View galleryImage Credit: Ben Symons/Peacock\r\nIslanders, get ready for more drama! As we approach the Love Island USA season 7 reunion, avid viewers are dying to know how they can watch the episode s… [+1996 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Time",
+      "USA’",
+      "Love",
+      "Island",
+      "Season",
+      "Reunion",
+      "Episode",
+      "Credit",
+      "Ben",
+      "Symons"
+    ]
   }
 ]
