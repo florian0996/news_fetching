@@ -529102,5 +529102,205 @@
       "cancel",
       "hurting"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_eca47160-2d48-4cdc-9234-d04c3b648126",
+    "title": "Tesla, GM, Ford EV buyers get extra breathing room ahead of tax credit expiration",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "including",
+      "chars",
+      "Ford",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "click"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4eb6f5710a50924f",
+    "title": "HELOCs heat up: Chase launches a new home equity product",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "With mortgage rates barely budging, it doesnt make sense for a lot of homeowners to refinance and replace their low-rate mortgages. To access cash, home equity lines of credit often make more sense r… [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chase",
+      "HELOCs",
+      "budging",
+      "home",
+      "equity",
+      "chars",
+      "make",
+      "sense",
+      "heat",
+      "launches"
+    ]
+  },
+  {
+    "source": "Milestomemories.com [NewsAPI]",
+    "url": "https://milestomemories.com/citi-25-transfer-bonus-for-wyndham-rewards/",
+    "title": "Citi Launches 25% Transfer Bonus for Wyndham Rewards",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "Disclaimer - Miles to Memories &amp; the author are not credit providers and do not provide personal financial or professional advice or credit assistance. The information published on this site/page… [+787 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Launches",
+      "Transfer",
+      "Disclaimer",
+      "Miles",
+      "Memories",
+      "Bonus",
+      "Wyndham",
+      "Rewards",
+      "Citi",
+      "assistance"
+    ]
+  },
+  {
+    "source": "Redfin.com [NewsAPI]",
+    "url": "https://www.redfin.com/blog/what-is-a-mortgage-note/",
+    "title": "What Is a Mortgage Note in Real Estate and How Does It Work?",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "Key takeaways\r\n<ul><li>A mortgage note is your signed promise to repay your home loan.</li><li>It outlines the loan amount, interest rate, repayment schedule, and default terms.</li><li>Its different… [+6264 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Work",
+      "Mortgage",
+      "Real",
+      "Estate",
+      "Note",
+      "chars",
+      "Key",
+      "takeaways",
+      "loan.",
+      "amount"
+    ]
+  },
+  {
+    "source": "Columbia.edu [NewsAPI]",
+    "url": "https://news.climate.columbia.edu/2025/08/25/twenty-years-later-what-lessons-have-we-learned-from-hurricane-katrina/",
+    "title": "Twenty Years Later: What Lessons Have We Learned From Hurricane Katrina?",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "View of flooded New Orleans, Louisiana in the aftermath of Hurricane Katrina. Credit: Commander Mark Moran, of the NOAA Aviation Weather Center, and Lt. Phil Eastman and Lt. Dave Demers, of the NOAA … [+9911 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Katrina",
+      "Hurricane",
+      "Years",
+      "Lessons",
+      "Learned",
+      "Twenty",
+      "NOAA",
+      "Orleans",
+      "Louisiana",
+      "Commander"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lending-launches-heloc-160019948.html",
+    "title": "HELOCs heat up: Chase launches a new home equity product",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "With mortgage rates barely budging, it doesnt make sense for a lot of homeowners to refinance and replace their low-rate mortgages. To access cash, home equity lines of credit often make more sense r… [+2397 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chase",
+      "HELOCs",
+      "budging",
+      "home",
+      "equity",
+      "chars",
+      "make",
+      "sense",
+      "heat",
+      "launches"
+    ]
+  },
+  {
+    "source": "Redfin.com [NewsAPI]",
+    "url": "https://www.redfin.com/blog/mortgage-with-no-credit-history/",
+    "title": "Can You Get a Mortgage With No Credit History?",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "When buying a home, lenders almost always check your credit history to assess how likely you are to repay the loan. But what if you dont have a credit history at all? Maybe youve never used credit ca… [+6514 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "Credit",
+      "History",
+      "home",
+      "lenders",
+      "loan",
+      "chars",
+      "buying",
+      "check",
+      "assess"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/fp-finance/banking/banks-less-money-aside-q3-bad-loans",
+    "title": "Banks expected to have kept aside less money during their third quarters for bad loans",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "Canadas largest banks are expected to keep less money aside to tackle loans that may potentially go bad when they release their quarterly earnings results this week, and their investors appear to be … [+5044 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "expected",
+      "money",
+      "Canadas",
+      "Banks",
+      "bad",
+      "loans",
+      "week",
+      "quarters",
+      "largest"
+    ]
+  },
+  {
+    "source": "Dealnews.com [NewsAPI]",
+    "url": "https://www.dealnews.com/products/Samsung/Samsung-160-W-Portable-Party-Speaker/493142.html",
+    "title": "Samsung 160W Portable Party Speaker for $200 + free shipping w/ Prime",
+    "fetched_on": "2025-08-26T16:25:32.263708+00:00",
+    "content": "moreSave up to $200 with an eligible trade-in. Before trade-in, prices start from $350 for the 40mm ($115 off) and $380 for the 44mm (also $115 off). Plus, you'll get $50 instant credit for select Sa… [+115 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Portable",
+      "Prime",
+      "Party",
+      "Speaker",
+      "Samsung",
+      "trade-in",
+      "free",
+      "shipping",
+      "moreSave",
+      "eligible"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/banks-steadily-shifting-credit-risk-153000003.html",
+    "title": "Banks are steadily shifting credit risk on to their cardholders — despite the Fed holding rates steady",
+    "fetched_on": "2025-08-26T16:26:05.027897+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "Banks",
+      "cardholders",
+      "steady",
+      "steadily",
+      "shifting",
+      "credit",
+      "risk",
+      "holding",
+      "rates"
+    ]
   }
 ]
