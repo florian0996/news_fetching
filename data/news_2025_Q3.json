@@ -531830,5 +531830,45 @@
       "Card",
       "Liz"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/chicago-atlantic-provides-term-loan-to-a-high-performance-antenna-designer-manufacturer",
+    "title": "Chicago Atlantic Provides Term Loan to a High Performance Antenna Designer & Manufacturer",
+    "fetched_on": "2025-08-27T13:29:23.238777+00:00",
+    "content": "CHICAGO Chicago Atlantic announced its role as sole arranger and administrative agent in the funding of a senior secured term loan for TrueRC Canada Inc. (TrueRC). Founded by Hugo Chamberland in 2014… [+5167 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Atlantic",
+      "Chicago",
+      "Term",
+      "Loan",
+      "Designer",
+      "Manufacturer",
+      "High",
+      "Performance",
+      "Antenna",
+      "Canada"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/disney-permanently-altering-iconic-ratatouille-ride-after-guest-feedback-ld1/",
+    "title": "Disney Permanently Altering Iconic ‘Ratatouille’ Ride After Guest Feedback",
+    "fetched_on": "2025-08-27T13:29:23.238777+00:00",
+    "content": "A popular Disney attraction is changing in a big way following guest feedback.\r\nCredit: Bastien Nvs, Unsplash\r\nRelated: In Late-Night Social Media Rant, Donald Trump Threatens To End Core Disney Busi… [+3037 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Guest",
+      "Feedback",
+      "Iconic",
+      "Ratatouille’",
+      "Permanently",
+      "Altering",
+      "Ride",
+      "Disney",
+      "popular",
+      "attraction"
+    ]
   }
 ]
