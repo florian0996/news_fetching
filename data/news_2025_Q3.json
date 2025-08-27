@@ -530661,5 +530661,60 @@
       "stop",
       "turning"
     ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18556237-sonos-sub-gen4-wireless-subwoofer-679-99",
+    "title": "Sonos Sub (Gen4) wireless Subwoofer $679.99 (0 replies)",
+    "fetched_on": "2025-08-27T04:25:03.237674+00:00",
+    "content": "$120 OFF$120 manufacturer's savings is valid 8/25/25 through 9/6/25. While supplies last. Limit 5 per member. Terms &amp; Conditions\r\nFeatures:Includes $80 Apple or SiriusXM Credit and 30% off Sonos … [+291 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Subwoofer",
+      "replies",
+      "wireless",
+      "manufacturer",
+      "valid",
+      "Sonos",
+      "savings",
+      "Includes",
+      "Conditions",
+      "Features"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/gemini-unveils-xrp-credit-card-163240671.html",
+    "title": "Gemini Unveils XRP Credit Card With Crypto Rewards – Up to 4% Back, $200 Bonus",
+    "fetched_on": "2025-08-27T04:25:21.729832+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Back",
+      "Bonus",
+      "Rewards",
+      "Unveils",
+      "XRP",
+      "Credit",
+      "Card",
+      "Crypto",
+      "Gemini"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/gemini-credit-card-pays-4-163720178.html",
+    "title": "New Gemini Credit Card Pays 4% in XRP – Here’s How It Works",
+    "fetched_on": "2025-08-27T04:25:21.729733+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pays",
+      "XRP",
+      "Works",
+      "Gemini",
+      "Credit",
+      "Card"
+    ]
   }
 ]
