@@ -531472,5 +531472,125 @@
       "Signals",
       "Bankings"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-27/rbc-beats-earnings-estimates-on-growth-across-its-biggest-units",
+    "title": "RBC Beats Earnings Estimates on Growth Across Its Biggest Units",
+    "fetched_on": "2025-08-27T11:17:10.626210+00:00",
+    "content": "Royal Bank of Canada beat estimates on strong performance across its biggest businesses and as the firm set aside less money than expected to cover possible loan losses, a rebound from notable misses on credit earlier this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Estimates",
+      "Biggest",
+      "RBC",
+      "Earnings",
+      "Growth",
+      "Units",
+      "Royal",
+      "Bank",
+      "Canada",
+      "losses"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4188460/EDAP-EDAP-TMS-enters-LOI-for-EUR-M-credit-facility",
+    "title": "EDAP TMS enters LOI for EUR 36M credit facility",
+    "fetched_on": "2025-08-27T11:17:09.407459+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EDAP",
+      "EUR",
+      "TMS",
+      "LOI",
+      "Earnings",
+      "credit",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/how-ripples-5-dream-got-a-lift-from-geminis-xrp-credit-card/",
+    "title": "How Ripple’s $5 dream got a lift from Gemini’s XRP credit card",
+    "fetched_on": "2025-08-27T11:17:09.407459+00:00",
+    "content": "Key Takeaways\r\nXRP may face near-term price pressure as whale inflows raise the risk of a dip toward $2.8. Still, Geminis new XRP credit card may push the rally higher.\r\nRipple [XRP] may face a short… [+2428 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "XRP",
+      "Key",
+      "Takeaways",
+      "credit",
+      "card",
+      "dream",
+      "Ripple",
+      "Gemini",
+      "Geminis",
+      "face"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c033f77fdc08f1e3",
+    "title": "BMO beats expectations, lowers provisions for credit losses",
+    "fetched_on": "2025-08-27T11:17:09.407459+00:00",
+    "content": "Bank of Montreal\r\ntopped analysts expectations as it reported higher profits in its United States, capital markets and wealth-management segments and kept aside a lower amount of money to tackle loan… [+129 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "BMO",
+      "States",
+      "Bank",
+      "Montreal",
+      "United",
+      "capital",
+      "loan",
+      "expectations",
+      "beats"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/fp-finance/banking/bmo-beats-expectations-lowers-credit-loss-provisions",
+    "title": "BMO beats expectations, lowers provisions for credit losses",
+    "fetched_on": "2025-08-27T11:17:09.407459+00:00",
+    "content": "Bank of Montreal topped analysts expectations as it reported higher profits in its United States, capital markets and wealth-management segments and kept aside a lower amount of money to tackle loans… [+4250 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "BMO",
+      "States",
+      "Bank",
+      "Montreal",
+      "United",
+      "capital",
+      "loans",
+      "expectations",
+      "beats"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/credit-card-chargebacks-explained-how-they-work-and-when-to-file-one-11756202169722.html",
+    "title": "Credit card chargebacks explained: How they work and when to file one",
+    "fetched_on": "2025-08-27T11:17:09.407459+00:00",
+    "content": "A chargeback is a consumer protection mechanism that permits credit cardholders in the country to reverse a transaction when something goes wrong or is not as planned while making purchases.\r\nThis me… [+3196 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "explained",
+      "purchases",
+      "card",
+      "work",
+      "file",
+      "consumer",
+      "protection",
+      "mechanism",
+      "permits"
+    ]
   }
 ]
