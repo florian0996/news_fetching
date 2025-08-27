@@ -3,7 +3,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-26/bmo-led-group-seeks-to-shed-stuck-debt-for-hig-s-converge-buyout",
     "title": "BMO-Led Group Seeks to Shed Stuck Debt for HIG\u2019s IT Buyout",
-    "fetched_on": "2025-08-27T13:29:24.116233+00:00",
+    "fetched_on": "2025-08-27T14:19:45.085695+00:00",
     "content": "A group of banks led by Bank of Montreal is looking to relaunch a loan supporting HIG Capital\u2019s buyout of Converge Technology Solutions Corp., according to people with knowledge of the matter, four months after banks were forced to fund the deal when tariffs upended markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -22,21 +22,21 @@
   {
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-26/svp-lenders-to-kloeckner-in-talks-to-restructure-packaging-firm",
-    "title": "SVP, Lenders to Kloeckner in Talks to Restructure Packaging Firm",
-    "fetched_on": "2025-08-27T03:03:02.483524+00:00",
-    "content": "Strategic Value Partners and a group of creditors to Kloeckner Pentaplast are in talks to restructure the German packaging company's balance sheet as it faces ongoing earnings pressure from rising costs, according to people with knowledge of the matter.",
+    "title": "SVP in Debt Talks With Kloeckner Pentaplast\u2019s Lenders",
+    "fetched_on": "2025-08-27T14:19:45.352379+00:00",
+    "content": "Strategic Value Partners and a group of creditors to Kloeckner Pentaplast are in talks to restructure the German packaging company\u2019s balance sheet as it faces ongoing earnings pressure from rising costs, according to people with knowledge of the matter.",
     "platforms_mentioned": [],
     "keywords": [
       "Kloeckner",
-      "Talks",
+      "Pentaplast",
       "SVP",
-      "Restructure",
-      "Packaging",
+      "Talks",
+      "Debt",
       "Lenders",
-      "Firm",
       "Strategic",
       "Partners",
-      "Pentaplast"
+      "German",
+      "costs"
     ]
   },
   {
@@ -283,7 +283,7 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-08-27T13:29:35.915543+00:00",
+    "fetched_on": "2025-08-27T14:19:51.449519+00:00",
     "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
@@ -303,7 +303,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/08/13/weekly-mortgage-refinancing-shoots-23percent-higher.html",
     "title": "Weekly mortgage refinancing demand shoots 23% higher, with riskier loans making a comeback",
-    "fetched_on": "2025-08-27T13:29:42.708724+00:00",
+    "fetched_on": "2025-08-27T14:20:02.145700+00:00",
     "content": "Mortgage rates dropped again last week, spurring big demand for mortgage refinancing. ARM loans also increased, as they offer lower rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -343,7 +343,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/25/student-loan-forgiveness-delays-tax-bills.html",
     "title": "Student loan forgiveness delays and backlogs could lead to 'massive' tax bills for borrowers, advocate says",
-    "fetched_on": "2025-08-27T13:29:43.073282+00:00",
+    "fetched_on": "2025-08-27T14:20:02.536039+00:00",
     "content": "Delays in student loan forgiveness could leave borrowers with an unexpected bill to the IRS.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/22/student-loan-borrowers-in-default-face-wage-garnishment.html",
     "title": "Student loan borrowers in default could soon see reduced paychecks. What to know",
-    "fetched_on": "2025-08-27T13:29:43.073306+00:00",
+    "fetched_on": "2025-08-27T14:20:02.536065+00:00",
     "content": "Student loan borrowers who've fallen behind on their payments could soon see the U.S. Department of Education take a portion of their paychecks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/20/student-loan-forgiveness-still-unavailable-on-ibr-plan.html",
     "title": "Student loan forgiveness remains unavailable under popular repayment plan",
-    "fetched_on": "2025-08-27T13:29:43.073355+00:00",
+    "fetched_on": "2025-08-27T14:20:02.536115+00:00",
     "content": "Student loan borrowers enrolled in a popular repayment plan remain blocked from debt forgiveness. Here's what to know about the delays.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/18/trump-public-service-loan-forgiveness-pslf-eligibility.html",
     "title": "Trump administration moves to 'prevent benefits' for some under popular student loan forgiveness program",
-    "fetched_on": "2025-08-27T13:29:43.073382+00:00",
+    "fetched_on": "2025-08-27T14:20:02.536142+00:00",
     "content": "The Trump administration says that its proposed changes to Public Service Loan Forgiveness \"may delay or prevent forgiveness for a subset of borrowers.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/15/student-loan-forgiveness-trump-pslf-backlog.html",
     "title": "46-year-old woman is weeks away from student loan forgiveness but stuck in Trump-era backlog",
-    "fetched_on": "2025-08-27T13:29:43.073416+00:00",
+    "fetched_on": "2025-08-27T14:20:02.536177+00:00",
     "content": "Tens of thousands of student loan borrowers who are likely eligible for Public Service Loan Forgiveness are stuck in limbo. CNBC spoke to three of them.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/15/public-service-loan-forgiveness-buyback-has-a-72730-person-backlog.html",
     "title": "Student loan forgiveness program has a 72,730-person backlog. Here's what borrowers need to know",
-    "fetched_on": "2025-08-27T13:29:43.073423+00:00",
+    "fetched_on": "2025-08-27T14:20:02.536184+00:00",
     "content": "Many student loan borrowers have likely heard about or experienced issues with the Public Service Loan Forgivness 'Buyback' program. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -699,7 +699,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-27/blackstone-seeks-to-amend-extend-957-million-interplex-loan",
     "title": "Blackstone Seeks to Amend, Extend $957 Million Interplex Loan",
-    "fetched_on": "2025-08-27T13:29:24.590344+00:00",
+    "fetched_on": "2025-08-27T14:19:45.476252+00:00",
     "content": "Blackstone is in talks with banks to amend and extend its $957 million loan that had backed its acquisition of Singaporean precision engineering firm Interplex Holdings Pte., according to people familiar with the matter.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1546,8 +1546,8 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-27/rbc-beats-earnings-estimates-on-growth-across-its-biggest-units",
     "title": "RBC\u2019s Record Quarter for Capital Markets Fuels Earnings Beat",
-    "fetched_on": "2025-08-27T13:29:24.930956+00:00",
-    "content": "Royal Bank of Canada topped estimates on strong performance across its biggest businesses and as the firm set aside less money than expected to cover possible loan losses, a rebound from notable misses on credit earlier this year.",
+    "fetched_on": "2025-08-27T14:19:45.780425+00:00",
+    "content": "Royal Bank of Canada topped estimates on strong performance across its biggest businesses and as the firm set aside less money than expected to cover possible loan losses, a rebound from notable misses on credit earlier this year. The company\u2019s shares surged.",
     "platforms_mentioned": [],
     "keywords": [
       "RBC",
@@ -1904,7 +1904,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-08-26/crescent-capital-prepares-3-billion-credit-continuation-fund",
     "title": "Crescent Capital Pitches $3 Billion Credit Continuation Fund",
-    "fetched_on": "2025-08-27T13:29:24.116191+00:00",
+    "fetched_on": "2025-08-27T14:19:45.085675+00:00",
     "content": "Crescent Capital Group is pitching a credit continuation fund to investors that will allow it to move some assets from a prior vehicle, according to people familiar with the matter.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1924,7 +1924,7 @@
     "source": "Financial Post [NewsAPI]",
     "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/chicago-atlantic-provides-term-loan-to-a-high-performance-antenna-designer-manufacturer",
     "title": "Chicago Atlantic Provides Term Loan to a High Performance Antenna Designer & Manufacturer",
-    "fetched_on": "2025-08-27T13:29:23.238777+00:00",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
     "content": "CHICAGO Chicago Atlantic announced its role as sole arranger and administrative agent in the funding of a senior secured term loan for TrueRC Canada Inc. (TrueRC). Founded by Hugo Chamberland in 2014\u2026 [+5167 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1958,6 +1958,206 @@
       "Disney",
       "popular",
       "attraction"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-08-27/credit-crunch-demystifying-significant-risk-transfers",
+    "title": "Credit Crunch: Demystifying Significant Risk Transfers",
+    "fetched_on": "2025-08-27T14:19:45.352372+00:00",
+    "content": "Significant risk transfers, or SRTs, have become a key tool for banks managing their balance sheets and an appealing asset class for investors seeking alternatives to public credit markets. In this episode of the Credit Crunch podcast, Bloomberg Intelligence Global Head of Credit Strategy Mahesh Bhimalingam speaks with Matthew Moniot, head of credit risk sharing at Man Group, and James Plunkett, head of capital and risk distribution at NatWest. They are joined by Lento Tang, BI\u2019s senior bank ana",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Significant",
+      "Credit",
+      "Transfers",
+      "Risk",
+      "Demystifying",
+      "Crunch",
+      "Head",
+      "SRTs",
+      "markets",
+      "key"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/08/26/3139397/0/en/Hanmi-Bank-Selects-Lenders-Cooperative-to-Drive-National-Expansion-of-Business-Lending.html",
+    "title": "Hanmi Bank Selects Lenders Cooperative to Drive National Expansion of Business Lending",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
+    "content": "ARLINGTON, Va., Aug. 26, 2025 (GLOBE NEWSWIRE) -- Lenders Cooperative, a leading provider of loan origination and servicing technology to U.S. financial institutions, is proud to announce that Hanmi \u2026 [+2430 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aug.",
+      "Lenders",
+      "Cooperative",
+      "ARLINGTON",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars",
+      "Hanmi",
+      "Bank",
+      "Selects"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/11174745ce57413c",
+    "title": "Google's new AI image editor just put Photoshop on notice",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
+    "content": "Google has officially announced Gemini 2.5 Flash.Christoph Soeder/picture alliance via Getty ImagesGoogle has taken credit for a viral new image editing model that's been generating a buzz online.\"Na\u2026 [+145 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Gemini",
+      "Soeder",
+      "Google",
+      "Photoshop",
+      "Getty",
+      "Flash.Christoph",
+      "picture",
+      "online.",
+      "image"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/decades-of-history-vanish-as-disney-world-heads-in-controversial-new-direction-ld1/",
+    "title": "Decades of History Vanish as Disney World Heads in Controversial New Direction",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
+    "content": "Disney World\u2019s classic theme park will never be the same.\r\nCredit: Disney\r\nRelated: In Late-Night Social Media Rant, Donald Trump Threatens To End Core Disney Business\r\nGuests can look forward to a l\u2026 [+4539 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Disney",
+      "History",
+      "Vanish",
+      "Heads",
+      "Controversial",
+      "Direction",
+      "Decades",
+      "classic",
+      "theme"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/google-gemini-flash-nano-banana-viral-image-editor-adobe-photoshop-2025-8",
+    "title": "Google's new AI image editor just put Photoshop on notice",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
+    "content": "Google has officially announced Gemini 2.5 Flash.Christoph Soeder/picture alliance via Getty Images\r\n<ul><li>Google has taken credit for a viral new image editing model that's been generating a buzz \u2026 [+2981 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "Gemini",
+      "Soeder",
+      "chars",
+      "Photoshop",
+      "Getty",
+      "image",
+      "Flash.Christoph",
+      "picture",
+      "buzz"
+    ]
+  },
+  {
+    "source": "NASA [NewsAPI]",
+    "url": "https://www.nasa.gov/image-article/nasa-test-deploys-roman-space-telescope-solar-panels-visor/",
+    "title": "NASA Test Deploys Roman Space Telescope Solar Panels, \u2018Visor\u2019",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
+    "content": "Credit: NASA\u2019s Goddard Space Flight Center; Music Credit: History in Motion by Fred Dubois [SACEM], Koka Media [SACEM], Universal Publishing Production Music France [SACEM], and Universal Production \u2026 [+750 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SACEM",
+      "NASA",
+      "Credit",
+      "Space",
+      "Music",
+      "Universal",
+      "Production",
+      "Panels",
+      "Visor\u2019",
+      "Center"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/fitch-upgrades-credit-rating-of-port-operator-jsw-infrastructure-to-investment-grade-s-p-global-moody-s-jswil-11756213200316.html",
+    "title": "Fitch upgrades rating of port operator JSW Infrastructure to investment grade",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
+    "content": "Mumbai: JSW Infrastructure Ltd (JSWIL), Indias second-largest private port operator, has entered the investment grade category after Fitch Ratings upgraded its credit rating to BBB- with a stable out\u2026 [+800 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "JSWIL",
+      "JSW",
+      "Infrastructure",
+      "Mumbai",
+      "Indias",
+      "BBB",
+      "chars",
+      "Fitch",
+      "port",
+      "operator"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/bank-montreal-tops-estimates-us-094444725.html",
+    "title": "Bank of Montreal\u00a0Tops Estimates on US Results, Lower-Than-Expected Provisions",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
+    "content": "(Bloomberg) -- Bank of Montreal topped estimates on stronger-than-expected performance at its US division as the lender works to improve the businesss prospects and loan-loss provisions came in lower\u2026 [+2818 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Bloomberg",
+      "Montreal",
+      "chars",
+      "Results",
+      "Estimates",
+      "Provisions",
+      "Tops",
+      "performance",
+      "lower"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/135440/david-ornstein-chelsea-exploring-move-to-sign-22-year-old-barcelona-star.html",
+    "title": "David Ornstein: Chelsea exploring move to sign 22-year-old Barcelona star",
+    "fetched_on": "2025-08-27T14:19:43.570809+00:00",
+    "content": "Chelsea Exploring Move for Barcelonas Fermin Lopez\r\nCredit to David Ornstein of The Athletic for reporting that Chelsea are evaluating the possibility of a move for Barcelona midfielder Fermin Lopez.\u2026 [+3265 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chelsea",
+      "Ornstein",
+      "exploring",
+      "move",
+      "Barcelona",
+      "Fermin",
+      "David",
+      "Lopez.",
+      "chars",
+      "Lopez"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/debt-free-homeowner-asks-suze-134551237.html",
+    "title": "Debt-Free Homeowner Asks Suze Orman How To Prevent Property Fraud \u2014 Her Advice Goes Beyond Freezing Credit",
+    "fetched_on": "2025-08-27T14:20:02.862059+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fraud",
+      "Credit",
+      "Homeowner",
+      "Suze",
+      "Orman",
+      "Prevent",
+      "Property",
+      "Advice",
+      "Freezing",
+      "Debt-Free"
     ]
   }
 ]
