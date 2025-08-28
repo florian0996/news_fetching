@@ -533580,5 +533580,125 @@
       "devices",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-28/china-banks-warn-on-using-credit-cards-to-fund-stock-trading",
+    "title": "China Banks Warn on Using Credit Cards to Fund Stock Trading",
+    "fetched_on": "2025-08-28T03:03:04.759741+00:00",
+    "content": "China’s commercial banks are tightening oversight of clients using credit cards to fund stock investments as small-time investors pour in to catch the nation’s $1 trillion market rally.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Cards",
+      "Fund",
+      "Stock",
+      "China",
+      "Banks",
+      "Warn",
+      "Trading",
+      "trillion",
+      "rally"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/markets/stocks/news/adani-ports-hal-among-10-largecap-picks-from-pl-capital-with-upside-of-up-to-31/top-picks/slideshow/123536779.cms",
+    "title": "Adani Ports, HAL among 10 largecap picks from PL Capital with upside of up to 31%",
+    "fetched_on": "2025-08-28T03:03:03.722777+00:00",
+    "content": "Aug 27, 2025, 08:28:31 AM IST\r\nPrabhudas Lilladher sees India’s equity markets entering a phase led by domestic demand, supported by tax cuts, lower inflation and easier credit conditions. Against th… [+2227 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aug",
+      "Ports",
+      "HAL",
+      "Capital",
+      "IST",
+      "Prabhudas",
+      "Lilladher",
+      "India",
+      "Adani",
+      "largecap"
+    ]
+  },
+  {
+    "source": "Trinidad & Tobago Express Newspapers [NewsAPI]",
+    "url": "https://trinidadexpress.com/business/local/eastern-credit-union-records-29-4m-loss-in-2023/article_ec6b001f-112c-4849-9edf-667c8de61527.html",
+    "title": "Eastern Credit Union records $29.4m loss in 2023",
+    "fetched_on": "2025-08-28T03:03:03.722777+00:00",
+    "content": "EASTERN Credit Union posted a total comprehensive loss of $29.4 million for the year ended December 31, 2023, representing a 52% increase from the $19.3 million loss recorded in 2022.\r\nAccording to i… [+8479 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Eastern",
+      "Credit",
+      "Union",
+      "December",
+      "million",
+      "loss",
+      "records",
+      "representing",
+      "increase",
+      "posted"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178890014",
+    "title": "White House takes credit for Cracker Barrel logo reversal - Politico",
+    "fetched_on": "2025-08-28T03:03:03.722777+00:00",
+    "content": "\"Well I don't see why I have to make one man miserable when I can make so many \r\nmen happy.\"\r\n-- Ellyn Mustard, about marriage",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Politico",
+      "House",
+      "Cracker",
+      "Barrel",
+      "make",
+      "White",
+      "reversal",
+      "happy",
+      "credit",
+      "logo"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/bdaf2847f3c859a4",
+    "title": "SeaTown Raises $612 Million for Third Private Credit Fund",
+    "fetched_on": "2025-08-28T03:03:03.722777+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Cracker Barrel revert its new logo? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Trump's firi… [+746 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Raises",
+      "Million",
+      "Fund",
+      "return",
+      "false",
+      "Private",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a6a0be7cecaa11be",
+    "title": "White House takes credit for Cracker Barrel logo reversal",
+    "fetched_on": "2025-08-28T03:03:03.722777+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Cracker Barrel revert its new logo? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Trump's firi… [+726 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Cracker",
+      "Barrel",
+      "return",
+      "false",
+      "House",
+      "White",
+      "reversal"
+    ]
   }
 ]
