@@ -536389,5 +536389,145 @@
       "loan",
       "collection"
     ]
+  },
+  {
+    "source": "Time [NewsAPI]",
+    "url": "https://time.com/7312753/trump-india-tariffs-american-consumers/",
+    "title": "How Trump's Tariffs on India Could Impact American Consumers",
+    "fetched_on": "2025-08-28T19:16:27.675665+00:00",
+    "content": "A customer purchases seafood at the Pike Place Market in Seattle, Washington, on July 4, 2024. Credit - SeongJoon ChoGetty Images\r\nPresident Donald Trump's decision to double tariffs on Indian import… [+5472 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Washington",
+      "Seattle",
+      "July",
+      "India",
+      "Impact",
+      "American",
+      "Consumers",
+      "Pike",
+      "Place",
+      "Market"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/fondation-louis-vuitton-to-host-retrospective-on-artist-gerhard-richter/",
+    "title": "Fondation Louis Vuitton to host retrospective on artist Gerhard Richter",
+    "fetched_on": "2025-08-28T19:16:27.675665+00:00",
+    "content": "Arts and entertainment\r\nAugust 27, 2025\r\n The museum is offering a look at the expansive catalog of the influential German talent. Image credit: LVMH/Gerhard Richter \r\n By Zach James for Luxury Daily… [+3740 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "Gerhard",
+      "Richter",
+      "Louis",
+      "Vuitton",
+      "Arts",
+      "German",
+      "Fondation",
+      "talent",
+      "LVMH"
+    ]
+  },
+  {
+    "source": "Liliputing [NewsAPI]",
+    "url": "https://liliputing.com/plaud-note-pro-is-a-179-ai-powered-note-taking-device-with-quad-microphones-a-0-95-inch-amoled-display/",
+    "title": "Plaud Note Pro is a $179 AI-powered note-taking device with quad microphones, a 0.95 inch AMOLED display",
+    "fetched_on": "2025-08-28T19:16:27.675665+00:00",
+    "content": "The Plaud Note Pro is a credit card-sized gadget designed to record your meetings, phone calls, and other conversations, generate transcripts from those recordings, and use AI to provide summaries an… [+2209 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Note",
+      "Pro",
+      "Plaud",
+      "chars",
+      "AMOLED",
+      "AI-powered",
+      "microphones",
+      "inch",
+      "meetings",
+      "phone"
+    ]
+  },
+  {
+    "source": "Coinjournal.net [NewsAPI]",
+    "url": "https://coinjournal.net/news/aaves-new-horizon-allows-institutions-to-borrow-stablecoins-using-real-world-assets/",
+    "title": "Aave’s new Horizon allows institutions to borrow stablecoins using real-world assets",
+    "fetched_on": "2025-08-28T19:16:27.675665+00:00",
+    "content": "<ul><li>The platform facilitates stablecoin loans backed by institutional funds and tokenized Treasurys.</li><li>Horizon bridges TradFi and DeFi with 24/7 institutional-level borrowing.</li><li>AAVE … [+4065 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aave",
+      "Horizon",
+      "Treasurys.",
+      "chars",
+      "assets",
+      "institutional-level",
+      "borrowing.",
+      "institutions",
+      "borrow",
+      "real-world"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/magic-kingdom-rivers-america-drained-emd1/",
+    "title": "Magic Kingdom Lawfully Erases Walt’s Vision From 1955",
+    "fetched_on": "2025-08-28T19:16:27.675665+00:00",
+    "content": "Magic Kingdom fans are mourning the loss of a legacy area that brought joy and wonder to Disney World since 1955.\r\nCredit: Disney Fanatic\r\nMagic Kingdom Says Goodbye to Rivers of America Officially\r\n… [+4545 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kingdom",
+      "Magic",
+      "Lawfully",
+      "Erases",
+      "Walt",
+      "Vision",
+      "World",
+      "Disney",
+      "Officially",
+      "fans"
+    ]
+  },
+  {
+    "source": "Raw Story [NewsAPI]",
+    "url": "https://www.rawstory.com/sean-duffy-2673932688/",
+    "title": "'Surprising no one!' Trump official blasted for hijacking credit for Biden’s upgrades",
+    "fetched_on": "2025-08-28T19:16:27.675665+00:00",
+    "content": "Secretary of Transportation Sean Duffy is under fire for claiming credit for new Amtrak trains, as well as funding and improvements, all of which came from President Joe Bidens landmark bipartisan in… [+2233 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Surprising",
+      "credit",
+      "chars",
+      "Secretary",
+      "Transportation",
+      "Sean",
+      "Duffy",
+      "Amtrak",
+      "President",
+      "Joe"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/disney-world-completed-fantasmic-changes-to-begin-september-ab1/",
+    "title": "Disney World Announces Completed ‘Fantasmic’ Changes To Begin in September",
+    "fetched_on": "2025-08-28T19:16:27.675665+00:00",
+    "content": "For decades, Fantasmic! has been one of Disney Worlds most iconic nighttime spectaculars, blending fireworks, water effects, pyrotechnics, and live performers into a story pulled straight from Mickey… [+2937 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fantasmic",
+      "pyrotechnics",
+      "chars",
+      "Completed",
+      "Fantasmic’",
+      "Mickey",
+      "Disney",
+      "Announces",
+      "Begin",
+      "September"
+    ]
   }
 ]
