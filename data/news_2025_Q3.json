@@ -534434,5 +534434,65 @@
       "card",
       "giant"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-wednesday-august-27-2025-100048255.html",
+    "title": "HELOC rates today, August 27, 2025: 3 weeks until potentially lower rates",
+    "fetched_on": "2025-08-28T10:21:47.574375+00:00",
+    "content": "HELOC rates today remain steadily under 9%. The next significant move lower for home equity line of credit interest rates could come if the Federal Reserve lowers short-term interest rates at its mee… [+3867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "August",
+      "rates",
+      "today",
+      "weeks",
+      "lower",
+      "potentially",
+      "remain",
+      "steadily",
+      "interest"
+    ]
+  },
+  {
+    "source": "Tom's Guide [NewsAPI]",
+    "url": "https://www.tomsguide.com/phones/iphones/iphone-17-event-is-official-and-it-could-be-the-death-of-these-6-products-what-we-know",
+    "title": "iPhone 17 Event is Official, and it Could Be the Death of These 6 Products — What We Know",
+    "fetched_on": "2025-08-28T10:21:47.574375+00:00",
+    "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nCredit: David Paul Morris/Bloomberg via Getty Images\r\nNow that the iPhone 17 launch event is of… [+3502 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Products",
+      "Official",
+      "Future",
+      "Death",
+      "Event",
+      "iPhone",
+      "articles",
+      "commission",
+      "Credit",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Conversation Africa [NewsAPI]",
+    "url": "https://theconversation.com/african-debt-and-climate-change-how-the-icjs-vanuatu-ruling-could-be-used-for-broader-justice-263859",
+    "title": "African debt and climate change: how the ICJ’s Vanuatu ruling could be used for broader justice",
+    "fetched_on": "2025-08-28T10:21:47.574375+00:00",
+    "content": "African sovereign debtors in distress face terrible choices. They are often forced to choose between fully paying their creditors and financing the needs of their populations – health, education, ren… [+8253 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "African",
+      "ICJ",
+      "Vanuatu",
+      "change",
+      "choices",
+      "health",
+      "education",
+      "ren",
+      "chars",
+      "debt"
+    ]
   }
 ]
