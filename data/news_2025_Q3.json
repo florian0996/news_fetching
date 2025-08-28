@@ -534494,5 +534494,125 @@
       "chars",
       "debt"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/2f90a579e3250aa3",
+    "title": "Russia makes Ukraine gains amid stalled negotiations",
+    "fetched_on": "2025-08-28T11:16:38.090277+00:00",
+    "content": "Russian forces made symbolic territorial gains against Ukraine, lending Moscow new bargaining chips in fitful peace talks.US President Donald Trump has pushed for an end to the war, but his calls for… [+136 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Ukraine",
+      "Russian",
+      "Moscow",
+      "President",
+      "Donald",
+      "Trump",
+      "Russia",
+      "lending",
+      "war"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/fp-finance/rbc-tops-analysts-expectations-more-money-loans-bad",
+    "title": "RBC tops analysts’ expectations despite keeping aside more money for loans that may go bad",
+    "fetched_on": "2025-08-28T11:16:38.090277+00:00",
+    "content": "Royal Bank of Canada topped analysts earnings expectations despite keeping more money aside to tackle loans that may go bad, as it reported higher profits across each of its business segments during … [+4595 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "RBC",
+      "Royal",
+      "Bank",
+      "Canada",
+      "expectations",
+      "keeping",
+      "money",
+      "loans",
+      "bad"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/apple-watch-ultra-3-here-are-8-changes-apple-may-introduce-in-september_id173584",
+    "title": "Apple Watch Ultra 3: here are 8 changes Apple may introduce in September",
+    "fetched_on": "2025-08-28T11:16:38.090277+00:00",
+    "content": "The Apple Watch Ultra 2. | Image Credit - PhoneArenaApple's September event invites are already out, and we're going to see the new iPhone 17 lineup on September 9. The phones are said to be accompan… [+3922 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ultra",
+      "Watch",
+      "Apple",
+      "September",
+      "Image",
+      "Credit",
+      "introduce",
+      "chars",
+      "PhoneArenaApple",
+      "iPhone"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/apple-watch-se-3-2/",
+    "title": "Apple Watch SE 3: Everything We Know So Far",
+    "fetched_on": "2025-08-28T11:16:38.090277+00:00",
+    "content": "The Apple Watch SE 3 is poised to reshape the entry-level smartwatch market by blending affordability with meaningful upgrades. Expected to launch alongside the iPhone 17 this September, it promises … [+6236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Watch",
+      "Apple",
+      "upgrades",
+      "poised",
+      "reshape",
+      "entry-level",
+      "smartwatch",
+      "market",
+      "blending",
+      "affordability"
+    ]
+  },
+  {
+    "source": "The Atlantic [NewsAPI]",
+    "url": "https://www.theatlantic.com/politics/archive/2025/08/trump-dei-community-lenders-cdfi/684017/",
+    "title": "Trump’s War on DEI is Hurting Small Lenders in MAGA Country",
+    "fetched_on": "2025-08-28T11:16:38.090277+00:00",
+    "content": "When Dominique Thornhill tried to get a loan to launch a child-care center in 2020, every conventional bank she approached glanced at her thick business plan and slim finances, then turned her away. … [+13023 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "War",
+      "DEI",
+      "Hurting",
+      "Small",
+      "Lenders",
+      "MAGA",
+      "Country",
+      "Dominique",
+      "Thornhill",
+      "Trump"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/rbc-beats-earnings-estimates-on-growth-across-its-biggest-units",
+    "title": "RBC Beats Earnings Estimates on Growth Across Its Biggest Units",
+    "fetched_on": "2025-08-28T11:16:38.090277+00:00",
+    "content": "(Bloomberg) Royal Bank of Canada beat estimates on strong performance across its biggest businesses and as the firm set aside less money than expected to cover possible loan losses, a rebound from no… [+4193 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "chars",
+      "RBC",
+      "Units",
+      "Royal",
+      "Estimates",
+      "Biggest",
+      "Earnings",
+      "Growth",
+      "Bank"
+    ]
   }
 ]
