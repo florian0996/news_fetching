@@ -536868,5 +536868,65 @@
       "members",
       "credit"
     ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2025/08/27/nx-s1-5511318/high-school-credit-recovery-programs-help-students-graduate-but-there-are-critics",
+    "title": "High school credit recovery programs help students graduate, but there are critics",
+    "fetched_on": "2025-08-28T22:18:50.633359+00:00",
+    "content": "Credit recovery programs help high school students that have failed courses graduate. Advocates say it prevents students from dropping out while critics say it lowers standards.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "recovery",
+      "programs",
+      "graduate",
+      "High",
+      "school",
+      "students",
+      "critics",
+      "failed",
+      "Advocates"
+    ]
+  },
+  {
+    "source": "Redfin.com [NewsAPI]",
+    "url": "https://www.redfin.com/blog/selling-house-with-home-equity-loan/",
+    "title": "Multiple Mortgages, Maximum Profit: How to Sell Your House with a Home Equity Loan",
+    "fetched_on": "2025-08-28T22:18:50.633359+00:00",
+    "content": "Key takeaways:\r\n<ul><li>If youre asking, Can I sell my house if I have a home equity loan? the answer is yes. Many borrowers use the proceeds from their home sale to pay off their home equity loan.</… [+11805 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Sell",
+      "House",
+      "Mortgages",
+      "Maximum",
+      "Profit",
+      "Home",
+      "Key",
+      "Equity",
+      "Multiple"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/disneyland-park-lightning-lane-outage-emd1/",
+    "title": "Disneyland Forced Into Digital Lockdown, Refunds Rushed Out",
+    "fetched_on": "2025-08-28T22:18:50.633359+00:00",
+    "content": "Disneyland Park guests were met with an unexpected technical outage, where refunds were handed out.\r\nCredit: Dr Janos Korom, Flickr\r\nDisneyland Park Undergoes Digital Lockdown\r\nIts every guests worst… [+4305 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Refunds",
+      "Disneyland",
+      "Digital",
+      "Lockdown",
+      "Park",
+      "Forced",
+      "Rushed",
+      "outage",
+      "guests",
+      "Korom"
+    ]
   }
 ]
