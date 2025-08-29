@@ -537620,5 +537620,60 @@
       "Purchases",
       "Limited"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/arohan-financial-services-eyes-20-pc-growth-in-outstanding-loan-portfolio/articleshow/123558595.cms",
+    "title": "Arohan Financial Services eyes 20 pc growth in outstanding loan portfolio",
+    "fetched_on": "2025-08-29T07:19:46.635520+00:00",
+    "content": "Microfinance institution (MFI) Arohan Financial Services is eyeing a growth of 20 per cent in its outstanding loan portfolio during the current financial year, its MD Manoj Nambiar said.The MFI close… [+1577 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Arohan",
+      "Financial",
+      "Services",
+      "MFI",
+      "loan",
+      "chars",
+      "Microfinance",
+      "Manoj",
+      "Nambiar",
+      "outstanding"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/sport/recalled-potter-lauds-wallabies-resilience-bemoans-skelton-absence-5319381",
+    "title": "Recalled Potter lauds Wallabies' resilience, bemoans Skelton absence",
+    "fetched_on": "2025-08-29T07:19:46.635520+00:00",
+    "content": "MELBOURNE :Australia winger Harry Potter says the Wallabies deserve credit for their handling of a growing injury toll during the Rugby Championship as they look to plug further holes in home tests a… [+1792 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "MELBOURNE",
+      "Australia",
+      "Potter",
+      "Wallabies'",
+      "Skelton",
+      "Harry",
+      "Wallabies",
+      "Rugby",
+      "Championship"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/does-paying-off-loan-early-hurt-credit-215821501.html",
+    "title": "Does paying off a loan early hurt your credit?",
+    "fetched_on": "2025-08-29T07:20:13.339321+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "paying",
+      "loan",
+      "early",
+      "hurt"
+    ]
   }
 ]
