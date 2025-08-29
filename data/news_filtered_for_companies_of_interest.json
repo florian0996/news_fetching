@@ -1,6 +1,24 @@
 {
-  "2025-08-28": {
+  "2025-08-29": {
     "status": "no company in the news"
+  },
+  "2025-08-28": {
+    "articles": [
+      {
+        "title": "BI Asset Management Fondsmaeglerselskab A S Takes $35,000 Position in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/08/27/bi-asset-management-fondsmaeglerselskab-a-s-takes-35000-position-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Capital Fund Management S.A. Makes New $774,000 Investment in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/08/27/capital-fund-management-s-a-makes-new-774000-investment-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-08-27": {
     "status": "no company in the news"
