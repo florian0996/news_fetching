@@ -537265,5 +537265,125 @@
       "NBA",
       "Gilbert"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-29/alibaba-jd-com-deals-give-shot-in-the-arm-to-asia-loan-market",
+    "title": "Alibaba, JD.com Deals Give Shot in the Arm to Asia Loan Market",
+    "fetched_on": "2025-08-29T03:02:55.983438+00:00",
+    "content": "Technology giants Alibaba Group Holding Ltd. and JD.com are adding a jolt of energy to the Asian-Pacific syndicated loan market with plans to raise billions of dollars in foreign currency.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Market",
+      "Alibaba",
+      "Deals",
+      "Give",
+      "Shot",
+      "Arm",
+      "Asia",
+      "Technology",
+      "Group"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/business/sri-lanka-seeks-chinese-loans-in-yuan-instead-of-usd-for-infra-project/articleshow/123554191.cms",
+    "title": "Sri Lanka seeks Chinese loans in Yuan instead of USD for infra project",
+    "fetched_on": "2025-08-29T03:02:55.132513+00:00",
+    "content": "Sri Lanka President Anura Kumara Dissanayake has received cabinet approval to borrow the equivalent of $500 million in renminbi (RMB) from Exim Bank of China for an infrastructure project.The first-o… [+2182 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RMB",
+      "Lanka",
+      "Sri",
+      "chars",
+      "Chinese",
+      "Yuan",
+      "USD",
+      "President",
+      "Anura",
+      "Kumara"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/business/pakistan-seeks-us-loan-to-develop-mega-copper-mine-with-canadian-partner-10215527/",
+    "title": "Pakistan seeks US loan to develop mega copper mine with Canadian partner",
+    "fetched_on": "2025-08-29T03:02:55.132513+00:00",
+    "content": "A Pakistani company developing a greenfield copper mine in Balochistan touted as the worlds fifth largest has applied for a loan exceeding $100 million from the US Export-Import (EXIM) Bank. Reko Diq… [+3854 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EXIM",
+      "Bank",
+      "copper",
+      "mine",
+      "Canadian",
+      "Pakistani",
+      "Balochistan",
+      "loan",
+      "Pakistan",
+      "exceeding"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f4eba5b53ddcd6f7",
+    "title": "China Banks Warn on Using Credit Cards to Fund Stock Trading",
+    "fetched_on": "2025-08-29T03:02:55.132513+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Nvidia's stock falling after earnings? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's 50% tariff… [+774 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Trading",
+      "return",
+      "false",
+      "Stock",
+      "Banks",
+      "Warn",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/disney-is-the-classroom-how-your-children-can-attend-school-inside-walt-disney-worlds-parks-em1/",
+    "title": "Mickey University: How Your Children Can Attend School Inside Walt Disney World’s Parks",
+    "fetched_on": "2025-08-29T03:02:55.132513+00:00",
+    "content": "A Central Florida mother has found a one-of-a-kind way to blend homeschooling with family fun, using all four Disney World theme parks to bring lessons to life.\r\nCredit: Disney\r\nMaking Education Magi… [+3287 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "University",
+      "Disney",
+      "Parks",
+      "Children",
+      "Attend",
+      "School",
+      "Inside",
+      "Walt",
+      "Central"
+    ]
+  },
+  {
+    "source": "KicksOnFire.com [NewsAPI]",
+    "url": "https://www.kicksonfire.com/alexander-mcqueen-oversized-black-gold-black",
+    "title": "Alexander Mcqueen Oversized Black / Gold / Black",
+    "fetched_on": "2025-08-29T03:02:55.132513+00:00",
+    "content": "The Alexander McQueen Oversized Black/Gold sneakers are an iconic statement piece, seamlessly blending luxurious detail with contemporary design. Characterized by their exaggerated, oversized sole, t… [+1061 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Black",
+      "Gold",
+      "Mcqueen",
+      "Alexander",
+      "Oversized",
+      "piece",
+      "seamlessly",
+      "design",
+      "sneakers",
+      "iconic"
+    ]
   }
 ]
