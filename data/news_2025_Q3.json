@@ -537429,5 +537429,76 @@
       "China",
       "Chinas"
     ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/more-than-a-dozen-credit-unions-merge-as-they-scale-up-to-expand-mortgage-offerings/a53303816.html",
+    "title": "More than a dozen credit unions merge as they scale up to expand mortgage offerings",
+    "fetched_on": "2025-08-29T05:19:26.494870+00:00",
+    "content": "Credit unions in Dublin and Wicklow have agreed to merge in a move aimed at strengthening their offering to members.It is just the latest of more than a dozen such mergers this year as the ­lenders s… [+2971 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "chars",
+      "dozen",
+      "unions",
+      "Dublin",
+      "Wicklow",
+      "merge",
+      "lenders",
+      "scale",
+      "expand"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/insurance/article/gap-insurance-183936971.html",
+    "title": "Pricey auto loan? Consider gap insurance.",
+    "fetched_on": "2025-08-29T05:20:01.657821+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pricey",
+      "loan",
+      "auto",
+      "insurance",
+      "gap"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/insurance/article/how-credit-affects-insurance-rates-171516158.html",
+    "title": "How credit affects car insurance rates — for better or worse",
+    "fetched_on": "2025-08-29T05:20:01.657920+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "rates",
+      "worse",
+      "credit",
+      "affects",
+      "car",
+      "insurance"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/heute-im-fokus-29-08-2025-14780294",
+    "title": "Vor Inflationsdaten: DAX mit leichten Verlusten erwartet -- China-Börsen im Plus - Abgaben in Japan -- UniCredit erhöht Beteiligung an Alpha Bank",
+    "fetched_on": "2025-08-29T05:20:01.888695+00:00",
+    "content": "<p><br /><span id=\"fokus_replace\">Der deutsche Leitindex dürfte am Freitag etwas nachgeben.</p><p>Der <a href=\"https://www.finanzen.net/index/dax\">DAX</a> wird am Freitag in ersten Indikationen 0,2 Prozent tiefer auf 24.001 Punkte taxiert. Am Donnerstag  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DAX",
+      "Der",
+      "Freitag",
+      "Inflationsdaten",
+      "Abgaben",
+      "Japan",
+      "Bank",
+      "Indikationen",
+      "Prozent",
+      "Punkte"
+    ]
   }
 ]
