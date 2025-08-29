@@ -540538,5 +540538,85 @@
       "night",
       "alerting"
     ]
+  },
+  {
+    "source": "The Cut [NewsAPI]",
+    "url": "http://www.thecut.com/article/my-ssense-chopova-lowena-skirt-went-through-global-shipping-hell.html",
+    "title": "My Cool Ssense Skirt Went Through Global-Shipping Hell",
+    "fetched_on": "2025-08-29T22:18:23.230815+00:00",
+    "content": "On June 1, I splurged on my first piece from Ssense: a Chopova Lowena skirt. I had been influenced by a recovering shopaholic on TikTok whod somehow clicked her way to five figures of credit-card deb… [+4098 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ssense",
+      "June",
+      "Skirt",
+      "Cool",
+      "Hell",
+      "Chopova",
+      "Lowena",
+      "Global-Shipping",
+      "splurged",
+      "piece"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/what-rights-do-consumers-have-in-a-receivership-and-how-you-can-protect-yourself/GXHINVAEMRG75GTNAK25SKWUOA/",
+    "title": "What rights do consumers have in a receivership and how you can protect yourself",
+    "fetched_on": "2025-08-29T22:18:23.230815+00:00",
+    "content": "He said the risk of paying a deposit if the company falls into receivership or liquidation is that that person will become an unsecured creditor.\r\nThe difference between being an unsecured and secure… [+2591 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "receivership",
+      "creditor",
+      "unsecured",
+      "consumers",
+      "protect",
+      "risk",
+      "paying",
+      "deposit",
+      "company",
+      "falls"
+    ]
+  },
+  {
+    "source": "Frequentmiler.com [NewsAPI]",
+    "url": "https://frequentmiler.com/earn-5000-bonus-points-when-booking-a-jetblue-flight-with-a-jetblue-credit-card-targeted/",
+    "title": "Earn 5,000 bonus points when booking a JetBlue flight with a JetBlue credit card (targeted)",
+    "fetched_on": "2025-08-29T22:18:23.230815+00:00",
+    "content": "Advertiser Disclosure: FrequentMiler is an independent, advertising-supported web site. Frequent Miler has financial relationships with many of the cards mentioned here, and is compensated through th… [+1276 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earn",
+      "targeted",
+      "Advertiser",
+      "Disclosure",
+      "JetBlue",
+      "bonus",
+      "FrequentMiler",
+      "independent",
+      "advertising-supported",
+      "site"
+    ]
+  },
+  {
+    "source": "CNET [NewsAPI]",
+    "url": "https://www.cnet.com/tech/services-and-software/credit-bureau-transunion-hit-with-data-breach-affecting-4-4-million-people/",
+    "title": "Credit Bureau TransUnion Hit With Data Breach Affecting 4.4 Million People",
+    "fetched_on": "2025-08-29T22:18:23.230815+00:00",
+    "content": "The TransUnion data breach exposed the data of up to 4.4 million customers. \r\nCNET\r\nMajor credit bureau TransUnion has suffered a data breach that exposed sensitive information belonging to 4.4 milli… [+1568 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Affecting",
+      "Data",
+      "Breach",
+      "Bureau",
+      "Hit",
+      "People",
+      "TransUnion",
+      "Credit",
+      "customers"
+    ]
   }
 ]
