@@ -540919,5 +540919,45 @@
       "Recently",
       "Tape-Shaped"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/527a74bd3ed5662e",
+    "title": "Credit Bureau TransUnion Hit With Data Breach Affecting 4.4 Million People",
+    "fetched_on": "2025-08-30T04:22:55.699069+00:00",
+    "content": "Major credit bureau TransUnion has suffered a data breach that exposed sensitive information belonging to 4.4 million customers, including names and Social Security numbers.The data breach took place… [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bureau",
+      "Million",
+      "Data",
+      "Breach",
+      "Affecting",
+      "chars",
+      "Hit",
+      "People",
+      "Major",
+      "Social"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e447f0607ab5a6f3",
+    "title": "India taps homegrown digital payments network to widen access to credit",
+    "fetched_on": "2025-08-30T04:22:55.699069+00:00",
+    "content": "Infrastructure will let banks deliver short-term loans more easily but encouraging take-up could prove difficult\r\nThis story appeared on ft.com, 2025-08-29 04:00:01.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Infrastructure",
+      "India",
+      "ft.com",
+      "taps",
+      "homegrown",
+      "digital",
+      "payments",
+      "network",
+      "widen",
+      "access"
+    ]
   }
 ]
