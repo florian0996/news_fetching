@@ -542932,5 +542932,145 @@
       "Energy",
       "Banco"
     ]
+  },
+  {
+    "source": "Theflightdeal.com [NewsAPI]",
+    "url": "https://www.theflightdeal.com/2025/08/29/air-canada-phoenix-montreal-canada-254-basic-economy-396-regular-economy-roundtrip-including-all-taxes/",
+    "title": "Air Canada: Phoenix – Montreal, Canada. $254 (Basic Economy) / $396 (Regular Economy). Roundtrip, including all Taxes",
+    "fetched_on": "2025-08-30T18:25:41.150489+00:00",
+    "content": "A good sale for nonstop service to Montreal\r\nThe $396 fare is the regular fare with a normal size carry-on the ability to change, cancel for credit and have standard boarding.\r\nAir Canada also has a … [+3656 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phoenix",
+      "Canada",
+      "Economy",
+      "Montreal",
+      "Air",
+      "Regular",
+      "Basic",
+      "fare",
+      "Taxes",
+      "Roundtrip"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/steam-users-in-the-uk-who-want-mature-game-content-must-now-register-a-credit-card-on-their-accounts-to-prove-theyre-old-enough/",
+    "title": "Steam users in the UK who want 'mature game content' must now register a credit card on their accounts to prove they're old enough",
+    "fetched_on": "2025-08-30T18:25:41.150489+00:00",
+    "content": "Steam users in the UK who want to access \"mature content games\" or related community hubs are now required to have a valid credit card associated with their account. The new requirement was implement… [+3713 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Steam",
+      "users",
+      "mature",
+      "credit",
+      "card",
+      "content",
+      "access",
+      "accounts",
+      "account",
+      "register"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/disneyland-confirms-several-major-park-shutdowns-coming-soon-ld1/",
+    "title": "Disneyland Confirms Several Major Park Shutdowns Coming Soon",
+    "fetched_on": "2025-08-30T18:25:41.150489+00:00",
+    "content": "A handful of classic Disneyland attractions are marked for closure.\r\nCredit: Disney\r\nRelated: Disney Enters Uncharted Waters With Newest Pirates of the Caribbean Release\r\nA slate of new ride and attr… [+2281 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disneyland",
+      "Confirms",
+      "Major",
+      "Park",
+      "Shutdowns",
+      "Coming",
+      "Disney",
+      "closure",
+      "handful",
+      "classic"
+    ]
+  },
+  {
+    "source": "Frequentmiler.com [NewsAPI]",
+    "url": "https://frequentmiler.com/some-capital-one-cardholders-targeted-for-60000-miles-with-300-motley-fool-subscription/",
+    "title": "Some Capital One cardholders targeted for 60,000 miles with $300 Motley Fool subscription",
+    "fetched_on": "2025-08-30T18:25:41.150489+00:00",
+    "content": "Capital One Offers refers to shopping offers that Capital One cardholders see in their credit card login (not to be confused with Capital One Shopping, the public shopping portal — see this post for … [+2250 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "shopping",
+      "Motley",
+      "Offers",
+      "chars",
+      "cardholders",
+      "Fool",
+      "miles",
+      "login",
+      "portal"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/jonmcgowan/2025/08/29/4-programs-on-carbon-credits-at-climate-week-nyc-2025/",
+    "title": "4 Programs On Carbon Credits At Climate Week NYC 2025",
+    "fetched_on": "2025-08-30T18:25:41.150489+00:00",
+    "content": "Monday September 23, 2024. Climate Group at Climate Week 2024. DAY 1 at The Glasshouse. NYC. Photo credit: Bonnie Biess/Margarita Productions\r\nBonnie Biess/Margarita Productio\r\nThe 2025 Climate Week … [+2700 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Climate",
+      "Week",
+      "Programs",
+      "Monday",
+      "September",
+      "Carbon",
+      "NYC",
+      "Biess",
+      "Margarita",
+      "Bonnie"
+    ]
+  },
+  {
+    "source": "PCMag.com [NewsAPI]",
+    "url": "https://me.pcmag.com/en/cars-auto/31948/the-irs-just-made-it-easier-to-claim-the-7500-ev-tax-credit-but-act-fast",
+    "title": "The IRS Just Made It Easier to Claim the $7,500 EV Tax Credit, But Act Fast",
+    "fetched_on": "2025-08-30T18:25:41.150489+00:00",
+    "content": "The $7,500 federal EV tax credit is not long for this world, but there's still time to save.\r\nPresident Trump made good on his campaign promise to eliminate the program by signing the Big Beautiful B… [+4099 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Credit",
+      "IRS",
+      "Easier",
+      "Claim",
+      "Act",
+      "Fast",
+      "Made",
+      "federal",
+      "world"
+    ]
+  },
+  {
+    "source": "PCMag.com [NewsAPI]",
+    "url": "https://uk.pcmag.com/cars-auto/159804/the-irs-just-made-it-easier-to-claim-the-7500-ev-tax-credit-but-act-fast",
+    "title": "The IRS Just Made It Easier to Claim the $7,500 EV Tax Credit, But Act Fast",
+    "fetched_on": "2025-08-30T18:25:41.150489+00:00",
+    "content": "The $7,500 federal EV tax credit is not long for this world, but there's still time to save.\r\nPresident Trump made good on his campaign promise to eliminate the program by signing the Big Beautiful B… [+4099 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Credit",
+      "IRS",
+      "Easier",
+      "Claim",
+      "Act",
+      "Fast",
+      "Made",
+      "federal",
+      "world"
+    ]
   }
 ]
