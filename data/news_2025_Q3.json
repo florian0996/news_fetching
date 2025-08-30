@@ -543212,5 +543212,45 @@
       "fare",
       "Taxes"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/08/29/3141762/0/en/Mountain-America-Credit-Union-Announces-Recipients-of-300-000-Elevate-Scholarship-Program.html",
+    "title": "Mountain America Credit Union Announces Recipients of $300,000 Elevate Scholarship Program",
+    "fetched_on": "2025-08-30T20:19:59.143868+00:00",
+    "content": "SANDY, Utah, Aug. 29, 2025 (GLOBE NEWSWIRE) -- Mountain America Credit Union, through the Mountain America Foundation, recently awarded $300,000 in scholarships to 150 students from 85 high schools a… [+2471 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "America",
+      "Credit",
+      "Mountain",
+      "Utah",
+      "Aug.",
+      "Union",
+      "Elevate",
+      "SANDY",
+      "GLOBE",
+      "NEWSWIRE"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/ismeal-kabia-joins-shrewsbury-town-loan",
+    "title": "Ismeal Kabia joins Shrewsbury Town on loan",
+    "fetched_on": "2025-08-30T20:19:59.143868+00:00",
+    "content": "Ismeal Kabia has joined League Two side Shrewsbury Town on a season-long loan.\r\nThe 19-year-old joined our academy in March 2017 and recently signed his second professional contract with us.\r\nIsmeal … [+800 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Town",
+      "Kabia",
+      "Shrewsbury",
+      "League",
+      "Ismeal",
+      "loan",
+      "joined",
+      "March",
+      "joins",
+      "side"
+    ]
   }
 ]
