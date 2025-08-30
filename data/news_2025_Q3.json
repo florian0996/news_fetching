@@ -540817,5 +540817,85 @@
       "Lower",
       "Credit-Loss"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/eac9e2e96806c8bf",
+    "title": "Time’s running out to use the EV tax credit. How to shop for one right now",
+    "fetched_on": "2025-08-30T01:25:45.727868+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Ford's stock falling amid union surge? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact does Fed offici… [+748 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Time",
+      "credit",
+      "running",
+      "tax",
+      "Ford"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/earnings/2025/levchin-says-affirm-firing-on-all-pistons-as-active-card-users-surge-97percent/",
+    "title": "Levchin Says Affirm ‘Firing on All Pistons’ as Active Card Users Surge 97%",
+    "fetched_on": "2025-08-30T01:25:45.727868+00:00",
+    "content": "Affirm notched new highs across several business lines in the June quarter, as buy now, pay later (BNPL) momentum continued online and in-store, underpinned by 0% APR monthly installment loans.The co… [+3617 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNPL",
+      "chars",
+      "Firing",
+      "Surge",
+      "APR",
+      "Affirm",
+      "Pistons’",
+      "Active",
+      "Card",
+      "Users"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18564094-samsung-trade-in-galaxy-watch6-classic-get-44mm-samsung-galaxy-watch8-80-or-less-free-shipping",
+    "title": "Samsung: Trade in Galaxy Watch6 Classic, Get 44mm Samsung Galaxy Watch8 $80 or less + Free Shipping",
+    "fetched_on": "2025-08-30T01:25:45.727868+00:00",
+    "content": "Confirmed, Samsung's emails were promising \"double the reserve credit\" and it looks like they finally did it for the watches. Price breakdown (can do better than $80 with EDU/EPP):Watch 8 44mm Wifi: … [+584 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Samsung",
+      "Galaxy",
+      "Classic",
+      "Trade",
+      "Free",
+      "Confirmed",
+      "Shipping",
+      "promising",
+      "double",
+      "credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c7a96b2d19395c94",
+    "title": "SFO to land a large credit card airport lounge, but which one will it be?",
+    "fetched_on": "2025-08-30T01:25:45.727868+00:00",
+    "content": "SFO is taking advantage of the growing popularity of airport lounges as part of a $2.6 billion construction project that is underway.\r\nThis story appeared on bizjournals.com, 2025-08-28 23:32:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SFO",
+      "airport",
+      "land",
+      "large",
+      "credit",
+      "card",
+      "lounge",
+      "lounges",
+      "billion",
+      "underway"
+    ]
   }
 ]
