@@ -1,6 +1,17 @@
 {
-  "2025-08-29": {
+  "2025-08-30": {
     "status": "no company in the news"
+  },
+  "2025-08-29": {
+    "articles": [
+      {
+        "title": "LendingClub (NYSE:LC) versus Intrum AB (publ) (OTCMKTS:ITJTY) Head-To-Head Analysis",
+        "url": "https://www.etfdailynews.com/2025/08/28/lendingclub-nyselc-versus-intrum-ab-publ-otcmktsitjty-head-to-head-analysis/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-08-28": {
     "articles": [
