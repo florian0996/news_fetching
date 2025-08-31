@@ -544272,5 +544272,85 @@
       "mature",
       "buy"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/30/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "fetched_on": "2025-08-31T16:22:39.871828+00:00",
+    "content": "What to watch this Labor Day weekend.\r\nCredit: Amazon / Sony / Netflix\r\nTense international spy thrillers, cozy British mysteries, gripping crime dramas and even more Kpop. These, and lots more, grac… [+12231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Watch",
+      "Weekend",
+      "Hulu",
+      "Prime",
+      "Video",
+      "Apple",
+      "Shows",
+      "Movies",
+      "Stream",
+      "Labor"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/30/todays-nyt-connections-hints-and-answers-for-sunday-august-31st/",
+    "title": "Today’s NYT ‘Connections’ Hints And Answers For Sunday, August 31st",
+    "fetched_on": "2025-08-31T16:22:39.871828+00:00",
+    "content": "Credit: NYT / Erik Kain\r\nLooking for a little help with your Sunday Connections puzzle? If youre looking for extra clues or the answers youve come to the right place. Below youll find an extra set of… [+5024 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYT",
+      "August",
+      "Credit",
+      "Sunday",
+      "Connections’",
+      "Erik",
+      "Hints",
+      "Kain",
+      "Answers",
+      "Today"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/donald-trump-health-5429125/",
+    "title": "Donald Trump’s Health: His Chronic Venous Insufficiency Explained",
+    "fetched_on": "2025-08-31T16:22:39.871828+00:00",
+    "content": "Image Credit: Getty Images\r\nDonald Trump has insisted that his health is in good standing, but his physician revealed in July 2025 that he was living with a condition that affects his veins. The pres… [+2996 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Donald",
+      "Health",
+      "Credit",
+      "Getty",
+      "July",
+      "Chronic",
+      "Venous",
+      "Insufficiency",
+      "Explained"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-pictures/gather-no-moss-chicago-1235419215/",
+    "title": "Gather No Moss Chicago",
+    "fetched_on": "2025-08-31T16:22:39.871828+00:00",
+    "content": "Image Credit: Josh Darr for Rolling Stone\r\nEliza Enman-McDaniel, Leandra Earl, Jordan Miller, Kylie Miller The Beaches at the Rolling Stone Presents: Gather No Moss held at The Salt Shed on August 29… [+27 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gather",
+      "Moss",
+      "Rolling",
+      "Stone",
+      "Miller",
+      "Credit",
+      "Josh",
+      "Leandra",
+      "Earl",
+      "Jordan"
+    ]
   }
 ]
