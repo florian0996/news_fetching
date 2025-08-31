@@ -544012,5 +544012,85 @@
       "setting",
       "English"
     ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/interviews/i-love-caught-stealing-surprise-mid-credits-cameo-laura-dern-no-idea-austin-butler-past-connection-star",
+    "title": "I Love Caught Stealing's Surprise Mid-Credits Cameo, And I Had No Idea Austin Butler Had A Past Connection With The Star",
+    "fetched_on": "2025-08-31T13:23:53.533777+00:00",
+    "content": "SPOILER WARNING: The following article contains spoilers for Caught Stealing. If you have not yet seen the film, proceed at your own risk!\r\nThroughout Caught Stealing, Austin Butler's Hank Thompson m… [+3846 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cameo",
+      "WARNING",
+      "Caught",
+      "Stealing",
+      "Love",
+      "Surprise",
+      "Idea",
+      "Past",
+      "Connection",
+      "Star"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/08/the-least-magical-ride-at-disneys-magic-kingdom-ld1/",
+    "title": "The Least Magical Ride at Disney’s Magic Kingdom",
+    "fetched_on": "2025-08-31T13:23:53.533777+00:00",
+    "content": "This is the least magical ride at Disney’s Magic Kingdom. Well, we at least think so.\r\nCredit: Jamie S., Inside The Magic\r\nRelated: Disney Cast Members Upset Over Behind-the-Scenes Video of Boo to Yo… [+2938 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kingdom",
+      "Magical",
+      "Ride",
+      "Disney",
+      "Magic",
+      "Jamie",
+      "Inside",
+      "Related",
+      "Video",
+      "Cast"
+    ]
+  },
+  {
+    "source": "Rolling Out [NewsAPI]",
+    "url": "https://rollingout.com/2025/08/30/what-to-do-partner-struggles-with-money/",
+    "title": "What to do if your partner struggles with money",
+    "fetched_on": "2025-08-31T13:23:53.533777+00:00",
+    "content": "Money fights end more relationships than any other issue except infidelity. When one partner racks up credit card debt while the other saves diligently, or when financial secrets surface after years … [+9328 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "money",
+      "infidelity",
+      "chars",
+      "partner",
+      "struggles",
+      "fights",
+      "end",
+      "relationships",
+      "issue",
+      "diligently"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/india-to-become-worlds-third-largest-economy-soon-rbi-governor/articleshow/123602746.cms",
+    "title": "India to become world's third largest economy soon: RBI Governor",
+    "fetched_on": "2025-08-31T13:23:53.533777+00:00",
+    "content": "Indore: Reserve Bank of India (RBI) Governor Sanjay Malhotra on Saturday said India will become the world's third largest economy soon, and credited the Pradhan Mantri Jan Dhan Yojana for boosting th… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "India",
+      "Governor",
+      "Indore",
+      "Reserve",
+      "largest",
+      "economy",
+      "chars",
+      "Bank",
+      "Sanjay"
+    ]
   }
 ]
