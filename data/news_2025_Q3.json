@@ -544931,5 +544931,85 @@
       "Edge",
       "Sells"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/mitchwallace/2025/08/30/mario-kart-world-falls-behind-in-sales-mario-kart-8-deluxe-surges-ahead/",
+    "title": "‘Mario Kart World’ Falls Behind In Sales, ‘Mario Kart 8 Deluxe’ Surges Ahead",
+    "fetched_on": "2025-08-31T23:18:12.822145+00:00",
+    "content": "Credit: Nintendo\r\nAccording to Polygon, in a report on a post by Circana analyst Mat Piscatella, Mario Kart 8 Deluxe outsold Mario Kart World in the month of July. Seems like newer isnt necessarily b… [+2729 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mario",
+      "Kart",
+      "Sales",
+      "Deluxe’",
+      "Credit",
+      "Nintendo",
+      "Polygon",
+      "Piscatella",
+      "Deluxe",
+      "July"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/08/30/does-it-make-sense-to-upgrade-a-prusa-mark-4s-to-a-core-one/",
+    "title": "Does it Make Sense to Upgrade a Prusa Mark 4S to a Core One?",
+    "fetched_on": "2025-08-31T23:18:12.822145+00:00",
+    "content": "Some of these Mark 4S parts will become a Prusa Core One. (Credit: Aurora Tech, YouTube)\r\nOne of the interesting things about Prusa’s FDM 3D printers is the availability of official upgrade kits, whi… [+1408 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mark",
+      "Prusa",
+      "Core",
+      "Make",
+      "Sense",
+      "Upgrade",
+      "Credit",
+      "Aurora",
+      "Tech",
+      "FDM"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/08/30/why-is-my-phone-on-sos-verizon-outage/",
+    "title": "Why Is My Phone on SOS? Updates on the Verizon Outage",
+    "fetched_on": "2025-08-31T23:18:12.822145+00:00",
+    "content": "Image Credit: SOPA Images/LightRocket via Gett\r\nIn case youre a Verizon customer, you probably noticed that your phone was on SOS today, August 30, 2025. People across the United States mainly on the… [+2280 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SOS",
+      "Phone",
+      "Verizon",
+      "August",
+      "Credit",
+      "SOPA",
+      "Outage",
+      "Gett",
+      "Image",
+      "Images"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/08/30/todays-nyt-strands-puzzle-hints-spangram-and-answers-for-sunday-august-31st-up-the-hill/",
+    "title": "Today’s NYT Strands Puzzle: Hints, Spangram And Answers For Sunday, August 31st",
+    "fetched_on": "2025-08-31T23:18:12.822145+00:00",
+    "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nWe have come, oh my Strandistas, to the last day of August. Three weeks of summer remain as the days get shorter and cooler and Autumn s… [+2272 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "August",
+      "NYT",
+      "Strands",
+      "Today",
+      "Answers",
+      "Hints",
+      "Puzzle",
+      "Spangram",
+      "Sunday",
+      "Credit"
+    ]
   }
 ]
