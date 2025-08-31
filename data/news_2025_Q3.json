@@ -543692,5 +543692,85 @@
       "Securities",
       "chars"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/30/lendingtree-inc-tree-shares-purchased-by-hsbc-holdings-plc/",
+    "title": "LendingTree, Inc. $TREE Shares Purchased by Hsbc Holdings PLC",
+    "fetched_on": "2025-08-31T09:18:19.854961+00:00",
+    "content": "Hsbc Holdings PLC grew its position in shares of LendingTree, Inc. (NASDAQ:TREE – Free Report) by 5.7% in the 1st quarter, according to its most recent disclosure with the Securities and Exchange Com… [+5429 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Holdings",
+      "TREE",
+      "Hsbc",
+      "PLC",
+      "LendingTree",
+      "NASDAQ",
+      "Shares",
+      "Free",
+      "Report",
+      "Purchased"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/30/credit-acceptance-corporation-cacc-shares-sold-by-quantbot-technologies-lp/",
+    "title": "Credit Acceptance Corporation $CACC Shares Sold by Quantbot Technologies LP",
+    "fetched_on": "2025-08-31T09:18:19.854961+00:00",
+    "content": "Quantbot Technologies LP lowered its stake in shares of Credit Acceptance Corporation (NASDAQ:CACC – Free Report) by 93.7% in the first quarter, according to its most recent filing with the Securitie… [+4574 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Corporation",
+      "NASDAQ",
+      "Acceptance",
+      "CACC",
+      "Technologies",
+      "Quantbot",
+      "chars",
+      "Free",
+      "Report",
+      "Securitie"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/30/quantbot-technologies-lp-has-76000-position-in-ellington-credit-company-earn/",
+    "title": "Quantbot Technologies LP Has $76,000 Position in Ellington Credit Company $EARN",
+    "fetched_on": "2025-08-31T09:18:19.854961+00:00",
+    "content": "Quantbot Technologies LP grew its holdings in Ellington Credit Company (NYSE:EARN – Free Report) by 211.0% during the first quarter, according to the company in its most recent Form 13F filing with t… [+4358 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Technologies",
+      "Ellington",
+      "Credit",
+      "EARN",
+      "NYSE",
+      "Company",
+      "Quantbot",
+      "Position",
+      "Free",
+      "Report"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/home-insurers-charging-americans-low-101500025.html",
+    "title": "Home insurers are charging Americans with low credit scores 99% more, report reveals — are you getting gouged?",
+    "fetched_on": "2025-08-31T09:18:54.060328+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "Home",
+      "scores",
+      "report",
+      "reveals",
+      "gouged",
+      "insurers",
+      "charging",
+      "low",
+      "credit"
+    ]
   }
 ]
