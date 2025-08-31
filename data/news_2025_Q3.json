@@ -544172,5 +544172,105 @@
       "chars",
       "State"
     ]
+  },
+  {
+    "source": "On3.com [NewsAPI]",
+    "url": "https://www.on3.com/sites/spartans-illustrated/news/sophomore-rushing-duo-veteran-receiver-fuel-michigan-state-offense-in-season-opening-win/",
+    "title": "Sophomore rushing duo, veteran receiver fuel Michigan State offense in season opening win",
+    "fetched_on": "2025-08-31T15:18:21.101679+00:00",
+    "content": "Photo Credit: Marvin Hall/Spartans Illustrated\r\nMichigan State opened its season at home with a 23-6 win against Western Michigan. The Spartans had a dominant first half, leading the Broncos 21-0. Th… [+4841 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Michigan",
+      "State",
+      "Credit",
+      "Marvin",
+      "Hall",
+      "Photo",
+      "Illustrated",
+      "Western",
+      "Spartans",
+      "season"
+    ]
+  },
+  {
+    "source": "Doctorofcredit.com [NewsAPI]",
+    "url": "https://www.doctorofcredit.com/chase-float-pay-holding-payment-for-7-days/",
+    "title": "Chase “Float Pay”, Holding Payment For 7 Days",
+    "fetched_on": "2025-08-31T15:18:21.101679+00:00",
+    "content": "Reader and frequent contributor curmudgeon wrote it to let us know about something Chase sometimes does called ‘Float Pay’. They opened a new Chase Ink card, reached the credit limit, paid the card o… [+1755 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Float",
+      "Pay",
+      "Holding",
+      "Days",
+      "Pay’",
+      "Payment",
+      "Reader",
+      "Chase",
+      "called",
+      "frequent"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/08/30/wwe-clash-in-paris-2025-potential-surprises-and-returns/",
+    "title": "WWE Clash In Paris 2025 Potential Surprises And Returns",
+    "fetched_on": "2025-08-31T15:18:21.101679+00:00",
+    "content": "Roman Reigns is expected to take another hiatus after WWE Clash in Paris. (Credit: Bradlee Rutledge/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE Clash in Paris 2025 is the final Premium Live Even… [+3609 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paris",
+      "WWE",
+      "Clash",
+      "Potential",
+      "Surprises",
+      "Returns",
+      "Roman",
+      "Reigns",
+      "Getty",
+      "Images"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/news-weekly-aug-30-2025",
+    "title": "News Weekly: Samsung's next Unpacked, Pixel 10's sneaky battery fix, Nothing Phone 3 drama, and more",
+    "fetched_on": "2025-08-31T15:18:21.101679+00:00",
+    "content": "(Image credit: Future)\r\nNews Weekly is our column where we highlight and summarize some of the week's top stories so you can catch up on the latest tech news.\r\nThis is Android Central's News Weekly, … [+6363 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pixel",
+      "Future",
+      "Weekly",
+      "Samsung",
+      "Unpacked",
+      "Phone",
+      "Image",
+      "drama",
+      "sneaky",
+      "fix"
+    ]
+  },
+  {
+    "source": "Tom's Hardware UK [NewsAPI]",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/uk-steam-users-must-register-credit-card-for-adult-content",
+    "title": "UK Steam users must register a credit card to unlock game titles with adult content – UK’s Online Safety Act requires blocking minors from accessing mature content",
+    "fetched_on": "2025-08-31T15:18:21.101679+00:00",
+    "content": "Valve has started enforcing a new UK-only rule on Steam: If you want to browse or buy “mature” games, you’ll need to put a valid credit card on file. The move comes in response to the UK’s Online Saf… [+3239 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Steam",
+      "Online",
+      "credit",
+      "card",
+      "Safety",
+      "Act",
+      "Valve",
+      "content",
+      "mature",
+      "buy"
+    ]
   }
 ]
