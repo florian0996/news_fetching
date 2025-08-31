@@ -543512,5 +543512,85 @@
       "content",
       "silent"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/30/financial-contrast-cannae-nysecnne-vs-ofs-credit-nasdaqocci/",
+    "title": "Financial Contrast: Cannae (NYSE:CNNE) vs. OFS Credit (NASDAQ:OCCI)",
+    "fetched_on": "2025-08-31T06:27:46.054098+00:00",
+    "content": "OFS Credit (NASDAQ:OCCI – Get Free Report) and Cannae (NYSE:CNNE – Get Free Report) are both small-cap finance companies, but which is the better business? We will contrast the two businesses based o… [+3670 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "CNNE",
+      "NASDAQ",
+      "OCCI",
+      "Credit",
+      "Report",
+      "Cannae",
+      "Free",
+      "OFS",
+      "Contrast"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/entertainment/2025/0830/1528418-behind-the-music-sean-feeny/",
+    "title": "Behind the music - Seán Feeny",
+    "fetched_on": "2025-08-31T06:27:46.054098+00:00",
+    "content": "Photo credit: Charlie Joe Doherty\r\nDonegal singer-songwriter Seán Feeny has released his debut single, 1969. We asked him the BIG questions . . .\r\nThe song, produced by musician and composer Orri McB… [+4569 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Seán",
+      "Feeny",
+      "Charlie",
+      "Photo",
+      "Joe",
+      "Doherty",
+      "Donegal",
+      "music",
+      "credit",
+      "single"
+    ]
+  },
+  {
+    "source": "Trend.az [NewsAPI]",
+    "url": "https://www.trend.az/business/4084990.html",
+    "title": "Azerbaijan’s banks face slight uptick in loan delinquencies",
+    "fetched_on": "2025-08-31T06:27:46.054098+00:00",
+    "content": "Azerbaijan’s volume of overdue loans has inched upward in 2025, signaling a gradual rise in credit risk despite remaining a small share of the total loan portfolio.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Azerbaijan",
+      "signaling",
+      "portfolio",
+      "loan",
+      "banks",
+      "face",
+      "slight",
+      "uptick",
+      "delinquencies",
+      "volume"
+    ]
+  },
+  {
+    "source": "Variety [NewsAPI]",
+    "url": "https://variety.com/2025/film/news/motor-city-potsy-ponciroli-alan-ritchson-1236497936/",
+    "title": "How ’Motor City’ Helmer Ponciroli Found a Way to Wed Action, Music and an Almost Dialogue-Free Script: ‘I Think the Audience Is Smarter Than People Give Them Credit For.’",
+    "fetched_on": "2025-08-31T06:27:46.054098+00:00",
+    "content": "Filmmaker Potsy Ponciroli (“Old Henry”) is back in Venice with “Motor City,” a film with about three lines of audible dialogue driven by needle-drops, a terrific score and a charismatic cast of Alan … [+4534 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Action",
+      "Music",
+      "Script",
+      "For.’",
+      "City’",
+      "Helmer",
+      "Found",
+      "Wed",
+      "Audience",
+      "Smarter"
+    ]
   }
 ]
