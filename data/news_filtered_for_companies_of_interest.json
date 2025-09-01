@@ -1,6 +1,17 @@
 {
-  "2025-08-31": {
+  "2025-09-01": {
     "status": "no company in the news"
+  },
+  "2025-08-31": {
+    "articles": [
+      {
+        "title": "Invesco Ltd. Cuts Stock Holdings in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/08/30/invesco-ltd-cuts-stock-holdings-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-08-30": {
     "status": "no company in the news"
