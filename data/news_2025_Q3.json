@@ -545233,5 +545233,45 @@
       "Valve",
       "mandating"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/logistics/irctc-bets-on-digital-leap-with-payment-aggregator-licence-ai-ads-ota-plans/article69993069.ece",
+    "title": "IRCTC bets on digital leap with Payment Aggregator Licence, AI Ads, OTA plans",
+    "fetched_on": "2025-09-01T07:21:11.575693+00:00",
+    "content": "The Indian Railway Catering and Tourism Corporation (IRCTC) is gearing up for a digital leap with plans to monetise its fintech foray. The company will ramp-up UPI-linked Credit Card-based ticket boo… [+2533 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IRCTC",
+      "Licence",
+      "Ads",
+      "OTA",
+      "Corporation",
+      "leap",
+      "Payment",
+      "Aggregator",
+      "Indian",
+      "Railway"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/31/morgan-stanley-direct-lending-fund-nysemsdl-given-consensus-recommendation-of-hold-by-brokerages/",
+    "title": "Morgan Stanley Direct Lending Fund (NYSE:MSDL) Given Consensus Recommendation of “Hold” by Brokerages",
+    "fetched_on": "2025-09-01T07:21:11.575693+00:00",
+    "content": "Shares of Morgan Stanley Direct Lending Fund (NYSE:MSDL – Get Free Report) have earned a consensus rating of “Hold” from the six analysts that are covering the stock, Marketbeat.com reports. One anal… [+5982 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "MSDL",
+      "Hold",
+      "Fund",
+      "Stanley",
+      "Direct",
+      "Lending",
+      "Morgan",
+      "Marketbeat.com",
+      "Consensus"
+    ]
   }
 ]
