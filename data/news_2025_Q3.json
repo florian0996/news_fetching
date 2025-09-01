@@ -545293,5 +545293,65 @@
       "Stock",
       "Position"
     ]
+  },
+  {
+    "source": "101 Great Goals [NewsAPI]",
+    "url": "https://www.101greatgoals.com/football/premier-league/moyes-admits-grealish-better-than-i-thought-everton-masterclass/",
+    "title": "Moyes admits Grealish ‘better than I thought’ after Everton masterclass at Wolves",
+    "fetched_on": "2025-09-01T09:24:49.434571+00:00",
+    "content": "David Moyes admitted Jack Grealish has surpassed his expectations after the winger produced another standout display in Evertons 3-2 victory over Wolves at Molineux.\r\nThe Manchester City loanee was a… [+1163 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Grealish",
+      "Wolves",
+      "Molineux",
+      "Moyes",
+      "David",
+      "Jack",
+      "Everton",
+      "Evertons",
+      "chars",
+      "admits"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/31/intercorp-financial-services-nyseifs-versus-pearl-diver-credit-nysepdcc-financial-contrast/",
+    "title": "Intercorp Financial Services (NYSE:IFS) versus Pearl Diver Credit (NYSE:PDCC) Financial Contrast",
+    "fetched_on": "2025-09-01T09:24:49.434571+00:00",
+    "content": "Intercorp Financial Services (NYSE:IFS – Get Free Report) and Pearl Diver Credit (NYSE:PDCC – Get Free Report) are both finance companies, but which is the superior stock? We will contrast the two bu… [+4235 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "IFS",
+      "PDCC",
+      "Financial",
+      "Services",
+      "Credit",
+      "Report",
+      "Diver",
+      "Free",
+      "Pearl"
+    ]
+  },
+  {
+    "source": "Prtimes.jp [NewsAPI]",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000118144.html",
+    "title": "【COCO DEAL】8/31（日）宮田聡子が魅せる、洗練されたスタイルで新しさを纏う初冬カタログvol.1を公開",
+    "fetched_on": "2025-09-01T09:24:49.434571+00:00",
+    "content": "/ COCO DEAL 8/3110:00WEBvol.1No.\r\nNo.1No.7No.12\r\nCOCO DEALNo.\r\nstaff credit\r\nModel_Satoko MiyataPhotograph_Yasutomo SampeiStyling_MAKIKO ITOHair&amp;makeup_NAYADesign_ma-h graDirection_Norihiro Yaman… [+28 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DEAL",
+      "COCO",
+      "（日）宮田聡子が魅せる、洗練されたスタイルで新しさを纏う初冬カタログ",
+      "を公開",
+      "Model",
+      "Satoko",
+      "Yasutomo",
+      "MAKIKO",
+      "Norihiro",
+      "Yaman"
+    ]
   }
 ]
