@@ -545627,5 +545627,45 @@
       "unveil",
       "credit"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2025/08/31/metallica-joins-acdc-disturbed-and-black-sabbath-with-a-comeback/",
+    "title": "Metallica Joins AC/DC, Disturbed And Black Sabbath With A Comeback",
+    "fetched_on": "2025-09-01T13:29:22.153127+00:00",
+    "content": "Metallicas Enter Sandman reenters Billboards Hard Rock Digital Song Sales chart at No. 9, joining comebacks from AC/DC, Disturbed and Black Sabbath. (MANDATORY CREDIT Koh Hasebe/Shinko Music/Getty Im… [+2106 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disturbed",
+      "Black",
+      "Sabbath",
+      "Joins",
+      "Enter",
+      "Sandman",
+      "Billboards",
+      "Hard",
+      "Rock",
+      "Digital"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-news/4337784/posts",
+    "title": "Reminder credit card monthlies: If you have an older credit card monthly, ie, one entered before October 2024, then it no longer works on FR. Please click here to fix.",
+    "fetched_on": "2025-09-01T13:29:22.153127+00:00",
+    "content": "Skip to comments.\r\nReminder credit card monthlies: If you have an older credit card monthly, ie, one entered before October 2024, then it no longer works on FR. Please click here to fix. Posted on 08… [+1415 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "credit",
+      "card",
+      "Reminder",
+      "monthlies",
+      "monthly",
+      "fix",
+      "older",
+      "entered",
+      "longer"
+    ]
   }
 ]
