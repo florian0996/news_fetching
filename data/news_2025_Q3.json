@@ -545353,5 +545353,65 @@
       "Norihiro",
       "Yaman"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/901f9ca39945b4d0",
+    "title": "Wealthy Americans pour record sums into private credit funds",
+    "fetched_on": "2025-09-01T10:22:45.675448+00:00",
+    "content": "Individual investors among the biggest sources of growth as institutional demand slows\r\nThis story appeared on ft.com, 2025-08-31 10:00:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "Individual",
+      "Wealthy",
+      "ft.com",
+      "pour",
+      "record",
+      "sums",
+      "private",
+      "credit",
+      "funds"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-august-31-2025-100026184.html",
+    "title": "HELOC rates today, August 31, 2025: Still below 9% but your rate can be a lot lower than that",
+    "fetched_on": "2025-09-01T10:22:45.675448+00:00",
+    "content": "The HELOC interest rate stands firm below 9%. The twist with a home equity line of credit is your interest rate is likely to be much lower than that at least for a while. Lenders often offer introduc… [+3917 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "August",
+      "rate",
+      "lower",
+      "interest",
+      "today",
+      "lot",
+      "stands",
+      "firm",
+      "chars"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/08/31/how-much-spending-was-done-by-the-sheriffs-departments-part-1-of-3/",
+    "title": "Worcester County sheriff says no to state P-Cards",
+    "fetched_on": "2025-09-01T10:22:45.675448+00:00",
+    "content": "Worcester County’s sheriff bucked the government agency trend of using a state-issued credit card for expenses.\r\nThe office of Worcester County Sheriff Lewis Evangelidis spent zero dollars on a procu… [+5454 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "County",
+      "Worcester",
+      "sheriff",
+      "expenses",
+      "state",
+      "P-Cards",
+      "bucked",
+      "government",
+      "agency",
+      "trend"
+    ]
   }
 ]
