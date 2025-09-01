@@ -545011,5 +545011,65 @@
       "Sunday",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-01/china-banks-pressured-by-rising-loan-losses-low-margins",
+    "title": "China Banks Pressured by Rising Loan Losses, Low Margins",
+    "fetched_on": "2025-09-01T01:51:57.668059+00:00",
+    "content": "China’s mega banks are under pressure from rising allowances for loan losses and a continued margin erosion in their mission to support the world’s second largest economy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Low",
+      "Loan",
+      "Losses",
+      "China",
+      "Banks",
+      "Rising",
+      "Pressured",
+      "economy",
+      "Margins",
+      "margin"
+    ]
+  },
+  {
+    "source": "On3.com [NewsAPI]",
+    "url": "https://www.on3.com/sites/cardinal-sports/news/miller-moss-shows-poise-and-confidence-in-first-louisville-start/",
+    "title": "Miller Moss shows poise and confidence in first Louisville start",
+    "fetched_on": "2025-09-01T01:51:54.706868+00:00",
+    "content": "Boxscore watchers beware! If youre just reading stats, you might not give him the credit, but Louisville quarterback Miller Moss was cool, calm, and collected in his first start in the red and black.… [+4463 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moss",
+      "Boxscore",
+      "Louisville",
+      "Miller",
+      "beware",
+      "start",
+      "shows",
+      "poise",
+      "confidence",
+      "watchers"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b44738218cadccca",
+    "title": "Rural America is suffering an economic crisis as crop prices plunge",
+    "fetched_on": "2025-09-01T01:51:54.706868+00:00",
+    "content": "Agricultural trade groups have sounded the alarm recently on the state of farmers, who are grappling with a continued slump in prices for their crops and worsening credit conditions. They have asked … [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "America",
+      "Agricultural",
+      "Rural",
+      "farmers",
+      "conditions",
+      "prices",
+      "chars",
+      "suffering",
+      "economic",
+      "crisis"
+    ]
   }
 ]
