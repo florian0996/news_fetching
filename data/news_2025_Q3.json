@@ -546186,5 +546186,65 @@
       "Topples",
       "Credit"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ded13372-d3c7-442e-9703-03dbc5ae1bc4",
+    "title": "Canadian Pacific Kansas City Ltd (CP) Financial Position Strengthened by Credit Amendment",
+    "fetched_on": "2025-09-01T20:20:38.400355+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Financial",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Pacific",
+      "Kansas",
+      "City"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/08/31/wwe-clash-in-paris-2025-results-as-rusev-taps-out-sheamus/",
+    "title": "WWE Clash In Paris 2025 Results As Rusev Taps Out Sheamus",
+    "fetched_on": "2025-09-01T20:20:38.400355+00:00",
+    "content": "Rusev has had a lackluster return run in WWE. (Credit: Craig Ambrosio/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE Clash in Paris 2025 finally gave Rusev and Sheamus a chance to shine on a major … [+5586 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WWE",
+      "Paris",
+      "Rusev",
+      "Clash",
+      "Results",
+      "Taps",
+      "Sheamus",
+      "Getty",
+      "Images",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/08/31/wwe-clash-in-paris-2025-results-as-becky-lynch-escapes-nikki-bella/",
+    "title": "WWE Clash In Paris 2025 Results As Becky Lynch Escapes Nikki Bella",
+    "fetched_on": "2025-09-01T20:20:38.400355+00:00",
+    "content": "Becky Lynch has elevated the WWE Intercontinental title. (Credit: Heather McLaughlin/WWE via Getty Images)\r\nWWE via Getty Images\r\nEn route to WWE Clash in Paris, Becky Lynch and Nikki Bella developed… [+4479 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WWE",
+      "Becky",
+      "Lynch",
+      "Paris",
+      "Clash",
+      "Results",
+      "Nikki",
+      "Bella",
+      "Escapes",
+      "Intercontinental"
+    ]
   }
 ]
