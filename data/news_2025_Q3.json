@@ -545533,5 +545533,99 @@
       "network",
       "multiply"
     ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/movies/terrifier-4-filmmaker-says-the-franchise-has-a-lynchian-influence/",
+    "title": "Terrifier 4 Filmmaker Says the Franchise Has a \"Lynchian\" Influence",
+    "fetched_on": "2025-09-01T12:42:29.263779+00:00",
+    "content": "Posted in: Horror, Movies | Tagged: film, horror, terrifier, Terrifier 4\r\nDirector Damien Leone says Terrifier 4 will continue to bring a \"Lynchian\" vibe, blending the franchise's horror with abstrac… [+2824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lynchian",
+      "Terrifier",
+      "Movies",
+      "Tagged",
+      "Franchise",
+      "Horror",
+      "Filmmaker",
+      "Influence",
+      "Director",
+      "film"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2025/08/31/van-halens-decades-old-album-spikes-nearly-23000-in-sales/",
+    "title": "Van Halen’s Decades-Old Album Spikes Nearly 23,000% In Sales",
+    "fetched_on": "2025-09-01T12:42:29.263779+00:00",
+    "content": "Van Halens Balance reappears on the Top Album Sales chart and debuts at No. 7 on the Vinyl Albums list following a 23,000% sales spike. (MANDATORY CREDIT David Tan/Shinko Music/Getty Images) Van Hale… [+2397 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sales",
+      "Album",
+      "Van",
+      "Halen",
+      "Halens",
+      "Balance",
+      "Top",
+      "Vinyl",
+      "Albums",
+      "Spikes"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/edb66ab86a88770e",
+    "title": "HELOC rates today, August 31, 2025: Still below 9% but your rate can be a lot lower than that",
+    "fetched_on": "2025-09-01T12:42:29.263779+00:00",
+    "content": "The HELOC interest rate stands firm below 9%. The twist with a home equity line of credit is your interest rate is likely to be much lower than that at least for a while. Lenders often offer introduc… [+145 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "August",
+      "rate",
+      "lower",
+      "interest",
+      "today",
+      "lot",
+      "stands",
+      "firm",
+      "chars"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/m-recent-grad-m-collection-123000395.html",
+    "title": "I’m a recent grad and I’m in collection for ‘unpaid’ fraternity dues — which wrecked my credit. What do I do?",
+    "fetched_on": "2025-09-01T12:42:45.640368+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "unpaid’",
+      "dues",
+      "credit",
+      "recent",
+      "grad",
+      "collection",
+      "fraternity",
+      "wrecked"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/bharatpe-unity-bank-unveil-credit-115740879.html",
+    "title": "BharatPe and Unity Bank unveil new credit card",
+    "fetched_on": "2025-09-01T12:42:45.640724+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unity",
+      "Bank",
+      "BharatPe",
+      "card",
+      "unveil",
+      "credit"
+    ]
   }
 ]
