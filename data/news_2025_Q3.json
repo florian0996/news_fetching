@@ -545153,5 +545153,85 @@
       "chars",
       "emigrants"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/08/31/contrasting-creditriskmonitor-com-otcmktscrmz-perion-network-nasdaqperi/",
+    "title": "Contrasting CreditRiskMonitor.com (OTCMKTS:CRMZ) & Perion Network (NASDAQ:PERI)",
+    "fetched_on": "2025-09-01T06:33:42.920103+00:00",
+    "content": "CreditRiskMonitor.com (OTCMKTS:CRMZ – Get Free Report) and Perion Network (NASDAQ:PERI – Get Free Report) are both small-cap computer and technology companies, but which is the better business? We wi… [+6587 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OTCMKTS",
+      "CRMZ",
+      "NASDAQ",
+      "PERI",
+      "Network",
+      "Report",
+      "Free",
+      "Perion",
+      "CreditRiskMonitor.com",
+      "Contrasting"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4f443409-0ceb-4503-b4d3-47b666880d72",
+    "title": "UBS Posts Solid Profit While Credit Suisse Integration Faces Regulatory Hurdles",
+    "fetched_on": "2025-09-01T06:33:42.920103+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "UBS",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Posts",
+      "Solid",
+      "Profit"
+    ]
+  },
+  {
+    "source": "Rediff.com [NewsAPI]",
+    "url": "https://www.rediff.com/sports/report/lack-of-rhythm-sees-satwik-chirag-end-worlds-with-bronze-pix/20250831.htm",
+    "title": "Satwik-Chirag rue lack of rhythm in Worlds bronze run",
+    "fetched_on": "2025-09-01T06:33:42.920103+00:00",
+    "content": "'We didn't get really any rhythm. We didn't start off that well. We gave away easy points (in the third game). We should have been a bit smarter. But, credit to them.'\r\nIMAGE: Satwiksairaj Rankireddy… [+4496 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Worlds",
+      "rhythm",
+      "Satwik-Chirag",
+      "run",
+      "rue",
+      "lack",
+      "bronze",
+      "IMAGE",
+      "Satwiksairaj",
+      "Rankireddy"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Valve-implements-credit-card-age-verification-for-Steam-users-in-the-UK.1100283.0.html",
+    "title": "Valve implements credit card age verification for Steam users in the UK",
+    "fetched_on": "2025-09-01T06:33:42.920103+00:00",
+    "content": "Steam has introduced a new age verification system for its users in the United Kingdom, mandating that users confirm their age to gain access to the Steam Store and its features, due to mature conten… [+2023 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Steam",
+      "Kingdom",
+      "chars",
+      "age",
+      "users",
+      "United",
+      "Store",
+      "verification",
+      "Valve",
+      "mandating"
+    ]
   }
 ]
