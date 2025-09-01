@@ -1,0 +1,27 @@
+name: Send Daily and Weekly Summaries to Teams
+
+on:
+  schedule:
+    - cron: "30 6 * * *"  # Every day at 06h30 UTC (~08h30 in summer CET)
+  workflow_dispatch:        # to launch manually
+
+jobs:
+  send-summary:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        env:
+          TEAMS_WEBHOOK: ${{ secrets.TEAMS_WEBHOOK }}
+        run: python send_summary.py
