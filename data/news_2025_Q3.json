@@ -545093,5 +545093,45 @@
       "Chargebacks",
       "Business"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-09-01/xi-calls-for-sco-development-bank-enhanced-cooperation",
+    "title": "Xi Calls for SCO Development Bank, Enhanced Cooperation",
+    "fetched_on": "2025-09-01T04:29:55.097992+00:00",
+    "content": "President Xi Jinping said in a speech on Monday that his country will increase investments and loans to partners. He also called for the creation of a development bank under the Shanghai Cooperation Organization. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Enhanced",
+      "Calls",
+      "SCO",
+      "President",
+      "Jinping",
+      "Monday",
+      "Cooperation",
+      "Development",
+      "Bank",
+      "partners"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-01/xi-vows-more-loans-investments-to-boost-china-led-security-bloc",
+    "title": "Xi Vows More Loans, Investments to Boost China-Led Security Bloc",
+    "fetched_on": "2025-09-01T04:29:55.383770+00:00",
+    "content": "President Xi Jinping said his country will increase investments and loans to partners while outlining a plan to bolster a China- and Russia-led security bloc and boost Beijing’s global clout.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Security",
+      "Bloc",
+      "China",
+      "Loans",
+      "Investments",
+      "Boost",
+      "Vows",
+      "President",
+      "Jinping",
+      "Russia-led"
+    ]
   }
 ]
