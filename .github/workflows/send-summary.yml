@@ -24,4 +24,4 @@ jobs:
       - name: Run script
         env:
           TEAMS_WEBHOOK: ${{ secrets.TEAMS_WEBHOOK }}
-        run: python send_summary.py
+        run: python scripts/send_summary.py
