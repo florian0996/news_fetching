@@ -547045,5 +547045,105 @@
       "declining",
       "bar"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-02/saudis-start-mortgage-backed-security-market-to-drive-liquidity",
+    "title": "Saudis Start Mortgage-Backed Security Market to Drive Liquidity",
+    "fetched_on": "2025-09-02T07:20:12.933218+00:00",
+    "content": "Saudi Arabia has launched its first residential mortgage backed securities in a move designed to boost liquidity and encourage more bank lending to drive the kingdom’s economic transformation program.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Drive",
+      "Liquidity",
+      "Start",
+      "Security",
+      "Market",
+      "Arabia",
+      "program",
+      "Saudis",
+      "Saudi",
+      "Mortgage-Backed"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/ios-26-7/",
+    "title": "iOS 26: The Features That Make Your iPhone Feel Brand New",
+    "fetched_on": "2025-09-02T07:20:12.146630+00:00",
+    "content": "Apples iOS 26 is poised to deliver one of the most significant updates in recent years, blending innovative design, enhanced performance, and user-focused features. This update is crafted to transfor… [+4753 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "iOS",
+      "Features",
+      "Make",
+      "Feel",
+      "Brand",
+      "Apples",
+      "years",
+      "blending",
+      "design",
+      "enhanced"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/how-to-deal-with-personal-loan-debt-collectors-here-are-5-rbi-backed-tips-loan-recovery-11756707779650.html",
+    "title": "How to deal with personal loan debt collectors? Here are 5 RBI-backed tips",
+    "fetched_on": "2025-09-02T07:20:12.146630+00:00",
+    "content": "Efficiently dealing with personal loan debt collectors can be stressful, but knowing your fundamental rights and responsibilities can make a huge difference. \r\nThe nations' lending institutions and r… [+3762 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "personal",
+      "loan",
+      "debt",
+      "collectors",
+      "deal",
+      "Efficiently",
+      "chars",
+      "RBI-backed",
+      "stressful",
+      "difference"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/wondering-why-rbi-rate-cuts-havent-made-your-emi-bill-lower-herein-lies-the-answer/articleshow/123627957.cms",
+    "title": "Wondering why RBI rate cuts haven't made your EMI bill lower? Herein lies the answer",
+    "fetched_on": "2025-09-02T07:20:12.146630+00:00",
+    "content": "Despite the Reserve Bank of India's (RBI) aggressive cuts to policy interest rates, borrowers are not seeing the expected reduction in loan rates. This disconnect is because of a complex interplay be… [+2734 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "RBI",
+      "Wondering",
+      "lower",
+      "cuts",
+      "India",
+      "made",
+      "bill",
+      "rates",
+      "Reserve"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/922257",
+    "title": "$10 Credit for Recycling Used Lead Acid Battery (Club Members) @ Supercheap Auto",
+    "fetched_on": "2025-09-02T07:20:12.146630+00:00",
+    "content": "Possibly targeted as know one else has posted it so far.Similar to deal back in 2023 but this time $10 credit for battery, and no engone oil deal - https://www.ozbargain.com.au/node/810761\r\nI receive… [+1398 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Battery",
+      "chars",
+      "Club",
+      "Members",
+      "Supercheap",
+      "Recycling",
+      "Lead",
+      "Acid",
+      "Auto"
+    ]
   }
 ]
