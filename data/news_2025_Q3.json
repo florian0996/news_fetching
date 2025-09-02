@@ -548143,5 +548143,85 @@
       "started",
       "returning"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/media/nbda-urges-gst-council-to-address-tax-concerns-impacting-news-broadcasting-sector-11756730704210.html",
+    "title": "News broadcasters seek GST relief, input tax credit on staff costs",
+    "fetched_on": "2025-09-02T14:20:25.827143+00:00",
+    "content": "Ahead of the GST Council meeting, television and digital news broadcasters have urged finance minister Nirmala Sitharaman to consider shifting the point of taxation on sale of advertising space to ac… [+2397 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GST",
+      "chars",
+      "broadcasters",
+      "Ahead",
+      "Council",
+      "Nirmala",
+      "Sitharaman",
+      "relief",
+      "input",
+      "meeting"
+    ]
+  },
+  {
+    "source": "Wingtips.co.uk [NewsAPI]",
+    "url": "https://wingtips.co.uk/2025/09/01/wingtips-wallet-watch/",
+    "title": "WingTips Wallet Watch: Best UK Credit Card Offers – September 2025 Edition",
+    "fetched_on": "2025-09-02T14:20:25.827143+00:00",
+    "content": "Welcome to September’s Points Parade New month, new bonuses, new reasons to let your wallet earn its keep. Seeptembers best UK credit card offers are in, and some of them are seriously upgraded. Whet… [+5776 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "September",
+      "Watch",
+      "Edition",
+      "Wallet",
+      "Credit",
+      "Card",
+      "Points",
+      "Parade",
+      "Offers",
+      "WingTips"
+    ]
+  },
+  {
+    "source": "Geekspin.co [NewsAPI]",
+    "url": "https://geekspin.co/major-home-store-chain-is-shutting-down-30-locations/",
+    "title": "Major home store chain is shutting down 30 locations",
+    "fetched_on": "2025-09-02T14:20:25.827143+00:00",
+    "content": "An At Home store in Macomb County, Michigan | ©Image Credit: Wikimedia Commons / ajay_suresh\r\nIf your local At Home was your go-to for last-minute throw pillows or impulse-buying four fake plants at … [+4023 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "home",
+      "Michigan",
+      "County",
+      "Image",
+      "Credit",
+      "Wikimedia",
+      "Commons",
+      "ajay",
+      "chars",
+      "store"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/pass-through-of-repo-rate-cuts-to-lending-and-deposit-rates-has-been-strong-rbi-bulletin/article70000162.ece",
+    "title": "Pass-through of repo rate cuts to lending and deposit rates has been strong: RBI bulletin",
+    "fetched_on": "2025-09-02T14:20:25.827143+00:00",
+    "content": "The pass-through of the cumulative 100 basis points (bps) cut in the repo rate during February 2025 to June 2025 to lending and deposit rates, especially for fresh deposits and loans, has been strong… [+3285 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "strong",
+      "lending",
+      "RBI",
+      "February",
+      "June",
+      "bps",
+      "chars",
+      "Pass-through",
+      "repo",
+      "deposit"
+    ]
   }
 ]
