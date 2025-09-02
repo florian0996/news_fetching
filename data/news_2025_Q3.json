@@ -548868,5 +548868,105 @@
       "credit",
       "card"
     ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/zinchenko-joins-nottingham-forest-loan",
+    "title": "Zinchenko joins Nottingham Forest on loan",
+    "fetched_on": "2025-09-02T21:16:43.983544+00:00",
+    "content": "Oleksandr Zinchenko has joined Nottingham Forest on a season-long loan.\r\nThe 28-year-old arrived in north London from Manchester City in July 2022 and has made 91 appearances for us in all competitio… [+993 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Forest",
+      "Nottingham",
+      "Zinchenko",
+      "Oleksandr",
+      "loan",
+      "joins",
+      "joined",
+      "season-long",
+      "July",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Points Guy [NewsAPI]",
+    "url": "https://thepointsguy.com/credit-cards/sweet-spots-american-express-membership-rewards/",
+    "title": "Best ways to use Amex Membership Rewards points, from business-class flights to Europe to budget-friendly hotel stays",
+    "fetched_on": "2025-09-02T21:16:43.983544+00:00",
+    "content": "It's no secret that American Express Membership Rewards points are one of our favorite credit card reward currencies.\r\nTPG's August 2025 valuations value Membership Rewards points at 2 cents per poin… [+14357 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rewards",
+      "Membership",
+      "Amex",
+      "Europe",
+      "American",
+      "Express",
+      "points",
+      "currencies",
+      "reward",
+      "business-class"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/42223365/a-sizable-scroll-of-30-dog-memes-to-brighten-your-brain-after-a-boring-commute",
+    "title": "A Sizable Scroll of 30 Dog Memes to Brighten Your Brain After a Boring Commute",
+    "fetched_on": "2025-09-02T21:16:43.983544+00:00",
+    "content": "No one likes a commute, but with egg prices making us late on our credit card bills, in this economy any job is worth the time and energy spent commuting. If you're a car person, then of course you h… [+905 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Commute",
+      "Dog",
+      "Sizable",
+      "Scroll",
+      "Memes",
+      "Brighten",
+      "Brain",
+      "Boring",
+      "bills",
+      "commuting"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/economy/2025/ev-deals-surge-before-tax-breaks-expire/",
+    "title": "EV Deals Surge Before Tax Breaks Expire",
+    "fetched_on": "2025-09-02T21:16:43.983544+00:00",
+    "content": "The upcoming expiration of federal electric vehicle credits is reportedly fueling an automotive sales boom.Its the end of an era for the United States car sector, The Wall Street Journal reported Mon… [+1949 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mon",
+      "chars",
+      "Deals",
+      "Surge",
+      "Tax",
+      "Breaks",
+      "Expire",
+      "United",
+      "States",
+      "Wall"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/economy/2025/impending-tax-credit-expiration-drives-electric-car-sales/",
+    "title": "Impending Tax Credit Expiration Drives Electric Car Sales",
+    "fetched_on": "2025-09-02T21:16:43.983544+00:00",
+    "content": "The upcoming expiration of federal electric vehicle credits is reportedly fueling an automotive sales boom.Its the end of an era for the United States car sector, The Wall Street Journal reported Mon… [+1949 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mon",
+      "Expiration",
+      "Electric",
+      "Car",
+      "Sales",
+      "chars",
+      "Tax",
+      "Drives",
+      "United",
+      "States"
+    ]
   }
 ]
