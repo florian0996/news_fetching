@@ -548828,5 +548828,45 @@
       "joins",
       "season-long"
     ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Verizon-to-issue-bill-credits-following-nationwide-cellular-broadband-outage.1102343.0.html",
+    "title": "Verizon to issue bill credits following nationwide cellular, broadband outage",
+    "fetched_on": "2025-09-02T20:20:38.222101+00:00",
+    "content": "Verizon has just recovered from a major outage, and at one of the worst possible times for its US customer base too. The disruption reportedly started on August 30, 2025, right in conjunction with th… [+1179 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Verizon",
+      "cellular",
+      "broadband",
+      "outage",
+      "chars",
+      "August",
+      "issue",
+      "bill",
+      "credits",
+      "nationwide"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/UK-Steam-users-with-adult-aged-accounts-are-still-expected-to-provide-credit-card-verification-as-part-of-Valve-s-compliance-drive.1101900.0.html",
+    "title": "UK Steam users with adult-aged accounts are still expected to provide credit card verification as part of Valve's compliance drive",
+    "fetched_on": "2025-09-02T20:20:38.222101+00:00",
+    "content": "Steam has launched new age-verification measures for users from the UK across the board, but at least one UK-based user has found themselves in a somewhat laughable situation. Steam user Christina Ta… [+2353 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Steam",
+      "Valve",
+      "board",
+      "situation",
+      "adult-aged",
+      "accounts",
+      "expected",
+      "provide",
+      "credit",
+      "card"
+    ]
   }
 ]
