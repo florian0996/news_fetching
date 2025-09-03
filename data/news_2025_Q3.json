@@ -549308,5 +549308,105 @@
       "year",
       "reaching"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-03/softbank-backed-inmobi-seeks-350-million-loan-for-share-buyback",
+    "title": "SoftBank-Backed InMobi Seeks $350 Million Loan for Share Buyback",
+    "fetched_on": "2025-09-03T04:24:21.298362+00:00",
+    "content": "InMobi Group, a mobile advertising platform backed by SoftBank Group Corp., is seeking a $350 million private loan ahead of its planned initial public offering in India, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Seeks",
+      "Corp.",
+      "India",
+      "Group",
+      "Loan",
+      "Share",
+      "Buyback",
+      "SoftBank-Backed",
+      "matter"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-03/oaktree-hires-zhang-to-lead-performing-credit-strategy-in-asia",
+    "title": "Oaktree Hires Zhang to Lead Performing Credit Strategy in Asia",
+    "fetched_on": "2025-09-03T04:24:21.189016+00:00",
+    "content": "Global alternative investment manager Oaktree Capital Management has hired Roger Zhang to lead a new private debt strategy in Asia Pacific, focusing on performing credit, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zhang",
+      "Asia",
+      "Lead",
+      "Performing",
+      "Credit",
+      "Strategy",
+      "Pacific",
+      "Oaktree",
+      "Hires",
+      "Global"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e2da27a373dee7d9",
+    "title": "Australia's Westpac to hire 350 more bankers to win business lending market share",
+    "fetched_on": "2025-09-03T04:24:20.100359+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why was Nestlés CEO abruptly dismissed? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Trumps tariffs impact glo… [+745 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Westpac",
+      "Nestlés",
+      "CEO",
+      "Australia",
+      "hire"
+    ]
+  },
+  {
+    "source": "HuffPost [NewsAPI]",
+    "url": "https://www.huffpost.com/entry/china-xi-new-global-order-russia-india-leader_n_68b66973e4b0cd019d229f67",
+    "title": "China's Xi Pushes A New Global Order, Flanked By Leaders Of Russia And India",
+    "fetched_on": "2025-09-03T04:24:20.100359+00:00",
+    "content": "TIANJIN, CHINA - SEPTEMBER 01: (----EDITORIAL USE ONLY - MANDATORY CREDIT - ' KREMLIN PRESS OFFICE / HANDOUT' - NO MARKETING NO ADVERTISING CAMPAIGNS - DISTRIBUTED AS A SERVICE TO CLIENTS----) Russia… [+6598 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SEPTEMBER",
+      "HANDOUT",
+      "China",
+      "chars",
+      "Order",
+      "Flanked",
+      "TIANJIN",
+      "EDITORIAL",
+      "MANDATORY",
+      "CREDIT"
+    ]
+  },
+  {
+    "source": "Digitalocean.com [NewsAPI]",
+    "url": "https://www.digitalocean.com/community/questions/how-can-i-get-my-200-credit",
+    "title": "How can I get my $200 credit",
+    "fetched_on": "2025-09-03T04:24:20.100359+00:00",
+    "content": "I saw this information and registered for an account to use AMD MI300 series. But I can not see the $200 in my account. How can I get it? And I also need free credits for feasibility verfying, for I … [+66 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AMD",
+      "series",
+      "account",
+      "information",
+      "registered",
+      "credit",
+      "credits",
+      "chars",
+      "verfying",
+      "free"
+    ]
   }
 ]
