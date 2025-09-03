@@ -5,7 +5,7 @@ import os
 
 webhook_url = os.getenv("TEAMS_WEBHOOK")
 
-with open("summaries.json", "r") as f:
+with open("data/summary_GPT_3.5.json", "r") as f:
     summaries = json.load(f)
 
 today = datetime.utcnow().date()
