@@ -9,15 +9,16 @@ with open("data/summary_GPT_3.5.json", "r") as f:
     summaries = json.load(f)
 
 today = datetime.utcnow().date()
-today_str = today.isoformat()
+yesterday = today - timedelta(days=1)
+yesterday_str = yesterday.isoformat()
 
-# Daily summary
-if today_str in summaries.get("daily_summaries", {}):
-    daily_summary = summaries["daily_summaries"][today_str]
+# Daily summary (for yesterday)
+if yesterday_str in summaries.get("daily_summaries", {}):
+    daily_summary = summaries["daily_summaries"][yesterday_str]
 else:
     daily_summary = "No daily summary."
 
-# Weekly summary (only Monday)
+# Weekly summary (only Monday → show Sunday)
 weekly_summary = None
 if today.weekday() == 0:
     last_sunday = today - timedelta(days=1)
@@ -40,7 +41,7 @@ card = {
                 "body": [
                     {
                         "type": "TextBlock",
-                        "text": f"**Daily Summary ({today_str})**",
+                        "text": f"**Daily Summary ({yesterday_str})**",
                         "weight": "Bolder",
                         "size": "Medium"
                     },
