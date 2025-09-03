@@ -13,8 +13,8 @@ yesterday = today - timedelta(days=1)
 yesterday_str = yesterday.isoformat()
 
 # Daily summary (for yesterday)
-if yesterday_str in summaries.get("daily_summaries", {}):
-    daily_summary = summaries["daily_summaries"][yesterday_str]
+if yesterday_str in summaries.get("daily_summary", {}):
+    daily_summary = summaries["daily_summary"][yesterday_str]
 else:
     daily_summary = "No daily summary."
 
@@ -23,8 +23,8 @@ weekly_summary = None
 if today.weekday() == 0:
     last_sunday = today - timedelta(days=1)
     last_sunday_str = last_sunday.isoformat()
-    if last_sunday_str in summaries.get("weekly_summaries", {}):
-        weekly_summary = summaries["weekly_summaries"][last_sunday_str]
+    if last_sunday_str in summaries.get("weekly_summary", {}):
+        weekly_summary = summaries["weekly_summary"][last_sunday_str]
     else:
         weekly_summary = "No weekly summary."
 
