@@ -549288,5 +549288,25 @@
       "Illness",
       "Credit"
     ]
+  },
+  {
+    "source": "Skift [NewsAPI]",
+    "url": "http://skift.com/2025/09/01/why-indian-airlines-losses-are-set-to-widen-in-2026/",
+    "title": "Why Indian Airlines’ Losses Are Set to Widen in 2026",
+    "fetched_on": "2025-09-03T03:28:20.851829+00:00",
+    "content": "The losses of Indian airlines are projected to nearly double in the 2025-26 financial year, reaching INR 95105 billion ($11.2 billion), according to credit rating agency ICRA. This compares with a lo… [+731 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Indian",
+      "INR",
+      "ICRA",
+      "Losses",
+      "Airlines’",
+      "Set",
+      "Widen",
+      "year",
+      "reaching"
+    ]
   }
 ]
