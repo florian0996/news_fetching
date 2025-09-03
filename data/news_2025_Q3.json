@@ -552221,5 +552221,65 @@
       "move",
       "make"
     ]
+  },
+  {
+    "source": "KicksOnFire.com [NewsAPI]",
+    "url": "https://www.kicksonfire.com/adidas-gazelle-bold-wmns-aurora-ivy-core-black",
+    "title": "Adidas Gazelle Bold Wmns Aurora Ivy / Core Black",
+    "fetched_on": "2025-09-03T19:16:11.548058+00:00",
+    "content": "The Adidas Gazelle Bold WMNS in Aurora Ivy and Core Black offers a fresh, elevated take on the beloved classic. This particular womens iteration showcases a vibrant Aurora Ivy suede upper, lending an… [+900 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gazelle",
+      "Bold",
+      "Core",
+      "Black",
+      "Aurora",
+      "Ivy",
+      "Adidas",
+      "Wmns",
+      "fresh",
+      "elevated"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/video/6378178804112",
+    "title": "Tow truck driver faces federal charges for allegedly taking away ICE vehicle",
+    "fetched_on": "2025-09-03T19:16:11.548058+00:00",
+    "content": "The driver is facing federal charges for theft of government property in the August incident, in which Bobby Nunez allegedly tried to interfere with an immigration-related arrest. (CREDIT: U.S. Attor… [+42 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "charges",
+      "ICE",
+      "August",
+      "Bobby",
+      "Nunez",
+      "federal",
+      "CREDIT",
+      "Attor",
+      "Tow",
+      "incident"
+    ]
+  },
+  {
+    "source": "Citizen.digital [NewsAPI]",
+    "url": "https://www.citizen.digital/business/kenyans-with-poor-credit-history-set-to-pay-more-for-loans-n368963",
+    "title": "Kenyans with poor credit history set to pay more for loans",
+    "fetched_on": "2025-09-03T19:16:11.548058+00:00",
+    "content": "As commercial banks prepare to transition to the new\r\nrisk-based pricing model pegged on the Kenya Shilling Overnight Interbank\r\nAverage (KESONIA), Kenyans with poor credit history could soon find it… [+2662 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kenyans",
+      "KESONIA",
+      "poor",
+      "credit",
+      "Average",
+      "chars",
+      "history",
+      "Kenya",
+      "Shilling",
+      "Overnight"
+    ]
   }
 ]
