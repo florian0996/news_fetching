@@ -549408,5 +549408,125 @@
       "verfying",
       "free"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-03/indian-shadow-banks-ipo-boom-falters-on-mounting-credit-stress",
+    "title": "Indian Shadow Banks’ IPO Boom Falters on Mounting Credit Stress",
+    "fetched_on": "2025-09-03T05:18:33.900895+00:00",
+    "content": "India’s once-burgeoning pipeline for new stock sales by shadow banks is stalling as strains across the sector prompt lenders to scrap or delay listings.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shadow",
+      "Banks’",
+      "IPO",
+      "Boom",
+      "Falters",
+      "Mounting",
+      "Credit",
+      "Stress",
+      "India",
+      "Indian"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/aave-lending-tvl-hits-40b-fees-skyrocket-heres-why-it-matters/",
+    "title": "AAVE lending TVL hits $40B, fees skyrocket – Here’s why it matters",
+    "fetched_on": "2025-09-03T05:18:32.105920+00:00",
+    "content": "Key Takeaways\r\nAAVE commands 51% of DeFi lending TVL, generating $3 million+ in daily fees, signaling strong network effects and token utility.\r\nOn-chain activity for AAVE [AAVE] underscores its DeFi… [+1901 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TVL",
+      "AAVE",
+      "Key",
+      "Takeaways",
+      "lending",
+      "generating",
+      "million",
+      "fees",
+      "hits",
+      "skyrocket"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/sport/rugby/2025/09/02/far-from-holding-back-against-new-zealand-ireland-should-aim-to-lay-down-a-marker/",
+    "title": "Ireland should aim to make a statement against New Zealand",
+    "fetched_on": "2025-09-03T05:18:32.105920+00:00",
+    "content": "In a Womens World Cup short on jeopardy and drama, credit to Ruby Tui for stirring things up on the opening weekend in her role as a BBC pundit. A star of New Zealands World Cup-winning team in 2022,… [+5540 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Womens",
+      "Cup",
+      "Ruby",
+      "Tui",
+      "BBC",
+      "World",
+      "Ireland",
+      "drama",
+      "credit",
+      "pundit"
+    ]
+  },
+  {
+    "source": "Newhumanist.org.uk [NewsAPI]",
+    "url": "https://newhumanist.org.uk/articles/6453/kashmirs-ghost-villages#utm_source=rss",
+    "title": "Kashmir’s ghost villages",
+    "fetched_on": "2025-09-03T05:18:32.105920+00:00",
+    "content": "The borderlands between India and Pakistan were a tourist paradise but then a terror attack shattered the peace\r\nMushtaq Ahmad Khan by his tea stall. Credit: Durdana Bhat\r\nOn the side of a road that … [+8192 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Pakistan",
+      "Mushtaq",
+      "Ahmad",
+      "Khan",
+      "Kashmir",
+      "stall",
+      "ghost",
+      "villages",
+      "borderlands"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/5-smart-tips-to-build-a-savings-plan-with-your-credit-card-11756722924145.html",
+    "title": "5 smart tips to build a savings plan with your credit card",
+    "fetched_on": "2025-09-03T05:18:32.105920+00:00",
+    "content": "Making a credit card part of your long-term savings plan can be a smart financial decision. Instead of seeking credit cards merely for spending purposes, they can be leveraged to earn rewards, cashba… [+4676 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Making",
+      "savings",
+      "plan",
+      "credit",
+      "smart",
+      "decision",
+      "card",
+      "tips",
+      "build",
+      "part"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/flipkart-sbi-card-launched-with-up-to-7-5-cashback-all-you-need-to-know-about-it-credit-cards-11756722466103.html",
+    "title": "Flipkart SBI Card launched with up to 7.5% cashback: All you need to know about it",
+    "fetched_on": "2025-09-03T05:18:32.105920+00:00",
+    "content": "A few years back, Flipkart, one of Indias leading marketplaces, and Axis Bank, one of Indias leading private sector banks, came together to launch the Flipkart Axis Bank Credit Card. Today, it is one… [+6730 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indias",
+      "Axis",
+      "Flipkart",
+      "Card",
+      "Bank",
+      "cashback",
+      "SBI",
+      "Credit",
+      "leading",
+      "banks"
+    ]
   }
 ]
