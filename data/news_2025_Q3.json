@@ -549528,5 +549528,85 @@
       "leading",
       "banks"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/tariff-tempest-why-us-duties-could-sink-indian-msmes-and-hit-microfinance-11756777620913.html",
+    "title": "Tariff tempest: Why US duties could sink Indian MSMEs—and hit microfinance",
+    "fetched_on": "2025-09-03T06:28:35.820801+00:00",
+    "content": "At first glance, Indias sprawling microfinance industry with more than 3.35 trillion in assets and 110 million loan accounts would seem to be an unlikely victim of the punitive 50% tariff imposed by … [+3497 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Indias",
+      "Tariff",
+      "Indian",
+      "tempest",
+      "MSMEs",
+      "glance",
+      "trillion",
+      "million",
+      "punitive"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/02/comparing-oaktree-specialty-lending-nasdaqocsl-acadian-asset-management-nyseaami/",
+    "title": "Comparing Oaktree Specialty Lending (NASDAQ:OCSL) & Acadian Asset Management (NYSE:AAMI)",
+    "fetched_on": "2025-09-03T06:28:35.820801+00:00",
+    "content": "Oaktree Specialty Lending (NASDAQ:OCSL – Get Free Report) and Acadian Asset Management (NYSE:AAMI – Get Free Report) are both small-cap finance companies, but which is the better business? We will co… [+5984 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "OCSL",
+      "NYSE",
+      "AAMI",
+      "Lending",
+      "Management",
+      "Report",
+      "Specialty",
+      "Asset",
+      "Free"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/is-the-pixel-10-pro-xl-worth-it/",
+    "title": "Is the Pixel 10 Pro XL Worth It?",
+    "fetched_on": "2025-09-03T06:28:35.820801+00:00",
+    "content": "The Google Pixel 10 Pro XL represents a significant step forward in smartphone innovation, blending AI-driven features, an innovative camera system, and powerful hardware upgrades. While its design m… [+7770 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "Pixel",
+      "Worth",
+      "Google",
+      "chars",
+      "innovation",
+      "blending",
+      "features",
+      "system",
+      "upgrades"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/finance/account-aggregator-ecosystem-to-unlock-new-frontiers-in-formal-credit-access-finmin/articleshow/123648864.cms",
+    "title": "Account Aggregator ecosystem to unlock new frontiers in formal credit access: Finmin",
+    "fetched_on": "2025-09-03T06:28:35.820801+00:00",
+    "content": "Account Aggregator ecosystem is poised to unlock new frontiers in formal credit access, especially for MSMEs and personal lending, contributing meaningfully to India's journey towards Viksit Bharat b… [+2033 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aggregator",
+      "access",
+      "Account",
+      "Finmin",
+      "unlock",
+      "frontiers",
+      "formal",
+      "credit",
+      "chars",
+      "India"
+    ]
   }
 ]
