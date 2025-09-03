@@ -11,22 +11,68 @@ with open("data/summary_GPT_3.5.json", "r") as f:
 today = datetime.utcnow().date()
 today_str = today.isoformat()
 
-message_parts = []
-
 # Daily summary
 if today_str in summaries.get("daily_summaries", {}):
-    message_parts.append(f"**Daily Summary ({today_str})**\n{summaries['daily_summaries'][today_str]}")
+    daily_summary = summaries["daily_summaries"][today_str]
+else:
+    daily_summary = "No daily summary."
 
 # Weekly summary (only Monday)
+weekly_summary = None
 if today.weekday() == 0:
     last_sunday = today - timedelta(days=1)
     last_sunday_str = last_sunday.isoformat()
     if last_sunday_str in summaries.get("weekly_summaries", {}):
-        message_parts.append(f"**Weekly Summary ({last_sunday_str})**\n{summaries['weekly_summaries'][last_sunday_str]}")
+        weekly_summary = summaries["weekly_summaries"][last_sunday_str]
+    else:
+        weekly_summary = "No weekly summary."
 
-if message_parts:
-    payload = {"text": "\n\n".join(message_parts)}
-    response = requests.post(webhook_url, json=payload)
-    print("Status:", response.status_code, response.text)
-else:
-    print("No summary for today.")
+# Build Adaptive Card
+card = {
+    "type": "message",
+    "attachments": [
+        {
+            "contentType": "application/vnd.microsoft.card.adaptive",
+            "content": {
+                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                "type": "AdaptiveCard",
+                "version": "1.4",
+                "body": [
+                    {
+                        "type": "TextBlock",
+                        "text": f"**Daily Summary ({today_str})**",
+                        "weight": "Bolder",
+                        "size": "Medium"
+                    },
+                    {
+                        "type": "TextBlock",
+                        "text": daily_summary,
+                        "wrap": True
+                    }
+                ]
+            }
+        }
+    ]
+}
+
+# Add weekly summary if Monday
+if weekly_summary is not None:
+    card["attachments"][0]["content"]["body"].append(
+        {
+            "type": "TextBlock",
+            "text": f"**Weekly Summary ({last_sunday_str})**",
+            "weight": "Bolder",
+            "size": "Medium",
+            "spacing": "Medium"
+        }
+    )
+    card["attachments"][0]["content"]["body"].append(
+        {
+            "type": "TextBlock",
+            "text": weekly_summary,
+            "wrap": True
+        }
+    )
+
+response = requests.post(webhook_url, json=card)
+print("Status:", response.status_code, response.text)
