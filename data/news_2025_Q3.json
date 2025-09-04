@@ -552841,5 +552841,85 @@
       "sale",
       "spree"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/2de79faf1e9bacef",
+    "title": "Oaktree Hires Zhang to Lead Performing Credit Strategy in Asia",
+    "fetched_on": "2025-09-04T04:23:04.322803+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Kraft Heinz splitting into two companies? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did the Google antit… [+759 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Asia",
+      "return",
+      "false",
+      "Hires",
+      "Zhang",
+      "Lead",
+      "Performing"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/phonepe-hdfc-bank-ultimo-credit-card-offers-10-rewards-on-utility-bills-details-here-11756801554381.html",
+    "title": "PhonePe HDFC Bank Ultimo Credit Card offers 10% rewards on utility bills. Details here",
+    "fetched_on": "2025-09-04T04:23:04.322803+00:00",
+    "content": "In the last few years, some banks have stopped giving any credit card reward points or cashback on utility bill payments. Some banks have even started charging a convenience fee on utility bill payme… [+6819 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "utility",
+      "HDFC",
+      "Ultimo",
+      "Credit",
+      "Card",
+      "banks",
+      "PhonePe",
+      "offers",
+      "bill",
+      "Bank"
+    ]
+  },
+  {
+    "source": "Thenightly.com.au [NewsAPI]",
+    "url": "https://thenightly.com.au/business/nick-bruining-credit-cracks-for-wa-seniors-appear-in-cook-governments-solar-battery-rebate-pack-c-19896414",
+    "title": "Nick Bruining: Credit cracks for WA seniors appear in Cook Government’s solar battery rebate pack",
+    "fetched_on": "2025-09-04T04:23:04.322803+00:00",
+    "content": "Some West Australian seniors hoping to access the Cook Governments new solar battery rebate scheme have been locked out of the offer after being rejected for interest-free loans by the Governments no… [+5791 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cook",
+      "Governments",
+      "Bruining",
+      "Credit",
+      "battery",
+      "chars",
+      "West",
+      "Australian",
+      "solar",
+      "rebate"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-donnerstag-4-september-14796810",
+    "title": "TAGESVORSCHAU/Donnerstag, 4. September",
+    "fetched_on": "2025-09-04T04:23:26.923783+00:00",
+    "content": "<p>===  08:00 DE/Umsatz im Dienstleistungsbereich Juni  1H *** 08:30 CH/Verbraucherpreise August </p><p> PROGNOSE: k.A.  zuvor: 0,0% gg Vm/+0,2% gg Vj  09:00 DE/Fortsetzung Handelsblatt Banken-Gipfel (u.a. mit Unicredit-CEO Orcel)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TAGESVORSCHAU",
+      "Donnerstag",
+      "September",
+      "PROGNOSE",
+      "zuvor",
+      "Umsatz",
+      "Juni",
+      "Verbraucherpreise",
+      "August",
+      "Fortsetzung"
+    ]
   }
 ]
