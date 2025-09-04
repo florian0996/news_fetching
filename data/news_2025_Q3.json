@@ -553260,5 +553260,125 @@
       "Tuesday",
       "traded"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-04/blackstone-state-street-set-to-launch-active-european-clo-etf",
+    "title": "Blackstone, State Street Set to Launch Active European CLO ETF",
+    "fetched_on": "2025-09-04T08:26:16.859177+00:00",
+    "content": "Blackstone Inc. and State Street Investment Management are joining forces to launch an exchange-traded fund tracking European collateralized loan obligations, a move that comes as private markets seek to widen their investor base.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "State",
+      "Street",
+      "European",
+      "Launch",
+      "Blackstone",
+      "Set",
+      "Active",
+      "CLO",
+      "ETF",
+      "Inc."
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/bank-of-baroda-launches-bob-digi-udyam-digital-financing-scheme-for-mses/article70007333.ece",
+    "title": "Bank of Baroda launches 'bob Digi Udyam' digital financing scheme for MSEs",
+    "fetched_on": "2025-09-04T08:26:15.725484+00:00",
+    "content": "State-owned Bank of Baroda (BoB) on Tuesday announced the launch of bob Digi Udyam a digital, collateral-free lending platform offering Micro and Small Enterprises (MSEs) quick access to working capi… [+549 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Digi",
+      "Baroda",
+      "Udyam",
+      "Bank",
+      "Enterprises",
+      "chars",
+      "bob",
+      "State-owned",
+      "Tuesday",
+      "Micro"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/03/manhattan-bridge-capital-nasdaqloan-shares-pass-below-200-day-moving-average-time-to-sell/",
+    "title": "Manhattan Bridge Capital (NASDAQ:LOAN) Shares Pass Below 200 Day Moving Average – Time to Sell?",
+    "fetched_on": "2025-09-04T08:26:15.725484+00:00",
+    "content": "Shares of Manhattan Bridge Capital, Inc (NASDAQ:LOAN – Get Free Report) crossed below its 200-day moving average during trading on Tuesday . The stock has a 200-day moving average of $5.38 and traded… [+3789 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "LOAN",
+      "Capital",
+      "Day",
+      "Time",
+      "Sell",
+      "Bridge",
+      "Moving",
+      "Average",
+      "Shares"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/03/loandepot-nyseldi-and-rocket-companies-nyserkt-head-to-head-survey/",
+    "title": "loanDepot (NYSE:LDI) and Rocket Companies (NYSE:RKT) Head-To-Head Survey",
+    "fetched_on": "2025-09-04T08:26:15.725484+00:00",
+    "content": "loanDepot (NYSE:LDI – Get Free Report) and Rocket Companies (NYSE:RKT – Get Free Report) are both finance companies, but which is the superior business? We will compare the two businesses based on th… [+5211 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "LDI",
+      "RKT",
+      "Companies",
+      "Report",
+      "Rocket",
+      "Free",
+      "Survey",
+      "loanDepot",
+      "business"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/credit-unions/2025/51percent-credit-union-members-still-prefer-branches/",
+    "title": "51% of Credit Union Members Still Prefer Branches",
+    "fetched_on": "2025-09-04T08:26:15.725484+00:00",
+    "content": "New data on credit union innovation says what few FinTechs want to hear: Bank branches still matter, especially if you care about keeping your most loyal members.Thats one of the less spotlighted, bu… [+3327 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Bank",
+      "Credit",
+      "Union",
+      "Branches",
+      "Members",
+      "Prefer",
+      "hear",
+      "matter",
+      "spotlighted"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/indian-shadow-banks-ipo-boom-falters-on-mounting-credit-stress/articleshow/123672605.cms",
+    "title": "Indian shadow banks’ IPO boom falters on mounting credit stress",
+    "fetched_on": "2025-09-04T08:26:15.725484+00:00",
+    "content": "Indias once-burgeoning pipeline for new stock sales by shadow banks is stalling as strains across the sector prompt lenders to scrap or delay listings.TPG Inc.-backed SK Finance Ltd. and Belstar Micr… [+4102 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Inc.",
+      "Micr",
+      "IPO",
+      "Indias",
+      "Finance",
+      "Ltd.",
+      "Belstar",
+      "Indian",
+      "backed"
+    ]
   }
 ]
