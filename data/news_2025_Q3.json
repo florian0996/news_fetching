@@ -552721,5 +552721,85 @@
       "longer",
       "works"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-04/hinduja-backed-indusind-s-new-ceo-seeks-to-cut-risks-in-revamp",
+    "title": "Hinduja-Backed IndusInd’s New CEO Seeks to Cut Risks in Revamp",
+    "fetched_on": "2025-09-04T02:56:14.793022+00:00",
+    "content": "IndusInd Bank Ltd.’s new chief is moving quickly to reduce risks on its loan book, according to people familiar with the matter, as he seeks to restore investor confidence after a series of governance lapses at the Indian lender.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Seeks",
+      "Risks",
+      "CEO",
+      "Cut",
+      "Revamp",
+      "Bank",
+      "Ltd.’s",
+      "Indian",
+      "IndusInd",
+      "Hinduja-Backed"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/eddie-and-the-getaway-talks-about-broken-man-single-and-digital-age/article",
+    "title": "Eddie and The Getaway talks about ‘Broken Man’ single and digital age",
+    "fetched_on": "2025-09-04T02:56:14.144179+00:00",
+    "content": "Eddie and The Getaway. Photo Credit: Jordan Dziekan.\r\nEddie and The Getaway chatted about his new single “Broken Man” and being a part of the digital age.\r\nHow did “Broken Man” come about?\r\n“Broken M… [+2766 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Broken",
+      "Getaway",
+      "Man’",
+      "Eddie",
+      "Man",
+      "digital",
+      "age",
+      "Credit",
+      "Jordan",
+      "Dziekan"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9cd4a3c661d2fc00",
+    "title": "Credit Markets Near Records After $90 Billion Bond Sale Spree",
+    "fetched_on": "2025-09-04T02:56:14.144179+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Kraft Heinz splitting into two companies? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Google avoid bre… [+729 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Billion",
+      "Spree",
+      "return",
+      "false",
+      "Markets",
+      "Records",
+      "Bond"
+    ]
+  },
+  {
+    "source": "Teamfortress.com [NewsAPI]",
+    "url": "https://www.teamfortress.com/post.php?id=251978",
+    "title": "MGE.tf 2v2 League Fall Season",
+    "fetched_on": "2025-09-04T02:56:14.144179+00:00",
+    "content": "MGE.tf 2v2 League Fall Season\r\n(Image credit: Shazi)\r\nCalling all players! Grab a teammate and get ready for the next season of 2v2 MGE League.\r\nMGE.tf is announcing another season of the 2v2 league … [+448 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fall",
+      "Shazi",
+      "League",
+      "Image",
+      "Calling",
+      "Season",
+      "credit",
+      "players",
+      "MGE.tf",
+      "MGE"
+    ]
   }
 ]
