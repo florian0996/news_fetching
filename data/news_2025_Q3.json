@@ -555993,5 +555993,82 @@
       "platform.CryptocurrencyTickerPriceMarket",
       "TrendShiba"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178996072",
+    "title": "$7,500 EV Tax Credit Will Vanish in Weeks, but a New IRS Rule Eases the Deadline",
+    "fetched_on": "2025-09-04T19:15:32.228807+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Weeks",
+      "Print",
+      "Tax",
+      "Credit",
+      "Vanish",
+      "IRS",
+      "Rule",
+      "Eases",
+      "Deadline",
+      "Fine"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/09/03/how-to-watch-vmas-live-channel/",
+    "title": "What Channel Are the VMAs 2025 On? How to Watch Live",
+    "fetched_on": "2025-09-04T19:15:32.228807+00:00",
+    "content": "Image Credit: CBS/MTV\r\nThe MTV Video Music Awards are one of the biggest nights in music, and the 2025 show is right around the corner. This years performers includeLady Gaga, Sabrina Carpenter, Mari… [+13020 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Channel",
+      "MTV",
+      "VMAs",
+      "Music",
+      "CBS",
+      "Credit",
+      "Mari",
+      "Watch",
+      "Live",
+      "Image"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7404fabd3d6eefed",
+    "title": "ID.me Raises $340 Million to Expand Digital Identity Solutions",
+    "fetched_on": "2025-09-04T19:15:32.228807+00:00",
+    "content": "Digital identity wallet ID.me raised $340 million across Series E financing, announced Wednesday (Sept. 3), and a credit facility, announced earlier.\r\nThe latest financing values that company at over… [+135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sept.",
+      "Digital",
+      "Million",
+      "Raises",
+      "Wednesday",
+      "Identity",
+      "announced",
+      "Expand",
+      "Solutions",
+      "Series"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/parent-plus-loan-limits-create-090000857.html",
+    "title": "New Parent PLUS loan limits create college funding crisis",
+    "fetched_on": "2025-09-04T19:16:07.413327+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Parent",
+      "crisis",
+      "loan",
+      "limits",
+      "create",
+      "college",
+      "funding"
+    ]
   }
 ]
