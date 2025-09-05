@@ -1,24 +1,29 @@
 import json
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import os
 
+# Webhook URL for your Teams workflow
 webhook_url = os.getenv("TEAMS_WEBHOOK")
 
+# Load the summaries JSON
 with open("data/summary_GPT_3.5.json", "r") as f:
     summaries = json.load(f)
 
-today = datetime.utcnow().date()
+# Use timezone-aware UTC datetime
+today = datetime.now(timezone.utc).date()
 yesterday = today - timedelta(days=1)
 yesterday_str = yesterday.isoformat()
 
+# Initialize variables
 card_body = []
 daily_summary = None
 weekend_summary = None
 weekly_summary = None
 
+# Monday → weekend + weekly summary
 if today.weekday() == 0:
-    # Monday → weekend + weekly
+    # Friday, Saturday, Sunday
     friday = today - timedelta(days=3)
     saturday = today - timedelta(days=2)
     sunday = today - timedelta(days=1)
@@ -32,7 +37,6 @@ if today.weekday() == 0:
             weekend_texts.append(f"**{d_str}:** No summary.")
 
     weekend_summary = "\n\n".join(weekend_texts)
-
     card_body.append({
         "type": "TextBlock",
         "text": f"**Weekend Summary ({friday} → {sunday})**",
@@ -45,11 +49,9 @@ if today.weekday() == 0:
         "wrap": True
     })
 
-    # Weekly summary (for last Sunday)
-    last_sunday = today - timedelta(days=1)
-    last_sunday_str = last_sunday.isoformat()
+    # Weekly summary (last Sunday)
+    last_sunday_str = sunday.isoformat()
     weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
-
     card_body.append({
         "type": "TextBlock",
         "text": f"**Weekly Summary ({last_sunday_str})**",
@@ -66,7 +68,6 @@ if today.weekday() == 0:
 else:
     # Normal day → yesterday only
     daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
-
     card_body.append({
         "type": "TextBlock",
         "text": f"**Daily Summary ({yesterday_str})**",
@@ -79,29 +80,25 @@ else:
         "wrap": True
     })
 
-card = {
-    "type": "message",
-    "attachments": [
-        {
-            "contentType": "application/vnd.microsoft.card.adaptive",
-            "content": {
-                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
-                "type": "AdaptiveCard",
-                "version": "1.4",
-                "body": card_body
-            }
-        }
-    ]
+# Build the AdaptiveCard JSON (only the "content" part)
+card_content = {
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.4",
+    "body": card_body
 }
 
-# Build payload with both card + raw summaries
+# Build the payload to send to your Teams workflow
 payload = {
-    "card": card,
+    "card": card_content,  # only the AdaptiveCard JSON
     "daily_summary": daily_summary,
     "weekend_summary": weekend_summary,
     "weekly_summary": weekly_summary
 }
 
+# Debug: print payload in workflow logs
+print("Payload being sent to Teams workflow:")
 print(json.dumps(payload, indent=2))
-response = requests.post(webhook_url, json=payload)
-print("Status:", response.status_code, response.text)
+
+# Send the payload
+response
