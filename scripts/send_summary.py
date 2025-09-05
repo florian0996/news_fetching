@@ -101,4 +101,6 @@ print("Payload being sent to Teams workflow:")
 print(json.dumps(payload, indent=2))
 
 # Send the payload
-response
+response = requests.post(webhook_url, json=payload)
+print("HTTP Status:", response.status_code)
+print("Response body:", response.text)
