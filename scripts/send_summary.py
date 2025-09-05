@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta, timezone
 import os
 
-# Teams webhook URL (set as secret in GitHub)
+# Teams Incoming Webhook URL (set as GitHub secret)
 webhook_url = os.getenv("TEAMS_WEBHOOK")
 
 # Load summaries JSON
@@ -82,11 +82,7 @@ card_content = {
     "body": card_body
 }
 
-# Debug: print card payload
-print("Sending Adaptive Card to Teams:")
-print(json.dumps(card_content, indent=2))
-
-# Send card directly to Teams
+# Send directly to Teams webhook
 response = requests.post(webhook_url, json=card_content)
 print("HTTP Status:", response.status_code)
 print("Response body:", response.text)
