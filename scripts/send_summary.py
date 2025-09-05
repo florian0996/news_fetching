@@ -10,7 +10,7 @@ webhook_url = os.getenv("TEAMS_WEBHOOK")
 with open("data/summary_GPT_3.5.json", "r") as f:
     summaries = json.load(f)
 
-# Use timezone-aware UTC datetime
+# Timezone-aware UTC
 today = datetime.now(timezone.utc).date()
 yesterday = today - timedelta(days=1)
 yesterday_str = yesterday.isoformat()
@@ -23,7 +23,6 @@ weekly_summary = None
 
 # Monday → weekend + weekly summary
 if today.weekday() == 0:
-    # Friday, Saturday, Sunday
     friday = today - timedelta(days=3)
     saturday = today - timedelta(days=2)
     sunday = today - timedelta(days=1)
@@ -31,10 +30,9 @@ if today.weekday() == 0:
     weekend_texts = []
     for d in [friday, saturday, sunday]:
         d_str = d.isoformat()
-        if d_str in summaries.get("daily_summary", {}):
-            weekend_texts.append(f"**{d_str}:** {summaries['daily_summary'][d_str]}")
-        else:
-            weekend_texts.append(f"**{d_str}:** No summary.")
+        weekend_texts.append(
+            f"**{d_str}:** {summaries.get('daily_summary', {}).get(d_str, 'No summary.')}"
+        )
 
     weekend_summary = "\n\n".join(weekend_texts)
     card_body.append({
@@ -49,7 +47,6 @@ if today.weekday() == 0:
         "wrap": True
     })
 
-    # Weekly summary (last Sunday)
     last_sunday_str = sunday.isoformat()
     weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
     card_body.append({
@@ -66,7 +63,6 @@ if today.weekday() == 0:
     })
 
 else:
-    # Normal day → yesterday only
     daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
     card_body.append({
         "type": "TextBlock",
@@ -80,7 +76,7 @@ else:
         "wrap": True
     })
 
-# Build the AdaptiveCard JSON (only the "content" part)
+# Build AdaptiveCard content
 card_content = {
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
     "type": "AdaptiveCard",
@@ -88,9 +84,9 @@ card_content = {
     "body": card_body
 }
 
-# Build the payload to send to your Teams workflow
+# Build payload with stringified card JSON
 payload = {
-    "card": card_content,  # only the AdaptiveCard JSON
+    "card": json.dumps(card_content),  # <-- stringified JSON
     "daily_summary": daily_summary,
     "weekend_summary": weekend_summary,
     "weekly_summary": weekly_summary
