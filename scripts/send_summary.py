@@ -102,5 +102,6 @@ payload = {
     "weekly_summary": weekly_summary
 }
 
+print(json.dumps(payload, indent=2))
 response = requests.post(webhook_url, json=payload)
 print("Status:", response.status_code, response.text)
