@@ -12,23 +12,70 @@ today = datetime.utcnow().date()
 yesterday = today - timedelta(days=1)
 yesterday_str = yesterday.isoformat()
 
-# Daily summary (for yesterday)
-if yesterday_str in summaries.get("daily_summary", {}):
-    daily_summary = summaries["daily_summary"][yesterday_str]
-else:
-    daily_summary = "No daily summary."
+card_body = []
 
-# Weekly summary (only Monday → show Sunday)
-weekly_summary = None
 if today.weekday() == 0:
+    # Monday → weekend + weekly
+    friday = today - timedelta(days=3)
+    saturday = today - timedelta(days=2)
+    sunday = today - timedelta(days=1)
+
+    weekend_texts = []
+    for d in [friday, saturday, sunday]:
+        d_str = d.isoformat()
+        if d_str in summaries.get("daily_summary", {}):
+            weekend_texts.append(f"**{d_str}:** {summaries['daily_summary'][d_str]}")
+        else:
+            weekend_texts.append(f"**{d_str}:** No summary.")
+
+    weekend_summary = "\n\n".join(weekend_texts)
+
+    card_body.append({
+        "type": "TextBlock",
+        "text": f"**Weekend Summary ({friday} → {sunday})**",
+        "weight": "Bolder",
+        "size": "Medium"
+    })
+    card_body.append({
+        "type": "TextBlock",
+        "text": weekend_summary,
+        "wrap": True
+    })
+
+    # Weekly summary (for last Sunday)
     last_sunday = today - timedelta(days=1)
     last_sunday_str = last_sunday.isoformat()
-    if last_sunday_str in summaries.get("weekly_summary", {}):
-        weekly_summary = summaries["weekly_summary"][last_sunday_str]
-    else:
-        weekly_summary = "No weekly summary."
+    weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
 
-# Build Adaptive Card
+    card_body.append({
+        "type": "TextBlock",
+        "text": f"**Weekly Summary ({last_sunday_str})**",
+        "weight": "Bolder",
+        "size": "Medium",
+        "spacing": "Medium"
+    })
+    card_body.append({
+        "type": "TextBlock",
+        "text": weekly_summary,
+        "wrap": True
+    })
+
+else:
+    # Normal day → yesterday only
+    daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
+
+    card_body.append({
+        "type": "TextBlock",
+        "text": f"**Daily Summary ({yesterday_str})**",
+        "weight": "Bolder",
+        "size": "Medium"
+    })
+    card_body.append({
+        "type": "TextBlock",
+        "text": daily_summary,
+        "wrap": True
+    })
+
 card = {
     "type": "message",
     "attachments": [
@@ -38,42 +85,11 @@ card = {
                 "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
                 "type": "AdaptiveCard",
                 "version": "1.4",
-                "body": [
-                    {
-                        "type": "TextBlock",
-                        "text": f"**Daily Summary ({yesterday_str})**",
-                        "weight": "Bolder",
-                        "size": "Medium"
-                    },
-                    {
-                        "type": "TextBlock",
-                        "text": daily_summary,
-                        "wrap": True
-                    }
-                ]
+                "body": card_body
             }
         }
     ]
 }
-
-# Add weekly summary if Monday
-if weekly_summary is not None:
-    card["attachments"][0]["content"]["body"].append(
-        {
-            "type": "TextBlock",
-            "text": f"**Weekly Summary ({last_sunday_str})**",
-            "weight": "Bolder",
-            "size": "Medium",
-            "spacing": "Medium"
-        }
-    )
-    card["attachments"][0]["content"]["body"].append(
-        {
-            "type": "TextBlock",
-            "text": weekly_summary,
-            "wrap": True
-        }
-    )
 
 response = requests.post(webhook_url, json=card)
 print("Status:", response.status_code, response.text)
