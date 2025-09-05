@@ -13,6 +13,9 @@ yesterday = today - timedelta(days=1)
 yesterday_str = yesterday.isoformat()
 
 card_body = []
+daily_summary = None
+weekend_summary = None
+weekly_summary = None
 
 if today.weekday() == 0:
     # Monday → weekend + weekly
@@ -91,5 +94,13 @@ card = {
     ]
 }
 
-response = requests.post(webhook_url, json=card)
+# Build payload with both card + raw summaries
+payload = {
+    "card": card,
+    "daily_summary": daily_summary,
+    "weekend_summary": weekend_summary,
+    "weekly_summary": weekly_summary
+}
+
+response = requests.post(webhook_url, json=payload)
 print("Status:", response.status_code, response.text)
