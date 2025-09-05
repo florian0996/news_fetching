@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta, timezone
 import os
 
-# Webhook URL for your Teams workflow
+# Webhook URL for your Power Automate flow
 webhook_url = os.getenv("TEAMS_WEBHOOK")
 
 # Load the summaries JSON
@@ -84,16 +84,16 @@ card_content = {
     "body": card_body
 }
 
-# Build payload with stringified card JSON
+# Build payload with JSON object (NOT stringified)
 payload = {
-    "card": json.dumps(card_content),  # <-- stringified JSON
+    "card": card_content,
     "daily_summary": daily_summary,
     "weekend_summary": weekend_summary,
     "weekly_summary": weekly_summary
 }
 
 # Debug: print payload in workflow logs
-print("Payload being sent to Teams workflow:")
+print("Payload being sent to Power Automate:")
 print(json.dumps(payload, indent=2))
 
 # Send the payload
