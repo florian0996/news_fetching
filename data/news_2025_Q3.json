@@ -556830,5 +556830,45 @@
       "Shocked",
       "Parents"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/tourism-boost-tax-on-room-tariffs-under-7500-cut-to-5/articleshow/123689399.cms",
+    "title": "Tourism Boost: Tax on room tariffs under ₹7,500 cut to 5%",
+    "fetched_on": "2025-09-05T03:34:37.168783+00:00",
+    "content": "Hotel rooms with tariffs below or equal to 7,500 a night will be taxed at 5% without input tax credit (ITC), recommendations by the 56th GST Council showed. They were earlier taxed at 12%, with ITC e… [+1246 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Boost",
+      "Hotel",
+      "GST",
+      "Tax",
+      "Council",
+      "ITC",
+      "Tourism",
+      "cut",
+      "credit",
+      "recommendations"
+    ]
+  },
+  {
+    "source": "Benzinga [NewsAPI]",
+    "url": "https://www.benzinga.com/personal-finance/management/25/09/47489464/need-some-motivation-to-pay-down-your-credit-card-debt-heres-what-worked-for-people-who-used-to-be-in-debt",
+    "title": "Need Some Motivation To Pay Down Your Credit Card Debt? Here's What Worked For People Who Used To Be In Debt.",
+    "fetched_on": "2025-09-05T03:34:37.168783+00:00",
+    "content": "Paying off credit card debt can help you establish a good financial foundation, make investments, and build your nest egg so you can retire early. Most people know this, but it's not a common practic… [+3465 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Motivation",
+      "Pay",
+      "Debt",
+      "Card",
+      "Credit",
+      "People",
+      "Worked",
+      "chars",
+      "Paying",
+      "foundation"
+    ]
   }
 ]
