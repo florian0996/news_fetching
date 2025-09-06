@@ -561495,5 +561495,125 @@
       "volatility",
       "prompts"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-friday-september-5-2025-100009820.html",
+    "title": "HELOC rates today, September 5, 2025: An average under 9% now; your introductory rate could be half that",
+    "fetched_on": "2025-09-06T10:18:15.414269+00:00",
+    "content": "Today's HELOC rates are consistently under 9%. However, your home equity line of credit interest rate will depend on where you live and your creditworthiness. The rate you earn could be closer to 8% … [+3963 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "September",
+      "today",
+      "rate",
+      "average",
+      "introductory",
+      "half",
+      "consistently",
+      "rates",
+      "creditworthiness"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/self-made-millionaire-financial-waterfall-strategy-tips-wealth-building-2025-9",
+    "title": "A self-made millionaire describes the 'financial waterfall' strategy she used to pay off six figures in debt and build wealth",
+    "fetched_on": "2025-09-06T10:18:15.414269+00:00",
+    "content": "For years, Rose Han ignored her six-figure debt.\r\nShe was carrying about a $5,000 balance on her credit card. The rest was student loans.\r\n\"I felt a lot of shame, and just overwhelmed about this debt… [+5677 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rose",
+      "Han",
+      "financial",
+      "waterfall",
+      "strategy",
+      "years",
+      "debt",
+      "self-made",
+      "millionaire",
+      "describes"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/is-a-personal-loan-the-right-choice-for-financing-home-appliances-emis-interest-rates-11757060014552.html",
+    "title": "Is a personal loan the right choice for financing home appliances?",
+    "fetched_on": "2025-09-06T10:18:15.414269+00:00",
+    "content": "For several households, upgrading home appliances such as washing machines, refrigerators, air conditioners, microwave ovens, etc., has now become a forced necessity rather than a luxury. This is bec… [+4283 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "home",
+      "appliances",
+      "personal",
+      "loan",
+      "choice",
+      "financing",
+      "refrigerators",
+      "etc.",
+      "chars",
+      "households"
+    ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-09-05/act-credit-rating-downgraded-health-spend-deficit-infrustructure/105741368",
+    "title": "Budget deficit and high debt see ACT's credit rating downgraded to AA",
+    "fetched_on": "2025-09-06T10:18:15.414269+00:00",
+    "content": "The ACT's credit rating has been downgraded from AA+ to AA by international ratings agency S&amp;P Global Ratings.\r\nThe group cited the territory's proportionally high debt relative to other Australi… [+5421 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ACT",
+      "credit",
+      "Global",
+      "rating",
+      "ratings",
+      "downgraded",
+      "high",
+      "debt",
+      "Budget",
+      "deficit"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/advent-to-place-reckitt-debt-with-banks-before-wider-sale-11757064700979.html",
+    "title": "Advent to Place Reckitt Debt With Banks Before Wider Sale",
+    "fetched_on": "2025-09-06T10:18:15.414269+00:00",
+    "content": "(Bloomberg) -- Private equity firm Advent International is selling a chunk of a $2 billion-plus buyout loan to a group of banks, before it markets the rest to institutional investors. \r\n Its set to o… [+2314 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Advent",
+      "Banks",
+      "Sale",
+      "Private",
+      "Place",
+      "Reckitt",
+      "Debt",
+      "Wider",
+      "International"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/adrianbridgwater/2025/09/05/credit-card-companies-bank-on-developers-for-agentic-acceptance/",
+    "title": "Credit Card Companies Bank On Developers For Agentic Acceptance",
+    "fetched_on": "2025-09-06T10:18:15.414269+00:00",
+    "content": "Bangkok, Thailand - Jun 23, 2015 : Group of credit cards on computer keyboard with VISA and MasterCard brand logos\r\ngetty\r\nLets go shopping. Its a core human behavioral trait that many people find en… [+9230 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Thailand",
+      "Jun",
+      "Bangkok",
+      "Group",
+      "Companies",
+      "Bank",
+      "Developers",
+      "Agentic",
+      "Acceptance",
+      "VISA"
+    ]
   }
 ]
