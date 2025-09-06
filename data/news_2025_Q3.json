@@ -563791,5 +563791,105 @@
       "Image",
       "Images"
     ]
+  },
+  {
+    "source": "newsBTC [NewsAPI]",
+    "url": "http://www.newsbtc.com/shiba-inu/chainlink-integration-shiba-inu/",
+    "title": "Chainlink Integration Brings Shiba Inu Into New Crosschain Market — What You Should Know",
+    "fetched_on": "2025-09-06T22:16:46.529169+00:00",
+    "content": "Shiba Inu (SHIB) has taken a big step into a new area of decentralized finance, making it part of a cross-chain lending and borrowing market. This latest move was made possible by an integration with… [+2725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shiba",
+      "Inu",
+      "SHIB",
+      "Market",
+      "Brings",
+      "Crosschain",
+      "Integration",
+      "Chainlink",
+      "finance",
+      "making"
+    ]
+  },
+  {
+    "source": "Newsweek [NewsAPI]",
+    "url": "https://www.newsweek.com/sports/ncaa/how-watch-james-madison-vs-louisville-live-stream-ncaa-college-football-tv-channel-2123286",
+    "title": "How to Watch James Madison vs Louisville: Live Stream NCAA College Football, TV Channel",
+    "fetched_on": "2025-09-06T22:16:46.529169+00:00",
+    "content": "The James Madison Dukes (1-0) travel to L&amp;N Federal Credit Union Stadium to face the Louisville Cardinals (1-0) in a Week 2 interconference college football matchup.\r\nBrady Allen #12 of the Louis… [+1707 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "James",
+      "Madison",
+      "Louisville",
+      "College",
+      "Football",
+      "Live",
+      "Dukes",
+      "Cardinals",
+      "Week",
+      "Watch"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9c6608f60edc168a",
+    "title": "Fitch Cuts Poland Credit Outlook And Warns of Fiscal Risks",
+    "fetched_on": "2025-09-06T22:16:46.529169+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Anthropic agree to $1.5B settlement? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Tesla's $1 trillion… [+752 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Risks",
+      "settlement",
+      "return",
+      "false",
+      "Cuts",
+      "Poland",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Rolling Out [NewsAPI]",
+    "url": "https://rollingout.com/2025/09/05/ari-fletchers-culinary-skills-at-dinner/",
+    "title": "Ari Fletcher’s impressive cooking sparks fan admiration",
+    "fetched_on": "2025-09-06T22:16:46.529169+00:00",
+    "content": "Photo credit: Shutterstock.com / Franklin Sheard Jr\r\nSocial media influencer’s culinary talents draw widespread praise from followers after rapper boyfriend shares intimate dinner moments, highlighti… [+9494 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shutterstock.com",
+      "highlighti",
+      "chars",
+      "Franklin",
+      "Fletcher",
+      "Photo",
+      "Sheard",
+      "Social",
+      "Ari",
+      "credit"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/john-candy-wife-rosemary-margaret-hobor-5453218/",
+    "title": "Who Is John Candy’s Wife? Meet Rosemary Margaret Hobor",
+    "fetched_on": "2025-09-06T22:16:46.529169+00:00",
+    "content": "Image Credit: WireImage\r\nJohn Candy wasnt just a comedy legend on screen he was also a devoted husband and father off it. The Uncle Buckand Planes, Trains and Automobiles star was married to Rosemary… [+2584 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wife",
+      "John",
+      "Candy",
+      "Rosemary",
+      "Credit",
+      "Planes",
+      "Trains",
+      "Margaret",
+      "Hobor",
+      "Image"
+    ]
   }
 ]
