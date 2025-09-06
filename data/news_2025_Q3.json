@@ -561255,5 +561255,65 @@
       "September",
       "chars"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/05/jump-financial-llc-buys-shares-of-29002-ellington-credit-company-earn/",
+    "title": "Jump Financial LLC Buys Shares of 29,002 Ellington Credit Company $EARN",
+    "fetched_on": "2025-09-06T08:21:49.851612+00:00",
+    "content": "Jump Financial LLC bought a new stake in shares of Ellington Credit Company (NYSE:EARN – Free Report) during the 1st quarter, according to the company in its most recent 13F filing with the Securitie… [+4640 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Financial",
+      "Credit",
+      "EARN",
+      "NYSE",
+      "Company",
+      "LLC",
+      "Ellington",
+      "Jump",
+      "Shares",
+      "Free"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/loans/2025/half-stable-mid-market-firms-use-credit-growth-capital/",
+    "title": "Half of Stable Mid-Market Firms Use Credit as Growth Capital",
+    "fetched_on": "2025-09-06T08:21:49.851612+00:00",
+    "content": "Middle-market companies are caught between tariffs, interest rates and jittery supply chains, and how they borrow money says as much about their outlook as their balance sheet.The PYMNTS Intelligence… [+3204 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Intelligence",
+      "Stable",
+      "Firms",
+      "Credit",
+      "Growth",
+      "Capital",
+      "Middle-market",
+      "PYMNTS",
+      "Half"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/05/northern-trust-corp-sells-8661-shares-of-lendingclub-corporation-lc/",
+    "title": "Northern Trust Corp Sells 8,661 Shares of LendingClub Corporation $LC",
+    "fetched_on": "2025-09-06T08:21:49.851612+00:00",
+    "content": "Northern Trust Corp trimmed its position in shares of LendingClub Corporation (NYSE:LC – Free Report) by 0.8% during the first quarter, Holdings Channel.com reports. The fund owned 1,039,957 shares o… [+5684 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Corporation",
+      "Trust",
+      "Corp",
+      "NYSE",
+      "Northern",
+      "Sells",
+      "Free",
+      "Holdings",
+      "LendingClub",
+      "Channel.com"
+    ]
   }
 ]
