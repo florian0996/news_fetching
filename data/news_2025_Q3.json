@@ -560842,5 +560842,101 @@
       "Times",
       "Offer"
     ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20250904PD207/japan-nuclear-fusion-startup-investment-technology-2025.html",
+    "title": "Japanese consortium invests in US fusion startup to advance nuclear fusion power technology",
+    "fetched_on": "2025-09-06T02:54:22.943659+00:00",
+    "content": "Credit: Mitsui O.S.K. LinesA group of 12 Japanese companies, including Mitsubishi Corporation, NTT, and Kansai Electric Power, announced on September 2, 2025, an investment in Massachusetts-based nuc… [+78 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mitsui",
+      "Credit",
+      "Japanese",
+      "NTT",
+      "fusion",
+      "power",
+      "chars",
+      "Corporation",
+      "September",
+      "consortium"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-communications-shares-in-focus-after-bank-of-baroda-classifies-anil-ambani-rcom-loan-accounts-as-fraud/articleshow/123709743.cms",
+    "title": "Reliance Communications shares in focus after Bank of Baroda classifies Anil Ambani, RCom loan accounts as ‘fraud’",
+    "fetched_on": "2025-09-06T02:54:22.943659+00:00",
+    "content": "Shares of Reliance Communications (RCom) are expected to remain in focus on Friday, September 5, after the company informed the stock exchanges that Bank of Baroda has classified the loan accounts of… [+2291 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Communications",
+      "Bank",
+      "Baroda",
+      "September",
+      "Reliance",
+      "RCom",
+      "Ambani",
+      "Friday",
+      "shares",
+      "chars"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.co.uk/news/articles/c5yk810pgkko",
+    "title": "Mark Zuckerberg - no, not that one - sues Facebook for account shutdowns",
+    "fetched_on": "2025-09-06T02:54:22.943659+00:00",
+    "content": "Emails with Facebook that Mr Zuckerberg shared with local media indicate the company had accused him of not using his \"authentic name\".\r\nHe said that he has submitted his photo ID, his credit cards, … [+667 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zuckerberg",
+      "Facebook",
+      "Emails",
+      "Mark",
+      "sues",
+      "authentic",
+      "account",
+      "shutdowns",
+      "shared",
+      "local"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/business/autos/record-ev-sales-drive-auto-market-ahead-of-credit-end-3a55b366?siteid=yhoof2&yptr=yahoo",
+    "title": "Record EV Sales Drive Auto Market Ahead of Credit End",
+    "fetched_on": "2025-09-06T02:54:57.778590+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "End",
+      "Sales",
+      "Drive",
+      "Auto",
+      "Market",
+      "Ahead",
+      "Credit",
+      "Record"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/vistra-vst-revises-credit-agreements-203809859.html",
+    "title": "Vistra (VST) Revises Credit Agreements, Expands Receivables Facility to $1.1B",
+    "fetched_on": "2025-09-06T02:54:57.778706+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "VST",
+      "Vistra",
+      "Revises",
+      "Agreements",
+      "Expands",
+      "Credit",
+      "Receivables",
+      "Facility"
+    ]
   }
 ]
