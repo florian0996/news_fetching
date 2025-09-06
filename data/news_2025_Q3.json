@@ -561155,5 +561155,105 @@
       "tax",
       "credit"
     ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20250904PD238/ai-imaging-medical-taipei.html",
+    "title": "Pathologist shortage spurs AIxMed's push toward AI-assisted diagnosis",
+    "fetched_on": "2025-09-06T07:16:29.382458+00:00",
+    "content": "Samuel Chen, co-founder and CEO of AIxMED. Credit: DIGITIMESWhen Chang Gung Memorial Hospital in Linko, New Taipei, recently offered a monthly salary of NT$650,000 (approx. US$21,145) to recruit a pa… [+113 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chen",
+      "Samuel",
+      "CEO",
+      "Pathologist",
+      "co-founder",
+      "AIxMed",
+      "Credit",
+      "chars",
+      "Linko",
+      "Taipei"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/390042/new-us-government-hearing-on-ufos-to-be-held-next-week",
+    "title": "New US government hearing on UFOs to be held next week",
+    "fetched_on": "2025-09-06T07:16:29.382458+00:00",
+    "content": "The UFO Phenomenon\r\nBy T.K. RandallSeptember 5, 2025 ·  0 commentsSeveral witnesses will speak during the hearing. Image Credit: CC BY-SA 4.0 Jessica Rodriguez RivasThe meeting will include multiple … [+1369 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RandallSeptember",
+      "Phenomenon",
+      "commentsSeveral",
+      "hearing",
+      "UFOs",
+      "UFO",
+      "chars",
+      "Credit",
+      "BY-SA",
+      "Jessica"
+    ]
+  },
+  {
+    "source": "Inside Higher Ed [NewsAPI]",
+    "url": "https://www.insidehighered.com/news/student-success/academic-life/2025/09/05/podcast-ky-tackles-credit-prior-learning-veterans",
+    "title": "Listen: Closing the Attainment Gap With Credit for Prior Learning",
+    "fetched_on": "2025-09-06T07:16:29.382458+00:00",
+    "content": "Approximately 65 percent of the 1.2 million active-duty service members in the U.S. armed forces have less than an associate degree level of education, according to 2023 data; many of them hold some … [+26983 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Listen",
+      "data",
+      "chars",
+      "Closing",
+      "Approximately",
+      "Attainment",
+      "Gap",
+      "Credit",
+      "Prior",
+      "Learning"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/gst-cuts-q3-to-set-positive-momentum-for-rest-of-fy26-umesh-revankar-of-shriram-finance/articleshow/123713762.cms",
+    "title": "GST cuts: Q3 to set positive momentum for rest of FY26: Umesh Revankar of Shriram Finance",
+    "fetched_on": "2025-09-06T07:16:29.382458+00:00",
+    "content": "The governments GST rate cuts are expected to spark fresh demand in the consumption and auto sectors, creating a positive environment for credit growth, according to Umesh Revankar, Executive Vice Ch… [+1797 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Umesh",
+      "Revankar",
+      "GST",
+      "Executive",
+      "chars",
+      "Shriram",
+      "Finance",
+      "Vice",
+      "cuts",
+      "positive"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/spend/credit-cards/indulgent-heritage-experiences-with-each-swipe-only-with-the-times-black-icici-bank-credit-card/articleshow/123713459.cms",
+    "title": "Indulgent heritage experiences with each swipe. Only with the Times Black ICICI Bank credit card",
+    "fetched_on": "2025-09-06T07:16:29.382458+00:00",
+    "content": "Some moments in history reveal themselves only when the crowds disappear and the gates close to the world. On September 27, 2025, as Delhi's Red Fort settles into twilight silence, a select group wil… [+3454 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indulgent",
+      "swipe",
+      "heritage",
+      "experiences",
+      "Times",
+      "Black",
+      "ICICI",
+      "Bank",
+      "September",
+      "chars"
+    ]
   }
 ]
