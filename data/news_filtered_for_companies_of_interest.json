@@ -1,6 +1,17 @@
 {
-  "2025-09-06": {
+  "2025-09-07": {
     "status": "no company in the news"
+  },
+  "2025-09-06": {
+    "articles": [
+      {
+        "title": "Northern Trust Corp Sells 8,661 Shares of LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/09/05/northern-trust-corp-sells-8661-shares-of-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-09-05": {
     "status": "no company in the news"
