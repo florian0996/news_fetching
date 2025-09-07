@@ -564188,5 +564188,85 @@
       "Melbourne",
       "Photo"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-september-6-2025-100055435.html",
+    "title": "HELOC rates today, September 6, 2025: In a holding pattern until the Fed rate decision",
+    "fetched_on": "2025-09-07T10:18:21.720037+00:00",
+    "content": "HELOC rates today remain steady. Wall Street is convinced that the Federal Reserve will cut interest rates on September 17. That might move home equity line of credit interest rates slightly lower.\r\n… [+3906 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "September",
+      "Fed",
+      "today",
+      "rates",
+      "steady",
+      "holding",
+      "pattern",
+      "decision",
+      "remain"
+    ]
+  },
+  {
+    "source": "CNET [NewsAPI]",
+    "url": "https://www.cnet.com/tech/services-and-software/your-social-security-number-could-be-stolen-right-now-heres-how-to-stop-it/",
+    "title": "Your Social Security Number Could Be Stolen Right Now — Here's How to Stop It",
+    "fetched_on": "2025-09-07T10:18:21.720037+00:00",
+    "content": "Credit freezes are your free shield against thieves. \r\nfstop123/Getty Images\r\nYour Social Security number sits at the center of your financial life. Employers use it, lenders check it, and scammers t… [+4624 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Social",
+      "Security",
+      "Stolen",
+      "Stop",
+      "Credit",
+      "Number",
+      "thieves",
+      "freezes",
+      "free",
+      "shield"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-gaping-maw-of-cosmic-shark-stunning-deep-space-photo-2025",
+    "title": "Astrophotographer captures the gaping maw of a cosmic shark in stunning deep space image (photo)",
+    "fetched_on": "2025-09-07T10:18:21.720037+00:00",
+    "content": "A cosmic shark hunts through deep space. (Image credit: Ronald Brecher)\r\nAstrophotographer Ronald Brecher captured a haunting vista in July earlier this year, in which several deep-sky objects take o… [+2750 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cosmic",
+      "photo",
+      "Astrophotographer",
+      "shark",
+      "deep",
+      "space",
+      "Ronald",
+      "Brecher",
+      "image",
+      "captures"
+    ]
+  },
+  {
+    "source": "Scrapingduck.com [NewsAPI]",
+    "url": "https://scrapingduck.com/",
+    "title": "Show HN: ScrapingDuck a Web Scraping API",
+    "fetched_on": "2025-09-07T10:18:21.720037+00:00",
+    "content": "ScrapingDuck web scraping API handles headless browsers at scale. Render JavaScript, rotate proxies, handle custom browser flows, and stream results in seconds.\r\nNo credit card required. Fair use and… [+1549 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "API",
+      "Scraping",
+      "Web",
+      "ScrapingDuck",
+      "Show",
+      "scale",
+      "headless",
+      "chars",
+      "Render",
+      "JavaScript"
+    ]
   }
 ]
