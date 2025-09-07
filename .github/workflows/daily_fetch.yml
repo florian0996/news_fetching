@@ -7,7 +7,7 @@ permissions:
 
 on:
   schedule:
-    # Runs at 07:00 UTC → 09:00 CEST
+    # Runs at the top of every hour
     - cron: '0 * * * *'
   workflow_dispatch:
 
