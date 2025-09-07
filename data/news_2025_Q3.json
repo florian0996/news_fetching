@@ -563911,5 +563911,60 @@
       "Rahill",
       "Vanessa"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/opinion/q1-gdp-reflects-economic-strength/article70017024.ece",
+    "title": "Q1 GDP reflects economic strength",
+    "fetched_on": "2025-09-07T01:40:23.164785+00:00",
+    "content": "After securing a rating upgrade from the S&amp;P credit rating agency, India recorded a robust GDP growth of 7.8 per cent in Q1FY26. Growth has been clearly broad-based. Agriculture did well in the l… [+7697 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GDP",
+      "India",
+      "rating",
+      "agency",
+      "growth",
+      "reflects",
+      "economic",
+      "strength",
+      "securing",
+      "upgrade"
+    ]
+  },
+  {
+    "source": "Breitbart News [NewsAPI]",
+    "url": "https://www.breitbart.com/politics/2025/09/05/gop-lawmakers-slam-sen-jon-ossoff-for-claiming-credit-on-veterans-bill-signed-by-trump/",
+    "title": "GOP Lawmakers Slam Sen. Jon Ossoff for Claiming Credit on Veterans Bill Signed by Trump",
+    "fetched_on": "2025-09-07T01:40:23.164785+00:00",
+    "content": "Sen. Jon Ossoff (D-GA) is facing backlash from Rep. Derrick Van Orden (R-WI), Georgia Republicans, and the National Republican Senatorial Committee (NRSC) after his office promoted the recently signe… [+3108 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GOP",
+      "Sen",
+      "Lawmakers",
+      "Slam",
+      "Jon",
+      "Ossoff",
+      "D-GA",
+      "R-WI",
+      "NRSC",
+      "Rep"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/refinance-mortgage-to-pay-off-debt-213448867.html",
+    "title": "How do you refinance your home loan to consolidate debt — and should you?",
+    "fetched_on": "2025-09-07T01:40:53.837879+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "debt",
+      "refinance",
+      "home",
+      "loan",
+      "consolidate"
+    ]
   }
 ]
