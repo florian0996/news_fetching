@@ -564088,5 +564088,65 @@
       "Price",
       "Shares"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/06/comerica-bank-has-1-06-million-stock-position-in-the-western-union-company-wu/",
+    "title": "Comerica Bank Has $1.06 Million Stock Position in The Western Union Company $WU",
+    "fetched_on": "2025-09-07T08:22:28.051587+00:00",
+    "content": "Comerica Bank decreased its stake in shares of The Western Union Company (NYSE:WU – Free Report) by 62.7% during the 1st quarter, Holdings Channel reports. The firm owned 100,197 shares of the credit… [+6323 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Company",
+      "Western",
+      "Union",
+      "Bank",
+      "Comerica",
+      "NYSE",
+      "Million",
+      "Free",
+      "Holdings",
+      "Report"
+    ]
+  },
+  {
+    "source": "Balloon-juice.com [NewsAPI]",
+    "url": "https://balloon-juice.com/2025/09/06/saturday-morning-open-thread-trump-took-our-jerbs/",
+    "title": "Saturday Morning Open Thread: Trump Took Our Jerbs!!!",
+    "fetched_on": "2025-09-07T08:22:28.051587+00:00",
+    "content": "The fear that Trump would take credit for Biden's manufacturing boom was misplaced. https://t.co/gj7ZGWkvuR\r\n— Everything Price Sufferer (but especially eggs) (@agraybee) September 4, 2025\r\n===\r\nTrum… [+3009 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Thread",
+      "Jerbs",
+      "Morning",
+      "Open",
+      "Trump",
+      "Saturday",
+      "September",
+      "Trum",
+      "Sufferer",
+      "Biden"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/06/creditriskmonitor-com-inc-otcmktscrmz-sees-large-drop-in-short-interest/",
+    "title": "CreditRiskMonitor.com Inc. (OTCMKTS:CRMZ) Sees Large Drop in Short Interest",
+    "fetched_on": "2025-09-07T08:22:28.051587+00:00",
+    "content": "CreditRiskMonitor.com Inc. (OTCMKTS:CRMZ – Get Free Report) saw a large drop in short interest in the month of August. As of August 15th, there was short interest totaling 100 shares, adropof66.7% fr… [+2119 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OTCMKTS",
+      "CRMZ",
+      "August",
+      "Short",
+      "Interest",
+      "Drop",
+      "Large",
+      "CreditRiskMonitor.com",
+      "Report",
+      "Free"
+    ]
   }
 ]
