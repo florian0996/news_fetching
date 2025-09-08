@@ -565364,5 +565364,45 @@
       "interview",
       "perfectly"
     ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/09/06/teardown-of-a-cheapish-ebl-multi-cell-nimh-charger/",
+    "title": "Teardown of a Cheapish EBL Multi-Cell NiMH Charger",
+    "fetched_on": "2025-09-08T05:19:41.563229+00:00",
+    "content": "Bottom of the PCB with most of the ICs. (Credit: Brian Dipert, EDN)\r\nPeople think about NiMH cell chargers probably as much as they think about batteries, unless it’s time to replace the cells in wha… [+1270 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cheapish",
+      "EBL",
+      "Bottom",
+      "PCB",
+      "Teardown",
+      "ICs",
+      "Credit",
+      "EDN",
+      "NiMH",
+      "Multi-Cell"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f5cf4c5f6b0e89f1",
+    "title": "Global banks rush into Credit Suisse vacuum to serve Swiss companies",
+    "fetched_on": "2025-09-08T05:19:41.563229+00:00",
+    "content": "JPMorgan and Deutsche Bank among lenders competing for countrys businesses\r\nThis story appeared on ft.com, 2025-09-07 04:00:09.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Suisse",
+      "Swiss",
+      "Deutsche",
+      "Global",
+      "ft.com",
+      "banks",
+      "Bank",
+      "rush",
+      "vacuum"
+    ]
   }
 ]
