@@ -565980,5 +565980,85 @@
       "highlights",
       "servicing"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-08/ecb-curbs-black-box-models-to-end-standoff-over-risky-loans",
+    "title": "ECB Curbs Black Box Models to End Standoff Over Risky Loans",
+    "fetched_on": "2025-09-08T15:20:43.783685+00:00",
+    "content": "The European Central Bank has ended a long standoff with banks over how much money they need to set aside for risky loans, after scaling back use of a controversial model behind its demand for billions in additional provisions.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ECB",
+      "Risky",
+      "Loans",
+      "Standoff",
+      "Curbs",
+      "Black",
+      "Box",
+      "End",
+      "European",
+      "Central"
+    ]
+  },
+  {
+    "source": "Israelnationalnews.com [NewsAPI]",
+    "url": "https://www.israelnationalnews.com/news/414515",
+    "title": "Debunking the genocide myth",
+    "fetched_on": "2025-09-08T15:20:42.394761+00:00",
+    "content": "IDF engineering troops survey a filled-in tunnel entrance underneath the European Hospital in Khan Yunis in the southern Gaza Strip. Credit: Israel Defense Forces.\r\nDavid Friedman, an American bankru… [+2188 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Strip",
+      "IDF",
+      "European",
+      "Hospital",
+      "Khan",
+      "Yunis",
+      "Gaza",
+      "Debunking",
+      "genocide",
+      "myth"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/banks-go-slow-on-lending-against-shares-as-trade-tensions-make-markets-volatile/article70022653.ece",
+    "title": "Banks go slow on lending against shares as trade tensions make markets volatile",
+    "fetched_on": "2025-09-08T15:20:42.394761+00:00",
+    "content": "Banks are going slow in extending loans against shares and bonds as markets remain volatile amid heightened trade tensions between India and the US, experts say.\r\nAccording to data compiled by busine… [+1940 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks",
+      "India",
+      "shares",
+      "trade",
+      "tensions",
+      "experts",
+      "slow",
+      "markets",
+      "volatile",
+      "chars"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/09/her-mom-constantly-guilt-tripped-her-to-extend-a-loan-repayment-so-this-woman-doesnt-want-to-lend-her-mom-money-again/",
+    "title": "Her Mom Constantly Guilt-Tripped Her To Extend A Loan Repayment, But This Woman Doesn’t Want To Lend Her Mom Money Again",
+    "fetched_on": "2025-09-08T15:20:42.394761+00:00",
+    "content": "Pexels/Reddit\r\nMoney issues can break families apart.\r\nIf a family member wanted to borrow money from you, would you let them?\r\nThis woman lent her mom some money during her divorce.\r\nShe found the s… [+2059 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Repayment",
+      "Pexels",
+      "Reddit",
+      "Mom",
+      "Money",
+      "Constantly",
+      "Extend",
+      "Loan",
+      "Lend",
+      "Woman"
+    ]
   }
 ]
