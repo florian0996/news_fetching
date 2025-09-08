@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta
 import os
 
-webhook_url = os.getenv("TEAMS_WEBHOOK")
+flow_url = os.getenv("TEAMS_FLOW_URL")  # your flow trigger URL
 
 with open("data/summary_GPT_3.5.json", "r") as f:
     summaries = json.load(f)
@@ -12,53 +12,39 @@ today = datetime.utcnow().date()
 yesterday = today - timedelta(days=1)
 yesterday_str = yesterday.isoformat()
 
-# Daily summary (for yesterday)
-if yesterday_str in summaries.get("daily_summary", {}):
-    daily_summary = summaries["daily_summary"][yesterday_str]
-else:
-    daily_summary = "No daily summary."
+# Daily summary
+daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
 
-# Weekly summary (only Monday → show Sunday)
+# Weekly summary (only if Monday)
 weekly_summary = None
 if today.weekday() == 0:
     last_sunday = today - timedelta(days=1)
     last_sunday_str = last_sunday.isoformat()
-    if last_sunday_str in summaries.get("weekly_summary", {}):
-        weekly_summary = summaries["weekly_summary"][last_sunday_str]
-    else:
-        weekly_summary = "No weekly summary."
+    weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
 
-# Build Adaptive Card
+# Build Adaptive Card (NO wrapper, just the card)
 card = {
-    "type": "message",
-    "attachments": [
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.4",
+    "body": [
         {
-            "contentType": "application/vnd.microsoft.card.adaptive",
-            "content": {
-                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
-                "type": "AdaptiveCard",
-                "version": "1.4",
-                "body": [
-                    {
-                        "type": "TextBlock",
-                        "text": f"**Daily Summary ({yesterday_str})**",
-                        "weight": "Bolder",
-                        "size": "Medium"
-                    },
-                    {
-                        "type": "TextBlock",
-                        "text": daily_summary,
-                        "wrap": True
-                    }
-                ]
-            }
+            "type": "TextBlock",
+            "text": f"**Daily Summary ({yesterday_str})**",
+            "weight": "Bolder",
+            "size": "Medium"
+        },
+        {
+            "type": "TextBlock",
+            "text": daily_summary,
+            "wrap": True
         }
     ]
 }
 
 # Add weekly summary if Monday
 if weekly_summary is not None:
-    card["attachments"][0]["content"]["body"].append(
+    card["body"].append(
         {
             "type": "TextBlock",
             "text": f"**Weekly Summary ({last_sunday_str})**",
@@ -67,7 +53,7 @@ if weekly_summary is not None:
             "spacing": "Medium"
         }
     )
-    card["attachments"][0]["content"]["body"].append(
+    card["body"].append(
         {
             "type": "TextBlock",
             "text": weekly_summary,
@@ -75,5 +61,5 @@ if weekly_summary is not None:
         }
     )
 
-response = requests.post(webhook_url, json=card)
+response = requests.post(flow_url, json=card)
 print("Status:", response.status_code, response.text)
