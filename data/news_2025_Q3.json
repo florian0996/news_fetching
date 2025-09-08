@@ -565268,5 +565268,45 @@
       "Streaming",
       "Years"
     ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/middle-east/article-866569",
+    "title": "Saudi Crown Prince MBS warns that West Bank annexation could end any chance of normalization",
+    "fetched_on": "2025-09-08T01:40:20.700332+00:00",
+    "content": "Illustrative image of Saudi crown prince Mohammed bin Salman (photo credit: Canva, GoodFon, REUTERS/Nathan Howard/Pool)\r\nThis comes after a similar warning from the UAE, which stated that any annexat… [+2138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canva",
+      "REUTERS",
+      "Pool",
+      "Crown",
+      "GoodFon",
+      "chars",
+      "Salman",
+      "Nathan",
+      "Howard",
+      "UAE"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-phillies-karen-woman-who-took-baseball-from-fan-5453364/",
+    "title": "Who Is the ‘Phillies Karen’? About the Woman Who Took the Baseball From a Young Fan",
+    "fetched_on": "2025-09-08T01:40:20.700332+00:00",
+    "content": "Image Credit: Getty Images\r\nAs we all remember from A League of Their Own, Theres no crying in baseball but apparently, there are still arguments. A September 5, 2025, game between the Philadelphia P… [+2627 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phillies",
+      "Karen’",
+      "Baseball",
+      "Credit",
+      "Getty",
+      "Woman",
+      "Young",
+      "Fan",
+      "League",
+      "Image"
+    ]
   }
 ]
