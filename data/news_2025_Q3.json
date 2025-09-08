@@ -565624,5 +565624,44 @@
       "c'mtee",
       "expand"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-09-08/the-pulse-9-08-2025-video",
+    "title": "EU Eyes Russia Sanctions Targeting Banks, Oil Trade | The Pulse 9/08/2025",
+    "fetched_on": "2025-09-08T11:17:08.513193+00:00",
+    "content": "The European Union is exploring new sanctions on about half a dozen Russian banks and energy companies as part of its latest round of measures to pressure President Vladimir Putin to end the war against Ukraine. The package, which would be the bloc’s 19th since Moscow’s full-scale invasion in 2022, could also see the EU target Russia’s payment and credit card systems, crypto exchanges as well as further restrictions on the country’s oil trade, according to people familiar with the matter. In France, Prime Minister Francois Bayrou’s government will likely fall Monday, a victim of his push to chip away at France’s massive debt load. Bayrou will face a confidence motion in France’s lower house.\n\nToday's guests: Wei Li, BlackRock Global Chief Investment Strategist, Jeff Currie, Carlyle Chief Strategy Officer of Energy Pathways, Georgina Wright, German Marshall Fund Visiting Fellow, Morris Reid, Actum Partner  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sanctions",
+      "Banks",
+      "Trade",
+      "Pulse",
+      "Ukraine",
+      "Russia",
+      "Eyes",
+      "Targeting",
+      "European",
+      "Union"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-09-08/stock-movers-robinhood-loandepot-oracle-podcast",
+    "title": "Stock Movers: Robinhood, Loandepot, Oracle (Podcast)",
+    "fetched_on": "2025-09-08T11:17:08.791825+00:00",
+    "content": "Source: Bloomberg, 3:45",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Robinhood",
+      "Loandepot",
+      "Oracle",
+      "Podcast",
+      "Source",
+      "Bloomberg",
+      "3:45",
+      "Movers",
+      "Stock"
+    ]
   }
 ]
