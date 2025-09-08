@@ -565444,5 +565444,85 @@
       "Position",
       "Channel"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-08/credit-agricole-to-pay-about-88-million-to-settle-cum-cum-probe",
+    "title": "Credit Agricole to Pay About €88 Million to Settle Tax Scheme Probe",
+    "fetched_on": "2025-09-08T09:23:50.027758+00:00",
+    "content": "Credit Agricole SA’s investment banking arm agreed to pay about €88 million ($103 million) to settle a French criminal probe into allegations the lender carried out trades designed to escape taxes on dividend payments.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Agricole",
+      "Pay",
+      "Credit",
+      "Settle",
+      "Probe",
+      "Tax",
+      "Scheme",
+      "French",
+      "payments"
+    ]
+  },
+  {
+    "source": "Newtabwidgets.com [NewsAPI]",
+    "url": "https://newtabwidgets.com",
+    "title": "Show HN: I built a modern iGoogle-like new tab extension",
+    "fetched_on": "2025-09-08T09:23:49.102355+00:00",
+    "content": "No sign-up or credit card required.\r\nGet started for free with up to 15 widgets and2 pages.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "widgets",
+      "pages",
+      "Show",
+      "required",
+      "built",
+      "modern",
+      "iGoogle-like",
+      "tab",
+      "extension",
+      "sign-up"
+    ]
+  },
+  {
+    "source": "XDA Developers [NewsAPI]",
+    "url": "https://www.xda-developers.com/notebooklm-audio-overview-formats/",
+    "title": "NotebookLM’s latest update makes Audio Overviews way better — here’s how I'm using them now",
+    "fetched_on": "2025-09-08T09:23:49.102355+00:00",
+    "content": "Google's working on a lot of different AI tools in Google Labs, its experimental playground, but none have taken off as much as NotebookLM. And theres one feature that deserves most of the credit for… [+8623 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "Labs",
+      "Audio",
+      "Overviews",
+      "playground",
+      "NotebookLM",
+      "chars",
+      "latest",
+      "update",
+      "makes"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20250907VL200/france-packaging-foxconn-taiwan-tsmc.html",
+    "title": "France pushes into Taiwan's chip ecosystem with advanced packaging focus and new Foxconn tie-up",
+    "fetched_on": "2025-09-08T09:23:49.102355+00:00",
+    "content": "Mr Franck PARIS, Director of the French Office in Taipei. Credit: DigitimesFrance is preparing its biggest foray yet into Asia's semiconductor heartland. At SEMICON Taipei next week, Paris will field… [+5348 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Director",
+      "Taiwan",
+      "Foxconn",
+      "Franck",
+      "French",
+      "Office",
+      "France",
+      "Taipei",
+      "PARIS",
+      "Credit"
+    ]
   }
 ]
