@@ -565524,5 +565524,105 @@
       "PARIS",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-08/macquarie-capital-turns-to-alvarez-marsal-for-potential-srt",
+    "title": "Macquarie Capital Turns to Alvarez &amp; Marsal for Potential SRT",
+    "fetched_on": "2025-09-08T10:22:07.129405+00:00",
+    "content": "Macquarie Capital is considering a debut significant risk transfer, following rivals in looking at a booming market for distributing credit risk with investors.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Alvarez",
+      "Marsal",
+      "Macquarie",
+      "Turns",
+      "Potential",
+      "SRT",
+      "transfer",
+      "investors",
+      "risk"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-08/kenya-s-ruto-says-debt-restructuring-core-for-financial-reforms",
+    "title": "Kenya’s Ruto Says Debt Restructuring Core for Financial Reforms",
+    "fetched_on": "2025-09-08T10:22:07.525461+00:00",
+    "content": "Kenyan President William Ruto called for a fairer approach to restructuring the debts of struggling African nations and improved access to concessional lending amid shrinking development aid.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ruto",
+      "Restructuring",
+      "Core",
+      "Financial",
+      "Reforms",
+      "Kenyan",
+      "President",
+      "William",
+      "African",
+      "Kenya"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7ce737e0aa9973f2",
+    "title": "US public pension funds pare allocations to private credit",
+    "fetched_on": "2025-09-08T10:22:06.537389+00:00",
+    "content": "Pullback underscores concerns about looser underwriting standards and rising credit risks\r\nThis story appeared on ft.com, 2025-09-07 10:00:05.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pullback",
+      "ft.com",
+      "credit",
+      "public",
+      "pension",
+      "funds",
+      "pare",
+      "allocations",
+      "private",
+      "underscores"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-september-7-2025-100058101.html",
+    "title": "HELOC rates today, September 7, 2025: How to find a below-market HELOC rate",
+    "fetched_on": "2025-09-08T10:22:06.537389+00:00",
+    "content": "The HELOC interest rate today sits under 9%. However, you want to remember that your home equity line of credit interest rate will likely begin much lower than that. Introductory rates are usually we… [+3898 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "September",
+      "today",
+      "rate",
+      "interest",
+      "rates",
+      "find",
+      "below-market",
+      "sits",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/article-866594",
+    "title": "Finance, Defense ministries to establish c'mtee to expand resources for wounded IDF soldiers",
+    "fetched_on": "2025-09-08T10:22:06.537389+00:00",
+    "content": "\"We manage to save severely wounded people who previously would not have survived.\" Airborne evacuation of wounded from Gaza (photo credit: IDF SPOKESMANS UNIT)\r\nA new public committee, led by senior… [+3369 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Defense",
+      "Finance",
+      "IDF",
+      "soldiers",
+      "survived",
+      "wounded",
+      "ministries",
+      "establish",
+      "c'mtee",
+      "expand"
+    ]
   }
 ]
