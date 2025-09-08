@@ -566472,5 +566472,105 @@
       "City",
       "Screening"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-08/us-consumer-borrowing-rises-most-in-three-months-on-credit-cards",
+    "title": "US Consumer Borrowing Rises Most in Three Months on Credit Cards",
+    "fetched_on": "2025-09-08T20:22:38.975439+00:00",
+    "content": "US consumer borrowing rose in July by most in three months, led by the strongest gain in credit-card balances this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Consumer",
+      "Borrowing",
+      "Months",
+      "Rises",
+      "Credit",
+      "Cards",
+      "July",
+      "led",
+      "year",
+      "rose"
+    ]
+  },
+  {
+    "source": "Fark.com [NewsAPI]",
+    "url": "https://www.fark.com/comments/13803120/Parents-of-10-year-old-boy-sue-ByteDance-Apple-say-their-kid-blew-over-$31000-on-buying-in-app-content-tipping-TikTok-content-creators-without-companies-thoroughly-verifying-his-age",
+    "title": "Parents of 10-year-old boy sue ByteDance and Apple, say their kid blew over $31,000 on buying in-app content and tipping TikTok content creators without the companies thoroughly verifying his age [Unlikely]",
+    "fetched_on": "2025-09-08T20:22:37.883912+00:00",
+    "content": "Ungdall:Why the fark is your credit card accessible thru your kids phone\r\nAnd that's why it will likely get laughed out of court (although I have no clue about Japanese law except that they allow try… [+309 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ungdall",
+      "chars",
+      "Apple",
+      "Japanese",
+      "content",
+      "Parents",
+      "boy",
+      "age",
+      "court",
+      "sue"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/youre-going-retire-broke-ready-200017028.html",
+    "title": "'You're Going To Retire Broke — Get Ready To Enjoy Dog Food,' Says Dave Ramsey To Caller With $30,000 In Credit Card Debt",
+    "fetched_on": "2025-09-08T20:22:37.883912+00:00",
+    "content": "A North Carolina caller told \"The Ramsey Show\" her family was struggling with recurring debt after years of trying to stay financially stable.\r\nThe woman, identified only as Tam, said she planned to … [+3247 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ramsey",
+      "Caller",
+      "Debt",
+      "Broke",
+      "Food",
+      "Show",
+      "Retire",
+      "Ready",
+      "Enjoy",
+      "Dog"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/09/07/how-to-watch-vmas-live-channel/",
+    "title": "What Channel Are the VMAs 2025 On? How to Watch Live",
+    "fetched_on": "2025-09-08T20:22:37.883912+00:00",
+    "content": "Image Credit: CBS/MTV\r\nThe MTV Video Music Awards are one of the biggest nights in music, and the 2025 show is right around the corner. This years performers includeLady Gaga, Sabrina Carpenter, Mari… [+13020 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Channel",
+      "MTV",
+      "VMAs",
+      "Music",
+      "CBS",
+      "Credit",
+      "Mari",
+      "Watch",
+      "Live",
+      "Image"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/09/07/mean-karens-sporting-events-2025/",
+    "title": "Mean Karens at Sporting Events in 2025: Phillies Fan, US Open Spat & More",
+    "fetched_on": "2025-09-08T20:22:37.883912+00:00",
+    "content": "Image Credit: Getty Images\r\nSports arent just about the action on the field sometimes, the drama in the stands steals the spotlight. In 2025, a handful of viral fan incidents have sparked heated deba… [+2854 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phillies",
+      "Spat",
+      "Credit",
+      "Getty",
+      "Karens",
+      "Sporting",
+      "Events",
+      "Open",
+      "Sports",
+      "Image"
+    ]
   }
 ]
