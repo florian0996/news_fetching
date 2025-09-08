@@ -566692,5 +566692,65 @@
       "Image",
       "Images"
     ]
+  },
+  {
+    "source": "Bucky's 5th Quarter [NewsAPI]",
+    "url": "https://www.buckys5thquarter.com/wisconsin-badgers-football/86314/wisconsin-badgers-football-news-3-things-stood-out-42-10-win-middle-tennessee",
+    "title": "3 things that stood out in Wisconsin’s 42-10 win over Middle Tennessee",
+    "fetched_on": "2025-09-08T22:18:40.151574+00:00",
+    "content": "The Wisconsin Badgers are now 2-0 on the season after a strong second half downed the Middle Tennessee Blue Raiders 42-10 at Camp Randall Stadium.\r\nThe Blue Raiders deserve credit for their inspired … [+3017 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Middle",
+      "Tennessee",
+      "Wisconsin",
+      "Stadium",
+      "Blue",
+      "Raiders",
+      "Badgers",
+      "Camp",
+      "Randall",
+      "42-10"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/edgarsten/2025/09/07/lucid-motors-bolsters-post-ev-tax-credit-strategy-launches-suv-abroad/",
+    "title": "Lucid Motors Bolsters Post-EV Tax Credit Strategy, Launches SUV Abroad",
+    "fetched_on": "2025-09-08T22:18:40.151574+00:00",
+    "content": "Lucid Gravity electric SUV. The company is launching sales of the vehicle in Europe while stepping up production in the U.S.\r\nLucid Motors\r\nAs luxury electric vehicle company Lucid Motors prepares to… [+6638 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SUV",
+      "Lucid",
+      "Motors",
+      "Strategy",
+      "Launches",
+      "Bolsters",
+      "Tax",
+      "Credit",
+      "Abroad",
+      "Gravity"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e82f40b646be6121",
+    "title": "Ethereum Layer 2 Kinto shuts down in wake of $1.6 million July exploit",
+    "fetched_on": "2025-09-08T22:18:40.151574+00:00",
+    "content": "Kinto's founder pledged $55,000 of personal funds to reimburse victims of the hack in Morpho lending pools, he said in the shutdown announcement.\r\nThis story appeared on theblock.co, 2025-09-07 21:37… [+3 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kinto",
+      "Layer",
+      "July",
+      "Morpho",
+      "Ethereum",
+      "million",
+      "pledged",
+      "pools",
+      "announcement",
+      "shuts"
+    ]
   }
 ]
