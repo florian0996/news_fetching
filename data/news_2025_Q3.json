@@ -565404,5 +565404,45 @@
       "rush",
       "vacuum"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/07/state-of-wyoming-acquires-917-shares-of-lendingtree-inc-tree/",
+    "title": "State of Wyoming Acquires 917 Shares of LendingTree, Inc. $TREE",
+    "fetched_on": "2025-09-08T08:29:38.102192+00:00",
+    "content": "State of Wyoming boosted its holdings in LendingTree, Inc. (NASDAQ:TREE – Free Report) by 51.1% in the 1st quarter, according to its most recent filing with the Securities and Exchange Commission (SE… [+5579 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Acquires",
+      "Shares",
+      "Wyoming",
+      "State",
+      "TREE",
+      "LendingTree",
+      "NASDAQ",
+      "Free",
+      "Report",
+      "Commission"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/07/metlife-investment-management-llc-has-652000-stock-position-in-lendingclub-corporation-lc/",
+    "title": "MetLife Investment Management LLC Has $652,000 Stock Position in LendingClub Corporation $LC",
+    "fetched_on": "2025-09-08T08:29:38.102192+00:00",
+    "content": "MetLife Investment Management LLC reduced its position in shares of LendingClub Corporation (NYSE:LC – Free Report) by 4.7% during the first quarter, Holdings Channel reports. The institutional inves… [+5970 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Corporation",
+      "Investment",
+      "Management",
+      "NYSE",
+      "LLC",
+      "Stock",
+      "Free",
+      "Holdings",
+      "Position",
+      "Channel"
+    ]
   }
 ]
