@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta
 import os
 
-flow_url = os.getenv("TEAMS_FLOW_URL")  # your flow trigger URL
+flow_url = os.getenv("TEAMS_WEBHOOK")  # your flow trigger URL
 
 with open("data/summary_GPT_3.5.json", "r") as f:
     summaries = json.load(f)
