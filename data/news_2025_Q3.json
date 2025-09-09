@@ -567094,5 +567094,85 @@
       "completing",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-09/chinese-property-stocks-jump-on-policy-lending-boost",
+    "title": "Chinese Property Stocks Jump on Policy, Lending Boost",
+    "fetched_on": "2025-09-09T04:24:44.654204+00:00",
+    "content": "Chinese property shares surged in Hong Kong, led by Country Garden Holdings Co., as analysts pointed to a mix of policy signals and new lending rules as key drivers of the rally.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kong",
+      "Chinese",
+      "Property",
+      "Policy",
+      "Lending",
+      "Stocks",
+      "Jump",
+      "Boost",
+      "Hong",
+      "Country"
+    ]
+  },
+  {
+    "source": "Buffalo Rumblings [NewsAPI]",
+    "url": "https://www.buffalorumblings.com/buffalo-bills-opinion/115320/its-time-to-put-respect-on-ed-olivers-name",
+    "title": "It’s time to put respect on Ed Oliver’s name",
+    "fetched_on": "2025-09-09T04:24:43.909425+00:00",
+    "content": "The Buffalo Bills defeated the Baltimore Ravens in stunning fashion on Sunday night, and the offense deserves a ton of credit alongside kick Matt Prater. The defense was sliced and diced, mauled and … [+1654 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Prater",
+      "Oliver",
+      "Buffalo",
+      "Bills",
+      "Baltimore",
+      "Ravens",
+      "Sunday",
+      "Matt",
+      "night",
+      "time"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/vmas-winners-2025-5453534/",
+    "title": "VMAs Winners: See Who Won Best Album, Best Group & More at the 2025 Video Music Awards",
+    "fetched_on": "2025-09-09T04:24:43.909425+00:00",
+    "content": "Image Credit: Getty Images\r\nThe 2025 MTV Video Music Awards started and ended with a bang! Some of the music industrys most recognizable names in pop, rock, hip-hop and more genres came together to p… [+2722 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Video",
+      "Awards",
+      "Winners",
+      "Album",
+      "Group",
+      "Credit",
+      "Getty",
+      "MTV",
+      "Music",
+      "Won"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/923203",
+    "title": "AKG N5 Hybrid TWS Noise Cancelling Earbuds $139 (Was $349) + Delivery @ JB Hi-Fi / $139 Delivered (White Model Only) @ Amazon AU",
+    "fetched_on": "2025-09-09T04:24:43.909425+00:00",
+    "content": "Similar to the N9 deal, this could be an online only deal. Tried other postcodes but all coming back as no stock for C&amp;C\r\nCredit to the comment for hinting about another AKG on sale :)\r\nAmazon is… [+61 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delivery",
+      "Delivered",
+      "Hybrid",
+      "Earbuds",
+      "White",
+      "Amazon",
+      "deal",
+      "TWS",
+      "Noise",
+      "Cancelling"
+    ]
   }
 ]
