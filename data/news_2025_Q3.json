@@ -567274,5 +567274,45 @@
       "balance",
       "pay"
     ]
+  },
+  {
+    "source": "CounterPunch [NewsAPI]",
+    "url": "https://www.counterpunch.org/2025/09/08/we-will-not-be-silent-hearing-stilled-voices-of-the-gaza-genocide/",
+    "title": "“We Will Not Be Silent:” Hearing Stilled Voices of the Gaza Genocide",
+    "fetched_on": "2025-09-09T06:31:11.554202+00:00",
+    "content": "Poster calling for release of Dr. Hussam Abu Safiya, based on David Solnits art work. Photo credit, Code Pink.\r\nIn his last minutes of freedom before Israeli Defense Forces arrested him, Dr. Hussam A… [+7154 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Silent",
+      "Hearing",
+      "Safiya",
+      "Stilled",
+      "Voices",
+      "Gaza",
+      "Genocide",
+      "Poster",
+      "Abu",
+      "David"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/378581/housing-kur-favors-micro-small-entrepreneurs-says-minister",
+    "title": "Housing KUR favors micro-small entrepreneurs, says minister",
+    "fetched_on": "2025-09-09T06:31:11.554202+00:00",
+    "content": "Jakarta (ANTARA) - Minister of Housing and Settlement Areas (PKP) Maruarar Sirait has affirmed that the Housing People's Business Credit (KUR) is a form of government support for micro and small entr… [+2334 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANTARA",
+      "PKP",
+      "Housing",
+      "KUR",
+      "Jakarta",
+      "Areas",
+      "Maruarar",
+      "Credit",
+      "chars",
+      "minister"
+    ]
   }
 ]
