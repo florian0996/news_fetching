@@ -567032,5 +567032,65 @@
       "perfect",
       "antidote"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-09/hong-kong-housing-woes-spur-1-3-billion-shimao-loan-rollover",
+    "title": "Hong Kong Housing Woes Spur $1.3 Billion Shimao Loan Rollover",
+    "fetched_on": "2025-09-09T03:02:01.113721+00:00",
+    "content": "A HK$10 billion ($1.3 billion) loan tied to a luxury Hong Kong apartment complex has turned into a months-long saga, underscoring the widespread impact of the city’s prolonged property slump.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Kong",
+      "Hong",
+      "Spur",
+      "Loan",
+      "Housing",
+      "Woes",
+      "Shimao",
+      "Rollover",
+      "saga"
+    ]
+  },
+  {
+    "source": "fox6now.com [NewsAPI]",
+    "url": "https://www.fox6now.com/news/wisconsin-energy-bills-cooler-temperatures-credits-way",
+    "title": "Wisconsin energy bills; cooler temperatures, credits on the way",
+    "fetched_on": "2025-09-09T03:02:00.413450+00:00",
+    "content": "MILWAUKEE - Cooler temperatures are bringing relief not only outdoors but also to energy bills, according to We Energies.\r\nWhat we know:\r\nThe utility company says some customers may still be seeing h… [+1535 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cooler",
+      "bills",
+      "MILWAUKEE",
+      "Energies",
+      "energy",
+      "temperatures",
+      "Wisconsin",
+      "credits",
+      "chars",
+      "bringing"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/923173",
+    "title": "$5 credit for account sign up @ Hello Harrys Burget Joint",
+    "fetched_on": "2025-09-09T03:02:00.413450+00:00",
+    "content": "Up to $10 credit to use at Hello Harry Burget Joint by1. Create an account via the Hello Harry's app- this credits you with 49 points worth $5\r\n<ol><li>Get another 50 points by:</li></ol>- completing… [+135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Burget",
+      "Joint",
+      "Harry",
+      "Harrys",
+      "account",
+      "points",
+      "sign",
+      "credit",
+      "completing",
+      "chars"
+    ]
   }
 ]
