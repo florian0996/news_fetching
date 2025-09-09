@@ -42,21 +42,21 @@
   {
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-08/us-electric-vehicle-uptake-to-hit-the-brakes-on-trump-policies",
-    "title": "US Electric Vehicle Uptake to Hit the Brakes on Trump Policies",
-    "fetched_on": "2025-09-09T11:17:32.674192+00:00",
+    "title": "US Electric Car Uptake Will Slow Further on Trump Policies",
+    "fetched_on": "2025-09-09T13:32:11.851204+00:00",
     "content": "Already sluggish adoption of electric vehicles in the US will slow even further after a $7,500 tax credit for EV buyers expires later this month.",
     "platforms_mentioned": [],
     "keywords": [
+      "Slow",
       "Electric",
+      "Car",
       "Uptake",
-      "Hit",
-      "Brakes",
       "Trump",
       "Policies",
       "tax",
       "month",
-      "Vehicle",
-      "vehicles"
+      "sluggish",
+      "adoption"
     ]
   },
   {
@@ -383,7 +383,7 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-09-09T12:43:57.966015+00:00",
+    "fetched_on": "2025-09-09T13:32:17.119541+00:00",
     "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-09-09T12:44:05.252673+00:00",
+    "fetched_on": "2025-09-09T13:32:28.707681+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/08/how-to-handle-your-student-loans-after-losing-your-job.html",
     "title": "Here's how  to handle your student loans after losing a job",
-    "fetched_on": "2025-09-09T12:44:08.699750+00:00",
+    "fetched_on": "2025-09-09T13:32:31.564731+00:00",
     "content": "Amid a slowing job market and an uptick in unemployment, more student loan borrowers are struggling to pay their bills. Fortunately, they have options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/05/yieldstreet-marine-loan-deals-customer-losses.html",
     "title": "Yieldstreet tells investors in $89 million worth of marine loans to expect losses",
-    "fetched_on": "2025-09-09T12:44:08.490754+00:00",
+    "fetched_on": "2025-09-09T13:32:31.422328+00:00",
     "content": "The news of this latest loss follows CNBC's report last month on Yieldstreet real estate investments that have resulted in $78 million in defaults.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/07/student-loan-deferments-forbearances.html",
     "title": "What to know about putting your student loan payments on pause",
-    "fetched_on": "2025-09-09T12:44:08.699764+00:00",
+    "fetched_on": "2025-09-09T13:32:31.564748+00:00",
     "content": "As more student loan borrowers press the pause button on their monthly bills, here's what to know about the benefits and risks of doing so.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/03/student-loan-borrowers-forbearances-deferments.html",
     "title": "Student loan borrowers pausing payments have doubled since 2024, expert calculates",
-    "fetched_on": "2025-09-09T12:44:08.699840+00:00",
+    "fetched_on": "2025-09-09T13:32:31.564847+00:00",
     "content": "More people are pausing their student loan payments, amid the fallout of the Biden-era SAVE plan and other troubling economic conditions.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/31/how-to-get-7500-ev-tax-credit-after-the-deadline.html",
     "title": "Here's how to get the $7,500 EV tax credit \u2014 even after the Sept. 30 deadline",
-    "fetched_on": "2025-09-09T12:44:08.699868+00:00",
+    "fetched_on": "2025-09-09T13:32:31.564877+00:00",
     "content": "The IRS clarified that consumers don't need to drive their EV off the car lot by Sept. 30 to qualify for a federal tax break.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/28/student-loan-repayment-plan-changes.html",
     "title": "Student loan repayment plans have shifted \u2014 and more changes are ahead. Here's what borrowers need to know",
-    "fetched_on": "2025-09-09T12:44:08.699916+00:00",
+    "fetched_on": "2025-09-09T13:32:31.564928+00:00",
     "content": "Federal student loan borrowers' options for repaying their debt have dramatically changed \u2014 with more shifts to come. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/27/student-loan-phone-help.html",
     "title": "How to get someone on the phone about your student loans",
-    "fetched_on": "2025-09-09T12:44:08.699929+00:00",
+    "fetched_on": "2025-09-09T13:32:31.564942+00:00",
     "content": "Experts shared tips on how student loan borrowers can get help with their debt, amid a myriad of recent changes and disruptions to the lending system.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1502,7 +1502,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/uk-cracks-down-on-ads-for-consumers-motor-finance-compensation",
     "title": "UK Cracks Down on Ads for Consumers\u2019 Motor Finance Compensation",
-    "fetched_on": "2025-09-09T12:43:11.130601+00:00",
+    "fetched_on": "2025-09-09T13:32:11.851288+00:00",
     "content": "The Financial Conduct Authority is clamping down on claims firms seeking compensation on behalf of consumers who believe they were missold car loans in recent years.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1722,7 +1722,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/pollen-capital-extends-100-million-to-mideast-fintech-crediblex",
     "title": "Pollen Street Capital Extends $100 Million to Mideast Fintech",
-    "fetched_on": "2025-09-09T12:43:10.402509+00:00",
+    "fetched_on": "2025-09-09T13:32:11.600706+00:00",
     "content": "Pollen Street Capital extended a $100 million lending facility to CredibleX, a United Arab Emirates-based lender to small-and-medium sized companies, as demand for private credit in the Middle East rises.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1742,7 +1742,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/king-street-alum-s-1-billion-launch-to-be-one-of-year-s-biggest",
     "title": "King Street Alum\u2019s $1 Billion Launch to Be One of Year\u2019s Biggest",
-    "fetched_on": "2025-09-09T12:43:09.350138+00:00",
+    "fetched_on": "2025-09-09T13:32:11.252322+00:00",
     "content": "Former King Street Capital Management partner Paul Goldschmid is poised to launch his credit-focused hedge fund with more than $1 billion, making it one of the year\u2019s biggest debuts.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1762,7 +1762,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/american-express-grows-merchant-network-five-fold-since-2017",
     "title": "American Express Grows Merchant Network Five-Fold Since 2017",
-    "fetched_on": "2025-09-09T12:43:11.130583+00:00",
+    "fetched_on": "2025-09-09T13:32:11.851264+00:00",
     "content": "American Express Co. grew its global merchant acceptance rate by more than 16% in the 12 months through June as it continues to invest in the domestic and international network of places that accept its credit cards.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1782,7 +1782,7 @@
     "source": "The Real Deal [NewsAPI]",
     "url": "https://therealdeal.com/miami/2025/09/08/developers-land-63-million-loan-on-west-palm-beach-condos/",
     "title": "Al Adelson, Sympatico score $63M loan for West Palm Beach condos",
-    "fetched_on": "2025-09-09T12:43:08.466198+00:00",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
     "content": "Al Adelson and the Morrison familys Sympatico Real Estate scored a $62.5 million pre-construction loan for their planned West Palm Beach condo tower, the Berkeley, The Real Deal has learned.\r\nThe dev\u2026 [+2040 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1802,7 +1802,7 @@
     "source": "Thefly.com [NewsAPI]",
     "url": "https://thefly.com/permalinks/entry.php/id4194404/STEP-Stepstone-Group-Kroll-launch-Private-Credit-Benchmarks",
     "title": "Stepstone Group, Kroll launch Private Credit Benchmarks",
-    "fetched_on": "2025-09-09T12:43:08.466198+00:00",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
     "content": "Earnings calls, analyst events, roadshows and more",
     "platforms_mentioned": [],
     "keywords": [
@@ -1822,7 +1822,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/940aad3b5f2de65c",
     "title": "Jefferies taps Morgan Stanley for emerging markets credit trading director",
-    "fetched_on": "2025-09-09T12:43:08.466198+00:00",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
     "content": "Rafael Madrid has left Morgan Stanley to join Jefferies as a managing director in emerging markets credit trading. London-based Madrid has worked extensively across trading, emerging markets, credit \u2026 [+145 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1842,7 +1842,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/09/08/3146068/0/en/Kroll-and-StepStone-Group-Launch-Private-Credit-Benchmarks.html",
     "title": "Kroll and StepStone Group Launch Private Credit Benchmarks",
-    "fetched_on": "2025-09-09T12:43:08.466198+00:00",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
     "content": "NEW YORK, Sept. 08, 2025 (GLOBE NEWSWIRE) -- Kroll\r\n, the leading independent provider of global financial and risk advisory solutions, and StepStone Group\r\n (Nasdaq: STEP), a global private markets \u2026 [+5498 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1862,7 +1862,7 @@
     "source": "The Points Guy [NewsAPI]",
     "url": "https://thepointsguy.com/credit-cards/reviews/delta-reserve-amex-review/",
     "title": "Delta SkyMiles Reserve Business card review: Complimentary Sky Club access",
-    "fetched_on": "2025-09-09T12:43:08.466198+00:00",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
     "content": "Delta SkyMiles Reserve Business American Express Card overview\r\nThe Delta SkyMiles\u00ae Reserve Business American Express Card is Delta Air Lines' top-tier cobranded business credit card. It offers benef\u2026 [+9068 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1882,7 +1882,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/09/08/3146043/0/en/Harrow-Announces-Offering-of-250-0-Million-Senior-Unsecured-Notes-Due-2030.html",
     "title": "Harrow Announces Offering of $250.0 Million Senior Unsecured Notes Due 2030",
-    "fetched_on": "2025-09-09T12:43:08.466198+00:00",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
     "content": "Announces Commitment for New $40 Million Revolving Credit Facility\r\nIssues Conditional Notice of Redemption of 11.875% Senior Notes due 2027\r\nNASHVILLE,\u00a0Tenn., Sept. 08, 2025 (GLOBE NEWSWIRE) -- Harr\u2026 [+7893 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1956,6 +1956,102 @@
       "ACA",
       "Golden",
       "Backs"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-09/blockchain-based-lender-figure-upsizes-ipo-to-693-million",
+    "title": "Blockchain-Based Lender Figure Upsizes IPO to $693 Million",
+    "fetched_on": "2025-09-09T13:32:11.466961+00:00",
+    "content": "Figure Technology Solutions Inc. increased the potential size of its initial public offering to as much as $693 million amid strong investor demand for the blockchain-based credit company\u2019s shares.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Figure",
+      "Million",
+      "Lender",
+      "Upsizes",
+      "IPO",
+      "Technology",
+      "Solutions",
+      "Blockchain-Based",
+      "increased",
+      "shares"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/artificial-intelligence-2/2025/openai-aims-to-take-ai-made-film-to-cannes/",
+    "title": "OpenAI Aims to Take AI-Made Film to Cannes",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
+    "content": "The artificial intelligence (AI) startup is lending its resources to help create a feature-length animated film made largely with AI that is expected to be released next year, The Wall Street Journal\u2026 [+2099 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Film",
+      "Journal",
+      "chars",
+      "Aims",
+      "Cannes",
+      "Wall",
+      "Street",
+      "OpenAI",
+      "intelligence",
+      "startup"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/howard-stern-net-worth-siriusxm-salary-5433157/",
+    "title": "Howard Stern\u2019s Net Worth 2025: His Annual SiriusXM Salary Explained",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
+    "content": "Image Credit: Kevin Mazur\r\nHoward Stern has hosted The Howard Stern Show on SiriusXM since 2006, becoming one of the highest-paid radio personalities in the world. The 71-year-olds massive contracts \u2026 [+2308 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stern",
+      "Howard",
+      "Worth",
+      "Credit",
+      "Kevin",
+      "Net",
+      "Annual",
+      "Salary",
+      "Explained",
+      "Image"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/logistics/spicejet-completes-full-payment-of-24-million-to-credit-suisse/article70025983.ece",
+    "title": "SpiceJet completes full payment of $ 24 million to Credit Suisse",
+    "fetched_on": "2025-09-09T13:32:10.658873+00:00",
+    "content": "Budget airline SpiceJet on Monday said that it has completed the full payment of $24 million to Credit Suisse.\r\nAccordingly, the airline has fulfilled in entirety the terms of the settlement agreemen\u2026 [+1134 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Suisse",
+      "million",
+      "payment",
+      "Budget",
+      "Monday",
+      "full",
+      "SpiceJet",
+      "airline",
+      "completes"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/wells-fargo-says-us-consumer-finances-are-strong-with-good-credit-4231515",
+    "title": "Wells Fargo says US consumer finances are strong, with good credit",
+    "fetched_on": "2025-09-09T13:32:16.745098+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fargo",
+      "strong",
+      "credit",
+      "consumer",
+      "finances",
+      "good"
     ]
   }
 ]
