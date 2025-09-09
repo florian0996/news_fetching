@@ -1,6 +1,17 @@
 {
-  "2025-09-08": {
+  "2025-09-09": {
     "status": "no company in the news"
+  },
+  "2025-09-08": {
+    "articles": [
+      {
+        "title": "MetLife Investment Management LLC Has $652,000 Stock Position in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/09/07/metlife-investment-management-llc-has-652000-stock-position-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-09-07": {
     "status": "no company in the news"
