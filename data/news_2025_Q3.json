@@ -570492,5 +570492,65 @@
       "Rule",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-10/deutsche-bank-hires-trio-for-asia-pacific-credit-trading-sales-mfde93qq",
+    "title": "Deutsche Bank Hires Trio for Asia Pacific Credit Trading, Sales",
+    "fetched_on": "2025-09-10T03:28:58.457689+00:00",
+    "content": "Deutsche Bank AG hired three for its Asia Pacific credit trading and sales desk, underscoring high demand for staff, as finance professionals shift among banks in the region.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pacific",
+      "Asia",
+      "Credit",
+      "Deutsche",
+      "Trading",
+      "Bank",
+      "Sales",
+      "Hires",
+      "Trio",
+      "desk"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/middle-east/article-866815",
+    "title": "Cairo is pulling factions toward ceasefire, undercutting Netanyahu-Hamas 'tug-of-war'",
+    "fetched_on": "2025-09-10T03:28:57.065672+00:00",
+    "content": "Izz al-Din al-Haddad, the commander of the northern Gaza brigade, and alleged replacement for Hamas military leader Mohammed Sinwar. (photo credit: SCREENSHOT/X/VIA SECTION 27A OF THE COPYRIGHT ACT)\r… [+8586 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Izz",
+      "Sinwar",
+      "Gaza",
+      "Hamas",
+      "Mohammed",
+      "Cairo",
+      "ceasefire",
+      "undercutting",
+      "Netanyahu-Hamas",
+      "al-Haddad"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-lady-gaga-brings-her-mayhem-ball-tour-to-new-yorks-madison-square-garden/article",
+    "title": "Review: Lady Gaga brings her ‘Mayhem Ball’ Tour to New York’s Madison Square Garden",
+    "fetched_on": "2025-09-10T03:28:57.065672+00:00",
+    "content": "Lady Gaga. Photo Credit: Frank Lebon.\r\nOn Sunday, September 7th, global music superstar Lady Gaga brought her “Mayhem Ball” Tour to Madison Square Garden in New York City, where she played for a sold… [+4928 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lady",
+      "Gaga",
+      "Ball’",
+      "Mayhem",
+      "Square",
+      "Review",
+      "Tour",
+      "York",
+      "Madison",
+      "Garden"
+    ]
   }
 ]
