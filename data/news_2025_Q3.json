@@ -570614,5 +570614,85 @@
       "Property",
       "Stocks"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-10/tata-motors-markets-3-875-billion-loan-for-iveco-acquisition",
+    "title": "Tata Motors Markets €3.875 Billion Loan for Iveco Acquisition",
+    "fetched_on": "2025-09-10T05:18:49.821815+00:00",
+    "content": "Tata Motors Ltd. is syndicating a €3.875 billion ($4.5 billion) bridge loan to fund its proposed acquisition of Iveco Group’s commercial vehicle business, according to people familiar with the matter, in what would be one of the largest such deals in Asia this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Motors",
+      "Iveco",
+      "Tata",
+      "Markets",
+      "Loan",
+      "Acquisition",
+      "Ltd.",
+      "Group",
+      "Asia"
+    ]
+  },
+  {
+    "source": "9News [NewsAPI]",
+    "url": "https://www.9news.com.au/national/banks-increase-card-fees-reduce-rewards-retail-payment-overhaul-rba/f3b7e2b5-be71-40a4-b870-bdbe962b4972",
+    "title": "Banks threaten to hike credit card fees, cut rewards in response to RBA payment overhaul",
+    "fetched_on": "2025-09-10T05:18:48.910693+00:00",
+    "content": "Auto news: One of Audi's most unique models the five-cylinder RS3 performance car has had time called on it.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBA",
+      "Auto",
+      "Audi",
+      "Banks",
+      "fees",
+      "cut",
+      "five-cylinder",
+      "performance",
+      "threaten",
+      "hike"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/spicejet-shares-jump-4-after-airline-completes-24-million-payment-to-credit-suisse/articleshow/123778223.cms",
+    "title": "SpiceJet shares jump 4% after airline completes $24 million payment to Credit Suisse",
+    "fetched_on": "2025-09-10T05:18:48.910693+00:00",
+    "content": "Shares of SpiceJet jumped nearly 4% to hit the days high of Rs 34.8 on the BSE on Tuesday, after the airline announced the successful completion of the full payment of $24 million (Rs 200 crore appro… [+2025 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "million",
+      "shares",
+      "Tuesday",
+      "chars",
+      "Credit",
+      "Suisse",
+      "BSE",
+      "SpiceJet",
+      "airline",
+      "payment"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/hdfc-bank-reduces-lending-rates-check-how-much-your-emis-will-decrease",
+    "title": "HDFC Bank Reduces Lending Rates: Check How Much Your EMIs Will Decrease",
+    "fetched_on": "2025-09-10T05:18:48.910693+00:00",
+    "content": "HDFC Bank has announced a reduction in its Marginal Cost of Funds-based Lending Rate or MCLR on select tenures by up to 5 basis points. This move is a welcome development for borrowers with loans lin… [+829 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "Bank",
+      "Lending",
+      "Check",
+      "Reduces",
+      "Decrease",
+      "Marginal",
+      "Cost",
+      "Funds-based",
+      "MCLR"
+    ]
   }
 ]
