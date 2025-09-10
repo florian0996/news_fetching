@@ -570814,5 +570814,125 @@
       "Bad",
       "Matching"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-10/samsung-life-set-to-buy-stake-in-private-credit-lender-hayfin",
+    "title": "Samsung Life Set to Buy Stake in Private Credit Lender Hayfin",
+    "fetched_on": "2025-09-10T07:19:41.056001+00:00",
+    "content": "Samsung Life Insurance has agreed to buy a stake in Hayfin Capital Management, joining Mubadala Investment Co. and AXA IM Prime as minority shareholders in the European private credit firm after a management buyout earlier this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Life",
+      "Hayfin",
+      "Samsung",
+      "Buy",
+      "Stake",
+      "Private",
+      "Credit",
+      "Management",
+      "Set",
+      "Lender"
+    ]
+  },
+  {
+    "source": "Thekenyatimes.com [NewsAPI]",
+    "url": "https://thekenyatimes.com/business/list-of-banks-with-cheapest-and-most-expensive-loans-cbk/",
+    "title": "CBK Releases List Of Banks With Lowest And Highest Loan Rates",
+    "fetched_on": "2025-09-10T07:19:38.572664+00:00",
+    "content": "The Central Bank of Kenya (CBK) has released the average commercial banks lending rates as of July 2025, highlighting trends in credit costs across different categories. \r\nAccording to a CBK notice p… [+5743 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kenya",
+      "July",
+      "Banks",
+      "Rates",
+      "CBK",
+      "Releases",
+      "List",
+      "Lowest",
+      "Highest",
+      "Loan"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/390129/space-travel-can-cause-stem-cells-to-age-10-times-faster-nasa-finds",
+    "title": "Space travel can cause stem cells to age 10 times faster, NASA finds",
+    "fetched_on": "2025-09-10T07:19:38.572664+00:00",
+    "content": "Space &amp; Astronomy\r\nBy T.K. RandallSeptember 9, 2025 ·  0 commentsDo humans have any business being in space ? Image Credit: NASAAccording to new NASA research, being in space can be hazardous to … [+1498 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Space",
+      "NASA",
+      "Astronomy",
+      "Image",
+      "Credit",
+      "RandallSeptember",
+      "chars",
+      "age",
+      "times",
+      "faster"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/life-insurance-companies-dismiss-gst-exemption-concerns-see-limited-impact-on-input-tax-credit-report/articleshow/123780363.cms",
+    "title": "Life insurance companies dismiss GST exemption concerns, see limited impact on input tax credit: Report",
+    "fetched_on": "2025-09-10T07:19:38.572664+00:00",
+    "content": "Life insurance companies have dismissed concerns over the impact of Goods and Services Tax (GST) exemption on input tax credit, saying they have strategies in place to manage the situation. According… [+2117 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "tax",
+      "credit",
+      "GST",
+      "Life",
+      "Report",
+      "insurance",
+      "input",
+      "Goods",
+      "Services",
+      "companies"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/idfc-firstmoney-smart-personal-loan-100-digital-no-foreclosure-fee-should-you-take-it-emis-11757397867426.html",
+    "title": "IDFC FIRSTmoney Smart Personal Loan – 100% digital, no foreclosure fee: Should you take it?",
+    "fetched_on": "2025-09-10T07:19:38.572664+00:00",
+    "content": "When choosing a personal loan, what are the factors that an individual considers? Some of these include digital application and processing, quick approval and disbursal, flexible repayment options, n… [+6544 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "IDFC",
+      "Smart",
+      "Personal",
+      "fee",
+      "FIRSTmoney",
+      "foreclosure",
+      "digital",
+      "chars",
+      "processing"
+    ]
+  },
+  {
+    "source": "7NEWS.com.au [NewsAPI]",
+    "url": "https://7news.com.au/news/banks-back-scrapping-card-surcharge-but-warn-other-rba-proposals-could-reduce-benefits-c-19960592",
+    "title": "Banks back scrapping card surcharge but warn other RBA proposals could reduce benefits",
+    "fetched_on": "2025-09-10T07:19:38.572664+00:00",
+    "content": "Australian banks strongly support banning debit and credit card surcharges but warn customers could be slugged in other ways.\r\nThe RBA in July proposed banning the surcharges that some merchants char… [+2208 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Australian",
+      "card",
+      "warn",
+      "RBA",
+      "Banks",
+      "surcharges",
+      "banning",
+      "back",
+      "scrapping",
+      "proposals"
+    ]
   }
 ]
