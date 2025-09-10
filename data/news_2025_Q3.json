@@ -571092,5 +571092,85 @@
       "end",
       "tax"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/new-legalshield-research-warns-of-buy-now-pay-later-credit-crunch-3-in-4-americans-use-it-half-miss-payments",
+    "title": "New LegalShield Research Warns of ‘Buy Now Pay Later’ Credit Crunch: 3 in 4 Americans Use It, Half Miss Payments",
+    "fetched_on": "2025-09-10T09:20:56.990158+00:00",
+    "content": "BNPL shifts from luxury to necessity: 47% use for groceries, 35% for medical billsCredit score surprise: 38% dont know FICO changes coming this fallLegal exposure rises: missed BNPL payments put mill… [+7557 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Buy",
+      "Crunch",
+      "Americans",
+      "Half",
+      "BNPL",
+      "Payments",
+      "Research",
+      "Warns",
+      "Pay"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/106978/nova-credit-appoints-eugene-ludwig-to-board",
+    "title": "Nova Credit appoints Eugene Ludwig to board",
+    "fetched_on": "2025-09-10T09:20:56.990158+00:00",
+    "content": "Nova Credit, the leading credit infrastructure and analytics company, today announced that Eugene Ludwig, former U.S. Comptroller of the Currency and Managing Partner at Canapi Ventures, has joined i… [+3338 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Eugene",
+      "Ludwig",
+      "Nova",
+      "Comptroller",
+      "Ventures",
+      "chars",
+      "Currency",
+      "Managing",
+      "Partner"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/09/reviewing-ally-financial-nyseally-and-manhattan-bridge-capital-nasdaqloan/",
+    "title": "Reviewing Ally Financial (NYSE:ALLY) and Manhattan Bridge Capital (NASDAQ:LOAN)",
+    "fetched_on": "2025-09-10T09:20:56.990158+00:00",
+    "content": "Ally Financial (NYSE:ALLY – Get Free Report) and Manhattan Bridge Capital (NASDAQ:LOAN – Get Free Report) are both finance companies, but which is the better investment? We will compare the two compa… [+6853 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "NASDAQ",
+      "LOAN",
+      "Financial",
+      "Capital",
+      "Report",
+      "Ally",
+      "Manhattan",
+      "Bridge",
+      "Free"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/how-improving-your-credit-score-helps-you-qualify-for-bigger-personal-loans-11757404103983.html",
+    "title": "How improving your credit score helps you qualify for bigger personal loans",
+    "fetched_on": "2025-09-10T09:20:56.990158+00:00",
+    "content": "Consistently improving your credit score has now become indispensable. It gains even more importance as a high credit score increases the chances of securing personal loans, credit cards, and other c… [+3597 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "Consistently",
+      "improving",
+      "score",
+      "personal",
+      "loans",
+      "indispensable",
+      "qualify",
+      "bigger",
+      "chars"
+    ]
   }
 ]
