@@ -570392,5 +570392,105 @@
       "FCU",
       "Player"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-09/fifth-third-reports-alleged-fraud-tied-to-asset-backed-borrower",
+    "title": "JPMorgan, Fifth Third Among Banks Facing Losses Tied to Tricolor",
+    "fetched_on": "2025-09-10T02:56:03.710149+00:00",
+    "content": "JPMorgan Chase &amp; Co., Fifth Third Bancorp and Barclays Plc are among banks bracing for potentially hundreds of millions of dollars in combined losses from loans tied to subprime auto lender Tricolor Holdings, according to people with knowledge of the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tricolor",
+      "Banks",
+      "Tied",
+      "Chase",
+      "Holdings",
+      "Losses",
+      "Facing",
+      "Bancorp",
+      "Barclays",
+      "Plc"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/09/08/todays-nyt-mini-crossword-clues-and-answers-for-monday-september-8th/",
+    "title": "Today’s NYT Mini Crossword Clues And Answers For Monday, September 8th",
+    "fetched_on": "2025-09-10T02:56:02.268748+00:00",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nTuesday is perhaps the most underappreciated day of the week. Its not the beginn… [+2623 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mini",
+      "Crossword",
+      "September",
+      "Monday",
+      "NYT",
+      "Clues",
+      "Answers",
+      "Today",
+      "puzzle",
+      "Tuesday"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/09/oh-please-media-outlet-describes-lame-late-night/",
+    "title": "OH PLEASE: Media Outlet Describes Lame Late Night Host Jimmy Kimmel as ‘At the Forefront of Defending Democracy’",
+    "fetched_on": "2025-09-10T02:56:02.268748+00:00",
+    "content": "ABC comedian Jimmy Kimmel makes sick election joke to suppress Trump supporters on his late-night show (Credit: Jimmy Kimmel Live!\r\nRatings challenged late night host Jimmy Kimmel received a creative… [+1888 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jimmy",
+      "Kimmel",
+      "Credit",
+      "Media",
+      "Live",
+      "Night",
+      "Host",
+      "Outlet",
+      "Describes",
+      "Lame"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d08b087c1e502df5",
+    "title": "Revolving Debt Spikes and Signals a Buildup of Credit Card Balances",
+    "fetched_on": "2025-09-10T02:56:02.268748+00:00",
+    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances.\r\nNew data released Monday (Sept. 8… [+132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Debt",
+      "Credit",
+      "Balances",
+      "paydowns",
+      "Spikes",
+      "Signals",
+      "Buildup",
+      "Consumers",
+      "August",
+      "Revolving"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/899b2856504fa603",
+    "title": "Kevin O'Leary Once Called Going Into Business With Relatives A Terrible Idea: 'You Have To Be Able To Fire Your Mother'",
+    "fetched_on": "2025-09-10T02:56:02.268748+00:00",
+    "content": "Investor and \"Shark Tank\" star Kevin O'Leary once warned against mixing family with money, offering blunt advice on lending, borrowing and even working with in-laws.O'Leary's Rule On Lending To In-La… [+142 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kevin",
+      "lending",
+      "O'Leary",
+      "Idea",
+      "Mother",
+      "Investor",
+      "Shark",
+      "Tank",
+      "Rule",
+      "chars"
+    ]
   }
 ]
