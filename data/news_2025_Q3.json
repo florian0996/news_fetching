@@ -574394,5 +574394,62 @@
       "credit",
       "offerings"
     ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/09/10/better-protection-with-the-consumer-credit-act",
+    "title": "Better protection with the Consumer Credit Act",
+    "fetched_on": "2025-09-10T23:17:45.720580+00:00",
+    "content": "PETALING JAYA: Malaysias credit and financing landscape is poised for major transformation under the Consumer Credit Act (CCA) 2025, amid a RM1.38 trillion national household debt.\r\nStakeholders poin… [+4182 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Consumer",
+      "Credit",
+      "Act",
+      "CCA",
+      "JAYA",
+      "Malaysias",
+      "PETALING",
+      "amid",
+      "trillion",
+      "debt"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/1-3b-loan-bombshell-uob-222722572.html",
+    "title": "$1.3B Loan Bombshell: UOB Trapped in Hong Kong's Luxury Property Meltdown",
+    "fetched_on": "2025-09-10T23:17:45.720580+00:00",
+    "content": "This article first appeared on GuruFocus.\r\nUOB's $1.3 billion exposure to Shimao Group's (SHMAY) luxury Beacon Peak development in Hong Kong is starting to look more like a liability than a lending s… [+1608 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Bombshell",
+      "UOB",
+      "Hong",
+      "Kong",
+      "Trapped",
+      "Property",
+      "Meltdown",
+      "SHMAY",
+      "GuruFocus"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/blackstone-private-credit-line-dropbox-151110884.html",
+    "title": "Blackstone’s Private Credit Line to Dropbox Raised to $2.7 Billion",
+    "fetched_on": "2025-09-10T23:18:07.823002+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Private",
+      "Credit",
+      "Line",
+      "Dropbox",
+      "Raised",
+      "Blackstone"
+    ]
   }
 ]
