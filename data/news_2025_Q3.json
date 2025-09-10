@@ -570554,5 +570554,65 @@
       "Madison",
       "Garden"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-10/kenyan-bank-lending-growth-at-year-s-highest-on-rate-cuts",
+    "title": "Kenyan Bank-Lending Growth at Year’s Highest on Rate Cuts",
+    "fetched_on": "2025-09-10T04:23:03.204891+00:00",
+    "content": "Kenya’s bank lending rose at the fastest pace in a year in July, spurred by the central bank cutting interest rates seven times in the space of 13 months.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "months",
+      "Year",
+      "Growth",
+      "Highest",
+      "Cuts",
+      "Kenya",
+      "bank",
+      "Kenyan",
+      "spurred"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-an-evening-with-jonathan-groff-erika-henningsen-and-andrew-resnick-of-just-in-time-in-new-york-city/article",
+    "title": "Review: An evening with Jonathan Groff, Erika Henningsen, and Andrew Resnick of ‘Just in Time’ in New York City",
+    "fetched_on": "2025-09-10T04:23:02.499958+00:00",
+    "content": "Jonathan Groff in 'Just in Time.' Photo Credit: Matthew Murphy and Evan Zimmerman.\r\nOn September 8th, the Grammy Museum presented a “New York Evening with Just in Time” at The Greene Space in Manhatt… [+3967 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jonathan",
+      "Groff",
+      "Erika",
+      "Henningsen",
+      "Time",
+      "Andrew",
+      "Resnick",
+      "Time’",
+      "City",
+      "York"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5fdf15d8cce4d7a4",
+    "title": "Chinese Property Stocks Jump on Policy, Lending Boost",
+    "fetched_on": "2025-09-10T04:23:02.499958+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Chinas exports to US drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will OpenAI's California e… [+728 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Policy",
+      "Lending",
+      "Boost",
+      "return",
+      "false",
+      "Property",
+      "Stocks"
+    ]
   }
 ]
