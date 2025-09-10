@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/altice-usa-switches-advisers-to-revive-debt-reshuffle-talks",
     "title": "Altice USA Switches Advisers to Revive Debt-Reshuffle Talks",
     "fetched_on": "2025-09-10T02:56:03.167573+00:00",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/albacore-hires-team-from-ubs-am-to-launch-infra-debt-strategy",
     "title": "AlbaCore Hires Team from UBS AM to Launch Infra Debt Strategy",
     "fetched_on": "2025-09-10T03:28:58.457898+00:00",
@@ -40,11 +40,11 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/eu-opens-talks-on-carbon-credits-to-win-deal-on-key-climate-goal",
     "title": "EU Opens Talks on Carbon Credits to Win Deal on Key Climate Goal",
     "fetched_on": "2025-09-10T02:56:04.402536+00:00",
-    "content": "European Union nations will discuss potential changes to the role of imported carbon credits in the next decade in a drive for a rapid deal on the bloc\u2019s landmark 2040 climate goal.",
+    "content": "European Union nations will discuss potential changes to the role of imported carbon credits in the next decade in a drive for a rapid deal on the bloc's landmark 2040 climate goal.",
     "platforms_mentioned": [],
     "keywords": [
       "Carbon",
@@ -62,9 +62,9 @@
   {
     "source": "Jpcert.or.jp [NewsAPI]",
     "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-013359_AD_1.html",
-    "title": "JVNDB-2025-013359:campcodes \u306e Sales and Inventory System with Credit Management using PHP Source Code \u306b\u304a\u3051\u308b\u30af\u30ed\u30b9\u30b5\u30a4\u30c8\u30b9\u30af\u30ea\u30d7\u30c6\u30a3\u30f3\u30b0\u306e\u8106\u5f31\u6027",
+    "title": "JVNDB-2025-013359:campcodes の Sales and Inventory System with Credit Management using PHP Source Code におけるクロスサイトスクリプティングの脆弱性",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "campcodes \u306e Sales and Inventory System with Credit Management using PHP Source Code \u306b\u306f\u3001\u30af\u30ed\u30b9\u30b5\u30a4\u30c8\u30b9\u30af\u30ea\u30d7\u30c6\u30a3\u30f3\u30b0\u306e\u8106\u5f31\u6027\u3001\u30b3\u30fc\u30c9\u30a4\u30f3\u30b8\u30a7\u30af\u30b7\u30e7\u30f3\u306e\u8106\u5f31\u6027\u304c\u5b58\u5728\u3057\u307e\u3059\u3002Vulnerability Analysis SummaryAnalysis Information Source Type : Adviso\u2026 [+8 chars]",
+    "content": "campcodes の Sales and Inventory System with Credit Management using PHP Source Code には、クロスサイトスクリプティングの脆弱性、コードインジェクションの脆弱性が存在します。Vulnerability Analysis SummaryAnalysis Information Source Type : Adviso... [+8 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Source",
@@ -84,7 +84,7 @@
     "url": "http://www.pymnts.com/credit-cards/2025/revolving-debt-spikes-and-signals-a-buildup-of-credit-card-balances/",
     "title": "Revolving Debt Spikes and Signals a Buildup of Credit Card Balances",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances.New data released Monday (Sept. 8) \u2026 [+3341 chars]",
+    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances.New data released Monday (Sept. 8) ... [+3341 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Sept.",
@@ -104,7 +104,7 @@
     "url": "https://www.jpost.com/middle-east/article-866810",
     "title": "'Intolerable situation in Gaza,' UK PM Starmer discusses with PA President Abbas in London",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "Palestinian President Mahmoud Abbas and British Prime Minister Keir Starmer meet at 10 Downing Street, in London, Britain, September 8, 2025. (photo credit: JONATHAN BRADY/POOL VIA REUTERS)\r\nUK Prime\u2026 [+2576 chars]",
+    "content": "Palestinian President Mahmoud Abbas and British Prime Minister Keir Starmer meet at 10 Downing Street, in London, Britain, September 8, 2025. (photo credit: JONATHAN BRADY/POOL VIA REUTERS) UK Prime... [+2576 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "London",
@@ -124,7 +124,7 @@
     "url": "https://www.abc.net.au/news/2025-09-09/the-good-guys-misleading-store-credit-promotions/105751816",
     "title": "The Good Guys hit with $13.5m fine for deceptive store credit promotions",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "The Good Guys has been ordered to pay $13.5 million in penalties for misleading promotions and for failing to provide store credit to more than 20,000 eligible customers.\u00a0\r\nThe Federal Court ordered \u2026 [+2605 chars]",
+    "content": "The Good Guys has been ordered to pay $13.5 million in penalties for misleading promotions and for failing to provide store credit to more than 20,000 eligible customers. The Federal Court ordered ... [+2605 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Good",
@@ -144,7 +144,7 @@
     "url": "https://www.calculatedriskblog.com/2025/09/tuesday-employment-statistics.html",
     "title": "Tuesday: Employment Statistics Preliminary Benchmark",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "From Matthew Graham at Mortgage News Daily: Another 11-Month Low For Rates, But Just BarelyTo their credit, most mortgage lenders did an admirable job of aggressively pricing-in the bond market rally\u2026 [+651 chars]",
+    "content": "From Matthew Graham at Mortgage News Daily: Another 11-Month Low For Rates, But Just BarelyTo their credit, most mortgage lenders did an admirable job of aggressively pricing-in the bond market rally... [+651 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Tuesday",
@@ -164,7 +164,7 @@
     "url": "https://www.livemint.com/industry/energy/renewable-energy-india-priority-sector-lending-green-energy-financing-ministry-of-new-and-renewable-energy-rbi-11757308456873.html",
     "title": "Govt eyes sub-target for renewable energy under priority sector lending",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "New Delhi: Developers of renewable power may get enhanced access to cheaper bank loans in the near future, with the Centre working on a proposal mandating dedicated priority lending for such projects\u2026 [+6621 chars]",
+    "content": "New Delhi: Developers of renewable power may get enhanced access to cheaper bank loans in the near future, with the Centre working on a proposal mandating dedicated priority lending for such projects... [+6621 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -184,7 +184,7 @@
     "url": "https://www.pcgamer.com/games/fps/the-death-and-resurrection-of-battlefield-bad-company-2-is-exactly-why-real-server-browsers-are-important/",
     "title": "The death and resurrection of Battlefield: Bad Company 2 is exactly why real server browsers are important",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "(Image credit: Future)\r\nWelcome to FOV 90, an FPS column from staff writer Morgan Park. Every week, I'll be covering a topic relevant to first-person shooter enjoyers, spanning everything from multip\u2026 [+5372 chars]",
+    "content": "(Image credit: Future) Welcome to FOV 90, an FPS column from staff writer Morgan Park. Every week, I'll be covering a topic relevant to first-person shooter enjoyers, spanning everything from multip... [+5372 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Future",
@@ -204,7 +204,7 @@
     "url": "https://culturacolectiva.com/sin-categoria-es/the-conjurthe-disturbing-secrets-revealed-in-the-post-credit-scene-you-probably-missed/",
     "title": "The ConjurThe Disturbing Secrets Revealed in the Post-Credit Scene You Probably Missed",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "The Conjuring 4 has become a phenomenon since its worldwide release, but there are some dark secrets revealed in the post-credit scene that many viewers overlooked. The Conjuring 4: Last Rites arrive\u2026 [+2902 chars]",
+    "content": "The Conjuring 4 has become a phenomenon since its worldwide release, but there are some dark secrets revealed in the post-credit scene that many viewers overlooked. The Conjuring 4: Last Rites arrive... [+2902 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Revealed",
@@ -224,7 +224,7 @@
     "url": "https://www.coloradoan.com/story/sports/high-school/2025/09/08/vote-blue-fcu-fort-collins-windsor-football-player-of-week-sept-8/86046870007/",
     "title": "Poll: Vote for the Blue FCU Fort Collins-area football Player of the Week (Sept. 8)",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "The Coloradoan is proud to present an additional element to our weekly Athlete of the Week series, partnering with\u00a0Blue Federal Credit Union\u00a0to honor the best Fort Collins-area tackle football game p\u2026 [+2274 chars]",
+    "content": "The Coloradoan is proud to present an additional element to our weekly Athlete of the Week series, partnering with Blue Federal Credit Union to honor the best Fort Collins-area tackle football game p... [+2274 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Fort",
@@ -244,7 +244,7 @@
     "url": "https://biztoc.com/x/49226099b7dcb198",
     "title": "Consumer Credit Trounces Estimates On Unexpected Surge In Credit Card Usage",
     "fetched_on": "2025-09-10T01:26:19.614499+00:00",
-    "content": "Consumer Credit Trounces Estimates On Unexpected Surge In Credit Card Usage\r\nOne month after we reported that US consumers appeared tapped out following the first consecutive 2-month stretch of decli\u2026 [+145 chars]",
+    "content": "Consumer Credit Trounces Estimates On Unexpected Surge In Credit Card Usage One month after we reported that US consumers appeared tapped out following the first consecutive 2-month stretch of decli... [+145 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -285,7 +285,7 @@
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
     "fetched_on": "2025-09-10T03:29:06.778282+00:00",
-    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
+    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in...",
     "platforms_mentioned": [],
     "keywords": [
       "Building",
@@ -301,9 +301,9 @@
     ]
   },
   {
-    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
+    "source": "Crunchbase News – Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
-    "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
+    "title": "Exclusive: Revalia Bio Raises $14.5M To ‘Revolutionize' Drug Development With Human Data Trials",
     "fetched_on": "2025-09-10T03:29:11.581688+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
@@ -311,7 +311,7 @@
       "Revalia",
       "Bio",
       "Raises",
-      "Revolutionize\u2019",
+      "Revolutionize’",
       "Haven",
       "Connecticut-based",
       "Exclusive",
@@ -343,7 +343,7 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/08/how-to-handle-your-student-loans-after-losing-your-job.html",
-    "title": "Here's how  to handle your student loans after losing a job",
+    "title": "Here's how to handle your student loans after losing a job",
     "fetched_on": "2025-09-10T03:29:13.655296+00:00",
     "content": "Amid a slowing job market and an uptick in unemployment, more student loan borrowers are struggling to pay their bills. Fortunately, they have options.",
     "platforms_mentioned": [],
@@ -403,7 +403,7 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/31/how-to-get-7500-ev-tax-credit-after-the-deadline.html",
-    "title": "Here's how to get the $7,500 EV tax credit \u2014 even after the Sept. 30 deadline",
+    "title": "Here's how to get the $7,500 EV tax credit - even after the Sept. 30 deadline",
     "fetched_on": "2025-09-10T03:29:13.655418+00:00",
     "content": "The IRS clarified that consumers don't need to drive their EV off the car lot by Sept. 30 to qualify for a federal tax break.",
     "platforms_mentioned": [],
@@ -423,9 +423,9 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/28/student-loan-repayment-plan-changes.html",
-    "title": "Student loan repayment plans have shifted \u2014 and more changes are ahead. Here's what borrowers need to know",
+    "title": "Student loan repayment plans have shifted - and more changes are ahead. Here's what borrowers need to know",
     "fetched_on": "2025-09-10T03:29:13.655465+00:00",
-    "content": "Federal student loan borrowers' options for repaying their debt have dramatically changed \u2014 with more shifts to come. Here's what to know.",
+    "content": "Federal student loan borrowers' options for repaying their debt have dramatically changed - with more shifts to come. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
       "shifted",
@@ -461,7 +461,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Business [RSS]",
+    "source": "Bloomberg – Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/fifth-third-reports-alleged-fraud-tied-to-asset-backed-borrower",
     "title": "JPMorgan, Fifth Third Among Banks Facing Losses Tied to Tricolor",
     "fetched_on": "2025-09-10T03:28:57.985004+00:00",
@@ -483,9 +483,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/09/08/todays-nyt-mini-crossword-clues-and-answers-for-monday-september-8th/",
-    "title": "Today\u2019s NYT Mini Crossword Clues And Answers For Monday, September 8th",
+    "title": "Today's NYT Mini Crossword Clues And Answers For Monday, September 8th",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nTuesday is perhaps the most underappreciated day of the week. Its not the beginn\u2026 [+2623 chars]",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle. Credit: NYT Tuesday is perhaps the most underappreciated day of the week. Its not the beginn... [+2623 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Mini",
@@ -503,9 +503,9 @@
   {
     "source": "Thegatewaypundit.com [NewsAPI]",
     "url": "https://www.thegatewaypundit.com/2025/09/oh-please-media-outlet-describes-lame-late-night/",
-    "title": "OH PLEASE: Media Outlet Describes Lame Late Night Host Jimmy Kimmel as \u2018At the Forefront of Defending Democracy\u2019",
+    "title": "OH PLEASE: Media Outlet Describes Lame Late Night Host Jimmy Kimmel as ‘At the Forefront of Defending Democracy'",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "ABC comedian Jimmy Kimmel makes sick election joke to suppress Trump supporters on his late-night show (Credit: Jimmy Kimmel Live!\r\nRatings challenged late night host Jimmy Kimmel received a creative\u2026 [+1888 chars]",
+    "content": "ABC comedian Jimmy Kimmel makes sick election joke to suppress Trump supporters on his late-night show (Credit: Jimmy Kimmel Live! Ratings challenged late night host Jimmy Kimmel received a creative... [+1888 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Jimmy",
@@ -525,7 +525,7 @@
     "url": "https://biztoc.com/x/d08b087c1e502df5",
     "title": "Revolving Debt Spikes and Signals a Buildup of Credit Card Balances",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances.\r\nNew data released Monday (Sept. 8\u2026 [+132 chars]",
+    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances. New data released Monday (Sept. 8... [+132 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Debt",
@@ -545,7 +545,7 @@
     "url": "https://biztoc.com/x/899b2856504fa603",
     "title": "Kevin O'Leary Once Called Going Into Business With Relatives A Terrible Idea: 'You Have To Be Able To Fire Your Mother'",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "Investor and \"Shark Tank\" star Kevin O'Leary once warned against mixing family with money, offering blunt advice on lending, borrowing and even working with in-laws.O'Leary's Rule On Lending To In-La\u2026 [+142 chars]",
+    "content": "Investor and \"Shark Tank\" star Kevin O'Leary once warned against mixing family with money, offering blunt advice on lending, borrowing and even working with in-laws.O'Leary's Rule On Lending To In-La... [+142 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Kevin",
@@ -561,7 +561,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/deutsche-bank-hires-trio-for-asia-pacific-credit-trading-sales-mfde93qq",
     "title": "Deutsche Bank Hires Trio for Asia Pacific Credit Trading, Sales",
     "fetched_on": "2025-09-10T03:28:58.457689+00:00",
@@ -585,7 +585,7 @@
     "url": "https://www.jpost.com/middle-east/article-866815",
     "title": "Cairo is pulling factions toward ceasefire, undercutting Netanyahu-Hamas 'tug-of-war'",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "Izz al-Din al-Haddad, the commander of the northern Gaza brigade, and alleged replacement for Hamas military leader Mohammed Sinwar. (photo credit: SCREENSHOT/X/VIA SECTION 27A OF THE COPYRIGHT ACT)\r\u2026 [+8586 chars]",
+    "content": "Izz al-Din al-Haddad, the commander of the northern Gaza brigade, and alleged replacement for Hamas military leader Mohammed Sinwar. (photo credit: SCREENSHOT/X/VIA SECTION 27A OF THE COPYRIGHT ACT) ... [+8586 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Izz",
@@ -603,14 +603,14 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/review-lady-gaga-brings-her-mayhem-ball-tour-to-new-yorks-madison-square-garden/article",
-    "title": "Review: Lady Gaga brings her \u2018Mayhem Ball\u2019 Tour to New York\u2019s Madison Square Garden",
+    "title": "Review: Lady Gaga brings her ‘Mayhem Ball' Tour to New York's Madison Square Garden",
     "fetched_on": "2025-09-10T03:28:57.065672+00:00",
-    "content": "Lady Gaga. Photo Credit: Frank Lebon.\r\nOn Sunday, September 7th, global music superstar Lady Gaga brought her \u201cMayhem Ball\u201d Tour to Madison Square Garden in New York City, where she played for a sold\u2026 [+4928 chars]",
+    "content": "Lady Gaga. Photo Credit: Frank Lebon. On Sunday, September 7th, global music superstar Lady Gaga brought her “Mayhem Ball” Tour to Madison Square Garden in New York City, where she played for a sold... [+4928 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Lady",
       "Gaga",
-      "Ball\u2019",
+      "Ball’",
       "Mayhem",
       "Square",
       "Review",

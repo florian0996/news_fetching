@@ -1,6 +1,17 @@
 {
-  "2025-09-09": {
+  "2025-09-10": {
     "status": "no company in the news"
+  },
+  "2025-09-09": {
+    "articles": [
+      {
+        "title": "LendingClub Corporation $LC Position Boosted by Quarry LP",
+        "url": "https://www.etfdailynews.com/2025/09/08/lendingclub-corporation-lc-position-boosted-by-quarry-lp/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-09-08": {
     "articles": [
