@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/altice-usa-switches-advisers-to-revive-debt-reshuffle-talks",
     "title": "Altice USA Switches Advisers to Revive Debt-Reshuffle Talks",
     "fetched_on": "2025-09-10T02:56:03.167573+00:00",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/albacore-hires-team-from-ubs-am-to-launch-infra-debt-strategy",
     "title": "AlbaCore Hires Team From UBS AM to Launch Infra Debt Unit",
     "fetched_on": "2025-09-10T13:27:30.733582+00:00",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/eu-opens-talks-on-carbon-credits-to-win-deal-on-key-climate-goal",
     "title": "EU Opens Talks on Carbon Credits to Win Deal on Key Climate Goal",
     "fetched_on": "2025-09-10T02:56:04.402536+00:00",
@@ -62,9 +62,9 @@
   {
     "source": "Jpcert.or.jp [NewsAPI]",
     "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-013359_AD_1.html",
-    "title": "JVNDB-2025-013359:campcodes \u306e Sales and Inventory System with Credit Management using PHP Source Code \u306b\u304a\u3051\u308b\u30af\u30ed\u30b9\u30b5\u30a4\u30c8\u30b9\u30af\u30ea\u30d7\u30c6\u30a3\u30f3\u30b0\u306e\u8106\u5f31\u6027",
+    "title": "JVNDB-2025-013359:campcodes の Sales and Inventory System with Credit Management using PHP Source Code におけるクロスサイトスクリプティングの脆弱性",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "campcodes \u306e Sales and Inventory System with Credit Management using PHP Source Code \u306b\u306f\u3001\u30af\u30ed\u30b9\u30b5\u30a4\u30c8\u30b9\u30af\u30ea\u30d7\u30c6\u30a3\u30f3\u30b0\u306e\u8106\u5f31\u6027\u3001\u30b3\u30fc\u30c9\u30a4\u30f3\u30b8\u30a7\u30af\u30b7\u30e7\u30f3\u306e\u8106\u5f31\u6027\u304c\u5b58\u5728\u3057\u307e\u3059\u3002Vulnerability Analysis SummaryAnalysis Information Source Type : Adviso\u2026 [+8 chars]",
+    "content": "campcodes の Sales and Inventory System with Credit Management using PHP Source Code には、クロスサイトスクリプティングの脆弱性、コードインジェクションの脆弱性が存在します。Vulnerability Analysis SummaryAnalysis Information Source Type : Adviso... [+8 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Source",
@@ -84,7 +84,7 @@
     "url": "http://www.pymnts.com/credit-cards/2025/revolving-debt-spikes-and-signals-a-buildup-of-credit-card-balances/",
     "title": "Revolving Debt Spikes and Signals a Buildup of Credit Card Balances",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances.New data released Monday (Sept. 8) \u2026 [+3341 chars]",
+    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances.New data released Monday (Sept. 8) ... [+3341 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Sept.",
@@ -104,7 +104,7 @@
     "url": "https://www.jpost.com/middle-east/article-866810",
     "title": "'Intolerable situation in Gaza,' UK PM Starmer discusses with PA President Abbas in London",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "Palestinian President Mahmoud Abbas and British Prime Minister Keir Starmer meet at 10 Downing Street, in London, Britain, September 8, 2025. (photo credit: JONATHAN BRADY/POOL VIA REUTERS)\r\nUK Prime\u2026 [+2576 chars]",
+    "content": "Palestinian President Mahmoud Abbas and British Prime Minister Keir Starmer meet at 10 Downing Street, in London, Britain, September 8, 2025. (photo credit: JONATHAN BRADY/POOL VIA REUTERS) UK Prime... [+2576 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "London",
@@ -124,7 +124,7 @@
     "url": "https://www.abc.net.au/news/2025-09-09/the-good-guys-misleading-store-credit-promotions/105751816",
     "title": "The Good Guys hit with $13.5m fine for deceptive store credit promotions",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "The Good Guys has been ordered to pay $13.5 million in penalties for misleading promotions and for failing to provide store credit to more than 20,000 eligible customers.\u00a0\r\nThe Federal Court ordered \u2026 [+2605 chars]",
+    "content": "The Good Guys has been ordered to pay $13.5 million in penalties for misleading promotions and for failing to provide store credit to more than 20,000 eligible customers. The Federal Court ordered ... [+2605 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Good",
@@ -144,7 +144,7 @@
     "url": "https://www.calculatedriskblog.com/2025/09/tuesday-employment-statistics.html",
     "title": "Tuesday: Employment Statistics Preliminary Benchmark",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "From Matthew Graham at Mortgage News Daily: Another 11-Month Low For Rates, But Just BarelyTo their credit, most mortgage lenders did an admirable job of aggressively pricing-in the bond market rally\u2026 [+651 chars]",
+    "content": "From Matthew Graham at Mortgage News Daily: Another 11-Month Low For Rates, But Just BarelyTo their credit, most mortgage lenders did an admirable job of aggressively pricing-in the bond market rally... [+651 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Tuesday",
@@ -164,7 +164,7 @@
     "url": "https://www.livemint.com/industry/energy/renewable-energy-india-priority-sector-lending-green-energy-financing-ministry-of-new-and-renewable-energy-rbi-11757308456873.html",
     "title": "Govt eyes sub-target for renewable energy under priority sector lending",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "New Delhi: Developers of renewable power may get enhanced access to cheaper bank loans in the near future, with the Centre working on a proposal mandating dedicated priority lending for such projects\u2026 [+6621 chars]",
+    "content": "New Delhi: Developers of renewable power may get enhanced access to cheaper bank loans in the near future, with the Centre working on a proposal mandating dedicated priority lending for such projects... [+6621 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -184,7 +184,7 @@
     "url": "https://www.pcgamer.com/games/fps/the-death-and-resurrection-of-battlefield-bad-company-2-is-exactly-why-real-server-browsers-are-important/",
     "title": "The death and resurrection of Battlefield: Bad Company 2 is exactly why real server browsers are important",
     "fetched_on": "2025-09-10T04:23:02.499958+00:00",
-    "content": "(Image credit: Future)\r\nWelcome to FOV 90, an FPS column from staff writer Morgan Park. Every week, I'll be covering a topic relevant to first-person shooter enjoyers, spanning everything from multip\u2026 [+5372 chars]",
+    "content": "(Image credit: Future) Welcome to FOV 90, an FPS column from staff writer Morgan Park. Every week, I'll be covering a topic relevant to first-person shooter enjoyers, spanning everything from multip... [+5372 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Future",
@@ -204,7 +204,7 @@
     "url": "https://culturacolectiva.com/sin-categoria-es/the-conjurthe-disturbing-secrets-revealed-in-the-post-credit-scene-you-probably-missed/",
     "title": "The ConjurThe Disturbing Secrets Revealed in the Post-Credit Scene You Probably Missed",
     "fetched_on": "2025-09-10T04:23:02.499958+00:00",
-    "content": "The Conjuring 4 has become a phenomenon since its worldwide release, but there are some dark secrets revealed in the post-credit scene that many viewers overlooked. The Conjuring 4: Last Rites arrive\u2026 [+2902 chars]",
+    "content": "The Conjuring 4 has become a phenomenon since its worldwide release, but there are some dark secrets revealed in the post-credit scene that many viewers overlooked. The Conjuring 4: Last Rites arrive... [+2902 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Revealed",
@@ -224,7 +224,7 @@
     "url": "https://www.coloradoan.com/story/sports/high-school/2025/09/08/vote-blue-fcu-fort-collins-windsor-football-player-of-week-sept-8/86046870007/",
     "title": "Poll: Vote for the Blue FCU Fort Collins-area football Player of the Week (Sept. 8)",
     "fetched_on": "2025-09-10T04:23:02.499958+00:00",
-    "content": "The Coloradoan is proud to present an additional element to our weekly Athlete of the Week series, partnering with\u00a0Blue Federal Credit Union\u00a0to honor the best Fort Collins-area tackle football game p\u2026 [+2274 chars]",
+    "content": "The Coloradoan is proud to present an additional element to our weekly Athlete of the Week series, partnering with Blue Federal Credit Union to honor the best Fort Collins-area tackle football game p... [+2274 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Fort",
@@ -285,7 +285,7 @@
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
     "fetched_on": "2025-09-10T23:17:56.088066+00:00",
-    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
+    "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in...",
     "platforms_mentioned": [],
     "keywords": [
       "Building",
@@ -301,9 +301,9 @@
     ]
   },
   {
-    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
+    "source": "Crunchbase News – Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
-    "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
+    "title": "Exclusive: Revalia Bio Raises $14.5M To ‘Revolutionize' Drug Development With Human Data Trials",
     "fetched_on": "2025-09-10T23:18:04.211526+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
@@ -311,7 +311,7 @@
       "Revalia",
       "Bio",
       "Raises",
-      "Revolutionize\u2019",
+      "Revolutionize’",
       "Haven",
       "Connecticut-based",
       "Exclusive",
@@ -343,7 +343,7 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/08/how-to-handle-your-student-loans-after-losing-your-job.html",
-    "title": "Here's how  to handle your student loans after losing a job",
+    "title": "Here's how to handle your student loans after losing a job",
     "fetched_on": "2025-09-10T23:18:07.559015+00:00",
     "content": "Amid a slowing job market and an uptick in unemployment, more student loan borrowers are struggling to pay their bills. Fortunately, they have options.",
     "platforms_mentioned": [],
@@ -403,7 +403,7 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/31/how-to-get-7500-ev-tax-credit-after-the-deadline.html",
-    "title": "Here's how to get the $7,500 EV tax credit \u2014 even after the Sept. 30 deadline",
+    "title": "Here's how to get the $7,500 EV tax credit - even after the Sept. 30 deadline",
     "fetched_on": "2025-09-10T23:18:07.559135+00:00",
     "content": "The IRS clarified that consumers don't need to drive their EV off the car lot by Sept. 30 to qualify for a federal tax break.",
     "platforms_mentioned": [],
@@ -423,9 +423,9 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/28/student-loan-repayment-plan-changes.html",
-    "title": "Student loan repayment plans have shifted \u2014 and more changes are ahead. Here's what borrowers need to know",
+    "title": "Student loan repayment plans have shifted - and more changes are ahead. Here's what borrowers need to know",
     "fetched_on": "2025-09-10T15:20:47.576135+00:00",
-    "content": "Federal student loan borrowers' options for repaying their debt have dramatically changed \u2014 with more shifts to come. Here's what to know.",
+    "content": "Federal student loan borrowers' options for repaying their debt have dramatically changed - with more shifts to come. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
       "shifted",
@@ -461,7 +461,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Business [RSS]",
+    "source": "Bloomberg – Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-09/fifth-third-reports-alleged-fraud-tied-to-asset-backed-borrower",
     "title": "JPMorgan, Fifth Third Among Banks Facing Tricolor Losses",
     "fetched_on": "2025-09-10T17:16:44.972403+00:00",
@@ -483,9 +483,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/09/08/todays-nyt-mini-crossword-clues-and-answers-for-monday-september-8th/",
-    "title": "Today\u2019s NYT Mini Crossword Clues And Answers For Monday, September 8th",
+    "title": "Today's NYT Mini Crossword Clues And Answers For Monday, September 8th",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nTuesday is perhaps the most underappreciated day of the week. Its not the beginn\u2026 [+2623 chars]",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle. Credit: NYT Tuesday is perhaps the most underappreciated day of the week. Its not the beginn... [+2623 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Mini",
@@ -503,9 +503,9 @@
   {
     "source": "Thegatewaypundit.com [NewsAPI]",
     "url": "https://www.thegatewaypundit.com/2025/09/oh-please-media-outlet-describes-lame-late-night/",
-    "title": "OH PLEASE: Media Outlet Describes Lame Late Night Host Jimmy Kimmel as \u2018At the Forefront of Defending Democracy\u2019",
+    "title": "OH PLEASE: Media Outlet Describes Lame Late Night Host Jimmy Kimmel as ‘At the Forefront of Defending Democracy'",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "ABC comedian Jimmy Kimmel makes sick election joke to suppress Trump supporters on his late-night show (Credit: Jimmy Kimmel Live!\r\nRatings challenged late night host Jimmy Kimmel received a creative\u2026 [+1888 chars]",
+    "content": "ABC comedian Jimmy Kimmel makes sick election joke to suppress Trump supporters on his late-night show (Credit: Jimmy Kimmel Live! Ratings challenged late night host Jimmy Kimmel received a creative... [+1888 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Jimmy",
@@ -525,7 +525,7 @@
     "url": "https://biztoc.com/x/d08b087c1e502df5",
     "title": "Revolving Debt Spikes and Signals a Buildup of Credit Card Balances",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances.\r\nNew data released Monday (Sept. 8\u2026 [+132 chars]",
+    "content": "Consumers in August loaded up on revolving debt, a category that includes credit cards, as they reversed a slowdown, and in some cases, paydowns, on their balances. New data released Monday (Sept. 8... [+132 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Debt",
@@ -545,7 +545,7 @@
     "url": "https://biztoc.com/x/899b2856504fa603",
     "title": "Kevin O'Leary Once Called Going Into Business With Relatives A Terrible Idea: 'You Have To Be Able To Fire Your Mother'",
     "fetched_on": "2025-09-10T05:18:48.910693+00:00",
-    "content": "Investor and \"Shark Tank\" star Kevin O'Leary once warned against mixing family with money, offering blunt advice on lending, borrowing and even working with in-laws.O'Leary's Rule On Lending To In-La\u2026 [+142 chars]",
+    "content": "Investor and \"Shark Tank\" star Kevin O'Leary once warned against mixing family with money, offering blunt advice on lending, borrowing and even working with in-laws.O'Leary's Rule On Lending To In-La... [+142 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Kevin",
@@ -561,7 +561,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/deutsche-bank-hires-trio-for-asia-pacific-credit-trading-sales-mfde93qq",
     "title": "Deutsche Bank Hires Trio for Asia Credit Trading, Sales",
     "fetched_on": "2025-09-10T13:27:30.733575+00:00",
@@ -585,7 +585,7 @@
     "url": "https://www.jpost.com/middle-east/article-866815",
     "title": "Cairo is pulling factions toward ceasefire, undercutting Netanyahu-Hamas 'tug-of-war'",
     "fetched_on": "2025-09-10T06:30:01.456910+00:00",
-    "content": "Izz al-Din al-Haddad, the commander of the northern Gaza brigade, and alleged replacement for Hamas military leader Mohammed Sinwar. (photo credit: SCREENSHOT/X/VIA SECTION 27A OF THE COPYRIGHT ACT)\r\u2026 [+8586 chars]",
+    "content": "Izz al-Din al-Haddad, the commander of the northern Gaza brigade, and alleged replacement for Hamas military leader Mohammed Sinwar. (photo credit: SCREENSHOT/X/VIA SECTION 27A OF THE COPYRIGHT ACT) ... [+8586 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Izz",
@@ -603,14 +603,14 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/review-lady-gaga-brings-her-mayhem-ball-tour-to-new-yorks-madison-square-garden/article",
-    "title": "Review: Lady Gaga brings her \u2018Mayhem Ball\u2019 Tour to New York\u2019s Madison Square Garden",
+    "title": "Review: Lady Gaga brings her ‘Mayhem Ball' Tour to New York's Madison Square Garden",
     "fetched_on": "2025-09-10T06:30:01.456910+00:00",
-    "content": "Lady Gaga. Photo Credit: Frank Lebon.\r\nOn Sunday, September 7th, global music superstar Lady Gaga brought her \u201cMayhem Ball\u201d Tour to Madison Square Garden in New York City, where she played for a sold\u2026 [+4928 chars]",
+    "content": "Lady Gaga. Photo Credit: Frank Lebon. On Sunday, September 7th, global music superstar Lady Gaga brought her “Mayhem Ball” Tour to Madison Square Garden in New York City, where she played for a sold... [+4928 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Lady",
       "Gaga",
-      "Ball\u2019",
+      "Ball’",
       "Mayhem",
       "Square",
       "Review",
@@ -653,11 +653,11 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/kenyan-bank-lending-growth-at-year-s-highest-on-rate-cuts",
     "title": "Kenya Bank Lending Accelerates to Highest in a Year on Rate Cuts",
     "fetched_on": "2025-09-10T07:19:39.377562+00:00",
-    "content": "Kenya\u2019s bank lending rose at the fastest pace in a year in July, spurred by the central bank cutting interest rates seven times in the space of 13 months.",
+    "content": "Kenya's bank lending rose at the fastest pace in a year in July, spurred by the central bank cutting interest rates seven times in the space of 13 months.",
     "platforms_mentioned": [],
     "keywords": [
       "Bank",
@@ -675,9 +675,9 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/review-an-evening-with-jonathan-groff-erika-henningsen-and-andrew-resnick-of-just-in-time-in-new-york-city/article",
-    "title": "Review: An evening with Jonathan Groff, Erika Henningsen, and Andrew Resnick of \u2018Just in Time\u2019 in New York City",
+    "title": "Review: An evening with Jonathan Groff, Erika Henningsen, and Andrew Resnick of ‘Just in Time' in New York City",
     "fetched_on": "2025-09-10T06:30:01.456910+00:00",
-    "content": "Jonathan Groff in 'Just in Time.' Photo Credit: Matthew Murphy and Evan Zimmerman.\r\nOn September 8th, the Grammy Museum presented a \u201cNew York Evening with Just in Time\u201d at The Greene Space in Manhatt\u2026 [+3967 chars]",
+    "content": "Jonathan Groff in 'Just in Time.' Photo Credit: Matthew Murphy and Evan Zimmerman. On September 8th, the Grammy Museum presented a “New York Evening with Just in Time” at The Greene Space in Manhatt... [+3967 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Jonathan",
@@ -687,7 +687,7 @@
       "Time",
       "Andrew",
       "Resnick",
-      "Time\u2019",
+      "Time’",
       "City",
       "York"
     ]
@@ -697,7 +697,7 @@
     "url": "https://biztoc.com/x/5fdf15d8cce4d7a4",
     "title": "Chinese Property Stocks Jump on Policy, Lending Boost",
     "fetched_on": "2025-09-10T06:30:01.456910+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Chinas exports to US drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will OpenAI's California e\u2026 [+728 chars]",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Chinas exports to US drop sharply? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will OpenAI's California e... [+728 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -767,11 +767,11 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/tata-motors-markets-3-875-billion-loan-for-iveco-acquisition",
-    "title": "Tata Motors Markets \u20ac3.875 Billion Loan for Iveco Acquisition",
+    "title": "Tata Motors Markets €3.875 Billion Loan for Iveco Acquisition",
     "fetched_on": "2025-09-10T11:16:21.440985+00:00",
-    "content": "Tata Motors Ltd. is syndicating a \u20ac3.875 billion ($4.5 billion) bridge loan to fund its proposed acquisition of Iveco Group\u2019s commercial vehicle business, according to people familiar with the matter, in what would be one of the largest such deals in Asia this year.",
+    "content": "Tata Motors Ltd. is syndicating a €3.875 billion ($4.5 billion) bridge loan to fund its proposed acquisition of Iveco Group's commercial vehicle business, according to people familiar with the matter, in what would be one of the largest such deals in Asia this year.",
     "platforms_mentioned": [],
     "keywords": [
       "Billion",
@@ -811,7 +811,7 @@
     "url": "https://economictimes.indiatimes.com/markets/stocks/news/spicejet-shares-jump-4-after-airline-completes-24-million-payment-to-credit-suisse/articleshow/123778223.cms",
     "title": "SpiceJet shares jump 4% after airline completes $24 million payment to Credit Suisse",
     "fetched_on": "2025-09-10T06:30:01.456910+00:00",
-    "content": "Shares of SpiceJet jumped nearly 4% to hit the days high of Rs 34.8 on the BSE on Tuesday, after the airline announced the successful completion of the full payment of $24 million (Rs 200 crore appro\u2026 [+2025 chars]",
+    "content": "Shares of SpiceJet jumped nearly 4% to hit the days high of Rs 34.8 on the BSE on Tuesday, after the airline announced the successful completion of the full payment of $24 million (Rs 200 crore appro... [+2025 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "million",
@@ -831,7 +831,7 @@
     "url": "https://www.ndtvprofit.com/personal-finance/hdfc-bank-reduces-lending-rates-check-how-much-your-emis-will-decrease",
     "title": "HDFC Bank Reduces Lending Rates: Check How Much Your EMIs Will Decrease",
     "fetched_on": "2025-09-10T06:30:01.456910+00:00",
-    "content": "HDFC Bank has announced a reduction in its Marginal Cost of Funds-based Lending Rate or MCLR on select tenures by up to 5 basis points. This move is a welcome development for borrowers with loans lin\u2026 [+829 chars]",
+    "content": "HDFC Bank has announced a reduction in its Marginal Cost of Funds-based Lending Rate or MCLR on select tenures by up to 5 basis points. This move is a welcome development for borrowers with loans lin... [+829 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "HDFC",
@@ -851,7 +851,7 @@
     "url": "https://www.thehindubusinessline.com/news/fmcg-trade-industry-brace-for-choppy-gst-20-transition/article70028676.ece",
     "title": "FMCG trade, industry brace for choppy GST 2.0 transition",
     "fetched_on": "2025-09-10T07:19:38.572664+00:00",
-    "content": "The fast-moving consumer goods (FMCG) trade is in flux ahead of the September 22 roll-out of the new GST rates, with distributors and retailers seeking credit notes, price protection and inventory ad\u2026 [+3800 chars]",
+    "content": "The fast-moving consumer goods (FMCG) trade is in flux ahead of the September 22 roll-out of the new GST rates, with distributors and retailers seeking credit notes, price protection and inventory ad... [+3800 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "FMCG",
@@ -871,7 +871,7 @@
     "url": "https://www.thehindubusinessline.com/economy/fmcg-trade-industry-brace-for-choppy-gst-20-transition/article70028676.ece",
     "title": "FMCG trade, industry brace for choppy GST 2.0 transition",
     "fetched_on": "2025-09-10T07:19:38.572664+00:00",
-    "content": "The fast-moving consumer goods (FMCG) trade is in flux ahead of the September 22 roll-out of the new GST rates, with distributors and retailers seeking credit notes, price protection and inventory ad\u2026 [+3800 chars]",
+    "content": "The fast-moving consumer goods (FMCG) trade is in flux ahead of the September 22 roll-out of the new GST rates, with distributors and retailers seeking credit notes, price protection and inventory ad... [+3800 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "FMCG",
@@ -891,7 +891,7 @@
     "url": "https://www.livemint.com/companies/news/life-insurance-companies-dismiss-gst-exemption-concerns-see-limited-impact-on-input-tax-credit-report-11757397746855.html",
     "title": "Life insurance companies dismiss GST exemption concerns, see limited impact on input tax credit: Report",
     "fetched_on": "2025-09-10T07:19:38.572664+00:00",
-    "content": "New Delhi [India], September 9 (ANI): Life insurance companies have dismissed concerns over the impact of Goods and Services Tax (GST) exemption on input tax credit, saying they have strategies in pl\u2026 [+2118 chars]",
+    "content": "New Delhi [India], September 9 (ANI): Life insurance companies have dismissed concerns over the impact of Goods and Services Tax (GST) exemption on input tax credit, saying they have strategies in pl... [+2118 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Life",
@@ -911,12 +911,12 @@
     "url": "https://www.creativebloq.com/art/digital-art/how-to-create-ethereal-glowing-light-effects-in-procreate",
     "title": "How to create ethereal glowing light effects in Procreate",
     "fetched_on": "2025-09-10T07:19:38.572664+00:00",
-    "content": "(Image credit: Pauline Vo\u00df)\r\nSmooth Sketch: Perfect for smooth lines with a flowing taper for any line work.\r\nMessy Blur Fush:This brush makes use of Procreate\u2019s blur feature.\r\nHard Base: A more orga\u2026 [+8385 chars]",
+    "content": "(Image credit: Pauline Voß) Smooth Sketch: Perfect for smooth lines with a flowing taper for any line work. Messy Blur Fush:This brush makes use of Procreate's blur feature. Hard Base: A more orga... [+8385 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Image",
       "Pauline",
-      "Vo\u00df",
+      "Voß",
       "Sketch",
       "Perfect",
       "Smooth",
@@ -929,9 +929,9 @@
   {
     "source": "ETF Daily News [NewsAPI]",
     "url": "https://www.etfdailynews.com/2025/09/09/blackstone-secured-lending-fund-nysebxsl-receives-consensus-recommendation-of-moderate-buy-from-brokerages/",
-    "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Receives Consensus Recommendation of \u201cModerate Buy\u201d from Brokerages",
+    "title": "Blackstone Secured Lending Fund (NYSE:BXSL) Receives Consensus Recommendation of “Moderate Buy” from Brokerages",
     "fetched_on": "2025-09-10T07:19:38.572664+00:00",
-    "content": "Shares of Blackstone Secured Lending Fund (NYSE:BXSL \u2013 Get Free Report) have earned a consensus rating of \u201cModerate Buy\u201d from the six brokerages that are presently covering the stock, MarketBeat repo\u2026 [+4164 chars]",
+    "content": "Shares of Blackstone Secured Lending Fund (NYSE:BXSL - Get Free Report) have earned a consensus rating of “Moderate Buy” from the six brokerages that are presently covering the stock, MarketBeat repo... [+4164 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "NYSE",
@@ -951,7 +951,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/09/09/3146572/0/en/Bad-Credit-Loan-Providers-with-Guaranteed-Approval-No-Credit-Check-Why-RadCred-s-AI-Loan-Matching-Is-Making-the-News.html",
     "title": "Bad Credit Loan Providers with Guaranteed Approval & No Credit Check: Why RadCred's AI Loan Matching Is Making the News?",
     "fetched_on": "2025-09-10T07:19:38.572664+00:00",
-    "content": "Glendale, CA, Sept. 09, 2025 (GLOBE NEWSWIRE) -- RadCred, a leading U.S.-based finance wellness platform, today announced the official launch of its next-generation AI matching system following a suc\u2026 [+21960 chars]",
+    "content": "Glendale, CA, Sept. 09, 2025 (GLOBE NEWSWIRE) -- RadCred, a leading U.S.-based finance wellness platform, today announced the official launch of its next-generation AI matching system following a suc... [+21960 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -983,7 +983,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/samsung-life-set-to-buy-stake-in-private-credit-lender-hayfin",
     "title": "Samsung Life Set to Buy Stake in Private Credit Firm Hayfin",
     "fetched_on": "2025-09-10T23:17:50.620968+00:00",
@@ -1007,7 +1007,7 @@
     "url": "https://thekenyatimes.com/business/list-of-banks-with-cheapest-and-most-expensive-loans-cbk/",
     "title": "CBK Releases List Of Banks With Lowest And Highest Loan Rates",
     "fetched_on": "2025-09-10T08:27:13.868567+00:00",
-    "content": "The Central Bank of Kenya (CBK) has released the average commercial banks lending rates as of July 2025, highlighting trends in credit costs across different categories.\u00a0\r\nAccording to a CBK notice p\u2026 [+5743 chars]",
+    "content": "The Central Bank of Kenya (CBK) has released the average commercial banks lending rates as of July 2025, highlighting trends in credit costs across different categories. According to a CBK notice p... [+5743 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Kenya",
@@ -1027,7 +1027,7 @@
     "url": "https://www.unexplained-mysteries.com/news/390129/space-travel-can-cause-stem-cells-to-age-10-times-faster-nasa-finds",
     "title": "Space travel can cause stem cells to age 10 times faster, NASA finds",
     "fetched_on": "2025-09-10T08:27:13.868567+00:00",
-    "content": "Space &amp; Astronomy\r\nBy T.K. RandallSeptember 9, 2025 \u00b7 \u00a00 commentsDo humans have any business being in space ? Image Credit: NASAAccording to new NASA research, being in space can be hazardous to \u2026 [+1498 chars]",
+    "content": "Space &amp; Astronomy By T.K. RandallSeptember 9, 2025 · 0 commentsDo humans have any business being in space ? Image Credit: NASAAccording to new NASA research, being in space can be hazardous to ... [+1498 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Space",
@@ -1047,7 +1047,7 @@
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/life-insurance-companies-dismiss-gst-exemption-concerns-see-limited-impact-on-input-tax-credit-report/articleshow/123780363.cms",
     "title": "Life insurance companies dismiss GST exemption concerns, see limited impact on input tax credit: Report",
     "fetched_on": "2025-09-10T08:27:13.868567+00:00",
-    "content": "Life insurance companies have dismissed concerns over the impact of Goods and Services Tax (GST) exemption on input tax credit, saying they have strategies in place to manage the situation. According\u2026 [+2117 chars]",
+    "content": "Life insurance companies have dismissed concerns over the impact of Goods and Services Tax (GST) exemption on input tax credit, saying they have strategies in place to manage the situation. According... [+2117 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "tax",
@@ -1065,9 +1065,9 @@
   {
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/money/personal-finance/idfc-firstmoney-smart-personal-loan-100-digital-no-foreclosure-fee-should-you-take-it-emis-11757397867426.html",
-    "title": "IDFC FIRSTmoney Smart Personal Loan \u2013 100% digital, no foreclosure fee: Should you take it?",
+    "title": "IDFC FIRSTmoney Smart Personal Loan - 100% digital, no foreclosure fee: Should you take it?",
     "fetched_on": "2025-09-10T08:27:13.868567+00:00",
-    "content": "When choosing a personal loan, what are the factors that an individual considers? Some of these include digital application and processing, quick approval and disbursal, flexible repayment options, n\u2026 [+6544 chars]",
+    "content": "When choosing a personal loan, what are the factors that an individual considers? Some of these include digital application and processing, quick approval and disbursal, flexible repayment options, n... [+6544 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Loan",
@@ -1087,7 +1087,7 @@
     "url": "https://7news.com.au/news/banks-back-scrapping-card-surcharge-but-warn-other-rba-proposals-could-reduce-benefits-c-19960592",
     "title": "Banks back scrapping card surcharge but warn other RBA proposals could reduce benefits",
     "fetched_on": "2025-09-10T07:19:38.572664+00:00",
-    "content": "Australian banks strongly support banning debit and credit card surcharges but warn customers could be slugged in other ways.\r\nThe RBA in July proposed banning the surcharges that some merchants char\u2026 [+2208 chars]",
+    "content": "Australian banks strongly support banning debit and credit card surcharges but warn customers could be slugged in other ways. The RBA in July proposed banning the surcharges that some merchants char... [+2208 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Australian",
@@ -1107,7 +1107,7 @@
     "url": "https://www.livemint.com/money/personal-finance/why-does-credit-monitoring-matter-a-lot-for-msme-borrowers-loans-11757404745066.html",
     "title": "Why does credit monitoring matter a lot for MSME borrowers?",
     "fetched_on": "2025-09-10T09:20:56.990158+00:00",
-    "content": "There is a long way to go for small businesses in India to use credit access efficiently for business expansion and growth. The government, through multiple policies, refinance programs, and credit g\u2026 [+6597 chars]",
+    "content": "There is a long way to go for small businesses in India to use credit access efficiently for business expansion and growth. The government, through multiple policies, refinance programs, and credit g... [+6597 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "MSME",
@@ -1127,7 +1127,7 @@
     "url": "https://www.etfdailynews.com/2025/09/09/845-shares-in-credit-acceptance-corporation-cacc-acquired-by-trexquant-investment-lp/",
     "title": "845 Shares in Credit Acceptance Corporation $CACC Acquired by Trexquant Investment LP",
     "fetched_on": "2025-09-10T09:20:56.990158+00:00",
-    "content": "Trexquant Investment LP purchased a new position in Credit Acceptance Corporation (NASDAQ:CACC \u2013 Free Report) in the first quarter, according to the company in its most recent disclosure with the Sec\u2026 [+4400 chars]",
+    "content": "Trexquant Investment LP purchased a new position in Credit Acceptance Corporation (NASDAQ:CACC - Free Report) in the first quarter, according to the company in its most recent disclosure with the Sec... [+4400 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Corporation",
@@ -1147,7 +1147,7 @@
     "url": "http://www.pymnts.com/money-mobility/2025/why-time-not-money-now-defines-lender-value/",
     "title": "Why Time, Not Money, Now Defines Lender Value",
     "fetched_on": "2025-09-10T09:20:56.990158+00:00",
-    "content": "When it comes to borrowing, timing has always mattered. But today, its not just about interest rates, loan terms or approval odds. Its about speed. Increasingly, borrowers dont just want their funds \u2026 [+3877 chars]",
+    "content": "When it comes to borrowing, timing has always mattered. But today, its not just about interest rates, loan terms or approval odds. Its about speed. Increasingly, borrowers dont just want their funds ... [+3877 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Time",
@@ -1165,9 +1165,9 @@
   {
     "source": "ETF Daily News [NewsAPI]",
     "url": "https://www.etfdailynews.com/2025/09/09/abrdn-income-credit-strategies-fund-nyseacp-share-price-crosses-above-two-hundred-day-moving-average-heres-why/",
-    "title": "Abrdn Income Credit Strategies Fund (NYSE:ACP) Share Price Crosses Above Two Hundred Day Moving Average \u2013 Here\u2019s Why",
+    "title": "Abrdn Income Credit Strategies Fund (NYSE:ACP) Share Price Crosses Above Two Hundred Day Moving Average - Here's Why",
     "fetched_on": "2025-09-10T08:27:13.868567+00:00",
-    "content": "Abrdn Income Credit Strategies Fund (NYSE:ACP \u2013 Get Free Report)\u2019s share price crossed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $5.84 and \u2026 [+2973 chars]",
+    "content": "Abrdn Income Credit Strategies Fund (NYSE:ACP - Get Free Report)'s share price crossed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $5.84 and ... [+2973 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "NYSE",
@@ -1187,7 +1187,7 @@
     "url": "https://www.ozbargain.com.au/node/923410",
     "title": "Pyng Payment System No Fees - New Member Get $10 Cashback Instantly",
     "fetched_on": "2025-09-10T08:27:13.868567+00:00",
-    "content": "Another PayTo payment thing. No fees. link your bank a/c then scan the QR code at the restaurant, enter $ amount then tap pay.as far as i know no credit check, and you can remove/reinstate the agreem\u2026 [+1019 chars]",
+    "content": "Another PayTo payment thing. No fees. link your bank a/c then scan the QR code at the restaurant, enter $ amount then tap pay.as far as i know no credit check, and you can remove/reinstate the agreem... [+1019 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Fees",
@@ -1207,7 +1207,7 @@
     "url": "https://www.etfdailynews.com/2025/09/09/trexquant-investment-lp-trims-position-in-carlyle-secured-lending-inc-cgbd/",
     "title": "Trexquant Investment LP Trims Position in Carlyle Secured Lending, Inc. $CGBD",
     "fetched_on": "2025-09-10T08:27:13.868567+00:00",
-    "content": "Trexquant Investment LP lessened its stake in shares of Carlyle Secured Lending, Inc. (NASDAQ:CGBD \u2013 Free Report) by 65.8% during the 1st quarter, Holdings Channel reports. The fund owned 23,909 shar\u2026 [+5932 chars]",
+    "content": "Trexquant Investment LP lessened its stake in shares of Carlyle Secured Lending, Inc. (NASDAQ:CGBD - Free Report) by 65.8% during the 1st quarter, Holdings Channel reports. The fund owned 23,909 shar... [+5932 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Lending",
@@ -1227,7 +1227,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/09/09/3146616/0/en/TenFifty-Capital-a-New-European-CRE-Lending-Platform-Announces-Its-Launch.html",
     "title": "TenFifty Capital, a New European CRE Lending Platform, Announces Its Launch",
     "fetched_on": "2025-09-10T08:27:13.868567+00:00",
-    "content": "Led by CEO and Industry Veteran Hugh Fraser, TenFifty Launches in Alliance with Apollo\r\nFirm to Focus on Small- and Mid-Market Commercial Real Estate Lending Opportunities\r\nMADRID, Sept. 09, 2025 (GL\u2026 [+5463 chars]",
+    "content": "Led by CEO and Industry Veteran Hugh Fraser, TenFifty Launches in Alliance with Apollo Firm to Focus on Small- and Mid-Market Commercial Real Estate Lending Opportunities MADRID, Sept. 09, 2025 (GL... [+5463 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Sept.",
@@ -1263,9 +1263,9 @@
   {
     "source": "Financial Post [NewsAPI]",
     "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/new-legalshield-research-warns-of-buy-now-pay-later-credit-crunch-3-in-4-americans-use-it-half-miss-payments",
-    "title": "New LegalShield Research Warns of \u2018Buy Now Pay Later\u2019 Credit Crunch: 3 in 4 Americans Use It, Half Miss Payments",
+    "title": "New LegalShield Research Warns of ‘Buy Now Pay Later' Credit Crunch: 3 in 4 Americans Use It, Half Miss Payments",
     "fetched_on": "2025-09-10T10:20:25.723868+00:00",
-    "content": "BNPL shifts from luxury to necessity: 47% use for groceries, 35% for medical billsCredit score surprise: 38% dont know FICO changes coming this fallLegal exposure rises: missed BNPL payments put mill\u2026 [+7557 chars]",
+    "content": "BNPL shifts from luxury to necessity: 47% use for groceries, 35% for medical billsCredit score surprise: 38% dont know FICO changes coming this fallLegal exposure rises: missed BNPL payments put mill... [+7557 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -1285,7 +1285,7 @@
     "url": "https://www.finextra.com/pressarticle/106978/nova-credit-appoints-eugene-ludwig-to-board",
     "title": "Nova Credit appoints Eugene Ludwig to board",
     "fetched_on": "2025-09-10T10:20:25.723868+00:00",
-    "content": "Nova Credit, the leading credit infrastructure and analytics company, today announced that Eugene Ludwig, former U.S. Comptroller of the Currency and Managing Partner at Canapi Ventures, has joined i\u2026 [+3338 chars]",
+    "content": "Nova Credit, the leading credit infrastructure and analytics company, today announced that Eugene Ludwig, former U.S. Comptroller of the Currency and Managing Partner at Canapi Ventures, has joined i... [+3338 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -1305,7 +1305,7 @@
     "url": "https://www.etfdailynews.com/2025/09/09/reviewing-ally-financial-nyseally-and-manhattan-bridge-capital-nasdaqloan/",
     "title": "Reviewing Ally Financial (NYSE:ALLY) and Manhattan Bridge Capital (NASDAQ:LOAN)",
     "fetched_on": "2025-09-10T09:20:56.990158+00:00",
-    "content": "Ally Financial (NYSE:ALLY \u2013 Get Free Report) and Manhattan Bridge Capital (NASDAQ:LOAN \u2013 Get Free Report) are both finance companies, but which is the better investment? We will compare the two compa\u2026 [+6853 chars]",
+    "content": "Ally Financial (NYSE:ALLY - Get Free Report) and Manhattan Bridge Capital (NASDAQ:LOAN - Get Free Report) are both finance companies, but which is the better investment? We will compare the two compa... [+6853 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "NYSE",
@@ -1325,7 +1325,7 @@
     "url": "https://www.livemint.com/money/personal-finance/how-improving-your-credit-score-helps-you-qualify-for-bigger-personal-loans-11757404103983.html",
     "title": "How improving your credit score helps you qualify for bigger personal loans",
     "fetched_on": "2025-09-10T09:20:56.990158+00:00",
-    "content": "Consistently improving your credit score has now become indispensable. It gains even more importance as a high credit score increases the chances of securing personal loans, credit cards, and other c\u2026 [+3597 chars]",
+    "content": "Consistently improving your credit score has now become indispensable. It gains even more importance as a high credit score increases the chances of securing personal loans, credit cards, and other c... [+3597 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "credit",
@@ -1345,7 +1345,7 @@
     "url": "https://biztoc.com/x/1b1fbc3db56405fb",
     "title": "HELOC rates today, September 9, 2025: The biggest rate discount you'll get is when you open a HELOC",
     "fetched_on": "2025-09-10T11:16:18.661241+00:00",
-    "content": "HELOC rates today range from 8.05% to 9.59% APR nationally. While it's smart to shop for the best home equity line of credit interest rate, when you open a new account with the right lender, you'll g\u2026 [+152 chars]",
+    "content": "HELOC rates today range from 8.05% to 9.59% APR nationally. While it's smart to shop for the best home equity line of credit interest rate, when you open a new account with the right lender, you'll g... [+152 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "HELOC",
@@ -1365,7 +1365,7 @@
     "url": "https://www.livemint.com/money/personal-finance/credit-card-phone-scams-why-sharing-otps-or-cvvs-is-risky-and-how-to-stay-safe-11757406949536.html",
     "title": "Credit card phone scams: Why sharing OTPs or CVVs is risky and how to stay safe",
     "fetched_on": "2025-09-10T10:20:25.723868+00:00",
-    "content": "Sharing credit card details such as OTPs, CVVs, or images over the phone continues to be a risky practice. Such a practice must be discouraged among all credit card users. Proper financial awareness \u2026 [+4943 chars]",
+    "content": "Sharing credit card details such as OTPs, CVVs, or images over the phone continues to be a risky practice. Such a practice must be discouraged among all credit card users. Proper financial awareness ... [+4943 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "sharing",
@@ -1385,7 +1385,7 @@
     "url": "https://www.ozbargain.com.au/node/923433",
     "title": "Win a 3-Night 3-Bed Villa at Koh Samui up to 6p + $1,000 Sheet Society Gift Voucher + $1,000 Flight Credit from Sheet Society",
     "fetched_on": "2025-09-10T10:20:25.723868+00:00",
-    "content": "WIN a $5000 escape with a dream bed refreshEnter now for your chance to experience the ultimate getaway:\r\n 3-night stay in a Three-Bedroom Villa at Samujana Villas, Koh Samui, for up to six guests$10\u2026 [+140 chars]",
+    "content": "WIN a $5000 escape with a dream bed refreshEnter now for your chance to experience the ultimate getaway: 3-night stay in a Three-Bedroom Villa at Samujana Villas, Koh Samui, for up to six guests$10... [+140 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Koh",
@@ -1403,9 +1403,9 @@
   {
     "source": "Fortune [NewsAPI]",
     "url": "https://fortune.com/2025/09/09/ramp-valuation-founders-fund-thrive-keith-rabois-brex-fintech/",
-    "title": "An inside look at Ramp\u2019s eye-popping $22.5 billion valuation",
+    "title": "An inside look at Ramp's eye-popping $22.5 billion valuation",
     "fetched_on": "2025-09-10T10:20:25.723868+00:00",
-    "content": "Software companies designed to reduce the drudgery of back-office tasks dont tend to become household names. Somehow, Ramp is defying the odds. The six-year-old fintech startup has generated an almos\u2026 [+7440 chars]",
+    "content": "Software companies designed to reduce the drudgery of back-office tasks dont tend to become household names. Somehow, Ramp is defying the odds. The six-year-old fintech startup has generated an almos... [+7440 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Software",
@@ -1425,7 +1425,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2025/09/09/wolfspeed-whats-happening-with-wolf-stock/",
     "title": "Wolfspeed: What's Happening With WOLF Stock?",
     "fetched_on": "2025-09-10T10:20:25.723868+00:00",
-    "content": "SUQIAN, CHINA - MAY 9, 2025 - An illustration photo shows the Wolfspeed LOGO displayed in a smartphone in Suqian City, Jiangsu Province, China on May 9, 2025. (Photo credit should read CFOTO/Future P\u2026 [+3031 chars]",
+    "content": "SUQIAN, CHINA - MAY 9, 2025 - An illustration photo shows the Wolfspeed LOGO displayed in a smartphone in Suqian City, Jiangsu Province, China on May 9, 2025. (Photo credit should read CFOTO/Future P... [+3031 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Stock",
@@ -1441,7 +1441,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/credit-market-math-is-making-buyers-cash-no-matter-what-rates-do",
     "title": "Credit Market Math Is Making Buyers Cash No Matter What Rates Do",
     "fetched_on": "2025-09-10T12:40:30.417816+00:00",
@@ -1461,7 +1461,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-09-10/jpmorgan-barclays-among-banks-facing-tricolor-losses-video",
     "title": "JPMorgan, Barclays Among Banks Facing Tricolor Losses",
     "fetched_on": "2025-09-10T12:40:30.417828+00:00",
@@ -1485,7 +1485,7 @@
     "url": "https://www.pcgamer.com/games/fps/borderlands-4s-campaign-skips-could-be-a-double-edged-sword-for-gearbox/",
     "title": "Borderlands 4's campaign skips could be a double-edged sword for Gearbox",
     "fetched_on": "2025-09-10T11:16:18.661241+00:00",
-    "content": "Rory Norris, Guides Writer\r\n(Image credit: Future)\r\nLast week I was: planning builds for every single skill tree in Borderlands 4, hoping it would help me pick a character, but actually leaving me mo\u2026 [+3824 chars]",
+    "content": "Rory Norris, Guides Writer (Image credit: Future) Last week I was: planning builds for every single skill tree in Borderlands 4, hoping it would help me pick a character, but actually leaving me mo... [+3824 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Future",
@@ -1503,13 +1503,13 @@
   {
     "source": "Pehub.com [NewsAPI]",
     "url": "http://www.pehub.com/exclusive-rhone-scoops-up-copperweld-bimetallics-from-kinderhook/",
-    "title": "Exclusive: Rh\u00f4ne scoops up Copperweld Bimetallics from Kinderhook",
+    "title": "Exclusive: Rhône scoops up Copperweld Bimetallics from Kinderhook",
     "fetched_on": "2025-09-10T11:16:18.661241+00:00",
     "content": "Kinderhook acquired the century-old metals business in 2019 from THL Credit and, over its six-year holding, grew EBITDA by approximately 650%.",
     "platforms_mentioned": [],
     "keywords": [
       "Exclusive",
-      "Rh\u00f4ne",
+      "Rhône",
       "Kinderhook",
       "Copperweld",
       "Bimetallics",
@@ -1525,7 +1525,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/09/09/3146734/0/en/Informativ-Introduces-Verified-Stips-to-Auto-Dealerships-and-Other-Businesses.html",
     "title": "Informativ Introduces Verified Stips to Auto Dealerships and Other Businesses",
     "fetched_on": "2025-09-10T11:16:18.661241+00:00",
-    "content": "FRISCO, Texas, Sept. 09, 2025 (GLOBE NEWSWIRE) -- Informativ, a provider of fraud prevention, compliance, and credit technology for the automotive and consumer finance industries, today introduced a \u2026 [+5515 chars]",
+    "content": "FRISCO, Texas, Sept. 09, 2025 (GLOBE NEWSWIRE) -- Informativ, a provider of fraud prevention, compliance, and credit technology for the automotive and consumer finance industries, today introduced a ... [+5515 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Texas",
@@ -1545,7 +1545,7 @@
     "url": "https://www.creativebloq.com/tech/laptops/this-lenovo-laptop-is-a-pure-gaming-beast-believe-me-i-checked",
     "title": "This Lenovo laptop is a pure gaming beast. Believe me, I checked",
     "fetched_on": "2025-09-10T11:16:18.661241+00:00",
-    "content": "Why you can trust Creative Bloq\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.\r\n(Image credit: Futu\u2026 [+12717 chars]",
+    "content": "Why you can trust Creative Bloq Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test. (Image credit: Futu... [+12717 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Lenovo",
@@ -1563,9 +1563,9 @@
   {
     "source": "Cheezburger.com [NewsAPI]",
     "url": "https://cheezburger.com/42318341/employee-maliciously-complies-with-letting-her-overbearing-manager-take-credit-for-all-her-work-by",
-    "title": "Employee maliciously complies with letting her overbearing manager take credit for all her work, by intentionally sending off manager's proofreading errors, prompting the client to question the manager\u2019s credibility: 'She no longer wanted to proofread'",
+    "title": "Employee maliciously complies with letting her overbearing manager take credit for all her work, by intentionally sending off manager's proofreading errors, prompting the client to question the manager's credibility: 'She no longer wanted to proofread'",
     "fetched_on": "2025-09-10T11:16:18.661241+00:00",
-    "content": "This employee is fed up with her manager taking credit for all the positive feedback she and her coworker receive at work, simply because the manager insists on proofreading every outgoing email. One\u2026 [+489 chars]",
+    "content": "This employee is fed up with her manager taking credit for all the positive feedback she and her coworker receive at work, simply because the manager insists on proofreading every outgoing email. One... [+489 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "manager",
@@ -1585,7 +1585,7 @@
     "url": "https://economictimes.indiatimes.com/wealth/save/upi-transaction-limits-for-these-categories-set-to-change-from-september-15-2025-see-the-list/articleshow/123784973.cms",
     "title": "UPI transaction limits for these categories set to change from September 15, 2025; see the list",
     "fetched_on": "2025-09-10T11:16:18.661241+00:00",
-    "content": "NPCIs increased transaction limit of Rs 5 lakh for categories like insurance premiums, capital markets, credit card bills, etc, will come into effect from September 15, 2025. Apart from that, the enh\u2026 [+2609 chars]",
+    "content": "NPCIs increased transaction limit of Rs 5 lakh for categories like insurance premiums, capital markets, credit card bills, etc, will come into effect from September 15, 2025. Apart from that, the enh... [+2609 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "September",
@@ -1605,7 +1605,7 @@
     "url": "https://biztoc.com/x/e2b445ab4d0aec1c",
     "title": "Italian bank lending to businesses accelerates in July",
     "fetched_on": "2025-09-10T11:16:18.661241+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did France's government collapse again? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Microsofts AI deal a\u2026 [+760 chars]",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did France's government collapse again? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Microsofts AI deal a... [+760 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -1623,7 +1623,7 @@
   {
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/m-30-start-contributing-401-104500620.html",
-    "title": "I\u2019m 30 and need to start contributing to my 401(k), but I also have $40K in student loans. What\u2019s my best bet?",
+    "title": "I'm 30 and need to start contributing to my 401(k), but I also have $40K in student loans. What's my best bet?",
     "fetched_on": "2025-09-10T11:16:53.017323+00:00",
     "content": "",
     "platforms_mentioned": [],
@@ -1636,11 +1636,11 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Business [RSS]",
+    "source": "Bloomberg – Business [RSS]",
     "url": "https://www.bloomberg.com/news/audio/2025-09-10/credit-crunch-france-tariffs-fed-uk-credit-always-resilient",
     "title": "Credit Crunch: France, Tariffs, Fed, UK: Credit Always Resilient",
     "fetched_on": "2025-09-10T16:25:28.951151+00:00",
-    "content": "Credit fared better than rates and equities through multiple crises this year across the globe &mdash; France, tariffs, Fed concerns and even the UK worries. In this episode of the Credit Crunch podcast, host Mahesh Bhimalingam, Bloomberg Intelligence\u2019s global head of credit strategy, discusses these crises and the multi-asset outlook with Iain Stealey, international CIO of global fixed income at JPMorgan Asset Management. They cover US, Europe and UK growth, inflation, central bank views and the doll",
+    "content": "Credit fared better than rates and equities through multiple crises this year across the globe &mdash; France, tariffs, Fed concerns and even the UK worries. In this episode of the Credit Crunch podcast, host Mahesh Bhimalingam, Bloomberg Intelligence's global head of credit strategy, discusses these crises and the multi-asset outlook with Iain Stealey, international CIO of global fixed income at JPMorgan Asset Management. They cover US, Europe and UK growth, inflation, central bank views and the doll",
     "platforms_mentioned": [],
     "keywords": [
       "France",
@@ -1656,11 +1656,11 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/fifth-third-ceo-says-200-million-loan-fraud-is-one-off-issue",
-    "title": "Fifth Third CEO Says $200 Million Loan Fraud Is \u2018One-Off\u2019 Issue",
+    "title": "Fifth Third CEO Says $200 Million Loan Fraud Is ‘One-Off' Issue",
     "fetched_on": "2025-09-10T21:17:53.197620+00:00",
-    "content": "Fifth Third Bancorp, which said it was the victim of fraud on a loan with a $200 million balance, believes the situation was an isolated incident in the company\u2019s warehouse-lending business, according to Chief Executive Officer Tim Spence.",
+    "content": "Fifth Third Bancorp, which said it was the victim of fraud on a loan with a $200 million balance, believes the situation was an isolated incident in the company's warehouse-lending business, according to Chief Executive Officer Tim Spence.",
     "platforms_mentioned": [],
     "keywords": [
       "Million",
@@ -1678,9 +1678,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/09/09/todays-nyt-mini-crossword-clues-and-answers-for-tuesday-september-9th/",
-    "title": "Today\u2019s NYT Mini Crossword Clues And Answers For Tuesday, September 9th",
+    "title": "Today's NYT Mini Crossword Clues And Answers For Tuesday, September 9th",
     "fetched_on": "2025-09-10T13:27:29.549722+00:00",
-    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nTuesday is perhaps the most underappreciated day of the week. Its not the beginn\u2026 [+2615 chars]",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle. Credit: NYT Tuesday is perhaps the most underappreciated day of the week. Its not the beginn... [+2615 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Mini",
@@ -1740,7 +1740,7 @@
     "url": "https://hollywoodlife.com/2025/09/09/maximize-vacation-shots-with-sunglasses-deliver-style-and-protection/",
     "title": "Maximize Your Vacation Shots with Sunglasses That Deliver Style and Protection",
     "fetched_on": "2025-09-10T13:27:29.549722+00:00",
-    "content": "Image Credit: FreePik\r\nIf youve ever scrolled through your vacation photos and wondered why some shots look like they belong in a magazine while others feel more forgettable, heres a little secret: i\u2026 [+5166 chars]",
+    "content": "Image Credit: FreePik If youve ever scrolled through your vacation photos and wondered why some shots look like they belong in a magazine while others feel more forgettable, heres a little secret: i... [+5166 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -1760,7 +1760,7 @@
     "url": "https://fantasy.fangraphs.com/stacking-coors-fielders-next-week/",
     "title": "Stacking Coors Fielders Next Week",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "Mandatory Credit: David Richard-Imagn Images\r\nThe year may have changed, but Coors Field remains the premier hitting venue in baseball. I have to go back to 2021 to find the first season it wasn\u2019t th\u2026 [+13919 chars]",
+    "content": "Mandatory Credit: David Richard-Imagn Images The year may have changed, but Coors Field remains the premier hitting venue in baseball. I have to go back to 2021 to find the first season it wasn't th... [+13919 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Coors",
@@ -1798,9 +1798,9 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/samantha-lockwood-talks-a-line-of-fire-and-working-with-jason-patric/article",
-    "title": "Samantha Lockwood talks \u2018A Line of Fire,\u2019 and working with Jason Patric",
+    "title": "Samantha Lockwood talks ‘A Line of Fire,' and working with Jason Patric",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "Samantha Lockwood. Photo Credit: Tanya Timal.\r\nActress Samantha Lockwood chatted about the film \u201cA Line of Fire,\u201d and working with Jason Patric.\r\nThe synopsis is: After his wife passed, ex-secret age\u2026 [+2126 chars]",
+    "content": "Samantha Lockwood. Photo Credit: Tanya Timal. Actress Samantha Lockwood chatted about the film “A Line of Fire,” and working with Jason Patric. The synopsis is: After his wife passed, ex-secret age... [+2126 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Fire",
@@ -1818,9 +1818,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/manasipathak-1/2025/09/09/atp-rankings-2025-all-to-know-about-the-top-mens-tennis-players/",
-    "title": "Top Men\u2019s Tennis Players In The 2025 ATP Rankings",
+    "title": "Top Men's Tennis Players In The 2025 ATP Rankings",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "Tennis: US Open: Carlos Alcaraz of Spain and Jannik Sinner of Italy pose together during the Men's Singles Final match at USTA Billie Jean King National Tennis Center. Flushing, NY 9/7/2025 CREDIT: E\u2026 [+4770 chars]",
+    "content": "Tennis: US Open: Carlos Alcaraz of Spain and Jannik Sinner of Italy pose together during the Men's Singles Final match at USTA Billie Jean King National Tennis Center. Flushing, NY 9/7/2025 CREDIT: E... [+4770 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Tennis",
@@ -1840,7 +1840,7 @@
     "url": "https://www.forbes.com/sites/jeffkauflin/2025/09/09/leading-digital-bank-chime-rolls-out-cash-back-secured-credit-card/",
     "title": "Leading Digital Bank Chime Rolls Out Cash-Back Secured Credit Card",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "Chime's cash-back card has some similarities to secured cards offered by Discover and Capital One.\r\nChime\r\nChime has grown into the largest U.S. digital bank without offering a financial product belo\u2026 [+4431 chars]",
+    "content": "Chime's cash-back card has some similarities to secured cards offered by Discover and Capital One. Chime Chime has grown into the largest U.S. digital bank without offering a financial product belo... [+4431 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Chime",
@@ -1860,7 +1860,7 @@
     "url": "https://time.com/7315514/france-macron-bayrou-government-collapse/",
     "title": "How Macron Failed France",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "France's President Emmanuel Macron in the courtyard of the Hotel des Invalides in Paris on Sept. 5, 2025. Credit - Ludovic MarinAFP/Getty Images\r\nThe brief and unremarkable tenure of Frances prime mi\u2026 [+5722 chars]",
+    "content": "France's President Emmanuel Macron in the courtyard of the Hotel des Invalides in Paris on Sept. 5, 2025. Credit - Ludovic MarinAFP/Getty Images The brief and unremarkable tenure of Frances prime mi... [+5722 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Macron",
@@ -1880,7 +1880,7 @@
     "url": "https://biztoc.com/x/1196a26b6a14f4f5",
     "title": "Bitget Wallet & Aave Launch Stablecoin Earn Plus With 10% APY",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "Bitget Wallet, a leading non-custodial crypto wallet, has partnered with Aave, one of the largest decentralized lending protocols, to launch Stablecoin Earn Plus, a yield product offering a base retu\u2026 [+150 chars]",
+    "content": "Bitget Wallet, a leading non-custodial crypto wallet, has partnered with Aave, one of the largest decentralized lending protocols, to launch Stablecoin Earn Plus, a yield product offering a base retu... [+150 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Wallet",
@@ -1900,7 +1900,7 @@
     "url": "https://biztoc.com/x/9fce729bfc1bd663",
     "title": "Bernstein sees upside for Robinhood after S&P 500 inclusion and tokenization push",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "Robinhood is rapidly expanding beyond retail trading into wealth management, credit, crypto, and tokenized markets.\r\nThis story appeared on theblock.co, 2025-09-09 11:31:22.",
+    "content": "Robinhood is rapidly expanding beyond retail trading into wealth management, credit, crypto, and tokenized markets. This story appeared on theblock.co, 2025-09-09 11:31:22.",
     "platforms_mentioned": [],
     "keywords": [
       "Robinhood",
@@ -1920,7 +1920,7 @@
     "url": "https://cryptonews.com/news/bitget-wallet-aave-launch-stablecoin-earn-plus-with-10-apy/",
     "title": "Bitget Wallet & Aave Launch Stablecoin Earn Plus With 10% APY",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "Bitget Wallet, a leading non-custodial crypto wallet, has partnered with Aave, one of the largest decentralized lending protocols, to launch Stablecoin Earn Plus, a yield product offering a base retu\u2026 [+2438 chars]",
+    "content": "Bitget Wallet, a leading non-custodial crypto wallet, has partnered with Aave, one of the largest decentralized lending protocols, to launch Stablecoin Earn Plus, a yield product offering a base retu... [+2438 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Wallet",
@@ -1940,7 +1940,7 @@
     "url": "https://africasacountry.com/2025/09/colonize-then-deport-now/",
     "title": "Colonize then, deport now",
     "fetched_on": "2025-09-10T12:40:29.767019+00:00",
-    "content": "Trump\u2019s deportation regime revives a colonial blueprint first drafted by the American Colonization Society, when Black lives were exiled to Africa to safeguard a white republic.\n\n\n\n \n \n Image credit \u2026 [+6873 chars]",
+    "content": "Trump's deportation regime revives a colonial blueprint first drafted by the American Colonization Society, when Black lives were exiled to Africa to safeguard a white republic. Image credit ... [+6873 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Society",
@@ -1958,14 +1958,14 @@
   {
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/ve-got-1k-play-every-114500286.html",
-    "title": "I\u2019ve got about $1K to play with every month \u2014 should I pay off my student loans or start investing for growth?",
+    "title": "I've got about $1K to play with every month - should I pay off my student loans or start investing for growth?",
     "fetched_on": "2025-09-10T12:40:47.852066+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "month",
       "growth",
-      "\u2019ve",
+      "’ve",
       "play",
       "pay",
       "student",
@@ -1995,9 +1995,9 @@
   {
     "source": "Thurrott.com [NewsAPI]",
     "url": "https://www.thurrott.com/cloud/326252/google-open-web-is-in-rapid-decline",
-    "title": "Google: Open Web is in \u201cRapid Decline\u201d",
+    "title": "Google: Open Web is in “Rapid Decline”",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Image credit: Greg Bulla on Unsplash\r\nIn a legal filing tied to U.S. v. Google (advertising), Google admitted something it had publicly denied: The web is in rapid decline thanks to new AI tools that\u2026 [+2576 chars]",
+    "content": "Image credit: Greg Bulla on Unsplash In a legal filing tied to U.S. v. Google (advertising), Google admitted something it had publicly denied: The web is in rapid decline thanks to new AI tools that... [+2576 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Google",
@@ -2033,7 +2033,7 @@
     "url": "https://insidethemagic.net/2025/09/disney-axes-years-old-christmas-park-tradition-confirms-holidays-will-not-look-the-same-ld1/",
     "title": "Disney Axes Years-Old Christmas Park Tradition, Confirms Holidays Will Not Look the Same",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Christmas will look a little different at this Disney theme park resort.\r\nCredit: Disney\r\nRelated: Every Classic Disney Ride Ranked by Its Risk of Permanent Shutdown\r\nWhile there\u2019s never really an \u201co\u2026 [+3007 chars]",
+    "content": "Christmas will look a little different at this Disney theme park resort. Credit: Disney Related: Every Classic Disney Ride Ranked by Its Risk of Permanent Shutdown While there's never really an “o... [+3007 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Christmas",
@@ -2053,7 +2053,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/09/09/3147013/0/en/Oatly-Contemplates-Issuance-of-Nordic-Bonds-to-Prepay-Term-Loan-B-and-Repurchase-and-Cancel-Certain-U-S-Convertible-Notes.html",
     "title": "Oatly Contemplates Issuance of Nordic Bonds to Prepay Term Loan B and Repurchase and Cancel Certain U.S. Convertible Notes",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "MALM\u00d6, Sweden, Sept. 09, 2025 (GLOBE NEWSWIRE) -- Oatly Group AB (Nasdaq: OTLY) (Oatly or the Company) announced today that it (i)\u00a0will participate in a series of investor meetings to pursue the\u00a0issu\u2026 [+14669 chars]",
+    "content": "MALMÖ, Sweden, Sept. 09, 2025 (GLOBE NEWSWIRE) -- Oatly Group AB (Nasdaq: OTLY) (Oatly or the Company) announced today that it (i) will participate in a series of investor meetings to pursue the issu... [+14669 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Oatly",
@@ -2062,7 +2062,7 @@
       "Nasdaq",
       "OTLY",
       "Convertible",
-      "MALM\u00d6",
+      "MALMÖ",
       "GLOBE",
       "NEWSWIRE",
       "Company"
@@ -2073,7 +2073,7 @@
     "url": "https://froknowsphoto.com/finally-canon-c50-preview-a-sony-fx3-fx2-killer/",
     "title": "FINALLY! Canon C50 pREVIEW: a Sony FX3 / FX2 KILLER?!",
     "fetched_on": "2025-09-10T13:27:29.549722+00:00",
-    "content": "This video is brought to you by B&amp;H\u2019s credit card called PayBoo, where you pay the tax, and B&amp;H pays you back instantly. I just saved over $800 in tax on a $14,000 dollar order thanks to me s\u2026 [+792 chars]",
+    "content": "This video is brought to you by B&amp;H's credit card called PayBoo, where you pay the tax, and B&amp;H pays you back instantly. I just saved over $800 in tax on a $14,000 dollar order thanks to me s... [+792 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "FINALLY",
@@ -2113,7 +2113,7 @@
     "url": "https://thepointsguy.com/credit-cards/capital-one-venture-x-business-card-current-offer/",
     "title": "Capital One Venture X Business' welcome bonus is currently worth over $2,700",
     "fetched_on": "2025-09-10T13:27:29.549722+00:00",
-    "content": "After the successful launch of the personal Capital One Venture X Rewards Credit Card in 2021, Capital One began offering its business counterpart to the public in 2023, the Capital One Venture X Bus\u2026 [+3804 chars]",
+    "content": "After the successful launch of the personal Capital One Venture X Rewards Credit Card in 2021, Capital One began offering its business counterpart to the public in 2023, the Capital One Venture X Bus... [+3804 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Venture",
@@ -2133,7 +2133,7 @@
     "url": "https://siliconangle.com/2025/09/09/monte-carlo-debuts-universal-observability-tool-ai-inputs-outputs/",
     "title": "Monte Carlo debuts a universal observability tool for AI inputs and outputs",
     "fetched_on": "2025-09-10T13:27:29.549722+00:00",
-    "content": "Big-data observability startup Monte Carlo Data Inc. is lending its expertise to artificial intelligence with the launch of a new Agent Observability offering that ensures visibility across the full \u2026 [+6496 chars]",
+    "content": "Big-data observability startup Monte Carlo Data Inc. is lending its expertise to artificial intelligence with the launch of a new Agent Observability offering that ensures visibility across the full ... [+6496 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Carlo",
@@ -2153,7 +2153,7 @@
     "url": "https://www.geeky-gadgets.com/iiphone-17-leaks/",
     "title": "All the Last-Minute iPhone 17 Leaks You NEED to See",
     "fetched_on": "2025-09-10T13:27:29.549722+00:00",
-    "content": "Apples iPhone 17 series marks a significant evolution in smartphone technology, blending advanced features with a refined design philosophy. From reverse wireless charging to new camera advancements,\u2026 [+6205 chars]",
+    "content": "Apples iPhone 17 series marks a significant evolution in smartphone technology, blending advanced features with a refined design philosophy. From reverse wireless charging to new camera advancements,... [+6205 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Leaks",
@@ -2173,7 +2173,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/09/09/3146991/0/en/Freddie-Mac-Prices-Approximately-707-Million-Securitization-of-Re-Performing-Loans.html",
     "title": "Freddie Mac Prices Approximately $707 Million Securitization of Re-Performing Loans",
     "fetched_on": "2025-09-10T13:27:29.549722+00:00",
-    "content": "MCLEAN, Va., Sept. 09, 2025 (GLOBE NEWSWIRE) -- Freddie Mac (OTCQB: FMCC) announced today the pricing of its second Seasoned Credit Risk Transfer Trust (SCRT) offering of 2025a securitization of appr\u2026 [+4506 chars]",
+    "content": "MCLEAN, Va., Sept. 09, 2025 (GLOBE NEWSWIRE) -- Freddie Mac (OTCQB: FMCC) announced today the pricing of its second Seasoned Credit Risk Transfer Trust (SCRT) offering of 2025a securitization of appr... [+4506 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Freddie",
@@ -2209,11 +2209,11 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-09-10/jpm-fifth-third-among-banks-facing-tricolor-losses-video",
     "title": "JPM, Fifth Third Among Banks Facing Tricolor Losses",
     "fetched_on": "2025-09-10T15:20:32.376206+00:00",
-    "content": "The Cincinnati-based bank Fifth Third was victim of fraud on a loan in what its CEO says is a \u201cone-off\u201d incident. Herman Chan of Bloomberg Intelligence tells Open Interest that the bank will launch an internal investigation as it mulls a potential pullback on lending related to warehouse facilities (Source: Bloomberg)",
+    "content": "The Cincinnati-based bank Fifth Third was victim of fraud on a loan in what its CEO says is a “one-off” incident. Herman Chan of Bloomberg Intelligence tells Open Interest that the bank will launch an internal investigation as it mulls a potential pullback on lending related to warehouse facilities (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
       "JPM",
@@ -2233,7 +2233,7 @@
     "url": "https://biztoc.com/x/2e8c1bf0db3a6893",
     "title": "A full-length animated film made from A.I.?!",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "OpenAI is lending its tools and backing the creator of \"Critterz,\" an AI-made animated short film about forest creatures. The creator ...\r\nThis story appeared on youtube.com, 2025-09-09 14:01:48.",
+    "content": "OpenAI is lending its tools and backing the creator of \"Critterz,\" an AI-made animated short film about forest creatures. The creator ... This story appeared on youtube.com, 2025-09-09 14:01:48.",
     "platforms_mentioned": [],
     "keywords": [
       "Critterz",
@@ -2253,7 +2253,7 @@
     "url": "https://thehockeynews.com/ohl/latest-news/former-ohl-teammates-dealt-for-each-other-in-nhl-trade",
     "title": "Former OHL Teammates Dealt For Each Other In NHL Trade",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Photo\u00a0Credit: Tom Martineau/OHL Images\" /&gt;\r\nA minor NHL trade went down on Sept. 4 between the Seattle Kraken and the\u00a0Philadelphia Flyers. The two players involved in the deal have a history with \u2026 [+3252 chars]",
+    "content": "Photo Credit: Tom Martineau/OHL Images\" /&gt; A minor NHL trade went down on Sept. 4 between the Seattle Kraken and the Philadelphia Flyers. The two players involved in the deal have a history with ... [+3252 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "NHL",
@@ -2271,9 +2271,9 @@
   {
     "source": "allears.net [NewsAPI]",
     "url": "https://allears.net/2025/09/09/disney-visa-cardholders-can-get-an-exclusive-discount-on-souvenirs-but-not-for-long/",
-    "title": "Disney Visa Cardholders Can Get an EXCLUSIVE Discount on Souvenirs \u2014 But Not for Long!",
+    "title": "Disney Visa Cardholders Can Get an EXCLUSIVE Discount on Souvenirs - But Not for Long!",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "There\u2019s no better time to shop for Disney merchandise online than RIGHT NOW, especially if you\u2019re a Disney Visa cardholder!\r\nDisney Visa credit card\r\nFinding just the right gifts and souvenirs for yo\u2026 [+1710 chars]",
+    "content": "There's no better time to shop for Disney merchandise online than RIGHT NOW, especially if you're a Disney Visa cardholder! Disney Visa credit card Finding just the right gifts and souvenirs for yo... [+1710 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Visa",
@@ -2293,7 +2293,7 @@
     "url": "https://rollingout.com/2025/09/09/washington-and-reynolds-on-set-mishap/",
     "title": "Denzel Washington and Ryan Reynolds on-set mishap revealed",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Denzel Washington (Photo credit: Shutterstock.com / Jamie Lamor Thompson)\r\nA festival of storytelling\r\nThe Toronto International Film Festival has long been a stage where filmmakers, actors and story\u2026 [+9848 chars]",
+    "content": "Denzel Washington (Photo credit: Shutterstock.com / Jamie Lamor Thompson) A festival of storytelling The Toronto International Film Festival has long been a stage where filmmakers, actors and story... [+9848 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Shutterstock.com",
@@ -2313,7 +2313,7 @@
     "url": "https://www.ozbargain.com.au/node/923460",
     "title": "Amazon Cashback: Amazon Devices 12%, Physical Books 8%, DVD & Blu-Ray, Physical Music 5% (All Uncapped) & More @ TopCashback AU",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Nice Uncapped Cashback on Amazon Devices (12%), Physical Books (8%), DVD &amp; Blu-Ray, Physical Music 5% &amp; Other Categories.\r\n<ul><li>Cashback is ineligible if using any Amazon credit as partial\u2026 [+4551 chars]",
+    "content": "Nice Uncapped Cashback on Amazon Devices (12%), Physical Books (8%), DVD &amp; Blu-Ray, Physical Music 5% &amp; Other Categories. <ul><li>Cashback is ineligible if using any Amazon credit as partial... [+4551 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Physical",
@@ -2333,7 +2333,7 @@
     "url": "https://www.indiewire.com/lists/best-spike-lee-movies/",
     "title": "The 10 Best Spike Lee Movies",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Spike Lee is such a singular creative voice that he can get away with giving his films an entirely different name. In the credits of all of his projects, the director refers to them all as a \u201cSpike L\u2026 [+11923 chars]",
+    "content": "Spike Lee is such a singular creative voice that he can get away with giving his films an entirely different name. In the credits of all of his projects, the director refers to them all as a “Spike L... [+11923 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Lee",
@@ -2351,9 +2351,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/hughmcintyre/2025/09/09/motrhead-charts-a-new-bestseller-as-the-band-celebrates-its-anniversary/",
-    "title": "Mot\u00f6rhead Charts A New Bestseller As The Band Celebrates Its Anniversary",
+    "title": "Motörhead Charts A New Bestseller As The Band Celebrates Its Anniversary",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Mot\u00f6rheads live album No Sleep at All debuts at No. 34 on the U.K.s Official Rock &amp; Metal Albums chart as part of the bands fiftieth anniversary celebrations. (MANDATORY CREDIT Watal Asanuma/Shin\u2026 [+2170 chars]",
+    "content": "Motörheads live album No Sleep at All debuts at No. 34 on the U.K.s Official Rock &amp; Metal Albums chart as part of the bands fiftieth anniversary celebrations. (MANDATORY CREDIT Watal Asanuma/Shin... [+2170 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Official",
@@ -2373,7 +2373,7 @@
     "url": "https://insidethemagic.net/2025/09/disney-world-breaks-silence-on-controversial-project-following-3-year-delay-ld1/",
     "title": "Disney World Breaks Silence on Controversial Project Following 3 Year Delay",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Big things are on the way for Walt Disney World. Well, maybe.\r\nCredit: Disney World Resort\r\nRelated: Disney Axes Years-Old Christmas Park Tradition, Confirms Holidays Will Not Look the Same\r\nThe Walt\u2026 [+2696 chars]",
+    "content": "Big things are on the way for Walt Disney World. Well, maybe. Credit: Disney World Resort Related: Disney Axes Years-Old Christmas Park Tradition, Confirms Holidays Will Not Look the Same The Walt... [+2696 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Disney",
@@ -2391,9 +2391,9 @@
   {
     "source": "Rolling Out [NewsAPI]",
     "url": "https://rollingout.com/2025/09/09/halle-berrys-push-for-menopause-coverage/",
-    "title": "Halle Berry\u2019s powerful push for menopause health coverage",
+    "title": "Halle Berry's powerful push for menopause health coverage",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Halle Berry (Photo credit: Shutterstock.com / lev radin)\r\nMenopause is an inevitable transition that nearly half of Americans will experience in their lifetimes, yet it remains one of the most underf\u2026 [+9777 chars]",
+    "content": "Halle Berry (Photo credit: Shutterstock.com / lev radin) Menopause is an inevitable transition that nearly half of Americans will experience in their lifetimes, yet it remains one of the most underf... [+9777 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Shutterstock.com",
@@ -2413,7 +2413,7 @@
     "url": "https://biztoc.com/x/739704e1d316ebcb",
     "title": "US EV Market Is Dead",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Auto research firm iSeeCars forecasts that, when the $7,500 EV purchase tax credit is removed, the electric vehicle share of the U.S. new car market will fall from its present 7% to 8% all the way do\u2026 [+147 chars]",
+    "content": "Auto research firm iSeeCars forecasts that, when the $7,500 EV purchase tax credit is removed, the electric vehicle share of the U.S. new car market will fall from its present 7% to 8% all the way do... [+147 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Market",
@@ -2431,9 +2431,9 @@
   {
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/money/personal-finance/credit-cards-what-are-the-different-ways-to-encash-reward-points-explained-11757420684861.html",
-    "title": "Credit cards: What are the different ways to encash reward points \u2014 explained",
+    "title": "Credit cards: What are the different ways to encash reward points - explained",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Credit cards: When you use a credit card frequently to make payments, it is common to accumulate plenty of reward points. These reward points can be redeemed for various purposes, including booking f\u2026 [+2022 chars]",
+    "content": "Credit cards: When you use a credit card frequently to make payments, it is common to accumulate plenty of reward points. These reward points can be redeemed for various purposes, including booking f... [+2022 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -2451,9 +2451,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/davidchiu/2025/09/09/saint-etiennes-bob-stanley-on-why-the-trios-new-album-is-also-their-last/",
-    "title": "Saint Etienne\u2019s Bob Stanley On Why The Trio\u2019s New Album Is Also Their Last",
+    "title": "Saint Etienne's Bob Stanley On Why The Trio's New Album Is Also Their Last",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Saint Etienne (L-R): Sarah Cracknell, Pete Wiggs and Bob Stanley.\r\ncredit: Rob Baker Ashton\r\nSaint Etienne is not so much a British trio of musicians but rather a band of music fans whose origins go \u2026 [+10267 chars]",
+    "content": "Saint Etienne (L-R): Sarah Cracknell, Pete Wiggs and Bob Stanley. credit: Rob Baker Ashton Saint Etienne is not so much a British trio of musicians but rather a band of music fans whose origins go ... [+10267 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Bob",
@@ -2473,7 +2473,7 @@
     "url": "https://www.splitero.com/blog/tips-for-improving-your-credit-score",
     "title": "7 tips for improving your credit score",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "Rachel Westbrook for Splitero\r\n7 tips for improving your credit score\r\nBoosting your credit score is a key step toward enhancing your financial well-being. If your score is lower than youd like, ther\u2026 [+7716 chars]",
+    "content": "Rachel Westbrook for Splitero 7 tips for improving your credit score Boosting your credit score is a key step toward enhancing your financial well-being. If your score is lower than youd like, ther... [+7716 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "credit",
@@ -2493,7 +2493,7 @@
     "url": "https://biztoc.com/x/d8fd824934c62fba",
     "title": "Wells Fargo CFO says U.S. consumers spending more, credit in good shape",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Mistral AI's valuation double? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed rate cuts impact stoc\u2026 [+728 chars]",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Mistral AI's valuation double? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed rate cuts impact stoc... [+728 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -2513,7 +2513,7 @@
     "url": "https://biztoc.com/x/8b49a13a7670f7fc",
     "title": "Wells Fargo says US consumer finances are strong, with good credit",
     "fetched_on": "2025-09-10T14:18:57.274920+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Mistral AI's valuation double? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed rate cuts impact stoc\u2026 [+730 chars]",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Mistral AI's valuation double? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed rate cuts impact stoc... [+730 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -2549,9 +2549,9 @@
   {
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/a0aa5b30c42b42c5",
-    "title": "Blackstone\u2019s Private Credit Line to Dropbox Raised to $2.7 Billion",
+    "title": "Blackstone's Private Credit Line to Dropbox Raised to $2.7 Billion",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Robinhood stock soar on S&amp;P 500 inclusion? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will N\u2026 [+805 chars]",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Robinhood stock soar on S&amp;P 500 inclusion? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will N... [+805 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Billion",
@@ -2571,7 +2571,7 @@
     "url": "https://www.livemint.com/money/personal-finance/personal-loans-use-this-emi-calculator-to-check-monthly-payments-before-signing-on-the-dotted-line-11757425017187.html",
     "title": "Personal loans: Use this EMI calculator to check monthly payments before signing on the dotted line",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "Personal loan: If you are planning to take a personal loan from a bank, an NBFC or a fintech platform, it is advisable to use a personal loan EMI calculator to check the monthly instalment based on c\u2026 [+2041 chars]",
+    "content": "Personal loan: If you are planning to take a personal loan from a bank, an NBFC or a fintech platform, it is advisable to use a personal loan EMI calculator to check the monthly instalment based on c... [+2041 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Personal",
@@ -2591,7 +2591,7 @@
     "url": "https://time.com/7315588/gaza-flotilla-drone-attack-tunisia/",
     "title": "Aid Group Says Gaza Flotilla Hit By Drone. What We Know",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "A ship, known as the \"Family\" and is part of the Global Sumud Flotilla, is anchored off the coast of the village of Sidi Bou Said on September 9, 2025. Credit - Fethi BelaidAFP via Getty Images\r\nA bo\u2026 [+3935 chars]",
+    "content": "A ship, known as the \"Family\" and is part of the Global Sumud Flotilla, is anchored off the coast of the village of Sidi Bou Said on September 9, 2025. Credit - Fethi BelaidAFP via Getty Images A bo... [+3935 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Drone",
@@ -2611,7 +2611,7 @@
     "url": "https://www.luxurydaily.com/ralph-lauren-debuts-conversational-ai-stylist-for-app-users/",
     "title": "Ralph Lauren debuts conversational AI stylist for app users",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Apparel and accessories\r\nSeptember 9, 2025\r\n The Ask Ralph tool provides styling recommendations across mens and womens Polo Ralph Lauren collections. Image credit: Ralph Lauren \r\n By Amirah Keaton f\u2026 [+7131 chars]",
+    "content": "Apparel and accessories September 9, 2025 The Ask Ralph tool provides styling recommendations across mens and womens Polo Ralph Lauren collections. Image credit: Ralph Lauren By Amirah Keaton f... [+7131 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Ralph",
@@ -2631,7 +2631,7 @@
     "url": "https://rollingout.com/2025/09/09/marsai-martin-financial-wisdom-at-21/",
     "title": "Inspiring Marsai Martin leads with financial wisdom at 21",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Marsai Martin (Photo credit: Shutterstock.com / Kathy Hutchins)\r\nAt just 21 years old, Marsai Martin already has a r\u00e9sum\u00e9 that rivals artists twice her age. To many audiences, she is best known as Di\u2026 [+9721 chars]",
+    "content": "Marsai Martin (Photo credit: Shutterstock.com / Kathy Hutchins) At just 21 years old, Marsai Martin already has a résumé that rivals artists twice her age. To many audiences, she is best known as Di... [+9721 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Marsai",
@@ -2651,7 +2651,7 @@
     "url": "https://thepointsguy.com/credit-cards/citi-entertainment/",
     "title": "What is Citi Entertainment? Get access to concert presale tickets, VIP events and more",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Credit card issuers are all vying for our business, one way or another. Whether it's credit card rewards or a travel portal, issuers want to keep us locked in to their ecosystem.\r\nBeyond rewards and \u2026 [+4834 chars]",
+    "content": "Credit card issuers are all vying for our business, one way or another. Whether it's credit card rewards or a travel portal, issuers want to keep us locked in to their ecosystem. Beyond rewards and ... [+4834 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Entertainment",
@@ -2671,7 +2671,7 @@
     "url": "https://www.doctorofcredit.com/connexus-credit-union-300-checking-bonus/",
     "title": "Connexus Credit Union $300 Checking Bonus",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Did the offer 5 years ago or so, but closed the account a few year back. Applied and received the standard \u2013 \u201cThank you for your application. We will review your information shortly and you will rece\u2026 [+332 chars]",
+    "content": "Did the offer 5 years ago or so, but closed the account a few year back. Applied and received the standard - “Thank you for your application. We will review your information shortly and you will rece... [+332 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Union",
@@ -2691,7 +2691,7 @@
     "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-guild-trial-answers-adept/",
     "title": "How to pass the blacksmith guild trial in Kingdom Come: Deliverance 2",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Passing the guild trial in Kingdom Come: Deliverance 2\r\n is your first step on the road to becoming a proper, accredited blacksmith and repairing the old forge in Kuttenburg. If, like me, you forged \u2026 [+3952 chars]",
+    "content": "Passing the guild trial in Kingdom Come: Deliverance 2 is your first step on the road to becoming a proper, accredited blacksmith and repairing the old forge in Kuttenburg. If, like me, you forged ... [+3952 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Deliverance",
@@ -2711,7 +2711,7 @@
     "url": "https://www.theatlantic.com/family/archive/2025/09/debit-cards-credit-debt/684144/",
     "title": "Debit Cards Are Taking Over",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Sometime around 2007, Marc Fusaro, then a professor at East Carolina University, sat in a friend\u2019s kitchen and explained that he was researching the methods people use to rein in their credit-card sp\u2026 [+8155 chars]",
+    "content": "Sometime around 2007, Marc Fusaro, then a professor at East Carolina University, sat in a friend's kitchen and explained that he was researching the methods people use to rein in their credit-card sp... [+8155 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -2784,9 +2784,9 @@
   {
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/ariana-grande-eternal-sunshine-tour-tickets-dates-5296052/",
-    "title": "Ariana Grande Tour Tickets, Show Dates & More: Updates on \u2018Eternal Sunshine\u2019",
+    "title": "Ariana Grande Tour Tickets, Show Dates & More: Updates on ‘Eternal Sunshine'",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "View galleryImage Credit: Getty Images for The Met Museum/\r\nAriana Grande hasnt been on tour since 2019 when she embarked on her Sweetener World Tour,\u00a0but thats about to change. Even though the pop s\u2026 [+2323 chars]",
+    "content": "View galleryImage Credit: Getty Images for The Met Museum/ Ariana Grande hasnt been on tour since 2019 when she embarked on her Sweetener World Tour, but thats about to change. Even though the pop s... [+2323 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Ariana",
@@ -2806,7 +2806,7 @@
     "url": "https://biztoc.com/x/a14e06f6709f5249",
     "title": "BLS revision shows U.S. job growth likely far slower than we thought",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "The U.S. likely added 900,000 fewer jobs in the twelve months ending in March than had been reported, according to a preliminary Labor Department report. (Image credit: Joe Raedle)\r\nThis story appear\u2026 [+34 chars]",
+    "content": "The U.S. likely added 900,000 fewer jobs in the twelve months ending in March than had been reported, according to a preliminary Labor Department report. (Image credit: Joe Raedle) This story appear... [+34 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "BLS",
@@ -2826,7 +2826,7 @@
     "url": "https://insidethemagic.net/2025/09/following-pedro-pascal-another-marvel-star-exits-doomsday-th1/",
     "title": "Following Pedro Pascal, Another Marvel Star Is Now Done With the MCU",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "The Marvel Cinematic Universe is speeding towards both a climax and a new beginning, but who will be left standing when all is said and done?\r\nCredit: Marvel Studios\r\nWhere the MCU Stands Right Now\r\n\u2026 [+4718 chars]",
+    "content": "The Marvel Cinematic Universe is speeding towards both a climax and a new beginning, but who will be left standing when all is said and done? Credit: Marvel Studios Where the MCU Stands Right Now ... [+4718 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Pascal",
@@ -2846,7 +2846,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/09/09/3147095/0/en/TopLine-Financial-Credit-Union-Members-and-Employees-Help-Youth-Prepare-for-a-Successful-Back-to-School-Season.html",
     "title": "TopLine Financial Credit Union Members and Employees Help Youth Prepare for a Successful Back to School Season",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "MAPLE GROVE, Minn., Sept. 09, 2025 (GLOBE NEWSWIRE) -- TopLine Financial Credit Union\r\n, a Twin Cities-based member-owned financial services cooperative\r\n, held their 22nd Annual School Supply Drive \u2026 [+3595 chars]",
+    "content": "MAPLE GROVE, Minn., Sept. 09, 2025 (GLOBE NEWSWIRE) -- TopLine Financial Credit Union , a Twin Cities-based member-owned financial services cooperative , held their 22nd Annual School Supply Drive ... [+3595 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -2866,7 +2866,7 @@
     "url": "https://www.finextra.com/pressarticle/106990/narmi-and-ninth-wave-partner-to-deliver-open-banking-to-community-banks",
     "title": "Narmi and Ninth Wave partner to deliver open banking to community banks",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Narmi, a digital banking technology provider, has partnered with Ninth Wave, a leading provider of enterprise open finance connectivity, to offer community banks and credit unions seamless, secure, o\u2026 [+1709 chars]",
+    "content": "Narmi, a digital banking technology provider, has partnered with Ninth Wave, a leading provider of enterprise open finance connectivity, to offer community banks and credit unions seamless, secure, o... [+1709 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Ninth",
@@ -2886,7 +2886,7 @@
     "url": "https://sportsnaut.com/wwe/wwe-schedule/",
     "title": "2025 WWE Schedule: Dates & Locations for Upcoming WWE PLEs, Raw, and SmackDown",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Credit: WWE\r\nSportsnaut has all the info for the 2025/2026 WWE schedule, including the next WWE event, all WWE Premium Live Events, and a calendar for weekly RAW, SmackDown, NXT, and live shows. Plus\u2026 [+7699 chars]",
+    "content": "Credit: WWE Sportsnaut has all the info for the 2025/2026 WWE schedule, including the next WWE event, all WWE Premium Live Events, and a calendar for weekly RAW, SmackDown, NXT, and live shows. Plus... [+7699 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "WWE",
@@ -2906,7 +2906,7 @@
     "url": "https://fas.yale.edu/news-announcements/news/modern-historian-investigating-debt-and-creating-space-collaboration",
     "title": "The modern historian investigating debt and creating space for collaboration",
     "fetched_on": "2025-09-10T15:20:31.656539+00:00",
-    "content": "Photo credit: Jermaine Jackson, Jr.\u00a0\r\nEvery year, Yales Faculty of Arts and Sciences welcomes exceptional scholars across the sciences, humanities, and social sciences. This series profiles six of th\u2026 [+8147 chars]",
+    "content": "Photo credit: Jermaine Jackson, Jr. Every year, Yales Faculty of Arts and Sciences welcomes exceptional scholars across the sciences, humanities, and social sciences. This series profiles six of th... [+8147 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Jermaine",
@@ -2924,7 +2924,7 @@
   {
     "source": "Finanzen.net [RSS]",
     "url": "https://www.finanzen.net/nachricht/zertifikate/werbung-unicredit-ist-europas-fuehrende-bank-fuer-trader-und-selbstentscheider-unser-partner-im-fokus-13766707",
-    "title": "UniCredit ist Europas f\u00fchrende Bank f\u00fcr Trader und Selbstentscheider - Unser Partner im Fokus",
+    "title": "UniCredit ist Europas führende Bank für Trader und Selbstentscheider - Unser Partner im Fokus",
     "fetched_on": "2025-09-10T15:20:48.318265+00:00",
     "content": "<p><a href=\"https://g.finanzen.net/hvb-partner-im-fokus\" rel=\"noopener\" target=\"_blank\">Mehr erfahren</a></p>",
     "platforms_mentioned": [],
@@ -2946,7 +2946,7 @@
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/slower-transmission-risk-meter-keep-borrowing-cost-high-for-most-mfis/articleshow/123790548.cms",
     "title": "Slower transmission, risk meter keep borrowing cost high for most MFIs",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Kolkata: Lingering asset quality concerns in the microfinance sector and internal margin pressure have prevented banks from lowering rates significantly when lending to microfinanciers despite a perc\u2026 [+3387 chars]",
+    "content": "Kolkata: Lingering asset quality concerns in the microfinance sector and internal margin pressure have prevented banks from lowering rates significantly when lending to microfinanciers despite a perc... [+3387 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -2966,7 +2966,7 @@
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/slower-transmission-risk-meter-keep-borrowing-cost-high-for-most-mfis/articleshow/123797324.cms",
     "title": "Slower transmission, risk meter keep borrowing cost high for most MFIs",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Kolkata: Lingering asset quality concerns in the microfinance sector and internal margin pressure have prevented banks from lowering rates significantly when lending to microfinanciers despite a perc\u2026 [+3382 chars]",
+    "content": "Kolkata: Lingering asset quality concerns in the microfinance sector and internal margin pressure have prevented banks from lowering rates significantly when lending to microfinanciers despite a perc... [+3382 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -2984,9 +2984,9 @@
   {
     "source": "Viewfromthewing.com [NewsAPI]",
     "url": "https://viewfromthewing.com/kenya-airways-will-status-match-almost-anything-to-skyteam-elite-plus-and-triple-miles-to-keep-it/",
-    "title": "Kenya Airways Will Status Match Almost Anything To SkyTeam Elite Plus\u2014And Triple Miles To Keep It",
+    "title": "Kenya Airways Will Status Match Almost Anything To SkyTeam Elite Plus-And Triple Miles To Keep It",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Delta partner Kenya Airways will status match anyone with a heartbeat (well, anyone with a credit card) and they have a separate promotion that lets you claim triple status miles to keep what you\u2019ve \u2026 [+2135 chars]",
+    "content": "Delta partner Kenya Airways will status match anyone with a heartbeat (well, anyone with a credit card) and they have a separate promotion that lets you claim triple status miles to keep what you've ... [+2135 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Airways",
@@ -3006,7 +3006,7 @@
     "url": "https://rollingout.com/2025/09/09/common-buzz-amid-jennifer-hudson-rumors/",
     "title": "Common sparks buzz at US Open amid Jennifer Hudson rumors",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Photo credit: Shutterstock.com / DFree\r\nWhen Lonnie Common Lynn took his seat at the U.S. Open womens singles final in Flushing Meadows on Sept. 8, the focus was not solely on the match between Aryna\u2026 [+10483 chars]",
+    "content": "Photo credit: Shutterstock.com / DFree When Lonnie Common Lynn took his seat at the U.S. Open womens singles final in Flushing Meadows on Sept. 8, the focus was not solely on the match between Aryna... [+10483 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Shutterstock.com",
@@ -3024,15 +3024,15 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/michelle-clunie-talks-about-starring-in-the-off-broadway-play-pen-pals/article",
-    "title": "Michelle Clunie talks about starring in the Off-Broadway play \u2018Pen Pals\u2019",
+    "title": "Michelle Clunie talks about starring in the Off-Broadway play ‘Pen Pals'",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Michelle Clunie in 'Pen Pals.' Photo Credit: Russ Rowland.\r\nActress Michelle Clunie (\u201cQueer as Folk\u201d and \u201cTeen Wolf\u201d) chatted about starring in the Off-Broadway play \u201cPen Pals.\u201d\r\nEleanor Roosevelt on\u2026 [+5738 chars]",
+    "content": "Michelle Clunie in 'Pen Pals.' Photo Credit: Russ Rowland. Actress Michelle Clunie (“Queer as Folk” and “Teen Wolf”) chatted about starring in the Off-Broadway play “Pen Pals.” Eleanor Roosevelt on... [+5738 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Pen",
       "Pals",
       "Clunie",
-      "Pals\u2019",
+      "Pals’",
       "Michelle",
       "play",
       "starring",
@@ -3046,7 +3046,7 @@
     "url": "https://cdn.jwplayer.com/videos/4qLeEOUJ-5aXKYmv2.mp4",
     "title": "China Fires Up Reusable Zhuque-3 Rocket Ahead Of Maiden Flight",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "China's Zhuque-3 reusable rocket has \"completed ground tests on its systems and will take its maiden flight in the fourth quarter of the year,\" according to China Central Television. Credit: Space.co\u2026 [+78 chars]",
+    "content": "China's Zhuque-3 reusable rocket has \"completed ground tests on its systems and will take its maiden flight in the fourth quarter of the year,\" according to China Central Television. Credit: Space.co... [+78 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "China",
@@ -3066,7 +3066,7 @@
     "url": "https://www.insurancejournal.com/news/national/2025/09/09/838548.htm",
     "title": "US Electric Car Uptake Will Slow Further on Trump Policies",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Already sluggish adoption of electric vehicles in the US will slow even further after a $7,500 tax credit for EV buyers expires later this month.\r\nBattery-powered cars will account for half of US aut\u2026 [+3682 chars]",
+    "content": "Already sluggish adoption of electric vehicles in the US will slow even further after a $7,500 tax credit for EV buyers expires later this month. Battery-powered cars will account for half of US aut... [+3682 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Slow",
@@ -3086,7 +3086,7 @@
     "url": "https://insidethemagic.net/2025/09/disney-world-blizzard-beach-closed-2025-emd1/",
     "title": "Disney World Park Waves Goodbye to Millions as It Closes Down",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "A Walt Disney World Resort theme park has now closed down for the remainder of 2025.\r\nCredit: Inside The Magic\r\nDisney World Park Shutters for Rest of 2025 Season: Heres Why\r\nImagine this: youve plan\u2026 [+3547 chars]",
+    "content": "A Walt Disney World Resort theme park has now closed down for the remainder of 2025. Credit: Inside The Magic Disney World Park Shutters for Rest of 2025 Season: Heres Why Imagine this: youve plan... [+3547 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "World",
@@ -3104,9 +3104,9 @@
   {
     "source": "PhoneArena [NewsAPI]",
     "url": "https://www.phonearena.com/news/Galaxy-S26-Ultra-may-lose-weight-but-you-definitely-wont-notice-it_id173882",
-    "title": "Galaxy S26 Ultra may lose weight, but you definitely won\u2019t notice it",
+    "title": "Galaxy S26 Ultra may lose weight, but you definitely won't notice it",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Leaked Galaxy S26 Ultra render. | Image Credit Ice Universe\r\nThe Galaxy S26 Ultra may be noticeably thinner than its predecessor, but that wont change the feeling for a big phone it may leave you wit\u2026 [+2213 chars]",
+    "content": "Leaked Galaxy S26 Ultra render. | Image Credit Ice Universe The Galaxy S26 Ultra may be noticeably thinner than its predecessor, but that wont change the feeling for a big phone it may leave you wit... [+2213 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Ultra",
@@ -3116,7 +3116,7 @@
       "render",
       "Image",
       "lose",
-      "n\u2019t",
+      "n’t",
       "notice",
       "chars"
     ]
@@ -3126,7 +3126,7 @@
     "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/ecgc-plans-measures-to-help-exporters-deal-with-high-tariffs/articleshow/123790134.cms",
     "title": "ECGC plans measures to help exporters deal with high tariffs",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "The Commerce Ministry on Tuesday said Export Credit Guarantee Corporation (ECGC) has proposed several measures, including covering losses from non-delivery of goods and providing enhanced cover for b\u2026 [+1315 chars]",
+    "content": "The Commerce Ministry on Tuesday said Export Credit Guarantee Corporation (ECGC) has proposed several measures, including covering losses from non-delivery of goods and providing enhanced cover for b... [+1315 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "ECGC",
@@ -3146,7 +3146,7 @@
     "url": "https://www.breitbart.com/tech/2025/09/09/ev-gravy-train-dries-up-rivian-announces-layoffs-as-tax-credits-expire/",
     "title": "EV Gravy Train Dries Up: Rivian Announces Layoffs as Tax Credits Expire",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "EV maker Rivian has announced a lay off\u00a0 as the company prepares for the end of federal EV tax credits and a challenging economic landscape. The company beat Elon Musk\u2019s Tesla in bringing an EV picku\u2026 [+2404 chars]",
+    "content": "EV maker Rivian has announced a lay off as the company prepares for the end of federal EV tax credits and a challenging economic landscape. The company beat Elon Musk's Tesla in bringing an EV picku... [+2404 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Rivian",
@@ -3164,13 +3164,13 @@
   {
     "source": "Kotaku [NewsAPI]",
     "url": "https://kotaku.com/gta-6-delay-ghost-yotei-cyberpunk-2-keanu-leak-2000624435",
-    "title": "Ghost Of Yotei Studio Still \u2018Hungover\u2019 From Celebrating GTA 6 Delay",
+    "title": "Ghost Of Yotei Studio Still ‘Hungover' From Celebrating GTA 6 Delay",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "How much champagne do you charge to the company credit card when GTA 6 mercifully shifts out of your release window? Which celebrity will star in Cyberpunk 2? And what game are Helldivers 2\u2018s devs wo\u2026 [+3885 chars]",
+    "content": "How much champagne do you charge to the company credit card when GTA 6 mercifully shifts out of your release window? Which celebrity will star in Cyberpunk 2? And what game are Helldivers 2‘s devs wo... [+3885 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "GTA",
-      "Hungover\u2019",
+      "Hungover’",
       "Delay",
       "Yotei",
       "Studio",
@@ -3184,15 +3184,15 @@
   {
     "source": "TheWrap [NewsAPI]",
     "url": "https://www.thewrap.com/daily-show-jon-stewart-trump-health-alive-biden-died-in-office/",
-    "title": "Jon Stewart Wouldn\u2019t Put It Past Trump to Die in Office Just to \u2018Take Credit for Something Biden Already Accomplished\u2019 | Video",
+    "title": "Jon Stewart Wouldn't Put It Past Trump to Die in Office Just to ‘Take Credit for Something Biden Already Accomplished' | Video",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "In the first \u201cDaily Show\u201d episode since July, host Jon Stewart zeroed in on the public\u2019s concerns about President Trump\u2019s health, telling viewers: \u201cTrump is alive. Although, I definitively would not \u2026 [+2621 chars]",
+    "content": "In the first “Daily Show” episode since July, host Jon Stewart zeroed in on the public's concerns about President Trump's health, telling viewers: “Trump is alive. Although, I definitively would not ... [+2621 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Trump",
       "Stewart",
       "Jon",
-      "Accomplished\u2019",
+      "Accomplished’",
       "Video",
       "Daily",
       "Show",
@@ -3204,9 +3204,9 @@
   {
     "source": "Sportsnaut [NewsAPI]",
     "url": "https://sportsnaut.com/mlb/5-cant-miss-pitching-matchups-this-week-september-9-14-2025/",
-    "title": "5 Can\u2019t-Miss Pitching Matchups This Week (September 9\u201314, 2025)",
+    "title": "5 Can't-Miss Pitching Matchups This Week (September 9-14, 2025)",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "Things are heating up in the stretch run, and the individual pitching match-ups are heating up too. Here are 5 cant-miss pitching matchups this week:\r\nCredit: Jim Rassol-Imagn Images\r\nThis is a rooki\u2026 [+2021 chars]",
+    "content": "Things are heating up in the stretch run, and the individual pitching match-ups are heating up too. Here are 5 cant-miss pitching matchups this week: Credit: Jim Rassol-Imagn Images This is a rooki... [+2021 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "September",
@@ -3215,7 +3215,7 @@
       "heating",
       "Matchups",
       "Pitching",
-      "Can\u2019t-Miss",
+      "Can’t-Miss",
       "run",
       "Credit",
       "Jim"
@@ -3226,7 +3226,7 @@
     "url": "https://www.luxurydaily.com/mercedes-benz-scores-world-first-vegan-certification/",
     "title": "Mercedes-Benz scores world-first vegan certification",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "Automotive\r\nSeptember 9, 2025\r\n The new Vegan Package trim will debut in the all-new electric Mercedes-Benz GLC 400 4MATIC with EQ Technology. Image credit: Mercedes-Benz \r\n By Amirah Keaton for Luxu\u2026 [+5693 chars]",
+    "content": "Automotive September 9, 2025 The new Vegan Package trim will debut in the all-new electric Mercedes-Benz GLC 400 4MATIC with EQ Technology. Image credit: Mercedes-Benz By Amirah Keaton for Luxu... [+5693 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "September",
@@ -3246,7 +3246,7 @@
     "url": "https://www.luxurydaily.com/mercedes-benz-scores-world-first-vegan-car-interior-certification/",
     "title": "Mercedes-Benz scores world-first vegan car interior certification",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "Automotive\r\nSeptember 9, 2025\r\n The new Vegan Package trim will debut in the all-new electric Mercedes-Benz GLC 400 4MATIC with EQ Technology. Image credit: Mercedes-Benz \r\n By Amirah Keaton for Luxu\u2026 [+5696 chars]",
+    "content": "Automotive September 9, 2025 The new Vegan Package trim will debut in the all-new electric Mercedes-Benz GLC 400 4MATIC with EQ Technology. Image credit: Mercedes-Benz By Amirah Keaton for Luxu... [+5696 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "September",
@@ -3266,7 +3266,7 @@
     "url": "https://www.livemint.com/money/personal-finance/what-are-the-hidden-factors-that-adversely-impact-your-credit-score-different-ways-to-manage-them-explained-11757429309927.html",
     "title": "What are the hidden factors that adversely impact your credit score? Different ways to manage them explained",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "Credit score: Credit score casts an influence on loan approvals, interest rates, and credit card approvals. A loan borrower or credit card applicant with a high credit score is likely to secure a bet\u2026 [+2016 chars]",
+    "content": "Credit score: Credit score casts an influence on loan approvals, interest rates, and credit card approvals. A loan borrower or credit card applicant with a high credit score is likely to secure a bet... [+2016 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "credit",
@@ -3286,7 +3286,7 @@
     "url": "https://finance.yahoo.com/news/18-mom-had-him-cosign-153354348.html",
     "title": "At 18, His Mom Had Him Cosign Her Car Loan That Later Got Repossessed. Dave Ramsey Calls It 'Financial Abuse' And 'Completely Immoral'",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "Hunter, a 21-year-old from Michigan, recently called into The Ramsey Show with a problem that started the moment he became a legal adult. Just after turning 18, his mom asked him to cosign a car loan\u2026 [+3028 chars]",
+    "content": "Hunter, a 21-year-old from Michigan, recently called into The Ramsey Show with a problem that started the moment he became a legal adult. Just after turning 18, his mom asked him to cosign a car loan... [+3028 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Repossessed",
@@ -3306,7 +3306,7 @@
     "url": "https://knowledge.wharton.upenn.edu/podcast/ripple-effect/loyalty-programs-peter-fader/",
     "title": "Loyalty Programs | Peter Fader",
     "fetched_on": "2025-09-10T16:25:27.993473+00:00",
-    "content": "Why Loyalty Programs Should Provide Lifetime Value\r\nDan Loney: For some time, the food industry, the hotel industry, and the credit card industry have used loyalty rewards as a key ingredient to keep\u2026 [+12491 chars]",
+    "content": "Why Loyalty Programs Should Provide Lifetime Value Dan Loney: For some time, the food industry, the hotel industry, and the credit card industry have used loyalty rewards as a key ingredient to keep... [+12491 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Programs",
@@ -3342,7 +3342,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/subprime-auto-lender-tricolor-files-for-bankruptcy",
     "title": "Subprime Lender That Caters to Migrants Files for Liquidation",
     "fetched_on": "2025-09-10T19:15:56.554791+00:00",
@@ -3362,7 +3362,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-09-10/brookfield-s-flatt-on-insurance-private-markets-and-ai-video",
     "title": "Brookfield's Flatt on Insurance, Private Markets and AI",
     "fetched_on": "2025-09-10T18:28:58.213063+00:00",
@@ -3384,9 +3384,9 @@
   {
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/39c8e5e4fac6b469",
-    "title": "From borrowing her mom\u2019s credit card to a $1.5 million net worth, WNBA star Paige Bueckers wasn\u2019t prepared for \u2018super fast\u2019 NIL financial jump",
+    "title": "From borrowing her mom's credit card to a $1.5 million net worth, WNBA star Paige Bueckers wasn't prepared for ‘super fast' NIL financial jump",
     "fetched_on": "2025-09-10T18:28:56.827751+00:00",
-    "content": "WNBA 2025 No. 1 draft pick Paige Bueckers said she wasnt prepared for the rapid financial success she had in college. Following a landmark 2021 Supreme Court decision that paved the way for student-a\u2026 [+142 chars]",
+    "content": "WNBA 2025 No. 1 draft pick Paige Bueckers said she wasnt prepared for the rapid financial success she had in college. Following a landmark 2021 Supreme Court decision that paved the way for student-a... [+142 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Paige",
@@ -3406,7 +3406,7 @@
     "url": "https://www.unexplained-mysteries.com/news/390153/russias-doomsday-radio-transmits-two-more-mystery-messages",
     "title": "Russia's 'Doomsday Radio' transmits two more mystery messages",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Modern Mysteries\r\nBy T.K. RandallSeptember 9, 2025 \u00b7 \u00a01 commentWho is the intended recipient of the signals sent by UVB-76 ? Image Credit: PixabaySomewhere in Russia, an enigmatic signal has been bro\u2026 [+1642 chars]",
+    "content": "Modern Mysteries By T.K. RandallSeptember 9, 2025 · 1 commentWho is the intended recipient of the signals sent by UVB-76 ? Image Credit: PixabaySomewhere in Russia, an enigmatic signal has been bro... [+1642 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Russia",
@@ -3424,9 +3424,9 @@
   {
     "source": "Fortune [NewsAPI]",
     "url": "https://fortune.com/2025/09/09/wnba-paige-bueckers-net-worth-financial-literacy-intuit/",
-    "title": "From borrowing her mom\u2019s credit card to a $1.5 million net worth, WNBA star Paige Bueckers wasn\u2019t prepared for \u2018super fast\u2019 NIL financial jump",
+    "title": "From borrowing her mom's credit card to a $1.5 million net worth, WNBA star Paige Bueckers wasn't prepared for ‘super fast' NIL financial jump",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "As a freshman at the University of Connecticut, Paige Bueckers blew through her college stipend so fast that she turned to her mother for financial support.\u00a0Spending all her money on clothes and food\u2026 [+4528 chars]",
+    "content": "As a freshman at the University of Connecticut, Paige Bueckers blew through her college stipend so fast that she turned to her mother for financial support. Spending all her money on clothes and food... [+4528 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Paige",
@@ -3446,7 +3446,7 @@
     "url": "https://www.ndtvprofit.com/business/gst-conclave-up-to-90-blocked-input-tax-credits-unlocked-by-new-tax-structure-says-cii-president",
     "title": "Up To 90% Blocked Input Tax Credits Unlocked By New Tax Structure: CII President",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Up to 90% of blocked input tax credits for businesses has been unlocked after the new goods-and-services-tax structure reduced the input costs of raw materials, according to Rajiv Memani, president o\u2026 [+2583 chars]",
+    "content": "Up to 90% of blocked input tax credits for businesses has been unlocked after the new goods-and-services-tax structure reduced the input costs of raw materials, according to Rajiv Memani, president o... [+2583 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Tax",
@@ -3464,9 +3464,9 @@
   {
     "source": "MSNBC [NewsAPI]",
     "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/four-years-trying-kill-bidens-infrastructure-bill-trump-now-wants-cred-rcna230116",
-    "title": "Four years after trying to kill Biden\u2019s infrastructure bill, Trump now wants credit for it",
+    "title": "Four years after trying to kill Biden's infrastructure bill, Trump now wants credit for it",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "Less than a year into his presidency, Joe Biden signed into law one of his top domestic priorities, a bipartisan infrastructure package. Almost immediately, cynics predicted that the legislations Rep\u2026 [+2463 chars]",
+    "content": "Less than a year into his presidency, Joe Biden signed into law one of his top domestic priorities, a bipartisan infrastructure package. Almost immediately, cynics predicted that the legislations Rep... [+2463 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Biden",
@@ -3486,7 +3486,7 @@
     "url": "https://www.newsweek.com/sports/mlb/mets-president-sends-cedric-mullins-message-amid-trade-deadline-letdown-2127108",
     "title": "Mets President Sends Cedric Mullins Message Amid Trade Deadline Letdown",
     "fetched_on": "2025-09-10T17:16:43.400962+00:00",
-    "content": "David Stearns has earned a lot of credit for his moves as the New York Mets' president of baseball operations. But so far, trading for Cedric Mullins does not rank highly among those moves.\r\nMullins,\u2026 [+2208 chars]",
+    "content": "David Stearns has earned a lot of credit for his moves as the New York Mets' president of baseball operations. But so far, trading for Cedric Mullins does not rank highly among those moves. Mullins,... [+2208 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "President",
@@ -3502,16 +3502,16 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-09-10/fintech-doubters-being-proved-wrong-index-mignot-video",
-    "title": "Fintech Doubters Being Proved Wrong: Index\u2019 Mignot",
+    "title": "Fintech Doubters Being Proved Wrong: Index' Mignot",
     "fetched_on": "2025-09-10T19:15:56.554779+00:00",
-    "content": "Index Ventures Partner Martin Mignot discusses the success of fintech startups and why international fintech firms are choosing the US markets for public and private capital. He speaks with Caroline Hyde from the Primary Summit.\u00a0 (Source: Bloomberg)",
+    "content": "Index Ventures Partner Martin Mignot discusses the success of fintech startups and why international fintech firms are choosing the US markets for public and private capital. He speaks with Caroline Hyde from the Primary Summit. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
       "Mignot",
       "Wrong",
-      "Index\u2019",
+      "Index’",
       "Doubters",
       "Proved",
       "Index",
@@ -3526,7 +3526,7 @@
     "url": "https://milestomemories.com/mtm-travel-the-apps-that-stalk-you/",
     "title": "Real Life Mario Kart, Free WiFi on Planes, Battle of Chase Sapphires & Travel App Data Tracking!",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Disclaimer - Miles to Memories &amp; the author are not credit providers and do not provide personal financial or professional advice or credit assistance. The information published on this site/page\u2026 [+787 chars]",
+    "content": "Disclaimer - Miles to Memories &amp; the author are not credit providers and do not provide personal financial or professional advice or credit assistance. The information published on this site/page... [+787 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Kart",
@@ -3546,7 +3546,7 @@
     "url": "https://www.finextra.com/blogposting/29267/beyond-the-transaction-how-embedded-payments-are-redefining-the-customer-experience",
     "title": "Beyond the Transaction: How Embedded Payments Are Redefining the Customer Experience (Livia Bernardini)",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Weve been able to pay online for more than two decades, but for much of that time, there were really only two options: credit or debit cards.\u00a0\r\nOver the last ten years or so thats changed. Embedded p\u2026 [+6101 chars]",
+    "content": "Weve been able to pay online for more than two decades, but for much of that time, there were really only two options: credit or debit cards. Over the last ten years or so thats changed. Embedded p... [+6101 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Transaction",
@@ -3564,9 +3564,9 @@
   {
     "source": "Rolling Out [NewsAPI]",
     "url": "https://rollingout.com/2025/09/09/dwayne-johnsons-surprising-weight-loss/",
-    "title": "Dwayne Johnson\u2019s surprising weight loss from big role shift",
+    "title": "Dwayne Johnson's surprising weight loss from big role shift",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Photo credit: shutterstock.com/TDFree\r\nDwayne Johnson has built his career on transformation. Once a professional wrestler known to millions as The Rock, he evolved into one of Hollywoods most bankab\u2026 [+7218 chars]",
+    "content": "Photo credit: shutterstock.com/TDFree Dwayne Johnson has built his career on transformation. Once a professional wrestler known to millions as The Rock, he evolved into one of Hollywoods most bankab... [+7218 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Johnson",
@@ -3586,7 +3586,7 @@
     "url": "https://www.sportingnews.com/us/mlb/boston-red-sox/news/red-sox-ace-credits-unexpected-teammate-helped-him-rebound-quickly-horrendous-start/03877af7458dbf4a581c690c",
     "title": "Red Sox ace credits unexpected teammate that helped him rebound quickly from horrendous start",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Boston Red Sox ace Garrett Crochet just had an amazing start against the Athletics, after having the worst start of his career against the Cleveland Guardians. According to Crochet, the reason for hi\u2026 [+1707 chars]",
+    "content": "Boston Red Sox ace Garrett Crochet just had an amazing start against the Athletics, after having the worst start of his career against the Cleveland Guardians. According to Crochet, the reason for hi... [+1707 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Sox",
@@ -3604,9 +3604,9 @@
   {
     "source": "Page Six [NewsAPI]",
     "url": "https://pagesix.com/2025/09/09/celebrity-news/charlie-sheen-lost-virginity-to-vegas-escort-paid-for-with-dad-martins-credit-card/",
-    "title": "Charlie Sheen lost his virginity to a Las Vegas escort paid for with dad Martin\u2019s credit card",
+    "title": "Charlie Sheen lost his virginity to a Las Vegas escort paid for with dad Martin's credit card",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Charlie Sheen losing his virginity to a Las Vegas escort was \u201ceverything [he\u2019d] hoped for.\u201d\r\nThe actor detailed his experience, which happened when he was a high school sophomore, in his \u201cBook of She\u2026 [+3007 chars]",
+    "content": "Charlie Sheen losing his virginity to a Las Vegas escort was “everything [he'd] hoped for.” The actor detailed his experience, which happened when he was a high school sophomore, in his “Book of She... [+3007 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Las",
@@ -3626,7 +3626,7 @@
     "url": "https://financialpost.com/pmn/business-pmn/albacore-hires-team-from-ubs-am-to-launch-infra-debt-strategy",
     "title": "AlbaCore Hires Team from UBS AM to Launch Infra Debt Strategy",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "(Bloomberg) Credit specialist AlbaCore Capital Group has hired Viktor Kozel alongside three other team members from UBS Asset Management to launch its new infrastructure debt strategy, a move that co\u2026 [+3807 chars]",
+    "content": "(Bloomberg) Credit specialist AlbaCore Capital Group has hired Viktor Kozel alongside three other team members from UBS Asset Management to launch its new infrastructure debt strategy, a move that co... [+3807 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Strategy",
@@ -3646,7 +3646,7 @@
     "url": "https://www.cbsnews.com/news/do-you-have-to-include-all-debt-in-a-chapter-7-bankruptcy/",
     "title": "Do you have to include all debt in a Chapter 7 bankruptcy?",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Bankruptcy is a legal process, meaning that there are certain rules you must follow when filing.\r\nGetty Images/iStockphoto\r\nThe average American household currently carries over $7,000 in credit card\u2026 [+5868 chars]",
+    "content": "Bankruptcy is a legal process, meaning that there are certain rules you must follow when filing. Getty Images/iStockphoto The average American household currently carries over $7,000 in credit card... [+5868 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Chapter",
@@ -3666,7 +3666,7 @@
     "url": "https://biztoc.com/x/3a5875df2fd72c8c",
     "title": "From Zero Credit To First Investments: The Beginner's Guide To Money At 18",
     "fetched_on": "2025-09-10T18:28:56.827751+00:00",
-    "content": "You have to start somewhere with your finances, and a Canadian who's getting started at 18 already has a key advantage. Wanting to learn more about personal finance and thinking carefully about your \u2026 [+146 chars]",
+    "content": "You have to start somewhere with your finances, and a Canadian who's getting started at 18 already has a key advantage. Wanting to learn more about personal finance and thinking carefully about your ... [+146 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Investments",
@@ -3686,7 +3686,7 @@
     "url": "https://hollywoodlife.com/feature/is-hilary-duff-going-on-tour-5453806/",
     "title": "Is Hilary Duff Going on Tour in 2026? What We Know About Her New Music Era",
     "fetched_on": "2025-09-10T18:28:56.827751+00:00",
-    "content": "Image Credit: WireImage\r\nHey now, hey now in case you forgot, Hilary Duffwas one of the most popular singers of the early 2000s. Paving the way for some of the Disney Channels future stars, she led t\u2026 [+2495 chars]",
+    "content": "Image Credit: WireImage Hey now, hey now in case you forgot, Hilary Duffwas one of the most popular singers of the early 2000s. Paving the way for some of the Disney Channels future stars, she led t... [+2495 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Duff",
@@ -3706,7 +3706,7 @@
     "url": "https://lifeasmom.com/you-can-get-out-of-debt/",
     "title": "How to Make Debt-free Living a Reality",
     "fetched_on": "2025-09-10T18:28:56.827751+00:00",
-    "content": "Here are the basic steps to get from a debt-filled life to a debt free life:\r\nYes, I said it.\u00a0Stop using your credit\u00a0card.\u00a0You\u2019ll only create a bigger hole for you to climb out of. \r\nIt may take some\u2026 [+1361 chars]",
+    "content": "Here are the basic steps to get from a debt-filled life to a debt free life: Yes, I said it. Stop using your credit card. You'll only create a bigger hole for you to climb out of. It may take some... [+1361 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Make",
@@ -3726,7 +3726,7 @@
     "url": "https://www.benzinga.com/personal-finance/management/25/09/47574851/at-18-his-mom-had-him-cosign-her-car-loan-that-later-got-repossessed-dave-ramsey-calls-it-financial-abuse-and-completely-immoral",
     "title": "At 18, His Mom Had Him Cosign Her Car Loan That Later Got Repossessed. Dave Ramsey Calls It 'Financial Abuse' And 'Completely Immoral'",
     "fetched_on": "2025-09-10T18:28:56.827751+00:00",
-    "content": "Hunter, a 21-year-old from Michigan, recently called into The Ramsey Show with a problem that started the moment he became a legal adult. Just after turning 18, his mom asked him to cosign a car loan\u2026 [+2542 chars]",
+    "content": "Hunter, a 21-year-old from Michigan, recently called into The Ramsey Show with a problem that started the moment he became a legal adult. Just after turning 18, his mom asked him to cosign a car loan... [+2542 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Repossessed",
@@ -3746,7 +3746,7 @@
     "url": "https://finance.yahoo.com/news/zero-credit-first-investments-beginners-173053764.html",
     "title": "From Zero Credit To First Investments: The Beginner's Guide To Money At 18",
     "fetched_on": "2025-09-10T18:28:56.827751+00:00",
-    "content": "You have to start somewhere with your finances, and a Canadian who's getting started at 18 already has a key advantage. Wanting to learn more about personal finance and thinking carefully about your \u2026 [+3684 chars]",
+    "content": "You have to start somewhere with your finances, and a Canadian who's getting started at 18 already has a key advantage. Wanting to learn more about personal finance and thinking carefully about your ... [+3684 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Investments",
@@ -3764,9 +3764,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/mitchwallace/2025/09/09/donkey-kong-bananza-is-a-technicolor-rampaging-fever-dream/",
-    "title": "\u2018Donkey Kong Bananza\u2019 Is A Technicolor, Rampaging Fever Dream",
+    "title": "‘Donkey Kong Bananza' Is A Technicolor, Rampaging Fever Dream",
     "fetched_on": "2025-09-10T18:28:56.827751+00:00",
-    "content": "Credit: Nintendo\r\nIve played a good amount of Donkey Kong Bananza on the Switch 2, and Im stuck wondering why defunct studio Midway never developed a proper Rampage 3D platformerthe all-you-can-destr\u2026 [+4272 chars]",
+    "content": "Credit: Nintendo Ive played a good amount of Donkey Kong Bananza on the Switch 2, and Im stuck wondering why defunct studio Midway never developed a proper Rampage 3D platformerthe all-you-can-destr... [+4272 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Donkey",
@@ -3786,7 +3786,7 @@
     "url": "https://www.ndtvprofit.com/economy-finance/ecgc-plans-measures-to-help-exporters-deal-with-high-tariffs",
     "title": "ECGC Plans Measures To Help Exporters Deal With High Tariffs",
     "fetched_on": "2025-09-10T18:28:56.827751+00:00",
-    "content": "In 2024-25, Export Credit Guarantee Corporation of India Limited (ECGC) registered a profit before tax of Rs 2,723.07 crore against Rs 2,858.95 crore in the preceding fiscal.\r\nIn order to support exp\u2026 [+321 chars]",
+    "content": "In 2024-25, Export Credit Guarantee Corporation of India Limited (ECGC) registered a profit before tax of Rs 2,723.07 crore against Rs 2,858.95 crore in the preceding fiscal. In order to support exp... [+321 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "ECGC",
@@ -3868,7 +3868,7 @@
     "url": "https://rollingout.com/2025/09/09/darius-rucker-new-romance-on-instagram/",
     "title": "Darius Rucker goes public with new romance on Instagram",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Darius Rucker (Photo credit: Shutterstock.com / s_bukley)\r\nCountry star Darius Rucker has made his relationship with musician and content creator Emily Deahl social media official, marking a new chap\u2026 [+3293 chars]",
+    "content": "Darius Rucker (Photo credit: Shutterstock.com / s_bukley) Country star Darius Rucker has made his relationship with musician and content creator Emily Deahl social media official, marking a new chap... [+3293 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Rucker",
@@ -3888,7 +3888,7 @@
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/insurance-players-to-seek-clarity-on-credit-life-policies/articleshow/123793889.cms",
     "title": "Insurance players to seek clarity on credit life policies",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Mumbai: Insurers are going to seek clarity from the Centre on the scope of GST exemption for life and health covers after the GST Council scrapped the indirect tax on individual policies but retained\u2026 [+1669 chars]",
+    "content": "Mumbai: Insurers are going to seek clarity from the Centre on the scope of GST exemption for life and health covers after the GST Council scrapped the indirect tax on individual policies but retained... [+1669 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "GST",
@@ -3908,7 +3908,7 @@
     "url": "https://www.yahoo.com/news/articles/us-consumer-finances-stay-robust-191231479.html",
     "title": "US consumer finances stay robust even as jobs data cloud economic outlook, bankers say",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "NEW YORK (Reuters) -U.S. consumers remain in good financial health and there are little signs of credit quality deterioration, according to the nation's top banking executives, despite data showing t\u2026 [+2965 chars]",
+    "content": "NEW YORK (Reuters) -U.S. consumers remain in good financial health and there are little signs of credit quality deterioration, according to the nation's top banking executives, despite data showing t... [+2965 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Reuters",
@@ -3928,7 +3928,7 @@
     "url": "https://rollingout.com/2025/09/09/serena-williams-investment-in-wnba/",
     "title": "Serena Williams makes powerful investment in WNBA",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Serena Williams (Photo credit Shutterstock.com lev radin)\r\nSerena Williams, long celebrated for redefining what it means to be an athlete, has taken her influence to a new playing field. Nearly three\u2026 [+9603 chars]",
+    "content": "Serena Williams (Photo credit Shutterstock.com lev radin) Serena Williams, long celebrated for redefining what it means to be an athlete, has taken her influence to a new playing field. Nearly three... [+9603 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Williams",
@@ -3948,7 +3948,7 @@
     "url": "http://9to5google.com/2025/09/09/google-pixel-10-referral-program/",
     "title": "Pixel 10 Referral Program offers 10% off phones, $50 Google Store credit",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "After launching in late 2024 / early 2025, the Google Stores Pixel Referral Program is back for the Pixel 10 series.\r\nWith the launch of the Pixel 10, Google is refreshing the Pixel Referral Program \u2026 [+1602 chars]",
+    "content": "After launching in late 2024 / early 2025, the Google Stores Pixel Referral Program is back for the Pixel 10 series. With the launch of the Pixel 10, Google is refreshing the Pixel Referral Program ... [+1602 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Pixel",
@@ -3968,7 +3968,7 @@
     "url": "https://rollingout.com/2025/09/09/asap-relli-lawsuit-against-asap-rocky/",
     "title": "Judge told A$AP Relli to rethink lawsuit against A$AP Rocky",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "A$AP Rocky (Photo credit: Shutterstock.com / Kathy Hutchins)\r\nThe long-running dispute between two former friends in the hip-hop world took a dramatic turn this week when a California judge signaled \u2026 [+8101 chars]",
+    "content": "A$AP Rocky (Photo credit: Shutterstock.com / Kathy Hutchins) The long-running dispute between two former friends in the hip-hop world took a dramatic turn this week when a California judge signaled ... [+8101 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Rocky",
@@ -3988,7 +3988,7 @@
     "url": "https://freerepublic.com/focus/f-chat/4339406/posts",
     "title": "Astronomy Picture of the Day - Up from the Earth: Gigantic Jet Lightning",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Up from the Earth: Gigantic Jet LightningNASA ^\r\n | 9 Sep, 2025\r\n | Image Credit: NASA, Expedition 73, Nicole Ayers\r\nPosted on 09/09/2025 12:00:08 PM\u2026 [+2352 chars]",
+    "content": "Skip to comments. Astronomy Picture of the Day - Up from the Earth: Gigantic Jet LightningNASA ^ | 9 Sep, 2025 | Image Credit: NASA, Expedition 73, Nicole Ayers Posted on 09/09/2025 12:00:08 PM... [+2352 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Day",
@@ -4008,7 +4008,7 @@
     "url": "https://www.cnet.com/tech/mobile/did-anyone-ask-for-a-super-thin-iphone/",
     "title": "Did Anyone Ask for a Super Thin iPhone?",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "The star of Tuesday's\u00a0\"awe dropping\" Apple event\u00a0was undeniably the iPhone Air, a slim version of its new iPhone 17 of phones. It's only 5.6mm thick -- thinner than three stacked credit cards -- if y\u2026 [+2086 chars]",
+    "content": "The star of Tuesday's \"awe dropping\" Apple event was undeniably the iPhone Air, a slim version of its new iPhone 17 of phones. It's only 5.6mm thick -- thinner than three stacked credit cards -- if y... [+2086 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Super",
@@ -4028,7 +4028,7 @@
     "url": "https://www.androidcentral.com/accessories/audio/wired-earbuds-are-back-and-belkin-showed-off-the-best-ones-at-ifa",
     "title": "Wired earbuds are back, and Belkin showed off the best ones at IFA",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "(Image credit: Future)\r\nAC Contributor, vinyl collector, and hobbyist drummer Brady Snyder dives into the world of headphones, earbuds, speakers, streaming, and everything in between in Android Audio\u2026 [+4439 chars]",
+    "content": "(Image credit: Future) AC Contributor, vinyl collector, and hobbyist drummer Brady Snyder dives into the world of headphones, earbuds, speakers, streaming, and everything in between in Android Audio... [+4439 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Future",
@@ -4048,7 +4048,7 @@
     "url": "https://rollingout.com/2025/09/09/zoe-saldana-festive-saint-laurent-paris/",
     "title": "Zoe Saldana brings festive elegance in Saint Laurent Paris",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Zoe Saldana (Photo credit: Shutterstock.com / Ovidiu Hrubaru)\r\nWhen RH, the American luxury interiors brand formerly known as Restoration Hardware, opened its new Paris flagship this month, all eyes \u2026 [+5165 chars]",
+    "content": "Zoe Saldana (Photo credit: Shutterstock.com / Ovidiu Hrubaru) When RH, the American luxury interiors brand formerly known as Restoration Hardware, opened its new Paris flagship this month, all eyes ... [+5165 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Shutterstock.com",
@@ -4068,7 +4068,7 @@
     "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/chem-/-fertilisers/fertiliser-business-faces-itc-pile-up-despite-revision/articleshow/123793475.cms",
     "title": "Fertiliser business faces ITC pile-up despite revision",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "New Delhi: Despite reduction in rates of critical raw materials for fertilisers, the issue of subsidy-related price inversion that saw an accumulation of input tax credit for the industry has not bee\u2026 [+2046 chars]",
+    "content": "New Delhi: Despite reduction in rates of critical raw materials for fertilisers, the issue of subsidy-related price inversion that saw an accumulation of input tax credit for the industry has not bee... [+2046 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -4086,9 +4086,9 @@
   {
     "source": "Rolling Out [NewsAPI]",
     "url": "https://rollingout.com/2025/09/09/camrons-unforgettable-lines-as-rico/",
-    "title": "Cam\u2019ron\u2019s unforgettable lines as Rico in Paid in Full",
+    "title": "Cam'ron's unforgettable lines as Rico in Paid in Full",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Photo credit: Shutterstock.com / Jonathan Feinstein\r\nWhen Paid in Full arrived in theaters in 2002, it entered a landscape already shaped by films that sought to capture the underbelly of New Yorks d\u2026 [+8718 chars]",
+    "content": "Photo credit: Shutterstock.com / Jonathan Feinstein When Paid in Full arrived in theaters in 2002, it entered a landscape already shaped by films that sought to capture the underbelly of New Yorks d... [+8718 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Paid",
@@ -4100,7 +4100,7 @@
       "Photo",
       "Feinstein",
       "Yorks",
-      "Cam\u2019ron\u2019s"
+      "Cam’ron’s"
     ]
   },
   {
@@ -4108,7 +4108,7 @@
     "url": "https://time.com/collections/africa-climate-summit-2/7314214/africa-climate-summit-ethiopia-adaptation/",
     "title": "Ethiopia Hopes to Boost Climate Adaptation",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "Ethiopian Prime Minister Abiy Ahmed sits in the plenary hall before the opening of the High-Level Leaders Summit at the Second Africa Climate Summit (ACS2) in Addis Ababa, on Sept. 8, 2025. Credit - \u2026 [+3722 chars]",
+    "content": "Ethiopian Prime Minister Abiy Ahmed sits in the plenary hall before the opening of the High-Level Leaders Summit at the Second Africa Climate Summit (ACS2) in Addis Ababa, on Sept. 8, 2025. Credit - ... [+3722 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Climate",
@@ -4128,7 +4128,7 @@
     "url": "https://current.com/blog/how-to-achieve-a-perfect-credit-score-and-why-you-dont-really-need-it/",
     "title": "How to achieve a perfect credit score, and why you don't really need it",
     "fetched_on": "2025-09-10T19:15:55.884452+00:00",
-    "content": "How to achieve a perfect credit score, and why you dont really need it\r\nAs Lynnette Khlafani-Cox looked at her credit score back in 2022, she couldnt believe what she was seeing. The number that popp\u2026 [+5885 chars]",
+    "content": "How to achieve a perfect credit score, and why you dont really need it As Lynnette Khlafani-Cox looked at her credit score back in 2022, she couldnt believe what she was seeing. The number that popp... [+5885 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "credit",
@@ -4148,7 +4148,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/09/09/3147323/0/en/Celcuity-Announces-Upsized-Senior-Secured-Term-Loan-Facility-of-500-Million-with-Innovatus-Capital-Partners-and-Oxford-Finance.html",
     "title": "Celcuity Announces Upsized Senior Secured Term Loan Facility of $500 Million with Innovatus Capital Partners and Oxford Finance",
     "fetched_on": "2025-09-10T21:17:50.457594+00:00",
-    "content": "MINNEAPOLIS, Sept. 09, 2025 (GLOBE NEWSWIRE) -- Celcuity Inc. (Celcuity), a clinical-stage biotechnology company pursuing development of targeted therapies for oncology, today announced that it has e\u2026 [+7363 chars]",
+    "content": "MINNEAPOLIS, Sept. 09, 2025 (GLOBE NEWSWIRE) -- Celcuity Inc. (Celcuity), a clinical-stage biotechnology company pursuing development of targeted therapies for oncology, today announced that it has e... [+7363 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Sept.",
@@ -4168,7 +4168,7 @@
     "url": "https://thepointsguy.com/loyalty-programs/maximize-earning-chase-sapphire-reserve/",
     "title": "How to maximize earning with the Chase Sapphire Reserve",
     "fetched_on": "2025-09-10T21:17:50.457594+00:00",
-    "content": "The Chase Sapphire Reserve\u00ae (see rates and fees) is one of the best travel credit cards in the points and miles world.\r\nMany of the card's perks, such as lounge access, make it stand out from the pac\u2026 [+6791 chars]",
+    "content": "The Chase Sapphire Reserve® (see rates and fees) is one of the best travel credit cards in the points and miles world. Many of the card's perks, such as lounge access, make it stand out from the pac... [+6791 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Chase",
@@ -4206,9 +4206,9 @@
   {
     "source": "Inside the Magic [NewsAPI]",
     "url": "https://insidethemagic.net/2025/09/disney-world-magic-band-news-guests-emd1/",
-    "title": "Magic Bands Are Changing at Disney World\u2014Visitors Will Notice Immediately",
+    "title": "Magic Bands Are Changing at Disney World-Visitors Will Notice Immediately",
     "fetched_on": "2025-09-10T21:17:50.457594+00:00",
-    "content": "Disney World might have just made thousands of guests sad, as reports show that specific Magic Band experiences are no longer effective.\r\nCredit: Disney\r\nDisney World Magic Bands Are Changing for Tho\u2026 [+4240 chars]",
+    "content": "Disney World might have just made thousands of guests sad, as reports show that specific Magic Band experiences are no longer effective. Credit: Disney Disney World Magic Bands Are Changing for Tho... [+4240 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Disney",
@@ -4226,9 +4226,9 @@
   {
     "source": "Inside the Magic [NewsAPI]",
     "url": "https://insidethemagic.net/2025/09/disney-world-magicband-news-guests-emd1/",
-    "title": "Magic Bands Are Changing at Disney World\u2014Visitors Will Notice Immediately",
+    "title": "Magic Bands Are Changing at Disney World-Visitors Will Notice Immediately",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Disney World might have just made thousands of guests sad, as reports show that specific MagicBand experiences are no longer effective.\r\nCredit: Disney\r\nDisney World MagicBands Are Changing for Thous\u2026 [+4238 chars]",
+    "content": "Disney World might have just made thousands of guests sad, as reports show that specific MagicBand experiences are no longer effective. Credit: Disney Disney World MagicBands Are Changing for Thous... [+4238 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Disney",
@@ -4248,7 +4248,7 @@
     "url": "https://www.nerdwallet.com/article/credit-cards/chime-retools-secured-card-with-cash-back-rewards#article",
     "title": "Chime Retools Its Secured Card, Adding 1.5% Back on Eligible Spending",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Chime the financial technology company behind the Chime Secured Credit Builder Visa\u00ae Credit Card has reworked the product's design and name, while also adding the opportunity to earn rewards.\r\nNow ca\u2026 [+5150 chars]",
+    "content": "Chime the financial technology company behind the Chime Secured Credit Builder Visa® Credit Card has reworked the product's design and name, while also adding the opportunity to earn rewards. Now ca... [+5150 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Chime",
@@ -4266,15 +4266,15 @@
   {
     "source": "BroBible [NewsAPI]",
     "url": "https://brobible.com/sports/article/charlie-sheen-dads-credit-card-vegas-escort/",
-    "title": "As A Teen, Charlie Sheen \u2018Borrowed\u2019 His Dad\u2019s Credit Card And Used It To Lose His Virginity To A Vegas Escort",
+    "title": "As A Teen, Charlie Sheen ‘Borrowed' His Dad's Credit Card And Used It To Lose His Virginity To A Vegas Escort",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Getty Image\r\nAudio By Carbonatix\r\nCharlie Sheen has some stories to tell. A lot of stories. After keeping things pretty low-key since his very public meltdown in 2011, the \u201cWarlock\u201d is back in the pu\u2026 [+1614 chars]",
+    "content": "Getty Image Audio By Carbonatix Charlie Sheen has some stories to tell. A lot of stories. After keeping things pretty low-key since his very public meltdown in 2011, the “Warlock” is back in the pu... [+1614 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Charlie",
       "Sheen",
       "Teen",
-      "Borrowed\u2019",
+      "Borrowed’",
       "Dad",
       "Credit",
       "Card",
@@ -4286,9 +4286,9 @@
   {
     "source": "Inside the Magic [NewsAPI]",
     "url": "https://insidethemagic.net/2025/09/exciting-things-in-store-for-disneys-flagship-big-thunder-mountain-roller-coaster-ld1/",
-    "title": "Exciting Things in Store for Disney\u2019s Flagship Big Thunder Mountain Roller Coaster",
+    "title": "Exciting Things in Store for Disney's Flagship Big Thunder Mountain Roller Coaster",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Work on one of Disney\u2019s flagship roller coasters is moving along nicely.\r\nCredit: Disney\r\nRelated: Disney World Announces Guardians of the Galaxy Ride Getting Makeover This Month\r\nWork is moving quic\u2026 [+2929 chars]",
+    "content": "Work on one of Disney's flagship roller coasters is moving along nicely. Credit: Disney Related: Disney World Announces Guardians of the Galaxy Ride Getting Makeover This Month Work is moving quic... [+2929 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Disney",
@@ -4308,7 +4308,7 @@
     "url": "https://www.benzinga.com/personal-finance/management/25/09/47578165/from-zero-credit-to-first-investments-the-beginners-guide-to-money-at-18",
     "title": "From Zero Credit To First Investments: The Beginner's Guide To Money At 18",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "You have to start somewhere with your finances, and a Canadian who's getting started at 18 already has a key advantage. Wanting to learn more about personal finance and thinking carefully about your \u2026 [+3261 chars]",
+    "content": "You have to start somewhere with your finances, and a Canadian who's getting started at 18 already has a key advantage. Wanting to learn more about personal finance and thinking carefully about your ... [+3261 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Investments",
@@ -4326,9 +4326,9 @@
   {
     "source": "Inside.com.tw [NewsAPI]",
     "url": "https://www.inside.com.tw/article/39538-apple-2025-new-apple-watchs",
-    "title": "\u3010\u860b\u679c 2025 \u79cb\u5b63\u767c\u8868\u6703\u3011\u5165\u9580\u5230\u65d7\u8266\u90fd\u6709\uff01Apple Watch 11\u3001Ultra 3\u3001SE 3 \u4e09\u6a5f\u4eae\u76f8\u552e\u50f9 7,900 \u5143\u8d77",
+    "title": "【蘋果 2025 秋季發表會】入門到旗艦都有!Apple Watch 11、Ultra 3、SE 3 三機亮相售價 7,900 元起",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Apple 9Apple Watch Series 11Apple Watch Ultra 3 Apple Watch SE 3\r\nApple Watch Series 11\r\nPhoto Credit: Apple\r\nApple Watch Series 11 \r\nSeries 11 Watch iPhone App Apple Watch Ultra 3 \r\nPhoto Credit: Ap\u2026 [+601 chars]",
+    "content": "Apple 9Apple Watch Series 11Apple Watch Ultra 3 Apple Watch SE 3 Apple Watch Series 11 Photo Credit: Apple Apple Watch Series 11 Series 11 Watch iPhone App Apple Watch Ultra 3 Photo Credit: Ap... [+601 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Watch",
@@ -4338,8 +4338,8 @@
       "Photo",
       "Credit",
       "App",
-      "\u3010\u860b\u679c",
-      "\u4e09\u6a5f\u4eae\u76f8\u552e\u50f9",
+      "【蘋果",
+      "三機亮相售價",
       "chars"
     ]
   },
@@ -4348,7 +4348,7 @@
     "url": "https://www.cbsnews.com/news/will-credit-card-issuers-waive-payments-after-unexpected-job-loss/",
     "title": "Will credit card issuers waive your payments after an unexpected job loss?",
     "fetched_on": "2025-09-10T20:21:22.189725+00:00",
-    "content": "Many card issuers offer help to borrowers who are facing major hardships, but are payment waivers an option?\r\nPhanuwatNandee/Getty Images\r\nLosing a steady paycheck can hit hard, especially when the b\u2026 [+5691 chars]",
+    "content": "Many card issuers offer help to borrowers who are facing major hardships, but are payment waivers an option? PhanuwatNandee/Getty Images Losing a steady paycheck can hit hard, especially when the b... [+5691 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "loss",
@@ -4364,7 +4364,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Technology [RSS]",
+    "source": "Bloomberg – Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-10/blackstone-to-buy-about-870-million-of-loans-from-online-bank",
     "title": "Blackstone to Buy About $870 Million of Loans From Online Bank",
     "fetched_on": "2025-09-10T23:17:48.497701+00:00",
@@ -4388,7 +4388,7 @@
     "url": "https://biztoc.com/x/cbc12828d30d3494",
     "title": "Supreme Court says it will weigh in on Trump's tariffs",
     "fetched_on": "2025-09-10T22:18:10.244588+00:00",
-    "content": "Two lower courts have said some of President Trump's tariffs are unlawful. Now the Supreme Court has agreed to examine the issue.(Image credit: Frederic J. Brown)\r\nThis story appeared on npr.org, 202\u2026 [+16 chars]",
+    "content": "Two lower courts have said some of President Trump's tariffs are unlawful. Now the Supreme Court has agreed to examine the issue.(Image credit: Frederic J. Brown) This story appeared on npr.org, 202... [+16 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Trump",
@@ -4408,7 +4408,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/09/09/3147364/0/en/reAlpha-Strengthens-Mortgage-Platform-with-Upgraded-Internal-AI-Loan-Officer-Assistant-Capabilities.html",
     "title": "reAlpha Strengthens Mortgage Platform with Upgraded Internal AI Loan Officer Assistant Capabilities",
     "fetched_on": "2025-09-10T22:18:10.244588+00:00",
-    "content": "DUBLIN, Ohio, Sept. 09, 2025 (GLOBE NEWSWIRE) -- reAlpha Tech Corp. (Nasdaq: AIRE) (reAlpha or the Company), an AI-powered real estate technology company, today announced an upgrade to its internal A\u2026 [+9944 chars]",
+    "content": "DUBLIN, Ohio, Sept. 09, 2025 (GLOBE NEWSWIRE) -- reAlpha Tech Corp. (Nasdaq: AIRE) (reAlpha or the Company), an AI-powered real estate technology company, today announced an upgrade to its internal A... [+9944 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Ohio",
@@ -4426,9 +4426,9 @@
   {
     "source": "Breitbart News [NewsAPI]",
     "url": "https://www.breitbart.com/entertainment/2025/09/09/jon-stewart-wonders-if-trump-could-die-in-office-just-to-take-credit-for-something-biden-already-accomplished/",
-    "title": "Jon Stewart Wonders if Trump Could Die in Office Just to \u2018Take Credit for Something Biden Already Accomplished\u2019",
+    "title": "Jon Stewart Wonders if Trump Could Die in Office Just to ‘Take Credit for Something Biden Already Accomplished'",
     "fetched_on": "2025-09-10T22:18:10.244588+00:00",
-    "content": "In his first appearance on the show since July, Jon Stewart began to needle the idiotic left-wing Internet rumors that President Donald Trump had died last week and the White House was hiding the tru\u2026 [+1658 chars]",
+    "content": "In his first appearance on the show since July, Jon Stewart began to needle the idiotic left-wing Internet rumors that President Donald Trump had died last week and the White House was hiding the tru... [+1658 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Jon",
@@ -4440,7 +4440,7 @@
       "Office",
       "Credit",
       "Biden",
-      "Accomplished\u2019"
+      "Accomplished’"
     ]
   },
   {
@@ -4448,7 +4448,7 @@
     "url": "https://www.doctorofcredit.com/issues-with-chase-sapphire-reserve-150-300-sapphire-reserve-exclusive-tables-credit/",
     "title": "Issues With Chase Sapphire Reserve $150/$300 Sapphire Reserve Exclusive Tables Credit",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "One of the benefits of the Chase Sapphire Reserve is a semi annual $150 credit for dining at restaurants that are part of our Sapphire Reserve Exclusive Tables. Unfortunately many cardholders have be\u2026 [+1565 chars]",
+    "content": "One of the benefits of the Chase Sapphire Reserve is a semi annual $150 credit for dining at restaurants that are part of our Sapphire Reserve Exclusive Tables. Unfortunately many cardholders have be... [+1565 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Sapphire",
@@ -4468,7 +4468,7 @@
     "url": "https://biztoc.com/x/43faad24137cfdff",
     "title": "Student Loan Update: Some Borrowers Have Week Left to Apply for $5K Credit",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "Millions of student loan borrowers face repayment pressure after federal collections and repayment activities resumed in 2025.\r\nThis story appeared on newsweek.com, 2025-09-09 21:35:00.",
+    "content": "Millions of student loan borrowers face repayment pressure after federal collections and repayment activities resumed in 2025. This story appeared on newsweek.com, 2025-09-09 21:35:00.",
     "platforms_mentioned": [],
     "keywords": [
       "Update",
@@ -4486,9 +4486,9 @@
   {
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/love-island-games-season-2-cast-5453839/",
-    "title": "\u2018Love Island Games\u2019 Season 2 Cast: See Who\u2019s Returning to the Villa",
+    "title": "‘Love Island Games' Season 2 Cast: See Who's Returning to the Villa",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "Image Credit: Art Streiber/Peacock\r\nThought the drama was already cast away to sea? Think again because season 2 of Love Island Games is approaching, and islanders from different countries will come \u2026 [+1723 chars]",
+    "content": "Image Credit: Art Streiber/Peacock Thought the drama was already cast away to sea? Think again because season 2 of Love Island Games is approaching, and islanders from different countries will come ... [+1723 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -4499,7 +4499,7 @@
       "Season",
       "Love",
       "Island",
-      "Games\u2019",
+      "Games’",
       "Returning"
     ]
   },
@@ -4508,7 +4508,7 @@
     "url": "https://www.newsweek.com/student-loan-update-5000-credit-maryland-2127271",
     "title": "Student Loan Update: Some Borrowers Have Week Left to Apply for $5K Credit",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "Maryland residents have until Monday, September 15, to apply for the Student Loan Debt Relief Tax Credit.\r\nThis credit provides up to $5,000 in relief for the 2025 tax season.\r\nWhy It Matters\r\nMillio\u2026 [+3623 chars]",
+    "content": "Maryland residents have until Monday, September 15, to apply for the Student Loan Debt Relief Tax Credit. This credit provides up to $5,000 in relief for the 2025 tax season. Why It Matters Millio... [+3623 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Loan",
@@ -4526,9 +4526,9 @@
   {
     "source": "Slickdeals.net [NewsAPI]",
     "url": "https://slickdeals.net/f/18594565-32-47-3-9-count-charmin-ultra-gentle-2-ply-toilet-paper-mega-rolls-10-82-each-10-credit-at-amazon",
-    "title": "$32.47*: 3 \u00c3\u0097 9-Count Charmin Ultra Gentle 2-Ply Toilet Paper Mega Rolls ($10.82 each) + $10 credit at Amazon (4 replies)",
+    "title": "$32.47*: 3 Ã 9-Count Charmin Ultra Gentle 2-Ply Toilet Paper Mega Rolls ($10.82 each) + $10 credit at Amazon (4 replies)",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "Amazon[amazon.com] has 9-Count Charmin Ultra Gentle 2-Ply Toilet Paper Mega Rolls 3 for $33.72 - $1.25 when you 'clip' the coupon on product page = $32.47.Shipping is free with Prime or on $35+ order\u2026 [+614 chars]",
+    "content": "Amazon[amazon.com] has 9-Count Charmin Ultra Gentle 2-Ply Toilet Paper Mega Rolls 3 for $33.72 - $1.25 when you 'clip' the coupon on product page = $32.47.Shipping is free with Prime or on $35+ order... [+614 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Charmin",
@@ -4548,7 +4548,7 @@
     "url": "https://www.dealnews.com/Capital-One-Venture-Rewards-Credit-Card-Earn-75-000-bonus-miles/21766930.html",
     "title": "Capital One Venture Rewards Credit Card: Earn 75,000 bonus miles",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "moreSpend $4,000 or more on purchases within 3 months of opening this card and snag 75,000 bonus miles. With a $95 annual fee, you'll earn 2x miles on all purchases made and up to a $100 credit towar\u2026 [+329 chars]",
+    "content": "moreSpend $4,000 or more on purchases within 3 months of opening this card and snag 75,000 bonus miles. With a $95 annual fee, you'll earn 2x miles on all purchases made and up to a $100 credit towar... [+329 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "bonus",
@@ -4568,7 +4568,7 @@
     "url": "http://chicagoreader.com/music/gossip-wolf/kaicrewsade-crewsadefest-englewood-jazz-festival-busy-beaver/",
     "title": "Rising rapper Kaicrewsade throws his own festival at Beat Kitchen",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "Kaicrewsade Credit: @proddave_\r\nIn 2021, emerging Chicago rapper Kaicrewsade suffered from insomnia. During his sleepless hours, he passed the time with online videos, and he especially liked to find\u2026 [+6293 chars]",
+    "content": "Kaicrewsade Credit: @proddave_ In 2021, emerging Chicago rapper Kaicrewsade suffered from insomnia. During his sleepless hours, he passed the time with online videos, and he especially liked to find... [+6293 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Kaicrewsade",
@@ -4588,7 +4588,7 @@
     "url": "https://insidethemagic.net/2025/09/disney-guests-expedition-everest-stuck-photo-emd1/",
     "title": "Terrifying Moment as Disney Ride Grinds to a Halt, Leaving Guests in Dangerous Situation",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "Disney World is the most magical place on Earth. But for a group of unlucky guests, things weren\u2019t so magical after getting stuck on a roller coaster as they headed uphill in the heat.\r\nCredit: Disne\u2026 [+4006 chars]",
+    "content": "Disney World is the most magical place on Earth. But for a group of unlucky guests, things weren't so magical after getting stuck on a roller coaster as they headed uphill in the heat. Credit: Disne... [+4006 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Disney",
@@ -4625,7 +4625,7 @@
     "url": "https://www.thestar.com.my/news/nation/2025/09/10/better-protection-with-the-consumer-credit-act",
     "title": "Better protection with the Consumer Credit Act",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "PETALING JAYA: Malaysias credit and financing landscape is poised for major transformation under the Consumer Credit Act (CCA) 2025, amid a RM1.38 trillion national household debt.\r\nStakeholders poin\u2026 [+4182 chars]",
+    "content": "PETALING JAYA: Malaysias credit and financing landscape is poised for major transformation under the Consumer Credit Act (CCA) 2025, amid a RM1.38 trillion national household debt. Stakeholders poin... [+4182 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Consumer",
@@ -4645,7 +4645,7 @@
     "url": "https://finance.yahoo.com/news/1-3b-loan-bombshell-uob-222722572.html",
     "title": "$1.3B Loan Bombshell: UOB Trapped in Hong Kong's Luxury Property Meltdown",
     "fetched_on": "2025-09-10T23:17:45.720580+00:00",
-    "content": "This article first appeared on GuruFocus.\r\nUOB's $1.3 billion exposure to Shimao Group's (SHMAY) luxury Beacon Peak development in Hong Kong is starting to look more like a liability than a lending s\u2026 [+1608 chars]",
+    "content": "This article first appeared on GuruFocus. UOB's $1.3 billion exposure to Shimao Group's (SHMAY) luxury Beacon Peak development in Hong Kong is starting to look more like a liability than a lending s... [+1608 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Loan",
@@ -4663,7 +4663,7 @@
   {
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/blackstone-private-credit-line-dropbox-151110884.html",
-    "title": "Blackstone\u2019s Private Credit Line to Dropbox Raised to $2.7 Billion",
+    "title": "Blackstone's Private Credit Line to Dropbox Raised to $2.7 Billion",
     "fetched_on": "2025-09-10T23:18:07.823002+00:00",
     "content": "",
     "platforms_mentioned": [],
