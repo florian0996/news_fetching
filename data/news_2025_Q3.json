@@ -578579,5 +578579,65 @@
       "Crypto",
       "Lending"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://www.yahoo.com/lifestyle/articles/tesla-owner-reveals-bought-used-231500594.html",
+    "title": "Tesla owner reveals how he bought his used EV for surprisingly low price: 'Please tell me what dealership you went to'",
+    "fetched_on": "2025-09-11T23:18:04.395867+00:00",
+    "content": "While the prices of many vehicles have been going up, some drivers are taking advantage of tax credits available for electric vehicles.\r\nOne in particular bought a used 2022 Tesla Model 3 for $16,000… [+2905 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "vehicles",
+      "bought",
+      "owner",
+      "reveals",
+      "surprisingly",
+      "low",
+      "dealership",
+      "drivers",
+      "taking"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/09/10/using-an-mcus-own-debug-peripheral-to-defeat-bootrom-protection/",
+    "title": "Using an MCU’s Own Debug Peripheral to Defeat Bootrom Protection",
+    "fetched_on": "2025-09-11T23:18:04.395867+00:00",
+    "content": "The patient hooked up for some reverse-engineering. (Credit: Caralynx, Twitter)\r\nReleased in July of 2025, the Tamagotchi Paradise may look somewhat like the late 90s toy that terrorized parents and … [+1197 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MCU",
+      "Debug",
+      "Peripheral",
+      "Defeat",
+      "Bootrom",
+      "Protection",
+      "reverse-engineering",
+      "Credit",
+      "Caralynx",
+      "Twitter"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/corporate-caution-puts-credit-growth-on-pause/primearticleshow/123804581.cms",
+    "title": "Corporate caution puts credit growth on pause",
+    "fetched_on": "2025-09-11T23:18:04.395867+00:00",
+    "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG… [+439 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ideas",
+      "Investment",
+      "Grow",
+      "stock",
+      "Corporate",
+      "sectoral",
+      "trends",
+      "Score",
+      "Upside",
+      "caution"
+    ]
   }
 ]
