@@ -579992,5 +579992,65 @@
       "card",
       "Nudge"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-12/wisdomtree-puts-private-debt-exposure-on-blockchain-at-25-entry",
+    "title": "WisdomTree Puts Private-Debt Exposure on Blockchain at $25 Entry",
+    "fetched_on": "2025-09-12T13:26:46.872261+00:00",
+    "content": "WisdomTree Inc. launched its first tokenized fund that gives investors exposure to private credit, marking the latest attempt by Wall Street to connect fast-growing markets with blockchain technology.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Entry",
+      "Puts",
+      "WisdomTree",
+      "Exposure",
+      "Blockchain",
+      "Private-Debt",
+      "Wall",
+      "Street",
+      "launched",
+      "credit"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/polly-holliday-cause-of-death-updates-5454191/",
+    "title": "Polly Holliday Cause of Death Updates: How the ‘Alice’ Actress Died",
+    "fetched_on": "2025-09-12T13:26:46.013179+00:00",
+    "content": "Image Credit: Getty Images\r\nThanks to Polly Holliday, children in the 1970s and 80s grew up hearing the iconic line, Kiss my grits! Nearly 50 years after making her mark in the film and television in… [+2638 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Holliday",
+      "Polly",
+      "Updates",
+      "Alice’",
+      "Credit",
+      "Getty",
+      "Kiss",
+      "Death",
+      "Actress",
+      "Died"
+    ]
+  },
+  {
+    "source": "PetaPixel [NewsAPI]",
+    "url": "https://petapixel.com/2025/09/11/bumpy-snailfish-adorable-new-deep-sea-snailfish-species-filmed-10700-feet-below-ocean/",
+    "title": "Scientists Film Adorable and Never-Before-Seen Snailfish Two Miles Below Ocean",
+    "fetched_on": "2025-09-12T13:26:46.013179+00:00",
+    "content": "Meet the “bumpy snailfish.” The adorable new species of deep-sea snailfish was captured on camera by MBARI researchers (Photo credit: MBARI 2019).\r\nResearchers have filmed an adorable, previously unk… [+2116 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Film",
+      "Miles",
+      "Ocean",
+      "Meet",
+      "Snailfish",
+      "Adorable",
+      "MBARI",
+      "Scientists",
+      "bumpy",
+      "Photo"
+    ]
   }
 ]
