@@ -23,7 +23,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-12/vietnam-says-national-credit-center-hacked-warns-of-data-theft",
     "title": "Vietnam Warns of Major Data Theft After Credit Center Hacked",
-    "fetched_on": "2025-09-12T20:20:45.000863+00:00",
+    "fetched_on": "2025-09-12T21:16:32.054690+00:00",
     "content": "Vietnam said a cyberattack on the National Credit Information Center could have led to a major breach of personal data and warned the public to be on alert as it investigates the scale of the threat.",
     "platforms_mentioned": [],
     "keywords": [
@@ -364,7 +364,7 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-09-12T20:20:52.751816+00:00",
+    "fetched_on": "2025-09-12T21:16:49.439444+00:00",
     "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
@@ -384,7 +384,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-09-12T20:21:01.037035+00:00",
+    "fetched_on": "2025-09-12T21:16:58.041013+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -424,7 +424,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/05/yieldstreet-marine-loan-deals-customer-losses.html",
     "title": "Yieldstreet tells investors in $89 million worth of marine loans to expect losses",
-    "fetched_on": "2025-09-12T20:21:04.438651+00:00",
+    "fetched_on": "2025-09-12T21:17:01.287478+00:00",
     "content": "The news of this latest loss follows CNBC's report last month on Yieldstreet real estate investments that have resulted in $78 million in defaults.",
     "platforms_mentioned": [],
     "keywords": [
@@ -444,7 +444,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/08/how-to-handle-your-student-loans-after-losing-your-job.html",
     "title": "Here's how  to handle your student loans after losing a job",
-    "fetched_on": "2025-09-12T20:21:04.578289+00:00",
+    "fetched_on": "2025-09-12T21:17:01.500751+00:00",
     "content": "Amid a slowing job market and an uptick in unemployment, more student loan borrowers are struggling to pay their bills. Fortunately, they have options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -464,7 +464,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/07/student-loan-deferments-forbearances.html",
     "title": "What to know about putting your student loan payments on pause",
-    "fetched_on": "2025-09-12T20:21:04.578303+00:00",
+    "fetched_on": "2025-09-12T21:17:01.500766+00:00",
     "content": "As more student loan borrowers press the pause button on their monthly bills, here's what to know about the benefits and risks of doing so.",
     "platforms_mentioned": [],
     "keywords": [
@@ -484,7 +484,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/03/student-loan-borrowers-forbearances-deferments.html",
     "title": "Student loan borrowers pausing payments have doubled since 2024, expert calculates",
-    "fetched_on": "2025-09-12T20:21:04.578380+00:00",
+    "fetched_on": "2025-09-12T21:17:01.500843+00:00",
     "content": "More people are pausing their student loan payments, amid the fallout of the Biden-era SAVE plan and other troubling economic conditions.",
     "platforms_mentioned": [],
     "keywords": [
@@ -504,7 +504,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/08/31/how-to-get-7500-ev-tax-credit-after-the-deadline.html",
     "title": "Here's how to get the $7,500 EV tax credit \u2014 even after the Sept. 30 deadline",
-    "fetched_on": "2025-09-12T20:21:04.578412+00:00",
+    "fetched_on": "2025-09-12T21:17:01.500871+00:00",
     "content": "The IRS clarified that consumers don't need to drive their EV off the car lot by Sept. 30 to qualify for a federal tax break.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1616,12 +1616,11 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-12/wisdomtree-puts-private-debt-exposure-on-blockchain-at-25-entry",
-    "title": "WisdomTree Puts Private-Debt Exposure on Blockchain at $25 Entry",
-    "fetched_on": "2025-09-12T15:19:37.805108+00:00",
+    "title": "WisdomTree Puts Private-Debt Exposure on Blockchain",
+    "fetched_on": "2025-09-12T21:16:30.934748+00:00",
     "content": "WisdomTree Inc. launched its first tokenized fund that gives investors exposure to private credit, marking the latest attempt by Wall Street to connect fast-growing markets with blockchain technology.",
     "platforms_mentioned": [],
     "keywords": [
-      "Entry",
       "Puts",
       "WisdomTree",
       "Exposure",
@@ -1630,7 +1629,8 @@
       "Wall",
       "Street",
       "launched",
-      "credit"
+      "credit",
+      "marking"
     ]
   },
   {
@@ -1897,7 +1897,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-09-12T20:21:04.304063+00:00",
+    "fetched_on": "2025-09-12T21:17:01.097649+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1917,7 +1917,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-12/african-nations-tap-imf-for-69-billion-with-pivot-to-lender-seen-lasting",
     "title": "IMF Sees Africa Needing More Credit After Loans Top $69 Billion",
-    "fetched_on": "2025-09-12T20:20:45.102821+00:00",
+    "fetched_on": "2025-09-12T21:16:32.330736+00:00",
     "content": "Demand from African nations for financing from the International Monetary Fund is expected to remain high, as debt burdens mount and cheaper options remain scarce, even as backlash grows over its austerity-heavy terms.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2317,7 +2317,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-12/citi-says-messier-default-rates-mask-risk-for-debt-investors",
     "title": "Citi Says \u2018Messier\u2019 Default Rate Overstates Risk for Investors",
-    "fetched_on": "2025-09-12T20:20:44.664669+00:00",
+    "fetched_on": "2025-09-12T21:16:30.934929+00:00",
     "content": "Default rates of bonds and leveraged loans are becoming harder to predict as more companies restructure their debt, according to research analysts at Citi. That\u2019s making it more difficult for investors to accurately assess risk in the market.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2855,7 +2855,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-09-12/real-yield-9-12-2025-video",
     "title": "Fed on Track for Rate Cut | Real Yield 9/12/2025",
-    "fetched_on": "2025-09-12T20:20:44.664663+00:00",
+    "fetched_on": "2025-09-12T21:16:30.934923+00:00",
     "content": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Franklin Templeton Fixed Income CIO Sonal Desai, Bank of America Securities Head , US Rates Strategy Mark Cabana, BlackRock Head of Macro Credit Research Amanda Lynam and Oaktree Managing Director and Co-portfolio Manager Wayne Dahl. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -2895,7 +2895,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-12/djamo-gets-green-light-to-offer-loans-and-savings-in-ivory-coast",
     "title": "Djamo Gets Green Light to Offer Loans and Savings in Ivory Coast",
-    "fetched_on": "2025-09-12T20:20:45.000761+00:00",
+    "fetched_on": "2025-09-12T21:16:32.054587+00:00",
     "content": "Djamo Finances has secured a microfinance license from the Central Bank of West African States, allowing the Ivorian fintech to operate as a microfinance institution in Ivory Coast.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3095,7 +3095,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-12/ram-cancels-all-electric-pickup-for-us-amid-slowing-demand",
     "title": "Ram Cancels All-Electric Pickup for US Amid Slowing Demand",
-    "fetched_on": "2025-09-12T20:20:45.205988+00:00",
+    "fetched_on": "2025-09-12T21:16:32.643994+00:00",
     "content": "Stellantis NV, which owns the Jeep and Ram brands, has canceled plans to bring its all-electric pickup truck to market, the latest product shakeup after competitors\u2019 models failed to meet expectations and Congress moved to eliminate tax credits for EV buyers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3295,7 +3295,7 @@
     "source": "Decrypt [NewsAPI]",
     "url": "https://decrypt.co/339100/figure-jump-24-ipo-price-crypto-lenders-nasdaq-debut",
     "title": "Figure Shares Jump 24% From IPO Price in Crypto Lender's Nasdaq Debut",
-    "fetched_on": "2025-09-12T20:20:44.079019+00:00",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
     "content": "In brief\r\n<ul><li>Figure shares closed 24% above their IPO price at $31.11 on Thursday.</li><li>The company uses a blockchain-based platform to facilitate loans.</li><li>Analysts foresee the IPO adva\u2026 [+3142 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3315,7 +3315,7 @@
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/charlie-kirk-net-worth-5454358/",
     "title": "Charlie Kirk Net Worth 2025: How the Activist Built an Influential Platform Before His Death",
-    "fetched_on": "2025-09-12T20:20:44.079019+00:00",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
     "content": "Image Credit: Getty Images\r\nCharlie Kirkestablished a powerful presence in conservative media. The proud college dropout created an empire while building his net worth, proving that he didnt need a d\u2026 [+2688 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3335,7 +3335,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/audi-welcomes-adidas-as-official-f1-apparel-partner/",
     "title": "Audi welcomes Adidas as official F1 apparel partner",
-    "fetched_on": "2025-09-12T20:20:44.079019+00:00",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
     "content": "Commerce\r\nSeptember 11, 2025\r\n The company is naming a major sponsor of its future sporting squad. Image credit: Audi \r\n By Zach James for Luxury Daily News Service\r\nGerman automaker Audi is linking \u2026 [+4471 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3355,7 +3355,7 @@
     "source": "Freerepublic.com [NewsAPI]",
     "url": "https://freerepublic.com/focus/f-chat/4339808/posts",
     "title": "Astronomy Picture of the Day - The Umbra of Earth",
-    "fetched_on": "2025-09-12T20:20:44.079019+00:00",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
     "content": "Skip to comments.\r\nAstronomy Picture of the Day - The Umbra of Earthapod, nasa ^\r\n | 11 Sep, 2025\r\n | Image Credit &amp; Copyright: Wang Letian (Eyes at Night)\r\nPosted on 09/11/2025 12:36:11 PM PDT b\u2026 [+2786 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3375,7 +3375,7 @@
     "source": "Slashdot.org [NewsAPI]",
     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=179168914",
     "title": "Colorado investigators identify Evergreen High School shooter, credit students and staff for saving lives - CBS News",
-    "fetched_on": "2025-09-12T20:20:44.079019+00:00",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
     "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3395,7 +3395,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_af5f5498-fbc0-41e9-aa69-c77d57181efc",
     "title": "Nibbles Pet Rewards Credit Card review: Free pet insurance and more savings for pet owners",
-    "fetched_on": "2025-09-12T20:20:44.079019+00:00",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
     "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3415,7 +3415,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/news/dave-ramseys-advice-huge-shock-193105867.html",
     "title": "Dave Ramsey's Advice Was A 'Huge Shock.' But In Just 14 Months, They Paid Off A $35K Car Loan, $5K In Credit Cards And A $382K Mortgage",
-    "fetched_on": "2025-09-12T20:20:44.079019+00:00",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
     "content": "A Reddit user says Dave Ramseys financial advice was a huge shock to the system. But it worked. In just 14 months, they paid off $422,000 in debt, including their entire mortgage.\r\nIn a recent post o\u2026 [+2155 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3449,6 +3449,186 @@
       "owners",
       "insurance",
       "savings"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-09-12/still-comfortable-moving-down-in-credit-quality-lynam-video",
+    "title": "Still Comfortable Moving Down in Credit Quality: Lynam",
+    "fetched_on": "2025-09-12T21:16:30.934822+00:00",
+    "content": "BlackRock's Head of Macro Credit Research Amanda Lynam says they are still comfortable selectively moving down in credit quality and that we're seeing winners and losers within the same reading category, within the same sector. She speaks with Scarlet Fu on 'Real Yield.' (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Lynam",
+      "Comfortable",
+      "Moving",
+      "Quality",
+      "Head",
+      "Macro",
+      "Research",
+      "Amanda",
+      "category"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-09-12/complacency-not-a-bad-thing-oaktree-s-wayne-dahl-video",
+    "title": "Complacency Not A Bad Thing: Oaktree's Wayne Dahl",
+    "fetched_on": "2025-09-12T21:16:30.934843+00:00",
+    "content": "Oaktree Managing Director and Co-Portfolio Manager Wayne Dahl explains why complacency is in credit spreads is not necessarily a bad thing for investors with Scarlet Fu on \u2018Real Yield.\u2019 (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wayne",
+      "Dahl",
+      "Bad",
+      "Oaktree",
+      "Real",
+      "Yield.\u2019",
+      "Thing",
+      "Managing",
+      "Director",
+      "Manager"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-12/spain-scores-credit-rating-upgrade-from-s-p-global-ratings",
+    "title": "Spain Scores Credit-Rating Upgrade from S&amp;P Global Ratings",
+    "fetched_on": "2025-09-12T21:16:32.330683+00:00",
+    "content": "Spain\u2019s credit rating was raised one notch by S&amp;P Global Ratings, which cited an improvement in the external balance sheet alongside a decade of private sector deleveraging.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Global",
+      "Ratings",
+      "Spain",
+      "Scores",
+      "Upgrade",
+      "deleveraging",
+      "rating",
+      "Credit-Rating",
+      "credit",
+      "raised"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ebca7b1e0ad42e5c",
+    "title": "New Really Simple Licensing spec wants AI crawlers to show a license - or a credit card",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
+    "content": "For whom the bill tollsContent creation and delivery companies have introduced a digital licensing mechanism in an effort to compensate media makers when AI companies use their work.\r\nThis story appe\u2026 [+47 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Licensing",
+      "Simple",
+      "companies",
+      "license",
+      "work",
+      "spec",
+      "crawlers",
+      "show",
+      "credit",
+      "card"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/09/11/3148924/0/en/Atlanticus-Announces-Acquisition-of-Mercury-Financial-LLC.html",
+    "title": "Atlanticus Announces Acquisition of Mercury Financial LLC",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
+    "content": "<ul><li>Adds $3.2 billion of credit card receivables to Atlanticus general purpose credit card segment</li><li>Expands Atlanticus product offering and capabilities into the much larger near-prime con\u2026 [+7708 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Adds",
+      "Atlanticus",
+      "LLC",
+      "Expands",
+      "chars",
+      "credit",
+      "card",
+      "Announces",
+      "Acquisition",
+      "Mercury"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/09/11/3148921/0/en/Talonvest-Structures-19-2-Million-in-Life-Company-Loans.html",
+    "title": "Talonvest Structures $19.2 Million in Life Company Loans",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
+    "content": "NEWPORT BREACH, CA, Sept. 11, 2025 (GLOBE NEWSWIRE) -- Talonvest Capital, Inc. is proud to announce the successful closing of $19.2 million in financing on behalf of Hanora Investment Group (www.hano\u2026 [+2511 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Sept.",
+      "Talonvest",
+      "www.hano",
+      "chars",
+      "Structures",
+      "BREACH",
+      "GLOBE",
+      "NEWSWIRE",
+      "Capital"
+    ]
+  },
+  {
+    "source": "Theregister.com [NewsAPI]",
+    "url": "https://www.theregister.com/2025/09/11/rsl_content_grabbing_ai_digital_licensing/",
+    "title": "New Really Simple Licensing spec wants AI crawlers to show a license - or a credit card",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
+    "content": "Content creation and delivery companies have introduced a digital licensing mechanism in an effort to compensate media makers when AI companies use their work.\r\nThe Really Simple Licensing (RSL) stan\u2026 [+5393 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Simple",
+      "Licensing",
+      "Content",
+      "companies",
+      "license",
+      "work",
+      "RSL",
+      "spec",
+      "crawlers",
+      "show"
+    ]
+  },
+  {
+    "source": "iTnews [NewsAPI]",
+    "url": "https://www.itnews.com.au/news/ing-bank-australia-cuts-days-off-rate-renegotiation-loan-top-ups-619851",
+    "title": "ING Bank Australia cuts days off rate renegotiation, loan top-ups",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
+    "content": "ING Bank Australia has digitised its process for pricing and approving discounts to interest rates and for \u2018topping up\u2019 home loans, using e-signature technology to reduce processing times.\r\nAcquisiti\u2026 [+3777 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "ING",
+      "Australia",
+      "renegotiation",
+      "topping",
+      "times",
+      "Acquisiti",
+      "chars",
+      "cuts",
+      "days"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4197080/$ECON-Week-of--Fed-balance-sheet-reserve-bank-credit-B",
+    "title": "Week of 9/10 Fed balance sheet reserve bank credit $0.097B",
+    "fetched_on": "2025-09-12T21:16:29.674746+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "Earnings",
+      "Week",
+      "credit",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows",
+      "balance",
+      "sheet"
     ]
   }
 ]
