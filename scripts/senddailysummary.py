@@ -15,6 +15,15 @@ yesterday_str = yesterday.isoformat()
 # Daily summary
 daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
 
+# Check if there are articles for companies of interest
+company_articles = company_news.get(yesterday_str, {}).get("articles", [])
+if company_articles:
+    articles_text = "\n".join(
+        f"- [{article['title']}]({article['url']})"
+        for article in company_articles
+    )
+    daily_summary += "\n\n**Companies of Interest in the News:**\n" + articles_text
+
 # Build Adaptive Card 
 card = {
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
