@@ -22,8 +22,8 @@ if today.weekday() == 0:
     sunday_summary = summaries.get("daily_summary", {}).get(last_sunday_str, "No Sunday summary.")
     combined_title = f"**Sunday + Weekly Summary ({last_sunday_str})**"
     combined_text = (
-        f"**Sunday Summary ({last_sunday_str})**\n{sunday_summary}\n\n"
-        f"**Weekly Summary ({last_sunday_str})**\n{weekly_summary}"
+    f"<b>Sunday Summary ({last_sunday_str}):</b><br>{sunday_summary}<br><br>"
+    f"<b>Weekly Summary ({last_sunday_str}):</b><br>{weekly_summary}"
     )
 else:
     # Daily summary
