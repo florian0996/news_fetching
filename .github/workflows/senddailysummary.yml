@@ -1,9 +1,10 @@
-name: Send Daily and Weekly Summaries to Teams
+name: Send Daily Summaries to Teams
 
 on:
   schedule:
-    - cron: "30 6 * * *"  # Every day at 06h30 UTC (~08h30 in summer CET)
-  workflow_dispatch:        # to launch manually
+    # Runs at 06:30 UTC every day except Monday
+    - cron: "30 6 * * 2-0"  # 2=Tuesday, 0=Sunday
+  workflow_dispatch:        # allows manual run
 
 jobs:
   send-summary:
@@ -24,4 +25,4 @@ jobs:
       - name: Run script
         env:
           TEAMS_WEBHOOK: ${{ secrets.TEAMS_WEBHOOK }}
-        run: python scripts/send_summary.py
+        run: python scripts/senddailysummary.py
