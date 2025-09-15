@@ -15,6 +15,10 @@ yesterday_str = yesterday.isoformat()
 # Daily summary
 daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
 
+# Load company news
+with open("data/news_filtered_for_companies_of_interest.json", "r") as f:
+    company_news = json.load(f)
+    
 # Check if there are articles for companies of interest
 company_articles = company_news.get(yesterday_str, {}).get("articles", [])
 if company_articles:
