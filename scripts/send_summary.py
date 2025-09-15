@@ -17,15 +17,9 @@ yesterday_str = yesterday.isoformat()
 weekly_summary = None
 if today.weekday() == 0:
     last_sunday = today - timedelta(days=1)
-    last_saturday = today - timedelta(days=2)
-    last_friday = today - timedelta(days=3)
     last_sunday_str = last_sunday.isoformat()
-    last_saturday_str = last_saturday.isoformat()
-    last_friday_str = last_friday.isoformat()
     weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
     sunday_summary = summaries.get("daily_summary", {}).get(last_sunday_str, "No Sunday summary.")
-    saturday_summary = summaries.get("daily_summary", {}).get(last_saturday_str, "No Saturday summary.")
-    friday_summary = summaries.get("daily_summary", {}).get(last_friday_str, "No Friday summary.")
 else:
     # Daily summary
     daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
@@ -40,38 +34,6 @@ card = {
 
 # Add weekly summary if Monday
 if weekly_summary is not None:
-    card["body"].append(
-        {
-            "type": "TextBlock",
-            "text": f"**Friday Summary ({last_friday_str})**",
-            "weight": "Bolder",
-            "size": "Medium",
-            "spacing": "Medium"
-        }
-    )
-    card["body"].append(
-        {
-            "type": "TextBlock",
-            "text": friday_summary,
-            "wrap": True
-        }
-    )
-    card["body"].append(
-        {
-            "type": "TextBlock",
-            "text": f"**Saturday Summary ({last_saturday_str})**",
-            "weight": "Bolder",
-            "size": "Medium",
-            "spacing": "Medium"
-        }
-    )
-    card["body"].append(
-        {
-            "type": "TextBlock",
-            "text": saturday_summary,
-            "wrap": True
-        }
-    )
     card["body"].append(
         {
             "type": "TextBlock",
