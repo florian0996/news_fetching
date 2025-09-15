@@ -1,6 +1,24 @@
 {
-  "2025-09-14": {
+  "2025-09-15": {
     "status": "no company in the news"
+  },
+  "2025-09-14": {
+    "articles": [
+      {
+        "title": "LendingClub Corporation (NYSE:LC) Given Average Rating of “Moderate Buy” by Analysts",
+        "url": "https://www.etfdailynews.com/2025/09/13/lendingclub-corporation-nyselc-given-average-rating-of-moderate-buy-by-analysts/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Head to Head Review: LendingClub (NYSE:LC) and Credit Saison (OTCMKTS:CSASF)",
+        "url": "https://www.etfdailynews.com/2025/09/13/head-to-head-review-lendingclub-nyselc-and-credit-saison-otcmktscsasf/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-09-13": {
     "status": "no company in the news"
