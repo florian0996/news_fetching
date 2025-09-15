@@ -20,11 +20,6 @@ if today.weekday() == 0:
     last_sunday_str = last_sunday.isoformat()
     weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
     sunday_summary = summaries.get("daily_summary", {}).get(last_sunday_str, "No Sunday summary.")
-    combined_title = f"**Sunday + Weekly Summary ({last_sunday_str})**"
-    combined_text = (
-    f"<b>Sunday Summary ({last_sunday_str}):</b><br>{sunday_summary}<br><br>"
-    f"<b>Weekly Summary ({last_sunday_str}):</b><br>{weekly_summary}"
-    )
 else:
     # Daily summary
     daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
@@ -42,7 +37,7 @@ if weekly_summary is not None:
     card["body"].append(
         {
             "type": "TextBlock",
-            "text": f"{combined_title}",
+            "text": f"**Sunday Summary ({last_sunday_str})**",
             "weight": "Bolder",
             "size": "Medium",
             "spacing": "Medium"
@@ -51,7 +46,23 @@ if weekly_summary is not None:
     card["body"].append(
         {
             "type": "TextBlock",
-            "text": combined_text,
+            "text": sunday_summary,
+            "wrap": True
+        }
+    )
+    card["body"].append(
+        {
+            "type": "TextBlock",
+            "text": f"**Weekly Summary ({last_sunday_str})**",
+            "weight": "Bolder",
+            "size": "Medium",
+            "spacing": "Medium"
+        }
+    )
+    card["body"].append(
+        {
+            "type": "TextBlock",
+            "text": weekly_summary,
             "wrap": True
         }
     )
