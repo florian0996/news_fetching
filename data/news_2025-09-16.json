@@ -40,17 +40,17 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-15/apollo-says-bank-tie-ups-crucial-for-high-grade-private-credit",
-    "title": "Apollo Says Bank Tie-Ups Crucial for High-Grade Private Credit",
-    "fetched_on": "2025-09-16T03:31:08.595784+00:00",
-    "content": "Private credit's effort to finance investment-grade companies is going to come down to its partnerships with banks, according to Apollo Global Management Inc. President Jim Zelter.",
+    "title": "Apollo Says Bank Tie-Ups Vital for High-Grade Private Credit",
+    "fetched_on": "2025-09-16T08:27:57.188159+00:00",
+    "content": "Private credit\u2019s effort to finance investment-grade companies is going to come down to its partnerships with banks, according to Apollo Global Management Inc. President Jim Zelter.",
     "platforms_mentioned": [],
     "keywords": [
       "Private",
       "Credit",
       "Apollo",
-      "Crucial",
+      "Vital",
       "Global",
       "Management",
       "Bank",
@@ -63,7 +63,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-15/sec-winklevoss-gemini-to-resolve-crypto-lending-lawsuit",
     "title": "SEC, Winklevoss\u2019 Gemini to Resolve Crypto Lending Lawsuit",
-    "fetched_on": "2025-09-16T07:20:22.936166+00:00",
+    "fetched_on": "2025-09-16T08:27:57.574446+00:00",
     "content": "The US Securities and Exchange Commission and Gemini Trust Co. are close to resolving the agency\u2019s lawsuit claiming the firm illegally raised billions of dollars through an unregistered lending crypto program, attorneys said in a court filing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -103,7 +103,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-15/memorial-sloan-kettering-to-cut-hundreds-of-jobs-as-costs-surge",
     "title": "Memorial Sloan Kettering to Cut Hundreds of Jobs as Costs Surge",
-    "fetched_on": "2025-09-16T07:20:22.936179+00:00",
+    "fetched_on": "2025-09-16T08:27:57.574459+00:00",
     "content": "Memorial Sloan Kettering Cancer Center is planning to cut less than 2% of its workforce as it faces a budget deficit of more than $200 million for the upcoming year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/14/underwater-car-trade-ins-are-at-a-4-year-high-what-that-means-when-buying-a-new-vehicle.html",
     "title": "'Underwater' car trade-ins are at a 4-year high: What that means when buying a new vehicle",
-    "fetched_on": "2025-09-16T07:20:43.903248+00:00",
+    "fetched_on": "2025-09-16T08:28:15.335912+00:00",
     "content": "More drivers are rolling negative equity into new car loans. Here\u2019s how to minimize the cost as much as possible in this situation, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-09-16T07:20:34.291014+00:00",
+    "fetched_on": "2025-09-16T08:28:04.571884+00:00",
     "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-09-16T07:20:40.944763+00:00",
+    "fetched_on": "2025-09-16T08:28:12.220039+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/student-loan-borrowers-class-action-aft-trump.html",
     "title": "Student loan forgiveness delays under Trump prompt class action effort",
-    "fetched_on": "2025-09-16T07:20:43.903193+00:00",
+    "fetched_on": "2025-09-16T08:28:15.335873+00:00",
     "content": "The American Federation of Teachers filed a class action complaint related to Trump-era student loan changes, including blocked debt forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/student-loan-servicer-transfer-can-come-without-notice-what-to-know.html",
     "title": "My student loan servicer changed without my knowing. It may happen to you, too \u2014 here's what to do",
-    "fetched_on": "2025-09-16T07:20:43.903210+00:00",
+    "fetched_on": "2025-09-16T08:28:15.335890+00:00",
     "content": "My student debt was moved from one company to another without my knowing. Experts shared tips on what borrowers \u2014 me included \u2014 should do if this happens.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/14/heres-why-banks-credit-card-companies-are-wary-of-buy-now-pay-later-loans.html",
     "title": "Consumers love buy now, pay later loans. Here\u2019s why banks and credit card companies are wary of them",
-    "fetched_on": "2025-09-16T07:20:43.700036+00:00",
+    "fetched_on": "2025-09-16T08:28:15.176416+00:00",
     "content": "Buy now, pay later loans pose a direct challenge to credit cards. Banks and financial institutions are also wary of how they affect consumers' credit profiles.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-09-16T07:20:43.903225+00:00",
+    "fetched_on": "2025-09-16T08:28:15.335905+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-09-16T07:20:43.603105+00:00",
+    "fetched_on": "2025-09-16T08:28:15.066167+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/05/yieldstreet-marine-loan-deals-customer-losses.html",
     "title": "Yieldstreet tells investors in $89 million worth of marine loans to expect losses",
-    "fetched_on": "2025-09-16T07:20:43.700170+00:00",
+    "fetched_on": "2025-09-16T08:28:15.176545+00:00",
     "content": "The news of this latest loss follows CNBC's report last month on Yieldstreet real estate investments that have resulted in $78 million in defaults.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/08/how-to-handle-your-student-loans-after-losing-your-job.html",
     "title": "Here's how  to handle your student loans after losing a job",
-    "fetched_on": "2025-09-16T07:20:43.903340+00:00",
+    "fetched_on": "2025-09-16T08:28:15.336003+00:00",
     "content": "Amid a slowing job market and an uptick in unemployment, more student loan borrowers are struggling to pay their bills. Fortunately, they have options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/07/student-loan-deferments-forbearances.html",
     "title": "What to know about putting your student loan payments on pause",
-    "fetched_on": "2025-09-16T07:20:43.903354+00:00",
+    "fetched_on": "2025-09-16T08:28:15.336017+00:00",
     "content": "As more student loan borrowers press the pause button on their monthly bills, here's what to know about the benefits and risks of doing so.",
     "platforms_mentioned": [],
     "keywords": [
@@ -803,7 +803,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/09/16/this-korean-immigrant-started-a-fintech-startup-tomocredit-credit-ghost.html",
     "title": "This immigrant couldn't get an apartment because she was a 'credit ghost.' Today, her $20 million a year startup helps others build their credit",
-    "fetched_on": "2025-09-16T07:20:43.081604+00:00",
+    "fetched_on": "2025-09-16T08:28:14.741410+00:00",
     "content": "Korean immigrant Kristy Kim was denied housing as a 'credit ghost' in America. Now, she runs a $20 million a year fintech startup helping others build credit.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1043,7 +1043,7 @@
     "source": "ETF Daily News [NewsAPI]",
     "url": "https://www.etfdailynews.com/2025/09/15/credit-acceptance-nasdaqcacc-versus-lexinfintech-nasdaqlx-financial-review/",
     "title": "Credit Acceptance (NASDAQ:CACC) versus LexinFintech (NASDAQ:LX) Financial Review",
-    "fetched_on": "2025-09-16T07:20:19.755892+00:00",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
     "content": "Credit Acceptance (NASDAQ:CACC \u2013 Get Free Report) and LexinFintech (NASDAQ:LX \u2013 Get Free Report) are both finance companies, but which is the better investment? We will contrast the two businesses ba\u2026 [+5087 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1063,7 +1063,7 @@
     "source": "Digitimes [NewsAPI]",
     "url": "https://www.digitimes.com/news/a20250911VL205/arm-mobile-cpu-gpu-gaming-performance.html",
     "title": "Arm raises stakes in mobile AI with Lumex CSS; debuts C1 CPU and Mali G1-Ultra GPU",
-    "fetched_on": "2025-09-16T07:20:19.755892+00:00",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
     "content": "Arm SVP &amp; GM of Client Line of Business, Chris Bergey. Credit: Arm Unlocked ShanghaiArm unveiled its Lumex Compute Subsystem (CSS) on September 10 at the Unlocked Summit in Shanghai, signaling it\u2026 [+5802 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1083,7 +1083,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/ec56401ac45f9d51",
     "title": "South Africa Banks Pan Minister\u2019s U-Turn on Credit-Law Changes",
-    "fetched_on": "2025-09-16T07:20:19.755892+00:00",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did ANZ receive a record $160 million fine? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Fed's upcoming r\u2026 [+792 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1103,7 +1103,7 @@
     "source": "Eyeoftheflyer.com [NewsAPI]",
     "url": "https://eyeoftheflyer.com/2025/09/15/chase-ink-cash-preferred-welcome-offers/",
     "title": "90,000 Bonus Points for One of Our Favorite Credit Cards! (Limited Time!)",
-    "fetched_on": "2025-09-16T07:20:19.755892+00:00",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
     "content": "Advertiser Disclosure: Eye of the Flyer, a division of Chatterbox Entertainment, Inc., is part of an affiliate sales network and receives compensation for sending traffic to partner sites, such as Cr\u2026 [+4826 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1178,6 +1178,266 @@
       "financing",
       "aging",
       "barrels"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-16/janus-blackrock-among-managers-to-lose-dutch-credit-mandates",
+    "title": "Janus, BlackRock Among Managers to Lose Dutch Credit Mandates",
+    "fetched_on": "2025-09-16T08:27:56.929127+00:00",
+    "content": "BlackRock Inc. is among a group of money managers to have lost credit mandates from one of Europe\u2019s largest pension funds, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Managers",
+      "Credit",
+      "Mandates",
+      "Janus",
+      "Lose",
+      "Dutch",
+      "Inc.",
+      "Europe",
+      "BlackRock",
+      "funds"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-16/jpmorgan-nomura-lead-500-million-loan-for-otpp-s-dental-deal",
+    "title": "JPMorgan, Nomura Lead \u20ac500 Million Loan for OTPP\u2019s Dental Deal",
+    "fetched_on": "2025-09-16T08:27:56.929153+00:00",
+    "content": "JPMorgan Chase &amp; Co. and Nomura Holdings Inc. are among banks leading a debt financing package to provide about \u20ac500 million ($588 million) for Ontario Teachers\u2019 Pension Plan\u2019s acquisition of Spanish dental provider Donte Group.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Nomura",
+      "Lead",
+      "Chase",
+      "Group",
+      "Dental",
+      "Loan",
+      "OTPP",
+      "Deal",
+      "Holdings"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-09-16/high-grade-private-credit-needs-bank-tie-ups-apollo-video",
+    "title": "High-Grade Private Credit Needs Bank Tie-Ups: Apollo",
+    "fetched_on": "2025-09-16T08:27:56.929171+00:00",
+    "content": "\u201cThe future of IG private credit is really in partnership with the banks &mdash; no doubt about it,\u201d Apollo Global Management Inc. President Jim Zelter said in an interview with Bloomberg. Apollo has 12 origination partnerships with banks, according to Zelter, in addition to its own deal-sourcing teams. Those include tie-ups with BNP Paribas SA, Citigroup Inc., Standard Chartered Plc, and others that are \u201cprivate, or have not been announced, but still very active,\u201d he explained in an interview with Fr",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Apollo",
+      "Global",
+      "Management",
+      "Private",
+      "Zelter",
+      "High-Grade",
+      "banks",
+      "interview",
+      "Bloomberg"
+    ]
+  },
+  {
+    "source": "Travelupdate.com [NewsAPI]",
+    "url": "https://travelupdate.com/new-chase-credit-card-bonuses-hilton-devaluation-discounted-singapore-award-tickets-more/",
+    "title": "New Chase credit card bonuses, Hilton devaluation, discounted Singapore award tickets & more\u2026",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "Disclosure: The Points Pundit receives NO compensation from credit card affiliate partnerships. Support the blog by applying for a card through my personal referral links. This article is meant for i\u2026 [+3039 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disclosure",
+      "Hilton",
+      "Chase",
+      "Singapore",
+      "Points",
+      "Pundit",
+      "credit",
+      "card",
+      "bonuses",
+      "devaluation"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/15/uwm-nyseuwmc-versus-lendingtree-nasdaqtree-head-to-head-review/",
+    "title": "UWM (NYSE:UWMC) versus LendingTree (NASDAQ:TREE) Head-To-Head Review",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "UWM (NYSE:UWMC \u2013 Get Free Report) and LendingTree (NASDAQ:TREE \u2013 Get Free Report) are both finance companies, but which is the better investment? We will contrast the two companies based on the stren\u2026 [+4761 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "UWMC",
+      "NASDAQ",
+      "TREE",
+      "Report",
+      "UWM",
+      "Free",
+      "Review",
+      "LendingTree",
+      "versus"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/credit-unions/2025/forum-credit-union-bets-on-digital-tools-to-keep-5000-businesses-loyal/",
+    "title": "Forum Credit Union Bets on Digital Tools to Keep 5,000 Businesses Loyal",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "Credit unions are under pressure to give business customers the same clean interfaces, selfservice onboarding and actionable insights they get from bigger banks. And they want it without losing the c\u2026 [+5156 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Businesses",
+      "Bets",
+      "Digital",
+      "Tools",
+      "Loyal",
+      "Union",
+      "unions",
+      "Forum",
+      "interfaces"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-steady-france-dented-by-downgrade/articleshow/123895585.cms",
+    "title": "Euro zone bond yields steady; France dented by downgrade",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "Euro zone government bond yields got off to a steady start on Monday, with French debt lagging after credit ratings agency Fitch cut France's long-term rating on Friday, as the country grapples with \u2026 [+2173 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Monday",
+      "Friday",
+      "France",
+      "Euro",
+      "French",
+      "Fitch",
+      "zone",
+      "bond",
+      "yields"
+    ]
+  },
+  {
+    "source": "Madshrimps.be [NewsAPI]",
+    "url": "https://www.madshrimps.be/news/the-korean-ev-that-feels-more-expensive-than-it-is/",
+    "title": "The Korean EV That Feels More Expensive Than It Is",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "The clocks tickingSeptember 30 is the last day to snag that sweet $7,500 federal tax credit on a new EV. No wonder dealerships are moving metal faster than ever.\r\nRead\u00a0More",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Korean",
+      "Feels",
+      "Expensive",
+      "tickingSeptember",
+      "sweet",
+      "federal",
+      "clocks",
+      "day",
+      "snag",
+      "tax"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/there-will-be-no-xiaomi-16-series-xiaomi-will-skip-entire-phone-generation-to-fight-apple_id174025",
+    "title": "There will be no Xiaomi 16 series! Xiaomi will skip an entire phone generation to fight Apple",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "Xiaomi 15 Ultra. | Image credit PhoneArena\r\nXiaomi won't be rolling out a 16 series this month in China. Instead, it is jumping straight to the Xiaomi 17, setting the stage for a head-to-head clash w\u2026 [+3385 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Xiaomi",
+      "series",
+      "Ultra",
+      "Apple",
+      "Image",
+      "China",
+      "chars",
+      "skip",
+      "entire",
+      "phone"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/09/15/wall-street-zen-upgrades-ellington-credit-nyseearn-to-hold/",
+    "title": "Wall Street Zen Upgrades Ellington Credit (NYSE:EARN) to Hold",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "Ellington Credit (NYSE:EARN \u2013 Get Free Report) was upgraded by stock analysts at Wall Street Zen from a \u201csell\u201d rating to a \u201chold\u201d rating in a research report issued to clients and investors on Saturd\u2026 [+3787 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "EARN",
+      "Credit",
+      "Street",
+      "Zen",
+      "Ellington",
+      "Wall",
+      "Saturd",
+      "rating",
+      "sell"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/muthoot-finance-raises-600-million-from-international-bond-markets/article70051734.ece",
+    "title": "Muthoot Finance raises $600 million from international bond markets",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "Muthoot Finance has raised $600 million from international bond market through an External Commercial Borrowing (ECB) issuance. The funds will be deployed for lending activities, enabling the company\u2026 [+1669 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ECB",
+      "Finance",
+      "million",
+      "Borrowing",
+      "Muthoot",
+      "issuance",
+      "international",
+      "bond",
+      "External",
+      "Commercial"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/south-africa-banks-pan-minister-s-u-turn-on-credit-law-changes-11757921275995.html",
+    "title": "South Africa Banks Pan Minister\u2019s U-Turn on Credit-Law Changes",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "(Bloomberg) -- South Africas top banking lobby group criticized the governments withdrawal of proposed changes to the National Credit Act that were meant to help small firms secure loans. \r\n Trade, I\u2026 [+1640 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "South",
+      "Bloomberg",
+      "Banks",
+      "Pan",
+      "Minister",
+      "National",
+      "Credit",
+      "Act",
+      "Africa",
+      "Africas"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/personal-loan-approval-depends-on-more-than-credit-score-with-lenders-weighing-income-job-record-debts-and-assets-11757916365761.html",
+    "title": "Personal loan approval depends on more than credit score \u2014 Here are other aspects lenders check",
+    "fetched_on": "2025-09-16T08:27:56.277495+00:00",
+    "content": "Borrowers apply for a personal loan to meet daily expenses and needs such as medical emergencies, education, home renovation, etc. To secure favourable loans with easier interest rates, applicants mu\u2026 [+3740 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "education",
+      "Borrowers",
+      "Personal",
+      "score",
+      "emergencies",
+      "home",
+      "renovation",
+      "loan",
+      "approval",
+      "depends"
     ]
   }
 ]
