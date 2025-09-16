@@ -1,6 +1,17 @@
 {
-  "2025-09-15": {
+  "2025-09-16": {
     "status": "no company in the news"
+  },
+  "2025-09-15": {
+    "articles": [
+      {
+        "title": "Head-To-Head Review: ZIP (OTCMKTS:ZIZTF) and LendingClub (NYSE:LC)",
+        "url": "https://www.etfdailynews.com/2025/09/14/head-to-head-review-zip-otcmktsziztf-and-lendingclub-nyselc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-09-14": {
     "articles": [
