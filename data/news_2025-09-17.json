@@ -42,21 +42,21 @@
   {
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-16/bankrupt-fintech-cuts-deal-over-hard-to-get-private-firm-shares",
-    "title": "Bankrupt Fintech Cuts Deal Over Hard-to-Get Private Firm Shares",
-    "fetched_on": "2025-09-17T11:16:34.378026+00:00",
+    "title": "Bankrupt Fintech Cuts Deal Over Hard-to-Get Private Shares",
+    "fetched_on": "2025-09-17T12:41:16.649616+00:00",
     "content": "Collapsed fintech startup Linqto Inc. agreed to a deal to repay customers who were wrongly promised that they could get stakes in hard-to-acquire, private companies.",
     "platforms_mentioned": [],
     "keywords": [
       "Fintech",
       "Private",
       "Cuts",
-      "Firm",
       "Shares",
       "Collapsed",
       "Linqto",
       "Bankrupt",
       "Deal",
-      "startup"
+      "startup",
+      "agreed"
     ]
   },
   {
@@ -583,7 +583,7 @@
     "source": "SEC Press Releases [RSS]",
     "url": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
     "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
-    "fetched_on": "2025-09-17T11:16:55.108680+00:00",
+    "fetched_on": "2025-09-17T12:41:23.130906+00:00",
     "content": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building &amp; Loan, LLC and its founder and owner Edwin Brant Frost IV in\u2026",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-09-17T11:17:02.513297+00:00",
+    "fetched_on": "2025-09-17T12:41:30.992537+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/16/fico-credit-scores-fall-year-over-year-more-borrowers-miss-payments.html",
     "title": "Credit scores fall for the second year in a row as more borrowers miss payments",
-    "fetched_on": "2025-09-17T11:17:05.498796+00:00",
+    "fetched_on": "2025-09-17T12:41:33.799470+00:00",
     "content": "The average FICO credit score fell two points year over year to 715. The resumption of federal student loan delinquency reporting was a key factor.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-09-17T11:17:05.498853+00:00",
+    "fetched_on": "2025-09-17T12:41:33.799520+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-09-17T11:17:05.146156+00:00",
+    "fetched_on": "2025-09-17T12:41:33.559103+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/14/heres-why-banks-credit-card-companies-are-wary-of-buy-now-pay-later-loans.html",
     "title": "Consumers love buy now, pay later loans. Here\u2019s why banks and credit card companies are wary of them",
-    "fetched_on": "2025-09-17T11:17:05.287312+00:00",
+    "fetched_on": "2025-09-17T12:41:33.676168+00:00",
     "content": "Buy now, pay later loans pose a direct challenge to credit cards. Banks and financial institutions are also wary of how they affect consumers' credit profiles.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/05/yieldstreet-marine-loan-deals-customer-losses.html",
     "title": "Yieldstreet tells investors in $89 million worth of marine loans to expect losses",
-    "fetched_on": "2025-09-17T11:17:05.287438+00:00",
+    "fetched_on": "2025-09-17T12:41:33.676308+00:00",
     "content": "The news of this latest loss follows CNBC's report last month on Yieldstreet real estate investments that have resulted in $78 million in defaults.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/16/student-loan-borrowers-tax-liability-trump.html",
     "title": "Student loan borrowers may face 'enormous tax liability' amid Trump administration delays: union",
-    "fetched_on": "2025-09-17T11:17:05.498787+00:00",
+    "fetched_on": "2025-09-17T12:41:33.799462+00:00",
     "content": "Student loan borrowers who are entitled to debt forgiveness but haven't been able to get it under Trump may face an \"enormous tax liability,\" a union warns.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/student-loan-borrowers-class-action-aft-trump.html",
     "title": "Student loan forgiveness delays under Trump prompt class action effort",
-    "fetched_on": "2025-09-17T11:17:05.498819+00:00",
+    "fetched_on": "2025-09-17T12:41:33.799492+00:00",
     "content": "The American Federation of Teachers filed a class action complaint related to Trump-era student loan changes, including blocked debt forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -763,7 +763,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/student-loan-servicer-transfer-can-come-without-notice-what-to-know.html",
     "title": "My student loan servicer changed without my knowing. It may happen to you, too \u2014 here's what to do",
-    "fetched_on": "2025-09-17T11:17:05.498834+00:00",
+    "fetched_on": "2025-09-17T12:41:33.799506+00:00",
     "content": "My student debt was moved from one company to another without my knowing. Experts shared tips on what borrowers \u2014 me included \u2014 should do if this happens.",
     "platforms_mentioned": [],
     "keywords": [
@@ -783,7 +783,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/14/underwater-car-trade-ins-are-at-a-4-year-high-what-that-means-when-buying-a-new-vehicle.html",
     "title": "'Underwater' car trade-ins are at a 4-year high: What that means when buying a new vehicle",
-    "fetched_on": "2025-09-17T11:17:05.498861+00:00",
+    "fetched_on": "2025-09-17T12:41:33.799527+00:00",
     "content": "More drivers are rolling negative equity into new car loans. Here\u2019s how to minimize the cost as much as possible in this situation, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -803,7 +803,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/08/how-to-handle-your-student-loans-after-losing-your-job.html",
     "title": "Here's how  to handle your student loans after losing a job",
-    "fetched_on": "2025-09-17T11:17:05.498953+00:00",
+    "fetched_on": "2025-09-17T12:41:33.799617+00:00",
     "content": "Amid a slowing job market and an uptick in unemployment, more student loan borrowers are struggling to pay their bills. Fortunately, they have options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -823,7 +823,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/07/student-loan-deferments-forbearances.html",
     "title": "What to know about putting your student loan payments on pause",
-    "fetched_on": "2025-09-17T11:17:05.498968+00:00",
+    "fetched_on": "2025-09-17T12:41:33.799631+00:00",
     "content": "As more student loan borrowers press the pause button on their monthly bills, here's what to know about the benefits and risks of doing so.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1081,7 +1081,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-17/evergrande-liquidators-seek-receivership-of-ex-ceo-xia-s-assets",
     "title": "Evergrande Liquidators Seek Receivership of Ex-CEO Xia\u2019s Assets",
-    "fetched_on": "2025-09-17T11:16:34.085402+00:00",
+    "fetched_on": "2025-09-17T12:41:16.504018+00:00",
     "content": "China Evergrande Group\u2019s liquidators are seeking receivership of ex-Chief Executive Officer Xia Haijun and his ex-wife\u2019s assets, as they try to recuperate more money for creditors 20 months after the firm was wound up.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1341,7 +1341,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-17/hang-seng-bank-weighs-sale-of-1-billion-property-loan-portfolio",
     "title": "Hang Seng Bank Weighs Sale of $1 Billion Property Loan Portfolio",
-    "fetched_on": "2025-09-17T11:16:34.956131+00:00",
+    "fetched_on": "2025-09-17T12:41:16.998744+00:00",
     "content": "Hang Seng Bank Ltd. is seeking to sell a property-backed loan portfolio worth at least $1 billion, according to people familiar with the matter, as it looks to unload bad debt that\u2019s piled up during the city\u2019s commercial real estate slump.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1852,7 +1852,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/features/2025-09-17/btg-pactual-gana-escala-y-busca-acercarse-a-itau-en-valor-de-mercado",
     "title": "BTG Pactual refuerza su expansi\u00f3n con adquisiciones y un auge en pr\u00e9stamos",
-    "fetched_on": "2025-09-17T11:16:34.956094+00:00",
+    "fetched_on": "2025-09-17T12:41:16.998706+00:00",
     "content": "<p>El&nbsp;\u00e9xito del banco en una econom\u00eda brasile\u00f1a complicada hace que los analistas se pregunten si la entidad crediticia podr\u00e1 seguir siendo tan rentable.</p>",
     "platforms_mentioned": [],
     "keywords": [
@@ -2309,7 +2309,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-09-17T11:17:05.146095+00:00",
+    "fetched_on": "2025-09-17T12:41:33.559038+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2323,6 +2323,346 @@
       "drop",
       "sharply",
       "surged"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-17/seqens-creditors-tap-paul-weiss-as-cash-hits-critical-point",
+    "title": "Seqens Creditors Tap Paul Weiss as Cash Hits \u2018Critical Point\u2019",
+    "fetched_on": "2025-09-17T12:41:16.301674+00:00",
+    "content": "A group of creditors to Seqens SASU has tapped a legal adviser amid growing concerns over a potential cash crunch at the French pharmaceuticals firm.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hits",
+      "Critical",
+      "Seqens",
+      "Creditors",
+      "Cash",
+      "Tap",
+      "Paul",
+      "Weiss",
+      "Point\u2019",
+      "SASU"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-17/tricolor-bankruptcy-subprime-auto-lender-s-collapse-fuels-asset-fight",
+    "title": "Tricolor Bankruptcy Sets Up Fight for Auto Lender\u2019s Assets After Alleged Fraud",
+    "fetched_on": "2025-09-17T12:41:16.301681+00:00",
+    "content": "In the wake of the sudden collapse of subprime auto lender Tricolor Holdings, creditors across the US are scrambling to stake their claim on the company\u2019s remaining assets and contain their losses.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Auto",
+      "Lender",
+      "Holdings",
+      "Tricolor",
+      "Assets",
+      "Bankruptcy",
+      "Sets",
+      "Fight",
+      "Alleged",
+      "Fraud"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-09-17/apollo-says-bank-tie-ups-vital-for-private-credit-future-video",
+    "title": "Apollo Says Bank Tie-Ups Vital for High-Grade Private Credit",
+    "fetched_on": "2025-09-17T12:41:16.301713+00:00",
+    "content": "Private credit\u2019s effort to finance investment-grade companies is going to come down to its partnerships with banks, according to\u00a0Apollo Global Management President\u00a0Jim Zelter. \u201cThe future of IG private credit is really in partnership with the banks &mdash; no doubt about it,\u201d Zelter said in an interview on \"The Pulse\" with Francine Lacqua. Zelter also discussed opportunities in Europe, as well as the impact of AI.  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Apollo",
+      "Credit",
+      "Vital",
+      "Global",
+      "Management",
+      "President",
+      "Jim",
+      "Zelter",
+      "banks"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/3ac8e0dc99f1ee8f",
+    "title": "Credit Scores Plunge At Fastest Pace Since 2008 Crisis",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "Americans credit scores are falling at the fastest pace since the 2008 financial crisis, according to new data from FICO. The national average dropped by two points in 2025, the steepest decline sinc\u2026 [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pace",
+      "Scores",
+      "Fastest",
+      "Crisis",
+      "FICO",
+      "Credit",
+      "Plunge",
+      "Americans",
+      "financial",
+      "falling"
+    ]
+  },
+  {
+    "source": "newsBTC [NewsAPI]",
+    "url": "http://www.newsbtc.com/news/gemini-and-sec-settlement-sparks-buzz-around-the-next-crypto-to-explode/",
+    "title": "Gemini and SEC Settlement Sparks Buzz Around the Next Crypto to Explode",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "The crypto world just got some rare good news. After years of fighting, Gemini and the SEC have finally agreed to settle their dispute over the Gemini Earn lending program.\r\nThe deal isnt final yet, \u2026 [+5208 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crypto",
+      "Gemini",
+      "Settlement",
+      "Sparks",
+      "Buzz",
+      "Explode",
+      "SEC",
+      "world",
+      "rare",
+      "good"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkobayashisolomon/2025/09/16/netflixs-new-carbon-credits-boost-biodiversity-beautifully/",
+    "title": "Netflix\u2019s New Carbon Credits Boost Biodiversity Beautifully",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "Funga team member Amelia Pokorny geared up for inoculation at a PRT-IFCO tree nursery.\r\nFunga.earth\r\nEven the seemingly benign pastime known as Netflix and chill generates a carbon footprint. The ser\u2026 [+7472 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credits",
+      "Boost",
+      "Biodiversity",
+      "Beautifully",
+      "Funga",
+      "Amelia",
+      "Pokorny",
+      "PRT-IFCO",
+      "nursery",
+      "Netflix"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e4c2326d385a6df7",
+    "title": "Average FICO score sheds two points in 2025. Who's seeing the largest drop?",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "Credit scores are dropping nationwide, reflecting struggles Americans are having to stay afloat financially, according to FICO.The national FICO score, or three-digit number used to summarize your cr\u2026 [+149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FICO",
+      "Average",
+      "sheds",
+      "points",
+      "score",
+      "chars",
+      "Americans",
+      "drop",
+      "Credit",
+      "nationwide"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/breaking-robert-redford-dead-at-89/",
+    "title": "BREAKING: Robert Redford Dead at 89",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "Photo Credit: Henry McGee/MediaPunch /IPX\r\nHollywood icon Robert Redford has died at age 89 The New York Times has reported, citing a statement from his publicity firm Rogers &amp; Cowan PMK\r\nAccordi\u2026 [+430 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BREAKING",
+      "Robert",
+      "Redford",
+      "MediaPunch",
+      "chars",
+      "Photo",
+      "Credit",
+      "Henry",
+      "IPX",
+      "Rogers"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/how-to-maintain-high-credit-score-from-timely-loan-payments-to-smart-credit-use-5-proven-strategies-11758021895738.html",
+    "title": "How to maintain high credit score: From timely loan payments to smart credit use \u2014 5 proven strategies",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "Maintaining a high credit score, preferably over 750, is crucial for securing favourable credit terms. It also helps ensure easy approval of credit cards, personal loans, home loans, and other simila\u2026 [+5547 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "score",
+      "credit",
+      "Maintaining",
+      "high",
+      "proven",
+      "preferably",
+      "terms",
+      "loans",
+      "maintain",
+      "timely"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/hitters-in-the-top-home-run-parks-next-week/",
+    "title": "Hitters in the Top Home Run Parks Next Week",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "Mandatory Credit: Katie Stratman-Imagn Images\r\nYesterday, in an attempt to benefit from every possible advantage as the regular seasons comes to a close, I reviewed a slew of hitters whose teams will\u2026 [+13335 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Credit",
+      "Katie",
+      "Yesterday",
+      "Top",
+      "Home",
+      "Run",
+      "Parks",
+      "Week",
+      "Mandatory"
+    ]
+  },
+  {
+    "source": "Yourmileagemayvary.com [NewsAPI]",
+    "url": "https://yourmileagemayvary.com/2025/09/16/the-real-reason-why-credit-card-bloggers-wont-just-tell-you-the-name-of-the-card/",
+    "title": "The Real Reason Why Credit Card Bloggers Won\u2019t Just Tell You the Name of the Card",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "24Youve probably seen the emails. Or the YouTube thumbnails. Or maybe even the push notifications from apps you follow for the latest in points and miles.\r\n\u201cOne of our favorite business cards is offe\u2026 [+3904 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Real",
+      "Reason",
+      "Credit",
+      "Bloggers",
+      "emails",
+      "Card",
+      "n\u2019t",
+      "cards",
+      "thumbnails",
+      "YouTube"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d8f1ae4d77a1ecac",
+    "title": "Credit scores drop at fastest pace since the Great Recession",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump file $15 billion lawsuit against NYT? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Goog\u2026 [+732 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Recession",
+      "NYT",
+      "return",
+      "false",
+      "Great",
+      "Trump",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/45675310f69d3efa",
+    "title": "Soluna secures $100 million credit facility, issues warrants for purchasing 4 million shares",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump file $15 billion lawsuit against NYT? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Goog\u2026 [+732 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "NYT",
+      "million",
+      "return",
+      "false",
+      "Trump",
+      "Soluna",
+      "secures"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/student-credit-cards-those-passing-class-12-exams-to-get-interest-free-loans-in-this-state-11758022165088.html",
+    "title": "Student credit cards: Those passing class 12 exams to get interest-free loans in THIS state",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "(PTI) Under the Student Credit Card Scheme, Bihar government on Tuesday announced that interest-free loans will be provided to students who passed the class 12 board examinations to help them pursue \u2026 [+1717 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PTI",
+      "credit",
+      "Scheme",
+      "Bihar",
+      "class",
+      "chars",
+      "Student",
+      "Tuesday",
+      "interest-free",
+      "loans"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/08fe3e64f4044dcf",
+    "title": "The Leasing Foundation announces two new board appointments",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "The Leasing Foundation has announced the appointment of John Phillipou, managing director of SME lending at Paragon Bank and Aysha Ellis-Aziz, global head of marketing at NETSOL Technologies, to its \u2026 [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Leasing",
+      "Foundation",
+      "Phillipou",
+      "Technologies",
+      "chars",
+      "John",
+      "SME",
+      "Paragon",
+      "Bank",
+      "Aysha"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/09/disney-world-september-26-baby-bakso-animal-kingdom-th1/",
+    "title": "Last Minute Change: Disney World Guests Told To Mark September 26 in Calendars",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "Disney World guests will want to save the date.\r\nCredit: gardener41, Flickr\r\nDisneys Animal Kingdom has a brand-new star, and his name is Bakso. Born on September 26, 2024, to proud parents Sohni and\u2026 [+3743 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Guests",
+      "Change",
+      "Minute",
+      "Told",
+      "Mark",
+      "Calendars",
+      "September",
+      "Disney",
+      "date"
+    ]
+  },
+  {
+    "source": "Blockspace.media [NewsAPI]",
+    "url": "https://blockspace.media/insight/soluna-secures-100-million-facility-issues-warrants-for-purchasing-4-million-shares/",
+    "title": "Soluna secures $100 million credit facility, issues warrants for purchasing 4 million shares",
+    "fetched_on": "2025-09-17T12:41:15.694419+00:00",
+    "content": "Soluna Holdings (SLNH) announced in a press release that it had closed a scalable credit facility of up to $100 million with Generate Capital, PBC to refinance and construct its green data center pro\u2026 [+1045 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SLNH",
+      "million",
+      "Holdings",
+      "Capital",
+      "PBC",
+      "chars",
+      "Soluna",
+      "credit",
+      "facility",
+      "Generate"
     ]
   }
 ]
