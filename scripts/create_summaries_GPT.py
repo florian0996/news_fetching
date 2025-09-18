@@ -79,11 +79,14 @@ def summarize_daily(date_str: str, articles: list[dict]) -> str:
 Here are today's news items for {date_str}:
 {article_list}
 
-Write a summary highlighting key trends and implications, **prioritizing quality (market impact) over quantity.**
+Your top priority is to focus on news related to these three areas:
+1.  **Lending Platforms:** Corporate finance news (funding, deals, M&A, partnerships, financing lines, write-downs).
+2.  **Private Debt Funds:** The fund lifecycle (launches, closings, fundraising, LP commitments), portfolio activity (financing, co-investments, defaults, exits, securitization), and relevant regulatory developments.
+3.  **Competitors (Fintech/Data/Infra):** Providers in P2P, crowdfunding, or digital credit. Track product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
 
-- If there is significant, market-moving news, write a 3-5 sentence summary.
-- If there are only one or two significant items, a shorter 1-2 sentence summary is fine.
-- If none of the articles are truly market-moving, please state that (e.g., 'No significant market-moving news today.').
+Summarize any significant news in these categories first. General market-moving news outside these topics is a secondary priority.
+
+If there are only one or two significant items, a shorter 1-2 sentence summary is fine.
 
 Be precise: if you refer to regulatory actions or corporate deals, give the exact law, agency, or company name.
 
