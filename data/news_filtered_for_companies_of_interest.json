@@ -1,6 +1,17 @@
 {
-  "2025-09-17": {
+  "2025-09-18": {
     "status": "no company in the news"
+  },
+  "2025-09-17": {
+    "articles": [
+      {
+        "title": "LendingClub (NYSE:LC) and Mitsubishi HC Capital (OTCMKTS:MIUFY) Head-To-Head Contrast",
+        "url": "https://www.etfdailynews.com/2025/09/16/lendingclub-nyselc-and-mitsubishi-hc-capital-otcmktsmiufy-head-to-head-contrast/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-09-16": {
     "status": "no company in the news"
