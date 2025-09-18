@@ -82,9 +82,9 @@ Here are today's news items for {date_str}:
 Your top priority is to focus on news related to these three areas:
 1.  **Lending Platforms:** Corporate finance news (funding, deals, M&A, partnerships, financing lines, write-downs).
 2.  **Private Debt Funds:** The fund lifecycle (launches, closings, fundraising, LP commitments), portfolio activity (financing, co-investments, defaults, exits, securitization), and relevant regulatory developments.
-3.  **Competitors (Fintech/Data/Infra):** Providers in P2P, crowdfunding, or digital credit. Track product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
+3.  **Competitors of Exaloan AG (Fintech/Data/Infra):** Providers in P2P, crowdfunding, or digital credit. Product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
 
-Summarize any significant news in these categories first. General market-moving news outside these topics is a secondary priority.
+Summarize any significant news in these categories first. General market-moving news outside these topics is a secondary priority. As the last priority, summaries the news with a focus on Finance, lending, and regulatory changes.
 
 If there are only one or two significant items, a shorter 1-2 sentence summary is fine.
 
@@ -138,9 +138,9 @@ Write a concise analysis (up to 15 sentences). This must be a *synthesis* of the
 Your top priority is to focus on news related to these three areas:
 1.  **Lending Platforms:** Corporate finance news (funding, deals, M&A, partnerships, financing lines, write-downs).
 2.  **Private Debt Funds:** The fund lifecycle (launches, closings, fundraising, LP commitments), portfolio activity (financing, co-investments, defaults, exits, securitization), and relevant regulatory developments.
-3.  **Competitors (Fintech/Data/Infra):** Providers in P2P, crowdfunding, or digital credit. Track product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
+3.  **Competitors of Exaloan AG (Fintech/Data/Infra):** Providers in P2P, crowdfunding, or digital credit. Product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
 
-Summarize any significant news in these categories first. General market-moving news outside these topics is a secondary priority.
+Summarize any significant news in these categories first. General market-moving news outside these topics is a secondary priority. As the last priority, summaries the news with a focus on Finance, lending, and regulatory changes.
 
 Whenever regulatory moves or economic policies get mentioned, name the law or agency.
 Whenever corporate actions get mentioned, name the exact company or fund.
