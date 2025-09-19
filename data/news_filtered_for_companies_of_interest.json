@@ -1,6 +1,31 @@
 {
-  "2025-09-18": {
+  "2025-09-19": {
     "status": "no company in the news"
+  },
+  "2025-09-18": {
+    "articles": [
+      {
+        "title": "Belpointe Asset Management LLC Decreases Stock Position in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/09/17/belpointe-asset-management-llc-decreases-stock-position-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Reviewing KYN Capital Group (OTCMKTS:KYNC) and LendingClub (NYSE:LC)",
+        "url": "https://www.etfdailynews.com/2025/09/17/reviewing-kyn-capital-group-otcmktskync-and-lendingclub-nyselc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Acadian Asset Management LLC Lowers Position in LendingClub Corporation $LC",
+        "url": "https://www.etfdailynews.com/2025/09/17/acadian-asset-management-llc-lowers-position-in-lendingclub-corporation-lc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-09-17": {
     "articles": [
