@@ -74,7 +74,7 @@ def latest_news_file() -> tuple[str, list[dict]]:
 
 def latest_weekly_summaries(n: int = 7) -> tuple[str, list[str]]:
     """Return last date_str and list of last n daily summary texts from JSON."""
-    json_path = DATA_DIR / "summary_GPT.json"
+    json_path = DATA_DIR / "summary_GPT_3.5.json"
     if not json_path.exists():
         print(f"::notice ::No summary JSON at {json_path}")
         sys.exit(0)
