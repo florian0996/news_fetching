@@ -59,45 +59,49 @@ def latest_weekly_summaries(n: int = 7) -> tuple[str, list[str]]:
     week_label = last_dates[-1]
     return week_label, summaries
 
-
 def summarize_daily(date_str: str, articles: list[dict]) -> str:
     """Produce a 3–5 sentence daily summary via GPT."""
-   
+    
     # --- System Prompt ---
     system_message = (
         "You are an expert news summarizer. Produce a concise, daily briefing. "
         "Focus on what is most market-moving."
     )
 
-    # --- User Prompt ---
+    # --- User Prompt (Revised) ---
     article_list = "\n".join([
         f"- {art.get('title','').strip()}: {art.get('description') or art.get('content','')}"
         for art in articles
     ])
-   
+    
     user_message = f"""
 Here are today's news items for {date_str}:
 {article_list}
 
-Your top priority is to focus on news related to these three areas:
+**Your Task:**
+Write a concise, expert market briefing.
+
+**Priority 1: Core Topics**
+Your summary *must* first report any significant news related to these three areas:
 1.  **Lending Platforms:** Corporate finance news (funding, deals, M&A, partnerships, financing lines, write-downs).
 2.  **Private Debt Funds:** The fund lifecycle (launches, closings, fundraising, LP commitments), portfolio activity (financing, co-investments, defaults, exits, securitization), and relevant regulatory developments.
 3.  **Competitors of Exaloan AG (Fintech/Data/Infra):** Providers in P2P, crowdfunding, or digital credit. Product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
 
-Summarize any significant news in these categories first. General market-moving news outside these topics is a secondary priority. As the last priority, summaries the news with a focus on Finance, lending, and regulatory changes.
+**Priority 2: Secondary Topics**
+After summarizing any Priority 1 news, you may briefly include other highly market-moving news if space permits. If there is *no* Priority 1 news, summarize the most significant general market news.
 
-If there are only one or two significant items, a shorter 1-2 sentence summary is fine.
-
-Be precise: if you refer to regulatory actions or corporate deals, give the exact law, agency, or company name.
-
-**Start the summary directly with the main takeaway.** Do not use introductory phrases like 'Today's news highlights...'.
+**Output Format & Rules:**
+1.  **Start Directly:** Start with the main takeaway. **Do not** use introductory phrases like 'Today's news highlights...' or 'The main news today is...'.
+2.  **Length:** The target summary is **3-5 sentences**.
+3.  **Exception for Length:** If there are only one or two significant items in total (from any priority), a shorter 1-2 sentence summary is fine.
+4.  **Be Precise:** When referencing corporate deals or regulatory actions, use the specific company, agency (e.g., BaFin, FCA), or law names mentioned in the articles.
 """
 
     messages = [
         {"role": "system", "content": system_message},
         {"role": "user", "content": user_message}
     ]
-   
+    
     resp = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=messages,
@@ -108,10 +112,10 @@ Be precise: if you refer to regulatory actions or corporate deals, give the exac
 
 def summarize_weekly(date_str: str, daily_summaries: list[str]) -> str:
     """Produce a 12–15 sentence weekly synthesis via GPT."""
-   
+    
     snippets = [f"- {s.strip()}" for s in daily_summaries]
     prompt_body = "\n".join(snippets)
-   
+    
     # Calculate week number
     try:
         week_num = date.fromisoformat(date_str).isocalendar()[1]
@@ -128,31 +132,35 @@ def summarize_weekly(date_str: str, daily_summaries: list[str]) -> str:
         "their forward-looking implications."
     )
 
-    # --- User Prompt ---
+    # --- User Prompt (Revised) ---
     user_message = f"""
 Calendar Week {week_num} summary: Here are the daily summaries for week ending {date_str}:
 {prompt_body}
 
-Write a concise analysis (up to 15 sentences). This must be a *synthesis* of the entire week, not just a list of daily events. Identify the major stories and explain why they matter and what they signal for the future.
+**Your Task:**
+Write a high-level strategic synthesis of the week (target 12-15 sentences). This must be an *analysis*, not just a list of daily events. Your goal is to identify the 2-3 most significant *developing themes* from the daily snippets, connect them, and explain their forward-looking implications.
 
-Your top priority is to focus on news related to these three areas:
-1.  **Lending Platforms:** Corporate finance news (funding, deals, M&A, partnerships, financing lines, write-downs).
+**Priority 1: Core Thematic Areas**
+Your analysis *must* first focus on and synthesize themes related to these three areas:
+1.  **Lending Platforms:** Corporate finance (funding, deals, M&A, partnerships, financing lines, write-downs).
 2.  **Private Debt Funds:** The fund lifecycle (launches, closings, fundraising, LP commitments), portfolio activity (financing, co-investments, defaults, exits, securitization), and relevant regulatory developments.
 3.  **Competitors of Exaloan AG (Fintech/Data/Infra):** Providers in P2P, crowdfunding, or digital credit. Product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
 
-Summarize any significant news in these categories first. General market-moving news outside these topics is a secondary priority. As the last priority, summaries the news with a focus on Finance, lending, and regulatory changes.
+**Priority 2: Secondary Themes**
+After analyzing the core topics, you may synthesize other major market-moving themes or significant general news that emerged during the week.
 
-Whenever regulatory moves or economic policies get mentioned, name the law or agency.
-Whenever corporate actions get mentioned, name the exact company or fund.
-
-**IMPORTANT: Start your response with the exact prefix 'Week {week_num}: ' followed immediately by the week's most significant takeaway or developing theme.** Do not use any other introductory phrases.
+**Output Format & Rules:**
+1.  **Required Prefix:** You **must** start your response with the exact prefix `Week {week_num}: ` (e.g., "Week 42: ").
+2.  **Start with Takeaway:** Immediately follow the prefix with the week's most significant takeaway or developing theme. **Do not** use any other introductory phrases.
+3.  **Length:** The target analysis is **12-1S sentences**.
+4.  **Be Precise:** When discussing corporate actions, name the specific company or fund. When discussing policy, name the specific law or agency (e.g., BaFin, FCA).
 """
 
     messages = [
         {"role": "system", "content": system_message},
         {"role": "user", "content": user_message}
     ]
-   
+    
     resp = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=messages,
@@ -160,7 +168,6 @@ Whenever corporate actions get mentioned, name the exact company or fund.
         max_tokens=500
     )
     return resp.choices[0].message.content.strip()
-
 
 def main():
     parser = argparse.ArgumentParser(description="Generate daily or weekly summaries via GPT.")
