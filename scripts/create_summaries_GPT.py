@@ -5,7 +5,7 @@ create_summaries_GPT.py
 • Mode 'daily': pick second-most-recent finished news_YYYY-MM-DD.json
                 and store a 3–5 sentence summary under summaries/summary_daily_{date}.md.
 
-• Mode 'weekly': load the latest 7 daily summaries from data/summary_GPT_3.5.json
+• Mode 'weekly': load the latest 7 daily summaries from data/summary_GPT.json
                  and write a 12–15 sentence synthesis under summaries/summary_weekly_{date}.md.
                  The first sentence starts with "Calendar Week <N> summary …".
 """
@@ -29,6 +29,36 @@ if not api_key:
     sys.exit(1)
 client = OpenAI(api_key=api_key)
 
+# --- Model Fallback Logic ---
+DEFAULT_MODEL = "gpt-3.5-turbo"
+FALLBACK_MODEL = "gpt-4o-mini"
+
+def run_completion(messages, temperature, max_tokens):
+    """Try default model, fall back to gpt-4o-mini if context is too long."""
+    try:
+        resp = client.chat.completions.create(
+            model=DEFAULT_MODEL,
+            messages=messages,
+            temperature=temperature,
+            max_tokens=max_tokens
+        )
+        print(f"✔️ Used model: {DEFAULT_MODEL}")
+        return resp.choices[0].message.content.strip()
+    except Exception as e:
+        err_msg = str(e)
+        if "context_length_exceeded" in err_msg or "maximum context length" in err_msg:
+            print(f"⚠️ Context too long for {DEFAULT_MODEL}, retrying with {FALLBACK_MODEL}...")
+            resp = client.chat.completions.create(
+                model=FALLBACK_MODEL,
+                messages=messages,
+                temperature=temperature,
+                max_tokens=max_tokens
+            )
+            print(f"✔️ Used model: {FALLBACK_MODEL}")
+            return resp.choices[0].message.content.strip()
+        else:
+            raise
+
 
 def latest_news_file() -> tuple[str, list[dict]]:
     """Return date_str and articles list for daily summary."""
@@ -44,7 +74,7 @@ def latest_news_file() -> tuple[str, list[dict]]:
 
 def latest_weekly_summaries(n: int = 7) -> tuple[str, list[str]]:
     """Return last date_str and list of last n daily summary texts from JSON."""
-    json_path = DATA_DIR / "summary_GPT_3.5.json"
+    json_path = DATA_DIR / "summary_GPT.json"
     if not json_path.exists():
         print(f"::notice ::No summary JSON at {json_path}")
         sys.exit(0)
@@ -59,6 +89,7 @@ def latest_weekly_summaries(n: int = 7) -> tuple[str, list[str]]:
     week_label = last_dates[-1]
     return week_label, summaries
 
+
 def summarize_daily(date_str: str, articles: list[dict]) -> str:
     """Produce a 3–5 sentence daily summary via GPT."""
     
@@ -68,7 +99,7 @@ def summarize_daily(date_str: str, articles: list[dict]) -> str:
         "Focus on what is most market-moving."
     )
 
-    # --- User Prompt (Revised) ---
+    # --- User Prompt ---
     article_list = "\n".join([
         f"- {art.get('title','').strip()}: {art.get('description') or art.get('content','')}"
         for art in articles
@@ -96,19 +127,12 @@ After summarizing any Priority 1 news, you may briefly include other highly mark
 3.  **Exception for Length:** If there are only one or two significant items in total (from any priority), a shorter 1-2 sentence summary is fine.
 4.  **Be Precise:** When referencing corporate deals or regulatory actions, use the specific company, agency (e.g., BaFin, FCA), or law names mentioned in the articles.
 """
-
     messages = [
         {"role": "system", "content": system_message},
         {"role": "user", "content": user_message}
     ]
-    
-    resp = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=messages,
-        temperature=0.2,
-        max_tokens=300
-    )
-    return resp.choices[0].message.content.strip()
+    return run_completion(messages, temperature=0.2, max_tokens=300)
+
 
 def summarize_weekly(date_str: str, daily_summaries: list[str]) -> str:
     """Produce a 12–15 sentence weekly synthesis via GPT."""
@@ -121,7 +145,6 @@ def summarize_weekly(date_str: str, daily_summaries: list[str]) -> str:
         week_num = date.fromisoformat(date_str).isocalendar()[1]
     except ValueError:
         print(f"Error: Invalid date_str '{date_str}'. Expected YYYY-MM-DD.")
-        # Handle error appropriately, e.g., use a placeholder or raise
         week_num = "[INVALID WEEK]"
 
     # --- System Prompt ---
@@ -132,7 +155,7 @@ def summarize_weekly(date_str: str, daily_summaries: list[str]) -> str:
         "their forward-looking implications."
     )
 
-    # --- User Prompt (Revised) ---
+    # --- User Prompt ---
     user_message = f"""
 Calendar Week {week_num} summary: Here are the daily summaries for week ending {date_str}:
 {prompt_body}
@@ -152,22 +175,15 @@ After analyzing the core topics, you may synthesize other major market-moving th
 **Output Format & Rules:**
 1.  **Required Prefix:** You **must** start your response with the exact prefix `Week {week_num}: ` (e.g., "Week 42: ").
 2.  **Start with Takeaway:** Immediately follow the prefix with the week's most significant takeaway or developing theme. **Do not** use any other introductory phrases.
-3.  **Length:** The target analysis is **12-1S sentences**.
+3.  **Length:** The target analysis is **12-15 sentences**.
 4.  **Be Precise:** When discussing corporate actions, name the specific company or fund. When discussing policy, name the specific law or agency (e.g., BaFin, FCA).
 """
-
     messages = [
         {"role": "system", "content": system_message},
         {"role": "user", "content": user_message}
     ]
-    
-    resp = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=messages,
-        temperature=0.5,
-        max_tokens=500
-    )
-    return resp.choices[0].message.content.strip()
+    return run_completion(messages, temperature=0.5, max_tokens=700)
+
 
 def main():
     parser = argparse.ArgumentParser(description="Generate daily or weekly summaries via GPT.")
@@ -187,7 +203,7 @@ def main():
     print(f"✔️ Wrote {out_md}")
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    json_path = DATA_DIR / "summary_GPT_3.5.json"
+    json_path = DATA_DIR / "summary_GPT.json"
     data = json.loads(json_path.read_text(encoding="utf-8")) if json_path.exists() else {"daily_summary": {}, "weekly_summary": {}}
     key = "daily_summary" if args.mode == "daily" else "weekly_summary"
     data[key][date_str] = summary
