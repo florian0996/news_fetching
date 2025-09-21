@@ -123,7 +123,10 @@ After summarizing any Priority 1 news, you may briefly include other highly mark
 1.  **Start Directly:** Start with the main takeaway. **Do not** use introductory phrases like 'Today's news highlights...' or 'The main news today is...'.
 2.  **Length:** The target summary is **3-5 sentences**.
 3.  **Exception for Length:** If there are only one or two significant items in total (from any priority), a shorter 1-2 sentence summary is fine.
-4.  **Be Precise:** When referencing corporate deals or regulatory actions, use the specific company, agency (e.g., BaFin, FCA), or law names mentioned in the articles.
+4. Be Precise: Always name the specific companies, funds, agencies, or laws exactly as they appear in the articles. 
+   - Do not use generic labels like "a private debt fund," "a major competitor," or "a fintech firm."
+   - If a name is missing from the article, explicitly state "undisclosed" or "not specified."
+   - Example: write "Apollo Global Management launched a $3bn private debt fund" instead of "a private debt fund launched."
 """
 
     messages = [
