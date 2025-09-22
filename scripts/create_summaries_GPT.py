@@ -114,17 +114,17 @@ Write a concise, expert market briefing.
 Your summary *must* first report any significant news related to these three areas:
 1.  **Lending Platforms:** Corporate finance news (funding, deals, M&A, partnerships, financing lines, write-downs).
 2.  **Private Debt Funds:** The fund lifecycle (launches, closings, fundraising, LP commitments), portfolio activity (financing, co-investments, defaults, exits, securitization), and relevant regulatory developments.
-3.  **Competitors of Exaloan AG (Fintech/Data/Infra):** Providers in P2P, crowdfunding, or digital credit. Product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
+3.  **Fintech/Data/Infrastructure Providers in Digital Credit:** P2P lending, crowdfunding, or digital credit firms. Product launches, partnerships, regulatory licenses (BaFin, FCA), VC funding, strategic hires, M&A, and expansions.
 
 **Priority 2: Secondary Topics**
 After summarizing any Priority 1 news, you may briefly include other highly market-moving news if space permits. If there is *no* Priority 1 news, summarize the most significant general market news.
 
 **Output Format & Rules:**
-1.  **Start Directly:** Start with the main takeaway. **Do not** use introductory phrases like 'Today's news highlights...' or 'The main news today is...'.
+1.  **Start Directly:** Begin with the main takeaway. Do not use introductory phrases like 'Today's news highlights...' or label firms as 'competitors'.
 2.  **Length:** The target summary is **3-5 sentences**.
 3.  **Exception for Length:** If there are only one or two significant items in total (from any priority), a shorter 1-2 sentence summary is fine.
 4. Be Precise: Always name the specific companies, funds, agencies, or laws exactly as they appear in the articles. 
-   - Do not use generic labels like "a private debt fund," "a major competitor," or "a fintech firm."
+   - Do not invent relationships (e.g., calling a firm a 'competitor' if not explicitly stated).
    - If a name is missing from the article, explicitly state "undisclosed" or "not specified."
    - Example: write "Apollo Global Management launched a $3bn private debt fund" instead of "a private debt fund launched."
 """
