@@ -24,5 +24,5 @@ jobs:
 
       - name: Run script
         env:
-          TEAMS_WEBHOOK: ${{ secrets.TEAMS_TESTING_WEBHOOK }}
+          TEAMS_WEBHOOK: ${{ secrets.TEAMS_TEST_WEBHOOK }}
         run: python scripts/senddailysummarytesting.py
