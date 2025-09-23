@@ -78,13 +78,13 @@ if company_articles:
     for article in company_articles:
         email_html += f'<li><a href="{article["url"]}">{article["title"]}</a></li>'
     email_html += "</ul>"
+    
+email_subject = f"Daily Summary ({yesterday_str})"
 
-# ------------------------
-# Final payload (both versions)
-# ------------------------
 payload = {
     "card": teams_card,
-    "emailBody": email_html
+    "emailBody": email_html,
+    "emailSubject": email_subject
 }
 
 response = requests.post(flow_url, json=payload)
