@@ -2,6 +2,7 @@ import json
 import requests
 from datetime import datetime, timedelta
 import os
+import re
 
 flow_url = os.getenv("TEAMS_WEBHOOK")  # your flow trigger URL
 
@@ -15,6 +16,15 @@ yesterday_str = yesterday.isoformat()
 
 # Daily summary text
 daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
+
+# Split daily summary into sentences for better formatting
+sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
+
+# Format for Teams (Markdown style bullets)
+daily_summary_for_teams = "\n".join(f"- {sentence}" for sentence in sentences if sentence.strip())
+
+# Format for Email (HTML unordered list)
+daily_summary_for_email = "<ul>" + "".join(f"<li>{sentence}</li>" for sentence in sentences if sentence.strip()) + "</ul>"
 
 # Load company news
 with open("data/news_filtered_for_companies_of_interest.json", "r") as f:
@@ -34,7 +44,7 @@ teams_body = [
     },
     {
         "type": "TextBlock",
-        "text": daily_summary,
+        "text": daily_summary_for_teams,
         "wrap": True
     }
 ]
@@ -67,7 +77,7 @@ teams_card = {
 # ------------------------
 email_html = f"""
 <h2>Daily Summary ({yesterday_str})</h2>
-<p>{daily_summary}</p>
+{daily_summary_for_email}
 """
 
 if company_articles:
@@ -78,7 +88,7 @@ if company_articles:
     for article in company_articles:
         email_html += f'<li><a href="{article["url"]}">{article["title"]}</a></li>'
     email_html += "</ul>"
-    
+
 email_subject = f"Daily Summary ({yesterday_str})"
 
 payload = {
