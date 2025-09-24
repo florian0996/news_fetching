@@ -17,8 +17,19 @@ yesterday_str = yesterday.isoformat()
 # Daily summary text
 daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
 
-# Split daily summary into sentences for better formatting
+# List of common abbreviations (extend as needed)
+abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.', 'vs.']
+
+# Replace periods in abbreviations with a placeholder
+placeholder = '[DOT]'
+for abbr in abbreviations:
+    daily_summary = daily_summary.replace(abbr, abbr.replace('.', placeholder))
+
+# Now split on periods that are not the placeholder
 sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
+
+# Restore placeholders to periods
+sentences = [s.replace(placeholder, '.') for s in sentences]
 
 # Format for Teams (Markdown style bullets)
 daily_summary_for_teams = "\n".join(f"- {sentence}" for sentence in sentences if sentence.strip())
