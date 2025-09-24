@@ -15,8 +15,19 @@ last_sunday_str = last_sunday.isoformat()
 
 weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
 
-# Split weekly summary into sentences
-sentences = re.split(r'(?<=\.)\s+', weekly_summary.strip())
+# List of common abbreviations (extend as needed)
+abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.', 'vs.']
+
+# Replace periods in abbreviations with a placeholder
+placeholder = '[DOT]'
+for abbr in abbreviations:
+    daily_summary = daily_summary.replace(abbr, abbr.replace('.', placeholder))
+
+# Now split on periods that are not the placeholder
+sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
+
+# Restore placeholders to periods
+sentences = [s.replace(placeholder, '.') for s in sentences]
 
 # Format for Teams card - Markdown bullet list
 weekly_summary_for_teams = "\n".join(f"- {sentence}" for sentence in sentences if sentence.strip())
