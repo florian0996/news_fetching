@@ -264,7 +264,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-09-25T14:21:04.307375+00:00",
+    "fetched_on": "2025-09-25T15:22:06.137587+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -281,30 +281,30 @@
     ]
   },
   {
-    "source": "CNBC Markets [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2025/09/24/ford-truck-financing-credit-score.html",
     "title": "Ford offers special financing to riskier F-150 buyers with lower credit scores",
-    "fetched_on": "2025-09-25T11:17:53.631596+00:00",
-    "content": "Such promotions aim to make vehicles more affordable, but such borrowers are considered more likely to miss payments.",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "DETROIT Ford Motor is trying to boost sales of its crucialF-150 pickup truck before the end of the third quarter by offering special financing to consumers with less-than-perfect credit ratings.\r\nThe\u2026 [+3143 chars]",
     "platforms_mentioned": [],
     "keywords": [
+      "financing",
       "Ford",
+      "DETROIT",
+      "Motor",
+      "special",
+      "credit",
       "riskier",
       "buyers",
-      "affordable",
-      "payments",
-      "offers",
-      "special",
-      "financing",
-      "lower",
-      "credit"
+      "pickup",
+      "ratings"
     ]
   },
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-09-25T14:21:07.430074+00:00",
+    "fetched_on": "2025-09-25T15:22:08.449980+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -324,7 +324,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-09-25T14:21:07.062515+00:00",
+    "fetched_on": "2025-09-25T15:22:08.026017+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -344,7 +344,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-09-25T14:21:07.062543+00:00",
+    "fetched_on": "2025-09-25T15:22:08.026047+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -364,7 +364,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-09-25T14:21:07.062556+00:00",
+    "fetched_on": "2025-09-25T15:22:08.026061+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -384,7 +384,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
     "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
-    "fetched_on": "2025-09-25T14:21:07.430009+00:00",
+    "fetched_on": "2025-09-25T15:22:08.449917+00:00",
     "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here\u2019s what to consider before signing up.",
     "platforms_mentioned": [],
     "keywords": [
@@ -404,7 +404,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/20/how-the-20-4-10-car-shopping-rule-works.html",
     "title": "Car shoppers \u2014 following one rule can help keep costs down, CFP says",
-    "fetched_on": "2025-09-25T14:21:07.430016+00:00",
+    "fetched_on": "2025-09-25T15:22:08.449924+00:00",
     "content": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
     "platforms_mentioned": [],
     "keywords": [
@@ -424,7 +424,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/18/public-service-loan-forgiveness-rule-opposed-by-attorneys-general.html",
     "title": "Attorneys general, advocates oppose Trump's rule narrowing eligibility for Public Service Loan Forgiveness",
-    "fetched_on": "2025-09-25T14:21:07.430059+00:00",
+    "fetched_on": "2025-09-25T15:22:08.449966+00:00",
     "content": "Attorneys general and more than 250 organizations oppose the Trump-era proposed regulation that could narrow eligibility for Public Service Loan Forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -444,7 +444,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/student-loan-forgiveness-rhode-island-doj-lawsuit.html",
     "title": "DOJ sues Rhode Island over student loan forgiveness program, alleging racial discrimination",
-    "fetched_on": "2025-09-25T14:21:07.430080+00:00",
+    "fetched_on": "2025-09-25T15:22:08.449987+00:00",
     "content": "The U.S. Department of Justice has filed a lawsuit alleging that Rhode Island's student loan forgiveness program for teachers of color is discriminatory.",
     "platforms_mentioned": [],
     "keywords": [
@@ -464,7 +464,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/16/student-loan-borrowers-tax-liability-trump.html",
     "title": "Student loan borrowers may face 'enormous tax liability' amid Trump administration delays: union",
-    "fetched_on": "2025-09-25T14:21:07.430101+00:00",
+    "fetched_on": "2025-09-25T15:22:08.450014+00:00",
     "content": "Student loan borrowers who are entitled to debt forgiveness but haven't been able to get it under Trump may face an \"enormous tax liability,\" a union warns.",
     "platforms_mentioned": [],
     "keywords": [
@@ -484,7 +484,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/16/fico-credit-scores-fall-year-over-year-more-borrowers-miss-payments.html",
     "title": "Credit scores fall for the second year in a row as more borrowers miss payments",
-    "fetched_on": "2025-09-25T14:21:07.430108+00:00",
+    "fetched_on": "2025-09-25T15:22:08.450021+00:00",
     "content": "The average FICO credit score fell two points year over year to 715. The resumption of federal student loan delinquency reporting was a key factor.",
     "platforms_mentioned": [],
     "keywords": [
@@ -504,7 +504,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/student-loan-borrowers-class-action-aft-trump.html",
     "title": "Student loan forgiveness delays under Trump prompt class action effort",
-    "fetched_on": "2025-09-25T14:21:07.430129+00:00",
+    "fetched_on": "2025-09-25T15:22:08.450043+00:00",
     "content": "The American Federation of Teachers filed a class action complaint related to Trump-era student loan changes, including blocked debt forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -524,7 +524,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/student-loan-servicer-transfer-can-come-without-notice-what-to-know.html",
     "title": "My student loan servicer changed without my knowing. It may happen to you, too \u2014 here's what to do",
-    "fetched_on": "2025-09-25T14:21:07.430143+00:00",
+    "fetched_on": "2025-09-25T15:22:08.450057+00:00",
     "content": "My student debt was moved from one company to another without my knowing. Experts shared tips on what borrowers \u2014 me included \u2014 should do if this happens.",
     "platforms_mentioned": [],
     "keywords": [
@@ -868,7 +868,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-25/unicredit-ing-among-nine-lenders-developing-euro-stablecoin",
     "title": "UniCredit, ING Among Nine Lenders Developing Euro Stablecoin",
-    "fetched_on": "2025-09-25T14:20:45.456859+00:00",
+    "fetched_on": "2025-09-25T15:21:51.374008+00:00",
     "content": "Nine European banks have joined forces to develop a euro-based stablecoin as an alternative in a market dominated by dollar-backed tokens.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1244,7 +1244,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-25/thai-pm-vows-prudent-fiscal-policy-to-ward-off-ratings-downgrade",
     "title": "Thai PM Vows Prudent Policy to Ward Off Ratings Downgrade",
-    "fetched_on": "2025-09-25T14:20:45.271386+00:00",
+    "fetched_on": "2025-09-25T15:21:51.198385+00:00",
     "content": "Thailand will take all possible measures to avert a sovereign credit rating downgrade, Prime Minister Anutin Charnvirakul said, a day after Fitch Ratings lowered the nation\u2019s outlook citing rising risks to public finance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2104,7 +2104,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-25/fannie-freddie-win-for-vantagescore-causes-pain-for-fico-shares",
     "title": "Fannie, Freddie Win for VantageScore Causes Pain for FICO Shares",
-    "fetched_on": "2025-09-25T14:20:45.456834+00:00",
+    "fetched_on": "2025-09-25T15:21:51.373990+00:00",
     "content": "Silvio Tavares waited years for news that finally arrived in July: government-sponsored enterprises Fannie Mae and Freddie Mac would finally allow lenders to use something other than a FICO score to determine whether a customer is credit-worthy enough to buy a home.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2624,7 +2624,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
     "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
-    "fetched_on": "2025-09-25T14:21:07.429938+00:00",
+    "fetched_on": "2025-09-25T15:22:08.449844+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2644,7 +2644,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-25/ambipar-gets-emergency-court-protection-as-creditors-pounce",
     "title": "Ambipar Gets Emergency Court Protection as Creditors Pounce",
-    "fetched_on": "2025-09-25T14:20:44.372739+00:00",
+    "fetched_on": "2025-09-25T15:21:50.551296+00:00",
     "content": "Brazilian waste management company Ambipar Participa\u00e7\u00f5es e Empreendimentos SA was granted emergency protection against creditors after telling a court it was at risk of financial collapse as some lenders demanded payments that could trigger cross-default clauses on its debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2664,7 +2664,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-25/french-markets-watchdog-sees-country-dodging-financial-crisis",
     "title": "French Markets Watchdog Sees Country Dodging Financial Crisis",
-    "fetched_on": "2025-09-25T14:20:45.271270+00:00",
+    "fetched_on": "2025-09-25T15:21:51.198288+00:00",
     "content": "The head of France\u2019s securities regulator dismissed concerns the country is facing a potential financial crisis after political instability triggered two credit downgrades within a week.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2683,8 +2683,8 @@
   {
     "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-25/merz-backs-eu-plan-for-140-billion-interest-free-ukraine-loan",
-    "title": "Merz Backs EU Plan for \u20ac140 Billion Interest-Free Ukraine Loan",
-    "fetched_on": "2025-09-25T14:20:44.543791+00:00",
+    "title": "Merz Backs Plan for \u20ac140 Billion Loan to Help Defend Ukraine",
+    "fetched_on": "2025-09-25T15:21:50.690050+00:00",
     "content": "German Chancellor Friedrich Merz threw his backing behind a European Union plan to leverage frozen Russian assets to provide Ukraine with an interest-free loan of nearly \u20ac140 billion ($164 billion) to bolster its defense capabilities.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2694,10 +2694,10 @@
       "Plan",
       "Loan",
       "Backs",
+      "Defend",
       "German",
       "Chancellor",
-      "Friedrich",
-      "European"
+      "Friedrich"
     ]
   },
   {
@@ -2958,6 +2958,262 @@
       "Lesnar",
       "Getty",
       "Match"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-25/private-credit-giants-turn-debt-into-equity-for-jumbo-deals",
+    "title": "Private Credit Giants Turn Debt Into Equity for Jumbo Deals",
+    "fetched_on": "2025-09-25T15:21:50.551233+00:00",
+    "content": "When Blackstone Inc. announced it led a $7 billion investment in a liquefied natural gas export plant in Texas this week, a key piece of financial ingenuity was hiding in plain sight. While the firm is contributing equity into the deal, most of the money will come from its massive private credit funds.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Giants",
+      "Turn",
+      "Debt",
+      "Jumbo",
+      "Blackstone",
+      "Credit",
+      "Equity",
+      "Private",
+      "Texas",
+      "Deals"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f9010f371354bc3c",
+    "title": "Ford offers special financing to riskier F-150 buyers with lower credit scores",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "DETROIT Ford Motor is trying to boost sales of its crucial F-150 pickup truck before the end of the third quarter by offering special financing to consumers with less-than-perfect credit ratings.The \u2026 [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "financing",
+      "chars",
+      "Ford",
+      "special",
+      "DETROIT",
+      "Motor",
+      "credit",
+      "riskier",
+      "buyers",
+      "crucial"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e780218b7553efc0",
+    "title": "Wells Fargo is taking on credit card giants in push for growth. What it means for investors",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "RBC Capital Markets analyst Gerard Cassidy described credit cards as a \"natural evolution\" for the Wall Street bank.\r\nThis story appeared on cnbc.com, 2025-09-24 14:52:55.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fargo",
+      "growth",
+      "credit",
+      "taking",
+      "giants",
+      "push",
+      "RBC",
+      "Capital",
+      "Markets",
+      "Gerard"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/how-well-do-you-know-kojima-game-character-names-take-our-quiz-to-see-if-we-should-start-calling-you-smart-quizman/",
+    "title": "How well do you know Kojima game character names? Take our quiz to see if we should start calling you Smart Quizman",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "(Image credit: Larian Studios, PC Gamer)\r\nWant to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes, on everything from healthbars to weird currencies to absurd patc\u2026 [+1321 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kojima",
+      "Gamer",
+      "game",
+      "character",
+      "Quizman",
+      "Image",
+      "Larian",
+      "Studios",
+      "Smart",
+      "chars"
+    ]
+  },
+  {
+    "source": "Chicago Reader [NewsAPI]",
+    "url": "http://chicagoreader.com/news/make-it-make-sense/ice-immigration-yolanda-talley-cpd-northwestern/",
+    "title": "Community members demand ICE leave Chicago",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "Planque LSNAs Bethzaira Charluisant speaks at a press conference on September 18, 2025. Credit: Dave Byrnes\r\nThe community group Palenque LSNAformerly Logan Square Neighborhood Association, now Liber\u2026 [+9299 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "September",
+      "ICE",
+      "Chicago",
+      "Planque",
+      "Bethzaira",
+      "Charluisant",
+      "Credit",
+      "chars",
+      "Dave",
+      "Association"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/new-to-credit-loans-dip-in-q1-as-lenders-turn-cautious-report/articleshow/124095013.cms",
+    "title": "New to credit loans dip in Q1 as lenders turn cautious: Report",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "In what can lead to concerns from a financial inclusion agenda perspective, cautious stance by lenders led to the share of new to credit (NTC) borrowers slowing down in the June quarter, a report sai\u2026 [+1973 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NTC",
+      "Report",
+      "chars",
+      "credit",
+      "June",
+      "lenders",
+      "cautious",
+      "perspective",
+      "borrowers",
+      "quarter"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/david-fry-injury-update-5459224/",
+    "title": "David Fry Injury Update: How the Cleveland Guardians Player Is Doing Now",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "Image Credit: Getty Images\r\nDavid Fry was taken to a hospital after being hit by a pitch. The moment turned into a bloody scene when the 29-year-old Cleveland Guardians player tried to bunt a ball, t\u2026 [+2649 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fry",
+      "David",
+      "Guardians",
+      "Update",
+      "Credit",
+      "Getty",
+      "Cleveland",
+      "Injury",
+      "Image",
+      "Images"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/tech/how-retirees-can-stop-fake-debt-collector-scams",
+    "title": "How retirees can stop fake debt collector scams",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "You pick up the phone and hear a stern voice claiming you owe money. Maybe it's for a credit card you don't recognize, a loan you never took out or some old bill you thought was long gone. Panic sets\u2026 [+6356 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "money",
+      "retirees",
+      "stop",
+      "fake",
+      "debt",
+      "collector",
+      "scams",
+      "pick",
+      "phone",
+      "hear"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/09/24/jimmy-kimmel-live-ratings-after-abc-return/",
+    "title": "Jimmy Kimmel\u2019s Ratings During ABC Return: How Many People Watched?",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "Image Credit: Disney\r\nJimmy Kimmel is back and he didnt waste any time diving into the controversy that put his late-night show on pause. Jimmy Kimmel Live! returned to ABC this week with a taped epi\u2026 [+2153 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Return",
+      "Watched",
+      "Kimmel",
+      "Ratings",
+      "People",
+      "Jimmy",
+      "ABC",
+      "Credit",
+      "Disney",
+      "Live"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/0d7fde28688379fb",
+    "title": "Ford offers special financing to riskier F-150 buyers with lower credit scores",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "Such promotions aim to make vehicles more affordable, but such borrowers are considered more likely to miss payments.\r\nThis story appeared on cnbc.com, 2025-09-24 14:25:11.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ford",
+      "riskier",
+      "buyers",
+      "affordable",
+      "payments",
+      "offers",
+      "special",
+      "financing",
+      "lower",
+      "credit"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/alien-earth-episode-8-ending-explained-post-credit-scene-the-real-monsters-finale-breakdown-what-happened-in-fx-series-first-season-wendy-and-the-lost-boys-take-control-hybrids-xenomorphs/articleshow/124094396.cms",
+    "title": "Alien Earth Episode 8 Ending Explained: Is there a post-credit scene? The Real Monsters Finale Breakdown. Here's what happened in FX series first season",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "Alien Earth Episode 8 ending explained brings the FX series first season to a dramatic conclusion. In The Real Monsters, Wendy and the Lost Boys overthrow Boy Kavalier, imprison the adults, and seize\u2026 [+4447 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Episode",
+      "Earth",
+      "Ending",
+      "Real",
+      "Alien",
+      "Explained",
+      "Monsters",
+      "scene",
+      "post-credit",
+      "Breakdown"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/09/walt-disney-world-to-end-decades-old-tradition-in-2025-fans-furious-ld1/",
+    "title": "Walt Disney World To End Decades-Old Tradition in 2025, Fans Furious",
+    "fetched_on": "2025-09-25T15:21:50.045006+00:00",
+    "content": "A staple of the Walt Disney World Resort won\u2019t be around this holiday season. Here\u2019s what fans are saying.\r\nCredit: Disney\r\nRelated: Tom Holland Takes a Break From Spider-Man, Replacement Swings Into\u2026 [+3902 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Walt",
+      "Disney",
+      "End",
+      "Tradition",
+      "Furious",
+      "Resort",
+      "Fans",
+      "season",
+      "Decades-Old"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/unicredit-upgraded-to-a-by-fitch-on-italy-sovereign-boost-93CH-4255960",
+    "title": "UniCredit upgraded to \u2019A-\u2019 by Fitch on Italy sovereign boost",
+    "fetched_on": "2025-09-25T15:22:00.686201+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fitch",
+      "Italy",
+      "UniCredit",
+      "boost",
+      "upgraded",
+      "sovereign"
     ]
   }
 ]
