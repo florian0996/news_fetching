@@ -16,7 +16,8 @@ last_sunday_str = last_sunday.isoformat()
 weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
 
 # List of common abbreviations (extend as needed)
-abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.', 'vs.']
+abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.',
+    'vs.', 'U.S.', 'U.K.', 'EU.', 'Sen.', 'Rep.', 'St.', 'Prof.']
 
 # Replace periods in abbreviations with a placeholder
 placeholder = '[DOT]'
