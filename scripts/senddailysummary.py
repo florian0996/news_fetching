@@ -18,7 +18,8 @@ yesterday_str = yesterday.isoformat()
 daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
 
 # List of common abbreviations (extend as needed)
-abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.', 'vs.']
+abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.',
+    'vs.', 'U.S.', 'U.K.', 'EU.', 'Sen.', 'Rep.', 'St.', 'Prof.']
 
 # Replace periods in abbreviations with a placeholder
 placeholder = '[DOT]'
