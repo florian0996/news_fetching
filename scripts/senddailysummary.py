@@ -34,7 +34,8 @@ if matches:
     for heading, body, _ in matches:
         heading = heading.strip()
         body = body.strip().replace("\n", " ")
-        blocks.append(f"**{heading}:** {body}")
+        # Use HTML bold tags instead of Markdown **
+        blocks.append(f"<b>{heading}:</b> {body}")
 else:
     # No headings → fall back to sentence splitting
     placeholder = '[DOT]'
@@ -44,6 +45,7 @@ else:
     sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
     blocks = sentences
+
 
 
 
