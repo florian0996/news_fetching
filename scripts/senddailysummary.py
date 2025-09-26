@@ -13,39 +13,59 @@ with open("data/summary_GPT_3.5.json", "r") as f:
 today = datetime.utcnow().date()
 yesterday = today - timedelta(days=1)
 yesterday_str = yesterday.isoformat()
+import re
 
-# Daily summary text
+# ------------------------
+# Daily summary processing
+# ------------------------
 daily_summary = summaries.get("daily_summary", {}).get(yesterday_str, "No daily summary.")
 
 # List of common abbreviations (extend as needed)
 abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.',
     'vs.', 'U.S.', 'U.K.', 'EU.', 'Sen.', 'Rep.', 'St.', 'Prof.']
 
-# Replace periods in abbreviations with a placeholder
-placeholder = '[DOT]'
-for abbr in abbreviations:
-    daily_summary = daily_summary.replace(abbr, abbr.replace('.', placeholder))
+# Detect headings like **Private Debt Funds:**
+heading_pattern = r"(\*\*[^:]+:\*\*)"
 
-# Now split on periods that are not the placeholder
-sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
+if re.search(heading_pattern, daily_summary):
+    # Split into sections on headings
+    sections = re.split(rf"(?={heading_pattern})", daily_summary)
 
-# Restore placeholders to periods
-sentences = [s.replace(placeholder, '.') for s in sentences]
+    # Clean up and keep only non-empty blocks
+    blocks = [s.strip() for s in sections if s.strip()]
+else:
+    # No headings → fall back to sentence splitting
+    # Replace periods in abbreviations with a placeholder
+    placeholder = '[DOT]'
+    for abbr in abbreviations:
+        daily_summary = daily_summary.replace(abbr, abbr.replace('.', placeholder))
 
-# Format for Teams (Markdown style bullets)
-daily_summary_for_teams = "\n".join(f"- {sentence}" for sentence in sentences if sentence.strip())
+    sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
+    sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
+    blocks = sentences
 
-# Format for Email (HTML unordered list)
-daily_summary_for_email = "<ul>" + "".join(f"<li>{sentence}</li>" for sentence in sentences if sentence.strip()) + "</ul>"
+# ------------------------
+# Teams (Markdown style bullets)
+# ------------------------
+daily_summary_for_teams = "\n".join(f"- {block}" for block in blocks)
 
+# ------------------------
+# Email (HTML unordered list)
+# ------------------------
+# Convert Markdown-style bold (**text**) to HTML bold
+blocks_html = [re.sub(r"\*\*(.*?)\*\*", r"<b>\1</b>", b) for b in blocks]
+daily_summary_for_email = "<ul>" + "".join(f"<li>{b}</li>" for b in blocks_html) + "</ul>"
+
+# ------------------------
 # Load company news
+# ------------------------
 with open("data/news_filtered_for_companies_of_interest.json", "r") as f:
     company_news = json.load(f)
 
 company_articles = company_news.get(yesterday_str, {}).get("articles", [])
 
 # ------------------------
-# Teams (Adaptive Card)
+# Teams card
 # ------------------------
 teams_body = [
     {
@@ -85,7 +105,7 @@ teams_card = {
 }
 
 # ------------------------
-# Email (HTML body)
+# Email HTML body
 # ------------------------
 email_html = f"""
 <h2>Daily Summary ({yesterday_str})</h2>
@@ -103,6 +123,9 @@ if company_articles:
 
 email_subject = f"Daily Summary ({yesterday_str})"
 
+# ------------------------
+# Send to Flow
+# ------------------------
 payload = {
     "card": teams_card,
     "emailBody": email_html,
