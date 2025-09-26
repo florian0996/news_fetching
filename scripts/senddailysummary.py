@@ -34,8 +34,8 @@ if matches:
     for heading, body, _ in matches:
         heading = heading.strip()
         body = body.strip().replace("\n", " ")
-        # Use HTML bold tags instead of Markdown **
-        blocks.append(f"<b>{heading}:</b> {body}")
+        # No bold, just plain text headers
+        blocks.append(f"{heading}: {body}")
 else:
     # No headings → fall back to sentence splitting
     placeholder = '[DOT]'
@@ -112,10 +112,9 @@ teams_card = {
 # ------------------------
 # Email HTML body
 # ------------------------
-email_html = f"""
-<h2>Daily Summary ({yesterday_str})</h2>
-{daily_summary_for_email}
-"""
+email_html = f"""{daily_summary_for_email}"""
+
+# <h2>Daily Summary ({yesterday_str})</h2> #
 
 if company_articles:
     email_html += """
