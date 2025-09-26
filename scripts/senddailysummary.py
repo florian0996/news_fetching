@@ -25,17 +25,18 @@ abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'J
     'vs.', 'U.S.', 'U.K.', 'EU.', 'Sen.', 'Rep.', 'St.', 'Prof.']
 
 # Detect headings like **Private Debt Funds:**
-heading_pattern = r"(\*\*[^:]+:\*\*)"
+heading_pattern = r"\*\*([^:]+):\*\*\s*(.*?)\s*(?=(\*\*[^:]+:\*\*)|$)"
 
-if re.search(heading_pattern, daily_summary):
-    # Split into sections on headings
-    sections = re.split(rf"(?={heading_pattern})", daily_summary)
+matches = re.findall(heading_pattern, daily_summary, flags=re.DOTALL)
 
-    # Clean up and keep only non-empty blocks
-    blocks = [s.strip() for s in sections if s.strip()]
+blocks = []
+if matches:
+    for heading, body, _ in matches:
+        heading = heading.strip()
+        body = body.strip().replace("\n", " ")
+        blocks.append(f"**{heading}:** {body}")
 else:
     # No headings → fall back to sentence splitting
-    # Replace periods in abbreviations with a placeholder
     placeholder = '[DOT]'
     for abbr in abbreviations:
         daily_summary = daily_summary.replace(abbr, abbr.replace('.', placeholder))
@@ -43,6 +44,8 @@ else:
     sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
     blocks = sentences
+
+
 
 # ------------------------
 # Teams (Markdown style bullets)
