@@ -19,16 +19,29 @@ weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No we
 abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.',
     'vs.', 'U.S.', 'U.K.', 'EU.', 'Sen.', 'Rep.', 'St.', 'Prof.']
 
-# Replace periods in abbreviations with a placeholder
-placeholder = '[DOT]'
-for abbr in abbreviations:
-    daily_summary = daily_summary.replace(abbr, abbr.replace('.', placeholder))
 
-# Now split on periods that are not the placeholder
-sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
+# Detect headings like **Private Debt Funds:**
+heading_pattern = r"\*\*([^:]+):\*\*\s*(.*?)\s*(?=(\*\*[^:]+:\*\*)|$)"
 
-# Restore placeholders to periods
-sentences = [s.replace(placeholder, '.') for s in sentences]
+matches = re.findall(heading_pattern, daily_summary, flags=re.DOTALL)
+
+blocks = []
+if matches:
+    for heading, body, _ in matches:
+        heading = heading.strip()
+        body = body.strip().replace("\n", " ")
+        # Use HTML bold tags instead of Markdown **
+        blocks.append(f"<b>{heading}:</b> {body}")
+else:
+    # No headings → fall back to sentence splitting
+    placeholder = '[DOT]'
+    for abbr in abbreviations:
+        daily_summary = daily_summary.replace(abbr, abbr.replace('.', placeholder))
+
+    sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
+    sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
+    blocks = sentences
+
 
 # Format for Teams card - Markdown bullet list
 weekly_summary_for_teams = "\n".join(f"- {sentence}" for sentence in sentences if sentence.strip())
