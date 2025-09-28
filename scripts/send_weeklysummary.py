@@ -36,7 +36,7 @@ else:
     # No headings → fall back to sentence splitting
     placeholder = '[DOT]'
     for abbr in abbreviations:
-        daily_summary = daily_summary.replace(abbr, abbr.replace('.', placeholder))
+        weekly_summary = weekly_summary.replace(abbr, abbr.replace('.', placeholder))
 
     sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
@@ -58,7 +58,7 @@ for sentence in blocks:
 blocks = grouped_blocks
 
 # Format for Teams card - Markdown bullet list
-weekly_summary_for_teams = "\n".join(f"- {blocks}" for block in blocks if block.strip())
+weekly_summary_for_teams = "\n".join(f"- {block}" for block in blocks if block.strip())
 
 # Format for Email - HTML bullet list
 weekly_summary_for_email = "<ul>" + "".join(f"<li>{sentence}</li>" for block in blocks if block.strip()) + "</ul>"
