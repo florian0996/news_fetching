@@ -42,12 +42,26 @@ else:
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
     blocks = sentences
 
+# Sentences that should be grouped with the previous one if they start like this
+continuation_starts = (
+    "This", "Such", "These", "That", "The move"
+)
+
+# Group continuation sentences
+grouped_blocks = []
+for sentence in blocks:
+    if grouped_blocks and any(sentence.startswith(start) for start in continuation_starts):
+        grouped_blocks[-1] += " " + sentence
+    else:
+        grouped_blocks.append(sentence)
+
+blocks = grouped_blocks
 
 # Format for Teams card - Markdown bullet list
-weekly_summary_for_teams = "\n".join(f"- {sentence}" for sentence in sentences if sentence.strip())
+weekly_summary_for_teams = "\n".join(f"- {blocks}" for blocks in blocks if blocks.strip())
 
 # Format for Email - HTML bullet list
-weekly_summary_for_email = "<ul>" + "".join(f"<li>{sentence}</li>" for sentence in sentences if sentence.strip()) + "</ul>"
+weekly_summary_for_email = "<ul>" + "".join(f"<li>{sentence}</li>" for blocks in blocks if blocks.strip()) + "</ul>"
 
 # Build Teams card body (like daily summary style)
 teams_body = [
