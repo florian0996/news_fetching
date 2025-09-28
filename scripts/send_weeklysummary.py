@@ -58,10 +58,10 @@ for sentence in blocks:
 blocks = grouped_blocks
 
 # Format for Teams card - Markdown bullet list
-weekly_summary_for_teams = "\n".join(f"- {blocks}" for blocks in blocks if blocks.strip())
+weekly_summary_for_teams = "\n".join(f"- {blocks}" for block in blocks if block.strip())
 
 # Format for Email - HTML bullet list
-weekly_summary_for_email = "<ul>" + "".join(f"<li>{sentence}</li>" for blocks in blocks if blocks.strip()) + "</ul>"
+weekly_summary_for_email = "<ul>" + "".join(f"<li>{sentence}</li>" for block in blocks if block.strip()) + "</ul>"
 
 # Build Teams card body (like daily summary style)
 teams_body = [
