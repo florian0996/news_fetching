@@ -45,6 +45,22 @@ else:
     sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
     blocks = sentences
+    
+# Sentences that should be grouped with the previous one if they start like this
+continuation_starts = (
+    "This", "Such", "These", "That", "The move"
+)
+
+# Group continuation sentences
+grouped_blocks = []
+for sentence in blocks:
+    if grouped_blocks and any(sentence.startswith(start) for start in continuation_starts):
+        grouped_blocks[-1] += " " + sentence
+    else:
+        grouped_blocks.append(sentence)
+
+blocks = grouped_blocks
+
 
 # ------------------------
 # Teams (Markdown style bullets)
