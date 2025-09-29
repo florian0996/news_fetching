@@ -23,7 +23,7 @@ abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'J
 # Detect headings like **Private Debt Funds:**
 heading_pattern = r"\*\*([^:]+):\*\*\s*(.*?)\s*(?=(\*\*[^:]+:\*\*)|$)"
 
-matches = re.findall(heading_pattern, daily_summary, flags=re.DOTALL)
+matches = re.findall(heading_pattern, weekly_summary, flags=re.DOTALL)
 
 blocks = []
 if matches:
@@ -38,7 +38,7 @@ else:
     for abbr in abbreviations:
         weekly_summary = weekly_summary.replace(abbr, abbr.replace('.', placeholder))
 
-    sentences = re.split(r'(?<=\.)\s+', daily_summary.strip())
+    sentences = re.split(r'(?<=\.)\s+', weekly_summary.strip())
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
     blocks = sentences
 
