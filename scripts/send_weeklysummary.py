@@ -20,8 +20,8 @@ abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'J
     'vs.', 'U.S.', 'U.K.', 'EU.', 'Sen.', 'Rep.', 'St.', 'Prof.']
 
 
-# Detect headings like **Private Debt Funds:**
-heading_pattern = r"**([^:]+):**\s*(.*?)\s*(?=(**[^:]+:**)|$)"
+# Corrected regex pattern with escaped asterisks
+heading_pattern = r"\*\*([^:]+):\*\*\s*(.*?)\s*(?=(\*\*[^:]+:\*\*)|$)"
 
 matches = re.findall(heading_pattern, weekly_summary, flags=re.DOTALL)
 
