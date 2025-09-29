@@ -21,7 +21,7 @@ abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'J
 
 
 # Detect headings like **Private Debt Funds:**
-heading_pattern = r"\*\*([^:]+):\*\*\s*(.*?)\s*(?=(\*\*[^:]+:\*\*)|$)"
+heading_pattern = r"**([^:]+):**\s*(.*?)\s*(?=(**[^:]+:**)|$)"
 
 matches = re.findall(heading_pattern, weekly_summary, flags=re.DOTALL)
 
@@ -29,11 +29,16 @@ blocks = []
 if matches:
     for heading, body, _ in matches:
         heading = heading.strip()
-        body = body.strip().replace("\n", " ")
-        # Use HTML bold tags instead of Markdown **
-        blocks.append(f"<b>{heading}:</b> {body}")
+        # split body on double newlines into paragraphs
+        subparagraphs = re.split(r'\n\s*\n', body.strip())
+        # clean and join each paragraph into one line replacing single newlines
+        subparagraphs = [p.replace('\n', ' ').strip() for p in subparagraphs if p.strip()]
+        # Add heading block
+        blocks.append(f"<b>{heading}:</b>")
+        # Add each paragraph under heading as a separate block
+        blocks.extend(subparagraphs)
 else:
-    # No headings → fall back to sentence splitting
+    # fall back to previous sentence splitting logic (if no headings)
     placeholder = '[DOT]'
     for abbr in abbreviations:
         weekly_summary = weekly_summary.replace(abbr, abbr.replace('.', placeholder))
@@ -42,12 +47,11 @@ else:
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
     blocks = sentences
 
-# Sentences that should be grouped with the previous one if they start like this
+# Group continuation sentences if needed (keep as in your original script)
 continuation_starts = (
     "This", "Such", "These", "That", "The move"
 )
 
-# Group continuation sentences
 grouped_blocks = []
 for sentence in blocks:
     if grouped_blocks and any(sentence.startswith(start) for start in continuation_starts):
