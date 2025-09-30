@@ -99,7 +99,6 @@ teams_card = {
 
 # Email HTML body
 email_html = f"""
-<h2>Weekly Summary ({last_sunday_str})</h2>
 {weekly_summary_for_email}
 """
 
