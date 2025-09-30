@@ -30,15 +30,12 @@ if matches:
         paragraphs = [p.strip() for p in body.split('\n') if p.strip()]
         
         if len(paragraphs) > 1:
-            # Multiple paragraphs - create main bullet with sub-bullets
-            main_bullet = f"<b>{heading}:</b>"
-            blocks.append(main_bullet)
-            for para in paragraphs:
-                blocks.append(f"  - {para}")
+            # Multiple paragraphs - store as tuple (heading, list of paragraphs)
+            blocks.append(('heading_with_subs', heading, paragraphs))
         else:
             # Single paragraph - keep as one bullet
             body = body.replace("\n", " ")
-            blocks.append(f"<b>{heading}:</b> {body}")
+            blocks.append(('simple', f"<b>{heading}:</b> {body}"))
 else:
     # No headings → fall back to sentence splitting
     abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'Jr.', 'Sr.',
@@ -48,38 +45,37 @@ else:
         weekly_summary = weekly_summary.replace(abbr, abbr.replace('.', placeholder))
     sentences = re.split(r'(?<=\.)\s+', weekly_summary.strip())
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
-    blocks = sentences
+    blocks = [('simple', s) for s in sentences]
 
-# Format for Teams card - Markdown bullet list
-weekly_summary_for_teams = "\n".join(f"- {block}" for block in blocks if block.strip())
+# Format for Teams card - Markdown bullet list with proper indentation for sub-bullets
+teams_lines = []
+for block in blocks:
+    if block[0] == 'heading_with_subs':
+        _, heading, paragraphs = block
+        teams_lines.append(f"- **{heading}:**")
+        for para in paragraphs:
+            # Use 2 spaces for indentation to create sub-bullets in Teams
+            teams_lines.append(f"  - {para}")
+    else:
+        _, content = block
+        teams_lines.append(f"- {content}")
+
+weekly_summary_for_teams = "\n".join(teams_lines)
 
 # Format for Email - HTML with nested lists
-email_blocks = []
-i = 0
-while i < len(blocks):
-    block = blocks[i]
-    # Check if this is a main heading followed by sub-bullets
-    if block.startswith("<b>") and not block.endswith("</b>"):
-        # Just the heading, sub-bullets follow
-        email_blocks.append(f"<li>{block}")
-        i += 1
-        # Collect sub-bullets
-        sub_bullets = []
-        while i < len(blocks) and blocks[i].strip().startswith("- "):
-            sub_bullets.append(blocks[i].strip()[2:])  # Remove "- " prefix
-            i += 1
-        if sub_bullets:
-            email_blocks.append("<ul>")
-            for sub in sub_bullets:
-                email_blocks.append(f"<li>{sub}</li>")
-            email_blocks.append("</ul>")
-        email_blocks.append("</li>")
+email_parts = []
+for block in blocks:
+    if block[0] == 'heading_with_subs':
+        _, heading, paragraphs = block
+        email_parts.append(f"<li><b>{heading}:</b><ul>")
+        for para in paragraphs:
+            email_parts.append(f"<li>{para}</li>")
+        email_parts.append("</ul></li>")
     else:
-        # Regular bullet point
-        email_blocks.append(f"<li>{block}</li>")
-        i += 1
+        _, content = block
+        email_parts.append(f"<li>{content}</li>")
 
-weekly_summary_for_email = "<ul>" + "".join(email_blocks) + "</ul>"
+weekly_summary_for_email = "<ul>" + "".join(email_parts) + "</ul>"
 
 # Build Teams card body
 teams_body = [
