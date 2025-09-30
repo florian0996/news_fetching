@@ -10,7 +10,7 @@ with open("data/summary_GPT_3.5.json", "r") as f:
     summaries = json.load(f)
 
 today = datetime.utcnow().date()
-last_sunday = today - timedelta(days=1)
+last_sunday = today - timedelta(days=2)
 last_sunday_str = last_sunday.isoformat()
 
 weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
@@ -23,7 +23,9 @@ abbreviations = ['Inc.', 'Ltd.', 'Co.', 'Corp.', 'Dr.', 'Mr.', 'Ms.', 'Mrs.', 'J
 heading_pattern = r"\*\*([^:]+):\*\*\s*(.*?)(?=(\*\*[^:]+:\*\*)|$)"
 matches = re.findall(heading_pattern, weekly_summary, flags=re.DOTALL)
 
-blocks = []
+blocks_teams = []  # For Teams (markdown)
+blocks_email = []  # For Email (HTML)
+
 if matches:
     for heading, body, _ in matches:
         heading = heading.strip()
@@ -36,15 +38,18 @@ if matches:
             # Multiple paragraphs separated by \n\n
             # First paragraph gets the heading
             first_para = paragraphs[0].replace('\n', ' ')
-            blocks.append(f"<b>{heading}:</b> {first_para}")
+            blocks_teams.append(f"**{heading}:** {first_para}")
+            blocks_email.append(f"<b>{heading}:</b> {first_para}")
             # Remaining paragraphs are standalone bullets without heading
             for para in paragraphs[1:]:
                 para = para.replace('\n', ' ')
-                blocks.append(para)
+                blocks_teams.append(para)
+                blocks_email.append(para)
         else:
             # Single paragraph - replace single \n with space
             body = body.replace("\n", " ")
-            blocks.append(f"<b>{heading}:</b> {body}")
+            blocks_teams.append(f"**{heading}:** {body}")
+            blocks_email.append(f"<b>{heading}:</b> {body}")
 else:
     # No headings → fall back to sentence splitting
     placeholder = '[DOT]'
@@ -52,28 +57,33 @@ else:
         weekly_summary = weekly_summary.replace(abbr, abbr.replace('.', placeholder))
     sentences = re.split(r'(?<=\.)\s+', weekly_summary.strip())
     sentences = [s.replace(placeholder, '.') for s in sentences if s.strip()]
-    blocks = sentences
+    blocks_teams = [s for s in sentences]
+    blocks_email = [s for s in sentences]
 
 # Sentences that should be grouped with the previous one if they start like this
 continuation_starts = (
     "This", "Such", "These", "That", "The move"
 )
 
-# Group continuation sentences
-grouped_blocks = []
-for sentence in blocks:
-    if grouped_blocks and any(sentence.startswith(start) for start in continuation_starts):
-        grouped_blocks[-1] += " " + sentence
+# Group continuation sentences for both formats
+grouped_blocks_teams = []
+grouped_blocks_email = []
+for i, sentence in enumerate(blocks_teams):
+    if grouped_blocks_teams and any(sentence.startswith(start) for start in continuation_starts):
+        grouped_blocks_teams[-1] += " " + sentence
+        grouped_blocks_email[-1] += " " + blocks_email[i]
     else:
-        grouped_blocks.append(sentence)
+        grouped_blocks_teams.append(sentence)
+        grouped_blocks_email.append(blocks_email[i])
 
-blocks = grouped_blocks
+blocks_teams = grouped_blocks_teams
+blocks_email = grouped_blocks_email
 
 # Format for Teams card - Markdown bullet list
-weekly_summary_for_teams = "\n".join(f"- {block}" for block in blocks if block.strip())
+weekly_summary_for_teams = "\n".join(f"- {block}" for block in blocks_teams if block.strip())
 
 # Format for Email - HTML bullet list
-weekly_summary_for_email = "<ul>" + "".join(f"<li>{block}</li>" for block in blocks if block.strip()) + "</ul>"
+weekly_summary_for_email = "<ul>" + "".join(f"<li>{block}</li>" for block in blocks_email if block.strip()) + "</ul>"
 
 # Build Teams card body
 teams_body = [
@@ -99,6 +109,7 @@ teams_card = {
 
 # Email HTML body
 email_html = f"""
+<h2>Weekly Summary ({last_sunday_str})</h2>
 {weekly_summary_for_email}
 """
 
