@@ -10,7 +10,7 @@ with open("data/summary_GPT_3.5.json", "r") as f:
     summaries = json.load(f)
 
 today = datetime.utcnow().date()
-last_sunday = today - timedelta(days=2)
+last_sunday = today - timedelta(days=1)
 last_sunday_str = last_sunday.isoformat()
 
 weekly_summary = summaries.get("weekly_summary", {}).get(last_sunday_str, "No weekly summary.")
@@ -109,7 +109,6 @@ teams_card = {
 
 # Email HTML body
 email_html = f"""
-<h2>Weekly Summary ({last_sunday_str})</h2>
 {weekly_summary_for_email}
 """
 
