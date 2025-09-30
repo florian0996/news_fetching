@@ -43,7 +43,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-29/s-p-says-it-expects-to-cut-electronic-arts-to-junk-status",
     "title": "S&amp;P Says It Expects To Cut Electronic Arts to Junk Status",
-    "fetched_on": "2025-09-30T06:31:23.345825+00:00",
+    "fetched_on": "2025-09-30T07:20:28.033563+00:00",
     "content": "S&amp;P Global Ratings said it expects to cut Electronic Arts Inc.\u2019s credit grades to junk status after the video-game maker\u2019s buyout deal is closed, citing the expected addition of about $20 billion of debt from the transaction.",
     "platforms_mentioned": [],
     "keywords": [
@@ -63,7 +63,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-29/getty-blocks-creditor-boycotts-in-bond-exchange-tied-to-merger",
     "title": "Getty Blocks Creditor Boycotts in Bond Exchange Tied to Merger",
-    "fetched_on": "2025-09-30T06:31:23.868578+00:00",
+    "fetched_on": "2025-09-30T07:20:28.242798+00:00",
     "content": "Stock photo supplier Getty Images Holdings Inc. is getting its ducks in a row to finance its acquisition of Shutterstock Inc. Part of the process includes cornering investors to participate in a bond exchange that would refinance its existing debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -83,7 +83,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-29/algoma-steel-gets-c-500-million-loan-to-become-less-us-reliant",
     "title": "Algoma Steel Gets $359 Million Loan to Become Less US Reliant",
-    "fetched_on": "2025-09-30T06:31:23.868602+00:00",
+    "fetched_on": "2025-09-30T07:20:28.242823+00:00",
     "content": "Shares of Canadian steelmaker Algoma Steel Group Inc. jumped after getting the C$500 million ($359 million) in government loans it sought to mitigate the 50% steel tariffs imposed by US President Donald Trump.",
     "platforms_mentioned": [],
     "keywords": [
@@ -260,23 +260,21 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/sysco-corporation-syy-secures-3b-225519389.html",
     "title": "Sysco Corporation (SYY) Secures $3B Credit Facility, Boosting Liquidity Through 2030",
-    "fetched_on": "2025-09-30T03:34:55.605872+00:00",
-    "content": "We recently compiled a list of the13 Best Bear Market Stocks to Buy Right Now. Sysco Corporation is one of them. Sysco Corporation (NYSE:SYY), a leading global foodservice distributor, serves restau... [+2003 chars]",
+    "fetched_on": "2025-09-30T07:20:48.315346+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Secures",
       "SYY",
-      "Sysco",
+      "Secures",
+      "Corporation",
       "Credit",
       "Facility",
       "Boosting",
-      "Corporation",
       "Liquidity",
-      "Bear",
-      "Market"
+      "Sysco"
     ]
   },
   {
@@ -339,7 +337,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-09-30T06:31:51.858491+00:00",
+    "fetched_on": "2025-09-30T07:20:45.273960+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -359,7 +357,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-09-30T06:31:54.251464+00:00",
+    "fetched_on": "2025-09-30T07:20:48.032001+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -379,7 +377,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-09-30T06:31:53.951285+00:00",
+    "fetched_on": "2025-09-30T07:20:47.704928+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -399,7 +397,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-09-30T06:31:53.951313+00:00",
+    "fetched_on": "2025-09-30T07:20:47.704957+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -419,7 +417,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-09-30T06:31:53.951327+00:00",
+    "fetched_on": "2025-09-30T07:20:47.704972+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -439,7 +437,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
     "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
-    "fetched_on": "2025-09-30T06:31:54.108177+00:00",
+    "fetched_on": "2025-09-30T07:20:47.859066+00:00",
     "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -459,7 +457,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
     "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
-    "fetched_on": "2025-09-30T06:31:54.251303+00:00",
+    "fetched_on": "2025-09-30T07:20:48.031835+00:00",
     "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -479,7 +477,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
     "title": "Ahead of EV tax credit deadline, IRS delays create 'anxiety' for car dealers",
-    "fetched_on": "2025-09-30T06:31:54.251311+00:00",
+    "fetched_on": "2025-09-30T07:20:48.031843+00:00",
     "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
     "platforms_mentioned": [],
     "keywords": [
@@ -499,7 +497,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
     "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
-    "fetched_on": "2025-09-30T06:31:54.251340+00:00",
+    "fetched_on": "2025-09-30T07:20:48.031873+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -519,7 +517,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
     "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
-    "fetched_on": "2025-09-30T06:31:54.251403+00:00",
+    "fetched_on": "2025-09-30T07:20:48.031939+00:00",
     "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here\u2019s what to consider before signing up.",
     "platforms_mentioned": [],
     "keywords": [
@@ -539,7 +537,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/20/how-the-20-4-10-car-shopping-rule-works.html",
     "title": "Car shoppers \u2014 following one rule can help keep costs down, CFP says",
-    "fetched_on": "2025-09-30T06:31:54.251410+00:00",
+    "fetched_on": "2025-09-30T07:20:48.031946+00:00",
     "content": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
     "platforms_mentioned": [],
     "keywords": [
@@ -559,7 +557,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/18/public-service-loan-forgiveness-rule-opposed-by-attorneys-general.html",
     "title": "Attorneys general, advocates oppose Trump's rule narrowing eligibility for Public Service Loan Forgiveness",
-    "fetched_on": "2025-09-30T06:31:54.251450+00:00",
+    "fetched_on": "2025-09-30T07:20:48.031987+00:00",
     "content": "Attorneys general and more than 250 organizations oppose the Trump-era proposed regulation that could narrow eligibility for Public Service Loan Forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -579,7 +577,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/student-loan-forgiveness-rhode-island-doj-lawsuit.html",
     "title": "DOJ sues Rhode Island over student loan forgiveness program, alleging racial discrimination",
-    "fetched_on": "2025-09-30T06:31:54.251471+00:00",
+    "fetched_on": "2025-09-30T07:20:48.032008+00:00",
     "content": "The U.S. Department of Justice has filed a lawsuit alleging that Rhode Island's student loan forgiveness program for teachers of color is discriminatory.",
     "platforms_mentioned": [],
     "keywords": [
@@ -599,7 +597,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/16/student-loan-borrowers-tax-liability-trump.html",
     "title": "Student loan borrowers may face 'enormous tax liability' amid Trump administration delays: union",
-    "fetched_on": "2025-09-30T06:31:54.251492+00:00",
+    "fetched_on": "2025-09-30T07:20:48.032032+00:00",
     "content": "Student loan borrowers who are entitled to debt forgiveness but haven't been able to get it under Trump may face an \"enormous tax liability,\" a union warns.",
     "platforms_mentioned": [],
     "keywords": [
@@ -792,7 +790,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-09-30/orion-grants-pe-firms-private-loan-to-buy-stake-in-bread-giant",
     "title": "Orion Grants PE Firms Private Loan to Buy Stake in Bread Giant",
-    "fetched_on": "2025-09-30T06:31:22.468730+00:00",
+    "fetched_on": "2025-09-30T07:20:27.708269+00:00",
     "content": "Orion Capital Asia has provided a $32 million loan to two private equity firms for their purchase of a stake in an Indonesian bread company, according to people familiar with the matter, adding to a wave of private debt-funded deals emerging across Asia.",
     "platforms_mentioned": [],
     "keywords": [
@@ -852,7 +850,7 @@
     "source": "PhoneArena [NewsAPI]",
     "url": "https://www.phonearena.com/news/xiaomi-17-mimicry-of-iphone-17-not-helping_id174447",
     "title": "Xiaomi 17\u2019s mimicry of the iPhone 17 doesn\u2019t seem to be helping",
-    "fetched_on": "2025-09-30T06:31:21.723744+00:00",
+    "fetched_on": "2025-09-30T07:20:27.133487+00:00",
     "content": "*Image credit Digital Chat StationThis year, Xiaomi took a very bold step by renaming its newest flagship phones after the iPhone 17, complete with a Xiaomi 17 Pro Max model. The new phones even mimi\u2026 [+2385 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -872,7 +870,7 @@
     "source": "RTE [NewsAPI]",
     "url": "https://www.rte.ie/news/business/2025/0929/1535804-jaguar-land-rovers-15-billion-loan-guarantee/",
     "title": "UK pledges \u00a31.5 billion loan guarantee for Jaguar",
-    "fetched_on": "2025-09-30T06:31:21.723744+00:00",
+    "fetched_on": "2025-09-30T07:20:27.133487+00:00",
     "content": "Britain will back Jaguar Land Rover with a \u00a31.5 billion loan guarantee to help support its supply chain in the wake of the luxury carmaker's production shutdown following a cyberattack.\r\nJaguar Land \u2026 [+1023 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -892,7 +890,7 @@
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/money/personal-finance/7-personal-loan-mistakes-to-avoid-for-better-financial-health-11759123404041.html",
     "title": "7 personal loan mistakes to avoid for better financial health",
-    "fetched_on": "2025-09-30T06:31:21.723744+00:00",
+    "fetched_on": "2025-09-30T07:20:27.133487+00:00",
     "content": "Personal loans can be a useful financial tool that can help borrowers in meeting expenses such as home renovation, education, debt consolidation, medical emergencies, etc. Still, misuse or mismanagem\u2026 [+3815 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -906,6 +904,106 @@
       "financial",
       "chars",
       "loan"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/energy/power/bhutan-based-kholongchhu-hydro-power-signs-term-loan-agreement-worth-rs-4829-cr-with-power-finance-corporation/articleshow/124207234.cms",
+    "title": "Bhutan-based Kholongchhu Hydro Power signs term loan agreement worth Rs 4,829 cr with Power Finance Corporation",
+    "fetched_on": "2025-09-30T07:20:27.133487+00:00",
+    "content": "Bhutan-based Kholongchhu Hydro Power Ltd (KHPL) on Monday singed a term loan agreement worth Rs 4,829 crore with India's state-owned Power Finance Corporation (PFC).KHPL is a strategic partnership wi\u2026 [+1490 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Power",
+      "Kholongchhu",
+      "Hydro",
+      "Finance",
+      "KHPL",
+      "Corporation",
+      "PFC",
+      "Bhutan-based",
+      "loan",
+      "agreement"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/tech/tech-news/2025/09/29/meet-the-filipinos-trapped-in-a-nightmare-by-online-loansharks",
+    "title": "Meet the Filipinos trapped in a nightmare by online loansharks",
+    "fetched_on": "2025-09-30T07:20:27.133487+00:00",
+    "content": "MANILA: Melissa thought her financial troubles would disappear with just a few clicks in a Philippines online lending app that promised \"fast cash\".\r\nWithout access to loans from traditional banks to\u2026 [+5283 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MANILA",
+      "Melissa",
+      "Filipinos",
+      "Philippines",
+      "online",
+      "Meet",
+      "promised",
+      "fast",
+      "cash",
+      "trapped"
+    ]
+  },
+  {
+    "source": "PR Newswire UK [NewsAPI]",
+    "url": "https://www.prnewswire.co.uk/news-releases/bondaval-partners-with-swiss-re-corporate-solutions-to-launch-data-driven-credit-risk-solution-302568989.html",
+    "title": "Bondaval Partners with Swiss Re Corporate Solutions to Launch Data-Driven Credit Risk Solution",
+    "fetched_on": "2025-09-30T07:20:27.133487+00:00",
+    "content": "LONDON, Sept. 29, 2025 /PRNewswire/ -- Bondaval, a pioneering credit fintech combining advanced technology with deep underwriting expertise, has entered into a global partnership with Swiss Re Corpor\u2026 [+2751 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Swiss",
+      "Sept.",
+      "Bondaval",
+      "LONDON",
+      "Corpor",
+      "PRNewswire",
+      "chars",
+      "Credit",
+      "Partners",
+      "Corporate"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/medical-loans-with-low-cost-emis-compare-bajaj-finserv-fibe-arogya-mitra-and-hexahealth-healthcare-11759128123055.html",
+    "title": "Medical loans with low-cost EMIs: Compare Bajaj Finserv, Fibe, Arogya Mitra, and HexaHealth",
+    "fetched_on": "2025-09-30T07:20:27.133487+00:00",
+    "content": "A sudden medical situation can upend even the most carefully laid-out financial plans. While a comprehensive health insurance policy can help navigate such scenarios, a loan with no-cost EMIs (Equate\u2026 [+4789 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fibe",
+      "Compare",
+      "Finserv",
+      "Arogya",
+      "Mitra",
+      "Bajaj",
+      "EMIs",
+      "Medical",
+      "plans",
+      "Equate"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/sashalekach/2025/09/29/ev-sales-surge-before-tax-credit-ends/",
+    "title": "EV Sales Surge Before Tax Credit Ends",
+    "fetched_on": "2025-09-30T07:20:27.133487+00:00",
+    "content": "More EVs are coming to charging stations in the run-up to the federal tax incentive ending.\r\nGetty Images\r\nWith only days until the clean car tax credit expires, the race is on to save money on elect\u2026 [+3541 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Sales",
+      "Surge",
+      "Ends",
+      "Credit",
+      "ending",
+      "EVs",
+      "coming",
+      "charging",
+      "stations"
     ]
   }
 ]
