@@ -1265,5 +1265,85 @@
       "credit",
       "good"
     ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/smart-borrowing-guide-7-things-to-know-before-signing-your-loan-agreement/key-factors-to-evaluate-before-accepting-a-loan-offer/slideshow/124227570.cms",
+    "title": "Smart borrowing guide: 7 things to know before signing your loan agreement",
+    "fetched_on": "2025-10-01T06:30:57.843611+00:00",
+    "content": "Sep 30, 2025, 11:52:26 AM IST\r\nNot all loans are the same, so it’s important to review the details before signing up. Always look at the loan amount, type, interest rate, prepayment charges, and over… [+2842 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sep",
+      "IST",
+      "signing",
+      "Smart",
+      "guide",
+      "things",
+      "borrowing",
+      "agreement",
+      "important",
+      "review"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/economy-finance/rbi-monetary-policy-goldman-sachs-chief-india-economist-expects-repo-rate-cut-only-in-december",
+    "title": "RBI Monetary Policy: Goldman Sachs Chief India Economist Expects Repo Rate Cut Only In December",
+    "fetched_on": "2025-10-01T06:30:57.843611+00:00",
+    "content": "The market is keenly awaiting Wednesdays Reserve Bank of India monetary policy committee meet outcome with some hopeful of a lending rate cut. However, Goldman Sachs' Chief India Economist, Santanu S… [+1129 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Monetary",
+      "Policy",
+      "Rate",
+      "Cut",
+      "RBI",
+      "Goldman",
+      "Chief",
+      "Economist",
+      "Sachs"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/5-benefits-of-a-750-credit-score-better-loan-approvals-lower-interest-rates-premium-financial-products-and-more-11759208265480.html",
+    "title": "5 benefits of a 750+ credit score: Better loan approvals, lower interest rates, premium financial products and more",
+    "fetched_on": "2025-10-01T06:30:57.843611+00:00",
+    "content": "A healthy credit score can make all the difference for aspiring borrowers seeking credit cards, personal loans, or home loans. Lending institutions generally consider a score of over 750 to be excell… [+4234 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "score",
+      "benefits",
+      "approvals",
+      "lower",
+      "rates",
+      "premium",
+      "cards",
+      "personal",
+      "loans"
+    ]
+  },
+  {
+    "source": "Newhumanist.org.uk [NewsAPI]",
+    "url": "https://newhumanist.org.uk/articles/6461/the-secular-soul-of-the-labour-party#utm_source=rss",
+    "title": "The secular soul of the Labour Party",
+    "fetched_on": "2025-10-01T06:30:57.843611+00:00",
+    "content": "Lord Kinnock has spent half a century as a Labour politician. Now he is calling on the party to reclaim its humanist principles\r\nKinnock at Labours party conference in Blackpool in 1986. Credit: Alam… [+15000 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lord",
+      "Party",
+      "Labour",
+      "Kinnock",
+      "politician",
+      "Alam",
+      "Labours",
+      "secular",
+      "soul",
+      "spent"
+    ]
   }
 ]
