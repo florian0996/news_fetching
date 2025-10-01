@@ -443,7 +443,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-01T11:18:01.759779+00:00",
+    "fetched_on": "2025-10-01T12:43:55.231304+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
     "title": "U.S. government shuts down after midnight as Congress fails to pass funding bills",
-    "fetched_on": "2025-10-01T11:18:03.689611+00:00",
+    "fetched_on": "2025-10-01T12:43:57.485095+00:00",
     "content": "Democrats insist that any stopgap funding bill included an extension of enhance Affordable Care Act tax credits due to expire at the end of 2025.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/government-shutdown-healthcare-democrats-republicans.html",
     "title": "The government shutdown fight hinges on ACA tax credits \u2014 and if immigrants should get them",
-    "fetched_on": "2025-10-01T11:18:03.689588+00:00",
+    "fetched_on": "2025-10-01T12:43:57.485075+00:00",
     "content": "Democrats demand Republicans agree to codify an extension of enhanced premium Obamacare tax credits to keep the government from shutting down.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/student-loan-borrowers-tax-refunds-seized.html",
     "title": "Trump officials may be seizing student loan borrowers' tax refunds 'without required notice': Lawmakers",
-    "fetched_on": "2025-10-01T11:18:04.181565+00:00",
+    "fetched_on": "2025-10-01T12:43:57.915945+00:00",
     "content": "Lawmakers say the Trump administration may be \"improperly\" seizing defaulted student borrowers' tax refunds by failing to provide the required notice.",
     "platforms_mentioned": [],
     "keywords": [
@@ -522,17 +522,17 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/aca-premiums-to-more-than-double-without-enhanced-subsidies.html",
-    "title": "Affordable Care Act premiums will rise 114% if enhanced subsidies expire, KFF says",
-    "fetched_on": "2025-10-01T11:18:04.181541+00:00",
+    "title": "Affordable Care Act premiums will rise 114% if enhanced subsidies expire, health policy researcher finds",
+    "fetched_on": "2025-10-01T12:43:57.915923+00:00",
     "content": "The federal government may shut down if Congress can't reach a deal about enhanced premium tax credits, slated to expire at the end of 2025.",
     "platforms_mentioned": [],
     "keywords": [
-      "KFF",
       "Care",
       "Act",
       "Congress",
       "Affordable",
       "rise",
+      "health",
       "credits",
       "slated",
       "enhanced",
@@ -563,7 +563,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-01T11:18:03.848398+00:00",
+    "fetched_on": "2025-10-01T12:43:57.644871+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-01T11:18:03.848406+00:00",
+    "fetched_on": "2025-10-01T12:43:57.644882+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-10-01T11:18:03.848434+00:00",
+    "fetched_on": "2025-10-01T12:43:57.644909+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-10-01T11:18:03.848448+00:00",
+    "fetched_on": "2025-10-01T12:43:57.644923+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
     "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
-    "fetched_on": "2025-10-01T11:18:04.007923+00:00",
+    "fetched_on": "2025-10-01T12:43:57.783085+00:00",
     "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
     "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
-    "fetched_on": "2025-10-01T11:18:04.181601+00:00",
+    "fetched_on": "2025-10-01T12:43:57.915979+00:00",
     "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
     "title": "Ahead of EV tax credit deadline, IRS delays create 'anxiety' for car dealers",
-    "fetched_on": "2025-10-01T11:18:04.181608+00:00",
+    "fetched_on": "2025-10-01T12:43:57.915986+00:00",
     "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
     "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
-    "fetched_on": "2025-10-01T11:18:04.181636+00:00",
+    "fetched_on": "2025-10-01T12:43:57.916014+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
     "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
-    "fetched_on": "2025-10-01T11:18:04.181697+00:00",
+    "fetched_on": "2025-10-01T12:43:57.916075+00:00",
     "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here\u2019s what to consider before signing up.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/20/how-the-20-4-10-car-shopping-rule-works.html",
     "title": "Car shoppers \u2014 following one rule can help keep costs down, CFP says",
-    "fetched_on": "2025-10-01T11:18:04.181718+00:00",
+    "fetched_on": "2025-10-01T12:43:57.916083+00:00",
     "content": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1883,7 +1883,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-01/goldman-s-minnis-on-ai-investing-credit-spreads-m-a-video",
     "title": "Goldman\u2019s Minnis on AI Investing, Credit Spreads, M&A",
-    "fetched_on": "2025-10-01T11:17:32.790282+00:00",
+    "fetched_on": "2025-10-01T12:43:34.062407+00:00",
     "content": "Christina Minnis, global head of credit and asset finance at Goldman Sachs, discusses investing in AI infrastructure, the strength of the US economy, credit spreads, and her outlook for the return of large M&amp;A transactions. She speaks with Dani Burger on the sidelines of the Women, Money & Power event in London. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -1923,7 +1923,7 @@
     "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-01/eu-presses-ahead-on-unlocking-140-billion-from-russian-assets",
     "title": "EU Presses Ahead on Unlocking \u20ac140 Billion From Russian Assets",
-    "fetched_on": "2025-10-01T11:17:33.132956+00:00",
+    "fetched_on": "2025-10-01T12:43:34.146394+00:00",
     "content": "European Union leaders are building momentum for a plan to provide Ukraine with \u20ac140 billion ($164 billion) in loans from immobilized Russian central bank assets at a summit in Denmark.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1943,7 +1943,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-01/-we-ve-seen-this-movie-before-us-shutdown-impact-video",
     "title": "'We've Seen This Movie Before' | US Shutdown Impact",
-    "fetched_on": "2025-10-01T11:17:33.453128+00:00",
+    "fetched_on": "2025-10-01T12:43:34.232254+00:00",
     "content": "Gold reached a new all-time high as the US began a government shutdown, threatening upheaval and causing delays to key economic data releases. The suspension of federal operations risks adding further pressure on the dollar, while the release of data critical to assessing the health of the US economy, including Friday's non-farm payroll numbers, may be delayed. Danielle Poli, Global Credit Portfolio Manager at Oaktree, is attending Bloomberg's Women, Money & Power event in London. She joins Caroline Hepker to discuss the impact of the shutdown on markets and the broader outlook for credit and the wider investing environment. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -1963,7 +1963,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-01/car-sales-set-to-surge-as-buyers-race-to-nab-lapsing-ev-credit",
     "title": "Car Sales Set to Surge as Buyers Race to Nab Lapsing EV Credit",
-    "fetched_on": "2025-10-01T11:17:34.464956+00:00",
+    "fetched_on": "2025-10-01T12:43:34.572348+00:00",
     "content": "Carmakers saw a surge in new electric vehicle sales this past quarter, giving the industry a boost despite ongoing uncertainty from President Donald Trump\u2019s shifting trade policies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2423,7 +2423,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/ev-sales-surged-17-7-110000587.html",
     "title": "EV sales surged 17.7% in August as drivers raced to buy before a popular tax credit expired \u2014 how to still snag a deal",
-    "fetched_on": "2025-10-01T11:18:04.542058+00:00",
+    "fetched_on": "2025-10-01T12:43:58.264968+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -2540,6 +2540,463 @@
       "Referral",
       "Daiwa",
       "Crypto-Backed"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-01/turkey-s-vestel-in-talks-to-swap-lira-loans-into-hard-currency",
+    "title": "Turkey\u2019s Vestel in Talks to Swap Lira Loans Into Hard Currency",
+    "fetched_on": "2025-10-01T12:43:34.062306+00:00",
+    "content": "Turkey\u2019s Vestel Elektronik is in talks with lenders to refinance some of its loans, as the home-appliance maker struggles with double-digit interest rates and high leverage, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vestel",
+      "Turkey",
+      "Talks",
+      "Loans",
+      "Swap",
+      "Lira",
+      "Hard",
+      "Currency",
+      "Elektronik",
+      "leverage"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-01/-will-i-lose-money-credit-buyers-turn-to-breakevens-for-clues",
+    "title": "\u2018Will I Lose Money?\u2019: Credit Buyers Turn to Breakevens for Clues",
+    "fetched_on": "2025-10-01T12:43:34.062347+00:00",
+    "content": "With corporate bond spreads offering investors the least compensation for risk in years, some are beginning to look more closely at another metric to justify their buying spree.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Money",
+      "Credit",
+      "Lose",
+      "Buyers",
+      "Turn",
+      "Breakevens",
+      "Clues",
+      "years",
+      "spree",
+      "corporate"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-01/the-pulse-10-1-2025-video",
+    "title": "Gold Hits Record High on US Government Shutdown | The Pulse 10/1/2025",
+    "fetched_on": "2025-10-01T12:43:34.062395+00:00",
+    "content": "Gold reached a new all-time high as the US began a government shutdown, threatening upheaval including delays to key economic data releases. Congress blew past a midnight funding deadline, triggering the US government\u2019s first shutdown in nearly seven years &mdash; and the third under President Donald Trump.\n\nAlso on the show, live coverage from Bloomberg's Women, Money and Power event, featuring some of the most influential voices in global finance. \n\nToday's guests: Ursula Marchioni, BlackRock EMEA Investment and Portfolio Head as well as panel discussions from Bloomberg's Women, Money and Power event featuring Yie-Hsin Hung, State Street Investment Management CEO, Jenny Johnson, Franklin Templeton CEO, Anu Aiyengar, JPMorgan Global Head of Advisory & M&amp;A,  Christina Minnis, Goldman Sachs Global Head of Credit & Asset Finance, May Nasrallah, PJT deNovo Executive Chair. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gold",
+      "High",
+      "Government",
+      "Pulse",
+      "Shutdown",
+      "Hits",
+      "Record",
+      "Bloomberg",
+      "Head",
+      "Women"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/mortgage-rates-today-tuesday-september-30-2025-30-year-fixed-dips-while-15-year-climbs-what-it-means-for-homeowners-and-buyers/articleshow/124234947.cms",
+    "title": "Mortgage rates today: 30-year fixed eases slightly, 15-year rises, refinancing and homebuying opportunities explained",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "Mortgage rates are back in focus as the 30-year fixed loan dipped once again on September 30, 2025. After months of volatility, the average rate is now hovering around 6.26%, giving homebuyers and ho\u2026 [+11075 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "September",
+      "fixed",
+      "rises",
+      "today",
+      "slightly",
+      "refinancing",
+      "rates",
+      "eases",
+      "homebuying"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-incs-proportion-of-rating-upgrades-to-downgrades-rises-2-56x-in-h1fy26-careedge/articleshow/124235471.cms",
+    "title": "India Inc\u2019s proportion of rating upgrades to downgrades rises 2.56x in H1FY26: CareEdge",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "India Inc.s credit profile strengthened in the first half of FY26, with the upgrade-to-downgrade ratio rising to 2.56 times from 2.35 times in the previous half, reflecting broad-based resilience acr\u2026 [+2702 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "times",
+      "chars",
+      "India",
+      "Inc.s",
+      "half",
+      "rises",
+      "CareEdge",
+      "ratio",
+      "reflecting",
+      "acr"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/cc1ec174a67df3c7",
+    "title": "JPMorgan Files Plans to Put Private Credit Into an ETF Wrapper",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is a US government shutdown imminent? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will shutdown affect US eco\u2026 [+728 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Wrapper",
+      "return",
+      "false",
+      "Files",
+      "Plans",
+      "Put",
+      "Private"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/poll-2025-which-group-of-pitchers-performs-better-a-review/",
+    "title": "Poll 2025: Which Group of Pitchers Performs Better? A Review",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "Mandatory Credit: Sam Navarro-Imagn Images\r\nDuring the All-Star break, I polled you fine readers about starting pitchers and your expectations in the second half. Specifically, the poll pitted the 10\u2026 [+14926 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group",
+      "Performs",
+      "Pitchers",
+      "Credit",
+      "Sam",
+      "Poll",
+      "Review",
+      "Mandatory",
+      "Images",
+      "Specifically"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/applying-for-personal-loan-these-are-the-documents-you-would-require-check-list-here-11759231820218.html",
+    "title": "Applying for personal loan? These are the documents you would require. Check list here",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "Personal loans: To be able to procure loan, it is required to apply with proper documents to the lenders. Typically, banks want to satisfy themselves that you can afford to repay the loan. For this, \u2026 [+2085 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "personal",
+      "Applying",
+      "documents",
+      "loans",
+      "require",
+      "Typically",
+      "Check",
+      "lenders",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7c4b2efaacb58338",
+    "title": "The new Better.com Bank Statement HELOC helps self-employed workers tap into their home equity",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "A streamlined approval process will allow self-employed, small business, and gig workers to qualify for a home equity line of credit up to $400,000 from Better.com. The \"bank statement only\" HELOC wa\u2026 [+150 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Better.com",
+      "HELOC",
+      "home",
+      "equity",
+      "Bank",
+      "Statement",
+      "small",
+      "business",
+      "self-employed",
+      "workers"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8238bd337917d074",
+    "title": "SMEs are the backbone of Mexico\u2019s economy, but it\u2019s time their banking caught up",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "In Mexicos financial system, theres something of a vacuum. The consumer credit industry is booming, but many small and medium-sized enterprises are unable to access adequate banking systems and credi\u2026 [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mexico",
+      "Mexicos",
+      "SMEs",
+      "economy",
+      "vacuum",
+      "chars",
+      "banking",
+      "backbone",
+      "time",
+      "caught"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/926422",
+    "title": "[Prime] $10 Promo Credit on $200 Amazon Gift Card Spend (First 5000 Prime Members) @ Amazon AU",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright \u00a9 2006-2\u2026 [+32 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Prime",
+      "Amazon",
+      "Promo",
+      "Spend",
+      "Members",
+      "Credit",
+      "Gift",
+      "Card",
+      "owners",
+      "respective"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/09/marvel-cancels-2027-movie-release-as-mcu-reset-confirmed-th1/",
+    "title": "Explained: Marvel Cancels 2027 Movie Release as MCU Reset Confirmed",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "Marvel is approaching the most crucial moment in its history, and with another movie cancelled, just where is the billion-dollar franchise headed?\r\nCredit: Marvel Studios\r\nMarvel\u2019s Upcoming Reset\r\nMa\u2026 [+6231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marvel",
+      "Movie",
+      "Cancels",
+      "Release",
+      "MCU",
+      "Confirmed",
+      "Explained",
+      "Reset",
+      "history",
+      "cancelled"
+    ]
+  },
+  {
+    "source": "Africasacountry.com [NewsAPI]",
+    "url": "https://africasacountry.com/2025/09/back-on-track/",
+    "title": "Back on track",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "A Johannesburg-Cape Town high-speed line could turn apartheid\u2019s corridors of extraction into a green spine of connection, industry, and justice.\n\n\n\n \n \n Coal train in South Africa. Image credit David\u2026 [+15388 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "industry",
+      "Town",
+      "Back",
+      "connection",
+      "justice",
+      "Africa",
+      "track",
+      "Johannesburg-Cape",
+      "high-speed",
+      "line"
+    ]
+  },
+  {
+    "source": "Gizmodo.com [NewsAPI]",
+    "url": "https://gizmodo.com/new-electric-vehicle-tax-credit-trump-2000665070",
+    "title": "R.I.P Electric Vehicle Tax Credit. Here\u2019s What Comes Next",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "Dearly beloved, we are gathered here today to celebrate the life of the electric vehicle tax credit.\r\nSigned into law by former President Joe Biden in 2022 as part of the Inflation Reduction Act, for\u2026 [+7337 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Vehicle",
+      "Tax",
+      "Electric",
+      "Dearly",
+      "Act",
+      "chars",
+      "President",
+      "Joe",
+      "Biden"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/better-mortgage-launches-bank-statement-heloc-120041112.html",
+    "title": "The new Better.com Bank Statement HELOC helps self-employed workers tap into their home equity",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "A streamlined approval process will allow self-employed, small business, and gig workers to qualify for a home equity line of credit up to $400,000 from Better.com. The \"bank statement only\" HELOC wa\u2026 [+2663 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Better.com",
+      "HELOC",
+      "home",
+      "equity",
+      "Bank",
+      "Statement",
+      "small",
+      "business",
+      "self-employed",
+      "workers"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/09/disney-world-taste-ride-epcot-bizarre-method-world-showcase-ld1/",
+    "title": "Fans Swear You Can Taste This Popular Disney Ride for Free",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "Some fans claim that you can actually taste a popular Disney World attraction.\r\nCredit: Justin Smith, Flickr\r\nRelated:\u00a0Disney Updates Attraction After Guests Left Stabbed and Bleeding\r\nWhile the Disn\u2026 [+3853 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Popular",
+      "Disney",
+      "Taste",
+      "Swear",
+      "Ride",
+      "Free",
+      "World",
+      "Fans",
+      "attraction",
+      "Justin"
+    ]
+  },
+  {
+    "source": "Retailbankerinternational.com [NewsAPI]",
+    "url": "https://www.retailbankerinternational.com/comment/sme-backbone-of-mexico-economy-time-banking-sector-caught-up/",
+    "title": "SMEs are the backbone of Mexico\u2019s economy, but it\u2019s time their banking caught up",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "In Mexicos financial system, theres something of a vacuum. The consumer credit industry is booming, but many small and medium-sized enterprises are unable to access adequate banking systems and credi\u2026 [+6363 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mexico",
+      "Mexicos",
+      "SMEs",
+      "economy",
+      "vacuum",
+      "chars",
+      "banking",
+      "backbone",
+      "time",
+      "caught"
+    ]
+  },
+  {
+    "source": "The Daily Dot [NewsAPI]",
+    "url": "https://www.dailydot.com/news/scrub-daddy-trade-in/",
+    "title": "Customers are just learning Scrub Daddy will give you $2 for every old sponge you bring back",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "Scrub Daddy superfans just learned theyve been throwing away moneyliterally. The brands Smile Shop in Pennsauken, New Jersey, offers $2 in-store credit for every old sponge customers bring back. Thro\u2026 [+2054 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scrub",
+      "Daddy",
+      "moneyliterally",
+      "sponge",
+      "bring",
+      "back",
+      "Pennsauken",
+      "Jersey",
+      "offers",
+      "Customers"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/base-carbon-to-receive-carbon-credits-under-corsia-approved-vm0050-methodology",
+    "title": "Base Carbon to Receive Carbon Credits Under CORSIA Approved VM0050 Methodology",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "About Base Carbon\u00a0\r\nBase Carbon is a financier of projects involved primarily in the global voluntary carbon markets. We endeavor to be the preferred carbon project partner in providing capital and m\u2026 [+4580 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Base",
+      "Carbon",
+      "Approved",
+      "Methodology",
+      "Receive",
+      "Credits",
+      "CORSIA",
+      "markets",
+      "financier",
+      "involved"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/09/30/3158476/0/en/Base-Carbon-to-Receive-Carbon-Credits-Under-CORSIA-Approved-VM0050-Methodology.html",
+    "title": "Base Carbon to Receive Carbon Credits Under CORSIA Approved VM0050 Methodology",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "TORONTO, Sept. 30, 2025 (GLOBE NEWSWIRE) -- Base Carbon Inc. (Cboe CA: BCBN) (OTCQX: BCBNF) with operations through its wholly-owned subsidiary, Base Carbon Capital Partners Corp. (BCCPC, together, w\u2026 [+9867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Base",
+      "Carbon",
+      "Sept.",
+      "Approved",
+      "Methodology",
+      "TORONTO",
+      "GLOBE",
+      "NEWSWIRE",
+      "Receive",
+      "Credits"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8252c054c919519f",
+    "title": "Carmakers Ford and GM launch programs to extend use of American EV lease credit",
+    "fetched_on": "2025-10-01T12:43:33.638939+00:00",
+    "content": "Carmakers Ford and GM launch programs to extend use of American EV lease creditDealers predict EV sales will plummet without subsidyFord and General Motors are racing to sign up car dealers for progr\u2026 [+133 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ford",
+      "American",
+      "Carmakers",
+      "launch",
+      "programs",
+      "extend",
+      "chars",
+      "General",
+      "Motors",
+      "lease"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/10/01/groceries-and-gas-top-consumers-pain-points.html",
+    "title": "Consumers' top purchase pain points: groceries and gas, new report finds",
+    "fetched_on": "2025-10-01T12:43:57.915878+00:00",
+    "content": "Consumers are increasingly leaning on credit cards to buy essentials like gas and groceries, according to a new report by TD Bank.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Consumers",
+      "report",
+      "Consumers'",
+      "points",
+      "groceries",
+      "gas",
+      "top",
+      "purchase",
+      "pain"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/wife-now-afford-pay-off-120000535.html",
+    "title": "My wife and I can now afford to pay off our $483K mortgage \u2014 but should we? What to weigh before killing your loan",
+    "fetched_on": "2025-10-01T12:43:58.264755+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "mortgage",
+      "wife",
+      "afford",
+      "pay",
+      "loan",
+      "weigh",
+      "killing"
     ]
   }
 ]
