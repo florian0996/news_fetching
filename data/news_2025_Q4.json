@@ -1345,5 +1345,105 @@
       "soul",
       "spent"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-01/india-s-rbi-raises-ipo-loan-limits-in-boost-for-new-listings",
+    "title": "India’s RBI Raises IPO Loan Limits in Boost for New Listings",
+    "fetched_on": "2025-10-01T07:20:50.665595+00:00",
+    "content": "India’s equity capital market, one of the busiest globally for new listings, got a boost as the nation’s banking regulator relaxed rules on loans to investors participating in initial public offerings.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Listings",
+      "Boost",
+      "RBI",
+      "Raises",
+      "IPO",
+      "Limits",
+      "market",
+      "offerings",
+      "Loan"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-01/jpmorgan-expands-uk-retail-offering-with-diy-investment-platform",
+    "title": "JPMorgan Expands UK Retail Offering With DIY Investment Platform",
+    "fetched_on": "2025-10-01T07:20:51.797430+00:00",
+    "content": "JPMorgan Chase &amp; Co. will launch a new retail investment platform in the UK next year, a move that will see it compete more directly with the likes of Hargreaves Lansdown Ltd., Interactive Investor Ltd. and AJ Bell Plc.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chase",
+      "Interactive",
+      "Plc",
+      "Ltd.",
+      "Investment",
+      "Platform",
+      "Retail",
+      "Expands",
+      "Offering",
+      "DIY"
+    ]
+  },
+  {
+    "source": "Naftemporiki.gr [NewsAPI]",
+    "url": "https://www.naftemporiki.gr/english/2012941/banks-over-20-billion-euros-in-business-loan-disbursements-in-eight-months/",
+    "title": "Banks: Over 20 billion euros in business loan disbursements in eight months",
+    "fetched_on": "2025-10-01T07:20:49.798424+00:00",
+    "content": "The Greek banking system is in a position to further strengthen healthy entrepreneurship in all sectors and all businesses, from the smallest to the largest, supporting growth with one of the highest… [+1551 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks",
+      "chars",
+      "Greek",
+      "billion",
+      "businesses",
+      "largest",
+      "supporting",
+      "highest",
+      "euros",
+      "business"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b2bb0cc61f29785b",
+    "title": "Ford, GM launch programs to extend use of $7,500 EV lease credit",
+    "fetched_on": "2025-10-01T07:20:49.798424+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the US government shutdown looming? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's tariffs affec… [+777 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Ford",
+      "return",
+      "false",
+      "credit",
+      "looming",
+      "chars",
+      "launch"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/bank-credit-costs-likely-to-decline-in-h2fy26-near-term-slippages-to-remain-elevated-ubs/article70111861.ece",
+    "title": "Bank credit costs likely to decline in H2FY26, near-term slippages to remain elevated: UBS",
+    "fetched_on": "2025-10-01T07:20:49.798424+00:00",
+    "content": "Credit costs in Indian banks are expected to continue in declining trend in the second half of the current financial year 2025, though near-term slippages are likely to remain elevated, according to … [+1823 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "elevated",
+      "credit",
+      "remain",
+      "UBS",
+      "costs",
+      "near-term",
+      "slippages",
+      "chars",
+      "Indian",
+      "year"
+    ]
   }
 ]
