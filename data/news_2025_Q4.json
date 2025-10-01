@@ -778,5 +778,125 @@
       "eligibility",
       "advocates"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/926346",
+    "title": "$5 Cashback When You Spend $50 or More in One Transaction at Liquorland @ NAB Goodies",
+    "fetched_on": "2025-10-01T03:12:16.934487+00:00",
+    "content": "Claim this offer\r\n<ol><li>Shop with participating merchants.</li><li>Pay with your active (used to make a purchase in the last 30 days) NAB personal Visa debit card, credit card or NAB Now Pay Later … [+370 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NAB",
+      "Pay",
+      "Cashback",
+      "Spend",
+      "Liquorland",
+      "Shop",
+      "days",
+      "chars",
+      "Transaction",
+      "Goodies"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/tesla-scrambles-change-advertising-sudden-024500137.html",
+    "title": "Tesla scrambles to change advertising after sudden change to purchase rules — here's what you need to know",
+    "fetched_on": "2025-10-01T03:12:16.934487+00:00",
+    "content": "Thanks to an adjusted IRS rule, those shopping for a new electric vehicle still have a little time left to lock in thousands of dollars in savings.\r\nThe $7,500 federal EV tax credit is set to expire … [+2030 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "change",
+      "IRS",
+      "rules",
+      "rule",
+      "Tesla",
+      "savings",
+      "scrambles",
+      "advertising",
+      "sudden",
+      "purchase"
+    ]
+  },
+  {
+    "source": "SciTechDaily [NewsAPI]",
+    "url": "https://scitechdaily.com/scientists-warn-common-vitamin-d-supplement-has-previously-unknown-negative-effect/",
+    "title": "Scientists Warn: Common Vitamin D Supplement Has “Previously Unknown” Negative Effect",
+    "fetched_on": "2025-10-01T03:12:16.934487+00:00",
+    "content": "Scientists discovered that vitamin D2, often taken to meet daily health recommendations, may actually lower the body’s levels of vitamin D3. Credit: Stock\r\nA new study shows that vitamin D2 may reduc… [+4068 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scientists",
+      "Warn",
+      "Common",
+      "Previously",
+      "Unknown",
+      "Negative",
+      "Vitamin",
+      "Supplement",
+      "Effect",
+      "recommendations"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-tweaks-rules-for-small-business-loans-expands-lending-against-gold/article70111493.ece",
+    "title": "RBI tweaks rules for small business loans, expands lending against gold",
+    "fetched_on": "2025-10-01T03:12:16.934487+00:00",
+    "content": "The Reserve Bank of India (RBI) tweaked rules for small business loans, allowing the spread charged for the credit risk of a borrower to be adjusted more frequently.\r\nIt also allowed banks more flexi… [+1027 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "loans",
+      "India",
+      "small",
+      "business",
+      "Reserve",
+      "rules",
+      "expands",
+      "tweaked",
+      "allowing"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20250930VL210/imec-ceo-chairman-2026.html",
+    "title": "imec appoints Patrick Vandenameele as next CEO, Luc Van den hove to become chairman",
+    "fetched_on": "2025-10-01T03:12:16.934487+00:00",
+    "content": "imec CEO Luc Van den hove. Credit: DIGITIMESThe Board of Directors of imec, a research and innovation hub in nanoelectronics and digital technologies, has appointed Patrick Vandenameele as the organi… [+95 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Van",
+      "Luc",
+      "CEO",
+      "Vandenameele",
+      "den",
+      "Patrick",
+      "hove",
+      "imec",
+      "appoints",
+      "chairman"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-tweaks-rules-for-small-business-loans-loans-against-gold/articleshow/124223644.cms",
+    "title": "RBI tweaks rules for small business loans, loans against gold",
+    "fetched_on": "2025-10-01T03:12:16.934487+00:00",
+    "content": "The Reserve Bank of India (RBI) tweaked rules for small business loans, allowing the spread charged for the credit risk of a borrower to be adjusted more frequently. It also allowed banks more flexib… [+961 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "India",
+      "small",
+      "business",
+      "loans",
+      "Reserve",
+      "rules",
+      "tweaked",
+      "allowing",
+      "frequently"
+    ]
   }
 ]
