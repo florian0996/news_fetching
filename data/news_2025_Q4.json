@@ -11006,5 +11006,124 @@
       "tax",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-02/tesla-sales-jump-ahead-of-expiring-ev-incentive-video",
+    "title": "Tesla Sales Jump Ahead of Expiring EV Incentive",
+    "fetched_on": "2025-10-02T19:15:26.216973+00:00",
+    "content": "Cox Automotive Research and Development Director Stephanie Valdez Streaty discusses Tesla’s sales growth in the third quarter and how the end of US electric vehicle tax credits will impact car sales broadly. She joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sales",
+      "Tesla",
+      "Jump",
+      "Ahead",
+      "Expiring",
+      "Incentive",
+      "Cox",
+      "Automotive",
+      "Research",
+      "Development"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-02/first-brands-fallout-exposes-risks-of-lending-private-credit",
+    "title": "First Brands’ Fallout Exposes Risks of Lending Private Credit",
+    "fetched_on": "2025-10-02T19:15:26.763291+00:00",
+    "content": "Since First Brands Group filed for bankruptcy with over $10 billion of liabilities, the market has been focused on blows to its broadly syndicated investors and trade finance providers. Some of the debt has plunged to around 36 cents on the dollar, with investors facing hundreds of millions of dollars of losses.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brands’",
+      "Fallout",
+      "Exposes",
+      "Risks",
+      "Lending",
+      "Private",
+      "Credit",
+      "Brands",
+      "Group",
+      "billion"
+    ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/10/01/2026-hyundai-ioniq-5-gets-big-price-cut-starts-at-35000/",
+    "title": "The 2026 Hyundai IONIQ 5 gets a big price cut and now starts at just $35,000",
+    "fetched_on": "2025-10-02T19:15:25.656336+00:00",
+    "content": "Although the $7,500 EV tax credit has expired, Hyundai is keeping the savings going. Hyundai is reducing 2026 IONIQ 5 prices by nearly $10,000, while extending the tax credit for the current model ye… [+3806 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hyundai",
+      "IONIQ",
+      "tax",
+      "credit",
+      "expired",
+      "big",
+      "cut",
+      "starts",
+      "keeping",
+      "savings"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/how-much-does-70000-home-equity-loan-cost-per-month-after-the-fed-cut-rates/",
+    "title": "How much does a $70,000 home equity loan cost per month after the Fed cut rates?",
+    "fetched_on": "2025-10-02T19:15:25.656336+00:00",
+    "content": "Homeowners should carefully calculate their potential monthly costs before borrowing with a home equity loan.\r\nthianchai sitthikongsak/Getty Images\r\nAn interest rate cut courtesy of the Federal Reser… [+3717 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "equity",
+      "home",
+      "loan",
+      "month",
+      "Getty",
+      "Reser",
+      "cut",
+      "chars",
+      "Images"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=179617484",
+    "title": "Ford and GM are buying their own EVs to keep the $7500 tax credit alive - The Verge",
+    "fetched_on": "2025-10-02T19:15:25.656336+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Print",
+      "Verge",
+      "Fine",
+      "Ford",
+      "tax",
+      "alive",
+      "buying",
+      "EVs",
+      "credit",
+      "comments"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/move-over-state-street-jpmorgan-100500430.html",
+    "title": "Move Over State Street. JPMorgan Becomes Latest to File for Private Credit ETF",
+    "fetched_on": "2025-10-02T19:15:47.456098+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Street",
+      "State",
+      "Move",
+      "ETF",
+      "Latest",
+      "File",
+      "Private",
+      "Credit",
+      "JPMorgan"
+    ]
   }
 ]
