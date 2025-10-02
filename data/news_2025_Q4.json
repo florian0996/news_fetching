@@ -11702,5 +11702,65 @@
       "chars",
       "dont"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-02/first-brands-lenders-hand-lifeline-to-effectively-a-black-box",
+    "title": "First Brands Lenders Hand Lifeline to ‘Effectively a Black Box’",
+    "fetched_on": "2025-10-02T23:17:55.442083+00:00",
+    "content": "First Brands Group lenders burned by the auto parts supplier’s use of off-balance-sheet financing quickly assembled a $1.1 billion emergency lifeline to prevent the business from completely unraveling. But to pull it off their lawyer said the firms had to forgo the amount of diligence they’d normally require for such a sizable loan.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brands",
+      "Lifeline",
+      "Lenders",
+      "Effectively",
+      "Hand",
+      "Black",
+      "Box’",
+      "Group",
+      "financing",
+      "billion"
+    ]
+  },
+  {
+    "source": "The Daily Dot [NewsAPI]",
+    "url": "https://www.dailydot.com/news/ford-f-150-trucks/",
+    "title": "Is Ford struggling to sell its F-150 trucks? Budget expert suggests now is the time for people with low credit scores to purchase one",
+    "fetched_on": "2025-10-02T23:17:55.005276+00:00",
+    "content": "Ford is extending special financing rates typically reserved for borrowers with excellent credit to those with subprime credit scores in an effort to move F-150 trucks off dealer lots. \r\nThe unusual … [+4824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ford",
+      "trucks",
+      "credit",
+      "struggling",
+      "sell",
+      "scores",
+      "chars",
+      "Budget",
+      "move",
+      "lots"
+    ]
+  },
+  {
+    "source": "Deadline [NewsAPI]",
+    "url": "https://deadline.com/gallery/greys-anatomy-season-22-cast-photos-abc/",
+    "title": "‘Grey’s Anatomy’ Season 22 Cast Photos & Episode Release Guide For ABC Drama",
+    "fetched_on": "2025-10-02T23:17:55.005276+00:00",
+    "content": "Grey’s Anatomy returns to ABC on Thursday, October 9, with the Season 22 premiere at 10 p.m. ET/PT.\r\nThe long-running medical drama follows a team of doctors at Grey Sloan Memorial, who face life-or-… [+3596 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "October",
+      "ABC",
+      "Cast",
+      "Photos",
+      "Episode",
+      "Thursday",
+      "Grey",
+      "Anatomy’",
+      "Release"
+    ]
   }
 ]
