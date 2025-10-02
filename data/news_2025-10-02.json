@@ -344,7 +344,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-02T19:15:44.856639+00:00",
+    "fetched_on": "2025-10-02T20:22:01.652934+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -361,30 +361,30 @@
     ]
   },
   {
-    "source": "CNBC Top News [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2025/10/01/you-still-have-to-pay-student-loans-during-government-shutdown.html",
     "title": "Yes, you still have to pay your student loans during the government shutdown",
-    "fetched_on": "2025-10-02T19:15:46.500078+00:00",
-    "content": "After Congress failed to reach a funding agreement, the U.S. government officially shut down on Oct. 1.",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "The U.S. government officially shut down on Oct. 1 as Congressional leaders failed to reach an agreement on short-term funding after the end of September, which means many \"nonessential\" federally fu\u2026 [+3330 chars]",
     "platforms_mentioned": [],
     "keywords": [
+      "nonessential",
+      "chars",
       "Oct.",
-      "Congress",
-      "agreement",
+      "September",
+      "Congressional",
       "government",
+      "federally",
       "pay",
       "student",
-      "loans",
-      "shutdown",
-      "failed",
-      "reach"
+      "loans"
     ]
   },
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/government-shutdown-student-loan-borrowers.html",
     "title": "Government shutdown blocks student loan borrowers from forgiveness, repayment plans",
-    "fetched_on": "2025-10-02T19:15:47.223214+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586378+00:00",
     "content": "The shutdown of the federal government could worsen the problems student loan borrowers are facing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -404,7 +404,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-02T19:15:46.884354+00:00",
+    "fetched_on": "2025-10-02T20:22:04.292438+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -424,7 +424,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-02T19:15:46.884361+00:00",
+    "fetched_on": "2025-10-02T20:22:04.292445+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -444,7 +444,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-10-02T19:15:46.884390+00:00",
+    "fetched_on": "2025-10-02T20:22:04.292473+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -464,7 +464,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-10-02T19:15:46.884404+00:00",
+    "fetched_on": "2025-10-02T20:22:04.292487+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -484,7 +484,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
     "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
-    "fetched_on": "2025-10-02T19:15:47.074813+00:00",
+    "fetched_on": "2025-10-02T20:22:04.459870+00:00",
     "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -504,7 +504,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/groceries-and-gas-top-consumers-pain-points.html",
     "title": "Consumers' top purchase pain points: groceries and gas, new report finds",
-    "fetched_on": "2025-10-02T19:15:47.223222+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586385+00:00",
     "content": "Consumers are increasingly leaning on credit cards to buy essentials like gas and groceries, according to a new report by TD Bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -524,7 +524,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/aca-premiums-to-more-than-double-without-enhanced-subsidies.html",
     "title": "Affordable Care Act premiums will rise 114% if enhanced subsidies expire, health policy researcher finds",
-    "fetched_on": "2025-10-02T19:15:47.223252+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586415+00:00",
     "content": "The federal government may shut down if Congress can't reach a deal about enhanced premium tax credits, slated to expire at the end of 2025.",
     "platforms_mentioned": [],
     "keywords": [
@@ -544,7 +544,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/student-loan-borrowers-tax-refunds-seized.html",
     "title": "Trump officials may be seizing student loan borrowers' tax refunds 'without required notice': Lawmakers",
-    "fetched_on": "2025-10-02T19:15:47.223274+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586437+00:00",
     "content": "Lawmakers say the Trump administration may be \"improperly\" seizing defaulted student borrowers' tax refunds by failing to provide the required notice.",
     "platforms_mentioned": [],
     "keywords": [
@@ -564,7 +564,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
     "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
-    "fetched_on": "2025-10-02T19:15:47.223303+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586465+00:00",
     "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -584,7 +584,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
     "title": "Ahead of EV tax credit deadline, IRS delays create 'anxiety' for car dealers",
-    "fetched_on": "2025-10-02T19:15:47.223309+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586472+00:00",
     "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
     "platforms_mentioned": [],
     "keywords": [
@@ -604,7 +604,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
     "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
-    "fetched_on": "2025-10-02T19:15:47.223338+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586501+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -624,7 +624,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
     "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
-    "fetched_on": "2025-10-02T19:15:47.223400+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586564+00:00",
     "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here\u2019s what to consider before signing up.",
     "platforms_mentioned": [],
     "keywords": [
@@ -644,7 +644,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/20/how-the-20-4-10-car-shopping-rule-works.html",
     "title": "Car shoppers \u2014 following one rule can help keep costs down, CFP says",
-    "fetched_on": "2025-10-02T19:15:47.223408+00:00",
+    "fetched_on": "2025-10-02T20:22:04.586571+00:00",
     "content": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1380,7 +1380,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/borrowers-face-funding-trade-off-as-pimco-flags-debt-market-cracks.html",
     "title": "Corporate borrowers face funding trade-off as PIMCO flags debt market 'cracks'",
-    "fetched_on": "2025-10-02T19:15:46.761739+00:00",
+    "fetched_on": "2025-10-02T20:22:03.962062+00:00",
     "content": "The president of bond giant PIMCO highlighted direct lending pressures as borrowers seek out payment-in-kind agreements.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2510,23 +2510,23 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/ev-sales-surged-17-7-110000587.html",
     "title": "EV sales surged 17.7% in August as drivers raced to buy before a popular tax credit expired \u2014 how to still snag a deal",
-    "fetched_on": "2025-10-02T11:16:00.676259+00:00",
-    "content": "For anyone whos planning on buying an electric vehicle in the near future, weve got some good news and some bad news to share.\r\nLets start with the bad news: the federal EV tax credit which offered $\u2026 [+5211 chars]",
+    "fetched_on": "2025-10-02T20:22:05.144556+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "August",
       "surged",
       "expired",
-      "future",
-      "weve",
-      "share",
-      "tax",
-      "credit",
-      "bad",
-      "sales"
+      "deal",
+      "sales",
+      "drivers",
+      "raced",
+      "buy",
+      "popular",
+      "tax"
     ]
   },
   {
@@ -2830,23 +2830,20 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/wife-now-afford-pay-off-120000535.html",
     "title": "My wife and I can now afford to pay off our $483K mortgage \u2014 but should we? What to weigh before killing your loan",
-    "fetched_on": "2025-10-02T12:39:50.285722+00:00",
-    "content": "For many homeowners, the idea of living debt-free is irresistible. Imagine wiping out your largest monthly bill and freeing up thousands of dollars in cash flow.\r\nThats the choice facing one couple. \u2026 [+4353 chars]",
+    "fetched_on": "2025-10-02T20:22:05.144347+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "mortgage",
       "wife",
       "afford",
       "pay",
-      "chars",
-      "homeowners",
-      "irresistible",
-      "Imagine",
-      "flow",
-      "weigh"
+      "loan",
+      "weigh",
+      "killing"
     ]
   },
   {
@@ -3392,7 +3389,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/tesla-tsla-q3-2025-vehicle-delivery-production.html",
     "title": "Tesla deliveries rise 7% before EV tax credits expire",
-    "fetched_on": "2025-10-02T19:15:46.761641+00:00",
+    "fetched_on": "2025-10-02T20:22:03.961974+00:00",
     "content": "Tesla's third-quarter deliveries got a boost as some consumers rush to buy electric vehicles before a federal tax credit expired.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3472,7 +3469,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-02/tesla-sales-surge-just-before-us-tax-credit-expires-video",
     "title": "Tesla Sales Surge Just Before US Tax Credit Expires",
-    "fetched_on": "2025-10-02T19:15:26.550862+00:00",
+    "fetched_on": "2025-10-02T20:21:36.503182+00:00",
     "content": "Tesla Inc. reported a surprise surge in US quarterly sales just before federal tax credits were about to expire. The company delivered a record 497,099 vehicles worldwide during the third quarter, up 7.4% from a year ago. The Bloomberg estimate was for about 439,600 in sales. Bloomberg's Ed Ludlow reports. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -4664,7 +4661,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/newsletters/2025-10-02/credit-markets-are-buzzing-and-mark-okada-is-weighing-signals-versus-noise",
     "title": "Credit Markets Are Buzzing, and Mark Okada Is\u00a0Weighing\u00a0Signal\u00a0Versus Noise",
-    "fetched_on": "2025-10-02T19:15:26.445355+00:00",
+    "fetched_on": "2025-10-02T20:21:36.163650+00:00",
     "content": "<p>If the dollar takes another downward leg, he says, \u2018we\u2019re in for some trouble\u2019</p>",
     "platforms_mentioned": [],
     "keywords": [
@@ -5042,7 +5039,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/fico-provider-is-shaking-up-its-credit-score-business-its-stock-is-surging.html",
     "title": "FICO provider is shaking up its credit score business. Its stock is surging",
-    "fetched_on": "2025-10-02T19:15:46.761618+00:00",
+    "fetched_on": "2025-10-02T20:22:03.961951+00:00",
     "content": "The company announced a new pricing model that will allow mortgage lenders to bypass credit bureaus for credit scores.",
     "platforms_mentioned": [],
     "keywords": [
@@ -5061,8 +5058,8 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/university-of-texas-boosts-two-loan-programs-43-to-2-5-billion",
-    "title": "University of Texas Boosts Two Loan Programs 43% to $2.5 Billion",
-    "fetched_on": "2025-10-02T19:15:26.217044+00:00",
+    "title": "University of Texas Boosts Loan Programs 43% to $2.5 Billion",
+    "fetched_on": "2025-10-02T20:21:35.561114+00:00",
     "content": "The University of Texas System increased part of its short-term lending program to $2.5 billion, boosting the capacity of two of its commercial paper series by more than 40%.",
     "platforms_mentioned": [],
     "keywords": [
@@ -5082,7 +5079,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/ubs-funds-face-half-billion-dollar-exposure-to-first-brands",
     "title": "UBS Funds Face $500 Million Exposure in First Brands Bankruptcy",
-    "fetched_on": "2025-10-02T19:15:26.763319+00:00",
+    "fetched_on": "2025-10-02T20:21:37.098983+00:00",
     "content": "Funds under the UBS Group AG umbrella face more than half a billion dollars of exposure to bankrupt auto-parts supplier First Brands Group through various investment strategies, with one ranking as the biggest unsecured creditor, court documents show.",
     "platforms_mentioned": [],
     "keywords": [
@@ -5567,7 +5564,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-fha-lenders-164715723.html",
     "title": "Best FHA loan lenders of October 2025",
-    "fetched_on": "2025-10-02T19:15:47.514634+00:00",
+    "fetched_on": "2025-10-02T20:22:05.144635+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -5581,7 +5578,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-va-loan-lenders-182919054.html",
     "title": "The best VA loan lenders of October 2025",
-    "fetched_on": "2025-10-02T19:15:47.514690+00:00",
+    "fetched_on": "2025-10-02T20:22:05.144660+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -5594,7 +5591,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-mortgage-lenders-for-bad-credit-215040123.html",
     "title": "Best mortgage lenders for bad credit this month",
-    "fetched_on": "2025-10-02T19:15:47.514706+00:00",
+    "fetched_on": "2025-10-02T20:22:05.144683+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -5609,7 +5606,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/banking/article/government-shutdown-money-153356710.html",
     "title": "How the government shutdown impacts your money: student loans, Social Security, investments, and more",
-    "fetched_on": "2025-10-02T19:15:47.514783+00:00",
+    "fetched_on": "2025-10-02T20:22:05.144604+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -5628,7 +5625,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-02/tesla-sales-jump-ahead-of-expiring-ev-incentive-video",
     "title": "Tesla Sales Jump Ahead of Expiring EV Incentive",
-    "fetched_on": "2025-10-02T19:15:26.216973+00:00",
+    "fetched_on": "2025-10-02T20:21:35.561222+00:00",
     "content": "Cox Automotive Research and Development Director Stephanie Valdez Streaty discusses Tesla\u2019s sales growth in the third quarter and how the end of US electric vehicle tax credits will impact car sales broadly. She joins Caroline Hyde and Ed Ludlow on \u201cBloomberg Tech.\u201d (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -5648,7 +5645,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/first-brands-fallout-exposes-risks-of-lending-private-credit",
     "title": "First Brands\u2019 Fallout Exposes Risks of Lending Private Credit",
-    "fetched_on": "2025-10-02T19:15:26.763291+00:00",
+    "fetched_on": "2025-10-02T20:21:37.098964+00:00",
     "content": "Since First Brands Group filed for bankruptcy with over $10 billion of liabilities, the market has been focused on blows to its broadly syndicated investors and trade finance providers. Some of the debt has plunged to around 36 cents on the dollar, with investors facing hundreds of millions of dollars of losses.",
     "platforms_mentioned": [],
     "keywords": [
@@ -5668,7 +5665,7 @@
     "source": "Electrek [NewsAPI]",
     "url": "http://electrek.co/2025/10/01/2026-hyundai-ioniq-5-gets-big-price-cut-starts-at-35000/",
     "title": "The 2026 Hyundai IONIQ 5 gets a big price cut and now starts at just $35,000",
-    "fetched_on": "2025-10-02T19:15:25.656336+00:00",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
     "content": "Although the $7,500 EV tax credit has expired, Hyundai is keeping the savings going. Hyundai is reducing 2026 IONIQ 5 prices by nearly $10,000, while extending the tax credit for the current model ye\u2026 [+3806 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -5688,7 +5685,7 @@
     "source": "CBS News [NewsAPI]",
     "url": "https://www.cbsnews.com/news/how-much-does-70000-home-equity-loan-cost-per-month-after-the-fed-cut-rates/",
     "title": "How much does a $70,000 home equity loan cost per month after the Fed cut rates?",
-    "fetched_on": "2025-10-02T19:15:25.656336+00:00",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
     "content": "Homeowners should carefully calculate their potential monthly costs before borrowing with a home equity loan.\r\nthianchai sitthikongsak/Getty Images\r\nAn interest rate cut\u00a0courtesy of the Federal Reser\u2026 [+3717 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -5741,6 +5738,286 @@
       "Private",
       "Credit",
       "JPMorgan"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-02/philadelphia-agency-eyes-us-loan-to-replace-trains-after-fires",
+    "title": "Philadelphia Agency Eyes US Loan to Replace Trains After Fires",
+    "fetched_on": "2025-10-02T20:21:35.561108+00:00",
+    "content": "Philadelphia\u2019s transit system may seek a loan from the US government to buy new commuter trains after a rash of fires this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trains",
+      "Philadelphia",
+      "Loan",
+      "Fires",
+      "Agency",
+      "Eyes",
+      "Replace",
+      "year",
+      "transit",
+      "system"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-02/americanas-like-events-threaten-brazil-debt-markets-fitch-says",
+    "title": "Americanas-Like Events Threaten Brazil Debt Markets, Fitch Says",
+    "fetched_on": "2025-10-02T20:21:35.561133+00:00",
+    "content": "Brazilian companies may face tighter liquidity ahead as a series of credit events rattles local debt markets, Fitch Ratings said.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Markets",
+      "Fitch",
+      "Debt",
+      "Events",
+      "Threaten",
+      "Brazil",
+      "Brazilian",
+      "Ratings",
+      "Americanas-Like",
+      "companies"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-10-02/credit-edge-clos-are-tough-to-blow-up-crescent-says",
+    "title": "Credit Edge: CLOs Are Tough to Blow Up, Crescent Says",
+    "fetched_on": "2025-10-02T20:21:36.163575+00:00",
+    "content": "Collateralized loan obligations, particularly those backed by middle-market borrowers, are a growing opportunity for investors, according to Crescent Capital Group. \u201cYou have to work really hard to blow those structures up,\u201d said John Fekete, the company\u2019s head of tradeable credit, speaking of CLOs generally. Middle-market deals will make up a \u201clarger and larger percentage of CLO issuance,\u201d he tells Bloomberg News\u2019 James Crombie and Bloomberg Intelligence\u2019s Jody Lurie in the latest episode of th",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crescent",
+      "Edge",
+      "Group",
+      "Tough",
+      "Collateralized",
+      "Capital",
+      "Blow",
+      "obligations",
+      "borrowers",
+      "investors"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-02/bloomberg-tech-10-2-2025-video",
+    "title": "OpenAI Becomes World\u2019s Largest Startup | Bloomberg Tech 10/2/2025",
+    "fetched_on": "2025-10-02T20:21:36.503107+00:00",
+    "content": "Bloomberg\u2019s Caroline Hyde and Ed Ludlow discuss OpenAI becoming the largest startup after it closed a deal allowing current and former employees to sell shares at a $500 billion valuation. Plus, Tesla's vehicle sales jumped to a worldwide record in the third quarter as US buyers got in before US tax credits expired. And Microsoft has inked more than $33 billion in commitments to neocloud providers, as it aims to cope with a shortage of AI data center capacity. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Largest",
+      "Startup",
+      "Tech",
+      "Bloomberg",
+      "World",
+      "Caroline",
+      "Hyde",
+      "Ludlow",
+      "OpenAI",
+      "valuation"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=179618648",
+    "title": "Utah-based leasing giant challenges First Brands rescue loan - Financial Times",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Financial",
+      "Print",
+      "Brands",
+      "Times",
+      "Fine",
+      "Utah-based",
+      "loan",
+      "leasing",
+      "giant",
+      "challenges"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d5c5f0f9061b930d",
+    "title": "Strategy\u2019s Saylor Touts Bitcoin-Backed Credit Products",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "Michael Saylor, MicroStrategy's executive chairman, says the company's new digital credit product Stretch strips away volatility ...\r\nThis story appeared on youtube.com, 2025-10-01 19:55:02.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Saylor",
+      "Credit",
+      "Touts",
+      "Michael",
+      "Stretch",
+      "Products",
+      "product",
+      "Strategy",
+      "MicroStrategy",
+      "chairman"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/01/3159923/8911/en/Alico-Inc-Announces-Amendment-to-its-Revolving-Line-of-Credit-with-MetLife.html",
+    "title": "Alico, Inc. Announces Amendment to its Revolving Line of Credit with MetLife",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "FORT MYERS, Fla., Oct. 01, 2025 (GLOBE NEWSWIRE) -- Alico, Inc. (Alico or the Company) (Nasdaq: ALCO) today announced that effective September 29, 2025, it has amended its Credit Agreement (the Amend\u2026 [+6735 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alico",
+      "Fla.",
+      "Oct.",
+      "Credit",
+      "Nasdaq",
+      "ALCO",
+      "MYERS",
+      "GLOBE",
+      "NEWSWIRE",
+      "Amendment"
+    ]
+  },
+  {
+    "source": "The Denver Post [NewsAPI]",
+    "url": "https://www.denverpost.com/2025/10/01/rockies-fire-bill-schmidt-walker-monfort-team-president-renck/",
+    "title": "Renck: Nothing will change with Rockies if next baseball president, GM don\u2019t have autonomy",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "Bill Schmidt worked 26 years for the Rockies. His resignation Wednesday came 25 years too late.\r\nDon\u2019t credit the Rockies for doing the right thing by forcing him out as general manager. Wait until t\u2026 [+5522 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rockies",
+      "Bill",
+      "Schmidt",
+      "Renck",
+      "years",
+      "president",
+      "worked",
+      "n\u2019t",
+      "change",
+      "baseball"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=179618464",
+    "title": "How automakers are reacting to the end of the $7,500 EV tax credit - Ars Technica",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ars",
+      "Print",
+      "Technica",
+      "Fine",
+      "credit",
+      "automakers",
+      "reacting",
+      "end",
+      "tax",
+      "comments"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/rbi-to-ease-norms-for-banks-corporate-exposure-via-market-securities-to-repeal-earlier-framework-11759328317532.html",
+    "title": "RBI to ease norms for banks\u2019 corporate exposure via market securities, to repeal earlier framework",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "Mumbai: The Reserve Bank of India (RBI) on Wednesday proposed to withdraw its August 2016 framework on Enhancing Credit Supply for Large Borrowers through Market Mechanism.\r\nThe framework originally \u2026 [+3751 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Mumbai",
+      "India",
+      "August",
+      "Mechanism",
+      "market",
+      "Reserve",
+      "Bank",
+      "Wednesday",
+      "Enhancing"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4343759/posts",
+    "title": "NGC 6960: The Witch's Broom Nebula",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "Skip to comments.\r\nNGC 6960: The Witch's Broom NebulaNASA ^\r\n | 1 Oct, 2025\r\n | Image Credit &amp; Copyright: Brian Meyers\r\nPosted on 10/01/2025 12:35:08 PM PDT by MtnClimber\r\nExplanation: Ten thousa\u2026 [+2298 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NGC",
+      "Witch",
+      "Broom",
+      "Nebula",
+      "Skip",
+      "Oct",
+      "Copyright",
+      "comments",
+      "Image",
+      "Credit"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/01/3159897/0/en/255-Payday-Loans-Online-Same-Day-Instant-Funding-To-Debit-Card-No-Credit-Check-Radiant-Cash-Launches-Direct-Lenders-Only-Guaranteed-Approval-Service.html",
+    "title": "$255 Payday Loans Online Same Day Instant Funding To Debit Card No Credit Check - Radiant Cash Launches Direct Lenders Only Guaranteed Approval Service",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "Las Vegas, NV, Oct. 01, 2025 (GLOBE NEWSWIRE) -- Radiant Cash has launched a comprehensive $255 payday loans online same day deposit platform designed to provide instant financial relief for US citiz\u2026 [+12333 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Radiant",
+      "Payday",
+      "Oct.",
+      "Loans",
+      "Online",
+      "Cash",
+      "chars",
+      "Check",
+      "Vegas",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18652465-ymmv-verizon-access-get-15-fandango-movie-credit-or-15-fandango-at-home-credit",
+    "title": "YMMV: Verizon Access: Get $15 Fandango movie credit or $15 Fandango at home credit",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor\u2026 [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fandango",
+      "YMMV",
+      "Verizon",
+      "Access",
+      "tips",
+      "credit",
+      "information",
+      "post",
+      "movie",
+      "home"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/sault-ste-marie-mp-says-algoma-steel-loans-absolutely-critical-to-its-survival",
+    "title": "Sault Ste. Marie MP says Algoma Steel loans \u2018absolutely critical\u2019 to its survival",
+    "fetched_on": "2025-10-02T20:21:34.658049+00:00",
+    "content": "OTTAWA The member of Parliament for Sault Ste. Marie and the Algoma region said Wednesday U.S. President Donald Trump tried to wipe Algoma Steel off the map with his punishing tariffs.\r\nTHIS CONTENT \u2026 [+4228 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ste",
+      "Algoma",
+      "Sault",
+      "Steel",
+      "Marie",
+      "OTTAWA",
+      "Parliament",
+      "Wednesday",
+      "President",
+      "CONTENT"
     ]
   }
 ]
