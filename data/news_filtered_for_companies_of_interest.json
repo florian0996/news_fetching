@@ -1,6 +1,17 @@
 {
-  "2025-10-01": {
+  "2025-10-02": {
     "status": "no company in the news"
+  },
+  "2025-10-01": {
+    "articles": [
+      {
+        "title": "LendingClub Stock Posing Attractive Entry Point for Bulls",
+        "url": "https://finance.yahoo.com/news/lendingclub-stock-posing-attractive-entry-195120313.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-09-30": {
     "status": "no company in the news"
