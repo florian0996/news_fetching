@@ -6458,5 +6458,65 @@
       "today",
       "copy"
     ]
+  },
+  {
+    "source": "International Business Times [NewsAPI]",
+    "url": "https://www.ibtimes.com/6-ways-michigan-smbs-can-navigate-ev-tax-credits-3784963",
+    "title": "6 Ways Michigan SMBs Can Navigate EV Tax Credits",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Electric vehicles (EVs) aren't just for consumers anymore. They're becoming an increasingly practical option for small and midsize businesses in Michigan. From delivery vans to fleet vehicles, EV ado… [+6545 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EVs",
+      "Navigate",
+      "Tax",
+      "Credits",
+      "Electric",
+      "Michigan",
+      "anymore",
+      "vehicles",
+      "SMBs",
+      "consumers"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8813c1f9313b6869",
+    "title": "Global Banks Fund Asian Tower Loan Edging Out Private Credit",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will government shutdown impact US economy? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Lithium Americas s… [+745 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Credit",
+      "return",
+      "false",
+      "Banks",
+      "Fund",
+      "Asian",
+      "Tower"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/car-loans-starting-at-7-6-interest-rate-check-what-sbi-pnb-hdfc-bank-icici-bank-are-others-are-offering-this-festive-season/articleshow/124246986.cms",
+    "title": "Car loans starting at 7.6% interest rate: Check what SBI, PNB, HDFC Bank, ICICI Bank are others are offering this festive season",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "During the festive season, many people purchase a new vehicle as they consider it auspicious. To attract many such people, leading banks have been offering auto loans at an interest rate as low as 7.… [+4463 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PNB",
+      "Check",
+      "SBI",
+      "HDFC",
+      "ICICI",
+      "festive",
+      "season",
+      "Bank",
+      "Car",
+      "auspicious"
+    ]
   }
 ]

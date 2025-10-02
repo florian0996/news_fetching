@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-01/first-brands-lenders-put-up-4-4-billion-to-avert-liquidation",
     "title": "First Brands Gets $1 Billion in Fresh Cash to Avert Collapse",
     "fetched_on": "2025-10-02T01:26:14.713240+00:00",
@@ -20,11 +20,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Politics [RSS]",
+    "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-01/eu-presses-ahead-on-unlocking-140-billion-from-russian-assets",
-    "title": "EU Presses Ahead to Unlock €140 Billion From Russian Assets",
-    "fetched_on": "2025-10-02T03:32:31.840335+00:00",
-    "content": "European Union leaders are building momentum for a plan to provide Ukraine with €140 billion ($164 billion) in loans from immobilized Russian central bank assets at a summit in Denmark.",
+    "title": "EU Presses Ahead to Unlock \u20ac140 Billion From Russian Assets",
+    "fetched_on": "2025-10-02T04:23:23.477322+00:00",
+    "content": "European Union leaders are building momentum for a plan to provide Ukraine with \u20ac140 billion ($164 billion) in loans from immobilized Russian central bank assets at a summit in Denmark.",
     "platforms_mentioned": [],
     "keywords": [
       "Billion",
@@ -40,10 +40,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Technology [RSS]",
+    "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-01/clearlake-backed-rsa-security-and-creditors-resume-debt-talks",
     "title": "Clearlake-Backed RSA Security and Creditors Resume Debt Talks",
-    "fetched_on": "2025-10-02T03:32:32.436399+00:00",
+    "fetched_on": "2025-10-02T04:23:24.188212+00:00",
     "content": "Clearlake Capital Group-backed RSA Security has resumed discussions with some of its lenders over its debt, after talks cooled off earlier this year, according to people with knowledge of the matter.",
     "platforms_mentioned": [],
     "keywords": [
@@ -60,10 +60,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-01/automakers-extend-7-500-ev-discount-as-federal-subsidy-expires",
     "title": "Automakers Extend $7,500 EV Discount After Federal Subsidy Expires",
-    "fetched_on": "2025-10-02T03:32:32.989826+00:00",
+    "fetched_on": "2025-10-02T04:23:24.910069+00:00",
     "content": "Automakers including General Motors Co., Hyundai Motor Co. and Ford Motor Co. said they would extend discounts on certain electric models after a $7,500 federal tax credit expired Tuesday, a bid to maintain momentum after a surge in third-quarter sales.",
     "platforms_mentioned": [],
     "keywords": [
@@ -83,8 +83,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/wealth/borrow/loan/home-loan/is-the-party-of-home-loan-borrowers-over-after-rbi-pauses-repo-rate-for-second-time-in-a-row/articleshow/124241950.cms",
     "title": "Is the party of home loan borrowers over after RBI pauses repo rate for second time in a row?",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "The Reserve Bank of India (RBI) in its three-day Monetary Policy Meeting (MPC) concluded today (October 1, 2025, Wednesday) kept the repo rate unchanged at 5.5%. It was the second time after the Augu... [+4559 chars]",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "The Reserve Bank of India (RBI) in its three-day Monetary Policy Meeting (MPC) concluded today (October 1, 2025, Wednesday) kept the repo rate unchanged at 5.5%. It was the second time after the Augu\u2026 [+4559 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "RBI",
@@ -102,9 +102,9 @@
   {
     "source": "Crikey [NewsAPI]",
     "url": "http://www.crikey.com.au/2025/10/01/donald-trump-gaza-israel-peace-plan-pros-cons/",
-    "title": "Trump's Gaza peace plan is better than total annihilation",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "Credit where its due: Donald Trump has apparently dropped his plan for depopulating the Gaza Strip and turning it into Mar-a-Lago-by-the-Med, so lets pop the champagne and give him the Peace Prize. ... [+5691 chars]",
+    "title": "Trump\u2019s Gaza peace plan is better than total annihilation",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Credit where its due: Donald Trump has apparently dropped his plan for depopulating the Gaza Strip and turning it into Mar-a-Lago-by-the-Med, so lets pop the champagne and give him the Peace Prize.\r\n\u2026 [+5691 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Gaza",
@@ -262,7 +262,7 @@
   {
     "source": "Legalinsurrection.com [NewsAPI]",
     "url": "https://legalinsurrection.com/2025/09/say-goodbye-to-the-ev-tax-credit-and-hello-to-market-forces/",
-    "title": "Say “Goodbye” to the EV Tax Credit and “Hello” to Market Forces",
+    "title": "Say \u201cGoodbye\u201d to the EV Tax Credit and \u201cHello\u201d to Market Forces",
     "fetched_on": "2025-10-02T01:26:14.003532+00:00",
     "content": "Green energy cultists are about ready to get hit with a dose of reality. The Electric Vehicle (EV) market has long been supported by hope, skilled marketing, and a $7500 tax credit that disappears o... [+4127 chars]",
     "platforms_mentioned": [],
@@ -341,17 +341,17 @@
     ]
   },
   {
-    "source": "Crunchbase News – Seed Funding [Scrape]",
+    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
-    "title": "Exclusive: Revalia Bio Raises $14.5M To ‘Revolutionize' Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-02T03:32:58.876684+00:00",
+    "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
+    "fetched_on": "2025-10-02T04:23:50.415760+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
       "Revalia",
       "Bio",
       "Raises",
-      "Revolutionize’",
+      "Revolutionize\u2019",
       "Haven",
       "Connecticut-based",
       "Exclusive",
@@ -364,7 +364,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/you-still-have-to-pay-student-loans-during-government-shutdown.html",
     "title": "Yes, you still have to pay your student loans during the government shutdown",
-    "fetched_on": "2025-10-02T03:33:00.553335+00:00",
+    "fetched_on": "2025-10-02T04:23:52.328798+00:00",
     "content": "After Congress failed to reach a funding agreement, the U.S. government officially shut down on Oct. 1.",
     "platforms_mentioned": [],
     "keywords": [
@@ -384,7 +384,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/government-shutdown-student-loan-borrowers.html",
     "title": "Government shutdown blocks student loan borrowers from forgiveness, repayment plans",
-    "fetched_on": "2025-10-02T03:33:01.243622+00:00",
+    "fetched_on": "2025-10-02T04:23:53.102656+00:00",
     "content": "The shutdown of the federal government could worsen the problems student loan borrowers are facing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,9 +403,9 @@
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
-    "title": "Fed rate cut: Here's what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-02T03:33:00.925011+00:00",
-    "content": "The Federal Reserve cut its benchmark by a quarter point. Here's what that means for the borrowing and savings rates you pay.",
+    "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
+    "fetched_on": "2025-10-02T04:23:52.727267+00:00",
+    "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
       "Federal",
@@ -424,7 +424,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-02T03:33:00.925018+00:00",
+    "fetched_on": "2025-10-02T04:23:52.727274+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -444,7 +444,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-10-02T03:33:00.925047+00:00",
+    "fetched_on": "2025-10-02T04:23:52.727301+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -464,7 +464,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-10-02T03:33:00.925062+00:00",
+    "fetched_on": "2025-10-02T04:23:52.727314+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -484,7 +484,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
     "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
-    "fetched_on": "2025-10-02T03:33:01.069856+00:00",
+    "fetched_on": "2025-10-02T04:23:52.903268+00:00",
     "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -504,7 +504,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/groceries-and-gas-top-consumers-pain-points.html",
     "title": "Consumers' top purchase pain points: groceries and gas, new report finds",
-    "fetched_on": "2025-10-02T03:33:01.243631+00:00",
+    "fetched_on": "2025-10-02T04:23:53.102665+00:00",
     "content": "Consumers are increasingly leaning on credit cards to buy essentials like gas and groceries, according to a new report by TD Bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -524,7 +524,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/aca-premiums-to-more-than-double-without-enhanced-subsidies.html",
     "title": "Affordable Care Act premiums will rise 114% if enhanced subsidies expire, health policy researcher finds",
-    "fetched_on": "2025-10-02T03:33:01.243677+00:00",
+    "fetched_on": "2025-10-02T04:23:53.102695+00:00",
     "content": "The federal government may shut down if Congress can't reach a deal about enhanced premium tax credits, slated to expire at the end of 2025.",
     "platforms_mentioned": [],
     "keywords": [
@@ -544,7 +544,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/student-loan-borrowers-tax-refunds-seized.html",
     "title": "Trump officials may be seizing student loan borrowers' tax refunds 'without required notice': Lawmakers",
-    "fetched_on": "2025-10-02T03:33:01.243703+00:00",
+    "fetched_on": "2025-10-02T04:23:53.102718+00:00",
     "content": "Lawmakers say the Trump administration may be \"improperly\" seizing defaulted student borrowers' tax refunds by failing to provide the required notice.",
     "platforms_mentioned": [],
     "keywords": [
@@ -564,7 +564,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
     "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
-    "fetched_on": "2025-10-02T03:33:01.243731+00:00",
+    "fetched_on": "2025-10-02T04:23:53.102746+00:00",
     "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -584,7 +584,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
     "title": "Ahead of EV tax credit deadline, IRS delays create 'anxiety' for car dealers",
-    "fetched_on": "2025-10-02T03:33:01.243738+00:00",
+    "fetched_on": "2025-10-02T04:23:53.102753+00:00",
     "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,8 +603,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
-    "title": "One of the last paths to student loan forgiveness under Trump - the IBR plan - is in trouble",
-    "fetched_on": "2025-10-02T03:33:01.243767+00:00",
+    "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
+    "fetched_on": "2025-10-02T04:23:53.102781+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -624,8 +624,8 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
     "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
-    "fetched_on": "2025-10-02T03:33:01.243829+00:00",
-    "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here's what to consider before signing up.",
+    "fetched_on": "2025-10-02T04:23:53.102843+00:00",
+    "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here\u2019s what to consider before signing up.",
     "platforms_mentioned": [],
     "keywords": [
       "year",
@@ -643,8 +643,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/20/how-the-20-4-10-car-shopping-rule-works.html",
-    "title": "Car shoppers - following one rule can help keep costs down, CFP says",
-    "fetched_on": "2025-10-02T03:33:01.243836+00:00",
+    "title": "Car shoppers \u2014 following one rule can help keep costs down, CFP says",
+    "fetched_on": "2025-10-02T04:23:53.102850+00:00",
     "content": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
     "platforms_mentioned": [],
     "keywords": [
@@ -661,10 +661,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/indies-capital-raises-over-300-million-for-private-credit-fund",
     "title": "Indies Capital Raises Over $300 Million for Private Credit Fund",
-    "fetched_on": "2025-10-02T03:32:31.549430+00:00",
+    "fetched_on": "2025-10-02T04:23:23.125887+00:00",
     "content": "Southeast Asia-focused alternative investment manager Indies Capital Partners Pte. has raised over $300 million for its fourth private credit fund, according to a statement on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -681,10 +681,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-01/australia-s-tanarra-capital-halts-deals-for-distressed-debt-fund",
     "title": "Tanarra Capital Halts Deals for Distressed Debt Fund",
-    "fetched_on": "2025-10-02T03:32:31.549449+00:00",
+    "fetched_on": "2025-10-02T04:23:23.125906+00:00",
     "content": "Tanarra Capital Pty. is halting new investments for its distressed credit fund due to a lack of opportunities, the Australian fund manager said in a statement.",
     "platforms_mentioned": [],
     "keywords": [
@@ -704,8 +704,8 @@
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/industry/banking/infra-construction-sectors-see-most-upgrades-in-h1-fy26-export-sector-feels-heat-of-us-tariffs-11759243493765.html",
     "title": "Infra, construction sectors see most upgrades in H1 FY26, export sector feels heat of US tariffs",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "Despite geopolitical conflicts, pockets of domestic demand slowdown, rising retail credit delinquencies and the high tariffs imposed by the US on Indian exports, the credit quality of Indian corporat... [+6079 chars]",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Despite geopolitical conflicts, pockets of domestic demand slowdown, rising retail credit delinquencies and the high tariffs imposed by the US on Indian exports, the credit quality of Indian corporat\u2026 [+6079 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Indian",
@@ -724,8 +724,8 @@
     "source": "The Jerusalem Post [NewsAPI]",
     "url": "https://www.jpost.com/israel-news/article-869158",
     "title": "Will Hamas accept the US-Israel plan to end the Gaza war? Not right away, at least",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "Zaher Birawi, the Head of the PCPAs Hamas sector in the UK, next to Ismail Haniyeh, Head of the Hamas Political Bureau (photo credit: IDF SPOKESPERSON Hostage families and Arab nations are holding t... [+2665 chars]",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Zaher Birawi, the Head of the PCPAs Hamas sector in the UK, next to Ismail Haniyeh, Head of the Hamas Political Bureau (photo credit: IDF SPOKESPERSON\r\nHostage families and Arab nations are holding t\u2026 [+2665 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Hamas",
@@ -743,9 +743,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/09/30/todays-nyt-mini-crossword-clues-and-answers-for-wednesday-october-1st/",
-    "title": "Today's NYT Mini Crossword Clues And Answers For Wednesday, October 1st",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle. Credit: NYT Thats a wrap, folks. September is done. October is here. Time flies by. We have ... [+2247 chars]",
+    "title": "Today\u2019s NYT Mini Crossword Clues And Answers For Wednesday, October 1st",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nThats a wrap, folks. September is done. October is here. Time flies by. We have \u2026 [+2247 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Mini",
@@ -764,8 +764,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/1880e5f5bab80971",
     "title": "General Motors And Ford Found A Way To Keep The EV Lease Credit Alive",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "General Motors And Ford Found A Way To Keep The EV Lease Credit AliveFor a few months more, anyway. The two American automakers are working with dealers to extend the $7,500 EV tax credit a bit longe... [+152 chars]",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "General Motors And Ford Found A Way To Keep The EV Lease Credit AliveFor a few months more, anyway. The two American automakers are working with dealers to extend the $7,500 EV tax credit a bit longe\u2026 [+152 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Motors",
@@ -783,9 +783,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/kevinholdenplatt/2025/09/30/elon-musks-optimus-robots-face-speedy-downfall-on-mars-scholar-says/",
-    "title": "Elon Musk's Optimus Robots Face Speedy Downfall On Mars, Scholar Says",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "Elon Musk boasts he will launch a squad of Optimus humanoid robots to Mars aboard his Starship super-capsules, but a leading U.S. robotics scholar predicts their quick demise (Photo credit should rea... [+7082 chars]",
+    "title": "Elon Musk\u2019s Optimus Robots Face Speedy Downfall On Mars, Scholar Says",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Elon Musk boasts he will launch a squad of Optimus humanoid robots to Mars aboard his Starship super-capsules, but a leading U.S. robotics scholar predicts their quick demise (Photo credit should rea\u2026 [+7082 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Musk",
@@ -803,9 +803,9 @@
   {
     "source": "PhoneArena [NewsAPI]",
     "url": "https://www.phonearena.com/news/Motorolas-impossibly-thin-Edge-70-leaks-in-new-renders-that-show-two-of-its-stunning-colors_id174539",
-    "title": "Motorola's “impossibly thin” Edge 70 leaks in new renders that show two of its stunning colors",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "Motorola Edge 70 in Lily Pad. Image Credit YTECHB Both versions in the new renders feature noticeable color accents on the camera ring and the Moto AI buttons. Considering that the Lily Pad version ... [+1685 chars]",
+    "title": "Motorola\u2019s \u201cimpossibly thin\u201d Edge 70 leaks in new renders that show two of its stunning colors",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Motorola Edge 70 in\u00a0Lily Pad. Image Credit YTECHB\r\nBoth versions in the new renders feature noticeable color accents on the camera ring and the Moto AI buttons. Considering that the Lily Pad version \u2026 [+1685 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Edge",
@@ -824,8 +824,8 @@
     "source": "BusinessLine [NewsAPI]",
     "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-1st-oct-2025/article70113673.ece",
     "title": "Stock Market Live Updates 1 October 2025: Stock to buy today: Bank of India",
-    "fetched_on": "2025-10-02T03:32:30.853388+00:00",
-    "content": "Chart financial asset movement abstract lines background design with space for your copy. istock photo for BL | Photo Credit: Brandon Laufenberg Stock Market today | Share Market Live Updates -... [+2105 chars]",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Chart financial asset movement abstract lines background design with space for your copy. istock photo for BL\r\n | Photo Credit: \r\n Brandon Laufenberg\r\nStock Market today | Share Market Live Updates -\u2026 [+2105 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "October",
@@ -886,6 +886,66 @@
       "credit",
       "day",
       "tax"
+    ]
+  },
+  {
+    "source": "International Business Times [NewsAPI]",
+    "url": "https://www.ibtimes.com/6-ways-michigan-smbs-can-navigate-ev-tax-credits-3784963",
+    "title": "6 Ways Michigan SMBs Can Navigate EV Tax Credits",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "Electric vehicles (EVs) aren't just for consumers anymore. They're becoming an increasingly practical option for small and midsize businesses in Michigan. From delivery vans to fleet vehicles, EV ado\u2026 [+6545 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EVs",
+      "Navigate",
+      "Tax",
+      "Credits",
+      "Electric",
+      "Michigan",
+      "anymore",
+      "vehicles",
+      "SMBs",
+      "consumers"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8813c1f9313b6869",
+    "title": "Global Banks Fund Asian Tower Loan Edging Out Private Credit",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will government shutdown impact US economy? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Lithium Americas s\u2026 [+745 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Credit",
+      "return",
+      "false",
+      "Banks",
+      "Fund",
+      "Asian",
+      "Tower"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/car-loans-starting-at-7-6-interest-rate-check-what-sbi-pnb-hdfc-bank-icici-bank-are-others-are-offering-this-festive-season/articleshow/124246986.cms",
+    "title": "Car loans starting at 7.6% interest rate: Check what SBI, PNB, HDFC Bank, ICICI Bank are others are offering this festive season",
+    "fetched_on": "2025-10-02T04:23:22.393573+00:00",
+    "content": "During the festive season, many people purchase a new vehicle as they consider it auspicious. To attract many such people, leading banks have been offering auto loans at an interest rate as low as 7.\u2026 [+4463 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PNB",
+      "Check",
+      "SBI",
+      "HDFC",
+      "ICICI",
+      "festive",
+      "season",
+      "Bank",
+      "Car",
+      "auspicious"
     ]
   }
 ]
