@@ -123,7 +123,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/first-brands-fallout-exposes-risks-of-lending-private-credit",
     "title": "First Brands\u2019 Fallout Exposes Risks of Lending Private Debt",
-    "fetched_on": "2025-10-03T16:24:30.134057+00:00",
+    "fetched_on": "2025-10-03T17:17:00.557116+00:00",
     "content": "Since First Brands Group filed for bankruptcy with over $10 billion of liabilities, the market has been focused on blows to its broadly syndicated investors and trade finance providers. Some of the debt has plunged to around 36 cents on the dollar, with investors facing hundreds of millions of dollars of losses.",
     "platforms_mentioned": [],
     "keywords": [
@@ -143,7 +143,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/ubs-funds-face-half-billion-dollar-exposure-to-first-brands",
     "title": "UBS Funds Face $500 Million Exposure in First Brands",
-    "fetched_on": "2025-10-03T16:24:30.134036+00:00",
+    "fetched_on": "2025-10-03T17:17:00.557097+00:00",
     "content": "Funds under the UBS Group AG umbrella face more than half a billion dollars of exposure to bankrupt auto-parts supplier First Brands Group through various investment strategies, with one ranking as the biggest unsecured creditor, court documents show.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-03T16:24:53.806202+00:00",
+    "fetched_on": "2025-10-03T17:17:24.476003+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -480,23 +480,23 @@
     ]
   },
   {
-    "source": "CNBC Top News [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2025/10/02/fico-provider-is-shaking-up-its-credit-score-business-its-stock-is-surging.html",
     "title": "FICO provider is shaking up its credit score business. Its stock is surging",
-    "fetched_on": "2025-10-03T16:24:55.875434+00:00",
-    "content": "The company announced a new pricing model that will allow mortgage lenders to bypass credit bureaus for credit scores.",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "Fair Isaac, the creator of the FICO score, saw shares rally more than 20% on Thursday after it unveiled a new pricing model that will allow mortgage lenders to bypass credit bureaus for credit scores\u2026 [+1957 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "FICO",
       "credit",
       "business",
+      "score",
+      "Isaac",
       "provider",
       "shaking",
-      "score",
-      "scores",
-      "stock",
-      "surging",
-      "company"
+      "chars",
+      "Fair",
+      "Thursday"
     ]
   },
   {
@@ -523,7 +523,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/borrowers-face-funding-trade-off-as-pimco-flags-debt-market-cracks.html",
     "title": "Corporate borrowers face funding trade-off as PIMCO flags debt market 'cracks'",
-    "fetched_on": "2025-10-03T16:24:55.875386+00:00",
+    "fetched_on": "2025-10-03T17:17:26.390518+00:00",
     "content": "The president of bond giant PIMCO highlighted direct lending pressures as borrowers seek out payment-in-kind agreements.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-03T16:24:56.194698+00:00",
+    "fetched_on": "2025-10-03T17:17:26.776268+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-03T16:24:56.194705+00:00",
+    "fetched_on": "2025-10-03T17:17:26.776275+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-10-03T16:24:56.194732+00:00",
+    "fetched_on": "2025-10-03T17:17:26.776303+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-10-03T16:24:56.194745+00:00",
+    "fetched_on": "2025-10-03T17:17:26.776317+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
     "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
-    "fetched_on": "2025-10-03T16:24:56.346193+00:00",
+    "fetched_on": "2025-10-03T17:17:26.892291+00:00",
     "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/government-shutdown-student-loan-borrowers.html",
     "title": "Government shutdown blocks student loan borrowers from forgiveness, repayment plans",
-    "fetched_on": "2025-10-03T16:24:56.509899+00:00",
+    "fetched_on": "2025-10-03T17:17:27.078738+00:00",
     "content": "The shutdown of the federal government could worsen the problems student loan borrowers are facing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/groceries-and-gas-top-consumers-pain-points.html",
     "title": "Consumers' top purchase pain points: groceries and gas, new report finds",
-    "fetched_on": "2025-10-03T16:24:56.509906+00:00",
+    "fetched_on": "2025-10-03T17:17:27.078746+00:00",
     "content": "Consumers are increasingly leaning on credit cards to buy essentials like gas and groceries, according to a new report by TD Bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/aca-premiums-to-more-than-double-without-enhanced-subsidies.html",
     "title": "Affordable Care Act premiums will rise 114% if enhanced subsidies expire, health policy researcher finds",
-    "fetched_on": "2025-10-03T16:24:56.509935+00:00",
+    "fetched_on": "2025-10-03T17:17:27.078776+00:00",
     "content": "The federal government may shut down if Congress can't reach a deal about enhanced premium tax credits, slated to expire at the end of 2025.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/student-loan-borrowers-tax-refunds-seized.html",
     "title": "Trump officials may be seizing student loan borrowers' tax refunds 'without required notice': Lawmakers",
-    "fetched_on": "2025-10-03T16:24:56.509955+00:00",
+    "fetched_on": "2025-10-03T17:17:27.078797+00:00",
     "content": "Lawmakers say the Trump administration may be \"improperly\" seizing defaulted student borrowers' tax refunds by failing to provide the required notice.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
     "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
-    "fetched_on": "2025-10-03T16:24:56.509982+00:00",
+    "fetched_on": "2025-10-03T17:17:27.078825+00:00",
     "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
     "title": "Ahead of EV tax credit deadline, IRS delays create 'anxiety' for car dealers",
-    "fetched_on": "2025-10-03T16:24:56.509989+00:00",
+    "fetched_on": "2025-10-03T17:17:27.078832+00:00",
     "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
     "platforms_mentioned": [],
     "keywords": [
@@ -763,7 +763,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
     "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
-    "fetched_on": "2025-10-03T16:24:56.510016+00:00",
+    "fetched_on": "2025-10-03T17:17:27.078860+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -4878,7 +4878,7 @@
     "source": "The-independent.com [NewsAPI]",
     "url": "https://www.the-independent.com/arts-entertainment/theatre-dance/news/les-miserable-herbert-kretzmer-lyrics-english-french-b2838205.html",
     "title": "Les Mis\u00e9rables lyricist felt lack of credit for transforming musical to English, letters reveal",
-    "fetched_on": "2025-10-03T16:24:28.346827+00:00",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
     "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+4792 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -4898,7 +4898,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/four-seasons-confirms-telluride-resort-residence-project/",
     "title": "Four Seasons confirms Telluride resort-residence project",
-    "fetched_on": "2025-10-03T16:24:28.346827+00:00",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
     "content": "Travel and hospitality\r\nOctober 2, 2025\r\n Four Seasons is announcing plans for a luxury resort and residence site in Tellurides Mountain Village. Image credit: Four Seasons \r\n By Amirah Keaton for Lu\u2026 [+5906 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -4918,7 +4918,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/c1d489d0ea2493f2",
     "title": "Fair Isaac Stock Is Soaring. Credit Bureau Shares Are Dropping. Here's Why",
-    "fetched_on": "2025-10-03T16:24:28.346827+00:00",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
     "content": "Key Takeaways-Fair Isaac said it would provide its FICO credit scores directly to firms that provide credit reports to lenders. The data provider said the decision would eliminate reliance on the thr\u2026 [+145 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -5358,7 +5358,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/03/student-loan-repayment-plan-backlog-under-trump.html",
     "title": "Student loan borrowers can't access repayment plans under Trump. What to know",
-    "fetched_on": "2025-10-03T16:24:56.509856+00:00",
+    "fetched_on": "2025-10-03T17:17:27.078692+00:00",
     "content": "Student loan borrowers who are trying to get into a new repayment plan face delays amid a Trump-era backlog of applications and the shutdown of the government.",
     "platforms_mentioned": [],
     "keywords": [
@@ -5378,7 +5378,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/bank-of-america-customized-cash-rewards-for-students-213708142.html",
     "title": "Bank of America Customized Cash Rewards for Students review: Great rewards for good credit",
-    "fetched_on": "2025-10-03T16:24:57.089815+00:00",
+    "fetched_on": "2025-10-03T17:17:27.409117+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -5398,7 +5398,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/bank-of-america-customized-cash-rewards-credit-card-review-193938859.html",
     "title": "Bank of America Customized Cash Rewards credit card review: Cash back on your choice of everyday categories",
-    "fetched_on": "2025-10-03T16:24:57.089823+00:00",
+    "fetched_on": "2025-10-03T17:17:27.409125+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -5412,6 +5412,246 @@
       "credit",
       "card",
       "back"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-03/private-credit-risks-to-be-assessed-by-us-government-watchdog",
+    "title": "Private Credit Risks\u00a0to Be Assessed by US Government Watchdog",
+    "fetched_on": "2025-10-03T17:17:00.039819+00:00",
+    "content": "The US Government Accountability Office is assessing the risks posed by private credit, in a sign that Washington is further scrutinizing the impact of the $1.7 trillion industry on the broader economy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Government",
+      "Credit",
+      "Risks",
+      "Private",
+      "Assessed",
+      "Watchdog",
+      "Accountability",
+      "Office",
+      "Washington",
+      "trillion"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-03/beach-point-on-first-brands-fallout-private-debt-risks-video",
+    "title": "Beach Point on First Brands Fallout, Private Debt Risks",
+    "fetched_on": "2025-10-03T17:16:59.920228+00:00",
+    "content": "Legendary short-seller Jim Chanos is warning the private debt boom could unravel after First Brands\u2019 collapse. He tells the Financial Times more companies could fall when the cycle turns. One of the firms now backing First Brands is Beach Point. Portfolio Manager Sinjin Bowron joins \"Bloomberg Open Interest\" to talk about the fallout and the vulnerabilities in private credit. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Debt",
+      "Risks",
+      "Legendary",
+      "Jim",
+      "Chanos",
+      "Brands\u2019",
+      "Point",
+      "Brands",
+      "Private",
+      "Beach"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/loans/2025/fico-lets-mortgage-lenders-bypass-credit-bureaus/",
+    "title": "FICO Lets Mortgage Lenders Bypass Credit Bureaus",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "FICO\u00a0has introduced a program that lets mortgage lenders bypass working with credit bureaus.With the\u00a0FICO Mortgage Direct License Program, tri-merge resellers mortgage specialists can now calculate a\u2026 [+2338 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "FICO",
+      "Lenders",
+      "Bypass",
+      "Credit",
+      "program",
+      "chars",
+      "Bureaus",
+      "Direct",
+      "License"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/diddy-prison-sentencing-5346698/",
+    "title": "Sean \u2018Diddy\u2019 Combs\u2019 Sentencing: How Long He Will Serve in Jail",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "View galleryImage Credit: Getty Images for Sean \"Diddy\" Co\r\nSean Diddy Combs is currently on trial for sex trafficking-related charges. The record exec and rapper who also went by the names P. Diddy,\u2026 [+3521 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sean",
+      "Diddy\u2019",
+      "Sentencing",
+      "Credit",
+      "Getty",
+      "Combs\u2019",
+      "Long",
+      "Serve",
+      "Jail",
+      "View"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/porsche-make-a-wish-advance-global-program/",
+    "title": "Porsche, Make-A-Wish advance global program",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "Automotive\r\nOctober 2, 2025\r\n Mexico City-based Make-A-Wish recipient Carlos, 5, pictured at Porsche Centre Canc\u00fan. Image credit: Porsche \r\n By Amirah Keaton for Luxury Daily News Service\r\nGerman aut\u2026 [+5014 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "Mexico",
+      "City-based",
+      "Carlos",
+      "Canc\u00fan",
+      "Automotive",
+      "Centre",
+      "Porsche",
+      "advance",
+      "recipient"
+    ]
+  },
+  {
+    "source": "Benzinga [NewsAPI]",
+    "url": "https://www.benzinga.com/personal-finance/management/25/10/47996002/i-remember-being-right-where-you-are-dave-ramsey-warns-caller-that-his-1-million-debt-can-destroy-his-marriage",
+    "title": "'I Remember Being Right Where You Are': Dave Ramsey Warns Caller That His $1 Million Debt Can Destroy His Marriage",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "When John, from North Carolina, called into \"The Ramsey Show,\" he revealed that he and his wife were facing nearly $1 million in debt after closing down his business. A mix of loans, IRS taxes, credi\u2026 [+3453 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Ramsey",
+      "Debt",
+      "Dave",
+      "John",
+      "Carolina",
+      "Show",
+      "Remember",
+      "Warns",
+      "Caller"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/02/3160603/0/en/NFM-Lending-s-President-and-COO-Bob-Tyson-to-Speak-at-2025-Mortgage-Banking-Summit.html",
+    "title": "NFM Lending's President and COO Bob Tyson to Speak at 2025 Mortgage Banking Summit",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "Linthicum MD, Oct. 02, 2025 (GLOBE NEWSWIRE) -- LINTHICUM, MD, October 1, 2025 The NFM Family of Lenders is proud to announce that President and Chief Operating Officer Bob Tyson will be a featured s\u2026 [+1662 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct.",
+      "October",
+      "President",
+      "Bob",
+      "Tyson",
+      "NFM",
+      "Mortgage",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/10/scottish-police-immigration-officers-arrest-fake-african-tribe/",
+    "title": "Scottish Police and Immigration Officers Arrest Fake \u2018African Tribe\u2019 in the Woods (VIDEOS)",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "Fake African Tribe in Scotland performs a ritual. Credit: The Scottish Sun YouTube Screenshot\r\nFake \u2018Kubala\u2019 is no more.\r\nIn this world of fake genders and fake identities, few have gone as far in th\u2026 [+2182 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "African",
+      "VIDEOS",
+      "Fake",
+      "Woods",
+      "Police",
+      "Immigration",
+      "Officers",
+      "Arrest",
+      "Tribe\u2019",
+      "Tribe"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/30067cc193dccabf",
+    "title": "FICO provider is shaking up its credit score business. Its stock is surging",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "The company announced a new pricing model that will allow mortgage lenders to bypass credit bureaus for credit scores.\r\nThis story appeared on cnbc.com, 2025-10-02 16:35:23.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FICO",
+      "credit",
+      "business",
+      "provider",
+      "shaking",
+      "score",
+      "scores",
+      "cnbc.com",
+      "stock",
+      "surging"
+    ]
+  },
+  {
+    "source": "Al Jazeera English [NewsAPI]",
+    "url": "https://www.aljazeera.com/economy/2025/10/2/tesla-sales-jump-as-buyers-scramble-before-ev-tax-credit-expires",
+    "title": "Tesla sales jump as buyers scramble before EV tax credit expires",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "Tesla sales have surged in the third quarter as buyers in the United States rushed to take advantage of electric vehicle (EV) tax credits that were eliminated under President Donald Trumps sweeping t\u2026 [+3866 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Tesla",
+      "United",
+      "States",
+      "President",
+      "Donald",
+      "Trumps",
+      "sales",
+      "buyers",
+      "tax"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/db28f922d742816b",
+    "title": "FICO Shakes Up Credit-Score Market",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "FICO upended the credit-scoring industry by giving mortgage lenders a way to offer its Fico credit score without dealing with Experian, Equifax or TransUnion.\r\nThis story appeared on wsj.com, 2025-10\u2026 [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FICO",
+      "Experian",
+      "Equifax",
+      "Shakes",
+      "Market",
+      "TransUnion",
+      "Credit-Score",
+      "upended",
+      "credit-scoring",
+      "industry"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/3e1e53ae0a5440ea",
+    "title": "FICO Stock Leads S&P 500 On End-Run Around Equifax, Other Credit Bureaus",
+    "fetched_on": "2025-10-03T17:16:59.458555+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Tesla's Q3 deliveries beat estimates? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the US government \u2026 [+742 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "FICO",
+      "Equifax",
+      "Bureaus",
+      "Tesla",
+      "return",
+      "false",
+      "Stock"
     ]
   }
 ]
