@@ -12449,5 +12449,105 @@
       "happy",
       "hour"
     ]
+  },
+  {
+    "source": "The Straits Times [NewsAPI]",
+    "url": "https://www.straitstimes.com/business/hsbc-raises-income-requirement-for-new-credit-card-applications-in-spore-to-65000",
+    "title": "HSBC raises income requirement for new credit card applications in S’pore to $65,000, from $30,000",
+    "fetched_on": "2025-10-03T06:29:23.344899+00:00",
+    "content": "SINGAPORE New HSBC credit card applicants will need a minimum annual income of $65,000 from Oct 1, up from $30,000 a move that aligns with the banks focus on serving more affluent customers, a spokes… [+3534 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HSBC",
+      "SINGAPORE",
+      "Oct",
+      "chars",
+      "credit",
+      "card",
+      "S’pore",
+      "income",
+      "customers",
+      "spokes"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/643daa70cf738d59",
+    "title": "Thames Water Creditors Pitch Fresh Funds, Steeper Debt Haircuts",
+    "fetched_on": "2025-10-03T06:29:23.344899+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Nike shares surge after Q1 beat? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will government shutdown aff… [+726 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Funds",
+      "Steeper",
+      "Haircuts",
+      "beat",
+      "return",
+      "false",
+      "Water"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/10/02/lendingtree-nasdaqtree-stock-rating-lowered-by-zacks-research/",
+    "title": "LendingTree (NASDAQ:TREE) Stock Rating Lowered by Zacks Research",
+    "fetched_on": "2025-10-03T06:29:23.344899+00:00",
+    "content": "Zacks Research lowered shares of LendingTree (NASDAQ:TREE – Free Report) from a strong-buy rating to a hold rating in a report published on Monday morning,Zacks.com reports.\r\nOther equities analysts … [+5402 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "TREE",
+      "Zacks",
+      "Research",
+      "Rating",
+      "Stock",
+      "Free",
+      "Monday",
+      "Lowered",
+      "LendingTree"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/06d67e7865ce6235",
+    "title": "Ross Gerber Says 'Winter Is Coming' For Tesla As $7,500 Federal EV Credit Ends; Gene Munster Says Traditional Automakers In An 'Awkward Position'",
+    "fetched_on": "2025-10-03T06:29:23.344899+00:00",
+    "content": "As the Federal EV Credit officially ended on Wednesday, October 1st, investors like Gerber Kawasaki's co-founder Ross Gerber and Deepwater Asset Management's investor Gene Munster weighed in on its i… [+141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gerber",
+      "October",
+      "Federal",
+      "Credit",
+      "Gene",
+      "Munster",
+      "Ross",
+      "Winter",
+      "Coming",
+      "Ends"
+    ]
+  },
+  {
+    "source": "Newhumanist.org.uk [NewsAPI]",
+    "url": "https://newhumanist.org.uk/articles/6463/book-review-abortion-a-history#utm_source=rss",
+    "title": "Book review: Abortion, a history",
+    "fetched_on": "2025-10-03T06:29:23.344899+00:00",
+    "content": "An 1891 illustration of a scandal in France: a mayor and his mistress were accused of dumping a foetus at sea. Credit: Alamy\r\nAbortion: A History (Hurst Publishers) by Mary Fissell\r\nThere is a common… [+3738 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Abortion",
+      "France",
+      "history",
+      "Book",
+      "review",
+      "illustration",
+      "sea",
+      "scandal",
+      "mayor",
+      "mistress"
+    ]
   }
 ]
