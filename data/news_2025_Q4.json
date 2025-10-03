@@ -12309,5 +12309,145 @@
       "vehicle",
       "delivered"
     ]
+  },
+  {
+    "source": "WWD [NewsAPI]",
+    "url": "http://wwd.com/fashion-news/fashion-features/vestiaire-collective-carbon-credits-circularity-1238272160/",
+    "title": "Vestiaire Collective Launches Carbon Credits Initiative",
+    "fetched_on": "2025-10-03T05:19:25.706825+00:00",
+    "content": "Vestiaire Collective said it is the first pre-owned fashion business to monetize its avoided emissions into measurable and additional carbon credits.\r\nThe company’s new approach involves issuing cred… [+4443 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Collective",
+      "Vestiaire",
+      "Carbon",
+      "Credits",
+      "Launches",
+      "Initiative",
+      "chars",
+      "pre-owned",
+      "fashion",
+      "business"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/politics/2025/10/02/budget-2026-no-changes-to-personal-income-tax-planned/",
+    "title": "Budget 2026: No changes to personal income tax planned",
+    "fetched_on": "2025-10-03T05:19:25.706825+00:00",
+    "content": "No changes to personal tax bands and credits are planned for next weeks budget, meaning the effective reductions in income tax worth over 1,000 to many workers in recent budgets will not be repeated … [+2767 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "tax",
+      "personal",
+      "income",
+      "meaning",
+      "repeated",
+      "planned",
+      "Budget",
+      "bands",
+      "credits"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/politics/2025/10/02/sinn-fein-alternative-budget-2026-includes-450-energy-credit-and-cuts-to-usc-and-college-fees/",
+    "title": "Sinn Féin alternative Budget 2026 includes €450 energy credit and cuts to USC and college fees",
+    "fetched_on": "2025-10-03T05:19:25.706825+00:00",
+    "content": "A 450 energy credit for all households, cuts to Universal Social Charge (USC) and college fees and bringing in 10-per-day childcare are among proposals in Sinn Féins alternative Budget 2026 due to be… [+3170 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "energy",
+      "USC",
+      "Sinn",
+      "alternative",
+      "college",
+      "Charge",
+      "Féin",
+      "Féins",
+      "includes"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/credit-finance-ltd-launches-nova-at-sibos-2025-standing-ovation-from-15000-global-leaders-as-investors-signal-billion-dollar-confidence",
+    "title": "Credit Finance Ltd Launches NOVA at Sibos 2025: Standing Ovation from 15,000 Global Leaders as Investors Signal Billion-Dollar Confidence",
+    "fetched_on": "2025-10-03T05:19:25.706825+00:00",
+    "content": "FRANKFURT, Germany, Oct. 02, 2025 (GLOBE NEWSWIRE) In a defining moment for the future of financial infrastructure, Credit Finance Ltd unveiled its flagship platform, NOVA, during a live video confer… [+4730 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Germany",
+      "Oct.",
+      "Finance",
+      "chars",
+      "Sibos",
+      "Standing",
+      "Global",
+      "FRANKFURT",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/02/3160079/0/en/Credit-Finance-Ltd-Launches-NOVA-at-Sibos-2025-Standing-Ovation-from-15-000-Global-Leaders-as-Investors-Signal-Billion-Dollar-Confidence.html",
+    "title": "Credit Finance Ltd Launches NOVA at Sibos 2025: Standing Ovation from 15,000 Global Leaders as Investors Signal Billion-Dollar Confidence",
+    "fetched_on": "2025-10-03T05:19:25.706825+00:00",
+    "content": "FRANKFURT, Germany, Oct. 02, 2025 (GLOBE NEWSWIRE) -- In a defining moment for the future of financial infrastructure, Credit Finance Ltd unveiled its flagship platform, NOVA, during a live video con… [+2524 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Germany",
+      "Oct.",
+      "Finance",
+      "chars",
+      "Sibos",
+      "Standing",
+      "Global",
+      "FRANKFURT",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5f49ec6be6dbe3de",
+    "title": "XRP Jumps 5% as SBI Lending Program and ETF Countdown Fuel Rally",
+    "fetched_on": "2025-10-03T05:19:25.706825+00:00",
+    "content": "XRP surged to fresh highs after Japans SBI unveiled an institutional lending initiative, igniting volumes above 160M and lifting price through key resistance. Buyers defended $2.93 multiple times as … [+138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "XRP",
+      "SBI",
+      "Jumps",
+      "Lending",
+      "Program",
+      "ETF",
+      "Countdown",
+      "Fuel",
+      "Rally",
+      "Japans"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d9c1bf7221bcbd59",
+    "title": "Automakers charged with keeping EV sales going",
+    "fetched_on": "2025-10-03T05:19:25.706825+00:00",
+    "content": "You know the feeling of ordering 12 beers because happy hour is ending? The electric vehicle industry experienced a similar surge in sales just before the federal $7,500 EV tax credit expired on Tues… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Automakers",
+      "ordering",
+      "beers",
+      "ending",
+      "sales",
+      "charged",
+      "keeping",
+      "feeling",
+      "happy",
+      "hour"
+    ]
   }
 ]
