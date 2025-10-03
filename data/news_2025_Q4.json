@@ -12142,5 +12142,86 @@
       "Raises",
       "Private"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-03/india-market-buzz-rbi-boost-lifts-banks-bourses-set-to-shine",
+    "title": "Indian Bank Stocks Fire up After Central Bank Eases Capital Market Lending",
+    "fetched_on": "2025-10-03T03:31:23.052088+00:00",
+    "content": "Before the trading day starts we bring you a digest of the key news and events that are likely to move markets. Today we look at:",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Stocks",
+      "Fire",
+      "Central",
+      "Eases",
+      "Capital",
+      "Lending",
+      "Indian",
+      "Market",
+      "markets"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-03/vietnam-central-bank-vows-to-push-growth-limiting-credit-risks",
+    "title": "Vietnam Central Bank Vows to Push Growth, Limiting Credit Risks",
+    "fetched_on": "2025-10-03T03:31:24.387184+00:00",
+    "content": "The State Bank of Vietnam plans to keep pursuing policies to spur growth while containing inflation, aiming to boost lending to businesses even as it controls credit to riskier sectors, according to a central bank briefing in Hanoi.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Central",
+      "Vietnam",
+      "Growth",
+      "Credit",
+      "Limiting",
+      "Hanoi",
+      "Vows",
+      "Push",
+      "Risks"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/robwolkenbrod/2025/10/01/aew-dynamite-results-andrade-el-idolo-returns-takeaways-from-october-1-2025/",
+    "title": "AEW Dynamite Results: Andrade El Idolo Returns, Takeaways From October 1, 2025",
+    "fetched_on": "2025-10-03T03:31:21.950781+00:00",
+    "content": "Credit: All Elite Wrestling\r\nAEW Dynamite hit its six-year anniversary this week, a milestone that not only highlights the companys staying power but also how much has changed in the wrestling landsc… [+3835 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "AEW",
+      "Dynamite",
+      "chars",
+      "Results",
+      "Andrade",
+      "Returns",
+      "Takeaways",
+      "October",
+      "Wrestling"
+    ]
+  },
+  {
+    "source": "Reuters [GNews]",
+    "url": "https://www.reuters.com/business/finance/chinas-banks-lend-saudi-gas-project-while-its-funds-sit-out-blackrock-led-deal-2025-10-02/",
+    "title": "Exclusive: China’s banks lend to Saudi gas project while its funds sit out of BlackRock-led deal, sources say",
+    "fetched_on": "2025-10-03T03:31:31.417177+00:00",
+    "content": "China’s biggest state banks are lending billions to Aramco’s Jafurah gas project, though its funds have passed on the opportunity to invest in the venture, three people familiar with the matter said.",
+    "platforms_mentioned": [],
+    "entity": "Lend",
+    "keywords": [
+      "China",
+      "Exclusive",
+      "gas",
+      "project",
+      "funds",
+      "Saudi",
+      "Aramco",
+      "Jafurah",
+      "banks",
+      "deal"
+    ]
   }
 ]
