@@ -22,21 +22,21 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/first-brands-lenders-hand-lifeline-to-effectively-a-black-box",
-    "title": "First Brands Lenders Hand Lifeline to \u2018Effectively a Black Box'",
-    "fetched_on": "2025-10-03T03:31:23.052227+00:00",
-    "content": "First Brands Group lenders burned by the auto parts supplier's use of off-balance-sheet financing quickly assembled a $1.1 billion emergency lifeline to prevent the business from completely unraveling. But to pull it off their lawyer said the firms had to forgo the amount of diligence they'd normally require for such a sizable loan.",
+    "title": "First Brands Group Lenders Provide Lifeline to \u2018A Black Box\u2019",
+    "fetched_on": "2025-10-03T13:26:46.286198+00:00",
+    "content": "First Brands Group lenders burned by the auto parts supplier\u2019s use of off-balance-sheet financing quickly assembled a $1.1 billion emergency lifeline to prevent the business from completely unraveling. But to pull it off, according to their lawyer, the firms had to forgo the level of diligence they\u2019d normally demand for such a big loan.",
     "platforms_mentioned": [],
     "keywords": [
       "Brands",
-      "Lifeline",
+      "Group",
       "Lenders",
-      "Effectively",
-      "Hand",
+      "Lifeline",
+      "Provide",
       "Black",
       "Box\u2019",
-      "Group",
       "financing",
-      "billion"
+      "billion",
+      "unraveling"
     ]
   },
   {
@@ -83,7 +83,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-02/bloomberg-tech-10-2-2025-video",
     "title": "OpenAI Becomes World\u2019s Largest Startup | Bloomberg Tech 10/2/2025",
-    "fetched_on": "2025-10-03T12:40:05.492529+00:00",
+    "fetched_on": "2025-10-03T13:26:46.759242+00:00",
     "content": "Bloomberg\u2019s Caroline Hyde and Ed Ludlow discuss OpenAI becoming the largest startup after it closed a deal allowing current and former employees to sell shares at a $500 billion valuation. Plus, Tesla's vehicle sales jumped to a worldwide record in the third quarter as US buyers got in before US tax credits expired. And Microsoft has inked more than $33 billion in commitments to neocloud providers, as it aims to cope with a shortage of AI data center capacity. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -123,7 +123,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/first-brands-fallout-exposes-risks-of-lending-private-credit",
     "title": "First Brands\u2019 Fallout Exposes Risks of Lending Private Debt",
-    "fetched_on": "2025-10-03T12:40:06.055705+00:00",
+    "fetched_on": "2025-10-03T13:26:47.072868+00:00",
     "content": "Since First Brands Group filed for bankruptcy with over $10 billion of liabilities, the market has been focused on blows to its broadly syndicated investors and trade finance providers. Some of the debt has plunged to around 36 cents on the dollar, with investors facing hundreds of millions of dollars of losses.",
     "platforms_mentioned": [],
     "keywords": [
@@ -143,7 +143,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/ubs-funds-face-half-billion-dollar-exposure-to-first-brands",
     "title": "UBS Funds Face $500 Million Exposure in First Brands",
-    "fetched_on": "2025-10-03T12:40:06.055686+00:00",
+    "fetched_on": "2025-10-03T13:26:47.072850+00:00",
     "content": "Funds under the UBS Group AG umbrella face more than half a billion dollars of exposure to bankrupt auto-parts supplier First Brands Group through various investment strategies, with one ranking as the biggest unsecured creditor, court documents show.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-03T12:40:33.193515+00:00",
+    "fetched_on": "2025-10-03T13:27:02.181161+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/fico-provider-is-shaking-up-its-credit-score-business-its-stock-is-surging.html",
     "title": "FICO provider is shaking up its credit score business. Its stock is surging",
-    "fetched_on": "2025-10-03T12:40:34.946335+00:00",
+    "fetched_on": "2025-10-03T13:27:04.229966+00:00",
     "content": "The company announced a new pricing model that will allow mortgage lenders to bypass credit bureaus for credit scores.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/tesla-tsla-q3-2025-vehicle-delivery-production.html",
     "title": "Tesla deliveries rise 7% before EV tax credits expire",
-    "fetched_on": "2025-10-03T12:40:34.946369+00:00",
+    "fetched_on": "2025-10-03T13:27:04.230002+00:00",
     "content": "Tesla's third-quarter deliveries got a boost as some consumers rush to buy electric vehicles before a federal tax credit expired.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/borrowers-face-funding-trade-off-as-pimco-flags-debt-market-cracks.html",
     "title": "Corporate borrowers face funding trade-off as PIMCO flags debt market 'cracks'",
-    "fetched_on": "2025-10-03T12:40:34.731727+00:00",
+    "fetched_on": "2025-10-03T13:27:03.728903+00:00",
     "content": "The president of bond giant PIMCO highlighted direct lending pressures as borrowers seek out payment-in-kind agreements.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-03T12:40:35.060155+00:00",
+    "fetched_on": "2025-10-03T13:27:04.853817+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-03T12:40:35.060162+00:00",
+    "fetched_on": "2025-10-03T13:27:04.853824+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-10-03T12:40:35.060190+00:00",
+    "fetched_on": "2025-10-03T13:27:04.853852+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-10-03T12:40:35.060204+00:00",
+    "fetched_on": "2025-10-03T13:27:04.853865+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
     "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
-    "fetched_on": "2025-10-03T12:40:35.169515+00:00",
+    "fetched_on": "2025-10-03T13:27:05.306868+00:00",
     "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/government-shutdown-student-loan-borrowers.html",
     "title": "Government shutdown blocks student loan borrowers from forgiveness, repayment plans",
-    "fetched_on": "2025-10-03T12:40:35.321963+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786173+00:00",
     "content": "The shutdown of the federal government could worsen the problems student loan borrowers are facing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/groceries-and-gas-top-consumers-pain-points.html",
     "title": "Consumers' top purchase pain points: groceries and gas, new report finds",
-    "fetched_on": "2025-10-03T12:40:35.321970+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786181+00:00",
     "content": "Consumers are increasingly leaning on credit cards to buy essentials like gas and groceries, according to a new report by TD Bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/aca-premiums-to-more-than-double-without-enhanced-subsidies.html",
     "title": "Affordable Care Act premiums will rise 114% if enhanced subsidies expire, health policy researcher finds",
-    "fetched_on": "2025-10-03T12:40:35.322001+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786211+00:00",
     "content": "The federal government may shut down if Congress can't reach a deal about enhanced premium tax credits, slated to expire at the end of 2025.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/student-loan-borrowers-tax-refunds-seized.html",
     "title": "Trump officials may be seizing student loan borrowers' tax refunds 'without required notice': Lawmakers",
-    "fetched_on": "2025-10-03T12:40:35.322025+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786236+00:00",
     "content": "Lawmakers say the Trump administration may be \"improperly\" seizing defaulted student borrowers' tax refunds by failing to provide the required notice.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
     "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
-    "fetched_on": "2025-10-03T12:40:35.322053+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786265+00:00",
     "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
     "title": "Ahead of EV tax credit deadline, IRS delays create 'anxiety' for car dealers",
-    "fetched_on": "2025-10-03T12:40:35.322060+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786271+00:00",
     "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
     "platforms_mentioned": [],
     "keywords": [
@@ -763,7 +763,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
     "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
-    "fetched_on": "2025-10-03T12:40:35.322087+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786299+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -783,7 +783,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
     "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
-    "fetched_on": "2025-10-03T12:40:35.322150+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786361+00:00",
     "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here\u2019s what to consider before signing up.",
     "platforms_mentioned": [],
     "keywords": [
@@ -803,7 +803,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/20/how-the-20-4-10-car-shopping-rule-works.html",
     "title": "Car shoppers \u2014 following one rule can help keep costs down, CFP says",
-    "fetched_on": "2025-10-03T12:40:35.322158+00:00",
+    "fetched_on": "2025-10-03T13:27:05.786368+00:00",
     "content": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1082,7 +1082,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-03/vietnam-central-bank-vows-to-push-growth-limiting-credit-risks",
     "title": "Vietnam Central Bank Vows to Push Growth, Limit Credit Risk",
-    "fetched_on": "2025-10-03T12:40:05.778761+00:00",
+    "fetched_on": "2025-10-03T13:26:46.918092+00:00",
     "content": "The State Bank of Vietnam plans to keep pursuing policies to spur growth while containing inflation, aiming to boost lending to businesses even as it controls credit to riskier sectors, according to a central bank briefing in Hanoi.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2271,7 +2271,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-03/subprime-credit-troubles-send-shares-of-consumer-lenders-reeling",
     "title": "Subprime Credit Troubles Send Shares of Consumer Lenders Reeling",
-    "fetched_on": "2025-10-03T12:40:04.619736+00:00",
+    "fetched_on": "2025-10-03T13:26:46.286392+00:00",
     "content": "Beneath the surface of what\u2019s been a remarkably resilient US economy, a series of small shocks in the world of consumer credit have combined to rock companies that service the most financially vulnerable Americans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2291,7 +2291,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/news/rivian-tops-quarterly-delivery-estimates-123903743.html",
     "title": "Rivian tops quarterly delivery estimates as sales jump before tax credit expiry",
-    "fetched_on": "2025-10-03T12:40:03.880016+00:00",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
     "content": "(Reuters) -Rivian Automotive reported a nearly 32% surge in third-quarter deliveries, beating analysts' estimates, as more U.S. car buyers rushed to secure tax credits before their expiry by purchasi\u2026 [+1539 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2311,7 +2311,7 @@
     "source": "Thefly.com [NewsAPI]",
     "url": "https://thefly.com/permalinks/entry.php/id4206803/AENT-Alliance-Entertainment-announces-fiveyear-M-credit-facility",
     "title": "Alliance Entertainment announces five-year $120M credit facility",
-    "fetched_on": "2025-10-03T12:40:03.880016+00:00",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
     "content": "Earnings calls, analyst events, roadshows and more",
     "platforms_mentioned": [],
     "keywords": [
@@ -2331,7 +2331,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/news/rivian-tops-quarterly-delivery-estimates-123207962.html",
     "title": "Rivian tops quarterly delivery estimates as sales jump before tax credit expiry",
-    "fetched_on": "2025-10-03T12:40:03.880016+00:00",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
     "content": "(Reuters) -Rivian Automotive reported a nearly 32% surge in third-quarter deliveries, beating analysts' estimates, as U.S. buyers rushed to secure tax credits before their expiry by buying new electr\u2026 [+1467 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2351,7 +2351,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/news/exclusive-china-banks-lend-saudi-123028339.html",
     "title": "Exclusive-China\u2019s banks lend to Saudi gas project while its funds sit out of BlackRock-led deal, sources say",
-    "fetched_on": "2025-10-03T12:40:03.880016+00:00",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
     "content": "By Hadeel Al Sayegh\r\nDUBAI (Reuters) -Chinas biggest state banks are lending billions to Aramcos Jafurah gas project, though its funds have passed on the opportunity to invest in the venture, three p\u2026 [+2430 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2371,7 +2371,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/10/02/3160356/0/en/Alliance-Entertainment-Announces-New-5-Year-120-Million-Credit-Facility-with-Bank-of-America.html",
     "title": "Alliance Entertainment Announces New 5-Year $120 Million Credit Facility with Bank of America",
-    "fetched_on": "2025-10-03T12:40:03.880016+00:00",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
     "content": "PLANTATION, Fla., Oct. 02, 2025 (GLOBE NEWSWIRE) -- Alliance Entertainment Holding Corporation (Nasdaq: AENT), a premier distributor and omnichannel fulfillment partner to the entertainment and pop c\u2026 [+6982 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2685,6 +2685,486 @@
       "Restated",
       "Credit",
       "Agreement"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-03/doubleline-says-shutdown-adds-fuel-to-popular-treasuries-trade",
+    "title": "DoubleLine Says Shutdown Adds Fuel to Popular Treasuries Trade",
+    "fetched_on": "2025-10-03T13:26:46.286252+00:00",
+    "content": "DoubleLine Capital says the popular strategy of betting on a steeper Treasury yield curve has plenty of room to run with the political gridlock in Washington only lending support to the trend.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Popular",
+      "Shutdown",
+      "Adds",
+      "Fuel",
+      "Treasuries",
+      "Trade",
+      "Capital",
+      "Treasury",
+      "Washington",
+      "DoubleLine"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f9577eb2-335d-407b-962f-d51d2f87bc24",
+    "title": "Tesla reports blowout Q3 deliveries as buyers plow in before federal tax credit expires",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "Tesla",
+      "blowout",
+      "deliveries"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/ev-sales-expected-crash-without-132051667.html",
+    "title": "EV sales expected to crash without U.S. tax credit; adoption could slow for years to come",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "The repeal of the U.S. electric vehicle tax credit wont just crash EV sales in the fourth quarter, it could slow the pace of adoption for years to come, according to industry forecasts.\r\nMarket share\u2026 [+6493 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "years",
+      "sales",
+      "tax",
+      "credit",
+      "slow",
+      "crash",
+      "adoption",
+      "electric",
+      "quarter",
+      "forecasts"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/tesla-q3-delivery-numbers-ev-tax-credit-2025-10",
+    "title": "Tesla smashes quarterly delivery numbers for the first time this year as EV credits expire",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Tesla exceeded delivery expectations for the third quarter as the Trump administration sunsetted a $7.500 EV tax credit on Tuesday.Justin Sullivan/Getty Images\r\n<ul><li>Tesla sales boomed in the thir\u2026 [+2933 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "Sullivan",
+      "Getty",
+      "Images",
+      "chars",
+      "Trump",
+      "delivery",
+      "thir",
+      "smashes",
+      "quarterly"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/915a8519764fb86c",
+    "title": "Tesla smashes quarterly delivery numbers for the first time this year as EV credits expire",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Tesla exceeded delivery expectations for the third quarter as the Trump administration sunsetted a $7.500 EV tax credit on Tuesday.Justin Sullivan/Getty ImagesTesla sales boomed in the third quarter \u2026 [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sullivan",
+      "Getty",
+      "Tesla",
+      "chars",
+      "quarter",
+      "Trump",
+      "delivery",
+      "smashes",
+      "quarterly",
+      "numbers"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/3103737f5402ff62",
+    "title": "Tesla Sales Rose in Third Quarter",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "The electric-vehicle maker sold more cars in the U.S. as consumers raced to use an expiring $7,500 tax credit.\r\nThis story appeared on wsj.com, 2025-10-02 13:09:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sales",
+      "Rose",
+      "Quarter",
+      "Tesla",
+      "expiring",
+      "tax",
+      "credit",
+      "electric-vehicle",
+      "maker",
+      "sold"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/eeca854f7b0e43f2",
+    "title": "Tesla beats delivery estimates on sales boost before EV tax credit expiry",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Berkshire Hathaway buying Occidental's chemical unit? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the\u2026 [+789 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Berkshire",
+      "Hathaway",
+      "Occidental",
+      "Tesla",
+      "expiry"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f1192c018c9ebef2",
+    "title": "Tesla\u2019s Car Sales Rise 7% as U.S. E.V. Tax Credit Ends",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Without the benefit of federal credits, electric vehicle sales are expected to sag in coming months, but eventually recover as the technology improves and as prices fall closer to those of gasoline-p\u2026 [+69 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rise",
+      "Car",
+      "Tesla",
+      "Sales",
+      "chars",
+      "Ends",
+      "Tax",
+      "electric",
+      "months",
+      "gasoline-p"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/600256465da9a674",
+    "title": "Tesla has its best sales quarter ever as EV tax credit expires",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "The tax credit's expiration on September 30 motivated buyers to take advantage of the $7,500 incentive, giving Tesla a shot to return to sales growth in 2025.\r\nThis story appeared on techcrunch.com, \u2026 [+19 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "September",
+      "Tesla",
+      "incentive",
+      "tax",
+      "credit",
+      "sales",
+      "motivated",
+      "giving",
+      "quarter",
+      "expires"
+    ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/10/02/2026-buick-electra-erev-arrives-190-miles-of-ev-range-and-an-affordable-price/",
+    "title": "2026 Buick Electra EREV arrives 190 miles of EV range and an affordable price",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Buick has had the best EV name in the business for decades, but an electrified Electra sedan hasn\u2019t been offered in the US yet. While everyone is fretting about the death of the Federal EV tax credit\u2026 [+2795 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buick",
+      "Electra",
+      "EREV",
+      "arrives",
+      "miles",
+      "decades",
+      "range",
+      "affordable",
+      "price",
+      "business"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f9de423b-9f74-4d11-b011-0ccf00bd3e6b",
+    "title": "Rivian lowers annual deliveries forecast as tax credit expiry fans industry gloom",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "Rivian",
+      "click",
+      "partners"
+    ]
+  },
+  {
+    "source": "Sherwood.news [NewsAPI]",
+    "url": "https://sherwood.news/tech/tesla-deliveries-surge-to-quarterly-record-on-last-gasp-of-ev-tax-credit/",
+    "title": "Tesla deliveries surge to quarterly record on last gasp of EV tax credit",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Meta currently monetizes your activity on Meta platforms using\u00a0your interactions (likes, shares, attention) to tailor your exposure to Metas massive advertising machine. So if you asked Meta AI about\u2026 [+1163 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Meta",
+      "shares",
+      "attention",
+      "Tesla",
+      "interactions",
+      "machine",
+      "deliveries",
+      "surge",
+      "quarterly",
+      "record"
+    ]
+  },
+  {
+    "source": "TechCrunch [NewsAPI]",
+    "url": "https://techcrunch.com/2025/10/02/tesla-has-its-best-sales-quarter-of-2025-as-ev-tax-credit-expires/",
+    "title": "Tesla has its best sales quarter ever as EV tax credit expires | TechCrunch",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Tesla\u2019s sales growth has vanished over the last year-and-a-half, but the company just registered its best quarter of deliveries ever, in large part because buyers rushed to take advantage of the $7,5\u2026 [+2925 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Tesla",
+      "sales",
+      "quarter",
+      "expires",
+      "TechCrunch",
+      "tax",
+      "credit",
+      "growth",
+      "vanished"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/podcasts/bidens-secretary-of-state-takes-credit-for-trumps-gaza-peace-plan-essentially-the-plan-we-developed/",
+    "title": "Biden\u2019s Secretary of State Takes Credit for Trump\u2019s Gaza Peace Plan: \u2018Essentially the Plan We Developed\u2019",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "(AP Photo/Jose Luis Magana)\r\nFormer Secretary of State Antony Blinken took partial credit for President Donald Trump\u2019s recently unveiled Gaza peace plan.\r\nBlinken joined Preet Bharara on his Stay Tun\u2026 [+2106 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Plan",
+      "Secretary",
+      "State",
+      "Trump",
+      "Gaza",
+      "Peace",
+      "Credit",
+      "Essentially",
+      "Developed\u2019",
+      "Photo"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/408631fe441de68a",
+    "title": "Tesla reports 497,000 vehicle deliveries for Q3, up %7",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Tesla reported quarterly vehicle deliveries of 497,099 for the period ended Sept. 30, which coincided with the expiration of a key tax credit for buyers of electric vehicles in the U.S.Here are the k\u2026 [+138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "Sept.",
+      "chars",
+      "deliveries",
+      "vehicle",
+      "reports",
+      "reported",
+      "quarterly",
+      "period",
+      "ended"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4206837/EFX;TRU;FICO;ABSI;FRMI;STLA;OXY;BRK.A-Video-Credit-bureaus-sink-after-FICO-bring-Scores-directly-to-customers",
+    "title": "Video: Credit bureaus sink after FICO bring Scores directly to customers",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Video",
+      "Credit",
+      "FICO",
+      "Scores",
+      "Earnings",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows",
+      "bureaus"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-lists/best-max-martin-songs-1235436326/",
+    "title": "The 50 Best Max Martin Songs",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Image Credit: Youtube\r\nIt begins with a throat clearing and the most badass bass drop of the 2010s. \u2026Ready for It?, produced by Martin, Shellback, and Ali Payami, kicks off 2017s\u00a0Reputation.\u00a0Its a de\u2026 [+551 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Youtube",
+      "Max",
+      "Songs",
+      "Image",
+      "Martin",
+      "Shellback",
+      "Reputation",
+      "begins",
+      "throat"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/42640133/i-want-a-week-of-free-nights-and-a-written-apology-hotel-guest-loses-it-on-staff-after-her",
+    "title": "\u2018I want a week of free nights and a written apology!\u2019: Hotel guest loses it on staff after her reservation gets cancelled for lacking a credit card",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Some hotel guests walk in with both their best manners and their biggest list of demands, just waiting for the right opportunity. On a night when the hotel is booked solid, one woman shows up certain\u2026 [+779 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hotel",
+      "apology",
+      "demands",
+      "opportunity",
+      "guest",
+      "guests",
+      "week",
+      "free",
+      "written",
+      "loses"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/107347/dutch-digital-banking-outfit-plumery-targets-canada",
+    "title": "Dutch digital banking outfit Plumery targets Canada",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Plumery, the digital banking experience platform, today unveiled Canada-specific features and integrations giving Canadian credit unions a clear path to deliver personalized, compliant, and modern di\u2026 [+2339 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "compliant",
+      "chars",
+      "Plumery",
+      "Canada",
+      "Canada-specific",
+      "Canadian",
+      "digital",
+      "banking",
+      "Dutch",
+      "platform"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/107355/claritypay-appoints-amex-vet-mrutyunjaya-panda-coo",
+    "title": "ClarityPay appoints AmEx vet Mrutyunjaya Panda COO",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "ClarityPay, a provider of tailored point-of-sale credit solutions, today announced the appointment of Mrutyunjaya \"MJ\" Panda as Chief Operating Officer. Panda, a veteran of Goldman Sachs and American\u2026 [+2016 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mrutyunjaya",
+      "Officer",
+      "COO",
+      "Chief",
+      "Operating",
+      "Panda",
+      "ClarityPay",
+      "tailored",
+      "credit",
+      "solutions"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7631536c592d2d9f",
+    "title": "Exclusive-China\u2019s banks lend to Saudi gas project while its funds sit out of BlackRock-led deal, sources say",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Exclusive-Chinas banks lend to Saudi gas project while its funds sit out of BlackRock-led deal, sources sayBy Hadeel Al SayeghDUBAI (Reuters) -Chinas biggest state banks are lending billions to Aramc\u2026 [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Saudi",
+      "Reuters",
+      "deal",
+      "Chinas",
+      "Aramc",
+      "lend",
+      "gas",
+      "project",
+      "funds",
+      "sit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1eaf2c3591b81be8",
+    "title": "Rivian tops quarterly delivery estimates as sales jump before tax credit expiry",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Berkshire Hathaway buying Occidental's chemical unit? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the\u2026 [+814 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Berkshire",
+      "Hathaway",
+      "Occidental",
+      "Rivian",
+      "expiry"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/jane-goodall-cause-of-death-5473060/",
+    "title": "Jane Goodall\u2019s Cause of Death: How Did the Beloved Primatologist Die?",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Image Credit: AFP via Getty Images\r\nDr. Jane Goodall\u00a0was a beloved researcher, primatologist, zoologist and overall celebrity scientist. The late 91-year-old London, England, native died while on her\u2026 [+2429 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Death",
+      "Die",
+      "Goodall",
+      "Jane",
+      "Beloved",
+      "Primatologist",
+      "London",
+      "England",
+      "Credit",
+      "AFP"
+    ]
+  },
+  {
+    "source": "Gizmodo.com [NewsAPI]",
+    "url": "https://gizmodo.com/tesla-hikes-prices-after-the-government-cash-grinds-to-a-halt-2000666476",
+    "title": "Tesla Hikes Prices After the Government Cash Grinds to a Halt",
+    "fetched_on": "2025-10-03T13:26:45.785259+00:00",
+    "content": "Tesla raised the lease prices for its most popular electric vehicles on Wednesday, according to figures posted to the company\u2019s website. The change comes after the federal EV tax credit, which was $7\u2026 [+2757 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "Prices",
+      "Wednesday",
+      "Hikes",
+      "Government",
+      "Cash",
+      "Grinds",
+      "Halt",
+      "website",
+      "raised"
     ]
   }
 ]
