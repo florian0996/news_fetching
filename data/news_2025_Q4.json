@@ -12062,5 +12062,85 @@
       "Credit",
       "Facility"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-03/pimco-president-on-private-credit-opportunities-video",
+    "title": "PIMCO President on Private Credit Opportunities",
+    "fetched_on": "2025-10-03T02:57:15.874530+00:00",
+    "content": "Christian Stracke, President at PIMCO, discusses the investment opportunities in the private credit market. He speaks with Avril Hong from the sidelines of the \"Milken Institute Asia Summit\" in Singapore. \n\n (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PIMCO",
+      "President",
+      "Private",
+      "Credit",
+      "Opportunities",
+      "Stracke",
+      "Christian",
+      "discusses",
+      "market",
+      "investment"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-03/gsam-private-credit-fundraising-remains-solid-video",
+    "title": "GSAM: Private Credit Fundraising Remains Solid",
+    "fetched_on": "2025-10-03T02:57:15.874537+00:00",
+    "content": "James Reynolds, Global Co-Head of Private Credit at Goldman Sachs Asset Management, discusses the outlook for private credit fundraising activity. He speaks with Avril Hong from the sidelines of the \"Milken Institute Asia Summit\" in Singapore. \n\n (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Private",
+      "GSAM",
+      "Fundraising",
+      "Reynolds",
+      "Global",
+      "Management",
+      "Remains",
+      "Solid",
+      "James"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-jamie-jackson-is-rupert-murdoch-in-murdoch-the-final-interview-off-broadway-show/article",
+    "title": "Review: Jamie Jackson is Rupert Murdoch in ‘Murdoch: The Final Interview’ Off-Broadway show",
+    "fetched_on": "2025-10-03T02:57:15.160371+00:00",
+    "content": "Jamie Jackson in 'Murdoch: The Final Interview.' Photo Credit: Russ Rowland.\r\nVeteran actor Jamie Jackson stars as media mogul and business magnate Rupert Murdoch in the Off-Broadway show “Murdoch: T… [+1965 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Murdoch",
+      "Final",
+      "Jamie",
+      "Jackson",
+      "Interview",
+      "Interview’",
+      "Rupert",
+      "Review",
+      "Off-Broadway",
+      "show"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/07ced9029df2baab",
+    "title": "Indies Capital Raises Over $300 Million for Private Credit Fund",
+    "fetched_on": "2025-10-03T02:57:15.160371+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the US government shut down again? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is the shutdown impacting … [+750 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Million",
+      "Fund",
+      "return",
+      "false",
+      "Capital",
+      "Raises",
+      "Private"
+    ]
   }
 ]
