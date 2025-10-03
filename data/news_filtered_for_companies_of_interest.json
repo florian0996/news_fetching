@@ -1,6 +1,31 @@
 {
-  "2025-10-02": {
+  "2025-10-03": {
     "status": "no company in the news"
+  },
+  "2025-10-02": {
+    "articles": [
+      {
+        "title": "Coinbase Joins the Billion-Dollar Lending Club - Growth or Brewing Risk?",
+        "url": "https://biztoc.com/x/c40be79ca5b0d58b",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Coinbase Joins the Billion-Dollar Lending Club - Growth or Brewing Risk?",
+        "url": "https://beincrypto.com/coinbase-1-billion-onchain-loans-risks/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Teylor secures €150m in financing",
+        "url": "https://www.finextra.com/pressarticle/107330/teylor-secures-150m-in-financing",
+        "platforms_mentioned": [
+          "Fasanara"
+        ]
+      }
+    ]
   },
   "2025-10-01": {
     "articles": [
