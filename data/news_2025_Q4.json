@@ -17691,5 +17691,145 @@
       "tax",
       "poll"
     ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/tesla-deliveries-jump-7-as-us-tax-credit-expiry-drives-ev-sales-surge/H4RIMTUN3VF5PJ53BQ6CBJCB4E/",
+    "title": "Tesla deliveries jump 7% as US tax credit expiry drives EV sales surge",
+    "fetched_on": "2025-10-03T21:16:36.411418+00:00",
+    "content": "Musk has touted Teslas potential for great growth because of its autonomous driving and artificial intelligence technology, but some analysts have expressed disappointment at the lack of progress on … [+2153 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Musk",
+      "jump",
+      "technology",
+      "Tesla",
+      "Teslas",
+      "deliveries",
+      "tax",
+      "credit",
+      "expiry"
+    ]
+  },
+  {
+    "source": "The Real Deal [NewsAPI]",
+    "url": "https://therealdeal.com/miami/2025/10/02/south-beach-breakwater-hotel-defaults-on-loan/",
+    "title": "Jordache founders default on South Beach Breakwater hotel’s $28M loan, debt in special servicing",
+    "fetched_on": "2025-10-03T21:16:36.411418+00:00",
+    "content": "The Nakash familys woes at its Breakwater hotel in South Beach continue, this time because of a loan default. \r\nThe debt on the 100-key hotel at 940 and 960 Ocean Drive in Miami Beach entered special… [+5180 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "South",
+      "Breakwater",
+      "Beach",
+      "Nakash",
+      "hotel",
+      "default",
+      "loan",
+      "Jordache",
+      "continue",
+      "debt"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/86893/david-ornstein-world-class-liverpool-star-set-to-miss-six-weeks-through-injury.html",
+    "title": "David Ornstein: World-Class Liverpool star set to miss six weeks through injury",
+    "fetched_on": "2025-10-03T21:16:36.411418+00:00",
+    "content": "Credit to David Ornstein and The Athletic for reporting the news that Liverpool goalkeeper Alisson Becker is expected to be sidelined until after the November international break with a hamstring pro… [+4174 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ornstein",
+      "Liverpool",
+      "David",
+      "chars",
+      "Credit",
+      "Athletic",
+      "Alisson",
+      "Becker",
+      "November",
+      "World-Class"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6e2e408d980230be",
+    "title": "Mortgage lending may never look the same after FICO’s latest shake-up",
+    "fetched_on": "2025-10-03T21:16:36.411418+00:00",
+    "content": "Investors are celebrating a major shake up in how FICO scores will be shared with mortgage lenders, as shares of parent company Fair Isaac have rallied more than 20% on Thursday.That stock rally foll… [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "FICO",
+      "Investors",
+      "Fair",
+      "Isaac",
+      "lenders",
+      "foll",
+      "Mortgage",
+      "lending",
+      "latest"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2025/10/02/tesla-ev-sales-credit-musk-richest/86471346007/",
+    "title": "Tesla posts strong sales as EV tax credit lapses, Musk becomes first $500 billion man",
+    "fetched_on": "2025-10-03T21:16:36.411418+00:00",
+    "content": "Tesla surprised Wall Street with record quarterly sales as consumers rushed to snag an electric vehicle before federal tax credits expired, analysts said.\r\nThe EV giant delivered between July and Sep… [+2584 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Musk",
+      "Tesla",
+      "Wall",
+      "Street",
+      "sales",
+      "tax",
+      "lapses",
+      "billion",
+      "expired",
+      "analysts"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4207108/$ECON-Week-of--Fed-balance-sheet-reserve-bank-credit-B",
+    "title": "Week of 10/1 Fed balance sheet reserve bank credit $16.913B",
+    "fetched_on": "2025-10-03T21:16:36.411418+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "Earnings",
+      "Week",
+      "credit",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows",
+      "balance",
+      "sheet"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d8ee23bf586e2823",
+    "title": "Golub’s Private Credit CLO Offers Insurers a Rare Duration Play",
+    "fetched_on": "2025-10-03T21:16:36.411418+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the government shutdown impact the economy? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Teslas vehic… [+769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Play",
+      "return",
+      "false",
+      "Private",
+      "Credit",
+      "CLO",
+      "Offers"
+    ]
   }
 ]
