@@ -83,7 +83,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-02/bloomberg-tech-10-2-2025-video",
     "title": "OpenAI Becomes World\u2019s Largest Startup | Bloomberg Tech 10/2/2025",
-    "fetched_on": "2025-10-03T10:20:19.676333+00:00",
+    "fetched_on": "2025-10-03T11:16:25.479920+00:00",
     "content": "Bloomberg\u2019s Caroline Hyde and Ed Ludlow discuss OpenAI becoming the largest startup after it closed a deal allowing current and former employees to sell shares at a $500 billion valuation. Plus, Tesla's vehicle sales jumped to a worldwide record in the third quarter as US buyers got in before US tax credits expired. And Microsoft has inked more than $33 billion in commitments to neocloud providers, as it aims to cope with a shortage of AI data center capacity. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -123,7 +123,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/first-brands-fallout-exposes-risks-of-lending-private-credit",
     "title": "First Brands\u2019 Fallout Exposes Risks of Lending Private Debt",
-    "fetched_on": "2025-10-03T10:20:19.834974+00:00",
+    "fetched_on": "2025-10-03T11:16:25.727345+00:00",
     "content": "Since First Brands Group filed for bankruptcy with over $10 billion of liabilities, the market has been focused on blows to its broadly syndicated investors and trade finance providers. Some of the debt has plunged to around 36 cents on the dollar, with investors facing hundreds of millions of dollars of losses.",
     "platforms_mentioned": [],
     "keywords": [
@@ -143,7 +143,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-02/ubs-funds-face-half-billion-dollar-exposure-to-first-brands",
     "title": "UBS Funds Face $500 Million Exposure in First Brands",
-    "fetched_on": "2025-10-03T10:20:19.834965+00:00",
+    "fetched_on": "2025-10-03T11:16:25.727308+00:00",
     "content": "Funds under the UBS Group AG umbrella face more than half a billion dollars of exposure to bankrupt auto-parts supplier First Brands Group through various investment strategies, with one ranking as the biggest unsecured creditor, court documents show.",
     "platforms_mentioned": [],
     "keywords": [
@@ -420,23 +420,23 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/constellation-energy-corporation-ceg-signs-232814803.html",
-    "title": "Constellation Energy Corporation (CEG) Signs $7 Billion Revolving Credit Facility with JPMorgan and Other Banks",
-    "fetched_on": "2025-10-03T02:57:15.160371+00:00",
-    "content": "With strong hedge fund backing and favorable analyst ratings, Constellation Energy Corporation (NASDAQ:CEG) makes our list of the 10 Most Promising Green Stocks According to Wall Street Analysts. Co... [+1732 chars]",
+    "title": "Constellation Energy Corporation (CEG)\u00a0Signs $7 Billion Revolving Credit Facility with JPMorgan and Other Banks",
+    "fetched_on": "2025-10-03T11:16:46.086676+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "CEG",
-      "Corporation",
-      "Constellation",
-      "Energy",
       "Signs",
-      "NASDAQ",
+      "Corporation",
       "Billion",
+      "Banks",
+      "Energy",
       "Revolving",
       "Credit",
-      "Facility"
+      "Facility",
+      "Constellation"
     ]
   },
   {
@@ -463,7 +463,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-03T10:20:37.659797+00:00",
+    "fetched_on": "2025-10-03T11:16:43.595043+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/fico-provider-is-shaking-up-its-credit-score-business-its-stock-is-surging.html",
     "title": "FICO provider is shaking up its credit score business. Its stock is surging",
-    "fetched_on": "2025-10-03T10:20:39.464530+00:00",
+    "fetched_on": "2025-10-03T11:16:45.475579+00:00",
     "content": "The company announced a new pricing model that will allow mortgage lenders to bypass credit bureaus for credit scores.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/tesla-tsla-q3-2025-vehicle-delivery-production.html",
     "title": "Tesla deliveries rise 7% before EV tax credits expire",
-    "fetched_on": "2025-10-03T10:20:39.464559+00:00",
+    "fetched_on": "2025-10-03T11:16:45.475614+00:00",
     "content": "Tesla's third-quarter deliveries got a boost as some consumers rush to buy electric vehicles before a federal tax credit expired.",
     "platforms_mentioned": [],
     "keywords": [
@@ -520,10 +520,10 @@
     ]
   },
   {
-    "source": "CNBC Markets [RSS]",
+    "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/02/borrowers-face-funding-trade-off-as-pimco-flags-debt-market-cracks.html",
     "title": "Corporate borrowers face funding trade-off as PIMCO flags debt market 'cracks'",
-    "fetched_on": "2025-10-03T10:20:39.464638+00:00",
+    "fetched_on": "2025-10-03T11:16:45.370444+00:00",
     "content": "The president of bond giant PIMCO highlighted direct lending pressures as borrowers seek out payment-in-kind agreements.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-03T10:20:39.662692+00:00",
+    "fetched_on": "2025-10-03T11:16:45.582374+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-03T10:20:39.662700+00:00",
+    "fetched_on": "2025-10-03T11:16:45.582380+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-10-03T10:20:39.662749+00:00",
+    "fetched_on": "2025-10-03T11:16:45.582407+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-10-03T10:20:39.662762+00:00",
+    "fetched_on": "2025-10-03T11:16:45.582421+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
     "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
-    "fetched_on": "2025-10-03T10:20:39.765228+00:00",
+    "fetched_on": "2025-10-03T11:16:45.679783+00:00",
     "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/government-shutdown-student-loan-borrowers.html",
     "title": "Government shutdown blocks student loan borrowers from forgiveness, repayment plans",
-    "fetched_on": "2025-10-03T10:20:39.866668+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790592+00:00",
     "content": "The shutdown of the federal government could worsen the problems student loan borrowers are facing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/groceries-and-gas-top-consumers-pain-points.html",
     "title": "Consumers' top purchase pain points: groceries and gas, new report finds",
-    "fetched_on": "2025-10-03T10:20:39.866676+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790600+00:00",
     "content": "Consumers are increasingly leaning on credit cards to buy essentials like gas and groceries, according to a new report by TD Bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/aca-premiums-to-more-than-double-without-enhanced-subsidies.html",
     "title": "Affordable Care Act premiums will rise 114% if enhanced subsidies expire, health policy researcher finds",
-    "fetched_on": "2025-10-03T10:20:39.866706+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790629+00:00",
     "content": "The federal government may shut down if Congress can't reach a deal about enhanced premium tax credits, slated to expire at the end of 2025.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/student-loan-borrowers-tax-refunds-seized.html",
     "title": "Trump officials may be seizing student loan borrowers' tax refunds 'without required notice': Lawmakers",
-    "fetched_on": "2025-10-03T10:20:39.866728+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790650+00:00",
     "content": "Lawmakers say the Trump administration may be \"improperly\" seizing defaulted student borrowers' tax refunds by failing to provide the required notice.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
     "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
-    "fetched_on": "2025-10-03T10:20:39.866755+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790679+00:00",
     "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
     "title": "Ahead of EV tax credit deadline, IRS delays create 'anxiety' for car dealers",
-    "fetched_on": "2025-10-03T10:20:39.866762+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790686+00:00",
     "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
     "platforms_mentioned": [],
     "keywords": [
@@ -763,7 +763,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
     "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
-    "fetched_on": "2025-10-03T10:20:39.866790+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790713+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -783,7 +783,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
     "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
-    "fetched_on": "2025-10-03T10:20:39.866851+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790774+00:00",
     "content": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here\u2019s what to consider before signing up.",
     "platforms_mentioned": [],
     "keywords": [
@@ -803,7 +803,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/20/how-the-20-4-10-car-shopping-rule-works.html",
     "title": "Car shoppers \u2014 following one rule can help keep costs down, CFP says",
-    "fetched_on": "2025-10-03T10:20:39.866858+00:00",
+    "fetched_on": "2025-10-03T11:16:45.790781+00:00",
     "content": "The 20-4-10 rule shows how much money a car shopper to put up front on a purchase, how long a loan should be and how much they should spend each month.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1082,7 +1082,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-03/vietnam-central-bank-vows-to-push-growth-limiting-credit-risks",
     "title": "Vietnam Central Bank Vows to Push Growth, Limit Credit Risk",
-    "fetched_on": "2025-10-03T10:20:19.755298+00:00",
+    "fetched_on": "2025-10-03T11:16:25.624705+00:00",
     "content": "The State Bank of Vietnam plans to keep pursuing policies to spur growth while containing inflation, aiming to boost lending to businesses even as it controls credit to riskier sectors, according to a central bank briefing in Hanoi.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1694,8 +1694,8 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-03/europe-s-junkiest-junk-is-off-limits-after-brutal-restructurings",
-    "title": "Europe\u2019s Junkiest Junk Is Off Limits After Brutal Restructurings",
-    "fetched_on": "2025-10-03T09:19:54.097595+00:00",
+    "title": "Europe\u2019s Junkiest Junk Off Limits Amid Brutal Restructurings",
+    "fetched_on": "2025-10-03T11:16:25.177003+00:00",
     "content": "Debt investors have been so badly bruised by a recent string of fractious restructurings in Europe that they\u2019ve started actively avoiding the continent\u2019s riskiest credits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1704,11 +1704,11 @@
       "Junkiest",
       "Junk",
       "Limits",
+      "Amid",
       "Brutal",
       "Debt",
       "credits",
-      "investors",
-      "badly"
+      "investors"
     ]
   },
   {
@@ -1813,7 +1813,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/198871db42809f56",
     "title": "Credit bureau shares are getting hammered as FICO takes step to directly license mortgage scores",
-    "fetched_on": "2025-10-03T10:20:18.771165+00:00",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
     "content": "Shares of TransUnion, Equifax and Experian slumped on Thursday as FICO said its going to license its scores used to assess a mortgage borrowers credit worthiness directly.\r\nThis story appeared on mar\u2026 [+33 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1833,7 +1833,7 @@
     "source": "PetaPixel [NewsAPI]",
     "url": "https://petapixel.com/2025/10/02/ice-agent-throws-photographer-to-the-floor-causing-head-injury/",
     "title": "ICE Agent Throws Photographer to the Floor Causing Head Injury",
-    "fetched_on": "2025-10-03T10:20:18.771165+00:00",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
     "content": "Credit: Defense Visual Information Distribution Service / Public Domain\r\nThe chief videographer of the Anadolu news agency was taken to hospital after he was shoved to the ground by an ICE agent whil\u2026 [+3410 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1853,7 +1853,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/0429aeb31d71c276",
     "title": "Shares of credit bureaus fall as FICO rolls out direct mortgage score licensing",
-    "fetched_on": "2025-10-03T10:20:18.771165+00:00",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did OpenAI's valuation hit $500 billion? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the US government s\u2026 [+733 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1873,7 +1873,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-october-2-2025-100009089.html",
     "title": "Mortgage and refinance interest rates today, October 2, 2025: Treasury yields are falling, now watch mortgage rates",
-    "fetched_on": "2025-10-03T10:20:18.771165+00:00",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
     "content": "Mortgage rates may be in for a move lower if Treasury rates continue to fall. According to Zillow, the 30-year fixed-rate home loan is down six basis points today to 6.29%, while the 15-year fixed-ra\u2026 [+5663 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1993,7 +1993,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/sun-communities-inc-sui-announces-231009390.html",
     "title": "Sun Communities, Inc.\u00a0(SUI) Announces New $2 Billion Revolving Credit Facility",
-    "fetched_on": "2025-10-03T10:20:40.143800+00:00",
+    "fetched_on": "2025-10-03T11:16:46.086502+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -2011,7 +2011,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/postal-realty-trust-inc-pstl-231835356.html",
     "title": "Postal Realty Trust, Inc. (PSTL) Extends Maturities for Its Revolving, Term, and Delayed-Draw Loans and Fixed Interest Rates at 4.73% Until January 2030",
-    "fetched_on": "2025-10-03T10:20:40.143847+00:00",
+    "fetched_on": "2025-10-03T11:16:46.086552+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -2025,6 +2025,246 @@
       "January",
       "Maturities",
       "Loans"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5f0c2c3010c28fde",
+    "title": "Mark Cuban says Trump\u2019s new drug platform could succeed if it forces pharma managers to change: \u2018If that happens, Trump gets all the credit\u2019",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "Billionaire venture capitalist Mark Cuban has not shied away from blasting President Donald Trumps policy decisions, but he said Trumps latest move just might work.The president announced on Tuesday \u2026 [+131 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cuban",
+      "Mark",
+      "Trump",
+      "Trumps",
+      "Tuesday",
+      "President",
+      "chars",
+      "Billionaire",
+      "Donald",
+      "change"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/entertainment/2025/1002/1536469-kpop-demon-hunters-stars-credit-kendrick-lamar/",
+    "title": "Kpop Demon Hunters stars credit Kendrick Lamar",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "The singers behind the animated film KPop Demon Hunters say their musical influences extend well beyond K-pop.\r\nEJAE, Rei Ami and Audrey Nuna told Reuters they also draw inspiration from US hip-hop a\u2026 [+2229 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Demon",
+      "Hunters",
+      "K-pop",
+      "Kendrick",
+      "Lamar",
+      "Kpop",
+      "EJAE",
+      "Rei",
+      "chars",
+      "stars"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4206689/CCIF-Carlyle-Credit-Income-Fund-initiated-with-bullish-view-at-Alliance-Global-Partners",
+    "title": "Carlyle Credit Income Fund initiated with bullish view at Alliance Global Partners",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Income",
+      "Fund",
+      "Alliance",
+      "Global",
+      "Partners",
+      "Earnings",
+      "Carlyle",
+      "calls",
+      "analyst"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-keeps-status-quo-on-rates-announces-measures-to-boost-bank-credit/article70117523.ece",
+    "title": "RBI keeps status quo on rates, announces measures to boost bank credit",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "The RBIs rate-setting panel preferred to keep the powder dry, maintaining a status quo on the policy repo rate, amid benign inflation conditions and likelihood of risks to growth emanating from prolo\u2026 [+3368 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "quo",
+      "chars",
+      "status",
+      "announces",
+      "dry",
+      "maintaining",
+      "amid",
+      "prolo",
+      "rates",
+      "rate"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2025/10/02/mark-cuban-trump-drug-platform-impactful/",
+    "title": "Mark Cuban says Trump\u2019s new drug platform could succeed if it forces pharma managers to change: \u2018If that happens, Trump gets all the credit\u2019",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "Billionaire venture capitalist Mark Cuban has not shied away from blasting President Donald Trumps policy decisions, but he said Trumps latest move just might work.The president announced on Tuesday \u2026 [+3750 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cuban",
+      "Mark",
+      "Trump",
+      "Trumps",
+      "Tuesday",
+      "President",
+      "chars",
+      "Billionaire",
+      "Donald",
+      "change"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/cx2518579w9o",
+    "title": "Les Mis\u00e9rables lyricist felt lack of credit, archive reveals",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "Helen BushbyCulture reporter \r\nHerbert Kretzmer died in 2020 and his archive has been donated to Cambridge University\r\nThe late Herbert Kretzmer, who wrote the English libretto for Les Mis\u00e9rables, fe\u2026 [+3932 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mis\u00e9rables",
+      "Herbert",
+      "Kretzmer",
+      "chars",
+      "Les",
+      "Helen",
+      "Cambridge",
+      "University",
+      "English",
+      "credit"
+    ]
+  },
+  {
+    "source": "Thebaynet.com [NewsAPI]",
+    "url": "http://thebaynet.com/maryland-joins-northeast-public-health-collaborative-to-help-safeguard-vaccine-access/",
+    "title": "Maryland Joins Northeast Public Health Collaborative To Help Safeguard Vaccine Access - The BayNet",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "Photo Credit: Envato\r\nANNAPOLIS, Md. Maryland has joined a group of states that are setting their own public health recommendations after changes at the Centers for Disease Control and Prevention (CD\u2026 [+3132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Access",
+      "Credit",
+      "Envato",
+      "ANNAPOLIS",
+      "Joins",
+      "Northeast",
+      "Collaborative",
+      "Safeguard",
+      "Vaccine",
+      "Photo"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/02/3160228/0/en/Credit-Finance-Ltd-Accelerates-Global-Growth-with-Strategic-Leadership-and-NOVA-Platform-Expansion.html",
+    "title": "Credit Finance Ltd Accelerates Global Growth with Strategic Leadership and NOVA Platform Expansion",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "LONDON, Oct. 02, 2025 (GLOBE NEWSWIRE) -- Credit Finance Ltd is proud to announce a new phase of strategic expansion, driven by its flagship NOVA platform and a renewed commitment to global financial\u2026 [+3666 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Oct.",
+      "Finance",
+      "NOVA",
+      "chars",
+      "LONDON",
+      "GLOBE",
+      "NEWSWIRE",
+      "Platform",
+      "Global"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ed0680eb24c68d90",
+    "title": "Credit markets look increasingly dangerous",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "Credit markets look increasingly dangerousA couple of bankruptcies highlight the risksMention 2007 to a group of professional investors, and watch them bristle. The year was a bad one. It marked the \u2026 [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "markets",
+      "increasingly",
+      "risksMention",
+      "investors",
+      "bristle",
+      "dangerous",
+      "dangerousA",
+      "couple",
+      "bankruptcies"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/acquisitions/2025/synchrony-acquires-versatile-credits-credit-access-platform/",
+    "title": "Synchrony Acquires Versatile Credit\u2019s Credit Access Platform",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "The deal gives Synchrony access to the Versatile platform, which connects merchants, lenders and consumers via point-of-sale solutions, the company said Wednesday (Oct. 1).\u00a0\r\n\u201cSynchrony intends to ma\u2026 [+2597 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct.",
+      "Versatile",
+      "Credit",
+      "Wednesday",
+      "Access",
+      "Platform",
+      "solutions",
+      "Acquires",
+      "Synchrony",
+      "merchants"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/fe8cee7fcad8445e",
+    "title": "EA\u2019s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears",
+    "fetched_on": "2025-10-03T11:16:24.597027+00:00",
+    "content": "Were two days out from EAs announcement that it would sell to Saudia Arabia and private equity for $55 billion, and as the dust settles, concerns continue to mount. Some inside the company are worrie\u2026 [+149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fallout",
+      "Junk",
+      "Ratings",
+      "Risky",
+      "Bets",
+      "billion",
+      "Saudi",
+      "Deal",
+      "Credit",
+      "Developer"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/japanese-loans-giant-mbk-announces-233000731.html",
+    "title": "Japanese Loans Giant MBK Announces $2M Bitcoin Purchase, Crypto Exchange Deal",
+    "fetched_on": "2025-10-03T11:16:46.086707+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Announces",
+      "Bitcoin",
+      "Purchase",
+      "Crypto",
+      "Deal",
+      "Loans",
+      "Giant",
+      "MBK",
+      "Exchange",
+      "Japanese"
     ]
   }
 ]
