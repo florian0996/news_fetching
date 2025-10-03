@@ -12669,5 +12669,45 @@
       "rating",
       "issued"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-03/european-banks-growing-risk-taking-to-pay-off-with-revenue-lift",
+    "title": "European Banks’ Growing Risk-Taking to Pay Off With Revenue Lift",
+    "fetched_on": "2025-10-03T08:25:50.366852+00:00",
+    "content": "European banks’ growing appetite for leveraged loans is brightening revenue prospects and opening the door to raised earnings estimates.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks’",
+      "European",
+      "Growing",
+      "Revenue",
+      "Pay",
+      "Lift",
+      "estimates",
+      "Risk-Taking",
+      "appetite",
+      "leveraged"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/cryptocurrency/2025/credit-cards-bring-crypto-into-everyday-life/",
+    "title": "Credit Cards Bring Crypto Into Everyday Life",
+    "fetched_on": "2025-10-03T08:25:49.743630+00:00",
+    "content": "Cryptocurrencies grab headlines, but they arent a mainstream asset for consumers. The credit card industry might change that, and in more ways than one.Nearly 1 in 10 (8%) U.S. adult consumers had an… [+5918 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bring",
+      "Crypto",
+      "Everyday",
+      "Life",
+      "Cryptocurrencies",
+      "headlines",
+      "Credit",
+      "chars",
+      "consumers",
+      "grab"
+    ]
   }
 ]
