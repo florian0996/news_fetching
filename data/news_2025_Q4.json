@@ -12229,5 +12229,85 @@
       "banks",
       "deal"
     ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2025/10/02/xrp-jumps-5-as-sbi-lending-program-and-etf-countdown-fuel-rally",
+    "title": "XRP Jumps 5% as SBI Lending Program and ETF Countdown Fuel Rally",
+    "fetched_on": "2025-10-03T04:23:17.083215+00:00",
+    "content": "XRP surged to fresh highs after Japans SBI unveiled an institutional lending initiative, igniting volumes above 160M and lifting price through key resistance. Buyers defended $2.93 multiple times as … [+1800 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "XRP",
+      "SBI",
+      "Jumps",
+      "Lending",
+      "Program",
+      "ETF",
+      "Countdown",
+      "Fuel",
+      "Rally",
+      "Japans"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/10/02/todays-nyt-mini-crossword-clues-and-answers-for-thursday-october-2nd/",
+    "title": "Today’s NYT Mini Crossword Clues And Answers For Thursday, October 2nd",
+    "fetched_on": "2025-10-03T04:23:17.083215+00:00",
+    "content": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.\r\nCredit: NYT\r\nI have returned from my travels and Im oh-so-ready to be home. I love travel but… [+2749 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mini",
+      "Crossword",
+      "October",
+      "Thursday",
+      "NYT",
+      "Clues",
+      "Answers",
+      "Today",
+      "puzzle",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/jakes-mistakes-made-lessons-learned/",
+    "title": "Jake’s Mistakes Made, Lessons Learned",
+    "fetched_on": "2025-10-03T04:23:17.083215+00:00",
+    "content": "Credit: Joe Nicholson-Imagn Images\r\nFollowing in Chad Youngs (and my daughters) footsteps, its time to look back on some of the mistakes that I made managing my fantasy baseball teams this year. Its … [+9796 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "footsteps",
+      "Lessons",
+      "Credit",
+      "Joe",
+      "Youngs",
+      "Mistakes",
+      "Made",
+      "Learned",
+      "Images",
+      "Chad"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f028ff42fe3d1460",
+    "title": "Sets New EV Record in Q3 ahead of Tax Credit Expiration",
+    "fetched_on": "2025-10-03T04:23:17.083215+00:00",
+    "content": "delivered a strong third-quarter performance, reporting 710,347 vehicle sales in the U.S., up 7.7% year-over-year. The upside was driven by surging demand for both electric and gas-powered models. Im… [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "reporting",
+      "Record",
+      "Tax",
+      "Credit",
+      "Expiration",
+      "Sets",
+      "ahead",
+      "performance",
+      "vehicle",
+      "delivered"
+    ]
   }
 ]
