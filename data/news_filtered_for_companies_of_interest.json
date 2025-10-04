@@ -1,6 +1,17 @@
 {
-  "2025-10-03": {
+  "2025-10-04": {
     "status": "no company in the news"
+  },
+  "2025-10-03": {
+    "articles": [
+      {
+        "title": "LendingClub (NYSE:LC) Downgraded by Zacks Research to “Hold”",
+        "url": "https://www.etfdailynews.com/2025/10/02/lendingclub-nyselc-downgraded-by-zacks-research-to-hold/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-10-02": {
     "articles": [
