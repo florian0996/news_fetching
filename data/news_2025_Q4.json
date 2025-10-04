@@ -21077,5 +21077,125 @@
       "Predictions",
       "chars"
     ]
+  },
+  {
+    "source": "Tom's Hardware UK [NewsAPI]",
+    "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-oled-gaming-monitor-drops-to-lowest-ever-price-max-out-your-gpu-not-your-credit-card-for-just-usd879",
+    "title": "Samsung's 49-inch OLED gaming monitor drops to lowest-ever price — max out your GPU, not your credit card, for just $879",
+    "fetched_on": "2025-10-04T16:21:48.849307+00:00",
+    "content": "Even with the best gaming PC, having a premium monitor makes all the difference for an enjoyable gaming experience. If you're looking for an exceptional OLED gaming monitor, the Samsung Odyssey G9 G9… [+2130 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GPU",
+      "OLED",
+      "gaming",
+      "monitor",
+      "Samsung",
+      "price",
+      "max",
+      "card",
+      "experience",
+      "drops"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/10/03/best-cbd-thc-picks-2025/",
+    "title": "Best CBD & THC Picks for 2025: Gummies, Drinks & More",
+    "fetched_on": "2025-10-04T16:21:48.849307+00:00",
+    "content": "Image Credit: Kind Oasis\r\nIts 2025, and CBD and hemp-derived THC have officially moved from niche wellness hacks to everyday lifestyle essentials. From softgels and gummies to sippable drinks, these … [+6207 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CBD",
+      "THC",
+      "Credit",
+      "Kind",
+      "Drinks",
+      "Picks",
+      "Image",
+      "Oasis",
+      "Gummies",
+      "essentials"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/podcasts/indo-sport-podcast/indo-sport-podcast-bits-and-bobs-ryder-cup-wives-heimirs-blame-game-restaurant-volume-etiquette/a109545670.html",
+    "title": "Indo Sport podcast: Bits & Bobs | Ryder Cup wives, Heimir’s blame game, restaurant volume etiquette",
+    "fetched_on": "2025-10-04T16:21:48.849307+00:00",
+    "content": "Team Europe players, captain Luke Donald (centre) alongside their wives and partners celebrate with the Ryder Cup Trophy at the Bethpage Black Course, Farmingdale, New York. Photo credit: David Davie… [+9 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bits",
+      "Bobs",
+      "Farmingdale",
+      "Ryder",
+      "Cup",
+      "centre",
+      "Heimir",
+      "Donald",
+      "York",
+      "Sport"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18658432-amex-offer-ymmv-statement-credit-on-ikea-nordstorm-scheels-lenscrafter-and-more",
+    "title": "[Amex Offer] YMMV Statement credit on Ikea, Nordstorm, Scheels, Lenscrafter and more (3 replies)",
+    "fetched_on": "2025-10-04T16:21:48.849307+00:00",
+    "content": "Gift card should work in store for Nordstrom.Qualifying PurchasesOffer valid in-store at Nordstrom and Nordstrom Rack, and online only at US website nordstrom.com and nordstromrack.com. Valid at part… [+504 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nordstrom",
+      "Nordstorm",
+      "Scheels",
+      "Amex",
+      "Offer",
+      "YMMV",
+      "Ikea",
+      "Lenscrafter",
+      "Gift",
+      "Rack"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/opinion/editorial/credit-overdrive/article70121737.ece",
+    "title": "Credit overdrive",
+    "fetched_on": "2025-10-04T16:21:48.849307+00:00",
+    "content": "The Reserve Bank of India (RBI), in its recent monetary policy, has gone all-out to push credit growth at below 10 per cent this fiscal in an effort to boost consumption. On Wednesday, it announced t… [+2803 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "India",
+      "Reserve",
+      "Bank",
+      "policy",
+      "consumption",
+      "Credit",
+      "chars",
+      "Wednesday",
+      "overdrive"
+    ]
+  },
+  {
+    "source": "Time [NewsAPI]",
+    "url": "https://time.com/7322371/russia-ukraine-war-depression-happy/",
+    "title": "Are Russians Really Happy?",
+    "fetched_on": "2025-10-04T16:21:48.849307+00:00",
+    "content": "People walk along the Red Square as sunlight reflects off the Kremlin Clock on the Spasskaya Tower in Moscow, Russia, on Aug. 7, 2025. Credit - Pavel BednyakovAP\r\nI have been spending time in Russia … [+9681 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Happy",
+      "Russians",
+      "Russia",
+      "Moscow",
+      "Aug.",
+      "Red",
+      "Square",
+      "Kremlin",
+      "Clock",
+      "Spasskaya"
+    ]
   }
 ]
