@@ -22933,5 +22933,65 @@
       "Critical",
       "business"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/10/04/pfg-investments-llc-has-10-30-million-stock-holdings-in-visa-inc-v/",
+    "title": "PFG Investments LLC Has $10.30 Million Stock Holdings in Visa Inc. $V",
+    "fetched_on": "2025-10-05T09:17:49.897777+00:00",
+    "content": "PFG Investments LLC reduced its position in Visa Inc. (NYSE:V – Free Report) by 6.1% in the 2nd quarter, according to its most recent filing with the SEC. The fund owned 28,996 shares of the credit-c… [+7004 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Investments",
+      "Visa",
+      "Million",
+      "PFG",
+      "LLC",
+      "Stock",
+      "Holdings",
+      "NYSE",
+      "Free",
+      "Report"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-fusion-finance-motilal-oswal-bet-on-recovery-led-growth-in-microfinance/articleshow/124305115.cms",
+    "title": "CreditAccess, Fusion Finance: Motilal Oswal bet on recovery-led growth in microfinance",
+    "fetched_on": "2025-10-05T09:17:49.897777+00:00",
+    "content": "The microfinance industry, after enduring a turbulent phase, is now on a gradual path to recovery, supported by operational reforms and structural shifts that promise to strengthen the sectors long-t… [+4146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CreditAccess",
+      "chars",
+      "Fusion",
+      "Finance",
+      "Motilal",
+      "Oswal",
+      "industry",
+      "phase",
+      "recovery",
+      "supported"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/10/a-payment-plan-for-11-worth-of-tacos-payment-plans-are-getting-out-of-control-and-this-food-purchase-shows-why/",
+    "title": "‘A payment plan for $11 worth of tacos?’ – Payment Plans Are Getting Out Of Control And This Food Purchase Shows Why",
+    "fetched_on": "2025-10-05T09:17:49.897777+00:00",
+    "content": "TikTok/Shutterstock\r\nJust about everyone has had times in their life when they are short on money and desperate.\r\nFor some people, that means putting the basics on credit and then making payments on … [+1921 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "worth",
+      "tacos",
+      "payment",
+      "Shutterstock",
+      "plan",
+      "Plans",
+      "Control",
+      "Food",
+      "Purchase",
+      "Shows"
+    ]
   }
 ]
