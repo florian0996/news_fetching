@@ -23948,5 +23948,85 @@
       "shutdown",
       "favorites"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/22a75defa7a148d6",
+    "title": "Tom Dundon, Portland Trail Blazers Buyer, Built His Fortune on Subprime Loans",
+    "fetched_on": "2025-10-05T20:19:42.737864+00:00",
+    "content": "Reporting Highlights- Arena Deal: Oregon leaders pledged to support a new and improved arena for the Trail Blazers basketball team when it went up for sale.- Buyer With a Past: Tom Dundon, who agreed… [+154 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dundon",
+      "Tom",
+      "Trail",
+      "Blazers",
+      "chars",
+      "Portland",
+      "Built",
+      "Highlights",
+      "Deal",
+      "Oregon"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/articles/cm2zgy2ze63o",
+    "title": "Decision on new Glenavon boss 'not too far away' - Best",
+    "fetched_on": "2025-10-05T20:19:42.737864+00:00",
+    "content": "McDaid, who led the interim management team, credited the players and their attitude against Portadown after a difficult week at the club.\r\n\"It's been tough, no doubt. Pre-season was so positive afte… [+1049 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Glenavon",
+      "Portadown",
+      "Decision",
+      "boss",
+      "McDaid",
+      "team",
+      "credited",
+      "club",
+      "led",
+      "interim"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/fb854e084d370b94",
+    "title": "Federal EV Credits Disappeared. This State Just Upped Its Own Incentive To Help Replace Them",
+    "fetched_on": "2025-10-05T20:19:42.737864+00:00",
+    "content": "Federal EV Credits Disappeared. This State Just Upped Its Own Incentive To Help Replace ThemForget $7,500 from the feds. How about $9,000 from the state?- Colorado has been one of the most generous s… [+152 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disappeared",
+      "Credits",
+      "State",
+      "Upped",
+      "Incentive",
+      "Federal",
+      "Replace",
+      "Colorado",
+      "chars",
+      "ThemForget"
+    ]
+  },
+  {
+    "source": "CleanTechnica [NewsAPI]",
+    "url": "https://cleantechnica.com/?p=361320",
+    "title": "New Volkswagen ID.4 Pro Leased For About $100 Per Month",
+    "fetched_on": "2025-10-05T20:19:42.737864+00:00",
+    "content": "Support CleanTechnica's work through a Substack subscription or on Stripe.\r\nRight before the US EV tax credit was phased out, a guy in Colorado leased a new ID.4 Pro for about $100 per month. (The dr… [+3601 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Volkswagen",
+      "Stripe",
+      "Pro",
+      "Support",
+      "Substack",
+      "Month",
+      "Leased",
+      "CleanTechnica",
+      "work",
+      "subscription"
+    ]
   }
 ]
