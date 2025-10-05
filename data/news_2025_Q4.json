@@ -23671,5 +23671,105 @@
       "Iger",
       "House"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/10/04/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "fetched_on": "2025-10-05T16:21:34.504741+00:00",
+    "content": "What to watch this weekend.\r\nCredit: Apple / Focus Features / Netflix\r\nTerrifying serial killers, breathtaking acts of heroism, and heists gone terribly wrong. These stories and so many more grace ou… [+11138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Weekend",
+      "Watch",
+      "Hulu",
+      "Apple",
+      "Prime",
+      "Video",
+      "Shows",
+      "Movies",
+      "Stream",
+      "Netflix"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/10/04/nyt-connections-today-hints-answers-for-sunday-october-5/",
+    "title": "NYT Connections Today: Hints, Answers For Sunday, October 5",
+    "fetched_on": "2025-10-05T16:21:34.504741+00:00",
+    "content": "Credit: NYT / Erik Kain\r\nLooking for a little help with your Sunday Connections puzzle? If youre looking for extra clues or the answers youve come to the right place. Below youll find an extra set of… [+5129 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYT",
+      "Hints",
+      "October",
+      "Credit",
+      "Connections",
+      "Sunday",
+      "Today",
+      "Erik",
+      "Kain",
+      "Answers"
+    ]
+  },
+  {
+    "source": "Jwplayer.com [NewsAPI]",
+    "url": "https://cdn.jwplayer.com/videos/bJXj7vuH-5aXKYmv2.mp4",
+    "title": "Black Hole Potentially 6000 Light-Years Away - Evidence From Hubble Space Telescope",
+    "fetched_on": "2025-10-05T16:21:34.504741+00:00",
+    "content": "The Hubble Space Telescope's evidence of an \"intermediate-sized\" black hole about 6000 light-years away in the closest globular star cluster to our home planet. Credit: NASA's Goddard Space Flight Ce… [+286 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hubble",
+      "Telescope",
+      "Black",
+      "Light-Years",
+      "Space",
+      "Hole",
+      "Potentially",
+      "Evidence",
+      "intermediate-sized",
+      "planet"
+    ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-869376",
+    "title": "Israel faces impending crisis on Egyptian border, West Bank as Gaza war looms",
+    "fetched_on": "2025-10-05T16:21:34.504741+00:00",
+    "content": "Israeli security forces seen during a military operation in the West Bank city of Jenin, February 25, 2025. (photo credit: NASSER ISHTAYEH/FLASH90)\r\nThe West Bank and the Egyptian border have the pot… [+3356 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "West",
+      "February",
+      "Bank",
+      "Jenin",
+      "Egyptian",
+      "Gaza",
+      "Israeli",
+      "Israel",
+      "border",
+      "faces"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/10/05/trump-layoffs-government-shutdown-kevin-hassett-.html",
+    "title": "'There will start to be layoffs' if Trump decides shutdown talks have stalled, Hassett says",
+    "fetched_on": "2025-10-05T16:21:56.451263+00:00",
+    "content": "Democrats are holding firm on their health-care demands, pushing to include a permanent extension of enhanced premium tax credits in funding legislation.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hassett",
+      "Trump",
+      "Democrats",
+      "stalled",
+      "demands",
+      "pushing",
+      "legislation",
+      "start",
+      "layoffs'",
+      "decides"
+    ]
   }
 ]
