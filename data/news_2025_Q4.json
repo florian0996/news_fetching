@@ -22993,5 +22993,83 @@
       "Purchase",
       "Shows"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tata-capital-ipo-to-open-on-october-6-98-of-loan-book-under-rs-1-crore-says-md/articleshow/124305815.cms",
+    "title": "Tata Capital IPO to open on October 6; 98% of loan book under Rs 1 crore, says MD",
+    "fetched_on": "2025-10-05T10:18:47.730890+00:00",
+    "content": "Tata Capital Limited is set to open its Initial Public Offering (IPO) on Monday, October 6, 2025, the company announced at a press conference held in Jaipur today. The announcement was made by Rajiv … [+2337 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "Capital",
+      "IPO",
+      "Offering",
+      "Monday",
+      "crore",
+      "Tata",
+      "Limited",
+      "Initial",
+      "Public"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-october-4-2025-100054166.html",
+    "title": "HELOC rates today, October 4, 2025: Your introductory rate might last through two more interest rate cuts",
+    "fetched_on": "2025-10-05T10:18:47.730890+00:00",
+    "content": "The average rate on a home equity line of credit remains just below 8.5%. With the Federal Reserve lowering interest rates, by the time your below-market introductory rate expires, HELOC rates might … [+3872 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "October",
+      "rate",
+      "rates",
+      "introductory",
+      "interest",
+      "today",
+      "cuts",
+      "average",
+      "home"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/former-tesla-exec-claims-ev-080200421.html",
+    "title": "Former Tesla exec claims EV industry will grow, not shrink, after death of $7,500 tax credit: ‘The market’s established’",
+    "fetched_on": "2025-10-05T10:19:08.071449+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "grow",
+      "shrink",
+      "tax",
+      "credit",
+      "established’",
+      "exec",
+      "claims",
+      "industry",
+      "death"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-october-5-2025-100005822.html",
+    "title": "HELOC rates today, October 5, 2025: The versatile line of credit rate keeps getting better",
+    "fetched_on": "2025-10-05T10:19:08.071703+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "HELOC",
+      "today",
+      "versatile",
+      "line",
+      "credit",
+      "rates",
+      "rate"
+    ]
   }
 ]
