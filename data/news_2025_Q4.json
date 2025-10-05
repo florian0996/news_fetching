@@ -23868,5 +23868,65 @@
       "Pay",
       "Cash"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8d266ff6fc6304cf",
+    "title": "2 Problems Rivian, Lucid, and Tesla Will Face After the EV Tax Credit Expiration",
+    "fetched_on": "2025-10-05T18:25:55.337437+00:00",
+    "content": "Key Points-The U.S. government eliminated several key industry subsidies.-Lucid, Rivian, and Tesla will all face harsh consequences.Earlier this year, electric car stocks across the board saw sharp d… [+146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lucid",
+      "Rivian",
+      "Tesla",
+      "chars",
+      "Problems",
+      "Face",
+      "Key",
+      "Tax",
+      "Credit",
+      "Expiration"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/10/disney-world-resort-hotel-evacuation-reddit-emd1/",
+    "title": "Disney World Resort Hotel Evacuates Guests, Updates Provided",
+    "fetched_on": "2025-10-05T18:25:55.337437+00:00",
+    "content": "A Disney World Resort hotel was evacuated this morning. What happened?\r\nCredit: Disney\r\nA Disney World Resort Hotel Was Evacuated This Morning: What Happened?\r\nIt was supposed to be a peaceful mornin… [+4221 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Resort",
+      "Disney",
+      "Guests",
+      "Updates",
+      "Hotel",
+      "Evacuates",
+      "Provided",
+      "morning",
+      "happened"
+    ]
+  },
+  {
+    "source": "Variety [NewsAPI]",
+    "url": "https://variety.com/2025/music/news/lola-young-files-claim-carter-lang-songwriting-credits-1236540272/",
+    "title": "Lola Young Files Claim Against ‘Messy’ Co-Producer Carter Lang Over Songwriting Credits",
+    "fetched_on": "2025-10-05T18:25:55.337437+00:00",
+    "content": "Lola Young has filed an intellectual property court claim against musician Carter Lang, “strongly [refuting]” his assertions that he has writing credits on four of her songs.\r\nLang, who has worked wi… [+1450 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Young",
+      "Carter",
+      "Lola",
+      "Claim",
+      "Messy’",
+      "Lang",
+      "Credits",
+      "strongly",
+      "refuting",
+      "Files"
+    ]
   }
 ]
