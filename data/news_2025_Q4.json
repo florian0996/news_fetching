@@ -24288,5 +24288,25 @@
       "Tax",
       "Credit"
     ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/10/05/podcastone-nasdaqpodc-vs-creditriskmonitor-com-otcmktscrmz-critical-contrast/",
+    "title": "PodcastOne (NASDAQ:PODC) vs. CreditRiskMonitor.com (OTCMKTS:CRMZ) Critical Contrast",
+    "fetched_on": "2025-10-06T05:19:34.776793+00:00",
+    "content": "PodcastOne (NASDAQ:PODC – Get Free Report) and CreditRiskMonitor.com (OTCMKTS:CRMZ – Get Free Report) are both small-cap computer and technology companies, but which is the superior investment? We wi… [+5345 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "PODC",
+      "OTCMKTS",
+      "CRMZ",
+      "Report",
+      "Free",
+      "Critical",
+      "PodcastOne",
+      "CreditRiskMonitor.com",
+      "Contrast"
+    ]
   }
 ]
