@@ -24908,5 +24908,65 @@
       "shoppers",
       "surprising"
     ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/trumps-student-loan-debt-repayment-overhaul-borrowing-caps-professional-degrees-2025-10",
+    "title": "How new details from Trump's student-loan repayment overhaul could affect Americans seeking advanced degrees",
+    "fetched_on": "2025-10-06T11:16:48.959784+00:00",
+    "content": "President Donald Trump's student-loan repayment overhaul would place new borrowing caps on graduate and professional degree programs.Alex Wong/Getty Images\r\n<ul><li>The Education Department concluded… [+5680 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "chars",
+      "Wong",
+      "Getty",
+      "Images",
+      "student-loan",
+      "repayment",
+      "Americans",
+      "President",
+      "Donald"
+    ]
+  },
+  {
+    "source": "AOL [NewsAPI]",
+    "url": "https://www.aol.com/finance/indiana-couple-172k-debt-resorting-105500101.html",
+    "title": "Indiana couple with $172K in debt resorting to credit cards to buy groceries — why Dave Ramsey blames their cars",
+    "fetched_on": "2025-10-06T11:16:48.959784+00:00",
+    "content": "After combining her finances with her husbands, Michelle from Indiana discovered just how deep they are in debt.\r\nMichelle called in to The Ramsey Show seeking help on how to deal with this debt, whi… [+6023 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indiana",
+      "Michelle",
+      "Dave",
+      "Ramsey",
+      "debt",
+      "groceries",
+      "husbands",
+      "couple",
+      "resorting",
+      "credit"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/rbi-monetary-policy-india-reforms-economic-growth-central-bank-nbfc-lending-rules-reserve-bank-of-india-rate-cuts-lend-11759632242369.html",
+    "title": "RBI credit reforms: India’s central bank seems concerned about the state of India’s economy",
+    "fetched_on": "2025-10-06T11:16:48.959784+00:00",
+    "content": "It all starts with some signalling, achieved largely through adjustment of liquidity and recalibration of benchmark rates as well as yield curves. Then comes nuanced communication, imploring economic… [+5402 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "RBI",
+      "reforms",
+      "signalling",
+      "achieved",
+      "curves",
+      "credit",
+      "central",
+      "bank",
+      "concerned"
+    ]
   }
 ]
