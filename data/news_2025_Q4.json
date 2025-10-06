@@ -24388,5 +24388,65 @@
       "line",
       "breaking"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-06/oaktree-backs-gulf-real-estate-fund-arzan-in-private-credit-push",
+    "title": "Oaktree Backs Gulf Real Estate Fund Arzan in Private Credit Push",
+    "fetched_on": "2025-10-06T07:20:31.653643+00:00",
+    "content": "Oaktree Capital Management is backing a Middle East hospitality investor as private credit interest in the region is gaining traction.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Credit",
+      "Oaktree",
+      "Backs",
+      "Gulf",
+      "Real",
+      "Estate",
+      "Fund",
+      "Arzan",
+      "Push"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-06/eu-starts-pumping-excess-cash-into-europe-s-bond-repo-market",
+    "title": "EU Starts Pumping Excess Cash Into Europe’s Bond Repo Market",
+    "fetched_on": "2025-10-06T07:20:31.653682+00:00",
+    "content": "The European Union has started lending out its excess cash in the repo market in exchange for bonds, providing a fresh injection of euros to investors grappling with increasing debt supply.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Excess",
+      "Cash",
+      "Repo",
+      "Market",
+      "Starts",
+      "Pumping",
+      "Europe",
+      "European",
+      "Union",
+      "providing"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/10/05/carlyle-secured-lending-inc-nasdaqcgbd-given-consensus-rating-of-hold-by-brokerages/",
+    "title": "Carlyle Secured Lending, Inc. (NASDAQ:CGBD) Given Consensus Rating of “Hold” by Brokerages",
+    "fetched_on": "2025-10-06T07:20:31.083913+00:00",
+    "content": "Shares of Carlyle Secured Lending, Inc. (NASDAQ:CGBD – Get Free Report) have received an average rating of “Hold” from the six brokerages that are presently covering the firm, Marketbeat reports. One… [+5985 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "NASDAQ",
+      "CGBD",
+      "Hold",
+      "Secured",
+      "Carlyle",
+      "Rating",
+      "Brokerages",
+      "Consensus",
+      "Shares"
+    ]
   }
 ]
