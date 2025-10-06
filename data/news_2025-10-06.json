@@ -140,23 +140,20 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/slm-slm-shifts-strategy-high-211553505.html",
     "title": "SLM (SLM) Shifts Strategy to High-Quality Student Loan Origination",
-    "fetched_on": "2025-10-06T03:02:15.916667+00:00",
-    "content": "SLM Corporation (NASDAQ:SLM) is one of the most undervalued financial stocks to buy according to Wall Street analysts. During a presentation at the Barclays Global Financial Services Conference on Se... [+1839 chars]",
+    "fetched_on": "2025-10-06T08:28:04.488467+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "SLM",
-      "NASDAQ",
       "Shifts",
-      "Corporation",
+      "Origination",
       "Strategy",
       "Student",
       "Loan",
-      "Origination",
-      "Wall",
-      "Street"
+      "High-Quality"
     ]
   },
   {
@@ -220,10 +217,10 @@
     ]
   },
   {
-    "source": "All Finance [RSS]",
+    "source": "News Index [RSS]",
     "url": "https://finance.yahoo.com/news/ford-gm-leasing-loophole-extend-205455746.html",
     "title": "Ford, GM Use Leasing \u2018Loophole\u2019 to Extend $7,500 EV Tax Credit",
-    "fetched_on": "2025-10-06T07:20:48.244911+00:00",
+    "fetched_on": "2025-10-06T08:28:04.411608+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -239,7 +236,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-06T07:20:46.275153+00:00",
+    "fetched_on": "2025-10-06T08:28:02.169435+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -259,7 +256,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/05/trump-layoffs-government-shutdown-kevin-hassett-.html",
     "title": "'There will start to be layoffs' if Trump decides shutdown talks have stalled, Hassett says",
-    "fetched_on": "2025-10-06T07:20:47.662323+00:00",
+    "fetched_on": "2025-10-06T08:28:03.938395+00:00",
     "content": "Democrats are holding firm on their health-care demands, pushing to include a permanent extension of enhanced premium tax credits in funding legislation.",
     "platforms_mentioned": [],
     "keywords": [
@@ -279,7 +276,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-06T07:20:47.780872+00:00",
+    "fetched_on": "2025-10-06T08:28:04.044594+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -299,7 +296,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-06T07:20:47.780879+00:00",
+    "fetched_on": "2025-10-06T08:28:04.044601+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -319,7 +316,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/15/using-rent-payments-to-boost-credit-score.html",
     "title": "More consumers are using rent payments to boost their credit score. Here's what to know",
-    "fetched_on": "2025-10-06T07:20:47.780906+00:00",
+    "fetched_on": "2025-10-06T08:28:04.044629+00:00",
     "content": "More tenants are reporting their rent payment activity to build their credit history. Here's what to consider before enrolling, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -339,7 +336,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/12/how-multifamily-offices-are-playing-commercial-real-estate.html",
     "title": "How multifamily offices are playing commercial real estate",
-    "fetched_on": "2025-10-06T07:20:47.780920+00:00",
+    "fetched_on": "2025-10-06T08:28:04.044643+00:00",
     "content": "With more than $12 billion under management, Realm is a multifamily office investment platform specializing in commercial real estate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -359,7 +356,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
     "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
-    "fetched_on": "2025-10-06T07:20:47.872221+00:00",
+    "fetched_on": "2025-10-06T08:28:04.117195+00:00",
     "content": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -379,7 +376,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/03/student-loan-repayment-plan-backlog-under-trump.html",
     "title": "Student loan borrowers can't access repayment plans under Trump. What to know",
-    "fetched_on": "2025-10-06T07:20:47.983104+00:00",
+    "fetched_on": "2025-10-06T08:28:04.206240+00:00",
     "content": "Student loan borrowers who are trying to get into a new repayment plan face delays amid a Trump-era backlog of applications and the shutdown of the government.",
     "platforms_mentioned": [],
     "keywords": [
@@ -399,7 +396,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/government-shutdown-student-loan-borrowers.html",
     "title": "Government shutdown blocks student loan borrowers from forgiveness, repayment plans",
-    "fetched_on": "2025-10-06T07:20:47.983134+00:00",
+    "fetched_on": "2025-10-06T08:28:04.206269+00:00",
     "content": "The shutdown of the federal government could worsen the problems student loan borrowers are facing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -419,7 +416,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/01/groceries-and-gas-top-consumers-pain-points.html",
     "title": "Consumers' top purchase pain points: groceries and gas, new report finds",
-    "fetched_on": "2025-10-06T07:20:47.983141+00:00",
+    "fetched_on": "2025-10-06T08:28:04.206277+00:00",
     "content": "Consumers are increasingly leaning on credit cards to buy essentials like gas and groceries, according to a new report by TD Bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -439,7 +436,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/aca-premiums-to-more-than-double-without-enhanced-subsidies.html",
     "title": "Affordable Care Act premiums will rise 114% if enhanced subsidies expire, health policy researcher finds",
-    "fetched_on": "2025-10-06T07:20:47.983173+00:00",
+    "fetched_on": "2025-10-06T08:28:04.206311+00:00",
     "content": "The federal government may shut down if Congress can't reach a deal about enhanced premium tax credits, slated to expire at the end of 2025.",
     "platforms_mentioned": [],
     "keywords": [
@@ -459,7 +456,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/30/student-loan-borrowers-tax-refunds-seized.html",
     "title": "Trump officials may be seizing student loan borrowers' tax refunds 'without required notice': Lawmakers",
-    "fetched_on": "2025-10-06T07:20:47.983194+00:00",
+    "fetched_on": "2025-10-06T08:28:04.206332+00:00",
     "content": "Lawmakers say the Trump administration may be \"improperly\" seizing defaulted student borrowers' tax refunds by failing to provide the required notice.",
     "platforms_mentioned": [],
     "keywords": [
@@ -479,7 +476,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/student-loan-borrower-pslf-buyback-backlog.html",
     "title": "Student loan borrower backlog for forgiveness swells to 74,510 under Trump",
-    "fetched_on": "2025-10-06T07:20:47.983222+00:00",
+    "fetched_on": "2025-10-06T08:28:04.206360+00:00",
     "content": "The backlog of student loan borrowers trying to access Public Service Loan Forgiveness continues to grow under the Trump administration. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -499,7 +496,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/26/irs-delays-hinder-ev-sales-as-tax-credit-deadline-looms-car-dealers.html",
     "title": "Ahead of EV tax credit deadline, IRS delays create 'anxiety' for car dealers",
-    "fetched_on": "2025-10-06T07:20:47.983229+00:00",
+    "fetched_on": "2025-10-06T08:28:04.206367+00:00",
     "content": "Car dealers say the federal government has been slow to pay tax credits associated with electric vehicles since mid-September, putting them in a tough spot.",
     "platforms_mentioned": [],
     "keywords": [
@@ -519,7 +516,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/09/25/student-loan-forgiveness-income-based-repayment-plan.html",
     "title": "One of the last paths to student loan forgiveness under Trump \u2014 the IBR plan \u2014 is in trouble",
-    "fetched_on": "2025-10-06T07:20:47.983257+00:00",
+    "fetched_on": "2025-10-06T08:28:04.206395+00:00",
     "content": "Recent changes to the student loan system have left borrowers with fewer repayment options. And now a remaining affordable plan is in trouble, too.",
     "platforms_mentioned": [],
     "keywords": [
@@ -539,7 +536,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/fico-bypasses-credit-bureaus-direct-205504300.html",
     "title": "FICO Bypasses Credit Bureaus with New Direct Licensing Program to Cut Mortgage Score Costs",
-    "fetched_on": "2025-10-06T07:20:48.244903+00:00",
+    "fetched_on": "2025-10-06T08:28:04.488723+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -559,7 +556,7 @@
     "source": "Reuters [GNews]",
     "url": "https://www.reuters.com/business/finance/chinas-banks-lend-saudi-gas-project-while-its-funds-sit-out-blackrock-led-deal-2025-10-02/",
     "title": "Exclusive: China\u2019s banks lend to Saudi gas project while its funds sit out of BlackRock-led deal, sources say",
-    "fetched_on": "2025-10-06T07:20:35.764888+00:00",
+    "fetched_on": "2025-10-06T08:27:48.320716+00:00",
     "content": "China\u2019s biggest state banks are lending billions to Aramco\u2019s Jafurah gas project, though its funds have passed on the opportunity to invest in the venture, three people familiar with the matter said.",
     "platforms_mentioned": [],
     "entity": "Lend",
@@ -580,7 +577,7 @@
     "source": "Reuters [GNews]",
     "url": "https://www.reuters.com/world/india/india-central-bank-announces-raft-changes-bank-lending-capital-2025-10-01/",
     "title": "India central bank announces raft of changes for bank lending, capital",
-    "fetched_on": "2025-10-06T07:20:35.764902+00:00",
+    "fetched_on": "2025-10-06T08:27:48.320772+00:00",
     "content": "The Indian central bank on Wednesday said it would allow banks to lend for acquisitions while easing some of the restrictions imposed on them for lending against listed shares.",
     "platforms_mentioned": [],
     "entity": "Lend",
@@ -679,7 +676,7 @@
     "source": "Whitecoatinvestor.com [NewsAPI]",
     "url": "https://www.whitecoatinvestor.com/5-worst-credit-cards/",
     "title": "The 5 Credit Cards You Absolutely Should Not Get",
-    "fetched_on": "2025-10-06T07:20:31.083913+00:00",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
     "content": "If you read financial websites and blogs and listen to financial podcasts, its hard to escape the topic of credit cards and the rewards that can either make you a happy traveler or put more money in \u2026 [+8690 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -699,7 +696,7 @@
     "source": "Cracked.com [NewsAPI]",
     "url": "https://www.cracked.com/article_48641_credit-where-credits-due-kam-patterson-was-great-on-snl.html",
     "title": "Credit Where Credit\u2019s Due: Kam Patterson Was Great on \u2018SNL\u2019",
-    "fetched_on": "2025-10-06T07:20:31.083913+00:00",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
     "content": "There has been plenty of criticism and curiosity about Lorne Michaels decision to cast\u00a0Kill Tony\u00a0comedian Kam Patterson on\u00a0SNL. Plenty of it came right here from\u00a0Cracked, as we chronicled his\u00a0request\u2026 [+2354 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -719,7 +716,7 @@
     "source": "ETF Daily News [NewsAPI]",
     "url": "https://www.etfdailynews.com/2025/10/05/lendingtree-inc-nasdaqtree-given-average-rating-of-moderate-buy-by-brokerages/",
     "title": "LendingTree, Inc. (NASDAQ:TREE) Given Average Rating of \u201cModerate Buy\u201d by Brokerages",
-    "fetched_on": "2025-10-06T07:20:31.083913+00:00",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
     "content": "Shares of LendingTree, Inc. (NASDAQ:TREE \u2013 Get Free Report) have been assigned a consensus rating of \u201cModerate Buy\u201d from the eleven brokerages that are presently covering the company, MarketBeat.com \u2026 [+5444 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -759,7 +756,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-06/oaktree-backs-gulf-real-estate-fund-arzan-in-private-credit-push",
     "title": "Oaktree Backs Gulf Real Estate Fund Arzan in Private Credit Push",
-    "fetched_on": "2025-10-06T07:20:31.653643+00:00",
+    "fetched_on": "2025-10-06T08:27:44.302177+00:00",
     "content": "Oaktree Capital Management is backing a Middle East hospitality investor as private credit interest in the region is gaining traction.",
     "platforms_mentioned": [],
     "keywords": [
@@ -779,7 +776,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-06/eu-starts-pumping-excess-cash-into-europe-s-bond-repo-market",
     "title": "EU Starts Pumping Excess Cash Into Europe\u2019s Bond Repo Market",
-    "fetched_on": "2025-10-06T07:20:31.653682+00:00",
+    "fetched_on": "2025-10-06T08:27:44.302209+00:00",
     "content": "The European Union has started lending out its excess cash in the repo market in exchange for bonds, providing a fresh injection of euros to investors grappling with increasing debt supply.",
     "platforms_mentioned": [],
     "keywords": [
@@ -799,7 +796,7 @@
     "source": "ETF Daily News [NewsAPI]",
     "url": "https://www.etfdailynews.com/2025/10/05/carlyle-secured-lending-inc-nasdaqcgbd-given-consensus-rating-of-hold-by-brokerages/",
     "title": "Carlyle Secured Lending, Inc. (NASDAQ:CGBD) Given Consensus Rating of \u201cHold\u201d by Brokerages",
-    "fetched_on": "2025-10-06T07:20:31.083913+00:00",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
     "content": "Shares of Carlyle Secured Lending, Inc. (NASDAQ:CGBD \u2013 Get Free Report) have received an average rating of \u201cHold\u201d from the six brokerages that are presently covering the firm, Marketbeat reports. One\u2026 [+5985 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -813,6 +810,146 @@
       "Brokerages",
       "Consensus",
       "Shares"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-06/abu-dhabi-property-giant-bets-on-cheaper-homes-private-credit",
+    "title": "Abu Dhabi Property Giant Bets on Cheaper Homes, Private Credit",
+    "fetched_on": "2025-10-06T08:27:44.302053+00:00",
+    "content": "For the last two decades, Abu Dhabi\u2019s largest developer has focused largely on building upscale homes. But flush with cash after a lengthy boom, Aldar Properties PJSC is now setting its sights on affordable housing, lower cost schools and even a private credit fund.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Abu",
+      "Dhabi",
+      "Homes",
+      "Property",
+      "Giant",
+      "Bets",
+      "Cheaper",
+      "Private",
+      "Credit",
+      "decades"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ad94f3754254a0a5",
+    "title": "How to protect your money when you\u2019re married to a gambling addict",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
+    "content": "No matter how much they may love their families, gambling addicts can pose direct financial harm to them.That harm might range from never repaying loans to stealing their spouses and childrens identi\u2026 [+146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "gambling",
+      "harm",
+      "families",
+      "identi",
+      "addict",
+      "addicts",
+      "protect",
+      "money",
+      "\u2019re"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Composer-behind-Donkey-Kong-64-s-DK-Rap-says-Nintendo-arbitrarily-didn-t-inform-or-credit-him.1131956.0.html",
+    "title": "Composer behind Donkey Kong 64\u2019s DK Rap says Nintendo 'arbitrarily' didn\u2019t inform or credit him",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
+    "content": "Veteran video game composer behind Nintendo 64 hits like GoldenEye 007, Banjo-Kazooie 1998, and Donkey Kong 64 in 1999, Grant Kirkhope, is still incensed over his uncredited contribution toThe Super \u2026 [+2072 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kong",
+      "Nintendo",
+      "Donkey",
+      "Grant",
+      "Kirkhope",
+      "Super",
+      "arbitrarily",
+      "Banjo-Kazooie",
+      "chars",
+      "Composer"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/10/05/simple-counter-mechanism-in-an-asthma-inhaler/",
+    "title": "Simple Counter Mechanism in an Asthma Inhaler",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
+    "content": "The counter wheel and white worm gear inside the counter. (Credit: Anthony Francis-Jones, YouTube)\r\nRecently [Anthony Francis-Jones] decided to take a closer look at the inhaler that his son got pres\u2026 [+1311 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Counter",
+      "Anthony",
+      "Mechanism",
+      "Asthma",
+      "Inhaler",
+      "Francis-Jones",
+      "Simple",
+      "Credit",
+      "Recently",
+      "wheel"
+    ]
+  },
+  {
+    "source": "ETF Daily News [NewsAPI]",
+    "url": "https://www.etfdailynews.com/2025/10/05/equifax-inc-efx-shares-sold-by-janney-montgomery-scott-llc/",
+    "title": "Equifax, Inc. $EFX Shares Sold by Janney Montgomery Scott LLC",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
+    "content": "Janney Montgomery Scott LLC trimmed its position in Equifax, Inc. (NYSE:EFX \u2013 Free Report) by 4.0% during the 2nd quarter, Holdings Channel.com reports. The fund owned 36,525 shares of the credit ser\u2026 [+6301 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Equifax",
+      "Montgomery",
+      "Scott",
+      "EFX",
+      "Janney",
+      "LLC",
+      "NYSE",
+      "Shares",
+      "Sold",
+      "Free"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Colorado-offers-up-to-9-000-in-incentives-for-EV-buyers-after-federal-tax-credits-cut.1131948.0.html",
+    "title": "Colorado offers up to $9,000 in incentives for EV buyers after federal tax credits cut",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
+    "content": "Coloradans who are affected by the ending of the federal EV tax credit in September can breathe a little sigh of relief as their state is coming to their rescue. The Centennial State has announced a \u2026 [+1013 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coloradans",
+      "September",
+      "tax",
+      "federal",
+      "state",
+      "Colorado",
+      "rescue",
+      "credits",
+      "credit",
+      "offers"
+    ]
+  },
+  {
+    "source": "Deseret News [NewsAPI]",
+    "url": "https://www.deseret.com/politics/2025/10/04/government-shutdown-medicaid-aca-obamacare-subsidies/",
+    "title": "Why did the federal government shutdown?",
+    "fetched_on": "2025-10-06T08:27:43.657369+00:00",
+    "content": "<ul><li>Medicaid cuts and expiring ACA subsidies are at the center of the government shutdown.</li><li>Democrats want to extend health care tax credits and restore cuts, Republicans do not.</li><li>R\u2026 [+10717 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "shutdown",
+      "government",
+      "federal",
+      "Medicaid",
+      "Democrats",
+      "Republicans",
+      "cuts",
+      "ACA",
+      "chars",
+      "shutdown."
     ]
   }
 ]
