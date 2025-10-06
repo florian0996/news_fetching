@@ -1,6 +1,17 @@
 {
-  "2025-10-05": {
+  "2025-10-06": {
     "status": "no company in the news"
+  },
+  "2025-10-05": {
+    "articles": [
+      {
+        "title": "Critical Review: SLM (NASDAQ:SLMBP) vs. LendingClub (NYSE:LC)",
+        "url": "https://www.etfdailynews.com/2025/10/04/critical-review-slm-nasdaqslmbp-vs-lendingclub-nyselc/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-10-04": {
     "status": "no company in the news"
