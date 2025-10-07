@@ -30095,5 +30095,65 @@
       "lower-priced",
       "credit"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4f98c3157df2610c",
+    "title": "Despite Gen Z’s financial hurdles, some spend thousands a year on food delivery",
+    "fetched_on": "2025-10-07T23:18:11.514152+00:00",
+    "content": "The first signs of trouble were Kanchi Uttamchandanis steep credit card bills.It started during the pandemic when Ms. Uttamchandani, like many Canadians, was attempting to console herself. It was a v… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gen",
+      "Kanchi",
+      "hurdles",
+      "Canadians",
+      "financial",
+      "spend",
+      "thousands",
+      "year",
+      "food",
+      "delivery"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/new-hilton-honors-credit-card-offers-230040120.html",
+    "title": "New cardmember welcome offers: Earn up to 175,000 points with Hilton Honors credit cards",
+    "fetched_on": "2025-10-07T23:18:11.514152+00:00",
+    "content": "American Express is offering up to 175,000 Hilton Honors bonus points with new welcome bonuses on four hotel credit cards\r\n:\r\nPlease note that these offers end on Jan. 14, 2026.\r\nRead more: Best trav… [+2098 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hilton",
+      "Honors",
+      "Earn",
+      "Jan.",
+      "American",
+      "Express",
+      "points",
+      "credit",
+      "cards",
+      "offers"
+    ]
+  },
+  {
+    "source": "Page Six [NewsAPI]",
+    "url": "https://pagesix.com/2025/10/06/celebrity-news/julia-fox-spent-nearly-70k-on-manic-designer-shopping-spree-using-exs-credit-card/",
+    "title": "Julia Fox spent nearly $70K on ‘manic’ designer shopping spree using ex’s credit card",
+    "fetched_on": "2025-10-07T23:18:11.514152+00:00",
+    "content": "Julia Fox once went on an epic almost $70,000 shopping spree on her now ex’s dime.\r\nThe model, 35, revealed her eye-popping designer haul when asked what the most expensive thing she’s ever bought wa… [+2260 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fox",
+      "Julia",
+      "shopping",
+      "spree",
+      "manic’",
+      "dime",
+      "designer",
+      "spent",
+      "credit",
+      "card"
+    ]
   }
 ]
