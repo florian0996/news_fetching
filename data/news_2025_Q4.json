@@ -29364,5 +29364,105 @@
       "clear",
       "Reserve"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-07/us-consumer-borrowing-rises-at-slowest-pace-in-six-months",
+    "title": "US Consumer Borrowing Rises at Slowest Pace in Six Months",
+    "fetched_on": "2025-10-07T19:16:16.215635+00:00",
+    "content": "US consumer borrowing rose in August at the slowest pace in six months, restrained by a pullback in credit-card balances.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Consumer",
+      "Pace",
+      "Borrowing",
+      "Slowest",
+      "Months",
+      "Rises",
+      "August",
+      "restrained",
+      "balances",
+      "rose"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/microfinance-interest-rates-continue-to-climb-as-credit-costs-stay-high/articleshow/124347772.cms",
+    "title": "Microfinance interest rates continue to climb as credit costs stay high",
+    "fetched_on": "2025-10-07T19:16:15.624965+00:00",
+    "content": "Microfinance rates have firmed further, defying the broader trend of declining rates, as lenders face rising credit costs amid persistent asset quality stress, which is expected to linger for another… [+3023 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Microfinance",
+      "credit",
+      "costs",
+      "rates",
+      "defying",
+      "stress",
+      "interest",
+      "continue",
+      "climb"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/microfinance-interest-rates-continue-to-climb-as-credit-costs-stay-high/articleshow/124350801.cms",
+    "title": "Microfinance interest rates continue to climb as credit costs stay high",
+    "fetched_on": "2025-10-07T19:16:15.624965+00:00",
+    "content": "Microfinance rates have firmed further, defying the broader trend of declining rates, as lenders face rising credit costs amid persistent asset quality stress, which is expected to linger for another… [+3018 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Microfinance",
+      "credit",
+      "costs",
+      "rates",
+      "defying",
+      "stress",
+      "interest",
+      "continue",
+      "climb"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/10/06/is-psycho-1960-based-on-ed-gein-serial-killer-movies-tv-shows/",
+    "title": "Is ‘Psycho’ 1960 Based on Ed Gein? Movies & TV Shows Inspired by the Serial Killer",
+    "fetched_on": "2025-10-07T19:16:15.624965+00:00",
+    "content": "Image Credit: ullstein bild via Getty Images\r\nFew true crime stories have cast as long a shadow over Hollywood as Ed Geins. The Wisconsin murderer and grave robber horrified the nation in the 1950s a… [+3048 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Psycho’",
+      "Based",
+      "Gein",
+      "Geins",
+      "Credit",
+      "Shows",
+      "Inspired",
+      "Serial",
+      "Killer",
+      "Getty"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/credit-cards/2025/consumers-pare-down-number-of-premium-cards-as-fees-rise/",
+    "title": "Consumers Pare Down Number of Premium Cards as Fees Rise",
+    "fetched_on": "2025-10-07T19:16:15.624965+00:00",
+    "content": "Holders of premium credit cards are reportedly paring down the number of such cards they carry after recently announced increases in annual fees.These moves come after JPMorgan Chase raised its annua… [+2771 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Number",
+      "Premium",
+      "chars",
+      "Cards",
+      "Pare",
+      "Fees",
+      "Rise",
+      "Holders",
+      "Chase",
+      "Consumers"
+    ]
   }
 ]
