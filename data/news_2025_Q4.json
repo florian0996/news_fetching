@@ -26223,5 +26223,85 @@
       "Launches",
       "BTC"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a4c4ec9788b19e8f",
+    "title": "The EV Tax Credit Just Expired -- 3 Stocks That Could Still Win Without It",
+    "fetched_on": "2025-10-07T04:24:13.372832+00:00",
+    "content": "The $7,500 electric vehicle (EV) tax credit is no more.It expired at midnight on Tuesday night, and the U.S. auto industry is bracing for a slump in demand. Without the additional $7,500 to make EVs … [+135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Credit",
+      "Expired",
+      "Stocks",
+      "Win",
+      "Tuesday",
+      "electric",
+      "vehicle",
+      "night",
+      "auto"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/brianmazique/2025/10/06/battlefield-6-release-date-pre-order-info-and-what-you-should-know/",
+    "title": "Battlefield 6 Release Date, Pre-Order Info And What You Should Know",
+    "fetched_on": "2025-10-07T04:24:13.372832+00:00",
+    "content": "Battlefield 6 - Release Date, Pre-Order Info and More\r\nCredit: EA\r\nHighlights\r\n<ul><li>Battlefield 6 launches globally on October 10, 2025, for PS5, Xbox Series X/S, and PC via Steam, EA App, and Epi… [+3196 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Release",
+      "Date",
+      "Battlefield",
+      "Info",
+      "Pre-Order",
+      "Credit",
+      "Highlights",
+      "October",
+      "Xbox",
+      "Steam"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c22f0e84f6d4397b",
+    "title": "America’s economy needs expanded deposit insurance",
+    "fetched_on": "2025-10-07T04:24:13.372832+00:00",
+    "content": "We need to support the thousands of community and regional banks that play a critical role in lending to growing businesses\r\nThis story appeared on ft.com, 2025-10-06 04:00:22.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "America",
+      "ft.com",
+      "economy",
+      "expanded",
+      "deposit",
+      "insurance",
+      "support",
+      "thousands",
+      "community",
+      "regional"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-100-pts-nifty-tops-24900-as-banks-it-rise/articleshow/124329862.cms",
+    "title": "Sensex jumps over 100 pts, Nifty tops 24,900 as IT, bank stocks rise",
+    "fetched_on": "2025-10-07T04:24:13.372832+00:00",
+    "content": "Indian equity benchmarks Sensex and Nifty edged slightly higher on Monday, with gains in banking and IT stocks lifting sentiment, following recent central bank lending reforms. Traders remained cauti… [+2243 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nifty",
+      "Monday",
+      "pts",
+      "Sensex",
+      "Indian",
+      "tops",
+      "sentiment",
+      "reforms",
+      "bank",
+      "stocks"
+    ]
   }
 ]
