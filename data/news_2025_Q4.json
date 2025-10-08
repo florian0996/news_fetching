@@ -32346,5 +32346,383 @@
       "response",
       "loss"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-08/-elon-this-sucks-ross-gerber-blames-tesla-ceo-for-loss-of-us-ev-credit",
+    "title": "'Elon, This Sucks': Ross Gerber Blames Tesla CEO for Loss of US EV Credit",
+    "fetched_on": "2025-10-08T15:21:50.643678+00:00",
+    "content": "Ross Gerber, president and CEO of Gerber Kawasaki Wealth and Investment Management, says he doesn't see the point of buying the new versions of the cheaper Tesla models. He speaks with Vonnie Quinn on \"Bloomberg Open Interest.\" Tesla unveiled cheaper versions of the Model 3 and Model Y vehicles. The standard Model 3 sedan will start at $36,990 and the Model Y SUV will start at $39,990. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gerber",
+      "Ross",
+      "CEO",
+      "Elon",
+      "Model",
+      "Sucks",
+      "Management",
+      "Blames",
+      "Loss",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-08/tesla-s-cheaper-models-fail-to-impress-video",
+    "title": "Tesla’s Cheaper Models Fail to Impress",
+    "fetched_on": "2025-10-08T15:21:50.643693+00:00",
+    "content": "Tesla’s rolling out cheaper versions of its Model 3 and Model Y &mdash; but not everyone is enthused. Ross Gerber, Gerber Kawasaki Wealth & Investment Management President & CEO joined Bloomberg Open Interest to talk about why he thinks the price cuts are a sign of weakness, as fading tax credits and slowing demand force Tesla’s hand. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Model",
+      "Tesla",
+      "Cheaper",
+      "Fail",
+      "Impress",
+      "Models",
+      "Gerber",
+      "enthused",
+      "Bloomberg",
+      "Source"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-08/goldman-sachs-plans-srt-tied-to-5-billion-of-corporate-loans",
+    "title": "Goldman Sachs Plans SRT Tied to $5 Billion of Corporate Loans",
+    "fetched_on": "2025-10-08T15:21:50.643708+00:00",
+    "content": "Goldman Sachs Group Inc. is selling a significant risk transfer tied to a portfolio of about $5 billion of corporate loans, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Sachs",
+      "Corporate",
+      "Goldman",
+      "Tied",
+      "Loans",
+      "Plans",
+      "SRT",
+      "Group",
+      "Inc."
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-08/bloomberg-wealth-katie-koch-video",
+    "title": "Bloomberg Wealth: Katie Koch",
+    "fetched_on": "2025-10-08T15:21:50.643800+00:00",
+    "content": "TCW President and CEO Katie Koch discusses TCW's investment philosophy, her outlook on the Fed, and the risks and opportunities associated with the growing private credit market. She also reflects on her decision to leave a partnership at Goldman Sachs to lead TCW in Los Angeles, as well as her perspective on how being a woman in finance has ultimately been an advantage in her career. She speaks with Carlyle Co-Founder and Co-Chairman David Rubenstein on this week's episode of Bloomberg Wealth. This interview was recorded August 15 in New York. \n\nDisclosure: The Carlyle Group holds a significant ownership stake in TCW Group. David Rubenstein is Co-Founder and Co-Chairman of Carlyle.  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Katie",
+      "Koch",
+      "TCW",
+      "Fed",
+      "Wealth",
+      "President",
+      "CEO",
+      "Bloomberg",
+      "Carlyle",
+      "Rubenstein"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-office-conversion-housing-queen-street-1.7652680",
+    "title": "Ottawa's first office-to-housing conversion 'feels more like home'",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "Asylum seekers at Ottawa's first office-to-transitional-housing conversion credit the new facility with getting them out of the city's shelter system and providing them with opportunities to find per… [+2515 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Asylum",
+      "Ottawa",
+      "conversion",
+      "feels",
+      "home",
+      "seekers",
+      "credit",
+      "facility",
+      "city"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/tablets/black-and-white-e-readers-arent-obsolete-yet",
+    "title": "I found a few surprising reasons to stick with your old black & white e-reader",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "(Image credit: Nicholas Sutrich / Android Central)\r\nAndroid Central Labs is a weekly column devoted to deep dives, experiments, and a focused look into the tech you use. It covers phones, tablets, an… [+5814 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Android",
+      "Central",
+      "Image",
+      "Nicholas",
+      "Sutrich",
+      "experiments",
+      "Labs",
+      "black",
+      "white",
+      "e-reader"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/10/07/jayson-tatum-hired-by-duke-as-chief-basketball-officer/",
+    "title": "Jayson Tatum hired by Duke as chief basketball officer",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "As he works his way back to game action for the Celtics, Jayson Tatum will be lending a hand at his alma mater.\r\nDuke University on Tuesday announced it had hired the Boston star and Blue Devils alum… [+2033 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jayson",
+      "Tatum",
+      "Celtics",
+      "mater",
+      "Duke",
+      "chars",
+      "hired",
+      "chief",
+      "basketball",
+      "officer"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/07/3162744/0/en/Travis-Credit-Union-Recognized-by-Great-Place-To-Work-on-Certification-Nation-Day.html",
+    "title": "Travis Credit Union Recognized by Great Place To Work® on Certification Nation Day",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "VACAVILLE, Calif., Oct. 07, 2025 (GLOBE NEWSWIRE) -- Travis Credit Union\r\n (TCU) is proud to join a global community of exceptional workplaces in celebrating Certification Nation Day on October 16, 2… [+3608 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Travis",
+      "Calif.",
+      "Oct.",
+      "TCU",
+      "Credit",
+      "Nation",
+      "Union",
+      "Certification",
+      "Day",
+      "chars"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/07/3162745/0/en/Lendmark-Financial-Services-Accelerates-Growth-Nationally-with-Five-New-Branch-Locations-Across-Midwest-and-Southeast.html",
+    "title": "Lendmark Financial Services Accelerates Growth Nationally with Five New Branch Locations Across Midwest and Southeast",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "ATLANTA, Oct. 07, 2025 (GLOBE NEWSWIRE) -- Lendmark Financial Services\r\n(\r\nLendmark)\r\n, a leading provider of household credit and consumer loan solutions, continues its strategic national expansion … [+3019 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lendmark",
+      "Financial",
+      "Oct.",
+      "Services",
+      "ATLANTA",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars",
+      "Accelerates",
+      "Growth"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/87036/liverpool-eyeing-move-to-sign-69m-defender-report.html",
+    "title": "Liverpool eyeing move to sign £69m defender – Report",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "Credit to talkSPORT for bringing fresh clarity to Liverpools looming dilemma at centre-back. With Giovanni Leoni ruled out for around a year and Ibrahima Konate briefly limping off against Chelsea, t… [+3571 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "defender",
+      "Credit",
+      "sign",
+      "centre-back",
+      "Liverpool",
+      "Liverpools",
+      "eyeing",
+      "move",
+      "talkSPORT"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/accessories/audio/four-months-with-the-marshall-kilburn-iii",
+    "title": "Why the Marshall Kilburn III is my new favorite Bluetooth speaker",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "(Image credit: Android Central)\r\nJoin Namerah Saud Fatmi as she explores the cool, quirky, and sometimes downright odd world of smartphone accessories, gadgets, and other nerdy toys every week.\r\nWalk… [+3951 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "quirky",
+      "gadgets",
+      "Image",
+      "Android",
+      "Central",
+      "Join",
+      "Marshall",
+      "Kilburn",
+      "III",
+      "Bluetooth"
+    ]
+  },
+  {
+    "source": "Theabsolutesound.com [NewsAPI]",
+    "url": "https://www.theabsolutesound.com/articles/2025-golden-ear-rel-line-array-subwoofer-system/",
+    "title": "2025 Golden Ear: REL Line Array Subwoofer System",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "$12,594\r\nWhile I can certainly credit the performance, build-quality, and sonic prowess of the REL S/510 subwoofers for the improvements I achieved once six of these cubes of happiness were meticulou… [+1478 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "REL",
+      "build-quality",
+      "chars",
+      "Golden",
+      "Ear",
+      "System",
+      "Line",
+      "Array",
+      "performance",
+      "meticulou"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/fx-retail-platform-of-clearcorp-linked-with-bharat-connect/article70136072.ece",
+    "title": "FX-Retail platform of Clearcorp linked with Bharat Connect",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "Reserve Bank of India (RBI) Deputy Governor T Rabi Sankar speaks at the Global Fintech Fest in Mumbai. (file photo)\r\n| Photo Credit:\r\nANI\r\nThe FX-Retail platform of the Clearcorp Dealing Systems (Ind… [+2102 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "India",
+      "Deputy",
+      "Mumbai",
+      "Bharat",
+      "Connect",
+      "Reserve",
+      "Bank",
+      "Governor",
+      "Rabi"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/kenya-cuts-rates-for-eighth-time-in-row-to-spur-credit-growth",
+    "title": "Kenya Cuts Rates for Eighth Time in Row to Spur Credit, Growth",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "(Bloomberg) Kenyas central bank cut its benchmark interest rate for an eighth straight time, aiming to boost private sector credit and economic growth with inflation expected to stay within its targe… [+4416 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "chars",
+      "Eighth",
+      "Time",
+      "Credit",
+      "Growth",
+      "Row",
+      "Spur",
+      "Kenya",
+      "Kenyas"
+    ]
+  },
+  {
+    "source": "Crypto Briefing [NewsAPI]",
+    "url": "https://cryptobriefing.com/clearpool-secures-400k-xpl-funding-from-plasma-for-payfi-growth/",
+    "title": "Clearpool secures $400K XPL funding from Plasma for PayFi growth",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "Key Takeaways\r\n<ul><li>Clearpool received $400,000 in XPL tokens from Plasma to boost PayFi, its credit infrastructure for stablecoin payments.</li><li>Plasma is a blockchain network focused on impro… [+621 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Plasma",
+      "Clearpool",
+      "XPL",
+      "Takeaways",
+      "chars",
+      "Key",
+      "secures",
+      "received",
+      "payments.",
+      "impro"
+    ]
+  },
+  {
+    "source": "Westernjournal.com [NewsAPI]",
+    "url": "https://www.westernjournal.com/marjorie-taylor-greene-breaks-fellow-republicans-obamacare-tax-credits-carving-lane/",
+    "title": "Marjorie Taylor Greene Breaks with Fellow Republicans on Obamacare Tax Credits: 'I'm Carving My Own Lane'",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "Slamming her own party, as well as aid sent to Israel and Ukraine, Republican Rep. Marjorie Taylor Greene of Georgia on Monday demanded a solution to a potential rise in Obamacare insurance premiums … [+4565 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credits",
+      "Lane",
+      "Slamming",
+      "Ukraine",
+      "Rep",
+      "Taylor",
+      "Marjorie",
+      "Greene",
+      "Breaks",
+      "Fellow"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/lebron-james-second-decision-how-to-watch-5476396/",
+    "title": "Lebron James’ Second Decision: Where to Watch the Announcement & More",
+    "fetched_on": "2025-10-08T15:21:49.921651+00:00",
+    "content": "Image Credit: Getty Images\r\nLeBron James last major decision was in 2010 when he left his hometown team, the Cleveland Cavaliers, for the Miami Heat. Now, the basketball star is teasing yet another o… [+1843 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Decision",
+      "Announcement",
+      "Credit",
+      "Getty",
+      "Cavaliers",
+      "Heat",
+      "James’",
+      "Watch",
+      "James",
+      "Cleveland"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/celsius-holdings-secures-700-million-term-loan-b-rated-bb-at-sp-93CH-4277719",
+    "title": "Celsius Holdings secures $700 million term loan B rated ’BB+’ at S&P",
+    "fetched_on": "2025-10-08T15:22:03.104898+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "’BB",
+      "Holdings",
+      "Celsius",
+      "secures",
+      "million",
+      "term",
+      "loan",
+      "rated"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/equifax-stock-fair-isaac-fico-credit-score-c5b50205?siteid=yhoof2&yptr=yahoo",
+    "title": "Equifax Strikes Back in Battle of the Credit Scores. Fair Isaac Stock Tumbles.",
+    "fetched_on": "2025-10-08T15:22:14.438570+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scores",
+      "Strikes",
+      "Back",
+      "Battle",
+      "Credit",
+      "Equifax",
+      "Tumbles",
+      "Isaac",
+      "Stock",
+      "Fair"
+    ]
   }
 ]
