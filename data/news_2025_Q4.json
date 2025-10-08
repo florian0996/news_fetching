@@ -30537,5 +30537,65 @@
       "purchases",
       "balance"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/kiwi-launches-interest-back-emis-to-make-upi-purchases-more-flexible-credit-card-11759812699696.html",
+    "title": "Kiwi launches ‘Interest-Back EMIs’ to make UPI purchases more flexible",
+    "fetched_on": "2025-10-08T06:31:25.184934+00:00",
+    "content": "Fintech startup Kiwi has announced Interest-Back EMIs (Equated Monthly Instalments) on UPI (Unified Payments Interface) that allows consumers to split big-ticket purchases into easy instalments and e… [+3234 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Equated",
+      "Unified",
+      "Interface",
+      "UPI",
+      "Kiwi",
+      "Instalments",
+      "Fintech",
+      "Monthly",
+      "Payments"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/87b58eb5dbe4c65a",
+    "title": "Private credit cash pivots from 'risky' West to emerging markets",
+    "fetched_on": "2025-10-08T06:31:25.184934+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did AMD stock soar today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the OpenAI-AMD chip deal impact AI… [+718 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "West",
+      "risky",
+      "return",
+      "false",
+      "AMD",
+      "Private",
+      "markets"
+    ]
+  },
+  {
+    "source": "Newhumanist.org.uk [NewsAPI]",
+    "url": "https://newhumanist.org.uk/articles/6465/life-on-the-frontlines#utm_source=rss",
+    "title": "Life on the frontlines",
+    "fetched_on": "2025-10-08T06:31:25.184934+00:00",
+    "content": "Two memoirs, from Basra and Ukraine, chronicle the lives of ordinary men pulled into war\r\nA Ukrainian soldier in Valsylkiv, March 2022. Credit: Alamy\r\nOrdinary People Dont Carry Machine Guns: Thought… [+5601 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Ukraine",
+      "Valsylkiv",
+      "Basra",
+      "Ukrainian",
+      "Thought",
+      "Life",
+      "memoirs",
+      "chronicle",
+      "ordinary"
+    ]
   }
 ]
