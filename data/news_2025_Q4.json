@@ -31449,5 +31449,245 @@
       "underwater",
       "car"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-08/jefferies-has-161-million-at-risk-in-first-brands-collapse",
+    "title": "Jefferies Has $161 Million at Risk in First Brands Collapse",
+    "fetched_on": "2025-10-08T12:42:25.264379+00:00",
+    "content": "Jefferies Financial Group Inc. said it has $161 million of exposure to funds that held trade receivables and loans of bankrupt auto-parts supplier First Brands Group.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jefferies",
+      "Million",
+      "Brands",
+      "Risk",
+      "Collapse",
+      "Financial",
+      "Group",
+      "exposure",
+      "funds",
+      "held"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-08/firstrand-warns-uk-s-car-loan-redress-goes-beyond-expectations",
+    "title": "FirstRand Warns UK’s Car Loan Redress Goes Beyond Expectations",
+    "fetched_on": "2025-10-08T12:42:26.450262+00:00",
+    "content": "FirstRand Ltd. said a new proposal by the UK for compensating consumers who were missold card loans that could end up costing lenders £11 billion ($14.7 billion) goes beyond what it previously expected would be a reasonable outcome.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Warns",
+      "Car",
+      "Redress",
+      "Expectations",
+      "FirstRand",
+      "Loan",
+      "loans",
+      "lenders",
+      "outcome"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/10/disney-shuts-down-another-classic-riverboat-ride-ld1/",
+    "title": "NEW: Disney Shuts Down Another Classic Riverboat Ride",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "Things have changed for another classic Disney riverboat.\r\nCredit: Disney\r\nRelated: Fall Event Confirmed for This Weekend, Disney World Vacations Affected\r\nThere’s a lot to do and enjoy at Disneyland… [+2487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "Classic",
+      "Riverboat",
+      "Shuts",
+      "Ride",
+      "Things",
+      "changed",
+      "Related",
+      "Fall",
+      "Weekend"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/95f006b81e3094e4",
+    "title": "Economic calendar: Five Fed speeches and consumer-credit data on day’s agenda",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Deloitte refund Australian government for AI errors? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How are AI d… [+762 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Fed",
+      "Deloitte",
+      "Australian",
+      "Economic",
+      "calendar"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/10/cold-front-central-florida-fall-disney-world-vacations-th1/",
+    "title": "Fall Event Confirmed for This Weekend, Disney World Vacations Affected",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "Your plans may get derailed this weekend.\r\nCredit: Joe Schlabotnik, Flickr\r\nThe Walt Disney World Resort is heading toward its busiest time of the year. As Halloween celebrations continue, guests wil… [+3137 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Weekend",
+      "Disney",
+      "World",
+      "Event",
+      "Confirmed",
+      "Vacations",
+      "Affected",
+      "Fall",
+      "Joe",
+      "Schlabotnik"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/10/disney-cruise-ship-new-drink-ld1/",
+    "title": "Disney Sells a $5,000 ‘Star Wars’ Experience – Is It Worth It?",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "You better have your wallet ready.\r\nCredit: Disney Parks Blog\r\nRelated: Disneys Highly-Anticipated New Ride Is Up and Running Again\r\nOver the last few years, Disney Cruise Line has expanded its fleet… [+3625 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Star",
+      "Experience",
+      "Disney",
+      "Sells",
+      "Wars’",
+      "Worth",
+      "Disneys",
+      "Related",
+      "Parks",
+      "Blog"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/the-hidden-costs-of-a-low-credit-score-its-not-just-high-interest-rates-on-loans-11759832853808.html",
+    "title": "The hidden costs of a low credit score: It's not just high interest rates on loans",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "When applying for a personal loan, borrowers are usually expected to have a good credit score. Someone with a poor credit score generally fails to secure a personal loan. Even if they receive a loan … [+1728 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "score",
+      "personal",
+      "loan",
+      "borrowers",
+      "hidden",
+      "costs",
+      "low",
+      "high",
+      "interest"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/your-money/2025/10/07/budget-ireland-2026-main-points-tax/",
+    "title": "Budget 2026 main points: Christmas bonus likely, renters’ tax credit to be extended, no personal tax package",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "The government is taking the wraps off its first budget since being installed at the start of the year. A less flashy affair than previous years is promised, with the 9.4 billion package shorn of gen… [+4215 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Christmas",
+      "Budget",
+      "tax",
+      "main",
+      "points",
+      "renters’",
+      "extended",
+      "package",
+      "bonus",
+      "credit"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/blogposting/29524/can-digital-banking-help-solve-financial-inclusion-challenges-in-mexico",
+    "title": "Can digital banking help solve financial inclusion challenges in Mexico? (Carlos Marmolejo)",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "Financial exclusion remains one of Mexicos biggest barriers to economic growth.\r\nMexico has a population of over 130 million, yet credit to SMEs represents less than 7% of GDP, compared to over 2530%… [+3970 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "financial",
+      "Mexico",
+      "Carlos",
+      "Marmolejo",
+      "digital",
+      "banking",
+      "solve",
+      "inclusion",
+      "challenges",
+      "GDP"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/927527",
+    "title": "Google Pixel 9a 128GB $624 Delivered (New Customer Must Add Plan from $30/28-Day) @ amaysim",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "$10 credit for both referrer and referee for mobile plan.\r\nThe referrer must be an UNLIMITED mobile plan customer with auto-renewal turned on. Referee must sign up to an UNLIMITED mobile plan or AS Y… [+90 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delivered",
+      "Pixel",
+      "Add",
+      "Plan",
+      "mobile",
+      "UNLIMITED",
+      "amaysim",
+      "Customer",
+      "Google",
+      "credit"
+    ]
+  },
+  {
+    "source": "Memeorandum.com [NewsAPI]",
+    "url": "https://www.memeorandum.com/251007/p12",
+    "title": "Trump administration weighs selling parts of $1.6T federal student loan portfolio (Michael Stratford/Politico)",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Politico",
+      "Michael",
+      "Stratford",
+      "Trump",
+      "federal",
+      "portfolio",
+      "memeorandum",
+      "chars",
+      "Mediagazer",
+      "administration"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/07/3162378/0/en/Bread-Financial-Schedules-Third-Quarter-2025-Earnings-Conference-Call-for-Oct-23.html",
+    "title": "Bread Financial Schedules Third Quarter 2025 Earnings Conference Call for Oct. 23",
+    "fetched_on": "2025-10-08T12:42:24.457598+00:00",
+    "content": "COLUMBUS, Ohio, Oct. 07, 2025 (GLOBE NEWSWIRE) -- Bread Financial® Holdings, Inc. (NYSE: BFH), a tech-forward financial services company that provides simple, personalized payment, lending and saving… [+1645 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bread",
+      "Oct.",
+      "COLUMBUS",
+      "Ohio",
+      "Holdings",
+      "Quarter",
+      "Earnings",
+      "GLOBE",
+      "NEWSWIRE",
+      "Financial"
+    ]
   }
 ]
