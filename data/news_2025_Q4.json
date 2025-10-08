@@ -37172,5 +37172,65 @@
       "n’t",
       "confident"
     ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/consumer-finance/2025/households-pump-the-brakes-on-credit-as-economic-uncertainty-looms/",
+    "title": "Households Pump the Brakes on Credit as Economic Uncertainty Looms",
+    "fetched_on": "2025-10-08T23:18:11.993622+00:00",
+    "content": "Americans are walking a careful line as they navigate inflation and household balance sheets, leveraging credit where needed but showing signs of restraint. The latest Federal Reserve data releasedTu… [+4089 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Pump",
+      "Brakes",
+      "Economic",
+      "Uncertainty",
+      "Looms",
+      "Americans",
+      "sheets",
+      "leveraging",
+      "restraint"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/bank-of-america-business-credit-card-customized-cash-rewards-233022031.html",
+    "title": "Bank of America Business Advantage Customized Cash Rewards review: Earn more rewards on your top expenses",
+    "fetched_on": "2025-10-08T23:18:11.993622+00:00",
+    "content": "As a business owner, a great cash-back credit card\r\n can help you save money on the costs you incur most often. A cash-back card like the Bank of America® Business Advantage Customized Cash Rewards M… [+13352 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earn",
+      "Advantage",
+      "Customized",
+      "Cash",
+      "Business",
+      "Rewards",
+      "America",
+      "Bank",
+      "review",
+      "owner"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2025/10/07/can-trump-sell-student-debt/86568020007/",
+    "title": "Trump wants to sell some student loans. What if yours is one of them?",
+    "fetched_on": "2025-10-08T23:18:11.993622+00:00",
+    "content": "If the U.S. government sells your student loan to the private market, would you even notice?\r\nThats a question 45 million federal student loan borrowers may be asking. The Trump administration is con… [+4213 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "student",
+      "Trump",
+      "loan",
+      "chars",
+      "government",
+      "market",
+      "notice",
+      "loans",
+      "sell",
+      "sells"
+    ]
   }
 ]
