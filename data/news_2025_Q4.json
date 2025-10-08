@@ -30295,5 +30295,25 @@
       "Marketing",
       "Key"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-explaining-rbis-raft-of-deregulations/podcast/124351137.cms",
+    "title": "Morning Brief Podcast: Explaining RBI’s Raft of Deregulations",
+    "fetched_on": "2025-10-08T02:58:23.447076+00:00",
+    "content": "In its boldest liberalization push in years, the RBI has announced 22 deregulatory measures in a single day, the highest in its modern history. Among other things, banks can now finance corporate takeovers, investors can pledge more equity for credit, and com…",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Podcast",
+      "Explaining",
+      "Raft",
+      "Deregulations",
+      "Morning",
+      "years",
+      "announced",
+      "deregulatory",
+      "day"
+    ]
   }
 ]
