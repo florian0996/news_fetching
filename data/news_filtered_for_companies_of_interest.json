@@ -1,6 +1,17 @@
 {
-  "2025-10-07": {
+  "2025-10-08": {
     "status": "no company in the news"
+  },
+  "2025-10-07": {
+    "articles": [
+      {
+        "title": "LendingClub (NYSE:LC) vs. Crédito Real, S.A.B. de C.V., Sociedad Financiera de Objeto Múltiple, Entidad No Regulada (OTCMKTS:CRQDF) Head to Head Review",
+        "url": "https://www.etfdailynews.com/2025/10/06/lendingclub-nyselc-vs-credito-real-s-a-b-de-c-v-sociedad-financiera-de-objeto-multiple-entidad-no-regulada-otcmktscrqdf-head-to-head-review/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-10-06": {
     "status": "no company in the news"
