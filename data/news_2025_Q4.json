@@ -30597,5 +30597,65 @@
       "chronicle",
       "ordinary"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-08/horizons-middle-east-africa-10-xx-2025-video",
+    "title": "Horizons Middle East & Africa 10/XX/2025",
+    "fetched_on": "2025-10-08T07:19:11.711077+00:00",
+    "content": "Spot gold prices climb to above $4,000 an ounce for the first time ever. Also on the show: Bloomberg has learned Elon Musk's xAI is raising more financing than planned, tapping backers including Nvidia; senior officials from the US, Qatar, Israel and other nations head to Egypt for Gaza talks with Hamas; tentative ceasefire has been reached in Kurdish-majority neighborhoods of the northern Syrian city of Aleppo; Kenya has converted its Chinese railway loans from dollars to yuan. Guests include: Paul Mackel, HSBC, Global Head of FX Research; Mike Coop, Morningstar Investment Management, EMEA CIO. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Africa",
+      "East",
+      "Spot",
+      "Middle",
+      "Bloomberg",
+      "Horizons",
+      "Qatar",
+      "gold",
+      "prices",
+      "climb"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18671182-prime-members-100-google-play-gift-card-physical-10-amazon-promo-credit-100-free-shipping",
+    "title": "Prime Members: $100 Google Play Gift Card (Physical) + $10 Amazon Promo Credit $100 + Free Shipping",
+    "fetched_on": "2025-10-08T07:19:11.139588+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Physical",
+      "Members",
+      "Google",
+      "Card",
+      "Amazon",
+      "Credit",
+      "tips",
+      "Play",
+      "Gift",
+      "Promo"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/hdfc-bank-cuts-mclr-lending-rates-on-select-tenures-by-up-to-15-bps-check-how-it-can-reduce-your-loan-emi-amount/articleshow/124355962.cms",
+    "title": "HDFC Bank cuts MCLR lending rates on select tenures by up to 15 bps: Check how it can reduce your loan EMI amount",
+    "fetched_on": "2025-10-08T07:19:11.139588+00:00",
+    "content": "Dr Ajai Chowdhry\r\nCo-Founder, HCL, Chairman EPIC Foundation, Author, Just Aspire\r\nWatch Now",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HCL",
+      "Author",
+      "bps",
+      "HDFC",
+      "Check",
+      "Chairman",
+      "Foundation",
+      "Bank",
+      "MCLR",
+      "EMI"
+    ]
   }
 ]
