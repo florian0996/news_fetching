@@ -30397,5 +30397,45 @@
       "Pressure",
       "Macquarie"
     ]
+  },
+  {
+    "source": "ZDNet [NewsAPI]",
+    "url": "https://www.zdnet.com/article/looking-for-a-good-deal-on-a-new-gaming-laptop-i-found-one-thats-300-off/",
+    "title": "Looking for a good deal on a new gaming laptop? I found one that's $300 off",
+    "fetched_on": "2025-10-08T04:24:07.924671+00:00",
+    "content": "Don't forget credit/ZDNET\r\nDuring Amazon's Prime Big Deal Days, Asus' ROG Strix G16 gaming laptop is heavily discounted, down to $1,199 -- that's $300 off the regular price. \r\nThe ROG Strix G16 is ab… [+1615 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Strix",
+      "ROG",
+      "deal",
+      "gaming",
+      "laptop",
+      "ZDNET",
+      "Days",
+      "Asus'",
+      "good",
+      "Amazon"
+    ]
+  },
+  {
+    "source": "The Conversation Africa [NewsAPI]",
+    "url": "https://theconversation.com/extreme-weather-now-costs-australians-4-5b-a-year-better-insurance-options-and-loans-would-help-us-adapt-266886",
+    "title": "Extreme weather now costs Australians $4.5b a year. Better insurance options and loans would help us adapt",
+    "fetched_on": "2025-10-08T04:24:07.924671+00:00",
+    "content": "Today’s release of the Insurance Council of Australia’s report puts Australia on the spot: we rank second in the world in extreme weather-related losses. As the Insurance Council puts it, this is not… [+5525 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Australians",
+      "insurance",
+      "Council",
+      "Australia",
+      "year",
+      "Extreme",
+      "weather",
+      "costs",
+      "Today",
+      "puts"
+    ]
   }
 ]
