@@ -41295,5 +41295,85 @@
       "claim",
       "tax"
     ]
+  },
+  {
+    "source": "Daily Signal [NewsAPI]",
+    "url": "https://www.dailysignal.com/2025/10/08/most-republicans-arent-keen-extend-obamacare-subsidies/",
+    "title": "Most Republicans Aren’t Keen on Extending Obamacare Subsidies",
+    "fetched_on": "2025-10-09T22:18:20.115534+00:00",
+    "content": "For weeks now, Democrats have been demanding that Republicans negotiate an extension of expiring COVID-era premium health care tax credits in exchange for their votes to reopen the federal government… [+5652 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Democrats",
+      "Republicans",
+      "Keen",
+      "Extending",
+      "Obamacare",
+      "Subsidies",
+      "government",
+      "n’t",
+      "weeks"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/nz/ocr-cut-kiwibank-bnz-drop-variable-home-loan-rates-after-official-cash-rate-fall/7YIMNAD65RDV3EAAYSJS4B5DHI/",
+    "title": "OCR cut: Kiwibank, BNZ drop variable home loan rates after Official Cash Rate fall",
+    "fetched_on": "2025-10-09T22:18:20.115534+00:00",
+    "content": "Yesterday, Westpac announced its variable home loan rates will be cut by 0.3% a year next week. Most variable business lending rates drop by 0.5% pa.\r\nASB has also trimmed interest rates for customer… [+1833 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kiwibank",
+      "OCR",
+      "BNZ",
+      "Yesterday",
+      "Westpac",
+      "home",
+      "loan",
+      "Official",
+      "Cash",
+      "rates"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/can-you-id-these-videogames-just-from-their-food-take-our-latest-tastiest-quiz/",
+    "title": "Can you ID these videogames just from their food? Take our latest, tastiest quiz!",
+    "fetched_on": "2025-10-09T22:18:20.115534+00:00",
+    "content": "(Image credit: Larian Studios, PC Gamer)\r\nWant to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes, on everything from healthbars to weird currencies to absurd patc… [+1351 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "food",
+      "Gamer",
+      "videogames",
+      "Image",
+      "Larian",
+      "Studios",
+      "latest",
+      "tastiest",
+      "quiz",
+      "chars"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/arturo-gatti-jr-cause-of-death-5476666/",
+    "title": "Arturo Gatti Jr.’s Cause of Death: How the 17-Year-Old Son of a Boxing Legend Died",
+    "fetched_on": "2025-10-09T22:18:20.115534+00:00",
+    "content": "Image Credit: Getty Images\r\nArturo Gatti Jr., the son of late Canadian pro boxer Arturo Gatti, died. He was 17 years old. Gattis former bodyguard, Chuck Zito, announced the devastating news of his ca… [+2108 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Arturo",
+      "Son",
+      "Died",
+      "Death",
+      "Credit",
+      "Getty",
+      "Gatti",
+      "Jr.’s",
+      "Boxing",
+      "Legend"
+    ]
   }
 ]
