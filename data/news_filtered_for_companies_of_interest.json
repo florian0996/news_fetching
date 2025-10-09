@@ -1,6 +1,17 @@
 {
-  "2025-10-08": {
+  "2025-10-09": {
     "status": "no company in the news"
+  },
+  "2025-10-08": {
+    "articles": [
+      {
+        "title": "IDBI Capital, Northern Arc invest Rs 60 crore in Satin Finserv",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/idbi-capital-northern-arc-invest-rs-60-crore-in-satin-finserv/articleshow/124365726.cms",
+        "platforms_mentioned": [
+          "Northern Arc Capital"
+        ]
+      }
+    ]
   },
   "2025-10-07": {
     "articles": [
