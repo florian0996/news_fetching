@@ -42154,5 +42154,100 @@
       "last-minute",
       "tax"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c0fe307e9135cf37",
+    "title": "China’s September bank lending seen more than doubling from previous month",
+    "fetched_on": "2025-10-10T07:19:38.234125+00:00",
+    "content": "Bitcoin price today: muted near $122k after record highs; US shutdown drags onBy Liz Lee and Kevin YaoBEIJING (Reuters) - New bank loan issuance in China likely more than doubled in September, a Reut… [+139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "chars",
+      "Reut",
+      "September",
+      "China",
+      "Bitcoin",
+      "Liz",
+      "Lee",
+      "Kevin",
+      "today"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-design-5/",
+    "title": "The Samsung Galaxy S26 Ultra’s Biggest Change Isn’t the Camera",
+    "fetched_on": "2025-10-10T07:19:38.234125+00:00",
+    "content": "The Samsung Galaxy S26 Ultra is expected to launch in early 2026. The handset will showcase a bold evolution in flagship smartphone technology. By blending minimalist aesthetics, innovative camera ad… [+5363 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "Samsung",
+      "Ultra",
+      "Biggest",
+      "Change",
+      "early",
+      "Camera",
+      "n’t",
+      "expected",
+      "launch"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.co.uk/news/articles/c8jmzd972leo",
+    "title": "ID photos of 70,000 users may have been leaked, Discord says",
+    "fetched_on": "2025-10-10T07:19:38.234125+00:00",
+    "content": "No full credit card details, passwords, or messages and activity beyond conversations with Discord's customer support agents were leaked, the firm said.\r\nAll impacted users have been contacted and Di… [+1236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Discord",
+      "passwords",
+      "leaked",
+      "details",
+      "chars",
+      "users",
+      "photos",
+      "full",
+      "credit",
+      "card"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4290dbb05a754ebd",
+    "title": "A look at the risks of BNPL apps like Klarna on users' financial health, as credit cards adopt BNPL features and regulators struggle to categorize BNPL services",
+    "fetched_on": "2025-10-10T07:19:38.234125+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did gold hit $4,000 per ounce record? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is government shutdown affe… [+725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNPL",
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Klarna",
+      "health",
+      "services",
+      "hit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/business/autos/gm-backs-off-controversial-ev-tax-credit-move-b43c7971?siteid=yhoof2&yptr=yahoo",
+    "title": "GM Backs Off Controversial EV Tax Credit Move",
+    "fetched_on": "2025-10-10T07:20:07.408167+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Move",
+      "Backs",
+      "Controversial",
+      "Tax",
+      "Credit"
+    ]
   }
 ]
