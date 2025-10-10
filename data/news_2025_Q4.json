@@ -42062,5 +42062,97 @@
       "work",
       "bridge"
     ]
+  },
+  {
+    "source": "404media.co [NewsAPI]",
+    "url": "https://www.404media.co/libraries-cant-get-their-loaned-books-back-because-of-trumps-tariffs/",
+    "title": "Libraries Can’t Get Their Loaned Books Back Because of Trump’s Tariffs",
+    "fetched_on": "2025-10-10T06:30:55.947444+00:00",
+    "content": "The Trump administrations tariff regime and the elimination of fee exemptions for items under $800 is limiting resource sharing between university libraries, trapping some books in foreign countries,… [+7711 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Trump",
+      "Books",
+      "Loaned",
+      "Back",
+      "trapping",
+      "countries",
+      "Libraries",
+      "Tariffs",
+      "tariff"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/softbank-in-talks-for-5-billion-loan-backed-by-arm-shares--report-93CH-4280848",
+    "title": "SoftBank in talks for $5 billion loan backed by Arm shares - report",
+    "fetched_on": "2025-10-10T06:31:06.963993+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "report",
+      "Arm",
+      "SoftBank",
+      "billion",
+      "shares",
+      "talks",
+      "loan",
+      "backed"
+    ]
+  },
+  {
+    "source": "CNBC Finance [RSS]",
+    "url": "https://www.cnbc.com/2025/10/10/uk-investment-platform-warns-traders-to-avoid-bitcoin-crypto.html",
+    "title": "'Bitcoin is not an asset class': UK's biggest investment platform has a stark warning for investors",
+    "fetched_on": "2025-10-10T06:31:14.649603+00:00",
+    "content": "\"We do not think cryptocurrency has characteristics that mean it should be included in portfolios for growth or income,\" Hargreaves Lansdowne said.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bitcoin",
+      "Hargreaves",
+      "Lansdowne",
+      "class",
+      "investors",
+      "income",
+      "asset",
+      "biggest",
+      "investment",
+      "platform"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/first-brands-tricolor-bankruptcy-banks-ndfi-exposure-c4fba538?siteid=yhoof2&yptr=yahoo",
+    "title": "U.S. Banks Face New Scrutiny Over Opaque Loans Worth $1.7 Trillion",
+    "fetched_on": "2025-10-10T06:31:15.085802+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trillion",
+      "Banks",
+      "Worth",
+      "Face",
+      "Scrutiny",
+      "Opaque",
+      "Loans"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/exclusive-gm-backtracks-plan-claim-192757157.html",
+    "title": "Exclusive-GM backtracks on plan to claim last-minute EV tax credits",
+    "fetched_on": "2025-10-10T06:31:15.086007+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Exclusive-GM",
+      "credits",
+      "backtracks",
+      "plan",
+      "claim",
+      "last-minute",
+      "tax"
+    ]
   }
 ]
