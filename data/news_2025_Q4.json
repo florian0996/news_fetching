@@ -46111,5 +46111,101 @@
       "claims",
       "groups"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/american-express-unveils-festive-spend-based-offers-for-its-credit-card-users-11760071569190.html",
+    "title": "American Express unveils festive spend-based offers for its credit card users",
+    "fetched_on": "2025-10-11T05:18:08.971868+00:00",
+    "content": "The festive season is here. The Government has played its role by reducing the GST rate on many products. Brands and marketplaces are showering customers with discounts and cashback offers. Banks are… [+7956 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Express",
+      "festive",
+      "American",
+      "unveils",
+      "spend-based",
+      "credit",
+      "card",
+      "users",
+      "season",
+      "offers"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/spend/sbi-card-festive-season-offers-get-up-to-rs-20000-voucher-free-international-lounge-access-and-other-benefits-on-sbi-credit-cards/articleshow/124444192.cms",
+    "title": "SBI Card festive season offers: Get up to Rs 20,000 voucher, free international lounge access and other benefits on SBI credit cards",
+    "fetched_on": "2025-10-11T05:18:08.971868+00:00",
+    "content": "With the festive season going on and people rushing to buy many things, SBI Card has launched the Khushiyan Unlimited campaign for its credit card holders. The campaign has an extensive line-up of ar… [+6348 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "Card",
+      "Khushiyan",
+      "Unlimited",
+      "festive",
+      "season",
+      "credit",
+      "voucher",
+      "cards",
+      "offers"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/why-the-iphone-17-is-the-best-value-iphone-apple-has-ever-made/",
+    "title": "Why the iPhone 17 is the BEST Value iPhone Apple Has Ever Made",
+    "fetched_on": "2025-10-11T05:18:08.971868+00:00",
+    "content": "The iPhone 17 represents a significant evolution in Apples standard lineup, blending advanced features, enhanced performance, and long-term usability into a single package. Priced at $799 with 256GB … [+5930 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "iPhone",
+      "Made",
+      "Apple",
+      "Apples",
+      "represents",
+      "lineup",
+      "blending",
+      "features",
+      "enhanced",
+      "performance"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/softbank-talks-5-billion-margin-043630642.html",
+    "title": "SoftBank in Talks for $5 Billion Margin Loan Backed by Arm Stock",
+    "fetched_on": "2025-10-11T05:18:08.971868+00:00",
+    "content": "Masayoshi Son speaks at the SoftBank World event in Tokyo on July 16.\r\n(Bloomberg) -- SoftBank Group Corp. is in talks to borrow $5 billion from global banks, refilling its coffers at a time Masayosh… [+3736 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "July",
+      "Billion",
+      "Margin",
+      "Loan",
+      "Backed",
+      "Arm",
+      "Stock",
+      "Masayoshi",
+      "Son",
+      "World"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-calculate-minimum-credit-card-payment-005738797.html",
+    "title": "How to calculate your credit card minimum payment — and why you should pay more whenever possible",
+    "fetched_on": "2025-10-11T05:18:45.108148+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "payment",
+      "calculate",
+      "credit",
+      "card",
+      "minimum",
+      "pay"
+    ]
   }
 ]
