@@ -46035,5 +46035,61 @@
       "choose",
       "differences"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1cc3302c107a4116",
+    "title": "Funding Circle operating losses rise but sees long-term lending opportunity",
+    "fetched_on": "2025-10-11T03:27:44.155230+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Googles Gemini Enterprise impact AI competition? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Deltas … [+773 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Circle",
+      "Googles",
+      "Gemini",
+      "Enterprise",
+      "Funding"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/china-carbon-prices-tumble-to-lowest-since-2023-on-oversupply",
+    "title": "China Carbon Prices Tumble to Lowest Since 2023 on Oversupply",
+    "fetched_on": "2025-10-11T03:27:44.155230+00:00",
+    "content": "(Bloomberg) Prices of Chinese carbon credits were at the lowest level in more than two years as the nations carryover rules triggered a sell-off.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubsc… [+5275 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Prices",
+      "Oversupply",
+      "Carbon",
+      "Lowest",
+      "Tumble",
+      "Chinese",
+      "China",
+      "sell-off",
+      "Subsc"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/exclusive-ford-reverses-plan-claim-211959599.html",
+    "title": "Exclusive-Ford reverses plan to claim EV tax credits, following GM",
+    "fetched_on": "2025-10-11T03:28:04.358601+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Exclusive-Ford",
+      "credits",
+      "reverses",
+      "plan",
+      "claim",
+      "tax"
+    ]
   }
 ]
