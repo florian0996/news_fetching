@@ -46563,5 +46563,105 @@
       "WOLED",
       "OLED"
     ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/10/10/budget-2026-housing-credit-guarantee-scheme-doubles-to-rm20bil-to-help-first-time-homebuyers",
+    "title": "Budget 2026: Housing Credit Guarantee Scheme doubles to RM20bil to help first-time homebuyers",
+    "fetched_on": "2025-10-11T11:14:33.257124+00:00",
+    "content": "PETALING JAYA: Budget 2026 will see the Housing Credit Guarantee Scheme (SJKP) allocation double to RM20bil, allowing up to 80,000 first-time homebuyers, particularly gig workers and the self-employe… [+225 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "Credit",
+      "Guarantee",
+      "Housing",
+      "Scheme",
+      "SJKP",
+      "JAYA",
+      "chars",
+      "first-time",
+      "homebuyers"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/organised-gold-loan-market-to-hit-15-lakh-crore-by-march-2026-icra/article70147703.ece",
+    "title": "Organised gold loan market to hit ₹15 lakh crore by March 2026: ICRA",
+    "fetched_on": "2025-10-11T11:14:33.257124+00:00",
+    "content": "The organised gold loan market is likely to reach the Rs 15 lakh crore mark by March 2026, a year earlier than previously anticipated, as banks are significantly strengthening their dominant position… [+2532 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "lakh",
+      "chars",
+      "ICRA",
+      "gold",
+      "loan",
+      "Organised",
+      "market",
+      "crore",
+      "hit"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4211271/MSDL-Morgan-Stanley-Direct-Lending-initiated-with-bullish-view-at-Lucid-Capital-heres-why",
+    "title": "Morgan Stanley Direct Lending initiated with bullish view at Lucid Capital, here's why",
+    "fetched_on": "2025-10-11T11:14:33.257124+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Stanley",
+      "Direct",
+      "Lending",
+      "Lucid",
+      "Earnings",
+      "Morgan",
+      "calls",
+      "analyst",
+      "events"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5918ec7129a5eede",
+    "title": "Brexit bonus? UK PM Johnson shares international credit for vaccine approval",
+    "fetched_on": "2025-10-11T11:14:33.257124+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Google receive UK strategic market status? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Ferraris firs… [+806 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Brexit",
+      "bonus",
+      "Johnson",
+      "Google",
+      "chars"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/leaving-soon/netflix-finally-adds-long-awaited-category-for-movies-and-series-leaving-soon/",
+    "title": "Netflix Finally Adds Long Awaited Category for Movies and Series Leaving Soon",
+    "fetched_on": "2025-10-11T11:14:33.257124+00:00",
+    "content": "Picture Credit: Adobe Stock\r\nWell, this has been a long time coming… Numerous users have alerted us overnight to a new category on Netflix titled “Last Chance to Watch,” which finally lists some of N… [+2648 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Credit",
+      "Adobe",
+      "Numerous",
+      "Watch",
+      "Netflix",
+      "Finally",
+      "Long",
+      "Category",
+      "Adds"
+    ]
   }
 ]
