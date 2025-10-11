@@ -50163,5 +50163,125 @@
       "company",
       "expanding"
     ]
+  },
+  {
+    "source": "Newser [NewsAPI]",
+    "url": "https://www.newser.com/story/376676/rising-car-prices-leave-more-americans-behind-on-payments.html",
+    "title": "Rising Car Prices Leave More Americans Behind on Payments",
+    "fetched_on": "2025-10-11T20:19:23.040604+00:00",
+    "content": "Recent data offer a snapshot: In September, nearly 14% of new-car buyers had subprime credit scores (below 650), the highest share since 2016, according to JD Power. Delinquencies are on the rise as … [+1314 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "September",
+      "Power",
+      "Car",
+      "Prices",
+      "Leave",
+      "Americans",
+      "Payments",
+      "Recent",
+      "Rising",
+      "snapshot"
+    ]
+  },
+  {
+    "source": "IndieWire [NewsAPI]",
+    "url": "https://www.indiewire.com/gallery/best-movies-new-streaming-october-2025/",
+    "title": "The Best Movies New to Every Major Streaming Platform in October 2025",
+    "fetched_on": "2025-10-11T20:19:23.040604+00:00",
+    "content": "Image Credit: Shudder\r\nOctober would seem like Shudder’s month to shine, but the streamer’s latest mix of exclusive new titles (“V/H/S/Halloween”) and invaluable library classics (“The Birds”) isn’t … [+1723 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Halloween",
+      "October",
+      "Shudder",
+      "chars",
+      "Image",
+      "Credit",
+      "Birds",
+      "Movies",
+      "Major",
+      "Streaming"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-pictures/taylor-swift-life-of-a-showgirl-gallery-1235444541/",
+    "title": "A Week of a Showgirl",
+    "fetched_on": "2025-10-11T20:19:23.040604+00:00",
+    "content": "Image Credit: Todd Owyoung/NBC/Getty Images\r\nOn Monday, Swift returned to The Tonight Show for a special Swift-filled episode. She explained to host Jimmy Fallon why she has not done the Super Bowl y… [+84 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NBC",
+      "Credit",
+      "Todd",
+      "Owyoung",
+      "Getty",
+      "Monday",
+      "Swift",
+      "Week",
+      "Showgirl",
+      "Tonight"
+    ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-10-11/donald-trump-gaza-ceasefire-plan-lyons-analysis/105880080",
+    "title": "Trump deserves credit for stopping the fighting, but his key claim is overblown",
+    "fetched_on": "2025-10-11T20:19:23.040604+00:00",
+    "content": "Finally, the hostages are set to be released and the bombs are expected to stop.\r\nIf all goes to plan, US President Donald Trump will deserve credit for ending the horrible war in Gaza.\r\nIn coming da… [+10368 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finally",
+      "credit",
+      "Trump",
+      "fighting",
+      "stop",
+      "stopping",
+      "key",
+      "claim",
+      "overblown",
+      "hostages"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5897b6b2077d6f59",
+    "title": "Inflation Clouds Consumer Sentiment, Nudging Households Toward Credit",
+    "fetched_on": "2025-10-11T20:19:23.040604+00:00",
+    "content": "Consumer sentiment paused its late-summer slide in October, but the story behind the headline hasnt changed: households remain fixated on high prices and a softening job outlook, and they dont expect… [+129 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Consumer",
+      "chars",
+      "Nudging",
+      "October",
+      "Sentiment",
+      "Households",
+      "Clouds",
+      "Credit",
+      "Inflation",
+      "changed"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/best-practices-for-storing-physical-gold-safely-what-investors-need-to-know/?ftag=YHF4eb9d17",
+    "title": "Best practices for storing physical gold safely",
+    "fetched_on": "2025-10-11T20:19:23.040604+00:00",
+    "content": "Safe storage is vital for protecting your gold investment. / Credit: Bloomberg Creative\r\nThanks to lingering (and rising) inflation, coupled with the many other looming economic hardships, more peopl… [+5492 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Safe",
+      "Credit",
+      "investment",
+      "gold",
+      "inflation",
+      "chars",
+      "Bloomberg",
+      "practices",
+      "storing",
+      "physical"
+    ]
   }
 ]
