@@ -52032,5 +52032,65 @@
       "Insiders",
       "Commons"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/10/11/nyt-strands-hints-and-answers-for-sunday-october-12/",
+    "title": "NYT ‘Strands’ Hints And Answers For Sunday, October 12",
+    "fetched_on": "2025-10-12T23:17:08.549847+00:00",
+    "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nSunday rainy Sunday. Well, Im not sure if it will be a very rainy day but its been raining for several days and it keeps raining overnig… [+2201 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sunday",
+      "October",
+      "NYT",
+      "Hints",
+      "Answers",
+      "Strands’",
+      "Today",
+      "Credit",
+      "Strands",
+      "York"
+    ]
+  },
+  {
+    "source": "Deadline [NewsAPI]",
+    "url": "http://deadline.com/2025/10/steven-spielberg-london-film-festival-hamnet-sam-mendes-1236582694/",
+    "title": "Steven Spielberg Makes Surprise London Film Festival Appearance Alongside Sam Mendes To Introduce Chloé Zhao’s ‘Hamnet’",
+    "fetched_on": "2025-10-12T23:17:08.549847+00:00",
+    "content": "Legendary filmmaker Steven Spielberg slipped into the Royal Festival Hall in London this evening to introduce Chloé Zhao’s Hamnet, his latest credit as a producer, to a packed London Film Festival au… [+2021 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Film",
+      "Chloé",
+      "Zhao",
+      "London",
+      "Festival",
+      "Spielberg",
+      "Introduce",
+      "Steven",
+      "Hamnet’",
+      "Hamnet"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/strong-step-schumer-credits-trumps-israel-hamas-deal-but-says-two-state-solution-is-necessary-second-part/",
+    "title": "‘Strong Step’: Schumer Credits Trump’s Israel-Hamas Deal — But Says Two-State Solution Is Necessary ‘Second Part’",
+    "fetched_on": "2025-10-12T23:17:08.549847+00:00",
+    "content": "Senate Minority Leader Chuck Schumer (D-NY) acknowledged President Donald Trump’s efforts to bring peace to the Middle East, but warned that the hostage release was only the first step in the complic… [+1735 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "D-NY",
+      "Schumer",
+      "Strong",
+      "Step’",
+      "Deal",
+      "East",
+      "chars",
+      "Credits",
+      "Solution"
+    ]
   }
 ]
