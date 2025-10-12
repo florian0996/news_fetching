@@ -51732,5 +51732,105 @@
       "Overhaul",
       "Epic"
     ]
+  },
+  {
+    "source": "Jalopnik [NewsAPI]",
+    "url": "https://www.jalopnik.com/1992684/record-number-americans-behind-on-auto-loans/",
+    "title": "Record Numbers Of Americans Are Falling Behind On Their Auto Loans",
+    "fetched_on": "2025-10-12T19:14:25.395102+00:00",
+    "content": "I know there will be some people here who feel that folks who aren't as well off as they are folks who maybe do not have credit scores as high as theirs don't deserve grace or a new car. The truth is… [+1532 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "folks",
+      "Numbers",
+      "Americans",
+      "Falling",
+      "Auto",
+      "Loans",
+      "Record",
+      "car",
+      "people",
+      "feel"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2025/10/11/coinbase-s-upcoming-amex-card-with-btc-cashback-everything-we-know-so-far",
+    "title": "Coinbase’s Upcoming Amex Card With BTC Cashback: Everything We Know So Far",
+    "fetched_on": "2025-10-12T19:14:25.395102+00:00",
+    "content": "Coinbase is preparing to launch a new American Express credit card in the U.S. this fall, and everything about it from the design to the rewards seems tailored to bitcoin enthusiasts.\r\nUnlike most cr… [+3501 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cashback",
+      "Coinbase",
+      "Card",
+      "Upcoming",
+      "Amex",
+      "BTC",
+      "American",
+      "Express",
+      "fall",
+      "enthusiasts"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/10/11/booking-the-wwe-survivor-series-card-after-wwe-crown-jewel-2025/",
+    "title": "Booking The Survivor Series Card After WWE Crown Jewel 2025",
+    "fetched_on": "2025-10-12T19:14:25.395102+00:00",
+    "content": "Seth Rollins defeated Cody Rhodes for the first time ever at Crown Jewel. (Credit: Rich Freeda/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE Crown Jewel 2025 is in the books, and the likes of John… [+5588 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jewel",
+      "Crown",
+      "WWE",
+      "Seth",
+      "Survivor",
+      "Series",
+      "Card",
+      "Rollins",
+      "Cody",
+      "Rhodes"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/137686/england-stopper-set-to-be-handed-largest-contract-in-the-clubs-history.html",
+    "title": "England Stopper Set To Be Handed “largest contract in the club’s history”",
+    "fetched_on": "2025-10-12T19:14:25.395102+00:00",
+    "content": "Commitment Signals Long-Term Ambition\r\nCredit to Graeme Bailey of TBR Football for revealing one of the most significant contract developments in Evertons modern era. Jordan Pickford is expected to s… [+3487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Handed",
+      "Commitment",
+      "Stopper",
+      "Set",
+      "Signals",
+      "Ambition",
+      "Credit",
+      "Graeme",
+      "Bailey",
+      "TBR"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/10/12/government-shutdown-vance-aca-democrats.html",
+    "title": "Government shutdown: Vance says 'fraud' is rife in ACA tax credits use",
+    "fetched_on": "2025-10-12T19:14:46.837623+00:00",
+    "content": "Democrats want any government funding bill include an extension for enhanced Obamacare subsidies, which are set to expire at the end of this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "fraud",
+      "Vance",
+      "ACA",
+      "Democrats",
+      "Obamacare",
+      "shutdown",
+      "subsidies",
+      "year",
+      "Government",
+      "rife"
+    ]
   }
 ]
