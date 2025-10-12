@@ -51952,5 +51952,45 @@
       "favorites",
       "Skip"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/features/2025-10-12/first-brands-tricolor-wipeouts-show-cracks-in-credit-golden-age",
+    "title": "From Tricolor to Saks, Bonds Are Now Crashing at Breakneck Speed",
+    "fetched_on": "2025-10-12T21:16:46.170216+00:00",
+    "content": "<p>Recent meltdowns in the bond and loan markets have&nbsp;investors on edge,&nbsp;sparking a hunt for hidden risks inside portfolios.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Saks",
+      "Speed",
+      "Recent",
+      "Tricolor",
+      "Crashing",
+      "Breakneck",
+      "edge",
+      "sparking",
+      "portfolios.",
+      "Bonds"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/10/disney-springs-toy-story-character-gone-emd1/",
+    "title": "‘Toy Story’ Main Character Removed From Disney Property",
+    "fetched_on": "2025-10-12T21:16:43.735556+00:00",
+    "content": "A Toy Story character has gone missing at Disney World. Does this mean the end for this beloved space ranger?\r\nCredit: Disney\r\nDisney World Gets Rid of Buzz Lightyear\r\nIts a sight that stopped guests… [+3992 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Toy",
+      "Disney",
+      "Character",
+      "Story’",
+      "Main",
+      "Removed",
+      "Property",
+      "Story",
+      "World",
+      "missing"
+    ]
   }
 ]
