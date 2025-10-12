@@ -50779,5 +50779,45 @@
       "made",
       "Ireland"
     ]
+  },
+  {
+    "source": "Christiantoday.com [NewsAPI]",
+    "url": "https://www.christiantoday.com/news/christian-aid-organisations-praying-for-lasting-peace-in-gaza",
+    "title": "Christian aid organisations praying for lasting peace in Gaza",
+    "fetched_on": "2025-10-12T06:27:29.645011+00:00",
+    "content": "A family looks at an apartment block destroyed by a missile strike on Jalaa Street, Gaza City, 21 February 2024. (Credit: Christian Aid/Omar Al-Qattaa)\r\nAid organisations Tearfund and Christian Aid h… [+2253 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "aid",
+      "Gaza",
+      "February",
+      "Christian",
+      "Street",
+      "City",
+      "Jalaa",
+      "organisations",
+      "Credit",
+      "praying"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/137664/real-madrid-pushing-to-hijack-liverpools-move-for-35m-star-report.html",
+    "title": "Real Madrid pushing to hijack Liverpool’s move for £35m star – Report",
+    "fetched_on": "2025-10-12T06:27:29.645011+00:00",
+    "content": "Marc Guéhi Emerges as Summers Biggest Defensive Bargain\r\nCredit to Fichajes for breaking the story that has quickly set tongues wagging across Europe. Crystal Palace captain Marc Guéhi, under contrac… [+2800 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "star",
+      "Report",
+      "Europe",
+      "Marc",
+      "Guéhi",
+      "Madrid",
+      "Liverpool",
+      "Emerges",
+      "Summers",
+      "Biggest"
+    ]
   }
 ]
