@@ -50641,5 +50641,43 @@
       "low",
       "minimum"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/09234ac57f1b5f60",
+    "title": "5 torch-carrying cartoons about Lady Liberty’s rough week",
+    "fetched_on": "2025-10-12T03:03:06.637299+00:00",
+    "content": "(Image credit: Marco De Angelis / Copyright 2025 Cagle Cartoons, Inc.)(Image credit: R.J. Matson / Copyright 2025 Cagle Cartoons, Inc.)(Image credit: Pat Bagley / Copyright 2025 Cagle Cartoons, Inc.)… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Inc.",
+      "Image",
+      "Cagle",
+      "credit",
+      "cartoons",
+      "Marco",
+      "Angelis",
+      "Lady",
+      "Liberty"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/dad-using-identity-open-credit-200000415.html",
+    "title": "My dad has been using my identity to open credit cards and take out loans — and he destroyed my credit. How do I fix it?",
+    "fetched_on": "2025-10-12T03:03:36.732573+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "loans",
+      "dad",
+      "identity",
+      "open",
+      "cards",
+      "destroyed",
+      "fix"
+    ]
   }
 ]
