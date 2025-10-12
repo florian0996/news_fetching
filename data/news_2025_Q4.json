@@ -51054,5 +51054,45 @@
       "Love",
       "Economic"
     ]
+  },
+  {
+    "source": "The Denver Post [NewsAPI]",
+    "url": "https://www.denverpost.com/2025/10/11/greg-penner-broncos-london-return/",
+    "title": "Renck: Three years later, Broncos arrive back in London as NFL royalty. Credit owners Greg Penner, Carrie Walton Penner",
+    "fetched_on": "2025-10-12T11:14:36.675179+00:00",
+    "content": "WARE, U.K. — The juxtaposition is striking.\r\nThree years ago in London, co-owner Greg Penner stood at the Barrowboy and Banker restaurant and supported a hapless coach and defended a washed-up quarte… [+5688 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Broncos",
+      "Renck",
+      "NFL",
+      "Penner",
+      "London",
+      "Greg",
+      "royalty",
+      "Carrie",
+      "WARE",
+      "years"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/137672/tottenham-hotspur-keen-on-signing-19-year-old-forward-report.html",
+    "title": "Tottenham Hotspur ‘keen’ on signing 19-year-old forward – Report",
+    "fetched_on": "2025-10-12T11:14:36.675179+00:00",
+    "content": "Tottenham Lead Chase For Nigerian Starlet Sani Suleiman\r\nRising Talent Sparks Premier League Interest\r\nCredit to TEAMtalk for shining a light on one of the most fascinating emerging transfer battles … [+3360 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "forward",
+      "chars",
+      "Hotspur",
+      "Report",
+      "Tottenham",
+      "Lead",
+      "Chase",
+      "Nigerian",
+      "Starlet",
+      "Sani"
+    ]
   }
 ]
