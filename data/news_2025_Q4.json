@@ -52503,5 +52503,25 @@
       "car",
       "loan"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-recommends-hdfc-bank-sbi-as-top-picks-ahead-of-rbis-ecl-regime-transition/articleshow/124496994.cms",
+    "title": "Motilal Oswal recommends HDFC Bank, SBI as top picks ahead of RBI’s ECL regime transition",
+    "fetched_on": "2025-10-13T08:29:53.488576+00:00",
+    "content": "The Reserve Bank of Indias latest draft guidelines on the Expected Credit Loss (ECL) framework and revised credit risk capital norms mark a watershed in the evolution of Indias banking regulation.Tog… [+4443 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indias",
+      "Bank",
+      "ECL",
+      "SBI",
+      "Loss",
+      "chars",
+      "Credit",
+      "Oswal",
+      "HDFC",
+      "RBI"
+    ]
   }
 ]
