@@ -52466,5 +52466,42 @@
       "chars",
       "reports"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-13/dubai-neighbor-sharjah-seeks-debut-yuan-loan-as-china-ties-grow",
+    "title": "Dubai Neighbor Sharjah Seeks Debut Yuan Loan as China Ties Grow",
+    "fetched_on": "2025-10-13T07:21:07.471642+00:00",
+    "content": "A local government from the United Arab Emirates is close to securing its first-ever Chinese yuan-denominated syndicated loan, as Middle Eastern entities increasingly turn to Asian banks for funding.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Neighbor",
+      "Sharjah",
+      "Seeks",
+      "Debut",
+      "Yuan",
+      "China",
+      "Ties",
+      "Grow",
+      "United"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/lloyds-sets-aside-additional-800-million-for-car-loan-compensation-93CH-4283128",
+    "title": "Lloyds sets aside additional £800 million for car loan compensation",
+    "fetched_on": "2025-10-13T07:21:17.697758+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lloyds",
+      "additional",
+      "million",
+      "compensation",
+      "sets",
+      "car",
+      "loan"
+    ]
   }
 ]
