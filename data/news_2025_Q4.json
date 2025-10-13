@@ -52406,5 +52406,65 @@
       "October",
       "Images"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-13/lloyds-to-set-aside-additional-800-million-in-motor-provisions",
+    "title": "Lloyds to Set Aside Additional £800 Million in Motor Provisions",
+    "fetched_on": "2025-10-13T06:32:41.940104+00:00",
+    "content": "Lloyds Banking Group Plc said it intends to set aside an additional provision of £800 million ($1.07 billion) to compensate customers who were missold car loans after the UK’s finance watchdog kickstarted a redress program.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Set",
+      "Million",
+      "billion",
+      "Lloyds",
+      "Additional",
+      "Motor",
+      "Banking",
+      "Group",
+      "Plc",
+      "program"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/137688/60m-premier-league-star-top-target-for-manchester-united.html",
+    "title": "£60m premier league star top target for Manchester United",
+    "fetched_on": "2025-10-13T06:32:39.797124+00:00",
+    "content": "Manchester United have reportedly set their sights on Crystal Palace midfielder Adam Wharton in what could be one of the most surprising transfer moves of 2026. Credit goes to The Mirror, who reveale… [+3339 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Manchester",
+      "United",
+      "Crystal",
+      "Palace",
+      "Adam",
+      "Wharton",
+      "premier",
+      "chars",
+      "Mirror",
+      "league"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/is-galaxy-s26-copying-iphone-17_id174816",
+    "title": "Is Galaxy S26 copying the iPhone 17?",
+    "fetched_on": "2025-10-13T06:32:39.797124+00:00",
+    "content": "*Image credit Ice UniverseSamsung is, according to multiple reports, taking some inspiration from Apple and the new iPhone 17 series. Additionally, in a recent image that shows Galaxy S26 dummy units… [+4110 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "iPhone",
+      "copying",
+      "Image",
+      "series",
+      "Ice",
+      "Apple",
+      "Additionally",
+      "chars",
+      "reports"
+    ]
   }
 ]
