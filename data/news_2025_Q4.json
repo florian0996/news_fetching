@@ -52523,5 +52523,65 @@
       "HDFC",
       "RBI"
     ]
+  },
+  {
+    "source": "Mypeoplesreview.com [NewsAPI]",
+    "url": "https://mypeoplesreview.com/2025/10/12/govt-offers-startup-loans-up-to-rs-2-5-million-at-3-percent-interest/",
+    "title": "Govt offers startup loans up to Rs 2.5 million at 3 percent interest",
+    "fetched_on": "2025-10-13T09:25:03.770441+00:00",
+    "content": "Kathmandu, Oct 12: The government has introduced the Startup Loan Program to turn innovative ideas into business ventures. Under the guidelines prepared by the Ministry of Industry, Commerce and Supp… [+2334 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct",
+      "startup",
+      "Kathmandu",
+      "Program",
+      "loans",
+      "Loan",
+      "Govt",
+      "million",
+      "percent",
+      "ventures"
+    ]
+  },
+  {
+    "source": "TimesLIVE [NewsAPI]",
+    "url": "https://www.sundaytimes.timeslive.co.za/business/news/2025-10-11-bt-1210-p8-african-bank-wants-more-flexibility-for-sme-loans/",
+    "title": "African Bank wants more flexibility for SME loans",
+    "fetched_on": "2025-10-13T09:25:03.770441+00:00",
+    "content": "South African lenders, banks and the government should introduce more flexible and creative options to increase access to credit for small businesses, says Edna Montse, African Bank group executive f… [+3926 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "African",
+      "Bank",
+      "Montse",
+      "chars",
+      "SME",
+      "South",
+      "Edna",
+      "lenders",
+      "businesses",
+      "banks"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/3q-bank-earnings-economy-consumer-lending-ai-what-to-watch-2025-10",
+    "title": "Banks are thermometers for the economy. Here are 3 things to watch when they report earnings.",
+    "fetched_on": "2025-10-13T09:25:03.770441+00:00",
+    "content": "There's a lot of jargon in the average bank earnings call net interest margin, capital markets, credit quality. But if you cut through the noise and know what to listen for, you can learn a lot about… [+4121 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "economy",
+      "thermometers",
+      "lot",
+      "earnings",
+      "things",
+      "chars",
+      "margin",
+      "capital",
+      "markets",
+      "credit"
+    ]
   }
 ]
