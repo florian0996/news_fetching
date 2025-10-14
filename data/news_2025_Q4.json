@@ -55188,5 +55188,85 @@
       "rewards",
       "offer"
     ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/consultations/consultation-on-the-proposed-rate-per-loan-for-the-2024-to-2025-public-lending-right-scheme-year",
+    "title": "Consultation on the proposed rate per loan for the 2024 to 2025 Public Lending Right scheme year",
+    "fetched_on": "2025-10-14T08:26:22.543283+00:00",
+    "content": "The Public Lending Right (PLR) is a right for authors and other rights holders to receive payments from a central fund for the public lending of their books by libraries in the UK. The 2024 to 2025 P… [+1266 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Public",
+      "Lending",
+      "PLR",
+      "Consultation",
+      "proposed",
+      "rate",
+      "loan",
+      "scheme",
+      "year",
+      "authors"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/credit-card-debt-india-slowdown-household-debt-delinquencies-gold-loans-financial-stress-rbi-11760336512210.html",
+    "title": "Credit card debt has slowed—but what’s worrying regulators?",
+    "fetched_on": "2025-10-14T08:26:22.543283+00:00",
+    "content": "Credit cards account for just 5% of total loans outstanding to individuals in India, yet they serve as a bellwether for household debt.\r\nAbout two years ago, the Reserve Bank of India (RBI) cracked d… [+5368 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "India",
+      "slowed",
+      "regulators",
+      "RBI",
+      "debt",
+      "worrying",
+      "chars",
+      "Reserve",
+      "Bank"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/artificial-intelligence-2/2025/ai-helps-credit-union-redefine-credit-for-struggling-workers/",
+    "title": "AI Helps Credit Union Redefine Credit for Struggling Workers",
+    "fetched_on": "2025-10-14T08:26:22.543283+00:00",
+    "content": "For millions of working families, financial stability is a fragile balancing act. The paycheck arrives, the bills are paid, and the cycle begins again, until an unexpected expense tips the scales. Fo… [+5419 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Union",
+      "Redefine",
+      "Struggling",
+      "Workers",
+      "families",
+      "financial",
+      "act",
+      "millions",
+      "working"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/home-loan-emis-likely-to-fall-for-these-borrowers-as-banks-revise-lending-rates/articleshow/124521013.cms",
+    "title": "Home loan EMIs likely to fall for these borrowers as banks revise lending rates",
+    "fetched_on": "2025-10-14T08:26:22.543283+00:00",
+    "content": "Dr Ajai Chowdhry\r\nCo-Founder, HCL, Chairman EPIC Foundation, Author, Just Aspire\r\nWatch Now",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HCL",
+      "Author",
+      "Chairman",
+      "Foundation",
+      "Ajai",
+      "Chowdhry",
+      "EPIC",
+      "Aspire",
+      "Watch",
+      "Home"
+    ]
   }
 ]
