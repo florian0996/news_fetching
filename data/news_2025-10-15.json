@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-14/chicago-boosts-rbc-credit-line-by-100-million-as-deficit-looms",
     "title": "Chicago Boosts RBC Credit Line by $100 Million as Deficit Looms",
     "fetched_on": "2025-10-15T01:39:07.212095+00:00",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "source": "Bloomberg – Business [RSS]",
+    "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/opinion/newsletters/2025-10-14/venture-global-s-gas-plant-is-done",
     "title": "Venture Global's Gas Plant Is Done",
     "fetched_on": "2025-10-15T01:39:07.561271+00:00",
@@ -40,14 +40,14 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-14/dimon-s-cockroach-fear-revives-threat-of-growing-credit-cracks",
-    "title": "Dimon's ‘Cockroach' Fear Revives Threat of Cracks in Credit",
-    "fetched_on": "2025-10-15T03:05:28.412913+00:00",
+    "title": "Dimon\u2019s \u2018Cockroach\u2019 Fear Revives Threat of Cracks in Credit",
+    "fetched_on": "2025-10-15T04:24:40.118204+00:00",
     "content": "Investors spooked by the implosion of auto lender Tricolor Holdings and car-parts supplier First Brands Group got little reassurance Tuesday from the head of the biggest US bank.",
     "platforms_mentioned": [],
     "keywords": [
-      "Cockroach’",
+      "Cockroach\u2019",
       "Fear",
       "Revives",
       "Threat",
@@ -60,10 +60,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/features/2025-10-14/chase-sapphire-reserve-amex-platinum-fight-to-be-the-best-credit-card",
-    "title": "Inside the Credit Card Battle to Win America's Richest Shoppers",
-    "fetched_on": "2025-10-15T03:05:28.413008+00:00",
+    "title": "Inside the Credit Card Battle to Win America\u2019s Richest Shoppers",
+    "fetched_on": "2025-10-15T04:24:40.118270+00:00",
     "content": "<p>The fierce fight between Amex and Chase is playing out over higher fees, extravagant events and every perk imaginable.</p>",
     "platforms_mentioned": [],
     "keywords": [
@@ -80,11 +80,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-14/goldman-sachs-cfo-says-no-direct-exposure-to-recent-blowups",
     "title": "Goldman Sachs CFO Says No Direct Exposure to Recent Blowups",
-    "fetched_on": "2025-10-15T03:05:28.413081+00:00",
-    "content": "Goldman Sachs Group Inc. Chief Financial Officer Denis Coleman said the firm doesn't have direct exposure to the recent blowups and, without mentioning names, assured that it's “maintaining standards” in lending.",
+    "fetched_on": "2025-10-15T04:24:40.118343+00:00",
+    "content": "Goldman Sachs Group Inc. Chief Financial Officer Denis Coleman said the firm doesn\u2019t have direct exposure to the recent blowups and, without mentioning names, assured that it\u2019s \u201cmaintaining standards\u201d in lending.",
     "platforms_mentioned": [],
     "keywords": [
       "Sachs",
@@ -103,8 +103,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/news/international/global-trends/lendingtree-ceo-doug-lebda-dies-death-reason-net-worth-and-other-details/articleshow/124540859.cms",
     "title": "LendingTree CEO Doug Lebda dies: Death reason, net worth, and other details",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "LendingTree CEO and founder Doug Lebda has tragically passed away following an all-terrain vehicle (ATV) accident over the weekend, the company confirmed on Monday.In an official statement, LendingTr... [+1763 chars]",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "LendingTree CEO and founder Doug Lebda has tragically passed away following an all-terrain vehicle (ATV) accident over the weekend, the company confirmed on Monday.In an official statement, LendingTr\u2026 [+1763 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "ATV",
@@ -123,8 +123,8 @@
     "source": "Twistedsifter.com [NewsAPI]",
     "url": "http://twistedsifter.com/2025/10/customer-got-upset-when-the-restaurant-demanded-to-hold-her-license-while-she-went-to-find-her-credit-card-so-she-talked-bad-about-them-to-her-kids-only-to-have-them-pay-her-bill/",
     "title": "Customer Got Upset When The Restaurant Demanded To Hold Her License While She Went To Find Her Credit Card, So She Talked Bad About Them To Her Kids, Only To Have Them Pay Her Bill",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "Shutterstock/Reddit When you work at a restaurant, you need to watch the customers closely to make sure they pay their bill at the end of their meal. What would you do if an older woman claimed she... [+5160 chars]",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Shutterstock/Reddit\r\nWhen you work at a restaurant, you need to watch the customers closely to make sure they pay their bill at the end of their meal.\r\nWhat would you do if an older woman claimed she\u2026 [+5160 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Restaurant",
@@ -142,9 +142,9 @@
   {
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/industry/banking/loan-growth-outpaces-deposits-banks-fund-crunch-11760339058640.html",
-    "title": "Loan growth outpaces deposits-will banks be compelled to hike FD rates?",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "Mumbai: Indian banks' growth in deposits kept pace with loans in the first quarter of the fiscal year but slipped in the second, returning to the trailing trend seen in the last two years, provisiona... [+6155 chars]",
+    "title": "Loan growth outpaces deposits\u2014will banks be compelled to hike FD rates?",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Mumbai: Indian banks' growth in deposits kept pace with loans in the first quarter of the fiscal year but slipped in the second, returning to the trailing trend seen in the last two years, provisiona\u2026 [+6155 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "rates",
@@ -163,8 +163,8 @@
     "source": "Coloradoan [NewsAPI]",
     "url": "https://www.coloradoan.com/story/sports/high-school/football/2025/10/13/vote-blue-fcu-fort-collins-windsor-wellington-football-player-week-oct-13/86677287007/",
     "title": "Poll: Vote for the Blue FCU Fort Collins-area Football Player of the Week (Oct. 13)",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "The Coloradoan is proud to present another aspect of our weekly Athlete of the Week series, partnering with Blue Federal Credit Union to honor the best Fort Collins-area tackle football players throu... [+2182 chars]",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "The Coloradoan is proud to present another aspect of our weekly Athlete of the Week series, partnering with\u00a0Blue Federal Credit Union\u00a0to honor the best Fort Collins-area tackle football players throu\u2026 [+2182 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Fort",
@@ -182,16 +182,16 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/10/13/nyt-strands-hints-and-answers-for-tuesday-october-14/",
-    "title": "NYT ‘Strands' Hints And Answers For Tuesday, October 14",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "Today's NYT Strands hints and answers Credit: New York Times Its still raining pretty much constantly here in the high desert mountains, which is super weird and unusual but I love it. I love it so... [+2138 chars]",
+    "title": "NYT \u2018Strands\u2019 Hints And Answers For Tuesday, October 14",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nIts still raining pretty much constantly here in the high desert mountains, which is super weird and unusual but I love it. I love it so\u2026 [+2138 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "October",
       "NYT",
       "Hints",
       "Answers",
-      "Strands’",
+      "Strands\u2019",
       "Tuesday",
       "Today",
       "Credit",
@@ -203,8 +203,8 @@
     "source": "New Zealand Herald [NewsAPI]",
     "url": "https://www.nzherald.co.nz/business/personal-finance/reserve-bank-to-ease-mortgage-lending-restrictions-from-december/3UZYVO3WHZAFBF34LH33TBSKQ4/",
     "title": "Reserve Bank to ease mortgage lending restrictions from December",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "We concluded that the introduction of debt-to-income [DTI] restrictions last year means LVR settings can be less restrictive on average. This includes looser default settings that we expect will be i... [+1745 chars]",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "We concluded that the introduction of debt-to-income [DTI] restrictions last year means LVR settings can be less restrictive on average. This includes looser default settings that we expect will be i\u2026 [+1745 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "DTI",
@@ -223,8 +223,8 @@
     "source": "Thegatewaypundit.com [NewsAPI]",
     "url": "https://www.thegatewaypundit.com/2025/10/vp-jd-vance-burns-elizabeth-warren-hilarious-reply/",
     "title": "VP JD Vance Burns Elizabeth Warren with a Hilarious Reply After She Weighs In on the Gaza Peace Deal and Refuses to Give Trump Credit",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "J.D. Vance speaking with Jim Hoft Senator Elizabeth “Pocahontas” Warren's (D-MA) classless response to President Trump's historic peace deal blew up in her face on Monday after Vice President JD Van... [+2663 chars]",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "J.D. Vance speaking with Jim Hoft\r\nSenator Elizabeth \u201cPocahontas\u201d Warren\u2019s (D-MA) classless response to President Trump\u2019s historic peace deal blew up in her face on Monday after Vice President JD Van\u2026 [+2663 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Burns",
@@ -242,9 +242,9 @@
   {
     "source": "Nature.com [NewsAPI]",
     "url": "https://www.nature.com/articles/d41586-025-03313-z",
-    "title": "Carbon credits are failing to help with climate change - here's why",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "Achieving the global temperature targets set in the Paris climate agreement requires deep, rapid cuts in greenhouse-gas emissions, and therefore the swift phase-out of fossil fuels. Many factors stan... [+8518 chars]",
+    "title": "Carbon credits are failing to help with climate change \u2014 here\u2019s why",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Achieving the global temperature targets set in the Paris climate agreement requires deep, rapid cuts in greenhouse-gas emissions, and therefore the swift phase-out of fossil fuels. Many factors stan\u2026 [+8518 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Achieving",
@@ -263,8 +263,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/c57dae8dc64dc1f2",
     "title": "Big Bank Profits Expected to Climb as Credit Concerns Ripple Across Wall Street",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is NASA's Jet Propulsion Lab laying off workers? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will OpenAI's Br... [+902 chars]",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is NASA's Jet Propulsion Lab laying off workers? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will OpenAI's Br\u2026 [+902 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -282,9 +282,9 @@
   {
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/10/13/3165853/0/en/Get-a-1-000-Loan-Fast-No-Credit-Check-Needed.html",
-    "title": "Get a $1,000 Loan Fast - No Credit Check Needed",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "New York, Oct. 13, 2025 (GLOBE NEWSWIRE) -- Disclaimer: This article is for informational purposes only and does not constitute financial advice. Loan terms, availability, and eligibility vary by len... [+6352 chars]",
+    "title": "Get a $1,000 Loan Fast \u2013 No Credit Check Needed",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "New York, Oct. 13, 2025 (GLOBE NEWSWIRE) -- Disclaimer: This article is for informational purposes only and does not constitute financial advice. Loan terms, availability, and eligibility vary by len\u2026 [+6352 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Oct.",
@@ -302,9 +302,9 @@
   {
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/6b2ae6ab1ca5e7b9",
-    "title": "New Zealand's central bank to ease home lending rules",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Goldman Sachs acquire Industry Ventures? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will AI bubble risks... [+747 chars]",
+    "title": "New Zealand\u2019s central bank to ease home lending rules",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Goldman Sachs acquire Industry Ventures? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will AI bubble risks\u2026 [+747 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -482,7 +482,7 @@
   {
     "source": "Thegatewaypundit.com [NewsAPI]",
     "url": "https://www.thegatewaypundit.com/2025/10/cnn-propagandist-christiane-amanpour-suggests-hamas-treated-israeli/",
-    "title": "CNN Propagandist Christiane Amanpour Suggests Hamas Treated Israeli Hostages ‘Better' Than Gazan Civilians (VIDEO)",
+    "title": "CNN Propagandist Christiane Amanpour Suggests Hamas Treated Israeli Hostages \u2018Better' Than Gazan Civilians (VIDEO)",
     "fetched_on": "2025-10-15T01:39:06.501620+00:00",
     "content": "Amanpour controversially suggested that Hamas may have treated Israeli captives better than Gazan civilians. (Image credit: CNN) Fake news CNN's veteran international anchor Christiane Amanpour has ... [+5308 chars]",
     "platforms_mentioned": [],
@@ -495,7 +495,7 @@
       "Treated",
       "Amanpour",
       "Hostages",
-      "Better’",
+      "Better\u2019",
       "CNN"
     ]
   },
@@ -522,7 +522,7 @@
   {
     "source": "Freerepublic.com [NewsAPI]",
     "url": "https://freerepublic.com/focus/f-chat/4346179/posts",
-    "title": "LendingTree's 55-year-old CEO Doug Lebda dies in ATV accident: ‘devastating'",
+    "title": "LendingTree's 55-year-old CEO Doug Lebda dies in ATV accident: \u2018devastating'",
     "fetched_on": "2025-10-15T01:39:06.501620+00:00",
     "content": "Skip to comments. LendingTrees 55-year-old CEO Doug Lebda dies in ATV accident: devastatingNY Post ^ | 10/13/2025 | Ariel Zilber Posted on 10/13/2025 3:00:16 PM PDT by DFG Doug Lebda, the foun... [+2464 chars]",
     "platforms_mentioned": [],
@@ -534,23 +534,23 @@
       "accident",
       "Skip",
       "dies",
-      "devastating’",
+      "devastating\u2019",
       "comments",
       "Post"
     ]
   },
   {
-    "source": "Crunchbase News – Seed Funding [Scrape]",
+    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
-    "title": "Exclusive: Revalia Bio Raises $14.5M To ‘Revolutionize' Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-15T03:05:53.755302+00:00",
+    "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
+    "fetched_on": "2025-10-15T04:25:01.316072+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
       "Revalia",
       "Bio",
       "Raises",
-      "Revolutionize’",
+      "Revolutionize\u2019",
       "Haven",
       "Connecticut-based",
       "Exclusive",
@@ -563,7 +563,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
     "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
-    "fetched_on": "2025-10-15T03:05:55.507788+00:00",
+    "fetched_on": "2025-10-15T04:25:02.772450+00:00",
     "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-15T03:05:55.813609+00:00",
+    "fetched_on": "2025-10-15T04:25:02.951275+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-15T03:05:55.342301+00:00",
+    "fetched_on": "2025-10-15T04:25:02.648992+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -622,9 +622,9 @@
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
-    "title": "Fed rate cut: Here's what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-15T03:05:55.342458+00:00",
-    "content": "The Federal Reserve cut its benchmark by a quarter point. Here's what that means for the borrowing and savings rates you pay.",
+    "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
+    "fetched_on": "2025-10-15T04:25:02.649145+00:00",
+    "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
       "Federal",
@@ -643,7 +643,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-15T03:05:55.342465+00:00",
+    "fetched_on": "2025-10-15T04:25:02.649152+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html",
     "title": "Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures",
-    "fetched_on": "2025-10-15T03:05:55.507821+00:00",
+    "fetched_on": "2025-10-15T04:25:02.772497+00:00",
     "content": "Goldman Sachs is making the acquisition to bolster its $540 billion alternatives investment platform, part of the \"growth engine\" of the investment bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/10/uk-investment-platform-warns-traders-to-avoid-bitcoin-crypto.html",
     "title": "'Bitcoin is not an asset class': UK's biggest investment platform has a stark warning for investors",
-    "fetched_on": "2025-10-15T03:05:55.507910+00:00",
+    "fetched_on": "2025-10-15T04:25:02.772608+00:00",
     "content": "\"We do not think cryptocurrency has characteristics that mean it should be included in portfolios for growth or income,\" Hargreaves Lansdowne said.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
     "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-    "fetched_on": "2025-10-15T03:05:55.813685+00:00",
+    "fetched_on": "2025-10-15T04:25:02.951354+00:00",
     "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/06/student-loan-forgiveness-for-ibr-resumes.html",
     "title": "Trump administration resumes student loan forgiveness for some borrowers, trade group says",
-    "fetched_on": "2025-10-15T03:05:55.813784+00:00",
+    "fetched_on": "2025-10-15T04:25:02.951454+00:00",
     "content": "The Trump administration has restarted student loan forgiveness for borrowers enrolled in the IBR program, a benefit that has been partially paused since July.",
     "platforms_mentioned": [],
     "keywords": [
@@ -742,12 +742,12 @@
   {
     "source": "Boxingnews24.com [NewsAPI]",
     "url": "https://www.boxingnews24.com/2025/10/stephen-edwards-warns-jaron-boots-ennis-wont-get-credit-for-beating-a-40-year-old-terence-crawford-two-years-from-now/",
-    "title": "Stephen Edwards Warns Jaron ‘Boots' Ennis Won't Get Credit for Beating a 40-Year-Old Terence Crawford Two Years From Now",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "Trainer Stephen Edwards doubts Jaron ‘Boots' Ennis will get credit if he beats a 39 or 40-year-old Terence Crawford in a year or two after he moves up to 160. Building Boots, Losing Crawford Ennis ... [+3636 chars]",
+    "title": "Stephen Edwards Warns Jaron \u2018Boots\u2019 Ennis Won\u2019t Get Credit for Beating a 40-Year-Old Terence Crawford Two Years From Now",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Trainer Stephen Edwards doubts Jaron \u2018Boots\u2019 Ennis will get credit if he beats a 39 or 40-year-old Terence Crawford in a year or two after he moves up to 160.\r\nBuilding Boots, Losing Crawford\r\nEnnis \u2026 [+3636 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "Boots’",
+      "Boots\u2019",
       "Terence",
       "Jaron",
       "Edwards",
@@ -762,9 +762,9 @@
   {
     "source": "Thegatewaypundit.com [NewsAPI]",
     "url": "https://www.thegatewaypundit.com/2025/10/democrat-strategist-stunned-trumps-success-middle-east-its/",
-    "title": "Democrat Strategist Stunned by Trump's Success in the Middle East: ‘It's Historic And He Deserves All The Credit' (VIDEO)",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "Dan Turrentine remarks on Trump's success with the hostages - Screencap of Twitter/X video. Dan Turrentine is a regular contributor on Mark Halperin's ‘2 Way' program. During the broadcast today, he... [+2213 chars]",
+    "title": "Democrat Strategist Stunned by Trump\u2019s Success in the Middle East: \u2018It\u2019s Historic And He Deserves All The Credit\u2019 (VIDEO)",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Dan Turrentine remarks on Trump\u2019s success with the hostages \u2013 Screencap of Twitter/X video.\r\nDan Turrentine is a regular contributor on Mark Halperin\u2019s \u20182 Way\u2019 program. During the broadcast today, he\u2026 [+2213 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Trump",
@@ -772,7 +772,7 @@
       "Success",
       "Dan",
       "East",
-      "Credit’",
+      "Credit\u2019",
       "Screencap",
       "Twitter",
       "Turrentine",
@@ -783,8 +783,8 @@
     "source": "Business Insider [NewsAPI]",
     "url": "https://www.businessinsider.com/entrepreneurship-lessons-from-doug-lebda-the-ceo-of-lendingtree-2025-10",
     "title": "5 entrepreneurship and leadership lessons from Doug Lebda, the cofounder and CEO of LendingTree",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "Doug Lebda, LendingTree founder and CEO, has died.Steve Jennings/Getty Images <ul><li>Doug Lebda, LendingTree founder, died in an ATV accident at age 55.</li><li>LendingTree, founded in 1996, revolu... [+4873 chars]",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Doug Lebda, LendingTree founder and CEO, has died.Steve Jennings/Getty Images\r\n<ul><li>Doug Lebda, LendingTree founder, died in an ATV accident at age 55.</li><li>LendingTree, founded in 1996, revolu\u2026 [+4873 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Lebda",
@@ -803,8 +803,8 @@
     "source": "Fox News [NewsAPI]",
     "url": "https://www.foxnews.com/politics/biden-blinken-take-credit-groundwork-behind-trumps-gaza-ceasefire-deal",
     "title": "Blinken says Trump's Gaza peace plan based on Biden administration work",
-    "fetched_on": "2025-10-15T03:05:26.364210+00:00",
-    "content": "Former President Joe Biden and former Secretary of State Antony Blinken both claimed some credit for President Donald Trumps Israel-Hamas ceasefire agreement on Monday. On X, Biden who is undergoing... [+3440 chars]",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Former President Joe Biden and former Secretary of State Antony Blinken both claimed some credit for President Donald Trumps Israel-Hamas ceasefire agreement on Monday.\r\nOn X, Biden who is undergoing\u2026 [+3440 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "President",
@@ -823,7 +823,7 @@
     "source": "Reuters [GNews]",
     "url": "https://www.reuters.com/world/india/india-markets-regulator-seeks-boost-lending-borrowing-shares-official-says-2025-10-08/",
     "title": "India markets regulator seeks to boost lending and borrowing of shares, official says",
-    "fetched_on": "2025-10-15T03:05:34.098827+00:00",
+    "fetched_on": "2025-10-15T04:24:44.712448+00:00",
     "content": "India's markets regulator is consulting stakeholders to make it easy to lend and borrow shares and boost volumes, a regulatory official said on Wednesday.",
     "platforms_mentioned": [],
     "entity": "Lend",
@@ -843,7 +843,7 @@
   {
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/1-4-car-trade-ins-153000875.html",
-    "title": "1 in 4 new car trade-ins are ‘underwater,' marking a 4-year high - here's how to avoid drowning in auto loans",
+    "title": "1 in 4 new car trade-ins are \u2018underwater,' marking a 4-year high - here's how to avoid drowning in auto loans",
     "fetched_on": "2025-10-15T03:05:56.427274+00:00",
     "content": "",
     "platforms_mentioned": [],
@@ -894,6 +894,155 @@
       "Private",
       "Credit",
       "Erik"
+    ]
+  },
+  {
+    "source": "Juancole.com [NewsAPI]",
+    "url": "https://www.juancole.com/2025/10/flotilla-achieve-fragile.html",
+    "title": "The Sumud Aid Flotilla did more than Trump to Achieve Gaza\u2019s Fragile Peace",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Braga, Portugal and San Marcos, Ca. (Special to Informed Comment; Feature) \u2013 US President Trump arrived in Israel on Monday as the first hostages were released by Hamas, ostensibly to take credit for\u2026 [+7674 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Braga",
+      "Portugal",
+      "Marcos",
+      "Sumud",
+      "Aid",
+      "Flotilla",
+      "Achieve",
+      "Gaza",
+      "Fragile",
+      "Peace"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/36d4b4f77c1bb687",
+    "title": "Revolut\u2019s full UK banking licence held up by concerns over global risk controls",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Europes most valuable start-up has waited years for approval to begin lending in its home market\r\nThis story appeared on ft.com, 2025-10-14 04:00:12.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Europes",
+      "Revolut",
+      "ft.com",
+      "full",
+      "banking",
+      "licence",
+      "held",
+      "concerns",
+      "global",
+      "risk"
+    ]
+  },
+  {
+    "source": "Harvard Business Review [NewsAPI]",
+    "url": "https://hbr.org/tip/2025/10/4-more-ways-being-yourself-can-backfire-at-work",
+    "title": "4 More Ways \u201cBeing Yourself\u201d Can Backfire at Work",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "Yesterday we shared five ways \u201cbeing yourself\u201d can backfire at work. Here are four more ways authenticity can damage your reputation\u2014and how to take a more strategic approach.\u00a0\u00a0\nTaking full credit. E\u2026 [+798 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Backfire",
+      "Work",
+      "Yesterday",
+      "shared",
+      "reputation",
+      "approach",
+      "chars",
+      "Taking",
+      "credit",
+      "authenticity"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/your-money/2025/10/14/need-more-money-to-buy-a-home-this-is-how-you-can-get-a-better-loan-within-your-means/",
+    "title": "Need more money to buy a home? This is how you can get a better loan within your means",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "House prices are still on the rise, putting people under increasing pressure to pull together the funds needed to buy a home. \r\nYes, the pace of growth may have abated prices rose by 7.5 per cent in \u2026 [+8538 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "home",
+      "buy",
+      "money",
+      "House",
+      "prices",
+      "chars",
+      "rise",
+      "putting",
+      "loan",
+      "people"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/using-bnpl-this-festive-season-here-s-how-it-can-impact-your-credit-score-11760350517173.html",
+    "title": "Using BNPL this festive season? Here\u2019s how it can impact your credit score",
+    "fetched_on": "2025-10-15T04:24:38.474616+00:00",
+    "content": "As the festive fever builds, borrowers look towards modern ways of borrowing funds. Tools such as personal loans, credit cards, and buy-now, pay-later services are just a few options that borrowers l\u2026 [+4198 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNPL",
+      "season",
+      "festive",
+      "chars",
+      "credit",
+      "borrowers",
+      "builds",
+      "funds",
+      "Tools",
+      "loans"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/lendingtree-ceo-founder-doug-lebda-175021421.html",
+    "title": "LendingTree CEO and founder Doug Lebda dies in ATV accident",
+    "fetched_on": "2025-10-15T04:25:03.541940+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CEO",
+      "Doug",
+      "Lebda",
+      "ATV",
+      "LendingTree",
+      "accident",
+      "founder",
+      "dies"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/review/navy-federal-mortgage-review-175532325.html",
+    "title": "Navy Federal Credit Union mortgage review 2025",
+    "fetched_on": "2025-10-15T04:25:03.541955+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Federal",
+      "Credit",
+      "Union",
+      "Navy",
+      "review",
+      "mortgage"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-home-equity-loan-lenders-223817340.html",
+    "title": "Best home equity loan lenders this month",
+    "fetched_on": "2025-10-15T04:25:03.541978+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "month",
+      "home",
+      "equity",
+      "loan",
+      "lenders"
     ]
   }
 ]
