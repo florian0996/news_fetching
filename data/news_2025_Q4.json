@@ -59053,5 +59053,43 @@
       "Video",
       "Give"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-15/india-clearing-house-pitches-more-users-in-corporate-bond-repos",
+    "title": "India Clearing House Pitches More Users in Corporate Bond Repos",
+    "fetched_on": "2025-10-15T06:31:15.641312+00:00",
+    "content": "India’s sole clearing house for corporate bond repos is in discussions with regulators to allow foreign investors, trusts and individuals, as part of efforts to make the nation’s credit market more liquid and accessible.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bond",
+      "Clearing",
+      "House",
+      "Corporate",
+      "Repos",
+      "India",
+      "Pitches",
+      "Users",
+      "investors",
+      "trusts"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/exclusivejapans-rakuten-weighing-us-ipo-of-credit-card-business-sources-say-4288726",
+    "title": "Exclusive-Japan’s Rakuten weighing US IPO of credit card business, sources say",
+    "fetched_on": "2025-10-15T06:31:28.735222+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rakuten",
+      "IPO",
+      "Exclusive-Japan",
+      "business",
+      "sources",
+      "weighing",
+      "credit",
+      "card"
+    ]
   }
 ]
