@@ -2,8 +2,8 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-14/chicago-boosts-rbc-credit-line-by-100-million-as-deficit-looms",
-    "title": "Chicago Boosts RBC Credit Line by $100 Million as Deficit Looms",
-    "fetched_on": "2025-10-15T01:39:07.212095+00:00",
+    "title": "Chicago Boosts RBC Credit Line by $100 Million as Gap Looms",
+    "fetched_on": "2025-10-15T14:22:05.162864+00:00",
     "content": "Chicago, which faces a roughly $1 billion budget gap next year, has increased a revolving line of credit with RBC Capital Markets by $100 million and extended the maturity date by more than two years, according to an amendment to an agreement dating to December 2021.",
     "platforms_mentioned": [],
     "keywords": [
@@ -13,8 +13,8 @@
       "Chicago",
       "Credit",
       "Line",
+      "Gap",
       "Boosts",
-      "Deficit",
       "Looms",
       "Capital"
     ]
@@ -543,7 +543,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-15T13:33:09.816163+00:00",
+    "fetched_on": "2025-10-15T14:22:24.751905+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
     "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
-    "fetched_on": "2025-10-15T13:33:11.069043+00:00",
+    "fetched_on": "2025-10-15T14:22:26.561614+00:00",
     "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-15T13:33:11.171443+00:00",
+    "fetched_on": "2025-10-15T14:22:26.663915+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-15T13:33:10.993194+00:00",
+    "fetched_on": "2025-10-15T14:22:26.412782+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-15T13:33:10.993343+00:00",
+    "fetched_on": "2025-10-15T14:22:26.412933+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-15T13:33:10.993350+00:00",
+    "fetched_on": "2025-10-15T14:22:26.412939+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html",
     "title": "Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures",
-    "fetched_on": "2025-10-15T13:33:11.069071+00:00",
+    "fetched_on": "2025-10-15T14:22:26.561643+00:00",
     "content": "Goldman Sachs is making the acquisition to bolster its $540 billion alternatives investment platform, part of the \"growth engine\" of the investment bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/10/uk-investment-platform-warns-traders-to-avoid-bitcoin-crypto.html",
     "title": "'Bitcoin is not an asset class': UK's biggest investment platform has a stark warning for investors",
-    "fetched_on": "2025-10-15T13:33:11.069152+00:00",
+    "fetched_on": "2025-10-15T14:22:26.561728+00:00",
     "content": "\"We do not think cryptocurrency has characteristics that mean it should be included in portfolios for growth or income,\" Hargreaves Lansdowne said.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
     "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-    "fetched_on": "2025-10-15T13:33:11.171516+00:00",
+    "fetched_on": "2025-10-15T14:22:26.663996+00:00",
     "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/06/student-loan-forgiveness-for-ibr-resumes.html",
     "title": "Trump administration resumes student loan forgiveness for some borrowers, trade group says",
-    "fetched_on": "2025-10-15T13:33:11.171610+00:00",
+    "fetched_on": "2025-10-15T14:22:26.664091+00:00",
     "content": "The Trump administration has restarted student loan forgiveness for borrowers enrolled in the IBR program, a benefit that has been partially paused since July.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1049,7 +1049,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/pakistan-gets-initial-imf-approval-for-1-2-billion-loans",
     "title": "Pakistan Gets Initial IMF Approval for $1.2 Billion Loans",
-    "fetched_on": "2025-10-15T13:32:51.594118+00:00",
+    "fetched_on": "2025-10-15T14:22:05.615437+00:00",
     "content": "Pakistan has reached a preliminary agreement with the International Monetary Fund, to unlock $1.2 billion of loans under two separate programs.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1187,7 +1187,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/rakuten-jumps-on-report-it-s-weighing-us-ipo-of-credit-card-unit",
     "title": "Rakuten Jumps on Report It Weighs US IPO of Credit Card Unit",
-    "fetched_on": "2025-10-15T13:32:51.501010+00:00",
+    "fetched_on": "2025-10-15T14:22:05.502020+00:00",
     "content": "Rakuten Group Inc. shares rose as much as 6.7% on Wednesday, the most since April 10, after Reuters reported the Japanese e-commerce firm is considering listing its credit card business in the US.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1206,21 +1206,21 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/funds-chase-new-private-credit-money-for-emerging-market-bets",
-    "title": "Funds Chase New Private Credit Money in Emerging Market Bet",
-    "fetched_on": "2025-10-15T13:32:51.117541+00:00",
+    "title": "Private Credit Gold Rush Is Spreading to Emerging Markets",
+    "fetched_on": "2025-10-15T14:22:05.163005+00:00",
     "content": "Asset managers are looking to raise new private credit funds aimed at emerging markets to capitalize on an explosion of financing deals in the sector this year.",
     "platforms_mentioned": [],
     "keywords": [
-      "Private",
       "Credit",
       "Emerging",
-      "Chase",
-      "Money",
-      "Bet",
+      "Markets",
+      "Private",
+      "Gold",
+      "Rush",
+      "Spreading",
       "Asset",
       "year",
-      "Market",
-      "markets"
+      "managers"
     ]
   },
   {
@@ -1307,7 +1307,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/exclusive-japans-rakuten-weighing-us-060720857.html",
     "title": "Exclusive-Japan's Rakuten weighing US IPO of credit card business, sources say",
-    "fetched_on": "2025-10-15T13:33:11.471847+00:00",
+    "fetched_on": "2025-10-15T14:22:26.978291+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1476,7 +1476,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/swiss-regulator-to-appeal-court-decision-on-credit-suisse-bonds-mgrpprb7",
     "title": "Finma to Appeal Court Decision on Credit Suisse AT1s",
-    "fetched_on": "2025-10-15T13:32:51.117572+00:00",
+    "fetched_on": "2025-10-15T14:22:05.163029+00:00",
     "content": "Swiss financial regulator Finma said it would appeal against a decision by the Federal Administrative Court to revoke the watchdog\u2019s 2023 order to wipe-out $20 billion of bonds issued by Credit Suisse.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1993,7 +1993,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/newsletters/2025-10-15/cockroaches-and-coyotes-jibes-ricochet-in-credit",
     "title": "Cockroaches and Coyotes Jibes\u00a0Ricochet in Credit",
-    "fetched_on": "2025-10-15T13:32:51.369258+00:00",
+    "fetched_on": "2025-10-15T14:22:05.385350+00:00",
     "content": "<p>Wall Street bosses and nervy investors throw&nbsp;shade as losses sting</p>",
     "platforms_mentioned": [],
     "keywords": [
@@ -2013,7 +2013,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/financial-data-network-plaid-launches-a-consumer-credit-score",
     "title": "Financial Data Network Plaid Launches a Consumer Credit Score",
-    "fetched_on": "2025-10-15T13:32:51.682791+00:00",
+    "fetched_on": "2025-10-15T14:22:05.698279+00:00",
     "content": "The financial-technology firm Plaid Inc. is launching a credit-score service to provide banks and fintechs more detailed and timely information on consumers\u2019 financial health.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2273,7 +2273,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-15/blue-owl-chief-looks-to-bank-loans-for-dimon-cockroaches-video",
     "title": "Blue Owl Chief Looks to Bank Loans for Dimon Cockroaches",
-    "fetched_on": "2025-10-15T13:32:51.117547+00:00",
+    "fetched_on": "2025-10-15T14:22:05.163011+00:00",
     "content": "Blue Owl Capital Inc.\u2019s co-chief executive officer, Marc Lipschultz, said on Tuesday, \u201cwe\u2019re not seeing rising defaults, we\u2019re not seeing companies struggling,\u201d while banks might want to look at their own books for any \u201ccockroaches.\u201d Lipschultz\u2019s comments came hours after JPMorgan Chase &amp; Co. CEO Jamie Dimon said the collapses of Tricolor Holdings and First Brands Group should serve as warnings for credit markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2313,7 +2313,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/credit-suisse-at1-bondholders-angle-for-lehman-style-payouts",
     "title": "Credit Suisse AT1 Bondholders Angle for Lehman-Style Payouts",
-    "fetched_on": "2025-10-15T13:32:51.682761+00:00",
+    "fetched_on": "2025-10-15T14:22:05.698261+00:00",
     "content": "A group of investors that hold claims tied to about $17 billion of bonds wiped out in the rescue of Credit Suisse are pointing to another failed bank as an example of the potentially lucrative payday they\u2019re holding out for: Lehman Brothers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2333,7 +2333,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/morgan-stanley-posts-notable-figure-for-loan-loss-provisions-0",
     "title": "Morgan Stanley Posts Notable Figure for Loan-Loss Provisions: $0",
-    "fetched_on": "2025-10-15T13:32:51.682779+00:00",
+    "fetched_on": "2025-10-15T14:22:05.698267+00:00",
     "content": "As concerns begin to emerge about the quality of US credit, Morgan Stanley reported a noteworthy figure for loan-loss provisions: zero dollars.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2748,7 +2748,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/uk-watchdog-defends-car-loan-redress-as-banks-prepare-for-battle",
     "title": "UK Watchdog Defends Car-Loan Redress as Banks Prepare for Battle",
-    "fetched_on": "2025-10-15T13:32:51.682686+00:00",
+    "fetched_on": "2025-10-15T14:22:05.698219+00:00",
     "content": "The UK\u2019s Financial Conduct Authority defended its plan to compensate consumers over missold car loans, saying its proposed program will bring the yearslong saga to a close and give certainty to consumers and businesses.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2768,7 +2768,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-15/hsbc-plans-risk-transfer-linked-to-3-billion-of-corporate-loans",
     "title": "HSBC Plans Risk Transfer Linked to \u00a33 Billion of Corporate Loans",
-    "fetched_on": "2025-10-15T13:32:51.682723+00:00",
+    "fetched_on": "2025-10-15T14:22:05.698237+00:00",
     "content": "HSBC Holdings Plc plans to issue a significant risk transfer linked to a portfolio of about \u00a33 billion ($3.4 billion) of loans, according to people familiar with the matter.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2788,7 +2788,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/bf17296f32d505d3",
     "title": "Liquidnet launches US equity options business",
-    "fetched_on": "2025-10-15T13:32:50.495621+00:00",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
     "content": "Liquidnet has confirmed the launch of its US equity options offering, the next step in its multi-asset journey.Chris BlackburnAs part of the move, Andrew Arnold has joined from Credit Suisse as a sen\u2026 [+141 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3018,6 +3018,246 @@
       "car",
       "cars",
       "buying"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/1014/1538535-credit-suisse-bond-writedown-unlawful/",
+    "title": "Bond write-off in Credit Suisse rescue unlawful - court",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "The Swiss authorities' 2023 decision to write off 16.5 billion Swiss francs ($20.53 billion) in Credit Suisse bonds was unlawful, a court said today, raising fresh questions about how the bank's resc\u2026 [+2741 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Suisse",
+      "chars",
+      "Swiss",
+      "unlawful",
+      "billion",
+      "authorities'",
+      "decision",
+      "francs",
+      "today"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/uk-delaying-revolut-banking-license-142021725.html",
+    "title": "UK is delaying Revolut\u2019s banking license over risk management concerns",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "Image Credits:Revolut\r\nU.K. fintech Revolut has hit yet another roadblock to its longstanding mission of becoming a real bank in its home country: Its full banking license is on hold because the coun\u2026 [+2459 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Revolut",
+      "Credits",
+      "chars",
+      "banking",
+      "license",
+      "Image",
+      "fintech",
+      "country",
+      "coun",
+      "delaying"
+    ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/10/14/gms-feeling-the-heat-after-us-scraps-7500-ev-tax-credit/",
+    "title": "GM\u2019s feeling the heat after the US pulled the plug on the $7,500 EV tax credit",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "GM is suddenly shaking up electric vehicle production plans after issuing a stark warning. The automaker warned that new US policy changes, including killing off the $7,500 EV tax credit, will cost i\u2026 [+2842 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "tax",
+      "credit",
+      "warning",
+      "feeling",
+      "heat",
+      "pulled",
+      "plug",
+      "suddenly",
+      "shaking",
+      "electric"
+    ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/games/dissidia-duellum-final-fantasy-announced-for-mobile/",
+    "title": "Dissidia Duellum Final Fantasy Announced For Mobile",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "Posted in: Final Fantasy, Games, Mobile Games, Square Enix | Tagged: Dissidia Duellum Final Fantasy\r\nA new entry in the Dissisia series is coming from Square Enix, as Credit; Square Enix will arrive \u2026 [+2353 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Final",
+      "Fantasy",
+      "Square",
+      "Enix",
+      "Dissidia",
+      "Duellum",
+      "Games",
+      "Tagged",
+      "Mobile",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/107511/nova-credit-raises-35m",
+    "title": "Nova Credit raises $35m",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "Nova Credit, a leading credit infrastructure and analytics company, today announced it raised $35 million in Series D funding led by Socium Ventures, a venture firm backed by Cox Enterprises, to acce\u2026 [+3382 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nova",
+      "Credit",
+      "Enterprises",
+      "chars",
+      "Series",
+      "Socium",
+      "Cox",
+      "raises",
+      "company",
+      "today"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/swiss-court-says-20-billion-140808236.html",
+    "title": "Swiss court says $20 billion bond write-off in Credit Suisse rescue was unlawful",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "By Dave Graham, John Revill and Kirsti Knolle\r\nZURICH (Reuters) -Swiss authorities' 2023 decision to write off 16.5 billion Swiss francs ($20.53 billion) in Credit Suisse bonds was unlawful, a court \u2026 [+3056 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Reuters",
+      "Suisse",
+      "billion",
+      "Swiss",
+      "Graham",
+      "John",
+      "ZURICH",
+      "chars",
+      "Dave"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/def9faa8b66ab8d8",
+    "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.\r\nThis story appeared on cnbc.com, 2025-10-1\u2026 [+10 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jefferies",
+      "Dimon",
+      "Jamie",
+      "reveal",
+      "early",
+      "JPMorgan",
+      "companies",
+      "bankruptcies",
+      "chars",
+      "auto"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/fee-based-credit-cards-come-with-perks-but-they-arent-for-everyone",
+    "title": "Fee-based credit cards come with perks but they aren\u2019t for everyone",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "Better store discounts, access to airport lounges, and early entry to your favourite live acts. The perks of some credit cards are hard to ignore, even if the card comes with an annual fee.\r\nTHIS CON\u2026 [+4818 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fee-based",
+      "discounts",
+      "access",
+      "lounges",
+      "acts",
+      "credit",
+      "cards",
+      "perks",
+      "n\u2019t",
+      "store"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/ethereums-50-50-setup-explained-macro-fears-vs-376m-accumulation/",
+    "title": "Ethereum\u2019s 50-50 setup explained: Macro fears vs. $376M accumulation",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "Key Takeaways\r\nHow are macro conditions affecting Ethereum\u2019s price outlook?\u00a0\r\nWeak macro sentiment and rising credit spreads are signaling potential downside pressure for ETH.\r\nWhat does recent ETH a\u2026 [+3537 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ethereum",
+      "Key",
+      "Takeaways",
+      "Macro",
+      "explained",
+      "accumulation",
+      "outlook",
+      "ETH",
+      "50-50",
+      "setup"
+    ]
+  },
+  {
+    "source": "Wornandwound.com [NewsAPI]",
+    "url": "https://wornandwound.com/furlan-marri-expands-the-cornes-de-vache-collection-with-the-blue-sector/",
+    "title": "Furlan Marri Expands the Cornes de Vache Collection with the Blue Sector",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "In the ever-growing sea of impressive microbrands, Swiss upstarts Furlan Marri have carved out a niche of dressy watches with vintage flair. That\u2019s not giving them full credit, of course\u2014they\u2019ve also\u2026 [+2621 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marri",
+      "Furlan",
+      "Swiss",
+      "Expands",
+      "Cornes",
+      "Vache",
+      "Collection",
+      "Blue",
+      "Sector",
+      "microbrands"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/alec-baldwin-car-crash-updates-5478355/",
+    "title": "Alec Baldwin Car Crash Updates: What Happened to the Actor & His Brother Stephen?",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "Image Credit: Getty Images\r\nAlec Baldwin and his brother Stephen Baldwinran into bad luck this week while out in East Hampton, New York, for the Hamptons International Film Festival. The siblings wer\u2026 [+1622 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Updates",
+      "Actor",
+      "Baldwin",
+      "Stephen",
+      "Brother",
+      "Car",
+      "Crash",
+      "Happened",
+      "Alec",
+      "Credit"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/brokers-call-sundaram-finance-add/article70163092.ece",
+    "title": "Broker\u2019s call: Sundaram Finance (Add)",
+    "fetched_on": "2025-10-15T14:22:04.421443+00:00",
+    "content": "Target: 4,620\r\nCMP: 4,442\r\nSundaram Finances (SUF) revamped strategy of product (retail CV, commercial lending) and geographic diversification (non-South) under the current MD has delivered improved \u2026 [+1061 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sundaram",
+      "Add",
+      "Target",
+      "CMP",
+      "SUF",
+      "Finance",
+      "Finances",
+      "non-South",
+      "chars",
+      "Broker"
     ]
   }
 ]
