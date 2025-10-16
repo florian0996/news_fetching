@@ -64154,5 +64154,45 @@
       "home",
       "personal"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-10-16/odd-lots-why-taxpayers-now-own-parts-of-intel-and-mp-podcast",
+    "title": "Odd Lots: Why Taxpayers Now Own Parts of Intel and MP (Podcast)",
+    "fetched_on": "2025-10-16T08:29:24.535551+00:00",
+    "content": "It’s nothing new for the US government to use public money to support private American companies. The Biden administration, via CHIPS and the Inflation Reduction Act, was aggressive about using loans and grants to accelerate US industry. But the Trump administration has been engaged in something more novel: taking direct stakes in US companies like Intel and MP. But what is the legal basis for such action? And what are the advantages and disadvantages of direct equity stakes? On this episode, we",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Lots",
+      "Taxpayers",
+      "Parts",
+      "American",
+      "Intel",
+      "Odd",
+      "government",
+      "public",
+      "money"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "http://www.pymnts.com/mobile-wallets/2025/gen-z-leads-a-23-percent-surge-in-mobile-wallet-use-across-generations/",
+    "title": "Gen Z Leads a 23% Surge in Mobile Wallet Use Across Generations",
+    "fetched_on": "2025-10-16T08:29:23.532961+00:00",
+    "content": "Mobile wallets arent killing the credit card. Theyre giving it new life.Thats the undercurrent of PYMNTS Intelligences latest How the World Does Digital report, which finds that wallets are driving a… [+2898 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mobile",
+      "Surge",
+      "Leads",
+      "Generations",
+      "Gen",
+      "card",
+      "wallets",
+      "arent",
+      "killing",
+      "credit"
+    ]
   }
 ]
