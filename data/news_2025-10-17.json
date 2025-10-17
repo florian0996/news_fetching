@@ -2,21 +2,21 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-16/stock-market-today-dow-s-p-live-updates",
-    "title": "Stocks Tumble as Credit Fears Spark Bank Selloff: Markets Wrap",
-    "fetched_on": "2025-10-17T09:22:27.450055+00:00",
-    "content": "A global stocks selloff deepened as doubts over the health of regional US banks drove traders to cut down on risk, capping a volatile week that exposed the vulnerability of markets near record levels. Bonds and haven currencies were major beneficiaries as investors rushed for safety.",
+    "title": "Stocks Tumble as Credit Jitters Deepen Bank Losses: Markets Wrap",
+    "fetched_on": "2025-10-17T10:21:58.258536+00:00",
+    "content": "Stocks fell as losses in US lenders deepened, with doubts over regional banks\u2019 credit health prompting traders to cut risk at the end of a volatile week. Bonds and haven currencies were major beneficiaries as investors rushed for safety.",
     "platforms_mentioned": [],
     "keywords": [
-      "Selloff",
       "Markets",
-      "Tumble",
-      "Credit",
-      "Fears",
-      "Spark",
-      "Wrap",
       "Stocks",
-      "risk",
-      "capping"
+      "Credit",
+      "Losses",
+      "Tumble",
+      "Jitters",
+      "Deepen",
+      "Bank",
+      "Wrap",
+      "deepened"
     ]
   },
   {
@@ -183,7 +183,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-16/zions-western-alliance-disclose-bad-loans-tied-to-alleged-fraud",
     "title": "Zions, Western Alliance Banks Disclose Bad Loans Tied to Alleged Fraud",
-    "fetched_on": "2025-10-17T09:22:27.934235+00:00",
+    "fetched_on": "2025-10-17T10:21:59.653980+00:00",
     "content": "Shares of two regional US banks tumbled Thursday after the companies said they were the victims of fraud on loans to funds that invest in distressed commercial mortgages, fueling concern that more cracks are emerging in the credit markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-17T09:22:46.664409+00:00",
+    "fetched_on": "2025-10-17T10:22:28.179096+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/regional-banks-and-jefferies-shares-tank-as-concerns-grow-on-wall-street-about-sour-loans.html",
     "title": "Regional banks, Jefferies shares tank as concerns about sour loans grow on Wall Street",
-    "fetched_on": "2025-10-17T09:22:47.710621+00:00",
+    "fetched_on": "2025-10-17T10:22:29.087563+00:00",
     "content": "Fears are mounting around the health of their lending businesses.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/asia-markets-friday-hang-seng-hsi-kospi-nikkei-225.html",
     "title": "South Korea's Kospi hits fresh record high for third straight day on optimism over trade talks",
-    "fetched_on": "2025-10-17T09:22:47.710562+00:00",
+    "fetched_on": "2025-10-17T10:22:29.087508+00:00",
     "content": "Shares of regional banks and investment bank\u00a0Jefferies\u00a0tumbled Thursday as fears mounted around some bad loans lurking in the U.S.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
     "title": "Why some credit card APRs aren\u2019t coming down, even after a Fed rate cut",
-    "fetched_on": "2025-10-17T09:22:48.094956+00:00",
+    "fetched_on": "2025-10-17T10:22:29.574747+00:00",
     "content": "Sky-high credit card rates won't come down much, even as the Federal Reserve lowers its benchmark.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/bad-loan-worries-hit-stocks-plus-spin-offs-smartphones-and-health-care.html",
     "title": "Bad loan worries hit stocks \u2014 plus, spin-offs, smartphones, and health care",
-    "fetched_on": "2025-10-17T09:22:47.522746+00:00",
+    "fetched_on": "2025-10-17T10:22:28.865941+00:00",
     "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html",
     "title": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
-    "fetched_on": "2025-10-17T09:22:47.710727+00:00",
+    "fetched_on": "2025-10-17T10:22:29.087652+00:00",
     "content": "Democrats and Republicans in Congress remain divided over the question of whether a bill to end the shutdown should extend enhanced Obamacare tax credits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-17T09:22:47.857263+00:00",
+    "fetched_on": "2025-10-17T10:22:29.255756+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-17T09:22:47.857413+00:00",
+    "fetched_on": "2025-10-17T10:22:29.255901+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-17T09:22:47.857420+00:00",
+    "fetched_on": "2025-10-17T10:22:29.255908+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html",
     "title": "Fintech startup Upgrade valued at $7.3 billion in new funding round",
-    "fetched_on": "2025-10-17T09:22:47.989780+00:00",
+    "fetched_on": "2025-10-17T10:22:29.404933+00:00",
     "content": "Upgrade raised $165 million in a new funding round that valued the fintech startup at $7.3 billion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -702,7 +702,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
     "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
-    "fetched_on": "2025-10-17T09:22:47.989842+00:00",
+    "fetched_on": "2025-10-17T10:22:29.404995+00:00",
     "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -722,7 +722,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html",
     "title": "Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures",
-    "fetched_on": "2025-10-17T09:22:47.989873+00:00",
+    "fetched_on": "2025-10-17T10:22:29.405021+00:00",
     "content": "Goldman Sachs is making the acquisition to bolster its $540 billion alternatives investment platform, part of the \"growth engine\" of the investment bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -762,7 +762,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/government-shutdown-delays-student-loan-forgiveness-lawsuit.html",
     "title": "Student loan forgiveness lawsuit on hold during government shutdown \u2014 what borrowers need to know",
-    "fetched_on": "2025-10-17T09:22:48.094977+00:00",
+    "fetched_on": "2025-10-17T10:22:29.574765+00:00",
     "content": "A union lawsuit against Trump officials regarding blocked student loan forgiveness is paused due to the government shutdown. Here's what borrowers need to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -782,7 +782,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/trump-student-loan-forgiveness-who-qualifies.html",
     "title": "Here's who qualifies for the Trump administration's latest round of student loan forgiveness",
-    "fetched_on": "2025-10-17T09:22:48.094994+00:00",
+    "fetched_on": "2025-10-17T10:22:29.574781+00:00",
     "content": "Federal student loan borrowers have been getting emails from the Education Department that their debt will be forgiven. Here's who qualifies for the relief.",
     "platforms_mentioned": [],
     "keywords": [
@@ -802,7 +802,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/more-student-loan-borrowers-risk-default-as-late-payments-rise.html",
     "title": "Millions of student loan borrowers at risk of default as late payments climb",
-    "fetched_on": "2025-10-17T09:22:48.095002+00:00",
+    "fetched_on": "2025-10-17T10:22:29.574788+00:00",
     "content": "Student loan borrowers who are behind on their payments will be pushed into default in coming months, says Moody's Analytics economist Justin Begley.",
     "platforms_mentioned": [],
     "keywords": [
@@ -822,7 +822,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-17T09:22:48.095024+00:00",
+    "fetched_on": "2025-10-17T10:22:29.574809+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -842,7 +842,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
     "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-    "fetched_on": "2025-10-17T09:22:48.095094+00:00",
+    "fetched_on": "2025-10-17T10:22:29.574876+00:00",
     "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
     "platforms_mentioned": [],
     "keywords": [
@@ -902,7 +902,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-17/japan-gets-highest-yielding-yen-bond-this-year-with-rakuten-deal",
     "title": "Rakuten Delivers Japan\u2019s Highest-Yielding Yen Bond This Year",
-    "fetched_on": "2025-10-17T09:22:27.759828+00:00",
+    "fetched_on": "2025-10-17T10:21:59.106993+00:00",
     "content": "Rakuten Group Inc. priced a local bond at the year\u2019s highest coupon of 4.691%, which helped build a strong order book driven particularly by overseas investors. The deal gave Japan\u2019s credit market the clearest sign yet of the impact of rising government bond yields on corporate borrowing costs.",
     "platforms_mentioned": [],
     "keywords": [
@@ -982,7 +982,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-17/yen-strengthens-past-150-per-dollar-for-first-time-since-oct-6-mgub7f3c",
     "title": "Yen Strengthens Past 150 Per Dollar on Demand for Haven Assets",
-    "fetched_on": "2025-10-17T09:22:27.450152+00:00",
+    "fetched_on": "2025-10-17T10:21:58.258727+00:00",
     "content": "The yen strengthened past the 150 level against the dollar, bouncing back from its weakest point in eight months as bad loans at two US banks drove global demand for haven assets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1002,7 +1002,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-17/copper-declines-on-concerns-over-credit-and-us-china-tensions",
     "title": "Copper Declines on Concerns Over Credit and US-China Tensions",
-    "fetched_on": "2025-10-17T07:20:12.053011+00:00",
+    "fetched_on": "2025-10-17T10:21:58.258577+00:00",
     "content": "Copper and other industrial metals retreated on concerns about credit quality in the US and renewed tensions between Washington and Beijing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1273,7 +1273,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-zero-percent-apr-credit-cards-202429925.html",
     "title": "The best 0% APR credit cards for 2025: Avoid paying interest for up to 21 months on purchases and balance tranfers",
-    "fetched_on": "2025-10-17T09:22:48.496131+00:00",
+    "fetched_on": "2025-10-17T10:22:29.868540+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1413,7 +1413,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-fixed-or-variable-193544510.html",
     "title": "Are credit card rates fixed or variable?",
-    "fetched_on": "2025-10-17T09:22:48.496178+00:00",
+    "fetched_on": "2025-10-17T10:22:29.868549+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1487,7 +1487,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/varo-believe-card-review-221708471.html",
     "title": "Varo Believe Card review: Build credit with 0% APR and no fees",
-    "fetched_on": "2025-10-17T09:22:48.496258+00:00",
+    "fetched_on": "2025-10-17T10:22:29.868557+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1504,7 +1504,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-16/imf-raises-senegal-debt-estimate-as-new-program-talks-kick-off",
     "title": "Senegal Bonds Fall as IMF Raises Debt Estimates Amid Loan Talks",
-    "fetched_on": "2025-10-17T09:22:27.450101+00:00",
+    "fetched_on": "2025-10-17T10:21:58.258661+00:00",
     "content": "Senegal\u2019s dollar bonds fell after the International Monetary Fund calculated the country\u2019s debt at above previous estimates, stoking concerns about its fiscal outlook just as formal talks with the lender on a new program get underway.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1524,7 +1524,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-17/european-banks-slide-on-renewed-credit-woes-in-us-regional-peers",
     "title": "European Banks Slide on Renewed Credit Woes in US Regional Peers",
-    "fetched_on": "2025-10-17T09:22:27.450134+00:00",
+    "fetched_on": "2025-10-17T10:21:58.258709+00:00",
     "content": "European bank stocks retreated on Friday after loan issues at a couple of US regional banks hit sentiment and raised concerns about the credit market, weighing on Europe\u2019s top-performing sector this year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1544,7 +1544,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-17/daybreak-europe-10-17-2025-video",
     "title": "Banking Rout Sparks Credit Fears & Trump to Meet Putin Again | Daybreak Europe 10/17/2025",
-    "fetched_on": "2025-10-17T09:22:27.450146+00:00",
+    "fetched_on": "2025-10-17T10:21:58.258721+00:00",
     "content": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nToday's guests: Benedetta Girardi, The Hague Centre for Strategic Studies, Strategic Analyst & Dev Amratia, nPlan, Co-Founder & CEO. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -1564,7 +1564,7 @@
     "source": "Spacewar.com [NewsAPI]",
     "url": "https://www.spacewar.com/reports/Gaza_may_no_longer_be_burning_but_many_other_places_are_999.html",
     "title": "Gaza may no longer be burning, but many other places are",
-    "fetched_on": "2025-10-17T09:22:26.875731+00:00",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
     "content": "Gaza may no longer be burning, but many other places areby Harlan Ullman Washington DC (UPI) Oct 15, 2025 \r\nFor the moment, peace may be breaking out in Gaza. One must give great credit to President \u2026 [+4731 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1623,25 +1623,27 @@
   {
     "source": "Investing.com (English) [RSS]",
     "url": "https://www.investing.com/news/stock-market-news/asia-financial-stocks-slip-as-us-credit-worries-jolt-investors-4293680",
-    "title": "Banking stocks slide as US credit worries jolt investors",
-    "fetched_on": "2025-10-17T09:22:38.193675+00:00",
+    "title": "Global bank stocks slide as US credit risks spark reality check",
+    "fetched_on": "2025-10-17T10:22:20.051522+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Banking",
-      "investors",
+      "Global",
+      "check",
+      "bank",
       "stocks",
       "slide",
       "credit",
-      "worries",
-      "jolt"
+      "risks",
+      "spark",
+      "reality"
     ]
   },
   {
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/european-markets-to-open-lower-volvo-meets-expectations.html",
-    "title": "Credit concerns reach European markets as bank stocks slide 2.8%",
-    "fetched_on": "2025-10-17T09:22:47.710547+00:00",
+    "title": "Credit concerns reach European markets as bank stocks slide 3%",
+    "fetched_on": "2025-10-17T10:22:29.087493+00:00",
     "content": "European markets traded firmly in the red on Friday morning as concerns over the banking sector reached the region.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1661,7 +1663,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/c6772a595da32fc1",
     "title": "Bank of England survey shows credit availability rising in UK",
-    "fetched_on": "2025-10-17T09:22:26.875731+00:00",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
     "content": "TSMC Q3 profit surges to record high on AI chips boom; China concerns dismissedInvesting.com -- The Bank of Englands latest Credit Conditions Survey revealed on Thursday that credit availability to U\u2026 [+146 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1681,7 +1683,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/heritage-brands-maintain-top-spots-as-luxury-growth-slows-interbrand/",
     "title": "Heritage brands maintain top spots as luxury growth slows: Interbrand",
-    "fetched_on": "2025-10-17T09:22:26.875731+00:00",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
     "content": "Research\r\nOctober 16, 2025\r\n While many prestige titans are seeing prolonged skids, others are rising to the occasion. Image credit: Gucci/Anthony Seklaoui \r\n By Zach James\r\nHigh-end operators are be\u2026 [+8263 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1701,7 +1703,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/c1c398cca57795c3",
     "title": "French Bonds Face Risk of Forced Sales If Credit Score Cut Again",
-    "fetched_on": "2025-10-17T09:22:26.875731+00:00",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did TSMC's profit surge on AI chip demand? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Stellantis' US ex\u2026 [+764 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1721,7 +1723,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/3a3f4f61901d5cd1",
     "title": "How FinTechs Are Staying Regulation-Ready With Credit Unions",
-    "fetched_on": "2025-10-17T09:22:26.875731+00:00",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
     "content": "The 2020s have been a decade of unlikely partnerships. FinTechs that once vied for deals with national banks are now joining forces with credit unions, the community-rooted cooperatives once viewed a\u2026 [+129 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1741,7 +1743,7 @@
     "source": "Showbiz Cheat Sheet [NewsAPI]",
     "url": "https://www.cheatsheet.com/news/nicki-minaj-says-people-stole-thousands-cardi-bs-credit-card-jab.html/#article",
     "title": "Is Nicki Minaj\u2019s Husband REALLY Stealing From Her: An Analysis!",
-    "fetched_on": "2025-10-17T09:22:26.875731+00:00",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
     "content": "Two weeks after Cardi B claimed that Nicki Minajs husband was using her credit card, Minaj revealed that shes lost thousands in unauthorized charges. In a series of posts on social media, Minaj alleg\u2026 [+2930 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1761,7 +1763,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/robert-de-niro-al-pacino-star-in-latest-campaign-from-moncler/",
     "title": "Robert De Niro, Al Pacino star in latest campaign from Moncler",
-    "fetched_on": "2025-10-17T09:22:26.875731+00:00",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
     "content": "The stars are appearing in the same advertising initiative for the first time. Image credit: Moncler/Platon Italian fashion company Moncler is linking up with Hollywood royalty for its new promotiona\u2026 [+3080 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1781,7 +1783,7 @@
     "source": "Economictimes.com [NewsAPI]",
     "url": "https://m.economictimes.com/wealth/save/cghs-new-rates-from-october-13-2025-check-revised-hospital-tariffs-city-wise-and-accreditation-details/when-will-the-new-rates-for-cghs-be-applicable-from/slideshow/124600135.cms",
     "title": "CGHS new rates from October 13, 2025: Check revised hospital tariffs, city-wise and accreditation details",
-    "fetched_on": "2025-10-17T09:22:26.875731+00:00",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
     "content": "Oct 16, 2025, 02:08:32 PM IST\r\nThe Central Government Health Scheme (CGHS) has notified revised package rates for treatment across all its empanelled healthcare organisations (HCOs) and a few other s\u2026 [+1493 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1812,6 +1814,166 @@
       "credit",
       "firm",
       "win"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-17/credit-backdrop-is-still-quite-healthy-cooper-says-video",
+    "title": "Credit Backdrop Is Still 'Quite Healthy,' Cooper Says",
+    "fetched_on": "2025-10-17T10:21:58.258595+00:00",
+    "content": "Nuveen's macro credit head Laura Cooper discusses the current market situation as doubts over the credit health of regional US banks drove traders to cut down on risk. \"We are going to see greater pockets of these pressures materialize,\" Cooper tells Bloomberg Television. She adds that \"the backdrop for credit still remains quite healthy.\" (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cooper",
+      "Nuveen",
+      "Laura",
+      "Healthy",
+      "Credit",
+      "risk",
+      "Backdrop",
+      "Bloomberg",
+      "Television",
+      "macro"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4214637/C-Citis-Strata-Elite-credit-card-users-shut-out-of-accounts-WSJ-reports",
+    "title": "Citi's Strata Elite credit card users shut out of accounts, WSJ reports",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WSJ",
+      "Strata",
+      "Elite",
+      "Earnings",
+      "Citi",
+      "accounts",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/indian-overseas-bank-q2-profit-grows-58-y-o-y-driven-by-robust-credit-growth/article70170725.ece",
+    "title": "Indian Overseas Bank Q2 profit grows 58% y-o-y driven by robust credit growth",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
+    "content": "Indian Overseas Bank on Thursday reported a 57.8 per cent growth in net profit for the quarter ended September 2025 (Q2FY26), driven by robust credit growth and a resulting growth in net interest inc\u2026 [+2464 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Overseas",
+      "Bank",
+      "driven",
+      "growth",
+      "Indian",
+      "robust",
+      "credit",
+      "September",
+      "chars",
+      "net"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/credit-score-decoding-your-credit-report-what-every-line-item-means-11760602382044.html",
+    "title": "Credit score: Decoding your credit report \u2014 understanding every detail",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
+    "content": "Wealth and credit advisors often recommend that individuals check their credit reports from time to time. It is advised to review the report at least once a year. When you check your report, its not \u2026 [+2281 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Decoding",
+      "Wealth",
+      "time",
+      "report",
+      "score",
+      "understanding",
+      "detail",
+      "advisors",
+      "recommend"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/16/3167726/28124/en/Mastercard-in-Payments-and-Lending-Analysis-Report-2025-Strategic-Evaluation-Competitive-Positioning-Market-Assessment-Geographic-and-Category-Opportunities.html",
+    "title": "Mastercard in Payments and Lending Analysis Report 2025: Strategic Evaluation, Competitive Positioning, Market Assessment, Geographic and Category Opportunities",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
+    "content": "Dublin, Oct. 16, 2025 (GLOBE NEWSWIRE) -- The \"Mastercard Inc in Payments and Lending (World)\" company profile has been added to ResearchAndMarkets.com's offering.\r\nThe report examines company shares\u2026 [+2062 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Payments",
+      "Lending",
+      "Oct.",
+      "World",
+      "Mastercard",
+      "Strategic",
+      "Evaluation",
+      "Competitive",
+      "Positioning",
+      "Market"
+    ]
+  },
+  {
+    "source": "Retrotogo.com [NewsAPI]",
+    "url": "https://www.retrotogo.com/2025/10/the-pro-ject-elvis-turntable-is-in-the-building.html",
+    "title": "The Pro-Ject Elvis Turntable is in the building",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
+    "content": "The Pro-Ject Elvis Turntable is in the building (image credit: Pro-Ject)\r\nNote all articles are independently researched and written by myself. However, if you buy via one of the links it may be an a\u2026 [+1520 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Elvis",
+      "Turntable",
+      "Pro-Ject",
+      "Note",
+      "building",
+      "image",
+      "credit",
+      "articles",
+      "independently",
+      "researched"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/news/advanced-manufacturer-from-yorkshire-drives-export-growth-with-15-million-government-guarantee",
+    "title": "Advanced manufacturer from Yorkshire drives export growth with \u00a31.5 million government guarantee",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
+    "content": "<ul><li>Rotherham-based manufacturer secures \u00a31.5 million trade loan facility from HSBC UK, backed by UK Export Finance guarantee\u00a0\r\n</li><li>The firm has over 50 years experience supplies critical hi\u2026 [+3961 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "million",
+      "guarantee",
+      "Rotherham-based",
+      "chars",
+      "export",
+      "Yorkshire",
+      "HSBC",
+      "Finance",
+      "manufacturer",
+      "Advanced"
+    ]
+  },
+  {
+    "source": "Thekenyatimes.com [NewsAPI]",
+    "url": "https://thekenyatimes.com/business/banking/kingdom-bank-reduces-interest-rates-on-loans/",
+    "title": "Kingdom Bank Reduces Interest Rates By 0.5%",
+    "fetched_on": "2025-10-17T10:21:57.499629+00:00",
+    "content": "Kingdom Bank, a subsidiary of Co-operative Bank of Kenya, has announced a reduction in its base lending rate from 15.5% to 15% per annum, effective November 1, 2025.\r\nThe move comes in response to th\u2026 [+4204 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kingdom",
+      "Bank",
+      "Kenya",
+      "November",
+      "Reduces",
+      "Interest",
+      "Co-operative",
+      "annum",
+      "effective",
+      "Rates"
     ]
   }
 ]
