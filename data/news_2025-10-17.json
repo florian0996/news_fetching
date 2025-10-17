@@ -2,28 +2,28 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-16/stock-market-today-dow-s-p-live-updates",
-    "title": "Stocks Fall, Bonds Rally on US Bank Credit Woes: Markets Wrap",
-    "fetched_on": "2025-10-17T05:19:39.700740+00:00",
-    "content": "Stocks fell and investors sought the safety of government bonds after shares of US regional banks tumbled on concerns about lending standards. Gold was poised for a ninth week of gains.",
+    "title": "Stock Losses Extend, Bonds Rally on US Credit Woes: Markets Wrap",
+    "fetched_on": "2025-10-17T06:30:23.397495+00:00",
+    "content": "Stocks extended their losses and investors sought the safety of government bonds after shares of US regional banks tumbled on concerns about lending standards. Gold was poised for a ninth week of gains.",
     "platforms_mentioned": [],
     "keywords": [
-      "Fall",
+      "Extend",
       "Woes",
       "Markets",
-      "Stocks",
+      "Losses",
       "Bonds",
       "Rally",
       "Credit",
       "Wrap",
       "standards",
-      "Bank"
+      "Stock"
     ]
   },
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-16/gold-and-silver-hit-records-on-credit-fears-us-china-tensions",
     "title": "Gold and Silver Hit Records on Credit Fears, US-China Tensions",
-    "fetched_on": "2025-10-17T05:19:39.700796+00:00",
+    "fetched_on": "2025-10-17T06:30:23.397614+00:00",
     "content": "Gold and silver rose to records as fears about credit quality in the US economy and heightened frictions between Washington and Beijing strengthened demand for havens.",
     "platforms_mentioned": [],
     "keywords": [
@@ -183,7 +183,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-16/zions-western-alliance-disclose-bad-loans-tied-to-alleged-fraud",
     "title": "Zions, Western Alliance Banks Disclose Bad Loans Tied to Alleged Fraud",
-    "fetched_on": "2025-10-17T05:19:40.199016+00:00",
+    "fetched_on": "2025-10-17T06:30:24.000619+00:00",
     "content": "Shares of two regional US banks tumbled Thursday after the companies said they were the victims of fraud on loans to funds that invest in distressed commercial mortgages, fueling concern that more cracks are emerging in the credit markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-17T05:19:58.572795+00:00",
+    "fetched_on": "2025-10-17T06:30:42.606570+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/regional-banks-and-jefferies-shares-tank-as-concerns-grow-on-wall-street-about-sour-loans.html",
     "title": "Regional banks, Jefferies shares tank as concerns about sour loans grow on Wall Street",
-    "fetched_on": "2025-10-17T05:19:59.694359+00:00",
+    "fetched_on": "2025-10-17T06:30:43.550317+00:00",
     "content": "Fears are mounting around the health of their lending businesses.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/asia-markets-friday-hang-seng-hsi-kospi-nikkei-225.html",
     "title": "South Korea's Kospi hits fresh record high for third straight day on optimism over trade talks",
-    "fetched_on": "2025-10-17T05:19:59.694251+00:00",
+    "fetched_on": "2025-10-17T06:30:43.550242+00:00",
     "content": "Shares of regional banks and investment bank\u00a0Jefferies\u00a0tumbled Thursday as fears mounted around some bad loans lurking in the U.S.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
     "title": "Why some credit card APRs aren\u2019t coming down, even after a Fed rate cut",
-    "fetched_on": "2025-10-17T05:20:00.078204+00:00",
+    "fetched_on": "2025-10-17T06:30:43.866478+00:00",
     "content": "Sky-high credit card rates won't come down much, even as the Federal Reserve lowers its benchmark.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/bank-loan-fed-cut-rates.html",
     "title": "Bank loan worries make it easier for Fed to cut interest rates, Jim Cramer says",
-    "fetched_on": "2025-10-17T05:19:59.523909+00:00",
+    "fetched_on": "2025-10-17T06:30:43.349103+00:00",
     "content": "CNBC's Jim Cramer said sour bank loans pave the way for the Federal Reserve to cut interest rates because they signal the economy is going south.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/bad-loan-worries-hit-stocks-plus-spin-offs-smartphones-and-health-care.html",
     "title": "Bad loan worries hit stocks \u2014 plus, spin-offs, smartphones, and health care",
-    "fetched_on": "2025-10-17T05:19:59.523936+00:00",
+    "fetched_on": "2025-10-17T06:30:43.349164+00:00",
     "content": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html",
     "title": "Government shutdown: Senate bill fails for 10th time, Kelly tells Trump to get involved",
-    "fetched_on": "2025-10-17T05:19:59.694414+00:00",
+    "fetched_on": "2025-10-17T06:30:43.550395+00:00",
     "content": "Democrats and Republicans in Congress remain divided over the question of whether a bill to end the shutdown should extend enhanced Obamacare tax credits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-17T05:19:59.814885+00:00",
+    "fetched_on": "2025-10-17T06:30:43.656783+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-17T05:19:59.815035+00:00",
+    "fetched_on": "2025-10-17T06:30:43.656947+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-17T05:19:59.815042+00:00",
+    "fetched_on": "2025-10-17T06:30:43.656954+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html",
     "title": "Fintech startup Upgrade valued at $7.3 billion in new funding round",
-    "fetched_on": "2025-10-17T05:19:59.919139+00:00",
+    "fetched_on": "2025-10-17T06:30:43.759942+00:00",
     "content": "Upgrade raised $165 million in a new funding round that valued the fintech startup at $7.3 billion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -702,7 +702,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
     "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
-    "fetched_on": "2025-10-17T05:19:59.919202+00:00",
+    "fetched_on": "2025-10-17T06:30:43.760011+00:00",
     "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -722,7 +722,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html",
     "title": "Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures",
-    "fetched_on": "2025-10-17T05:19:59.919228+00:00",
+    "fetched_on": "2025-10-17T06:30:43.760039+00:00",
     "content": "Goldman Sachs is making the acquisition to bolster its $540 billion alternatives investment platform, part of the \"growth engine\" of the investment bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -742,7 +742,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/10/uk-investment-platform-warns-traders-to-avoid-bitcoin-crypto.html",
     "title": "'Bitcoin is not an asset class': UK's biggest investment platform has a stark warning for investors",
-    "fetched_on": "2025-10-17T05:19:59.919312+00:00",
+    "fetched_on": "2025-10-17T06:30:43.760146+00:00",
     "content": "\"We do not think cryptocurrency has characteristics that mean it should be included in portfolios for growth or income,\" Hargreaves Lansdowne said.",
     "platforms_mentioned": [],
     "keywords": [
@@ -762,7 +762,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/government-shutdown-delays-student-loan-forgiveness-lawsuit.html",
     "title": "Student loan forgiveness lawsuit on hold during government shutdown \u2014 what borrowers need to know",
-    "fetched_on": "2025-10-17T05:20:00.078222+00:00",
+    "fetched_on": "2025-10-17T06:30:43.866500+00:00",
     "content": "A union lawsuit against Trump officials regarding blocked student loan forgiveness is paused due to the government shutdown. Here's what borrowers need to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -782,7 +782,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/trump-student-loan-forgiveness-who-qualifies.html",
     "title": "Here's who qualifies for the Trump administration's latest round of student loan forgiveness",
-    "fetched_on": "2025-10-17T05:20:00.078239+00:00",
+    "fetched_on": "2025-10-17T06:30:43.866518+00:00",
     "content": "Federal student loan borrowers have been getting emails from the Education Department that their debt will be forgiven. Here's who qualifies for the relief.",
     "platforms_mentioned": [],
     "keywords": [
@@ -802,7 +802,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/more-student-loan-borrowers-risk-default-as-late-payments-rise.html",
     "title": "Millions of student loan borrowers at risk of default as late payments climb",
-    "fetched_on": "2025-10-17T05:20:00.078246+00:00",
+    "fetched_on": "2025-10-17T06:30:43.866526+00:00",
     "content": "Student loan borrowers who are behind on their payments will be pushed into default in coming months, says Moody's Analytics economist Justin Begley.",
     "platforms_mentioned": [],
     "keywords": [
@@ -822,7 +822,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-17T05:20:00.078267+00:00",
+    "fetched_on": "2025-10-17T06:30:43.866548+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -842,7 +842,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
     "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-    "fetched_on": "2025-10-17T05:20:00.078341+00:00",
+    "fetched_on": "2025-10-17T06:30:43.866621+00:00",
     "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
     "platforms_mentioned": [],
     "keywords": [
@@ -862,7 +862,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-16/private-credit-on-the-defensive-again-over-mark-to-myth-study",
     "title": "Private Credit on Defensive Again Over \u2018Mark-to-Myth\u2019 Study",
-    "fetched_on": "2025-10-17T05:19:39.700849+00:00",
+    "fetched_on": "2025-10-17T06:30:23.397671+00:00",
     "content": "The private credit industry\u2019s claims of market-beating, stress-free returns are \u201cillusory,\u201d a group of academics say, adding fuel to the fire in a week that already saw executives fend off broadsides from the likes of Jamie Dimon.",
     "platforms_mentioned": [],
     "keywords": [
@@ -882,7 +882,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-17/hdfc-bank-icici-bank-lending-margins-bottom-out-as-rate-cuts-settle-in",
     "title": "India Banks\u2019 Lending Margins to Bottom Out as Rate Cuts Settle In",
-    "fetched_on": "2025-10-17T05:19:39.700855+00:00",
+    "fetched_on": "2025-10-17T06:30:23.397677+00:00",
     "content": "Indian banks including HDFC Bank Ltd. and ICICI Bank Ltd. earnings are expected to signal that margins have bottomed out, after the central bank\u2019s recent rate-cutting cycle and tax breaks aimed at reviving economic growth.",
     "platforms_mentioned": [],
     "keywords": [
@@ -902,7 +902,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-17/japan-gets-highest-yielding-yen-bond-this-year-with-rakuten-deal",
     "title": "Rakuten Delivers Japan\u2019s Highest-Yielding Yen Bond This Year",
-    "fetched_on": "2025-10-17T05:19:40.024616+00:00",
+    "fetched_on": "2025-10-17T06:30:23.752473+00:00",
     "content": "Rakuten Group Inc. priced a local bond at the year\u2019s highest coupon of 4.691%, which helped build a strong order book driven particularly by overseas investors. The deal gave Japan\u2019s credit market the clearest sign yet of the impact of rising government bond yields on corporate borrowing costs.",
     "platforms_mentioned": [],
     "keywords": [
@@ -982,7 +982,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-17/yen-strengthens-past-150-per-dollar-for-first-time-since-oct-6-mgub7f3c",
     "title": "Yen Strengthens Past 150 Per Dollar on Demand for Haven Assets",
-    "fetched_on": "2025-10-17T05:19:39.700753+00:00",
+    "fetched_on": "2025-10-17T06:30:23.397569+00:00",
     "content": "The yen briefly strengthened past the 150 level against the dollar, bouncing back from its weakest point in eight months as bad loans at two US banks drove global demand for haven assets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1002,7 +1002,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-17/copper-declines-on-concerns-over-credit-and-us-china-tensions",
     "title": "Copper Declines on Concerns Over Credit and US-China Tensions",
-    "fetched_on": "2025-10-17T05:19:39.700784+00:00",
+    "fetched_on": "2025-10-17T06:30:23.397601+00:00",
     "content": "Copper and other industrial metals retreated on concerns about credit quality in the US and renewed tensions between Washington and Beijing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1022,7 +1022,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/4f371c2e50683483",
     "title": "Big investors scale back risky bond exposure after storming rally",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "BlackRock and Fidelity International among asset managers betting credit rally has run out of road\r\nThis story appeared on ft.com, 2025-10-16 04:00:26.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1042,7 +1042,7 @@
     "source": "Ozbargain.com.au [NewsAPI]",
     "url": "https://www.ozbargain.com.au/node/928924",
     "title": "AmEx Statment Credit: Spend $7000 or More at Brietling Get 50,000 Bonus Membership Rewards Points",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "Got a sudden itch to buy a new Breitling? Why not pick up an extra 50,000 bonus Membership Rewards points!\r\nMight be targeted, received on my Platinum.\r\nLimited to first 200,000 Cards to save the Off\u2026 [+1408 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1062,7 +1062,7 @@
     "source": "Marca [NewsAPI]",
     "url": "https://www.marca.com/en/mlb/los-angeles-dodgers/2025/10/16/68f061e422601d143b8b4576.html",
     "title": "The reason Dodgers star Blake Snell attributes his postseason dominance to Logan Webb's advice",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "When Blake Snell spoke recently about what changed the trajectory of his pitching career, his answer caught some fans off guard. \r\nThe Los Angeles Dodgers left-hander credited his brief time with the\u2026 [+2511 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1082,7 +1082,7 @@
     "source": "Financial Post [NewsAPI]",
     "url": "https://financialpost.com/pmn/business-pmn/chemone-seeks-600-million-private-loan-for-chemical-plant",
     "title": "ChemOne Seeks $600 Million Private Loan for Chemical Plant",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "(Bloomberg) Energy company ChemOne Holdings Pte. is seeking a $600 million private credit loan to support the construction of its chemical processing complex in Malaysia, according to people familiar\u2026 [+3839 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1102,7 +1102,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/be1f6150ba36bda1",
     "title": "Nordea Third Quarter Lending Income Beats Estimates on Strong Activity",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Walmart teaming up with OpenAI? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps tariffs impact aut\u2026 [+715 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1122,7 +1122,7 @@
     "source": "Newhumanist.org.uk [NewsAPI]",
     "url": "https://newhumanist.org.uk/articles/6469/finger-pickin-good#utm_source=rss",
     "title": "Finger-pickin\u2019 good",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "Country music has long shed its Bible-bashing image. Today, bluegrass is helping to heal Americas deep divides\r\nSinger Amythyst Kiah on stage at the Vancouver Folk Music Festival in 2023. Credit: Ala\u2026 [+7801 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1142,7 +1142,7 @@
     "source": "CoinDesk [NewsAPI]",
     "url": "https://www.coindesk.com/markets/2025/10/16/ripple-immunefi-launch-usd200k-bug-hunt-for-xrpl-s-new-institutional-lending-protocol",
     "title": "Ripple, Immunefi Launch $200K Bug Hunt for XRPL\u2019s New Institutional Lending Protocol",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "Fintech company Ripple is partnering with security platform Immunefi for an upcoming Attackathon event, designed to put a new decentralized finance protocol on the XRPL through rigorous testing.\r\nThe\u2026 [+2097 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1162,7 +1162,7 @@
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/money/personal-finance/diwali-2025-how-to-maintain-your-credit-score-this-festive-season-with-budgeting-smart-credit-use-timely-payment-11760558932600.html",
     "title": "Diwali 2025: How to maintain your credit score this festive season with smart budgeting, smart credit use & payments",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "This Diwali, focus on enjoying and celebrating without compromising your financial future. To achieve the same, you must be careful about your repayment integrity and overall credit profile.\r\nYou can\u2026 [+2945 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1182,7 +1182,7 @@
     "source": "Independent.ie [NewsAPI]",
     "url": "https://www.independent.ie/irish-news/buy-now-pay-later-loans-hurt-the-most-financially-vulnerable-central-bank-report-finds/a1769169483.html",
     "title": "Buy Now, Pay Later loans hurt the most financially vulnerable, Central Bank report finds",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "Buy Now, Pay Later (BNPL) users spend more than other shoppers, even though they are typically more financially vulnerable and less savvy, research from the Central Bank of Ireland shows.While many B\u2026 [+3019 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1202,7 +1202,7 @@
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/robwolkenbrod/2025/10/16/aew-dynamite-results-takeaways-from-october-15-2025/",
     "title": "AEW Dynamite Results: Takeaways From October 15, 2025",
-    "fetched_on": "2025-10-17T05:19:39.232552+00:00",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
     "content": "Credit: All Elite Wrestling\r\nThe Oct. 15 episode of AEW Dynamite set the stage for WrestleDream, the companys next major pay-per-view on Saturday, Oct. 18. The card will feature two world championshi\u2026 [+4782 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1273,7 +1273,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-zero-percent-apr-credit-cards-202429925.html",
     "title": "The best 0% APR credit cards for 2025: Avoid paying interest for up to 21 months on purchases and balance tranfers",
-    "fetched_on": "2025-10-17T05:20:00.497432+00:00",
+    "fetched_on": "2025-10-17T06:30:44.199699+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1287,6 +1287,141 @@
       "interest",
       "purchases",
       "balance"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-17/the-asia-trade-10-17-2025-video",
+    "title": "US Bank Woes Stir Credit Angst | Bloomberg The Asia Trade 10/17/25",
+    "fetched_on": "2025-10-17T06:30:23.397556+00:00",
+    "content": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Hong Kong with Shery Ahn and Annabelle Droulers, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asia",
+      "Trade",
+      "Bloomberg",
+      "Angst",
+      "Bank",
+      "Woes",
+      "Stir",
+      "Credit",
+      "brings",
+      "Droulers"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e7d8117cc1a76f75",
+    "title": "Ripple, Immunefi Launch $200K Bug Hunt for XRPL\u2019s New Institutional Lending Protocol",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
+    "content": "Ripple, Immunefi Launch $200K Bug Hunt for XRPLs New Institutional Lending ProtocolResearchers will focus on vulnerabilities that could threaten fund safety or protocol solvency.What to know:- Ripple\u2026 [+133 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Immunefi",
+      "Launch",
+      "Bug",
+      "Ripple",
+      "Hunt",
+      "Institutional",
+      "Lending",
+      "chars",
+      "Protocol",
+      "XRPL"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/16/3167624/0/en/Mahidol-University-ZERO13-and-Unique-Transformation-Join-Forces-to-Drive-Thailand-s-Carbon-Credit-Ecosystem-for-Global-Sustainability.html",
+    "title": "Mahidol University, ZERO13 and Unique Transformation Join Forces to Drive Thailand\u2019s Carbon Credit Ecosystem for Global Sustainability",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
+    "content": "Bangkok, Thailand, Oct. 16, 2025 (GLOBE NEWSWIRE) -- The Faculty of Engineering, Mahidol University, in partnership with ZERO13, a leading global digital platform for carbon credits and green real-wo\u2026 [+6596 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "University",
+      "Mahidol",
+      "Oct.",
+      "chars",
+      "Bangkok",
+      "GLOBE",
+      "NEWSWIRE",
+      "Engineering",
+      "Thailand",
+      "Carbon"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/928951",
+    "title": "[Prime] Spend $20 to Receive $10 Credit",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
+    "content": "Just got this in my email after purchasing something off amazon. Seems to be items sold by Amazon AU.\r\nBuy a Prime eligible item shipped and sold by Amazon AU, and get $10 reward for use towards a fu\u2026 [+2814 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spend",
+      "Receive",
+      "Credit",
+      "amazon",
+      "Prime",
+      "email",
+      "purchasing",
+      "sold",
+      "chars",
+      "Buy"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/16/3167617/0/en/Zero-Cap-Funding-Publishes-Free-2025-Report-to-Help-Entrepreneurs-Achieve-Business-Success.html",
+    "title": "Zero Cap Funding Publishes Free 2025 Report to Help Entrepreneurs Achieve Business Success",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
+    "content": "NEW YORK, Oct. 16, 2025 (GLOBE NEWSWIRE) -- A new report by Zero Cap Funding explores how first-time entrepreneurs can prepare for business success in 2025 through better financial planning, credit l\u2026 [+6524 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cap",
+      "Oct.",
+      "Funding",
+      "Business",
+      "Success",
+      "Free",
+      "YORK",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/research-reports/axis-bank-q2-review-technical-episodes-dominate-business-fundamentals-says-hdfc-securities-maintaining-add",
+    "title": "Axis Bank Q2 Review- Technical Episodes Dominate Business Fundamentals, Says HDFC Securities Maintaining 'Add'",
+    "fetched_on": "2025-10-17T06:30:22.966198+00:00",
+    "content": "Axis Bank Ltd.\u2019s Q2 FY26 earnings missed our estimates on account of a oneoff RBI-mandated standard asset provisioning to the tune of Rs 12 billion for two discontinued crop loan products, adversely impacting RoA by 11bps. \n\nLoan growth (~12%YoY) saw an uptic\u2026",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Axis",
+      "Review",
+      "Add",
+      "Bank",
+      "Technical",
+      "Fundamentals",
+      "Maintaining",
+      "Ltd.\u2019s",
+      "Episodes",
+      "Dominate"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-fixed-or-variable-193544510.html",
+    "title": "Are credit card rates fixed or variable?",
+    "fetched_on": "2025-10-17T06:30:44.199804+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "variable",
+      "credit",
+      "card",
+      "rates",
+      "fixed"
     ]
   }
 ]
