@@ -68091,5 +68091,105 @@
       "Login",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-17/yen-strengthens-past-150-per-dollar-for-first-time-since-oct-6-mgub7f3c",
+    "title": "Yen Strengthens Past 150 Per Dollar on Demand for Haven Assets",
+    "fetched_on": "2025-10-17T04:24:50.190352+00:00",
+    "content": "The yen briefly strengthened past the 150 level against the dollar, bouncing back from its weakest point in eight months as bad loans at two US banks drove global demand for haven assets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Haven",
+      "Demand",
+      "Assets",
+      "Past",
+      "Dollar",
+      "Strengthens",
+      "level",
+      "bouncing",
+      "Yen",
+      "briefly"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-17/copper-declines-on-concerns-over-credit-and-us-china-tensions",
+    "title": "Copper Declines on Concerns Over Credit and US-China Tensions",
+    "fetched_on": "2025-10-17T04:24:50.190404+00:00",
+    "content": "Copper and other industrial metals retreated on concerns about credit quality in the US and renewed tensions between Washington and Beijing.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Concerns",
+      "Beijing",
+      "Copper",
+      "Credit",
+      "Tensions",
+      "Declines",
+      "Washington",
+      "US-China",
+      "industrial",
+      "metals"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4f371c2e50683483",
+    "title": "Big investors scale back risky bond exposure after storming rally",
+    "fetched_on": "2025-10-17T04:24:49.498495+00:00",
+    "content": "BlackRock and Fidelity International among asset managers betting credit rally has run out of road\r\nThis story appeared on ft.com, 2025-10-16 04:00:26.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fidelity",
+      "International",
+      "Big",
+      "ft.com",
+      "rally",
+      "investors",
+      "scale",
+      "back",
+      "risky",
+      "bond"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/928924",
+    "title": "AmEx Statment Credit: Spend $7000 or More at Brietling Get 50,000 Bonus Membership Rewards Points",
+    "fetched_on": "2025-10-17T04:24:49.498495+00:00",
+    "content": "Got a sudden itch to buy a new Breitling? Why not pick up an extra 50,000 bonus Membership Rewards points!\r\nMight be targeted, received on my Platinum.\r\nLimited to first 200,000 Cards to save the Off… [+1408 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spend",
+      "Bonus",
+      "Credit",
+      "Breitling",
+      "Membership",
+      "Rewards",
+      "Statment",
+      "Brietling",
+      "Points",
+      "AmEx"
+    ]
+  },
+  {
+    "source": "Marca [NewsAPI]",
+    "url": "https://www.marca.com/en/mlb/los-angeles-dodgers/2025/10/16/68f061e422601d143b8b4576.html",
+    "title": "The reason Dodgers star Blake Snell attributes his postseason dominance to Logan Webb's advice",
+    "fetched_on": "2025-10-17T04:24:49.498495+00:00",
+    "content": "When Blake Snell spoke recently about what changed the trajectory of his pitching career, his answer caught some fans off guard. \r\nThe Los Angeles Dodgers left-hander credited his brief time with the… [+2511 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Blake",
+      "Snell",
+      "Logan",
+      "Webb",
+      "Dodgers",
+      "career",
+      "guard",
+      "reason",
+      "star",
+      "attributes"
+    ]
   }
 ]
