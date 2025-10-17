@@ -67991,5 +67991,105 @@
       "Bank",
       "rates"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-17/hdfc-bank-icici-bank-lending-margins-bottom-out-as-rate-cuts-settle-in",
+    "title": "India Banks’ Lending Margins to Bottom Out as Rate Cuts Settle In",
+    "fetched_on": "2025-10-17T03:02:10.702214+00:00",
+    "content": "Indian banks including HDFC Bank Ltd. and ICICI Bank Ltd. earnings are expected to signal that margins have bottomed out, after the central bank’s recent rate-cutting cycle and tax breaks aimed at reviving economic growth.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks’",
+      "Lending",
+      "Bottom",
+      "Rate",
+      "Cuts",
+      "Settle",
+      "Indian",
+      "HDFC",
+      "Ltd.",
+      "ICICI"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-17/japan-gets-highest-yielding-yen-bond-this-year-with-rakuten-deal",
+    "title": "Japan Gets Highest-Yielding Yen Bond This Year With Rakuten Deal",
+    "fetched_on": "2025-10-17T03:02:11.038156+00:00",
+    "content": "Rakuten Group Inc. priced a local bond at the year’s highest coupon of 4.691%, giving Japan’s credit market the clearest sign yet of the impact of rising rates on corporate borrowing costs.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rakuten",
+      "Yen",
+      "Deal",
+      "Group",
+      "Japan",
+      "Bond",
+      "Year",
+      "Highest-Yielding",
+      "priced",
+      "giving"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/928908",
+    "title": "$150 Promotional Credits with Purchase of ROG Xbox Ally $997 Delivered @ Amazon AU",
+    "fetched_on": "2025-10-17T03:02:10.241519+00:00",
+    "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nTERMS &amp; CONDITIONS\r\nThese terms and con… [+2183 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delivered",
+      "Promotional",
+      "Ally",
+      "Amazon",
+      "Credits",
+      "ROG",
+      "Xbox",
+      "links",
+      "post",
+      "affiliate"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/928906",
+    "title": "Free One Year Trial (No Payment Information Required) @ Shudder",
+    "fetched_on": "2025-10-17T03:02:10.241519+00:00",
+    "content": "It's been awhile since Shudder has had a free code. Using this code gets you a free one year trial at Shudder. You don't need to provide credit card details. I signed up using an US VPN as the code w… [+418 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Required",
+      "Shudder",
+      "Payment",
+      "Information",
+      "Year",
+      "Free",
+      "Trial",
+      "code",
+      "awhile",
+      "VPN"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/928901",
+    "title": "Add Your rebel Active Card to a Digital Wallet, Get $5 Store Credit Valid for 30 Days @ rebel",
+    "fetched_on": "2025-10-17T03:02:10.241519+00:00",
+    "content": "Login to your rebel account and add the rebel active card to your digital wallet to get $5 credit to use towards your next purchase. Credit expires in 30 days from the date card is added to wallet\r\nS… [+694 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "rebel",
+      "Active",
+      "Digital",
+      "Card",
+      "Store",
+      "Wallet",
+      "Days",
+      "Valid",
+      "Login",
+      "Credit"
+    ]
   }
 ]
