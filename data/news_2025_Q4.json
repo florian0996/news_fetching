@@ -72329,5 +72329,145 @@
       "stocks",
       "Banco"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-17/meloni-wins-italy-s-highest-rating-since-2018-with-dbrs-upgrade",
+    "title": "Meloni Wins Italy’s Best Rating Since 2018 With DBRS Upgrade",
+    "fetched_on": "2025-10-17T21:17:54.645776+00:00",
+    "content": "Italy regained its highest score from any major credit assessor since 2018 after an upgrade by Morningstar DBRS that commended the government’s push to tame the budget deficit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Italy",
+      "DBRS",
+      "Upgrade",
+      "Wins",
+      "Rating",
+      "Morningstar",
+      "Meloni",
+      "deficit",
+      "regained",
+      "highest"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-17/stocks-rise-as-trump-reassures-on-china-regional-banks-report",
+    "title": "US Stocks Rise After Turbulent Week as Trade Worries Recede",
+    "fetched_on": "2025-10-17T21:17:53.094799+00:00",
+    "content": "US stocks advanced on Friday, finishing a volatile week with a show of strength after the White House indicated trade talks with China were on track and strong earnings from several regional banks eased credit worries in the sector.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Friday",
+      "Stocks",
+      "Week",
+      "Trade",
+      "Worries",
+      "Rise",
+      "Turbulent",
+      "Recede",
+      "White",
+      "House"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6c703e9a87046ffe",
+    "title": "Goldman’s Waldron Cautions on Fallout From Credit ‘Explosion’",
+    "fetched_on": "2025-10-17T21:17:52.412708+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Stellantis moving Jeep production to the US? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nestlé's 16,… [+792 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Explosion’",
+      "window.open",
+      "this.href",
+      "blank",
+      "Credit",
+      "return",
+      "false",
+      "Waldron",
+      "Cautions",
+      "Fallout"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/galeries-lafayette-sets-date-for-indian-flagship-debut/",
+    "title": "Galeries Lafayette sets date for Indian flagship debut",
+    "fetched_on": "2025-10-17T21:17:52.412708+00:00",
+    "content": "Retail\r\nOctober 16, 2025\r\n The 90,000-square-foot, five-level flagship is based in Mumbais Kala Ghoda district. Image credit: Galeries Lafayette \r\n By Amirah Keaton for Luxury Daily News Service\r\nFre… [+6679 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galeries",
+      "October",
+      "Lafayette",
+      "Indian",
+      "Retail",
+      "Mumbais",
+      "Kala",
+      "Ghoda",
+      "five-level",
+      "district"
+    ]
+  },
+  {
+    "source": "Common Dreams [NewsAPI]",
+    "url": "https://www.commondreams.org/news/aca-marketplace-previews-show-staggering-premium-spikes-due-to-gop-subsidy-cuts",
+    "title": "ACA Marketplace Previews Show Staggering Premium Spikes Due to GOP Subsidy Cuts",
+    "fetched_on": "2025-10-17T21:17:52.412708+00:00",
+    "content": "More than 20 million Americans are expected to see their health insurance premiums more than double next year after Republicans refused to extend a tax credit for those who purchase health insurance … [+5225 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ACA",
+      "chars",
+      "health",
+      "insurance",
+      "Marketplace",
+      "Previews",
+      "Show",
+      "Staggering",
+      "Spikes",
+      "Due"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/fb77c2222aacff51",
+    "title": "Mohamed El-Erian: Bond yields are moving due to concerns about credit and regional banks",
+    "fetched_on": "2025-10-17T21:17:52.412708+00:00",
+    "content": "Mohamed El-Erian, Allianz chief economic advisor, joins 'Closing Bell' to discuss what El-Erian makes of the recent move in bond ...\r\nThis story appeared on youtube.com, 2025-10-16 20:26:51.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mohamed",
+      "Allianz",
+      "Closing",
+      "Bell",
+      "Bond",
+      "El-Erian",
+      "joins",
+      "advisor",
+      "yields",
+      "moving"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/wall-street-credit-worries-intensify-after-dimons-cockroach-warning-202806842.html",
+    "title": "Wall Street credit worries intensify after Dimon's 'cockroach' warning",
+    "fetched_on": "2025-10-17T21:17:52.412708+00:00",
+    "content": "Wall Streets credit worries are intensifying after a warning from JPMorgan Chase (JPM) CEO Jamie Dimon about cockroaches in the US economy, as investors on Thursday punished the stocks of regional ba… [+3780 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "JPM",
+      "cockroach",
+      "chars",
+      "Chase",
+      "CEO",
+      "Dimon",
+      "Wall",
+      "credit",
+      "Street",
+      "Streets"
+    ]
   }
 ]
