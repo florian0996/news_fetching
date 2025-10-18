@@ -73543,5 +73543,105 @@
       "Stocks",
       "Concerns"
     ]
+  },
+  {
+    "source": "The Sydney Morning Herald [NewsAPI]",
+    "url": "https://www.smh.com.au/technology/silicon-valley-s-trump-courtship-is-backfiring-spectacularly-20251014-p5n2a3.html",
+    "title": "Silicon Valley AI boom: Donald Trump’s policies create volatile environment for tech companies",
+    "fetched_on": "2025-10-18T04:22:56.708696+00:00",
+    "content": "Tim Cook, CEO of Apple, turns around before President Donald Trumps speech at a dinner last month in the State Dining Room of the White House. Credit: AP Photo/Alex Brandon\r\nIn what The Wall Street J… [+10767 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Donald",
+      "Cook",
+      "CEO",
+      "Apple",
+      "House",
+      "Trump",
+      "Trumps",
+      "Valley",
+      "Tim",
+      "President"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/90fe9d308bd00c7e",
+    "title": "AI royalties for small and midsize publishers: collective licensing’s next big play",
+    "fetched_on": "2025-10-18T04:22:56.708696+00:00",
+    "content": "AI royalties are finally on the table for small and midsize publishers.Dont credit OpenAIs ChatGPT, credit corporate LLMs enterprise RAG is whats creating royalty revenue for publishers.RAG retrieval… [+134 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "small",
+      "chars",
+      "royalties",
+      "midsize",
+      "RAG",
+      "credit",
+      "publishers",
+      "collective",
+      "ChatGPT",
+      "retrieval"
+    ]
+  },
+  {
+    "source": "College Football News [NewsAPI]",
+    "url": "https://collegefootballnews.com/college-football/lsu-vs-vanderbilt-prediction-preview-2025",
+    "title": "LSU vs Vanderbilt Prediction: Which 5-1 Team Is For Real?",
+    "fetched_on": "2025-10-18T04:22:56.708696+00:00",
+    "content": "Its like the world went back to assuming Vanderbilt was bad at college football almost.\r\nIts not getting any real credit for the 5-1 start after a 30-14 loss to Alabama - and Vegas types know it wasn… [+3750 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LSU",
+      "Prediction",
+      "Team",
+      "Vanderbilt",
+      "Real",
+      "Alabama",
+      "chars",
+      "Vegas",
+      "wasn",
+      "world"
+    ]
+  },
+  {
+    "source": "Digiday [NewsAPI]",
+    "url": "http://digiday.com/media/ai-royalties-for-small-and-midsize-publishers-collective-licensings-next-big-play/",
+    "title": "AI royalties for small and midsize publishers: collective licensing’s next big play",
+    "fetched_on": "2025-10-18T04:22:56.708696+00:00",
+    "content": "AI royalties are finally on the table for small and midsize publishers.Dont credit OpenAIs ChatGPT, credit corporate LLMs  enterprise RAG is whats creating royalty revenue for publishers.RAG retrieva… [+7045 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "small",
+      "chars",
+      "royalties",
+      "midsize",
+      "RAG",
+      "credit",
+      "publishers",
+      "collective",
+      "ChatGPT",
+      "retrieva"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/79cf54b62cf54ae8",
+    "title": "Copper Declines on Concerns Over Credit and US-China Tensions",
+    "fetched_on": "2025-10-18T04:22:56.708696+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Nestlé cutting 16,000 jobs worldwide? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How are regional bank loan w… [+773 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Tensions",
+      "return",
+      "false",
+      "Declines",
+      "Concerns",
+      "Credit",
+      "Nestlé"
+    ]
   }
 ]
