@@ -79254,5 +79254,85 @@
       "production",
       "issues"
     ]
+  },
+  {
+    "source": "RT [NewsAPI]",
+    "url": "https://www.rt.com/news/626651-sp-downgrades-frances-credit-rating/",
+    "title": "S&P downgrades France’s credit rating",
+    "fetched_on": "2025-10-19T08:23:31.796777+00:00",
+    "content": "S&amp;P Global has downgraded France’s long-term credit rating from AA- to A+, warning that rising debt and political tensions threaten the government’s ability to reduce its budget deficit. The agen… [+2045 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "France",
+      "Global",
+      "credit",
+      "rating",
+      "warning",
+      "deficit",
+      "downgrades",
+      "downgraded",
+      "long-term",
+      "rising"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/politics/the-pandemics-over-gop-dem-senators-spar-camera-over-costly-obamacare-subsidies",
+    "title": "'The pandemic's over': GOP, Dem senators spar on camera over costly Obamacare subsidies",
+    "fetched_on": "2025-10-19T08:23:31.796777+00:00",
+    "content": "Several Democrat senators seemed ready to expand COVID-era Obamacare tax credits holding up spending legislation needed to reopen the government but less willing to grapple with what that would mean … [+4391 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GOP",
+      "Obamacare",
+      "chars",
+      "Dem",
+      "Democrat",
+      "senators",
+      "pandemic",
+      "spar",
+      "camera",
+      "costly"
+    ]
+  },
+  {
+    "source": "Memeorandum.com [NewsAPI]",
+    "url": "https://www.memeorandum.com/251018/p3",
+    "title": "S&P cuts France's credit rating as it forecasts higher debt pile (Adrienne Klasa/Financial Times)",
+    "fetched_on": "2025-10-19T08:23:31.796777+00:00",
+    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Adrienne",
+      "Klasa",
+      "Financial",
+      "Times",
+      "France",
+      "pile",
+      "memeorandum",
+      "chars",
+      "Mediagazer",
+      "cuts"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/stock-markets-regional-bank-scare-234758565.html",
+    "title": "The stock market's regional bank scare highlights credit risks that could come back to bite",
+    "fetched_on": "2025-10-19T08:23:53.549944+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "bite",
+      "stock",
+      "market",
+      "regional",
+      "bank",
+      "scare",
+      "highlights",
+      "credit",
+      "risks",
+      "back"
+    ]
   }
 ]
