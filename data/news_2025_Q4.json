@@ -81429,5 +81429,63 @@
       "Guy",
       "forgive"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/tesla-announces-bold-offer-entice-231500219.html",
+    "title": "Tesla announces bold new offer to entice buyers: 'Act now for the best deal'",
+    "fetched_on": "2025-10-19T23:18:15.038571+00:00",
+    "content": "Tesla is now offering a $6,500 lease credit to offset the loss of the $7,500 electric vehicle tax credit, which was terminated by the Trump administration, Teslarati reported.\r\n\"Now is the best time … [+2327 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tesla",
+      "Act",
+      "Teslarati",
+      "Trump",
+      "credit",
+      "buyers",
+      "deal",
+      "lease",
+      "electric",
+      "administration"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=179825430",
+    "title": "Traders ‘Spooked’ as Bank Lending Risk Puts Stock Market on Edge - Bloomberg.com",
+    "fetched_on": "2025-10-19T23:18:15.038571+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Traders",
+      "Spooked’",
+      "Edge",
+      "Bloomberg.com",
+      "Print",
+      "Bank",
+      "Lending",
+      "Risk",
+      "Puts",
+      "Stock"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/managed-dozens-credit-cards-responsibly-223226696.html",
+    "title": "They Managed 'Dozens Of Credit Cards Responsibly'—Until They Didn't. Now They Owe $177,000 And Can't Find A Way Out. Here's What Happened",
+    "fetched_on": "2025-10-19T23:18:37.019122+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Managed",
+      "Dozens",
+      "Credit",
+      "Cards",
+      "Responsibly",
+      "Owe",
+      "Find",
+      "Happened"
+    ]
   }
 ]
