@@ -79174,5 +79174,45 @@
       "Crisis",
       "Credit"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/185291ab893321b3",
+    "title": "Credit drama sends banks reeling",
+    "fetched_on": "2025-10-19T05:19:54.710366+00:00",
+    "content": "Investors around the world are side-eyeing US financial institutions after claims of questionable corporate lending came to light. Two regional banks are accusing investment funds tied to the firm Ca… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Investors",
+      "Credit",
+      "light",
+      "chars",
+      "banks",
+      "drama",
+      "sends",
+      "reeling",
+      "world",
+      "side-eyeing"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/world/credit-quality-fears-start-to-rattle-investors-confidence-in-bank-shares/a1259659082.html",
+    "title": "Credit quality fears start to rattle investors’ confidence in bank shares",
+    "fetched_on": "2025-10-19T05:19:54.710366+00:00",
+    "content": "Fears over potential losses lurking in the books of US regional banks dragged global financial stocks sharply lower yesterday.\r\nThe sell-off extended as far as Ireland where Bank of Ireland shares pl… [+19 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "fears",
+      "Credit",
+      "yesterday",
+      "Ireland",
+      "bank",
+      "shares",
+      "quality",
+      "start",
+      "rattle",
+      "investors’"
+    ]
   }
 ]
