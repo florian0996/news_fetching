@@ -81274,5 +81274,120 @@
       "chars",
       "DHS"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/advisor-departures-legal-disputes-reshape-200850336.html",
+    "title": "Can Advisor Departures and Legal Disputes Reshape LPL Financial’s (LPLA) Retention and Growth Narrative?",
+    "fetched_on": "2025-10-19T20:21:11.331699+00:00",
+    "content": "<ul><li>In recent days, LPL Financial Holdings has seen multiple advisor teams depart for competitors and is now facing a lawsuit from First Tech Federal Credit Union alleging misappropriation of tra… [+3688 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LPLA",
+      "Retention",
+      "Narrative",
+      "LPL",
+      "Financial",
+      "Departures",
+      "Legal",
+      "Disputes",
+      "Reshape",
+      "Growth"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/what-happens-to-my-debt-when-i-die-diana-clement/PZY3GLYG4RASPEIEZAQZ4STOTQ/",
+    "title": "What happens to my debt when I die? - Diana Clement",
+    "fetched_on": "2025-10-19T20:21:11.331699+00:00",
+    "content": "Next up is personal tax debt, which is unsecured, but has priority over ordinary loans. Business tax doesnt pass on to family members, unless they are co-owners in a joint business.\r\nAfter tax, perso… [+3171 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "die",
+      "tax",
+      "Diana",
+      "debt",
+      "Clement",
+      "Business",
+      "unsecured",
+      "loans",
+      "perso",
+      "chars"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/media/bill-maher-hails-trumps-gaza-peace-breakthrough-says-give-credit-where-credit-due",
+    "title": "Bill Maher hails Trump’s Gaza peace breakthrough, says to ‘give credit where credit is due’",
+    "fetched_on": "2025-10-19T20:21:11.331699+00:00",
+    "content": "Late-night host Bill Maher is giving credit \"where credit is due,\" congratulating President Donald Trump on brokering the Gaza peace deal. Speaking to his audience on HBOs \"Real Time,\" Maher acknowle… [+2017 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gaza",
+      "Trump",
+      "credit",
+      "Bill",
+      "Maher",
+      "Late-night",
+      "President",
+      "Donald",
+      "peace",
+      "breakthrough"
+    ]
+  },
+  {
+    "source": "Fark.com [NewsAPI]",
+    "url": "https://www.fark.com/comments/13849350/US-Armed-Forces-Military-Star-credit-card-offering-90-day-zero-interest-on-commissary-purchases-during-ongoing-shutdown-a-cool-move-for-certain-So-long-as-shutdown-only-lasts-90-days",
+    "title": "US Armed Forces' Military Star credit card offering 90-day, zero-interest on commissary purchases during ongoing shutdown, a cool move for certain. So long as shutdown only lasts 90 days [Obvious]",
+    "fetched_on": "2025-10-19T20:21:11.331699+00:00",
+    "content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Armed",
+      "Forces'",
+      "Military",
+      "Star",
+      "offering",
+      "zero-interest",
+      "shutdown",
+      "Obvious",
+      "credit",
+      "card"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/livecoverage/sundayshows1019/card/carlyle-s-ceo-says-credit-should-be-a-worry-but-markets-are-resilient-qnhKeaZkwexEz6Sx7kqj?siteid=yhoof2&yptr=yahoo",
+    "title": "Carlyle's CEO Says Credit Should Be a Worry, But Markets Are Resilient",
+    "fetched_on": "2025-10-19T20:21:33.580263+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Worry",
+      "Resilient",
+      "CEO",
+      "Credit",
+      "Markets",
+      "Carlyle"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/treasuries-rally-drives-home-haven-190000046.html",
+    "title": "Treasuries Rally Drives Home Haven Role as Credit Worries Swirl",
+    "fetched_on": "2025-10-19T20:21:33.580489+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Swirl",
+      "Rally",
+      "Drives",
+      "Home",
+      "Haven",
+      "Role",
+      "Credit",
+      "Worries",
+      "Treasuries"
+    ]
   }
 ]
