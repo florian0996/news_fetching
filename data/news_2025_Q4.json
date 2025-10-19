@@ -79214,5 +79214,45 @@
       "rattle",
       "investors’"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-19/singapore-law-firm-to-sue-switzerland-over-asia-losses-on-at1s",
+    "title": "Singapore Law Firm to Sue Switzerland Over Asia Losses on AT1s",
+    "fetched_on": "2025-10-19T07:17:33.873918+00:00",
+    "content": "One of Singapore’s biggest law firms is set to file claims against the Swiss government by the end of the year, seeking compensation for hundreds of Asian bondholders of Credit Suisse AT1 debt that was wiped out in 2023.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Law",
+      "Suisse",
+      "Singapore",
+      "Sue",
+      "Switzerland",
+      "Asia",
+      "Losses",
+      "Swiss",
+      "Asian",
+      "Credit"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/news/world/trump-approves-expanding-credits-for-us-auto-production-issues-new-25-truck-duties/article70178401.ece",
+    "title": "Trump approves expanding credits for US auto production, issues new 25% truck duties",
+    "fetched_on": "2025-10-19T07:17:33.226981+00:00",
+    "content": "US President Donald Trump on Friday signed orders expanding credits for US auto and engine production and setting new 25 per cent tariffs on imported medium- and heavy-duty trucks and parts starting … [+3054 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credits",
+      "Trump",
+      "chars",
+      "expanding",
+      "auto",
+      "President",
+      "Donald",
+      "Friday",
+      "production",
+      "issues"
+    ]
   }
 ]
