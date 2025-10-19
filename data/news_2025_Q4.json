@@ -81389,5 +81389,45 @@
       "Worries",
       "Treasuries"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/valley-national-bancorp-vly-assessing-221140277.html",
+    "title": "Valley National Bancorp (VLY): Assessing Valuation as Sector Loan Quality Concerns Spark Investor Caution",
+    "fetched_on": "2025-10-19T22:18:34.684041+00:00",
+    "content": "Shares of Valley National Bancorp (VLY) faced renewed scrutiny after peer banks highlighted worsening loan quality in their disclosures. While Valley National recently posted operational improvements… [+3628 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "VLY",
+      "Bancorp",
+      "National",
+      "Loan",
+      "Quality",
+      "Assessing",
+      "Valley",
+      "Valuation",
+      "Sector",
+      "Concerns"
+    ]
+  },
+  {
+    "source": "Boredpanda.com [NewsAPI]",
+    "url": "https://www.boredpanda.com/ex-friend-steals-money-wallet-man-tells-everyone/",
+    "title": "Guy Steals $40 From Friend’s Wallet Right In Front Of Him, Is Ratted Out To Entire Social Circle",
+    "fetched_on": "2025-10-19T22:18:34.684041+00:00",
+    "content": "What is something you would never forgive a friend for? Cheating with your partner? Taking all the credit from you at work? Some people cross the line at stealing. It’s unclear how many individuals h… [+8793 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Steals",
+      "Friend",
+      "Wallet",
+      "Front",
+      "Ratted",
+      "Entire",
+      "Social",
+      "Circle",
+      "Guy",
+      "forgive"
+    ]
   }
 ]
