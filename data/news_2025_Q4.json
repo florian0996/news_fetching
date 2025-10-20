@@ -81987,5 +81987,65 @@
       "Asian",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-20/s-p-downgrades-france-on-budget-risk-video",
+    "title": "S&amp;P Downgrades France on Budget Risk",
+    "fetched_on": "2025-10-20T08:28:31.933811+00:00",
+    "content": "S&amp;P Global Ratings downgraded France’s sovereign credit score in an unscheduled move late Friday. The downgrade means France has lost its double-A rating at two of the three major credit assessors in little more than a month, a step that risks compelling some funds with ultra-strict investment criteria to sell the country’s bonds. Fitch Ratings cut France’s score in September, with Moody’s Ratings due to release its verdict on Friday. Jean Dalbard from Bloomberg Economics breaks down the sit",
+    "platforms_mentioned": [],
+    "keywords": [
+      "France",
+      "Budget",
+      "Global",
+      "Friday",
+      "Ratings",
+      "credit",
+      "score",
+      "downgraded",
+      "sovereign",
+      "unscheduled"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/apple-is-setting-up-the-foldable-iphone-for-disappointment_id174986",
+    "title": "Apple is setting up the foldable iPhone for a lot of disappointment",
+    "fetched_on": "2025-10-20T08:28:31.048386+00:00",
+    "content": "*Image credit Technizo ConceptA tale as old as time, the foldable iPhone has been delayed yet again. Okay, its not confirmed just yet, but its very likely that it has. The reason? Same as it has alwa… [+3982 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Image",
+      "foldable",
+      "Technizo",
+      "iPhone",
+      "Apple",
+      "disappointment",
+      "time",
+      "setting",
+      "lot",
+      "credit"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/zahlenvorlage-in-sicht-ausblick-unicredit-stellt-das-zahlenwerk-zum-vergangenen-quartal-vor-15095565",
+    "title": "Ausblick: UniCredit stellt das Zahlenwerk zum vergangenen Quartal vor",
+    "fetched_on": "2025-10-20T08:28:59.039842+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/unicredit-aktie\">UniCredit</a> äußert sich am 21.10.2025 zu den Geschäftsergebnissen des am 30.09.2025 abgelaufenen Quartals.</p><p>In Sachen EPS gehen 4 Analysten von einem durchschnittlichen Gewinn von 1,59 EUR je Aktie aus. ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UniCredit",
+      "Quartals.",
+      "Analysten",
+      "EUR",
+      "Ausblick",
+      "Zahlenwerk",
+      "Quartal",
+      "Geschäftsergebnissen",
+      "Sachen",
+      "EPS"
+    ]
   }
 ]
