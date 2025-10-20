@@ -81647,5 +81647,85 @@
       "benchmark",
       "lending"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7acc0fa7dc68a353",
+    "title": "UK defence suppliers tap fintechs to scale up production",
+    "fetched_on": "2025-10-20T04:26:39.593984+00:00",
+    "content": "Smaller groups seek alternative funding with traditional banks held back by ESG lending rules\r\nThis story appeared on ft.com, 2025-10-19 04:00:18.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Smaller",
+      "ESG",
+      "ft.com",
+      "defence",
+      "suppliers",
+      "tap",
+      "fintechs",
+      "scale",
+      "production",
+      "groups"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9a3f4a755fbf51f2",
+    "title": "One of the UK’s growth-boosting reforms is actually working",
+    "fetched_on": "2025-10-20T04:26:39.593984+00:00",
+    "content": "Tweaks to lending rules have made it easier for first-time buyers to get a foot on the housing ladder\r\nThis story appeared on ft.com, 2025-10-19 04:00:18.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tweaks",
+      "ft.com",
+      "growth-boosting",
+      "reforms",
+      "working",
+      "lending",
+      "rules",
+      "made",
+      "easier",
+      "first-time"
+    ]
+  },
+  {
+    "source": "Fark.com [NewsAPI]",
+    "url": "https://www.fark.com/comments/13849608/Lower-rates-were-supposed-to-bring-homebuyers-back-this-fall-Heres-why-it-hasnt-happened-holds-envelope-to-head-Because-economy-is-in-ruins-nobody-has-any-money-What-do-I-win",
+    "title": "\"Lower rates were supposed to bring homebuyers back this fall. Here's why it hasn't happened *holds envelope to head\" Because the economy is in ruins and nobody has any money? What do I win? [Obvious]",
+    "fetched_on": "2025-10-20T04:26:39.593984+00:00",
+    "content": "edmo:Partial credit. You forgot \"because house prices haven't budged in any meaningful way.\"\r\nYep.  Rates have gone down a little, but, then, also, Americans tend to already be in more debt than they… [+740 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lower",
+      "fall",
+      "supposed",
+      "bring",
+      "homebuyers",
+      "back",
+      "Obvious",
+      "Partial",
+      "rates",
+      "happened"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/erste-schaetzungen-nuveen-churchill-direct-lending-praesentiert-das-zahlenwerk-zum-abgelaufenen-jahresviertel-15095382",
+    "title": "Erste Schätzungen: Nuveen Churchill Direct Lending präsentiert das Zahlenwerk zum abgelaufenen Jahresviertel",
+    "fetched_on": "2025-10-20T04:27:03.561737+00:00",
+    "content": "<p><a href=\"https://www.finanzen.net/aktien/nuveen_churchill_direct_lending-aktie\">Nuveen Churchill Direct Lending</a> öffnet voraussichtlich am 04.11.2025 die Bücher zum am 30.09.2025 abgelaufenen Quartal.Die Prognosen von 6 Analysten belaufen sich für das jüngste Jahresviertel  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nuveen",
+      "Churchill",
+      "Direct",
+      "Jahresviertel",
+      "Lending",
+      "Schätzungen",
+      "Analysten",
+      "Zahlenwerk",
+      "Bücher",
+      "Prognosen"
+    ]
   }
 ]
