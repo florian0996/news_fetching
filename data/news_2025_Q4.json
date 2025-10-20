@@ -81727,5 +81727,105 @@
       "Bücher",
       "Prognosen"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/goldman-citadel-chiefs-set-to-attend-hong-kong-november-summit",
+    "title": "Goldman, Citadel Chiefs Set to Attend Hong Kong November Summit",
+    "fetched_on": "2025-10-20T05:21:16.124206+00:00",
+    "content": "The chief executive officers at Goldman Sachs Group Inc. and Morgan Stanley are slotted to attend Hong Kong’s annual summit for global finance leaders, just as US-China tensions reignite and a slew of credit losses weigh on global banks.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hong",
+      "Attend",
+      "Kong",
+      "Citadel",
+      "Goldman",
+      "Summit",
+      "Set",
+      "November",
+      "Sachs",
+      "Group"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/opinion/newsletters/2025-10-20/from-cockroaches-to-clouseau-credit-concerns-are-building",
+    "title": "From Cockroaches to Clouseau",
+    "fetched_on": "2025-10-20T05:21:14.457080+00:00",
+    "content": "<p>Markets are playing data detective for a&nbsp;pair of credit problems hiding in plain sight.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Clouseau",
+      "Markets",
+      "Cockroaches",
+      "sight.",
+      "playing",
+      "data",
+      "detective",
+      "pair",
+      "credit",
+      "problems"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/australia-s-top-pension-fund-commits-500-million-to-uk-housing",
+    "title": "Australia’s Top Pension Fund Commits £500 Million to UK Housing",
+    "fetched_on": "2025-10-20T05:21:14.457086+00:00",
+    "content": "AustralianSuper, the country’s largest pension fund, has committed an initial £500 million ($672 million) to launch an investment platform for UK housing, part of a drive to expand its portfolio of British assets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Pension",
+      "Fund",
+      "Housing",
+      "Commits",
+      "Top",
+      "British",
+      "Australia",
+      "AustralianSuper",
+      "initial"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/2ecb880168bbfb4e",
+    "title": "‘Finances are getting tighter’: US car repossessions surge as more Americans default on auto loans",
+    "fetched_on": "2025-10-20T05:21:13.450656+00:00",
+    "content": "Alarm bells are ringing on Wall Street. The recent collapses of Tricolor, a used car seller and sub-prime auto lender, and First Brands, an auto parts supplier, have put the finance industry on edge,… [+157 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Street",
+      "Americans",
+      "Alarm",
+      "Wall",
+      "tighter’",
+      "auto",
+      "car",
+      "repossessions",
+      "surge",
+      "default"
+    ]
+  },
+  {
+    "source": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO [NewsAPI]",
+    "url": "https://www.tuko.co.ke/entertainment/celebrities/606683-raila-odinga-artist-appeals-token-appreciation-credit-viral-odm-leaders-artwork/",
+    "title": "Raila Odinga: Artist Appeals for Token of Appreciation, Credit Over Viral ODM Leader's Artwork",
+    "fetched_on": "2025-10-20T05:21:13.450656+00:00",
+    "content": "<ul><li>Collins Omondi's tribute artwork of Raila Odinga has gone viral, but it is being misused without proper credit or compensation.</li><li>The Kisumu-based artist shared his frustration, highlig… [+3851 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Odinga",
+      "Raila",
+      "Appreciation",
+      "Collins",
+      "highlig",
+      "chars",
+      "Artist",
+      "Credit",
+      "Viral",
+      "Artwork"
+    ]
   }
 ]
