@@ -81927,5 +81927,65 @@
       "credit",
       "concerns"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/bank-of-ireland-doubles-uk-motor-finance-charge-to-350-million",
+    "title": "Bank of Ireland Doubles UK Motor Finance Charge to £350 Million",
+    "fetched_on": "2025-10-20T07:20:55.871098+00:00",
+    "content": "Bank of Ireland Group Plc is sharply increasing its estimate for the cost of compensating customers who were missold car loans to £350 million (€403 million), the latest lender to reassess its calculations after the UK regulator outlined a more sweeping redress program than expected.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Ireland",
+      "Bank",
+      "Doubles",
+      "Motor",
+      "Finance",
+      "Charge",
+      "Group",
+      "Plc",
+      "expected"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/138008/real-madrid-fix-on-liverpool-and-crystal-palace-stars.html",
+    "title": "Real Madrid fix on Liverpool and Crystal Palace stars",
+    "fetched_on": "2025-10-20T07:20:54.166338+00:00",
+    "content": "Saliba Situation Never Likely\r\nCredit to talkSPORT for highlighting a growing trend at Europes most powerful club. William Salibas decision to stay at Arsenal, rather than hold out for Real Madrid, h… [+3035 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Madrid",
+      "Liverpool",
+      "Crystal",
+      "Palace",
+      "Situation",
+      "Credit",
+      "Europes",
+      "Real",
+      "club",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/company-results/singapore-law-firm-to-sue-switzerland-over-asia-losses-on-at1s-11760856147412.html",
+    "title": "Singapore Law Firm to Sue Switzerland Over Asia Losses on AT1s",
+    "fetched_on": "2025-10-20T07:20:54.166338+00:00",
+    "content": "(Bloomberg) -- One of Singapores biggest law firms is set to file claims against the Swiss government by the end of the year, seeking compensation for hundreds of Asian bondholders of Credit Suisse A… [+2157 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Law",
+      "chars",
+      "Sue",
+      "Switzerland",
+      "Asia",
+      "Losses",
+      "Swiss",
+      "Asian",
+      "Credit"
+    ]
   }
 ]
