@@ -81827,5 +81827,105 @@
       "Viral",
       "Artwork"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/legal/will/homebuyer-claims-section-80c-tax-deduction-for-home-loan-repayment-tax-dept-challenges-it-itat-panaji-rules-in-his-favour/articleshow/124683077.cms",
+    "title": "Homebuyer claims Section 80C tax deduction for home loan repayment, tax dept challenges it — ITAT Panaji rules in his favour",
+    "fetched_on": "2025-10-20T06:32:19.567236+00:00",
+    "content": "A homebuyer from Goa faced two significant issues with the income tax department when his claim for a Section 80C tax deduction related to home loan repayment was denied and the home loan amount was … [+10759 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Section",
+      "loan",
+      "home",
+      "tax",
+      "ITAT",
+      "chars",
+      "deduction",
+      "repayment",
+      "Panaji",
+      "Goa"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/1019/1539060-inflation-and-savings-what-you-need-to-know/",
+    "title": "Inflation and savings - what you need to know",
+    "fetched_on": "2025-10-20T06:32:19.567236+00:00",
+    "content": "Irish people are committed savers, the majority who save have their money safely in banks or credit unions.\r\nThe problem is that over half earn less than 1% interest.\r\nWith inflation running high, dr… [+10881 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Irish",
+      "savings",
+      "savers",
+      "unions",
+      "interest",
+      "people",
+      "committed",
+      "majority",
+      "save",
+      "money"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/37f54aae49410d23",
+    "title": "Global week ahead: 'Cockroaches' crawling toward Europe?",
+    "fetched_on": "2025-10-20T06:32:19.567236+00:00",
+    "content": "Europe's banks take center stage this week as earnings season gets underway, but with heavy losses across the sector on Friday, credit concerns appear to be making their way across the Atlantic at a … [+135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cockroaches'",
+      "Global",
+      "ahead",
+      "Europe",
+      "chars",
+      "Friday",
+      "week",
+      "crawling",
+      "Atlantic",
+      "underway"
+    ]
+  },
+  {
+    "source": "CNBC [NewsAPI]",
+    "url": "https://www.cnbc.com/2025/10/19/global-week-ahead-cockroaches-crawling-toward-europe.html",
+    "title": "Global week ahead: 'Cockroaches' crawling toward Europe?",
+    "fetched_on": "2025-10-20T06:32:19.567236+00:00",
+    "content": "Europe's banks take center stage this week as earnings season gets underway, but with heavy losses across the sector on Friday, credit concerns appear to be making their way across the Atlantic at a … [+3349 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cockroaches'",
+      "Global",
+      "ahead",
+      "Europe",
+      "chars",
+      "Friday",
+      "week",
+      "crawling",
+      "Atlantic",
+      "underway"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/10/20/european-markets-on-mon-oct-20-stoxx-600-ftse-dax-cac-.html",
+    "title": "European markets set to start the week higher, shrugging off credit concerns",
+    "fetched_on": "2025-10-20T06:32:53.344540+00:00",
+    "content": "European stocks are expected to start the new trading week on a positive note after a volatile few days.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "start",
+      "European",
+      "higher",
+      "shrugging",
+      "days",
+      "week",
+      "markets",
+      "set",
+      "credit",
+      "concerns"
+    ]
   }
 ]
