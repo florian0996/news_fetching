@@ -82522,5 +82522,85 @@
       "jitters",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/ethiopia-in-talks-with-china-to-convert-dollar-loans-into-yuan",
+    "title": "Ethiopia in Talks With China to Convert Dollar Loans Into Yuan",
+    "fetched_on": "2025-10-20T13:30:34.252279+00:00",
+    "content": "Ethiopia started talks with China to convert at least part of the $5.38 billion it owes Beijing into yuan-denominated loans, following an example set by Kenya that bolsters China’s efforts to internationalize its currency.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Talks",
+      "Convert",
+      "Ethiopia",
+      "Loans",
+      "Dollar",
+      "Yuan",
+      "Beijing",
+      "Kenya",
+      "billion"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/truist-looks-to-sell-high-grade-bonds-amid-regional-bank-concern",
+    "title": "Truist Looks to Sell High-Grade Bonds Amid Regional Bank Concern",
+    "fetched_on": "2025-10-20T13:30:33.825533+00:00",
+    "content": "Truist Financial Corp. kicked off a sale of investment-grade bonds Monday, after concern last week about losses at some regional banks briefly stoked broader credit worries.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Corp",
+      "Truist",
+      "Sell",
+      "Amid",
+      "Financial",
+      "Regional",
+      "Bonds",
+      "Concern",
+      "Monday",
+      "High-Grade"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e16c858a1fd03b6f",
+    "title": "Credit card rewards benefit the rich the most. Here’s who actually pays for them",
+    "fetched_on": "2025-10-20T13:30:33.193522+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Boeing get FAA approval to boost 737 Max output? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Broa… [+770 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Credit",
+      "Max",
+      "card",
+      "rewards",
+      "benefit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/437c9d912d2c485d",
+    "title": "HELOC rates today, October 19, 2025: Average rate drops 22 basis points in 4 months",
+    "fetched_on": "2025-10-20T13:30:33.193522+00:00",
+    "content": "HELOC rates have been gradually decreasing throughout the year. Currently, the average home equity line of credit interest rate is 7.75%, according to the analytics company Curinos. That's a three-ba… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "October",
+      "Average",
+      "today",
+      "drops",
+      "basis",
+      "months",
+      "year",
+      "rates",
+      "rate"
+    ]
   }
 ]
