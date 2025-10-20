@@ -82047,5 +82047,45 @@
       "Sachen",
       "EPS"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/hedge-fund-enko-capital-raises-private-credit-fund-for-africa",
+    "title": "Hedge Fund Enko Capital Raises Private Credit Fund for Africa",
+    "fetched_on": "2025-10-20T09:24:42.237750+00:00",
+    "content": "Enko Capital, an Africa-focused hedge fund, has raised $100 million for its private credit strategy for mid-sized firms.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "Enko",
+      "Capital",
+      "Private",
+      "Credit",
+      "Raises",
+      "Africa",
+      "Africa-focused",
+      "Hedge",
+      "raised"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/vietnam-stocks-fall-by-most-since-april-on-bond-violation-woes-mgyubhaf",
+    "title": "Vietnam Stocks Sink 5% on Fears of Renewed Credit-Market Squeeze",
+    "fetched_on": "2025-10-20T09:24:42.237763+00:00",
+    "content": "Vietnamese stocks tumbled the most in six months amid renewed concerns that tighter scrutiny of corporate bond issuance could once again freeze credit and weigh on growth.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sink",
+      "Stocks",
+      "Renewed",
+      "Fears",
+      "Squeeze",
+      "Vietnamese",
+      "Vietnam",
+      "growth",
+      "Credit-Market",
+      "tumbled"
+    ]
   }
 ]
