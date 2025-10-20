@@ -3,7 +3,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/gold-holds-drop-as-traders-focus-on-us-china-trade-credit-woes",
     "title": "Gold Holds Drop as Traders Focus on US-China Trade, Credit Woes",
-    "fetched_on": "2025-10-20T09:24:42.237776+00:00",
+    "fetched_on": "2025-10-20T10:23:08.360729+00:00",
     "content": "Gold traded in a narrow range after last week\u2019s sharp selloff in precious metals, as easing US-China tensions lifted market sentiment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -42,16 +42,16 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/french-bond-futures-slip-after-snap-s-p-downgrade-on-budget-risk",
-    "title": "French Bonds Fall After Surprise S&P Downgrade on Budget Risk",
-    "fetched_on": "2025-10-20T09:24:42.237878+00:00",
-    "content": "French bonds declined after S&amp;P Global Ratings downgraded its sovereign credit score, an unscheduled move that highlights the nation\u2019s fiscal woes and places its debt at risk of forced selling by some funds.",
+    "title": "French Bonds Fall After Unscheduled S&amp;P Downgrade on Budget Risk",
+    "fetched_on": "2025-10-20T10:23:08.360667+00:00",
+    "content": "French bonds declined after S&amp;P Global Ratings downgraded the nation\u2019s sovereign credit score, an unscheduled move that highlights its fiscal woes and places its debt at risk of forced selling by some funds.",
     "platforms_mentioned": [],
     "keywords": [
       "French",
       "Bonds",
+      "Unscheduled",
       "Risk",
       "Fall",
-      "Surprise",
       "Downgrade",
       "Budget",
       "Global",
@@ -63,7 +63,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-19/treasuries-rally-drives-home-haven-role-as-credit-worries-swirl",
     "title": "Treasuries Rally Drives Home Haven Role as Credit Worries Swirl",
-    "fetched_on": "2025-10-20T04:26:41.925581+00:00",
+    "fetched_on": "2025-10-20T10:23:08.360673+00:00",
     "content": "All it took was a classic bout of haven buying to wake up a slumbering Treasuries market and drive benchmark yields to the lowest in months.",
     "platforms_mentioned": [],
     "keywords": [
@@ -343,7 +343,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-20T09:25:10.276579+00:00",
+    "fetched_on": "2025-10-20T10:23:37.896434+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/19/trump-student-loan-forgiveness.html",
     "title": "Trump administration agrees to deliver more student loan forgiveness",
-    "fetched_on": "2025-10-20T09:25:11.789303+00:00",
+    "fetched_on": "2025-10-20T10:23:39.570743+00:00",
     "content": "The Trump administration has agreed to forgive student debt under income-driven repayment programs it had partially blocked.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/20/asia-pacific-markets-nikkei-225-hang-seng-index-china-gdp.html",
     "title": "Japan stocks close at record high after ruling LDP set to sign new coalition deal",
-    "fetched_on": "2025-10-20T09:25:11.125250+00:00",
+    "fetched_on": "2025-10-20T10:23:38.930663+00:00",
     "content": "China kept its benchmark lending rates unchanged, in line with expectations, with the one-year loan prime rate at 3%.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/18/the-alleged-sweeping-betrayal-of-trust-that-rocked-zions-bank-and-spooked-wall-street.html",
     "title": "The alleged 'sweeping betrayal of trust' that rocked Zions bank and spooked Wall Street",
-    "fetched_on": "2025-10-20T09:25:11.125284+00:00",
+    "fetched_on": "2025-10-20T10:23:38.930699+00:00",
     "content": "Zions Bancorporation lost $1 billion of its valuation in a single day on Thursday after disclosing $60 million worth of loans it had made that were unlikely to be repaid.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html",
     "title": "\u2018The tide went out\u2019: How a string of bad loans has bank investors hunting for hidden risks",
-    "fetched_on": "2025-10-20T09:25:11.466864+00:00",
+    "fetched_on": "2025-10-20T10:23:39.309625+00:00",
     "content": "Investors are focused on a specific type of lending made by banks to non-depository financial institutions, or NDFIs, as the source of possible contagion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-20T09:25:11.276843+00:00",
+    "fetched_on": "2025-10-20T10:23:39.153140+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
     "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-20T09:25:11.276992+00:00",
+    "fetched_on": "2025-10-20T10:23:39.153291+00:00",
     "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
     "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-    "fetched_on": "2025-10-20T09:25:11.276999+00:00",
+    "fetched_on": "2025-10-20T10:23:39.153297+00:00",
     "content": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html",
     "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
-    "fetched_on": "2025-10-20T09:25:11.466880+00:00",
+    "fetched_on": "2025-10-20T10:23:39.309640+00:00",
     "content": "Marc Pinto, the agency's head of global private credit, acknowledged in a CNBC interview that there are concerns over loose lending standards.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html",
     "title": "Fintech startup Upgrade valued at $7.3 billion in new funding round",
-    "fetched_on": "2025-10-20T09:25:11.466922+00:00",
+    "fetched_on": "2025-10-20T10:23:39.309680+00:00",
     "content": "Upgrade raised $165 million in a new funding round that valued the fintech startup at $7.3 billion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -562,7 +562,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
     "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
-    "fetched_on": "2025-10-20T09:25:11.466983+00:00",
+    "fetched_on": "2025-10-20T10:23:39.309740+00:00",
     "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -582,7 +582,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html",
     "title": "Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures",
-    "fetched_on": "2025-10-20T09:25:11.467010+00:00",
+    "fetched_on": "2025-10-20T10:23:39.309767+00:00",
     "content": "Goldman Sachs is making the acquisition to bolster its $540 billion alternatives investment platform, part of the \"growth engine\" of the investment bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -602,7 +602,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/student-loan-borrowers-government-shutdown.html",
     "title": "What student loan borrowers can and can't do, as the government shutdown stretches on",
-    "fetched_on": "2025-10-20T09:25:11.789330+00:00",
+    "fetched_on": "2025-10-20T10:23:39.570766+00:00",
     "content": "Despite the government shutdown, student loan borrowers should be able to complete most necessary tasks with the company managing their debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -622,7 +622,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
     "title": "Why some credit card APRs aren\u2019t coming down, even after a Fed rate cut",
-    "fetched_on": "2025-10-20T09:25:11.789353+00:00",
+    "fetched_on": "2025-10-20T10:23:39.570788+00:00",
     "content": "Sky-high credit card rates won't come down much, even as the Federal Reserve lowers its benchmark.",
     "platforms_mentioned": [],
     "keywords": [
@@ -642,7 +642,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/government-shutdown-delays-student-loan-forgiveness-lawsuit.html",
     "title": "Student loan forgiveness lawsuit on hold during government shutdown \u2014 what borrowers need to know",
-    "fetched_on": "2025-10-20T09:25:11.789360+00:00",
+    "fetched_on": "2025-10-20T10:23:39.570795+00:00",
     "content": "A union lawsuit against Trump officials regarding blocked student loan forgiveness is paused due to the government shutdown. Here's what borrowers need to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -662,7 +662,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/trump-student-loan-forgiveness-who-qualifies.html",
     "title": "Here's who qualifies for the Trump administration's latest round of student loan forgiveness",
-    "fetched_on": "2025-10-20T09:25:11.789375+00:00",
+    "fetched_on": "2025-10-20T10:23:39.570810+00:00",
     "content": "Federal student loan borrowers have been getting emails from the Education Department that their debt will be forgiven. Here's who qualifies for the relief.",
     "platforms_mentioned": [],
     "keywords": [
@@ -682,7 +682,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/more-student-loan-borrowers-risk-default-as-late-payments-rise.html",
     "title": "Millions of student loan borrowers at risk of default as late payments climb",
-    "fetched_on": "2025-10-20T09:25:11.789383+00:00",
+    "fetched_on": "2025-10-20T10:23:39.570817+00:00",
     "content": "Student loan borrowers who are behind on their payments will be pushed into default in coming months, says Moody's Analytics economist Justin Begley.",
     "platforms_mentioned": [],
     "keywords": [
@@ -702,7 +702,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-20T09:25:11.789405+00:00",
+    "fetched_on": "2025-10-20T10:23:39.570838+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -722,7 +722,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
     "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-    "fetched_on": "2025-10-20T09:25:11.789475+00:00",
+    "fetched_on": "2025-10-20T10:23:39.570906+00:00",
     "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
     "platforms_mentioned": [],
     "keywords": [
@@ -776,7 +776,7 @@
     "source": "Reuters [GNews]",
     "url": "https://www.reuters.com/business/finance/banks-talks-with-us-treasury-lend-20-billion-argentina-semafor-reports-2025-10-16/",
     "title": "Banks in talks with US Treasury to lend $20 billion to Argentina, Semafor reports",
-    "fetched_on": "2025-10-20T09:24:48.753420+00:00",
+    "fetched_on": "2025-10-20T10:23:20.029627+00:00",
     "content": "Banks including JPMorgan , Bank of America , Goldman Sachs and Citigroup are in talks with the U.S. Treasury to provide up to $20 billion in loans to Argentina, Semafor reported on Thursday, citing people familiar with the matter.",
     "platforms_mentioned": [],
     "entity": "Lend",
@@ -797,7 +797,7 @@
     "source": "Reuters [GNews]",
     "url": "https://www.reuters.com/world/africa/imf-lauds-zimbabwes-economic-progress-says-arrears-block-lending-2025-10-16/",
     "title": "IMF lauds Zimbabwe's economic progress, but says arrears block lending",
-    "fetched_on": "2025-10-20T09:24:48.753424+00:00",
+    "fetched_on": "2025-10-20T10:23:20.029631+00:00",
     "content": "The International Monetary Fund said on Thursday it remains unable to lend to Zimbabwe due to the country's outstanding arrears, but praised recent economic reforms as discussions progress on a potential staff-monitored program.",
     "platforms_mentioned": [],
     "entity": "Lend",
@@ -856,7 +856,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/7acc0fa7dc68a353",
     "title": "UK defence suppliers tap fintechs to scale up production",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "Smaller groups seek alternative funding with traditional banks held back by ESG lending rules\r\nThis story appeared on ft.com, 2025-10-19 04:00:18.",
     "platforms_mentioned": [],
     "keywords": [
@@ -936,7 +936,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/goldman-citadel-chiefs-set-to-attend-hong-kong-november-summit",
     "title": "Goldman, Citadel Chiefs Set to Attend Hong Kong November Summit",
-    "fetched_on": "2025-10-20T09:24:43.291175+00:00",
+    "fetched_on": "2025-10-20T10:23:14.441933+00:00",
     "content": "The chief executive officers at Goldman Sachs Group Inc. and Morgan Stanley are slotted to attend Hong Kong\u2019s annual summit for global finance leaders, just as US-China tensions reignite and a slew of credit losses weigh on global banks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -996,7 +996,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/2ecb880168bbfb4e",
     "title": "\u2018Finances are getting tighter\u2019: US car repossessions surge as more Americans default on auto loans",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "Alarm bells are ringing on Wall Street. The recent collapses of Tricolor, a used car seller and sub-prime auto lender, and First Brands, an auto parts supplier, have put the finance industry on edge,\u2026 [+157 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1016,7 +1016,7 @@
     "source": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO [NewsAPI]",
     "url": "https://www.tuko.co.ke/entertainment/celebrities/606683-raila-odinga-artist-appeals-token-appreciation-credit-viral-odm-leaders-artwork/",
     "title": "Raila Odinga: Artist Appeals for Token of Appreciation, Credit Over Viral ODM Leader's Artwork",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "<ul><li>Collins Omondi's tribute artwork of Raila Odinga has gone viral, but it is being misused without proper credit or compensation.</li><li>The Kisumu-based artist shared his frustration, highlig\u2026 [+3851 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1071,7 +1071,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/wealth/legal/will/homebuyer-claims-section-80c-tax-deduction-for-home-loan-repayment-tax-dept-challenges-it-itat-panaji-rules-in-his-favour/articleshow/124683077.cms",
     "title": "Homebuyer claims Section 80C tax deduction for home loan repayment, tax dept challenges it \u2014 ITAT Panaji rules in his favour",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "A homebuyer from Goa faced two significant issues with the income tax department when his claim for a Section 80C tax deduction related to home loan repayment was denied and the home loan amount was \u2026 [+10759 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1091,7 +1091,7 @@
     "source": "RTE [NewsAPI]",
     "url": "https://www.rte.ie/news/business/2025/1019/1539060-inflation-and-savings-what-you-need-to-know/",
     "title": "Inflation and savings - what you need to know",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "Irish people are committed savers, the majority who save have their money safely in banks or credit unions.\r\nThe problem is that over half earn less than 1% interest.\r\nWith inflation running high, dr\u2026 [+10881 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1111,7 +1111,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/37f54aae49410d23",
     "title": "Global week ahead: 'Cockroaches' crawling toward Europe?",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "Europe's banks take center stage this week as earnings season gets underway, but with heavy losses across the sector on Friday, credit concerns appear to be making their way across the Atlantic at a \u2026 [+135 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1131,7 +1131,7 @@
     "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2025/10/19/global-week-ahead-cockroaches-crawling-toward-europe.html",
     "title": "Global week ahead: 'Cockroaches' crawling toward Europe?",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "Europe's banks take center stage this week as earnings season gets underway, but with heavy losses across the sector on Friday, credit concerns appear to be making their way across the Atlantic at a \u2026 [+3349 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1151,7 +1151,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/20/european-markets-on-mon-oct-20-stoxx-600-ftse-dax-cac-.html",
     "title": "European markets start the week higher, shrugging off credit concerns",
-    "fetched_on": "2025-10-20T09:25:11.125235+00:00",
+    "fetched_on": "2025-10-20T10:23:38.930649+00:00",
     "content": "European stocks started the new trading week on a positive note after a volatile few days.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1171,7 +1171,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/bank-of-ireland-doubles-uk-motor-finance-charge-to-350-million",
     "title": "Bank of Ireland Doubles UK Motor Finance Charge to \u00a3350 Million",
-    "fetched_on": "2025-10-20T09:24:43.291169+00:00",
+    "fetched_on": "2025-10-20T10:23:14.441928+00:00",
     "content": "Bank of Ireland Group Plc is sharply increasing its estimate for the cost of compensating customers who were missold car loans to \u00a3350 million (\u20ac403 million), the latest lender to reassess its calculations after the UK regulator outlined a more sweeping redress program than expected.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1191,7 +1191,7 @@
     "source": "English Premier League Index - Opta Stats [NewsAPI]",
     "url": "https://eplindex.com/138008/real-madrid-fix-on-liverpool-and-crystal-palace-stars.html",
     "title": "Real Madrid fix on Liverpool and Crystal Palace stars",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "Saliba Situation Never Likely\r\nCredit to talkSPORT for highlighting a growing trend at Europes most powerful club. William Salibas decision to stay at Arsenal, rather than hold out for Real Madrid, h\u2026 [+3035 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1211,7 +1211,7 @@
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/companies/company-results/singapore-law-firm-to-sue-switzerland-over-asia-losses-on-at1s-11760856147412.html",
     "title": "Singapore Law Firm to Sue Switzerland Over Asia Losses on AT1s",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "(Bloomberg) -- One of Singapores biggest law firms is set to file claims against the Swiss government by the end of the year, seeking compensation for hundreds of Asian bondholders of Credit Suisse A\u2026 [+2157 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1230,9 +1230,9 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-20/s-p-downgrades-france-on-budget-risk-video",
-    "title": "S&amp;P Downgrades France on Budget Risk",
-    "fetched_on": "2025-10-20T09:24:42.237807+00:00",
-    "content": "S&amp;P Global Ratings downgraded France\u2019s sovereign credit score in an unscheduled move late Friday. The downgrade means France has lost its double-A rating at two of the three major credit assessors in little more than a month, a step that risks compelling some funds with ultra-strict investment criteria to sell the country\u2019s bonds. Fitch Ratings cut France\u2019s score in September, with Moody\u2019s Ratings due to release its verdict on Friday. Jean Dalbard from Bloomberg Economics breaks down the sit",
+    "title": "S&P Downgrades France on Budget Risk",
+    "fetched_on": "2025-10-20T10:23:08.360608+00:00",
+    "content": "S&amp;P Global Ratings\u00a0downgraded France's sovereign credit score in an unscheduled move late Friday. The downgrade means France has lost its double-A rating at two of the three major credit assessors in little more than a month, a step that risks compelling some\u00a0funds with ultra-strict investment criteria\u00a0to sell the country\u2019s bonds. Fitch Ratings cut France\u2019s score in September, with Moody\u2019s Ratings due to release its verdict on Friday. Jean Dalbard from Bloomberg Economics breaks down the situation. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
       "France",
@@ -1241,17 +1241,17 @@
       "Friday",
       "Ratings",
       "credit",
+      "Bloomberg",
       "score",
       "downgraded",
-      "sovereign",
-      "unscheduled"
+      "sovereign"
     ]
   },
   {
     "source": "PhoneArena [NewsAPI]",
     "url": "https://www.phonearena.com/news/apple-is-setting-up-the-foldable-iphone-for-disappointment_id174986",
     "title": "Apple is setting up the foldable iPhone for a lot of disappointment",
-    "fetched_on": "2025-10-20T09:24:41.091036+00:00",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
     "content": "*Image credit Technizo ConceptA tale as old as time, the foldable iPhone has been delayed yet again. Okay, its not confirmed just yet, but its very likely that it has. The reason? Same as it has alwa\u2026 [+3982 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1291,7 +1291,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/hedge-fund-enko-capital-raises-private-credit-fund-for-africa",
     "title": "Hedge Fund Enko Capital Raises Private Credit Fund for Africa",
-    "fetched_on": "2025-10-20T09:24:42.237750+00:00",
+    "fetched_on": "2025-10-20T10:23:08.360712+00:00",
     "content": "Enko Capital, an Africa-focused hedge fund, has raised $100 million for its private credit strategy for mid-sized firms.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1311,8 +1311,8 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/vietnam-stocks-fall-by-most-since-april-on-bond-violation-woes-mgyubhaf",
     "title": "Vietnam Stocks Sink 5% on Fears of Renewed Credit-Market Squeeze",
-    "fetched_on": "2025-10-20T09:24:42.237763+00:00",
-    "content": "Vietnamese stocks tumbled the most in six months amid renewed concerns that tighter scrutiny of corporate bond issuance could once again freeze credit and weigh on growth.",
+    "fetched_on": "2025-10-20T10:23:08.360643+00:00",
+    "content": "Vietnamese stocks tumbled the most in six months amid renewed concerns that tighter scrutiny of corporate bond issuance may once again freeze credit and weigh on growth.",
     "platforms_mentioned": [],
     "keywords": [
       "Sink",
@@ -1325,6 +1325,202 @@
       "growth",
       "Credit-Market",
       "tumbled"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-20/credit-market-has-been-aggressive-all-year-sheets-says-video",
+    "title": "Credit Market Has Been Aggressive All Year, Sheets Says (Video)",
+    "fetched_on": "2025-10-20T10:23:08.360617+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Video",
+      "Year",
+      "Sheets",
+      "Market",
+      "Aggressive",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-20/unicredit-plans-srt-on-1-2-billion-of-austrian-unit-s-loans",
+    "title": "UniCredit Plans SRT on \u20ac1.2 Billion of Austrian Unit\u2019s Loans",
+    "fetched_on": "2025-10-20T10:23:08.360636+00:00",
+    "content": "UniCredit SpA is planning a significant risk transfer tied to \u20ac1.2 billion ($1.4 billion) of loans originated by its Austrian unit, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Austrian",
+      "Unit",
+      "Loans",
+      "Plans",
+      "SRT",
+      "matter",
+      "UniCredit",
+      "SpA",
+      "planning"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-19/us-stock-futures-rise-as-china-trade-tensions-cool-markets-wrap",
+    "title": "US Futures Rise as Investors Turn Gaze to Earnings: Markets Wrap",
+    "fetched_on": "2025-10-20T10:23:08.360649+00:00",
+    "content": "US equity futures rose as traders put worries about trade and credit behind them to focus on the next round of corporate earnings.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earnings",
+      "Markets",
+      "Futures",
+      "Rise",
+      "Investors",
+      "Turn",
+      "Gaze",
+      "Wrap",
+      "equity",
+      "rose"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-10-20/state-of-distressed-cadwalader-s-mintz-on-recent-lme-litigation",
+    "title": "State of Distressed: Cadwalader\u2019s Mintz on Recent LME Litigation",
+    "fetched_on": "2025-10-20T10:23:13.811060+00:00",
+    "content": "\u201cIf I were a lender, I would sign a coop with everyone &mdash; or mostly everyone &mdash; the day after the loan closes, and then just let it sit there.\u201d That\u2019s Douglas Mintz\u2019s solution to the damaging frenzy that often erupts when word spreads that creditors are organizing ahead of a potential liability management exercise. In a conversation with Bloomberg Intelligence\u2019s Negisa Balluku, Mintz, who is a partner in Cadwalader, Wickersham &amp; Taft LLP\u2019s Financial Restructuring practice and a member of the f",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Distressed",
+      "Litigation",
+      "Mintz",
+      "Recent",
+      "LME",
+      "Cadwalader",
+      "State",
+      "lender",
+      "closes",
+      "sign"
+    ]
+  },
+  {
+    "source": "ARTnews [NewsAPI]",
+    "url": "https://www.artnews.com/art-news/news/pemberton-asset-management-buys-bonhams-from-private-equity-firm-epirus-for-undisclosed-sum-1234757847/",
+    "title": "Pemberton Asset Management Buys Bonhams from Private Equity Firm Epiris for Undisclosed\u00a0Sum",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
+    "content": "Pemberton Asset Management, a European private credit manager, has acquired Bonhams from the private equity firm Epiris for an undisclosed sum. \r\nIn a recent email sent by Hans-Kristian Hoejsgaard, t\u2026 [+3867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asset",
+      "Epiris",
+      "Management",
+      "Bonhams",
+      "Equity",
+      "Firm",
+      "Private",
+      "Pemberton",
+      "Undisclosed",
+      "Sum"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-october-19-2025-100026731.html",
+    "title": "HELOC rates today, October 19, 2025: Average rate drops 22 basis points in 4 months",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
+    "content": "HELOC rates have been gradually decreasing throughout the year. Currently, the average home equity line of credit interest rate is 7.75%, according to the analytics company Curinos. That's a three-ba\u2026 [+4018 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "October",
+      "Average",
+      "today",
+      "drops",
+      "basis",
+      "months",
+      "year",
+      "rates",
+      "rate"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/stargazing/astrophotography/cosmic-heart-nebula-bursts-with-light-in-new-deep-space-astrophotographer-portrait-photo-october-2025",
+    "title": "A cosmic heart bursts with light in new deep space astrophotographer portrait (photo)",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
+    "content": "The Heart Nebula (IC 1805) shines in the constellation Cassiopeia. (Image credit: Ronald Brecher)\r\nAstrophotographer Ronald Brecher has captured a colorful view of the Heart Nebula (IC 1805), which i\u2026 [+2232 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nebula",
+      "Cassiopeia",
+      "heart",
+      "photo",
+      "Ronald",
+      "Brecher",
+      "astrophotographer",
+      "portrait",
+      "shines",
+      "Image"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/rate-cut-likely-by-year-end-gst-reforms-to-boost-credit-demand-goldman-sachs/article70182174.ece",
+    "title": "Rate cut likely by year-end; GST reforms to boost credit demand: Goldman Sachs",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
+    "content": "An additional policy rate cut is expected before the end of the year, alongside recent GST simplifications, indicating that peak fiscal consolidation is behind us. These factors, combined with domest\u2026 [+1611 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GST",
+      "Goldman",
+      "Sachs",
+      "Rate",
+      "cut",
+      "year-end",
+      "demand",
+      "year",
+      "alongside",
+      "simplifications"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/indicators/rate-cut-likely-by-year-end-gst-reforms-to-boost-credit-demand-goldman-sachs/articleshow/124685454.cms",
+    "title": "Rate cut likely by year-end; GST reforms to boost credit demand: Goldman Sachs",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
+    "content": "An additional policy rate cut is expected before the end of the year, alongside recent GST simplifications, indicating that peak fiscal consolidation is behind us. These factors, combined with domest\u2026 [+1612 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GST",
+      "Goldman",
+      "Sachs",
+      "Rate",
+      "cut",
+      "year-end",
+      "demand",
+      "year",
+      "alongside",
+      "simplifications"
+    ]
+  },
+  {
+    "source": "Louder [NewsAPI]",
+    "url": "https://www.loudersound.com/bands-artists/queen-songs-that-inspired-bohemian-rhapsody",
+    "title": "\u201cPeople have a hard time understanding how unsurprising Bohemian Rhapsody was to us\u201d: These are the two early Queen songs that Brian May says paved the way for Bohemian Rhapsody",
+    "fetched_on": "2025-10-20T10:23:04.959758+00:00",
+    "content": "(Image credit: Future)\r\nThere has never been another song like Bohemian Rhapsody. The cornerstone of Queen\u2019s 1975 album A Night At The Opera, Freddie Mercury\u2019s multi-part operatic rock fever dream sp\u2026 [+3830 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bohemian",
+      "Rhapsody",
+      "Future",
+      "People",
+      "Image",
+      "Brian",
+      "Queen",
+      "credit",
+      "hard",
+      "time"
     ]
   }
 ]
