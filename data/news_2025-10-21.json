@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/zions-net-income-tops-forecasts-despite-hit-amid-alleged-fraud",
     "title": "Zions Profit Beat Eases Credit Concerns From Alleged Fraud",
     "fetched_on": "2025-10-21T03:06:39.606886+00:00",
@@ -20,11 +20,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Economics [RSS]",
+    "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/ethiopia-in-talks-with-china-to-convert-dollar-loans-into-yuan",
     "title": "Ethiopia in Talks With China to Convert Dollar Loans to Yuan",
-    "fetched_on": "2025-10-21T03:06:40.318916+00:00",
-    "content": "Ethiopia started talks with China to convert at least part of the $5.38 billion it owes Beijing into yuan-denominated loans, following an example set by Kenya that bolsters China's efforts to internationalize its currency.",
+    "fetched_on": "2025-10-21T04:24:50.911322+00:00",
+    "content": "Ethiopia started talks with China to convert at least part of the $5.38 billion it owes Beijing into yuan-denominated loans, following an example set by Kenya that bolsters China\u2019s efforts to internationalize its currency.",
     "platforms_mentioned": [],
     "keywords": [
       "China",
@@ -40,11 +40,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-20/goldman-citadel-chiefs-set-to-attend-hong-kong-november-summit",
     "title": "Goldman, Citadel Chiefs Set to Attend Hong Kong Summit",
-    "fetched_on": "2025-10-21T03:06:40.466104+00:00",
-    "content": "The chief executive officers of Goldman Sachs Group Inc. and Morgan Stanley are slotted to attend Hong Kong's annual summit for global finance leaders, just as US-China tensions reignite and a slew of credit losses weigh on global banks.",
+    "fetched_on": "2025-10-21T04:24:51.192042+00:00",
+    "content": "The chief executive officers of Goldman Sachs Group Inc. and Morgan Stanley are slotted to attend Hong Kong\u2019s annual summit for global finance leaders, just as US-China tensions reignite and a slew of credit losses weigh on global banks.",
     "platforms_mentioned": [],
     "keywords": [
       "Hong",
@@ -63,8 +63,8 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/news/gold-holds-drop-traders-focus-013727069.html",
     "title": "Gold Holds Drop as Traders Focus on US-China Trade, Credit Woes",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "(Bloomberg) -- Gold swung between gains and losses following a sharp sell-off that swept the broader the precious metals complex at the end of last week as signs of easing US-China tensions bolstered... [+3054 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "(Bloomberg) -- Gold swung between gains and losses following a sharp sell-off that swept the broader the precious metals complex at the end of last week as signs of easing US-China tensions bolstered\u2026 [+3054 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Bloomberg",
@@ -83,8 +83,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/1b91fec78e801596",
     "title": "China leaves benchmark lending rates unchanged for 5th straight month in October",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all inv... [+148 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all inv\u2026 [+148 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Disclosure",
@@ -103,8 +103,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/4bede4c7f2bccdf2",
     "title": "Global Banks Bet Billions on India Deals Amid US Credit Jitters",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Kering sell its beauty division to LOréal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is US-China trade ... [+762 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Kering sell its beauty division to LOr\u00e9al? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is US-China trade \u2026 [+762 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -123,8 +123,8 @@
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/companies/news/global-banks-bet-billions-on-india-deals-amid-us-credit-jitters-11760923970751.html",
     "title": "Global Banks Bet Billions on India Deals Amid US Credit Jitters",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "(Bloomberg) -- A spate of billion-dollar deals for Indian banks has thrust the countrys financial sector into the global spotlight, at a time when US credit losses and trade tensions have rattled inv... [+4195 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "(Bloomberg) -- A spate of billion-dollar deals for Indian banks has thrust the countrys financial sector into the global spotlight, at a time when US credit losses and trade tensions have rattled inv\u2026 [+4195 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Bloomberg",
@@ -143,8 +143,8 @@
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/opinion/online-views/gst-rate-cut-impact-india-nirmala-sitharaman-price-reduction-consumer-benefit-festive-season-sales-fiscal-tax-discount-11760874900292.html",
     "title": "Festive tax stimulus: Will a sales bounce mop up enough GST to plug revenue gaps?",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "It is to the governments credit that it didnt need to revive its anti-profiteering authority, disbanded in 2022, to have retail prices reflect last months GST rate cuts. On Saturday, finance minist... [+1006 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "It is to the governments credit that it didnt need to revive its anti-profiteering authority, disbanded in 2022, to have retail prices reflect last months GST rate cuts. \r\nOn Saturday, finance minist\u2026 [+1006 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "GST",
@@ -163,8 +163,8 @@
     "source": "pymnts.com [NewsAPI]",
     "url": "https://www.pymnts.com/consumer-finance/2025/gen-z-credit-scores-plunge-as-cost-of-living-rises/",
     "title": "Gen Z Credit Scores Plunge as Cost of Living Rises",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "For members of Generation Z, its becoming harder and harder to maintain good credit.That age group saw the steepest drop in credit health this year, The New York Times reported Saturday (Oct. 18), ci... [+2425 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "For members of Generation Z, its becoming harder and harder to maintain good credit.That age group saw the steepest drop in credit health this year, The New York Times reported Saturday (Oct. 18), ci\u2026 [+2425 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Oct.",
@@ -183,8 +183,8 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/news/hdfc-bank-ltd-hdb-q2-010031159.html",
     "title": "HDFC Bank Ltd (HDB) Q2 2026 Earnings Call Highlights: Strong Loan Growth Amidst Margin Pressures",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "This article first appeared on GuruFocus. Release Date: October 18, 2025 For the complete transcript of the earnings call, please refer to the full earnings call transcript. <ul><li>HDFC Bank Ltd ... [+3523 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "This article first appeared on GuruFocus.\r\nRelease Date: October 18, 2025\r\nFor the complete transcript of the earnings call, please refer to the full earnings call transcript.\r\n<ul><li>HDFC Bank Ltd \u2026 [+3523 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "HDB",
@@ -203,8 +203,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/wealth/invest/rise-in-gold-prices-boosts-lending-companies-but-jewellery-firms-struggle/articleshow/124651359.cms",
     "title": "Rise in gold prices boosts lending companies but jewellery firms struggle",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "Gold prices witnessed a surge in 2025, outpacing the performance of equity markets by a huge margin. From 31 December 2024 to 14 October 2025, MCX gold futures surged over 64%, while the BSE Sensex m... [+11261 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "Gold prices witnessed a surge in 2025, outpacing the performance of equity markets by a huge margin. From 31 December 2024 to 14 October 2025, MCX gold futures surged over 64%, while the BSE Sensex m\u2026 [+11261 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "prices",
@@ -223,8 +223,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-cool-as-precious-metals-retreat-after-rally/articleshow/124697505.cms",
     "title": "Silver prices cool as precious metals retreat after rally",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "London: Silver fell more than 6% in its biggest drop in six months as the broad precious metals group retreated following a furious rally this week.The pullback came as concerns eased over credit qua... [+1082 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "London: Silver fell more than 6% in its biggest drop in six months as the broad precious metals group retreated following a furious rally this week.The pullback came as concerns eased over credit qua\u2026 [+1082 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Silver",
@@ -243,8 +243,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/cf26f9dce310f82e",
     "title": "Gold Holds Drop as Traders Focus on US-China Trade, Credit Woes",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Kering sell its beauty division to LOréal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is US-China trade ... [+761 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Kering sell its beauty division to LOr\u00e9al? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is US-China trade \u2026 [+761 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -422,7 +422,7 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/10/19/the-walking-dead-daryl-dixon-season-3-episode-7-finale-recap-and-review---the-good-the-bad-and-the-ugly/",
-    "title": "‘The Walking Dead: Daryl Dixon' Season 3, Episode 7 Finale Recap And Review - The Good, The Bad And The Ugly",
+    "title": "\u2018The Walking Dead: Daryl Dixon' Season 3, Episode 7 Finale Recap And Review - The Good, The Bad And The Ugly",
     "fetched_on": "2025-10-21T01:39:55.607944+00:00",
     "content": "The Walking Dead: Daryl Dixon Credit: AMC The Walking Dead: Daryl Dixon finished up its third season Sunday with a rousing finale that combined some big action set set pieces and daring escapes wit... [+18406 chars]",
     "platforms_mentioned": [],
@@ -529,7 +529,7 @@
     "keywords": [
       "risks",
       "regional",
-      "banks’",
+      "banks\u2019",
       "earnings",
       "scrutiny",
       "jitters",
@@ -537,17 +537,17 @@
     ]
   },
   {
-    "source": "Crunchbase News – Seed Funding [Scrape]",
+    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
-    "title": "Exclusive: Revalia Bio Raises $14.5M To ‘Revolutionize' Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-21T03:07:01.258094+00:00",
+    "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
+    "fetched_on": "2025-10-21T04:25:18.320918+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
       "Revalia",
       "Bio",
       "Raises",
-      "Revolutionize’",
+      "Revolutionize\u2019",
       "Haven",
       "Connecticut-based",
       "Exclusive",
@@ -560,7 +560,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/20/trump-hassett-government-shutdown.html",
     "title": "White House economic advisor Hassett says shutdown could end this week",
-    "fetched_on": "2025-10-21T03:07:02.111769+00:00",
+    "fetched_on": "2025-10-21T04:25:19.171962+00:00",
     "content": "The government shutdown is dragging on with no clear end in sight amid a partisan Senate fight over health tax credit funding and other sticking points.",
     "platforms_mentioned": [],
     "keywords": [
@@ -580,7 +580,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/10/18/the-alleged-sweeping-betrayal-of-trust-that-rocked-zions-bank-and-spooked-wall-street.html",
     "title": "The alleged 'sweeping betrayal of trust' that rocked Zions bank and spooked Wall Street",
-    "fetched_on": "2025-10-21T03:07:02.111861+00:00",
+    "fetched_on": "2025-10-21T04:25:19.172025+00:00",
     "content": "Zions Bancorporation lost $1 billion of its valuation in a single day on Thursday after disclosing $60 million worth of loans it had made that were unlikely to be repaid.",
     "platforms_mentioned": [],
     "keywords": [
@@ -600,7 +600,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-21T03:07:02.293024+00:00",
+    "fetched_on": "2025-10-21T04:25:19.337030+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -619,9 +619,9 @@
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/09/17/federal-reserve-cuts-interest-rates-heres-what-that-means-for-you.html",
-    "title": "Fed rate cut: Here's what it means for your mortgage rate, credit cards, savings accounts and more",
-    "fetched_on": "2025-10-21T03:07:02.293174+00:00",
-    "content": "The Federal Reserve cut its benchmark by a quarter point. Here's what that means for the borrowing and savings rates you pay.",
+    "title": "Fed rate cut: Here\u2019s what it means for your mortgage rate, credit cards, savings accounts and more",
+    "fetched_on": "2025-10-21T04:25:19.337195+00:00",
+    "content": "The Federal Reserve cut its benchmark by a quarter point. Here\u2019s what that means for the borrowing and savings rates you pay.",
     "platforms_mentioned": [],
     "keywords": [
       "Federal",
@@ -639,13 +639,13 @@
   {
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html",
-    "title": "‘The tide went out': How a string of bad loans has bank investors hunting for hidden risks",
-    "fetched_on": "2025-10-21T03:07:02.475924+00:00",
+    "title": "\u2018The tide went out\u2019: How a string of bad loans has bank investors hunting for hidden risks",
+    "fetched_on": "2025-10-21T04:25:19.478620+00:00",
     "content": "Investors are focused on a specific type of lending made by banks to non-depository financial institutions, or NDFIs, as the source of possible contagion.",
     "platforms_mentioned": [],
     "keywords": [
       "investors",
-      "out’",
+      "out\u2019",
       "institutions",
       "NDFIs",
       "contagion",
@@ -660,7 +660,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html",
     "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
-    "fetched_on": "2025-10-21T03:07:02.475939+00:00",
+    "fetched_on": "2025-10-21T04:25:19.478635+00:00",
     "content": "Marc Pinto, the agency's head of global private credit, acknowledged in a CNBC interview that there are concerns over loose lending standards.",
     "platforms_mentioned": [],
     "keywords": [
@@ -680,7 +680,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html",
     "title": "Fintech startup Upgrade valued at $7.3 billion in new funding round",
-    "fetched_on": "2025-10-21T03:07:02.475982+00:00",
+    "fetched_on": "2025-10-21T04:25:19.478676+00:00",
     "content": "Upgrade raised $165 million in a new funding round that valued the fintech startup at $7.3 billion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -699,7 +699,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
     "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
-    "fetched_on": "2025-10-21T03:07:02.476046+00:00",
+    "fetched_on": "2025-10-21T04:25:19.478740+00:00",
     "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -719,7 +719,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html",
     "title": "Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures",
-    "fetched_on": "2025-10-21T03:07:02.476073+00:00",
+    "fetched_on": "2025-10-21T04:25:19.478767+00:00",
     "content": "Goldman Sachs is making the acquisition to bolster its $540 billion alternatives investment platform, part of the \"growth engine\" of the investment bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -739,7 +739,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/19/trump-student-loan-forgiveness.html",
     "title": "Trump administration agrees to deliver more student loan forgiveness",
-    "fetched_on": "2025-10-21T03:07:02.682669+00:00",
+    "fetched_on": "2025-10-21T04:25:19.703175+00:00",
     "content": "The Trump administration has agreed to forgive student debt under income-driven repayment programs it had partially blocked.",
     "platforms_mentioned": [],
     "keywords": [
@@ -759,7 +759,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/student-loan-borrowers-government-shutdown.html",
     "title": "What student loan borrowers can and can't do, as the government shutdown stretches on",
-    "fetched_on": "2025-10-21T03:07:02.682686+00:00",
+    "fetched_on": "2025-10-21T04:25:19.703193+00:00",
     "content": "Despite the government shutdown, student loan borrowers should be able to complete most necessary tasks with the company managing their debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -778,8 +778,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
-    "title": "Why some credit card APRs aren't coming down, even after a Fed rate cut",
-    "fetched_on": "2025-10-21T03:07:02.682709+00:00",
+    "title": "Why some credit card APRs aren\u2019t coming down, even after a Fed rate cut",
+    "fetched_on": "2025-10-21T04:25:19.703215+00:00",
     "content": "Sky-high credit card rates won't come down much, even as the Federal Reserve lowers its benchmark.",
     "platforms_mentioned": [],
     "keywords": [
@@ -791,15 +791,15 @@
       "card",
       "benchmark",
       "APRs",
-      "n’t",
+      "n\u2019t",
       "coming"
     ]
   },
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/government-shutdown-delays-student-loan-forgiveness-lawsuit.html",
-    "title": "Student loan forgiveness lawsuit on hold during government shutdown - what borrowers need to know",
-    "fetched_on": "2025-10-21T03:07:02.682716+00:00",
+    "title": "Student loan forgiveness lawsuit on hold during government shutdown \u2014 what borrowers need to know",
+    "fetched_on": "2025-10-21T04:25:19.703222+00:00",
     "content": "A union lawsuit against Trump officials regarding blocked student loan forgiveness is paused due to the government shutdown. Here's what borrowers need to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -819,7 +819,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/trump-student-loan-forgiveness-who-qualifies.html",
     "title": "Here's who qualifies for the Trump administration's latest round of student loan forgiveness",
-    "fetched_on": "2025-10-21T03:07:02.682730+00:00",
+    "fetched_on": "2025-10-21T04:25:19.703236+00:00",
     "content": "Federal student loan borrowers have been getting emails from the Education Department that their debt will be forgiven. Here's who qualifies for the relief.",
     "platforms_mentioned": [],
     "keywords": [
@@ -839,7 +839,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/more-student-loan-borrowers-risk-default-as-late-payments-rise.html",
     "title": "Millions of student loan borrowers at risk of default as late payments climb",
-    "fetched_on": "2025-10-21T03:07:02.682737+00:00",
+    "fetched_on": "2025-10-21T04:25:19.703244+00:00",
     "content": "Student loan borrowers who are behind on their payments will be pushed into default in coming months, says Moody's Analytics economist Justin Begley.",
     "platforms_mentioned": [],
     "keywords": [
@@ -859,7 +859,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-21T03:07:02.682758+00:00",
+    "fetched_on": "2025-10-21T04:25:19.703264+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -879,7 +879,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
     "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-    "fetched_on": "2025-10-21T03:07:02.682842+00:00",
+    "fetched_on": "2025-10-21T04:25:19.703332+00:00",
     "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
     "platforms_mentioned": [],
     "keywords": [
@@ -899,7 +899,7 @@
     "source": "All Finance [RSS]",
     "url": "https://www.barrons.com/livecoverage/sundayshows1019/card/carlyle-s-ceo-says-credit-should-be-a-worry-but-markets-are-resilient-qnhKeaZkwexEz6Sx7kqj?siteid=yhoof2&yptr=yahoo",
     "title": "Carlyle's CEO Says Credit Should Be a Worry, But Markets Are Resilient",
-    "fetched_on": "2025-10-21T03:07:03.551012+00:00",
+    "fetched_on": "2025-10-21T04:25:20.315708+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -915,8 +915,8 @@
     "source": "Ndtvprofit.com [NewsAPI]",
     "url": "https://www.ndtvprofit.com/markets/muthoot-finance-target-price-hiked-31-percent-by-jefferies-amid-gold-price-rally",
     "title": "Muthoot Finance Target Price Hiked 31% By Jefferies Amid Gold Price Rally",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "Jefferies explains that the ongoing rally in gold prices should aid the company's loan growth while supporting margins. Higher gold prices should translate into faster loan growth, margin expansion,... [+380 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "Jefferies explains that the ongoing rally in gold prices should aid the company's loan growth while supporting margins.\r\nHigher gold prices should translate into faster loan growth, margin expansion,\u2026 [+380 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Jefferies",
@@ -935,8 +935,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/30430ab03e60113d",
     "title": "Gen Z Credit Scores Plunge as Cost of Living Rises",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "For members of Generation Z, its becoming harder and harder to maintain good credit. That age group saw the steepest drop in credit health this year, The New York Times reported Saturday (Oct. 18), ... [+134 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "For members of Generation Z, its becoming harder and harder to maintain good credit.\r\nThat age group saw the steepest drop in credit health this year, The New York Times reported Saturday (Oct. 18), \u2026 [+134 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Scores",
@@ -955,8 +955,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/news/international/world-news/china-leaves-key-lending-rates-unchanged-for-5th-straight-month-in-october-as-us-trade-tensions-simmer/articleshow/124697823.cms",
     "title": "China leaves key lending rates unchanged for 5th straight month in October as US trade tensions simmer",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "China left benchmark lending rates unchanged for the fifth consecutive month in October on Monday, meeting market expectations despite signs of slowing economic momentum.The decision to hold steady o... [+1466 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "China left benchmark lending rates unchanged for the fifth consecutive month in October on Monday, meeting market expectations despite signs of slowing economic momentum.The decision to hold steady o\u2026 [+1466 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "October",
@@ -975,8 +975,8 @@
     "source": "Ndtvprofit.com [NewsAPI]",
     "url": "https://www.ndtvprofit.com/business/global-banks-bet-billions-on-india-deals-amid-us-credit-jitters",
     "title": "Global Banks Bet Billions On India Deals Amid US Credit Jitters",
-    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
-    "content": "A spate of billion-dollar deals for Indian banks has thrust the countrys financial sector into the global spotlight, at a time when US credit losses and trade tensions have rattled investors globally... [+1597 chars]",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "A spate of billion-dollar deals for Indian banks has thrust the countrys financial sector into the global spotlight, at a time when US credit losses and trade tensions have rattled investors globally\u2026 [+1597 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "chars",
@@ -1031,6 +1031,106 @@
       "progress",
       "arrears",
       "program"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/research-reports/federal-bank-q2-review-dolat-capital-maintains-add-on-improved-margins-steady-asset-quality",
+    "title": "Federal Bank Q2 Review - Dolat Capital Maintains 'Add' On Improved Margins; Steady Asset Quality",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "Federal Bank Ltd. reported a good quarter with sequential net interest margin expansion (+12 bps to 3.06%) and contained credit costs (50 bps ex of management overlay). \n\nLoan growth at 1.5% QoQ/6% YoY was muted as the bank strategically slowed down in lower-\u2026",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Review",
+      "Add",
+      "Federal",
+      "Dolat",
+      "Maintains",
+      "Steady",
+      "Capital",
+      "Improved",
+      "Asset",
+      "Quality"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/asian-shares-advance-with-japans-benchmark-surging-after-ruling-party-forms-new-coalition",
+    "title": "Asian shares advance, with Japan\u2019s benchmark surging after ruling party forms new coalition",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "BANGKOK (AP) Asian markets surged Monday after Wall Street finished a winning week, overcoming worries over bank lending and the trade war with China.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\n\u2026 [+4920 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asian",
+      "BANGKOK",
+      "China",
+      "Japan",
+      "Monday",
+      "Wall",
+      "Street",
+      "advance",
+      "week",
+      "overcoming"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/asian-shares-advance-japans-benchmark-034504961.html",
+    "title": "Asian shares advance, with Japan's benchmark surging after ruling party forms new coalition",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "BANGKOK (AP) Asian markets surged Monday after Wall Street finished a winning week, overcoming worries over bank lending and the trade war with China.\r\nU.S. futures edged higher while oil prices fell\u2026 [+3934 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asian",
+      "BANGKOK",
+      "China",
+      "Japan",
+      "Monday",
+      "Wall",
+      "Street",
+      "advance",
+      "week",
+      "overcoming"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/asian-shares-advance-japans-benchmark-034504725.html",
+    "title": "Asian shares advance, with Japan's benchmark surging after ruling party forms new coalition",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "BANGKOK (AP) Asian markets surged Monday after Wall Street finished a winning week, overcoming worries over bank lending and the trade war with China.\r\nU.S. futures edged higher while oil prices fell\u2026 [+3934 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asian",
+      "BANGKOK",
+      "China",
+      "Japan",
+      "Monday",
+      "Wall",
+      "Street",
+      "advance",
+      "week",
+      "overcoming"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/10/thieving-family-tried-to-pull-off-a-credit-card-scam-before-closing-but-one-astute-retail-worker-turned-their-plan-into-a-complete-failure/",
+    "title": "Thieving Family Tried To Pull Off A Credit Card Scam Before Closing, But One Astute Retail Worker Turned Their Plan Into A Complete Failure",
+    "fetched_on": "2025-10-21T04:24:48.972863+00:00",
+    "content": "Pexels/Reddit\r\nRetail workers know the strangest things happen right before closing.\r\nOne such employee didnt expect to spend his final minutes at work outsmarting an entire family running a credit c\u2026 [+3724 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Closing",
+      "Retail",
+      "Pexels",
+      "Reddit",
+      "Pull",
+      "Card",
+      "Scam",
+      "Astute",
+      "Turned",
+      "Plan"
     ]
   }
 ]
