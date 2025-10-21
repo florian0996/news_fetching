@@ -84361,5 +84361,125 @@
       "Turned",
       "Plan"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-21/troubled-ambipar-kickstarts-bankruptcy-filings-in-brazil-texas",
+    "title": "Brazil’s Ambipar Seeks Bankruptcy in Latest Credit Market Jolt",
+    "fetched_on": "2025-10-21T05:20:14.260843+00:00",
+    "content": "Brazilian waste-management company Ambipar Participações e Empreendimentos SA decided to file for bankruptcy protection there, capping a rout after governance concerns, downgrades and executive exits that added to broader credit market risks.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ambipar",
+      "Credit",
+      "Market",
+      "Bankruptcy",
+      "Seeks",
+      "Latest",
+      "Jolt",
+      "Brazilian",
+      "Participações",
+      "Empreendimentos"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/spend/using-over-30-of-your-credit-card-limit-heres-why-its-hurting-your-score-and-how-to-fix-it/does-a-high-credit-utilisation-ratio-hurt-your-credit-score/slideshow/124699766.cms",
+    "title": "Using over 30% of your credit card limit? Here’s why it’s hurting your score and how to fix it",
+    "fetched_on": "2025-10-21T05:20:13.485106+00:00",
+    "content": "Oct 20, 2025, 10:29:38 AM IST\r\nUsing more than 30% of your credit card limit regularly can hurt your credit score. This shows lenders you rely too much on credit and may struggle to manage repayments… [+2497 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "card",
+      "limit",
+      "Oct",
+      "IST",
+      "score",
+      "chars",
+      "hurting",
+      "fix",
+      "regularly"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/global-banks-bet-billions-on-india-deals-amid-us-credit-jitters/articleshow/124699677.cms",
+    "title": "Global banks bet billions on India deals amid US credit jitters",
+    "fetched_on": "2025-10-21T05:20:13.485106+00:00",
+    "content": "A spate of billion-dollar deals for Indian banks has thrust the countrys financial sector into the global spotlight, at a time when US credit losses and trade tensions have rattled investors globally… [+4138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "India",
+      "Indian",
+      "credit",
+      "spotlight",
+      "globally",
+      "Global",
+      "banks",
+      "deals",
+      "bet"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/markets/stocks/news/china-holds-benchmark-lending-rates-steady-amid-slowing-growth/china-keeps-benchmark-lending-rates-unchanged/slideshow/124699862.cms",
+    "title": "China holds benchmark lending rates steady amid slowing growth",
+    "fetched_on": "2025-10-21T05:20:13.485106+00:00",
+    "content": "Oct 20, 2025, 10:37:36 AM IST\r\n China has left its benchmark lending rates unchanged in October for the fifth consecutive month. The decision reflects caution amid slowing economic momentum and ongoi… [+2119 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct",
+      "lending",
+      "China",
+      "IST",
+      "October",
+      "benchmark",
+      "rates",
+      "month",
+      "amid",
+      "slowing"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/687b3a163c038620",
+    "title": "So much of credit securitisation still relies on magical thinking",
+    "fetched_on": "2025-10-21T05:20:13.485106+00:00",
+    "content": "Rather than financial alchemy, such deals involve mispricing, reduced capital buffers and hidden risks\r\nThis story appeared on ft.com, 2025-10-20 04:00:14.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "alchemy",
+      "mispricing",
+      "reduced",
+      "ft.com",
+      "credit",
+      "securitisation",
+      "relies",
+      "magical",
+      "thinking",
+      "financial"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ffeba40dc3f76774",
+    "title": "Why Wall Street is fearful of more lending blow-ups",
+    "fetched_on": "2025-10-21T05:20:13.485106+00:00",
+    "content": "Why Wall Street is fearful of more lending blow-upsBoth banks and private-markets giants are on cockroach-watchI PROBABLY SHOULDNT say this, but when you see one cockroach, there are probably more. J… [+145 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wall",
+      "Street",
+      "fearful",
+      "SHOULDNT",
+      "lending",
+      "cockroach",
+      "blow-ups",
+      "blow-upsBoth",
+      "banks",
+      "private-markets"
+    ]
   }
 ]
