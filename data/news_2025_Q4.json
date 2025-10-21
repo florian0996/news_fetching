@@ -84481,5 +84481,125 @@
       "banks",
       "private-markets"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-21/ares-extends-debt-to-dubai-s-property-finder-in-gulf-credit-push",
+    "title": "Ares Extends Debt to Dubai’s Property Finder in Gulf Credit Push",
+    "fetched_on": "2025-10-21T06:31:28.901663+00:00",
+    "content": "Dubai-based Property Finder secured $250 million in debt from Ares Management, underlining the rising appeal of the United Arab Emirates’ real estate market to global institutional funds.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Property",
+      "Finder",
+      "Management",
+      "Debt",
+      "Extends",
+      "Dubai",
+      "Gulf",
+      "Credit",
+      "Push",
+      "Dubai-based"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/613b9d29a1a127e5",
+    "title": "Asian shares advance, with Japan's benchmark surging after new coalition",
+    "fetched_on": "2025-10-21T06:31:28.278386+00:00",
+    "content": "Asian markets have surged after Wall Street finished a winning week, overcoming worries over bank lending and the trade war with China\r\nThis story appeared on abcnews.go.com, 2025-10-20 05:52:17.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asian",
+      "Japan",
+      "Wall",
+      "Street",
+      "China",
+      "advance",
+      "week",
+      "overcoming",
+      "shares",
+      "benchmark"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20251020VL207/2025-industrial-robot-expo-robotics.html",
+    "title": "South Korea's FIX 2025 to showcase AI's industrial future",
+    "fetched_on": "2025-10-21T06:31:28.278386+00:00",
+    "content": "HD Hyundai Robotics booth at FIX 2024. Credit: FIXAll eyes are turning to Daegu, South Korea, as the 2025 Future Innovation Tech Expo, or FIX 2025, is set to open on October 22, 2025, at the EXCO cen… [+102 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FIX",
+      "South",
+      "Korea",
+      "Hyundai",
+      "Robotics",
+      "future",
+      "showcase",
+      "industrial",
+      "booth",
+      "Daegu"
+    ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/Business/wireStory/asian-shares-advance-japans-benchmark-surging-after-ruling-126671543",
+    "title": "Asian shares advance, with Japan's benchmark surging after new coalition",
+    "fetched_on": "2025-10-21T06:31:28.278386+00:00",
+    "content": "BANGKOK -- BANGKOK (AP) Asian markets surged Monday after Wall Street finished a winning week, overcoming worries over bank lending and the trade war with China. \r\nU.S. futures edged higher while oil… [+3959 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BANGKOK",
+      "Asian",
+      "China",
+      "Japan",
+      "Monday",
+      "Wall",
+      "Street",
+      "advance",
+      "week",
+      "overcoming"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/20/3169071/0/en/UAB-Orkela-concluded-a-EUR-40-million-credit-agreement-with-SEB-Bank.html",
+    "title": "UAB “Orkela” concluded a EUR 40 million credit agreement with SEB Bank",
+    "fetched_on": "2025-10-21T06:31:28.278386+00:00",
+    "content": "UAB Orkela, legal entity code 304099538, registered address Jogailos g. 4, Vilnius, Republic of Lithuania (hereinafter the Issuer), whose securities (hereinafter the Bonds) are included and traded on… [+556 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Orkela",
+      "UAB",
+      "EUR",
+      "SEB",
+      "Bank",
+      "Jogailos",
+      "Vilnius",
+      "hereinafter",
+      "concluded",
+      "million"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/fecb85dffc32a784",
+    "title": "European markets set to start the week higher, shrugging off credit concerns",
+    "fetched_on": "2025-10-21T06:31:28.278386+00:00",
+    "content": "European stocks are expected to start the new trading week on a positive note after a volatile few days.\r\nThis story appeared on cnbc.com, 2025-10-20 05:23:58.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "start",
+      "European",
+      "higher",
+      "shrugging",
+      "days",
+      "week",
+      "markets",
+      "set",
+      "credit",
+      "concerns"
+    ]
   }
 ]
