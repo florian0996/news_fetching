@@ -88603,5 +88603,85 @@
       "Solana-Themed",
       "Auto-Staking"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/bc5bf7fc39d23f02",
+    "title": "Outage at Amazon Web Services disrupts websites across the internet",
+    "fetched_on": "2025-10-21T22:17:49.397960+00:00",
+    "content": "Amazon's cloud computing service provides back-end support to many companies that operate online. When it has problems, so do they.(Image credit: Noah Berger)\r\nThis story appeared on npr.org, 2025-10… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amazon",
+      "Web",
+      "Outage",
+      "online",
+      "Services",
+      "service",
+      "2025-10",
+      "chars",
+      "Image",
+      "Noah"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/singapore/skillsfuture-credit-expire-training-skills-lifelong-learning-5394326",
+    "title": "Expiring S$500 SkillsFuture top-up: Lack of time, doubts about pay-off among reasons why 7 in 10 haven't used theirs",
+    "fetched_on": "2025-10-21T22:17:49.397960+00:00",
+    "content": "SINGAPORE: Unlike many others who have yet to tap their SkillsFuture credits, data analyst Randi Ang, 34, has used all of his credit on a course that allowed him to pivot to the technology sector fro… [+3052 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Lack",
+      "SINGAPORE",
+      "Unlike",
+      "Ang",
+      "Randi",
+      "SkillsFuture",
+      "Expiring",
+      "top-up",
+      "time"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=179838182",
+    "title": "US bank rout prompts deal speculation as credit worries loom - Reuters",
+    "fetched_on": "2025-10-21T22:17:49.397960+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "Print",
+      "Fine",
+      "loom",
+      "bank",
+      "rout",
+      "prompts",
+      "deal",
+      "speculation",
+      "credit"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/western-alliance-profit-rises-on-higher-interest-income-loanloss-fears-eased-4300374",
+    "title": "Western Alliance profit rises on higher interest income, loan-loss fears eased",
+    "fetched_on": "2025-10-21T22:18:10.329414+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alliance",
+      "Western",
+      "income",
+      "loan-loss",
+      "eased",
+      "profit",
+      "rises",
+      "higher",
+      "interest",
+      "fears"
+    ]
   }
 ]
