@@ -84181,5 +84181,85 @@
       "interest",
       "loan"
     ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/markets/muthoot-finance-target-price-hiked-31-percent-by-jefferies-amid-gold-price-rally",
+    "title": "Muthoot Finance Target Price Hiked 31% By Jefferies Amid Gold Price Rally",
+    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
+    "content": "Jefferies explains that the ongoing rally in gold prices should aid the company's loan growth while supporting margins.\r\nHigher gold prices should translate into faster loan growth, margin expansion,… [+380 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jefferies",
+      "Hiked",
+      "Rally",
+      "Gold",
+      "Finance",
+      "Target",
+      "Amid",
+      "Price",
+      "prices",
+      "loan"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/30430ab03e60113d",
+    "title": "Gen Z Credit Scores Plunge as Cost of Living Rises",
+    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
+    "content": "For members of Generation Z, its becoming harder and harder to maintain good credit.\r\nThat age group saw the steepest drop in credit health this year, The New York Times reported Saturday (Oct. 18), … [+134 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scores",
+      "Plunge",
+      "Cost",
+      "Living",
+      "Rises",
+      "Generation",
+      "Credit",
+      "harder",
+      "Gen",
+      "Oct."
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/china-leaves-key-lending-rates-unchanged-for-5th-straight-month-in-october-as-us-trade-tensions-simmer/articleshow/124697823.cms",
+    "title": "China leaves key lending rates unchanged for 5th straight month in October as US trade tensions simmer",
+    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
+    "content": "China left benchmark lending rates unchanged for the fifth consecutive month in October on Monday, meeting market expectations despite signs of slowing economic momentum.The decision to hold steady o… [+1466 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "chars",
+      "Monday",
+      "rates",
+      "unchanged",
+      "China",
+      "lending",
+      "month",
+      "straight",
+      "meeting"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/business/global-banks-bet-billions-on-india-deals-amid-us-credit-jitters",
+    "title": "Global Banks Bet Billions On India Deals Amid US Credit Jitters",
+    "fetched_on": "2025-10-21T03:06:38.924455+00:00",
+    "content": "A spate of billion-dollar deals for Indian banks has thrust the countrys financial sector into the global spotlight, at a time when US credit losses and trade tensions have rattled investors globally… [+1597 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Credit",
+      "Banks",
+      "Deals",
+      "Bet",
+      "Billions",
+      "India",
+      "Amid",
+      "Jitters",
+      "Indian"
+    ]
   }
 ]
