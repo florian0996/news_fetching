@@ -3,7 +3,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-21/debt-fund-defaults-in-uk-real-estate-soar-past-20-survey-shows",
     "title": "Debt Fund Defaults in UK Real Estate Soar Past 20%, Survey Shows",
-    "fetched_on": "2025-10-22T08:30:29.277175+00:00",
+    "fetched_on": "2025-10-22T09:24:23.423453+00:00",
     "content": "Alternative lenders to the UK commercial real estate sector saw their default rates climb past 20% in the first half of the year, revealing elevated risks in their portfolios, according to a survey of creditors by Bayes Business School.",
     "platforms_mentioned": [],
     "keywords": [
@@ -23,7 +23,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-21/boe-s-bailey-warns-of-financial-crisis-echoes-in-private-credit",
     "title": "BOE\u2019s Bailey Warns \u2018Alarm Bells\u2019 Ringing in Private Credit",
-    "fetched_on": "2025-10-22T08:30:29.081432+00:00",
+    "fetched_on": "2025-10-22T09:24:23.267450+00:00",
     "content": "The Bank of England warned of parallels between the $1.7 trillion private credit boom and the subprime debt crisis, as UK officials confirmed plans to subject the market to stress tests.",
     "platforms_mentioned": [],
     "keywords": [
@@ -43,7 +43,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-21/ratings-firms-should-reward-south-africa-s-gains-kganyago-says",
     "title": "South Africa May Exploit \u2018Cheap\u2019 Dollars to Build Reserves, Kganyago Says",
-    "fetched_on": "2025-10-22T08:30:29.081269+00:00",
+    "fetched_on": "2025-10-22T09:24:23.267307+00:00",
     "content": "South African Reserve Bank Governor Lesetja Kganyago urged credit-ratings companies to recognize the nation\u2019s improved financial position and indicated officials may use rand strength to boost reserves if the chance arises.",
     "platforms_mentioned": [],
     "keywords": [
@@ -63,7 +63,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-21/wells-fargo-ceo-says-worry-a-strong-word-about-private-credit",
     "title": "Wells Fargo CEO Says \u2018Worry\u2019 Is a Strong Word About Private Credit",
-    "fetched_on": "2025-10-22T08:30:29.277241+00:00",
+    "fetched_on": "2025-10-22T09:24:23.423519+00:00",
     "content": "Wells Fargo &amp; Co. Chief Executive Officer Charlie Scharf said risks surrounding the rapid growth of private credit shouldn\u2019t be painted with a broad brush and aren\u2019t causing major systemic issues among banks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -260,23 +260,18 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/personal-loan-mistakes-222203905.html",
     "title": "Are you making these personal loan mistakes without realizing it?",
-    "fetched_on": "2025-10-22T01:42:35.335701+00:00",
-    "content": "Theres a universal truth for every human: Each of us will make a mistake at some point. And unfortunately, money mistakes can be especially impactful. While personal loans can be an excellent financ... [+5337 chars]",
+    "fetched_on": "2025-10-22T09:24:44.957123+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "making",
-      "realizing",
       "personal",
-      "mistakes",
-      "human",
-      "point",
-      "chars",
       "loan",
-      "loans",
-      "money"
+      "mistakes",
+      "realizing"
     ]
   },
   {
@@ -446,7 +441,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-22T08:30:54.689708+00:00",
+    "fetched_on": "2025-10-22T09:24:43.079553+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -466,7 +461,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/21/capital-one-puts-credit-risk-worries-to-rest-delivers-a-strong-quarter-and-new-buyback.html",
     "title": "Capital One puts credit risk worries to rest, delivers a strong quarter and new buyback",
-    "fetched_on": "2025-10-22T08:30:55.217509+00:00",
+    "fetched_on": "2025-10-22T09:24:43.587000+00:00",
     "content": "The biggest takeaway from the quarter was better-than-expected credit performance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -486,7 +481,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/10/21/healthy-returns-a-key-step-forward-for-novo-nordisks-glp-1-pill.html",
     "title": "Healthy Returns: A key step forward for Novo Nordisk's GLP-1 pill",
-    "fetched_on": "2025-10-22T05:21:07.660327+00:00",
+    "fetched_on": "2025-10-22T09:24:43.587076+00:00",
     "content": "A closely watched pill from Novo Nordisk just scored an approval for slashing cardiovascular risks, while Mark Cuban gives Trump credit on drug prices.",
     "platforms_mentioned": [],
     "keywords": [
@@ -506,7 +501,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-22T08:30:55.701346+00:00",
+    "fetched_on": "2025-10-22T09:24:44.006296+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -526,7 +521,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html",
     "title": "\u2018The tide went out\u2019: How a string of bad loans has bank investors hunting for hidden risks",
-    "fetched_on": "2025-10-22T08:30:55.854329+00:00",
+    "fetched_on": "2025-10-22T09:24:44.162241+00:00",
     "content": "Investors are focused on a specific type of lending made by banks to non-depository financial institutions, or NDFIs, as the source of possible contagion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -546,7 +541,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html",
     "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
-    "fetched_on": "2025-10-22T08:30:55.854343+00:00",
+    "fetched_on": "2025-10-22T09:24:44.162255+00:00",
     "content": "Marc Pinto, the agency's head of global private credit, acknowledged in a CNBC interview that there are concerns over loose lending standards.",
     "platforms_mentioned": [],
     "keywords": [
@@ -566,7 +561,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html",
     "title": "Fintech startup Upgrade valued at $7.3 billion in new funding round",
-    "fetched_on": "2025-10-22T08:30:55.854384+00:00",
+    "fetched_on": "2025-10-22T09:24:44.162296+00:00",
     "content": "Upgrade raised $165 million in a new funding round that valued the fintech startup at $7.3 billion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -585,7 +580,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
     "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
-    "fetched_on": "2025-10-22T08:30:55.854447+00:00",
+    "fetched_on": "2025-10-22T09:24:44.162361+00:00",
     "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -605,7 +600,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html",
     "title": "Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures",
-    "fetched_on": "2025-10-22T08:30:55.854475+00:00",
+    "fetched_on": "2025-10-22T09:24:44.162388+00:00",
     "content": "Goldman Sachs is making the acquisition to bolster its $540 billion alternatives investment platform, part of the \"growth engine\" of the investment bank.",
     "platforms_mentioned": [],
     "keywords": [
@@ -625,7 +620,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/21/student-loan-help-during-government-shutdown-what-to-know.html",
     "title": "How to get student loan help during the government shutdown",
-    "fetched_on": "2025-10-22T08:30:56.037074+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328217+00:00",
     "content": "As the government shutdown drags on, federal student loan borrowers who can't get help with their account at the Education Department have other options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -645,7 +640,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/19/trump-student-loan-forgiveness.html",
     "title": "Trump administration agrees to deliver more student loan forgiveness",
-    "fetched_on": "2025-10-22T08:30:56.037109+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328249+00:00",
     "content": "The Trump administration has agreed to forgive student debt under income-driven repayment programs it had partially blocked.",
     "platforms_mentioned": [],
     "keywords": [
@@ -665,7 +660,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/student-loan-borrowers-government-shutdown.html",
     "title": "What student loan borrowers can and can't do, as the government shutdown stretches on",
-    "fetched_on": "2025-10-22T08:30:56.037124+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328263+00:00",
     "content": "Despite the government shutdown, student loan borrowers should be able to complete most necessary tasks with the company managing their debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -685,7 +680,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
     "title": "Why some credit card APRs aren\u2019t coming down, even after a Fed rate cut",
-    "fetched_on": "2025-10-22T08:30:56.037144+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328285+00:00",
     "content": "Sky-high credit card rates won't come down much, even as the Federal Reserve lowers its benchmark.",
     "platforms_mentioned": [],
     "keywords": [
@@ -705,7 +700,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/government-shutdown-delays-student-loan-forgiveness-lawsuit.html",
     "title": "Student loan forgiveness lawsuit on hold during government shutdown \u2014 what borrowers need to know",
-    "fetched_on": "2025-10-22T08:30:56.037153+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328294+00:00",
     "content": "A union lawsuit against Trump officials regarding blocked student loan forgiveness is paused due to the government shutdown. Here's what borrowers need to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -725,7 +720,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/trump-student-loan-forgiveness-who-qualifies.html",
     "title": "Here's who qualifies for the Trump administration's latest round of student loan forgiveness",
-    "fetched_on": "2025-10-22T08:30:56.037167+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328308+00:00",
     "content": "Federal student loan borrowers have been getting emails from the Education Department that their debt will be forgiven. Here's who qualifies for the relief.",
     "platforms_mentioned": [],
     "keywords": [
@@ -745,7 +740,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/more-student-loan-borrowers-risk-default-as-late-payments-rise.html",
     "title": "Millions of student loan borrowers at risk of default as late payments climb",
-    "fetched_on": "2025-10-22T08:30:56.037174+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328316+00:00",
     "content": "Student loan borrowers who are behind on their payments will be pushed into default in coming months, says Moody's Analytics economist Justin Begley.",
     "platforms_mentioned": [],
     "keywords": [
@@ -765,7 +760,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-22T08:30:56.037195+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328337+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -785,7 +780,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
     "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-    "fetched_on": "2025-10-22T08:30:56.037262+00:00",
+    "fetched_on": "2025-10-22T09:24:44.328405+00:00",
     "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
     "platforms_mentioned": [],
     "keywords": [
@@ -885,7 +880,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/mortgages/article/cltv-combined-loan-to-value-ratio-164647855.html",
     "title": "What is combined loan-to-value ratio (CLTV), and why should homeowners care?",
-    "fetched_on": "2025-10-22T05:21:08.933499+00:00",
+    "fetched_on": "2025-10-22T09:24:44.957284+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1000,7 +995,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-22/saudi-fund-with-3-billion-mandate-plans-boosting-private-credit",
     "title": "Saudi Fund With $3 Billion Mandate Plans Boosting Private Credit",
-    "fetched_on": "2025-10-22T08:30:28.723497+00:00",
+    "fetched_on": "2025-10-22T09:24:22.963059+00:00",
     "content": "Saudi state-backed investor, Saudi Venture Capital, is reshaping its $3 billion investment strategy to channel more money into private credit funds, betting the asset class will capture a larger share of business in the kingdom.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1020,7 +1015,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-22/unicredit-profit-beats-as-orcel-reaps-dividends-from-investments",
     "title": "UniCredit\u2019s Beat Fails to Sway Investors as Italy Bank Tax Looms",
-    "fetched_on": "2025-10-22T08:30:29.277062+00:00",
+    "fetched_on": "2025-10-22T09:24:23.423352+00:00",
     "content": "UniCredit SpA\u2019s higher profit and revenue in third-quarter failed to impress investors, underscoring the challenges for Chief Executive Officer Andrea Orcel after his unsuccessful bid for Banco BPM SpA.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1160,7 +1155,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-22/handelsbanken-profit-meets-expectations-as-lending-volumes-grow",
     "title": "Handelsbanken Profit Meets Expectations as Loan Volumes Grow",
-    "fetched_on": "2025-10-22T08:30:29.277121+00:00",
+    "fetched_on": "2025-10-22T09:24:23.423399+00:00",
     "content": "Svenska Handelsbanken AB reported third-quarter profit from lending that was broadly in line with analyst expectations, as growth in loan volumes across its markets helped offset the impact of falling interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1180,7 +1175,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/15d922a8afa47d7a",
     "title": "Ares Extends Debt to Dubai\u2019s Property Finder in Gulf Credit Push",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Amazon Web Services have a major outage? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Japan's new fem\u2026 [+756 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1297,7 +1292,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-22/barclays-ceo-on-earnings-trading-unit-private-credit-video",
     "title": "Barclays CEO on Earnings, Trading Unit, Private Credit",
-    "fetched_on": "2025-10-22T08:30:28.723458+00:00",
+    "fetched_on": "2025-10-22T09:24:22.963022+00:00",
     "content": "Barclays Plc Chief Executive Officer C.S. Venkatakrishnan discusses third-quarter results, the performance of the lender\u2019s investment banking unit and the outlook for the private credit market. Barclays reported equities revenue of \u00a3689 million ($919 million), falling short of analyst expectations, while fixed income traders fared better than expected with revenue of \u00a31.26 billion. The bank also said it was bringing forward its capital distribution plans, announcing a \u00a3500 million share buyback",
     "platforms_mentioned": [],
     "keywords": [
@@ -1317,7 +1312,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-22/barclays-reviewed-loan-portfolio-after-getting-stung-by-tricolor",
     "title": "Barclays Reviewed Loan Book After Getting Stung by Tricolor",
-    "fetched_on": "2025-10-22T08:30:29.277081+00:00",
+    "fetched_on": "2025-10-22T09:24:23.423360+00:00",
     "content": "Barclays Plc has conducted a review of its entire loan portfolio after the British lender was stung by the chaotic collapse of Tricolor Holdings.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1337,7 +1332,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/news/jammu-kashmir-bank-ltd-bom-070101765.html",
     "title": "Jammu & Kashmir Bank Ltd (BOM:532209) Q2 2026 Earnings Call Highlights: Strong Loan Growth ...",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "This article first appeared on GuruFocus.\r\nRelease Date: October 18, 2025\r\nFor the complete transcript of the earnings call, please refer to the full earnings call transcript.\r\n<ul><li>Jammu &amp; Ka\u2026 [+3488 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1357,7 +1352,7 @@
     "source": "Europa.eu [NewsAPI]",
     "url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251021~a757abf975.en.html",
     "title": "Philip R. Lane: The transmission of monetary policy: financial conditions and credit dynamics",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "Frankfurt am Main, 21 October 2025\r\nIt is an honour to participate in the fifth edition of the WE_ARE_IN Macroeconomics and Finance Conference and I congratulate the organising committee for putting \u2026 [+41798 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1377,7 +1372,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/news/international/us/why-are-the-majority-of-americans-struggling-to-keep-up-with-auto-loan-payments-has-it-become-the-riskiest-credit-product/articleshow/124715895.cms",
     "title": "Why are the majority of Americans struggling to keep up with auto loan payments - Has it become the riskiest credit product?",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "Rising car prices, high interest rates, and stagnant wages are leaving many Americans struggling to keep up with auto loan payments. The average monthly payment for new vehicles has climbed to record\u2026 [+3579 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1397,7 +1392,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-22/oaktree-lines-up-private-debt-for-perpetual-wealth-unit-takeover",
     "title": "Oaktree Lines Up Private Debt for Perpetual Wealth Unit Takeover",
-    "fetched_on": "2025-10-22T08:30:28.274273+00:00",
+    "fetched_on": "2025-10-22T09:24:22.570504+00:00",
     "content": "Oaktree Capital Management LP is tapping private credit to fund its proposed purchase of Australian fund manager Perpetual Ltd.\u2019s wealth management unit, according to people familiar with the matter.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1417,7 +1412,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/4e7404b847c3b04b",
     "title": "Synchrony Rides Walmart Alliance to No. 1 in Credit Card Apps",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "What a difference Walmart makes. Thats one of the takeaways from our focus for this weeks app provider rankings: Credit card apps. MySynchrony led our most recent sweep of data on app usage and found\u2026 [+142 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1437,7 +1432,7 @@
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/companies/start-ups/lightrock-olyv-unitus-capital-fresh-funding-11760930379887.html",
     "title": "Lightrock-backed personal lending Olyv taps Unitus Capital for fresh $20 million fundraise",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "Lightrock-backed personal lending platform Olyv, formerly known as SmartCoin, has appointed Unitus Capital to raise fresh funds, three people aware of the development said.\r\nThe new funding round is \u2026 [+1836 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1457,7 +1452,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/a4c5b335a3270c2c",
     "title": "Dollar Rises as Fears Over U.S.-China Tensions, Credit Conditions Ease",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Amazon Web Services outage today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Japan elect its fir\u2026 [+797 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1477,7 +1472,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://finance.yahoo.com/news/stocks-rise-gold-dips-investors-081112583.html",
     "title": "Stocks rise and gold dips as investors recover risk appetite",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "By Amanda Cooper\r\nLONDON (Reuters) -Stocks rose on Tuesday, taking comfort from a possible easing in trade tensions between the U.S. and China and as nerves over credit risks in the banking sector eb\u2026 [+3902 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1497,7 +1492,7 @@
     "source": "Edsurge.com [NewsAPI]",
     "url": "https://www.edsurge.com/news/2025-10-21-wi-fi-hot-spot-lending-program-scrapped-leaving-libraries-scrambling",
     "title": "Wi-Fi Hot Spot Lending Program Scrapped, Leaving Libraries Scrambling",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "For the last six years, patrons of the Brown County Public Library, nestled in rural Ohio, checked out portable Wi-Fi hot spots in droves. The 60 hot spots circulated more than 1,300 times a year, us\u2026 [+8734 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1517,7 +1512,7 @@
     "source": "Sky.com [NewsAPI]",
     "url": "https://news.sky.com/story/bank-tax-could-hurt-households-and-business-lending-uks-biggest-mortgage-provider-says-13454304",
     "title": "Bank tax could hurt households and business lending, UK's biggest mortgage provider says",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "The chief executive of Lloyds Banking Group has warned that a tax raid on the banks could harm lending to households and businesses.\r\nIn an exclusive interview with Sky News at the government's regio\u2026 [+3542 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1537,7 +1532,7 @@
     "source": "pymnts.com [NewsAPI]",
     "url": "https://www.pymnts.com/mobile-applications/2025/synchrony-rides-walmart-alliance-to-no-1-in-credit-card-apps/",
     "title": "Synchrony Rides Walmart Alliance to No. 1 in Credit Card Apps",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "What a difference Walmart makes. Thats one of the takeaways from our focus for this weeks app provider rankings: Credit card apps. MySynchrony led our most recent sweep of data on app usage and found\u2026 [+4445 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1557,7 +1552,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/15f4e0433c697f53",
     "title": "US bank rout prompts deal speculation as credit worries loom",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Amazon Web Services outage today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Japan elect its fir\u2026 [+743 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1577,7 +1572,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/61dbc47c9968c977",
     "title": "Asian stocks soar as trade tensions, credit worries ease",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Amazon Web Services outage today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Japan elect its fir\u2026 [+712 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1597,7 +1592,7 @@
     "source": "Slashdot.org [NewsAPI]",
     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=179841068",
     "title": "Asian stocks soar as trade tensions, credit worries ease - Reuters",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1617,7 +1612,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/cde0bf638ecff431",
     "title": "UK Explores Private Credit Stress Tests as Risk Worries Grow",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Amazon Web Services have a major outage? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Japan's new fem\u2026 [+752 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1637,7 +1632,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/977772396b55085b",
     "title": "Sezzle: A Risky Cocktail Of Slowing Growth, Expensive Valuation, And Deteriorating Credit",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "Analysts Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this art\u2026 [+147 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1657,7 +1652,7 @@
     "source": "OilPrice.com [NewsAPI]",
     "url": "https://oilprice.com/Latest-Energy-News/World-News/Venture-Global-Moves-Closer-to-Unofficial-Launch-at-Plaquemines.html",
     "title": "Venture Global Moves Closer to Unofficial Launch at Plaquemines",
-    "fetched_on": "2025-10-22T08:30:27.448124+00:00",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
     "content": "Output is projected to rise\u2026\r\nWith President Trumps credit lines\u2026\r\nBy Irina Slav - Oct 21, 2025, 2:22 AM CDTVenture Global is ready to start feeding natural gas into its second LNG plant, Plaquemines\u2026 [+1987 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1697,7 +1692,7 @@
     "source": "All Finance [RSS]",
     "url": "https://www.wsj.com/finance/banking/zions-logs-higher-third-quarter-profit-despite-50-million-charge-8d38e852?siteid=yhoof2&yptr=yahoo",
     "title": "Zions Profit \u2018Marred\u2019 by Charge Tied to Bad Loans",
-    "fetched_on": "2025-10-22T08:30:56.767111+00:00",
+    "fetched_on": "2025-10-22T09:24:44.957099+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1708,6 +1703,165 @@
       "Tied",
       "Bad",
       "Zions"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-22/orcel-says-unicredit-is-able-to-mitigate-hit-from-italy-bank-tax",
+    "title": "Orcel Says UniCredit Is Able to Mitigate Hit From Italy Bank Tax",
+    "fetched_on": "2025-10-22T09:24:22.766613+00:00",
+    "content": "UniCredit SpA Chief Executive Officer Andrea Orcel said the Italian lender should be able to mitigate any hit from a plan by the government to raise more money from banks.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mitigate",
+      "Hit",
+      "Orcel",
+      "Italy",
+      "Tax",
+      "Chief",
+      "Executive",
+      "Officer",
+      "Andrea",
+      "Italian"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-22/french-debt-still-a-buy-with-ecb-seen-as-backstop-amova-says",
+    "title": "French Debt Still a Buy With ECB Seen as Backstop, Amova Says",
+    "fetched_on": "2025-10-22T09:24:22.570448+00:00",
+    "content": "Amova Asset Management has been snapping up French government bonds, betting the country is \u201ctoo big to fail\u201d even as ratings companies slash its credit score.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Backstop",
+      "Amova",
+      "French",
+      "Debt",
+      "Buy",
+      "ECB",
+      "Asset",
+      "Management",
+      "bonds",
+      "betting"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-10-22/stock-movers-unicredit-adidas-itv-podcast",
+    "title": "Stock Movers: UniCredit, Adidas, ITV (Podcast)",
+    "fetched_on": "2025-10-22T09:24:22.962947+00:00",
+    "content": "Source: Bloomberg, 4:17",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Adidas",
+      "ITV",
+      "Podcast",
+      "Source",
+      "Bloomberg",
+      "UniCredit",
+      "4:17",
+      "Movers",
+      "Stock"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a1133c2cd53fe163",
+    "title": "Stocks rise and gold dips as investors recover risk appetite",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
+    "content": "By Amanda CooperLONDON (Reuters) -Stocks rose on Tuesday, taking comfort from a possible easing in trade tensions between the U.S. and China and as nerves over credit risks in the banking sector ebbe\u2026 [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "Stocks",
+      "chars",
+      "Tuesday",
+      "Amanda",
+      "China",
+      "CooperLONDON",
+      "taking",
+      "ebbe",
+      "rise"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/387161/temasek-backed-impact-investment-firm-abc-impact-dbs-and-uob-partner-on-sustainability-linked-subscription",
+    "title": "Temasek-backed impact investment firm ABC Impact, DBS and UOB partner on sustainability-linked subscription",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
+    "content": "Transforms conventional loan facility into an innovative tool that drives measurable social and environmental outcomesSingapore (ANTARA/PRNewswire)- ABC Impact, an impact investing firm backed by Tem\u2026 [+9218 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "impact",
+      "ABC",
+      "ANTARA",
+      "DBS",
+      "Tem",
+      "PRNewswire",
+      "chars",
+      "UOB",
+      "Transforms",
+      "firm"
+    ]
+  },
+  {
+    "source": "Bitcoinist [NewsAPI]",
+    "url": "https://bitcoinist.com/gemini-unveils-new-credit-card-solana-rewards/",
+    "title": "Winklevoss-Led Gemini Exchange Unveils New Credit Card Featuring Solana Rewards",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
+    "content": "Gemini (GEMI), the cryptocurrency exchange founded by billionaire twins Cameron and Tyler Winklevoss, has officially launched the Solana (SOL) edition of its credit card on October 20, enabling custo\u2026 [+2644 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GEMI",
+      "SOL",
+      "chars",
+      "Winklevoss",
+      "October",
+      "Gemini",
+      "Solana",
+      "Credit",
+      "Card",
+      "Exchange"
+    ]
+  },
+  {
+    "source": "Washington Monthly [NewsAPI]",
+    "url": "http://washingtonmonthly.com/2025/10/21/russia-through-a-feminist-lens/",
+    "title": "Russia Through a Feminist Lens",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
+    "content": "Its almost as difficult to say something new about Russia as it is to write an original biography of Abraham Lincoln. To her credit, Julia Ioffe comes close with Motherland: A Feminist History of Mod\u2026 [+9175 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lincoln",
+      "Russia",
+      "Feminist",
+      "Lens",
+      "Abraham",
+      "difficult",
+      "write",
+      "original",
+      "biography",
+      "Julia"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/21/3169980/0/en/Same-Day-Loan-Guaranteed-Approval-RadCred-Offers-Urgent-Loans-for-Bad-Credit-Guaranteed-Approval-with-Instant-Matching.html",
+    "title": "Same Day Loan Guaranteed Approval: RadCred Offers Urgent Loans for Bad Credit Guaranteed Approval with Instant Matching",
+    "fetched_on": "2025-10-22T09:24:21.941835+00:00",
+    "content": "Glendale, CA, Oct. 21, 2025 (GLOBE NEWSWIRE) -- RadCred has launched its expanded same day loan program offering fast approval and guaranteed funding for bad credit borrowers through a streamlined on\u2026 [+12518 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct.",
+      "Guaranteed",
+      "Approval",
+      "Day",
+      "Bad",
+      "Credit",
+      "Glendale",
+      "GLOBE",
+      "NEWSWIRE",
+      "RadCred"
     ]
   }
 ]
