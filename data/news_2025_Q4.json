@@ -88964,5 +88964,100 @@
       "worries",
       "strong"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-wavers-with-politics-and-trade-tensions-in-focus/articleshow/124712390.cms",
+    "title": "US dollar wavers with politics and trade tensions in focus",
+    "fetched_on": "2025-10-22T03:12:02.319237+00:00",
+    "content": "The dollar edged higher against the yen on Monday as investors shifted their focus to political developments in Japan and the euro area, while U.S. credit risk concerns lingered.The yen edged lower a… [+3303 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Monday",
+      "Japan",
+      "dollar",
+      "focus",
+      "edged",
+      "yen",
+      "area",
+      "credit",
+      "wavers"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/10/20/nyt-mini-crossword-clues-and-answers-for-tuesday-october-21/",
+    "title": "NYT Mini Crossword Clues And Answers For Tuesday, October 21",
+    "fetched_on": "2025-10-22T03:12:02.319237+00:00",
+    "content": "How to solve today's Mini crossword.\r\nCredit: NYT\r\nHaving trouble with some of todays peskier NYT Mini Crossword clues? Look no further, oh my puzzle-solving kindred. Help is here! Its another lovely… [+3424 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "Mini",
+      "Crossword",
+      "NYT",
+      "Tuesday",
+      "Answers",
+      "Clues",
+      "solve",
+      "Credit",
+      "today"
+    ]
+  },
+  {
+    "source": "CleanTechnica [NewsAPI]",
+    "url": "https://cleantechnica.com/2025/10/20/in-the-us-electric-vehicles-just-keep-insisting-upon-themselves/",
+    "title": "In The US, Electric Vehicles Just Keep Insisting Upon Themselves",
+    "fetched_on": "2025-10-22T03:12:02.319237+00:00",
+    "content": "Support CleanTechnica's work through a Substack subscription or on Stripe.\r\nStormy seas lie ahead for the electric vehicle transition in the US now that the federal tax credit has met a hasty and pre… [+7991 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stripe",
+      "Insisting",
+      "Support",
+      "Substack",
+      "Electric",
+      "CleanTechnica",
+      "work",
+      "subscription",
+      "Vehicles",
+      "vehicle"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/kiwi-businesses-affected-by-major-amazon-web-services-outage/Z5ZKQPY52VCI7EFVAMD73UI2ZA/",
+    "title": "Kiwi businesses affected by major Amazon Web Services outage",
+    "fetched_on": "2025-10-22T03:12:02.319237+00:00",
+    "content": "For example bank feeds have not occurred and reconciliation of accounts isnt possible. The 20th of the month is still a big day for credit and debit processing the transactions will have gone through… [+1252 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amazon",
+      "Web",
+      "Services",
+      "Kiwi",
+      "businesses",
+      "affected",
+      "major",
+      "outage",
+      "bank",
+      "feeds"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/cltv-combined-loan-to-value-ratio-164647855.html",
+    "title": "What is combined loan-to-value ratio (CLTV), and why should homeowners care?",
+    "fetched_on": "2025-10-22T03:12:29.366711+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CLTV",
+      "ratio",
+      "combined",
+      "care",
+      "homeowners"
+    ]
   }
 ]
