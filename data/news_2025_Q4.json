@@ -93138,5 +93138,65 @@
       "Record",
       "Twits"
     ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/maple-finance-stablecoins-aave-lending-markets",
+    "title": "Maple Finance stablecoins debut on Aave’s onchain lending markets",
+    "fetched_on": "2025-10-22T22:16:27.425685+00:00",
+    "content": "Lending protocol Aave has partnered with onchain credit platform Maple Finance to connect institutional capital with decentralized liquidity. \r\nAnnounced on Tuesday, the integration will introduce Ma… [+2228 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "Aave",
+      "Maple",
+      "lending",
+      "liquidity",
+      "onchain",
+      "Tuesday",
+      "chars",
+      "stablecoins",
+      "debut"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f3bb4ee0d2333b3a",
+    "title": "Zions Bank CEO worries about private credit as he defends bank from concerns about bad loans",
+    "fetched_on": "2025-10-22T22:16:27.425685+00:00",
+    "content": "If I think theres a risk out there, I think its probably in private credit, said Harris Simmons, CEO of Zions Bancorp., which operates California Bank &amp; Trust.\r\nThis story appeared on bizjournals… [+25 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trust",
+      "Bank",
+      "CEO",
+      "Simmons",
+      "Bancorp.",
+      "Zions",
+      "Harris",
+      "California",
+      "private",
+      "credit"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/review/alumnifi-review-213723546.html",
+    "title": "AlumniFi review (2025): High-interest online checking and savings accounts college grads",
+    "fetched_on": "2025-10-22T22:16:27.425685+00:00",
+    "content": "Summary: AlumniFi is the online division of Michigan State University Federal Credit Union. It offers online checking and savings accounts geared toward college and university graduates.\r\nAlumniFis c… [+3706 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "High-interest",
+      "Summary",
+      "Union",
+      "Michigan",
+      "State",
+      "Federal",
+      "Credit",
+      "checking",
+      "savings",
+      "online"
+    ]
   }
 ]
