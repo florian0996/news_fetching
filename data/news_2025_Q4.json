@@ -89456,5 +89456,105 @@
       "Stocks",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-22/barclays-ceo-on-earnings-trading-unit-private-credit-video",
+    "title": "Barclays CEO on Earnings, Trading Unit, Private Credit",
+    "fetched_on": "2025-10-22T07:20:13.232222+00:00",
+    "content": "Barclays Plc Chief Executive Officer C.S. Venkatakrishnan discusses third-quarter results, the performance of the lender’s investment banking unit and the outlook for the private credit market. Barclays reported equities revenue of £689 million ($919 million), falling short of analyst expectations, while fixed income traders fared better than expected with revenue of £1.26 billion. The bank also said it was bringing forward its capital distribution plans, announcing a £500 million share buyback",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earnings",
+      "Trading",
+      "CEO",
+      "Plc",
+      "Chief",
+      "Executive",
+      "Officer",
+      "Private",
+      "Credit",
+      "Unit"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-22/barclays-reviewed-loan-portfolio-after-getting-stung-by-tricolor",
+    "title": "Barclays Reviewed Loan Portfolio After Getting Stung by Tricolor",
+    "fetched_on": "2025-10-22T07:20:13.794823+00:00",
+    "content": "Barclays Plc has conducted a review of its entire loan portfolio after the British lender was stung by the chaotic collapse of Tricolor Holdings.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Portfolio",
+      "Holdings",
+      "Tricolor",
+      "Loan",
+      "Stung",
+      "Barclays",
+      "Reviewed",
+      "Plc",
+      "British",
+      "conducted"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/jammu-kashmir-bank-ltd-bom-070101765.html",
+    "title": "Jammu & Kashmir Bank Ltd (BOM:532209) Q2 2026 Earnings Call Highlights: Strong Loan Growth ...",
+    "fetched_on": "2025-10-22T07:20:11.911667+00:00",
+    "content": "This article first appeared on GuruFocus.\r\nRelease Date: October 18, 2025\r\nFor the complete transcript of the earnings call, please refer to the full earnings call transcript.\r\n<ul><li>Jammu &amp; Ka… [+3488 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BOM",
+      "Kashmir",
+      "Highlights",
+      "Strong",
+      "Growth",
+      "Jammu",
+      "Bank",
+      "Loan",
+      "Earnings",
+      "Call"
+    ]
+  },
+  {
+    "source": "Europa.eu [NewsAPI]",
+    "url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251021~a757abf975.en.html",
+    "title": "Philip R. Lane: The transmission of monetary policy: financial conditions and credit dynamics",
+    "fetched_on": "2025-10-22T07:20:11.911667+00:00",
+    "content": "Frankfurt am Main, 21 October 2025\r\nIt is an honour to participate in the fifth edition of the WE_ARE_IN Macroeconomics and Finance Conference and I congratulate the organising committee for putting … [+41798 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "Lane",
+      "Main",
+      "chars",
+      "Frankfurt",
+      "Macroeconomics",
+      "Finance",
+      "Conference",
+      "Philip",
+      "policy"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/why-are-the-majority-of-americans-struggling-to-keep-up-with-auto-loan-payments-has-it-become-the-riskiest-credit-product/articleshow/124715895.cms",
+    "title": "Why are the majority of Americans struggling to keep up with auto loan payments - Has it become the riskiest credit product?",
+    "fetched_on": "2025-10-22T07:20:11.911667+00:00",
+    "content": "Rising car prices, high interest rates, and stagnant wages are leaving many Americans struggling to keep up with auto loan payments. The average monthly payment for new vehicles has climbed to record… [+3579 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "struggling",
+      "auto",
+      "loan",
+      "product",
+      "majority",
+      "riskiest",
+      "credit",
+      "payments",
+      "chars"
+    ]
   }
 ]
