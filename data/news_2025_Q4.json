@@ -94121,5 +94121,105 @@
       "Bull",
       "Price"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/22/3170868/0/en/mBank-and-PGGM-enter-into-PLN-3-8-billion-credit-risk-sharing-transaction-backed-by-financing-to-the-renewable-energy-sector.html",
+    "title": "mBank and PGGM enter into PLN 3.8 billion credit risk sharing transaction backed by financing to the renewable energy sector",
+    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "content": "WARSAW, Poland, Oct. 22, 2025 (GLOBE NEWSWIRE) -- mBank and PGGM have entered into a credit risk sharing transaction referencing a PLN 3.8 billion portfolio of corporate loans in Poland. Approximatel… [+4202 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PLN",
+      "Poland",
+      "Oct.",
+      "PGGM",
+      "mBank",
+      "WARSAW",
+      "GLOBE",
+      "NEWSWIRE",
+      "billion",
+      "risk"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://www.usatoday.com/story/money/2025/10/22/government-shutdown-economic-effects-gdp-workers/86818177007/",
+    "title": "Shutdowns don't usually have a lasting economic impact. Is this one different?",
+    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "content": "Even when discussions in Congress grind to a halt, much of the governments economic machinery keeps running.\r\nSocial Security benefits still go out, student loan payments are collected, and essential… [+8308 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shutdowns",
+      "impact",
+      "lasting",
+      "economic",
+      "chars",
+      "Congress",
+      "Security",
+      "halt",
+      "running",
+      "Social"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/piaget-debuts-limited-edition-andy-warhol-timepiece/",
+    "title": "Piaget debuts Andy Warhol timepiece",
+    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "content": "Watches and jewelry\r\nOctober 22, 2025\r\n In 2024, Piaget renamed the Black Tie watch the Andy Warhol watch after signing a licensing contract with The Andy Warhol Foundation. Image credit: Piaget \r\n B… [+7953 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Andy",
+      "Warhol",
+      "Piaget",
+      "October",
+      "Foundation",
+      "Watches",
+      "Black",
+      "Tie",
+      "watch",
+      "debuts"
+    ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2025/10/22/g-s1-93736/parcels-tiny-desk-concert",
+    "title": "Parcels: Tiny Desk Concert",
+    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "content": "Credit: Photo: Alanté Serene\r\nParcels\r\n does not shy away from abundance. The Australian quintet's songs often feature a myriad of guitars, rivaling piano and synths, slinky basslines, pulsing drums … [+2537 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Photo",
+      "Tiny",
+      "Credit",
+      "Alanté",
+      "Parcels",
+      "Desk",
+      "Concert",
+      "Serene",
+      "abundance",
+      "chars"
+    ]
+  },
+  {
+    "source": "Travelupdate.com [NewsAPI]",
+    "url": "https://travelupdate.com/why-the-amex-platinum-card-is-no-longer-a-premium-travel-credit-card/",
+    "title": "Why the Amex Platinum Card is no longer a premium travel credit card",
+    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "content": "Disclosure: The Points Pundit receives NO compensation from credit card affiliate partnerships. Support the blog by applying for a card through my personal referral links. This article is meant for i… [+4236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disclosure",
+      "Card",
+      "Amex",
+      "Platinum",
+      "Points",
+      "Pundit",
+      "credit",
+      "partnerships",
+      "longer",
+      "premium"
+    ]
   }
 ]
