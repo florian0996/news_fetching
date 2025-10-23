@@ -93638,5 +93638,45 @@
       "Tight",
       "Governor"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/when-should-you-avoid-using-a-credit-card-for-payments-11760964674677.html",
+    "title": "When should you avoid using a credit card, even if it seems convenient?",
+    "fetched_on": "2025-10-23T04:24:47.999752+00:00",
+    "content": "Using a credit card for miscellaneous payments is quite normal these days. Whether it's paying a bill at a restaurant, making travel bookings, joining a gym, or subscribing to video streaming service… [+2098 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "card",
+      "convenient",
+      "avoid",
+      "days",
+      "chars",
+      "miscellaneous",
+      "payments",
+      "normal",
+      "restaurant"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/jeffbenjamin/2025/10/21/kakao-stocks-rise-as-founder-cleared-of-sm-entertainment-manipulation/",
+    "title": "Kakao Stocks Rise As Founder Cleared Of SM Entertainment Manipulation",
+    "fetched_on": "2025-10-23T04:24:47.999752+00:00",
+    "content": "SUQIAN, CHINA - JULY 18, 2024 - Illustration Kakao to sell SM and other subsidiaries, Suqian, Jiangsu province, China, July 18, 2024. (Photo credit should read CFOTO/Future Publishing via Getty Image… [+5847 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CHINA",
+      "JULY",
+      "SUQIAN",
+      "Illustration",
+      "Jiangsu",
+      "Kakao",
+      "Stocks",
+      "Rise",
+      "Founder",
+      "Cleared"
+    ]
   }
 ]
