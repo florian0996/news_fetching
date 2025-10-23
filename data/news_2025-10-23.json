@@ -63,7 +63,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-22/chanos-says-lots-of-red-flags-at-carvana-amid-auto-loan-woes",
     "title": "Carvana Raises \u2018Lots of Red Flags\u2019 Amid Auto Loan Woes, Chanos Says",
-    "fetched_on": "2025-10-23T09:23:26.280960+00:00",
+    "fetched_on": "2025-10-23T10:23:15.702034+00:00",
     "content": "Carvana Co. raises \u201clots of red flags,\u201d especially after the recent implosion of auto lender Tricolor Holdings, says famed short-seller Jim Chanos, who has singled out the online car retailer over the past several years.",
     "platforms_mentioned": [],
     "keywords": [
@@ -280,23 +280,17 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/personal-loan-for-home-improvements-231624444.html",
     "title": "How to use a personal loan for home improvements",
-    "fetched_on": "2025-10-23T03:04:26.556898+00:00",
-    "content": "Youve finally had enough: It's time to replace those old tile countertops, drafty windows, or ancient water heater. Whatever your design dream is, home renovations can breathe new life into your prop... [+8565 chars]",
+    "fetched_on": "2025-10-23T10:23:36.154198+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Youve",
-      "countertops",
-      "drafty",
-      "windows",
-      "heater",
-      "chars",
-      "home",
+      "improvements",
       "personal",
       "loan",
-      "improvements"
+      "home"
     ]
   },
   {
@@ -586,7 +580,7 @@
     "source": "Investing.com (English) [RSS]",
     "url": "https://www.investing.com/news/stock-market-news/teslas-record-revenue-tops-forecasts-as-tax-credit-expiry-drives-us-ev-sales-4302719",
     "title": "Tesla profit falls short despite record sales, hit by higher costs and fading credits",
-    "fetched_on": "2025-10-23T03:04:38.016944+00:00",
+    "fetched_on": "2025-10-23T10:23:25.913204+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -606,7 +600,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-23T09:23:41.866041+00:00",
+    "fetched_on": "2025-10-23T10:23:34.773727+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -626,7 +620,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html",
     "title": "Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue",
-    "fetched_on": "2025-10-23T09:23:42.524529+00:00",
+    "fetched_on": "2025-10-23T10:23:35.777491+00:00",
     "content": "Regional banks are getting a reprieve this week after Western Alliance and Zions reported results that didn't include any new loan meltdowns.",
     "platforms_mentioned": [],
     "keywords": [
@@ -646,7 +640,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/refinance-demand-is-81percent-higher-than-it-was-a-year-ago-thanks-to-falling-mortgage-rates.html",
     "title": "Refinance demand is 81% higher than it was a year ago, thanks to falling mortgage rates",
-    "fetched_on": "2025-10-23T09:23:42.404626+00:00",
+    "fetched_on": "2025-10-23T10:23:35.699310+00:00",
     "content": "Sliding mortgage rates are pushing more current borrowers to refinance and also juicing demand for adjustable-rate loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -666,7 +660,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-23T09:23:42.404698+00:00",
+    "fetched_on": "2025-10-23T10:23:35.699378+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -686,7 +680,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html",
     "title": "\u2018The tide went out\u2019: How a string of bad loans has bank investors hunting for hidden risks",
-    "fetched_on": "2025-10-23T09:23:42.524611+00:00",
+    "fetched_on": "2025-10-23T10:23:35.777573+00:00",
     "content": "Investors are focused on a specific type of lending made by banks to non-depository financial institutions, or NDFIs, as the source of possible contagion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -706,7 +700,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html",
     "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
-    "fetched_on": "2025-10-23T09:23:42.524625+00:00",
+    "fetched_on": "2025-10-23T10:23:35.777587+00:00",
     "content": "Marc Pinto, the agency's head of global private credit, acknowledged in a CNBC interview that there are concerns over loose lending standards.",
     "platforms_mentioned": [],
     "keywords": [
@@ -726,7 +720,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html",
     "title": "Fintech startup Upgrade valued at $7.3 billion in new funding round",
-    "fetched_on": "2025-10-23T09:23:42.524670+00:00",
+    "fetched_on": "2025-10-23T10:23:35.777631+00:00",
     "content": "Upgrade raised $165 million in a new funding round that valued the fintech startup at $7.3 billion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -745,7 +739,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
     "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
-    "fetched_on": "2025-10-23T09:23:42.524733+00:00",
+    "fetched_on": "2025-10-23T10:23:35.777693+00:00",
     "content": "The bankruptcies have sparked concern about the risks involved when banks like JPMorgan, Jefferies and Fifth Third provide financing for private companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -765,7 +759,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/21/student-loan-help-during-government-shutdown-what-to-know.html",
     "title": "How to get student loan help during the government shutdown",
-    "fetched_on": "2025-10-23T09:23:42.626316+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898180+00:00",
     "content": "As the government shutdown drags on, federal student loan borrowers who can't get help with their account at the Education Department have other options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -785,7 +779,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/19/trump-student-loan-forgiveness.html",
     "title": "Trump administration agrees to deliver more student loan forgiveness",
-    "fetched_on": "2025-10-23T09:23:42.626339+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898204+00:00",
     "content": "The Trump administration has agreed to forgive student debt under income-driven repayment programs it had partially blocked.",
     "platforms_mentioned": [],
     "keywords": [
@@ -805,7 +799,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/student-loan-borrowers-government-shutdown.html",
     "title": "What student loan borrowers can and can't do, as the government shutdown stretches on",
-    "fetched_on": "2025-10-23T09:23:42.626353+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898219+00:00",
     "content": "Despite the government shutdown, student loan borrowers should be able to complete most necessary tasks with the company managing their debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -825,7 +819,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
     "title": "Why some credit card APRs aren\u2019t coming down, even after a Fed rate cut",
-    "fetched_on": "2025-10-23T09:23:42.626375+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898258+00:00",
     "content": "Sky-high credit card rates won't come down much, even as the Federal Reserve lowers its benchmark.",
     "platforms_mentioned": [],
     "keywords": [
@@ -845,7 +839,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/government-shutdown-delays-student-loan-forgiveness-lawsuit.html",
     "title": "Student loan forgiveness lawsuit on hold during government shutdown \u2014 what borrowers need to know",
-    "fetched_on": "2025-10-23T09:23:42.626383+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898266+00:00",
     "content": "A union lawsuit against Trump officials regarding blocked student loan forgiveness is paused due to the government shutdown. Here's what borrowers need to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -865,7 +859,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/trump-student-loan-forgiveness-who-qualifies.html",
     "title": "Here's who qualifies for the Trump administration's latest round of student loan forgiveness",
-    "fetched_on": "2025-10-23T09:23:42.626397+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898281+00:00",
     "content": "Federal student loan borrowers have been getting emails from the Education Department that their debt will be forgiven. Here's who qualifies for the relief.",
     "platforms_mentioned": [],
     "keywords": [
@@ -885,7 +879,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/more-student-loan-borrowers-risk-default-as-late-payments-rise.html",
     "title": "Millions of student loan borrowers at risk of default as late payments climb",
-    "fetched_on": "2025-10-23T09:23:42.626404+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898291+00:00",
     "content": "Student loan borrowers who are behind on their payments will be pushed into default in coming months, says Moody's Analytics economist Justin Begley.",
     "platforms_mentioned": [],
     "keywords": [
@@ -905,7 +899,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-23T09:23:42.626424+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898312+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -925,7 +919,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/09/trump-administration-sends-student-loan-forgiveness-notices.html",
     "title": "Trump administration sends student loan forgiveness notices during government shutdown",
-    "fetched_on": "2025-10-23T09:23:42.626509+00:00",
+    "fetched_on": "2025-10-23T10:23:35.898382+00:00",
     "content": "Despite the government shutdown, student loan borrowers are receiving emails from the Education Department that their debt will soon be discharged.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1081,7 +1075,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-23/seb-s-profit-from-lending-beats-estimates-on-lower-funding-costs",
     "title": "SEB\u2019s Lending Profit Beats Estimates on Lower Funding Costs",
-    "fetched_on": "2025-10-23T09:23:25.978052+00:00",
+    "fetched_on": "2025-10-23T10:23:15.216543+00:00",
     "content": "Swedish lender SEB AB\u2019s profit from lending slightly exceeded estimates in the third quarter, helped by lower funding costs, growth in volumes and currency effects.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1201,7 +1195,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/student-loans/article/do-i-qualify-for-student-loan-forgiveness-whats-changed-under-trump-174637306.html",
     "title": "Do I qualify for student loan forgiveness? What's changed under Trump.",
-    "fetched_on": "2025-10-23T09:23:42.836719+00:00",
+    "fetched_on": "2025-10-23T10:23:36.154021+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1217,7 +1211,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-capital-one-credit-cards-203558254.html",
     "title": "Best Capital One credit cards for 2025",
-    "fetched_on": "2025-10-23T09:23:42.836736+00:00",
+    "fetched_on": "2025-10-23T10:23:36.154093+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1230,7 +1224,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-perks-calendar-year-214541060.html",
     "title": "The complete list of credit card perks that reset each calendar year (2025)",
-    "fetched_on": "2025-10-23T09:23:42.836761+00:00",
+    "fetched_on": "2025-10-23T10:23:36.154108+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1328,7 +1322,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/student-loans/article/trump-administration-agrees-to-resume-student-loan-forgiveness-heres-how-to-apply-222933836.html",
     "title": "Trump administration agrees to resume student loan forgiveness. Here's how to apply.",
-    "fetched_on": "2025-10-23T09:23:42.836887+00:00",
+    "fetched_on": "2025-10-23T10:23:36.154171+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1346,7 +1340,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/bank-of-america-business-advantage-travel-rewards-card-194832412.html",
     "title": "Bank of America Business Advantage Travel Rewards credit card review: Business travelers earn unlimited 1.5x rewards",
-    "fetched_on": "2025-10-23T09:23:42.836932+00:00",
+    "fetched_on": "2025-10-23T10:23:36.154237+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1524,7 +1518,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/10/22/3170868/0/en/mBank-and-PGGM-enter-into-PLN-3-8-billion-credit-risk-sharing-transaction-backed-by-financing-to-the-renewable-energy-sector.html",
     "title": "mBank and PGGM enter into PLN 3.8 billion credit risk sharing transaction backed by financing to the renewable energy sector",
-    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "fetched_on": "2025-10-23T10:23:14.226190+00:00",
     "content": "WARSAW, Poland, Oct. 22, 2025 (GLOBE NEWSWIRE) -- mBank and PGGM have entered into a credit risk sharing transaction referencing a PLN 3.8 billion portfolio of corporate loans in Poland. Approximatel\u2026 [+4202 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1544,7 +1538,7 @@
     "source": "USA Today [NewsAPI]",
     "url": "https://www.usatoday.com/story/money/2025/10/22/government-shutdown-economic-effects-gdp-workers/86818177007/",
     "title": "Shutdowns don't usually have a lasting economic impact. Is this one different?",
-    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "fetched_on": "2025-10-23T10:23:14.226190+00:00",
     "content": "Even when discussions in Congress grind to a halt, much of the governments economic machinery keeps running.\r\nSocial Security benefits still go out, student loan payments are collected, and essential\u2026 [+8308 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1564,7 +1558,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/piaget-debuts-limited-edition-andy-warhol-timepiece/",
     "title": "Piaget debuts Andy Warhol timepiece",
-    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "fetched_on": "2025-10-23T10:23:14.226190+00:00",
     "content": "Watches and jewelry\r\nOctober 22, 2025\r\n In 2024, Piaget renamed the Black Tie watch the Andy Warhol watch after signing a licensing contract with The Andy Warhol Foundation. Image credit: Piaget \r\n B\u2026 [+7953 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1584,7 +1578,7 @@
     "source": "NPR [NewsAPI]",
     "url": "https://www.npr.org/2025/10/22/g-s1-93736/parcels-tiny-desk-concert",
     "title": "Parcels: Tiny Desk Concert",
-    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "fetched_on": "2025-10-23T10:23:14.226190+00:00",
     "content": "Credit: Photo: Alant\u00e9 Serene\r\nParcels\r\n does not shy away from abundance. The Australian quintet's songs often feature a myriad of guitars, rivaling piano and synths, slinky basslines, pulsing drums \u2026 [+2537 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1604,7 +1598,7 @@
     "source": "Travelupdate.com [NewsAPI]",
     "url": "https://travelupdate.com/why-the-amex-platinum-card-is-no-longer-a-premium-travel-credit-card/",
     "title": "Why the Amex Platinum Card is no longer a premium travel credit card",
-    "fetched_on": "2025-10-23T09:23:25.103080+00:00",
+    "fetched_on": "2025-10-23T10:23:14.226190+00:00",
     "content": "Disclosure: The Points Pundit receives NO compensation from credit card affiliate partnerships. Support the blog by applying for a card through my personal referral links. This article is meant for i\u2026 [+4236 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1624,7 +1618,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/banking/article/government-shutdown-money-153356710.html",
     "title": "How the government shutdown impacts your money: student loans, Social Security, investments, and more",
-    "fetched_on": "2025-10-23T09:23:42.836701+00:00",
+    "fetched_on": "2025-10-23T10:23:36.154053+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1637,6 +1631,100 @@
       "government",
       "shutdown",
       "impacts"
+    ]
+  },
+  {
+    "source": "Madshrimps.be [NewsAPI]",
+    "url": "https://www.madshrimps.be/news/blackrock-sinks-billions-into-metas-louisiana-ai-project/",
+    "title": "Blackrock sinks billions into Meta\u2019s Louisiana AI project",
+    "fetched_on": "2025-10-23T10:23:14.226190+00:00",
+    "content": "The 27 billion US dollar (24.8 billion euros) financing package was cooked up with private-credit outfit Blue Owl Capital, which will own 80 per cent of the project. Facebook-parent Meta keeps a mode\u2026 [+68 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Louisiana",
+      "Blue",
+      "Owl",
+      "Meta",
+      "project",
+      "Blackrock",
+      "dollar",
+      "euros",
+      "financing"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/cd7b50eeb09662f0",
+    "title": "HELOC rates today, October 22, 2025: Low now; likely even lower soon \u2014 here's why",
+    "fetched_on": "2025-10-23T10:23:14.226190+00:00",
+    "content": "HELOC rates have been moving lower this year and are widely expected to continue the trend. According to the analytics company Curinos, the average rate on a home equity line of credit is 7.75%.With \u2026 [+149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "October",
+      "Low",
+      "lower",
+      "today",
+      "trend",
+      "rates",
+      "moving",
+      "year",
+      "widely"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-wednesday-october-22-2025-100047321.html",
+    "title": "Mortgage and refinance interest rates today, October 22, 2025: Lower again. Could it be a trend?",
+    "fetched_on": "2025-10-23T10:23:14.226190+00:00",
+    "content": "Mortgage rates slipped lower again today. According to Zillow, the average 30-year fixed rate is down five basis points to 6.10%. The 15-year fixed loan dropped six basis points to 5.42%.\r\nHere are t\u2026 [+4878 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "Lower",
+      "Mortgage",
+      "today",
+      "refinance",
+      "interest",
+      "fixed",
+      "points",
+      "basis",
+      "rates"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/factboxfrom-first-brands-to-ambipar-latest-flashpoints-in-credit-markets-4303919",
+    "title": "Factbox-From First Brands to Ambipar: latest flashpoints in credit markets",
+    "fetched_on": "2025-10-23T10:23:25.913188+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ambipar",
+      "Brands",
+      "Factbox-From",
+      "latest",
+      "markets",
+      "flashpoints",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/macro-fog-credit-cockroaches-among-225752488.html",
+    "title": "'Macro fog' and credit cockroaches are among the top 5 risks to the S&P 500, BofA says",
+    "fetched_on": "2025-10-23T10:23:36.154317+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Macro",
+      "fog",
+      "top",
+      "risks",
+      "BofA",
+      "credit",
+      "cockroaches"
     ]
   }
 ]
