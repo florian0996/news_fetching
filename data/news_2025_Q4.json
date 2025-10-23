@@ -93845,5 +93845,103 @@
       "reset",
       "calendar"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-23/china-finds-costly-new-way-of-extending-xi-s-global-yuan-push",
+    "title": "China Finds Costly New Way of Extending Xi’s Global Yuan Push",
+    "fetched_on": "2025-10-23T06:31:31.319872+00:00",
+    "content": "China is leveraging its position as the world’s largest creditor to help broaden usage of the yuan, offering overseas borrowers the chance to benefit from economically-depressed interest rates at home by ditching the dollar.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Yuan",
+      "Finds",
+      "Costly",
+      "Extending",
+      "Global",
+      "Push",
+      "offering",
+      "dollar",
+      "leveraging"
+    ]
+  },
+  {
+    "source": "Cloudtellix.com [NewsAPI]",
+    "url": "https://www.cloudtellix.com/",
+    "title": "Show HN: AI FinOps co-pilot that explains and integrates cloud cost insights",
+    "fetched_on": "2025-10-23T06:31:30.645787+00:00",
+    "content": "AI-Powered Cloud Cost ControlCut cloud waste and boost efficiency with real-time monitoring, smart optimization, and automated insights save up to 40% on costs.\r\nNo credit card required 14-day free t… [+18 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cloud",
+      "cost",
+      "insights",
+      "Show",
+      "monitoring",
+      "smart",
+      "optimization",
+      "costs",
+      "FinOps",
+      "co-pilot"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6be2eab3d720e8dc",
+    "title": "Handelsbanken Profit Meets Expectations as Lending Volumes Grow",
+    "fetched_on": "2025-10-23T06:31:30.645787+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Warner Bros. Discovery put itself up for sale? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will OpenAI's … [+787 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Grow",
+      "Bros",
+      "Profit",
+      "Meets",
+      "Expectations",
+      "Lending",
+      "Volumes"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9b6b3eff65afd96f",
+    "title": "Shadow banks’ unknown unknowns",
+    "fetched_on": "2025-10-23T06:31:30.645787+00:00",
+    "content": "Credit risk out, counterparty risk in\r\nThis story appeared on ft.com, 2025-10-22 05:30:09.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Shadow",
+      "counterparty",
+      "ft.com",
+      "risk",
+      "banks’",
+      "story",
+      "appeared",
+      "unknown",
+      "unknowns"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/student-loans/article/trump-administration-agrees-to-resume-student-loan-forgiveness-heres-how-to-apply-222933836.html",
+    "title": "Trump administration agrees to resume student loan forgiveness. Here's how to apply.",
+    "fetched_on": "2025-10-23T06:31:48.750164+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "forgiveness",
+      "administration",
+      "agrees",
+      "resume",
+      "student",
+      "loan",
+      "apply"
+    ]
   }
 ]
