@@ -98100,5 +98100,78 @@
       "fell",
       "increased"
     ]
+  },
+  {
+    "source": "Al Jazeera English [NewsAPI]",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/23/is-chinas-economy-stalling-or-transforming",
+    "title": "Is China’s economy stalling or transforming?",
+    "fetched_on": "2025-10-24T08:27:48.290355+00:00",
+    "content": "China bets big on advanced technology in its five-year plan to revive the economy.For decades, China powered spectacular growth through exports, infrastructure and cheap credit. But that old model is… [+501 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "transforming",
+      "economy",
+      "stalling",
+      "chars",
+      "decades",
+      "exports",
+      "infrastructure",
+      "credit",
+      "bets"
+    ]
+  },
+  {
+    "source": "Travelupdate.com [NewsAPI]",
+    "url": "https://travelupdate.com/earn-90000-points-enjoy-0-intro-apr-with-these-limited-time-offers/",
+    "title": "Earn 90,000 points & enjoy 0% intro APR with these limited time offers!",
+    "fetched_on": "2025-10-24T08:27:48.290355+00:00",
+    "content": "Disclosure: The Points Pundit receives NO compensation from credit card affiliate partnerships. Support the blog by applying for a card through my personal referral links. This article is meant for i… [+2787 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earn",
+      "enjoy",
+      "APR",
+      "intro",
+      "offers",
+      "points",
+      "Disclosure",
+      "limited",
+      "time",
+      "Pundit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/credit-acceptance-corporation-cacc-bull-205813180.html",
+    "title": "Credit Acceptance Corporation (CACC): A Bull Case Theory",
+    "fetched_on": "2025-10-24T08:28:19.929228+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CACC",
+      "Corporation",
+      "Theory",
+      "Acceptance",
+      "Bull",
+      "Case",
+      "Credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/loan-prepayment-penalty-203636394.html",
+    "title": "Prepayment penalties: The hidden trap in some personal loans",
+    "fetched_on": "2025-10-24T08:28:19.929396+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Prepayment",
+      "penalties",
+      "loans",
+      "hidden",
+      "trap",
+      "personal"
+    ]
   }
 ]
