@@ -1,6 +1,25 @@
 {
+  "2025-10-24": {
+    "articles": [
+      {
+        "title": "LevelUp Checking Drives LendingClub Account Openings",
+        "url": "https://www.pymnts.com/news/digital-banking/2025/levelup-checking-drives-lendingclub-account-openings/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
   "2025-10-23": {
-    "status": "no company in the news"
+    "articles": [
+      {
+        "title": "Stock Movers: Tesla, Lending Club, Dow (Podcast)",
+        "url": "https://www.bloomberg.com/news/audio/2025-10-23/stock-movers-tesla-lending-club-dow-podcast",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-10-22": {
     "status": "no company in the news"
