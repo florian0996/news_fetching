@@ -101973,5 +101973,126 @@
       "extension",
       "network"
     ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://cnalifestyle.channelnewsasia.com/entertainment/kim-lim-personal-assistant-allegedly-stole-company-card-money-luxury-items-473001",
+    "title": "Singapore socialite Kim Lim alleges former personal assistant misused company funds, stole valuables",
+    "fetched_on": "2025-10-25T09:18:49.533131+00:00",
+    "content": "Singaporean billionaire heiress Kim Lim has alleged that a former personal assistant misused a company credit card and car, as well as stole money and luxury items from her.\r\nLim, 33, spoke about the… [+1390 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kim",
+      "personal",
+      "assistant",
+      "Lim",
+      "Singaporean",
+      "misused",
+      "company",
+      "stole",
+      "Singapore",
+      "funds"
+    ]
+  },
+  {
+    "source": "TmoNews [NewsAPI]",
+    "url": "https://www.tmonews.com/2025/10/t-mobile-closes-credit-card-loophole-that-saved-customers-on-autopay/",
+    "title": "T-Mobile Closes Credit Card Loophole That Saved Customers on Autopay",
+    "fetched_on": "2025-10-25T09:18:49.533131+00:00",
+    "content": "T-Mobile is shutting down a workaround that allowed customers to keep their autopay discount while still paying with credit cards. Starting today, October 24, customers who make early one-time paymen… [+1669 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Autopay",
+      "Closes",
+      "Loophole",
+      "Saved",
+      "Customers",
+      "Card",
+      "cards",
+      "T-Mobile",
+      "October"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1330e9a0228feac9",
+    "title": "The week’s best photos",
+    "fetched_on": "2025-10-25T09:18:49.533131+00:00",
+    "content": "A Hindu devotee holds a diya during Diwali festivities at a temple in Toronto, Canada (Image credit: Creative Touch Imaging Ltd. / NurPhoto / Getty Images)Police struggle to control a crowd at the Ny… [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canada",
+      "Toronto",
+      "Creative",
+      "Hindu",
+      "Diwali",
+      "Touch",
+      "Imaging",
+      "credit",
+      "week",
+      "photos"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/blogposting/29658/credit-risks-and-costs--and-how-the-tide-may-be-turning",
+    "title": "Credit risks and costs – and how the tide may be turning",
+    "fetched_on": "2025-10-25T09:18:49.533131+00:00",
+    "content": "Travelling offers time to read and Buttonwoods Into Thin Air column in The Economist, reflecting on receivables risks and fraud -  reminded me of questions I have asked for decades.\r\nIt all started w… [+2128 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Economist",
+      "risks",
+      "Travelling",
+      "Buttonwoods",
+      "Thin",
+      "Air",
+      "Credit",
+      "costs",
+      "reflecting",
+      "fraud"
+    ]
+  },
+  {
+    "source": "MassLive [GNews]",
+    "url": "https://www.masslive.com/westernmass/2025/10/wmass-federal-workers-turn-to-gigs-and-loans-as-government-misses-payday-due-to-shutdown.html",
+    "title": "WMass federal workers turn to gigs and loans as government misses payday due to shutdown",
+    "fetched_on": "2025-10-25T09:19:02.371336+00:00",
+    "content": "“Everybody is in the same boat, but some people are going to feel it more than others,” said Rafael Castillo, a shop steward with the American Federation of Government Employees, the union representing Social Security workers in Springfield and Holyoke.",
+    "platforms_mentioned": [],
+    "entity": "Steward",
+    "keywords": [
+      "Castillo",
+      "Employees",
+      "Holyoke",
+      "government",
+      "Rafael",
+      "American",
+      "Federation",
+      "Social",
+      "Security",
+      "Springfield"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/swiss-bank-sygnum-launch-bitcoin-060000535.html",
+    "title": "Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control",
+    "fetched_on": "2025-10-25T09:19:20.866974+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Control",
+      "Bank",
+      "Sygnum",
+      "Launch",
+      "Loan",
+      "Platform",
+      "Wallet",
+      "Swiss",
+      "Bitcoin-Backed",
+      "Multi-Sig"
+    ]
   }
 ]
