@@ -101699,5 +101699,79 @@
       "pen",
       "death"
     ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/business/2025/10/24/swiss-bank-sygnum-to-launch-bitcoin-backed-loan-platform-with-multi-sig-wallet-control",
+    "title": "Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control",
+    "fetched_on": "2025-10-25T06:27:55.873343+00:00",
+    "content": "LUGANO, SWITZERLAND Swiss digital asset bank Sygnum Bank has teamed up with bitcoin BTC\r\n$111,236.69 lending startup Debifi to launch what they say is the first bank-backed loan platform that doesnt … [+1886 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Sygnum",
+      "Launch",
+      "Loan",
+      "Platform",
+      "LUGANO",
+      "SWITZERLAND",
+      "BTC",
+      "chars",
+      "Swiss"
+    ]
+  },
+  {
+    "source": "Naturalnews.com [NewsAPI]",
+    "url": "https://www.naturalnews.com/2025-10-24-subprime-auto-lender-primalend-files-for-bankruptcy.html",
+    "title": "Subprime auto lender PrimaLend files for Chapter 11 bankruptcy",
+    "fetched_on": "2025-10-25T06:27:55.873343+00:00",
+    "content": "<ul><li>Texas-based subprime auto lender PrimaLend (specializing in \"buy-here-pay-here\" dealership loans) filed for Chapter 11 bankruptcy after failing to negotiate with creditors, listing assets and… [+5517 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chapter",
+      "chars",
+      "Texas-based",
+      "auto",
+      "lender",
+      "bankruptcy",
+      "Subprime",
+      "PrimaLend",
+      "specializing",
+      "dealership"
+    ]
+  },
+  {
+    "source": "Prtimes.jp [NewsAPI]",
+    "url": "https://prtimes.jp/main/html/rd/p/000002279.000011498.html",
+    "title": "【Lilas/リラ】ブランド誕生10周年を記念し、新作パールジュエリー発売。ブランドとゆかりのある人々が紡ぐ、\"自分を愛する瞬間×ジュエリー\"を発表。",
+    "fetched_on": "2025-10-25T06:27:55.873343+00:00",
+    "content": ": CEO: Lilas ()2025111110\r\n\"×\"\r\n\"×\"\r\nLilas\r\nLilas10\r\nNO.01\r\nMODEL\r\n1\r\n3\r\nITEMS CREDIT\r\nnecklace / ¥28,600\r\nnecklace / ¥36,300\r\nnecklace / ¥47,300 [TAKANWA LIMITIED]\r\npierce / ¥25,300\r\nbracelet / ¥52,… [+1024 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lilas",
+      "necklace",
+      "/リラ】ブランド誕生",
+      "周年を記念し、新作パ",
+      "\"を発表",
+      "CEO",
+      "MODEL",
+      "ルジュエリ",
+      "発売。ブランドとゆかりのある人",
+      "が紡ぐ、\"自分を愛する瞬間×ジュエリ"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/video/transparency-help-private-credit-oaktree-225938666.html",
+    "title": "'Transparency Will Help' in Private Credit: Oaktree PM",
+    "fetched_on": "2025-10-25T06:28:17.982985+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Transparency",
+      "Credit",
+      "Oaktree",
+      "Private"
+    ]
   }
 ]
