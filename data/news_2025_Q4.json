@@ -104211,5 +104211,45 @@
       "Politics",
       "Diplomat’"
     ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/10/24/government-shutdown-federal-employee-worries/",
+    "title": "Federal employees detail worries over shutdown layoffs",
+    "fetched_on": "2025-10-25T22:17:57.696158+00:00",
+    "content": "By Ryan Tarinelli, CQ-Roll Call\r\nWASHINGTON One federal employee has taken out a bank loan. Another says shes planning to seek help from a food pantry. A third says his family will likely need to tak… [+5262 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tarinelli",
+      "Federal",
+      "Ryan",
+      "Call",
+      "WASHINGTON",
+      "CQ-Roll",
+      "loan",
+      "employees",
+      "employee",
+      "detail"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18730786-5-promo-credit-ymmv-edge-sweeping-brush-3-pack-for-roomba-combo-and-roomba-i-e-j-series-and-combo-10-max-robots-8-19",
+    "title": "$5 Promo Credit YMMV - Edge-Sweeping Brush 3 Pack for Roomba Combo® and Roomba® i, e & j Series and Combo® 10 Max Robots $8.19",
+    "fetched_on": "2025-10-25T22:17:57.696158+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Combo",
+      "Roomba",
+      "Promo",
+      "YMMV",
+      "Brush",
+      "Pack",
+      "Max",
+      "Robots",
+      "tips",
+      "Credit"
+    ]
   }
 ]
