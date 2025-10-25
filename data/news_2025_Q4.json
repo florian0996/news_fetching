@@ -101773,5 +101773,85 @@
       "Oaktree",
       "Private"
     ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/features/friday-football-quiz-241025",
+    "title": "Friday Football Quiz, episode 86: Can you get 20 correct answers?",
+    "fetched_on": "2025-10-25T07:18:36.724870+00:00",
+    "content": "Welcome one and all to the Friday Football Quiz.\r\n(Image credit: Future)\r\nFRIDAY FOOTBALL QUIZ Episode 85\r\nYour reward for another gruelling five days in the office (or from home, hashtag 2025) is a … [+1917 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Football",
+      "Quiz",
+      "Friday",
+      "episode",
+      "correct",
+      "answers",
+      "Future",
+      "Image",
+      "hashtag",
+      "chars"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/entertainment/anime-movies/chainsaw-man-the-movie-reze-arc-post-credits-scene/",
+    "title": "Is there a Chainsaw Man – The Movie: Reze Arc post-credits scene?",
+    "fetched_on": "2025-10-25T07:18:36.724870+00:00",
+    "content": "Superhero movies have been doing it for years, but is there a Chainsaw Man: The Movie: Reze Arc post-credits scene to stick around for?\r\nBelow, we'll answer that question – as well as any other press… [+2285 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Man",
+      "Reze",
+      "Chainsaw",
+      "Arc",
+      "Movie",
+      "post-credits",
+      "scene",
+      "movies",
+      "chars",
+      "Superhero"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/af4b2fec229e9371",
+    "title": "UBS Reshuffles Leadership as Credit Suisse Integration Nears End",
+    "fetched_on": "2025-10-25T07:18:36.724870+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Beyond Meat stock surge then tumble? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps new Russia o… [+807 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "UBS",
+      "End",
+      "return",
+      "false",
+      "Reshuffles",
+      "Leadership",
+      "Credit"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/1024/1540318-natwest-quarterly-results/",
+    "title": "NatWest reports Q3 profit spike, upgrades guidance",
+    "fetched_on": "2025-10-25T07:18:36.724870+00:00",
+    "content": "NatWest has today reported a 30% rise in third-quarter profit and upgraded its performance target for the year, as it grew loans and assets in its wealth business while avoiding hefty charges for mis… [+1040 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "reports",
+      "spike",
+      "upgrades",
+      "rise",
+      "year",
+      "mis",
+      "NatWest",
+      "profit",
+      "guidance"
+    ]
   }
 ]
