@@ -101437,5 +101437,45 @@
       "cards",
       "streaming"
     ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/10/23/making-the-smallest-and-dumbest-llm-with-extreme-quantization/",
+    "title": "Making the Smallest and Dumbest LLM with Extreme Quantization",
+    "fetched_on": "2025-10-25T03:02:50.272953+00:00",
+    "content": "Turns out that training on Twitch quotes doesn’t make an LLM a math genius. (Credit: Codeically, YouTube)\r\nThe reason why large language models are called ‘large’ is not because of how smart they are… [+1444 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LLM",
+      "Smallest",
+      "Dumbest",
+      "Extreme",
+      "Quantization",
+      "Turns",
+      "Twitch",
+      "Credit",
+      "Codeically",
+      "Making"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-pauletta-washington-and-priscilla-lopez-exchange-letters-in-pen-pals-off-broadway-show/article",
+    "title": "Review: Pauletta Washington and Priscilla Lopez exchange letters in ‘Pen Pals’ Off-Broadway show",
+    "fetched_on": "2025-10-25T03:02:50.272953+00:00",
+    "content": "Pauletta Washington and Priscilla Lopez. Photo Credit: Russ Rowland.\r\nVeteran actresses Pauletta Washington and Priscilla Lopez are starring in the Off-Broadway show “Pen Pals,” which is being perfor… [+1994 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Washington",
+      "Priscilla",
+      "Pauletta",
+      "Lopez",
+      "Pals’",
+      "Pen",
+      "Review",
+      "Credit",
+      "Russ",
+      "Rowland"
+    ]
   }
 ]
