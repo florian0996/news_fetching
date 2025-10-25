@@ -3,7 +3,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-24/france-gets-fresh-warning-on-finances-as-moody-s-turns-negative",
     "title": "France Gets Fresh Warning on Debt as Moody\u2019s Turns Negative",
-    "fetched_on": "2025-10-25T14:17:20.041438+00:00",
+    "fetched_on": "2025-10-25T15:18:23.041941+00:00",
     "content": "Moody\u2019s Ratings cut France\u2019s credit outlook to negative from stable, adding to warnings on the country\u2019s bloated public finances as a weakened minority government struggles to pass a budget.",
     "platforms_mentioned": [],
     "keywords": [
@@ -22,21 +22,21 @@
   {
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-24/us-cut-by-scope-ratings-after-three-weeks-of-shutdown-stalemate",
-    "title": "US Cut by Scope Ratings After Three Weeks of Shutdown Stalemate",
-    "fetched_on": "2025-10-25T14:17:20.041495+00:00",
+    "title": "US Rating Cut by Scope After Three Weeks of Shutdown Impasse",
+    "fetched_on": "2025-10-25T15:18:23.041872+00:00",
     "content": "The US was cut by one notch at Scope Ratings after more than three weeks of Washington stalemate over government spending triggered action by the European credit assessor.",
     "platforms_mentioned": [],
     "keywords": [
-      "Ratings",
-      "Scope",
       "Weeks",
+      "Scope",
       "Cut",
-      "Stalemate",
       "Shutdown",
+      "Impasse",
       "Washington",
       "European",
-      "assessor",
-      "notch"
+      "Rating",
+      "Ratings",
+      "assessor"
     ]
   },
   {
@@ -63,7 +63,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-10-24/bloomberg-tech-10-24-2025-video",
     "title": "Intel Earnings Signal Possible Comeback | Bloomberg Tech 10/24/2025",
-    "fetched_on": "2025-10-25T14:17:19.959967+00:00",
+    "fetched_on": "2025-10-25T15:18:22.962639+00:00",
     "content": "Bloomberg\u2019s Caroline Hyde and Ed Ludlow discuss Intel\u2019s earnings, as the chipmaker returned to profitability and gave an upbeat revenue forecast. Plus, banks are preparing to launch a $38 billion debt offering to help fund data centers tied to Oracle. That comes as the Bank of England begins to probe data center lending amid fears of an AI bubble. And, Mistral CEO Arthur Mensch discusses the company's release of a new platform to help enterprise clients make customizable AI tools. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -83,7 +83,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-24/bank-of-england-probes-data-center-lending-amid-ai-bubble-fears",
     "title": "Data Center Lending Probed by BOE Amid AI Bubble Fears",
-    "fetched_on": "2025-10-25T14:17:20.041513+00:00",
+    "fetched_on": "2025-10-25T15:18:23.042010+00:00",
     "content": "The Bank of England is reviewing lending to data centers that are a one way bet on the future of artificial intelligence.",
     "platforms_mentioned": [],
     "keywords": [
@@ -402,7 +402,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/health-wellness-biotech/revalia-bio-seed-raise-human-data-trials/",
     "title": "Exclusive: Revalia Bio Raises $14.5M To \u2018Revolutionize\u2019 Drug Development With Human Data Trials",
-    "fetched_on": "2025-10-25T14:17:38.447418+00:00",
+    "fetched_on": "2025-10-25T15:18:41.716163+00:00",
     "content": "New Haven, Connecticut-based Revalia Bio, a startup that helps companies test new therapies on human organs, has raised $14.5 million in seed funding, the company told Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -422,7 +422,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/refinance-demand-is-81percent-higher-than-it-was-a-year-ago-thanks-to-falling-mortgage-rates.html",
     "title": "Refinance demand is 81% higher than it was a year ago, thanks to falling mortgage rates",
-    "fetched_on": "2025-10-25T14:17:39.391868+00:00",
+    "fetched_on": "2025-10-25T15:18:42.492791+00:00",
     "content": "Sliding mortgage rates are pushing more current borrowers to refinance and also juicing demand for adjustable-rate loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -442,7 +442,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-10-25T14:17:39.391936+00:00",
+    "fetched_on": "2025-10-25T15:18:42.492853+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -462,7 +462,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html",
     "title": "Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue",
-    "fetched_on": "2025-10-25T14:17:39.628505+00:00",
+    "fetched_on": "2025-10-25T15:18:42.573497+00:00",
     "content": "Regional banks are getting a reprieve this week after Western Alliance and Zions reported results that didn't include any new loan meltdowns.",
     "platforms_mentioned": [],
     "keywords": [
@@ -482,7 +482,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html",
     "title": "\u2018The tide went out\u2019: How a string of bad loans has bank investors hunting for hidden risks",
-    "fetched_on": "2025-10-25T14:17:39.628581+00:00",
+    "fetched_on": "2025-10-25T15:18:42.573572+00:00",
     "content": "Investors are focused on a specific type of lending made by banks to non-depository financial institutions, or NDFIs, as the source of possible contagion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -502,7 +502,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html",
     "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
-    "fetched_on": "2025-10-25T14:17:39.628595+00:00",
+    "fetched_on": "2025-10-25T15:18:42.573586+00:00",
     "content": "Marc Pinto, the agency's head of global private credit, acknowledged in a CNBC interview that there are concerns over loose lending standards.",
     "platforms_mentioned": [],
     "keywords": [
@@ -522,7 +522,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html",
     "title": "Fintech startup Upgrade valued at $7.3 billion in new funding round",
-    "fetched_on": "2025-10-25T14:17:39.628635+00:00",
+    "fetched_on": "2025-10-25T15:18:42.573629+00:00",
     "content": "Upgrade raised $165 million in a new funding round that valued the fintech startup at $7.3 billion.",
     "platforms_mentioned": [],
     "keywords": [
@@ -541,7 +541,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/21/student-loan-help-during-government-shutdown-what-to-know.html",
     "title": "How to get student loan help during the government shutdown",
-    "fetched_on": "2025-10-25T14:17:39.774046+00:00",
+    "fetched_on": "2025-10-25T15:18:42.682539+00:00",
     "content": "As the government shutdown drags on, federal student loan borrowers who can't get help with their account at the Education Department have other options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -561,7 +561,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/19/trump-student-loan-forgiveness.html",
     "title": "Trump administration agrees to deliver more student loan forgiveness",
-    "fetched_on": "2025-10-25T14:17:39.774067+00:00",
+    "fetched_on": "2025-10-25T15:18:42.682563+00:00",
     "content": "The Trump administration has agreed to forgive student debt under income-driven repayment programs it had partially blocked.",
     "platforms_mentioned": [],
     "keywords": [
@@ -581,7 +581,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/17/student-loan-borrowers-government-shutdown.html",
     "title": "What student loan borrowers can and can't do, as the government shutdown stretches on",
-    "fetched_on": "2025-10-25T14:17:39.774080+00:00",
+    "fetched_on": "2025-10-25T15:18:42.682577+00:00",
     "content": "Despite the government shutdown, student loan borrowers should be able to complete most necessary tasks with the company managing their debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -601,7 +601,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/why-credit-card-aprs-arent-coming-down-even-after-a-fed-rate-cut.html",
     "title": "Why some credit card APRs aren\u2019t coming down, even after a Fed rate cut",
-    "fetched_on": "2025-10-25T14:17:39.774101+00:00",
+    "fetched_on": "2025-10-25T15:18:42.682597+00:00",
     "content": "Sky-high credit card rates won't come down much, even as the Federal Reserve lowers its benchmark.",
     "platforms_mentioned": [],
     "keywords": [
@@ -621,7 +621,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/16/government-shutdown-delays-student-loan-forgiveness-lawsuit.html",
     "title": "Student loan forgiveness lawsuit on hold during government shutdown \u2014 what borrowers need to know",
-    "fetched_on": "2025-10-25T14:17:39.774108+00:00",
+    "fetched_on": "2025-10-25T15:18:42.682604+00:00",
     "content": "A union lawsuit against Trump officials regarding blocked student loan forgiveness is paused due to the government shutdown. Here's what borrowers need to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -641,7 +641,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/trump-student-loan-forgiveness-who-qualifies.html",
     "title": "Here's who qualifies for the Trump administration's latest round of student loan forgiveness",
-    "fetched_on": "2025-10-25T14:17:39.774123+00:00",
+    "fetched_on": "2025-10-25T15:18:42.682618+00:00",
     "content": "Federal student loan borrowers have been getting emails from the Education Department that their debt will be forgiven. Here's who qualifies for the relief.",
     "platforms_mentioned": [],
     "keywords": [
@@ -661,7 +661,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/15/more-student-loan-borrowers-risk-default-as-late-payments-rise.html",
     "title": "Millions of student loan borrowers at risk of default as late payments climb",
-    "fetched_on": "2025-10-25T14:17:39.774130+00:00",
+    "fetched_on": "2025-10-25T15:18:42.682624+00:00",
     "content": "Student loan borrowers who are behind on their payments will be pushed into default in coming months, says Moody's Analytics economist Justin Begley.",
     "platforms_mentioned": [],
     "keywords": [
@@ -681,7 +681,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/14/government-shutdown-layoffs-rifs-student-loans.html",
     "title": "What laid off federal workers need to know about their student loans",
-    "fetched_on": "2025-10-25T14:17:39.774150+00:00",
+    "fetched_on": "2025-10-25T15:18:42.682645+00:00",
     "content": "Federal workers caught in the latest round of layoffs by the Trump administration may lose certain student loan benefits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1132,7 +1132,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-10-25/banks-rocked-by-extreme-car-loan-costs-gear-up-for-fca-fight",
     "title": "Banks Rocked by \u2018Extreme\u2019 Car Loan Costs Gear Up for FCA Fight",
-    "fetched_on": "2025-10-25T14:17:20.162423+00:00",
+    "fetched_on": "2025-10-25T15:18:23.182464+00:00",
     "content": "The UK\u2019s biggest banks are gearing up for yet another fight with regulators over how they\u2019ll compensate consumers who were missold car loans &mdash; even after they set aside an additional \u00a31.5 billion to resolve the saga in recent weeks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2056,7 +2056,7 @@
     "source": "PC Gamer [NewsAPI]",
     "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-match-journey-feature-is-the-perfect-extraction-shooter-addition-as-it-charts-my-inevitable-path-to-defeat-loss-and-regret/",
     "title": "Arc Raiders' 'match journey' feature is the perfect extraction shooter addition, as it charts my inevitable path to defeat, loss, and regret",
-    "fetched_on": "2025-10-25T14:17:18.931703+00:00",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
     "content": "Rory Norris, Guides Writer\r\n(Image credit: Future)\r\nLast week I was: playing tons of Battlefield 6 and even previewing Season 1 content.\r\nThis week I've been: returning to Borderlands 4 to prepare fo\u2026 [+2748 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2076,7 +2076,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/ec7a2c59c3df582e",
     "title": "'Pet Rock' No More: JPMorgan To Accept Bitcoin, Ethereum As Collateral",
-    "fetched_on": "2025-10-25T14:17:18.931703+00:00",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
     "content": "JPMorgan Chase &amp; Co. (NYSE:JPM) will allow institutional clients to use Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) as collateral for loans, marking a major shift in how Wall Street's larges\u2026 [+137 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2176,7 +2176,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/premium-credit-cards-hiked-annual-110000639.html",
     "title": "Some premium credit cards have hiked annual fees by 45% \u2014 make sure \u2018fee creep\u2019 isn\u2019t quietly canceling your rewards",
-    "fetched_on": "2025-10-25T14:17:40.063129+00:00",
+    "fetched_on": "2025-10-25T15:18:42.920592+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -2209,6 +2209,266 @@
       "Wallet",
       "Embedded",
       "Lending"
+    ]
+  },
+  {
+    "source": "Whitebg.org [NewsAPI]",
+    "url": "https://whitebg.org",
+    "title": "Show HN: How to create a perfect white background image effortlessly?",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "Free, no credit card requiredFrom product shots to portraits, get a pixel-perfect, clean white background in just one click. Our smart AI makes it simple, fast, and flawless.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Show",
+      "effortlessly",
+      "white",
+      "background",
+      "Free",
+      "create",
+      "perfect",
+      "image",
+      "fast",
+      "portraits"
+    ]
+  },
+  {
+    "source": "Celebitchy.com [NewsAPI]",
+    "url": "https://www.celebitchy.com/946911/queen_camillas_gothic_vatican_headpiece_was_a_custom_piece_by_philip_treacy/",
+    "title": "Queen Camilla\u2019s gothic Vatican headpiece was a custom piece by Philip Treacy",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "Here are more photos from King Charles and Queen Camillas visit to the Vatican yesterday. Ill give Cam some credit: if she hadnt worn that absolutely bonkers headpiece, the meeting and photos would n\u2026 [+8874 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vatican",
+      "Queen",
+      "Philip",
+      "Treacy",
+      "King",
+      "Charles",
+      "Camilla",
+      "Camillas",
+      "yesterday",
+      "chars"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-pictures/musicians-on-musicians-hayley-williams-bleachers-maria-role-model-1235453602/",
+    "title": "Rolling Stone Musicians on Musicians Live 2025: See All the Photos",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "Image Credit: Krista Schlueter for Rolling Stone\r\nAntonoff, Williams, Johnson, Zardoya, and Role Model on the red carpet before the show.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Williams",
+      "Johnson",
+      "Zardoya",
+      "Stone",
+      "Musicians",
+      "Rolling",
+      "Live",
+      "Credit",
+      "Krista",
+      "Antonoff"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/24/3172943/3898/en/Federal-Home-Loan-Bank-of-Des-Moines-Announces-Third-Quarter-2025-Financial-Results-Declares-Dividend.html",
+    "title": "Federal Home Loan Bank of Des Moines Announces Third Quarter 2025 Financial Results, Declares Dividend",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "DES MOINES, Iowa, Oct. 24, 2025 (GLOBE NEWSWIRE) -- \r\nThird Quarter 2025 Highlights\r\n<ul><li>Net income of $259 million</li><li>Affordable Housing Program (AHP) assessments of $29 million</li><li>Vol\u2026 [+12742 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Quarter",
+      "million",
+      "Iowa",
+      "Oct.",
+      "Highlights",
+      "AHP",
+      "Vol",
+      "Des",
+      "Moines",
+      "Financial"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/cryptocurrency/2025/jpmorgan-chase-allow-institutional-clients-use-bitcoin-ether-collateral/",
+    "title": "JPMorgan Chase to Allow Institutional Clients to Use Bitcoin and Ether as Collateral",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "JPMorgan Chase reportedly plans to allow its institutional clients around the world to use their Bitcoin and Ether holdings as collateral for loans.The program is set to be offered by the end of the \u2026 [+2178 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chase",
+      "Bitcoin",
+      "Ether",
+      "Institutional",
+      "Clients",
+      "Collateral",
+      "JPMorgan",
+      "chars",
+      "reportedly",
+      "plans"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/sport/french-biathlete-simon-gets-suspended-jail-term-over-credit-card-fraud-5423591",
+    "title": "French biathlete Simon gets suspended jail term over credit-card fraud",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "PARIS :French biathlete Julia Simon was sentenced on Friday to a three-month suspended prison term and fined 15,000 euros ($17,493.00)for credit-card fraud and theft, which puts her participation in \u2026 [+1048 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "French",
+      "euros",
+      "chars",
+      "PARIS",
+      "Simon",
+      "Julia",
+      "Friday",
+      "biathlete",
+      "credit-card",
+      "fraud"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/fps/forget-scary-borderlands-4s-halloween-event-is-just-depressing/",
+    "title": "Forget scary, Borderlands 4's Halloween event is just depressing",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "Rory Norris, Guides Writer\r\n(Image credit: Future)\r\nLast week I was: playing tons of Battlefield 6 and even previewing Season 1 content.\r\nThis week I've: returned to Borderlands 4 to prepare for the \u2026 [+3099 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "content",
+      "Halloween",
+      "Norris",
+      "Guides",
+      "Writer",
+      "Image",
+      "Battlefield",
+      "Season",
+      "Borderlands"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-did-isabelle-tate-play-in-911-nashville-5481869/",
+    "title": "Who Did Isabelle Tate Play in \u20189-1-1: Nashville\u2019? Her ABC Character",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "Image Credit: Isabelle Tate/Instagram\r\nIsabelle Tate was just 23 when she died. Best known for appearing in the series premiere of ABCs 9-1-1: Nashville, the young actress life, career and health his\u2026 [+2900 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nashville\u2019",
+      "Isabelle",
+      "Tate",
+      "Play",
+      "Nashville",
+      "Credit",
+      "Instagram",
+      "Character",
+      "Image",
+      "chars"
+    ]
+  },
+  {
+    "source": "Vanity Fair [NewsAPI]",
+    "url": "https://www.vanityfair.com/hollywood/story/boots-creator-andy-parker-didnt-set-out-to-make-woke-garbage-or-military-propaganda",
+    "title": "'Boots' Creator Andy Parker Didn\u2019t Set Out to Make \u201cWoke Garbage\u201d\u2014or Military Propaganda",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "I guess we have to give some credit to the Pentagon there, dont we? says Andy Parker, cheekily. His Netflix series Bootswhich follows a closeted teen in the 1990s as he enlists in the Marineshas surg\u2026 [+2386 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Boots'",
+      "Make",
+      "Woke",
+      "Garbage",
+      "Andy",
+      "Parker",
+      "Creator",
+      "Set",
+      "Military",
+      "Propaganda"
+    ]
+  },
+  {
+    "source": "Screenanarchy.com [NewsAPI]",
+    "url": "https://screenanarchy.com/2025/10/friday-one-sheet-crime-101.html",
+    "title": "Friday One Sheet: CRIME 101",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "After the opening credits and marketing from HBO's True Detective, the silhouette/landscape design trope became fairly ubiquitous in movie posters. Noteworthy that the key art for Denis Villeneuve's \u2026 [+1012 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CRIME",
+      "Sheet",
+      "Detective",
+      "HBO",
+      "True",
+      "Friday",
+      "silhouette",
+      "landscape",
+      "posters",
+      "opening"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/24/3172933/0/en/Ankur-Keswani-Joins-SEDA-Experts-Bringing-Deep-Expertise-in-High-Yield-and-Distressed-Credit-Bankruptcy-and-Restructurings.html",
+    "title": "Ankur Keswani Joins SEDA Experts, Bringing Deep Expertise in High-Yield and Distressed Credit, Bankruptcy, and Restructurings",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "New York, NY, Oct. 24, 2025 (GLOBE NEWSWIRE) -- SEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced today that Ankur Keswani joined the \u2026 [+3226 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Keswani",
+      "SEDA",
+      "Bankruptcy",
+      "Oct.",
+      "Ankur",
+      "Experts",
+      "expert",
+      "Bringing",
+      "Credit",
+      "York"
+    ]
+  },
+  {
+    "source": "The Points Guy [NewsAPI]",
+    "url": "https://thepointsguy.com/credit-cards/why-delta-skymiles-reserve-card/",
+    "title": "Why the Delta SkyMiles Reserve card is one of the best cards in my wallet",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "My foray into the world of credit cards, points and miles began when I joined TPG a few years ago. I had a couple of cards before working here, but I didn't give much thought to which card to use or \u2026 [+6963 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delta",
+      "Reserve",
+      "TPG",
+      "points",
+      "ago",
+      "cards",
+      "SkyMiles",
+      "wallet",
+      "foray",
+      "world"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/0d23794530efc941",
+    "title": "Ford to End Production of Failed F-150 Lightning",
+    "fetched_on": "2025-10-25T15:18:21.525589+00:00",
+    "content": "Ford Motor Co. (NYSE: F) posted strong numbers for the third quarter. It lowered forecasts because of a fire at a major supplier. The first is a credit to Ford management, while the second is outside\u2026 [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Failed",
+      "Lightning",
+      "End",
+      "Production",
+      "Motor",
+      "Ford",
+      "NYSE",
+      "posted",
+      "quarter",
+      "chars"
     ]
   }
 ]
