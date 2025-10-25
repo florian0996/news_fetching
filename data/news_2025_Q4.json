@@ -102174,5 +102174,245 @@
       "collateral",
       "operations."
     ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2025/10/24/jpmorgan-to-allow-clients-to-pledge-bitcoin-and-ether-as-collateral-bloomberg",
+    "title": "JPMorgan to Allow Clients to Pledge Bitcoin and Ether as Collateral: Bloomberg",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "Investment banking giant JPMorgan Chase plans to let institutional clients use their bitcoin BTC\r\n$111,032.28 and ether ETH\r\n$3,944.78 holdings as collateral for loans by year-end, according to a rep… [+726 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ether",
+      "Collateral",
+      "Bloomberg",
+      "BTC",
+      "ETH",
+      "Clients",
+      "Bitcoin",
+      "chars",
+      "Pledge",
+      "Investment"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/alexledsom/2025/10/24/carbon-credits-shortage-may-lead-to-higher-air-fares-for-travelers/",
+    "title": "Carbon Credits Shortage May Lead To Higher Air Fares For Travelers",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "A lack of carbon credits might lead to higher airfares.\r\ngetty\r\nThe aviation industry is facing a critical challenge: a shortage of airline carbon credits and theres a very high probability that itll… [+7312 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lead",
+      "Higher",
+      "Credits",
+      "Air",
+      "Fares",
+      "Travelers",
+      "Carbon",
+      "Shortage",
+      "airfares",
+      "lack"
+    ]
+  },
+  {
+    "source": "Coinjournal.net [NewsAPI]",
+    "url": "https://coinjournal.net/news/jpmorgan-chase-to-start-accepting-bitcoin-ethereum-as-loan-collateral-report/",
+    "title": "JPMorgan Chase to start accepting Bitcoin, Ethereum as loan collateral: report",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "<ul><li>JPMorgan will let clients use Bitcoin (BTC) and Ethereum (ETH) as collateral for loans.</li><li>The move marks a major shift from Jamie Dimon’s past crypto criticism.</li><li>Other major bank… [+3038 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bitcoin",
+      "Ethereum",
+      "BTC",
+      "ETH",
+      "JPMorgan",
+      "report",
+      "chars",
+      "Chase",
+      "Jamie",
+      "Dimon"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/article/finance/pay-off-loans-or-save#article",
+    "title": "Asked on Reddit: Should I Pay Off Loans or Save?",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "The investing information provided on this page is for educational purposes only. NerdWallet, Inc. does not offer advisory or brokerage services, nor does it recommend or advise investors to buy or s… [+4541 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reddit",
+      "Save",
+      "Pay",
+      "Loans",
+      "Asked",
+      "NerdWallet",
+      "chars",
+      "investing",
+      "information",
+      "provided"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/finance/learn/pay-off-loans-or-save#article",
+    "title": "Asked on Reddit: Should I Pay Off Loans or Save?",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "The investing information provided on this page is for educational purposes only. NerdWallet, Inc. does not offer advisory or brokerage services, nor does it recommend or advise investors to buy or s… [+4541 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reddit",
+      "Save",
+      "Pay",
+      "Loans",
+      "Asked",
+      "NerdWallet",
+      "chars",
+      "investing",
+      "information",
+      "provided"
+    ]
+  },
+  {
+    "source": "Bgbuster.com [NewsAPI]",
+    "url": "https://bgbuster.com/",
+    "title": "Show HN: A cheaper background removal API (no subscriptions, pay-per-credit)",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "Easily remove background from images with our powerful AIsmart objects detection",
+    "platforms_mentioned": [],
+    "keywords": [
+      "API",
+      "Easily",
+      "Show",
+      "subscriptions",
+      "detection",
+      "background",
+      "cheaper",
+      "removal",
+      "remove",
+      "images"
+    ]
+  },
+  {
+    "source": "KTVI Fox 2 St. Louis [NewsAPI]",
+    "url": "https://fox2now.com/news/missouri/vehicles-damaged-in-overnight-car-lot-fire-in-south-st-louis-no-injuries-reported/",
+    "title": "Vehicles damaged in overnight car lot fire in south St. Louis, no injuries reported",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "ST. LOUIS A set of vehicles were damaged overnight Friday after a fire in a used car lot in south St. Louis.\r\nThe fire broke out around 12:40 a.m. in the parking lot of South Side Auto Credit and Sal… [+837 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Louis",
+      "south",
+      "lot",
+      "fire",
+      "car",
+      "Vehicles",
+      "damaged",
+      "overnight",
+      "injuries",
+      "reported"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/t-mobile-autopay-credit-card-loophole-closed-3609886/",
+    "title": "It’s game over for this clever T-Mobile billing hack that saved users $5 per line monthly",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "<ul><li>T-Mobile has closed an AutoPay loophole that allowed customers to claim discounts while paying bills early using ineligible methods, such as credit cards.</li><li>Going forward, customers who… [+3044 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "T-Mobile",
+      "customers",
+      "users",
+      "monthly",
+      "methods",
+      "cards.",
+      "forward",
+      "game",
+      "clever"
+    ]
+  },
+  {
+    "source": "Nakedcapitalism.com [NewsAPI]",
+    "url": "https://www.nakedcapitalism.com/2025/10/wall-street-sends-in-its-big-guns-to-save-mileis-argentina-just-days-before-make-or-break-elections.html",
+    "title": "Wall Street Banks Come to the “Rescue” of Milei’s Argentina Just Days Before Make-or-Break Elections",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "A government largely run by former JP Morgan executives takes out a loan from current JPM executives (and other US banks). What could possibly go wrong?\r\nJP Morgan Chase CEO Jamie Dimon landed in Bue… [+20302 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rescue",
+      "Elections",
+      "Banks",
+      "Street",
+      "Milei",
+      "Argentina",
+      "Days",
+      "JPM",
+      "Morgan",
+      "executives"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/930101",
+    "title": "HiBREW G5 48mm Conical Burr Coffee Grinder $123.19 Delivered @ HiBREW Offical Store eBay AU",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nCredit to PS2isBetterthanPS3. Found an old … [+191 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delivered",
+      "Conical",
+      "Grinder",
+      "HiBREW",
+      "Burr",
+      "Coffee",
+      "Offical",
+      "Store",
+      "links",
+      "eBay"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2025/10/24/usdai-bridges-defi-and-ai-by-turning-stablecoins-into-loans-for-nvidia-gpus",
+    "title": "USD.AI Bridges DeFi and AI by Turning Stablecoins Into Loans for Nvidia GPUs",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "Decentralized finance (DeFi) is awash with stablecoins earning Treasury yields, while smaller players in the artificial intelligence (AI) industry struggle to raise capital for expanding data centers… [+2771 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "USD.AI",
+      "Stablecoins",
+      "Bridges",
+      "Turning",
+      "Loans",
+      "Nvidia",
+      "Decentralized",
+      "Treasury",
+      "finance"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/387833/indonesia-pushes-kpp-loans-to-achieve-3-million-houses-goal",
+    "title": "Indonesia pushes KPP loans to achieve 3 million houses goal",
+    "fetched_on": "2025-10-25T11:15:31.363276+00:00",
+    "content": "Jakarta (ANTARA) - Indonesia's Ministry of Housing and Settlements said the Housing Program Credit (KPP) is expected to accelerate the government's 3 Million Houses Program.The ministry's Secretary G… [+1817 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "million",
+      "ANTARA",
+      "Indonesia",
+      "chars",
+      "Jakarta",
+      "Credit",
+      "KPP",
+      "Housing",
+      "houses",
+      "Ministry"
+    ]
   }
 ]
