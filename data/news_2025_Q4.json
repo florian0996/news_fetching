@@ -102094,5 +102094,85 @@
       "Bitcoin-Backed",
       "Multi-Sig"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d4ac07d2efd79cb4",
+    "title": "Boo to spooky chocolate prices! It's the year of chewy, fruity Halloween treats",
+    "fetched_on": "2025-10-25T10:19:34.561677+00:00",
+    "content": "Sales of non-chocolate candy are growing faster than those of chocolate. With cocoa in shortage, manufacturers are changing pack sizes, adding fillers and dipping candy in \"white creme.\"(Image credit… [+68 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Boo",
+      "prices",
+      "chocolate",
+      "spooky",
+      "Halloween",
+      "Sales",
+      "candy",
+      "Image",
+      "chars",
+      "chewy"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/efaa00abe350cd4b",
+    "title": "Young bettors drive gambling boom, but cracks are showing",
+    "fetched_on": "2025-10-25T10:19:34.561677+00:00",
+    "content": "Gen Z and millennials are driving the fastest growth in sports betting, but a decline may be on the horizon, according to TransUnion's latest U.S. gaming report.Why it matters: The credit bureau says… [+138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Gen",
+      "Young",
+      "boom",
+      "betting",
+      "horizon",
+      "latest",
+      "gaming",
+      "matters",
+      "bettors"
+    ]
+  },
+  {
+    "source": "Stratechery.com [NewsAPI]",
+    "url": "https://stratechery.com/2025/the-cost-of-resiliency/",
+    "title": "2025.43: The Cost of Resiliency",
+    "fetched_on": "2025-10-25T10:19:34.561677+00:00",
+    "content": "(Photo by Greg Nash/UPI Credit: UPI/Alamy Live News)\r\nWelcome back to This Week in Stratechery!\r\nLast week we announced Sharp Text, a new site featuring weekly posts from Andrew Sharp, my Sharp Tech … [+3773 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UPI",
+      "Resiliency",
+      "Photo",
+      "Nash",
+      "Credit",
+      "Alamy",
+      "Stratechery",
+      "Cost",
+      "Greg",
+      "Live"
+    ]
+  },
+  {
+    "source": "Crypto Briefing [NewsAPI]",
+    "url": "https://cryptobriefing.com/jpmorgan-accepts-bitcoin-ether-collateral/",
+    "title": "JPMorgan plans to accept Bitcoin, Ethereum as loan collateral by year-end",
+    "fetched_on": "2025-10-25T10:19:34.561677+00:00",
+    "content": "Key Takeaways\r\n<ul><li>JPMorgan is set to accept Bitcoin and Ether as collateral for institutional lending and financial operations.</li><li>The integration highlights the growing adoption of crypto … [+559 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bitcoin",
+      "JPMorgan",
+      "accept",
+      "Ethereum",
+      "Takeaways",
+      "chars",
+      "Key",
+      "Ether",
+      "collateral",
+      "operations."
+    ]
   }
 ]
