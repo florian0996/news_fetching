@@ -1,9 +1,19 @@
 {
+  "2025-10-25": {
+    "status": "no company in the news"
+  },
   "2025-10-24": {
     "articles": [
       {
         "title": "LevelUp Checking Drives LendingClub Account Openings",
         "url": "https://www.pymnts.com/news/digital-banking/2025/levelup-checking-drives-lendingclub-account-openings/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub upgraded, Enphase Energy downgraded: Wall Street's top analyst calls",
+        "url": "https://finance.yahoo.com/news/lendingclub-upgraded-enphase-energy-downgraded-133908575.html",
         "platforms_mentioned": [
           "Lending Club"
         ]
