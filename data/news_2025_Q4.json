@@ -101559,5 +101559,145 @@
       "asked",
       "stop"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/live-oak-bancshares-inc-lob-050049726.html",
+    "title": "Live Oak Bancshares Inc (LOB) Q3 2025 Earnings Call Highlights: Strong Loan Growth and ...",
+    "fetched_on": "2025-10-25T05:19:15.875033+00:00",
+    "content": "Q: Can you provide more details on the increase in non-performing assets (NPAs) this quarter and the trends in new defaults? Also, what are your expectations for charge-offs? A: Michael Cairns, Chief… [+2143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LOB",
+      "Earnings",
+      "Highlights",
+      "Strong",
+      "Oak",
+      "Bancshares",
+      "Call",
+      "Loan",
+      "Growth",
+      "Live"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2025/10/24/irish-consumer-sentiment-falls-as-rising-living-costs-bite/",
+    "title": "Irish consumer sentiment falls as rising living costs bite",
+    "fetched_on": "2025-10-25T05:19:15.875033+00:00",
+    "content": "Irish consumer sentiment fell to a three-month low in October as consumers fretted about rising living costs and reduced fiscal supports.\r\nThe latest Credit Union consumer sentiment index fell to 59.… [+2409 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Irish",
+      "living",
+      "October",
+      "rising",
+      "costs",
+      "sentiment",
+      "consumer",
+      "fell",
+      "supports",
+      "falls"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/oppo-phones/i-tested-the-oppo-find-x9-pros-camera-i-cant-believe-how-good-it-is",
+    "title": "I tested the OPPO Find X9 Pro's camera — I can't believe how good it is",
+    "fetched_on": "2025-10-25T05:19:15.875033+00:00",
+    "content": "(Image credit: Nicholas Sutrich / Android Central)\r\nIn Hardwired, AC Senior Editor Harish Jonnalagadda delves into all things hardware, including phones, audio products, storage servers, and networki… [+3908 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Find",
+      "Pro",
+      "Image",
+      "Nicholas",
+      "Sutrich",
+      "Android",
+      "Central",
+      "Hardwired",
+      "OPPO"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18728626-tmobile-ends-credit-card-autopay-discount-loophole",
+    "title": "Tmobile ends credit card autopay discount loophole",
+    "fetched_on": "2025-10-25T05:19:15.875033+00:00",
+    "content": "No clue, but that's how it worked before:T-Mobile has ended a workaround for its autopay discount that allowed customers to pay with a credit card while keeping the discount. Starting October 24, 202… [+1192 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "discount",
+      "credit",
+      "card",
+      "autopay",
+      "Tmobile",
+      "clue",
+      "T-Mobile",
+      "October",
+      "ends",
+      "loophole"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/taking-a-second-home-loan-tax-benefits-eligibility-and-smart-planning-explained/can-you-take-more-than-one-home-loan-in-india/slideshow/124776851.cms",
+    "title": "Taking a second home loan? Tax benefits, eligibility, and smart planning explained",
+    "fetched_on": "2025-10-25T05:19:15.875033+00:00",
+    "content": "Oct 24, 2025, 10:14:39 AM IST\r\nYou can absolutely take more than one home loan; there’s no rule against it. What really matters is whether you can repay them comfortably. Lenders don’t focus on how m… [+2868 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "Taking",
+      "home",
+      "Oct",
+      "eligibility",
+      "IST",
+      "chars",
+      "Tax",
+      "benefits",
+      "comfortably"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/most-people-expect-household-costs-to-keep-rising-next-year-but-few-believe-they-will-get-pay-rises/a1790364466.html",
+    "title": "Most people expect household costs to keep rising next year, but few believe they will get pay rises",
+    "fetched_on": "2025-10-25T05:19:15.875033+00:00",
+    "content": "A majority of consumers expect their household costs to rise next year.But only a minority think their income will increase to enable them to cope with the higher prices, the latest Credit Union Cons… [+2068 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "costs",
+      "Cons",
+      "chars",
+      "household",
+      "Credit",
+      "Union",
+      "expect",
+      "year",
+      "prices",
+      "people"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/city/kochi/kerala-4-year-old-swallows-pen-cap-chokes-to-death-in-thrissur-district/articleshow/124776226.cms",
+    "title": "Kerala: 4-year-old swallows pen cap, chokes to death in Thrissur district",
+    "fetched_on": "2025-10-25T05:19:15.875033+00:00",
+    "content": "Photo credit: AI (Image used for representative purpose only)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kerala",
+      "Image",
+      "Thrissur",
+      "Photo",
+      "swallows",
+      "cap",
+      "chokes",
+      "credit",
+      "pen",
+      "death"
+    ]
   }
 ]
