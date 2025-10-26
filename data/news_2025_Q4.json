@@ -105199,5 +105199,45 @@
       "update",
       "management"
     ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/apps-software/ai/google-carbon-capture-initiative-a-savior-or-a-smokescreen",
+    "title": "Google says its new carbon capture initiative unlocks 'a critical technology pathway to enable a clean, affordable, reliable energy future,' but are initiatives like this a savior or a smokescreen as AI becomes more power-hungry?",
+    "fetched_on": "2025-10-26T15:18:46.058108+00:00",
+    "content": "(Image credit: Future)\r\nOne of the web's longest-running tech columns, Android &amp; Chill is your Saturday discussion of Android, Google, and all things tech.\r\nAI has woven itself into the very fabr… [+7780 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "future",
+      "affordable",
+      "Android",
+      "unlocks",
+      "clean",
+      "reliable",
+      "power-hungry",
+      "carbon",
+      "capture"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/10/assistant-ag-dhillon-buries-gavin-newsom-inconvenient-fact/",
+    "title": "Assistant AG Dhillon Buries Gavin Newsom with an Inconvenient Fact After He Flips Out Over DOJ Sending Election Monitors to California to Stop Dems From Rigging Redistricting Referendum (VIDEO)",
+    "fetched_on": "2025-10-26T15:18:46.058108+00:00",
+    "content": "California Governor Gavin Newsom flipped out after learning that the DOJ was sending election monitors to prevent cheating in November’s redistricting vote. Credit: @GavinNewsom\r\nThe Trump Administra… [+4622 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gavin",
+      "Newsom",
+      "VIDEO",
+      "Election",
+      "Monitors",
+      "DOJ",
+      "California",
+      "Sending",
+      "Referendum",
+      "Redistricting"
+    ]
   }
 ]
