@@ -105619,5 +105619,45 @@
       "Thriller",
       "Dynamite’"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/kotak-mahindra-consolidated-net-profit-for-q2fy26-drops-by-11/articleshow/124818544.cms",
+    "title": "Kotak Mahindra consolidated net profit for Q2FY26 drops by 11%",
+    "fetched_on": "2025-10-26T21:17:49.987112+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Mahindra",
+      "Kotak",
+      "drops",
+      "loan",
+      "consolidated",
+      "net",
+      "profit",
+      "CalculatorDetermine",
+      "monthly"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/10/25/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "fetched_on": "2025-10-26T21:17:49.987112+00:00",
+    "content": "What to watch this weekend.\r\nCredit: Netflix / HBO\r\nEvil clowns lurking in small-town sewers. Star-crossed lovers with wildly different belief systems. A nuclear missile headed for Chicago. These and… [+10513 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Weekend",
+      "Watch",
+      "Hulu",
+      "Prime",
+      "Video",
+      "Apple",
+      "Netflix",
+      "Shows",
+      "Movies",
+      "Stream"
+    ]
   }
 ]
