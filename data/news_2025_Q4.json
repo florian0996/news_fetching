@@ -105659,5 +105659,25 @@
       "Movies",
       "Stream"
     ]
+  },
+  {
+    "source": "CBS Sports [NewsAPI]",
+    "url": "https://www.cbssports.com/college-football/news/lane-kiffin-big-win-ole-miss-oklahoma-florida-coaching-search/",
+    "title": "Lane Kiffin's big win over Oklahoma is great news for Ole Miss -- but bad news for Florida coaching search",
+    "fetched_on": "2025-10-26T22:19:22.167387+00:00",
+    "content": "Give an older, wiser Lane Kiffin credit for how he's handling a tricky situation that can distract and frustrate even the most focused of college football coaches. \r\nWith speculation already swirling… [+4811 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kiffin",
+      "Lane",
+      "Miss",
+      "Oklahoma",
+      "Ole",
+      "Florida",
+      "Give",
+      "older",
+      "wiser",
+      "coaches"
+    ]
   }
 ]
