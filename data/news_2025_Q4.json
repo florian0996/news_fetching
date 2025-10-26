@@ -105559,5 +105559,65 @@
       "Gemini",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-10-26/ai-is-in-the-office-and-here-are-cfos-early-reviews-gsk-mfc-arm-lif",
+    "title": "Is AI Paying Off Yet, and If Not Now, When?",
+    "fetched_on": "2025-10-26T20:21:45.779641+00:00",
+    "content": "<p>CFOs&nbsp;envisage efficiency gains, but worry about the costs associated&nbsp;with the technology. Plus, Manulife’s Colin Simpson talks about private credit and Asia.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paying",
+      "Manulife",
+      "Asia.",
+      "CFOs",
+      "gains",
+      "technology",
+      "Colin",
+      "Simpson",
+      "envisage",
+      "efficiency"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4348611/posts",
+    "title": "Astronomy Picture of the Day- Government shutdown so no APOD Today. I will dig up some of my favorites - Trio Leo",
+    "fetched_on": "2025-10-26T20:21:44.828843+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day- Government shutdown so no APOD Today. I will dig up some of my favorites - Trio Leo\r\nNASA ^\r\n | 9 May, 2015\r\n | Image Credit &amp; Copyright: Philippe… [+2325 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Government",
+      "Today",
+      "Picture",
+      "APOD",
+      "Trio",
+      "Astronomy",
+      "Leo",
+      "shutdown",
+      "favorites"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/a-house-of-dynamite-cast-5482432/",
+    "title": "‘A House of Dynamite’ Cast: A Guide to the Stars in the Thriller Movie",
+    "fetched_on": "2025-10-26T20:21:44.828843+00:00",
+    "content": "Image Credit: Eros Hoagland/Netflix\r\nNetflix released its latest political thriller A House of Dynamite on October 24, 2025, and viewers were floored by its high-stakes plot, star-studded cast and om… [+2008 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "House",
+      "Netflix",
+      "Credit",
+      "Eros",
+      "Hoagland",
+      "October",
+      "chars",
+      "Cast",
+      "Thriller",
+      "Dynamite’"
+    ]
   }
 ]
