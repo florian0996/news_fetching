@@ -105479,5 +105479,25 @@
       "America",
       "chars"
     ]
+  },
+  {
+    "source": "KSN-TV [NewsAPI]",
+    "url": "https://www.ksn.com/news/card-skimmer-found-on-gas-pump-in-small-kansas-town/",
+    "title": "Card skimmer found on gas pump in small Kansas town",
+    "fetched_on": "2025-10-26T18:27:50.809225+00:00",
+    "content": "WICHITA, Kan. (KSNW) A credit card skimming device was found on a gas pump in Hesston, authorities said Saturday.\r\nIt happened on Monday at a Caseys General Store on U.S. Route 81, Hesston police sai… [+1120 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kan",
+      "WICHITA",
+      "Kansas",
+      "pump",
+      "found",
+      "gas",
+      "Hesston",
+      "KSNW",
+      "Card",
+      "skimmer"
+    ]
   }
 ]
