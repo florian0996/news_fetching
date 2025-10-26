@@ -105399,5 +105399,85 @@
       "Bet",
       "Acquisition"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/home/environment/chinas-rare-golden-monkeys-debut-at-european-zoos-possible-successor-to-panda-diplomacy/articleshow/124810278.cms",
+    "title": "China's rare golden monkeys debut at European zoos, possible successor to 'panda diplomacy'",
+    "fetched_on": "2025-10-26T17:16:54.611857+00:00",
+    "content": "China's rare golden monkeys debut at European zoos (Photo credit: AP)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "European",
+      "zoos",
+      "Photo",
+      "rare",
+      "golden",
+      "monkeys",
+      "debut",
+      "panda",
+      "diplomacy"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/economy-finance/step-towards-transparency-cbic-merges-31-customs-duty-notifications-into-one",
+    "title": "'Step Towards Transparency': CBIC Merges 31 Customs Duty Notifications Into One",
+    "fetched_on": "2025-10-26T17:16:54.611857+00:00",
+    "content": "In a key clarification to insurers, the CBIC said that input tax credit will not be allowed on individual life and health insurance premiums that are exempted under the goods and services. \r\n\"No ITC … [+818 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CBIC",
+      "Step",
+      "Transparency",
+      "Merges",
+      "Customs",
+      "Duty",
+      "Notifications",
+      "insurers",
+      "services",
+      "chars"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/wearables/google-pixel-watch/pixel-watch-fitbit-ai-daily-run-recommendations-helped-me-run-better",
+    "title": "The Pixel Watch may not be my ideal workout smartwatch, but it did the unthinkable — it helped me not hate running, thanks to some Fitbit AI magic",
+    "fetched_on": "2025-10-26T17:16:54.611857+00:00",
+    "content": "(Image credit: Android Central)\r\nAndroid Central's Editor's Desk is a weekly column discussing the latest news, trends, and happenings in the Android and mobile tech space.\r\nA runner I am not. I spen… [+7644 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Android",
+      "Central",
+      "Image",
+      "Pixel",
+      "Watch",
+      "Fitbit",
+      "Editor",
+      "Desk",
+      "trends",
+      "smartwatch"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/10/white-house-responds-after-kamala-harris-teases-she/",
+    "title": "White House Responds After Kamala Harris Teases She May Run Again for President in 2028 (VIDEO)",
+    "fetched_on": "2025-10-26T17:16:54.611857+00:00",
+    "content": "Credit: Gage Skidmore/Flicker\r\nFailed Vice President Kamala Harris is once again floating the idea of running for president in 2028, proving that some liberals just can’t take a hint from the America… [+3425 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "President",
+      "VIDEO",
+      "Credit",
+      "Kamala",
+      "Harris",
+      "Gage",
+      "Skidmore",
+      "Flicker",
+      "America",
+      "chars"
+    ]
   }
 ]
