@@ -104766,5 +104766,98 @@
       "face",
       "Hands-On"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/rbi-circular-bank-m-a-loans-private-credit-corporate-buyouts-11761373102325.html",
+    "title": "Mint Explainer | RBI tightens rules on bank M&A loans: What it means for corporate buyouts",
+    "fetched_on": "2025-10-26T09:18:53.591718+00:00",
+    "content": "The Reserve Bank of India (RBI) has proposed a new framework to regulate how banks fund mergers and acquisitions (M&amp;As), bringing acquisition financing under stricter prudential norms. The draft … [+6725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Explainer",
+      "India",
+      "Reserve",
+      "bank",
+      "Mint",
+      "loans",
+      "bringing",
+      "norms",
+      "banks"
+    ]
+  },
+  {
+    "source": "Hacker News [NewsAPI]",
+    "url": "https://news.ycombinator.com/item?id=45702363",
+    "title": "Tell HN: OpenAI now requires ID verification and won't refund API credits",
+    "fetched_on": "2025-10-26T09:18:53.591718+00:00",
+    "content": "Just searched for their actual policies to corroborate and found the policies on ID verification:https://help.openai.com/en/articles/10910291-api-organizatio...\r\nAnd that credits are nonrefundable:\r\n… [+786 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "https",
+      "articles",
+      "API",
+      "verification",
+      "policies",
+      "OpenAI",
+      "credits",
+      "requires",
+      "refund",
+      "searched"
+    ]
+  },
+  {
+    "source": "RT [NewsAPI]",
+    "url": "https://www.rt.com/business/626947-moody-france-credit-outlook/",
+    "title": "Key rating agency slashes France’s credit outlook",
+    "fetched_on": "2025-10-26T09:18:53.591718+00:00",
+    "content": "Moody’s credit ratings agency has revised France’s outlook from ‘stable’ to ‘negative’, citing political “fragmentation,” which it warned could cripple the country’s ability to address key policy cha… [+2051 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "France",
+      "negative’",
+      "fragmentation",
+      "chars",
+      "agency",
+      "credit",
+      "Moody",
+      "Key",
+      "outlook",
+      "stable’"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/are-there-systemic-risks-in-the-private-credit-market-capital-economics-weighs-in-4302206",
+    "title": "Are there systemic risks in the private credit market? Capital Economics weighs in",
+    "fetched_on": "2025-10-26T09:19:04.275836+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "market",
+      "systemic",
+      "risks",
+      "private",
+      "credit",
+      "Economics",
+      "Capital",
+      "weighs"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/very-group-loses-500m-loan-050000225.html",
+    "title": "Very Group loses £500m on loan to Barclay family",
+    "fetched_on": "2025-10-26T09:19:11.327139+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group",
+      "Barclay",
+      "loses",
+      "family",
+      "loan"
+    ]
   }
 ]
