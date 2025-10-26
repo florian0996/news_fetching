@@ -104899,5 +104899,65 @@
       "analytics",
       "company"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-26/saudi-banks-signal-a-pullback-in-lending-after-years-of-growth",
+    "title": "Saudi Banks Signal a Pullback in Lending After Years of Growth",
+    "fetched_on": "2025-10-26T11:15:42.592193+00:00",
+    "content": "Saudi Arabian banks are starting to show signs of pulling back on lending for the first time in years as liquidity tightness and new bank regulations make it more challenging to keep up with demand for credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Saudi",
+      "Lending",
+      "Years",
+      "Signal",
+      "Pullback",
+      "Growth",
+      "Arabian",
+      "Banks",
+      "credit",
+      "starting"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/20a6212b02fec2f6",
+    "title": "HELOC rates today, October 25, 2025: Downward momentum",
+    "fetched_on": "2025-10-26T11:15:42.046385+00:00",
+    "content": "The average HELOC rate is 7.75%, according to the analytics company Curinos. Interest rates on home equity lines of credit have downward momentum and are expected to keep falling through the end of t… [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "October",
+      "Curinos",
+      "Downward",
+      "today",
+      "momentum",
+      "rates",
+      "average",
+      "analytics",
+      "company"
+    ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/person/player/i-didnt-want-to-go-in-for-the-next-three-days-after-we-got-beaten-8-0-by-newcastle-i-just-wanted-to-hide-under-my-bed-james-mcatee-opens-up-on-his-sheffield-united-loan-spells",
+    "title": "‘I didn’t want to go in for the next three days after we got beaten 8-0 by Newcastle, I just wanted to hide under my bed’ James McAtee opens up on his Sheffield United loan spells",
+    "fetched_on": "2025-10-26T11:15:42.046385+00:00",
+    "content": "Graduating from the Manchester City youth team to Pep Guardiola’s senior squad is no easy feat.\r\nEven a prodigious talent such as Cole Palmer felt he was best served moving on from the club in order … [+2453 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Newcastle",
+      "James",
+      "Sheffield",
+      "United",
+      "Graduating",
+      "Manchester",
+      "City",
+      "Pep",
+      "Guardiola",
+      "feat"
+    ]
   }
 ]
