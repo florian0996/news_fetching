@@ -104706,5 +104706,65 @@
       "Monitor",
       "payments"
     ]
+  },
+  {
+    "source": "Khabarhub.com [NewsAPI]",
+    "url": "https://english.khabarhub.com/2025/25/502466/",
+    "title": "Financial literacy is the missing skill Nepali youth desperately need",
+    "fetched_on": "2025-10-26T08:24:31.232828+00:00",
+    "content": "Money touches nearly every aspect of our lives, from buying groceries to paying bills, taking loans, or planning for the future. Yet, despite its central role, most of us are never properly taught ho… [+7543 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nepali",
+      "Money",
+      "Financial",
+      "lives",
+      "bills",
+      "taking",
+      "loans",
+      "future",
+      "chars",
+      "literacy"
+    ]
+  },
+  {
+    "source": "Dpa-international.com [NewsAPI]",
+    "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:251025-99-432230/",
+    "title": "US credit rating downgraded over 'weakening of governance standards'",
+    "fetched_on": "2025-10-26T08:24:31.232828+00:00",
+    "content": "US flags fly in Washington city center. European ratings agency Scope has downgraded the creditworthiness of the United States, citing \"sustained deterioration in public finances and a weakening of g… [+3698 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Washington",
+      "center",
+      "weakening",
+      "downgraded",
+      "credit",
+      "governance",
+      "standards'",
+      "flags",
+      "fly",
+      "city"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/prescription-lens-ar-glasses/",
+    "title": "Inmo Air 3 Glasses : One Week Hands-On Testing Review",
+    "fetched_on": "2025-10-26T08:24:31.232828+00:00",
+    "content": "Have you ever wondered what its like to wear the future, literally, on your face? The Inmo Air 3 AR glasses promise to transform how we interact with the world, blending innovative tech with everyday… [+7082 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Air",
+      "literally",
+      "Week",
+      "Testing",
+      "Review",
+      "Inmo",
+      "Glasses",
+      "future",
+      "face",
+      "Hands-On"
+    ]
   }
 ]
