@@ -105499,5 +105499,65 @@
       "Card",
       "skimmer"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/33fbe4f43845e96c",
+    "title": "Weakest Consumers Face More Pain, Bond Data Shows: Credit Weekly",
+    "fetched_on": "2025-10-26T19:15:48.761223+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Southwest stock fall while American Airlines surged? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is the g… [+836 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Pain",
+      "Bond",
+      "Shows",
+      "Credit",
+      "Weekly",
+      "return",
+      "false"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/iphone-18-12gb-ram_id175188",
+    "title": "iPhone 18 rumored to be a big step up in performance over iPhone 17",
+    "fetched_on": "2025-10-26T19:15:48.761223+00:00",
+    "content": "The iPhone 17 family. | Image Credit - PhoneArena\r\nThe base iPhone 18 model will have as much RAM as the other models in the lineup, according to a new report. Right now, the iPhone 17 is the only va… [+3105 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "iPhone",
+      "family",
+      "rumored",
+      "big",
+      "step",
+      "performance",
+      "Image",
+      "Credit",
+      "RAM",
+      "PhoneArena"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7b9dc9ea9c4a9c45",
+    "title": "SOL Now on Fidelity’s Retail Platform as Price Tests $195 While $188 Support Draws Focus",
+    "fetched_on": "2025-10-26T19:15:48.761223+00:00",
+    "content": "SOL Now on Fidelitys Retail Platform as Price Tests $195 While $188 Support Draws FocusSOL lands on Fidelity's retail trading platform, Gemini launches the Solana edition of its credit card, and $188… [+141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tests",
+      "Support",
+      "Platform",
+      "Price",
+      "Retail",
+      "Fidelity",
+      "SOL",
+      "Draws",
+      "Gemini",
+      "chars"
+    ]
   }
 ]
