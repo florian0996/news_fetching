@@ -106237,5 +106237,65 @@
       "cardholders",
       "perks"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/relief-for-lenders-as-unsecured-loan-stress-abates/article70205162.ece",
+    "title": "Relief for lenders as unsecured loan stress abates",
+    "fetched_on": "2025-10-27T14:22:06.183610+00:00",
+    "content": "Banks have reported a marked improvement in their unsecured personal, micro and credit card loan segment asset quality in Q2FY26, a pain point over the last fiscal, as focus was to underwrite better … [+2549 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Banks",
+      "Relief",
+      "personal",
+      "micro",
+      "fiscal",
+      "unsecured",
+      "loan",
+      "lenders",
+      "stress"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-june-lockhart-5-things-about-late-actress-5482458/",
+    "title": "Who Is June Lockhart? 5 Things About the ‘Lost in Space’ Star Who Died at 100",
+    "fetched_on": "2025-10-27T14:22:06.183610+00:00",
+    "content": "Image Credit: Getty Images\r\nJune Lockhart, one of televisions most beloved matriarchs, has died at the age of 100. According to her family, Lockhart passed away peacefully at her home in Santa Monica… [+2379 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lockhart",
+      "June",
+      "Died",
+      "Things",
+      "Lost",
+      "Credit",
+      "Getty",
+      "Space’",
+      "Star",
+      "Monica"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-timothy-mellon-5482461/",
+    "title": "Who Is Timothy Mellon? All About the $130 Million Mystery Troops Donor",
+    "fetched_on": "2025-10-27T14:22:06.183610+00:00",
+    "content": "Image Credit: AFP via Getty Images\r\nIn late October 2025, the Pentagon accepted an anonymous donation of $130 million to cover military personnel salaries during the ongoing government shutdown. Dona… [+2321 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mellon",
+      "Timothy",
+      "Million",
+      "Credit",
+      "AFP",
+      "October",
+      "Mystery",
+      "Troops",
+      "Donor",
+      "Getty"
+    ]
   }
 ]
