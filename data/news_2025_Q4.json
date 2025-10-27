@@ -105857,5 +105857,65 @@
       "Shopback",
       "AmEx"
     ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/article-871609",
+    "title": "INGL announces Israel's new deal to export natural gas to Egypt via two billion shekel pipeline",
+    "fetched_on": "2025-10-27T06:35:10.779254+00:00",
+    "content": "Energy and Infrastructure Minister Eli Cohen. (photo credit: Asaf Magal/GPO)\r\nThe planned length of the new line (Ramat HovavAshalimNitzana) is about 65 km., and will allow the transfer of approximat… [+2508 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "INGL",
+      "Cohen",
+      "Israel",
+      "Egypt",
+      "Energy",
+      "Infrastructure",
+      "Minister",
+      "Eli",
+      "GPO",
+      "announces"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/markets/vedanta-resources-raises-500-million-via-bond-issuance-how-will-it-use-proceeds",
+    "title": "Vedanta Resources Raises $500 Million Via Bond Issuance: How Will It Use Proceeds?",
+    "fetched_on": "2025-10-27T06:35:10.779254+00:00",
+    "content": "The company said that it has completed 'a 500 million dollar bond issuance, using proceeds to repay near-term obligations, including a 550 million dollar Private Credit Facility (PCF), in line with i… [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Issuance",
+      "Raises",
+      "Resources",
+      "Bond",
+      "Proceeds",
+      "PCF",
+      "Vedanta",
+      "Facility",
+      "dollar"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/navy-federal-app-outage-when-will-services-be-back-and-what-the-credit-union-has-said-about-it/articleshow/124823263.cms",
+    "title": "Navy Federal Credit Union outage: Why it happened, when services will return, and the credit union’s response",
+    "fetched_on": "2025-10-27T06:35:10.779254+00:00",
+    "content": "Navy Federal Credit Union is experiencing significant mobile and online banking disruptions, with numerous users reporting login issues. The institution attributes the outages to scheduled system mai… [+190 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Federal",
+      "Union",
+      "Navy",
+      "happened",
+      "return",
+      "disruptions",
+      "issues",
+      "services",
+      "response"
+    ]
   }
 ]
