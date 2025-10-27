@@ -105917,5 +105917,25 @@
       "services",
       "response"
     ]
+  },
+  {
+    "source": "The Conversation Africa [NewsAPI]",
+    "url": "https://theconversation.com/ghanas-banks-are-not-lending-enough-to-sectors-where-it-matters-most-like-agriculture-and-manufacturing-265433",
+    "title": "Ghana’s banks are not lending enough to sectors where it matters most, like agriculture and manufacturing",
+    "fetched_on": "2025-10-27T07:20:32.538137+00:00",
+    "content": "Bank lending is a major source of funding for businesses in Ghana. It helps pay for operational expenditure and investment in expansion of productive capacity. Therefore, it is important that there i… [+6765 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ghana",
+      "lending",
+      "banks",
+      "Bank",
+      "sectors",
+      "matters",
+      "agriculture",
+      "manufacturing",
+      "major",
+      "source"
+    ]
   }
 ]
