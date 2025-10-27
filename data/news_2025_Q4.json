@@ -105717,5 +105717,65 @@
       "cards",
       "car"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/world/how-risky-is-the-growth-in-us-private-credit/article",
+    "title": "How risky is the growth in US private credit?",
+    "fetched_on": "2025-10-27T01:47:59.228590+00:00",
+    "content": "The recent bankruptcies of US companies First Brands and Tricolor have focused attention on risks associated with the growth in the private credit market, or lending outside traditional banks.\r\nBank … [+3602 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "growth",
+      "private",
+      "credit",
+      "risky",
+      "Brands",
+      "Tricolor",
+      "banks",
+      "Bank",
+      "chars",
+      "market"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/video/6384069737112",
+    "title": "Anti-ICE agitator arrested outside Portland facility after clash with officers",
+    "fetched_on": "2025-10-27T01:47:59.228590+00:00",
+    "content": "Video shows federal officers detaining a female activist after she crossed a restricted line outside the ICE building in Portland, Oregon, Saturday. (Credit: TPUSA Frontlines)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oregon",
+      "Saturday",
+      "Portland",
+      "Video",
+      "ICE",
+      "Credit",
+      "Anti-ICE",
+      "officers",
+      "TPUSA",
+      "Frontlines"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/premium-gadgets-lead-festive-sales-boom-as-gst-cuts-demand-and-easy-credit-fuel-big-ticket-buys/articleshow/124816011.cms",
+    "title": "Premium gadgets lead festive sales boom as GST cuts, demand and easy credit fuel big-ticket buys",
+    "fetched_on": "2025-10-27T01:47:59.228590+00:00",
+    "content": "Kolkata: Premiumisation sparkled brighter than ever this Diwali with Indians splurging on costlier smartphones, large-screen televisions, and high-end home appliances.From Navratri to Diwali, sales o… [+2476 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Kolkata",
+      "Premiumisation",
+      "Diwali",
+      "GST",
+      "Indians",
+      "Navratri",
+      "Premium",
+      "cuts",
+      "demand"
+    ]
   }
 ]
