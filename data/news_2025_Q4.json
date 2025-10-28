@@ -107535,5 +107535,125 @@
       "pegged",
       "yen"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-28/brookfield-says-deal-activity-dramatically-picked-up-video",
+    "title": "Brookfield Says Deal Activity 'Dramatically' Picked Up",
+    "fetched_on": "2025-10-28T05:21:20.325826+00:00",
+    "content": "Brookfield Asset Management Ltd.’s Head of Private Equity Anuj Ranjan sees the sector growing side by side with private credit and says deal activity has picked up \"dramatically.\" He speaks on the sidelines of the Future Investment Initiative in Saudi Arabia. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dramatically",
+      "Deal",
+      "Activity",
+      "Picked",
+      "Brookfield",
+      "Private",
+      "Asset",
+      "Management",
+      "Ltd.’s",
+      "Head"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-28/brookfield-says-private-credit-not-crowding-out-private-equity",
+    "title": "Brookfield Says Private Credit Not Crowding Out Private Equity",
+    "fetched_on": "2025-10-28T05:21:20.325833+00:00",
+    "content": "Brookfield Asset Management Ltd.’s head of private equity Anuj Ranjan sees the sector growing side by side with private credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Credit",
+      "Equity",
+      "Brookfield",
+      "Crowding",
+      "Asset",
+      "Management",
+      "Ltd.’s",
+      "Anuj",
+      "Ranjan"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-28/thai-central-bank-chief-wants-bad-debt-purchases-doubled",
+    "title": "Thai Central Bank Chief Wants Bad-Debt Purchases Doubled",
+    "fetched_on": "2025-10-28T05:21:21.131579+00:00",
+    "content": "The Bank of Thailand wants the nation’s asset management companies to double their bad-loan purchases to help solve the high household debt problem, according to Governor Vitai Ratanakorn.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Ratanakorn",
+      "Purchases",
+      "Central",
+      "Chief",
+      "Doubled",
+      "Thailand",
+      "Governor",
+      "Vitai",
+      "Thai"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/10-smart-strategies-to-manage-the-repayment-of-multiple-personal-loans-emis-interest-rates-11761541015235.html",
+    "title": "10 smart strategies to manage the repayment of multiple personal loans",
+    "fetched_on": "2025-10-28T05:21:19.634029+00:00",
+    "content": "Sometimes things dont work as smoothly as expected. Multiple financial emergencies may follow one after the other.\r\nFor example, a person may already have a couple of personal loans running. The pers… [+7111 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "smart",
+      "expected",
+      "multiple",
+      "personal",
+      "loans",
+      "strategies",
+      "manage",
+      "repayment",
+      "things",
+      "dont"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d8a27d5c254121cb",
+    "title": "Navy Federal Credit Union Outage: What Happened, Who’s Affected, and When Services Will Return",
+    "fetched_on": "2025-10-28T05:21:19.634029+00:00",
+    "content": "Quick Read- Navy Federal Credit Union is experiencing major outages affecting mobile and online banking.- Most issues reported are with mobile login; over 350 incidents tracked in 24 hours.- The cred… [+136 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Navy",
+      "Federal",
+      "Credit",
+      "Union",
+      "hours.",
+      "chars",
+      "Happened",
+      "Affected",
+      "Read",
+      "Services"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/earning-rs-1-8-lakh-per-month-and-still-struggling-to-save-ca-points-out-the-financial-mistake-that-leaves-you-broke-every-month/articleshow/124839437.cms",
+    "title": "Earning Rs 1.8 lakh per month and still struggling to save? CA points out the financial mistake that leaves you broke every month",
+    "fetched_on": "2025-10-28T05:21:19.634029+00:00",
+    "content": "A viral post by CA Nitin Kaushik highlights how a Rs 1.8 lakh monthly salary in a metro city can feel insufficient due to high expenses. He details significant costs for rent, food, car, credit cards… [+156 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lakh",
+      "Earning",
+      "save",
+      "month",
+      "struggling",
+      "Nitin",
+      "Kaushik",
+      "food",
+      "car",
+      "chars"
+    ]
   }
 ]
