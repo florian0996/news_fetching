@@ -110873,5 +110873,125 @@
       "credit",
       "ending"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-28/goldman-pauses-2-5-billion-sevita-loan-with-plan-to-revise-sale",
+    "title": "Goldman Pauses $2.5 Billion Sevita Loan With Plan to Revise Sale",
+    "fetched_on": "2025-10-28T22:20:18.826645+00:00",
+    "content": "Healthcare services firm Sevita is withdrawing a $2.5 billion leveraged loan sale, according to people familiar with the matter, the latest multibillion-dollar deal to be pulled as investors ramp up their scrutiny of borrowers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Sevita",
+      "Pauses",
+      "Loan",
+      "Sale",
+      "Plan",
+      "Revise",
+      "Healthcare",
+      "Goldman",
+      "matter"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://uk.news.yahoo.com/jamaica-orders-evacuation-capital-major-114559484.html",
+    "title": "Jamaica orders evacuation of capital as major hurricane approaches",
+    "fetched_on": "2025-10-28T22:20:17.851517+00:00",
+    "content": "Credit: CSU/CIRA, NOAA &amp; Windy.com\r\nJamaica has ordered the evacuation of its capital as it braces for whats thought to become the most catastrophic hurricane in the islands history.\r\nThe Categor… [+5189 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CSU",
+      "CIRA",
+      "NOAA",
+      "Jamaica",
+      "Credit",
+      "Windy.com",
+      "evacuation",
+      "capital",
+      "hurricane",
+      "history"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/34ff5415bddd8c6b",
+    "title": "Norinchukin Sticks to Credit Bets to Fix $266 Billion Portfolio",
+    "fetched_on": "2025-10-28T22:20:17.851517+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon planning massive corporate layoffs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is US-China trade d… [+739 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Fix",
+      "Billion",
+      "Portfolio",
+      "return",
+      "false",
+      "Sticks",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4f0b4a1a9028c935",
+    "title": "Private Credit Firms’ Hot Strategy to Cut Leverage Wins Over Keurig Dr Pepper",
+    "fetched_on": "2025-10-28T22:20:17.851517+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon planning massive corporate layoffs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is US-China trade d… [+740 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Pepper",
+      "return",
+      "false",
+      "Credit",
+      "Firms’",
+      "Hot",
+      "Strategy"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/private-credit-firms-hot-strategy-to-cut-leverage-wins-over-keurig-dr-pepper",
+    "title": "Private Credit Firms’ Hot Strategy to Cut Leverage Wins Over Keurig Dr Pepper",
+    "fetched_on": "2025-10-28T22:20:17.851517+00:00",
+    "content": "(Bloomberg) Keurig Dr Pepper Inc. had a problem: Investors were skeptical of how much debt the company would be taking on with its proposed acquisition of JDE Peets NV. \r\nTHIS CONTENT IS RESERVED FOR… [+5281 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Keurig",
+      "Pepper",
+      "Credit",
+      "Firms’",
+      "Hot",
+      "Strategy",
+      "Cut",
+      "Leverage",
+      "Wins"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/27/3175018/31028/en/Ferrellgas-L-P-Announces-Closing-of-Senior-Notes-Offering-and-Entry-Into-Credit-Agreement-Amendment.html",
+    "title": "Ferrellgas, L.P. Announces Closing of Senior Notes Offering and Entry Into Credit Agreement Amendment",
+    "fetched_on": "2025-10-28T22:20:17.851517+00:00",
+    "content": "LIBERTY, Mo., Oct. 27, 2025 (GLOBE NEWSWIRE) -- Ferrellgas, L.P. (the Company) and its wholly-owned subsidiary Ferrellgas Finance Corp. (together with the Company, the Issuers) announced today that t… [+5001 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct.",
+      "Ferrellgas",
+      "Company",
+      "Announces",
+      "LIBERTY",
+      "GLOBE",
+      "NEWSWIRE",
+      "Corp",
+      "Closing",
+      "Senior"
+    ]
   }
 ]
