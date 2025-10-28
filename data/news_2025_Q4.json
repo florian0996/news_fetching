@@ -107495,5 +107495,45 @@
       "embarrasses",
       "camera"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-28/chandra-asri-in-talks-with-lenders-to-fund-1-billion-esso-deal",
+    "title": "Chandra Asri in Talks with Lenders to Fund $1 Billion Esso Deal",
+    "fetched_on": "2025-10-28T04:24:49.762909+00:00",
+    "content": "PT Chandra Asri Pacific Tbk, an Indonesian energy and chemicals firm, is in talks with competing consortiums of lenders for loans to back its $1 billion purchase of Esso-branded service stations in Singapore from Exxon Mobil Corp., according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Talks",
+      "Billion",
+      "Asri",
+      "Chandra",
+      "Fund",
+      "Tbk",
+      "Corp.",
+      "Lenders",
+      "Esso",
+      "Deal"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/worlds-first-yen-pegged-stablecoin-debuts-in-japan/articleshow/124839298.cms",
+    "title": "World's first yen-pegged stablecoin debuts in Japan",
+    "fetched_on": "2025-10-28T04:24:49.188400+00:00",
+    "content": "The world's first stablecoin pegged to the yen will be launched in Japan on Monday, a small but significant move in a country where traditional payment means like cash and credit cards dominate finan… [+2575 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Japan",
+      "Monday",
+      "chars",
+      "World",
+      "stablecoin",
+      "finan",
+      "yen-pegged",
+      "debuts",
+      "pegged",
+      "yen"
+    ]
   }
 ]
