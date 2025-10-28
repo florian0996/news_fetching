@@ -108525,5 +108525,85 @@
       "Kong",
       "Eddie"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-10-28/ninety-one-s-middle-east-cio-on-credit-opportunities-video",
+    "title": "Ninety One's Middle East CIO Sees 'Huge Growth' in Credit Opportunities",
+    "fetched_on": "2025-10-28T11:17:42.679734+00:00",
+    "content": "Victoria Harling, Middle East CIO at Ninety One, speaks to Bloomberg's Joumanna Bercetche on the sidelines of the Future Investment Initiative event in Riyadh about their ambitions for the Middle East markets, saying they are seeing 'real growth' for fixed income in the region. She said they are starting to see an uptick in appetite for non-US exposure globally and they are tracking what shifts in USD strength could mean for non-US assets. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "East",
+      "Middle",
+      "CIO",
+      "Growth",
+      "Ninety",
+      "Huge",
+      "Harling",
+      "Credit",
+      "Opportunities",
+      "Victoria"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-28/top-bank-to-halt-credit-for-brazilian-farmers-seeking-bankruptcy",
+    "title": "Top Bank to Halt Credit for Brazilian Farmers Seeking Bankruptcy",
+    "fetched_on": "2025-10-28T11:17:43.404503+00:00",
+    "content": "Banco do Brasil SA, the biggest lender to Brazil’s agriculture industry, is threatening to stop making loans to farmers who file for bankruptcy protection as a wave of defaults hits the nation’s rural regions.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Farmers",
+      "Bankruptcy",
+      "Bank",
+      "Halt",
+      "Credit",
+      "Brazilian",
+      "Seeking",
+      "Banco",
+      "Brasil",
+      "Brazil"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/currency-exchange-international-announces-adoption-of-shareholder-rights-plan",
+    "title": "Currency Exchange International Announces Adoption of Shareholder Rights Plan",
+    "fetched_on": "2025-10-28T11:17:41.987042+00:00",
+    "content": "About Currency Exchange International, Corp.\r\nCurrency Exchange International is in the business of providing comprehensive foreign exchange technology and processing services for banks, credit union… [+4561 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Exchange",
+      "Corp",
+      "International",
+      "Currency",
+      "Announces",
+      "Adoption",
+      "Shareholder",
+      "Plan",
+      "chars",
+      "banks"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/388193/himbarabanks-seen-staying-cautious-on-village-cooperative-loans",
+    "title": "Himbara banks seen staying cautious on village cooperative loans",
+    "fetched_on": "2025-10-28T11:17:41.987042+00:00",
+    "content": "Jakarta (ANTARA) - State-owned lenders under the Himbara group will remain selective in financing the Merah Putih Village and Urban Cooperatives (Kopdes/Kel) program, despite a government guarantee b… [+2266 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANTARA",
+      "Kopdes",
+      "Kel",
+      "program",
+      "chars",
+      "Jakarta",
+      "State-owned",
+      "Himbara",
+      "village",
+      "Merah"
+    ]
   }
 ]
