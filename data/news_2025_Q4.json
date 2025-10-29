@@ -111413,5 +111413,105 @@
       "Global",
       "payments"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-29/rivian-cfo-says-ev-maker-won-t-tap-us-government-loan-until-2028",
+    "title": "Rivian CFO Says EV Maker Won’t Tap US Government Loan Until 2028",
+    "fetched_on": "2025-10-29T04:27:59.909025+00:00",
+    "content": "Rivian Automotive Inc. expects to draw on a $6.6 billion US government loan after building a new plant in Georgia but before starting production in 2028, according to its chief financial officer.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rivian",
+      "Government",
+      "CFO",
+      "Maker",
+      "Tap",
+      "Automotive",
+      "Loan",
+      "n’t",
+      "Georgia",
+      "expects"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/buy-or-sell-stock-recommendation-october-28-2025-what-brokers-have-to-say/articleshow/124863751.cms",
+    "title": "Buy or sell: Stock recommendation October 28, 2025- What brokers have to say",
+    "fetched_on": "2025-10-29T04:27:58.441375+00:00",
+    "content": "<ul><li>News</li>\r\n<li>Buy or sell: Stock recommendation October 28, 2025- What brokers have to say</li></ul>\r\nBrokerages are positive on Kotak Bank's loan growth and asset quality. Federal Bank's ou… [+426 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stock",
+      "October",
+      "Buy",
+      "sell",
+      "recommendation",
+      "brokers",
+      "Brokerages",
+      "Kotak",
+      "Bank",
+      "quality"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b3918db2f7e43c4a",
+    "title": "Thredd Integrates LoanPro Infrastructure Into New Credit Offerings",
+    "fetched_on": "2025-10-29T04:27:58.441375+00:00",
+    "content": "Global payments processor Thredd said Monday (Oct. 27) that it has entered the credit space and has integrated LoanPros composable credit infrastructure to underpin its new offerings.\r\nThredds credit… [+132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct.",
+      "Monday",
+      "Infrastructure",
+      "Offerings",
+      "Integrates",
+      "Global",
+      "Credit",
+      "Thredd",
+      "payments",
+      "processor"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/31fe9dbdb56a7915",
+    "title": "Norinchukin still ready to invest in credit despite losses",
+    "fetched_on": "2025-10-29T04:27:58.441375+00:00",
+    "content": "Chief Investment Officer Katsuhiko Ushikubo is in charge of the banks efforts to repair its ¥40.7 trillion portfolio after losses on foreign bonds last fiscal year.\r\nThis story appeared on japantimes… [+27 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chief",
+      "Investment",
+      "Officer",
+      "Katsuhiko",
+      "Ushikubo",
+      "Norinchukin",
+      "trillion",
+      "year",
+      "losses",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Japan Times [NewsAPI]",
+    "url": "https://www.japantimes.co.jp/business/2025/10/28/companies/norinchukin-investment-increase/",
+    "title": "Norinchukin still ready to invest in credit despite losses",
+    "fetched_on": "2025-10-29T04:27:58.441375+00:00",
+    "content": "Norinchukin Bank isnt letting recent credit blowups in the U.S. deter it from a plan to increase investments in the space.\r\nThe agricultural lender, one of Japans biggest institutional investors, rem… [+484 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Norinchukin",
+      "Bank",
+      "credit",
+      "deter",
+      "space",
+      "ready",
+      "invest",
+      "losses",
+      "isnt",
+      "letting"
+    ]
   }
 ]
