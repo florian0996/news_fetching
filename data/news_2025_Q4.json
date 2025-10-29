@@ -115673,5 +115673,45 @@
       "Amid",
       "Rate"
     ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/fps/why-is-battlefield-6-so-afraid-of-big-maps/",
+    "title": "Why is Battlefield 6 so afraid of big maps?",
+    "fetched_on": "2025-10-29T23:19:32.142679+00:00",
+    "content": "MORGAN PARK, STAFF WRITER\r\n(Image credit: Future)\r\nLast week: Fired up Halo: Combat Evolved on the Steam Deck and decided it's the last game that needs another remake.\r\nOne day is not enough time to … [+4473 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Battlefield",
+      "Future",
+      "maps",
+      "MORGAN",
+      "PARK",
+      "STAFF",
+      "WRITER",
+      "Image",
+      "Fired",
+      "Halo"
+    ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/Business/wireStory/trump-administration-moves-overrule-state-laws-protecting-credit-126955638",
+    "title": "Trump administration moves to overrule state laws protecting credit reports from medical debt",
+    "fetched_on": "2025-10-29T23:19:32.142679+00:00",
+    "content": "NEW YORK -- The Trump administration is moving to overrule any state laws that may protect consumers credit reports from medical debt and other debt issues.\r\nThe Consumer Financial Protection Bureau … [+1984 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "YORK",
+      "reports",
+      "medical",
+      "debt",
+      "administration",
+      "overrule",
+      "state",
+      "laws",
+      "credit"
+    ]
   }
 ]
