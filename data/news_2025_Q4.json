@@ -111513,5 +111513,65 @@
       "isnt",
       "letting"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7c83536c2e6d2a56",
+    "title": "Brookfield Says Private Credit Not Crowding Out Private Equity",
+    "fetched_on": "2025-10-29T05:21:19.071810+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon cutting 30,000 corporate jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will US-China trade deal… [+763 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Private",
+      "Equity",
+      "return",
+      "false",
+      "Credit",
+      "Crowding",
+      "Amazon"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/930517",
+    "title": "Win a $3,000 Luxo Living Store Credit + Two $1,000 Runner-up Prizes from Luxo Living",
+    "fetched_on": "2025-10-29T05:21:19.071810+00:00",
+    "content": "Share your thoughts on home design and comfort for the chance to win Luxo Living store credit! Complete a quick 1-minute survey to enter the draw for a $3,000 grand prize or one of two $1,000 runner-… [+204 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Living",
+      "Luxo",
+      "Credit",
+      "Store",
+      "Runner-up",
+      "Share",
+      "Win",
+      "thoughts",
+      "home",
+      "design"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/chandra-asri-in-talks-with-lenders-to-fund-1-billion-esso-deal",
+    "title": "Chandra Asri in Talks with Lenders to Fund $1 Billion Esso Deal",
+    "fetched_on": "2025-10-29T05:21:19.071810+00:00",
+    "content": "(Bloomberg) PT Chandra Asri Pacific Tbk, an Indonesian energy and chemicals firm, is in talks with competing consortiums of lenders for loans to back its $1 billion purchase of Esso-branded service s… [+3513 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Talks",
+      "Billion",
+      "Asri",
+      "chars",
+      "Fund",
+      "Deal",
+      "Tbk",
+      "Chandra",
+      "Lenders"
+    ]
   }
 ]
