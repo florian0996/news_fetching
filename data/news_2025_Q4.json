@@ -116035,5 +116035,45 @@
       "Sequel",
       "Halloween"
     ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-871993",
+    "title": "IDF discovers October 7 training facility and launch point hidden in Gaza mosque - report",
+    "fetched_on": "2025-10-30T05:20:21.372612+00:00",
+    "content": "Israel Prison Service officers prepare Palestinian prisoners for release as part of a hostage deal between Israel and Hamas, at Ktziot Prison in southern Israel, February 26, 2025 (photo credit: Chai… [+1684 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "Chai",
+      "Israel",
+      "Prison",
+      "IDF",
+      "October",
+      "Hamas",
+      "chars",
+      "Gaza",
+      "Service"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8e0a0d809ad9d117",
+    "title": "Credit Cockroaches Are Being Held at Bay — For Now",
+    "fetched_on": "2025-10-30T05:20:21.372612+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon cutting 14,000 corporate jobs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidias $1B investm… [+729 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Bay",
+      "return",
+      "false",
+      "Cockroaches",
+      "Held",
+      "Amazon",
+      "Credit"
+    ]
   }
 ]
