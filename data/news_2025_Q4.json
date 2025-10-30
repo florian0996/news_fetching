@@ -116278,5 +116278,145 @@
       "Expanding",
       "SoFi"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-30/unicredit-raises-alpha-bank-stake-to-about-29-5-after-ecb-nod",
+    "title": "UniCredit Raises Alpha Bank Stake to About 29.5% on ECB Nod",
+    "fetched_on": "2025-10-30T08:28:04.069742+00:00",
+    "content": "UniCredit SpA said it increased its holding in Greece’s Alpha Bank SA to about 29.5% after receiving authorization from the European Central Bank.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Alpha",
+      "Raises",
+      "Stake",
+      "ECB",
+      "Nod",
+      "Greece",
+      "European",
+      "Central",
+      "UniCredit"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-30/south-africa-to-start-135-million-fund-to-tackle-unemployment",
+    "title": "South Africa to Start $135 Million Fund to Tackle Unemployment",
+    "fetched_on": "2025-10-30T08:28:04.301567+00:00",
+    "content": "South Africa will on Friday start offering loans from a 2.5 billion rand ($135 million) Youth Fund aimed at supporting small businesses, part of a push by the government to tackle one of the world’s highest unemployment rates.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Africa",
+      "Million",
+      "Fund",
+      "South",
+      "Tackle",
+      "Youth",
+      "Start",
+      "Unemployment",
+      "Friday",
+      "billion"
+    ]
+  },
+  {
+    "source": "TmoNews [NewsAPI]",
+    "url": "https://www.tmonews.com/2025/10/report-t-mobiles-own-visa-card-could-be-days-away-from-release/",
+    "title": "Report: T-Mobile’s Own Visa Card Could Be Days Away From Release",
+    "fetched_on": "2025-10-30T08:28:03.521280+00:00",
+    "content": "T-Mobile customers may soon have a new way to pay their bills while keeping their AutoPay discount. The carrier’s long-awaited credit card appears to be nearing launch after references to a “T-Mobile… [+1293 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Visa",
+      "Days",
+      "Release",
+      "Card",
+      "discount",
+      "T-Mobile",
+      "customers",
+      "pay",
+      "bills"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/santander-books-record-q3-profit-074632448.html",
+    "title": "Santander books record Q3 profit as strong US unit offsets weaker Brazil",
+    "fetched_on": "2025-10-30T08:28:03.521280+00:00",
+    "content": "By Jesús Aguado\r\nMADRID (Reuters) -Spain's Santander bank reported a 7.8% year-on-year rise in its third-quarter net profit, saying a strong performance in its U.S. business offset lower lending inco… [+1752 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "chars",
+      "MADRID",
+      "Spain",
+      "Santander",
+      "Brazil",
+      "Jesús",
+      "Aguado",
+      "record",
+      "rise"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/best-time-to-prepay-your-home-loan-5-tips-to-save-lakhs-from-your-home-loan-prepayments/articleshow/124892321.cms",
+    "title": "Best time to prepay your home loan? 5 tips to save lakhs from your home loan prepayments",
+    "fetched_on": "2025-10-30T08:28:03.521280+00:00",
+    "content": "Purchasing a home is a once-in-a-lifetime experience for many homebuyers who push their budgets to the limit and secure a home loan to acquire their dream house. Since buying a house is a significant… [+8948 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "home",
+      "loan",
+      "time",
+      "prepay",
+      "house",
+      "Purchasing",
+      "tips",
+      "experience",
+      "chars",
+      "save"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/1029/1541063-bank-of-ireland-interim-management-statement/",
+    "title": "Bank of Ireland retains positive outlook to 2026",
+    "fetched_on": "2025-10-30T08:28:03.521280+00:00",
+    "content": "Bank of Ireland has today reported strong momentum and business performance with growth in Irish loans, deposits and assets under management.\r\nIn an interim management statement for the three months … [+1909 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Ireland",
+      "Irish",
+      "loans",
+      "deposits",
+      "chars",
+      "management",
+      "retains",
+      "positive",
+      "outlook"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/beteiligung-unicredit-aktie-kaum-veraendert-knapp-30-prozent-an-griechischer-alpha-bank-gesichert-15146044",
+    "title": "UniCredit-Aktie kaum verändert: Knapp 30 Prozent an griechischer Alpha Bank gesichert",
+    "fetched_on": "2025-10-30T08:28:24.263862+00:00",
+    "content": "<p>Nach der notwendigen Genehmigung der Europäischen Zentralbank habe sie sich über weitere Finanzinstrumente einen Anteil von insgesamt 29,5 Prozent gesichert, teilte das Mailänder Geldhaus am Donnerstag mit. Davon halte sie 9,8 Prozent in Aktien; den Rest  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Knapp",
+      "Prozent",
+      "Nach",
+      "gesichert",
+      "Alpha",
+      "Bank",
+      "Genehmigung",
+      "Europäischen",
+      "Zentralbank",
+      "Finanzinstrumente"
+    ]
   }
 ]
