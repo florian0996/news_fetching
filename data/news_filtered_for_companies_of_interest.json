@@ -1,6 +1,17 @@
 {
-  "2025-10-29": {
+  "2025-10-30": {
     "status": "no company in the news"
+  },
+  "2025-10-29": {
+    "articles": [
+      {
+        "title": "Viola Credit Raises $2 Billion Fund For Fintech Debt Financing",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-29/viola-credit-raises-2-billion-fund-for-fintech-debt-financing",
+        "platforms_mentioned": [
+          "Viola Credit"
+        ]
+      }
+    ]
   },
   "2025-10-28": {
     "status": "no company in the news"
