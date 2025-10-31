@@ -119537,5 +119537,85 @@
       "Wealth",
       "Asia"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/robwolkenbrod/2025/10/30/aew-dynamite-results-takeaways-from-october-29-2025/",
+    "title": "AEW Dynamite Results: Takeaways From October 29, 2025",
+    "fetched_on": "2025-10-31T04:26:16.294298+00:00",
+    "content": "Credit: All Elite Wrestling\r\nTo close out October, AEW Dynamite delivered a show designed to bridge the gap to what promises to be a packed month of November. With both Blood and Guts and Full Gear o… [+4082 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AEW",
+      "October",
+      "Dynamite",
+      "Credit",
+      "Results",
+      "Takeaways",
+      "November",
+      "Elite",
+      "Wrestling",
+      "close"
+    ]
+  },
+  {
+    "source": "Hacker News [NewsAPI]",
+    "url": "https://news.ycombinator.com/item?id=45756237",
+    "title": "Show HN: Transmit.dev – A fair, credit-based alternative to CPaaS vendors",
+    "fetched_on": "2025-10-31T04:26:16.294298+00:00",
+    "content": "Hey HN we built Transmit.dev because we were frustrated with how communication APIs keep hiking prices and forcing developers into tiers they dont need.When Mailgun doubled their prices overnight, th… [+957 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Transmit.dev",
+      "Hey",
+      "Mailgun",
+      "Show",
+      "fair",
+      "credit-based",
+      "overnight",
+      "prices",
+      "alternative"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/business/growws-ipo-journey-customer-first-philosophy-and-lean-growth-founders-share-the-sauce",
+    "title": "Groww's IPO Journey: Customer-First Philosophy And Lean Growth, Founders Share The Sauce",
+    "fetched_on": "2025-10-31T04:26:16.294298+00:00",
+    "content": "IPO-bound Growws co-founders Lalit Keshre and Harsh Jain credit the fintech platforms rapid rise to a relentless customer-first mindset and a lean, tech-driven approach.\r\nKeshre said the teams early … [+691 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Journey",
+      "Growth",
+      "Founders",
+      "Lean",
+      "IPO",
+      "Philosophy",
+      "Share",
+      "Sauce",
+      "Lalit",
+      "Harsh"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/30/3177026/0/en/MoneyHero-Officially-Launches-Credit-Hero-Club-in-Hong-Kong-Powered-by-TransUnion.html",
+    "title": "MoneyHero Officially Launches Credit Hero Club in Hong Kong, Powered by TransUnion",
+    "fetched_on": "2025-10-31T04:26:16.294298+00:00",
+    "content": "<ul><li>Strategic milestone in driving platform engagement and deepening long-term user value</li><li>New platform provides free credit scores and reports to help consumers make informed borrowing de… [+6610 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Kong",
+      "Powered",
+      "Strategic",
+      "Credit",
+      "Officially",
+      "Launches",
+      "Hero",
+      "Club",
+      "Hong"
+    ]
   }
 ]
