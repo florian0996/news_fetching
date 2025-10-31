@@ -1,6 +1,17 @@
 {
-  "2025-10-30": {
+  "2025-10-31": {
     "status": "no company in the news"
+  },
+  "2025-10-30": {
+    "articles": [
+      {
+        "title": "Viola Credit raises $2bn to lend to fintechs",
+        "url": "https://www.finextra.com/pressarticle/107760/viola-credit-raises-2bn-to-lend-to-fintechs",
+        "platforms_mentioned": [
+          "Viola Credit"
+        ]
+      }
+    ]
   },
   "2025-10-29": {
     "articles": [
