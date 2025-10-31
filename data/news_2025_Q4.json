@@ -120485,5 +120485,145 @@
       "management",
       "rises"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-31/is-a-private-credit-crisis-brewing-tricolor-first-brands-shake-wall-street",
+    "title": "Cracks in the Credit Market Could Be a Warning for Wall Street",
+    "fetched_on": "2025-10-31T11:17:48.220584+00:00",
+    "content": "<p>How many cockroaches does it take to sink a ship? We may soon find out.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Street",
+      "Credit",
+      "Market",
+      "Warning",
+      "Wall",
+      "Cracks",
+      "ship",
+      "cockroaches",
+      "sink",
+      "out."
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-10-31/em-lens-newmark-s-hinton-on-us-commercial-real-estate-outlook",
+    "title": "FICC Focus: Newmark’s Hinton on US Commercial Real Estate",
+    "fetched_on": "2025-10-31T11:17:47.715562+00:00",
+    "content": "Investor sentiment is improving across commercial real estate as liquidity improves, cash flows stabilize and capitalization rates compress. Jimmy Hinton, chief revenue officer for US capital markets at Newmark Group, joins BI chief fixed income strategist, Damian Sassower, to discuss his firm’s approach to price discovery, leverage and deal flow. Hinton and Sassower discuss the role of leasing velocity, lending standards, operating expenses, concessions and net absorption when identifying oppor",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Real",
+      "Commercial",
+      "Estate",
+      "FICC",
+      "Focus",
+      "Investor",
+      "Newmark",
+      "Hinton",
+      "improves",
+      "cash"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-31/swiss-regulation-threatens-ubs-s-deal-of-decade-analysts-say",
+    "title": "Swiss Regulation Threatens UBS’s ‘Deal of Decade,’ Analysts Say",
+    "fetched_on": "2025-10-31T11:17:48.220598+00:00",
+    "content": "UBS Group AG is handling the Credit Suisse integration so well, the acquisition would likely be seen as a big success if it wasn’t for the regulatory headwinds it has spawned, Deutsche Bank AG analysts said.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UBS",
+      "Deal",
+      "Decade",
+      "Deutsche",
+      "Analysts",
+      "Regulation",
+      "Threatens",
+      "Group",
+      "Credit",
+      "Suisse"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/movies/jeremy-allen-white-great-bruce-springsteen-another-music-biopic-performance-doesnt-get-enough-credit",
+    "title": "Jeremy Allen White Is Great As Bruce Springsteen, But There's Another All-Time Music Biopic Performance That Doesn't Get Enough Credit",
+    "fetched_on": "2025-10-31T11:17:46.994467+00:00",
+    "content": "Music biopics about major pop stars of the rock and roll era have been huge in the 21st Century. The most recent, Bruce Springsteen: Deliver Me From Nowhere, is currently in theaters on the 2025 movi… [+2668 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Music",
+      "Century",
+      "Springsteen",
+      "Bruce",
+      "Allen",
+      "White",
+      "Great",
+      "Performance",
+      "Credit",
+      "Biopic"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/international/latin-america/2025/ant-invests-in-r2-to-boost-latam-embedded-lending/",
+    "title": "Ant Invests in R2 to Boost LatAm Embedded Lending",
+    "fetched_on": "2025-10-31T11:17:46.994467+00:00",
+    "content": "Payments FinTech Ant International is investing in Latin American embedded lending infrastructure company R2.The investment, announced Thursday (Oct. 30), is aimed at expanding access to credit for s… [+2673 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct.",
+      "investment",
+      "chars",
+      "Thursday",
+      "Embedded",
+      "Lending",
+      "Ant",
+      "Invests",
+      "Boost",
+      "Payments"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/news/fresh-drive-to-boost-pension-credit-take-up-as-new-figures-reveal-large-regional-gaps-in-those-receiving-benefit-worth-around-4300-a-year",
+    "title": "Fresh drive to boost Pension Credit take-up as new figures reveal large regional gaps in those receiving benefit worth around £4,300 a year",
+    "fetched_on": "2025-10-31T11:17:46.994467+00:00",
+    "content": "<ul><li>New targeted approach being trialled to reach pensioners missing out on Pension Credit, which is worth on average £115 per week for a couple.</li><li>Follows new analysis showing large region… [+4829 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pension",
+      "Credit",
+      "chars",
+      "large",
+      "worth",
+      "Fresh",
+      "year",
+      "average",
+      "couple.",
+      "region"
+    ]
+  },
+  {
+    "source": "Robohub.org [NewsAPI]",
+    "url": "https://robohub.org/a-flexible-lens-controlled-by-light-activated-artificial-muscles-promises-to-let-soft-machines-see/",
+    "title": "A flexible lens controlled by light-activated artificial muscles promises to let soft machines see",
+    "fetched_on": "2025-10-31T11:17:46.994467+00:00",
+    "content": "This rubbery disc is an artificial eye that could give soft robots vision. Image credit: Corey Zheng/Georgia Institute of Technology.\r\nBy Corey Zheng, Georgia Institute of Technology and Shu Jia, Geo… [+4204 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zheng",
+      "Georgia",
+      "Institute",
+      "Corey",
+      "Technology",
+      "artificial",
+      "soft",
+      "vision",
+      "Geo",
+      "flexible"
+    ]
   }
 ]
