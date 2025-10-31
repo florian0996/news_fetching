@@ -119950,5 +119950,85 @@
       "landscape",
       "plans"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/capital-small-finance-bank-targets-16000-crore-loan-book-by-fy29/article70220193.ece",
+    "title": "Capital Small Finance Bank targets ₹16,000 crore loan book by FY29",
+    "fetched_on": "2025-10-31T08:27:52.223739+00:00",
+    "content": "Capital Small Finance Bank has announced plans to double its loan book to 16,000 crore by FY29 from the current 7,907 crore, with growth primarily driven by its MSME, mortgage, and agriculture portfo… [+1471 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Small",
+      "Finance",
+      "Bank",
+      "crore",
+      "MSME",
+      "mortgage",
+      "chars",
+      "loan",
+      "book"
+    ]
+  },
+  {
+    "source": "BeInCrypto [NewsAPI]",
+    "url": "https://beincrypto.com/tokenized-credit-fund-bny-mellon-expands-into-clos/",
+    "title": "Tokenized Credit Fund: BNY Mellon Expands into CLOs",
+    "fetched_on": "2025-10-31T08:27:52.223739+00:00",
+    "content": "Real-World Assets RWA Tokenization Tokenized Real Estate, binance research. Photo by BeInCrypto\r\nBNY Mellon is expanding its blockchain-based asset tokenization strategy by launching a collateralized… [+4908 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "Estate",
+      "Tokenized",
+      "BNY",
+      "Mellon",
+      "Credit",
+      "Expands",
+      "RWA",
+      "Real",
+      "binance"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/the-rats-a-witcher-tale-quietly-releases-on-netflix-alongside-the-witcher-season-4/",
+    "title": "‘The Rats: A Witcher Tale’ Quietly Releases on Netflix Alongside The Witcher Season 4",
+    "fetched_on": "2025-10-31T08:27:52.223739+00:00",
+    "content": "Picture Credit: Netflix\r\nThe Rats: A Witcher Tale is real, and it’s now streaming on Netflix. Originally envisioned as a stand-alone limited series, the special has been released quietly alongside th… [+2236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rats",
+      "Netflix",
+      "Witcher",
+      "Season",
+      "Picture",
+      "Credit",
+      "Tale’",
+      "Releases",
+      "Tale",
+      "Quietly"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/tracker_posts/digital-first-retention-playbook-winning-gen-z-loyalty-at-credit-unions/",
+    "title": "Digital-First Retention Playbook: Winning Gen Z Loyalty at Credit Unions",
+    "fetched_on": "2025-10-31T08:27:52.223739+00:00",
+    "content": "Generation Z consumersborn between 1997 and 2012are an increasingly sought-after credit union (CU) demographic. Members belonging to this age group are at the highest risk of switching to competing f… [+10514 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "demographic",
+      "Playbook",
+      "Winning",
+      "Credit",
+      "Retention",
+      "Gen",
+      "Loyalty",
+      "Generation",
+      "Unions",
+      "union"
+    ]
   }
 ]
