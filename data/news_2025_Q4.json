@@ -123265,5 +123265,45 @@
       "Bubble",
       "n’t"
     ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/politics/trump/trump-takes-credit-for-nobel-prize-awarded-for-research-done-in-the-1980s/",
+    "title": "Trump Takes Credit for Nobel Prize Awarded for Research Done in the 1980s",
+    "fetched_on": "2025-10-31T23:18:49.692281+00:00",
+    "content": "AP Photo/Mark Schiefelbein\r\nPresident Donald Trump took credit for winning the Nobel Prize in Physics, which was awarded this month to three scientists.\r\nOn Oct. 7, the Royal Swedish Academy of Scien… [+1996 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nobel",
+      "Prize",
+      "Credit",
+      "Photo",
+      "Mark",
+      "Physics",
+      "Trump",
+      "Awarded",
+      "Research",
+      "Schiefelbein"
+    ]
+  },
+  {
+    "source": "Github.com [NewsAPI]",
+    "url": "https://github.com/dgl/bash-ircd",
+    "title": "Show HN: IRCd in Pure Bash",
+    "fetched_on": "2025-10-31T23:18:49.692281+00:00",
+    "content": "This is an IRC server written in bash. It is nearly \"pure\" bash,\r\nbecause it does not use any external commands. But it does cheat slightly by\r\nusing some loadable builtins.\r\nCredit to YSAP for\r\nbash… [+1423 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IRC",
+      "Bash",
+      "Pure",
+      "Show",
+      "IRCd",
+      "server",
+      "written",
+      "YSAP",
+      "commands",
+      "chars"
+    ]
   }
 ]
