@@ -119910,5 +119910,45 @@
       "annual",
       "worth"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/10/30/3177071/0/en/CREDIT-AGRICOLE-S-A-ANNOUNCES-REDEMPTION-OF-its-outstanding-USD-Undated-Deeply-Subordinated-Additional-Tier-1-Fixed-Rate-Resettable-Notes-issued-on-January-19-2016-ISIN-Rule-144A-U.html",
+    "title": "CREDIT AGRICOLE S.A. ANNOUNCES REDEMPTION OF its outstanding USD Undated Deeply Subordinated Additional Tier 1 Fixed Rate Resettable Notes issued on January 19, 2016 (ISIN: Rule 144A: US225313AJ46 and Regulation S: USF2R125CD54)",
+    "fetched_on": "2025-10-31T07:19:41.162607+00:00",
+    "content": "Montrouge, October 30, 2025\r\nCREDIT AGRICOLE S.A. ANNOUNCES REDEMPTION OF\r\nits outstanding USD Undated Deeply Subordinated Additional Tier 1 Fixed Rate Resettable Notes issued on January 19, 2016 (IS… [+4214 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CREDIT",
+      "AGRICOLE",
+      "ANNOUNCES",
+      "Tier",
+      "Fixed",
+      "January",
+      "REDEMPTION",
+      "USD",
+      "Undated",
+      "Deeply"
+    ]
+  },
+  {
+    "source": "Inside Higher Ed [NewsAPI]",
+    "url": "https://www.insidehighered.com/news/quick-takes/2025/10/30/accreditors-start-endorse-short-term-credential-providers",
+    "title": "Accreditors Launch Efforts to Endorse Short-Term Credential Providers",
+    "fetched_on": "2025-10-31T07:19:41.162607+00:00",
+    "content": "Major accreditors are following through on their plans to bring new quality checks to the short-term credentialing landscape.\r\nAfter years of preparation, the Higher Learning Commission is launching … [+1040 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Launch",
+      "Efforts",
+      "Endorse",
+      "Credential",
+      "Providers",
+      "Major",
+      "Accreditors",
+      "Short-Term",
+      "landscape",
+      "plans"
+    ]
   }
 ]
