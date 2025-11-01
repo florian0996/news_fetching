@@ -123465,5 +123465,85 @@
       "NPM",
       "PhantomRaven"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/youtube-tv-disney-deal-yet-members-to-get-20-credit-as-abc-espn-other-channels-go-dark-11761883539926.html",
+    "title": "No YouTube TV-Disney deal yet, members to get $20 credit as ABC, ESPN, other channels go dark",
+    "fetched_on": "2025-11-01T04:22:25.433175+00:00",
+    "content": "Google's YouTube TV said on Thursday that Disney's channels, including ESPN and ABC, are not currently available on its platform as the two companies failed to reach a new licensing deal.\r\nYouTube TV… [+1717 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ABC",
+      "ESPN",
+      "Google",
+      "Thursday",
+      "Disney",
+      "deal",
+      "channels",
+      "YouTube",
+      "members",
+      "credit"
+    ]
+  },
+  {
+    "source": "HuffPost [NewsAPI]",
+    "url": "https://www.huffpost.com/entry/trump-nobel-physics_n_69041bb7e4b00c26f070fa48",
+    "title": "'Pathetic': Critics Clown Trump After His 'Absolutely Embarrassing' New Nobel Boast",
+    "fetched_on": "2025-11-01T04:22:25.433175+00:00",
+    "content": "President Donald Trump on Thursday appeared to claim some credit for the Nobel Prize in physics for work done decades before he even became president. \r\nThe president shared a quote on Truth Social t… [+3627 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pathetic",
+      "Trump",
+      "Nobel",
+      "Critics",
+      "Absolutely",
+      "Embarrassing",
+      "Clown",
+      "Boast",
+      "Donald",
+      "Thursday"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/lenskart-solutions-ipo-lenskart-ipo-gmp-subscription-status-live-updates/article70220622.ece",
+    "title": "Lenskart IPO Live Updates: ₹7,278 crore IPO opens today",
+    "fetched_on": "2025-11-01T04:22:25.433175+00:00",
+    "content": "Lenskart eyewear is displayed ahead of its IPO announcement in Mumbai, India, October 27, 2025. REUTERS/Francis Mascarenhas\r\n | Photo Credit: \r\n FRANCIS MASCARENHAS\r\nLenskart Solutions IPO Day 1 live… [+688 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "October",
+      "IPO",
+      "Updates",
+      "Mumbai",
+      "Lenskart",
+      "Francis",
+      "Live",
+      "crore",
+      "REUTERS"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/lic-housing-finance-sees-double-digit-growth-ahead-nims-stabilize-at-2-62-says-ceo-tribhuwan-adhikari/articleshow/124950466.cms",
+    "title": "LIC Housing Finance sees double-digit growth ahead; NIMs stabilize at 2.62%, says CEO Tribhuwan Adhikari",
+    "fetched_on": "2025-11-01T04:22:25.433175+00:00",
+    "content": "LIC Housing Finance CEO says credit costs to stay within 15 bps, asset quality improving, and margins stabilizing after rate resets. Retail loan growth and upcoming resolutions in project loans expec… [+2164 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Housing",
+      "LIC",
+      "Finance",
+      "CEO",
+      "bps",
+      "Tribhuwan",
+      "Adhikari",
+      "ahead",
+      "NIMs",
+      "asset"
+    ]
   }
 ]
