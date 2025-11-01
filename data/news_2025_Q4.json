@@ -123845,5 +123845,125 @@
       "wanted",
       "pot"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-war-on-woke-forces-community-lenders-to-cut-services-or-close/articleshow/124991220.cms",
+    "title": "Trump's war on 'woke' forces community lenders to cut services or close",
+    "fetched_on": "2025-11-01T10:19:54.742809+00:00",
+    "content": "A year ago, Karlene Sinclair-Robinson was writing loans and hosting education seminars for small businesses and entrepreneurs as finance director of Community Business Partnership, a community develo… [+5851 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Karlene",
+      "Partnership",
+      "woke",
+      "chars",
+      "community",
+      "Business",
+      "Trump",
+      "forces",
+      "ago",
+      "develo"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/melissahouston/2025/10/31/is-the-weaker-economy-affecting-your-business/",
+    "title": "Is The Weaker Economy Affecting Your Business?",
+    "fetched_on": "2025-11-01T10:19:54.742809+00:00",
+    "content": "Is The Weaker Economy Affecting Your Business?\r\ngetty\r\nFor many, the economy feels heavy these days as inflation is high, interest rates are squeezing lines of credit, and consumers are spending caut… [+4293 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Business",
+      "Weaker",
+      "Affecting",
+      "Economy",
+      "chars",
+      "getty",
+      "high",
+      "interest",
+      "credit",
+      "caut"
+    ]
+  },
+  {
+    "source": "Europa.eu [NewsAPI]",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr251031_1~d29212001e.en.html",
+    "title": "Results of the September 2025 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+    "fetched_on": "2025-11-01T10:19:54.742809+00:00",
+    "content": "31 October 2025\r\n<ul><li>Overall credit terms and conditions remained largely unchanged between June 2025 and August 2025, with some instances of tightening driven by balance sheet availability </li>… [+3477 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SESFOD",
+      "October",
+      "terms",
+      "September",
+      "June",
+      "August",
+      "chars",
+      "credit",
+      "conditions",
+      "OTC"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/ms-dhoni-backed-finbud-fin-to-raise-716-crore-via-ipo/article70224812.ece",
+    "title": "MS Dhoni-backed Finbud Fin to raise ₹71.6 crore via IPO",
+    "fetched_on": "2025-11-01T10:19:54.742809+00:00",
+    "content": "MS Dhoni-backed Finbud Financial Services, a phygital lending enabler, on Friday said it has fixed a price band of 140-142 per share for the 71.6 crore initial share sale.\r\n The initial public offeri… [+1834 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dhoni-backed",
+      "Finbud",
+      "Services",
+      "crore",
+      "Fin",
+      "IPO",
+      "Financial",
+      "Friday",
+      "raise",
+      "enabler"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/16cef002084ad4a7",
+    "title": "The week’s best photos",
+    "fetched_on": "2025-11-01T10:19:54.742809+00:00",
+    "content": "A member of Indias Border Security Force holds the paws of a Mudhol Hound during a press conference in New Delhi, India (Image credit: Sanjeev Verma / Hindustan Times / Getty Images)Men search throug… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Delhi",
+      "Sanjeev",
+      "Verma",
+      "Hindustan",
+      "Times",
+      "Getty",
+      "Men",
+      "Border",
+      "Security"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/these-5-credit-cards-can-help-you-save-money-on-your-movies-with-family-11761898842286.html",
+    "title": "THESE 5 credit cards can help you save money on your movies with family",
+    "fetched_on": "2025-11-01T10:19:54.742809+00:00",
+    "content": "If you are a movie buff and a credit card user at the same time, it is recommended to use your card to make the most of discounts on movie tickets. The plans and offers vary from card to card.\r\nSome … [+1634 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "card",
+      "movie",
+      "time",
+      "tickets",
+      "save",
+      "money",
+      "family",
+      "buff",
+      "user"
+    ]
   }
 ]
