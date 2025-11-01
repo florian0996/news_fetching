@@ -123665,5 +123665,85 @@
       "customer",
       "activity"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/73a037f7923b9e9b",
+    "title": "Wealthsimple credit card launch draws long wait-list, frustration",
+    "fetched_on": "2025-11-01T08:24:04.244112+00:00",
+    "content": "When fintech Wealthsimple Technologies Inc. unveiled its new credit card in June, it quickly became one of its most sought-after products. The card which offers 2-per-cent cash back on all purchases … [+149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wealthsimple",
+      "Technologies",
+      "card",
+      "wait-list",
+      "frustration",
+      "credit",
+      "June",
+      "launch",
+      "draws",
+      "long"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-power-upgrade/",
+    "title": "The Samsung S26 Ultra BOMBSHELL: Game Changing Features Revaled",
+    "fetched_on": "2025-11-01T08:24:04.244112+00:00",
+    "content": "The Samsung Galaxy S26 Ultra establishes a new standard in smartphone technology, blending advanced hardware with a strategic focus on performance customization. Designed to meet the diverse needs of… [+5249 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ultra",
+      "Samsung",
+      "BOMBSHELL",
+      "Game",
+      "Galaxy",
+      "Changing",
+      "Features",
+      "Revaled",
+      "technology",
+      "blending"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/snapmint-funding-general-atlantic-investment-emi-on-upi-buy-now-pay-later-11761893094798.html",
+    "title": "Consumer lending platform Snapmint raises $125 mn in new funding round led by General Atlantic",
+    "fetched_on": "2025-11-01T08:24:04.244112+00:00",
+    "content": "Consumer lending platform Snapmint has raised $125 million in a new funding round led by General Atlantic, with participation from Prudent Investment Managers, Kae Capital, Elev8 Venture Partners, an… [+2333 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "General",
+      "Snapmint",
+      "Atlantic",
+      "chars",
+      "Managers",
+      "Kae",
+      "Capital",
+      "Venture",
+      "Partners",
+      "Consumer"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/10/31/brennan-mass-lawmakers-can-curb-credit-card-abuse/",
+    "title": "Brennan: Mass. lawmakers can curb credit card abuse",
+    "fetched_on": "2025-11-01T08:24:04.244112+00:00",
+    "content": "The Massachusetts Joint Committee on Financial Services is considering legislation that could help level the playing field for the more than 700,000 small businesses across the Commonwealth. The bill… [+3766 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mass",
+      "Brennan",
+      "Commonwealth",
+      "Massachusetts",
+      "Joint",
+      "Committee",
+      "Financial",
+      "Services",
+      "lawmakers",
+      "small"
+    ]
   }
 ]
