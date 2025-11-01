@@ -123445,5 +123445,25 @@
       "Affordable",
       "Care"
     ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/10/30/phantomraven-attack-exploits-npms-unchecked-http-url-dependency-feature/",
+    "title": "PhantomRaven Attack Exploits NPM’s Unchecked HTTP URL Dependency Feature",
+    "fetched_on": "2025-11-01T03:12:47.082763+00:00",
+    "content": "An example of RDD in a package’s dependencies list. It’s not even counted as a ‘real’ dependency. (Credit: Koi.ai)\r\nHaving another security threat emanating from Node.js’ Node Package Manager (NPM) f… [+1846 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Attack",
+      "Exploits",
+      "Unchecked",
+      "HTTP",
+      "URL",
+      "Feature",
+      "RDD",
+      "Dependency",
+      "NPM",
+      "PhantomRaven"
+    ]
   }
 ]
