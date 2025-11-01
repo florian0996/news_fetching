@@ -126563,5 +126563,85 @@
       "Miles",
       "Memories"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-01/brazil-s-azul-says-it-reaches-deal-with-unsecured-creditors",
+    "title": "Brazil’s Azul Says It Reaches Deal With Unsecured Creditors",
+    "fetched_on": "2025-11-01T22:17:55.003836+00:00",
+    "content": "Azul SA said it reached an agreement with a committee representing the company’s unsecured creditors on a plan to advance the Brazilian airline’s financial restructuring following a bankruptcy filing in the US.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Azul",
+      "Unsecured",
+      "Creditors",
+      "Reaches",
+      "Deal",
+      "Brazilian",
+      "Brazil",
+      "reached",
+      "agreement",
+      "committee"
+    ]
+  },
+  {
+    "source": "TmoNews [NewsAPI]",
+    "url": "https://www.tmonews.com/2025/10/t-mobiles-new-credit-card-website-is-up-but-you-cant-actually-sign-up-yet/",
+    "title": "T-Mobile’s New Credit Card Website Is Up, But You Can’t Actually Sign Up Yet",
+    "fetched_on": "2025-11-01T22:17:52.760309+00:00",
+    "content": "T-Mobile customers eager to restore their AutoPay discounts got a surprise this week when the carrier’s new Visa credit card application page went livebut clicking the “apply” button still doesn’t wo… [+1383 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "apply",
+      "chars",
+      "Credit",
+      "Card",
+      "Website",
+      "Sign",
+      "Visa",
+      "button",
+      "T-Mobile",
+      "n’t"
+    ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/10/31/hyundai-ioniq-5-still-great-deal/",
+    "title": "The Hyundai IONIQ 5 is still a great deal",
+    "fetched_on": "2025-11-01T22:17:52.760309+00:00",
+    "content": "The 2025 Hyundai IONIQ 5 was one of the most affordable EVs you could lease in the US. Although the $7,500 EV credit has now expired, Hyundai is keeping the savings going with the 2026 model.\r\nHyunda… [+2983 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IONIQ",
+      "Hyundai",
+      "great",
+      "deal",
+      "affordable",
+      "EVs",
+      "lease",
+      "model",
+      "expired",
+      "Hyunda"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/knight-announces-closing-of-us100-million-revolving-credit-facility",
+    "title": "Knight Announces Closing of US$100 Million Revolving Credit Facility",
+    "fetched_on": "2025-11-01T22:17:52.760309+00:00",
+    "content": "MONTREAL, Oct. 31, 2025 (GLOBE NEWSWIRE) Knight Therapeutics Inc. (TSX: GUD) (Knight or the Company), a pan-American (ex-US) specialty pharmaceutical company, announced today that it has closed the s… [+6067 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oct.",
+      "Knight",
+      "Million",
+      "MONTREAL",
+      "GLOBE",
+      "NEWSWIRE",
+      "Announces",
+      "Closing",
+      "Revolving",
+      "Credit"
+    ]
   }
 ]
