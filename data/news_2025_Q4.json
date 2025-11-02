@@ -127279,5 +127279,65 @@
       "Netting",
       "Blocking"
     ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/aponyx/",
+    "title": "aponyx added to PyPI",
+    "fetched_on": "2025-11-02T14:17:25.898510+00:00",
+    "content": "A modular Python framework for developing and backtesting systematic credit strategies.\r\n Bloomberg Terminal Required: Data loading via BloombergSource requires an active Bloomberg Terminal session. … [+5139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Python",
+      "Terminal",
+      "aponyx",
+      "strategies",
+      "Bloomberg",
+      "Required",
+      "Data",
+      "added",
+      "PyPI",
+      "modular"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/had-798-credit-score-still-140235580.html",
+    "title": "They Had An 798 Credit Score But Still Got Rejected For A Personal Loan. Here's The Unusual Mistake They Kept Making Over And Over",
+    "fetched_on": "2025-11-02T14:17:25.898510+00:00",
+    "content": "A Reddit user with a nearly perfect 798 FICO score was stunned when Citi rejected their application for a personal loan. Despite never missing a payment and holding six open accounts with a 10-year c… [+3606 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Credit",
+      "Personal",
+      "Score",
+      "Rejected",
+      "FICO",
+      "Unusual",
+      "Mistake",
+      "Making",
+      "Reddit"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/11/dont-make-these-rookie-mistakes-in-disney-world-ld1/",
+    "title": "Don’t Make These Rookie Mistakes in Disney World",
+    "fetched_on": "2025-11-02T14:17:25.898510+00:00",
+    "content": "Not Planning\r\nCredit: Michael Gray, Flickr\r\nGoing into Walt Disney World blind and being fun and petty is what a lot of people do, but we recommend having at least a loose outline of what you want yo… [+2508 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "World",
+      "chars",
+      "Credit",
+      "Michael",
+      "Gray",
+      "Flickr",
+      "Make",
+      "Rookie",
+      "Mistakes"
+    ]
   }
 ]
