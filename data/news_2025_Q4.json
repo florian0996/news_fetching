@@ -127179,5 +127179,45 @@
       "score",
       "fact"
     ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/11/guests-sink-forced-to-evacuate-at-disney-world-theme-park-th1/",
+    "title": "Guests Sink, Forced To Evacuate at Disney World Theme Park on Halloween",
+    "fetched_on": "2025-11-02T12:37:45.893828+00:00",
+    "content": "Guests were forced to evacuate the Disney World resort location on Halloween night.\r\nCredit: Disney\r\nThose visiting the Walt Disney World Resort never expect that their vacation to The Most Magical P… [+3490 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Halloween",
+      "World",
+      "Disney",
+      "Forced",
+      "Evacuate",
+      "Sink",
+      "Guests",
+      "Theme",
+      "Park",
+      "resort"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/100ee8a940d01f94",
+    "title": "America Could See Surge in Credit Card Debt as SNAP Lapses",
+    "fetched_on": "2025-11-02T12:37:45.893828+00:00",
+    "content": "The government shutdown has halted November payments to about 42 million Americans.\r\nThis story appeared on newsweek.com, 2025-11-01 11:00:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "Surge",
+      "Credit",
+      "Card",
+      "Debt",
+      "SNAP",
+      "Lapses",
+      "November",
+      "America",
+      "million"
+    ]
   }
 ]
