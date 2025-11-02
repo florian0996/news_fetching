@@ -127019,5 +127019,25 @@
       "Cathy",
       "Head"
     ]
+  },
+  {
+    "source": "CNX Software [NewsAPI]",
+    "url": "https://www.cnx-software.com/2025/11/01/review-of-intel-based-up-ai-development-kits-part-1-unboxing-and-first-boot-to-ubuntu-pro-24-04/",
+    "title": "Review of Intel-based UP AI development kits – Part 1: Unboxing and first boot to Ubuntu Pro 24.04",
+    "fetched_on": "2025-11-02T09:18:49.914112+00:00",
+    "content": "AAEON sent me three Intel-based UP AI development kits for review, namely the credit card-sized, Intel N150-based UP TWL, the Intel N150-based UP Squared Pro TWL with M.2 expansion slots and a Hailo-… [+7321 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Intel",
+      "Intel-based",
+      "Part",
+      "Pro",
+      "TWL",
+      "development",
+      "Unboxing",
+      "AAEON",
+      "Hailo",
+      "chars"
+    ]
   }
 ]
