@@ -128115,5 +128115,25 @@
       "business",
       "industry"
     ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/11/01/building-a-pv-solar-powered-quadcopter/",
+    "title": "Building a PV Solar-Powered Quadcopter",
+    "fetched_on": "2025-11-02T23:18:12.703268+00:00",
+    "content": "The solar-powered quadcopter from below. (Credit: Luke Maximo Bell)\r\nOne of the most frustrating parts about flying a quadcopter is having to regularly swap battery packs, as this massively limits wh… [+1378 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Solar-Powered",
+      "Quadcopter",
+      "Building",
+      "Credit",
+      "Luke",
+      "Bell",
+      "chars",
+      "Maximo",
+      "packs",
+      "frustrating"
+    ]
   }
 ]
