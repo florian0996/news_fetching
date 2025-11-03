@@ -128373,5 +128373,25 @@
       "shopping",
       "marketwatch.com"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-03/new-world-to-issue-up-to-1-9-billion-of-new-securities-notes",
+    "title": "New World Plans $1.9 Billion Debt Swap With Creditor Haircuts",
+    "fetched_on": "2025-11-03T05:21:47.556098+00:00",
+    "content": "New World Development Co. will issue up to $1.9 billion of new debt in an exchange offer for some of its outstanding notes that includes as much as a 50% haircut for perpetual bond holders.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "World",
+      "Plans",
+      "Debt",
+      "Swap",
+      "Creditor",
+      "Development",
+      "holders",
+      "Haircuts",
+      "haircut"
+    ]
   }
 ]
