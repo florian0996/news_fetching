@@ -128473,5 +128473,84 @@
       "year",
       "JPMorgan"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-november-2-2025-110024062.html",
+    "title": "HELOC rates today, November 2, 2025: Moving lower with a quarter-point drop in the prime rate",
+    "fetched_on": "2025-11-03T11:18:03.026178+00:00",
+    "content": "HELOC rates have been drifting lower all year. The average home equity line of credit interest rate is 7.75%, according to the analytics company Curinos. However, that does not yet reflect the quarte… [+4019 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "November",
+      "Moving",
+      "lower",
+      "today",
+      "year",
+      "rates",
+      "rate",
+      "Curinos",
+      "quarter-point"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f78a663829ea2292",
+    "title": "I'm a CEO who had a 'widow-maker' heart attack in a meeting. Going back to work made me question my worth",
+    "fetched_on": "2025-11-03T11:18:03.026178+00:00",
+    "content": "Bruce Adams had a \"widow-maker\" heart attack during a meeting. Returning to work was harder than he had expected.Courtesy of Cooperative Credit Union AssociationBruce Adams had a heart attack during … [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "widow-maker",
+      "CEO",
+      "attack",
+      "meeting",
+      "heart",
+      "Adams",
+      "work",
+      "Bruce",
+      "Cooperative",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/ceo-had-heart-attack-experience-returning-to-work-2025-11",
+    "title": "I'm a CEO who had a 'widow-maker' heart attack in a meeting. Going back to work made me question my worth.",
+    "fetched_on": "2025-11-03T11:18:03.026178+00:00",
+    "content": "This as-told-to essay is based on a conversation with Bruce Adams, 52, who lives in West Hartford, Connecticut. He is the CEO of the Credit Union League of Connecticut, a trade association. In Octobe… [+4638 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "widow-maker",
+      "Connecticut",
+      "CEO",
+      "heart",
+      "meeting",
+      "attack",
+      "Adams",
+      "Hartford",
+      "Bruce",
+      "West"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/affirm-holdings-inc-afrm-deepens-103223716.html",
+    "title": "Affirm Holdings, Inc. (AFRM) Deepens Ties with New York Life in $750M Loan Deal",
+    "fetched_on": "2025-11-03T11:18:24.470936+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Holdings",
+      "AFRM",
+      "Affirm",
+      "Deepens",
+      "Loan",
+      "Deal",
+      "Ties",
+      "York",
+      "Life"
+    ]
   }
 ]
