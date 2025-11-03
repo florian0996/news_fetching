@@ -129523,5 +129523,85 @@
       "Launch",
       "Presale"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-03/kkr-plans-investment-expansion-for-insurance-unit-in-india",
+    "title": "KKR Plans Investment Expansion for Insurance Unit in India",
+    "fetched_on": "2025-11-03T22:20:23.849554+00:00",
+    "content": "KKR &amp; Co Inc. is planning a bigger role for its India insurance unit, as the investment firm expands in credit, infrastructure and private equity in the country, its top executives said.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KKR",
+      "India",
+      "Insurance",
+      "Unit",
+      "Investment",
+      "Plans",
+      "Expansion",
+      "Inc.",
+      "credit",
+      "infrastructure"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/10704375690e56c8",
+    "title": "T-Mobile Launches First Credit Card With Capital One",
+    "fetched_on": "2025-11-03T22:20:21.950968+00:00",
+    "content": "T-Mobile is launching its first credit card in partnership with Capital One.\r\nThe wireless companys new card will feature no annual fees and 2% in T-Mobile rewards, company officials told Bloomberg N… [+134 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Credit",
+      "Launches",
+      "Card",
+      "T-Mobile",
+      "launching",
+      "partnership",
+      "chars",
+      "Bloomberg",
+      "rewards"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/partnerships/2025/t-mobile-launches-first-credit-card-with-capital-one/",
+    "title": "T-Mobile Launches First Credit Card With Capital One",
+    "fetched_on": "2025-11-03T22:20:21.950968+00:00",
+    "content": "The wireless companys new card will feature no annual fees and 2% in T-Mobile rewards, company officials told Bloomberg News on Saturday (Nov. 1).\r\nIts not often you get to build a card from the grou… [+2186 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nov.",
+      "Saturday",
+      "Launches",
+      "Credit",
+      "Capital",
+      "Bloomberg",
+      "Card",
+      "T-Mobile",
+      "rewards",
+      "wireless"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/westpac-profit-meets-expectations-on-home-and-business-loans",
+    "title": "Westpac Profit Meets Expectations on Home and Business Loans",
+    "fetched_on": "2025-11-03T22:20:21.950968+00:00",
+    "content": "(Bloomberg) Westpac Banking Corp.s profit came in line with estimates as growth in mortgages and loans to businesses buoyed the Australian lender.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubs… [+3846 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Westpac",
+      "Profit",
+      "Loans",
+      "Meets",
+      "Expectations",
+      "Home",
+      "Business",
+      "Banking",
+      "Corp.s"
+    ]
   }
 ]
