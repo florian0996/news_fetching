@@ -130123,5 +130123,65 @@
       "MSME",
       "Capital"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-catherine-curtin-and-marcia-cross-star-in-pen-pals-off-broadway-production/article",
+    "title": "Review: Catherine Curtin and Marcia Cross star in ‘Pen Pals’ Off-Broadway production",
+    "fetched_on": "2025-11-04T05:21:15.652051+00:00",
+    "content": "Catherine Curtain and Marcia Cross in 'Pen Pals.' Photo Credit: Russ Rowland.\r\nVeteran actresses Catherine Curtin (“Orange is the New Black”) and Marcia Cross (“Desperate Housewives”) portray pen pal… [+2202 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marcia",
+      "Cross",
+      "Catherine",
+      "Pals’",
+      "Curtain",
+      "Review",
+      "Pen",
+      "Curtin",
+      "Pals",
+      "pal"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/these-5-premium-credit-cards-can-lift-your-lifestyle-a-great-deal-11762129080146.html",
+    "title": "THESE 5 premium credit cards can lift your lifestyle a great deal",
+    "fetched_on": "2025-11-04T05:21:15.652051+00:00",
+    "content": "If you are a credit card user and believe in leading a larger-than-life lifestyle, then it is advisable to choose the card wisely.\r\nSome credit cards are quite tempting for rewards, whereas others ar… [+2844 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "lifestyle",
+      "premium",
+      "wisely",
+      "cards",
+      "card",
+      "lift",
+      "great",
+      "deal",
+      "user"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/google-wallet-express-transit-card-3612267/",
+    "title": "We found a hidden Google Wallet feature that could change the way you commute",
+    "fetched_on": "2025-11-04T05:21:15.652051+00:00",
+    "content": "<ul><li>Google Wallet is preparing a new Express Transit Card feature for faster transport payments.</li><li>Itll allow users to set up a separate debit/credit card for transport payments, different … [+2671 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "Wallet",
+      "Itll",
+      "chars",
+      "Card",
+      "Express",
+      "Transit",
+      "feature",
+      "transport",
+      "commute"
+    ]
   }
 ]
