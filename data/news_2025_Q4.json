@@ -130063,5 +130063,65 @@
       "McNameeBusiness",
       "reporter"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/groww-raises-rs-2985-crore-from-investors-ahead-of-ipo-sovereign-funds-sbi-mf-join-anchor-book/articleshow/125046720.cms",
+    "title": "Groww raises Rs 2,985 crore from investors ahead of IPO, sovereign funds, SBI MF join anchor book",
+    "fetched_on": "2025-11-04T04:24:44.358507+00:00",
+    "content": "Online investment platform Groww (Billionbrains Garage Ventures Pvt Ltd) has raised Rs 2,984.54 crore from 102 anchor investors, a day ahead of its initial public offering. The company allotted 29.84… [+2266 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "crore",
+      "IPO",
+      "SBI",
+      "Billionbrains",
+      "Groww",
+      "Online",
+      "Garage",
+      "Ventures",
+      "Pvt",
+      "ahead"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/markets/stocks/news/month-end-volatility-drives-surge-in-feds-liquidity-tools/feds-liquidity-tools-see-record-action/slideshow/125046857.cms",
+    "title": "Month-end volatility drives surge in Fed’s liquidity tools",
+    "fetched_on": "2025-11-04T04:24:44.358507+00:00",
+    "content": "Nov 03, 2025, 10:01:33 AM IST\r\nThe Federal Reserve’s Standing Repo Facility (SRF) saw record usage on Friday, lending $50.35 billion to financial institutions. At the same time, the Reverse Repo Faci… [+2342 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SRF",
+      "Nov",
+      "Facility",
+      "Friday",
+      "lending",
+      "Fed",
+      "IST",
+      "Federal",
+      "Reserve",
+      "Standing"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/capri-global-aiming-for-50000-crore-aum-by-fy28-betting-on-gold-loans-and-msme-growth-rajesh-sharma/articleshow/124993462.cms",
+    "title": "Capri Global aiming for ₹50,000 crore AUM by FY28; betting on gold loans and MSME growth: Rajesh Sharma",
+    "fetched_on": "2025-11-04T04:24:44.358507+00:00",
+    "content": "Capri Global Capital Ltd is on track to deliver another year of strong growth, with Managing Director Rajesh Sharma projecting a 40% AUM increase in FY25 and setting a bold target to touch 50,000 cro… [+2804 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Global",
+      "Rajesh",
+      "Sharma",
+      "cro",
+      "chars",
+      "AUM",
+      "Capri",
+      "growth",
+      "MSME",
+      "Capital"
+    ]
   }
 ]
