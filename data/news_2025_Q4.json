@@ -129963,5 +129963,105 @@
       "command",
       "frontier"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-04/boyu-seeks-1-4-billion-for-starbucks-china-takeover-video",
+    "title": "Boyu Seeks $1.4 Billion for Starbucks China Takeover",
+    "fetched_on": "2025-11-04T03:11:30.247944+00:00",
+    "content": "Private equity firm Boyu Capital is in talks with banks for a loan of around $1.4 billion-equivalent to support its acquisition of a majority stake in Starbucks' China business, according to people familiar with the matter. Bloomberg's Rachel Chang reports. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Seeks",
+      "Billion",
+      "Boyu",
+      "Starbucks",
+      "Takeover",
+      "Private",
+      "Capital",
+      "Starbucks'",
+      "Bloomberg"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-04/boyu-seeks-around-1-4-billion-loan-for-starbucks-china-takeover",
+    "title": "Boyu Seeks Around $1.4 Billion Loan for Starbucks China Takeover",
+    "fetched_on": "2025-11-04T03:11:30.247951+00:00",
+    "content": "Private equity firm Boyu Capital is in talks with banks for a loan of around $1.4 billion-equivalent to support its acquisition of a majority stake in Starbucks Corp.’s China business, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Starbucks",
+      "China",
+      "Boyu",
+      "Loan",
+      "Seeks",
+      "Takeover",
+      "Private",
+      "Capital",
+      "Corp.’s"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/youtube-tv-10-dollar-credit-disney-channels-3612262/",
+    "title": "YouTube TV’s Disney drama just got some users a $60 apology",
+    "fetched_on": "2025-11-04T03:11:29.643533+00:00",
+    "content": "<ul><li>YouTube TV is reportedly offering users a $10 monthly credit for six months following the recent removal of over 20 Disney channels from the platform.</li><li>Last week, YouTube promised a $2… [+1644 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "YouTube",
+      "Disney",
+      "apology",
+      "chars",
+      "users",
+      "monthly",
+      "platform.",
+      "week",
+      "drama",
+      "reportedly"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/c8jrw8e1w0lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "Credit scores to include rental payments, says Experian",
+    "fetched_on": "2025-11-04T03:11:29.643533+00:00",
+    "content": "[Getty Images]\r\nRental payments will be reflected in credit scores, one of the UK's main credit agencies has said.\r\nExperian said it was overhauling its scoring system to better reflect \"more of the … [+2352 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "rental",
+      "Getty",
+      "Images",
+      "Credit",
+      "scores",
+      "payments",
+      "Experian",
+      "include",
+      "reflected",
+      "main"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/c8jrw8e1w0lo",
+    "title": "Credit scores to include rental payments, says Experian",
+    "fetched_on": "2025-11-04T03:11:29.643533+00:00",
+    "content": "Michael Sheils McNameeBusiness reporter\r\nRental payments will be reflected in credit scores, one of the UK's main credit agencies has said. \r\nExperian said it was overhauling its scoring system to be… [+2392 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "rental",
+      "Credit",
+      "Michael",
+      "Sheils",
+      "scores",
+      "payments",
+      "Experian",
+      "include",
+      "McNameeBusiness",
+      "reporter"
+    ]
   }
 ]
