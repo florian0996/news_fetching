@@ -130379,5 +130379,65 @@
       "select",
       "Offer"
     ]
+  },
+  {
+    "source": "Travelpointsplaybook.com [NewsAPI]",
+    "url": "https://travelpointsplaybook.com/2025/one-card-one-trip-mexico-all-inclusive/",
+    "title": "One Card, One Trip: Mexico All-Inclusive",
+    "fetched_on": "2025-11-04T08:29:31.532095+00:00",
+    "content": "In this series I explore real-world examples of just how much you can travel with the points of one credit card sign-up bonus.  Whether this destination interests you or not, my hope is that you can … [+3502 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trip",
+      "Mexico",
+      "Card",
+      "bonus",
+      "All-Inclusive",
+      "series",
+      "explore",
+      "real-world",
+      "travel",
+      "points"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/this-phone-could-finally-end-your-battery-anxiety-with-a-massive-9000mah-cell-and-100w-charging_id175405",
+    "title": "This phone could finally end your battery anxiety with a massive 9,000mAh cell and 100W charging",
+    "fetched_on": "2025-11-04T08:29:31.532095+00:00",
+    "content": "Redmi Turbo 4. | Image Credit - RedmiA new leak is revealing some interesting information about the upcoming Redmi Turbo 5 series. And yep, Chinese makers are taking battery sizes to a new level, if … [+3404 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Turbo",
+      "Redmi",
+      "massive",
+      "cell",
+      "charging",
+      "Image",
+      "Credit",
+      "series",
+      "phone",
+      "finally"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/company-results/sbi-q2-earnings-preview-yes-bank-stake-sale-profit-decline-analysts-11762150278583.html",
+    "title": "SBI Q2 preview: Yes Bank stake sale gains seen cushioning margin hit",
+    "fetched_on": "2025-11-04T08:29:31.532095+00:00",
+    "content": "State Bank of India (SBI) is expected to see its net profit decline for the the September quarter even as healthy loan growth and one-off treasury gains from its stake sale in Yes Bank offset pressur… [+3637 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "Bank",
+      "India",
+      "preview",
+      "chars",
+      "stake",
+      "sale",
+      "State",
+      "September",
+      "pressur"
+    ]
   }
 ]
