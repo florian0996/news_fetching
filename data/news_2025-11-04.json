@@ -63,7 +63,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-03/riskiest-consumer-borrower-ranks-swell-as-personal-loans-surge",
     "title": "High-Risk Consumer Borrowers Rise to Most Since 2019",
-    "fetched_on": "2025-11-04T15:23:50.550771+00:00",
+    "fetched_on": "2025-11-04T16:26:23.463728+00:00",
     "content": "The share of consumers in the subprime credit risk category has reached levels not seen since 2019, a sign that a growing number of borrowers are in poor financial health.",
     "platforms_mentioned": [],
     "keywords": [
@@ -83,7 +83,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-04/office-space-reit-ordered-into-mediation-with-jilted-creditors",
     "title": "Office-Space REIT Ordered to Mediate With Jilted Creditors",
-    "fetched_on": "2025-11-04T15:23:50.701650+00:00",
+    "fetched_on": "2025-11-04T16:26:23.581102+00:00",
     "content": "Office Properties Income Trust, a bankrupt owner of more than 120 office buildings, must go into mediation with disgruntled noteholders owed as much as $400 million, a federal judge said Monday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/03/states-sue-trump-public-service-loan-forgiveness-pslf.html",
     "title": "States sue Trump admin over rule limiting student loan forgiveness for public servants",
-    "fetched_on": "2025-11-04T15:24:08.825750+00:00",
+    "fetched_on": "2025-11-04T16:26:44.201330+00:00",
     "content": "New York Attorney General Letitia James is suing the Trump administration over its new rule limiting eligibility for Public Service Loan Forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -560,30 +560,30 @@
     ]
   },
   {
-    "source": "CNBC Top News [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2025/11/03/ford-hyundai-ev-sales.html",
     "title": "Ford, Hyundai report large declines in October EV sales after end of federal credits",
-    "fetched_on": "2025-11-04T12:47:56.678097+00:00",
-    "content": "Ford , Kia and Hyundai reported massive declines in EV sales as many buyers pulled ahead purchases before federal EV credits ended.",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "DETROIT Sales of all-electric vehicles collapsed last month following the end of up to $7,500 in federal incentives for purchasing an EV, several automakers said Monday.\r\nFord Motor, Kia and Hyundai \u2026 [+2689 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "Ford",
-      "Hyundai",
-      "Kia",
-      "October",
-      "declines",
+      "Monday",
       "sales",
-      "ended",
+      "October",
+      "DETROIT",
+      "end",
+      "Hyundai",
+      "Ford",
       "federal",
-      "credits",
-      "report"
+      "report",
+      "large"
     ]
   },
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-04T15:24:08.825849+00:00",
+    "fetched_on": "2025-11-04T16:26:44.201426+00:00",
     "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-04T15:24:08.825864+00:00",
+    "fetched_on": "2025-11-04T16:26:44.201440+00:00",
     "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
     "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
-    "fetched_on": "2025-11-04T15:24:08.825885+00:00",
+    "fetched_on": "2025-11-04T16:26:44.201460+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/refinance-demand-is-81percent-higher-than-it-was-a-year-ago-thanks-to-falling-mortgage-rates.html",
     "title": "Refinance demand is 81% higher than it was a year ago, thanks to falling mortgage rates",
-    "fetched_on": "2025-11-04T15:24:08.428319+00:00",
+    "fetched_on": "2025-11-04T16:26:43.971241+00:00",
     "content": "Sliding mortgage rates are pushing more current borrowers to refinance and also juicing demand for adjustable-rate loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-11-04T15:24:08.428383+00:00",
+    "fetched_on": "2025-11-04T16:26:43.971301+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/31/student-loan-class-action-lawsuit.html",
     "title": "Republican who oversaw student debt launches class action effort against Trump administration",
-    "fetched_on": "2025-11-04T15:24:08.825797+00:00",
+    "fetched_on": "2025-11-04T16:26:44.201376+00:00",
     "content": "The Trump administration is wrongfully damaging the credit of millions of student loan borrowers, a new proposed class action lawsuit says.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/public-service-loan-forgiveness-eligibility-trump.html",
     "title": "Trump administration to limit student loan forgiveness eligibility for some public servants",
-    "fetched_on": "2025-11-04T15:24:08.825834+00:00",
+    "fetched_on": "2025-11-04T16:26:44.201413+00:00",
     "content": "The Trump administration is moving closer to limiting eligibility for the Public Service Loan Forgiveness program.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/student-loan-forgiveness-icr-paye.html",
     "title": "What student loan borrowers need to know, as forgiveness resumes for two repayment plans",
-    "fetched_on": "2025-11-04T15:24:08.825892+00:00",
+    "fetched_on": "2025-11-04T16:26:44.201466+00:00",
     "content": "Student loan borrowers can get their debt forgiven again under the Income Contingent Repayment and the Pay as You Earn plans. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1921,7 +1921,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-04/private-credit-earnings-arrive-amid-fears-of-market-s-weak-link",
     "title": "Private Credit Earnings Arrive Amid Fears of Market\u2019s Weak Link",
-    "fetched_on": "2025-11-04T15:23:50.290140+00:00",
+    "fetched_on": "2025-11-04T16:26:23.244985+00:00",
     "content": "Despite blowout results from the biggest US lenders, fears about the strength of the credit market remain, which is putting a spotlight on upcoming reports from a usually obscure collection of financial firms.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2774,7 +2774,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/11/04/rent-reporting-can-hurt-credit-reports-says-consumer-advocate.html",
     "title": "This factor can be a 'kiss of death' on your credit report, says consumer advocate",
-    "fetched_on": "2025-11-04T15:24:08.009541+00:00",
+    "fetched_on": "2025-11-04T16:26:43.571243+00:00",
     "content": "Rent reporting is touted as a way to help marginalized people build credit. But experts say the risks can outweigh the rewards for some consumers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2813,7 +2813,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-11-04/private-credit-growth-doesn-t-pose-systemic-risk-sundar-video",
     "title": "Private Credit Growth Doesn't Pose Systemic Risk: Sundar",
-    "fetched_on": "2025-11-04T15:23:49.983630+00:00",
+    "fetched_on": "2025-11-04T16:26:23.018055+00:00",
     "content": "Sitara Sundar, Head of Alternative Investment Strategy at JPMorgan Private Bank, says while she doesn't believe the growth in private credit markets poses a systemic risk, pockets of idiosyncratic risk will bubble up. She speaks to Bloomberg's Matt Miller and Dani Burger on 'Open Interest.'  (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -2833,7 +2833,7 @@
     "source": "Jalopnik [NewsAPI]",
     "url": "https://www.jalopnik.com/2015213/china-relieve-looming-chip-shortage-exports-some-companies/",
     "title": "China To Relieve Looming Chip Shortage By Opening Up Exports To Some Companies",
-    "fetched_on": "2025-11-04T15:23:49.423612+00:00",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
     "content": "Hyundai and Kia make some fantastic EVs, but those EVs just lost a major selling point in the U.S.:\u00a0Their tax credit. Now, predictably, sales of the Ioniq 5, Ioniq 6, EV6, and EV9 are down. From Auto\u2026 [+1060 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2853,7 +2853,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/184e4169633340bc",
     "title": "Banks Tighten Lending As Consumer Credit Delinquencies Rise To Pre-Pandemic Levels, According To VantageScore",
-    "fetched_on": "2025-11-04T15:23:49.423612+00:00",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
     "content": "Banks Tighten Lending As Consumer Credit Delinquencies Rise To Pre-Pandemic Levels, According To VantageScoreConsumer delinquencies are close to pre-pandemic levels, and that's caused banks to lend o\u2026 [+151 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2873,7 +2873,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/11/03/3179499/0/en/Most-Trusted-Bitcoin-Casinos-USA-BetWhale-Takes-Lead-in-2025-Global-Crypto-Gaming.html",
     "title": "Most Trusted Bitcoin Casinos USA: BetWhale Takes Lead in 2025 Global Crypto Gaming",
-    "fetched_on": "2025-11-04T15:23:49.423612+00:00",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
     "content": "Toronto, ON, Nov. 03, 2025 (GLOBE NEWSWIRE) -- \u00a0BetWhale\r\n is setting new benchmarks in the rapidly advancing world of online gaming for 2025, expertly blending the power of cryptocurrency transactio\u2026 [+23947 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2893,7 +2893,7 @@
     "source": "CoinDesk [NewsAPI]",
     "url": "https://www.coindesk.com/markets/2025/11/03/strategy-s-bitcoin-engine-hits-new-phase-with-s-and-p-nod-canaccord-says",
     "title": "Strategy\u2019s Bitcoin Engine Hits New Phase With S&P Ratings Nod, Canaccord Says",
-    "fetched_on": "2025-11-04T15:23:49.423612+00:00",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
     "content": "Broker Canaccord Genuity said Strategys (MSTR) transformation into a full-cap-structure bitcoin acquisition engine hit a new milestone with its first S&amp;P credit rating, a B- with a stable outlook\u2026 [+1401 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3065,6 +3065,226 @@
       "loan",
       "enhancement",
       "package"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/35e3e396c9a5f8ec",
+    "title": "Huggies maker Kimberly-Clark is buying Tylenol maker Kenvue",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "One of the biggest mergers of the year, worth $49 billion, comes just weeks after the Trump administration linked the common painkiller to autism, which the company is fighting. (Image credit: Scott \u2026 [+59 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "maker",
+      "Tylenol",
+      "Kenvue",
+      "Trump",
+      "worth",
+      "billion",
+      "Huggies",
+      "year",
+      "autism",
+      "fighting"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/03/3179555/0/en/Traci-Harding-Joins-Nationwide-Mortgage-Bankers-as-EVP-of-Credit-Risk-Product-Development.html",
+    "title": "Traci Harding Joins Nationwide Mortgage Bankers as EVP of Credit Risk & Product Development",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "CHARLOTTE, N.C., Nov. 03, 2025 (GLOBE NEWSWIRE) -- Nationwide Mortgage Bankers, Inc. (NMB), one of the fastest-growing mortgage companies in the U.S., has announced that industry leader Traci Harding\u2026 [+4159 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nationwide",
+      "Bankers",
+      "Nov.",
+      "Risk",
+      "Product",
+      "CHARLOTTE",
+      "GLOBE",
+      "NEWSWIRE",
+      "Mortgage",
+      "Harding"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/economy/2025/earnings-reports-show-a-split-economy-as-lower-income-wallets-tighten/",
+    "title": "Earnings Reports Show a Split Economy as Lower-Income Wallets Tighten",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "On the surface, consumer spending has proved durable as headline retail sales and credit data remain solid. Yet beneath those numbers, a different current is building, one showing that lower-income c\u2026 [+3725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reports",
+      "Show",
+      "Split",
+      "Economy",
+      "Wallets",
+      "Tighten",
+      "Earnings",
+      "surface",
+      "consumer",
+      "solid"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/consumer-confidence-lower-interest-rates-driving-mortgage-activity/5MVDQTWMRZBU3M7IHWHEXM56ZA/",
+    "title": "Consumer confidence and lower interest rates driving mortgage activity",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "The continued decline in the OCR is beginning to reshape New Zealands credit landscape, providing a much-needed boost to both households and businesses, McLaughlin said.\r\nNew non-mortgage lending, in\u2026 [+1853 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OCR",
+      "Zealands",
+      "Consumer",
+      "landscape",
+      "providing",
+      "businesses",
+      "McLaughlin",
+      "chars",
+      "confidence",
+      "lower"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f263481ec4409ac0",
+    "title": "Ford\u2019s EV Sales Plunge. Now We Know What the Tax Credit Meant",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Amazon stock hit all-time high today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What sparked Kimberly-Clark\u2026 [+735 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Plunge",
+      "window.open",
+      "this.href",
+      "blank",
+      "Sales",
+      "return",
+      "false",
+      "Ford",
+      "Meant",
+      "Tax"
+    ]
+  },
+  {
+    "source": "Techfortravel.co.uk [NewsAPI]",
+    "url": "https://techfortravel.co.uk/luggage-news-seasonal-away-metallic-collection-limited-edition-gets-festive/",
+    "title": "Seasonal Away Metallic Collection Limited Edition goes Festive",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "This winter, the Away Metallic Collection limited edition updates core luggage styles with new metallic colours for the festive travel season.\r\nCredit Away\r\nThe Away Metallic Collection debuts this w\u2026 [+5028 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Metallic",
+      "Collection",
+      "Limited",
+      "Edition",
+      "Festive",
+      "Seasonal",
+      "winter",
+      "season",
+      "updates",
+      "core"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/887163021b312060",
+    "title": "Private Credit Jitters Unsettle an Otherwise Solid Quarter",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Kimberly-Clark buying Tylenol maker Kenvue? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Supreme Court\u2026 [+748 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Quarter",
+      "Kenvue",
+      "return",
+      "false",
+      "Credit",
+      "Jitters",
+      "Unsettle"
+    ]
+  },
+  {
+    "source": "Euro Weekly News [NewsAPI]",
+    "url": "https://euroweeklynews.com/2025/11/03/spanish-supermarket-bread-linked-to-health-issues/",
+    "title": "Spanish supermarket bread linked to health issues",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "Bread remains an essential part of the Spanish diet, but not all loaves are created equal. Photo credit: SJBright/Shutterstock Bread has been a staple of the Spanish diet for centuries, valued for it\u2026 [+6055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spanish",
+      "bread",
+      "equal",
+      "diet",
+      "Shutterstock",
+      "supermarket",
+      "linked",
+      "health",
+      "issues",
+      "remains"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2025/11/watch-president-trump-delivers-hilarious-response-when-cbs/",
+    "title": "WATCH: President Trump Delivers a Hilarious Response When CBS Hack Norah O\u2019Donnell Tries to Compare Muslim Communist Zohran Mamdani to Him",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "President Trump answers a question from CBS\u2019s Norah O\u2019 Donnell during their \u201c60 Minutes\u201d interview. Credit: CBS 60 Minutes screenshot\r\nPresident Trump let his legendary trademark humor shine through \u2026 [+2231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WATCH",
+      "Norah",
+      "President",
+      "Trump",
+      "Minutes",
+      "CBS",
+      "interview",
+      "Delivers",
+      "Hilarious",
+      "Response"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/credit-cards/learn/kay-jewelers-credit-card#article",
+    "title": "5 Things to Know About the Kay Jewelers Credit Card",
+    "fetched_on": "2025-11-04T16:26:22.497672+00:00",
+    "content": "The Kay Jewelers credit card, issued by Comenity Bank, offers financing options for (and occasional discounts on) shiny accessories. The \"zero down, special financing\" windows can be longer compared \u2026 [+7090 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kay",
+      "Jewelers",
+      "Credit",
+      "Card",
+      "Things",
+      "Bank",
+      "Comenity",
+      "issued",
+      "offers",
+      "shiny"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/rivian-q3-earnings-preview-with-ev-tax-credit-expiring-focus-turns-to-upcoming-r2-midsize-suv-161620011.html",
+    "title": "Rivian Q3 earnings preview: With EV tax credit expiring, focus turns to upcoming R2 midsize SUV",
+    "fetched_on": "2025-11-04T16:26:44.532398+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rivian",
+      "SUV",
+      "earnings",
+      "preview",
+      "expiring",
+      "focus",
+      "upcoming",
+      "midsize",
+      "tax",
+      "credit"
     ]
   }
 ]
