@@ -135189,5 +135189,145 @@
       "digital",
       "provide"
     ]
+  },
+  {
+    "source": "Louder [NewsAPI]",
+    "url": "https://www.loudersound.com/news/sabaton-singer-wants-to-play-gig-normandy-beaches-d-day-2025",
+    "title": "“I’d love to play the battlefields where the song actually happened”: Sabaton’s singer wants to do a gig on the beaches of Normandy, on the anniversary of D-Day",
+    "fetched_on": "2025-11-05T13:33:15.616865+00:00",
+    "content": "(Image credit: Future/Press/Joshua Dorfman)\r\nSabaton’s frontman wants to play a show on the beaches of Normandy.\r\nVocalist Joakim Brodén reveals that the booking would be his dream gig during a new i… [+2715 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sabaton",
+      "Normandy",
+      "Future",
+      "Press",
+      "beaches",
+      "Image",
+      "Joshua",
+      "Dorfman",
+      "play",
+      "happened"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/dc912a01023cb270",
+    "title": "Why seasonal flexibility matters in SME lending",
+    "fetched_on": "2025-11-05T13:33:15.616865+00:00",
+    "content": "For many businesses, Christmas and New Year are both the most wonderful and most challenging times of the year. Whether its a retailer ramping up stock orders, a manufacturer managing late supplier p… [+150 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Christmas",
+      "Year",
+      "SME",
+      "businesses",
+      "chars",
+      "seasonal",
+      "flexibility",
+      "matters",
+      "lending",
+      "wonderful"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/caae230da570bfdf",
+    "title": "United Airlines’ New Debit Card Taps Checking Accounts to Fuel Travel Benefits",
+    "fetched_on": "2025-11-05T13:33:15.616865+00:00",
+    "content": "The battle for travel loyalty is has already made a sizeable and comfortable home in customers wallets. From co-branded luxury credit cards with annual fees that boast a comma, to entry-level flexibl… [+138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Travel",
+      "Airlines’",
+      "Debit",
+      "Taps",
+      "Checking",
+      "Accounts",
+      "Fuel",
+      "Benefits",
+      "United",
+      "wallets"
+    ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-11-05/asic-deep-dive-into-the-hazy-world-of-private-lending/105965776",
+    "title": "ASIC's deep dive into the hazy world of private lending",
+    "fetched_on": "2025-11-05T13:33:15.616865+00:00",
+    "content": "The corporate regulator is threatening Australia's nascent private lending industry with tighter regulation if it does not see a significant lift in standards. \r\nThe rapidly growing lending sector, k… [+5489 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ASIC",
+      "Australia",
+      "private",
+      "lending",
+      "standards",
+      "deep",
+      "dive",
+      "hazy",
+      "world",
+      "corporate"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/defi-sleuths-trace-284m-stream-finance-exposure",
+    "title": "DeFi sleuths trace $284M in loans and stablecoin risk linked to Stream Finance",
+    "fetched_on": "2025-11-05T13:33:15.616865+00:00",
+    "content": "Decentralized finance (DeFi) researchers mapped out more than $284 million in stablecoin exposure and outstanding loans linked to Stream Finance, following the protocols collapse. \r\nOn Tuesday, a det… [+2457 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stream",
+      "Finance",
+      "DeFi",
+      "Decentralized",
+      "linked",
+      "loans",
+      "stablecoin",
+      "trace",
+      "researchers",
+      "million"
+    ]
+  },
+  {
+    "source": "Leasinglife.com [NewsAPI]",
+    "url": "https://www.leasinglife.com/comment/why-seasonal-flexibility-matters-in-sme-lending/",
+    "title": "Why seasonal flexibility matters in SME lending",
+    "fetched_on": "2025-11-05T13:33:15.616865+00:00",
+    "content": "For many businesses, Christmas and New Year are both the most wonderful and most challenging times of the year. Whether its a retailer ramping up stock orders, a manufacturer managing late supplier p… [+3488 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Christmas",
+      "Year",
+      "SME",
+      "businesses",
+      "chars",
+      "seasonal",
+      "flexibility",
+      "matters",
+      "lending",
+      "wonderful"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/loyalty-and-rewards-news/2025/united-airlines-new-debit-card-taps-checking-accounts-to-fuel-travel-benefits/",
+    "title": "United Airlines’ New Debit Card Taps Checking Accounts to Fuel Travel Benefits",
+    "fetched_on": "2025-11-05T13:33:15.616865+00:00",
+    "content": "The battle for travel loyalty is has already made a sizeable and comfortable home in customers wallets. From co-branded luxury credit cards with annual fees that boast a comma, to entry-level flexibl… [+4859 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Travel",
+      "Airlines’",
+      "Debit",
+      "Taps",
+      "Checking",
+      "Accounts",
+      "Fuel",
+      "Benefits",
+      "United",
+      "wallets"
+    ]
   }
 ]
