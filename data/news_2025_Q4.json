@@ -133974,5 +133974,85 @@
       "York",
       "Times"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-05/country-garden-reaches-milestone-as-debt-plan-heads-to-vote",
+    "title": "Country Garden Reaches Milestone as Debt Plan Heads to Vote",
+    "fetched_on": "2025-11-05T04:25:21.665186+00:00",
+    "content": "Country Garden Holdings Co., one of the biggest casualties of China’s real estate crisis, is wrapping up its $14.1 billion offshore debt restructuring after more than two years, with creditors likely to approve its plan in a vote on Wednesday.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Garden",
+      "Wednesday",
+      "Country",
+      "Debt",
+      "Plan",
+      "Vote",
+      "Reaches",
+      "Milestone",
+      "Heads",
+      "Holdings"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/chatgpt-go-is-free-for-a-year-in-india-but-there-is-a-big-catch-you-should-know-and-how-avoid-it/articleshow/125073830.cms",
+    "title": "ChatGPT Go is free for a year in India, but there is a big catch you should know and how to avoid it",
+    "fetched_on": "2025-11-05T04:25:20.890329+00:00",
+    "content": "OpenAI is giving Indian users one year of ChatGPT Go for free starting November 4, but to claim the free year you will likely need to add a payment method (credit/debit card or UPI) during the signup… [+3326 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "November",
+      "UPI",
+      "credit",
+      "chars",
+      "Indian",
+      "ChatGPT",
+      "free",
+      "year",
+      "method"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/nba/breaking-news/article/giannis-antetokounmpo-sinks-pacers-with-walk-off-buzzer-beater-to-send-surprising-bucks-to-5-2-032006572.html",
+    "title": "Giannis Antetokounmpo sinks Pacers with walk-off buzzer-beater to send surprising Bucks to 5-2",
+    "fetched_on": "2025-11-05T04:25:20.890329+00:00",
+    "content": "The latest round of one of the East's most bitter rivalries goes to the Milwaukee Bucks.\r\nCredit, Giannis Antetokounmpo.\r\nIn the first game between the Bucks and Pacers since Myles Turner defected fo… [+1355 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Giannis",
+      "Antetokounmpo",
+      "East",
+      "Milwaukee",
+      "Bucks",
+      "Pacers",
+      "sinks",
+      "walk-off",
+      "buzzer-beater",
+      "send"
+    ]
+  },
+  {
+    "source": "POLITICO.eu [NewsAPI]",
+    "url": "https://www.politico.eu/article/rethink-bank-england-rate-setting-committee-reform-uk-richard-tice/",
+    "title": "Farage’s deputy calls for fresh debate over Bank of England remit",
+    "fetched_on": "2025-11-05T04:25:20.890329+00:00",
+    "content": "He argued the BoE had failed under Conservative Liz Truss, who was forced out as prime minister after bond yields spiked in the wake of a tax-cutting budget, leading banks to increase their lending r… [+1369 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Truss",
+      "England",
+      "Conservative",
+      "Liz",
+      "Farage",
+      "budget",
+      "leading",
+      "Bank",
+      "banks"
+    ]
   }
 ]
