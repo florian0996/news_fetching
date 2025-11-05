@@ -137457,5 +137457,65 @@
       "youre",
       "youve"
     ]
+  },
+  {
+    "source": "Nofilmschool.com [NewsAPI]",
+    "url": "https://nofilmschool.com/back-to-the-future-predictions",
+    "title": "11 Modern Tech Gadgets 'Back to the Future Part II' Got Exactly Right",
+    "fetched_on": "2025-11-05T23:19:44.799590+00:00",
+    "content": "Back to the Future Part II deserves credit for getting more right than wrong about our technological future.\r\nIn the film, which takes place immediately after the first, Marty McFly (Michael J. Fox) … [+7487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Part",
+      "Back",
+      "Modern",
+      "Gadgets",
+      "Tech",
+      "deserves",
+      "credit",
+      "wrong",
+      "technological"
+    ]
+  },
+  {
+    "source": "Ghost.io [NewsAPI]",
+    "url": "https://inventingthefuture.ghost.io/mr-tiff/",
+    "title": "Mr Tiff",
+    "fetched_on": "2025-11-05T23:19:44.799590+00:00",
+    "content": "For as long as I have published my books, one of my overarching goals was to give credit to those who actually invented the hardware and software that we use. \r\nIt has taken 10,000+ hours to create t… [+9217 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tiff",
+      "books",
+      "long",
+      "published",
+      "overarching",
+      "goals",
+      "give",
+      "credit",
+      "invented",
+      "hardware"
+    ]
+  },
+  {
+    "source": "Ed.ac.uk [NewsAPI]",
+    "url": "https://blogs.ed.ac.uk/teaching-matters/improving-gruepr-a-tool-for-grouping-students/",
+    "title": "Improving Gruepr: a tool for grouping students – Teaching Matters",
+    "fetched_on": "2025-11-05T23:19:44.799590+00:00",
+    "content": "Image credit: webtechexperts, pixabay\r\nIn this post, Nikhen Sanjaya Nyo, Cristina Adriana Alexandru and Aurora Constantin from the School of Informatics describe the work conducted as part of an unde… [+10138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "webtechexperts",
+      "chars",
+      "Gruepr",
+      "Teaching",
+      "Nikhen",
+      "Nyo",
+      "Cristina",
+      "Matters",
+      "Image",
+      "Sanjaya"
+    ]
   }
 ]
