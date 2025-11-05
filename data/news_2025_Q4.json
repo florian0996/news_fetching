@@ -134094,5 +134094,100 @@
       "high",
       "mid-sized"
     ]
+  },
+  {
+    "source": "Naturalnews.com [NewsAPI]",
+    "url": "https://www.naturalnews.com/2025-11-04-automakers-drop-ev-sales-end-tax-credits.html",
+    "title": "Major automakers report DROP in EV sales following end of federal tax credits",
+    "fetched_on": "2025-11-05T06:32:00.354111+00:00",
+    "content": "<ul><li>EV sales plummeted over 60 percent for major automakers after federal tax credits expired, raising concerns about market sustainability.</li><li>Despite initial popularity, EV tax credits for… [+3973 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "tax",
+      "credits",
+      "chars",
+      "DROP",
+      "Major",
+      "automakers",
+      "sales",
+      "federal",
+      "percent",
+      "expired"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/spend/embedded-finance-explained-how-non-banking-apps-are-becoming-your-new-banks/what-is-embedded-finance-and-why-it-matters/slideshow/125076521.cms",
+    "title": "Embedded finance explained: How non-banking apps are becoming your new banks",
+    "fetched_on": "2025-11-05T06:32:00.354111+00:00",
+    "content": "Nov 04, 2025, 11:28:27 AM IST\r\nEmbedded finance brings banking and financial services into everyday apps and platforms. It lets users pay bills, take loans, or buy insurance without leaving the app t… [+2018 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Embedded",
+      "Nov",
+      "IST",
+      "finance",
+      "explained",
+      "platforms",
+      "non-banking",
+      "banks",
+      "brings",
+      "banking"
+    ]
+  },
+  {
+    "source": "Cryptonews [NewsAPI]",
+    "url": "https://cryptonews.com/news/strategy-to-issue-3-5m-euro-denominated-preferred-shares-to-fuel-btc-purchases/",
+    "title": "Strategy to Issue 3.5M Euro-Denominated Preferred Shares to Fuel BTC Purchases",
+    "fetched_on": "2025-11-05T06:32:00.354111+00:00",
+    "content": "Michael Saylors BTC firm, Strategy, is planning to offer a Euro-denominated credit instrument under the symbol STRE. The firm plans for an initial public offering (IPO) of 3,500,000 shares of its 10.… [+1950 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Strategy",
+      "BTC",
+      "Issue",
+      "STRE",
+      "Euro-Denominated",
+      "Preferred",
+      "Fuel",
+      "Purchases",
+      "Michael",
+      "Saylors"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/irish/bank-of-ireland-aib-and-ptsb-issued-93pc-of-all-new-mortgage-lending-in-ireland-in-september/a872496341.html",
+    "title": "Bank of Ireland, AIB and PTSB issued 93pc of all new mortgage lending in Ireland in September",
+    "fetched_on": "2025-11-05T06:32:00.354111+00:00",
+    "content": "The three main Irish banks accounted for 93pc of new mortgage lending in September, according to a new analysis from ratings agency Morningstar DBRS.That figure is slightly higher than recent results… [+2420 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "September",
+      "Ireland",
+      "mortgage",
+      "lending",
+      "AIB",
+      "chars",
+      "PTSB",
+      "Irish",
+      "Morningstar",
+      "issued"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-by-credit-score-185409590.html",
+    "title": "Current mortgage rates by credit score",
+    "fetched_on": "2025-11-05T06:32:32.496984+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Current",
+      "score",
+      "mortgage",
+      "rates",
+      "credit"
+    ]
   }
 ]
