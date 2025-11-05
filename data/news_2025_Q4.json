@@ -134054,5 +134054,45 @@
       "Bank",
       "banks"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1152fb5427f0f84b",
+    "title": "UBS chair warns of ‘looming systemic risk’ from private credit ratings",
+    "fetched_on": "2025-11-05T05:22:03.586366+00:00",
+    "content": "Colm Kelleher says insurers are shopping for ratings as banks did before 2008 financial crisis\r\nThis story appeared on ft.com, 2025-11-04 04:45:20.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UBS",
+      "Colm",
+      "Kelleher",
+      "looming",
+      "financial",
+      "ft.com",
+      "ratings",
+      "chair",
+      "warns",
+      "systemic"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/markets/stocks/news/us-business-loan-demand-jumps-to-three-year-high-fed-survey-shows/loan-demand-rebounds/slideshow/125074982.cms",
+    "title": "US business loan demand jumps to three-year high, Fed Survey Shows",
+    "fetched_on": "2025-11-05T05:22:03.586366+00:00",
+    "content": "Nov 04, 2025, 10:09:12 AM IST\r\nBusiness loan demand from large and mid-sized U.S. firms strengthened in the third quarter, marking the sharpest increase in nearly three years. However, demand from sm… [+1843 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "business",
+      "Fed",
+      "Nov",
+      "loan",
+      "Survey",
+      "Shows",
+      "IST",
+      "demand",
+      "high",
+      "mid-sized"
+    ]
   }
 ]
