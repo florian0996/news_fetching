@@ -1,6 +1,24 @@
 {
-  "2025-11-04": {
+  "2025-11-05": {
     "status": "no company in the news"
+  },
+  "2025-11-04": {
+    "articles": [
+      {
+        "title": "Pagaya, Castlelake reach deal for up to $500 million in auto loans",
+        "url": "https://www.reuters.com/legal/transactional/pagaya-castlelake-reach-deal-up-500-million-auto-loans-2025-11-03/",
+        "platforms_mentioned": [
+          "Castlelake"
+        ]
+      },
+      {
+        "title": "Pagaya, Castlelake reach deal for up to $500 million in auto loans",
+        "url": "https://www.channelnewsasia.com/business/pagaya-castlelake-reach-deal-up-500-million-in-auto-loans-5442586",
+        "platforms_mentioned": [
+          "Castlelake"
+        ]
+      }
+    ]
   },
   "2025-11-03": {
     "status": "no company in the news"
