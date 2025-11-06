@@ -1,9 +1,9 @@
 [
   {
-    "source": "Bloomberg – Politics [RSS]",
+    "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-06/chicago-outlook-cut-one-notch-by-s-p-on-deficits-pension-woes",
     "title": "Chicago Outlook Cut One Notch by S&amp;P on Deficits, Pension Woes",
-    "fetched_on": "2025-11-06T03:15:18.325825+00:00",
+    "fetched_on": "2025-11-06T04:27:48.051961+00:00",
     "content": "Chicago had its credit outlook lowered one notch to negative by S&amp;P Global Ratings on Wednesday after Mayor Brandon Johnson proposed a partial supplemental pension contribution next year as the city grapples with back-to-back deficits and weaker reserves.",
     "platforms_mentioned": [],
     "keywords": [
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "source": "Bloomberg – Business [RSS]",
+    "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/newsletters/2025-11-05/land-of-the-rising-sun-slowly-warms-to-private-credit",
     "title": "Land of the Rising Sun Slowly Warms to Private Credit",
     "fetched_on": "2025-11-06T01:43:00.214515+00:00",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-05/amazon-to-offer-nubank-customers-more-credit-in-brazil-push",
     "title": "Amazon to Offer Nubank Customers More Credit in Brazil Push",
     "fetched_on": "2025-11-06T01:43:00.672029+00:00",
@@ -62,16 +62,16 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/marcia-cross-of-desperate-housewives-talks-about-starring-in-pen-pals/article",
-    "title": "Marcia Cross of ‘Desperate Housewives' talks about starring in ‘Pen Pals'",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "Marcia Cross as Mags in 'Pen Pals.' Photo Credit: Russ Rowland. Veteran actress Marcia Cross (“Desperate Housewives”) chatted about starring in the Off-Broadway production of “Pen Pals.” She is play... [+7534 chars]",
+    "title": "Marcia Cross of \u2018Desperate Housewives\u2019 talks about starring in \u2018Pen Pals\u2019",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Marcia Cross as Mags in 'Pen Pals.' Photo Credit: Russ Rowland.\r\nVeteran actress Marcia Cross (\u201cDesperate Housewives\u201d) chatted about starring in the Off-Broadway production of \u201cPen Pals.\u201d She is play\u2026 [+7534 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Pen",
       "Pals",
       "Cross",
-      "Housewives’",
-      "Pals’",
+      "Housewives\u2019",
+      "Pals\u2019",
       "Mags",
       "Marcia",
       "Desperate",
@@ -82,9 +82,9 @@
   {
     "source": "pymnts.com [NewsAPI]",
     "url": "https://www.pymnts.com/walmart/2025/walmart-de-mexicos-digital-payments-app-integrates-aplazos-bnpl-offering/",
-    "title": "Walmart de México's Digital Payments App Integrates Aplazo's BNPL Offering",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "Users of Walmart de Méxicos digital payments app, Cashi, can now purchase products online and pay in installments without a credit card.This capability was enabled by a strategic partnership of Walma... [+2236 chars]",
+    "title": "Walmart de M\u00e9xico\u2019s Digital Payments App Integrates Aplazo\u2019s BNPL Offering",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Users of Walmart de M\u00e9xicos digital payments app, Cashi, can now purchase products online and pay in installments without a credit card.This capability was enabled by a strategic partnership of Walma\u2026 [+2236 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Cashi",
@@ -102,9 +102,9 @@
   {
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/6ca20e81caeded4d",
-    "title": "Australia's Watchdog Uncovers Risks in Private Credit Probe",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Teslas demand dropping in Europe? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the government shutdown... [+739 chars]",
+    "title": "Australia\u2019s Watchdog Uncovers Risks in Private Credit Probe",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Teslas demand dropping in Europe? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the government shutdown\u2026 [+739 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -123,8 +123,8 @@
     "source": "Calculatedriskblog.com [NewsAPI]",
     "url": "https://www.calculatedriskblog.com/2025/11/wednesday-adp-employment-ism-services.html",
     "title": "Wednesday: ADP Employment, ISM Services, Report on Household Debt and Credit",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "Note: Mortgage rates are from MortgageNewsDaily.com and are for top tier scenarios. Wednesday: • At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purch... [+386 chars]",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Note: Mortgage rates are from MortgageNewsDaily.com and are for top tier scenarios.\n\nWednesday:\n\u2022 At 7:00 AM ET, The Mortgage Bankers Association (MBA) will release the results for the mortgage purch\u2026 [+386 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Wednesday",
@@ -143,8 +143,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-profit-rises-10-on-loan-growth-and-yes-it-beats-street/articleshow/125099233.cms",
     "title": "SBI Q2 profit rises 10% on loan growth; and yes, it beats Street",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "State Bank of India's (SBI) bottom line advanced 10% on year to 20,160 crore in the second quarter, handsomely beating Street estimates of a marginal contraction, paced by growth in retail, agricultu... [+3277 chars]",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "State Bank of India's (SBI) bottom line advanced 10% on year to 20,160 crore in the second quarter, handsomely beating Street estimates of a marginal contraction, paced by growth in retail, agricultu\u2026 [+3277 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "SBI",
@@ -202,7 +202,7 @@
   {
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/1e8637a7cc1b7b4a",
-    "title": "Nidec Shares May Rise After ¥600 Billion Credit Line From Banks",
+    "title": "Nidec Shares May Rise After \u00a5600 Billion Credit Line From Banks",
     "fetched_on": "2025-11-06T03:15:17.460887+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Teslas demand dropping in Europe? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the government shutdown... [+736 chars]",
     "platforms_mentioned": [],
@@ -242,7 +242,7 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/11/04/todays-nyt-strands-hints-answers-wednesday-november-5/",
-    "title": "Today's NYT ‘Strands' Hints And Answers For Wednesday, November 5",
+    "title": "Today's NYT \u2018Strands' Hints And Answers For Wednesday, November 5",
     "fetched_on": "2025-11-06T03:15:17.460887+00:00",
     "content": "Today's NYT Strands hints and answers Credit: New York Times Its another perfect day for puzzle-solving, though perhaps even more perfect for long walks down forest trails. Its been an absolutely b... [+2557 chars]",
     "platforms_mentioned": [],
@@ -252,7 +252,7 @@
       "NYT",
       "Hints",
       "Answers",
-      "Strands’",
+      "Strands\u2019",
       "Wednesday",
       "Credit",
       "Strands",
@@ -363,7 +363,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/11/05/lucid-lcid-earnings-q3-2025.html",
     "title": "Lucid misses Wall Street expectations, narrows production guidance",
-    "fetched_on": "2025-11-06T03:15:36.554535+00:00",
+    "fetched_on": "2025-11-06T04:28:19.419583+00:00",
     "content": "Lucid also said it has agreed to increase a term loan credit facility from $750 million to roughly $2 billion from Saudi Arabia's Public Investment Fund.",
     "platforms_mentioned": [],
     "keywords": [
@@ -382,8 +382,8 @@
   {
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/11/05/healthy-returns-pfizer-novo-nordisk-escalate-metsera-bidding-war.html",
-    "title": "Healthy Returns: What to know about Pfizer and Novo Nordisk's bidding war over obesity biotech Metsera",
-    "fetched_on": "2025-11-06T03:15:36.554686+00:00",
+    "title": "Healthy Returns: What to know about Pfizer and Novo Nordisk\u2019s bidding war over obesity biotech Metsera",
+    "fetched_on": "2025-11-06T04:28:19.419730+00:00",
     "content": "Pfizer and Novo Nordisk are in a takeover clash over the obesity biotech Metsera, while some House Republicans warm to extending tax credits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,8 +403,8 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-06T03:15:36.883508+00:00",
-    "content": "More buyers are turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
+    "fetched_on": "2025-11-06T04:28:19.892412+00:00",
+    "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
       "Fed",
@@ -423,8 +423,8 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-06T03:15:36.883521+00:00",
-    "content": "Here's a look at all of the ways the Fed decision could affect your finances.",
+    "fetched_on": "2025-11-06T04:28:19.892426+00:00",
+    "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
       "mortgage",
@@ -442,8 +442,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
-    "title": "What another Fed cut could mean for borrowers - some rates may barely budge",
-    "fetched_on": "2025-11-06T03:15:36.883541+00:00",
+    "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
+    "fetched_on": "2025-11-06T04:28:19.892448+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/refinance-demand-is-81percent-higher-than-it-was-a-year-ago-thanks-to-falling-mortgage-rates.html",
     "title": "Refinance demand is 81% higher than it was a year ago, thanks to falling mortgage rates",
-    "fetched_on": "2025-11-06T03:15:36.652257+00:00",
+    "fetched_on": "2025-11-06T04:28:19.559650+00:00",
     "content": "Sliding mortgage rates are pushing more current borrowers to refinance and also juicing demand for adjustable-rate loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-11-06T03:15:36.652319+00:00",
+    "fetched_on": "2025-11-06T04:28:19.559711+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/03/states-sue-trump-public-service-loan-forgiveness-pslf.html",
     "title": "States sue Trump admin over rule limiting student loan forgiveness for public servants",
-    "fetched_on": "2025-11-06T03:15:36.883412+00:00",
+    "fetched_on": "2025-11-06T04:28:19.892314+00:00",
     "content": "New York Attorney General Letitia James is suing the Trump administration over its new rule limiting eligibility for Public Service Loan Forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/31/student-loan-class-action-lawsuit.html",
     "title": "Republican who oversaw student debt launches class action effort against Trump administration",
-    "fetched_on": "2025-11-06T03:15:36.883460+00:00",
+    "fetched_on": "2025-11-06T04:28:19.892362+00:00",
     "content": "The Trump administration is wrongfully damaging the credit of millions of student loan borrowers, a new proposed class action lawsuit says.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/public-service-loan-forgiveness-eligibility-trump.html",
     "title": "Trump administration to limit student loan forgiveness eligibility for some public servants",
-    "fetched_on": "2025-11-06T03:15:36.883494+00:00",
+    "fetched_on": "2025-11-06T04:28:19.892397+00:00",
     "content": "The Trump administration is moving closer to limiting eligibility for the Public Service Loan Forgiveness program.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/student-loan-forgiveness-icr-paye.html",
     "title": "What student loan borrowers need to know, as forgiveness resumes for two repayment plans",
-    "fetched_on": "2025-11-06T03:15:36.883548+00:00",
+    "fetched_on": "2025-11-06T04:28:19.892455+00:00",
     "content": "Student loan borrowers can get their debt forgiven again under the Income Contingent Repayment and the Pay as You Earn plans. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -589,7 +589,7 @@
     "keywords": [
       "Overnight",
       "Asked",
-      "Americans’",
+      "Americans\u2019",
       "Credit",
       "Card",
       "Debt",
@@ -599,11 +599,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-06/dimon-sees-less-need-for-20-billion-loan-to-argentina-reuters",
     "title": "Dimon Sees Less Need for $20 Billion Loan to Argentina: Reuters",
-    "fetched_on": "2025-11-06T03:15:18.888580+00:00",
-    "content": "Jamie Dimon said $20 billion in potential private-sector financing for Argentina “may not be necessary,” according to a Reuters interview with the JPMorgan Chase &amp; Co. chief executive officer.",
+    "fetched_on": "2025-11-06T04:27:49.240754+00:00",
+    "content": "Jamie Dimon said $20 billion in potential private-sector financing for Argentina \u201cmay not be necessary,\u201d according to a Reuters interview with the JPMorgan Chase &amp; Co. chief executive officer.",
     "platforms_mentioned": [],
     "keywords": [
       "Argentina",
@@ -621,9 +621,9 @@
   {
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/0a8d183937256a09",
-    "title": "Asset Manager TCW ‘Very Nervous' About Parts of Private Credit",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon suing Perplexity over AI shopping? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Canadas 2025 bu... [+786 chars]",
+    "title": "Asset Manager TCW \u2018Very Nervous\u2019 About Parts of Private Credit",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon suing Perplexity over AI shopping? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Canadas 2025 bu\u2026 [+786 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "window.open",
@@ -634,7 +634,7 @@
       "return",
       "false",
       "Manager",
-      "Nervous’",
+      "Nervous\u2019",
       "Parts"
     ]
   },
@@ -642,8 +642,8 @@
     "source": "pymnts.com [NewsAPI]",
     "url": "https://www.pymnts.com/consumer-finance/2025/upstart-says-originations-leap-as-consumer-credit-strength-improves/",
     "title": "Upstart Says Originations Leap as Consumer Credit Strength Improves",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "Artificial intelligence (AI) lending marketplace Upstart saw growing consumer demand and steady consumer credit strength in the third quarter, executives said Tuesday (Nov. 4) during an earnings call... [+2659 chars]",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Artificial intelligence (AI) lending marketplace Upstart saw growing consumer demand and steady consumer credit strength in the third quarter, executives said Tuesday (Nov. 4) during an earnings call\u2026 [+2659 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Nov.",
@@ -662,8 +662,8 @@
     "source": "TmoNews [NewsAPI]",
     "url": "https://www.tmonews.com/2025/11/t-mobile-launches-visa-card-that-actually-saves-you-money-on-your-phone-bill/",
     "title": "T-Mobile Launches Visa Card That Actually Saves You Money on Your Phone Bill",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "T-Mobile customers who've been frustrated about losing their monthly bill discount can finally breathe easier. The carrier just launched its own Visa credit card that brings back the $5 per line Auto... [+2525 chars]",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "T-Mobile customers who\u2019ve been frustrated about losing their monthly bill discount can finally breathe easier. The carrier just launched its own Visa credit card that brings back the $5 per line Auto\u2026 [+2525 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Bill",
@@ -681,9 +681,9 @@
   {
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/a818ece39bac7d9c",
-    "title": "Walmart de México's Digital Payments App Integrates Aplazo's BNPL Offering",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "Users of Walmart de Méxicos digital payments app, Cashi, can now purchase products online and pay in installments without a credit card. This capability was enabled by a strategic partnership of Wal... [+135 chars]",
+    "title": "Walmart de M\u00e9xico\u2019s Digital Payments App Integrates Aplazo\u2019s BNPL Offering",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Users of Walmart de M\u00e9xicos digital payments app, Cashi, can now purchase products online and pay in installments without a credit card.\r\nThis capability was enabled by a strategic partnership of Wal\u2026 [+135 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Cashi",
@@ -701,9 +701,9 @@
   {
     "source": "Rolling Stone [NewsAPI]",
     "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-food-bank-snap-1235459636/",
-    "title": "Jimmy Kimmel Launches ‘Big, Beautiful Food Bank' to Help Those Affected by SNAP Cuts",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "Jimmy Kimmel Live! is lending a hand to those affected by recent cuts and freezes to Supplemental Nutrition Assistance Program (SNAP) benefits. On Tuesday afternoon, Kimmel announced that he and his ... [+2068 chars]",
+    "title": "Jimmy Kimmel Launches \u2018Big, Beautiful Food Bank\u2019 to Help Those Affected by SNAP Cuts",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Jimmy Kimmel Live! is lending a hand to those affected by recent cuts and freezes to Supplemental Nutrition Assistance Program (SNAP) benefits. On Tuesday afternoon, Kimmel announced that he and his \u2026 [+2068 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Big",
@@ -722,8 +722,8 @@
     "source": "BusinessLine [NewsAPI]",
     "url": "https://www.thehindubusinessline.com/money-and-banking/microfinance-portfolio-shrinks-165-in-q2-fy26-asset-quality-improves-crif-report/article70242693.ece",
     "title": "Microfinance portfolio shrinks 16.5% in Q2 FY26, asset quality improves: Crif report",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "The microfinance portfolio for all lenders continued to shrink even in the September quarter, but there was an improvement in asset quality, a report said on Tuesday. The gross lending portfolio of... [+1941 chars]",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "The microfinance portfolio for all lenders continued to shrink even in the September quarter, but there was an improvement in asset quality, a report said on Tuesday.\r\n The gross lending portfolio of\u2026 [+1941 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Crif",
@@ -742,8 +742,8 @@
     "source": "Ndtvprofit.com [NewsAPI]",
     "url": "https://www.ndtvprofit.com/opinion/student-loans-smart-savvy-sorted-gen-z-approach-in-navigating-education-financing-repayment-income",
     "title": "Opinion: Smart, Savvy, Sorted: Gen Z's Approach In Navigating Education Financing",
-    "fetched_on": "2025-11-06T03:15:17.460887+00:00",
-    "content": "In response to this evolving borrower profile, education-focused financial companies are transforming the lending experience. They no longer focus solely on loan disbursal but are building ecosystems... [+1864 chars]",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "In response to this evolving borrower profile,\u00a0education-focused financial companies\u00a0are transforming the lending experience. They no longer focus solely on loan disbursal but are building ecosystems\u2026 [+1864 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Smart",
@@ -756,6 +756,106 @@
       "Education",
       "Financing",
       "profile"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-06/apollo-kb-securities-team-up-to-expand-private-credit-in-korea",
+    "title": "Apollo, KB Securities Team Up to Expand Private Credit in Korea",
+    "fetched_on": "2025-11-06T04:27:47.783112+00:00",
+    "content": "Apollo Global Management Inc. has teamed up with KB Securities Co. to explore private credit opportunities in South Korea, marking the global firm\u2019s first partnership with a local investment bank, according to an announcement.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Securities",
+      "Korea",
+      "Private",
+      "Credit",
+      "Apollo",
+      "Global",
+      "Team",
+      "Expand",
+      "Management",
+      "Inc."
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/56eaf113cad61e99",
+    "title": "Upstart Says Originations Leap as Consumer Credit Strength Improves",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Artificial intelligence (AI) lending marketplace Upstart saw growing consumer demand and steady consumer credit strength in the third quarter, executives said Tuesday (Nov. 4) during an earnings call\u2026 [+132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nov.",
+      "Credit",
+      "Consumer",
+      "Strength",
+      "Tuesday",
+      "chars",
+      "Upstart",
+      "Originations",
+      "Leap",
+      "Improves"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Steam-People-have-already-found-a-way-to-bypass-the-UK-s-age-restriction-requirement.1155691.0.html",
+    "title": "Steam: People have already found a way to bypass the UK's age restriction requirement",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Steam has implemented an age verification mechanism for adult games on its platform since the 29th of August 2025. Starting that date, players need to have a valid credit card on their user account t\u2026 [+2227 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "People",
+      "August",
+      "Steam",
+      "age",
+      "chars",
+      "found",
+      "bypass",
+      "restriction",
+      "requirement",
+      "implemented"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/dd441fab8b105f78",
+    "title": "Private credit dealmakers face years of heavy lifting in Japan",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "Building deal flow will require time and education as Japanese borrowers grow familiar with how private debt works and what it can offer.\r\nThis story appeared on japantimes.co.jp, 2025-11-05 03:36:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Japan",
+      "Building",
+      "Japanese",
+      "offer",
+      "Private",
+      "credit",
+      "dealmakers",
+      "face",
+      "years",
+      "heavy"
+    ]
+  },
+  {
+    "source": "The Japan Times [NewsAPI]",
+    "url": "https://www.japantimes.co.jp/business/2025/11/05/companies/private-credit-dealmakers-japan/",
+    "title": "Private credit dealmakers face years of heavy lifting in Japan",
+    "fetched_on": "2025-11-06T04:27:47.150004+00:00",
+    "content": "In Tokyos bustling Marunouchi financial district, a new hire at a global firm has been busy wining and dining dealmakers squeezing in more than 50 meetings over the past few months to build a pipelin\u2026 [+548 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Japan",
+      "Tokyos",
+      "Marunouchi",
+      "dealmakers",
+      "Private",
+      "district",
+      "meetings",
+      "pipelin",
+      "credit"
     ]
   }
 ]
