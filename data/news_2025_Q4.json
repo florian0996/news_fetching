@@ -138137,5 +138137,65 @@
       "Gift",
       "Card"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-06/commerzbank-raises-outlook-for-lending-income-as-profit-misses",
+    "title": "Commerzbank Raises Outlook for Lending Income as Profit Misses",
+    "fetched_on": "2025-11-06T07:20:29.431576+00:00",
+    "content": "Commerzbank AG raised its outlook for full-year lending income, even after third-quarter results fell short of analysts’ estimates amid a higher tax rate.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Outlook",
+      "Lending",
+      "Income",
+      "Commerzbank",
+      "Raises",
+      "Profit",
+      "Misses",
+      "rate",
+      "raised",
+      "full-year"
+    ]
+  },
+  {
+    "source": "CounterPunch [NewsAPI]",
+    "url": "https://www.counterpunch.org/2025/11/05/common-people/",
+    "title": "Common People",
+    "fetched_on": "2025-11-06T07:20:28.341621+00:00",
+    "content": "Leech finders, The Costume of Yorkshire, George Walker (1814) CREDIT: Science Museum Group ©.\r\nCommon people used to be people of the commons.  Leah Gordon &amp; Stephen Ellcock with additional writi… [+7239 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CREDIT",
+      "Yorkshire",
+      "George",
+      "Walker",
+      "Science",
+      "Group",
+      "Leech",
+      "Costume",
+      "Museum",
+      "People"
+    ]
+  },
+  {
+    "source": "Theecologist.org [NewsAPI]",
+    "url": "https://theecologist.org/2025/nov/05/carbon-credits-free-pass-polluters",
+    "title": "Carbon credits 'a free pass for polluters'",
+    "fetched_on": "2025-11-06T07:20:28.341621+00:00",
+    "content": "Certifying\r\nDr West says that while some developers act in good faith, the system itself is set up to fail: Not every project developer is inflating baselines. \r\n\"Some genuinely want to do the right … [+8515 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Certifying",
+      "West",
+      "Carbon",
+      "credits",
+      "faith",
+      "fail",
+      "baselines",
+      "chars",
+      "free",
+      "pass"
+    ]
   }
 ]
