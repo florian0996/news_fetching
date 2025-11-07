@@ -142256,5 +142256,64 @@
       "superheros",
       "Marvels"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1d38baf1fe5ff4ca",
+    "title": "Apollo, KB Securities Team Up to Expand Private Credit in Korea",
+    "fetched_on": "2025-11-07T04:24:48.245315+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Joby Aviation stock surge after Q3? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will US-Japan rare earth … [+755 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Korea",
+      "Apollo",
+      "return",
+      "false",
+      "Securities",
+      "Team",
+      "Expand"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/personal-loans-interest-rates-in-nov-2025-these-are-the-latest-rates-which-lenders-charge-11762263994996.html",
+    "title": "Personal loans interest rates in Nov 2025: These are the latest rates which lenders charge",
+    "fetched_on": "2025-11-07T04:24:48.245315+00:00",
+    "content": "Before you raise a loan, it is recommended to compare the interest rates charged by different lenders. You never know that a small difference of 1 percent could lead to a lot of savings.\r\nHere we lis… [+2972 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nov",
+      "rates",
+      "interest",
+      "lenders",
+      "Personal",
+      "latest",
+      "charge",
+      "raise",
+      "recommended",
+      "compare"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/wisdomtree-activates-chainlink-nav-feed-162856744.html",
+    "title": "WisdomTree Activates Chainlink NAV Feed for CRDT Tokenized Credit Fund",
+    "fetched_on": "2025-11-07T04:25:16.992365+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "Activates",
+      "Chainlink",
+      "NAV",
+      "Feed",
+      "CRDT",
+      "Tokenized",
+      "Credit",
+      "WisdomTree"
+    ]
   }
 ]
