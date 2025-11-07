@@ -142315,5 +142315,85 @@
       "Credit",
       "WisdomTree"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/after-raat-gayi-baat-gayi-remark-twinkle-khanna-feels-older-people-are-better-at-hiding-affairs-than-younger-ones-gives-credit-to-lots-of-practice/articleshow/125122983.cms",
+    "title": "After ‘raat gayi baat gayi’ remark, Twinkle Khanna feels older people are better at hiding affairs than younger ones, gives credit to ‘lots of practice’",
+    "fetched_on": "2025-11-07T05:20:50.762084+00:00",
+    "content": "Twinkle Khanna never shies away from speaking her mind, and her latest appearance on Two Much with Kajol and Twinkle has once again sparked lively discussions online. The actor-turned-writer, who rec… [+2839 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Twinkle",
+      "Khanna",
+      "Kajol",
+      "raat",
+      "remark",
+      "lots",
+      "mind",
+      "online",
+      "gayi",
+      "baat"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/marriott-bonvoy-hdfc-credit-card-is-the-10-000-bonus-points-offer-a-good-deal-reward-points-11762404659372.html",
+    "title": "Marriott Bonvoy HDFC Credit Card: Is the 10,000 bonus points offer a good deal?",
+    "fetched_on": "2025-11-07T05:20:50.762084+00:00",
+    "content": "From time to time, banks roll out promotions on credit cards that provide cardholders with the opportunity to earn bonus reward points, gift vouchers, etc. These promotions can be part of the festive… [+6055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bonvoy",
+      "HDFC",
+      "Credit",
+      "Marriott",
+      "deal",
+      "bonus",
+      "points",
+      "offer",
+      "good",
+      "Card"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-seeks-government-backing-to-boost-ai-investments/articleshow/125123217.cms",
+    "title": "OpenAI seeks government backing to boost AI investments",
+    "fetched_on": "2025-11-07T05:20:50.762084+00:00",
+    "content": "ChatGPT creator OpenAI, the world's largest private company, is asking the US government to provide loan guarantees for its massive infrastructure expansion that will eventually cost more than $1 tri… [+1908 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "tri",
+      "chars",
+      "company",
+      "OpenAI",
+      "government",
+      "seeks",
+      "backing",
+      "boost",
+      "investments",
+      "ChatGPT"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/groww-ipo-day-2-check-gmp-trends-subscription-status-brokerages-recommend-subscribe/articleshow/125122910.cms",
+    "title": "Groww IPO Day 2: Check GMP trends, subscription status; brokerages recommend ‘Subscribe’",
+    "fetched_on": "2025-11-07T05:20:50.762084+00:00",
+    "content": "Indias top retail investment platform, Groww (Billionbrains Garage Ventures Ltd), kicked off the second day of its IPO subscription after achieving a 57% subscription on Day 1. Bids totalled 20.63 cr… [+5562 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Groww",
+      "Day",
+      "IPO",
+      "Check",
+      "Subscribe’",
+      "Billionbrains",
+      "GMP",
+      "Indias",
+      "Garage",
+      "Ventures"
+    ]
   }
 ]
