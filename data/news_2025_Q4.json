@@ -142542,5 +142542,45 @@
       "Cards",
       "Worth"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/80ea3b4e3bd8b59c",
+    "title": "Commerzbank Raises Outlook for Lending Income as Profit Misses",
+    "fetched_on": "2025-11-07T07:20:55.966353+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the FAA cutting flights by 10% at major US airports? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Mamd… [+782 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Misses",
+      "return",
+      "false",
+      "Raises",
+      "Outlook",
+      "Lending",
+      "Income"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/06/3182194/0/en/OSB-GROUP-PLC-Trading-Update-for-the-nine-months-to-30-September-2025.html",
+    "title": "OSB GROUP PLC - Trading Update for the nine months to 30 September 2025",
+    "fetched_on": "2025-11-07T07:20:55.966353+00:00",
+    "content": "LEI: 213800ZBKL9BHSL2K459\r\nOSB GROUP PLCTrading update for the nine months to 30 September 2025\r\nOSB GROUP PLC (the Group), the specialist lending and retail savings group, today issues its trading u… [+17048 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OSB",
+      "September",
+      "GROUP",
+      "PLC",
+      "LEI",
+      "Update",
+      "months",
+      "Trading",
+      "chars",
+      "today"
+    ]
   }
 ]
