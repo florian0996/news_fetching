@@ -405,7 +405,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
     "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
-    "fetched_on": "2025-11-07T17:19:12.623821+00:00",
+    "fetched_on": "2025-11-07T18:30:26.953801+00:00",
     "content": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -425,7 +425,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-07T17:19:12.950775+00:00",
+    "fetched_on": "2025-11-07T18:30:27.284738+00:00",
     "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -445,7 +445,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-07T17:19:12.950789+00:00",
+    "fetched_on": "2025-11-07T18:30:27.284752+00:00",
     "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -465,7 +465,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
     "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
-    "fetched_on": "2025-11-07T17:19:12.950811+00:00",
+    "fetched_on": "2025-11-07T18:30:27.284773+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -485,7 +485,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/refinance-demand-is-81percent-higher-than-it-was-a-year-ago-thanks-to-falling-mortgage-rates.html",
     "title": "Refinance demand is 81% higher than it was a year ago, thanks to falling mortgage rates",
-    "fetched_on": "2025-11-07T17:19:12.623959+00:00",
+    "fetched_on": "2025-11-07T18:30:26.953931+00:00",
     "content": "Sliding mortgage rates are pushing more current borrowers to refinance and also juicing demand for adjustable-rate loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -505,7 +505,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-11-07T17:19:12.624021+00:00",
+    "fetched_on": "2025-11-07T18:30:26.953991+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -525,7 +525,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/03/states-sue-trump-public-service-loan-forgiveness-pslf.html",
     "title": "States sue Trump admin over rule limiting student loan forgiveness for public servants",
-    "fetched_on": "2025-11-07T17:19:12.950686+00:00",
+    "fetched_on": "2025-11-07T18:30:27.284650+00:00",
     "content": "New York Attorney General Letitia James is suing the Trump administration over its new rule limiting eligibility for Public Service Loan Forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -545,7 +545,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/31/student-loan-class-action-lawsuit.html",
     "title": "Republican who oversaw student debt launches class action effort against Trump administration",
-    "fetched_on": "2025-11-07T17:19:12.950727+00:00",
+    "fetched_on": "2025-11-07T18:30:27.284691+00:00",
     "content": "The Trump administration is wrongfully damaging the credit of millions of student loan borrowers, a new proposed class action lawsuit says.",
     "platforms_mentioned": [],
     "keywords": [
@@ -565,7 +565,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/public-service-loan-forgiveness-eligibility-trump.html",
     "title": "Trump administration to limit student loan forgiveness eligibility for some public servants",
-    "fetched_on": "2025-11-07T17:19:12.950762+00:00",
+    "fetched_on": "2025-11-07T18:30:27.284725+00:00",
     "content": "The Trump administration is moving closer to limiting eligibility for the Public Service Loan Forgiveness program.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1669,23 +1669,17 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/can-you-use-personal-loan-to-buy-car-155959555.html",
     "title": "Can you use a personal loan to buy a car?",
-    "fetched_on": "2025-11-07T16:23:39.337234+00:00",
-    "content": "While it's possible to use a personal loan to buy a car, its likely not your best financing option. An auto loan typically offers lower interest rates, so it could cost you less than a personal loan.\u2026 [+6035 chars]",
+    "fetched_on": "2025-11-07T18:30:27.587776+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "car",
       "personal",
       "loan",
-      "buy",
-      "option",
-      "chars",
-      "financing",
-      "rates",
-      "loan.",
-      "auto"
+      "buy"
     ]
   },
   {
@@ -2067,7 +2061,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/student-loan-forgiveness-notices.html",
     "title": "Student loan forgiveness notices are going out despite the shutdown \u2014 what borrowers need to do next",
-    "fetched_on": "2025-11-07T17:19:12.950619+00:00",
+    "fetched_on": "2025-11-07T18:30:27.284581+00:00",
     "content": "Borrowers are getting notices of student loan forgiveness. Here's what experts say their next steps should be.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2805,7 +2799,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-07/hours-after-us-rebuke-gunvor-secures-2-4-billion-from-banks",
     "title": "Hours After US Rebuke, Gunvor Secures $2.4 Billion From Banks",
-    "fetched_on": "2025-11-07T17:18:51.387869+00:00",
+    "fetched_on": "2025-11-07T18:29:55.765664+00:00",
     "content": "A syndicate of international banks agreed to provide commodity trader Gunvor Group with $2.4 billion in credit, with the announcement coming less than a day after the US Treasury called the company \u201cthe Kremlin\u2019s puppet\u201d and blocked its pursuit of Lukoil PJSC\u2019s international assets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3105,7 +3099,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/84abadf928295537",
     "title": "Private Credit Titans Defend Track Record as Earnings Land Soft",
-    "fetched_on": "2025-11-07T17:18:50.811154+00:00",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Teslas $1 trillion pay deal controversial? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is the government s\u2026 [+759 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3125,7 +3119,7 @@
     "source": "Rolling Stone [NewsAPI]",
     "url": "http://www.rollingstone.com/music/music-pictures/david-bowie-photo-book-collaboration-frank-ockenfels-1235451489/",
     "title": "David Bowie\u2019s Nineties and 2000s in Photos",
-    "fetched_on": "2025-11-07T17:18:50.811154+00:00",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
     "content": "Image Credit: Frank Ockenfels3\r\nBowie in 1996, from the photo session for the album Earthling, ready to introduce the world to his alien new sound \u2014 embracing the harsh new electronic rhythms of jung\u2026 [+29 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3145,7 +3139,7 @@
     "source": "CBS News [NewsAPI]",
     "url": "https://www.cbsnews.com/news/can-you-get-a-loan-to-clear-credit-card-debt/",
     "title": "Can you get a loan to clear credit card debt?",
-    "fetched_on": "2025-11-07T17:18:50.811154+00:00",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
     "content": "As credit card balances continue to climb nationwide, borrowers need to know what their lower-rate options are for getting out of debt.\r\nTetra Images/Getty Images\r\nCredit card debt has reached stagge\u2026 [+5820 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3245,7 +3239,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/faa-flight-cancellations-credit-card-travel-insurance.html",
     "title": "As FAA order triggers flight cancellations and delays, what to know about credit card travel insurance",
-    "fetched_on": "2025-11-07T17:19:12.950587+00:00",
+    "fetched_on": "2025-11-07T18:30:27.284557+00:00",
     "content": "The shutdown of the U.S. federal government is causing flight delays and cancellations. What to know about travel credit card insurance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3265,7 +3259,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/trump-cfpb-aims-to-nix-laws-that-ban-medical-debt-on-credit-reports.html",
     "title": "Trump CFPB takes aim at 15 states that ban medical debt on credit reports\u2014it's 'salt in the wound,' says consumer advocate",
-    "fetched_on": "2025-11-07T17:19:12.225426+00:00",
+    "fetched_on": "2025-11-07T18:30:26.470740+00:00",
     "content": "Recent guidance from the CFPB calls on courts to overturn laws in 15 states which prohibit including medical debt on consumer credit reports.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3297,6 +3291,306 @@
       "rewards",
       "slide",
       "alarming"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/marshawn-kneeland-girlfriend-about-catalina-5484144/",
+    "title": "Marshawn Kneeland\u2019s Girlfriend: All About Catalina, the Late Cowboys Player\u2019s Love",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Image Credit: Getty Images\r\nThe sports world is mourning the heartbreaking loss of Dallas Cowboys defensive end Marshawn Kneeland, who died unexpectedly on November 6, 2025, at just 24 years old.\u00a0Fol\u2026 [+2233 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kneeland",
+      "Cowboys",
+      "Marshawn",
+      "Girlfriend",
+      "Catalina",
+      "Credit",
+      "Getty",
+      "November",
+      "Late",
+      "Player"
+    ]
+  },
+  {
+    "source": "Commercial Observer [NewsAPI]",
+    "url": "http://commercialobserver.com/2025/11/kolter-carlyle-group-11240-biscayne-boulevard/",
+    "title": "Kolter and Carlyle Buy South Florida Project Site, Secure Financing",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Kolter Group and Carlyle Group purchased a development site along Biscayne Boulevard north of Miami and also nabbed an $86.1 million construction loan from PNC Bank, property records show.\u00a0\r\nThe join\u2026 [+1352 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Carlyle",
+      "Group",
+      "Secure",
+      "Bank",
+      "Kolter",
+      "Site",
+      "Buy",
+      "South",
+      "Florida",
+      "Project"
+    ]
+  },
+  {
+    "source": "Queenbeetoday.com [NewsAPI]",
+    "url": "https://queenbeetoday.com/kleenex-anti-viral-facial-tissues/",
+    "title": "Kleenex Anti-Viral Facial Tissues \u2013 $18.77 after $10 Amazon credit, about $1/box",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Queen Bee has been my go to for many years. Not only how to save on the family grocery budget. But, how to shop. From grocerys to clothes to household. She has saved us hundreds, if not thousands of \u2026 [+1060 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tissues",
+      "Amazon",
+      "Facial",
+      "Queen",
+      "Bee",
+      "Kleenex",
+      "credit",
+      "box",
+      "years",
+      "Anti-Viral"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/can-you-negotiate-a-settlement-on-a-payday-loan-what-borrowers-should-know/",
+    "title": "Can you negotiate a settlement on a payday loan? What borrowers should know",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Payday loans may offer access to quick cash, but they can easily turn into a long-term financial trap.\r\nSakchai Vongsasiripat/Getty Images\r\nWhen money's tight, taking out a payday loan can feel like \u2026 [+5543 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "payday",
+      "loan",
+      "negotiate",
+      "settlement",
+      "Vongsasiripat",
+      "Getty",
+      "Images",
+      "loans",
+      "chars",
+      "cash"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6a1bd96cb98b35ee",
+    "title": "Wall Street Banks Weigh Tapping Private Credit on Hologic $12 Billion Debt Deal",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is the FAA cutting flights at major US airports? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps drug\u2026 [+782 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Hologic",
+      "Billion",
+      "Deal",
+      "return",
+      "false",
+      "Street",
+      "Banks"
+    ]
+  },
+  {
+    "source": "Bitcoinist [NewsAPI]",
+    "url": "https://bitcoinist.com/metaplanet-just-used-bitcoin-to-buy-more-bitcoin-100-million-worth/",
+    "title": "Metaplanet Just Used Bitcoin To Buy More Bitcoin\u2014$100 Million Worth",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Metaplanet Inc. has taken out $100 million in loans against its Bitcoin holdings, hoping to use that money to buy more Bitcoin and underpin operations.\r\nThe Tokyo-listed company reportedly executed t\u2026 [+2737 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bitcoin",
+      "Buy",
+      "Million",
+      "Metaplanet",
+      "Worth",
+      "Inc.",
+      "holdings",
+      "hoping",
+      "operations",
+      "loans"
+    ]
+  },
+  {
+    "source": "The Points Guy [NewsAPI]",
+    "url": "https://thepointsguy.com/credit-cards/amex-platinum-oura-ring/",
+    "title": "How to use the Amex Platinum Oura Ring statement credit",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "One of the top premium cards, the American Express Platinum Card\u00ae offers many lifestyle-centered benefits and statement credits. Those include many health- and fitness-centered benefits, including th\u2026 [+4123 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Platinum",
+      "Amex",
+      "Oura",
+      "Ring",
+      "American",
+      "Express",
+      "cards",
+      "Card",
+      "statement",
+      "offers"
+    ]
+  },
+  {
+    "source": "HuffPost [NewsAPI]",
+    "url": "https://www.huffpost.com/entry/trump-drug-prices-medicare-democrats_n_690cd13ee4b0799004d39e3e",
+    "title": "Dems Say Trump Is Taking Credit For Something They Passed Without GOP Support",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "President Donald Trumps boast Thursday to have lowered weight-loss drug prices was made possible by former President Joe Bidens signature piece of legislation, which passed with zero Republican votes\u2026 [+2721 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "President",
+      "Passed",
+      "Taking",
+      "Credit",
+      "GOP",
+      "Support",
+      "Donald",
+      "Thursday",
+      "Joe"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/06/stranger-things-is-returning-after-season-5-but-theres-a-catch/",
+    "title": "\u2018Stranger Things\u2019 Is Returning After Season 5, But There\u2019s A Catch",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Credit: Netflix\r\nNetflix just revealed a brand new show set in the Stranger Things universe thats set to release after the end of Season 5. \r\nThe new series is called Stranger Things: Tales From '85 \u2026 [+2366 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Netflix",
+      "Credit",
+      "Stranger",
+      "Things",
+      "Things\u2019",
+      "Returning",
+      "Catch",
+      "set",
+      "Tales"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/391833/could-frankensteins-monster-ever-actually-function-in-real-life",
+    "title": "Could Frankenstein's monster ever actually function in real-life ?",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Science &amp; Technology\r\nNovember 6, 2025 \u00b7 \u00a01 commentCould this ever work in the real world ? Image Credit: Cornhill Publishing Company - 1922Mary Shelley's iconic tale raises some interesting ethi\u2026 [+6300 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Science",
+      "chars",
+      "Technology",
+      "November",
+      "Image",
+      "Credit",
+      "Cornhill",
+      "Company",
+      "Shelley",
+      "Frankenstein"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/inspirato-sees-q3-revenues-drop-by-19-6-percent/",
+    "title": "Inspirato sees Q3 revenues drop by 19.6 percent",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Commerce\r\nNovember 6, 2025\r\n The company is nearing its goals of full-year profitability. Image credit: Inspirato \r\n By Zach James for Luxury Daily News Service\r\nLuxury travel subscription service In\u2026 [+5020 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "Inspirato",
+      "Commerce",
+      "revenues",
+      "percent",
+      "profitability",
+      "Luxury",
+      "chars",
+      "Service",
+      "drop"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9af6b953476e6717",
+    "title": "Creative Stagnation",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Credit: Todd LappinThis is insane:Legislation requiring cars and trucks, including electric vehicles, to have AM radios easily cleared a House committee Wednesday, although it could run into oppositi\u2026 [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Credit",
+      "Todd",
+      "Legislation",
+      "Wednesday",
+      "Stagnation",
+      "House",
+      "Creative",
+      "insane",
+      "trucks"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6107b18c0050fe63",
+    "title": "Third credit rating outlook cut looms for Poland",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Teslas $1 trillion pay deal controversial? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is the government s\u2026 [+731 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Poland",
+      "Teslas",
+      "return",
+      "false",
+      "trillion",
+      "controversial",
+      "chars"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/06/3182948/0/en/CREDIT-AGRICOLE-S-A-ANNOUNCES-REDEMPTION-OF-17-700-000-000-Japanese-Yen-Callable-Senior-Non-Preferred-Bonds-issued-on-December-7-2022-ISIN-JP525022CNC9.html",
+    "title": "CREDIT AGRICOLE S.A. ANNOUNCES REDEMPTION OF \u00a517,700,000,000 Japanese Yen Callable Senior Non-Preferred Bonds issued on December 7, 2022 (ISIN: JP525022CNC9)",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Montrouge, November 6, 2025\r\nCREDIT AGRICOLE S.A. ANNOUNCES REDEMPTION OF\r\n\u00a517,700,000,000 Japanese Yen Callable Senior Non-Preferred Bonds\r\nissued on December 7, 2022 (ISIN: JP525022CNC9)*\r\nCr\u00e9dit A\u2026 [+3947 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ISIN",
+      "CREDIT",
+      "AGRICOLE",
+      "ANNOUNCES",
+      "Japanese",
+      "December",
+      "REDEMPTION",
+      "Yen",
+      "Callable",
+      "Senior"
+    ]
+  },
+  {
+    "source": "Techreport.com [NewsAPI]",
+    "url": "https://techreport.com/news/openai-1-trillion-loan-guarantee-possible-ai-bubble/",
+    "title": "OpenAI\u2019s Government Lifeline: A $1T Ask Amid Wall Street\u2019s AI Doubts",
+    "fetched_on": "2025-11-07T18:29:55.030883+00:00",
+    "content": "Key Takeaways\r\n<ul><li>OpenAI\u2019s $1T financing plan marks an unprecedented bid for US government loan guarantees, a structure usually reserved for energy or defense, to fund massive AI data-center exp\u2026 [+8315 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OpenAI",
+      "chars",
+      "Lifeline",
+      "Takeaways",
+      "Government",
+      "Amid",
+      "Wall",
+      "Street",
+      "Doubts",
+      "Key"
     ]
   }
 ]
