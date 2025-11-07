@@ -145851,5 +145851,105 @@
       "Business-Focused",
       "tech"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-07/can-be-selective-in-today-s-credit-market-poli-video",
+    "title": "Can Be Selective in Today's Credit Market: Poli",
+    "fetched_on": "2025-11-07T23:18:30.075157+00:00",
+    "content": "Danielle Poli, Assistant Portfolio Manager for Global Credit Strategy at Oaktree Capital Management, says investors are seeing systematic, rather systemic, problems in credit and there is a place in portfolios for both public and private credit. She speaks to Bloomberg's Matt Miller on \"Bloomberg Real Yield.\" (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Poli",
+      "Market",
+      "Assistant",
+      "Management",
+      "Selective",
+      "Today",
+      "Danielle",
+      "Manager",
+      "Global"
+    ]
+  },
+  {
+    "source": "Fox Sports [NewsAPI]",
+    "url": "https://www.foxsports.com/stories/college-football/countdown-big-noon-saturday-can-penn-state-slow-indianas-surge",
+    "title": "Countdown to Big Noon Saturday: Can Penn State Slow Indiana’s Surge?",
+    "fetched_on": "2025-11-07T23:18:29.269187+00:00",
+    "content": "Ten weeks into the college football season, Indiana has been the team everyone is trying and failing to figure out.\r\nThe Hoosiers are one of the most balanced teams in the country, blending a dynamic… [+14143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Saturday",
+      "Surge",
+      "Big",
+      "Noon",
+      "Penn",
+      "State",
+      "Slow",
+      "Indiana",
+      "Countdown",
+      "Hoosiers"
+    ]
+  },
+  {
+    "source": "WBNG-TV [NewsAPI]",
+    "url": "https://www.wbng.com/2025/11/06/gillibrand-calls-end-government-shutdown-health-credit-extension/",
+    "title": "Gillibrand calls for end to government shutdown, health credit extension",
+    "fetched_on": "2025-11-07T23:18:29.269187+00:00",
+    "content": "NEW YORK, (WBNG) Sen. Kirsten Gillibrand held a conference on Thursday calling for an end to the government shutdown and an extension of Affordable Health Act tax credits.\r\nGillibrand said that with … [+1055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WBNG",
+      "Sen",
+      "YORK",
+      "Gillibrand",
+      "health",
+      "end",
+      "government",
+      "shutdown",
+      "extension",
+      "calls"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/jakes-ottoneu-drip-in-review/",
+    "title": "Jake’s Ottoneu Drip in Review",
+    "fetched_on": "2025-11-07T23:18:29.269187+00:00",
+    "content": "Credit: Daniel Kucin Jr.-Imagn Images\r\nThe theme of this offseason for the Ottoneu wing of RotoGraphs is self-reflection and accountability. Ive already gone through some of the lessons I learned fro… [+4527 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ottoneu",
+      "Credit",
+      "Daniel",
+      "Imagn",
+      "Drip",
+      "Review",
+      "Kucin",
+      "Images",
+      "Jake",
+      "accountability"
+    ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/11/06/kia-slashes-ev-prices-with-new-10000-discount/",
+    "title": "Kia slashes EV prices with a new $10,000 discount across the board",
+    "fetched_on": "2025-11-07T23:18:29.269187+00:00",
+    "content": "Kia is knocking $10,000 off every EV in its lineup, rolling out one of its biggest discount offers yet.\r\nAfter the $7,500 federal EV tax credit expired at the end of September, automakers are looking… [+1953 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kia",
+      "discount",
+      "knocking",
+      "lineup",
+      "rolling",
+      "slashes",
+      "prices",
+      "board",
+      "biggest",
+      "offers"
+    ]
   }
 ]
