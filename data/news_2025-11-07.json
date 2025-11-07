@@ -1,11 +1,13 @@
 [
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-11-07/the-close-11-6-2025-video",
     "title": "U.S. Companies Post Most October Job Cuts in More Than 20 Years | The Close 11/6/2025",
     "fetched_on": "2025-11-07T03:12:01.571916+00:00",
     "content": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are UBS Wealth Management's Alli McCartney, Lending Club's Scott Sanborn, Piper Sandler's Anna Andreeva, Tanger's Stephen Yalof, DWS Group's David Bianco, DFW's Amy Nixon, Navan's Amy Butte, CRH's Jim Mintern, Former Goldman Sachs Partner & Chief U.S. Strategist Abby Joseph Cohen. (Source: Bloomberg)",
-    "platforms_mentioned": [],
+    "platforms_mentioned": [
+      "Lending Club"
+    ],
     "keywords": [
       "Years",
       "Companies",
@@ -20,12 +22,14 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg – Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-11-06/lendingclub-ceo-on-consumer-credit-video",
     "title": "LendingClub CEO on Consumer Credit",
     "fetched_on": "2025-11-07T01:42:04.259306+00:00",
-    "content": "Scott Sanborn, CEO of LendingClub, discusses the outlook for consumer credit. He tells Katie Greifeld and Romaine Bostick on \u201cThe Close\u201d that consumers have proven to be very resilient and that the consumers his company serves are no exception. (Source: Bloomberg)",
-    "platforms_mentioned": [],
+    "content": "Scott Sanborn, CEO of LendingClub, discusses the outlook for consumer credit. He tells Katie Greifeld and Romaine Bostick on “The Close” that consumers have proven to be very resilient and that the consumers his company serves are no exception. (Source: Bloomberg)",
+    "platforms_mentioned": [
+      "Lending Club"
+    ],
     "keywords": [
       "CEO",
       "Credit",
@@ -40,11 +44,11 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Business [RSS]",
+    "source": "Bloomberg – Business [RSS]",
     "url": "https://www.bloomberg.com/news/audio/2025-11-06/credit-edge-doubleline-urges-caution-on-ai-debt-boom-podcast",
     "title": "Credit Edge: DoubleLine Urges Caution on AI Debt Boom (Podcast)",
     "fetched_on": "2025-11-07T01:42:04.845213+00:00",
-    "content": "Credit investors should be careful about participating in the artificial-intelligence boom, according to DoubleLine Capital. \u201cYou have to be not only cautious about the tech sector, but the tangential related sectors that are providing support for these new projects,\u201d Robert Cohen, the firm\u2019s director of global developed credit, tells Bloomberg News\u2019 James Crombie and Bloomberg Intelligence\u2019s Robert Schiffman in the latest Credit Edge podcast. \u201cWho knows what the spillover will be if the music s",
+    "content": "Credit investors should be careful about participating in the artificial-intelligence boom, according to DoubleLine Capital. “You have to be not only cautious about the tech sector, but the tangential related sectors that are providing support for these new projects,” Robert Cohen, the firm's director of global developed credit, tells Bloomberg News' James Crombie and Bloomberg Intelligence's Robert Schiffman in the latest Credit Edge podcast. “Who knows what the spillover will be if the music s",
     "platforms_mentioned": [],
     "keywords": [
       "Boom",
@@ -60,7 +64,7 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Technology [RSS]",
+    "source": "Bloomberg – Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-06/propel-teams-up-with-column-to-expand-us-credit-reach",
     "title": "Propel Teams Up With Column to Expand US Credit Reach",
     "fetched_on": "2025-11-07T03:12:02.337407+00:00",
@@ -80,11 +84,11 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Industries [RSS]",
+    "source": "Bloomberg – Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-06/firstrand-warns-of-more-provisions-for-uk-car-loan-redress-plan",
     "title": "FirstRand Warns of More Provisions for UK Car Loan Redress Plan",
     "fetched_on": "2025-11-07T01:42:05.699553+00:00",
-    "content": "FirstRand Ltd. said it may again need to increase the provision it set aside to compensate consumers who were missold car loans in the UK, joining a raft of British lenders who have already boosted the charge-off even as they dispute a British watchdog\u2019s proposal.",
+    "content": "FirstRand Ltd. said it may again need to increase the provision it set aside to compensate consumers who were missold car loans in the UK, joining a raft of British lenders who have already boosted the charge-off even as they dispute a British watchdog's proposal.",
     "platforms_mentioned": [],
     "keywords": [
       "Warns",
@@ -104,7 +108,7 @@
     "url": "https://biztoc.com/x/f4a25089729be136",
     "title": "India sees blockbuster IPO month in October as deals topped $5bn",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "IPOIndia sees blockbuster IPO month in October as deals topped $5bnMultibillion dollar offerings held in consumer electronics, lending, othersIn October, LG Electronics India's 116 billion rupee shar\u2026 [+147 chars]",
+    "content": "IPOIndia sees blockbuster IPO month in October as deals topped $5bnMultibillion dollar offerings held in consumer electronics, lending, othersIn October, LG Electronics India's 116 billion rupee shar... [+147 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "October",
@@ -124,7 +128,7 @@
     "url": "https://www.ozbargain.com.au/node/931731",
     "title": "Spend $10 or More 10 Times Online Using Westpac Credit Card, Receive a $30 Woolworths/JB/Uber/Myer/DJ Gift Card @ Westpac",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "Possibly a targeted deal - received via email on Altitude Qantas Platinum\r\nMake 10 purchases online of $10 or more from 6 November 6 December 2025 using your Westpac credit card to unlock a $30 Woolw\u2026 [+604 chars]",
+    "content": "Possibly a targeted deal - received via email on Altitude Qantas Platinum Make 10 purchases online of $10 or more from 6 November 6 December 2025 using your Westpac credit card to unlock a $30 Woolw... [+604 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Westpac",
@@ -164,7 +168,7 @@
     "url": "http://twistedsifter.com/2025/11/aunt-let-her-niece-live-in-a-family-house-but-she-was-upset-when-it-ended-with-thousands-of-dollars-worth-of-property-damage/",
     "title": "Aunt Let Her Niece Live In A Family House, But She Was Upset When It Ended With Thousands Of Dollars Worth Of Property Damage",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "Pexels/Reddit\r\nLending property to family can seem like an act of love, but it often ends with regret when relatives dont treat it with care.\r\nWhen one aunt discovered her niece had trashed the yard \u2026 [+1880 chars]",
+    "content": "Pexels/Reddit Lending property to family can seem like an act of love, but it often ends with regret when relatives dont treat it with care. When one aunt discovered her niece had trashed the yard ... [+1880 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "House",
@@ -184,7 +188,7 @@
     "url": "https://biztoc.com/x/31045284519e7da3",
     "title": "Household Debts, Debt-to-Income Ratio, Delinquencies, Collections, Foreclosures, and Bankruptcies of our (not so) Drunken Sailors in Q3 2025",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "The long-defaulted federal student loans were pulled out of the forbearance closet.By Wolf Richter for WOLF STREET.Total household debt outstanding in Q3 rose by 1.1%, or by $197 billion, from Q2, to\u2026 [+144 chars]",
+    "content": "The long-defaulted federal student loans were pulled out of the forbearance closet.By Wolf Richter for WOLF STREET.Total household debt outstanding in Q3 rose by 1.1%, or by $197 billion, from Q2, to... [+144 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Ratio",
@@ -204,7 +208,7 @@
     "url": "https://en.antaranews.com/news/390157/blackstone-credit-insurance-appoints-laura-coady-as-global-head-of-clos-and-european-head-of-liquid-credit-strategies",
     "title": "Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "New York--(ANTARA/Business Wire)--Blackstone (NYSE: BX) announced today that Laura Coady, formerly Head of International Securitised Markets and Global Head of CLOs at Jefferies, has joined Blackston\u2026 [+2657 chars]",
+    "content": "New York--(ANTARA/Business Wire)--Blackstone (NYSE: BX) announced today that Laura Coady, formerly Head of International Securitised Markets and Global Head of CLOs at Jefferies, has joined Blackston... [+2657 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Head",
@@ -224,7 +228,7 @@
     "url": "https://www.livemint.com/industry/banking/road-divergence-car-loans-race-ahead-post-gst-cuts-but-cv-stuck-in-slow-lane-11762343002009.html",
     "title": "Road divergence: Car loans race ahead post-GST cuts, but CVs stuck in slow lane",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "After months of muted demand, auto loans appear to have hit the fast lane.\r\nThe recent reduction in the goods and services tax (GST) rates on select vehicles to 18% from 28% has revived retail sentim\u2026 [+7448 chars]",
+    "content": "After months of muted demand, auto loans appear to have hit the fast lane. The recent reduction in the goods and services tax (GST) rates on select vehicles to 18% from 28% has revived retail sentim... [+7448 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Car",
@@ -242,9 +246,9 @@
   {
     "source": "The Straits Times [NewsAPI]",
     "url": "https://www.straitstimes.com/business/banking/uob-q3-profit-tumbles-72-to-443-million-as-bank-raises-pre-emptive-provisions",
-    "title": "UOB Q3 profit tumbles 72% to $443 million\u00a0as bank raises pre-emptive provisions",
+    "title": "UOB Q3 profit tumbles 72% to $443 million as bank raises pre-emptive provisions",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "SINGAPORE - UOB on Nov 6 posted a sharp 72 per cent drop in third-quarter net profit to $443 million from $1.61 billion in the year-ago period on a surge in credit provisions. \r\nAllowances for credit\u2026 [+4428 chars]",
+    "content": "SINGAPORE - UOB on Nov 6 posted a sharp 72 per cent drop in third-quarter net profit to $443 million from $1.61 billion in the year-ago period on a surge in credit provisions. Allowances for credit... [+4428 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "UOB",
@@ -264,7 +268,7 @@
     "url": "https://www.finextra.com/newsarticle/46875/us-bank-rolls-out-split-card-for-auto-installment-payments",
     "title": "US Bank rolls out Split Card for auto-installment payments",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "US Bank has launched an alternative to buy now, pay later schemes with the roll out of a credit card that automatically splits purchases into a three-month payment plan.The Split Card can be used to \u2026 [+1385 chars]",
+    "content": "US Bank has launched an alternative to buy now, pay later schemes with the roll out of a credit card that automatically splits purchases into a three-month payment plan.The Split Card can be used to ... [+1385 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Card",
@@ -282,9 +286,9 @@
   {
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/erikkain/2025/11/05/copy-todays-nyt-strands-hints-answers-thursday-november-6/",
-    "title": "Today\u2019s NYT \u2018Strands\u2019 Hints And Answers For Thurssday, November 6",
+    "title": "Today's NYT ‘Strands' Hints And Answers For Thurssday, November 6",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nAnother day, another NYT Strands puzzle to solve. Weve got words to find in one of the more clever grids Ive seen in awhile. The beautif\u2026 [+1942 chars]",
+    "content": "Today's NYT Strands hints and answers Credit: New York Times Another day, another NYT Strands puzzle to solve. Weve got words to find in one of the more clever grids Ive seen in awhile. The beautif... [+1942 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "NYT",
@@ -293,7 +297,7 @@
       "Today",
       "Hints",
       "Answers",
-      "Strands\u2019",
+      "Strands’",
       "Thurssday",
       "Credit",
       "York"
@@ -304,7 +308,7 @@
     "url": "https://www.nature.com/articles/d41586-025-03641-0",
     "title": "First ever atlas of brain development shows how stem cells turn into neurons",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "Developing human brain tissue containing rosette structures (pink and blue) surrounded by neurons (green).Credit: Nano et al./Nature Neurosci.; Jose Soto/Bhaduri Lab/UCLA\r\nScientists have created the\u2026 [+3762 chars]",
+    "content": "Developing human brain tissue containing rosette structures (pink and blue) surrounded by neurons (green).Credit: Nano et al./Nature Neurosci.; Jose Soto/Bhaduri Lab/UCLA Scientists have created the... [+3762 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -322,9 +326,9 @@
   {
     "source": "Nature.com [NewsAPI]",
     "url": "https://www.nature.com/articles/d41586-025-03399-5",
-    "title": "Shadow scholars: inside Kenya\u2019s multibillion-dollar fake-essay industry",
+    "title": "Shadow scholars: inside Kenya's multibillion-dollar fake-essay industry",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "In her work for the documentary Shadow Scholars, Patricia Kingori visited Kenya to meet academic ghostwriters.Credit: Anna Patarakina\r\nFour years ago, aged just 28, Patricia Kingori became one of the\u2026 [+6588 chars]",
+    "content": "In her work for the documentary Shadow Scholars, Patricia Kingori visited Kenya to meet academic ghostwriters.Credit: Anna Patarakina Four years ago, aged just 28, Patricia Kingori became one of the... [+6588 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Patricia",
@@ -342,15 +346,15 @@
   {
     "source": "Nature.com [NewsAPI]",
     "url": "https://www.nature.com/articles/d41586-025-03626-z",
-    "title": "\u2018Google Maps\u2019 for Roman roads reveals vast extent of ancient network",
+    "title": "‘Google Maps' for Roman roads reveals vast extent of ancient network",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "A data set nearly doubles the known length of roads used during the Roman Empire. Credit: Itiner-e, Artas Media, MINERVA\r\nA high-resolution digital map allows people to plan their routes along the an\u2026 [+2879 chars]",
+    "content": "A data set nearly doubles the known length of roads used during the Roman Empire. Credit: Itiner-e, Artas Media, MINERVA A high-resolution digital map allows people to plan their routes along the an... [+2879 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Roman",
       "Google",
       "Empire",
-      "Maps\u2019",
+      "Maps’",
       "roads",
       "Itiner-e",
       "reveals",
@@ -362,9 +366,9 @@
   {
     "source": "PBS [NewsAPI]",
     "url": "https://www.pbs.org/newshour/education/what-to-know-about-trumps-changes-to-student-loan-forgiveness-rules",
-    "title": "What to know about Trump\u2019s changes to student loan forgiveness rules",
+    "title": "What to know about Trump's changes to student loan forgiveness rules",
     "fetched_on": "2025-11-07T01:42:03.372438+00:00",
-    "content": "This article original appeared on The Conversation.\r\nThe Trump administration has tried to upend many facets of American life, and many facets of higher education are no exception.\r\nThe Department of\u2026 [+8113 chars]",
+    "content": "This article original appeared on The Conversation. The Trump administration has tried to upend many facets of American life, and many facets of higher education are no exception. The Department of... [+8113 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Conversation",
@@ -382,9 +386,9 @@
   {
     "source": "Ambcrypto.com [NewsAPI]",
     "url": "https://ambcrypto.com/justin-sun-stakes-154m-in-ethereum-now-holds-more-eth-than-trx/",
-    "title": "Justin Sun stakes $154M in Ethereum \u2014Now holds more ETH than TRX",
+    "title": "Justin Sun stakes $154M in Ethereum -Now holds more ETH than TRX",
     "fetched_on": "2025-11-07T01:42:03.372438+00:00",
-    "content": "Key Takeaways\r\nHow much Ethereum did Justin Sun stake?\r\nJustin Sun withdrew 45,000 ETH from Aave lending protocol and immediately deposited it to Lido liquid staking on 5 November.\r\nDoes Justin Sun h\u2026 [+2491 chars]",
+    "content": "Key Takeaways How much Ethereum did Justin Sun stake? Justin Sun withdrew 45,000 ETH from Aave lending protocol and immediately deposited it to Lido liquid staking on 5 November. Does Justin Sun h... [+2491 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Sun",
@@ -424,7 +428,7 @@
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
     "fetched_on": "2025-11-07T03:12:30.249049+00:00",
-    "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
+    "content": "More buyers are turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
       "Fed",
@@ -444,7 +448,7 @@
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
     "fetched_on": "2025-11-07T03:12:30.249063+00:00",
-    "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
+    "content": "Here's a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
       "mortgage",
@@ -462,7 +466,7 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
-    "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
+    "title": "What another Fed cut could mean for borrowers - some rates may barely budge",
     "fetched_on": "2025-11-07T03:12:30.249083+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
@@ -683,14 +687,14 @@
   {
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/review-sheepdog-is-a-film-by-steven-grayhm-that-raises-awareness-on-veterans-with-ptsd/article",
-    "title": "Review: \u2018Sheepdog\u2019 is a film by Steven Grayhm that raises awareness on veterans with PTSD",
+    "title": "Review: ‘Sheepdog' is a film by Steven Grayhm that raises awareness on veterans with PTSD",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "Steven Grayhm and Vondie Curtis-Hall. Photo Credit: Derrick Zellmann.\r\n\u201cSheepdog,\u201d written and directed by Steven Grayhm, is a new film that raises awareness on veterans with PTSD.\r\nSteven Grayhm sta\u2026 [+2577 chars]",
+    "content": "Steven Grayhm and Vondie Curtis-Hall. Photo Credit: Derrick Zellmann. “Sheepdog,” written and directed by Steven Grayhm, is a new film that raises awareness on veterans with PTSD. Steven Grayhm sta... [+2577 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Steven",
       "Grayhm",
-      "Sheepdog\u2019",
+      "Sheepdog’",
       "Vondie",
       "PTSD",
       "Review",
@@ -705,7 +709,7 @@
     "url": "https://isc.sans.edu/diary/32454",
     "title": "Binary Breadcrumbs: Correlating Malware Samples with Honeypot Logs Using PowerShell [Guest Diary], (Wed, Nov 5th)",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "[This is a Guest Diary by David Hammond, an ISC intern as part of the SANS.edu BACS program]\r\nMy last college credit on my way to earning a bachelor's degree was an internship opportunity at the Inte\u2026 [+7099 chars]",
+    "content": "[This is a Guest Diary by David Hammond, an ISC intern as part of the SANS.edu BACS program] My last college credit on my way to earning a bachelor's degree was an internship opportunity at the Inte... [+7099 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Wed",
@@ -765,7 +769,7 @@
     "url": "https://economictimes.indiatimes.com/news/international/us/the-fantastic-four-first-steps-disney-streaming-release-date-when-and-where-to-watch-superheros-movie-heres-post-credit-scenes-cast-how-to-stream-marvels-first-family-mcu-pedro-pascal-vanessa-kirby-joseph-quinn/articleshow/125120540.cms",
     "title": "The Fantastic Four: First Steps Disney+ Streaming Release Date: When and where to watch superheros movie? Here's post-credit scenes, cast, how to stream",
     "fetched_on": "2025-11-07T03:12:00.572611+00:00",
-    "content": "The Fantastic Four: First Steps Disney+ streaming release date marks the arrival of Marvels first family on the platform. After its successful theatrical and digital runs, the film is now available t\u2026 [+5034 chars]",
+    "content": "The Fantastic Four: First Steps Disney+ streaming release date marks the arrival of Marvels first family on the platform. After its successful theatrical and digital runs, the film is now available t... [+5034 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Disney",
@@ -786,7 +790,9 @@
     "title": "Pagaya, Castlelake reach deal for up to $500 million in auto loans",
     "fetched_on": "2025-11-07T03:12:12.271432+00:00",
     "content": "Lending platform Pagaya Technologies on Monday announced an agreement to sell up to $500 million of its auto loans to asset-based private credit manager Castlelake.",
-    "platforms_mentioned": [],
+    "platforms_mentioned": [
+      "Castlelake"
+    ],
     "entity": "Castlelake",
     "keywords": [
       "Castlelake",

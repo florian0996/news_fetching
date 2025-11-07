@@ -1,6 +1,32 @@
 {
+  "2025-11-07": {
+    "articles": [
+      {
+        "title": "U.S. Companies Post Most October Job Cuts in More Than 20 Years | The Close 11/6/2025",
+        "url": "https://www.bloomberg.com/news/videos/2025-11-07/the-close-11-6-2025-video",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
   "2025-11-06": {
-    "status": "no company in the news"
+    "articles": [
+      {
+        "title": "LendingClub Partners With Wisetack and Enters Home Improvement Financing Market",
+        "url": "https://www.pymnts.com/partnerships/2025/lendingclub-partners-with-wisetack-and-enters-home-improvement-financing-market/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub CEO on Consumer Credit",
+        "url": "https://www.bloomberg.com/news/videos/2025-11-06/lendingclub-ceo-on-consumer-credit-video",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2025-11-05": {
     "status": "no company in the news"
