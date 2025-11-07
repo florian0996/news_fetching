@@ -142150,5 +142150,105 @@
       "Anytime",
       "Apollo"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-sheepdog-is-a-film-by-steven-grayhm-that-raises-awareness-on-veterans-with-ptsd/article",
+    "title": "Review: ‘Sheepdog’ is a film by Steven Grayhm that raises awareness on veterans with PTSD",
+    "fetched_on": "2025-11-07T03:12:00.572611+00:00",
+    "content": "Steven Grayhm and Vondie Curtis-Hall. Photo Credit: Derrick Zellmann.\r\n“Sheepdog,” written and directed by Steven Grayhm, is a new film that raises awareness on veterans with PTSD.\r\nSteven Grayhm sta… [+2577 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Steven",
+      "Grayhm",
+      "Sheepdog’",
+      "Vondie",
+      "PTSD",
+      "Review",
+      "raises",
+      "awareness",
+      "veterans",
+      "Curtis-Hall"
+    ]
+  },
+  {
+    "source": "Sans.edu [NewsAPI]",
+    "url": "https://isc.sans.edu/diary/32454",
+    "title": "Binary Breadcrumbs: Correlating Malware Samples with Honeypot Logs Using PowerShell [Guest Diary], (Wed, Nov 5th)",
+    "fetched_on": "2025-11-07T03:12:00.572611+00:00",
+    "content": "[This is a Guest Diary by David Hammond, an ISC intern as part of the SANS.edu BACS program]\r\nMy last college credit on my way to earning a bachelor's degree was an internship opportunity at the Inte… [+7099 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wed",
+      "Nov",
+      "Guest",
+      "Diary",
+      "chars",
+      "Breadcrumbs",
+      "Correlating",
+      "Hammond",
+      "Inte",
+      "Malware"
+    ]
+  },
+  {
+    "source": "Funcheap.com [NewsAPI]",
+    "url": "https://sf.funcheap.com/tall-tenderloin-art-lending-library-sf-84/",
+    "title": "2/3/26: TALL: Tenderloin Art Lending Library | SF - FREE",
+    "fetched_on": "2025-11-07T03:12:00.572611+00:00",
+    "content": "Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TALL",
+      "Tenderloin",
+      "Library",
+      "FREE",
+      "Disclaimer",
+      "Art",
+      "Lending",
+      "canceled",
+      "details",
+      "calendar"
+    ]
+  },
+  {
+    "source": "Funcheap.com [NewsAPI]",
+    "url": "https://sf.funcheap.com/tall-tenderloin-art-lending-library-sf-83/",
+    "title": "1/6/26: TALL: Tenderloin Art Lending Library | SF - FREE",
+    "fetched_on": "2025-11-07T03:12:00.572611+00:00",
+    "content": "Disclaimer: Please double check event information with the event organizer as events can be canceled, details can change after they are added to our calendar, and errors do occur.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TALL",
+      "Tenderloin",
+      "Library",
+      "FREE",
+      "Disclaimer",
+      "Art",
+      "Lending",
+      "canceled",
+      "details",
+      "calendar"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/the-fantastic-four-first-steps-disney-streaming-release-date-when-and-where-to-watch-superheros-movie-heres-post-credit-scenes-cast-how-to-stream-marvels-first-family-mcu-pedro-pascal-vanessa-kirby-joseph-quinn/articleshow/125120540.cms",
+    "title": "The Fantastic Four: First Steps Disney+ Streaming Release Date: When and where to watch superheros movie? Here's post-credit scenes, cast, how to stream",
+    "fetched_on": "2025-11-07T03:12:00.572611+00:00",
+    "content": "The Fantastic Four: First Steps Disney+ streaming release date marks the arrival of Marvels first family on the platform. After its successful theatrical and digital runs, the film is now available t… [+5034 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "Fantastic",
+      "Steps",
+      "Streaming",
+      "Release",
+      "Date",
+      "movie",
+      "watch",
+      "superheros",
+      "Marvels"
+    ]
   }
 ]
