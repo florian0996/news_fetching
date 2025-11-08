@@ -146370,5 +146370,45 @@
       "numbers",
       "people"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/regulations-have-to-evolve-keeping-in-mind-the-realities-of-time-rbi-guv-malhotra/article70251665.ece",
+    "title": "Regulations have to evolve keeping in mind the realities of time: RBI Guv Malhotra",
+    "fetched_on": "2025-11-08T07:18:39.754225+00:00",
+    "content": "Indian banks today are far more mature than they were a decade ago and regulations cannot ignore developments such as strong expansion in credit and deposits, robust capital buffers, improved asset q… [+3987 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "RBI",
+      "Guv",
+      "Malhotra",
+      "Indian",
+      "time",
+      "deposits",
+      "robust",
+      "buffers",
+      "improved"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/india-angola-to-deepen-defence-energy-ties-200-million-line-of-credit-to-be-finalised-mea/article70251248.ece",
+    "title": "India, Angola to deepen defence, energy ties; $200 million Line of Credit to be finalised: MEA",
+    "fetched_on": "2025-11-08T07:18:39.754225+00:00",
+    "content": "India is set to strengthen its defence and energy cooperation with Angola ahead of President Droupadi Murmu's upcoming state visit to Angola and Botswana, the Ministry of External Affairs (MEA) annou… [+3563 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MEA",
+      "Angola",
+      "Botswana",
+      "Affairs",
+      "India",
+      "annou",
+      "chars",
+      "Line",
+      "Credit",
+      "President"
+    ]
   }
 ]
