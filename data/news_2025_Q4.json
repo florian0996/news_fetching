@@ -146170,5 +146170,45 @@
       "tax",
       "credit"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/loan-against-silver-not-just-gold-you-can-take-loan-against-white-metal-know-what-updated-rbi-guidelines-say-about-that/articleshow/125139148.cms",
+    "title": "Loan against silver: Not just gold, you can take loan against white metal; know what latest RBI rules say about it",
+    "fetched_on": "2025-11-08T03:03:18.722769+00:00",
+    "content": "You might have often seen advertisements about a loan against gold, where a couple pledges the yellow metal to get cash from the bank cashier. But there are zero chances that you have watched a simil… [+6040 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "gold",
+      "RBI",
+      "metal",
+      "silver",
+      "cashier",
+      "white",
+      "latest",
+      "rules",
+      "advertisements"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/credit-spends-on-upi-merchants-see-debits/articleshow/125147538.cms",
+    "title": "Credit spends on UPI, merchants see debits",
+    "fetched_on": "2025-11-08T03:03:18.722769+00:00",
+    "content": "Merchants are grappling with a flurry of small levies by payment service providers on Unified Payments Interface (UPI) transactions, although the government has mandated that the instant payment syst… [+4512 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UPI",
+      "Interface",
+      "transactions",
+      "chars",
+      "merchants",
+      "Unified",
+      "payment",
+      "Credit",
+      "syst",
+      "spends"
+    ]
   }
 ]
