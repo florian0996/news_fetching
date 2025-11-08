@@ -146290,5 +146290,85 @@
       "chars",
       "Pros"
     ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2025/11/07/loans-for-cars-homes-and-special-occasions-all-hit-record-highs/",
+    "title": "Loans for cars, homes and special occasions all hit record highs",
+    "fetched_on": "2025-11-08T06:29:01.631105+00:00",
+    "content": "Personal loan activity for cars, home improvement, green issues and special occasions all reached record highs in the second quarter, new data from the banks shows.\r\nThe latest personal loan report, … [+3055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cars",
+      "special",
+      "occasions",
+      "record",
+      "highs",
+      "Personal",
+      "improvement",
+      "green",
+      "quarter",
+      "shows"
+    ]
+  },
+  {
+    "source": "Naturalnews.com [NewsAPI]",
+    "url": "https://www.naturalnews.com/2025-11-07-us-household-credit-card-debt-new-highs.html",
+    "title": "AmericansÂ feeling the strain as household debt and credit card obligations hit new highs",
+    "fetched_on": "2025-11-08T06:29:01.631105+00:00",
+    "content": "<ul><li>U.S. household debt surged to an unprecedented $18.59 trillion in Q3 2025, driven by mortgages, credit card debt and economic instability.</li><li>Credit card balances meanwhile soared to $1.… [+4415 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "debt",
+      "card",
+      "chars",
+      "household",
+      "AmericansÂ",
+      "highs",
+      "unprecedented",
+      "trillion",
+      "driven"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/hdfc-bank-cuts-mclr-rates-home-loan-emis-to-fall-for-these-borrowers-as-hdfc-bank-trims-rates-on-select-tenures/articleshow/125150934.cms",
+    "title": "HDFC Bank cuts MCLR rates: Home loan EMIs to fall for these borrowers as HDFC Bank trims rates on select tenures",
+    "fetched_on": "2025-11-08T06:29:01.631105+00:00",
+    "content": "HDFC Bank has reduced its Marginal Cost of Funds-based Lending Rates (MCLR), which will benefit borrowers whose loans are linked to this benchmark. The bank has lowered its MCLR rates by up to 10 bas… [+2556 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "Bank",
+      "MCLR",
+      "Home",
+      "rates",
+      "Marginal",
+      "Cost",
+      "Funds-based",
+      "Lending",
+      "borrowers"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/blogposting/26261/bringing-change-to-rural-and-community-banks",
+    "title": "Bringing Change To Rural and Community Banks",
+    "fetched_on": "2025-11-08T06:29:01.631105+00:00",
+    "content": "Rural and small community banks are where large numbers of people and small businesses find access to lending and wealth creation. This is as much true in Asia as it is anywhere else.\r\nCommunity bank… [+3815 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rural",
+      "Change",
+      "small",
+      "Community",
+      "Banks",
+      "Bringing",
+      "creation",
+      "large",
+      "numbers",
+      "people"
+    ]
   }
 ]
