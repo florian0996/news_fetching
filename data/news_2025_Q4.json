@@ -149068,5 +149068,85 @@
       "website",
       "commission"
     ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/iphone-18-pro-display-cutout-variable-aperture--transparent-back-steel-battery_id175563",
+    "title": "iPhone 18 Pro could flaunt a lot of firsts, making it the 2026 flagship to beat",
+    "fetched_on": "2025-11-08T23:18:14.716438+00:00",
+    "content": "iPhone 18 Pro renders | Image Credit - AppleInsider\r\nA bunch of iPhone 18 Pro upgrades has been revealed by the generally reliable leaker Digital Chat Station. The leaker suggests the screen will hav… [+3580 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "iPhone",
+      "Image",
+      "Credit",
+      "Station",
+      "Digital",
+      "Chat",
+      "making",
+      "flagship",
+      "renders"
+    ]
+  },
+  {
+    "source": "Writersdigest.com [NewsAPI]",
+    "url": "https://www.writersdigest.com/breaking-out-rachel-runya-katz#article",
+    "title": "Breaking Out: Rachel Runya Katz",
+    "fetched_on": "2025-11-08T23:18:14.716438+00:00",
+    "content": "Runya Katz Headshot credit Patrick Wilson \r\nWD uses affiliate links.\r\nWe first connected with Rachel Runya Katz for her debut novel's publication and featured her in our September/October 2023's Brea… [+2022 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Runya",
+      "Katz",
+      "Rachel",
+      "Headshot",
+      "Patrick",
+      "Wilson",
+      "October",
+      "Brea",
+      "Breaking",
+      "links"
+    ]
+  },
+  {
+    "source": "Theme Park Insider [NewsAPI]",
+    "url": "https://www.themeparkinsider.com/flume/202511/11157/",
+    "title": "Universal theme park pioneer passes away",
+    "fetched_on": "2025-11-08T23:18:14.716438+00:00",
+    "content": "November 7, 2025, 5:48 PM · \r\nThe man whom many credit as one of the original creative forces behind Universal's theme parks has passed away.\r\nJay Stein was 87. He worked his way up from the mailroom… [+1631 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Universal",
+      "November",
+      "theme",
+      "5:48",
+      "park",
+      "parks",
+      "pioneer",
+      "passes",
+      "man",
+      "credit"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/11/07/mobile-gaming-engaging-and-potentially-profitable-form-of-modern-entertainment/",
+    "title": "Mobile Gaming: An Engaging and Potentially Profitable Form of Modern Entertainment",
+    "fetched_on": "2025-11-08T23:18:14.716438+00:00",
+    "content": "Image Credit: Unsplash\r\nMobile games, whether puzzles, social casino games, or another format, have become a dominant force in the entertainment industry. Mobile gaming made up 49% of the video games… [+5339 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Unsplash",
+      "Entertainment",
+      "games",
+      "Engaging",
+      "Potentially",
+      "Profitable",
+      "Form",
+      "Modern",
+      "Image"
+    ]
   }
 ]
