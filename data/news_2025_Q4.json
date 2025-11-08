@@ -146628,5 +146628,105 @@
       "Credit",
       "Card"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/missed-a-personal-loan-emi-its-impact-on-your-credit-score-is-more-serious-than-you-think-heres-why-11762502872008.html",
+    "title": "Missed a personal loan EMI? Its impact on your credit score is more serious than you think —here's why",
+    "fetched_on": "2025-11-08T09:19:23.766348+00:00",
+    "content": "When you miss an EMI on your personal loan, it might seem like a minor slip-up. Still, keep in mind that it can trigger a chain of consequences that affect your credit health and future borrowing pot… [+3930 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Missed",
+      "personal",
+      "loan",
+      "credit",
+      "chars",
+      "slip-up",
+      "pot",
+      "impact",
+      "score"
+    ]
+  },
+  {
+    "source": "Lse.ac.uk [NewsAPI]",
+    "url": "https://eprints.lse.ac.uk/130080/",
+    "title": "The semblance of success in nudging consumers to pay down credit card debt",
+    "fetched_on": "2025-11-08T09:19:23.766348+00:00",
+    "content": "Guttman-Kenney, Benedict, Adams, Paul, Hunt, Stefan, Laibson, David, Stewart, NeilORCID: 0000-0001-8036-6392 and Leary, Jesse \r\n(2025)\r\nThe semblance of success in nudging consumers to pay down credi… [+871 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Benedict",
+      "Adams",
+      "Paul",
+      "Hunt",
+      "Stefan",
+      "Laibson",
+      "David",
+      "Stewart",
+      "Jesse",
+      "NeilORCID"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/1107/1542683-bpfi-quarterly-loan-figures/",
+    "title": "Personal loans reach record high of €754m in Q3 - BPFI",
+    "fetched_on": "2025-11-08T09:19:23.766348+00:00",
+    "content": "New figures show that personal loan activity - including car, home improvement and green loans - reached record highs in the second quarter of this year.\r\nThe figures from Banking and Payments Federa… [+2669 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BPFI",
+      "Personal",
+      "record",
+      "loans",
+      "activity",
+      "including",
+      "car",
+      "home",
+      "reached",
+      "year"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-cards/2025/gen-z-turns-credit-building-into-a-financial-power-move/",
+    "title": "Gen Z Turns Credit Building Into a Financial Power Move",
+    "fetched_on": "2025-11-08T09:19:23.766348+00:00",
+    "content": "For many consumers, smart credit use is more than convenience, its a way to unlock financial opportunity. As shown in Consumer Credit Economy: Strategy vs. Spontaneity Navigating the Great Credit Div… [+3671 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Financial",
+      "Turns",
+      "Building",
+      "Power",
+      "Move",
+      "Gen",
+      "smart",
+      "convenience",
+      "opportunity"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/loyalty-and-rewards-news/2025/60percent-of-debit-cardholders-turn-direct-deposit-into-loyalty/",
+    "title": "60% of Debit Cardholders Turn Direct Deposit Into Loyalty",
+    "fetched_on": "2025-11-08T09:19:23.766348+00:00",
+    "content": "For years, credit cards have monopolized the loyalty market. But as younger consumers trade borrowing for budgeting, the most meaningful shift may be happening on the other side of the ledger: debit.… [+3639 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loyalty",
+      "Debit",
+      "Cardholders",
+      "Turn",
+      "Direct",
+      "Deposit",
+      "years",
+      "credit",
+      "market",
+      "cards"
+    ]
   }
 ]
