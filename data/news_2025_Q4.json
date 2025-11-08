@@ -146210,5 +146210,45 @@
       "syst",
       "spends"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/groww-ipo-final-day-of-bidding-gmp-trends-subscription-status-and-analyst-views/articleshow/125149211.cms",
+    "title": "Groww IPO final day of bidding: GMP trends, subscription status, and analyst views",
+    "fetched_on": "2025-11-08T04:23:55.205228+00:00",
+    "content": "Indias leading retail investment platform, Groww (Billionbrains Garage Ventures Ltd), has entered the third and final day of its IPO subscription. By the end of Day 2, the issue was subscribed 1.64 t… [+6601 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Groww",
+      "IPO",
+      "GMP",
+      "Billionbrains",
+      "day",
+      "Indias",
+      "Garage",
+      "Ventures",
+      "final",
+      "subscription"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/catherine-curtin-of-stranger-things-talks-about-starring-in-pen-pals/article",
+    "title": "Catherine Curtin of ‘Stranger Things’ talks about starring in ‘Pen Pals’",
+    "fetched_on": "2025-11-08T04:23:55.205228+00:00",
+    "content": "Catherine Curtin as Bernie in 'Pen Pals.' Photo Credit: Russ Rowland.\r\nVeteran actress Catherine Curtin of “Stranger Things” and “Orange is the New Black” chatted about starring in the Off-Broadway s… [+6188 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pen",
+      "Curtin",
+      "Pals",
+      "Things’",
+      "Pals’",
+      "Bernie",
+      "Catherine",
+      "Stranger",
+      "starring",
+      "Credit"
+    ]
   }
 ]
