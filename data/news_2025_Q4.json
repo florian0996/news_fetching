@@ -149481,5 +149481,45 @@
       "Consumer",
       "Samsung"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/moodys-downgrades-ride-hailing-firm-olas-rating-flags-risk-of-covenant-breach/articleshow/125177905.cms",
+    "title": "Moody’s downgrades ride-hailing firm Ola’s rating; flags risk of covenant breach",
+    "fetched_on": "2025-11-09T04:23:49.707228+00:00",
+    "content": "Ratings agency Moodys has downgraded the credit rating of ride-hailing firm Olas parent, ANI Technologies, and assigned a negative outlook, citing weakening operating performance that is straining li… [+3554 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "firm",
+      "ANI",
+      "Technologies",
+      "chars",
+      "ride-hailing",
+      "Ola",
+      "Olas",
+      "rating",
+      "flags",
+      "parent"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/moodys-downgrades-olas-rating-flags-risk-of-loan-covenant-breach/articleshow/125177905.cms",
+    "title": "Moody’s downgrades Ola’s rating; flags risk of loan covenant breach",
+    "fetched_on": "2025-11-09T04:23:49.707228+00:00",
+    "content": "Ratings agency Moodys has downgraded the credit rating of ride-hailing firm Olas parent, ANI Technologies, and assigned a negative outlook, citing weakening operating performance that is straining li… [+2890 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANI",
+      "Technologies",
+      "chars",
+      "rating",
+      "Ola",
+      "Olas",
+      "flags",
+      "parent",
+      "outlook",
+      "citing"
+    ]
   }
 ]
