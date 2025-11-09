@@ -150020,5 +150020,105 @@
       "Street",
       "Inside"
     ]
+  },
+  {
+    "source": "OCRegister [NewsAPI]",
+    "url": "https://www.ocregister.com/2025/11/08/federal-loan-caps-medical-school/",
+    "title": "Many fear federal loan caps will deter aspiring doctors and worsen MD shortage",
+    "fetched_on": "2025-11-09T15:18:08.652144+00:00",
+    "content": "Bernard J. Wolfson, KFF Health News\r\nMedical educators and health professionals warn that new federal student loan caps in President Donald Trumps tax cut law could make it more expensive for many pe… [+6898 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Wolfson",
+      "KFF",
+      "Health",
+      "Bernard",
+      "Medical",
+      "President",
+      "Donald",
+      "Trumps",
+      "loan"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/11/08/federal-loan-caps-medical-school/",
+    "title": "Many fear federal loan caps will deter aspiring doctors and worsen MD shortage",
+    "fetched_on": "2025-11-09T15:18:08.652144+00:00",
+    "content": "Bernard J. Wolfson, KFF Health News\r\nMedical educators and health professionals warn that new federal student loan caps in President Donald Trumps tax cut law could make it more expensive for many pe… [+6898 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Wolfson",
+      "KFF",
+      "Health",
+      "Bernard",
+      "Medical",
+      "President",
+      "Donald",
+      "Trumps",
+      "loan"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/11/the-big-problem-with-animal-kingdom-what-will-disney-do-ld1/",
+    "title": "The BIG Problem With Animal Kingdom – What Will Disney Do?",
+    "fetched_on": "2025-11-09T15:18:08.652144+00:00",
+    "content": "Does Disney World have a problem?\r\nCredit: Disney\r\nThe Walt Disney World Resort in Florida attracts millions of visitors each year, thanks to its collection of incredible rides, thrilling attractions… [+4126 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "Kingdom",
+      "BIG",
+      "Animal",
+      "Problem",
+      "World",
+      "Walt",
+      "Resort",
+      "Florida",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/655f00bf2a849e4a",
+    "title": "I finally have enough cash to pay off my student loan in full—here's why I'm not doing it",
+    "fetched_on": "2025-11-09T15:18:08.652144+00:00",
+    "content": "Everyone who knows me knows that I can't stand owing money. I pay down my credit cards every month, and I complete Venmo requests the second I get them.The only debt I have left is my student loan, w… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "student",
+      "loan",
+      "full",
+      "money",
+      "pay",
+      "finally",
+      "cash",
+      "stand",
+      "owing",
+      "Venmo"
+    ]
+  },
+  {
+    "source": "Sky Sports [NewsAPI]",
+    "url": "https://www.skysports.com/football/news/11095/13466240/hull-city-3-2-portsmouth-joe-gelhardt-scores-winner-in-five-goal-thriller",
+    "title": "Gelhardt scores winner as Hull beat Portsmouth in five-goal thriller",
+    "fetched_on": "2025-11-09T15:18:08.652144+00:00",
+    "content": "Joe Gelhardt scored his fifth goal in six games as Hull defeated struggling Portsmouth 3-2 at the MKM Stadium.\r\nThe Leeds loan signing showed supreme calmness to dink the ball over goalkeeper Josef B… [+2955 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hull",
+      "Portsmouth",
+      "Stadium",
+      "Gelhardt",
+      "Joe",
+      "MKM",
+      "scores",
+      "winner",
+      "beat",
+      "five-goal"
+    ]
   }
 ]
