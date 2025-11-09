@@ -150380,5 +150380,105 @@
       "Walt",
       "happened"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/08/weekend-streaming-guide-netflix-apple-tv-hulu-prime-video-tv-shows-movies/",
+    "title": "What To Watch This Weekend On Netflix, Hulu, Prime Video & Other Top Streamers",
+    "fetched_on": "2025-11-09T18:26:57.089769+00:00",
+    "content": "What to watch this weekend on all your favorite streaming services.\r\nCredit: Netflix / Apple / Peacock\r\nA classic gothic horror story brought to life by one of modern cinemas best directors. A new sc… [+9039 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Watch",
+      "Weekend",
+      "Hulu",
+      "Prime",
+      "Video",
+      "Netflix",
+      "Top",
+      "Streamers",
+      "Apple",
+      "services"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/08/nyt-mini-crossword-clues-and-answers-saturday-november-8/",
+    "title": "NYT Mini Crossword Clues And Answers For Saturday, November 8",
+    "fetched_on": "2025-11-09T18:26:57.089769+00:00",
+    "content": "How to solve today's Mini crossword.\r\nCredit: NYT\r\nIts the weekend at last, and we have the hardest of the weeks NYT Mini Crossword puzzles to solve. The Saturday Mini is always the biggest, and whil… [+3215 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mini",
+      "November",
+      "NYT",
+      "Crossword",
+      "Clues",
+      "Answers",
+      "Saturday",
+      "solve",
+      "today",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/08/nyt-connections-hints-answers-sunday-november-9-guide/",
+    "title": "NYT ‘Connections’ Hints And Answers For Sunday, November 9 (#882)",
+    "fetched_on": "2025-11-09T18:26:57.089769+00:00",
+    "content": "Credit: NYT / Erik Kain\r\nAnother Sunday, another NYT Connections to solve. We have four groups of words to cobble together: Yellow, Green, Blue and Purple. If youre struggling with some of the tricki… [+3803 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sunday",
+      "NYT",
+      "November",
+      "Credit",
+      "Connections’",
+      "Erik",
+      "Hints",
+      "Answers",
+      "Kain",
+      "Yellow"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/bb5aa59d3894f48a",
+    "title": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers",
+    "fetched_on": "2025-11-09T18:26:57.089769+00:00",
+    "content": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction.\r\nThis story appeared on… [+36 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Chips",
+      "Act",
+      "data",
+      "company",
+      "OpenAI",
+      "construction",
+      "centers",
+      "center",
+      "asked"
+    ]
+  },
+  {
+    "source": "TechCrunch [NewsAPI]",
+    "url": "https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/",
+    "title": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers | TechCrunch",
+    "fetched_on": "2025-11-09T18:26:57.089769+00:00",
+    "content": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company’s ambitious plans for data center construction.\r\nThe letter from OpenAI… [+2151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "data",
+      "company",
+      "Trump",
+      "Chips",
+      "Act",
+      "OpenAI",
+      "TechCrunch",
+      "construction",
+      "letter",
+      "centers"
+    ]
   }
 ]
