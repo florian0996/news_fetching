@@ -149580,5 +149580,85 @@
       "tax",
       "credit"
     ]
+  },
+  {
+    "source": "Wired [NewsAPI]",
+    "url": "https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/",
+    "title": "Why Are We All Still Carrying Around Car Keys?",
+    "fetched_on": "2025-11-09T10:19:23.035769+00:00",
+    "content": "My iPhone Wallet stores theater and transit tickets and all of my credit and debit cards, and it lets me sashay like a boss through my gyms turnstile. The tech works flawlessly, requiring only my pro… [+3481 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Keys",
+      "Carrying",
+      "Car",
+      "Wallet",
+      "chars",
+      "cards",
+      "turnstile",
+      "iPhone",
+      "stores",
+      "theater"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/viral-on-instagram-influencer-calls-out-international-brands-for-copying-indian-dhoti-without-giving-credit/articleshow/125182263.cms",
+    "title": "Viral on Instagram: Influencer calls out international brands for copying Indian 'dhoti' without giving credit",
+    "fetched_on": "2025-11-09T10:19:23.035769+00:00",
+    "content": "<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Viral on Instagram: Influencer calls out international brands for copying Indian 'dhoti' without giving credit</li></ul>\r\nLuxury fashion … [+411 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Instagram",
+      "Influencer",
+      "Indian",
+      "Viral",
+      "dhoti",
+      "credit",
+      "calls",
+      "international",
+      "brands",
+      "copying"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Tesla-slashes-Model-Y-APR-financing-rate-and-intros-leasing-price-deal-with-free-option-upgrade.1158539.0.html",
+    "title": "Tesla slashes Model Y APR financing rate and intros leasing price deal with free option upgrade",
+    "fetched_on": "2025-11-09T10:19:23.035769+00:00",
+    "content": "As the Model Y tax credit is long gone and Tesla has already introduced the long-awaited cheaper Standard and powerful Performance models, it is now looking for more familiar ways to boost sales.\r\nTh… [+1463 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Model",
+      "Tesla",
+      "APR",
+      "Standard",
+      "Performance",
+      "models",
+      "sales",
+      "slashes",
+      "financing",
+      "rate"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/390713/indonesia-targets-rp16-trillion-in-carbon-trade-at-cop30",
+    "title": "Indonesia targets Rp16 trillion in carbon trade at COP30",
+    "fetched_on": "2025-11-09T10:19:23.035769+00:00",
+    "content": "Belém, Brazil (ANTARA) - Indonesia aims to generate Rp16 trillion (about S$960 million) from carbon credit transactions during the 30th United Nations Climate Change Conference (COP30) in Belém, Braz… [+2029 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brazil",
+      "ANTARA",
+      "Braz",
+      "Belém",
+      "Indonesia",
+      "million",
+      "chars",
+      "United",
+      "Conference",
+      "trillion"
+    ]
   }
 ]
