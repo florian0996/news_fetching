@@ -150776,5 +150776,45 @@
       "Disney",
       "wild"
     ]
+  },
+  {
+    "source": "PEOPLE [NewsAPI]",
+    "url": "https://people.com/man-41-asks-for-gen-z-perspective-after-tense-work-meeting-11845865",
+    "title": "Man, 41, Asks for a ‘Gen Z Perspective’ After a Co-Worker, 24, Called Him Out in a Tense Work Meeting",
+    "fetched_on": "2025-11-09T23:18:23.775312+00:00",
+    "content": "NEED TO KNOW\r\n<ul><li>A 41-year-old man was publicly called out by his 24-year-old co-worker for not giving her credit on a report\r\n</li><li>He said calling out a co-worker during a meeting would've … [+4253 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Co-Worker",
+      "Man",
+      "Called",
+      "Meeting",
+      "Gen",
+      "Perspective’",
+      "Tense",
+      "Work",
+      "chars",
+      "report"
+    ]
+  },
+  {
+    "source": "Variety [NewsAPI]",
+    "url": "https://variety.com/2025/tv/news/youtube-tv-disney-blackout-20-dollar-credit-customers-1236573169/",
+    "title": "YouTube TV to Begin Issuing Customers $20 Credit for Disney Blackout on Sunday",
+    "fetched_on": "2025-11-09T23:18:23.775312+00:00",
+    "content": "When the Disney nets were first pulled from YouTube TV, the internet company said that if ESPN, ABC local stations and Disney’s other channels were unavailable for “an extended period of time,” it wo… [+2484 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "Customers",
+      "Credit",
+      "ESPN",
+      "ABC",
+      "chars",
+      "YouTube",
+      "Begin",
+      "Issuing",
+      "Blackout"
+    ]
   }
 ]
