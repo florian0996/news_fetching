@@ -150120,5 +150120,125 @@
       "beat",
       "five-goal"
     ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/is-another-gfc-about-to-upend-nzs-recovery-liam-dann/premium/UDI6YWNP2JBBFKJAZSAEHU3JFI/",
+    "title": "Is another GFC about to upend NZ’s recovery? - Liam Dann",
+    "fetched_on": "2025-11-09T16:23:12.970607+00:00",
+    "content": "But as speculation about a Wall Street tech bubble builds and cracks start to appear inparts of the US credit market, the prospect is something we have to consider.\r\nI certainly hope the people who r… [+5804 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GFC",
+      "recovery",
+      "upend",
+      "Liam",
+      "Dann",
+      "Wall",
+      "Street",
+      "chars",
+      "market",
+      "speculation"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/you-use-steam-every-day-but-how-well-do-you-really-know-it-our-latest-quiz-tests-you-on-everything-from-long-lost-features-to-surprise-free-game-releases-to-the-most-expensive-thing-ever-sold-on-the-storefront/",
+    "title": "You use Steam every day, but how well do you really know it? Our latest quiz tests you on everything from long-lost features to surprise free game releases to the most expensive thing ever sold on the storefront",
+    "fetched_on": "2025-11-09T16:23:12.970607+00:00",
+    "content": "(Image credit: Larian Studios, PC Gamer)\r\nWant to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes, on everything from healthbars to weird currencies to absurd patc… [+943 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Steam",
+      "Gamer",
+      "day",
+      "Image",
+      "Larian",
+      "Studios",
+      "storefront",
+      "credit",
+      "trivia",
+      "chars"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/third-person-shooter/finally-arc-raiders-is-the-extraction-shooter-for-people-with-jobs-and-its-all-the-better-for-it/",
+    "title": "Finally, Arc Raiders is the extraction shooter for people with jobs, and it's all the better for it",
+    "fetched_on": "2025-11-09T16:23:12.970607+00:00",
+    "content": "Rory Norris, Guides Writer\r\n(Image credit: Future)\r\nLast week I was: making friends with every raider over a mutual hunt for lemons in Arc Raiders.\r\nThis week I've been: continuing to team up with pl… [+4818 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Arc",
+      "Future",
+      "Raiders",
+      "Norris",
+      "Guides",
+      "Writer",
+      "Image",
+      "Finally",
+      "Rory",
+      "raider"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/streaming-tv/google-vs-disney-when-big-companies-fight-consumers-lose",
+    "title": "Google says Disney wants to 'force deal terms that would raise prices on our customers,' while Disney says Google is 'not interested in achieving a fair deal,' but consumers are the real losers as these multi-billion-dollar companies fight",
+    "fetched_on": "2025-11-09T16:23:12.970607+00:00",
+    "content": "(Image credit: Future)\r\nOne of the web's longest-running tech columns, Android &amp; Chill is your Saturday discussion of Android, Google, and all things tech.\r\nGoogle is fighting again. Imagine that… [+7660 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Android",
+      "Disney",
+      "Future",
+      "Google",
+      "Image",
+      "Chill",
+      "Saturday",
+      "deal",
+      "tech",
+      "force"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/11/disney-festival-of-fantasy-christmastime-parade-th1/",
+    "title": "Disney World Cuts Beloved Parade Effective Immediately, Replacement Confirmed",
+    "fetched_on": "2025-11-09T16:23:12.970607+00:00",
+    "content": "Changes are afoot.\r\nCredit: Disney\r\nGuests visiting Magic Kingdom in early November are in for a change: the beloved Festival of Fantasy Parade will not be performed on November 8 and 9, 2025, as Dis… [+3094 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Immediately",
+      "Replacement",
+      "Disney",
+      "World",
+      "Cuts",
+      "Effective",
+      "Confirmed",
+      "Parade",
+      "afoot",
+      "Beloved"
+    ]
+  },
+  {
+    "source": "NBCSports.com [NewsAPI]",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-ellis-regrets-not-keeping-in-closer-contact-with-marshawn-kneeland",
+    "title": "Greg Ellis regrets not keeping in closer contact with Marshawn Kneeland",
+    "fetched_on": "2025-11-09T16:23:12.970607+00:00",
+    "content": "Greg Ellis deserves credit for his candor. He could have said nothing. He decided instead to share his regrets for not keeping in contact with Cowboys defensive end Marshawn Kneeland, who dies this w… [+2066 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ellis",
+      "Greg",
+      "Marshawn",
+      "Kneeland",
+      "candor",
+      "keeping",
+      "contact",
+      "closer",
+      "deserves",
+      "credit"
+    ]
   }
 ]
