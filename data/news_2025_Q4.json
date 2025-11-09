@@ -149660,5 +149660,45 @@
       "Conference",
       "trillion"
     ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/news-weekly-nov-8-2025",
+    "title": "News Weekly: Disney and YouTube TV's feud, Google Maps a much-needed upgrade, Qualcomm's earnings soar, and more",
+    "fetched_on": "2025-11-09T11:15:30.236513+00:00",
+    "content": "(Image credit: Future)\r\nNews Weekly is our column where we highlight and summarize some of the week's top stories so you can catch up on the latest tech news.\r\nThis is Android Central's News Weekly, … [+6792 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Weekly",
+      "Disney",
+      "Google",
+      "Qualcomm",
+      "Image",
+      "Maps",
+      "feud",
+      "upgrade",
+      "soar"
+    ]
+  },
+  {
+    "source": "Aero-news.net [NewsAPI]",
+    "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=B45C4334-4DF2-425E-9935-31E9B09983DA",
+    "title": "Joby Starts Power-On Testing First Conforming Aircraft",
+    "fetched_on": "2025-11-09T11:15:30.236513+00:00",
+    "content": "Joby Aviation announced the start of power-on testing of the first of its FAA-conforming aircraft built for TIA, or Type Inspection Authorization, that is the lead-up to “for credit” flight tests wit… [+2261 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Testing",
+      "TIA",
+      "Authorization",
+      "chars",
+      "Joby",
+      "Aircraft",
+      "Power-On",
+      "Conforming",
+      "Aviation",
+      "Type"
+    ]
   }
 ]
