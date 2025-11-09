@@ -3,7 +3,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-07/hf-sinclair-phillips-66-win-epa-biofuel-blending-exemptions",
     "title": "HF Sinclair, Phillips 66 Win EPA Biofuel-Blending Exemptions",
-    "fetched_on": "2025-11-09T06:29:14.995254+00:00",
+    "fetched_on": "2025-11-09T07:18:54.162045+00:00",
     "content": "Refineries owned by HF Sinclair Corp. and Phillips 66 Co. won exemptions from biofuel blending mandates from the Trump administration Friday, while requests by Chevron Corp. were denied.",
     "platforms_mentioned": [],
     "keywords": [
@@ -43,7 +43,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-07/openai-asks-us-to-expand-chips-act-tax-credit-to-ai-data-centers",
     "title": "OpenAI Asks US to Expand Chips Tax Credit to AI Data Centers",
-    "fetched_on": "2025-11-09T06:29:15.412579+00:00",
+    "fetched_on": "2025-11-09T07:18:54.613326+00:00",
     "content": "OpenAI has asked the Trump administration to revamp a Chips Act tax credit to help lower the cost of artificial intelligence infrastructure, as the startup explores additional ways the US government can support an industrywide data center build-out for AI.",
     "platforms_mentioned": [],
     "keywords": [
@@ -60,12 +60,13 @@
     ]
   },
   {
-    "source": "Bloomberg \u2013 Technology [RSS]",
+    "source": "Bloomberg [GNews]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-07/banks-lend-18-billion-for-oracle-tied-data-center-in-new-mexico",
     "title": "Banks Lend $18 Billion for Oracle-Tied Data Center in New Mexico",
-    "fetched_on": "2025-11-09T06:29:15.412644+00:00",
+    "fetched_on": "2025-11-09T07:18:58.237173+00:00",
     "content": "A group of about 20 banks is providing a roughly $18 billion project finance loan to help fund the construction of a data center campus tied to Oracle Corp., marking the latest mega debt deal to help bankroll the artificial intelligence boom.",
     "platforms_mentioned": [],
+    "entity": "Lend",
     "keywords": [
       "Billion",
       "Data",
@@ -83,7 +84,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-07/us-consumer-credit-rises-13-1-billion-on-non-revolving-debt",
     "title": "US Consumer Borrowing Picks Up on Non-Revolving Debt",
-    "fetched_on": "2025-11-09T06:29:16.723583+00:00",
+    "fetched_on": "2025-11-09T07:18:54.746633+00:00",
     "content": "US consumer credit increased in September, driven by the largest advance in non-revolving borrowing this year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -103,7 +104,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/newsletters/2025-11-07/premier-league-player-spending-spree-funded-by-barclays-hsbc-and-citi",
     "title": "The Secret Lending List to One of World\u2019s Richest Sports Leagues",
-    "fetched_on": "2025-11-09T06:29:16.870315+00:00",
+    "fetched_on": "2025-11-09T07:18:54.870558+00:00",
     "content": "Behind the Premier League\u2019s record \u00a33 billion summer spending spree lies a discreet network of approved lenders that fuels English football\u2019s billion-pound ambitions.",
     "platforms_mentioned": [],
     "keywords": [
@@ -123,7 +124,7 @@
     "source": "SiliconANGLE News [NewsAPI]",
     "url": "https://siliconangle.com/2025/11/07/openai-calls-chips-act-tax-credit-extended-ai-data-centers/",
     "title": "OpenAI calls for CHIPS Act tax credit to be extended to AI data centers",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "OpenAI Group PBC has asked the White House to make a tax credit for chip fabs available to artificial intelligence data center builders.\r\nBloomberg reported the request today. OpenAI asked for the ta\u2026 [+4186 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -143,7 +144,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/bfb6074d801f5aa1",
     "title": "Friday links: enthusiastic allocations",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "Private assetsInvestors are sleepwalking their way into private equity and credit exposure. (lt3000.blogspot.com)What daily NAVs would mean for the industry. (citywire.com)Morningstar ($MORN) is laun\u2026 [+146 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -163,7 +164,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/55cea0f3db9c37ca",
     "title": "Sources: Samsung is in talks with Barclays to launch a consumer credit card in the US; it's also exploring a high-yield savings account, BNPL product, and more",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Tesla approve Elon Musk's $1 trillion pay package? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is the gov\u2026 [+864 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +364,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/11/08/i-have-enough-cash-to-pay-off-my-student-loan-why-im-not.html",
     "title": "I finally have enough cash to pay off my student loan in full\u2014here's why I'm not doing it",
-    "fetched_on": "2025-11-09T06:29:37.712116+00:00",
+    "fetched_on": "2025-11-09T07:19:09.949181+00:00",
     "content": "Mathetmatically, paying off my debt now would cost me less money. But I don't want to put my wedding savings in jeopardy.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +384,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/faa-flight-cancellations-credit-card-travel-insurance.html",
     "title": "As FAA order triggers flight cancellations and delays, what to know about credit card travel insurance",
-    "fetched_on": "2025-11-09T06:29:38.059122+00:00",
+    "fetched_on": "2025-11-09T07:19:10.387302+00:00",
     "content": "The shutdown of the U.S. federal government is causing flight delays and cancellations. What to know about travel credit card insurance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +404,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/government-shutdown-democrats-schumer-trump-aca.html",
     "title": "Senate Republicans reject Democrat deal to reopen government",
-    "fetched_on": "2025-11-09T06:29:37.712046+00:00",
+    "fetched_on": "2025-11-09T07:19:09.949108+00:00",
     "content": "The U.S. government shutdown has dragged on for 38 days because of a dispute over whether ACA tax credits should be included in a stop-gap funding bill.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +424,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
     "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
-    "fetched_on": "2025-11-09T06:29:37.823586+00:00",
+    "fetched_on": "2025-11-09T07:19:10.044387+00:00",
     "content": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +444,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-09T06:29:38.059292+00:00",
+    "fetched_on": "2025-11-09T07:19:10.387489+00:00",
     "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +464,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-09T06:29:38.059305+00:00",
+    "fetched_on": "2025-11-09T07:19:10.387503+00:00",
     "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +484,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
     "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
-    "fetched_on": "2025-11-09T06:29:37.823693+00:00",
+    "fetched_on": "2025-11-09T07:19:10.044493+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +504,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/refinance-demand-is-81percent-higher-than-it-was-a-year-ago-thanks-to-falling-mortgage-rates.html",
     "title": "Refinance demand is 81% higher than it was a year ago, thanks to falling mortgage rates",
-    "fetched_on": "2025-11-09T06:29:37.823735+00:00",
+    "fetched_on": "2025-11-09T07:19:10.044537+00:00",
     "content": "Sliding mortgage rates are pushing more current borrowers to refinance and also juicing demand for adjustable-rate loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +524,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
     "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
-    "fetched_on": "2025-11-09T06:29:37.823797+00:00",
+    "fetched_on": "2025-11-09T07:19:10.044600+00:00",
     "content": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +544,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/student-loan-forgiveness-notices.html",
     "title": "Student loan forgiveness notices are going out despite the shutdown \u2014 what borrowers need to do next",
-    "fetched_on": "2025-11-09T06:29:38.059137+00:00",
+    "fetched_on": "2025-11-09T07:19:10.387317+00:00",
     "content": "Borrowers are getting notices of student loan forgiveness. Here's what experts say their next steps should be.",
     "platforms_mentioned": [],
     "keywords": [
@@ -561,7 +562,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/03/states-sue-trump-public-service-loan-forgiveness-pslf.html",
     "title": "States sue Trump admin over rule limiting student loan forgiveness for public servants",
-    "fetched_on": "2025-11-09T06:29:38.059202+00:00",
+    "fetched_on": "2025-11-09T07:19:10.387384+00:00",
     "content": "New York Attorney General Letitia James is suing the Trump administration over its new rule limiting eligibility for Public Service Loan Forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -581,7 +582,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/31/student-loan-class-action-lawsuit.html",
     "title": "Republican who oversaw student debt launches class action effort against Trump administration",
-    "fetched_on": "2025-11-09T06:29:38.059244+00:00",
+    "fetched_on": "2025-11-09T07:19:10.387426+00:00",
     "content": "The Trump administration is wrongfully damaging the credit of millions of student loan borrowers, a new proposed class action lawsuit says.",
     "platforms_mentioned": [],
     "keywords": [
@@ -601,7 +602,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/public-service-loan-forgiveness-eligibility-trump.html",
     "title": "Trump administration to limit student loan forgiveness eligibility for some public servants",
-    "fetched_on": "2025-11-09T06:29:38.059278+00:00",
+    "fetched_on": "2025-11-09T07:19:10.387460+00:00",
     "content": "The Trump administration is moving closer to limiting eligibility for the Public Service Loan Forgiveness program.",
     "platforms_mentioned": [],
     "keywords": [
@@ -639,7 +640,7 @@
     "source": "Rlsbb.to [NewsAPI]",
     "url": "https://post.rlsbb.to/gardeners-world-s58e30-1080p-ip-web-dl-h264-w45ps/",
     "title": "Gardeners World S58E30 1080p IP WEB-DL H264-W45Ps",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "Season 58, Episode 30 Frances Tophill is back at Damson Farm, lending a hand with autumn jobs in the garden. She learns about a clever recipe for making an architectural compost cake, plants a contai\u2026 [+862 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -659,7 +660,7 @@
     "source": "Crooksandliars.com [NewsAPI]",
     "url": "https://crooksandliars.com/2025/11/rep-crockett-bashes-trump-tariffs-hopes",
     "title": "Rep. Crockett Bashes Trump Tariffs, Hopes Supreme Court Will Act",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "Rep. Jasmine Crockett told CNN she hoped the Supreme Court would rule against Trump's tariffs, and if they do she wants to make sure they get the credit for helping the economy.Crockett rightfully ex\u2026 [+1664 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -679,7 +680,7 @@
     "source": "Boxingnews24.com [NewsAPI]",
     "url": "https://www.boxingnews24.com/2025/11/roy-jones-jr-and-andre-ward-warn-erickson-lubin-this-could-be-his-last-strike-ahead-of-vergil-ortiz-jr-showdown/",
     "title": "Roy Jones Jr. and Andre Ward Warn Erickson Lubin: \u201cThis Could Be His Last Strike\u201d Ahead of Vergil Ortiz Jr. Showdown",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "Roy Jones Jr. and Andre Ward believe that Saturday\u2019s fight will be Erickson Lubin\u2019s \u201clast strike\u201d in his career if he loses to Vergil Ortiz Jr. in their headliner on DAZN.\r\nCredit: Golden Boy / Cris \u2026 [+2796 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -699,7 +700,7 @@
     "source": "Slashdot.org [NewsAPI]",
     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180001130",
     "title": "OpenAI Asks US to Expand Chips Act Tax Credit to AI Data Centers - Bloomberg.com",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
     "platforms_mentioned": [],
     "keywords": [
@@ -719,7 +720,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/c5be451143e5c969",
     "title": "5 cartoons of mass destruction about Dick Cheney\u2019s legacy",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "(Image credit: Drew Sheneman / Copyright 2025 Tribune Content Agency)(Image credit: Jack Ohman / Copyright 2025 Tribune Content Agency)(Image credit: Joe Heller / Copyright 2025 Hellertoon.com)(Image\u2026 [+143 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -739,7 +740,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/tech/technology/openais-altman-urges-us-to-expand-chips-act-tax-credit-for-ai-growth/articleshow/125177134.cms",
     "title": "OpenAI's Altman urges US to expand Chips Act tax credit for AI growth",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "OpenAI CEO Sam Altman on Friday doubled down on the company's ask for the US to expand eligibility for a Chips Act tax credit, as the country accelerates efforts to secure its position as a global le\u2026 [+1408 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -759,7 +760,7 @@
     "source": "Reuters [GNews]",
     "url": "https://www.reuters.com/business/finance/banks-lend-18-billion-oracle-tied-data-center-project-bloomberg-news-reports-2025-11-07/",
     "title": "Banks lend $18 billion for Oracle-tied data center project, Bloomberg News reports",
-    "fetched_on": "2025-11-09T04:23:57.376334+00:00",
+    "fetched_on": "2025-11-09T07:18:58.237168+00:00",
     "content": "A consortium of around 20 banks is providing a project finance loan of about $18 billion to support the construction of a data center campus linked to Oracle in New Mexico, Bloomberg News reported on Friday.",
     "platforms_mentioned": [],
     "entity": "Lend",
@@ -814,7 +815,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/tech/technology/moodys-downgrades-ride-hailing-firm-olas-rating-flags-risk-of-covenant-breach/articleshow/125177905.cms",
     "title": "Moody\u2019s downgrades ride-hailing firm Ola\u2019s rating; flags risk of covenant breach",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "Ratings agency Moodys has downgraded the credit rating of ride-hailing firm Olas parent, ANI Technologies, and assigned a negative outlook, citing weakening operating performance that is straining li\u2026 [+3554 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -834,7 +835,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/tech/technology/moodys-downgrades-olas-rating-flags-risk-of-loan-covenant-breach/articleshow/125177905.cms",
     "title": "Moody\u2019s downgrades Ola\u2019s rating; flags risk of loan covenant breach",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "Ratings agency Moodys has downgraded the credit rating of ride-hailing firm Olas parent, ANI Technologies, and assigned a negative outlook, citing weakening operating performance that is straining li\u2026 [+2890 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -875,7 +876,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/news/economy/indicators/rural-consumption-outshines-urban-demand-as-income-growth-credit-expansion-and-better-rainfall-boost-consumption-report/articleshow/125179769.cms",
     "title": "Rural consumption outshines urban demand as income growth, credit expansion and better rainfall boost consumption: Report",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "Rural India continues to lead the country's consumption recovery, outpacing urban demand despite income tax cuts and GST 2.0 reforms aimed at stimulating city-based spending, according to Motilal Osw\u2026 [+2681 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -895,7 +896,7 @@
     "source": "Akatsys.com [NewsAPI]",
     "url": "https://distillr.akatsys.com",
     "title": "Show HN: Distillr \u2013 Condense Podcasts - Only sections that matter",
-    "fetched_on": "2025-11-09T06:29:14.237564+00:00",
+    "fetched_on": "2025-11-09T07:18:53.627585+00:00",
     "content": "Join the waitlist and be among the first to experience the future of content consumption. Extract signal from noise, verify every claim, never waste time again.\r\nGet Early AccessNo credit card \u00b7 No c\u2026 [+26 chars]",
     "platforms_mentioned": [],
     "keywords": [
