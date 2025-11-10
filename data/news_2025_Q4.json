@@ -151656,5 +151656,65 @@
       "credit",
       "bazooka"
     ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/11/09/its-not-too-late-to-get-the-30-solar-tax-credit-unless-you-live-in-these-states/",
+    "title": "It’s not too late to get the 30% solar tax credit — unless you live in THESE states",
+    "fetched_on": "2025-11-10T15:24:05.189581+00:00",
+    "content": "UCF trains next generation for solar and energy jobs; via UCF.\r\nJust as we saw with EVs in September, there’s a broad, documented surge in demand for home solar tied to the 30% Federal tax credit exp… [+4878 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UCF",
+      "jobs",
+      "solar",
+      "tax",
+      "credit",
+      "September",
+      "Federal",
+      "late",
+      "live",
+      "states"
+    ]
+  },
+  {
+    "source": "Futurism [NewsAPI]",
+    "url": "http://futurism.com/future-society/facial-recognition-ai-prejudice",
+    "title": "Scientists Say Their AI System Can Scan Your Face to Detect Whether a Company Should Hire You",
+    "fetched_on": "2025-11-10T15:24:05.189581+00:00",
+    "content": "If you thought your credit score was invasive, just wait until companies are judging you based on your mug alone.\r\nA new study by researchers at the University of Pennsylvania, flagged by The Economi… [+2909 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "System",
+      "Scan",
+      "Face",
+      "Detect",
+      "Company",
+      "Hire",
+      "Scientists",
+      "invasive",
+      "thought",
+      "credit"
+    ]
+  },
+  {
+    "source": "Rolling Out [NewsAPI]",
+    "url": "https://rollingout.com/2025/11/09/jay-zs-paternity-case-dismissed/",
+    "title": "Jay-Z’s paternity case dismissed",
+    "fetched_on": "2025-11-10T15:24:05.189581+00:00",
+    "content": "Jay-Z, Beyoncé, and Blue Ivy (Photo credit: Bang Media)\r\nA federal judge in California has officially dismissed a paternity lawsuit against rapper Jay-Z, also known as Shawn Carter, with prejudice. T… [+4234 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Beyoncé",
+      "Ivy",
+      "Photo",
+      "Bang",
+      "Media",
+      "Carter",
+      "Blue",
+      "California",
+      "Shawn",
+      "Jay-Z"
+    ]
   }
 ]
