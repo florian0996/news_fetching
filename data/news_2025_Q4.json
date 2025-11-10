@@ -151236,5 +151236,65 @@
       "DUBAI",
       "United"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/visa-and-mastercard-to-end-20-year-legal-feud-credit-card-giants-mull-cutting-interchange-fees-report-11762664374133.html",
+    "title": "Visa and Mastercard to end 20-year legal feud? Credit card giants mull cutting interchange fees: Report",
+    "fetched_on": "2025-11-10T09:26:05.900859+00:00",
+    "content": "Visa and Mastercard are about to reach a settlement with merchants to reduce interchange fees and allow stores to refuse certain credit cards, in a move to end a 20 year old legal dispute, according … [+2921 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mastercard",
+      "Visa",
+      "end",
+      "feud",
+      "legal",
+      "Credit",
+      "interchange",
+      "fees",
+      "Report",
+      "chars"
+    ]
+  },
+  {
+    "source": "Acecomments.mu.nu [NewsAPI]",
+    "url": "https://acecomments.mu.nu/?post=417230",
+    "title": "Daily Tech News 9 November 2025",
+    "fetched_on": "2025-11-10T09:26:05.900859+00:00",
+    "content": "<li>OpenAI has asked the government to expand coverage of tax credits created for integrated circuit manufacturers to also cover incontinent wastrels AI companies even though it is explicitly a manuf… [+2285 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "chars",
+      "Tech",
+      "Daily",
+      "OpenAI",
+      "manuf",
+      "asked",
+      "government",
+      "expand",
+      "coverage"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/credit-card-spending-surges-23-to-217-lakh-crore-in-september/article70259018.ece",
+    "title": "Credit card spending surges 23% to ₹2.17 lakh crore in September",
+    "fetched_on": "2025-11-10T09:26:05.900859+00:00",
+    "content": "Credit card spending in India rose sharply by 23 per cent year-on-year (y-o-y) to 2.17 lakh crore in September, driven by festive season offers, GST rate cuts, and a rise in card issuances that boost… [+2012 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "September",
+      "lakh",
+      "card",
+      "Credit",
+      "crore",
+      "GST",
+      "chars",
+      "spending",
+      "India",
+      "surges"
+    ]
   }
 ]
