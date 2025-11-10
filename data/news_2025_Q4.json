@@ -151556,5 +151556,65 @@
       "Bizarre",
       "commentsWould"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-10/the-opening-trade-11-10-video",
+    "title": "US Shutdown Progress Fuels Optimism, TSMC Sees Slowing Monthly Sales | The Opening Trade 11/10",
+    "fetched_on": "2025-11-10T13:32:21.362430+00:00",
+    "content": "A group of eight Democrats on Sunday broke with the rest of their party &mdash; including Senate Minority Leader Chuck Schumer &mdash; to vote with Republicans to advance a bill to re-open the government on the impasse’s 40th day. Democrats entered the shutdown seeking to renew tax credits to stave off insurance premium price hikes.\n\nTaiwan Semiconductor Manufacturing reported slowing growth in monthly revenue, highlighting uncertainty over the sustainability of the AI boom even as industry behemoths including Nvidia chase more chip orders.\n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Lizzy Burden, Guy Johnson and Kriti Gupta.  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Optimism",
+      "TSMC",
+      "Sales",
+      "Schumer",
+      "Progress",
+      "Fuels",
+      "Sunday",
+      "Senate",
+      "Minority",
+      "Leader"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-the-elephant-trunk-nebula-in-breathtaking-detail-photo",
+    "title": "Astrophotographer captures the Elephant Trunk Nebula in breathtaking detail (photo)",
+    "fetched_on": "2025-11-10T13:32:20.650783+00:00",
+    "content": "The Elephant Trunk Nebula captured by astrophotographer Terry Hancock (Image credit: Terry Hancock)\r\nAstrophotographer Terry Hancock has captured a dramatic view of the star-forming region IC 1396 — … [+2698 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Terry",
+      "Hancock",
+      "Elephant",
+      "Trunk",
+      "Nebula",
+      "Astrophotographer",
+      "Image",
+      "photo",
+      "chars",
+      "detail"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/articles/cy0k28re8ejo",
+    "title": "Falkirk finally feel deserving of top flight place - McGlynn",
+    "fetched_on": "2025-11-10T13:32:20.650783+00:00",
+    "content": "Falkirk manager John McGlynn insists his players deserve \"enormous credit\" despite being held to a draw at home to Livingston on Saturday. \r\nThe promoted club are fourth in the Scottish Premiership a… [+996 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Saturday",
+      "Falkirk",
+      "John",
+      "Livingston",
+      "place",
+      "deserve",
+      "enormous",
+      "credit",
+      "McGlynn",
+      "chars"
+    ]
   }
 ]
