@@ -151296,5 +151296,45 @@
       "India",
       "surges"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-10/unicredit-set-to-appeal-ruling-over-italy-s-demands-for-bpm-deal",
+    "title": "UniCredit Set to Appeal Ruling Over Italy’s Demands for BPM Deal",
+    "fetched_on": "2025-11-10T10:25:16.787633+00:00",
+    "content": "UniCredit SpA is preparing to appeal a court ruling related to its failed bid for Banco BPM SpA that left in place some of the conditions imposed by the government for a deal to go ahead.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BPM",
+      "Appeal",
+      "Ruling",
+      "Deal",
+      "Set",
+      "Italy",
+      "Demands",
+      "Banco",
+      "UniCredit",
+      "SpA"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/business/visa-and-mastercard-near-settlement-with-merchants-would-lower-fees-report/articleshow/125200009.cms",
+    "title": "Visa and Mastercard near settlement with merchants, would lower fees: Report",
+    "fetched_on": "2025-11-10T10:25:15.490551+00:00",
+    "content": "U.S. payment firms Visa and Mastercard are nearing a settlement with merchants by lowering fees stores pay and giving them more power to reject certain credit cards, the Wall Street Journal reported … [+1502 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Mastercard",
+      "Visa",
+      "chars",
+      "settlement",
+      "merchants",
+      "Wall",
+      "Street",
+      "Journal",
+      "fees"
+    ]
   }
 ]
