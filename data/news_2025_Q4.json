@@ -151116,5 +151116,65 @@
       "releases",
       "pop"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-10/uk-s-beaten-down-assets-give-its-junk-loans-an-unexpected-edge",
+    "title": "UK’s Beaten-Down Assets Give Its Junk Loans an Unexpected Edge",
+    "fetched_on": "2025-11-10T06:34:46.072397+00:00",
+    "content": "Tax rises loom. Borrowing costs remain stubbornly high. And inflation is still way above target. But for investors in UK companies there’s at least one bright spot: sterling junk loans.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Assets",
+      "Give",
+      "Unexpected",
+      "Edge",
+      "Tax",
+      "loom",
+      "Junk",
+      "Loans",
+      "Beaten-Down",
+      "rises"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b5f333f81ec8745d",
+    "title": "Airlines and credit card companies think you’ll pay a lot for lounge access",
+    "fetched_on": "2025-11-10T06:34:45.532469+00:00",
+    "content": "For every passenger trying to decide if a $17 slimy ham and cheese croissant and their phones 34% remaining battery will sustain them for a four-hour layover, theres someone smugly sipping a complime… [+142 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Airlines",
+      "slimy",
+      "phones",
+      "remaining",
+      "layover",
+      "complime",
+      "credit",
+      "card",
+      "companies"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/irish/richard-curran-as-the-state-exits-banking-the-scars-of-the-64bn-crash-are-still-very-visible/a1061260550.html",
+    "title": "Richard Curran: As the State exits banking, the scars of the €64bn crash are still very visible",
+    "fetched_on": "2025-11-10T06:34:45.532469+00:00",
+    "content": "Deep scars remain, 17 years after the financial crash.\r\nYes, the banks have ended their reckless lending policies and are now more financially robust. Yes, banking culture seems to have changed subst… [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Curran",
+      "State",
+      "Deep",
+      "scars",
+      "crash",
+      "Richard",
+      "remain",
+      "years",
+      "exits",
+      "visible"
+    ]
   }
 ]
