@@ -152656,5 +152656,125 @@
       "favorites",
       "dig"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-10/cba-profit-rises-as-business-and-mortgage-growth-drives-bank",
+    "title": "CBA Profit Rises as Business and Mortgage Growth Drives Bank",
+    "fetched_on": "2025-11-10T22:21:11.271750+00:00",
+    "content": "Commonwealth Bank of Australia’s profit rose in the first quarter, supported by growth in lending to businesses and households.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CBA",
+      "Bank",
+      "Profit",
+      "Growth",
+      "Rises",
+      "Business",
+      "Mortgage",
+      "Drives",
+      "Commonwealth",
+      "Australia"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/ewelinaochab/2025/11/09/un-expert-warns-against-normalizing-taliban-de-facto-authorities/",
+    "title": "UN Expert Warns Against Normalizing Taliban De Facto Authorities",
+    "fetched_on": "2025-11-10T22:21:09.414692+00:00",
+    "content": "Taliban security personnel stand guard as an Afghan burqa-clad woman (R) walks along a street at a market in the Baharak district of Badakhshan province on February 26, 2024. (Photo credit: WAKIL KOH… [+4577 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Taliban",
+      "February",
+      "Expert",
+      "Warns",
+      "Normalizing",
+      "Facto",
+      "Authorities",
+      "Afghan",
+      "Baharak",
+      "Badakhshan"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/companies/banking-finance/anz-nzs-profit-up-21-to-record-25-billion-lending-only-grows-modestly/G7SKYOGDS5A2VK56OFYNB4DGS4/",
+    "title": "ANZ NZ’s profit up 21% to record $2.5 billion, lending only grows modestly",
+    "fetched_on": "2025-11-10T22:21:09.414692+00:00",
+    "content": "The banks net interest margin rose by 3 basis points to 2.60%.\r\nLike the other banks, ANZ NZ noted an improvement in bad debts as interest rates fell over the year.\r\nIt said that in the past three mo… [+1808 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANZ",
+      "billion",
+      "record",
+      "lending",
+      "basis",
+      "banks",
+      "interest",
+      "profit",
+      "grows",
+      "modestly"
+    ]
+  },
+  {
+    "source": "TechCrunch [NewsAPI]",
+    "url": "https://techcrunch.com/2025/11/09/youtube-tv-is-giving-customers-a-20-credit-for-disney-blackout/",
+    "title": "YouTube TV is giving customers a $20 credit for Disney blackout | TechCrunch",
+    "fetched_on": "2025-11-10T22:21:09.414692+00:00",
+    "content": "YouTube TV subscribers unhappy about going more than a week without ESPN, ABC, and other Disney networks will be getting a $20 credit that can be applied to their next billing statement.\r\nVariety fir… [+749 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ABC",
+      "Disney",
+      "credit",
+      "ESPN",
+      "YouTube",
+      "blackout",
+      "TechCrunch",
+      "statement",
+      "giving",
+      "customers"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e89dfb4e8c674145",
+    "title": "YouTube TV is giving customers a $20 credit for Disney blackout",
+    "fetched_on": "2025-11-10T22:21:09.414692+00:00",
+    "content": "YouTube TV subscribers unhappy about going more than a week without ESPN, ABC, and other Disney networks will be getting a $20 credit that can be applied to their next billing statement.Variety first… [+145 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ABC",
+      "Disney",
+      "credit",
+      "ESPN",
+      "chars",
+      "YouTube",
+      "giving",
+      "customers",
+      "blackout",
+      "subscribers"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/home-health-ai-startup-io-133106553.html",
+    "title": "Home Health AI Startup io Health Secures $2M Seed Funding To Reduce Clinician Turnover By 36% With Smart Layer Technology",
+    "fetched_on": "2025-11-10T22:21:41.421937+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Secures",
+      "Seed",
+      "Technology",
+      "Health",
+      "Startup",
+      "Funding",
+      "Reduce",
+      "Clinician",
+      "Turnover",
+      "Smart"
+    ]
   }
 ]
