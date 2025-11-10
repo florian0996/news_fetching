@@ -151616,5 +151616,45 @@
       "McGlynn",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-10/blackrock-eyes-100-loss-on-private-loan-amid-debate-over-marks",
+    "title": "BlackRock Eyes 100% Loss on Private Loan Amid Debate Over Marks",
+    "fetched_on": "2025-11-10T14:21:50.661393+00:00",
+    "content": "About a month ago, BlackRock Inc. deemed the private debt it had extended to Renovo Home Partners, a struggling home improvement company, to be worth 100 cents on the dollar. As of last week, the firm had a new assessment: zero.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Eyes",
+      "Loss",
+      "BlackRock",
+      "Loan",
+      "Amid",
+      "Debate",
+      "Marks",
+      "Private",
+      "ago",
+      "Home"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/gst-bazooka-lenders-raise-credit-growth-guidance-for-fy26/article70259495.ece",
+    "title": "GST bazooka: Lenders raise credit growth guidance for FY26",
+    "fetched_on": "2025-11-10T14:21:50.038837+00:00",
+    "content": "Banks have raised their credit growth guidance for the current financial year on the back of GST rate cuts in late September, lower interest rates post 100 basis points (bps) repo cut, and the easing… [+2147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GST",
+      "growth",
+      "guidance",
+      "Lenders",
+      "Banks",
+      "September",
+      "bps",
+      "chars",
+      "credit",
+      "bazooka"
+    ]
   }
 ]
