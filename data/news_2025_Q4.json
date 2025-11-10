@@ -151036,5 +151036,85 @@
       "Agency",
       "Adam"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/opinion/newsletters/2025-11-10/emerging-markets-can-swim-naked-for-a-while",
+    "title": "Emerging Markets Can Swim Naked for a While",
+    "fetched_on": "2025-11-10T05:21:58.501004+00:00",
+    "content": "<p>China’s credit compared to the US means a favorable tide for many&nbsp;countries.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Markets",
+      "Swim",
+      "Naked",
+      "Emerging",
+      "countries.",
+      "credit",
+      "compared",
+      "favorable",
+      "tide"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-10/democrats-concede-shutdown-fight-without-health-care-win-in-hand",
+    "title": "Democrats Concede Shutdown Fight Without Health Care Win in Hand",
+    "fetched_on": "2025-11-10T05:21:58.658798+00:00",
+    "content": "Democrats entered the shutdown seeking to renew tax credits to stave off insurance premium price hikes and to show voters they have the stomach for hardball negotiations in President Donald Trump’s Washington.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Washington",
+      "Democrats",
+      "Shutdown",
+      "Concede",
+      "Fight",
+      "Health",
+      "Care",
+      "Win",
+      "Hand",
+      "President"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/personal-loan-vs-credit-card-emi-what-works-better-for-wedding-expenses",
+    "title": "Personal Loan Vs Credit Card EMI: What Works Better For Wedding Expenses?",
+    "fetched_on": "2025-11-10T05:21:57.831127+00:00",
+    "content": "Both options include processing fees and potential prepayment penalties. If you intend to repay early, check which option offers more flexibility without heavy charges.\r\nTo conclude, if youre plannin… [+485 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Expenses",
+      "Loan",
+      "Credit",
+      "Card",
+      "Works",
+      "Wedding",
+      "Personal",
+      "chars",
+      "penalties"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-jade-lemac-releases-her-new-pop-ep-its-always-at-night/article",
+    "title": "Review: Jade LeMac releases her new pop EP ‘It’s Always at Night’",
+    "fetched_on": "2025-11-10T05:21:57.831127+00:00",
+    "content": "Jade LeMac. Photo Credit: Meredith Truax.\r\nSinger-songwriter Jade LeMac released her new EP “It’s Always at Night” on Friday, November 7th via Warner Music Canada/East West Records.\r\nA Vancouver-base… [+1820 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jade",
+      "Night’",
+      "Review",
+      "LeMac",
+      "November",
+      "Credit",
+      "Meredith",
+      "Truax",
+      "releases",
+      "pop"
+    ]
   }
 ]
