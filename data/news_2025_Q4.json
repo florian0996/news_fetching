@@ -151336,5 +151336,105 @@
       "Journal",
       "fees"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-november-9-2025-110023792.html",
+    "title": "HELOC rates today, November 9, 2025: Hitting new lows for 2025",
+    "fetched_on": "2025-11-10T11:18:25.825234+00:00",
+    "content": "HELOC rates are falling. Nationally, the average home equity line of credit interest rate is 7.64%, according to the analytics company Curinos. That's down nearly a half-point since January.\r\nThis em… [+3936 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "November",
+      "Hitting",
+      "today",
+      "falling",
+      "rates",
+      "Curinos",
+      "lows",
+      "Nationally",
+      "January"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-november-9-2025-110023340.html",
+    "title": "HELOC rates today, November 9, 2025: Rates are hitting new lows for 2025",
+    "fetched_on": "2025-11-10T11:18:25.825234+00:00",
+    "content": "HELOC rates are falling. Nationally, the average home equity line of credit interest rate is 7.64%, according to the analytics company Curinos. That's down nearly a half-point since January.\r\nAccordi… [+3824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "November",
+      "rates",
+      "today",
+      "falling",
+      "Curinos",
+      "hitting",
+      "lows",
+      "rate",
+      "January"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/post-festive-credit-card-bills-how-to-clear-dues-without-paying-interest-heres-five-point-guide",
+    "title": "Post-Festive Credit Card Bills: How To Clear Dues Without Paying Interest? Here's Five-Point Guide",
+    "fetched_on": "2025-11-10T11:18:25.825234+00:00",
+    "content": "From Dussehra to Diwali, India's festival season means weeks of shopping, gifting and eating out. For many, credit cards are the preferred payment option, offering instant spending power and attracti… [+472 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bills",
+      "Interest",
+      "Clear",
+      "Dues",
+      "Paying",
+      "Post-Festive",
+      "Credit",
+      "Diwali",
+      "India",
+      "Guide"
+    ]
+  },
+  {
+    "source": "Thekenyatimes.com [NewsAPI]",
+    "url": "https://thekenyatimes.com/business/ussd-codes-for-safaricom-faulu-imarika-and-other-major-saccos-in-kenya/",
+    "title": "USSD Codes For Major Saccos In Kenya",
+    "fetched_on": "2025-11-10T11:18:25.825234+00:00",
+    "content": "Mobile technology has transformed financial access in Kenya, making SACCO (Savings and Credit Cooperative) services more convenient for members.\r\nSACCOs now leverage mobile platforms, including USSD … [+3261 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kenya",
+      "Savings",
+      "Cooperative",
+      "Codes",
+      "Major",
+      "Credit",
+      "USSD",
+      "Mobile",
+      "making",
+      "services"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/indiana-woman-discovers-spouse-secret-110000388.html",
+    "title": "Indiana woman discovers spouse’s secret $14K loan and hidden bank account — Ramsey hosts reveal how they can recover",
+    "fetched_on": "2025-11-10T11:18:42.905220+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ramsey",
+      "Indiana",
+      "secret",
+      "loan",
+      "account",
+      "recover",
+      "woman",
+      "discovers",
+      "spouse",
+      "hidden"
+    ]
   }
 ]
