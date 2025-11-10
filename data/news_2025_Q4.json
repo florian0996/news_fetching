@@ -152776,5 +152776,105 @@
       "Turnover",
       "Smart"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/932293",
+    "title": "Chemist Warehouse: 5% Cashback (Cap $10, Online only and Exclusions Apply) @ Citro",
+    "fetched_on": "2025-11-10T23:20:03.526726+00:00",
+    "content": "You wont get Cashback on:Pharmacy Medicine Products.Items specified in this list: https://drive.google.com/file/d/111CDUpIgc1je9V21iAaCMeIB5hXAny Gift Card, Voucher or store credit purchasePurchases … [+1554 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cap",
+      "chars",
+      "Warehouse",
+      "Online",
+      "Apply",
+      "Citro",
+      "Pharmacy",
+      "Gift",
+      "Card",
+      "Voucher"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/84910249bd8929ae",
+    "title": "YouTube TV is now offering customers a $20 credit as its conflict with Disney drags on",
+    "fetched_on": "2025-11-10T23:20:03.526726+00:00",
+    "content": "ESPN's \"Monday Night Football\" programming remains unavailable for YouTubeTV subscribers as the streaming service continues to negotiate carriage rights with Disney, ESPN's parent company.Perry Knott… [+150 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "chars",
+      "Monday",
+      "Football",
+      "Knott",
+      "ESPN",
+      "Night",
+      "YouTube",
+      "credit",
+      "programming"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/youtubetv-credit-disney-google-licensing-negotiations-2025-11",
+    "title": "YouTube TV is now offering customers a $20 credit as its conflict with Disney drags on",
+    "fetched_on": "2025-11-10T23:20:03.526726+00:00",
+    "content": "ESPN's \"Monday Night Football\" programming remains unavailable for YouTubeTV subscribers as the streaming service continues to negotiate carriage rights with Disney, ESPN's parent company.Perry Knott… [+2508 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "chars",
+      "Monday",
+      "Football",
+      "Knott",
+      "ESPN",
+      "Night",
+      "YouTube",
+      "credit",
+      "programming"
+    ]
+  },
+  {
+    "source": "PCMag.com [NewsAPI]",
+    "url": "https://uk.pcmag.com/video-streaming-services/161145/youtube-tv-sends-20-credit-after-losing-espn-abc-check-out-our-top-picks-for-live-tv-alternatives",
+    "title": "YouTube TV Sends $20 Credit After Losing ESPN, ABC. Check Out Our Top Picks for Live TV Alternatives",
+    "fetched_on": "2025-11-10T23:20:03.526726+00:00",
+    "content": "Don't miss out on our latest stories. Add PCMag as a preferred source on Google.\r\nUPDATE 11/9: YouTube TV is issuing $20 credits to make up for the loss of Disney programming. The money should be aut… [+3407 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ABC",
+      "Sends",
+      "ESPN",
+      "Losing",
+      "YouTube",
+      "UPDATE",
+      "Top",
+      "Picks",
+      "Live",
+      "Alternatives"
+    ]
+  },
+  {
+    "source": "PCMag.com [NewsAPI]",
+    "url": "https://me.pcmag.com/en/old-video-streaming-services/33336/youtube-tv-sends-20-credit-after-losing-espn-abc-check-out-our-top-picks-for-live-tv-alternatives",
+    "title": "YouTube TV Sends $20 Credit After Losing ESPN, ABC. Check Out Our Top Picks for Live TV Alternatives",
+    "fetched_on": "2025-11-10T23:20:03.526726+00:00",
+    "content": "Don't miss out on our latest stories. Add PCMag as a preferred source on Google.\r\nUPDATE 11/9: YouTube TV is issuing $20 credits to make up for the loss of Disney programming. The money should be aut… [+3407 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ABC",
+      "Sends",
+      "ESPN",
+      "Losing",
+      "YouTube",
+      "UPDATE",
+      "Top",
+      "Picks",
+      "Live",
+      "Alternatives"
+    ]
   }
 ]
