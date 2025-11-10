@@ -150816,5 +150816,125 @@
       "Issuing",
       "Blackout"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/0d032f26995681ba",
+    "title": "Visa and Mastercard Near Deal With Merchants That Would Change Rewards Landscape",
+    "fetched_on": "2025-11-10T01:47:11.009241+00:00",
+    "content": "The deal under discussion would lower credit-card interchange fees for merchants, but could make it harder for consumers to use rewards cards at the register.\r\nThis story appeared on wsj.com, 2025-11… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deal",
+      "Merchants",
+      "Rewards",
+      "Mastercard",
+      "Change",
+      "Landscape",
+      "Visa",
+      "register",
+      "2025-11",
+      "chars"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/932154",
+    "title": "Week 2 - Further 5% off Gift Cards (Max $25): 5% WISH, 7.5% Amazon, 7.5% Shell @ Samsung Wallet App",
+    "fetched_on": "2025-11-10T01:47:11.009241+00:00",
+    "content": "Credit to @cheapobruh for posting the first deal. Looks like Samsung has preloaded Week 2's code already.Disclaimer: The code is already active, but I've tried placing an order and the gift card stil… [+2655 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Max",
+      "Amazon",
+      "Shell",
+      "Week",
+      "Wallet",
+      "App",
+      "Credit",
+      "Samsung",
+      "Gift",
+      "cheapobruh"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/11/08/autopsy-of-a-first-generation-rx7-mazda-rotary-car-engine/",
+    "title": "Autopsy of a First-Generation RX7 Mazda Rotary Car Engine",
+    "fetched_on": "2025-11-10T01:47:11.009241+00:00",
+    "content": "The eccentric shaft and rotor of the Mazda 12A rotary engine. (Credit: Baked Beans Garage, YouTube)\r\nIn theory, Wankel-style rotary internal combustion engines have many advantages: they ditch the cu… [+2356 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mazda",
+      "Car",
+      "Rotary",
+      "Autopsy",
+      "First-Generation",
+      "Credit",
+      "Engine",
+      "Baked",
+      "Garage",
+      "Wankel-style"
+    ]
+  },
+  {
+    "source": "Hoover.org [NewsAPI]",
+    "url": "https://www.hoover.org/research/articles-chinese-economic-espionage-cash-secured-lending-nvidia-rare-earth-oil-starbucks",
+    "title": "Articles On: Chinese Economic Espionage, Cash-Secured Lending, Nvidia, Rare Earth, Oil, Starbucks, Shein, Supply Chain, Nexperia, Canada, Tariffs, and more",
+    "fetched_on": "2025-11-10T01:47:11.009241+00:00",
+    "content": "From Outside Assaults to Insider Threats: Chinese Economic Espionageby Darren E. Tromblayvia ITIF on November 3, 2025\r\nHow China Collateralizes: Inside a $400 Billion Cash-Secured Lending Systemby An… [+3281 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chinese",
+      "Nvidia",
+      "Oil",
+      "Starbucks",
+      "Shein",
+      "Nexperia",
+      "Canada",
+      "Tariffs",
+      "Economic",
+      "Lending"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/08/nyt-mini-crossword-clues-answers-sunday-november-9/",
+    "title": "NYT Mini Crossword Clues And Answers For Sunday, November 9",
+    "fetched_on": "2025-11-10T01:47:11.009241+00:00",
+    "content": "How to solve today's Mini crossword.\r\nCredit: NYT\r\nThe weekend is racing past, but its not too late to commit to good old-fashioned laziness this fine November Sunday. Kick back with a good book or s… [+3098 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mini",
+      "Crossword",
+      "NYT",
+      "Sunday",
+      "Clues",
+      "Answers",
+      "November",
+      "solve",
+      "today",
+      "Credit"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/11/09/government-shutdown-senate-democrats.html",
+    "title": "Senate on track to pass funding deal that could end government shutdown",
+    "fetched_on": "2025-11-10T01:47:33.681670+00:00",
+    "content": "The U.S. government shutdown has dragged on for weeks because of the refusal by Democrats in the Senate to approve a bill that does not extend ACA tax credits.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Senate",
+      "government",
+      "shutdown",
+      "Democrats",
+      "ACA",
+      "credits",
+      "track",
+      "pass",
+      "funding",
+      "deal"
+    ]
   }
 ]
