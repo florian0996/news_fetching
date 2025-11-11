@@ -153216,5 +153216,105 @@
       "Bar",
       "chars"
     ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/youtube-tv-disney-20-dollar-credit-payout-3614215/",
+    "title": "YouTube TV is paying up: Here’s how to claim your $20 Disney blackout credit",
+    "fetched_on": "2025-11-11T04:26:18.256110+00:00",
+    "content": "<ul><li>YouTube TV has started paying out $20 bill credits to users for the loss of Disney channels.</li><li>The credits need to be claimed manually if you subscribed to YouTube TV directly.</li><li>… [+2464 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "YouTube",
+      "chars",
+      "paying",
+      "credits",
+      "bill",
+      "channels.",
+      "directly.",
+      "claim",
+      "blackout"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/india/maldives-inaugurates-hanimaadhoo-international-airport-built-with-assistance-from-india/articleshow/125213882.cms",
+    "title": "Maldives inaugurates Hanimaadhoo International Airport built with assistance from India",
+    "fetched_on": "2025-11-11T04:26:18.256110+00:00",
+    "content": "Maldives President Mohamed Muizzu has inaugurated the Hanimaadhoo International Airport, a project funded under the Indian government's Line of Credit assistance, calling it a \"gateway to prosperity\"… [+2244 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "International",
+      "Hanimaadhoo",
+      "Airport",
+      "chars",
+      "Maldives",
+      "India",
+      "President",
+      "Mohamed",
+      "Muizzu",
+      "Indian"
+    ]
+  },
+  {
+    "source": "CNX Software [NewsAPI]",
+    "url": "https://www.cnx-software.com/2025/11/10/cra-compliant-grinn-genioboard-edge-ai-sbc-features-mediatek-genio-510-or-700-system-on-module/",
+    "title": "CRA-compliant Grinn Genioboard Edge AI SBC features MediaTek Genio 510 or 700 System-on-module",
+    "fetched_on": "2025-11-11T04:26:18.256110+00:00",
+    "content": "Grinn has launched a credit card-sized SBC powered by its MediaTek Genio 510 or Genio 700 Cortex-A78/A55 SoM, and designed for Edge AI applications with support for the Thistle Security Platform via … [+3587 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Genio",
+      "Edge",
+      "Grinn",
+      "SBC",
+      "SoM",
+      "chars",
+      "Genioboard",
+      "Thistle",
+      "Security",
+      "Platform"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/news/world/maldives-inaugurates-airport-built-with-assistance-from-india/article70261418.ece",
+    "title": "Maldives inaugurates airport built with assistance from India",
+    "fetched_on": "2025-11-11T04:26:18.256110+00:00",
+    "content": "Maldives President Mohamed Muizzu has inaugurated the Hanimaadhoo International Airport, a project funded under the Indian governments Line of Credit assistance, calling it a gateway to prosperity fo… [+2263 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Maldives",
+      "airport",
+      "India",
+      "President",
+      "Mohamed",
+      "Muizzu",
+      "Hanimaadhoo",
+      "International",
+      "Indian"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/world/tanzania-maasai-fear-vw-greenwashing-carbon-credit-scheme/article",
+    "title": "Tanzania Maasai fear VW ‘greenwashing’ carbon credit scheme",
+    "fetched_on": "2025-11-11T04:26:18.256110+00:00",
+    "content": "Tanzania's Maasai fear a carbon credit scheme linked to VW could destroy their community's way of life - Copyright AFP TONY KARUMBA\r\nNamnyak, a Maasai herder in north Tanzania, fears a carbon credit … [+4313 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Maasai",
+      "Tanzania",
+      "credit",
+      "carbon",
+      "Copyright",
+      "Namnyak",
+      "chars",
+      "AFP",
+      "TONY",
+      "KARUMBA"
+    ]
   }
 ]
