@@ -153096,5 +153096,125 @@
       "Posted",
       "blackout"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-10/tsmc-monthly-sales-growth-slows-as-ai-demand-moderates",
+    "title": "TSMC Posts Slowest Growth in 18 Months Amid AI Bubble Debate",
+    "fetched_on": "2025-11-11T03:15:04.715216+00:00",
+    "content": "Taiwan Semiconductor Manufacturing Co. posted its slowest monthly revenue growth in more than a year, lending credence to concerns that the artificial intelligence stock rally isn’t justified by the industry’s business prospects.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TSMC",
+      "Months",
+      "Growth",
+      "Slowest",
+      "Posts",
+      "Amid",
+      "Bubble",
+      "Debate",
+      "Taiwan",
+      "Semiconductor"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-11/braskem-bak-owner-novonor-is-said-close-to-deal-to-sell-stake-to-ig4",
+    "title": "Braskem Owner Novonor Is Close to a Deal to Sell Its Stake to IG4",
+    "fetched_on": "2025-11-11T03:15:03.925352+00:00",
+    "content": "Novonor SA is close to a deal with creditors to sell its controlling stake in Braskem SA, one of the world’s largest petrochemical companies, to a fund run by asset manager IG4 Capital, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Close",
+      "Sell",
+      "Novonor",
+      "Deal",
+      "Braskem",
+      "Stake",
+      "Capital",
+      "Owner",
+      "companies",
+      "manager"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-11/kkr-singtel-group-seek-3-8-billion-loan-for-stt-gdc-buyout",
+    "title": "KKR, Singtel Group Seek $3.8 Billion Loan for STT GDC Buyout",
+    "fetched_on": "2025-11-11T03:15:03.925369+00:00",
+    "content": "A consortium comprising of KKR &amp; Co. and Singapore Telecommunications Ltd. is in talks with banks for a loan of around S$5 billion ($3.8 billion) to support its proposed purchase of ST Telemedia Global Data Centres, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KKR",
+      "Billion",
+      "Singtel",
+      "Seek",
+      "Centres",
+      "Loan",
+      "Group",
+      "STT",
+      "GDC",
+      "Buyout"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/television/it-welcome-to-derry-episode-3-stephen-king-easter-eggs-slingshot",
+    "title": "IT: Welcome To Derry Episode 3 Has Lots Of Stephen King Easter Eggs, And I Love That Key Weapon Reveal The Most",
+    "fetched_on": "2025-11-11T03:15:02.998561+00:00",
+    "content": "Spoilers below for anyone who hasn’t yet watched the third episode of IT: Welcome to Derry on HBO or via HBO Max subscription, so be warned!\r\nMore IT: Welcome To Derry Easter Eggs\r\n(Image credit: HBO… [+7529 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Eggs",
+      "Derry",
+      "Episode",
+      "HBO",
+      "Easter",
+      "Lots",
+      "Stephen",
+      "King",
+      "Love",
+      "Key"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/291b075f40f05e96",
+    "title": "OpenAI Continues to Push for Government Help in AI Growth",
+    "fetched_on": "2025-11-11T03:15:02.998561+00:00",
+    "content": "OpenAIs CEO wants the U.S. to expand eligibility for a tech-focused tax credit.\r\nIn a post on the social media platform X, Sam Altman pushed the federal government to expand eligibility for a Chip Ac… [+133 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Continues",
+      "Push",
+      "Growth",
+      "CEO",
+      "expand",
+      "eligibility",
+      "Government",
+      "credit",
+      "tech-focused",
+      "tax"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/why-does-kim-kardashian-want-to-be-a-lawyer-5487702/",
+    "title": "Why Does Kim Kardashian Want to Be a Lawyer? Here’s Her True Inspiration",
+    "fetched_on": "2025-11-11T03:15:02.998561+00:00",
+    "content": "Image Credit: Disney\r\nKim Kardashian may be one of the worlds most powerful fashion and media moguls, but her true passion is the law. Now that shes unsuccessfully completed the California State Bar … [+3079 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lawyer",
+      "Kim",
+      "Kardashian",
+      "True",
+      "Credit",
+      "Disney",
+      "Inspiration",
+      "Image",
+      "Bar",
+      "chars"
+    ]
   }
 ]
