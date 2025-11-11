@@ -153556,5 +153556,43 @@
       "chars",
       "fear"
     ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/ireland/2025/11/10/harris-promises-to-use-eu-loans-if-military-funding-is-not-forthcoming/",
+    "title": "Harris promises to use EU loans if military funding is not forthcoming",
+    "fetched_on": "2025-11-11T06:32:40.591502+00:00",
+    "content": "Tánaiste and Minister for Defence Simon Harris has signalled he is prepared to avail of a 150 billion European Union loan facility to increase Irish military capabilities if the required funding is n… [+3626 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Harris",
+      "funding",
+      "Tánaiste",
+      "Minister",
+      "Defence",
+      "Simon",
+      "European",
+      "Union",
+      "Irish"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/ubs-delays-migration-of-some-superrich-credit-suisse-clients-sources-say-4348127",
+    "title": "UBS delays migration of some super-rich Credit Suisse clients, sources say",
+    "fetched_on": "2025-11-11T06:33:03.603083+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UBS",
+      "Credit",
+      "Suisse",
+      "clients",
+      "sources",
+      "delays",
+      "migration",
+      "super-rich"
+    ]
   }
 ]
