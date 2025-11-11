@@ -157429,5 +157429,84 @@
       "retailer",
       "arrangements"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9280f0eec247d619",
+    "title": "Visa, Mastercard to cut fees, let retailers reject certain cards",
+    "fetched_on": "2025-11-11T23:19:05.486366+00:00",
+    "content": "Visa Inc.\r\nand \r\nMastercard Inc.\r\nreached a \r\ndeal with retailers\r\nto reduce some of their fees and give merchants more leeway to reject customers who use \r\ncertain credit cards\r\nThis story appeared … [+41 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mastercard",
+      "Visa",
+      "Inc.",
+      "fees",
+      "retailers",
+      "reject",
+      "cards",
+      "cut",
+      "chars",
+      "reached"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2025/11/10/world-news/from-the-worlds-first-ever-bailout-by-the-romans-to-33-interest-loans-5000-years-ago-humans-have-pretty-much-always-been-in-financial-crisis/",
+    "title": "From the world’s first-ever bailout by the Romans to 33% interest loans 5,000 years ago, humans have pretty much always been in financial crisis",
+    "fetched_on": "2025-11-11T23:19:05.486366+00:00",
+    "content": "The first recorded personal name in human history didnt belong to a king or a priest. It belonged to a Sumerian brewer named Kashim and his name was inscribed on a clay tablet to document a loan hed … [+8144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Romans",
+      "interest",
+      "years",
+      "ago",
+      "priest",
+      "world",
+      "first-ever",
+      "bailout",
+      "pretty",
+      "financial"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/indira-g-wilson-talks-about-starring-in-the-sports-horror-movie-him-and-the-digital-age/article",
+    "title": "Indira G. Wilson talks about starring in the sports horror movie ‘HIM,’ and the digital age",
+    "fetched_on": "2025-11-11T23:19:05.486366+00:00",
+    "content": "Indira G. Wilson. Photo Credit: James DePietro.\r\nActress Indira G. Wilson chatted about starring in the sports horror movie “HIM,” and the digital age.\r\nIn the film “HIM,” former college wide-receive… [+3336 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wilson",
+      "Indira",
+      "movie",
+      "starring",
+      "sports",
+      "horror",
+      "digital",
+      "age",
+      "Credit",
+      "James"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/tencent-plans-carbon-credit-alliance-to-boost-market-supply--bloomberg-93CH-4349821",
+    "title": "Tencent plans carbon credit alliance to boost market supply - Bloomberg",
+    "fetched_on": "2025-11-11T23:19:27.893140+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Tencent",
+      "supply",
+      "plans",
+      "carbon",
+      "credit",
+      "alliance",
+      "boost",
+      "market"
+    ]
   }
 ]
