@@ -157728,5 +157728,100 @@
       "Bankruptcy",
       "Payment"
     ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-11-11/non-bank-sector-in-asic-gaze-as-customers-chase-property-loan/105995184",
+    "title": "Non-bank sector under the radar as customers chase property loans",
+    "fetched_on": "2025-11-12T03:13:23.769773+00:00",
+    "content": "The size and growth rate of Australia's non-bank lenders are raising some analysts' eyebrows.\r\nIncentivised by interest rate cuts and a record-breaking property market, non-bank lenders are scramblin… [+6755 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Australia",
+      "lenders",
+      "Non-bank",
+      "eyebrows",
+      "property",
+      "rate",
+      "sector",
+      "radar",
+      "customers",
+      "chase"
+    ]
+  },
+  {
+    "source": "The Straits Times [NewsAPI]",
+    "url": "https://www.straitstimes.com/business/companies-markets/kkr-singtel-group-seek-5-billion-loan-for-stt-gdc-buyout",
+    "title": "KKR, Singtel group seek $5 billion loan for STT GDC buyout: Sources",
+    "fetched_on": "2025-11-12T03:13:23.769773+00:00",
+    "content": "Singapore - A consortium comprising KKR and Singtel is in talks with banks for a loan of around $5 billion to support its proposed purchase of ST Telemedia Global Data Centres (STT GDC), according to… [+1434 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "STT",
+      "GDC",
+      "chars",
+      "Sources",
+      "Singapore",
+      "Centres",
+      "KKR",
+      "Singtel",
+      "billion",
+      "Telemedia"
+    ]
+  },
+  {
+    "source": "Rlsbb.to [NewsAPI]",
+    "url": "https://post.rlsbb.to/dmv-s01e05-720p-hdtv-x264-syncopy/",
+    "title": "DMV S01E05 720p HDTV x264-SYNCOPY",
+    "fetched_on": "2025-11-12T03:13:23.769773+00:00",
+    "content": "Season 1, Episode 05 Stick ShiftWhen Ceci accuses Colette of only being kind for the credit, Colette anonymously gives Noa the perfect gift. \r\nLinks: HOMEPAGE  TVM\r\nDMV.S01E05.720p.HDTV.x264-SYNCOPYM… [+90 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DMV",
+      "HDTV",
+      "Season",
+      "Episode",
+      "Colette",
+      "Stick",
+      "Ceci",
+      "Noa",
+      "credit",
+      "gift"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/enquest-secures-800m-based-lending-153117442.html",
+    "title": "EnQuest secures $800m reserve-based lending package",
+    "fetched_on": "2025-11-12T03:13:53.408611+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EnQuest",
+      "secures",
+      "reserve-based",
+      "package",
+      "lending"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/top-finanzhaeuser-aktien-von-deutsche-bank-unicredit-barclays-co-im-visier-die-20-groessten-europaeischen-banken-9899207",
+    "title": "Aktien von Deutsche Bank, UniCredit, Barclays & Co. im Visier: Die 20 größten europäischen Banken",
+    "fetched_on": "2025-11-12T03:13:53.661168+00:00",
+    "content": "<p>Von Großbritannien über Frankreich bis nach Italien - das sind 2025 die größten Banken in Europa, gewichtet nach dem Vermögenswert. Stand der Daten ist der 09.04.2025.</p><div class=\"text-center font-bold\"><a href=\"https://www.finanzen.net/top_ranking/top_ranking_detail.asp?inRanking=12\"></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Barclays",
+      "Die",
+      "Banken",
+      "Bank",
+      "Visier",
+      "Italien",
+      "Europa",
+      "Vermögenswert",
+      "von",
+      "UniCredit"
+    ]
   }
 ]
