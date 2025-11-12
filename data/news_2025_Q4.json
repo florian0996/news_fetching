@@ -157823,5 +157823,65 @@
       "von",
       "UniCredit"
     ]
+  },
+  {
+    "source": "Jalopnik [NewsAPI]",
+    "url": "https://www.jalopnik.com/2022588/rolls-royce-spectre-5000-dollar-ev-lease-credit/",
+    "title": "Sure, The Rolls-Royce Spectre Costs $400,000, But At Least It Now Comes With A $5,000 EV Lease Credit",
+    "fetched_on": "2025-11-12T04:26:10.879774+00:00",
+    "content": "When Republicans tossed the electric vehicle tax credit to give the oil and gas industry another $40 billion in subsidies, we knew it would probably hurt mainstream automakers such as Ford, General M… [+1418 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Costs",
+      "Ford",
+      "General",
+      "Credit",
+      "Spectre",
+      "Lease",
+      "Republicans",
+      "billion",
+      "subsidies"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/5-smart-ways-to-save-money-through-a-personal-loan-interest-rates-financial-planning-11762770852569.html",
+    "title": "5 smart ways to save money through a personal loan",
+    "fetched_on": "2025-11-12T04:26:10.879774+00:00",
+    "content": "When used wisely, a personal loan can be more than just a means of borrowing. It can be a strategic tool to safeguard and grow your finances. The most important factor in such cases is nothing but pr… [+4285 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "personal",
+      "loan",
+      "smart",
+      "wisely",
+      "borrowing",
+      "save",
+      "money",
+      "chars",
+      "finances",
+      "strategic"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/10/nyt-mini-crossword-clues-and-answers-for-tuesday-november-11/",
+    "title": "NYT Mini Crossword Clues And Answers For Tuesday, November 11",
+    "fetched_on": "2025-11-12T04:26:10.879774+00:00",
+    "content": "How to solve today's Mini crossword.\r\nCredit: NYT\r\nIts Veterans Day, so a kudos goes out to all you veterans who play the Mini Crossword or any other puzzle games and happen to be reading this post! … [+2867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "Mini",
+      "Tuesday",
+      "Crossword",
+      "NYT",
+      "Clues",
+      "Answers",
+      "Veterans",
+      "Day",
+      "solve"
+    ]
   }
 ]
