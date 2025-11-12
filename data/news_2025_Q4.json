@@ -161008,5 +161008,100 @@
       "Avalanche",
       "Small"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-12/scotland-gets-first-credit-ratings-to-pave-way-for-bond-sale",
+    "title": "Scotland Gets Its First Credit Ratings to Pave Way for Bond Sale",
+    "fetched_on": "2025-11-12T22:20:41.104934+00:00",
+    "content": "Scotland was assigned its first credit ratings, a critical step on the country’s road to a debut bond sale as it seeks to attract investors during a torrid time for the UK’s finances.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Ratings",
+      "Bond",
+      "Sale",
+      "Scotland",
+      "Pave",
+      "finances",
+      "assigned",
+      "critical",
+      "step"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/tencent-mulls-carbon-credit-alliance-to-boost-supply",
+    "title": "Tencent Mulls Carbon-Credit Alliance to Boost Supply",
+    "fetched_on": "2025-11-12T22:20:40.043114+00:00",
+    "content": "(Bloomberg) Tencent Holdings Ltd. is in talks with companies in and outside China to form an alliance of carbon credit buyers aimed at increasing the supply, according to an official at the companys … [+3693 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Tencent",
+      "Supply",
+      "chars",
+      "Alliance",
+      "Mulls",
+      "Boost",
+      "Holdings",
+      "Ltd.",
+      "China"
+    ]
+  },
+  {
+    "source": "PetaPixel [NewsAPI]",
+    "url": "https://petapixel.com/2025/11/11/nikon-deserves-more-credit-for-addressing-a-major-weakness-in-the-nikon-z-system/",
+    "title": "Nikon Deserves More Credit for Addressing a Major Weakness in the Nikon Z System",
+    "fetched_on": "2025-11-12T22:20:40.043114+00:00",
+    "content": "There has been a lot of big news in the photography space in the past month, so it’s perhaps not too surprising that Nikon’s pair of new APS-C lenses has flown a bit under the radar. That’s a shame b… [+3352 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nikon",
+      "Deserves",
+      "Credit",
+      "Addressing",
+      "Major",
+      "Weakness",
+      "System",
+      "APS-C",
+      "month",
+      "radar"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/galaxy-z-trifold-singapore-release_id175658",
+    "title": "Great Galaxy Z TriFold news lands, courtesy of a government agency",
+    "fetched_on": "2025-11-12T22:20:40.043114+00:00",
+    "content": "Galaxy Z TriFold | Image Credit - UBUSUNEWS\r\nThe Galaxy Z TriFold has been certified by Singapore's Infocomm Media Development Authority (IMDA), indicating an imminent launch. The device, referred to… [+2054 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "IMDA",
+      "TriFold",
+      "Image",
+      "Credit",
+      "UBUSUNEWS",
+      "Authority",
+      "Singapore",
+      "Infocomm",
+      "Media"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/va-loans-help-veterans-achieve-141959278.html",
+    "title": "How VA loans help veterans achieve the American dream",
+    "fetched_on": "2025-11-12T22:20:59.156096+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "American",
+      "dream",
+      "loans",
+      "veterans",
+      "achieve"
+    ]
   }
 ]
