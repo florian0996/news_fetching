@@ -162283,5 +162283,142 @@
       "Cards",
       "Bitcoin"
     ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/marriott-sonder-ask-credit-card-companies-refund-guests-chargeback-2025-11",
+    "title": "The Marriott-Sonder debacle continues: Marriott tells booted guests to beg their credit card companies for a refund",
+    "fetched_on": "2025-11-13T09:24:40.053834+00:00",
+    "content": "Marriott is asking guests who were booted out of Sonder properties to go to their credit card companies for refunds.\r\nOn Sunday, the hotel chain abruptly ended its licensing agreement with Sonder Hol… [+2231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marriott",
+      "credit",
+      "card",
+      "companies",
+      "Sonder",
+      "booted",
+      "guests",
+      "continues",
+      "Sunday",
+      "Hol"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/107901/clay-technologies-and-pepper-advantage-team-to-launchd-credit-management-startup-paydown",
+    "title": "Clay Technologies and Pepper Advantage team to launchd credit management startup Paydown",
+    "fetched_on": "2025-11-13T09:24:40.053834+00:00",
+    "content": "Clay Technologies (Clay), a platform that helps tech-enabled businesses set up and fund own-label lending programmes, and Pepper Advantage, a global credit management and technology company, announce… [+2174 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pepper",
+      "Clay",
+      "Technologies",
+      "Advantage",
+      "announce",
+      "chars",
+      "credit",
+      "management",
+      "Paydown",
+      "programmes"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/pressarticle/107900/lhv-bank-appoints-callum-livingstone-as-lending-director",
+    "title": "LHV Bank appoints Callum Livingstone as lending director",
+    "fetched_on": "2025-11-13T09:24:40.053834+00:00",
+    "content": "LHV Bank has strengthened its UK lending team with the appointment of Callum Livingstone as Lending Director, further enhancing its capability to support brokers and business clients nationwide.Based… [+2392 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Livingstone",
+      "LHV",
+      "Bank",
+      "Callum",
+      "lending",
+      "director",
+      "chars",
+      "nationwide.Based",
+      "appoints",
+      "strengthened"
+    ]
+  },
+  {
+    "source": "Louder [NewsAPI]",
+    "url": "https://www.loudersound.com/bands-artists/concerts-shows/joe-cocker-mad-dogs-englishmen",
+    "title": "\"The bank robber seemed like a nice bloke. Said he had all my albums\": The story of the wild tour that sent Joe Cocker over the edge",
+    "fetched_on": "2025-11-13T09:24:40.053834+00:00",
+    "content": "This feature originally appeared in Classic Rock 181, published in March 2013. (Image credit: Future)\r\nThe Hotel de Rome, in the former East Berlin, is situated in the plushest part of Germany’s most… [+24254 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "bloke",
+      "bank",
+      "robber",
+      "nice",
+      "Rock",
+      "March",
+      "Future",
+      "Joe",
+      "Cocker",
+      "Classic"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/real-time-payments/2025/fednow-chief-credits-bank-feedback-for-momentum/",
+    "title": "FedNow Chief Credits Bank Feedback for Momentum",
+    "fetched_on": "2025-11-13T09:24:40.053834+00:00",
+    "content": "The FedNow® Service entered the market in 2023 as the Federal Reserves always-on payment network, and its development has not slowed.\r\nNothing stays still, and certainly not in payments, Chief FedNow… [+5720 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Service",
+      "Credits",
+      "Bank",
+      "Feedback",
+      "Momentum",
+      "Federal",
+      "Reserves",
+      "Chief",
+      "network",
+      "slowed"
+    ]
+  },
+  {
+    "source": "Reuters [GNews]",
+    "url": "https://www.reuters.com/business/viola-credit-plans-347-million-debt-fund-european-tech-firms-2025-11-12/",
+    "title": "Viola Credit plans $347 million debt fund for European tech firms",
+    "fetched_on": "2025-11-13T09:24:57.732334+00:00",
+    "content": "Alternative credit manager Viola Credit said on Wednesday it is planning to raise up to 300 million euros ($347.3 million) for a debt fund focused on European technology companies, which are looking for capital beyond equity funding.",
+    "platforms_mentioned": [],
+    "entity": "Viola Credit",
+    "keywords": [
+      "Credit",
+      "million",
+      "European",
+      "Viola",
+      "Alternative",
+      "Wednesday",
+      "debt",
+      "fund",
+      "plans",
+      "euros"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/experian-releases-score-credit-cashflow-213418376.html",
+    "title": "Experian releases new score with credit and cashflow data",
+    "fetched_on": "2025-11-13T09:25:09.199241+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Experian",
+      "data",
+      "releases",
+      "score",
+      "credit",
+      "cashflow"
+    ]
   }
 ]
