@@ -1,6 +1,24 @@
 {
-  "2025-11-13": {
+  "2025-11-14": {
     "status": "no company in the news"
+  },
+  "2025-11-13": {
+    "articles": [
+      {
+        "title": "Viola Credit plans $347 million debt fund for European tech firms",
+        "url": "https://www.reuters.com/business/viola-credit-plans-347-million-debt-fund-european-tech-firms-2025-11-12/",
+        "platforms_mentioned": [
+          "Viola Credit"
+        ]
+      },
+      {
+        "title": "Viola Credit plans $347 million debt fund for European tech firms",
+        "url": "https://biztoc.com/x/3db9e0f6bac6958a",
+        "platforms_mentioned": [
+          "Viola Credit"
+        ]
+      }
+    ]
   },
   "2025-11-12": {
     "status": "no company in the news"
