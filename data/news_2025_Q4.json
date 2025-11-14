@@ -166481,5 +166481,85 @@
       "Weigh",
       "Experts"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-to-soon-allocate-rs-2000-cr-for-credit-guarantee-scheme-for-exporters/articleshow/125295873.cms",
+    "title": "Govt to soon allocate Rs 2,000 cr for Credit Guarantee Scheme for Exporters",
+    "fetched_on": "2025-11-14T09:23:44.117214+00:00",
+    "content": "The government will soon allocate Rs 2,000 crore for the Credit Guarantee Scheme for Exporters announced by the Union Cabinet on Wednesday, sources said.National Credit Guarantee Trustee Company Limi… [+2148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Guarantee",
+      "Credit",
+      "Scheme",
+      "Exporters",
+      "allocate",
+      "Wednesday",
+      "Limi",
+      "chars",
+      "Union",
+      "Cabinet"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7a319288a423d7cc",
+    "title": "Credit Unions Can Fulfill Trump Aims to Revive Communities",
+    "fetched_on": "2025-11-14T09:23:44.117214+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the US government shutdown end? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps 50-year mortgage … [+691 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Communities",
+      "return",
+      "false",
+      "Unions",
+      "Fulfill",
+      "Aims",
+      "Revive"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/3a00f33979612f08",
+    "title": "Google Sues Chinese Hackers Behind 'Lighthouse' Phishing Scheme Allegedly Targeting Millions Of US Credit Cards",
+    "fetched_on": "2025-11-14T09:23:44.117214+00:00",
+    "content": "Alphabets Google (NASDAQ:GOOGL) (NASDAQ:GOOG) has filed a lawsuit against a Chinese cybercriminal network for orchestrating extensive text-message phishing attacks. Googles Lawsuit Under RICO ActThe … [+142 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASDAQ",
+      "Lighthouse",
+      "GOOGL",
+      "GOOG",
+      "Chinese",
+      "Phishing",
+      "Sues",
+      "Hackers",
+      "Scheme",
+      "Allegedly"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-cards/2025/here-are-the-five-reasons-consumers-want-credit-line-increases/",
+    "title": "Here Are the Five Reasons Consumers Want Credit Line Increases",
+    "fetched_on": "2025-11-14T09:23:44.117214+00:00",
+    "content": "Credit has become the cushion many consumers need to handle daily expenses and unexpected costs. For some, a credit card is a budgeting tool, for others a lifeline when cash runs short. \r\nAccording t… [+3344 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Consumers",
+      "Reasons",
+      "Line",
+      "Increases",
+      "Credit",
+      "costs",
+      "cushion",
+      "handle",
+      "daily",
+      "expenses"
+    ]
   }
 ]
