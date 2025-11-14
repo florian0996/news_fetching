@@ -165678,5 +165678,105 @@
       "breaches",
       "received"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-14/pakistan-bond-gains-to-extend-with-global-reentry-investors-say",
+    "title": "Pakistan Bond Gains to Extend With Global Reentry, Investors Say",
+    "fetched_on": "2025-11-14T03:14:33.219618+00:00",
+    "content": "Pakistan’s dollar bonds will likely extend their rally as credit-rating upgrades and the government’s plans to re-enter global debt markets bolster sentiment, according to investors.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reentry",
+      "Pakistan",
+      "Extend",
+      "Global",
+      "Investors",
+      "Gains",
+      "sentiment",
+      "Bond",
+      "bonds",
+      "dollar"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-14/china-property-woes-put-1-billion-of-loans-at-risk-in-just-days",
+    "title": "China Property Loans of $1 Billion Risk Default in Latest Scare",
+    "fetched_on": "2025-11-14T03:14:33.219675+00:00",
+    "content": "Banks in Asia are getting caught in the latest flare-ups in China’s real estate crisis, as more than $1 billion in property-backed loans is at risk of default unless extension or refinancing deals can be reached.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "China",
+      "Loans",
+      "Risk",
+      "Default",
+      "Latest",
+      "Property",
+      "Scare",
+      "Banks",
+      "Asia"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8668c65389b83aa2",
+    "title": "Australia Watchdog Warns Private Credit With Tougher Action",
+    "fetched_on": "2025-11-14T03:14:32.368659+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the US Mint stop making pennies? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the government shutdown… [+755 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Action",
+      "return",
+      "false",
+      "Watchdog",
+      "Warns",
+      "Private",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/odoo-addon-account-credit-control/18.0.2.0.0.3/",
+    "title": "odoo-addon-account-credit-control 18.0.2.0.0.3",
+    "fetched_on": "2025-11-14T03:14:32.368659+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "load",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension",
+      "network",
+      "issues"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/11/12/when-will-the-house-vote-on-the-shutdown/",
+    "title": "When Will the House Vote on the Shutdown? Updates Amid Government Pause",
+    "fetched_on": "2025-11-14T03:14:32.368659+00:00",
+    "content": "Image Credit: Getty Images\r\nThe 2025 government shutdown gradually spread panic across the United States as it dragged on for more than 40 days. From October 1 through mid-November, certain services … [+2524 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "House",
+      "Vote",
+      "Shutdown",
+      "Government",
+      "Credit",
+      "Getty",
+      "Amid",
+      "Pause",
+      "United",
+      "States"
+    ]
   }
 ]
