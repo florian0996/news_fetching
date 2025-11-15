@@ -1,10 +1,10 @@
 [
   {
-    "source": "Bloomberg – Politics [RSS]",
+    "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-14/harvard-gets-a-36-million-bofa-guarantee-that-trump-demanded",
     "title": "Harvard Gets a $36 Million BofA Guarantee That Trump Demanded",
-    "fetched_on": "2025-11-15T03:08:12.004376+00:00",
-    "content": "Bank of America Corp. provided a letter of credit for Harvard University, a step required by the Trump administration for it to participate in the federal student aid program after officials alleged the US's richest school is in a position of financial instability.",
+    "fetched_on": "2025-11-15T04:24:16.762089+00:00",
+    "content": "Bank of America Corp. provided a letter of credit for Harvard University, a step required by the Trump administration for it to participate in the federal student aid program after officials alleged the US\u2019s richest school is in a position of financial instability.",
     "platforms_mentioned": [],
     "keywords": [
       "Million",
@@ -20,14 +20,14 @@
     ]
   },
   {
-    "source": "Bloomberg – Technology [RSS]",
+    "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-14/tether-plans-dramatic-expansion-in-commodity-trade-lending",
-    "title": "Tether Plans ‘Dramatic' Expansion in Commodity-Trade Lending",
-    "fetched_on": "2025-11-15T03:08:12.311361+00:00",
-    "content": "Stablecoin giant Tether Holdings SA plans to expand “dramatically” in lending to commodities traders after extending roughly $1.5 billion worth of credit to the sector, Chief Executive Officer Paolo Ardoino said.",
+    "title": "Tether Plans \u2018Dramatic\u2019 Expansion in Commodity-Trade Lending",
+    "fetched_on": "2025-11-15T04:24:17.189913+00:00",
+    "content": "Stablecoin giant Tether Holdings SA plans to expand \u201cdramatically\u201d in lending to commodities traders after extending roughly $1.5 billion worth of credit to the sector, Chief Executive Officer Paolo Ardoino said.",
     "platforms_mentioned": [],
     "keywords": [
-      "Dramatic’",
+      "Dramatic\u2019",
       "Chief",
       "dramatically",
       "Tether",
@@ -40,11 +40,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Economics [RSS]",
+    "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-14/s-p-raises-south-africa-s-rating-for-first-time-in-two-decades",
-    "title": "S&amp;P Raises South Africa's Rating for First Time in Two Decades",
-    "fetched_on": "2025-11-15T03:08:12.445983+00:00",
-    "content": "S&amp;P Global Ratings lifted South Africa's credit rating for the first time since 2005, citing the nation's improving growth and fiscal trajectory.",
+    "title": "S&amp;P Raises South Africa\u2019s Rating for First Time in Two Decades",
+    "fetched_on": "2025-11-15T04:24:17.405560+00:00",
+    "content": "S&amp;P Global Ratings lifted South Africa\u2019s credit rating for the first time since 2005, citing the nation\u2019s improving growth and fiscal trajectory.",
     "platforms_mentioned": [],
     "keywords": [
       "Africa",
@@ -60,11 +60,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Economics [RSS]",
+    "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-13/sticky-philippine-loan-rates-blunt-impact-of-central-bank-cuts",
     "title": "Sticky Philippine Loan Rates Blunt Impact of Central Bank Cuts",
-    "fetched_on": "2025-11-15T03:08:12.446130+00:00",
-    "content": "The Philippine central bank has slashed its key policy rate by almost two percentage points to 4.75% since last year, but the price of a home loan from the nation's top banks has barely budged.",
+    "fetched_on": "2025-11-15T04:24:17.405705+00:00",
+    "content": "The Philippine central bank has slashed its key policy rate by almost two percentage points to 4.75% since last year, but the price of a home loan from the nation\u2019s top banks has barely budged.",
     "platforms_mentioned": [],
     "keywords": [
       "Philippine",
@@ -80,10 +80,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-14/blackrock-joins-marriott-in-getting-caught-up-in-sonder-collapse",
     "title": "BlackRock Joins Marriott in Getting Caught Up in Sonder Collapse",
-    "fetched_on": "2025-11-15T03:08:12.571193+00:00",
+    "fetched_on": "2025-11-15T04:24:17.621514+00:00",
     "content": "Lodging firm Sonder Holdings Inc. entered liquidation in Delaware on Friday, disclosing several funds under BlackRock Inc. as its creditors.",
     "platforms_mentioned": [],
     "keywords": [
@@ -100,15 +100,15 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-13/nubank-says-ai-helped-the-firm-boost-clients-credit-card-limits",
-    "title": "Nubank Says AI Helped Boost Clients' Credit-Card Limits",
-    "fetched_on": "2025-11-15T03:08:12.571342+00:00",
+    "title": "Nubank Says AI Helped Boost Clients\u2019 Credit-Card Limits",
+    "fetched_on": "2025-11-15T04:24:17.621662+00:00",
     "content": "Nu Holdings Ltd. said artificial intelligence features it started to deploy in Brazil helped the fintech increase credit-card limits for some clients, boosting third-quarter revenue and profit.",
     "platforms_mentioned": [],
     "keywords": [
       "Boost",
-      "Clients’",
+      "Clients\u2019",
       "Holdings",
       "Limits",
       "Nubank",
@@ -123,8 +123,8 @@
     "source": "The Jerusalem Post [NewsAPI]",
     "url": "https://www.jpost.com/israel-news/defense-news/article-873832",
     "title": "Southern Lebanon explosion caused by Hezbollah weapons smugglers, not IAF strike, Adraee confirms",
-    "fetched_on": "2025-11-15T03:08:11.118978+00:00",
-    "content": "Hezbollah weapons, in an image shared by the IDF, November 13, 2025. (photo credit: IDF SPOKESPERSON The IDF confirmed an explosion in southern Lebanon was caused by a Hezbollah smuggling operation,... [+3637 chars]",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "Hezbollah weapons, in an image shared by the IDF, November 13, 2025. (photo credit: IDF SPOKESPERSON\r\nThe IDF confirmed an explosion in southern Lebanon was caused by a Hezbollah smuggling operation,\u2026 [+3637 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "November",
@@ -143,8 +143,8 @@
     "source": "Slickdeals.net [NewsAPI]",
     "url": "https://slickdeals.net/f/18805378-prime-fire-tv-stick-2-credit-for-watching-l-oreal-paris-ad",
     "title": "Prime Fire TV Stick $2 Credit for Watching L'Oreal Paris Ad",
-    "fetched_on": "2025-11-15T03:08:11.118978+00:00",
-    "content": "I got the L'oreal ($2), Maybelliene ($3) and Skippy peanut butter ($3).To replicate this, press the home button, then up, then scroll right. To refresh ads, press the home button and repeat. (I opene... [+113 chars]",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "I got the L'oreal ($2), Maybelliene ($3) and Skippy peanut butter ($3).To replicate this, press the home button, then up, then scroll right. To refresh ads, press the home button and repeat. (I opene\u2026 [+113 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Maybelliene",
@@ -163,8 +163,8 @@
     "source": "BusinessLine [NewsAPI]",
     "url": "https://www.thehindubusinessline.com/economy/renewable-energy-financing-sees-a-boost-with-outstanding-loans-up-2x-y-o-y-as-of-september/article70275543.ece",
     "title": "Renewable energy financing sees a boost with outstanding loans up 2x y-o-y as of September",
-    "fetched_on": "2025-11-15T03:08:11.118978+00:00",
-    "content": "Indian banks are bullish on Indias renewable energy (RE) sector with loans outstanding to the sector as of September, more than doubling year-on-year (y-o-y). Data from RBI shows that the outstandin... [+3228 chars]",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "Indian banks are bullish on Indias renewable energy (RE) sector with loans outstanding to the sector as of September, more than doubling year-on-year (y-o-y).\r\nData from RBI shows that the outstandin\u2026 [+3228 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "September",
@@ -182,9 +182,9 @@
   {
     "source": "Boston Herald [NewsAPI]",
     "url": "https://www.bostonherald.com/2025/11/13/robert-kraft-gives-lot-of-credit-for-drake-mayes-success-to-josh-mcdaniels/",
-    "title": "Robert Kraft gives ‘lot of credit' for Drake Maye's success to Josh McDaniels",
-    "fetched_on": "2025-11-15T03:08:11.118978+00:00",
-    "content": "In his first year working alongside Josh McDaniels, Patriots quarterback Drake Maye has elevated his game from promising to MVP-caliber. Robert Kraft believes that's not a coincidence. In an interv... [+1990 chars]",
+    "title": "Robert Kraft gives \u2018lot of credit\u2019 for Drake Maye\u2019s success to Josh McDaniels",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "In his first year working alongside Josh McDaniels, Patriots quarterback Drake Maye has elevated his game from promising to MVP-caliber.\r\nRobert Kraft believes that\u2019s not a coincidence.\r\nIn an interv\u2026 [+1990 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Drake",
@@ -196,7 +196,7 @@
       "McDaniels",
       "lot",
       "MVP-caliber",
-      "credit’"
+      "credit\u2019"
     ]
   },
   {
@@ -242,7 +242,7 @@
   {
     "source": "Wnd.com [NewsAPI]",
     "url": "https://www.wnd.com/2025/11/before-trump-became-racist/",
-    "title": "Before Trump became a ‘racist'",
+    "title": "Before Trump became a \u2018racist'",
     "fetched_on": "2025-11-15T03:08:11.118978+00:00",
     "content": "Trump Derangement Syndrome prevents those who dislike President Donald Trump from giving him credit for virtually anything. In the first nine months of Trump 2.0, his detractors failed to credit hi... [+4221 chars]",
     "platforms_mentioned": [],
@@ -252,7 +252,7 @@
       "Syndrome",
       "President",
       "Donald",
-      "racist’",
+      "racist\u2019",
       "credit",
       "prevents",
       "dislike",
@@ -323,7 +323,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/10/why-the-trump-administration-wants-to-allow-crypto-backed-mortgages.html",
     "title": "The Trump administration wants to allow crypto-backed mortgages. Here's why",
-    "fetched_on": "2025-11-15T03:08:28.791036+00:00",
+    "fetched_on": "2025-11-15T04:24:43.670169+00:00",
     "content": "Fannie Mae and Freddie Mac could allow crypto holdings to be included in mortgage risk assessments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -343,7 +343,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
     "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
-    "fetched_on": "2025-11-15T03:08:28.791051+00:00",
+    "fetched_on": "2025-11-15T04:24:43.670183+00:00",
     "content": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,8 +363,8 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-15T03:08:28.791102+00:00",
-    "content": "More buyers are turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
+    "fetched_on": "2025-11-15T04:24:43.670246+00:00",
+    "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
       "Fed",
@@ -383,8 +383,8 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-15T03:08:28.791109+00:00",
-    "content": "Here's a look at all of the ways the Fed decision could affect your finances.",
+    "fetched_on": "2025-11-15T04:24:43.670253+00:00",
+    "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
       "mortgage",
@@ -402,8 +402,8 @@
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
-    "title": "What another Fed cut could mean for borrowers - some rates may barely budge",
-    "fetched_on": "2025-11-15T03:08:28.791138+00:00",
+    "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
+    "fetched_on": "2025-11-15T04:24:43.670281+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/22/refinance-demand-is-81percent-higher-than-it-was-a-year-ago-thanks-to-falling-mortgage-rates.html",
     "title": "Refinance demand is 81% higher than it was a year ago, thanks to falling mortgage rates",
-    "fetched_on": "2025-11-15T03:08:28.791182+00:00",
+    "fetched_on": "2025-11-15T04:24:43.670322+00:00",
     "content": "Sliding mortgage rates are pushing more current borrowers to refinance and also juicing demand for adjustable-rate loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/13/visa-mastercard-legal-settlement-what-you-need-to-know.html",
     "title": "What the Visa, Mastercard legal settlement means for your rewards credit card",
-    "fetched_on": "2025-11-15T03:08:28.988930+00:00",
+    "fetched_on": "2025-11-15T04:24:44.190647+00:00",
     "content": "A Visa and MasterCard settlement with merchants announced earlier this week could bring changes to your experience checking out.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/faa-flight-cancellations-credit-card-travel-insurance.html",
     "title": "As FAA order triggers flight cancellations and delays, what to know about credit card travel insurance",
-    "fetched_on": "2025-11-15T03:08:28.988987+00:00",
+    "fetched_on": "2025-11-15T04:24:44.190714+00:00",
     "content": "The shutdown of the U.S. federal government is causing flight delays and cancellations. What to know about travel credit card insurance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -482,8 +482,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/student-loan-forgiveness-notices.html",
-    "title": "Student loan forgiveness notices are going out despite the shutdown - what borrowers need to do next",
-    "fetched_on": "2025-11-15T03:08:28.989000+00:00",
+    "title": "Student loan forgiveness notices are going out despite the shutdown \u2014 what borrowers need to do next",
+    "fetched_on": "2025-11-15T04:24:44.190730+00:00",
     "content": "Borrowers are getting notices of student loan forgiveness. Here's what experts say their next steps should be.",
     "platforms_mentioned": [],
     "keywords": [
@@ -501,7 +501,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/03/states-sue-trump-public-service-loan-forgiveness-pslf.html",
     "title": "States sue Trump admin over rule limiting student loan forgiveness for public servants",
-    "fetched_on": "2025-11-15T03:08:28.989063+00:00",
+    "fetched_on": "2025-11-15T04:24:44.190798+00:00",
     "content": "New York Attorney General Letitia James is suing the Trump administration over its new rule limiting eligibility for Public Service Loan Forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -521,8 +521,8 @@
     "source": "Pypi.org [NewsAPI]",
     "url": "https://pypi.org/project/odoo-addon-account-credit-control/18.0.2.0.0.4/",
     "title": "odoo-addon-account-credit-control 18.0.2.0.0.4",
-    "fetched_on": "2025-11-15T03:08:11.118978+00:00",
-    "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe... [+12 chars]",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "load",
@@ -540,9 +540,9 @@
   {
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/wealth/borrow/700-credit-score-and-still-rejected-for-a-home-loan-heres-why-it-happens-and-how-to-prevent-it/articleshow/125304630.cms",
-    "title": "700+ credit score and still rejected for a home loan? Here's why it happens and how to prevent it",
-    "fetched_on": "2025-11-15T03:08:11.118978+00:00",
-    "content": "A high credit score indicates a persons strong creditworthiness. If someone has a score above 700, they stand a good chance of getting a credit facility, such as a home, auto or personal loan from a ... [+6036 chars]",
+    "title": "700+ credit score and still rejected for a home loan? Here\u2019s why it happens and how to prevent it",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "A high credit score indicates a persons strong creditworthiness. If someone has a score above 700, they stand a good chance of getting a credit facility, such as a home, auto or personal loan from a \u2026 [+6036 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "credit",
@@ -561,8 +561,8 @@
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/matt-hitt-talks-about-his-new-solo-music-and-the-digital-age/article",
     "title": "Matt Hitt talks about his new solo music and the digital age",
-    "fetched_on": "2025-11-15T03:08:11.118978+00:00",
-    "content": "Matt Hitt. Photo Credit: Elijah Lewis Thomas. Matt Hitt, the lead singer and songwriter of Drowners, chatted about his new EP, which will be out on November 14th via Killphonic. How did “Carried Aw... [+2568 chars]",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "Matt Hitt. Photo Credit: Elijah Lewis Thomas.\r\nMatt Hitt, the lead singer and songwriter of Drowners, chatted about his new EP, which will be out on November 14th via Killphonic.\r\nHow did \u201cCarried\u00a0Aw\u2026 [+2568 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Hitt",
@@ -598,6 +598,120 @@
       "fund",
       "plans",
       "euros"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/stephanie-chloe-hepner-talks-about-directing-the-short-film-betty-bird-goes-to-war-and-the-digital-age/article",
+    "title": "Stephanie Chloe Hepner talks about directing the short film \u2018Betty Bird Goes to War,\u2019 and the digital age",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "Stephanie Chloe Hepner. Photo Credit: Luke Fontana.\r\nStephanie Chloe Hepner chatted about directing the short film \u201cBetty Bird Goes to War\u201d and the digital age.\r\nHow did \u201cBetty Bird Goes to War\u201d come\u2026 [+5202 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chloe",
+      "Betty",
+      "War",
+      "Bird",
+      "Hepner",
+      "Stephanie",
+      "film",
+      "directing",
+      "short",
+      "digital"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/margaret-colin-talks-about-starring-in-three-wisest-men-on-hallmark/article",
+    "title": "Margaret Colin talks about starring in \u2018Three Wisest Men\u2019 on Hallmark",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "Lochlyn Munro and Margaret Colin in 'Three Wisest Men.' Photo Credit: Hallmark Media,\u00a0Craig Minielly.\r\nVeteran actress Margaret Colin (\u201cGossip Girl\u201d) chatted about starring in \u201cThree Wisest Men,\u201d whi\u2026 [+4450 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wisest",
+      "Men",
+      "Colin",
+      "Men\u2019",
+      "Lochlyn",
+      "Munro",
+      "Margaret",
+      "Hallmark",
+      "starring",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/pakistan-bond-gains-to-extend-with-global-reentry-investors-say",
+    "title": "Pakistan Bond Gains to Extend With Global Reentry, Investors Say",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "(Bloomberg) Pakistans dollar bonds will likely extend their rally as credit-rating upgrades and the governments plans to re-enter global debt markets bolster sentiment, according to investors.\r\nTHIS \u2026 [+4469 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Reentry",
+      "Extend",
+      "Global",
+      "Investors",
+      "Gains",
+      "Pakistan",
+      "Pakistans",
+      "sentiment",
+      "Bond"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/933198",
+    "title": "[Targetted] Free Samsung A56 5G and Charger if You Had Your Sim in a 3G Phone @ Telstra",
+    "fetched_on": "2025-11-15T04:24:15.651099+00:00",
+    "content": "Keep your eyes out in the mail for a free phone.\r\nVery weird though as i had the sim in a S25U and then in an iPhone XS and also had an expired prepaid with no credit.\r\nEnjoy",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phone",
+      "Targetted",
+      "Free",
+      "Samsung",
+      "Telstra",
+      "Charger",
+      "Sim",
+      "eyes",
+      "mail",
+      "Enjoy"
+    ]
+  },
+  {
+    "source": "Reuters [GNews]",
+    "url": "https://www.reuters.com/legal/transactional/pagaya-castlelake-reach-deal-up-500-million-auto-loans-2025-11-03/",
+    "title": "Pagaya, Castlelake reach deal for up to $500 million in auto loans",
+    "fetched_on": "2025-11-15T04:24:27.007257+00:00",
+    "content": "Lending platform Pagaya Technologies on Monday announced an agreement to sell up to $500 million of its auto loans to asset-based private credit manager Castlelake.",
+    "platforms_mentioned": [],
+    "entity": "Castlelake",
+    "keywords": [
+      "Castlelake",
+      "million",
+      "Pagaya",
+      "auto",
+      "loans",
+      "Lending",
+      "Technologies",
+      "Monday",
+      "reach",
+      "deal"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/refinance-mortgage-162831396.html",
+    "title": "How to refinance your mortgage loan",
+    "fetched_on": "2025-11-15T04:24:45.053921+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "refinance",
+      "mortgage"
     ]
   }
 ]
