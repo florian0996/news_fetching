@@ -170539,5 +170539,105 @@
       "rates",
       "fees"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a97c1886e5d06b8b",
+    "title": "Everyone's a Winner After Twenty Year Credit Card Battle",
+    "fetched_on": "2025-11-15T09:19:33.167418+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the Nasdaq drop nearly 2% today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will BlackRock-ACS data cent… [+708 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Battle",
+      "today",
+      "return",
+      "false",
+      "Winner",
+      "Twenty",
+      "Year"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7faa45442a601ebc",
+    "title": "Nomura ties up with Park Square in latest private credit push",
+    "fetched_on": "2025-11-15T09:19:33.167418+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the Nasdaq drop nearly 2% today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will BlackRock-ACS data cent… [+732 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "today",
+      "return",
+      "false",
+      "Park",
+      "Square",
+      "Nasdaq",
+      "Nomura"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/gulf-achieves-global-standing-with-a-credit-rating-and-stable-outlook-from-japan-credit-rating-agency",
+    "title": "GULF Achieves Global Standing with “A” Credit Rating and “Stable” Outlook from Japan Credit Rating Agency",
+    "fetched_on": "2025-11-15T09:19:33.167418+00:00",
+    "content": "Reflecting Financial Strength and Growth Strategy\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles fro… [+5603 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Rating",
+      "Stable",
+      "GULF",
+      "Outlook",
+      "Canada",
+      "Achieves",
+      "Global",
+      "Standing",
+      "Japan"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/fintech-investments/2025/fintech-ipo-index-dips-platform-earnings-ding-stocks/",
+    "title": "FinTech IPO Index Dips 0.9% as Platform Earnings Ding Stocks",
+    "fetched_on": "2025-11-15T09:19:33.167418+00:00",
+    "content": "For the FinTech IPO Index, it was all earnings, all the time.Even strong growth in lending and card issuance, all mainstays of digital upstarts, was not enough to buoy the group.\r\nDouble-digit declin… [+4396 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IPO",
+      "Index",
+      "Dips",
+      "Earnings",
+      "Platform",
+      "Ding",
+      "Stocks",
+      "FinTech",
+      "issuance",
+      "upstarts"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/14/3188055/0/en/GULF-Achieves-Global-Standing-with-A-Credit-Rating-and-Stable-Outlook-from-Japan-Credit-Rating-Agency.html",
+    "title": "GULF Achieves Global Standing with “A” Credit Rating and “Stable” Outlook from Japan Credit Rating Agency",
+    "fetched_on": "2025-11-15T09:19:33.167418+00:00",
+    "content": "BANGKOK, Nov. 14, 2025 (GLOBE NEWSWIRE) -- GulfDevelopment Public Company Limited (GULF), Thailands leading conglomerate, has been assigned an A corporate credit rating with a stable outlook by Japan… [+3308 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GULF",
+      "Credit",
+      "Rating",
+      "Nov.",
+      "Japan",
+      "BANGKOK",
+      "GLOBE",
+      "NEWSWIRE",
+      "Limited",
+      "Thailands"
+    ]
   }
 ]
