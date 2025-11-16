@@ -176044,5 +176044,85 @@
       "Chill",
       "tech"
     ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/world/2025/11/16/fitch-upgrades-greece039s-credit-rating-to-bbb",
+    "title": "Fitch upgrades Greece's credit rating to BBB",
+    "fetched_on": "2025-11-16T17:17:22.580931+00:00",
+    "content": "ATHENS, Nov. 15 (Xinhua) -- Fitch Ratings upgraded Greece's long-term credit rating to BBB from BBB-, citing accelerated debt reduction, strong fiscal performance, and resilient economic growth, the … [+1152 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BBB",
+      "Nov.",
+      "Xinhua",
+      "Fitch",
+      "Greece",
+      "ATHENS",
+      "chars",
+      "rating",
+      "credit",
+      "citing"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/15/nyt-connections-guide-hints-clues-answers-sunday-november-16/",
+    "title": "NYT Connections Hints Today: Sunday, November 16 Clues And Answers (#889)",
+    "fetched_on": "2025-11-16T17:17:22.580931+00:00",
+    "content": "Credit: NYT / Erik Kain\r\nLooking for a little help with todays Connections? Youve come to the right place. Read on for some extra clues to get you to the finish line as well as the answers to todays … [+5324 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYT",
+      "Connections",
+      "Sunday",
+      "November",
+      "Credit",
+      "Erik",
+      "Hints",
+      "Kain",
+      "Clues",
+      "Answers"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/trump-tells-reporters-just-today-i-stopped-a-war-that-he-took-credit-for-ending-weeks-ago/",
+    "title": "Trump Tells Reporters ‘Just Today I Stopped A War’ — That He Took Credit For Ending Weeks Ago",
+    "fetched_on": "2025-11-16T17:17:22.580931+00:00",
+    "content": "President Donald Trump told reporters “Just today I stopped a war” referring to a conflict he took credit for weeks ago that resumed this week.Trump has taken a beating from just about every quarter … [+2002 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reporters",
+      "Today",
+      "Stopped",
+      "Credit",
+      "Weeks",
+      "Ago",
+      "War’",
+      "Trump",
+      "chars",
+      "Ending"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/15/weekend-streaming-guide-netflix-hulu-apple-prime-video-tv-shows-movies/",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "fetched_on": "2025-11-16T17:17:22.580931+00:00",
+    "content": "What to watch this weekend\r\nCredit: Amazon / BBC / Netflix\r\nTense police dramas, black-and-white period pieces, sinister nannies and deadly battle royales between hundreds of samurai in 19th century … [+12109 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hulu",
+      "Amazon",
+      "BBC",
+      "Watch",
+      "Netflix",
+      "Weekend",
+      "Prime",
+      "Video",
+      "Apple",
+      "Credit"
+    ]
   }
 ]
