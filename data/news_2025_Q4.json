@@ -175408,5 +175408,25 @@
       "adage",
       "school"
     ]
+  },
+  {
+    "source": "EURACTIV [NewsAPI]",
+    "url": "https://www.euractiv.com/news/did-i-derail-the-eus-e140-billion-ukraine-loan/",
+    "title": "Did we derail the EU’s €140 billion Ukraine loan?",
+    "fetched_on": "2025-11-16T05:20:20.546443+00:00",
+    "content": "Just before 1am on October 24, I filed an article summarising the tumultuous events of the just-concluded European Council where Belgium, despite everyones expectations to the contrary (including my … [+11174 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ukraine",
+      "billion",
+      "loan",
+      "derail",
+      "October",
+      "Belgium",
+      "chars",
+      "European",
+      "Council",
+      "contrary"
+    ]
   }
 ]
