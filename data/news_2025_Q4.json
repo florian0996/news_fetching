@@ -175428,5 +175428,45 @@
       "Council",
       "contrary"
     ]
+  },
+  {
+    "source": "Greenville News [NewsAPI]",
+    "url": "https://www.greenvilleonline.com/story/sports/college/clemson/2025/11/15/dabo-swinney-press-conference-clemson-louisville/87145632007/",
+    "title": "Dabo Swinney gives passionate defense of Clemson players, himself after win vs Louisville",
+    "fetched_on": "2025-11-16T06:30:34.048017+00:00",
+    "content": "LOUISVILLE, KY   All Clemson football coach Dabo Swinney could do is crack a smile and laugh.\r\nAfter Clemson upset No. 21 Louisville on Nov. 14, winning 20-19 at L&amp;N Federal Credit Union Stadium,… [+2652 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Swinney",
+      "Dabo",
+      "Clemson",
+      "Louisville",
+      "players",
+      "laugh",
+      "Nov.",
+      "Stadium",
+      "passionate",
+      "defense"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c6e6abb11b8690a6",
+    "title": "If private credit breaks, insurers will fall under the microscope",
+    "fetched_on": "2025-11-16T06:30:34.048017+00:00",
+    "content": "Rising holdings of the asset class could lead to problems when the next downturn comes\r\nThis story appeared on ft.com, 2025-11-15 05:00:28.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rising",
+      "breaks",
+      "insurers",
+      "ft.com",
+      "private",
+      "credit",
+      "fall",
+      "microscope",
+      "holdings",
+      "asset"
+    ]
   }
 ]
