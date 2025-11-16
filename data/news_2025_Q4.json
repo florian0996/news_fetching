@@ -175544,5 +175544,45 @@
       "Shape",
       "Growth"
     ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/markets/stocks/news/asian-paints-adani-enterprises-among-48-firms-set-to-reach-record-dates-for-dividends-bonuses-rights-issue-next-week/corporate-actions-lined-up-next-week/slideshow/125345207.cms",
+    "title": "Asian Paints, Adani Enterprises among 48 firms set to reach record dates for dividends, bonuses, rights issue next week",
+    "fetched_on": "2025-11-16T09:20:15.543994+00:00",
+    "content": "Dividends:\r\nAcceleratebs India – Interim dividend 2% at Rs 0.2/share\r\nCareer Point Edutech – Interim dividend 25% at Rs 2.5/share\r\nDAR Credit &amp; Capital – Interim dividend 5% at Rs 0.5/share\r\nGabr… [+596 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Interim",
+      "dividend",
+      "dividends",
+      "share",
+      "Capital",
+      "Paints",
+      "Adani",
+      "Acceleratebs",
+      "India",
+      "Edutech"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a0c660f6f4cb0b1f",
+    "title": "Blackstone Secured Lending: Has The Era Of NAV And Dividend Growth Ended?",
+    "fetched_on": "2025-11-16T09:20:15.543994+00:00",
+    "content": "Analysts Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this art… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "Ended",
+      "Secured",
+      "Era",
+      "NAV",
+      "Dividend",
+      "Growth",
+      "Blackstone",
+      "Disclosure",
+      "hours"
+    ]
   }
 ]
