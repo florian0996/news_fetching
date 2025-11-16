@@ -175884,5 +175884,105 @@
       "Put",
       "View"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/mortgage-rates-look-come-government-151106956.html",
+    "title": "What Will Mortgage Rates Look Like as We Come Out of a Government Shutdown?",
+    "fetched_on": "2025-11-16T15:19:05.492228+00:00",
+    "content": "The government shutdown has proven a nightmare for many homebuyers and sellers. While Federal Housing Administration (FHA) loans and Veterans Affairs (VA) loans can still technically close, they larg… [+3192 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "Rates",
+      "Government",
+      "Shutdown",
+      "FHA",
+      "loans",
+      "Administration",
+      "Affairs",
+      "chars",
+      "Federal"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/11/magic-kingdom-firefighter-incident-pirates-emd1/",
+    "title": "Firefighter Plunges During Magic Kingdom Ride Evacuation",
+    "fetched_on": "2025-11-16T15:19:05.492228+00:00",
+    "content": "A firefighter rescuing guests from a malfunctioning attraction at Magic Kingdom suffered an unfortunate fall, leading to a viral TikTok video.\r\nCredit: David Aughinbaugh II, Flickr\r\nMagic Kingdom Att… [+4595 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Magic",
+      "Kingdom",
+      "Plunges",
+      "Ride",
+      "Evacuation",
+      "Firefighter",
+      "fall",
+      "leading",
+      "video",
+      "David"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18813202-9-99-7-piece-fisher-price-preschool-pretend-play-medical-kit-0-50-credit-at-amazon",
+    "title": "$9.99: 7-Piece Fisher-Price Preschool Pretend Play Medical Kit + $0.50 credit at Amazon",
+    "fetched_on": "2025-11-16T15:19:05.492228+00:00",
+    "content": "Amazon[amazon.com] has 7-Piece Fisher-Price Preschool Pretend Play Medical Kit for $9.99.Shipping is free with Prime or on $35+ orders.Price$11.60 lower (54% savings) than the list price of $21.59$10… [+161 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Preschool",
+      "Pretend",
+      "Play",
+      "Medical",
+      "Fisher-Price",
+      "Kit",
+      "amazon.com",
+      "orders.Price",
+      "lower",
+      "savings"
+    ]
+  },
+  {
+    "source": "Mapscraper.co [NewsAPI]",
+    "url": "https://mapscraper.co/",
+    "title": "Show HN: MapScraper – Extract local business data from Google MAPS in seconds",
+    "fetched_on": "2025-11-16T15:19:05.492228+00:00",
+    "content": "Choose the plan that fits your needs. 1 credit = 1 search.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MapScraper",
+      "Extract",
+      "Google",
+      "MAPS",
+      "Choose",
+      "Show",
+      "credit",
+      "search",
+      "local",
+      "business"
+    ]
+  },
+  {
+    "source": "MarketWatch [NewsAPI]",
+    "url": "https://www.marketwatch.com/story/how-5-000-became-31-billion-5-market-lessons-from-the-greatest-trader-ever-41a2ad47",
+    "title": "How $5,000 became $31 billion: 5 market lessons from the greatest trader ever",
+    "fetched_on": "2025-11-16T15:19:05.492228+00:00",
+    "content": "In 2008, when Lehman Brothers learned that lending money to dead people had consequences and the S&amp;P 500 SPX cratered 37%, Medallion made 82%. Everyone else was googling bankruptcy lawyer. Simons… [+10558 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "SPX",
+      "Medallion",
+      "Lehman",
+      "Brothers",
+      "market",
+      "cratered",
+      "made",
+      "lessons",
+      "greatest"
+    ]
   }
 ]
