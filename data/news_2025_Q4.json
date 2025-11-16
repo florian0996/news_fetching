@@ -175604,5 +175604,65 @@
       "credit",
       "agreement"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-saturday-november-15-2025-110018445.html",
+    "title": "HELOC rates today, November 15, 2025: Keep your low-rate primary mortgage and get cash with a HELOC",
+    "fetched_on": "2025-11-16T11:15:46.919674+00:00",
+    "content": "The national average HELOC rate is 7.64%, down nine basis points since the beginning of October, according to analytics company Curinos. Home equity line of credit interest rates are falling, but an … [+4046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "November",
+      "October",
+      "Curinos",
+      "today",
+      "rates",
+      "low-rate",
+      "primary",
+      "mortgage",
+      "cash"
+    ]
+  },
+  {
+    "source": "Eonline.com [NewsAPI]",
+    "url": "https://www.eonline.com/news/1425003/kris-jenner-goals-after-birthday-milestone",
+    "title": "Kris Jenner Shares Personal Goals After Birthday Milestone",
+    "fetched_on": "2025-11-16T11:15:46.919674+00:00",
+    "content": "As Kris Jenner enters a new era, she's doing more than amazing, sweetie.\r\nAnd she's giving her loved ones all the credit.\r\n\"My life is really focused on family and my friends,\" Kriswho recently teame… [+779 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jenner",
+      "Kris",
+      "sweetie",
+      "Shares",
+      "Personal",
+      "Goals",
+      "Birthday",
+      "Milestone",
+      "era",
+      "amazing"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/credit-market-distressed-debt-jamie-dimon-cockroaches-david-rosenberg-2025-11",
+    "title": "3 charts show where Jamie Dimon's credit 'cockroaches' might be hiding in the market",
+    "fetched_on": "2025-11-16T11:15:46.919674+00:00",
+    "content": "Jamie Dimon might be right about the cockroaches.\r\nThe JPMorgan boss recently warned markets that trouble could be brewing in the credit market. His reasoning? There's always more than one cockroach … [+2571 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jamie",
+      "Dimon",
+      "charts",
+      "cockroaches'",
+      "credit",
+      "market",
+      "show",
+      "hiding",
+      "markets",
+      "chars"
+    ]
   }
 ]
