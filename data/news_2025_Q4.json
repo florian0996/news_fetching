@@ -176364,5 +176364,45 @@
       "Searching",
       "intelligence"
     ]
+  },
+  {
+    "source": "Time [NewsAPI]",
+    "url": "https://time.com/7334273/ice-raid-boston-zac-segal/",
+    "title": "Boston Student Under Fire After Claiming Credit for ICE Raid on Car Wash",
+    "fetched_on": "2025-11-16T20:22:11.168554+00:00",
+    "content": "A Boston University student who claimed credit for reporting car wash workers to immigration authorities earned the praise of the Department of Homeland Security (DHS) and the ire of his fellow stude… [+3119 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DHS",
+      "Credit",
+      "Car",
+      "Wash",
+      "Security",
+      "chars",
+      "Boston",
+      "Student",
+      "Fire",
+      "Claiming"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/is-james-pickens-jr-leaving-greys-anatomy-5488672/",
+    "title": "Is James Pickens Jr. Leaving ‘Grey’s Anatomy’ Amid Prostate Cancer Battle?",
+    "fetched_on": "2025-11-16T20:22:11.168554+00:00",
+    "content": "Image Credit: Disney\r\nJames Pickens Jr., whos best known for playing Dr. Richard Webber in Greys Anatomy, shocked fans upon revealing his cancer diagnosis. What made the news even more unsettling was… [+2132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "James",
+      "Pickens",
+      "Battle",
+      "Cancer",
+      "Leaving",
+      "Credit",
+      "Disney",
+      "Anatomy",
+      "Anatomy’",
+      "Amid"
+    ]
   }
 ]
