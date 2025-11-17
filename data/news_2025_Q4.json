@@ -176744,5 +176744,62 @@
       "Credit",
       "Matthew"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/p-raises-schwab-schw-outlook-051231203.html",
+    "title": "S&P Raises Schwab (SCHW) Outlook After Strong Earnings and Better Interest-Rate Risk Controls",
+    "fetched_on": "2025-11-17T05:22:26.643499+00:00",
+    "content": "The Charles Schwab Corporation (NYSE:SCHW) ranks among the best financial stocks to buy according to billionaire Ken Fisher. S&amp;P Global Ratings maintained its A-/A-2 issuer credit ratings on Octo… [+2013 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SCHW",
+      "NYSE",
+      "Schwab",
+      "Outlook",
+      "Corporation",
+      "Fisher",
+      "Raises",
+      "Strong",
+      "Earnings",
+      "Risk"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/ai-debt-explosion-has-traders-searching-for-cover-credit-weekly/articleshow/125359694.cms",
+    "title": "AI debt explosion has traders searching for cover: Credit Weekly",
+    "fetched_on": "2025-11-17T05:22:26.643499+00:00",
+    "content": "As tech companies gear up to borrow hundreds of billions of dollars to fuel investments in artificial intelligence, lenders and investors are increasingly looking to protect themselves against it all… [+5231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Credit",
+      "Weekly",
+      "cover",
+      "intelligence",
+      "lenders",
+      "debt",
+      "explosion",
+      "traders",
+      "searching"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/ai-debt-explosion-traders-searching-175630817.html",
+    "title": "AI Debt Explosion Has Traders Searching for Cover: Credit Weekly",
+    "fetched_on": "2025-11-17T05:22:48.392515+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cover",
+      "Credit",
+      "Weekly",
+      "Debt",
+      "Explosion",
+      "Traders",
+      "Searching"
+    ]
   }
 ]
