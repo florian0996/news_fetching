@@ -178069,5 +178069,125 @@
       "downgrades",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-17/blue-owl-plunges-to-2023-low-after-blocking-exit-from-early-fund",
+    "title": "Blue Owl Plunges to 2023 Low After Blocking Exit From Early Fund",
+    "fetched_on": "2025-11-17T22:20:25.538697+00:00",
+    "content": "Blue Owl Capital Inc.’s shares have fallen to their lowest level since December 2023, after the alternative asset manager restricted investors from redeeming capital from one of its oldest private credit funds.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Owl",
+      "Blue",
+      "Low",
+      "December",
+      "Capital",
+      "Plunges",
+      "Blocking",
+      "Exit",
+      "Early",
+      "Inc.’s"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-17/ubs-o-connor-loses-private-credit-chiefs-before-cantor-deal",
+    "title": "UBS O’Connor Loses Private Credit Chiefs Before Cantor Deal",
+    "fetched_on": "2025-11-17T22:20:25.538754+00:00",
+    "content": "The co-heads of UBS O’Connor’s capital solutions strategy will no longer run its funds as Cantor Fitzgerald LP finalizes a planned acquisition of the hedge fund unit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UBS",
+      "Cantor",
+      "Loses",
+      "Private",
+      "Credit",
+      "Chiefs",
+      "Deal",
+      "Fitzgerald",
+      "unit",
+      "O’Connor"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/39d3cd9069d886c5",
+    "title": "New York Fed met with Wall Street firms about key lending facility: FT",
+    "fetched_on": "2025-11-17T22:20:24.652070+00:00",
+    "content": "New York Federal Reserve President John Williams met with Wall Street's dealers last week about a key lending facility, the Financial Times reported, citing three individuals familiar with the matter… [+141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wall",
+      "facility",
+      "York",
+      "Street",
+      "lending",
+      "chars",
+      "met",
+      "key",
+      "Fed",
+      "Federal"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18816886-costco-members-128gb-meta-quest-3s-w-12-month-meta-horizon-subscription-200-free-shipping",
+    "title": "Costco Members: 128GB Meta Quest 3S w/ 12-Month Meta Horizon+ Subscription $200 + Free Shipping",
+    "fetched_on": "2025-11-17T22:20:24.652070+00:00",
+    "content": "I try to post this helpful info when I see sales. (Refurbs may not get the free game or activation credit).If you don't like the \"free\" games of the month you can hold off activating Meta+ for 3 mont… [+2739 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Subscription",
+      "Members",
+      "Quest",
+      "Horizon",
+      "Meta",
+      "Shipping",
+      "Free",
+      "Costco",
+      "sales",
+      "Refurbs"
+    ]
+  },
+  {
+    "source": "Joehoft.com [NewsAPI]",
+    "url": "https://joehoft.com/ablechild-exclusive-tucker-misses-the-mark-theres-simply-no-physical-evidence-thomas-crooks-attempted-to-kill-anyone/",
+    "title": "ABLECHILD EXCLUSIVE: Tucker Misses the Mark – There’s NO Physical Evidence Crooks Attempted to Assassinate Anyone",
+    "fetched_on": "2025-11-17T22:20:24.652070+00:00",
+    "content": "(Photo Credit: Tucker Carlson TCN)\r\nRepublished with permission from AbleChild.\r\nTwo days ago, Tucker Carlson released a thirty-minute video accusing the Federal Bureau of Investigation (FBI) of lyin… [+6577 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tucker",
+      "EXCLUSIVE",
+      "Mark",
+      "Photo",
+      "Credit",
+      "TCN",
+      "Republished",
+      "ABLECHILD",
+      "Carlson",
+      "Misses"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a18b930b1ac7e515",
+    "title": "The Most Worrying and Reassuring Signals in the US Economy",
+    "fetched_on": "2025-11-17T22:20:24.652070+00:00",
+    "content": "In recent weeks, a number of economic warning signs have put investors on edge, from growing skepticism over the possibility of an AI bubble to bankruptcies that have rocked the private credit market… [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Worrying",
+      "Reassuring",
+      "Signals",
+      "Economy",
+      "weeks",
+      "edge",
+      "market",
+      "recent",
+      "number"
+    ]
   }
 ]
