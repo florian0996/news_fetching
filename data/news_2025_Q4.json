@@ -177535,5 +177535,104 @@
       "Amid",
       "UFC"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/the-west-wing-planning-return-to-netflix-us-five-years-after-removal/",
+    "title": "‘The West Wing’ Planning Return to Netflix US Five Years After Removal",
+    "fetched_on": "2025-11-17T17:20:33.507152+00:00",
+    "content": "Picture Credit: Warner Bros. Television\r\nAnother fan-favorite series is being licensed back to Netflix. Following in the footsteps of Spartacus and Nurse Jackie, which both departed five years ago, T… [+2228 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Warner",
+      "Bros",
+      "Netflix",
+      "West",
+      "Wing’",
+      "Planning",
+      "Return",
+      "Removal",
+      "Picture"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-may-approve-1-3-provisioning-floor-for-stage-2-loans-under-ecl-framework-sources/article70287245.ece",
+    "title": "RBI may approve 1-3% provisioning floor for stage-2 loans under ECL framework: Sources",
+    "fetched_on": "2025-11-17T17:20:33.507152+00:00",
+    "content": "The Reserve Bank of India could consider approving bankers request to lower the provisioning requirement on stage-2 loans to 1-3 per cent from proposed 5 per cent under the draft expected credit loss… [+2166 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loans",
+      "RBI",
+      "Sources",
+      "chars",
+      "cent",
+      "ECL",
+      "Reserve",
+      "Bank",
+      "India",
+      "provisioning"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/jefferies-shops-up-to-12-billion-power-debt-to-replace-private-credit--bloomberg-93CH-4363091",
+    "title": "Jefferies shops up to $1.2 billion power debt to replace private credit - Bloomberg",
+    "fetched_on": "2025-11-17T17:20:43.985122+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Jefferies",
+      "billion",
+      "credit",
+      "shops",
+      "power",
+      "debt",
+      "replace",
+      "private"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/saba-capital-sells-credit-derivatives-to-banks-hedging-tech-ai-debt--reuters-93CH-4363071",
+    "title": "Saba Capital sells credit derivatives to banks hedging tech AI debt - Reuters",
+    "fetched_on": "2025-11-17T17:20:43.985128+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "Capital",
+      "Saba",
+      "debt",
+      "sells",
+      "credit",
+      "derivatives",
+      "banks",
+      "hedging",
+      "tech"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/exclusive-weinsteins-saba-sells-credit-162754901.html",
+    "title": "Exclusive-Weinstein's Saba sells credit derivatives on Big Tech as AI risks grow, source says",
+    "fetched_on": "2025-11-17T17:20:54.288639+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Saba",
+      "Big",
+      "Tech",
+      "Exclusive-Weinstein",
+      "grow",
+      "source",
+      "sells",
+      "credit",
+      "derivatives",
+      "risks"
+    ]
   }
 ]
