@@ -176664,5 +176664,45 @@
       "Host",
       "Kid"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8bfaf03ad857fcb9",
+    "title": "5 hilariously incriminating cartoons about the Epstein files",
+    "fetched_on": "2025-11-17T03:17:40.827171+00:00",
+    "content": "(Image credit: Mike Luckovich / Copyright 2025 Creators Syndicate)(Image credit: Nick Anderson / Copyright 2025 Tribune Content Agency)(Image credit: Rick McKee / Copyright 2025 Cagle Cartoons, Inc.)… [+141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Image",
+      "credit",
+      "Inc.",
+      "Mike",
+      "Luckovich",
+      "Creators",
+      "Syndicate",
+      "Nick",
+      "Anderson"
+    ]
+  },
+  {
+    "source": "South Bend Tribune [NewsAPI]",
+    "url": "https://www.southbendtribune.com/story/sports/college/2025/11/15/notre-dame-womens-soccer-ncaa-tournament-first-round-win-over-uic/87247682007/",
+    "title": "Notre Dame women's soccer starts slow, finishes strong in NCAA Tournament opener",
+    "fetched_on": "2025-11-17T03:17:40.827171+00:00",
+    "content": "SOUTH BEND Give UIC credit: they kept it closer than most expected. The Flames defensive-minded strategy had them within striking distance to pull off a massive upset in the first round of the NCAA w… [+2989 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dame",
+      "Tournament",
+      "SOUTH",
+      "BEND",
+      "Give",
+      "UIC",
+      "NCAA",
+      "Notre",
+      "slow",
+      "finishes"
+    ]
   }
 ]
