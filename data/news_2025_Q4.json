@@ -177854,5 +177854,85 @@
       "moratorium",
       "exporters"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-17/etfs-started-passive-growing-up-active-jon-maier-video",
+    "title": "ETFs Started Passive, Growing Up Active: Jon Maier",
+    "fetched_on": "2025-11-17T20:25:20.425461+00:00",
+    "content": "Jon Maier, chief ETF Strategist at JPMorgan Investment Management, speaks to Bloomberg's Katie Greifeld, Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ\". They discuss credit markets, diversification and the growth of active in ETFs. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jon",
+      "Maier",
+      "Passive",
+      "Growing",
+      "Management",
+      "Greifeld",
+      "Scarlet",
+      "Started",
+      "Strategist",
+      "Investment"
+    ]
+  },
+  {
+    "source": "TechCrunch [NewsAPI]",
+    "url": "https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/",
+    "title": "BNPL is expanding fast, and that should worry everyone | TechCrunch",
+    "fetched_on": "2025-11-17T20:25:19.732280+00:00",
+    "content": "When Nigel Morris tells you he’s worried about the economy, you listen. As industry observers know, Morris co-founded Capital One and pioneered lending to subprime borrowers, building an empire on un… [+13893 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNPL",
+      "Nigel",
+      "Morris",
+      "fast",
+      "TechCrunch",
+      "economy",
+      "listen",
+      "chars",
+      "expanding",
+      "worry"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/bnpl-expanding-fast-worry-everyone-200000872.html",
+    "title": "BNPL is expanding fast, and that should worry everyone",
+    "fetched_on": "2025-11-17T20:25:19.732280+00:00",
+    "content": "Image Credits:sesame / Getty Images\r\nWhen Nigel Morris tells you hes worried about the economy, you listen. As industry observers know, Morris co-founded Capital One and pioneered lending to subprime… [+13773 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "sesame",
+      "BNPL",
+      "Credits",
+      "Getty",
+      "Nigel",
+      "Morris",
+      "Image",
+      "Images",
+      "fast",
+      "economy"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/11/a-traveler-tried-to-pay-for-a-hotel-room-with-their-mother-in-laws-credit-card-but-a-worker-wouldnt-let-them-do-it/",
+    "title": "A Traveler Tried To Pay For A Hotel Room With Their Mother-in-Law’s Credit Card, But A Worker Wouldn’t Let Them Do It",
+    "fetched_on": "2025-11-17T20:25:19.732280+00:00",
+    "content": "TikTok/@sheritayoung50\r\nAre credit cards interchangeable between family members?\r\nWell, I guess it all depends on who we’re talking about…\r\nBut one thing’s for sure, this hotel worker wasn’t buying i… [+2332 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Traveler",
+      "Pay",
+      "Room",
+      "Card",
+      "cards",
+      "Hotel",
+      "Worker",
+      "TikTok",
+      "members"
+    ]
   }
 ]
