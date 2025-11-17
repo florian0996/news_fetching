@@ -176921,5 +176921,85 @@
       "paper",
       "money"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-17/eu-pitches-90-billion-ukraine-grant-if-russian-asset-loan-fails",
+    "title": "EU Pitches €90 Billion Ukraine Grant if Russian Asset Loan Fails",
+    "fetched_on": "2025-11-17T11:19:25.858813+00:00",
+    "content": "The European Union has proposed funding Ukraine with either a €90 billion ($104 billion) grant or an EU debt-backed loan if countries can’t approve a preferred plan to use frozen Russian assets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Russian",
+      "Ukraine",
+      "Pitches",
+      "Grant",
+      "Loan",
+      "Fails",
+      "European",
+      "Union",
+      "Asset"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/06bd5cb99e768ed3",
+    "title": "Blue Owl private credit fund merger leaves some investors facing 20% hit",
+    "fetched_on": "2025-11-17T11:19:24.805917+00:00",
+    "content": "Asset manager blocks redemptions from one of its first private debt vehicles targeting wealthy individuals\r\nThis story appeared on ft.com, 2025-11-16 11:00:11.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Owl",
+      "Asset",
+      "Blue",
+      "facing",
+      "hit",
+      "ft.com",
+      "private",
+      "credit",
+      "fund",
+      "merger"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-november-16-2025-110038474.html",
+    "title": "HELOC rates today, November 16, 2025: With another Fed rate cut in doubt, this might be as low as rates go",
+    "fetched_on": "2025-11-17T11:19:24.805917+00:00",
+    "content": "Nationally, the average home equity line of credit interest rate remains under 8%, according to the analytics company Curinos. With a Federal Reserve rate cut in doubt for December, HELOC rates might… [+3869 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "November",
+      "Nationally",
+      "Curinos",
+      "Fed",
+      "cut",
+      "rates",
+      "rate",
+      "doubt",
+      "today"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/ohio-man-weighing-spending-60k-110000727.html",
+    "title": "Ohio man weighing spending $60K bonus on his mortgage, second home or student loans. Dave Ramsey says it’s a no-brainer",
+    "fetched_on": "2025-11-17T11:19:24.805917+00:00",
+    "content": "An Ohio man weighing how to spend a sizable bonus is getting a blunt piece of financial advice from Dave Ramsey: Stop the stupidity and pay off student loans first.\r\nThe caller to The Ramsey Show sai… [+4628 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ramsey",
+      "Ohio",
+      "man",
+      "spending",
+      "mortgage",
+      "Dave",
+      "weighing",
+      "student",
+      "loans",
+      "bonus"
+    ]
   }
 ]
