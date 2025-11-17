@@ -176704,5 +176704,45 @@
       "slow",
       "finishes"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aaradhya-is-a-very-normal-kid-all-credit-should-go-to-my-wife-aishwarya-when-abhishek-bachchan-spoke-about-his-daughter-being-in-the-limelight-belonging-to-a-film-family-exclusive/articleshow/125359284.cms",
+    "title": "'Aaradhya is a very normal kid, all credit should go to my wife Aishwarya': When Abhishek Bachchan spoke about his daughter being in the limelight belonging to a film family' - EXCLUSIVE",
+    "fetched_on": "2025-11-17T04:27:47.138589+00:00",
+    "content": "<ul><li>News</li>\r\n<li>entertainment</li>\r\n<li>hindi</li>\r\n<li>bollywood</li>\r\n<li>'Aaradhya is a very normal kid, all credit should go to my wife Aishwarya': When Abhishek Bachchan spoke about his d… [+2295 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aaradhya",
+      "Aishwarya",
+      "Abhishek",
+      "Bachchan",
+      "kid",
+      "normal",
+      "credit",
+      "wife",
+      "spoke",
+      "EXCLUSIVE"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-stranger-things-the-first-shadow-starring-louis-mccartney-on-broadway/article",
+    "title": "Review: ‘Stranger Things: The First Shadow,’ starring Louis McCartney, on Broadway",
+    "fetched_on": "2025-11-17T04:27:47.138589+00:00",
+    "content": "Louis McCartney in 'Stranger Things: The First Shadow.' Photo Credit: Matthew Murphy and Evan Zimmerman.\r\nTony-nominated actor Louis McCartney stars as Henry Creel in “Stranger Things: The First Shad… [+2989 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shadow",
+      "Stranger",
+      "Things",
+      "Louis",
+      "Broadway",
+      "Review",
+      "McCartney",
+      "starring",
+      "Credit",
+      "Matthew"
+    ]
   }
 ]
