@@ -176861,5 +176861,45 @@
       "strategy",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-17/gundlach-slams-garbage-lending-in-private-credit-market",
+    "title": "Jeffrey Gundlach Warns of ‘Garbage Lending’ as Private Credit Booms",
+    "fetched_on": "2025-11-17T09:26:58.931281+00:00",
+    "content": "In markets awash in “garbage lending” and unhealthy valuations, Jeffrey Gundlach is keeping his strategy simple: load up on cash and stay away from private credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jeffrey",
+      "Garbage",
+      "Gundlach",
+      "Private",
+      "Credit",
+      "Warns",
+      "Lending’",
+      "Booms",
+      "lending",
+      "valuations"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20251114PD219/taiwan-data-software-taipei-revenue.html",
+    "title": "Salesforce brings AI Agents to Taiwan, aims to accelerate enterprise transformation",
+    "fetched_on": "2025-11-17T09:26:58.439577+00:00",
+    "content": "Yasuhide Inoue, Salesforce's Senior Vice President. Credit: DIGITIMESSalesforce, the global enterprise software giant, hosted Salesforce Innovation Day Taipei on November 13, unveiling its latest age… [+77 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Taiwan",
+      "Inoue",
+      "President",
+      "Agents",
+      "Yasuhide",
+      "Senior",
+      "Vice",
+      "Salesforce",
+      "aims",
+      "enterprise"
+    ]
   }
 ]
