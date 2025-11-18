@@ -22,21 +22,21 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-17/new-fortress-energy-in-forbearance-talks-as-debt-deadline-looms",
-    "title": "New Fortress Energy in Forbearance Talks as Debt Deadline Looms",
-    "fetched_on": "2025-11-18T01:42:30.937655+00:00",
-    "content": "Wes Edens' New Fortress Energy Inc. is in talks with creditors over a forbearance agreement as it runs out of time to pay interest due on some of its debt amid struggles with project delays and cash flow.",
+    "title": "New Fortress Energy Wins Debt Reprieve Amid Restructuring",
+    "fetched_on": "2025-11-18T16:29:42.525548+00:00",
+    "content": "Wes Edens\u2019 New Fortress Energy Inc. struck an agreement with creditors to delay interest payments on some of its borrowings, as it continues to navigate a debt burden amid project delays and dwindling cash flow.",
     "platforms_mentioned": [],
     "keywords": [
       "Fortress",
       "Energy",
-      "Forbearance",
-      "Talks",
-      "Debt",
-      "Deadline",
-      "Looms",
+      "Wins",
+      "Reprieve",
+      "Restructuring",
       "Wes",
       "Edens\u2019",
-      "Inc."
+      "Debt",
+      "Amid",
+      "struck"
     ]
   },
   {
@@ -63,7 +63,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-17/top-australia-banker-says-housing-market-heat-raising-concerns",
     "title": "Top Australia Banker Says Housing Market Heat Raising Concerns",
-    "fetched_on": "2025-11-18T15:24:33.456850+00:00",
+    "fetched_on": "2025-11-18T16:29:43.162933+00:00",
     "content": "Commonwealth Bank of Australia Chief Executive Officer Matt Comyn hinted that the current buoyancy in credit funding the nation\u2019s housing market has reached a level that is concerning to policymakers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -260,10 +260,10 @@
     ]
   },
   {
-    "source": "CNBC Markets [RSS]",
+    "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2025/11/17/aca-tax-credits-hsa-cassidy-obamacare-congress.html",
     "title": "Senate Republican pitches swapping enhanced ACA tax credits with health savings accounts",
-    "fetched_on": "2025-11-18T15:24:53.586317+00:00",
+    "fetched_on": "2025-11-18T16:30:00.444015+00:00",
     "content": "The federal government shut down for more than six week because of Democrats' insistence that a funding plan extend enhanced ACA subsidies past December",
     "platforms_mentioned": [],
     "keywords": [
@@ -283,7 +283,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html",
     "title": "New York Fed met with Wall Street firms about key lending facility: FT",
-    "fetched_on": "2025-11-18T15:24:53.779206+00:00",
+    "fetched_on": "2025-11-18T16:30:00.960993+00:00",
     "content": "The Fed sought feedback from dealers on the use of the central bank's standing repo facility, a permanent lending tool that acts as a backstop for markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -303,7 +303,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/10/why-the-trump-administration-wants-to-allow-crypto-backed-mortgages.html",
     "title": "The Trump administration wants to allow crypto-backed mortgages. Here's why",
-    "fetched_on": "2025-11-18T15:24:53.709972+00:00",
+    "fetched_on": "2025-11-18T16:30:00.856724+00:00",
     "content": "Fannie Mae and Freddie Mac could allow crypto holdings to be included in mortgage risk assessments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -323,7 +323,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
     "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
-    "fetched_on": "2025-11-18T15:24:53.709986+00:00",
+    "fetched_on": "2025-11-18T16:30:00.856738+00:00",
     "content": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -343,7 +343,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-18T15:24:53.710034+00:00",
+    "fetched_on": "2025-11-18T16:30:00.856785+00:00",
     "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-18T15:24:53.710040+00:00",
+    "fetched_on": "2025-11-18T16:30:00.856792+00:00",
     "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
     "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
-    "fetched_on": "2025-11-18T15:24:53.710067+00:00",
+    "fetched_on": "2025-11-18T16:30:00.856819+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/13/visa-mastercard-legal-settlement-what-you-need-to-know.html",
     "title": "What the Visa, Mastercard legal settlement means for your rewards credit card",
-    "fetched_on": "2025-11-18T15:24:53.936583+00:00",
+    "fetched_on": "2025-11-18T16:30:01.232318+00:00",
     "content": "A Visa and MasterCard settlement with merchants announced earlier this week could bring changes to your experience checking out.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/faa-flight-cancellations-credit-card-travel-insurance.html",
     "title": "As FAA order triggers flight cancellations and delays, what to know about credit card travel insurance",
-    "fetched_on": "2025-11-18T15:24:53.936640+00:00",
+    "fetched_on": "2025-11-18T16:30:01.232372+00:00",
     "content": "The shutdown of the U.S. federal government is causing flight delays and cancellations. What to know about travel credit card insurance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/student-loan-forgiveness-notices.html",
     "title": "Student loan forgiveness notices are going out despite the shutdown \u2014 what borrowers need to do next",
-    "fetched_on": "2025-11-18T15:24:53.936654+00:00",
+    "fetched_on": "2025-11-18T16:30:01.232385+00:00",
     "content": "Borrowers are getting notices of student loan forgiveness. Here's what experts say their next steps should be.",
     "platforms_mentioned": [],
     "keywords": [
@@ -481,7 +481,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-18/korea-houshold-debt-stays-high-keeping-bok-wary-before-meeting",
     "title": "Korea Household Debt Stays High, Keeping BOK Wary Before Meeting",
-    "fetched_on": "2025-11-18T15:24:33.456826+00:00",
+    "fetched_on": "2025-11-18T16:29:43.162908+00:00",
     "content": "Growth in South Korea\u2019s household debt levels slowed while staying elevated on the back of steady mortgage lending, in data backing the case for the Bank of Korea to refrain from resuming the monetary easing cycle when authorities meet next week.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1650,28 +1650,28 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-18/klarna-revenue-surges-as-longer-term-loan-book-more-than-doubles",
-    "title": "Klarna Revenue Surges as Longer-Term Loan Book More Than Doubles",
-    "fetched_on": "2025-11-18T14:21:49.914234+00:00",
-    "content": "Klarna Group Plc reported record revenue that beat estimates for its third quarter, in its first set of earnings since going public.",
+    "title": "Klarna Revenue Surges Yet Longer Loans Trigger Provisions",
+    "fetched_on": "2025-11-18T16:29:42.525560+00:00",
+    "content": "Klarna Group Plc reported record revenue that beat estimates for its third quarter, while setting aside more provisions for credit losses, in its first set of earnings since going public.",
     "platforms_mentioned": [],
     "keywords": [
       "Klarna",
       "Revenue",
+      "Provisions",
       "Surges",
-      "Loan",
-      "Book",
-      "Doubles",
+      "Longer",
+      "Loans",
+      "Trigger",
       "Group",
       "Plc",
-      "quarter",
-      "public"
+      "quarter"
     ]
   },
   {
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-18/s-africa-s-godongwana-says-not-preoccupied-with-credit-rating",
     "title": "South Africa\u2019s Godongwana Says Not Preoccupied With Credit Rating",
-    "fetched_on": "2025-11-18T15:24:33.456678+00:00",
+    "fetched_on": "2025-11-18T16:29:43.162776+00:00",
     "content": "South African Finance Minister Enoch Godongwana said the country will adopt a new fiscal anchor to put public finances on a sustainable path, though doing so faces a tough political battle.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1691,7 +1691,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-18/elliott-inks-deal-to-buy-up-to-6-5-billion-of-klarna-s-us-loans",
     "title": "Elliott Inks Deal to Buy Up to $6.5 Billion of Klarna\u2019s US Loans",
-    "fetched_on": "2025-11-18T15:24:33.542819+00:00",
+    "fetched_on": "2025-11-18T16:29:43.305587+00:00",
     "content": "Klarna Group Plc has agreed to sell as much as $6.5 billion of its longer-term loans to funds controlled by Elliott Investment Management as part of the fintech\u2019s push to free up capital in order to expand further in the US.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1765,7 +1765,7 @@
     "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-18/trump-tells-congress-to-not-waste-time-on-obamacare-subsidies",
     "title": "Trump Tells Congress Don\u2019t \u2018Waste\u2019 Time on Obamacare Credits",
-    "fetched_on": "2025-11-18T15:24:33.090522+00:00",
+    "fetched_on": "2025-11-18T16:29:42.703263+00:00",
     "content": "President Donald Trump said he will not support legislation to extend expanded Affordable Care Act subsidies even as senators are preparing to tee up a vote on the issue, complicating his party\u2019s efforts to address health care costs.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1785,7 +1785,7 @@
     "source": "Investing.com (English) [RSS]",
     "url": "https://www.investing.com/news/stock-market-news/klarna-strikes-65-billion-loan-deal-with-elliott-funds-to-boost-us-push-4365107",
     "title": "Klarna strikes $6.5 billion loan deal with Elliott funds to boost US push",
-    "fetched_on": "2025-11-18T15:24:42.696085+00:00",
+    "fetched_on": "2025-11-18T16:29:53.211907+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1815,6 +1815,379 @@
       "Risk",
       "Love",
       "head"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-18/expect-some-cracks-in-credit-sundar-video",
+    "title": "Expect Some Cracks in Credit: Sundar",
+    "fetched_on": "2025-11-18T16:29:42.525519+00:00",
+    "content": "Sitara Sundar, Head of Alternative Investment Strategy at JPMorgan Private Bank, says while she expects cracks in credit, there aren't signs of macro credit stress. She speaks to Bloomberg's Matt Miller on 'Bloomberg Brief.'\n\n (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sundar",
+      "Credit",
+      "Cracks",
+      "Head",
+      "Bank",
+      "Sitara",
+      "Alternative",
+      "Investment",
+      "Strategy",
+      "Private"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/business/exclusive-weinsteins-saba-sells-credit-derivatives-big-tech-ai-risks-grow-source-says-5472831",
+    "title": "Exclusive-Weinstein's Saba sells credit derivatives on Big Tech\u00a0as AI risks grow, source says",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "LONDON :Boaz Weinstein's Saba Capital Management has sold credit derivatives in recent months to lenders seeking protection on big tech names like Oracle and Microsoft due to concerns over a debt-fin\u2026 [+3619 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Big",
+      "chars",
+      "LONDON",
+      "Boaz",
+      "Saba",
+      "Tech",
+      "Weinstein",
+      "Capital",
+      "Management",
+      "Oracle"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8efbf2b6ebef9da3",
+    "title": "Jefferies Shops Up to $1.2 Billion Power Debt to Take Out Private Credit",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Netflix stock split today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is Jeff Bezos shaping the new AI s\u2026 [+745 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Billion",
+      "Credit",
+      "return",
+      "false",
+      "Shops",
+      "Power",
+      "Debt"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/jefferies-shops-up-to-1-2-billion-power-debt-to-take-out-private-credit",
+    "title": "Jefferies Shops Up to $1.2 Billion Power Debt to Take Out Private Credit",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "(Bloomberg) Jefferies Financial Group Inc. is shopping as much as $1.2 billion in debt for power infrastructure companies to take loans out of the hands of direct lenders, according to people familia\u2026 [+4126 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jefferies",
+      "Billion",
+      "Bloomberg",
+      "Credit",
+      "Power",
+      "Debt",
+      "chars",
+      "Shops",
+      "Private",
+      "Financial"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/exclusive-weinsteins-saba-sells-credit-162754901.html",
+    "title": "Exclusive-Weinstein's Saba sells credit derivatives on Big Tech\u00a0as AI risks grow, source says",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "By Nell Mackenzie and Lucy Raitano\r\nLONDON (Reuters) -Boaz Weinstein's Saba Capital Management has sold credit derivatives in recent months to lenders seeking protection on big tech names like Oracle\u2026 [+3763 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "Big",
+      "chars",
+      "LONDON",
+      "Boaz",
+      "Oracle",
+      "Saba",
+      "Tech",
+      "Nell",
+      "Mackenzie"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/guidance/universal-credit-if-you-have-children",
+    "title": "Universal Credit if you have children",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Extra amount for children\r\nIf you get Universal Credit, you could get an extra amount to help support your children if they normally live with you.\u00a0\r\nUniversal Credit pays the extra amount for your f\u2026 [+10069 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Universal",
+      "Extra",
+      "children",
+      "amount",
+      "support",
+      "live",
+      "chars",
+      "pays"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/financial-crisis-prediction-private-credit-jeffrey-gundlach-economy-2008-subprime-2025-11",
+    "title": "Legendary investor Jeffrey Gundlach says 'garbage lending' means the next crisis will be in private markets",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Jeffrey Gundlach doesn't think the next financial crisis is lurking in the booming world of private markets. \r\nThe CEO of $91 billion bond firm DoubleLine recently shared his take on an episode of Od\u2026 [+2782 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jeffrey",
+      "Gundlach",
+      "private",
+      "markets",
+      "crisis",
+      "Legendary",
+      "garbage",
+      "lending",
+      "investor",
+      "financial"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/video/kkrs-sheldon-not-seeing-signs-161619610.html",
+    "title": "KKR's Sheldon Not Seeing Signs of Gundlach's 'Garbage Lending' Concerns",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Christopher Sheldon, KKR's co-head of credit and markets, says he disagrees with DoubleLine Capital CEO Jeffrey Gundlach, who says the next big crisis for the financial markets is private credit. Spe\u2026 [+196 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KKR",
+      "Gundlach",
+      "Sheldon",
+      "Garbage",
+      "Lending",
+      "Concerns",
+      "Signs",
+      "Christopher",
+      "Capital",
+      "CEO"
+    ]
+  },
+  {
+    "source": "Crypto Coins News [NewsAPI]",
+    "url": "https://www.ccn.com/news/crypto/coinmarketcap-cmc20-index-tokens-multi-coin-etfs/",
+    "title": "CoinMarketCap Launches CMC20 \u2014 Index Tokens Compete With Multi-Coin ETFs",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Index tokens like CMC20 track a basket of cryptocurrencies. Credit: Nataliya Vaitkevich via Pexels.\r\nKey Takeaways\r\n<ul><li>CoinMarketCap has launched a new intex token.\r\n</li><li>CMC20 tracks a bask\u2026 [+2468 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Index",
+      "Launches",
+      "Compete",
+      "cryptocurrencies",
+      "CoinMarketCap",
+      "Tokens",
+      "Nataliya",
+      "Pexels",
+      "Multi-Coin",
+      "ETFs"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://golfweek.usatoday.com/story/sports/golf/pga/2025/11/17/adam-schenk-nice-carpet-hotel-room-first-pga-tour-win-butterfield-bermuda/87309546007/",
+    "title": "Adam Schenk says the nice carpet in his hotel room helped him win Butterfield Bermuda",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Adam Schenk is a winner on the PGA Tour and he credits earning that maiden victory on Sunday on some nice carpet.\r\nFor real. Schenk, whose final round at a windy Port Royal Golf Course at the Butterf\u2026 [+2117 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Adam",
+      "Butterfield",
+      "Bermuda",
+      "PGA",
+      "Tour",
+      "Sunday",
+      "nice",
+      "carpet",
+      "Schenk",
+      "hotel"
+    ]
+  },
+  {
+    "source": "Columbia.edu [NewsAPI]",
+    "url": "https://news.climate.columbia.edu/2025/11/17/arsenic-chronic-illness-bangladesh/",
+    "title": "Reducing Arsenic in Drinking Water Cuts Risk of Death, Even After Years of Chronic Exposure",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Credit: Lingkon Serao\r\nA new 20-year study of nearly 11,000 adults in Bangladesh found that lowering arsenic levels in drinking water was associated with up to a 50 percent lower risk of death from h\u2026 [+6182 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Drinking",
+      "Water",
+      "Risk",
+      "Death",
+      "Credit",
+      "Lingkon",
+      "Arsenic",
+      "chars",
+      "Cuts",
+      "Years"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-in-talks-with-govt-for-credit-guarantee-scheme-for-risky-new-age-sectors-md/articleshow/125389221.cms",
+    "title": "SBI in talks with govt for credit guarantee scheme for risky new-age sectors: MD",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Mumbai: Country's largest lender SBI is in talks with the government for having a credit guarantee scheme for risky, new-age sectors, its managing director Ashwini Kumar Tewari said on Monday.SBI als\u2026 [+1756 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "sectors",
+      "SBI",
+      "talks",
+      "guarantee",
+      "scheme",
+      "Mumbai",
+      "Country",
+      "chars",
+      "credit",
+      "risky"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/buy-now-pay-later/2025/kkr-buy-75-billion-dollars-paypal-bnpl-loan-receivables-europe/",
+    "title": "KKR to Buy Up to $75 Billion of PayPal\u2019s BNPL Loan Receivables in Europe",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "PayPal Holdings and global investment firm KKR renewed their agreement in which KKRs credit funds and accounts purchase PayPals European buy now, pay later (BNPL) receivables.The new agreement includ\u2026 [+2608 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNPL",
+      "Billion",
+      "chars",
+      "Buy",
+      "KKR",
+      "Loan",
+      "Receivables",
+      "Europe",
+      "Holdings",
+      "European"
+    ]
+  },
+  {
+    "source": "Finovate.com [NewsAPI]",
+    "url": "https://finovate.com/fintech-rundown-a-rapid-review-of-weekly-news-92/",
+    "title": "Fintech Rundown: A Rapid Review of Weekly News",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Partnerships in payments and lending as well as new offerings in fraud prevention and self-directed investing are among the fintech news headlines as the week begins. With Thanksgiving around the cor\u2026 [+1455 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rundown",
+      "Rapid",
+      "Review",
+      "Weekly",
+      "Partnerships",
+      "Fintech",
+      "begins",
+      "payments",
+      "lending",
+      "offerings"
+    ]
+  },
+  {
+    "source": "mlive.com [NewsAPI]",
+    "url": "https://www.mlive.com/news/2025/11/heres-how-to-claim-your-credit-from-youtube-tv-following-disney-dispute.html",
+    "title": "Here\u2019s how to claim your credit from YouTube TV following Disney dispute",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Millions of YouTube TV subscribers can now redeem a credit good toward Decembers bill following a dispute with Disney. Although the two sides were finally able to come to an agreement to bring Disney\u2026 [+1160 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "Millions",
+      "Decembers",
+      "YouTube",
+      "credit",
+      "dispute",
+      "claim",
+      "subscribers",
+      "redeem",
+      "good"
+    ]
+  },
+  {
+    "source": "Loyaltylobby.com [NewsAPI]",
+    "url": "https://loyaltylobby.com/2025/11/17/reminder-to-use-hotel-program-certificates-credit-card-benefits-before-annual-expiration/",
+    "title": "Reminder To Use Hotel Program Certificates & Credit Card Benefits Before Annual Expiration",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "As we\u2019re moving with large steps towards the end of 2025, it\u2019s that time of the year again to remind our reader to take into account the leftover certificates and credits on their loyalty and credit \u2026 [+2712 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Certificates",
+      "Credit",
+      "Hotel",
+      "Program",
+      "Card",
+      "Benefits",
+      "Annual",
+      "Expiration",
+      "Reminder"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/samsung-galaxy-s25-ultra-black-friday-deal-3616454/",
+    "title": "Samsung\u2019s Galaxy S25 Ultra gets its Black Friday cut early, and it\u2019s big",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Samsung is also running its usual stack of promos on top. Theres up to $700 in instant trade-in credit and six months of Google AI Pro included, though you cant stack the instant savings and the trad\u2026 [+1605 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "Ultra",
+      "Samsung",
+      "Black",
+      "Friday",
+      "early",
+      "top",
+      "stack",
+      "cut",
+      "big"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/streamer-awards-2025-date-time-5488849/",
+    "title": "What Are the Streamer Awards 2025? Date, Time & How to Vote",
+    "fetched_on": "2025-11-18T16:29:41.927886+00:00",
+    "content": "Image Credit: Getty Images for QTCinderella\r\nAwards season is coming to an end soon, and the annual Streamer Awards has opened its voting process. Hosted by Twitch streamer, Wine About It podcast hos\u2026 [+2087 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Awards",
+      "Streamer",
+      "Time",
+      "Credit",
+      "Getty",
+      "Vote",
+      "Date",
+      "Wine",
+      "Image",
+      "Images"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/personal-loan-agreement-155252296.html",
+    "title": "How to read a personal loan agreement",
+    "fetched_on": "2025-11-18T16:30:01.474229+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "agreement",
+      "read",
+      "personal",
+      "loan"
     ]
   }
 ]
