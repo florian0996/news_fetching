@@ -179599,5 +179599,39 @@
       "Plc",
       "Investment"
     ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/ebrd-extends-10m-loan-winner-132550645.html",
+    "title": "EBRD extends €10m loan to Winner Leasing",
+    "fetched_on": "2025-11-18T13:33:21.561546+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EBRD",
+      "Leasing",
+      "Winner",
+      "extends",
+      "loan"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/klarna-strikes-6-5-billion-130936774.html",
+    "title": "Klarna strikes $6.5 billion loan deal with Elliott funds to boost US push",
+    "fetched_on": "2025-11-18T13:33:21.561645+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Elliott",
+      "Klarna",
+      "strikes",
+      "billion",
+      "push",
+      "loan",
+      "deal",
+      "funds",
+      "boost"
+    ]
   }
 ]
