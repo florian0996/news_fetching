@@ -181901,5 +181901,85 @@
       "cash",
       "purchases"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-18/jefferies-hires-mizuho-banker-to-lead-private-debt-in-india",
+    "title": "Jefferies Hires Mizuho Banker to Lead Private Debt in India",
+    "fetched_on": "2025-11-19T03:13:03.782440+00:00",
+    "content": "Jefferies Financial Group Inc. hired a banker from Mizuho Financial Group Inc. to lead its private credit advisory business in India, the latest firm to wade into the nation’s booming alternative funding market.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group",
+      "Jefferies",
+      "Financial",
+      "Hires",
+      "Debt",
+      "Mizuho",
+      "India",
+      "Banker",
+      "Lead",
+      "Private"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-19/usd-php-new-philippine-finance-chief-seen-retaining-policies-rating-firms-say",
+    "title": "New Philippine Finance Minister Expected to Retain Policies, Rating Firms Say",
+    "fetched_on": "2025-11-19T03:13:04.297510+00:00",
+    "content": "The Philippines’ credit profile is expected to be unaffected under the new finance minister with rating agencies, which rank the nation as investment grade, expecting policy continuity.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "Minister",
+      "Expected",
+      "Policies",
+      "Rating",
+      "Philippine",
+      "Retain",
+      "Firms",
+      "Philippines’",
+      "agencies"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/emmy-nominee-christian-weissmann-talks-about-the-bold-and-the-beautiful/article",
+    "title": "Emmy nominee Christian Weissmann talks about ‘The Bold and The Beautiful’",
+    "fetched_on": "2025-11-19T03:13:01.686722+00:00",
+    "content": "Christian Weissmann. Photo Credit: Luke Fontana.\r\nEmmy-nominated actor Christian Weissmann chatted about being a part of the CBS daytime drama “The Bold and The Beautiful,” where he plays Remy Pryce.… [+8723 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Christian",
+      "Weissmann",
+      "Beautiful’",
+      "Bold",
+      "Emmy",
+      "nominee",
+      "talks",
+      "Credit",
+      "Luke",
+      "Fontana"
+    ]
+  },
+  {
+    "source": "Frequentmiler.com [NewsAPI]",
+    "url": "https://frequentmiler.com/mattress-running-versailles/",
+    "title": "Mattress running Versailles",
+    "fetched_on": "2025-11-19T03:13:01.686722+00:00",
+    "content": "A few overlapping Wyndham promotions and a Platinum credit card perk add up to a compelling two-night stay that could cost as little as $90 out of pocket, but would include a $100 property credit, a … [+4172 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "credit",
+      "Versailles",
+      "Wyndham",
+      "Platinum",
+      "Mattress",
+      "pocket",
+      "property",
+      "running",
+      "overlapping"
+    ]
   }
 ]
