@@ -181981,5 +181981,65 @@
       "running",
       "overlapping"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-19/apollo-s-rowan-on-cockroaches-in-private-credit-video",
+    "title": "Apollo's Rowan on 'Cockroaches' in Private Credit",
+    "fetched_on": "2025-11-19T04:26:11.698150+00:00",
+    "content": "Apollo's Marc Rowan says he’s not worried about Jamie Dimon’s reference to hidden “cockroaches” in private credit. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Rowan",
+      "Cockroaches'",
+      "Credit",
+      "Apollo",
+      "Marc",
+      "Jamie",
+      "Dimon",
+      "Source",
+      "Bloomberg"
+    ]
+  },
+  {
+    "source": "Bitcoinist [NewsAPI]",
+    "url": "https://bitcoinist.com/aave-labs-announces-app-release-on-apples-platform/",
+    "title": "Aave Labs Announces App Release On Apple’s Platform: Features And Expectations",
+    "fetched_on": "2025-11-19T04:26:10.936700+00:00",
+    "content": "Aave Labs, the developer behind the decentralized cryptocurrency lending platform Aave (AAVE), announced on Monday its intentions to launch a new app on Apples App Store.\r\nAave Labs Introduces Saving… [+2948 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "App",
+      "Aave",
+      "Labs",
+      "Platform",
+      "Features",
+      "Store",
+      "Apple",
+      "Apples",
+      "Announces",
+      "Release"
+    ]
+  },
+  {
+    "source": "Thenightly.com.au [NewsAPI]",
+    "url": "https://thenightly.com.au/business/cba-ceo-matt-comyn-sounds-alarm-on-soaring-home-loans-and-interest-rates-urges-government-to-rein-in-big-tech-c-20711077",
+    "title": "CBA CEO Matt Comyn sounds alarm on soaring home loans and interest rates, urges government to rein in big tech",
+    "fetched_on": "2025-11-19T04:26:10.936700+00:00",
+    "content": "Commonwealth Bank of Australia chief executive Matt Comyn warned Australians are taking on too much mortgage debt and should prepare themselves for no interest rate cuts over the next 12 months.\r\nThe… [+5350 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Matt",
+      "Comyn",
+      "CBA",
+      "months",
+      "CEO",
+      "Commonwealth",
+      "Bank",
+      "Australia",
+      "Australians",
+      "interest"
+    ]
   }
 ]
