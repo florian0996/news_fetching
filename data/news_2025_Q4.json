@@ -186200,5 +186200,45 @@
       "UNLIMITED",
       "Customer"
     ]
+  },
+  {
+    "source": "Skift [NewsAPI]",
+    "url": "http://skift.com/2025/11/18/indias-aviation-to-face-slower-growth-higher-losses-this-year/",
+    "title": "India’s Aviation to Face Slower Growth, Higher Losses This Year",
+    "fetched_on": "2025-11-20T04:24:38.710143+00:00",
+    "content": "Indias aviation sector saw steady, but subdued passenger growth last month with domestic traffic rising 4.5% year-on-year, according to a new report by credit ratings agency ICRA. During the month, t… [+753 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Higher",
+      "ICRA",
+      "Aviation",
+      "Growth",
+      "Face",
+      "Slower",
+      "Losses",
+      "Year",
+      "steady",
+      "rising"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/bd392f219d299308",
+    "title": "Hong Kong lenders tread carefully amid mixed recovery signs: TransUnion",
+    "fetched_on": "2025-11-20T04:24:38.710143+00:00",
+    "content": "Following the recent rate cut, Hong Kong lenders are cautiously easing household lending as they navigate a recovery that remains uneven and filled with mixed signals, according to credit reference a… [+135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hong",
+      "Kong",
+      "chars",
+      "lenders",
+      "signs",
+      "TransUnion",
+      "cut",
+      "signals",
+      "mixed",
+      "recovery"
+    ]
   }
 ]
