@@ -186240,5 +186240,61 @@
       "mixed",
       "recovery"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-20/australian-ai-startup-firmus-technologies-in-debt-funding-talks",
+    "title": "Australian AI Startup Firmus Technologies in Debt Funding Talks",
+    "fetched_on": "2025-11-20T05:21:33.676689+00:00",
+    "content": "Firmus Technologies Pty., an Australian artificial intelligence technology firm, is in talks with potential financiers, including private credit funds, to raise debt for an expansion of data centers powered by Nvidia Corp. chips, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Firmus",
+      "Technologies",
+      "Pty.",
+      "Corp",
+      "Australian",
+      "Debt",
+      "Talks",
+      "Startup",
+      "Funding",
+      "Nvidia"
+    ]
+  },
+  {
+    "source": "Americanthinker.com [NewsAPI]",
+    "url": "https://www.americanthinker.com/articles/2025/11/how_the_fed_messes_it_all_up.html",
+    "title": "How the Fed Messes It All Up",
+    "fetched_on": "2025-11-20T05:21:32.844772+00:00",
+    "content": "“The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain long run growth of the monetary and credit aggregates commensurate with the economy’s long r… [+6224 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Federal",
+      "long",
+      "chars",
+      "Fed",
+      "Messes",
+      "Board",
+      "Governors",
+      "Reserve",
+      "System",
+      "Open"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/lending-protocols-inch-along-potential-173405356.html",
+    "title": "New lending protocols inch along in potential boon for ‘underbanked’",
+    "fetched_on": "2025-11-20T05:21:53.745631+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "underbanked’",
+      "lending",
+      "protocols",
+      "inch",
+      "potential",
+      "boon"
+    ]
   }
 ]
