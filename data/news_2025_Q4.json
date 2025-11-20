@@ -186574,5 +186574,105 @@
       "year",
       "logged"
     ]
+  },
+  {
+    "source": "The-independent.com [NewsAPI]",
+    "url": "https://www.the-independent.com/life-style/health-and-families/adhd-inventions-electronics-eneni-bambara-abban-b2867973.html",
+    "title": "‘My ADHD led me to invent fingernails that could link to a credit card’",
+    "fetched_on": "2025-11-20T09:23:15.072539+00:00",
+    "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+7144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tech",
+      "story",
+      "ADHD",
+      "Big",
+      "Independent",
+      "developing",
+      "led",
+      "invent",
+      "fingernails",
+      "link"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/tracker_posts/business-at-risk-how-credit-unions-can-attract-and-keep-smb-members/",
+    "title": "Business at Risk: How Credit Unions Can Attract—and Keep—SMB Members",
+    "fetched_on": "2025-11-20T09:23:15.072539+00:00",
+    "content": "Small to mid-sized businesses (SMBs) have long trusted credit unions (CUs) for relationship-based service, but many are looking elsewhere. As digital competitors raise expectations, CUs risk losing b… [+10289 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Attract",
+      "Credit",
+      "Unions",
+      "Members",
+      "Small",
+      "SMB",
+      "SMBs",
+      "CUs",
+      "Business",
+      "businesses"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/smbs/2025/more-businesses-want-credit-built-around-their-cash-flow/",
+    "title": "More Businesses Want Credit Built Around Their Cash Flow",
+    "fetched_on": "2025-11-20T09:23:15.072539+00:00",
+    "content": "Small to medium-sized businesses (SMBs) rely on credit as a safety net and catalyst for growth.\r\nThey need cards that match the rhythm of their operations, support their cash flow patterns, and allow… [+7527 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Businesses",
+      "Credit",
+      "SMBs",
+      "Cash",
+      "Built",
+      "Small",
+      "Flow",
+      "rely",
+      "growth",
+      "medium-sized"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/19/3190655/0/en/Ethereum-Based-Mutuum-Finance-MUTM-Confirms-Q4-2025-V1-Launch-as-Phase-6-Nears-99-Completion.html",
+    "title": "Ethereum-Based Mutuum Finance (MUTM) Confirms Q4 2025 V1 Launch as Phase 6 Nears 99% Completion",
+    "fetched_on": "2025-11-20T09:23:15.072539+00:00",
+    "content": "DUBAI, United Arab Emirates, Nov. 19, 2025 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n is entering its most important stage yet. The team has confirmed that the first public version of its lending pr… [+5892 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Confirms",
+      "Nov.",
+      "Mutuum",
+      "Launch",
+      "Phase",
+      "Completion",
+      "DUBAI",
+      "United"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/kenya-e-motorcycle-company-plugs-into-carbon-offsets-trade",
+    "title": "Kenya E-Motorcycle Company Plugs Into Carbon-Offsets Trade",
+    "fetched_on": "2025-11-20T09:23:15.072539+00:00",
+    "content": "(Bloomberg) Roam is in talks to trade carbon-credit offsets from the motorcycles it produces as the Kenya-based electric-mobility startup undertakes a crowd-funding campaign to boost working capital.… [+4592 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "chars",
+      "Roam",
+      "Trade",
+      "Company",
+      "Plugs",
+      "Kenya-based",
+      "Kenya",
+      "capital.",
+      "E-Motorcycle"
+    ]
   }
 ]
