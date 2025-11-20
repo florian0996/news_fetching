@@ -190082,5 +190082,144 @@
       "Lending",
       "Buyer"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-11-20/bloomberg-businessweek-daily-credit-market-cracks-podcast",
+    "title": "Bloomberg Businessweek Daily: Credit Market Cracks (Podcast)",
+    "fetched_on": "2025-11-20T23:19:49.764883+00:00",
+    "content": "Source: Bloomberg, 40:34",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Source",
+      "Bloomberg",
+      "40:34",
+      "Daily",
+      "Credit",
+      "Cracks",
+      "Businessweek",
+      "Market"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-20/mexico-fintech-aviva-inks-50-million-credit-line-from-cim-to-boost-microloans",
+    "title": "Mexico Fintech Inks $50 Million Credit Line to Boost Microloans",
+    "fetched_on": "2025-11-20T23:19:49.855617+00:00",
+    "content": "Mexican fintech Aviva secured a $50 million credit facility from San Francisco-based Community Investment Management as it seeks to expand lending at a time when venture capital dealmaking in Latin America is hovering near seven-year lows.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Inks",
+      "Credit",
+      "Fintech",
+      "Line",
+      "Boost",
+      "Microloans",
+      "Mexican",
+      "Aviva",
+      "San"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/what-happens-after-i-pay-off-my-loan-225557790.html",
+    "title": "What happens after I pay off my loan?",
+    "fetched_on": "2025-11-20T23:19:49.100217+00:00",
+    "content": "There are only a few more payments left on your loan, and youre ready to celebrate. But before you close out the account, you need to know what comes next.\r\nPaying off a personal loan isnt simply abo… [+7012 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "pay",
+      "celebrate",
+      "chars",
+      "account",
+      "payments",
+      "left",
+      "youre",
+      "ready",
+      "Paying"
+    ]
+  },
+  {
+    "source": "IGN [NewsAPI]",
+    "url": "https://www.ign.com/articles/amazon-audible-black-friday-deal-2025",
+    "title": "The Audible Black Friday Deal Is Live - Get 3 Months of Premium Plus for $0.99/mo, Plus $20 in Audible Credit",
+    "fetched_on": "2025-11-20T23:19:49.100217+00:00",
+    "content": "Audible's Black Friday deal has already kicked off, and it's one of the best I've seen in quite a while. Starting now and running through December 1 (Cyber Monday), new and returning Audible subscrib… [+3914 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Black",
+      "Friday",
+      "Audible",
+      "Deal",
+      "Live",
+      "Months",
+      "Premium",
+      "Credit",
+      "kicked",
+      "December"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5c70052c842eaf0e",
+    "title": "BlackRock Private Credit CLO Fails Key Tests as Bad Loans Mount",
+    "fetched_on": "2025-11-20T23:19:49.100217+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Nvidia stock surge after earnings? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Trump's tariffs affect… [+767 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Mount",
+      "return",
+      "false",
+      "Private",
+      "Credit",
+      "CLO",
+      "Fails"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/do-you-recognize-what-game-titles-these-letters-are-from-lets-get-alphabetical-in-our-latest-quiz/",
+    "title": "Do you recognize what game titles these letters are from? Let's get alphabetical in our latest quiz!",
+    "fetched_on": "2025-11-20T23:19:49.100217+00:00",
+    "content": "(Image credit: Larian Studios, PC Gamer)\r\nWant to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes, on everything from healthbars to weird currencies to absurd patc… [+1080 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gamer",
+      "recognize",
+      "game",
+      "titles",
+      "letters",
+      "Image",
+      "Larian",
+      "Studios",
+      "quiz",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c6867978c6aeb553",
+    "title": "BDCs Face Rising Credit-Quality Pressure Into 2026, Fitch Says",
+    "fetched_on": "2025-11-20T23:19:49.100217+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Nvidia stock surge after earnings? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Trump's tariffs affect… [+765 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Fitch",
+      "return",
+      "false",
+      "Face",
+      "Rising",
+      "Pressure",
+      "Nvidia"
+    ]
   }
 ]
