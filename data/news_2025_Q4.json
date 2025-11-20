@@ -189330,5 +189330,105 @@
       "scenes",
       "borrow"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-20/ares-regions-lead-800-million-of-direct-loans-to-food-supplier",
+    "title": "Ares, Regions Lead $800 Million of Direct Loans to Food Supplier",
+    "fetched_on": "2025-11-20T19:17:46.282584+00:00",
+    "content": "Ares Management Corp. and Regions Bank led $800 million of private credit loans as part of a $1.1 billion refinancing for Palladium Equity Partners-backed Quirch Foods, according to people with knowledge of the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Regions",
+      "Lead",
+      "Loans",
+      "Direct",
+      "Supplier",
+      "Management",
+      "Corp.",
+      "Bank",
+      "Palladium"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/four-seasons-curates-multi-property-experiences-in-bali-spain-and-mexico/",
+    "title": "Four Seasons curates multi-property experiences in Bali, Spain and Mexico",
+    "fetched_on": "2025-11-20T19:17:45.714706+00:00",
+    "content": "Travel and hospitality\r\nNovember 19, 2025\r\n The company is allowing its clients to dig deeper into three countries respective cultural touchstones. Image credit: Four Seasons \r\n By Zach James for Lux… [+6280 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bali",
+      "Spain",
+      "November",
+      "Seasons",
+      "Mexico",
+      "Travel",
+      "touchstones",
+      "chars",
+      "Lux",
+      "curates"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/stargazing/astrophotography/-interstellar-comet-3iatlas-shines-in-new-image-captured-after-close-pass-by-the-sun-photo-nov-19-2025",
+    "title": "Interstellar comet 3I/ATLAS shines in new image captured after close pass by the sun (photo)",
+    "fetched_on": "2025-11-20T19:17:45.714706+00:00",
+    "content": "Interstellar comet 3I/ATLAS captured by astronomer Gianluca Masi on Nov. 19. (Image credit: Gianluca Masi, Virtual Telescope Project)\r\nAstronomer Gianluca Masi captured a spectacular image of interst… [+2234 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gianluca",
+      "Masi",
+      "Interstellar",
+      "ATLAS",
+      "comet",
+      "astronomer",
+      "Nov.",
+      "Virtual",
+      "Project",
+      "photo"
+    ]
+  },
+  {
+    "source": "MobileSyrup [NewsAPI]",
+    "url": "https://mobilesyrup.com/2025/11/19/rbc-doordash-extend-partnership-free-dashpass/",
+    "title": "RBC and DoorDash extended partnership on free DashPass",
+    "fetched_on": "2025-11-20T19:17:45.714706+00:00",
+    "content": "RBC and DoorDash have extended their long-running partnership to offer free access to the latter’s DashPass subscription service.\r\nThrough this agreement, RBC credit cardholders and members of RBC’s … [+1127 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBC",
+      "DoorDash",
+      "extended",
+      "partnership",
+      "free",
+      "DashPass",
+      "service",
+      "long-running",
+      "offer",
+      "access"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/does-morgan-wallen-have-a-girlfriend-5184776/",
+    "title": "Does Morgan Wallen Have a Girlfriend? His Exes & Past Relationships",
+    "fetched_on": "2025-11-20T19:17:45.714706+00:00",
+    "content": "Image Credit: Andrew H. Walker/Shutterstock\r\nMorgan Wallen has dominated country music in recent years and continues to break records in the industry. The 32-year-old is also an awards darling and is… [+2221 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Girlfriend",
+      "Morgan",
+      "Wallen",
+      "Exes",
+      "Past",
+      "Credit",
+      "Andrew",
+      "Walker",
+      "Shutterstock",
+      "Relationships"
+    ]
   }
 ]
