@@ -186374,5 +186374,65 @@
       "Tether",
       "Bitcoin-Backed"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-20/australia-s-sovereign-fund-ceo-discusses-markets-video",
+    "title": "Australia’s Sovereign Fund CEO Discusses Markets",
+    "fetched_on": "2025-11-20T07:21:05.771911+00:00",
+    "content": "Raphael Arndt, CEO of Australia’s Future Fund, says US administration policy changes are increasing risks. He adds that private credit does not pose systemic concerns. He spoke exclusively with Haslinda Amin on the sidelines of Bloomberg’s New Economy Forum. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "CEO",
+      "Australia",
+      "Arndt",
+      "Sovereign",
+      "Discusses",
+      "Markets",
+      "Raphael",
+      "Future",
+      "risks"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/934436",
+    "title": "AmEx Statement Credit: Spend $800 at Microsoft, Get $200 Back @ American Express",
+    "fetched_on": "2025-11-20T07:21:05.016698+00:00",
+    "content": "DetailsSave the Offer to your eligible Card and spend $800 or more, in one or more transactions, online only at www.microsoft.com/en-au by 28/12/2025 to receive one $200 credit. Limited to first 20,0… [+1108 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Back",
+      "Credit",
+      "Spend",
+      "Microsoft",
+      "American",
+      "Statement",
+      "Express",
+      "Offer",
+      "Card",
+      "AmEx"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/entertainment/2025/1119/1541923-behind-the-music-jessica-willis-fisher/",
+    "title": "Behind the music - Jessica Willis Fisher",
+    "fetched_on": "2025-11-20T07:21:05.016698+00:00",
+    "content": "Photo credit: Sean Fisher @mr.bootstraps\r\nSinger-songwriter and fiddler Jessica Willis Fisher plays Your Roots Are Showing festival, which takes place between 13 and 18 January 2026 in Belfast's Wate… [+3880 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Willis",
+      "Fisher",
+      "January",
+      "Jessica",
+      "Sean",
+      "Wate",
+      "chars",
+      "Photo",
+      "Singer-songwriter",
+      "Roots"
+    ]
   }
 ]
