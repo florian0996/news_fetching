@@ -42,8 +42,8 @@
   {
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-19/blackrock-private-credit-clo-fails-key-tests-as-bad-loans-mount",
-    "title": "BlackRock Private Credit CLO Fails Key Tests as Bad Loans Mount",
-    "fetched_on": "2025-11-20T11:19:08.307325+00:00",
+    "title": "BlackRock Private Credit CLO Fails Tests as Bad Loans Mount",
+    "fetched_on": "2025-11-20T14:22:13.017798+00:00",
     "content": "A portfolio of private credit loans managed by BlackRock Inc. has performed so poorly that the money manager has waived some management fees \u2013 a rarity in the credit world.",
     "platforms_mentioned": [],
     "keywords": [
@@ -52,11 +52,11 @@
       "Loans",
       "CLO",
       "Fails",
-      "Key",
       "Tests",
       "Bad",
       "Mount",
-      "Inc."
+      "Inc.",
+      "fees"
     ]
   },
   {
@@ -303,7 +303,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/blue-owl-calls-off-merger-of-its-two-private-credit-funds-after-announcement-rattles-stock-sources-say.html",
     "title": "Blue Owl calls off merger of its two private credit funds after announcement rattles stock",
-    "fetched_on": "2025-11-20T13:31:59.938368+00:00",
+    "fetched_on": "2025-11-20T14:22:35.819534+00:00",
     "content": "Blue Owl has decided to call off the merging of two of its private credit funds after the deal caused some angst among investors, according to sources.",
     "platforms_mentioned": [],
     "keywords": [
@@ -323,7 +323,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/mortgage-rates-hit-highest-level-in-a-month-pushing-loan-demand-down-5percent.html",
     "title": "Mortgage rates hit highest level in a month, pushing loan demand down 5%",
-    "fetched_on": "2025-11-20T13:31:59.778302+00:00",
+    "fetched_on": "2025-11-20T14:22:35.648429+00:00",
     "content": "Mortgage rates rose to the highest level in a month last week, causing demand for home loans to drop. Demand, however, is still higher than a year ago.",
     "platforms_mentioned": [],
     "keywords": [
@@ -343,7 +343,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/10/why-the-trump-administration-wants-to-allow-crypto-backed-mortgages.html",
     "title": "The Trump administration wants to allow crypto-backed mortgages. Here's why",
-    "fetched_on": "2025-11-20T13:31:59.778388+00:00",
+    "fetched_on": "2025-11-20T14:22:35.648514+00:00",
     "content": "Fannie Mae and Freddie Mac could allow crypto holdings to be included in mortgage risk assessments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
     "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
-    "fetched_on": "2025-11-20T13:31:59.778403+00:00",
+    "fetched_on": "2025-11-20T14:22:35.648529+00:00",
     "content": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-20T13:31:59.778455+00:00",
+    "fetched_on": "2025-11-20T14:22:35.648579+00:00",
     "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-20T13:31:59.778463+00:00",
+    "fetched_on": "2025-11-20T14:22:35.648586+00:00",
     "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
     "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
-    "fetched_on": "2025-11-20T13:31:59.778491+00:00",
+    "fetched_on": "2025-11-20T14:22:35.648614+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html",
     "title": "New York Fed met with Wall Street firms about key lending facility: FT",
-    "fetched_on": "2025-11-20T13:31:59.938426+00:00",
+    "fetched_on": "2025-11-20T14:22:35.819599+00:00",
     "content": "The Fed sought feedback from dealers on the use of the central bank's standing repo facility, a permanent lending tool that acts as a backstop for markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/18/federal-student-loan-repayment.html",
     "title": "Millions of federal student loan borrowers will start repayment soon. Here's what to know",
-    "fetched_on": "2025-11-20T13:32:00.116061+00:00",
+    "fetched_on": "2025-11-20T14:22:36.242296+00:00",
     "content": "The grace period for federal student loan borrowers who graduated in May is ending. Here's what to know about starting payments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/13/visa-mastercard-legal-settlement-what-you-need-to-know.html",
     "title": "What the Visa, Mastercard legal settlement means for your rewards credit card",
-    "fetched_on": "2025-11-20T13:32:00.116156+00:00",
+    "fetched_on": "2025-11-20T14:22:36.242398+00:00",
     "content": "A Visa and MasterCard settlement with merchants announced earlier this week could bring changes to your experience checking out.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/faa-flight-cancellations-credit-card-travel-insurance.html",
     "title": "As FAA order triggers flight cancellations and delays, what to know about credit card travel insurance",
-    "fetched_on": "2025-11-20T13:32:00.116209+00:00",
+    "fetched_on": "2025-11-20T14:22:36.242457+00:00",
     "content": "The shutdown of the U.S. federal government is causing flight delays and cancellations. What to know about travel credit card insurance.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/07/student-loan-forgiveness-notices.html",
     "title": "Student loan forgiveness notices are going out despite the shutdown \u2014 what borrowers need to do next",
-    "fetched_on": "2025-11-20T13:32:00.116223+00:00",
+    "fetched_on": "2025-11-20T14:22:36.242472+00:00",
     "content": "Borrowers are getting notices of student loan forgiveness. Here's what experts say their next steps should be.",
     "platforms_mentioned": [],
     "keywords": [
@@ -693,7 +693,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-20/australian-ai-startup-firmus-technologies-in-debt-funding-talks",
     "title": "Australian AI Startup Firmus Technologies in Debt Funding Talks",
-    "fetched_on": "2025-11-20T13:31:29.354063+00:00",
+    "fetched_on": "2025-11-20T14:22:12.678327+00:00",
     "content": "Firmus Technologies Pty., an Australian artificial intelligence technology firm, is in talks with potential financiers, including private credit funds, to raise debt for an expansion of data centers powered by Nvidia Corp. chips, according to people familiar with the matter.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1588,7 +1588,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/opinion/newsletters/2025-11-19/fine-trade-labubu-futures",
     "title": "Fine, Trade Labubu Futures",
-    "fetched_on": "2025-11-20T13:31:29.068797+00:00",
+    "fetched_on": "2025-11-20T14:22:12.490088+00:00",
     "content": "<p>Sneakers, BDC liquidity, NAV loans, the crypto treasury trade and the meme numbers.</p>",
     "platforms_mentioned": [],
     "keywords": [
@@ -1608,7 +1608,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-20/moderna-gets-breathing-room-with-1-5-billion-loan-from-ares",
     "title": "Moderna Gets Breathing Room With $1.5 Billion Loan From Ares",
-    "fetched_on": "2025-11-20T13:31:29.893631+00:00",
+    "fetched_on": "2025-11-20T14:22:13.017879+00:00",
     "content": "Moderna Inc. said it had secured a loan for up to $1.5 billion, a move aimed at shoring up the company\u2019s finances as it struggles with the decline of its Covid business.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1885,7 +1885,7 @@
     "source": "Forbes [NewsAPI]",
     "url": "https://www.forbes.com/sites/davidchiu/2025/11/19/annie-lennoxs-life-and-career-as-told-through-her-new-visual-memoir/",
     "title": "Annie Lennox\u2019s Life And Career As Told Through Her New Visual Memoir",
-    "fetched_on": "2025-11-20T13:31:27.674388+00:00",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
     "content": "credit: Pamela Hanson, Trunk Archive, provided by Rizzoli\r\nAs one of the greatest singers in pop music, Annie Lennox\r\n has been documented extensively in numerous images from her time as one-half of \u2026 [+15639 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1905,7 +1905,7 @@
     "source": "Inside the Magic [NewsAPI]",
     "url": "https://insidethemagic.net/2025/11/disney-slashes-prices-over-50-in-latest-bid-to-draw-in-customers-but-theres-a-big-catch-ld1/",
     "title": "Disney Slashes Prices Over 50% in Latest Bid To Draw in Customers, but There\u2019s a Big Catch",
-    "fetched_on": "2025-11-20T13:31:27.674388+00:00",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
     "content": "Guests can save big on their next Disney vacation, but there\u2019s a very big catch.\r\nCredit: Steven Miller, Flickr\r\nRelated: Original Living with the Land Will Soon Be Unavailable at Disney World, Cast \u2026 [+3244 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1925,7 +1925,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/non-bank-lenders-home-loan-growth-will-slow-down-in-fy26-crisil/articleshow/125438657.cms",
     "title": "Non-bank lenders' home loan growth will slow down in FY26: Crisil",
-    "fetched_on": "2025-11-20T13:31:27.674388+00:00",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
     "content": "Non-bank lenders' home loan growth will slow down in FY26 owing to aggressive play by state-run banks in the market, a report said on Wednesday.Non-bank lenders' assets under management are likely to\u2026 [+2157 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1945,7 +1945,7 @@
     "source": "SamMobile [NewsAPI]",
     "url": "https://www.sammobile.com/news/samsung-wallet-supports-cards-more-banks-india/",
     "title": "Samsung Wallet now supports cards from more banks in India",
-    "fetched_on": "2025-11-20T13:31:27.674388+00:00",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
     "content": "Samsung Wallet, in India, supports credit and debit cards from many financial institutions, allowing you to pay with those cards using your Samsung smartphone, eliminating the need to carry those car\u2026 [+1655 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1965,7 +1965,7 @@
     "source": "Bankier.pl [NewsAPI]",
     "url": "https://www.bankier.pl/wiadomosc/TALEX-Aneks-do-umowy-z-Credit-Agricole-Bank-Polska-S-A-9042157.html",
     "title": "TALEX: Aneks do umowy z Credit Agricole Bank Polska S.A.",
-    "fetched_on": "2025-11-20T13:31:27.674388+00:00",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
     "content": "Zarzd Talex S.A. informuje, e Sp\u00f3ka w dniu dzisiejszym podpisaa aneks do umowy z Credit Agricole Bank Polska S.A., o kt\u00f3rej informowaa w raporcie biecym nr 5/2011, z jej zmianami. Przedmiotem aneksu \u2026 [+191 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2057,6 +2057,243 @@
       "markets",
       "stablecoins",
       "close"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/88e3b68347b2b5fe",
+    "title": "Blue Owl calls off private credit fund merger",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Larry Summers resign from OpenAI board? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidia earnings \u2026 [+678 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Owl",
+      "Larry",
+      "Summers",
+      "Blue",
+      "merger"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c16b665c18049ba0",
+    "title": "The emerging threat lurking within the holiday shopping rush: ghost tapping",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "Weve all been in this situation: Running around during the holidays, grabbing gifts at the first stores you find with the shortest lines. Amid the rush, you run up a list of credit card charges from \u2026 [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Running",
+      "Weve",
+      "rush",
+      "ghost",
+      "situation",
+      "grabbing",
+      "lines",
+      "holiday",
+      "holidays",
+      "emerging"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-did-trump-call-piggy-catherine-lucey-5489192/",
+    "title": "Who Did Trump Call \u2018Piggy\u2019? Reporter Catherine Lucey\u2019s Exchange With the President",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "Image Credit: Getty Images\r\nDonald Trump is known for his blunt remarks to the press, but one exchange aboard Air Force One between the president and a female reporter has gone viral after he called \u2026 [+3113 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Piggy\u2019",
+      "Call",
+      "Trump",
+      "President",
+      "Exchange",
+      "Credit",
+      "Getty",
+      "chars",
+      "Catherine",
+      "Lucey"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4242787/OWL;OBDC-Blue-Owl-calling-off-merger-of-two-privatecredit-funds-CNBC-reports",
+    "title": "Blue Owl calling off merger of two private-credit funds, CNBC reports",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CNBC",
+      "Owl",
+      "Earnings",
+      "Blue",
+      "funds",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows",
+      "calling"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ab10e97ceef31d1b",
+    "title": "Blue Owl calls off merger of its two private-credit funds after announcement rattles stock, sources say",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "Blue Owl has decided to call off the merging of two of its private-credit funds after the deal caused some angst among investors, according to people familiar with the matter.The firm had planned to \u2026 [+135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Owl",
+      "Blue",
+      "funds",
+      "chars",
+      "private-credit",
+      "stock",
+      "sources",
+      "investors",
+      "merger",
+      "announcement"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/subscriptions/2025/autonomy-add-1250-electric-vehicles-car-subscription-offering/",
+    "title": "Autonomy to Add 1,250 Electric Vehicles to Car Subscription Offering",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "Autonomy plans to add about 1,250 electric vehicles to its car subscription offering.The company secured $25 million in financing from Finacity through SR Alternative Credit to enable this fleet expa\u2026 [+1941 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Electric",
+      "Vehicles",
+      "Add",
+      "Car",
+      "Subscription",
+      "Autonomy",
+      "chars",
+      "Offering",
+      "Finacity",
+      "Alternative"
+    ]
+  },
+  {
+    "source": "SiliconANGLE News [NewsAPI]",
+    "url": "https://siliconangle.com/2025/11/19/agentic-ai-startup-kaaj-secures-3-8m-expand-credit-intelligence-platform/",
+    "title": "Agentic AI startup Kaaj secures $3.8M to expand credit intelligence platform",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "Credit intelligence platform startup Kaaj Technologies Inc. revealed today that it has raised $3.8 million in funding to accelerate product development and expand its agentic artificial intelligence-\u2026 [+4059 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kaaj",
+      "credit",
+      "Technologies",
+      "intelligence",
+      "startup",
+      "platform",
+      "secures",
+      "Agentic",
+      "expand",
+      "chars"
+    ]
+  },
+  {
+    "source": "Variety [NewsAPI]",
+    "url": "https://variety.com/2025/music/news/spotify-expands-song-credits-introduces-new-features-1236585290/",
+    "title": "Spotify Expands Song Credits, Introduces New Features for Deeper Listening Experience",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "Spotify is providing users with deeper insight into their listening experience through the expansion of Song Credits, as well as the introduction of SongDNA and About the Song.\r\nFans were previously \u2026 [+1970 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credits",
+      "Song",
+      "Listening",
+      "Experience",
+      "Introduces",
+      "Spotify",
+      "Deeper",
+      "Expands",
+      "Features",
+      "providing"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2025/11/19/what-is-ghost-tapping-cyber-holiday-shopping/",
+    "title": "The emerging threat lurking within the holiday shopping rush: ghost tapping",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "Weve all been in this situation: Running around during the holidays, grabbing gifts at the first stores you find with the shortest lines. Amid the rush, you run up a list of credit card charges from \u2026 [+5013 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Running",
+      "Weve",
+      "rush",
+      "ghost",
+      "situation",
+      "grabbing",
+      "lines",
+      "holiday",
+      "holidays",
+      "emerging"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/new-age-small-business-lender-blacksoil-looks-to-scale-business-after-merger-with-caspian-debt/articleshow/125439107.cms",
+    "title": "New-age small business lender BlackSoil looks to scale business after merger with Caspian Debt",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Caspian",
+      "Debt",
+      "EMI",
+      "New-age",
+      "loan",
+      "business",
+      "small",
+      "lender",
+      "BlackSoil",
+      "scale"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/11/19/vic-fangio-eagles-defense-remains-discussion-among-nfl-analysts/87340773007/",
+    "title": "Vic Fangio\u2019s Eagles defense keeps earning praise from national voices",
+    "fetched_on": "2025-11-20T14:22:11.451167+00:00",
+    "content": "This may be an old saying. It may not be. If it isn't, we're taking the credit. If you want to do something and have it stick, try to do it on television. We've long known how great Vic Fangio is. We\u2026 [+2231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Eagles",
+      "Fangio",
+      "Vic",
+      "defense",
+      "earning",
+      "praise",
+      "national",
+      "voices",
+      "chars",
+      "credit"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/us-consumers-expected-to-use-credit-cards-more-for-holiday-shopping-survey-says-4370267",
+    "title": "US consumers expected to use credit cards more for holiday shopping, survey says",
+    "fetched_on": "2025-11-20T14:22:25.363063+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "shopping",
+      "survey",
+      "consumers",
+      "expected",
+      "credit",
+      "cards",
+      "holiday"
     ]
   }
 ]
