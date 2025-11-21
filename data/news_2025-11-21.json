@@ -1,6 +1,6 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-20/private-credit-defaults-expected-to-drive-overall-stress-in-2026",
     "title": "Private-Credit Defaults Expected to Drive 2026 Stress, UBS Says",
     "fetched_on": "2025-11-21T01:42:17.547547+00:00",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-20/finance-billionaires-warn-of-rising-private-credit-market-risks",
     "title": "Finance Billionaires Warn of Rising Private Credit Market Risks",
     "fetched_on": "2025-11-21T01:42:17.547577+00:00",
@@ -40,10 +40,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Business [RSS]",
+    "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/audio/2025-11-20/bloomberg-businessweek-daily-credit-market-cracks-podcast",
     "title": "Bloomberg Businessweek Daily: Credit Market Cracks (Podcast)",
-    "fetched_on": "2025-11-21T03:12:05.012197+00:00",
+    "fetched_on": "2025-11-21T04:25:52.089880+00:00",
     "content": "Source: Bloomberg, 40:34",
     "platforms_mentioned": [],
     "keywords": [
@@ -59,11 +59,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Business [RSS]",
+    "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/audio/2025-11-20/credit-edge-vanguard-has-some-junk-bond-reservations-podcast",
     "title": "Credit Edge: Vanguard Has Some Junk Bond Reservations (Podcast)",
-    "fetched_on": "2025-11-21T03:12:05.012257+00:00",
-    "content": "Vanguard Group, the world's second-largest money manager, is wary of junk bonds given how expensive they've become. “Where the market is today doesn't leave a lot of room for negative surprises,” Michael Chang, head of high-yield corporate credit at the $11 trillion asset manager, tells Bloomberg News' James Crombie and Bloomberg Intelligence's Matthew Geudtner in the latest Credit Edge podcast. “Spreads are pretty tight, yields are about average &mdash; it's not the best time to be investing in high",
+    "fetched_on": "2025-11-21T04:25:52.089940+00:00",
+    "content": "Vanguard Group, the world\u2019s second-largest money manager, is wary of junk bonds given how expensive they\u2019ve become. \u201cWhere the market is today doesn\u2019t leave a lot of room for negative surprises,\u201d Michael Chang, head of high-yield corporate credit at the $11 trillion asset manager, tells Bloomberg News\u2019 James Crombie and Bloomberg Intelligence\u2019s Matthew Geudtner in the latest Credit Edge podcast. \u201cSpreads are pretty tight, yields are about average &mdash; it\u2019s not the best time to be investing in high",
     "platforms_mentioned": [],
     "keywords": [
       "Vanguard",
@@ -79,10 +79,10 @@
     ]
   },
   {
-    "source": "Bloomberg – Technology [RSS]",
+    "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-20/mexico-fintech-aviva-inks-50-million-credit-line-from-cim-to-boost-microloans",
     "title": "Mexico Fintech Inks $50 Million Credit Line to Boost Microloans",
-    "fetched_on": "2025-11-21T03:12:05.226135+00:00",
+    "fetched_on": "2025-11-21T04:25:52.256180+00:00",
     "content": "Mexican fintech Aviva secured a $50 million credit facility from San Francisco-based Community Investment Management as it seeks to expand lending at a time when venture capital dealmaking in Latin America is hovering near seven-year lows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -99,11 +99,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Technology [RSS]",
+    "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-20/a-hedge-against-ai-crash-emerges-as-oracle-cds-market-explodes",
     "title": "A Hedge Against AI Crash Emerges as Oracle CDS Market Explodes",
-    "fetched_on": "2025-11-21T03:12:05.226212+00:00",
-    "content": "Oracle Corp., the once stodgy database giant that's borrowed tens of billions and tethered its fortunes to the artificial intelligence boom, is quickly emerging as the credit market's barometer for AI risk.",
+    "fetched_on": "2025-11-21T04:25:52.256241+00:00",
+    "content": "Oracle Corp., the once stodgy database giant that\u2019s borrowed tens of billions and tethered its fortunes to the artificial intelligence boom, is quickly emerging as the credit market\u2019s barometer for AI risk.",
     "platforms_mentioned": [],
     "keywords": [
       "Oracle",
@@ -119,11 +119,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Industries [RSS]",
+    "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-19/blackrock-private-credit-clo-fails-key-tests-as-bad-loans-mount",
     "title": "BlackRock Private Credit CLO Fails Tests as Bad Loans Mount",
-    "fetched_on": "2025-11-21T03:12:05.614622+00:00",
-    "content": "A portfolio of private credit loans managed by BlackRock Inc. has performed so poorly that the money manager has waived some management fees - a rarity in the credit world.",
+    "fetched_on": "2025-11-21T04:25:52.545174+00:00",
+    "content": "A portfolio of private credit loans managed by BlackRock Inc. has performed so poorly that the money manager has waived some management fees \u2013 a rarity in the credit world.",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
@@ -142,8 +142,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/52291642a52b997f",
     "title": "China leaves benchmark lending rates unchanged for 6th straight month in November",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all inv... [+148 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all inv\u2026 [+148 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Disclosure",
@@ -162,8 +162,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/db96c1b46965ecc3",
     "title": "Colorado Court Ruling Puts BNPL Lending Models Under Fresh Pressure",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "s rapid expansion across retail, travel, healthcare and even everyday essentials has made it one of the fastest-growing credit products in the United States, but its growth is increasingly shaped by ... [+136 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "s rapid expansion across retail, travel, healthcare and even everyday essentials has made it one of the fastest-growing credit products in the United States, but its growth is increasingly shaped by \u2026 [+136 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "travel",
@@ -181,9 +181,9 @@
   {
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/muthoot-finance-billionaire-family-turns-indias-gold-obsession-into-a-fortune/articleshow/125450538.cms",
-    "title": "Billionaire family turns India's gold obsession into a fortune",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "Gold is having a moment in the sun and the billionaire Muthoot clan of India is reaping the benefits.Their family-run firm thats doled out gold loans for almost nine decades is on a roll as consumers... [+7904 chars]",
+    "title": "Billionaire family turns India\u2019s gold obsession into a fortune",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "Gold is having a moment in the sun and the billionaire Muthoot clan of India is reaping the benefits.Their family-run firm thats doled out gold loans for almost nine decades is on a roll as consumers\u2026 [+7904 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "India",
@@ -202,8 +202,8 @@
     "source": "PC Gamer [NewsAPI]",
     "url": "https://www.pcgamer.com/games/third-person-shooter/i-became-a-full-time-paramedic-for-strangers-in-arc-raiders-and-ended-up-showered-with-more-rare-loot-than-i-could-carry/",
     "title": "I became a full-time paramedic for strangers in Arc Raiders, and ended up showered with more rare loot than I could carry",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "MORGAN PARK, STAFF WRITER (Image credit: Future) Last week: Beat Halo: CE, Halo 2, and almost Halo 3. November is Halo month. OK, I'll admit it: Arc Raiders can get a little boring when you're a p... [+6911 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "MORGAN PARK, STAFF WRITER\r\n(Image credit: Future)\r\nLast week: Beat Halo: CE, Halo 2, and almost Halo 3. November is Halo month.\r\nOK, I'll admit it: Arc Raiders can get a little boring when you're a p\u2026 [+6911 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Halo",
@@ -321,18 +321,18 @@
   {
     "source": "Nature.com [NewsAPI]",
     "url": "https://www.nature.com/articles/d41586-025-03798-8",
-    "title": "Has birds' mysterious ‘compass' organ been found at last?",
+    "title": "Has birds' mysterious \u2018compass' organ been found at last?",
     "fetched_on": "2025-11-21T03:12:04.004531+00:00",
     "content": "Credit: Suriya Silsaksom/Alamy Pigeons can sense Earths magnetic field by detecting tiny electrical currents in their inner ears, researchers suggest. Such an inner compass could help to explain how... [+3589 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "mysterious",
-      "compass’",
+      "compass\u2019",
       "Credit",
       "Suriya",
       "Silsaksom",
       "Alamy",
-      "birds’",
+      "birds\u2019",
       "organ",
       "found",
       "chars"
@@ -382,7 +382,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/mortgage-rates-hit-highest-level-in-a-month-pushing-loan-demand-down-5percent.html",
     "title": "Mortgage rates hit highest level in a month, pushing loan demand down 5%",
-    "fetched_on": "2025-11-21T03:12:29.607101+00:00",
+    "fetched_on": "2025-11-21T04:26:08.181236+00:00",
     "content": "Mortgage rates rose to the highest level in a month last week, causing demand for home loans to drop. Demand, however, is still higher than a year ago.",
     "platforms_mentioned": [],
     "keywords": [
@@ -402,7 +402,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/10/why-the-trump-administration-wants-to-allow-crypto-backed-mortgages.html",
     "title": "The Trump administration wants to allow crypto-backed mortgages. Here's why",
-    "fetched_on": "2025-11-21T03:12:29.607198+00:00",
+    "fetched_on": "2025-11-21T04:26:08.181314+00:00",
     "content": "Fannie Mae and Freddie Mac could allow crypto holdings to be included in mortgage risk assessments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -422,7 +422,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
     "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
-    "fetched_on": "2025-11-21T03:12:29.607212+00:00",
+    "fetched_on": "2025-11-21T04:26:08.181327+00:00",
     "content": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -442,8 +442,8 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-21T03:12:29.607261+00:00",
-    "content": "More buyers are turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
+    "fetched_on": "2025-11-21T04:26:08.181374+00:00",
+    "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
       "Fed",
@@ -462,8 +462,8 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-21T03:12:29.607267+00:00",
-    "content": "Here's a look at all of the ways the Fed decision could affect your finances.",
+    "fetched_on": "2025-11-21T04:26:08.181381+00:00",
+    "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
       "mortgage",
@@ -481,8 +481,8 @@
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
-    "title": "What another Fed cut could mean for borrowers - some rates may barely budge",
-    "fetched_on": "2025-11-21T03:12:29.607295+00:00",
+    "title": "What another Fed cut could mean for borrowers \u2014 some rates may barely budge",
+    "fetched_on": "2025-11-21T04:26:08.181409+00:00",
     "content": "Many types of consumer loans are impacted when the Fed trims its overnight lending rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -502,7 +502,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/blue-owl-calls-off-merger-of-its-two-private-credit-funds-after-announcement-rattles-stock-sources-say.html",
     "title": "Blue Owl calls off merger of its two private credit funds after announcement rattles stock",
-    "fetched_on": "2025-11-21T03:12:29.749605+00:00",
+    "fetched_on": "2025-11-21T04:26:08.263860+00:00",
     "content": "Blue Owl has decided to call off the merging of two of its private credit funds after the deal caused some angst among investors, according to sources.",
     "platforms_mentioned": [],
     "keywords": [
@@ -522,7 +522,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html",
     "title": "New York Fed met with Wall Street firms about key lending facility: FT",
-    "fetched_on": "2025-11-21T03:12:29.749661+00:00",
+    "fetched_on": "2025-11-21T04:26:08.263917+00:00",
     "content": "The Fed sought feedback from dealers on the use of the central bank's standing repo facility, a permanent lending tool that acts as a backstop for markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -542,7 +542,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/20/worries-for-student-loan-borrowers-amid-education-department-breakup-.html",
     "title": "Education Department restructuring plan doesn't involve student debt. Still, experts are worried",
-    "fetched_on": "2025-11-21T03:12:29.892529+00:00",
+    "fetched_on": "2025-11-21T04:26:08.406598+00:00",
     "content": "The new restructuring at the Education Department doesn't involve the student loan portfolio. But the instability at the agency could still harm borrowers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -562,8 +562,8 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/20/holiday-shopping-season-forecasts-show-growing-k-shaped-divide.html",
     "title": "It's looking like a 'K-shaped' holiday season, reports show",
-    "fetched_on": "2025-11-21T03:12:29.892545+00:00",
-    "content": "Some shoppers plan to spend big this holiday season - even if it means racking up more credit card debt.",
+    "fetched_on": "2025-11-21T04:26:08.406613+00:00",
+    "content": "Some shoppers plan to spend big this holiday season \u2014 even if it means racking up more credit card debt.",
     "platforms_mentioned": [],
     "keywords": [
       "K-shaped",
@@ -582,7 +582,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/18/federal-student-loan-repayment.html",
     "title": "Millions of federal student loan borrowers will start repayment soon. Here's what to know",
-    "fetched_on": "2025-11-21T03:12:29.892584+00:00",
+    "fetched_on": "2025-11-21T04:26:08.406647+00:00",
     "content": "The grace period for federal student loan borrowers who graduated in May is ending. Here's what to know about starting payments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -602,7 +602,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/13/visa-mastercard-legal-settlement-what-you-need-to-know.html",
     "title": "What the Visa, Mastercard legal settlement means for your rewards credit card",
-    "fetched_on": "2025-11-21T03:12:29.892675+00:00",
+    "fetched_on": "2025-11-21T04:26:08.406733+00:00",
     "content": "A Visa and MasterCard settlement with merchants announced earlier this week could bring changes to your experience checking out.",
     "platforms_mentioned": [],
     "keywords": [
@@ -640,8 +640,8 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/11a36e076582612f",
     "title": "Cash App Offers Insights Into Lending Decisions, Enables Pay Over Time",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "Cash App has announced that it will test a feature that allows users of its money app to see how their choices affect the companys lending decisions, and a feature that lets its cardholders turn purc... [+129 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "Cash App has announced that it will test a feature that allows users of its money app to see how their choices affect the companys lending decisions, and a feature that lets its cardholders turn purc\u2026 [+129 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Decisions",
@@ -660,8 +660,8 @@
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/review-paul-mccartney-performs-in-buffalo-new-york-in-all-of-his-musical-eras/article",
     "title": "Review: Paul McCartney performs in Buffalo, New York, in all of his musical eras",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "Paul McCartney performing live at the KeyBank Center. Photo Credit: Dennis Losel On Friday, November 14th, Sir Paul McCartney performed at the KeyBank Center in Buffalo, New York, for a sold-out ven... [+3711 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "Paul McCartney performing live at the KeyBank Center. Photo Credit: Dennis Losel\r\nOn Friday, November 14th, Sir Paul McCartney performed at the KeyBank Center in Buffalo, New York, for a sold-out ven\u2026 [+3711 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Buffalo",
@@ -680,8 +680,8 @@
     "source": "Haaretz [NewsAPI]",
     "url": "https://www.haaretz.com/israel-news/2025-11-20/ty-article-live/citing-need-for-reform-germany-withholds-support-for-unrwa-extension-for-first-time/0000019a-9f1b-dd6e-a5fa-ffff71600000",
     "title": "Citing need for reform, Germany withholds support for UNRWA extension for first time",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "A Palestinian woman carries an aid box provided by UNRWA in Khan Yunis, in January 2025.Credit: Hatem Khaled/Reuters Germany has, for the first time, withheld its support for extending the mandate o... [+1462 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "A Palestinian woman carries an aid box provided by UNRWA in Khan Yunis, in January 2025.Credit: Hatem Khaled/Reuters\r\nGermany has, for the first time, withheld its support for extending the mandate o\u2026 [+1462 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Germany",
@@ -700,8 +700,8 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/markets/stocks/news/china-leaves-benchmark-lending-rates-unchanged-for-the-sixth-straight-month/articleshow/125451267.cms",
     "title": "China leaves benchmark lending rates unchanged for the sixth straight month",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "China left benchmark lending rates unchanged on Thursday for the sixth consecutive month in November, matching market expectations.WHY IT'S IMPORTANT The steady loan prime rate (LPR) fixings unders... [+1922 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "China left benchmark lending rates unchanged on Thursday for the sixth consecutive month in November, matching market expectations.WHY IT'S IMPORTANT\r\n The steady loan prime rate (LPR) fixings unders\u2026 [+1922 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "LPR",
@@ -720,8 +720,8 @@
     "source": "Ndtvprofit.com [NewsAPI]",
     "url": "https://www.ndtvprofit.com/personal-finance/bnpl-for-wedding-shopping-is-it-safe-or-a-debt-trap",
     "title": "BNPL For Wedding Shopping: Is It Safe Or A Debt Trap?",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "Buy Now, Pay Later (BNPL) is a short-term credit facility offered by fintech firms, e-commerce platforms, and banks. It allows you to purchase items immediately and pay in instalments over weeks or m... [+1359 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "Buy Now, Pay Later (BNPL) is a short-term credit facility offered by fintech firms, e-commerce platforms, and banks. It allows you to purchase items immediately and pay in instalments over weeks or m\u2026 [+1359 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Shopping",
@@ -740,8 +740,8 @@
     "source": "pymnts.com [NewsAPI]",
     "url": "https://www.pymnts.com/consumer-finance/2025/cash-app-offers-insights-into-lending-decisions-enables-pay-over-time/",
     "title": "Cash App Offers Insights Into Lending Decisions, Enables Pay Over Time",
-    "fetched_on": "2025-11-21T03:12:04.004531+00:00",
-    "content": "Cash App has announced that it will test a feature that allows users of its money app to see how their choices affect the companys lending decisions, and a feature that lets its cardholders turn purc... [+2716 chars]",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "Cash App has announced that it will test a feature that allows users of its money app to see how their choices affect the companys lending decisions, and a feature that lets its cardholders turn purc\u2026 [+2716 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Decisions",
@@ -777,6 +777,166 @@
       "fund",
       "plans",
       "euros"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-21/3r-s-seth-on-credit-markets-investments-video",
+    "title": "3R's Seth on Credit Markets, Investments",
+    "fetched_on": "2025-11-21T04:25:51.788930+00:00",
+    "content": "Neeraj Seth, Founder & CIO of 3R Investment Management, discusses the market outlook and investment strategies. He speaks with David Ingles and Yvonne Man on the sidelines of Bloomberg's New Economy Forum in Singapore. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Founder",
+      "Seth",
+      "CIO",
+      "Management",
+      "Investment",
+      "Credit",
+      "Neeraj",
+      "Markets",
+      "market",
+      "discusses"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-21/korean-corporate-bond-sentiment-improves-after-jolt-from-rates",
+    "title": "Korean Corporate Bond Sentiment Improves After Jolt From Rates",
+    "fetched_on": "2025-11-21T04:25:51.789005+00:00",
+    "content": "South Korea\u2019s local corporate bond market is showing signs of improving investor sentiment after a spike in short-term government bond yields to a one-year high caused buyers of credit to demand higher risk premiums.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bond",
+      "Corporate",
+      "Sentiment",
+      "Improves",
+      "Jolt",
+      "Rates",
+      "South",
+      "Korea",
+      "Korean",
+      "premiums"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-21/nidec-shares-slide-credit-spreads-widen-after-moody-s-downgrade",
+    "title": "Nidec Shares Slide, Credit Spreads Widen After Moody\u2019s Downgrade",
+    "fetched_on": "2025-11-21T04:25:52.256141+00:00",
+    "content": "Nidec Corp. shares fell for a seventh consecutive trading day as an ongoing accounting probe further chipped away at the company\u2019s creditworthiness with another downgrade by Moody\u2019s Ratings.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Slide",
+      "Credit",
+      "Corp",
+      "Nidec",
+      "Moody",
+      "Spreads",
+      "Widen",
+      "Shares",
+      "Downgrade",
+      "Ratings"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/funding/ai-fintech-startup-kaaj-raises-3-8-million-from-kindred-ventures-others/articleshow/125452727.cms",
+    "title": "AI fintech startup Kaaj raises $3.8 million from Kindred Ventures, others",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "Kaaj, an agentic AI credit intelligence platform, on Wednesday announced that it has raised $3.8 million in a seed funding round led by Kindred Ventures, with participation from Better Tomorrow Ventu\u2026 [+1746 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ventures",
+      "Kindred",
+      "chars",
+      "Ventu",
+      "Kaaj",
+      "million",
+      "Wednesday",
+      "Tomorrow",
+      "raises",
+      "platform"
+    ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-11-20/wa-public-transport-smartrider-changes-rolled-out-on-december-8/106032174",
+    "title": "Tap and go public transport to be available in Perth within weeks",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "Perth commuters will be able to use credit cards, phones and smart watches to pay for public transport fares from next month.\r\nThe initiative, more than a year behind schedule and more than $10 milli\u2026 [+3409 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Perth",
+      "public",
+      "transport",
+      "Tap",
+      "cards",
+      "phones",
+      "month",
+      "weeks",
+      "commuters",
+      "credit"
+    ]
+  },
+  {
+    "source": "Lewrockwell.com [NewsAPI]",
+    "url": "https://www.lewrockwell.com/2025/11/james-anthony/how-the-fed-messes-it-all-up/",
+    "title": "How the Fed Messes It All Up",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain\u00a0long run growth of the monetary and credit aggregates\u00a0commensurate with the economys long run\u2026 [+6120 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Federal",
+      "long",
+      "run",
+      "Fed",
+      "Messes",
+      "Board",
+      "Governors",
+      "Reserve",
+      "System",
+      "Open"
+    ]
+  },
+  {
+    "source": "Redfin.com [NewsAPI]",
+    "url": "https://www.redfin.com/blog/fha-loan-inspection-requirements/",
+    "title": "What Are The Inspection Requirements For Buying a Home With an FHA Loan?",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "If youre planning to buy a home with an FHA loan, youll need to pass an FHA inspection before you can close. An FHA loan is a government-backed mortgage that appeals to first-time homebuyers because \u2026 [+8598 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FHA",
+      "Requirements",
+      "Buying",
+      "Home",
+      "Loan",
+      "Inspection",
+      "chars",
+      "youll",
+      "close",
+      "youre"
+    ]
+  },
+  {
+    "source": "TheWrap [NewsAPI]",
+    "url": "https://www.thewrap.com/donald-trump-signs-epstein-files-bill-blames-democrats/",
+    "title": "Trump Takes Credit for Release of Epstein Files in Lengthy Rant Against Democrats: \u2018This Latest Hoax Will Backfire\u2019",
+    "fetched_on": "2025-11-21T04:25:51.187659+00:00",
+    "content": "President Donald Trump confirmed he signed the bill to release the Epstein Files in a lengthy social media post, in which he claimed \u201cthis latest hoax will backfire on the Democrats.\u201d\r\nTrump issued t\u2026 [+2778 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Files",
+      "Democrats",
+      "Epstein",
+      "Latest",
+      "Hoax",
+      "Release",
+      "Lengthy",
+      "Credit",
+      "Rant",
+      "Backfire\u2019"
     ]
   }
 ]
