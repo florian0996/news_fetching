@@ -191018,5 +191018,25 @@
       "Block",
       "CashApp"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/credit-scores-and-car-impact-on-auto-loans-insurance-and-leasing-11763617617175.html",
+    "title": "Credit scores and car: Impact on auto loans, insurance and leasing",
+    "fetched_on": "2025-11-21T07:21:23.138818+00:00",
+    "content": "Credit score or CIBIL score signifies the creditworthiness of a borrower. The higher the score, the better the chances of being able to borrow money, which too at a lower interest rate and on conveni… [+2227 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Impact",
+      "CIBIL",
+      "score",
+      "car",
+      "loans",
+      "insurance",
+      "borrower",
+      "auto",
+      "leasing"
+    ]
   }
 ]
