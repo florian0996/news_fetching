@@ -194451,5 +194451,65 @@
       "private",
       "credit"
     ]
+  },
+  {
+    "source": "Dansdeals.com [NewsAPI]",
+    "url": "https://www.dansdeals.com/shopping-deals/amazon/meta-quest-3s-128gb-vr-headset-and-50-amazon-credit-for-249-99-shipped-from-amazon/",
+    "title": "Meta Quest 3S 128GB VR Headset And $50 Amazon Credit For $249.99 Shipped From Amazon",
+    "fetched_on": "2025-11-21T23:19:23.245675+00:00",
+    "content": "Advertiser Disclosure: Many of the links that appear on this site are from companies from which DansDeals.com receives compensation. Dan’s Deals LLC is a participant in the Amazon Services LLC Associ… [+1486 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Quest",
+      "Shipped",
+      "Disclosure",
+      "Amazon",
+      "Headset",
+      "Credit",
+      "Advertiser",
+      "Meta",
+      "compensation",
+      "LLC"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/43275269/man-refuses-to-cosign-a-car-loan-for-his-financially-irresponsible-23-year-old-brother-sparking",
+    "title": "Man refuses to cosign a car loan for his financially irresponsible 23-year-old brother, sparking family argument when his brother accuses him of being selfish for protecting his hard-earned credit: 'I’ve spent the last year fixing my own mess'",
+    "fetched_on": "2025-11-21T23:19:23.245675+00:00",
+    "content": "Family is the most important thing in the world, and if everyone were fortunate enough to support every member of their family, we have no doubt they would. But not everyone is born a Bezos or is an … [+735 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "family",
+      "brother",
+      "Man",
+      "irresponsible",
+      "sparking",
+      "credit",
+      "world",
+      "refuses",
+      "cosign",
+      "car"
+    ]
+  },
+  {
+    "source": "Environmental Defense Fund [NewsAPI]",
+    "url": "https://blogs.edf.org/energyexchange/2025/11/20/flawed-hydrogen-tax-credit-implementation-could-undermine-billions-in-u-s-projects/",
+    "title": "Flawed hydrogen tax credit implementation could undermine billions in U.S. projects",
+    "fetched_on": "2025-11-21T23:19:23.245675+00:00",
+    "content": "<ul><li>DOEs opaque changes to emissions model risk U.S. competitiveness and global credibility </li><li>EDF finds that the changes could let fossil hydrogen projects claim methane emissions rates up… [+7730 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EDF",
+      "chars",
+      "hydrogen",
+      "projects",
+      "emissions",
+      "Flawed",
+      "risk",
+      "competitiveness",
+      "credibility",
+      "tax"
+    ]
   }
 ]
