@@ -191038,5 +191038,123 @@
       "auto",
       "leasing"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-21/deutsche-bank-s-dws-cuts-asia-private-credit-team-in-shift",
+    "title": "Deutsche Bank’s DWS Cuts Asia Private Credit Team in Shift",
+    "fetched_on": "2025-11-21T08:30:25.145849+00:00",
+    "content": "DWS Group, an asset management arm of Deutsche Bank AG, has dismissed its Asia Pacific private credit team as it removes the region from its global private credit strategy, according to people familiar of the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Bank",
+      "Private",
+      "DWS",
+      "Asia",
+      "Deutsche",
+      "Team",
+      "Group",
+      "Cuts",
+      "Shift"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-21/ubisoft-results-delay-came-after-sales-restatement-loan-breach",
+    "title": "Ubisoft Breached Loan Agreement After Misstating Sales",
+    "fetched_on": "2025-11-21T08:30:25.507458+00:00",
+    "content": "Ubisoft Entertainment SA said it’s in breach of a loan agreement after auditors told the video-game publisher to delay recognizing revenue from a recently signed partnership and forced the company to restate its 2025 fiscal accounts.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Agreement",
+      "Loan",
+      "Ubisoft",
+      "Breached",
+      "Misstating",
+      "Sales",
+      "Entertainment",
+      "fiscal",
+      "accounts",
+      "breach"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/how-to-move-from-chatgpt-to-claude-without-starting-from-scratch",
+    "title": "How to move from ChatGPT to Claude (without starting from scratch)",
+    "fetched_on": "2025-11-21T08:30:24.578757+00:00",
+    "content": "(Image credit: OpenAI/Microsoft/Google)\r\nThis article is part of TechRadar's AI Week 2025. Covering the basics of artificial intelligence, we'll show you how to get the most from the likes of ChatGPT… [+5797 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Microsoft",
+      "Google",
+      "Claude",
+      "Image",
+      "Week",
+      "OpenAI",
+      "scratch",
+      "credit",
+      "ChatGPT",
+      "move"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/personal-loan-statement-5-key-details-every-borrower-must-review-11763622926446.html",
+    "title": "Personal loan statement: 5 key details every borrower must review",
+    "fetched_on": "2025-11-21T08:30:24.578757+00:00",
+    "content": "Personal loans provide borrowers with lifelines and ways to deal with sudden financial challenges. Medical expenses, surgery costs, education costs, and home renovation expenses are just a few reason… [+3648 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Personal",
+      "statement",
+      "key",
+      "challenges",
+      "costs",
+      "chars",
+      "details",
+      "review",
+      "provide",
+      "lifelines"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/psb-xchange-prepares-for-2026-launch-with-rs-3-lakh-crore-loan-ambition/articleshow/125456722.cms",
+    "title": "PSB Xchange prepares for 2026 launch with Rs 3 lakh crore loan ambition",
+    "fetched_on": "2025-11-21T08:30:24.578757+00:00",
+    "content": "A nationwide digital platform created by the PSB alliance is scheduled to go live at full scale in January 2026, setting up a new route for small businesses to obtain credit, ToI reported. The arrang… [+1802 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PSB",
+      "January",
+      "Xchange",
+      "launch",
+      "lakh",
+      "setting",
+      "credit",
+      "ToI",
+      "reported",
+      "chars"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html",
+    "title": "Best credit cards for shopping on Amazon: Boost your Amazon purchases with valuable rewards",
+    "fetched_on": "2025-11-21T08:30:45.561608+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Boost",
+      "Amazon",
+      "rewards",
+      "credit",
+      "cards",
+      "shopping",
+      "purchases",
+      "valuable"
+    ]
   }
 ]
