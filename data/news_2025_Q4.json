@@ -195591,5 +195591,65 @@
       "Nakuru",
       "Image"
     ]
+  },
+  {
+    "source": "Mediatakeout.com [NewsAPI]",
+    "url": "https://mediatakeout.com/rhop-wendy-eddie-osefo-accused-of-using-aliases-dozens-of-credit-cards/",
+    "title": "‘RHOP’ Wendy & Eddie Osefo Accused Of Using Aliases & Dozens Of Credit Cards",
+    "fetched_on": "2025-11-22T11:15:45.301562+00:00",
+    "content": "Fans of The Real Housewives of Potomac were stunned this fall when Wendy and Eddie Osefo were arrested and accused of staging a burglary at their Maryland home.\r\nProsecutors now argue that the pair h… [+1256 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Eddie",
+      "Osefo",
+      "Wendy",
+      "Accused",
+      "RHOP’",
+      "Aliases",
+      "Dozens",
+      "Credit",
+      "Cards",
+      "Fans"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/instant-loan-vs-credit-card-loan-how-do-you-know-which-one-actually-works-better-for-you-11763713337682.html",
+    "title": "Instant loan vs credit card loan: How do you know which one actually works better for you?",
+    "fetched_on": "2025-11-22T11:15:45.301562+00:00",
+    "content": "If you are short of funds, then it is acceptable as well as feasible to apply for a personal loan. Amid loads of options available all around, you could be spoilt for choice. Whether to opt for an in… [+2574 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "Instant",
+      "credit",
+      "card",
+      "works",
+      "funds",
+      "chars",
+      "short",
+      "acceptable",
+      "feasible"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/financial-services-firm-fibe-gets-rating-upgrade-from-two-agencies/articleshow/125484434.cms",
+    "title": "Financial services firm Fibe gets rating upgrade from two agencies",
+    "fetched_on": "2025-11-22T11:15:45.301562+00:00",
+    "content": "Fibe, a financial services company, on Thursday said it has achieved an improvement in its credit ratings by two rating agencies, on a robust underwriting and risk management framework.India Ratings … [+841 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fibe",
+      "chars",
+      "Financial",
+      "services",
+      "Thursday",
+      "agencies",
+      "rating",
+      "ratings",
+      "company",
+      "firm"
+    ]
   }
 ]
