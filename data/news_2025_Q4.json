@@ -194851,5 +194851,76 @@
       "cash",
       "flow"
     ]
+  },
+  {
+    "source": "Crypto Briefing [NewsAPI]",
+    "url": "https://cryptobriefing.com/shanghai-composite-index-falls-one-month-low/",
+    "title": "Shanghai Composite Index falls 1.5% to one-month low",
+    "fetched_on": "2025-11-22T03:05:40.472997+00:00",
+    "content": "Key Takeaways\r\n<ul><li>The Shanghai Composite Index dropped 1.5%, hitting its lowest level in a month.</li><li>Fluctuations were primarily driven by the central bank maintaining its lending rates and… [+405 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Composite",
+      "Index",
+      "Shanghai",
+      "Takeaways",
+      "Fluctuations",
+      "chars",
+      "Key",
+      "falls",
+      "dropped",
+      "hitting"
+    ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/Business/wireStory/treasury-plans-change-tax-credit-eligibility-move-critics-127733546",
+    "title": "Treasury plans to change tax credit eligibility in a move critics say will hurt immigrant taxpayers",
+    "fetched_on": "2025-11-22T03:05:40.472997+00:00",
+    "content": "WASHINGTON -- The U.S. Treasury Department said Thursday it plans to reclassify certain refundable tax credits as federal public benefits,\" which will bar some immigrant taxpayers from receiving them… [+3940 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Treasury",
+      "chars",
+      "WASHINGTON",
+      "Department",
+      "Thursday",
+      "plans",
+      "tax",
+      "immigrant",
+      "taxpayers",
+      "benefits"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/private-credit-funds-fed-cook-281b837a?siteid=yhoof2&yptr=yahoo",
+    "title": "Private-Credit Funds Need More Scrutiny, Fed’s Cook Says",
+    "fetched_on": "2025-11-22T03:06:02.171687+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scrutiny",
+      "Fed",
+      "Funds",
+      "Cook",
+      "Private-Credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/private-credit-becomes-core-jpmorgan-210158691.html",
+    "title": "Private Credit Becomes Core as JPMorgan Rethinks 60/40 Model",
+    "fetched_on": "2025-11-22T03:06:02.171869+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Model",
+      "Rethinks",
+      "Credit",
+      "Core",
+      "Private",
+      "JPMorgan"
+    ]
   }
 ]
