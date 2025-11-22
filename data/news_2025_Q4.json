@@ -196582,5 +196582,125 @@
       "TransUnion",
       "guide"
     ]
+  },
+  {
+    "source": "Sporting News [NewsAPI]",
+    "url": "https://www.sportingnews.com/us/nfl/houston-texans/news/pat-mcafee-comically-gives-credit-texans-mascot-teams-recent-play/d4acdb8abefe09a7b199f379",
+    "title": "Pat McAfee comically credits Texans' mascot for team's win vs. Bills",
+    "fetched_on": "2025-11-22T18:28:33.528194+00:00",
+    "content": "Pat McAfee comically credits Texans' mascot for team's win vs. Bills originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nFollowing the Texans' 23-… [+1734 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bills",
+      "Pat",
+      "Sporting",
+      "Texans'",
+      "McAfee",
+      "comically",
+      "credits",
+      "mascot",
+      "team",
+      "win"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/business/loans/learn/government-business-loans#article",
+    "title": "How to Get a Business Loan From the Government",
+    "fetched_on": "2025-11-22T18:28:33.528194+00:00",
+    "content": "<ul><li>Government business loans are issued by banks and other lenders but partially guaranteed by agencies like the SBA and USDA.\r\n</li><li>Multiple types of government loan programs (e.g. SBA 7(a)… [+11555 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Business",
+      "USDA",
+      "Government",
+      "SBA",
+      "Loan",
+      "Multiple",
+      "issued",
+      "banks",
+      "lenders",
+      "partially"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d63cb0e49570aa5b",
+    "title": "Switzerland Lobbies for More Carbon Credit Trading at COP30",
+    "fetched_on": "2025-11-22T18:28:33.528194+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle stock plunge on AI fears? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump's offshore drilli… [+761 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Lobbies",
+      "Carbon",
+      "Credit",
+      "Trading",
+      "Oracle"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/0b91c5b0565d9d5e",
+    "title": "Taser International: How To Find & Own America's Greatest Opportunities",
+    "fetched_on": "2025-11-22T18:28:33.528194+00:00",
+    "content": "Taser International created and marketed less lethal, conducted-energy weapons used mainly by law enforcement and corrections authorities. The devices received credit for reducing officer injuries in… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "International",
+      "Find",
+      "Taser",
+      "America",
+      "Greatest",
+      "Opportunities",
+      "lethal",
+      "conducted-energy",
+      "authorities",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/af37d33223cbbbde",
+    "title": "Here’s Why You Should Never Use a Debit Card, According to Codie Sanchez",
+    "fetched_on": "2025-11-22T18:28:33.528194+00:00",
+    "content": "Many money experts, including Dave Ramsey, have long preached about the dangers of credit card use and have advocated for always using a debit card. But Codie Sanchez, entrepreneur and founder of Con… [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Debit",
+      "Card",
+      "Ramsey",
+      "Codie",
+      "Sanchez",
+      "Dave",
+      "experts",
+      "including",
+      "Con",
+      "money"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392283/organ-transplant-patients-may-inherit-traits-of-the-original-donor",
+    "title": "Organ transplant patients may inherit traits of the original donor",
+    "fetched_on": "2025-11-22T18:28:33.528194+00:00",
+    "content": "Science &amp; Technology\r\nBy T.K. RandallNovember 21, 2025 ·  1 commentCan donors pass on their own personality ? Image Credit: CC BY 2.0 Andrew MasonResearch has suggested that organ donors may actu… [+1659 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Science",
+      "Technology",
+      "Image",
+      "Credit",
+      "Andrew",
+      "RandallNovember",
+      "chars",
+      "Organ",
+      "commentCan",
+      "personality"
+    ]
   }
 ]
