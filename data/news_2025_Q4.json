@@ -195217,5 +195217,85 @@
       "Coinbase",
       "ETH-Backed"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/festive-credit-trap-how-discount-deals-quietly-push-you-into-debt-bnpl-credit-cards-loans-11763710332933.html",
+    "title": "Festive credit trap: How discount deals quietly push you into debt",
+    "fetched_on": "2025-11-22T08:26:28.168461+00:00",
+    "content": "The Indian economy and consumer behaviour are highly influenced by seasonality, whether it is the changing weather patterns or the festivals. Festivities not only lift spirits but also drive higher c… [+5814 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indian",
+      "Festive",
+      "trap",
+      "seasonality",
+      "festivals",
+      "credit",
+      "discount",
+      "deals",
+      "quietly",
+      "push"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ed9c3676692daed1",
+    "title": "Private credit deals see a rise in ‘Bad PIKs’ showing ‘cracks’ in the market for corporate debt",
+    "fetched_on": "2025-11-22T08:26:28.168461+00:00",
+    "content": "The number of private credit deals that are changed after the initial deal is signed to include more risky terms for the lender is on the rise, according to Lincoln International, an investment bank … [+138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "Bad",
+      "International",
+      "Private",
+      "chars",
+      "Lincoln",
+      "deals",
+      "rise",
+      "showing",
+      "cracks’"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2025/11/21/private-credit-bad-piks-cracks-in-the-market/",
+    "title": "Private credit deals see a rise in ‘Bad PIKs’ showing ‘cracks’ in the market for corporate debt",
+    "fetched_on": "2025-11-22T08:26:28.168461+00:00",
+    "content": "The number of private credit deals that are changed after the initial deal is signed to include more risky terms for the lender is on the rise, according to Lincoln International, an investment bank … [+4526 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "Bad",
+      "International",
+      "Private",
+      "chars",
+      "Lincoln",
+      "deals",
+      "rise",
+      "showing",
+      "cracks’"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/study-mode-in-chatgpt-doesnt-just-give-you-the-answer-it-teaches-you-how-to-solve-the-problem-yourself",
+    "title": "Study Mode in ChatGPT doesn’t just give you the answer – it teaches you how to solve the problem yourself",
+    "fetched_on": "2025-11-22T08:26:28.168461+00:00",
+    "content": "(Image credit: OpenAI/Microsoft/Google)\r\nThis article is part of TechRadar's AI Week 2025. Covering the basics of artificial intelligence, we'll show you how to get the most from the likes of ChatGPT… [+3919 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Microsoft",
+      "Google",
+      "Image",
+      "Week",
+      "Mode",
+      "OpenAI",
+      "Study",
+      "answer",
+      "credit",
+      "ChatGPT"
+    ]
   }
 ]
