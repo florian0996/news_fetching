@@ -195162,5 +195162,60 @@
       "offers",
       "users"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/how-to-fill-up-a-personal-loan-application-form-follow-these-5-steps-11763701786078.html",
+    "title": "How to fill up a personal loan application form? Follow these 5 steps",
+    "fetched_on": "2025-11-22T07:19:06.631241+00:00",
+    "content": "Applying for a new personal loan has become smoother and mostly digital across leading lending institutions of the country. Still, many aspiring applicants fail to furnish the requested details prope… [+4313 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "form",
+      "personal",
+      "loan",
+      "fill",
+      "application",
+      "Applying",
+      "chars",
+      "Follow",
+      "steps",
+      "country"
+    ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-11-21/aiddata-report-chinese-loans-credit-australia/106033062",
+    "title": "Report finds $200 billion of Chinese credit pumped into Australia",
+    "fetched_on": "2025-11-22T07:19:06.631241+00:00",
+    "content": "A study has revealed the scale of China's lending for projects and activities in Australia, with money poured into everything from roads to supermarkets, wind farms and breweries but mostly mining pr… [+6388 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Australia",
+      "Chinese",
+      "China",
+      "Report",
+      "finds",
+      "billion",
+      "supermarkets",
+      "wind",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/coinbase-introduces-eth-backed-loans-022544745.html",
+    "title": "Coinbase Introduces ETH-Backed Loans Up to $1 Million",
+    "fetched_on": "2025-11-22T07:19:29.985977+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Introduces",
+      "Loans",
+      "Coinbase",
+      "ETH-Backed"
+    ]
   }
 ]
