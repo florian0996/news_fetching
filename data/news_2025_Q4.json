@@ -197702,5 +197702,45 @@
       "outages",
       "disrupt"
     ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-news/4353972/posts",
+    "title": "NYT, Politico: Say, Why Is the DNC Taking Out a $15M Loan?",
+    "fetched_on": "2025-11-23T05:20:09.281451+00:00",
+    "content": "Skip to comments.\r\nNYT, Politico: Say, Why Is the DNC Taking Out a $15M Loan?Hotair ^\r\n | 11/21/2025\r\nPosted on 11/21/2025 9:11:31 PM PST by SeekAndFind\r\nGood question. Maybe the inflation of the Bid… [+5392 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYT",
+      "Politico",
+      "Loan",
+      "DNC",
+      "Taking",
+      "Hotair",
+      "Posted",
+      "Bid",
+      "PST",
+      "Good"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18850681-qvc-com-new-customers-tracfone-moto-g-2025-5g-64gb-w-1500-talk-text-data-accessories-27-98-shipped-ac",
+    "title": "New QVC Customers: 64GB Tracfone Moto G 2025 + 1-Yr Plan (1500 Talk/Text/Data) $28 + Free Shipping",
+    "fetched_on": "2025-11-23T05:20:09.281451+00:00",
+    "content": "Important DetailsUltimate Smartphone Deluxe 5LiveOne Plus 1-Year MembershipImportant Note:After your1-yeartrial, you will be enrolled in a membership for $35.88 per month.Please note that your credit… [+4183 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Plan",
+      "Talk",
+      "Text",
+      "Data",
+      "chars",
+      "Customers",
+      "Tracfone",
+      "Free",
+      "Deluxe",
+      "Note"
+    ]
   }
 ]
