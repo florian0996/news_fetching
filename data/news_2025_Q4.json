@@ -197878,5 +197878,105 @@
       "Commitment",
       "ReElement"
     ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/apps-software/wear-os/news-weekly-nov-22-2025",
+    "title": "News Weekly: Early look at the OnePlus 15R, Wear OS 6 lands on older Galaxy watches, Android Auto gets Gemini's tricks, and more",
+    "fetched_on": "2025-11-23T11:16:29.187818+00:00",
+    "content": "(Image credit: Future)\r\nNews Weekly is our column where we highlight and summarize some of the week's top stories so you can catch up on the latest tech news.\r\nThis is Android Central's News Weekly, … [+5191 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Weekly",
+      "Early",
+      "Wear",
+      "Image",
+      "Galaxy",
+      "Auto",
+      "Gemini",
+      "Android",
+      "OnePlus"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-saturday-november-22-2025-110034008.html",
+    "title": "HELOC rates today, November 22, 2025: Lowest of the year but your introductory rate will be even lower",
+    "fetched_on": "2025-11-23T11:16:29.187818+00:00",
+    "content": "The national average HELOC rate is 7.64%, according to analytics company Curinos. Home equity line of credit interest rates have fallen over the course of the year. However, your introductory rate, o… [+4094 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "November",
+      "Lowest",
+      "Curinos",
+      "year",
+      "rate",
+      "introductory",
+      "today",
+      "lower",
+      "national"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-november-22-2025-110034633.html",
+    "title": "HELOC rates today, November 22, 2025: Lowest of the year, but your intro rate will be even lower",
+    "fetched_on": "2025-11-23T11:16:29.187818+00:00",
+    "content": "The national average HELOC rate is 7.64%, according to analytics company Curinos. Home equity line of credit interest rates have fallen over the course of the year. However, your introductory rate, o… [+4094 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "November",
+      "Lowest",
+      "Curinos",
+      "year",
+      "today",
+      "rate",
+      "intro",
+      "lower",
+      "national"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/139379/report-man-united-planning-250m-transfer-overhaul-in-2026.html",
+    "title": "Report: Man United planning £250m transfer overhaul in 2026",
+    "fetched_on": "2025-11-23T11:16:29.187818+00:00",
+    "content": "Credit to TeamTALK for the original reporting that has sparked fresh debate around Old Traffords direction. The scale of Manchester Uniteds midfield ambition feels like a statement of intent, rooted … [+3251 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Man",
+      "Credit",
+      "Traffords",
+      "planning",
+      "transfer",
+      "direction",
+      "rooted",
+      "chars",
+      "overhaul"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/money-conversations-couples-must-have-before-marriage",
+    "title": "Money Conversations Couples Must Have Before Marriage",
+    "fetched_on": "2025-11-23T11:16:29.187818+00:00",
+    "content": "This means being transparent about your income, debts, assets, and financial obligations such as loans or family support commitments. Many Indian couples bring financial baggage into marriage, whethe… [+1433 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "debts",
+      "assets",
+      "Conversations",
+      "Money",
+      "income",
+      "commitments",
+      "Couples",
+      "Marriage",
+      "whethe",
+      "chars"
+    ]
   }
 ]
