@@ -197742,5 +197742,41 @@
       "Deluxe",
       "Note"
     ]
+  },
+  {
+    "source": "Couponsurfer.com [NewsAPI]",
+    "url": "https://www.couponsurfer.com/brands/amazon/coupon-42524",
+    "title": "Amazon.com Coupon",
+    "fetched_on": "2025-11-23T06:30:52.693100+00:00",
+    "content": "$0.99/mo for the first 3 months + $20 Audible credit\r\nLimited time offer: Save over 90% plus a bonus $20 credit for Audible.com. Credit notification will be received via email. Listen all you want to… [+118 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coupon",
+      "Audible",
+      "Save",
+      "Audible.com",
+      "months",
+      "Limited",
+      "credit",
+      "Amazon.com",
+      "offer",
+      "bonus"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/video/centerbridges-aronson-defends-private-credit-221654922.html",
+    "title": "Centerbridge's Aronson Defends Private Credit: 'Take a Breath'",
+    "fetched_on": "2025-11-23T06:31:14.211886+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Breath",
+      "Aronson",
+      "Defends",
+      "Private",
+      "Centerbridge"
+    ]
   }
 ]
