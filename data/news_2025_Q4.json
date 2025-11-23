@@ -198676,5 +198676,45 @@
       "establishments",
       "prompting"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-11-23/from-hasbro-to-alnylam-and-carnival-no-hiding-from-change-has-arm-alny-ubs",
+    "title": "From Hasbro Toys to Biotech and Carnival Ships, No Hiding From Change",
+    "fetched_on": "2025-11-23T21:18:46.915941+00:00",
+    "content": "<p>Finance chiefs talk about their role&nbsp;in shaping core changes&nbsp;at their businesses. Plus, UBS’s Todd Tuckner on integrating Credit Suisse, Swiss tariffs and capital requirements.&nbsp;</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ships",
+      "Finance",
+      "Hasbro",
+      "Toys",
+      "Biotech",
+      "Carnival",
+      "Hiding",
+      "businesses",
+      "Change",
+      "changes"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/139390/report-man-united-favourites-to-sign-17-year-old-wonderkid.html",
+    "title": "Report: Man United favourites to sign 17-year-old wonderkid",
+    "fetched_on": "2025-11-23T21:18:45.661227+00:00",
+    "content": "Credit to Caught Offside for the original reporting on a story that has stirred real intrigue across Europe. Manchester United are pushing forward in their pursuit of Ajax prodigy Jorthy Mokio, a 17 … [+3023 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Man",
+      "Europe",
+      "Credit",
+      "Caught",
+      "Offside",
+      "United",
+      "sign",
+      "wonderkid",
+      "chars"
+    ]
   }
 ]
