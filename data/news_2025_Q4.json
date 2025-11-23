@@ -197838,5 +197838,45 @@
       "temptation",
       "charities"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/445d39db647396b7",
+    "title": "Swiss regulator warns mortgage risks are rising as banks stretch lending rules",
+    "fetched_on": "2025-11-23T10:20:35.237959+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Marjorie Taylor Greene resigning? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps Ukraine peace pl… [+723 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Marjorie",
+      "Taylor",
+      "Greene",
+      "Swiss",
+      "rules"
+    ]
+  },
+  {
+    "source": "Globalsecurity.org [NewsAPI]",
+    "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251121-dod03.htm",
+    "title": "Office of Strategic Capital Agrees to Joint $700M Conditional Loan Commitment with Vulcan Elements and ReElement Technologies",
+    "fetched_on": "2025-11-23T10:20:35.237959+00:00",
+    "content": "November 21, 2025Release\r\nThe Office of Strategic Capital (OSC) announces a joint $700 million conditional loan commitment with Vulcan Elements (\"Vulcan\") and ReElement Technologies (\"ReElement\") to … [+3548 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vulcan",
+      "Strategic",
+      "OSC",
+      "Capital",
+      "Elements",
+      "Technologies",
+      "Joint",
+      "Loan",
+      "Commitment",
+      "ReElement"
+    ]
   }
 ]
