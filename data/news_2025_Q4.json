@@ -197662,5 +197662,45 @@
       "Helping",
       "Create"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-23/singapore-investigation-into-chen-zhi-alleged-prince-scam-ring-widens-with-raid",
+    "title": "Singapore Probe Into Alleged Prince Scam Ring Widens With Raid",
+    "fetched_on": "2025-11-23T04:33:51.635733+00:00",
+    "content": "Singapore authorities raided a car loan company that borrowed from a firm connected to Prince Holding Group, as the net widens on those linked to the alleged scam organization and its chair Chen Zhi.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group",
+      "Zhi",
+      "Prince",
+      "Singapore",
+      "Alleged",
+      "Scam",
+      "Widens",
+      "Probe",
+      "Ring",
+      "Raid"
+    ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/International/wireStory/frustrations-grow-russia-cellphone-internet-outages-disrupt-daily-127776156",
+    "title": "Frustrations grow in Russia over cellphone internet outages that disrupt daily life",
+    "fetched_on": "2025-11-23T04:33:49.774211+00:00",
+    "content": "TALLINN, Estonia -- When Russians look back at 2025, they might remember it as the year when the government took even tighter control of the internet.\r\nCredit cards that won't buy a ticket on public … [+7346 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Estonia",
+      "TALLINN",
+      "Russia",
+      "Russians",
+      "internet",
+      "Frustrations",
+      "grow",
+      "cellphone",
+      "outages",
+      "disrupt"
+    ]
   }
 ]
