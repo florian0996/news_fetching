@@ -199414,5 +199414,125 @@
       "time",
       "average"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-11-24/credit-crunch-where-ai-fits-with-cognitive-credit-s-rob-slater",
+    "title": "Credit Crunch: Where AI Fits With Cognitive Credit’s Rob Slater",
+    "fetched_on": "2025-11-24T13:34:28.902011+00:00",
+    "content": "“If there are things in your business that need to get done, but they’re pretty low risk, this is a great place to start because it has a very attractive risk-reward payout,” says Rob Slater, CEO and founder of Cognitive Credit, reflecting on one of the two areas where AI makes the most sense to deploy. “If you do an AI experiment and it doesn’t really work, you’re not really any worse off.” Slater joins Bloomberg Intelligence’s Noel Hebert on this episode of the Credit Crunch podcast to discuss",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cognitive",
+      "Rob",
+      "Credit",
+      "CEO",
+      "Fits",
+      "Slater",
+      "Crunch",
+      "risk",
+      "payout",
+      "reflecting"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-24/world-bank-lifts-kenya-economic-growth-forecast-on-lower-rates",
+    "title": "World Bank Lifts Kenya Economic Growth Forecast on Lower Rates",
+    "fetched_on": "2025-11-24T13:34:29.151587+00:00",
+    "content": "The World Bank raised its growth forecast for Kenya, citing low inflation, easier monetary policy, stronger credit growth and resilient agriculture as key drivers behind the revision.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Kenya",
+      "Growth",
+      "World",
+      "Forecast",
+      "Lifts",
+      "Economic",
+      "Lower",
+      "Rates",
+      "citing"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/43319813/consultant-gets-fired-unceremoniously-after-using-daily-50-lunch-credit-to-fund-his-side-business",
+    "title": "Consultant gets fired unceremoniously after using daily $50 lunch credit to fund his side business for months: 'He was embezzling $40 to $45 a day for \"lunch\" while eating PB&J sandwiches'",
+    "fetched_on": "2025-11-24T13:34:28.260981+00:00",
+    "content": "Sure, some businesses waste a ton of money that could slip through the cracks, but this consultant's scheme was bound to fail.\r\nAt this firm, most consultants travel from Monday through Thursday and … [+776 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lunch",
+      "daily",
+      "months",
+      "embezzling",
+      "cracks",
+      "fail",
+      "fired",
+      "unceremoniously",
+      "credit",
+      "fund"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/business/2025/11/23/on-chain-stocks-could-misprice-over-weekends-triggering-arbitrage-risks-redstone",
+    "title": "On-Chain Stocks Could Misprice Over Weekends, Triggering Arbitrage Risks: RedStone",
+    "fetched_on": "2025-11-24T13:34:28.260981+00:00",
+    "content": "As real-world asset (RWA) tokenization surges, the crypto industry is entering unfamiliar territory, bringing traditional equities, private credit, and commercial paper onchain and uncovering potenti… [+3616 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RWA",
+      "chars",
+      "Weekends",
+      "Triggering",
+      "Risks",
+      "Stocks",
+      "Misprice",
+      "Arbitrage",
+      "On-Chain",
+      "RedStone"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/11/wife-asks-husband-to-co-sign-a-loan-so-her-brother-can-buy-a-used-car-to-drive-to-work-but-he-refuses-to-co-sign-the-loan/",
+    "title": "Wife Asks Husband To Co-Sign A Loan So Her Brother Can Buy A Used Car To Drive To Work, But He Refuses To Agree",
+    "fetched_on": "2025-11-24T13:34:28.260981+00:00",
+    "content": "Shutterstock/Reddit\r\nWhen you get hired for a job, it’s important to think about how you’re going to get to and from work. If public transportation won’t cut it, you might need a reliable car.\r\nWould… [+2155 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Work",
+      "Shutterstock",
+      "Reddit",
+      "Husband",
+      "Loan",
+      "Brother",
+      "Buy",
+      "Drive",
+      "Refuses",
+      "Agree"
+    ]
+  },
+  {
+    "source": "UN News [NewsAPI]",
+    "url": "https://news.un.org/en/story/2025/11/1166425",
+    "title": "From milking stalls to mobile apps: UN-supported project powers rural revival in Indonesia",
+    "fetched_on": "2025-11-24T13:34:28.260981+00:00",
+    "content": "Members of the South Bandung Farming Cooperative (KPBS) have recorded a 38 per cent increase in productive loans and a 43 per cent rise in sales volumes over the past two years, following the introdu… [+5747 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KPBS",
+      "chars",
+      "Cooperative",
+      "cent",
+      "Indonesia",
+      "Members",
+      "South",
+      "Bandung",
+      "Farming",
+      "apps"
+    ]
   }
 ]
