@@ -200126,5 +200126,105 @@
       "Release",
       "Week"
     ]
+  },
+  {
+    "source": "BGR [NewsAPI]",
+    "url": "https://www.bgr.com/2032749/sci-fi-horror-movie-europa-report-streaming-hulu/",
+    "title": "Hulu Is Streaming One Of The Most Underrated Sci-Fi Horror Movies Ever Made",
+    "fetched_on": "2025-11-24T21:20:44.662219+00:00",
+    "content": "Following its release, \"Europa Report\" managed to obtain a commendable 81% on Rotten Tomatoes. As Cordero's first English-language film, it earned credit for its impressive level of realism, which pu… [+1125 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Europa",
+      "Report",
+      "Tomatoes",
+      "Streaming",
+      "Underrated",
+      "Horror",
+      "Movies",
+      "Made",
+      "Rotten",
+      "Hulu"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4354218/posts",
+    "title": "Astronomy Picture of the Day - The Observable Universe",
+    "fetched_on": "2025-11-24T21:20:44.662219+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - The Observable UniverseNASA ^\r\n | 23 Nov, 2025\r\n | Illustration Credit &amp; Licence: Wikipedia, Pablo Carlos Budassi\r\nPosted on 11/23/2025 1:06:41 P… [+2588 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Picture",
+      "Astronomy",
+      "Observable",
+      "Universe",
+      "Skip",
+      "comments",
+      "Nov",
+      "Licence",
+      "Wikipedia"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2025/11/23/15-new-tv-shows-to-watch-this-week-on-netflix-apple-tv-prime-video-hbo-max-paramount-and-more/",
+    "title": "15 New TV Shows To Watch This Week On Netflix, Apple TV, Prime Video, HBO Max, Paramount+ And More",
+    "fetched_on": "2025-11-24T21:20:44.662219+00:00",
+    "content": "All the TV shows currently airing the week of November 23 - 29 on Netflix, Prime Video, Apple TV and more.\r\nCredit: Netflix\r\nIts a big week for new TV shows, though the majority of the following guid… [+5954 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "Prime",
+      "Video",
+      "Paramount",
+      "Netflix",
+      "HBO",
+      "Max",
+      "November",
+      "Shows",
+      "Watch"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-tatiana-schlossberg-caroline-kennedy-daughter-5489800/",
+    "title": "Who Is Tatiana Schlossberg? 5 Things About Caroline Kennedy’s Daughter",
+    "fetched_on": "2025-11-24T21:20:44.662219+00:00",
+    "content": "Image Credit: Getty Images for New York Magazine\r\nTatiana Schlossberg has always been one of the more private members of the Kennedy family, but she recently stepped into the public eye after reveali… [+2970 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tatiana",
+      "Schlossberg",
+      "Kennedy",
+      "Things",
+      "Credit",
+      "Getty",
+      "chars",
+      "Caroline",
+      "Daughter",
+      "York"
+    ]
+  },
+  {
+    "source": "Good News Network [NewsAPI]",
+    "url": "https://www.goodnewsnetwork.org/root-canal-treatment-reduces-heart-disease-and-diabetes-risk/",
+    "title": "Root Canal Treatment Reduces Heart Disease and Diabetes Risk",
+    "fetched_on": "2025-11-24T21:20:44.662219+00:00",
+    "content": "Credit: Getty Images for Unsplash+\r\nSuccessful root canal treatment can reduce inflammation linked to heart disease, according to new research.\r\nThe much dreaded dental surgery can also improve level… [+3827 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canal",
+      "Credit",
+      "Getty",
+      "Unsplash",
+      "Successful",
+      "Treatment",
+      "Heart",
+      "Disease",
+      "Diabetes",
+      "Risk"
+    ]
   }
 ]
