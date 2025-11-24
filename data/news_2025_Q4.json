@@ -199614,5 +199614,103 @@
       "boosts",
       "sales"
     ]
+  },
+  {
+    "source": "Bleeding Cool News [NewsAPI]",
+    "url": "https://bleedingcool.com/movies/sinners-director-on-the-irish-influences-behind-the-film/",
+    "title": "Sinners Director on the Irish Influences Behind the Film",
+    "fetched_on": "2025-11-24T15:25:35.128425+00:00",
+    "content": "Posted in: Movies, Warner Bros | Tagged: ryan coogler, sinners, Warner Bros\r\nRyan Coogler explains the Irish roots woven through Sinners, crediting a childhood movie, folk traditions, and Bram Stoker… [+3133 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Warner",
+      "Tagged",
+      "Irish",
+      "Bros",
+      "ryan",
+      "coogler",
+      "Stoker",
+      "chars",
+      "Sinners",
+      "Director"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/was-cbs-saturday-morning-canceled-5483447/",
+    "title": "Was ‘CBS Saturday Morning’ Canceled? What Happened Amid Paramount Layoffs",
+    "fetched_on": "2025-11-24T15:25:35.128425+00:00",
+    "content": "Image Credit: Michele Crowe/CBS News\r\nThe last week of October 2025 proved to be a difficult one for the entire Paramount Global team amid its merger with Skydance Media. Layoffs and shocking departu… [+3397 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canceled",
+      "CBS",
+      "Saturday",
+      "Morning’",
+      "Paramount",
+      "Credit",
+      "Michele",
+      "Crowe",
+      "October",
+      "Media"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/why-some-people-are-treating-chatgpt-like-a-god-and-what-that-means-for-the-future-of-faith",
+    "title": "Why some people are treating ChatGPT like a God – and what that means for the future of faith",
+    "fetched_on": "2025-11-24T15:25:35.128425+00:00",
+    "content": "(Image credit: OpenAI/Microsoft/Google)\r\nThis article is part of TechRadar's AI Week 2025. Covering the basics of artificial intelligence, we'll show you how to get the most from the likes of ChatGPT… [+7391 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Microsoft",
+      "Google",
+      "God",
+      "Image",
+      "Week",
+      "OpenAI",
+      "faith",
+      "credit",
+      "ChatGPT",
+      "people"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a8c550e03635fe32",
+    "title": "Blackstone Secured Lending Vs. Morgan Stanley Direct Lending: Which 11%+ Yield Is The Better Buy?",
+    "fetched_on": "2025-11-24T15:25:35.128425+00:00",
+    "content": "The last year has been a tough market for income investors.As rates have headed lower, bond yields have as well - and with the S&amp;P 500 trading at 25x blended earnings, its an expensive looking ma… [+151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "Buy",
+      "Secured",
+      "Morgan",
+      "Stanley",
+      "Direct",
+      "Blackstone",
+      "chars",
+      "Yield",
+      "yields"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/big-tech-ai-debt-wave-111536425.html",
+    "title": "Big Tech’s AI Debt Wave Threatening to Swamp Credit Markets",
+    "fetched_on": "2025-11-24T15:25:58.314259+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Markets",
+      "Tech",
+      "Debt",
+      "Wave",
+      "Threatening",
+      "Swamp",
+      "Credit",
+      "Big"
+    ]
   }
 ]
