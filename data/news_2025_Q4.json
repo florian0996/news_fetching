@@ -199174,5 +199174,45 @@
       "Record",
       "Client"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-24/ing-closes-two-srts-tied-to-10-5-billion-in-corporate-loans",
+    "title": "ING Closes Two SRTs Tied to €10.5 Billion in Corporate Loans",
+    "fetched_on": "2025-11-24T10:25:35.060184+00:00",
+    "content": "ING Groep NV has completed two significant risk transfers linked to €10.5 billion ($12.1 billion) worth of corporate loans, boosting its capital buffer.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "ING",
+      "Corporate",
+      "Loans",
+      "Closes",
+      "Tied",
+      "Groep",
+      "worth",
+      "boosting",
+      "buffer"
+    ]
+  },
+  {
+    "source": "Android Authority [NewsAPI]",
+    "url": "https://www.androidauthority.com/pixel-hide-search-bar-3617699/",
+    "title": "Google’s letting us remove At a Glance on Pixels, but why stop there?",
+    "fetched_on": "2025-11-24T10:25:34.579732+00:00",
+    "content": "Googles Pixel Launcher is better than I give it credit for, but it isnt without its shortcomings. As a Pixel 8 user, I encounter the home screens quirks every day, but even so, its limitations can be… [+5398 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Glance",
+      "Pixel",
+      "letting",
+      "remove",
+      "stop",
+      "Google",
+      "Googles",
+      "Launcher",
+      "Pixels",
+      "user"
+    ]
   }
 ]
