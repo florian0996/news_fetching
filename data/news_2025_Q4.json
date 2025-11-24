@@ -198956,5 +198956,65 @@
       "Emirates",
       "Islamic"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-24/julius-baer-books-186-million-loss-provision-on-property-loans",
+    "title": "Julius Baer Books $186 Million Loss Provision on Property Loans",
+    "fetched_on": "2025-11-24T06:33:58.340511+00:00",
+    "content": "Julius Baer Group Ltd. said it was booking a 150 million Swiss franc ($186 million) loan-loss provision as it continues to wind down lending not in line with its core wealth-management strategy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Baer",
+      "Julius",
+      "Books",
+      "Million",
+      "Loss",
+      "Property",
+      "Loans",
+      "Group",
+      "Provision",
+      "Swiss"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18855751-sony-wh-1000xm5-premium-noise-canceling-headphones-for-248-00-30-digital-credit-for-amazon-com",
+    "title": "Sony WH-1000XM5 Premium Noise Canceling Headphones for $248.00 + $30 Digital Credit for Amazon.com",
+    "fetched_on": "2025-11-24T06:33:57.751939+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Premium",
+      "Digital",
+      "Sony",
+      "tips",
+      "Noise",
+      "Canceling",
+      "Headphones",
+      "Credit",
+      "Amazon.com",
+      "information"
+    ]
+  },
+  {
+    "source": "Tampa Bay Times [NewsAPI]",
+    "url": "http://www.tampabay.com/sports/2025/11/23/tampa-bay-sun-lexington-catherine-barry-sabrina-mcneill-sydney-schneider/",
+    "title": "Tampa Bay Sun, Lexington extend unbeaten streaks in tied match",
+    "fetched_on": "2025-11-24T06:33:57.751939+00:00",
+    "content": "Lexington Sporting Club arrived at Suncoast Credit Union Field Saturday night riding an 11-match unbeaten streak that reached back to the final game of last season.\r\nWhile Lexington (5-0-6) extended … [+2426 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sun",
+      "Lexington",
+      "Bay",
+      "Sporting",
+      "Club",
+      "Suncoast",
+      "Credit",
+      "Union",
+      "Field",
+      "Saturday"
+    ]
   }
 ]
