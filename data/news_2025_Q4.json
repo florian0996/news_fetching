@@ -199096,5 +199096,83 @@
       "attacking",
       "strategy"
     ]
+  },
+  {
+    "source": "Getfootballnewsitaly.com [NewsAPI]",
+    "url": "https://www.getfootballnewsitaly.com/2025/why-bologna-manager-vincenzo-italiano-deserves-more-credit-than-he-gets/",
+    "title": "Why Bologna manager Vincenzo Italiano deserves more credit than he gets",
+    "fetched_on": "2025-11-24T09:27:17.878893+00:00",
+    "content": "At the end of days play in Serie A on Saturday, Bologna found themselves at third in the table. Vincenzo Italianos side have played a game more than Inter, Milan and Roma but are just one point behin… [+2310 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bologna",
+      "Saturday",
+      "Serie",
+      "Vincenzo",
+      "table",
+      "Italiano",
+      "Italianos",
+      "Inter",
+      "Milan",
+      "chars"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/393185/ri-govt-urges-migrant-workers-to-use-micro-loan-for-overseas-jobs",
+    "title": "RI Govt urges migrant workers to use micro loan for overseas jobs",
+    "fetched_on": "2025-11-24T09:27:17.878893+00:00",
+    "content": "Kota Sukabumi (ANTARA) - Indonesia’s Migrant-Worker Protection Minister Mukhtarudin urged prospective workers to use the government’s microcredit program (KUR) to finance departures abroad, saying th… [+1935 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANTARA",
+      "KUR",
+      "chars",
+      "Sukabumi",
+      "Indonesia",
+      "workers",
+      "Govt",
+      "Kota",
+      "Protection",
+      "Minister"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/julius-baer-lifts-assets-to-520bn-francs-as-credit-review-wraps-up-4374382",
+    "title": "Julius Baer lifts assets to 520bn francs as credit review wraps up",
+    "fetched_on": "2025-11-24T09:27:38.060147+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Baer",
+      "Julius",
+      "francs",
+      "lifts",
+      "assets",
+      "credit",
+      "review",
+      "wraps"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/banking/julius-baer-draws-line-under-credit-review-as-bank-posts-record-client-assets-a89a1536?siteid=yhoof2&yptr=yahoo",
+    "title": "Julius Baer Draws Line Under Credit Review as Bank Posts Record Client Assets",
+    "fetched_on": "2025-11-24T09:27:48.523384+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Assets",
+      "Baer",
+      "Draws",
+      "Line",
+      "Credit",
+      "Review",
+      "Bank",
+      "Posts",
+      "Record",
+      "Client"
+    ]
   }
 ]
