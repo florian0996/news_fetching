@@ -200226,5 +200226,45 @@
       "Diabetes",
       "Risk"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-24/rowan-says-people-lost-their-minds-over-private-credit-fears",
+    "title": "Rowan Says People ‘Lost Their Minds’ Over Private Credit Fears",
+    "fetched_on": "2025-11-24T22:20:47.697005+00:00",
+    "content": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan rejected the notion that adding private assets to retirement and insurance portfolios can pose a systemic risk, calling concerns about such holdings overblown.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "People",
+      "Lost",
+      "Minds’",
+      "Credit",
+      "Fears",
+      "Apollo",
+      "Global",
+      "Management",
+      "Rowan",
+      "Private"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-chilling-in-my-zen-garden-in-plants-vs-zombies/",
+    "title": "Great moments in PC gaming: Chilling in my Zen Garden in Plants Vs. Zombies",
+    "fetched_on": "2025-11-24T22:20:45.724491+00:00",
+    "content": "Great moments in PC gaming are bite-sized celebrations of some of our favorite gaming memories.\r\n(Image credit: PopCap)\r\nDeveloper: PopcapYear: 2009\r\nPlants vs. Zombies is a cute game unless you real… [+3149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Great",
+      "moments",
+      "gaming",
+      "Chilling",
+      "Plants",
+      "Zombies",
+      "Zen",
+      "Garden",
+      "memories",
+      "Developer"
+    ]
   }
 ]
