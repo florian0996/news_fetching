@@ -199534,5 +199534,85 @@
       "Farming",
       "apps"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-24/hsbc-s-gerry-keefe-on-private-credit-market-video",
+    "title": "HSBC: Private Credit Has ‘Fundamentally Changed’ Credit Markets",
+    "fetched_on": "2025-11-24T14:22:39.471530+00:00",
+    "content": "The size of private credit markets has quadrupled in the last decade, says Gerry Keefe, HSBC Head of Banking for Europe and Americas. And despite a few high profile credit defaults in the in the last few months including Tricolor and First Brands, Keefe insists that \"just because something is private credit, doesn't mean it's risky.\" He spoke to Bloomberg's Joumanna Bercetche on \"The Pulse.\" (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HSBC",
+      "Credit",
+      "Markets",
+      "Fundamentally",
+      "Americas",
+      "Private",
+      "Changed’",
+      "Gerry",
+      "Head",
+      "Banking"
+    ]
+  },
+  {
+    "source": "disneyfoodblog.com [NewsAPI]",
+    "url": "https://www.disneyfoodblog.com/2025/11/23/i-thought-travel-credit-cards-were-a-scam-then-i-used-one-for-this-disney-world-hotel/",
+    "title": "I Thought Travel Credit Cards Were a Scam — Then I Used One for This Disney World Hotel",
+    "fetched_on": "2025-11-24T14:22:38.763489+00:00",
+    "content": "A couple of Disney World’s best hotels aren’t even owned and operated by Disney!\r\nThe Dolphin\r\nThe Swan and Dolphin Hotels are beloved by many for their prime location, fair rates, and fantastic amen… [+4091 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "World",
+      "Scam",
+      "Thought",
+      "Travel",
+      "Credit",
+      "Cards",
+      "hotels",
+      "Dolphin",
+      "couple"
+    ]
+  },
+  {
+    "source": "CleanTechnica [NewsAPI]",
+    "url": "https://cleantechnica.com/2025/11/23/how-have-used-electric-car-prices-changed-post-4000-tax-credit/",
+    "title": "How Have Used Electric Car Prices Changed Post–$4,000 Tax Credit?",
+    "fetched_on": "2025-11-24T14:22:38.763489+00:00",
+    "content": "Support CleanTechnica's work through a Substack subscription or on Stripe.\r\nI wrote a handful of articles before the US EV tax credits ended pondering what would happen to used EV prices after they w… [+5106 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Post",
+      "Electric",
+      "Car",
+      "Changed",
+      "Tax",
+      "Prices",
+      "Stripe",
+      "Substack",
+      "chars",
+      "Credit"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/gst-2-0-boosts-auto-sales-passenger-car-industry-to-clock-5-growth-stellantis-india-ceo-predicts/articleshow/125520651.cms",
+    "title": "GST 2.0 boosts auto sales: Passenger car industry to clock 5% growth, Stellantis India CEO predicts",
+    "fetched_on": "2025-11-24T14:22:38.763489+00:00",
+    "content": "The Indian passenger car market is finally picking up pace, and this time, the credit goes largely to the GST 2.0 reforms. According to Stellantis Indias Managing Director and CEO, Shailesh Hazela, t… [+3953 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GST",
+      "Passenger",
+      "growth",
+      "reforms",
+      "Stellantis",
+      "Indian",
+      "car",
+      "CEO",
+      "boosts",
+      "sales"
+    ]
   }
 ]
