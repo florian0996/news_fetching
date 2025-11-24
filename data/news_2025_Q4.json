@@ -199274,5 +199274,145 @@
       "time",
       "average"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-24/eu-banks-set-to-extend-best-rally-since-97-says-morgan-stanley",
+    "title": "EU Banks Set to Extend Best Rally Since ‘97, Says Morgan Stanley",
+    "fetched_on": "2025-11-24T12:46:36.780224+00:00",
+    "content": "Euro-area banks are set to extend their best rally in 28 years as they benefit from loan growth and higher fees amid a stronger economy, according to Morgan Stanley analysts.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Stanley",
+      "Set",
+      "Extend",
+      "Rally",
+      "Banks",
+      "Euro-area",
+      "years",
+      "economy",
+      "analysts"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-24/big-tech-s-ai-debt-wave-is-threatening-to-swamp-credit-markets",
+    "title": "Big Tech’s AI Debt Wave Is Threatening to Swamp Credit Markets",
+    "fetched_on": "2025-11-24T12:46:37.097010+00:00",
+    "content": "A flood of debt sales from Big Tech risks overwhelming buyers and could weaken the credit market on both sides of the Atlantic.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tech",
+      "Atlantic",
+      "Big",
+      "Credit",
+      "Debt",
+      "Wave",
+      "Threatening",
+      "Swamp",
+      "Markets",
+      "market"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2025/11/23/michigan-state-football-dc-joe-rossi-deserves-a-ton-of-credit/87427800007/",
+    "title": "Michigan State football DC Joe Rossi deserves a ton of credit",
+    "fetched_on": "2025-11-24T12:46:35.492532+00:00",
+    "content": "Give props where props is due, Michigan State football defensive coordinator Joe Rossi has been nails in the face of adversity.\r\nWith the Michigan State season falling off of the rails, with the Spar… [+1272 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Joe",
+      "Rossi",
+      "State",
+      "Michigan",
+      "Give",
+      "football",
+      "props",
+      "due",
+      "adversity",
+      "deserves"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392294/eagle-drops-cat-through-moving-cars-windshield-in-north-carolina",
+    "title": "Eagle drops cat through moving car's windshield in North Carolina",
+    "fetched_on": "2025-11-24T12:46:35.492532+00:00",
+    "content": "World of the Bizarre\r\nBy T.K. RandallNovember 23, 2025 ·  1 commentIt's raining cats... Image Credit: MidjourneyA freak accident saw an unsuspecting driver get the fright of her life during an otherw… [+1234 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RandallNovember",
+      "North",
+      "Carolina",
+      "World",
+      "Bizarre",
+      "Eagle",
+      "commentIt",
+      "chars",
+      "Credit",
+      "drops"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/v1-protocol-launch-sets-the-foundation-for-1000-growth-here-is-why-mutm-is-the-next-big-crypto/",
+    "title": "V1 protocol launch sets the foundation for 1,000% growth, here is why MUTM is the next big crypto",
+    "fetched_on": "2025-11-24T12:46:35.492532+00:00",
+    "content": "Mutuum Finance (MUTM) is on the verge of a major breakthrough. With the upcoming V1 of the protocol launch, the platform is poised to reshape how lending and borrowing work in decentralised finance. … [+6312 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Mutuum",
+      "growth",
+      "protocol",
+      "launch",
+      "breakthrough",
+      "sets",
+      "foundation",
+      "big"
+    ]
+  },
+  {
+    "source": "Dineshkhabar.com [NewsAPI]",
+    "url": "https://dineshkhabar.com/article/128048",
+    "title": "Far-west sees rise in industrial credit but sharp decline in production",
+    "fetched_on": "2025-11-24T12:46:35.492532+00:00",
+    "content": "Dhangadhi: An economic activity study has revealed that despite an increase in industrial credit in the Far West Province, production has seen a significant decline. According to the annual report of… [+1285 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "industrial",
+      "Dhangadhi",
+      "Province",
+      "credit",
+      "West",
+      "decline",
+      "production",
+      "Far-west",
+      "rise",
+      "sharp"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/f1eeb032fc0b4c80",
+    "title": "HELOC rates today, November 23, 2025: Lowest 2025 rates in time for holiday cash needs",
+    "fetched_on": "2025-11-24T12:46:35.492532+00:00",
+    "content": "Nationally, the average home equity line of credit interest rate remains under 8%, according to the analytics company Curinos. With the holidays looming, a HELOC can be an excellent source of cash wh… [+150 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "Lowest",
+      "Nationally",
+      "Curinos",
+      "HELOC",
+      "today",
+      "rates",
+      "cash",
+      "time",
+      "average"
+    ]
   }
 ]
