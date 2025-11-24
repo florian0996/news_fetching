@@ -199036,5 +199036,65 @@
       "John",
       "Deering"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-24/uae-developers-raise-billions-in-bond-markets-video",
+    "title": "UAE Developers Raise Billions in Bond Markets",
+    "fetched_on": "2025-11-24T08:31:49.154435+00:00",
+    "content": "Property developers in the UAE are raising billions through a growing arsenal of funding tools, from Islamic bonds to private credit. This comes as they ride one of the country's longest real estate booms in years. Bloomberg's Laura Gardner Cuesta explains on Horizons Middle East and Africa. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UAE",
+      "Developers",
+      "Billions",
+      "Raise",
+      "Markets",
+      "Property",
+      "Islamic",
+      "Bond",
+      "bonds",
+      "tools"
+    ]
+  },
+  {
+    "source": "College Football News [NewsAPI]",
+    "url": "https://collegefootballnews.com/college-football/projected-fourth-college-football-playoff-top-25-rankings-2025",
+    "title": "Projected Fourth College Football Playoff Top 25 Rankings",
+    "fetched_on": "2025-11-24T08:31:48.224009+00:00",
+    "content": "The top of the College Football Playoff rankings is all that anyone really cares about, and rightly so, but any movement this week depends on whether or not credit is given for blowout wins in a down… [+10092 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Football",
+      "College",
+      "Playoff",
+      "chars",
+      "Top",
+      "Rankings",
+      "Fourth",
+      "Projected",
+      "cares",
+      "rightly"
+    ]
+  },
+  {
+    "source": "Chelsea.news [NewsAPI]",
+    "url": "https://chelsea.news/2025/11/cucurella-maresca-player-create-chaos/",
+    "title": "Maresca denies he’s using player to “create chaos” as main attacking strategy",
+    "fetched_on": "2025-11-24T08:31:48.224009+00:00",
+    "content": "Chelsea werent great in attack in yesterdays win over Burnley, but they got the job done.\r\nMarc Cucurella pleads in the rain. (Photo by Alex Livesey/Getty Images)\r\nA huge part of the credit has to go… [+1668 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Burnley",
+      "Chelsea",
+      "Maresca",
+      "create",
+      "chaos",
+      "denies",
+      "player",
+      "main",
+      "attacking",
+      "strategy"
+    ]
   }
 ]
