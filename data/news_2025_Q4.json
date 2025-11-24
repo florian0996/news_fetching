@@ -199966,5 +199966,45 @@
       "proposing",
       "enhanced"
     ]
+  },
+  {
+    "source": "/FILM [NewsAPI]",
+    "url": "https://www.slashfilm.com/2028161/hope-and-gloria-canceled-sitcom-friends-character-guest-star-phoebe-buffay/",
+    "title": "The Canceled Sitcom That Featured A Friends Character As A Guest Star",
+    "fetched_on": "2025-11-24T19:15:13.901674+00:00",
+    "content": "Obviously crossovers are not a rare thing in TV history, especially when it comes to popular shows that can give fledgling series a boost by lending out their characters. But in Lisa Kudrow's case, t… [+1564 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canceled",
+      "Sitcom",
+      "Featured",
+      "Friends",
+      "Guest",
+      "Star",
+      "history",
+      "Character",
+      "characters",
+      "crossovers"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4354197/posts",
+    "title": "Astronomy Picture of the Day - The Images not Posted during the Government Shutdown - NGC 7380: The Wizard Nebula",
+    "fetched_on": "2025-11-24T19:15:13.901674+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - The Images not Posted during the Government Shutdown - NGC 7380: The Wizard NebulaNASA ^\r\n | 8 Oct, 2025\r\n | Images Credit &amp; Copyright: Nevenka B… [+2684 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Images",
+      "NGC",
+      "Day",
+      "Shutdown",
+      "Picture",
+      "Posted",
+      "Government",
+      "Wizard",
+      "Nebula",
+      "Skip"
+    ]
   }
 ]
