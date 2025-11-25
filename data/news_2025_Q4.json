@@ -202954,5 +202954,102 @@
       "Friday",
       "Trump"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-25/banks-plan-4-5-billion-of-loans-in-sealed-air-lbo-debt-package",
+    "title": "Banks Plan $4.5 Billion of Loans in Sealed Air LBO Debt Package",
+    "fetched_on": "2025-11-25T19:20:02.077477+00:00",
+    "content": "Clayton Dubilier &amp; Rice is expected to sell about $4.5 billion of leveraged loans to help fund its acquisition of packaging firm Sealed Air as part of one of the biggest buyout financings underwritten by banks in months.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Sealed",
+      "Air",
+      "Loans",
+      "Plan",
+      "Dubilier",
+      "Rice",
+      "LBO",
+      "Debt",
+      "Package"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-25/bank-of-america-warns-of-mounting-credit-risks-as-gambling-booms",
+    "title": "Gambling, Prediction Markets Create New Credit Risks, BofA Warns",
+    "fetched_on": "2025-11-25T19:20:02.587138+00:00",
+    "content": "Bank of America is sounding the alarm over the explosive growth of prediction markets and sports gambling, warning it could lead consumers to take on too much debt and default on loans.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Risks",
+      "Prediction",
+      "Markets",
+      "Gambling",
+      "Create",
+      "Credit",
+      "Warns",
+      "Bank",
+      "America",
+      "BofA"
+    ]
+  },
+  {
+    "source": "Commercial Observer [NewsAPI]",
+    "url": "http://commercialobserver.com/2025/11/genesis-san-diego-housing-california/",
+    "title": "Genesis Capital Lends $66M for San Diego Affordable Housing Development",
+    "fetched_on": "2025-11-25T19:20:01.608003+00:00",
+    "content": "A Southern California developer has landed an eight-figure construction loan for a transit-oriented affordable housing project in San Diego. \r\nEncinitas-based Ambient Communities secured $66.2 millio… [+1757 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "San",
+      "Diego",
+      "Lends",
+      "Affordable",
+      "Housing",
+      "Capital",
+      "Development",
+      "Southern",
+      "California",
+      "Genesis"
+    ]
+  },
+  {
+    "source": "WWD [NewsAPI]",
+    "url": "http://wwd.com/beauty-industry-news/beauty-features/mastercard-loreal-business-card-partnership-1238360241/",
+    "title": "Mastercard and L’Oréal Join Forces to Launch BusinessCard Tailored for Beauty Entrepreneurs and Creatives",
+    "fetched_on": "2025-11-25T19:20:01.608003+00:00",
+    "content": "L’Oréal and Mastercard are teaming up to launch a credit card for the beauty mecca. \r\nNamed the L’Oréal Mastercard BusinessCard, the tool is available now in Mexico through Clara, a leading payment p… [+1845 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Launch",
+      "Beauty",
+      "Join",
+      "Forces",
+      "Tailored",
+      "Entrepreneurs",
+      "Creatives",
+      "Mastercard",
+      "mecca",
+      "L’Oréal"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/sp-global-ratings-places-under-armour-on-credit-downgrade-watch-93CH-4378026",
+    "title": "S&P Global Ratings places Under Armour on credit downgrade watch",
+    "fetched_on": "2025-11-25T19:20:12.896643+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Global",
+      "Ratings",
+      "Armour",
+      "watch",
+      "places",
+      "credit",
+      "downgrade"
+    ]
   }
 ]
