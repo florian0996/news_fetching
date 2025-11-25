@@ -200983,5 +200983,122 @@
       "card",
       "cards"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-25/uk-insolvencies-surge-as-higher-business-costs-deepen-strain",
+    "title": "UK Insolvencies Surge as Higher Business Costs Deepen Strain",
+    "fetched_on": "2025-11-25T09:26:02.765542+00:00",
+    "content": "UK insolvencies are rising sharply, with a leading trade credit insurer saying any new government policies that stand to raise business costs risk further pressuring vulnerable sectors.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Insolvencies",
+      "Business",
+      "Costs",
+      "Surge",
+      "Higher",
+      "Deepen",
+      "Strain",
+      "sharply",
+      "sectors",
+      "rising"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/india-emerges-as-asia-pacifics-fastest-advancing-real-estate-private-credit-market/articleshow/125537002.cms",
+    "title": "India emerges as Asia-Pacific’s fastest-advancing real estate private credit market",
+    "fetched_on": "2025-11-25T09:25:59.043680+00:00",
+    "content": "India is rapidly positioning itself as one of the fast-moving forces in Asia-Pacifics real estate private credit landscape, reshaping capital flows and signalling a deeper shift in how properties are… [+3610 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "estate",
+      "private",
+      "India",
+      "real",
+      "credit",
+      "landscape",
+      "reshaping",
+      "emerges",
+      "fastest-advancing"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/24/3193237/28124/en/France-Embedded-Finance-Business-Report-2025-Market-to-Reach-16-28-Growing-at-a-CAGR-of-10-5-Treezor-Swan-BNP-Paribas-and-Cr%C3%A9dit-Agricole-Drive-API-Led-Payments-Lending-and-BNPL-In.html",
+    "title": "France Embedded Finance Business Report 2025: Market to Reach $16.28, Growing at a CAGR of 10.5% - Treezor, Swan, BNP Paribas, and Crédit Agricole Drive API-Led Payments, Lending, and BNPL Integration",
+    "fetched_on": "2025-11-25T09:25:59.043680+00:00",
+    "content": "Dublin, Nov. 24, 2025 (GLOBE NEWSWIRE) -- The \"France Embedded Finance Market Size &amp; Forecast by Value and Volume Across 100+ KPIs by Business Models, Distribution Models, End-Use Sectors, and Ke… [+10647 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "France",
+      "Embedded",
+      "Models",
+      "Finance",
+      "Treezor",
+      "Swan",
+      "Lending",
+      "Nov.",
+      "Business",
+      "Market"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/consumer-finance/2025/synchrony-cfo-why-experience-not-credit-is-the-new-competitive-moat-in-consumer-finance/",
+    "title": "Synchrony CFO: Why Experience — Not Credit — Is the New Competitive Moat in Consumer Finance",
+    "fetched_on": "2025-11-25T09:25:59.043680+00:00",
+    "content": "For Synchrony Chief Financial Officer Brian Wenzel, the story of todays consumer isnt about inflation, credit tightening, or macro stress signals. Its about expectation.Throughout his Monday Conversa… [+6081 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CFO",
+      "Experience",
+      "Wenzel",
+      "Synchrony",
+      "Credit",
+      "Consumer",
+      "Competitive",
+      "Moat",
+      "Finance",
+      "Chief"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/loan-watch-three-goals-young-gunners-shine",
+    "title": "Loan watch: Three goals as young Gunners shine",
+    "fetched_on": "2025-11-25T09:25:59.043680+00:00",
+    "content": "Many of our Mens, Womens and Academy players have been sent out on loan this season to gain experience and further action.\r\nJakub Kiwior was rested for FC Porto in their Taca de Portugal tie against … [+2909 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mens",
+      "Womens",
+      "Gunners",
+      "Academy",
+      "watch",
+      "action",
+      "Loan",
+      "chars",
+      "goals",
+      "young"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/unicredit-introduces-first-internally-managed-090819333.html",
+    "title": "UniCredit introduces first internally managed life insurance policy",
+    "fetched_on": "2025-11-25T09:26:22.251637+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UniCredit",
+      "policy",
+      "introduces",
+      "internally",
+      "managed",
+      "life",
+      "insurance"
+    ]
   }
 ]
