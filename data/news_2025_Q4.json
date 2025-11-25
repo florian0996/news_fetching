@@ -201480,5 +201480,85 @@
       "chars",
       "mistakes"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/psu-banks-expand-home-loan-market-share-to-50-pc-of-origination-value-in-september-report/articleshow/125541285.cms",
+    "title": "PSU banks expand home loan market share to 50 pc of origination value in September: Report",
+    "fetched_on": "2025-11-25T12:45:48.101717+00:00",
+    "content": "Public sector banks have expanded their market share in the competitive home loan market to 50 per cent of total originations by value in September, a report said on Monday.The state-run banks have o… [+1376 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "September",
+      "PSU",
+      "market",
+      "loan",
+      "chars",
+      "Report",
+      "banks",
+      "Public",
+      "home",
+      "share"
+    ]
+  },
+  {
+    "source": "Highsnobiety [NewsAPI]",
+    "url": "https://www.highsnobiety.com/p/nike-black-friday-sale-best-cops/",
+    "title": "\"Just Do It,\" Said Your Credit Card",
+    "fetched_on": "2025-11-25T12:45:48.101717+00:00",
+    "content": "The festive season always has a way of sneaking up on you, one minute its crisp mornings, the next its long nights, layered fits, and shopping lists aplenty. Ahead of the game, unsurprisingly, is Nik… [+2410 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Card",
+      "mornings",
+      "nights",
+      "layered",
+      "fits",
+      "aplenty",
+      "festive",
+      "season",
+      "sneaking"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/10-winter-getaways-in-india-that-double-as-european-lookalikes/photostory/125540252.cms",
+    "title": "10 winter getaways in India that double as European lookalikes",
+    "fetched_on": "2025-11-25T12:45:48.101717+00:00",
+    "content": "Winter has its own charm, but to feel the real essence, many credit the European winters. However, it also cant be denied that travelling to Europe wont be practical for everybody. If anybody thinks … [+393 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "European",
+      "India",
+      "winter",
+      "charm",
+      "essence",
+      "winters",
+      "getaways",
+      "double",
+      "lookalikes",
+      "feel"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-retail-credit-grows-steadily-at-18-in-q2fy26-led-by-gold-auto-loans-crif/articleshow/125540387.cms",
+    "title": "India's retail credit grows steadily at 18% in Q2FY26, led by gold, auto loans: CRIF",
+    "fetched_on": "2025-11-25T12:45:48.101717+00:00",
+    "content": "New Delhi: The retail lending landscape of India continued its stable upward trajectory in Q2 FY26, driven by strong growth in secured large-ticket loans and a rebound in key consumer credit segments… [+1829 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CRIF",
+      "Delhi",
+      "India",
+      "chars",
+      "retail",
+      "credit",
+      "loans",
+      "led",
+      "gold",
+      "auto"
+    ]
   }
 ]
