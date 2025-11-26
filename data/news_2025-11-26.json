@@ -22,8 +22,8 @@
   {
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-25/altice-usa-to-repay-1-9-billion-leveraged-loan-two-years-early",
-    "title": "Altice USA Sues Apollo, Ares, BlackRock Over Cooperation Pact",
-    "fetched_on": "2025-11-26T09:25:42.201062+00:00",
+    "title": "Altice USA Sues Apollo, Ares, BlackRock Over Coop Agreement",
+    "fetched_on": "2025-11-26T10:25:33.012686+00:00",
     "content": "Altice USA Inc. filed an antitrust lawsuit against some of its largest creditors Tuesday, an opening salvo ahead of potential discussions to restructure its $26 billion debt pile.",
     "platforms_mentioned": [],
     "keywords": [
@@ -31,8 +31,8 @@
       "Apollo",
       "Altice",
       "Sues",
-      "Cooperation",
-      "Pact",
+      "Coop",
+      "Agreement",
       "BlackRock",
       "Tuesday",
       "filed",
@@ -83,7 +83,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-26/blackrock-stumbles-in-asia-private-credit-push-forcing-rethink",
     "title": "BlackRock Stumbles in Asia Private Credit Push, Forcing Rethink",
-    "fetched_on": "2025-11-26T09:25:42.201044+00:00",
+    "fetched_on": "2025-11-26T10:25:33.012741+00:00",
     "content": "BlackRock Inc., the world\u2019s largest asset manager, had big ambitions for Asia\u2019s private credit market.",
     "platforms_mentioned": [],
     "keywords": [
@@ -103,7 +103,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-25/uk-bank-shares-rise-as-fears-ease-of-budget-tax-raid-on-sector",
     "title": "Reeves Decides Against Hiking UK Bank Taxes to Spur Growth",
-    "fetched_on": "2025-11-26T09:25:42.201103+00:00",
+    "fetched_on": "2025-11-26T10:25:33.012795+00:00",
     "content": "Chancellor of the Exchequer Rachel Reeves has decided not to increase taxes on banks at the budget, betting that shielding the sector will spur more lending and boost growth.",
     "platforms_mentioned": [],
     "keywords": [
@@ -123,7 +123,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-25/private-credit-s-sketchy-marks-get-warning-shot-from-wall-street-s-top-cop",
     "title": "Private Credit\u2019s Sketchy Marks Get Warning Shot From Wall Street\u2019s Top Cop",
-    "fetched_on": "2025-11-26T09:25:42.201175+00:00",
+    "fetched_on": "2025-11-26T10:25:33.012869+00:00",
     "content": "Wall Street\u2019s top prosecutor has a warning for private-market players getting creative with their numbers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/mortgage-rates-hit-highest-level-in-a-month-pushing-loan-demand-down-5percent.html",
     "title": "Mortgage rates hit highest level in a month, pushing loan demand down 5%",
-    "fetched_on": "2025-11-26T09:26:07.295127+00:00",
+    "fetched_on": "2025-11-26T10:26:01.993966+00:00",
     "content": "Mortgage rates rose to the highest level in a month last week, causing demand for home loans to drop. Demand, however, is still higher than a year ago.",
     "platforms_mentioned": [],
     "keywords": [
@@ -763,7 +763,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/10/why-the-trump-administration-wants-to-allow-crypto-backed-mortgages.html",
     "title": "The Trump administration wants to allow crypto-backed mortgages. Here's why",
-    "fetched_on": "2025-11-26T09:26:07.295201+00:00",
+    "fetched_on": "2025-11-26T10:26:01.994047+00:00",
     "content": "Fannie Mae and Freddie Mac could allow crypto holdings to be included in mortgage risk assessments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -783,7 +783,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
     "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
-    "fetched_on": "2025-11-26T09:26:07.295214+00:00",
+    "fetched_on": "2025-11-26T10:26:01.994061+00:00",
     "content": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -803,7 +803,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
     "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
-    "fetched_on": "2025-11-26T09:26:07.295260+00:00",
+    "fetched_on": "2025-11-26T10:26:01.994110+00:00",
     "content": "More buyers are\u00a0turning to adjustable-rate mortgages, which offer lower initial rates than fixed-rate loans. But there are some risks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -823,7 +823,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-credit-cards-mortgages-savings.html",
     "title": "What this Fed rate cut means for your credit card, mortgage, auto loan, student debt and savings account",
-    "fetched_on": "2025-11-26T09:26:07.295267+00:00",
+    "fetched_on": "2025-11-26T10:26:01.994117+00:00",
     "content": "Here\u2019s a look at all of the ways the Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -843,7 +843,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/blue-owl-calls-off-merger-of-its-two-private-credit-funds-after-announcement-rattles-stock-sources-say.html",
     "title": "Blue Owl calls off merger of its two private credit funds after announcement rattles stock",
-    "fetched_on": "2025-11-26T09:26:07.445229+00:00",
+    "fetched_on": "2025-11-26T10:26:02.133537+00:00",
     "content": "Blue Owl has decided to call off the merging of two of its private credit funds after the deal caused some angst among investors, according to sources.",
     "platforms_mentioned": [],
     "keywords": [
@@ -863,7 +863,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html",
     "title": "New York Fed met with Wall Street firms about key lending facility: FT",
-    "fetched_on": "2025-11-26T09:26:07.445283+00:00",
+    "fetched_on": "2025-11-26T10:26:02.133592+00:00",
     "content": "The Fed sought feedback from dealers on the use of the central bank's standing repo facility, a permanent lending tool that acts as a backstop for markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -883,7 +883,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/22/this-56-year-old-man-just-got-170000-in-student-loan-forgiveness-.html",
     "title": "56-year-old man got over $170,000 in student loan forgiveness under Trump: 'I could not believe it'",
-    "fetched_on": "2025-11-26T09:26:07.827101+00:00",
+    "fetched_on": "2025-11-26T10:26:02.289645+00:00",
     "content": "Daniel Gray worried about his student debt for more than two decades. The day after he turned 56, he learned that his over $170,000 balance would be forgiven.",
     "platforms_mentioned": [],
     "keywords": [
@@ -903,7 +903,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/20/worries-for-student-loan-borrowers-amid-education-department-breakup-.html",
     "title": "Education Department restructuring plan doesn't involve student debt. Still, experts are worried",
-    "fetched_on": "2025-11-26T09:26:07.827145+00:00",
+    "fetched_on": "2025-11-26T10:26:02.289689+00:00",
     "content": "The new restructuring at the Education Department doesn't involve the student loan portfolio. But the instability at the agency could still harm borrowers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -923,7 +923,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/20/holiday-shopping-season-forecasts-show-growing-k-shaped-divide.html",
     "title": "It's looking like a 'K-shaped' holiday season, reports show",
-    "fetched_on": "2025-11-26T09:26:07.827160+00:00",
+    "fetched_on": "2025-11-26T10:26:02.289703+00:00",
     "content": "Some shoppers plan to spend big this holiday season \u2014 even if it means racking up more credit card debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -943,7 +943,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/18/federal-student-loan-repayment.html",
     "title": "Millions of federal student loan borrowers will start repayment soon. Here's what to know",
-    "fetched_on": "2025-11-26T09:26:07.827195+00:00",
+    "fetched_on": "2025-11-26T10:26:02.289738+00:00",
     "content": "The grace period for federal student loan borrowers who graduated in May is ending. Here's what to know about starting payments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1399,7 +1399,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-11-26/moody-s-global-head-of-private-credit-pinto-on-risks-video",
     "title": "Moody\u2019s Global Head of Private Credit Pinto on Risks",
-    "fetched_on": "2025-11-26T09:25:40.865613+00:00",
+    "fetched_on": "2025-11-26T10:25:31.235766+00:00",
     "content": "Moody\u2019s Ratings Global Head of Private Credit Marc Pinto discusses the opportunities and risks in the private credit space, including booming areas such as AI infrastructure investment. He spoke with Yvonne Man on Bloomberg\u2019s Insight with Haslinda Amin. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -1419,7 +1419,7 @@
     "source": "Wccftech [NewsAPI]",
     "url": "https://wccftech.com/charlie-cox-says-clair-obscur-expedition-33-nominations-should-be-credited-to-motion-actor/",
     "title": "Charlie Cox Says Clair Obscur: Expedition 33 Nominations for Gustave Should Be Credited to the Motion Actor",
-    "fetched_on": "2025-11-26T09:25:39.981047+00:00",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
     "content": "British actor Charlie Cox was among those who received a nomination for their work on the game Clair Obscur: Expedition 33 at Geoff Keighley's The Game Awards.\r\nCox, a renowned film and TV actor whos\u2026 [+1853 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1439,7 +1439,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/9fcc49bb5ed737ae",
     "title": "BlackRock Seeks One More Year to Deploy Asia Private Credit Fund",
-    "fetched_on": "2025-11-26T09:25:39.981047+00:00",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
     "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Spotify raising US subscription prices? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Amazon's $50B AI \u2026 [+746 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1513,18 +1513,18 @@
   {
     "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-11-26/eu-prepares-legal-assurances-to-unlock-140-billion-ukraine-loan",
-    "title": "EU Prepares Legal Assurances to Unlock \u20ac140 Billion Ukraine Loan",
-    "fetched_on": "2025-11-26T09:25:41.153690+00:00",
-    "content": "The European Union is prepared to put forward a legal text to finally enable the bloc to use Russia\u2019s immobilized central bank assets to back a \u20ac140 billion ($162 billion) loan for Ukraine.",
+    "title": "EU Prepares Legal Plan to Unlock \u20ac140 Billion Ukraine Loan",
+    "fetched_on": "2025-11-26T10:25:31.597337+00:00",
+    "content": "The European Union will unveil a legal proposal in the coming days that would finally enable the bloc to use Russia\u2019s immobilized central bank assets for a \u20ac140 billion ($162 billion) loan to Ukraine.",
     "platforms_mentioned": [],
     "keywords": [
       "Billion",
       "Ukraine",
+      "Unlock",
       "Legal",
       "Loan",
-      "Unlock",
       "Prepares",
-      "Assurances",
+      "Plan",
       "European",
       "Union",
       "Russia"
@@ -1534,7 +1534,7 @@
     "source": "Insurance Journal [NewsAPI]",
     "url": "https://www.insurancejournal.com/news/international/2025/11/25/848980.htm",
     "title": "Insurers\u2019 Investment in Synthetic Risk Transfers Face Fresh Scrutiny Under EU Proposals",
-    "fetched_on": "2025-11-26T09:25:39.981047+00:00",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
     "content": "Insurers putting money into one of private credit\u2019s hottest trends will face fresh oversight from the EU\u2019s financial stability watchdog, under new proposals to bridge the gap between member states on\u2026 [+2619 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1554,7 +1554,7 @@
     "source": "Financial Post [NewsAPI]",
     "url": "https://financialpost.com/globe-newswire/canadians-take-on-more-credit-amid-lower-interest-rates-as-mortgage-churn-rises-and-economic-disparities-deepen",
     "title": "Canadians Take on More Credit Amid Lower Interest Rates as Mortgage Churn Rises and Economic Disparities Deepen",
-    "fetched_on": "2025-11-26T09:25:39.981047+00:00",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
     "content": "Delinquency rates in British Columbia remained stable at 1.65%, the second lowest delinquency rate across all provinces. However, lumber tariffs and the potential for related unemployment could cause\u2026 [+4028 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1574,7 +1574,7 @@
     "source": "Crypto Coins News [NewsAPI]",
     "url": "https://www.ccn.com/news/business/galaxy-provide-liquidity-kalshi-polymarket/",
     "title": "Galaxy in Talks to Provide Liquidity for Polymarket and Kalshi as Trading Firms Jump Into Prediction Markets",
-    "fetched_on": "2025-11-26T09:25:39.981047+00:00",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
     "content": "Galaxy Digital CEO Mike Novogratz. Credit: Marco Bello via Getty Images.\r\nKey Takeaways\r\n<ul><li>Galaxy Digital is in talks to act as a market maker for Polymarket and Kalshi.\r\n</li><li>The booming p\u2026 [+3806 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1594,7 +1594,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/11/25/3194069/0/en/Canadians-Take-on-More-Credit-Amid-Lower-Interest-Rates-as-Mortgage-Churn-Rises-and-Economic-Disparities-Deepen.html",
     "title": "Canadians Take on More Credit Amid Lower Interest Rates as Mortgage Churn Rises and Economic Disparities Deepen",
-    "fetched_on": "2025-11-26T09:25:39.981047+00:00",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
     "content": "Key findings from TransUnion report:\r\n<ul><li>Total consumer debt rose to $2.6 trillion, driven by increased mortgage balances amid falling interest rates; mortgage originations jumped 18% YoY as Can\u2026 [+14847 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1614,7 +1614,7 @@
     "source": "Insurance Journal [NewsAPI]",
     "url": "https://www.insurancejournal.com/news/international/2025/11/25/848975.htm",
     "title": "Credit Suisse Fails to Topple $600 Million Rogue-Banker Bill",
-    "fetched_on": "2025-11-26T09:25:39.981047+00:00",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
     "content": "A Credit Suisse unit in Bermuda lost its UK court fight to topple a $600 million damages award to sanctioned Georgian tycoon Bidzina Ivanishvili.\r\nThe Privy Council the top tribunal for cases brought\u2026 [+1819 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1649,6 +1649,186 @@
       "fund",
       "plans",
       "euros"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-26/france-s-canal-plans-to-raise-about-500-million-via-debut-bond",
+    "title": "France\u2019s Canal+ Plans to Raise About \u20ac500 Million via Debut Bond",
+    "fetched_on": "2025-11-26T10:25:31.235604+00:00",
+    "content": "Canal+ SA is seeking to raise around \u20ac500 million ($579 million) from a debut euro bond sale on Wednesday, marking the French media group\u2019s first entry into public capital markets as it refinances part of the bridge loan tied to its MultiChoice Group Ltd. acquisition.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canal",
+      "Million",
+      "Raise",
+      "Plans",
+      "Wednesday",
+      "Debut",
+      "Bond",
+      "group",
+      "French",
+      "France"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/news/national/adb-approves-usd-400-million-loan-to-improve-road-connectivity-in-maharashtra/article70321177.ece",
+    "title": "ADB approves USD 400 million loan to improve road connectivity in Maharashtra",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
+    "content": "The Asian Development Bank (ADB) on Tuesday said it has approved a USD 400 million results-based lending (RBL) program to improve road connectivity in Maharashtra.\r\n The loan will be used to improve \u2026 [+1008 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ADB",
+      "USD",
+      "Maharashtra",
+      "RBL",
+      "Bank",
+      "million",
+      "road",
+      "connectivity",
+      "improve",
+      "Asian"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/logistics/adb-approves-usd-400-million-loan-to-improve-road-connectivity-in-maharashtra/article70321177.ece",
+    "title": "ADB approves $400 million loan to improve road connectivity in Maharashtra",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
+    "content": "The Asian Development Bank (ADB) on Tuesday said it has approved a USD 400 million results-based lending (RBL) program to improve road connectivity in Maharashtra.\r\n The loan will be used to improve \u2026 [+1008 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ADB",
+      "Maharashtra",
+      "RBL",
+      "Bank",
+      "USD",
+      "million",
+      "road",
+      "connectivity",
+      "improve",
+      "Asian"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9b041fb87aae9cbf",
+    "title": "Pulte\u2019s Move to Fix Credit Scores Is Bad News for Homebuyers",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon investing $50 billion in AI infrastructure? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump'\u2026 [+769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Homebuyers",
+      "return",
+      "false",
+      "Move",
+      "Fix",
+      "Credit",
+      "Scores"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4a61a4fd3c531fbc",
+    "title": "We're shopping our feelings this Black Friday. Here are 3 things to know",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
+    "content": "Signs are pointing to deeper discounts this Black Friday, as stores try to coax anxious shoppers into splurging. (Image credit: Nate Smallwood)\r\nThis story appeared on npr.org, 2025-11-25 10:00:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Friday",
+      "Black",
+      "shopping",
+      "feelings",
+      "Signs",
+      "Image",
+      "Nate",
+      "Smallwood",
+      "things",
+      "splurging"
+    ]
+  },
+  {
+    "source": "The American Prospect [NewsAPI]",
+    "url": "http://prospect.org/2025/11/25/credit-unions-large-trump-purge/",
+    "title": "Credit Unions Go Large and Go Rogue",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
+    "content": "On October 27 in Las Vegas, National Credit Union Administration (NCUA) Chairman Kyle Hauptman waved around a Venetian Resort poker chip in one hand, and a $100 bill in the other. On the keynote stag\u2026 [+16449 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NCUA",
+      "Credit",
+      "October",
+      "Vegas",
+      "National",
+      "Administration",
+      "Chairman",
+      "Unions",
+      "Union",
+      "Large"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/bond-street-unseats-via-montenapoleone-as-worlds-most-expensive-retail-destination-report/",
+    "title": "Bond Street unseats Via Montenapoleone as world\u2019s most expensive retail destination: report",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
+    "content": "Retail\r\nNovember 25, 2025\r\n Luxury store rents are trending upward as demand increases. Image credit: Cushman &amp; Wakefield \r\n By Zach James\r\nPrestige retail business expenses are growing around th\u2026 [+12017 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "Luxury",
+      "Street",
+      "Montenapoleone",
+      "retail",
+      "Bond",
+      "destination",
+      "report",
+      "increases",
+      "Cushman"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/jaeger-lecoultre-digs-deeper-with-the-hour-before-doc-series/",
+    "title": "Jaeger-LeCoultre digs deeper with \u2018The Hour Before\u2019 doc series",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
+    "content": "The company is granting a look behind the curtain of notable, internationally recognizable celebrities. Image credit: Jaeger-LeCoultre Swiss watchmaker Jaeger-LeCoultre is embarking on a new, episodi\u2026 [+2982 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hour",
+      "Before\u2019",
+      "notable",
+      "internationally",
+      "celebrities",
+      "Jaeger-LeCoultre",
+      "digs",
+      "deeper",
+      "doc",
+      "series"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/news/yorkshire-family-brewery-taps-into-new-export-opportunities-with-government-guarantee",
+    "title": "Yorkshire family brewery taps into new export opportunities with Government guarantee",
+    "fetched_on": "2025-11-26T10:25:30.169143+00:00",
+    "content": "<ul><li>Wold Top Brewery is a family-owned business, brewing for over 20 years\u00a0\r\n</li><li>The business exports to Italy, Sweden, Switzerland and Germany\u00a0\u00a0\r\n</li><li>A \u00a3200,000 trade loan backed by UK\u2026 [+3576 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sweden",
+      "brewery",
+      "Wold",
+      "Italy",
+      "Switzerland",
+      "Germany",
+      "years",
+      "chars",
+      "Government",
+      "Top"
     ]
   }
 ]
