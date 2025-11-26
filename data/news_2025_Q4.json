@@ -205018,5 +205018,65 @@
       "Government",
       "Top"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/15803737f23834c9",
+    "title": "Metaplanet Draws $130M for Further Bitcoin Acquisitions Under Credit Facility",
+    "fetched_on": "2025-11-26T11:19:11.724311+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Amazon investing $50 billion in AI infrastructure? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump'… [+770 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Draws",
+      "Facility",
+      "return",
+      "false",
+      "Bitcoin",
+      "Acquisitions",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-tuesday-november-25-2025-110058455.html",
+    "title": "HELOC rates today, November 25, 2025: Rates are at annual lows — and they could drop lower",
+    "fetched_on": "2025-11-26T11:19:11.724311+00:00",
+    "content": "Interest rates on home equity lines of credit (HELOCs) are at their lowest point so far in 2025. While some expected them to hold steady through the end of the year, HELOC rates could actually decrea… [+4135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "HELOC",
+      "rates",
+      "Interest",
+      "HELOCs",
+      "today",
+      "lows",
+      "credit",
+      "annual",
+      "drop"
+    ]
+  },
+  {
+    "source": "Activistpost.com [NewsAPI]",
+    "url": "https://www.activistpost.com/the-grumpy-economist-takes-on-new-york-city-rent-controls/",
+    "title": "The Grumpy Economist Takes On New York City Rent Controls",
+    "fetched_on": "2025-11-26T11:19:11.724311+00:00",
+    "content": "Credit John Cochrane for a brilliant blast of rent controls.\r\nA Way Out of the Affordability Crisis [Not]\r\nLets start with an inane post on the New York Times Economists Hate This Idea. It Could Be a… [+10070 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rent",
+      "Controls",
+      "York",
+      "Grumpy",
+      "City",
+      "Credit",
+      "John",
+      "Cochrane",
+      "Crisis",
+      "Idea"
+    ]
   }
 ]
