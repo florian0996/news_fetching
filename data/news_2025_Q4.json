@@ -204618,5 +204618,105 @@
       "card",
       "savings"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-11-26/moody-s-global-head-of-private-credit-pinto-on-risks-video",
+    "title": "Moody’s Global Head of Private Credit Pinto on Risks",
+    "fetched_on": "2025-11-26T08:30:17.942401+00:00",
+    "content": "Moody’s Ratings Global Head of Private Credit Marc Pinto discusses the opportunities and risks in the private credit space, including booming areas such as AI infrastructure investment. He spoke with Yvonne Man on Bloomberg’s Insight with Haslinda Amin. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Head",
+      "Credit",
+      "Global",
+      "Pinto",
+      "Moody",
+      "Risks",
+      "Ratings",
+      "Marc",
+      "Bloomberg"
+    ]
+  },
+  {
+    "source": "Wccftech [NewsAPI]",
+    "url": "https://wccftech.com/charlie-cox-says-clair-obscur-expedition-33-nominations-should-be-credited-to-motion-actor/",
+    "title": "Charlie Cox Says Clair Obscur: Expedition 33 Nominations for Gustave Should Be Credited to the Motion Actor",
+    "fetched_on": "2025-11-26T08:30:16.990467+00:00",
+    "content": "British actor Charlie Cox was among those who received a nomination for their work on the game Clair Obscur: Expedition 33 at Geoff Keighley's The Game Awards.\r\nCox, a renowned film and TV actor whos… [+1853 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Expedition",
+      "Obscur",
+      "Clair",
+      "Charlie",
+      "game",
+      "Awards",
+      "Cox",
+      "Gustave",
+      "Credited",
+      "Motion"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9fcc49bb5ed737ae",
+    "title": "BlackRock Seeks One More Year to Deploy Asia Private Credit Fund",
+    "fetched_on": "2025-11-26T08:30:16.990467+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Spotify raising US subscription prices? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Amazon's $50B AI … [+746 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Fund",
+      "return",
+      "false",
+      "Seeks",
+      "Year",
+      "Deploy",
+      "Asia"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/iphone-18-pro-max-leaks-2/",
+    "title": "Smaller Dynamic Island? The iPhone 18 Pro Max Display Leak",
+    "fetched_on": "2025-11-26T08:30:16.990467+00:00",
+    "content": "The iPhone 18 Pro and iPhone 18 Pro Max, anticipated to debut in 2026, are set to push the boundaries of smartphone technology. By blending familiar design elements with innovative advancements, Appl… [+6329 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "Island",
+      "Dynamic",
+      "iPhone",
+      "Max",
+      "Smaller",
+      "Appl",
+      "Display",
+      "Leak",
+      "chars"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/shopping-gifts-travel-how-to-enjoy-wedding-season-without-hurting-your-credit-score-11764054442373.html",
+    "title": "Shopping, gifts, travel: How to enjoy wedding season without hurting your credit score",
+    "fetched_on": "2025-11-26T08:30:16.990467+00:00",
+    "content": "The wedding season typically sees a surge in discretionary spending. The family members of individuals entering wedlock have to holistically bear the expense of gifts, outfits, celebrations, and trav… [+3177 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shopping",
+      "travel",
+      "wedding",
+      "season",
+      "gifts",
+      "spending",
+      "enjoy",
+      "hurting",
+      "credit",
+      "score"
+    ]
   }
 ]
