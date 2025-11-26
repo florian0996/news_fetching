@@ -205889,5 +205889,265 @@
       "loan",
       "piggyback"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-26/poland-to-bolster-drone-capabilities-with-new-eu-defense-funding",
+    "title": "Poland to Bolster Drone Capabilities With New EU Defense Funding",
+    "fetched_on": "2025-11-26T17:20:10.288597+00:00",
+    "content": "Poland, the biggest beneficiary of the European Union’s military funding program, is aiming to spend a big chunk of the loans to build up its drone capabilities and defenses in the face of aerial incursions by Russia.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Drone",
+      "Capabilities",
+      "Russia",
+      "Poland",
+      "Funding",
+      "Bolster",
+      "European",
+      "Union",
+      "program",
+      "Defense"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-11-26/credit-edge-arini-says-europe-s-private-debt-beats-us-podcast",
+    "title": "Credit Edge: Arini Says Europe’s Private Debt Beats US (Podcast)",
+    "fetched_on": "2025-11-26T17:20:10.034030+00:00",
+    "content": "Global investors are looking more at European private credit as US returns get squeezed, according to London-based hedge fund Arini. “They want to focus on a place where they think there’s rule of law, where they think there’s opportunity set &mdash; and that’s really been Europe,” Mathew Cestar, the firm’s president, tells Bloomberg News’ James Crombie and Bloomberg Intelligence’s Stephane Kovatchev in the latest Credit Edge podcast. Europe pays about 50 basis points more on private loans than the US",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Arini",
+      "Global",
+      "Edge",
+      "Credit",
+      "Podcast",
+      "Debt",
+      "Beats",
+      "European",
+      "London-based",
+      "Europe"
+    ]
+  },
+  {
+    "source": "Cryptonews [NewsAPI]",
+    "url": "https://cryptonews.com/news/metaplanet-130m-bitcoin-loan-despite-unrealized-loss/",
+    "title": "Metaplanet Doubles Down: $130M Loan to Buy More BT Despite $643M Loss – Bold or Reckless?",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "Metaplanet, Japans largest corporate Bitcoin holder, secured a new $130 million loan to purchase additional BTC despite sitting on over $635 million in unrealized losses.\r\nThe company disclosed the b… [+3881 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loss",
+      "Bold",
+      "Reckless",
+      "Doubles",
+      "Buy",
+      "Loan",
+      "Metaplanet",
+      "million",
+      "Japans",
+      "Bitcoin"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/stargazing/photographer-captures-eerie-red-halo-hovering-over-the-italian-alps-in-rare-elve-sighting-photo",
+    "title": "Photographer captures eerie red halo hovering over the Italian Alps in rare 'elve' sighting (photo)",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "An \"elve\" lasts for less than a thousandth of a second. (Image credit: Valter Binotto)\r\nFor a split second over northern Italy, the night sky erupted with a colossal glowing red ring. One photographe… [+2531 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "elve",
+      "Italian",
+      "Alps",
+      "sighting",
+      "photo",
+      "Photographer",
+      "rare",
+      "red",
+      "captures",
+      "eerie"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/25/3194603/0/en/Mountain-America-Teams-Up-with-Weber-State-Athletics-to-Fight-Food-Insecurity-for-Ogden-Students.html",
+    "title": "Mountain America Teams Up with Weber State Athletics to Fight Food Insecurity for Ogden Students",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "SANDY, Utah, Nov. 25, 2025 (GLOBE NEWSWIRE) -- Mountain America Credit Union contributed $6,000 to the Ogden School Foundation through the 2025 Mountain America Sacks initiative. This marks the third… [+2149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mountain",
+      "America",
+      "Utah",
+      "Nov.",
+      "Ogden",
+      "SANDY",
+      "GLOBE",
+      "NEWSWIRE",
+      "Teams",
+      "Weber"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d530a81ea81ffb87",
+    "title": "Metaplanet draws $130M BTC-backed loan for share buybacks, BTC purchases",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "Metaplanet (TYO: 3350, OTCQX: MTPLF) executed a $130 million loan on November 21 under its bitcoin-backed credit facility to fund additional bitcoin acquisitions and support potential share buybacks,… [+146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TYO",
+      "OTCQX",
+      "MTPLF",
+      "buybacks",
+      "chars",
+      "BTC",
+      "November",
+      "Metaplanet",
+      "share",
+      "draws"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/indicators/data-centre-operators-likely-to-invest-up-to-rs-60000-crore-by-fy28-crisil/articleshow/125569380.cms",
+    "title": "Data centre operators likely to invest up to Rs 60,000 crore by FY28: Crisil",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "Data centre players in India are expected to invest Rs 55,000-60,000 crore during FY2026 to FY2028, which will double the capacity in the range of 2.3-2.5 gigawatt, credit rating agency Crisil said o… [+1682 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crisil",
+      "Data",
+      "crore",
+      "gigawatt",
+      "chars",
+      "centre",
+      "invest",
+      "India",
+      "credit",
+      "operators"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/b2b-payments/2025/3-ways-compliance-is-becoming-unlock-embedded-finance-b2b/",
+    "title": "3 Ways Compliance Is Becoming an Unlock for Embedded Finance in B2B",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "However, thats never been the case across embedded finance, particularly across its promise to empower B2B platforms to offer payments, lending, insurance and treasury services directly inside their … [+5915 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lending",
+      "chars",
+      "Embedded",
+      "Finance",
+      "Compliance",
+      "Unlock",
+      "empower",
+      "platforms",
+      "payments",
+      "insurance"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9de4d18b41b767fe",
+    "title": "Is Frenzy Fatigue Bringing Down the Crypto Market?",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "In today's Markets Outlook, CoinDesk's Andy Baehr is joined by Galaxy Head of Credit Trading Beimnet Abebe to diagnose the major causes of the recent crypto market downturn, including massive profit … [+151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Frenzy",
+      "Fatigue",
+      "Bringing",
+      "Crypto",
+      "Market",
+      "Outlook",
+      "chars",
+      "Markets",
+      "Andy",
+      "Baehr"
+    ]
+  },
+  {
+    "source": "Commercial Observer [NewsAPI]",
+    "url": "http://commercialobserver.com/2025/11/bridgecity-capital-note-on-note-lending/",
+    "title": "BridgeCity Capital Launches Note-on-Note Platform",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "Nearly a decade after its launch, BridgeCity Capital is expanding its lending arsenal with a note-on-note platform, Commercial Observer has learned.\r\nThe bridge lender, which has been largely focused… [+1942 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BridgeCity",
+      "Capital",
+      "Platform",
+      "Launches",
+      "Commercial",
+      "Observer",
+      "launch",
+      "learned",
+      "chars",
+      "decade"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/11/25/why-no-gifts-please-is-growing/",
+    "title": "A Cultural Shift Toward Meaningful Celebrations: Why No Gifts Please Is Growing",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "Image Credit: No Gifts Please\r\nRecently, there has been a paradigm shift in culture, with parents and families shifting their interests from giving gifts to experiences in their efforts to create mem… [+3108 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gifts",
+      "Celebrations",
+      "Credit",
+      "Recently",
+      "chars",
+      "Shift",
+      "Cultural",
+      "Meaningful",
+      "Growing",
+      "Image"
+    ]
+  },
+  {
+    "source": "CBM (Comic Book Movie) [NewsAPI]",
+    "url": "https://comicbookmovie.com/avengers/avengers-doomsday/rumor-the-fantastic-fours-doctor-doom-post-credits-scene-finally-explained-and-what-it-means-for-doomsday-a225117",
+    "title": "RUMOR: THE FANTASTIC FOUR's Doctor Doom Post-Credits Scene Finally Explained (And What It Means For DOOMSDAY)",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "The Fantastic Four: First Steps repeatedly confirmed the existence of Latveria, but stopped short of revealing whether Marvel's First Family has ever encountered Doctor Doom. \r\nIn the movie's mid-cre… [+3476 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Doctor",
+      "Doom",
+      "FANTASTIC",
+      "RUMOR",
+      "Explained",
+      "DOOMSDAY",
+      "Latveria",
+      "Scene",
+      "Finally",
+      "Steps"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/live/news/amazon-uk-black-friday-live-25",
+    "title": "All of the best Amazon UK Black Friday deals – 60+ top offers on TVs, laptops, appliances, Kindles, and more",
+    "fetched_on": "2025-11-26T17:20:07.586468+00:00",
+    "content": "Amazon Black Friday sale 2025\r\n(Image credit: Future)\r\nAmazon UK started its Black Friday sale towards the end of last week, and since then it's been a deals extravaganza at the retailer, with countl… [+1576 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Friday",
+      "Black",
+      "Amazon",
+      "Kindles",
+      "Future",
+      "Image",
+      "laptops",
+      "appliances",
+      "chars",
+      "sale"
+    ]
   }
 ]
