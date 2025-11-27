@@ -209290,5 +209290,185 @@
       "logic",
       "works"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-27/brazil-s-raizen-cut-to-junk-by-moody-s-on-worsening-debt-metrics",
+    "title": "Brazil’s Raizen Cut to Junk by Moody’s on Worsening Debt Metrics",
+    "fetched_on": "2025-11-27T14:21:30.407257+00:00",
+    "content": "Raízen SA’s credit score was cut by one notch to junk territory by Moody’s Ratings, with the firm citing a deterioration of debt metrics at Brazil’s largest ethanol producer.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moody",
+      "Brazil",
+      "Junk",
+      "Debt",
+      "Metrics",
+      "Cut",
+      "Ratings",
+      "Raizen",
+      "Worsening",
+      "Raízen"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-27/ukraine-agrees-to-scrap-tax-breaks-to-access-imf-loan-package",
+    "title": "Ukraine Agrees to Scrap Tax Breaks to Access IMF Loan Package",
+    "fetched_on": "2025-11-27T14:21:30.706819+00:00",
+    "content": "Ukrainian authorities agreed to scrap several tax exemptions in order to secure fresh funding from the International Monetary Fund, though the new loan package hinges on the war-battered nation’s allies agreeing to tap frozen Russian assets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scrap",
+      "Loan",
+      "Package",
+      "Tax",
+      "Fund",
+      "Agrees",
+      "Breaks",
+      "Access",
+      "IMF",
+      "Ukrainian"
+    ]
+  },
+  {
+    "source": "Bankier.pl [NewsAPI]",
+    "url": "https://www.bankier.pl/wiadomosc/KGHM-POLSKA-MIEDZ-SA-Zgoda-Zarzadu-na-zawarcie-umowy-kredytu-konsorcjalnego-9046080.html",
+    "title": "KGHM POLSKA MIEDŹ SA: Zgoda Zarządu na zawarcie umowy kredytu konsorcjalnego",
+    "fetched_on": "2025-11-27T14:21:29.612059+00:00",
+    "content": "Consent of the Management Board to sign a syndicated credit facility \r\n agreement\r\nThe Management Board of KGHM Polska Mied S.A. (Company) announces \r\n that on 26 November 2025 it consented to sign a… [+3269 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Management",
+      "KGHM",
+      "Board",
+      "Zgoda",
+      "POLSKA",
+      "MIEDŹ",
+      "Zarządu",
+      "Consent",
+      "Mied",
+      "Company"
+    ]
+  },
+  {
+    "source": "Finextra [NewsAPI]",
+    "url": "https://www.finextra.com/blogposting/30224/the-age-of-agentic-ai-why-small-business-lending-needs-more-than-just-automation",
+    "title": "The Age of Agentic AI: Why Small Business Lending Needs More Than Just Automation",
+    "fetched_on": "2025-11-27T14:21:29.612059+00:00",
+    "content": "While much of the financial industrys AI conversation has focused on large language models and basic automation, Utsav Shah explores what comes next: agentic AI systems that can reason,\r\n produce dec… [+4717 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Agentic",
+      "chars",
+      "Utsav",
+      "Automation",
+      "Age",
+      "Small",
+      "Business",
+      "Lending",
+      "Shah",
+      "reason"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/football/articles/c4gklpjm4j8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "'Eckert has given us everything' - Harwood-Bellis",
+    "fetched_on": "2025-11-27T14:21:29.612059+00:00",
+    "content": "Southampton defender Taylor Harwood-Bellis says interim boss Tonda Eckert deserves \"massive credit\" for their vastly improved Championship form.\r\nSaints are on a four-game winning streak under the 32… [+1232 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Eckert",
+      "Southampton",
+      "Taylor",
+      "Tonda",
+      "Championship",
+      "deserves",
+      "massive",
+      "credit",
+      "form",
+      "Harwood-Bellis"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/publications/abolition-of-the-dividend-tax-credit-for-non-uk-residents",
+    "title": "Policy paper: Abolition of the dividend tax credit for non-UK residents",
+    "fetched_on": "2025-11-27T14:21:29.612059+00:00",
+    "content": "We use some essential cookies to make this website work.\r\nWed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\r\nWe also use coo… [+70 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Abolition",
+      "Policy",
+      "paper",
+      "work",
+      "cookies",
+      "dividend",
+      "tax",
+      "credit",
+      "non-UK",
+      "residents"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/movies/zootopia-2-post-credits-scene-teases-more-for-franchise-what-i-want",
+    "title": "Zootopia 2 Has A Post-Credits Scene That Teases More For The Franchise, And I Know Exactly What I Want",
+    "fetched_on": "2025-11-27T14:21:29.612059+00:00",
+    "content": "The following contains minor spoilers for Zootopia 2.\r\nZootopia was a massive box office hit for Disney, which made the announcement that a sequel was finally coming, perhaps not that big a surprise.… [+3479 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Franchise",
+      "Scene",
+      "Teases",
+      "Zootopia",
+      "Post-Credits",
+      "minor",
+      "spoilers",
+      "Disney",
+      "chars",
+      "coming"
+    ]
+  },
+  {
+    "source": "TheWrap [NewsAPI]",
+    "url": "https://www.thewrap.com/f1-casting-lucy-bevan-interview/",
+    "title": "Lucy Bevan Talks the ‘Incredible Challenge’ of Casting ‘F1’ and the ‘Total Delight’ of New Oscars Category",
+    "fetched_on": "2025-11-27T14:21:29.612059+00:00",
+    "content": "As a craft, casting hasnt always gotten much credit. But the Academy is changing that this year, introducing it as a new competitive category at the 98th Academy Awards. Its a total delight, said F1 … [+3494 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Casting",
+      "Incredible",
+      "Bevan",
+      "Talks",
+      "Challenge’",
+      "Delight’",
+      "Oscars",
+      "Category",
+      "Academy",
+      "Lucy"
+    ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/Business/wireStory/mackenzie-scotts-college-roommate-loaned-1k-now-billionaires-127893715",
+    "title": "MacKenzie Scott's college roommate once loaned her $1K. Now it's the billionaire's turn to invest",
+    "fetched_on": "2025-11-27T14:21:29.612059+00:00",
+    "content": "NEW YORK -- MacKenzie Scott, one of the world's wealthiest women and most influential philanthropists, is now known for her no strings attached surprise grantmaking. But, as a Princeton University so… [+5841 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MacKenzie",
+      "Scott",
+      "YORK",
+      "college",
+      "roommate",
+      "loaned",
+      "chars",
+      "Princeton",
+      "University",
+      "philanthropists"
+    ]
   }
 ]
