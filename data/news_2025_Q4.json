@@ -207744,5 +207744,85 @@
       "Updates",
       "reasoning"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/0a52c4150ef7e9af",
+    "title": "Bank of America Strategists Say Prediction Markets and Sports Gambling Could Pressure Credit Quality",
+    "fetched_on": "2025-11-27T03:12:46.681097+00:00",
+    "content": "Bank of America strategists reportedly expect consumers growing use of prediction markets and sports gambling sites to create new credit risk for lenders.\r\nUsers losses on these platforms could creat… [+132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "America",
+      "Markets",
+      "Sports",
+      "Bank",
+      "Strategists",
+      "Prediction",
+      "Gambling",
+      "Credit",
+      "Pressure",
+      "Quality"
+    ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2025-11-26/moody-downgrades-tasmania-credit-rating/106054756",
+    "title": "Moody's downgrades Tasmania's credit rating to lowest of all Australian states",
+    "fetched_on": "2025-11-27T03:12:46.681097+00:00",
+    "content": "Tasmania's credit rating has been downgraded from Aa2 to Aa3 by major ratings agency Moody's, making it the lowest of all Australian states.\r\nThe decision made this week was due to a \"sharp rise in t… [+5609 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Australian",
+      "Tasmania",
+      "credit",
+      "Moody",
+      "lowest",
+      "states",
+      "rating",
+      "making",
+      "downgrades",
+      "downgraded"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/consumer-finance/2025/bank-of-america-strategists-say-prediction-markets-and-sports-gambling-could-pressure-credit-quality/",
+    "title": "Bank of America Strategists Say Prediction Markets and Sports Gambling Could Pressure Credit Quality",
+    "fetched_on": "2025-11-27T03:12:46.681097+00:00",
+    "content": "Bank of America strategists reportedly expect consumers growing use of prediction markets and sports gambling sites to create new credit risk for lenders.Users losses on these platforms could create … [+2218 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "America",
+      "Markets",
+      "Sports",
+      "Bank",
+      "Strategists",
+      "Prediction",
+      "Gambling",
+      "chars",
+      "Credit",
+      "Pressure"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180211423",
+    "title": "Federal agency boosts size of most single-family loans the government can guarantee to $832,750 - Yahoo Finance",
+    "fetched_on": "2025-11-27T03:12:46.681097+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Yahoo",
+      "Print",
+      "Finance",
+      "Fine",
+      "Federal",
+      "agency",
+      "boosts",
+      "size",
+      "single-family",
+      "loans"
+    ]
   }
 ]
