@@ -207824,5 +207824,44 @@
       "single-family",
       "loans"
     ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/nz/banks-cut-home-loan-rates-after-reserve-bank-slashes-ocr-to-225/52MCVP6IQJF3DID3R4DFOF5TFI/",
+    "title": "Banks cut home loan rates after Reserve Bank slashes OCR to 2.25%",
+    "fetched_on": "2025-11-27T04:27:20.702716+00:00",
+    "content": "By announcing variable rate changes today, well be delivering rate relief as soon as next week for borrowers, Sarah Hearn, a managing director at Westpac, said. \r\nWe also know that savings customers … [+1964 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sarah",
+      "Hearn",
+      "Westpac",
+      "Reserve",
+      "OCR",
+      "today",
+      "borrowers",
+      "rate",
+      "Banks",
+      "Bank"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-are-heloc-and-home-equity-loan-rates-determined-181516814.html",
+    "title": "HELOC and home equity loan interest rates: How they work and what you can expect to pay",
+    "fetched_on": "2025-11-27T04:27:43.814395+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "rates",
+      "pay",
+      "home",
+      "equity",
+      "loan",
+      "interest",
+      "work",
+      "expect"
+    ]
   }
 ]
