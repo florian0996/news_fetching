@@ -210810,5 +210810,85 @@
       "Firestick",
       "dollars"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ee209529d5e631b2",
+    "title": "Australia Tightens Rules on Riskier Mortgage Lending for Banks",
+    "fetched_on": "2025-11-27T22:20:26.892456+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Nvidia stock sink amid AI dominance doubts? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will UK t… [+789 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Banks",
+      "return",
+      "false",
+      "Tightens",
+      "Rules",
+      "Riskier",
+      "Mortgage"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/11/7-eleven-customer-said-she-found-a-credit-card-skimmer-at-a-store/",
+    "title": "7-Eleven Customer Said She Found A Credit Card Skimmer At A Store",
+    "fetched_on": "2025-11-27T22:20:26.892456+00:00",
+    "content": "TikTok/@amarimenendez\r\nAs far as scammers go, it seems like this is a pretty popular one these days…\r\nI’m talking about credit card skimmers that allow scammers to steal the personal information of u… [+1334 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "Credit",
+      "Customer",
+      "chars",
+      "Found",
+      "Store",
+      "scammers",
+      "TikTok",
+      "amarimenendez",
+      "days"
+    ]
+  },
+  {
+    "source": "OCRegister [NewsAPI]",
+    "url": "https://www.ocregister.com/2025/11/26/southern-californias-mortgage-loan-limits-get-a-small-boost-for-2026/",
+    "title": "Southern California’s mortgage loan limits get a small boost for 2026",
+    "fetched_on": "2025-11-27T22:20:26.892456+00:00",
+    "content": "The Federal Housing Finance Agency regulator and conservator for Fannie Mae and Freddie Mac is increasing the conforming loan limits in 2026 by just 3.26% or $26,250 for the 2026 calendar year.\r\nThis… [+4712 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "California",
+      "Federal",
+      "Housing",
+      "Finance",
+      "Agency",
+      "Fannie",
+      "Mae",
+      "Freddie",
+      "Mac",
+      "loan"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/payments-innovation/2025/instant-payouts-smarter-credit-give-payments-thankful-2025/",
+    "title": "Instant Payouts and Smarter Credit Give Payments a Thankful 2025",
+    "fetched_on": "2025-11-27T22:20:26.892456+00:00",
+    "content": "Thanksgiving invites a pause, a chance to acknowledge progress in a year that has been unpredictable for consumers and businesses.Across the payments, banking and FinTech sectors, 2025 delivered real… [+4664 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Payments",
+      "Thankful",
+      "Thanksgiving",
+      "chars",
+      "Payouts",
+      "Smarter",
+      "Credit",
+      "Give",
+      "Instant",
+      "pause"
+    ]
   }
 ]
