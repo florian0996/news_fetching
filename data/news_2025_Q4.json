@@ -208911,5 +208911,85 @@
       "Equifax",
       "TORONTO"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/nvidia-rejects-circular-financing-claims-as-top-short-sellers-push-back/articleshow/125589622.cms",
+    "title": "Nvidia rejects ‘circular financing’ claims as top short sellers push back",
+    "fetched_on": "2025-11-27T12:45:48.359897+00:00",
+    "content": "Nvidia sent a memo to Wall Street analysts over the weekend saying it is not doing vendor financing, which is when a company gives money or loans to its own customers to boost sales. This memo was se… [+3721 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nvidia",
+      "Wall",
+      "Street",
+      "rejects",
+      "circular",
+      "financing",
+      "sales",
+      "memo",
+      "financing’",
+      "claims"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/eb90650cacfe0551",
+    "title": "Subprime Mortgages Are on the Rise Again",
+    "fetched_on": "2025-11-27T12:45:48.359897+00:00",
+    "content": "Subprime mortgages, in both originations and balances held by less creditworthy borrowers, are on the rise in 2025, reflecting to a lesser degree the conditions that have preceded past financial cris… [+138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Subprime",
+      "Mortgages",
+      "Rise",
+      "chars",
+      "borrowers",
+      "reflecting",
+      "cris",
+      "originations",
+      "balances",
+      "held"
+    ]
+  },
+  {
+    "source": "CNET [NewsAPI]",
+    "url": "https://www.cnet.com/tech/services-and-software/do-you-know-the-risks-of-letting-your-browser-remember-your-credit-card/",
+    "title": "Do You Know the Risks of Letting Your Browser Remember Your Credit Card?",
+    "fetched_on": "2025-11-27T12:45:48.359897+00:00",
+    "content": "Almost every browser tries to make spending money easier. You enter your credit card details, hit purchase, and it asks to save the information for next time. It's quick and spares you typing out lon… [+10767 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Risks",
+      "Letting",
+      "Remember",
+      "Credit",
+      "Browser",
+      "Card",
+      "easier",
+      "chars",
+      "details",
+      "hit"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/43369221/college-student-refuses-to-use-her-new-credit-card-to-buy-her-mom-new-clothes-and-shoes-mom-demands",
+    "title": "College student refuses to use her new credit card to buy her mom new clothes and shoes, mom demands the card back: ‘I’ll keep it so I can use it when needed’",
+    "fetched_on": "2025-11-27T12:45:48.359897+00:00",
+    "content": "One of the most important lessons young adults must learn is how to responsibly handle their credit score. If you're lucky, your parents are there to help you navigate that confusing bureaucracy; oth… [+794 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "card",
+      "mom",
+      "College",
+      "shoes",
+      "back",
+      "score",
+      "student",
+      "refuses",
+      "buy"
+    ]
   }
 ]
