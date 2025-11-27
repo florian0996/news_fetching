@@ -208405,5 +208405,85 @@
       "Nvidia",
       "Google"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/brandhub/creditnirvana-launches-maestro-a-debt-collection-ai-agentic-platform-for-end-to-end-recoveries/article70324935.ece",
+    "title": "CreditNirvana Launches ‘Maestro’, a Debt Collection AI Agentic Platform for End-to-End Recoveries",
+    "fetched_on": "2025-11-27T09:24:59.820514+00:00",
+    "content": "BENGALURU, India, Nov. 26, 2025 /PRNewswire/ -- CreditNirvana, a Perfios company and a leader in AI-driven debt management, today announced the launch of Maestro, an AI Agentic Platform that automate… [+3140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Agentic",
+      "Maestro’",
+      "India",
+      "Nov.",
+      "Platform",
+      "CreditNirvana",
+      "Launches",
+      "Recoveries",
+      "BENGALURU",
+      "Maestro"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/1126/1545907-credit-union-loans/",
+    "title": "Credit Union loan book up 10% to €6.48bn",
+    "fetched_on": "2025-11-27T09:24:59.820514+00:00",
+    "content": "The credit union loan book now stands at 6.48 billion - up 10% year-on-year, according to the Irish League of Credit Unions.\r\nThat's up on the 6.24 billion figure recorded at the end of June, and is … [+2633 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Union",
+      "Credit",
+      "loan",
+      "Unions",
+      "Irish",
+      "League",
+      "book",
+      "billion",
+      "stands",
+      "June"
+    ]
+  },
+  {
+    "source": "EURACTIV [NewsAPI]",
+    "url": "https://www.euractiv.com/opinion/greeces-recovery-playbook-could-help-fund-europes-defence/",
+    "title": "Greece’s Recovery Playbook Could Help Fund Europe’s Defence",
+    "fetched_on": "2025-11-27T09:24:59.820514+00:00",
+    "content": "Brussels thinks it has the answer. Under Readiness 2030 Europe, the EU is sketching an 800bn investment push over four years, 150bn in long-dated loans via a new SAFE programme, plus 650bn in fiscal … [+2911 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Recovery",
+      "Playbook",
+      "Fund",
+      "Defence",
+      "Brussels",
+      "Europe",
+      "Greece",
+      "answer",
+      "chars",
+      "Readiness"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-cards/2025/consumers-pay-for-card-features-that-deliver-flexibility-and-control/",
+    "title": "Consumers Pay for Card Features That Deliver Flexibility and Control",
+    "fetched_on": "2025-11-27T09:24:59.820514+00:00",
+    "content": "Credit cards remain central to how consumers navigate everyday financial demands, especially when prices, income cycles and needs do not always align. The latest PYMNTS Intelligence research, done in… [+4389 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pay",
+      "Features",
+      "Deliver",
+      "Flexibility",
+      "Control",
+      "Credit",
+      "demands",
+      "prices",
+      "income",
+      "align"
+    ]
   }
 ]
