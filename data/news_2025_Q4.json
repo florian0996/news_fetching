@@ -212702,5 +212702,105 @@
       "chars",
       "tested"
     ]
+  },
+  {
+    "source": "CNET [NewsAPI]",
+    "url": "https://www.cnet.com/deals/save-over-1000-off-our-favorite-samsung-oled-tv-plus-get-almost-100-back-in-amazon-credit/",
+    "title": "Save Over $1,000 Off Our Favorite Samsung OLED TV, Plus Get Almost $100 Back in Amazon Credit",
+    "fetched_on": "2025-11-28T15:22:00.565575+00:00",
+    "content": "It's something of a cliche, but upgrading to a big-screen TV is arguably what Black Friday is all about. And they don't get a whole lot bigger than the 65-inch Samsung S95F OLED TV. They also don't g… [+1676 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Back",
+      "OLED",
+      "Favorite",
+      "Amazon",
+      "Credit",
+      "Black",
+      "Friday",
+      "Samsung",
+      "Save",
+      "cliche"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/ewelinaochab/2025/11/27/every-day-137-women-and-girls-are-killed-by-intimate-partners-or-family-members/",
+    "title": "Every Day, 137 Women And Girls Are Killed By Intimate Partners Or Family Members",
+    "fetched_on": "2025-11-28T15:22:00.565575+00:00",
+    "content": "Protesters display the names of victims of femicide during the International Day for the Elimination of Violence Against Women in Bordeaux, south-western France, on November 22, 2025. (Photo credit: … [+4408 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Women",
+      "Bordeaux",
+      "France",
+      "November",
+      "Girls",
+      "Killed",
+      "Intimate",
+      "Partners",
+      "Family"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/27/3195782/0/en/Mowi-ASA-Successful-placement-of-new-senior-unsecured-green-bonds.html",
+    "title": "Mowi ASA – Successful placement of new senior unsecured green bonds",
+    "fetched_on": "2025-11-28T15:22:00.565575+00:00",
+    "content": "Bergen, 27 November 2025 Reference is made to the stock exchange notice from 25 November 2025. Today, Mowi ASA (rated BBB+/Stable by Nordic Credit Rating) successfully issued a total of NOK 4,500 mil… [+2065 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "ASA",
+      "Mowi",
+      "Successful",
+      "Bergen",
+      "Reference",
+      "BBB",
+      "Stable",
+      "Rating",
+      "NOK"
+    ]
+  },
+  {
+    "source": "Hatenablog.com [NewsAPI]",
+    "url": "https://himaginary.hatenablog.com/entry/20251127/the-value-of-trading-relationships-in-fx-derivatives-credit-suisse-collapse",
+    "title": "為替派生市場における取引関係の価値：クレディスイス破綻についての実証結果",
+    "fetched_on": "2025-11-28T15:22:00.565575+00:00",
+    "content": "というBOE論文をMostly Economicsが紹介している。原題は「The value of trading relationships in FX derivatives: evidence from Credit Suisse's collapse」で、著者はGerardo Ferrara（BOE）、Helene Hall（ハーバード大）。\n以下はその要旨。\n\n \n Using gra… [+2107 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BOE",
+      "Ferrara",
+      "Helene",
+      "Economics",
+      "Credit",
+      "Suisse",
+      "Gerardo",
+      "Hall",
+      "為替派生市場における取引関係の価値：クレディスイス破綻についての実証結果",
+      "derivatives"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/11/magic-kingdom-news-thanksgiving-day-2025-emd1/",
+    "title": "Magic Kingdom Plunges Into Sudden Standstill as Alarming Scene Unfolds on Main Street",
+    "fetched_on": "2025-11-28T15:22:00.565575+00:00",
+    "content": "A disturbing trend is emerging throughout Disney World and the Magic Kingdom area. Emergency crews were called on the eve of Thanksgiving to what could be the tenth death since mid-October.\r\nCredit: … [+5820 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kingdom",
+      "Magic",
+      "Plunges",
+      "Sudden",
+      "Standstill",
+      "Alarming",
+      "Scene",
+      "Unfolds",
+      "Main",
+      "Street"
+    ]
   }
 ]
