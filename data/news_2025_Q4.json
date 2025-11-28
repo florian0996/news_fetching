@@ -211610,5 +211610,45 @@
       "debt",
       "crisis"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b11291502590baa2",
+    "title": "Tether: the $180bn gold whale",
+    "fetched_on": "2025-11-28T05:22:40.347319+00:00",
+    "content": "Plus, a lawsuit from billionaire Patrick Drahi takes up the novel antitrust theory roiling credit stand-offs\r\nThis story appeared on ft.com, 2025-11-27 05:00:34.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tether",
+      "Patrick",
+      "Drahi",
+      "gold",
+      "ft.com",
+      "whale",
+      "lawsuit",
+      "billionaire",
+      "antitrust",
+      "theory"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/58b4b6d7e4e5e150",
+    "title": "The US is deregulating banks. Will the rest of the world follow?",
+    "fetched_on": "2025-11-28T05:22:40.347319+00:00",
+    "content": "New rules will boost lending and profits and entrench American dominance. But critics say they could lead to another crash\r\nThis story appeared on ft.com, 2025-11-27 05:00:25.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "banks",
+      "deregulating",
+      "American",
+      "follow",
+      "dominance",
+      "rest",
+      "world",
+      "ft.com",
+      "rules",
+      "boost"
+    ]
   }
 ]
