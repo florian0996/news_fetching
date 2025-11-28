@@ -211829,5 +211829,45 @@
       "fund",
       "OpenAI"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/stranger-things-season-5-brings-back-maligned-season-2-character-heres-how-fans-are-reacting/",
+    "title": "‘Stranger Things’ Brings Back Maligned Season 2 Character; Here’s How Fans Are Reacting",
+    "fetched_on": "2025-11-28T08:30:27.831186+00:00",
+    "content": "Picture Credit: Netflix\r\nSeason 5 of Stranger Things is off to a bang, and among the big surprises for the season already is the fact that 008 (also known as Kali) from the much-maligned season 2 epi… [+4596 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Character",
+      "Stranger",
+      "Credit",
+      "Netflix",
+      "Kali",
+      "epi",
+      "chars",
+      "Things’",
+      "Brings"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d1567cc99e2ab626",
+    "title": "Asahi CEO says ransomware attack might have caused 1.9 million data leaks",
+    "fetched_on": "2025-11-28T08:30:27.831186+00:00",
+    "content": "Exposed data may include email addresses and phone numbers, but credit card information is not included in this data exposure, according to Asahi.\r\nThis story appeared on japantimes.co.jp, 2025-11-27… [+9 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asahi",
+      "CEO",
+      "Exposed",
+      "data",
+      "caused",
+      "million",
+      "numbers",
+      "exposure",
+      "ransomware",
+      "attack"
+    ]
   }
 ]
