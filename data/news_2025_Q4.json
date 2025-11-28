@@ -211650,5 +211650,105 @@
       "rules",
       "boost"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-28/builder-china-vanke-s-yuan-bond-gyrations-confound-credit-market",
+    "title": "Builder China Vanke’s Yuan Bond Gyrations Confound Credit Market",
+    "fetched_on": "2025-11-28T06:34:20.222551+00:00",
+    "content": "Wild swings in China Vanke Co.’s yuan bond prices have left credit traders puzzled for a second day in a row, as the market awaits details of the developer’s plan to delay repayment of a local note due next month.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Vanke",
+      "Yuan",
+      "Bond",
+      "Credit",
+      "Market",
+      "Gyrations",
+      "Confound",
+      "Wild",
+      "Co.’s"
+    ]
+  },
+  {
+    "source": "Newhumanist.org.uk [NewsAPI]",
+    "url": "https://newhumanist.org.uk/articles/6482/teaching-when-to-trust#utm_source=rss",
+    "title": "Teaching when to trust",
+    "fetched_on": "2025-11-28T06:34:19.577246+00:00",
+    "content": "As fake news accelerates, we need to teach our children how to think critically. Finnish schools are leading the charge\r\nCredit: Alamy\r\nIn an era defined by fake news, public trust in institutions is… [+15013 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Teaching",
+      "accelerates",
+      "critically",
+      "fake",
+      "trust",
+      "teach",
+      "children",
+      "Credit",
+      "Alamy",
+      "chars"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/27/3195466/0/en/Moody-s-affirms-Coop-Pank-s-ratings-and-positive-outlook.html",
+    "title": "Moody’s affirms Coop Pank’s ratings and positive outlook",
+    "fetched_on": "2025-11-28T06:34:19.577246+00:00",
+    "content": "The rating agency Moodys Ratings affirmed Coop Panks Credit rating at current level with positive outlook. Long- and short-term deposit rating remained on the level of Baa2 and rating outlook remaine… [+1576 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coop",
+      "Pank",
+      "Panks",
+      "Credit",
+      "positive",
+      "rating",
+      "outlook",
+      "Moody",
+      "Moodys",
+      "level"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/robwolkenbrod/2025/11/27/aew-dynamite-results-nov-26-2025-takeaways-after-full-gear/",
+    "title": "AEW Dynamite Results (Nov. 26, 2025): Takeaways After Full Gear",
+    "fetched_on": "2025-11-28T06:34:19.577246+00:00",
+    "content": "Credit: All Elite Wrestling\r\nComing off a red-hot Full Gear pay-per-view, this weeks episode of AEW Dynamite had a lot to live up to. It needed to follow up on Samoa Joe reclaiming the AEW World Cham… [+4747 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dynamite",
+      "Full",
+      "Gear",
+      "Nov.",
+      "Results",
+      "Takeaways",
+      "Credit",
+      "AEW",
+      "Elite",
+      "Wrestling"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/how-much-emi-for-rs-20-lakh-home-loan-breakdown-for-10-15-20-25-and-30-year-tenures/understanding-your-rs-20-lakh-home-loan-emi/slideshow/125605706.cms",
+    "title": "​How much EMI for Rs 20 lakh home loan? Breakdown for 10, 15, 20, 25 and 30-year tenures​",
+    "fetched_on": "2025-11-28T06:34:19.577246+00:00",
+    "content": "Nov 27, 2025, 10:53:37 AM IST\r\nYour monthly EMI on a Rs 20 lakh home loan depends primarily on three factors: interest rate, loan tenure, and loan type. Current home loan rates provided by major lend… [+4055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "EMI",
+      "lakh",
+      "home",
+      "Nov",
+      "IST",
+      "tenures",
+      "tenure",
+      "Breakdown",
+      "factors"
+    ]
   }
 ]
