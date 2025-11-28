@@ -212622,5 +212622,85 @@
       "Nath",
       "Non-bank"
     ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/11/27/dc-national-guard-shooting-suspect/",
+    "title": "DC National Guard Shooting Suspect: Updates on the Alleged White House Gunman",
+    "fetched_on": "2025-11-28T14:21:54.262503+00:00",
+    "content": "Image Credit: Getty Images\r\nA shooting, labeled as a targeted attack against the West Virginia National Guard, took place in Washington, D.C., on Wednesday, November 26, 2025. The suspected shooter o… [+2421 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "National",
+      "Guard",
+      "November",
+      "Suspect",
+      "Updates",
+      "Credit",
+      "Getty",
+      "Washington",
+      "Wednesday",
+      "Shooting"
+    ]
+  },
+  {
+    "source": "Thekenyatimes.com [NewsAPI]",
+    "url": "https://thekenyatimes.com/business/banking/top-kenyan-banks-bow-to-pressure-change-loan-formula-for-customers/",
+    "title": "KCB, Absa Bank Revise Lending Model On CBK New Guidelines",
+    "fetched_on": "2025-11-28T14:21:54.262503+00:00",
+    "content": "Since August 2024, the Central Bank of Kenya (CBK) has progressively cut the Central Bank Rate (CBR) severally and rolled out a new Risk-Based Credit Pricing Model (RBCPM) as they seek to bring a che… [+4002 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Central",
+      "Bank",
+      "KCB",
+      "CBR",
+      "RBCPM",
+      "Model",
+      "CBK",
+      "Absa",
+      "August",
+      "Kenya"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/ai-spending-pushes-oracle-credit-risk-to-3-year-peak-heres-why-morgan-stanley-warns-2026-could-be-worse/articleshow/125615294.cms",
+    "title": "AI spending pushes Oracle credit risk to 3-year peak: Here's why Morgan Stanley warns 2026 could be worse",
+    "fetched_on": "2025-11-28T14:21:54.262503+00:00",
+    "content": "Oracle debt warning: Oracle Corps debt is flashing its strongest warning signal in three years, and Morgan Stanley says the pressure could intensify in 2026 unless the company moves quickly to calm i… [+4331 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oracle",
+      "Morgan",
+      "Stanley",
+      "peak",
+      "chars",
+      "Corps",
+      "warns",
+      "years",
+      "debt",
+      "warning"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/news/live/these-are-the-best-black-friday-deals-for-gamers-in-2025-ps5-switch-xbox-pc/",
+    "title": "These are the best Black Friday deals for gamers in 2025: PS5, Nintendo Switch, Xbox, PC discounts tested, verified, and vetted by a deals expert",
+    "fetched_on": "2025-11-28T14:21:54.262503+00:00",
+    "content": "2025-11-27T14:19:37.651ZLet's get some more Switch accessories going\r\n(Image credit: Future)\r\nTwo of the best accessories I ever bought for my OG Nintendo Switch are on sale for Black Friday this yea… [+1230 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Switch",
+      "Xbox",
+      "Future",
+      "Black",
+      "Friday",
+      "Nintendo",
+      "Image",
+      "verified",
+      "chars",
+      "tested"
+    ]
   }
 ]
