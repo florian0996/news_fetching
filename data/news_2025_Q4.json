@@ -212125,5 +212125,125 @@
       "opens",
       "lines"
     ]
+  },
+  {
+    "source": "NBC News [NewsAPI]",
+    "url": "https://www.nbcnews.com/news/education/trump-administration-says-nursing-isnt-professional-degree-new-limits-rcna245911",
+    "title": "Trump administration says nursing isn't a professional degree amid new limits on loans",
+    "fetched_on": "2025-11-28T11:19:12.319322+00:00",
+    "content": "The Trump administrations plan to redefine what constitutes a professional degree would exclude nursing and limit access to student loans outraging national health care groups and leaving nursing stu… [+5384 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "professional",
+      "chars",
+      "degree",
+      "nursing",
+      "stu",
+      "loans",
+      "amid",
+      "plan",
+      "redefine"
+    ]
+  },
+  {
+    "source": "CryptoSlate [NewsAPI]",
+    "url": "https://cryptoslate.com/jpmorgan-opens-leveraged-bitcoin-access-to-retail-while-closing-crypto-ceos-account/",
+    "title": "Pick a side: JPMorgan opens leveraged Bitcoin access to retail while closing crypto CEO’s account",
+    "fetched_on": "2025-11-28T11:19:12.319322+00:00",
+    "content": "Market chop aside, Wall Street is rolling out Bitcoin (BTC) exposure to advisors through structured notes and ETF-collateralized lending.\r\nThe bank simultaneously faces debanking blowback after Strik… [+7796 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BTC",
+      "Bitcoin",
+      "Wall",
+      "CEO",
+      "Market",
+      "Street",
+      "Pick",
+      "side",
+      "JPMorgan",
+      "exposure"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/live/news/nintendo-switch-2-black-friday-deals-live-2025",
+    "title": "Nintendo Switch 2 Black Friday deals live: discounts on bundles, accessories, games, and more",
+    "fetched_on": "2025-11-28T11:19:12.319322+00:00",
+    "content": "(Image credit: Future)\r\nBlack Friday Nintendo Switch 2 deals have returned! Not only that, they've begun to evolve since first making themselves known over the course of last week. Now, I'm here to l… [+1719 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Switch",
+      "Black",
+      "Future",
+      "Friday",
+      "Image",
+      "Nintendo",
+      "accessories",
+      "games",
+      "deals",
+      "live"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/godrej-capitals-women-focused-loan-initiative-aarohi-crosses-1000-crore-mark/article70329940.ece",
+    "title": "Godrej Capital’s women-focused loan initiative Aarohi crosses ₹1,000 crore mark",
+    "fetched_on": "2025-11-28T11:19:12.319322+00:00",
+    "content": "Godrej Capital announced on Wednesday that Aarohi, its women-focused lending initiative, has surpassed 1,116 crore in total loan bookings within one year of its launch in November 2024. The programme… [+1295 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Aarohi",
+      "November",
+      "Godrej",
+      "crore",
+      "Wednesday",
+      "crosses",
+      "surpassed",
+      "women-focused",
+      "loan"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/27/3195569/28124/en/Finland-Buy-Now-Pay-Later-Business-Report-2025-2030-AI-Enhanced-Credit-Scoring-Green-Financing-and-Expanding-Healthcare-Adoption-To-Fuel-Expansion.html",
+    "title": "Finland Buy Now Pay Later Business Report 2025-2030: AI-Enhanced Credit Scoring, Green Financing, and Expanding Healthcare Adoption To Fuel Expansion",
+    "fetched_on": "2025-11-28T11:19:12.319322+00:00",
+    "content": "Dublin, Nov. 27, 2025 (GLOBE NEWSWIRE) -- The \"Finland Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis… [+9022 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finland",
+      "Nov.",
+      "Buy",
+      "Pay",
+      "Business",
+      "chars",
+      "Scoring",
+      "Green",
+      "Financing",
+      "Dublin"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/news/piramal-finance-aims-to-cross-1-lakh-cr-in-amu-in-fy26/article70329851.ece",
+    "title": "Piramal Finance aims to cross ₹1 lakh cr in AMU in FY26",
+    "fetched_on": "2025-11-28T11:19:12.319322+00:00",
+    "content": "Piramal Finance aims to surpass 1 lakh crore mark in Assets Under Management (AMU) by the end of FY26, according Jagdeep Mallareddy, CEO, Retail Lending, Piramal Finance.\r\nSpeaking at a press confere… [+1656 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Piramal",
+      "Finance",
+      "CEO",
+      "AMU",
+      "Management",
+      "Mallareddy",
+      "Retail",
+      "Lending",
+      "aims",
+      "lakh"
+    ]
   }
 ]
