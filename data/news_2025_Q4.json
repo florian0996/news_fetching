@@ -211750,5 +211750,84 @@
       "Breakdown",
       "factors"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/softbank-cds-widens-rakuten-narrows-as-credit-views-diverge-11764226590076.html",
+    "title": "SoftBank CDS Widens, Rakuten Narrows as Credit Views Diverge",
+    "fetched_on": "2025-11-28T07:21:23.947809+00:00",
+    "content": "(Bloomberg) -- SoftBank Group Corp.s credit-default swaps climbed to the highest level since April, as investors turned cautious on the tech behemoths debt-fueled growth at a time of intensifying glo… [+1648 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "chars",
+      "Widens",
+      "Rakuten",
+      "Diverge",
+      "April",
+      "SoftBank",
+      "CDS",
+      "Narrows",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/5595fa8f0a2a1660",
+    "title": "Jefferies Joins Wall Street Peers in Saudi Private Credit Push",
+    "fetched_on": "2025-11-28T07:21:23.947809+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Nvidia's stock decline recently? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will UK budget tax h… [+722 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Push",
+      "return",
+      "false",
+      "Joins",
+      "Wall",
+      "Street",
+      "Peers"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4f97cb804282676d",
+    "title": "Magazine solutions - November 28, 2025",
+    "fetched_on": "2025-11-28T07:21:23.947809+00:00",
+    "content": "CROSSWORD - NOVEMBER 28, 2025(Image credit: Future)SUDOKU - NOVEMBER 28, 2025(Image credit: Future)\r\nThis story appeared on theweek.com, 2025-11-27 06:05:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "Future",
+      "Image",
+      "CROSSWORD",
+      "SUDOKU",
+      "credit",
+      "Magazine",
+      "solutions",
+      "theweek.com",
+      "story"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/oracle-and-vantage-in-talks-for-38-billion-loan-to-fund-openai-sites--report-93CH-4381337",
+    "title": "Oracle and Vantage in talks for $38 billion loan to fund OpenAI sites - report",
+    "fetched_on": "2025-11-28T07:21:34.548865+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "report",
+      "Vantage",
+      "Oracle",
+      "billion",
+      "sites",
+      "talks",
+      "loan",
+      "fund",
+      "OpenAI"
+    ]
   }
 ]
