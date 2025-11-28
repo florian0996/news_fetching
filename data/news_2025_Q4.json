@@ -212522,5 +212522,105 @@
       "cautious",
       "thumbs"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-28/zambia-discards-five-year-default-tag-with-fitch-ratings-upgrade",
+    "title": "Zambia Discards Five-Year Default Tag With Fitch Ratings Upgrade",
+    "fetched_on": "2025-11-28T13:31:36.249076+00:00",
+    "content": "Zambia has shaken off five years with a debt-default tag, with Fitch Ratings upgrading its assessment of the southern African nation’s credit to B- and a stable outlook. Yields on its dollar bond edged lower.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fitch",
+      "Ratings",
+      "Zambia",
+      "Tag",
+      "Discards",
+      "Default",
+      "Upgrade",
+      "African",
+      "outlook",
+      "Five-Year"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-gears-up-for-massive-credit-push-chairman-says-no-new-equity-needed-for-6-years-as-bank-plans-rs-12500-cr-bond-raise-in-fy26/articleshow/125615788.cms",
+    "title": "SBI gears up for massive credit push: Chairman says no new equity needed for 6 years as bank plans Rs 12,500 cr bond raise in FY26",
+    "fetched_on": "2025-11-28T13:31:35.430465+00:00",
+    "content": "State Bank of India Chairman C S Setty has expressed strong confidence in the banks capital strength, stating that the Rs 25,000 crore equity capital raised earlier this year through the Qualified In… [+3200 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chairman",
+      "SBI",
+      "State",
+      "chars",
+      "India",
+      "Setty",
+      "Qualified",
+      "bank",
+      "equity",
+      "capital"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392441/the-bigfoot-files-fbi-publishes-cryptid-case-file-on-its-website",
+    "title": "The Bigfoot Files: FBI publishes cryptid case file on its website",
+    "fetched_on": "2025-11-28T13:31:35.430465+00:00",
+    "content": "Creatures, Myths &amp; Legends\r\nBy T.K. RandallNovember 27, 2025 ·  0 commentsThe FBI was interested in Bigfoot back in the 1970s. Image Credit: Bing AI / Dall-E 3Genuine FBI documents concerning the… [+1417 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Myths",
+      "Bigfoot",
+      "Creatures",
+      "Legends",
+      "FBI",
+      "RandallNovember",
+      "commentsThe",
+      "Files",
+      "file",
+      "publishes"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/companies/aum-could-rise-to-over-16000-crore-in-fy26-ugro-capital-founder/article70330265.ece",
+    "title": "AUM could rise to over ₹16,000 crore in FY26: UGRO Capital founder",
+    "fetched_on": "2025-11-28T13:31:35.430465+00:00",
+    "content": "Non-bank lender UGRO Capital is expecting its assets under management (AUM) to rise to 16,000- 16,500 crore by March end while aiming to lower the share of off-book loans to 25-30 per cent over a per… [+2749 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AUM",
+      "UGRO",
+      "Capital",
+      "crore",
+      "rise",
+      "chars",
+      "Non-bank",
+      "March",
+      "management",
+      "founder"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/aum-could-rise-to-over-16000-crore-in-fy26-ugro-capital-founder/article70330265.ece",
+    "title": "UGRO Capital’s AUM could rise to over ₹16,000 crore in FY26: Founder & MD Shachindra Nath",
+    "fetched_on": "2025-11-28T13:31:35.430465+00:00",
+    "content": "Non-bank lender UGRO Capital is expecting its assets under management (AUM) to rise to 16,000- 16,500 crore by March end while aiming to lower the share of off-book loans to 25-30 per cent over a per… [+2749 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UGRO",
+      "Capital",
+      "AUM",
+      "Founder",
+      "crore",
+      "rise",
+      "chars",
+      "Shachindra",
+      "Nath",
+      "Non-bank"
+    ]
   }
 ]
