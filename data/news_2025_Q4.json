@@ -211869,5 +211869,81 @@
       "ransomware",
       "attack"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-28/this-is-why-credit-card-interest-rates-are-so-high",
+    "title": "<strong>This Is Why Credit Card Interest Rates Are so High</strong>",
+    "fetched_on": "2025-11-28T09:22:53.739519+00:00",
+    "content": "<p><strong>Credit users are paying for their own marketing.</strong></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "strong",
+      "Credit",
+      "High",
+      "Card",
+      "Interest",
+      "Rates",
+      "marketing.",
+      "users",
+      "paying"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-11-28/odd-lots-this-is-why-credit-card-rates-are-so-high-podcast",
+    "title": "Odd Lots: This Is Why Credit Card Rates Are so High (Podcast)",
+    "fetched_on": "2025-11-28T09:22:53.739529+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Lots",
+      "High",
+      "Credit",
+      "Card",
+      "Rates",
+      "Odd"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/27/3195541/0/en/Personal-Loans-Market-Anticipated-to-Hit-USD-674-13-Billion-by-2033-Driven-by-Rising-Demand-for-Flexible-Borrowing-and-Digital-Lending-SNS-Insider.html",
+    "title": "Personal Loans Market Anticipated to Hit USD 674.13 Billion by 2033, Driven by Rising Demand for Flexible Borrowing and Digital Lending | SNS Insider",
+    "fetched_on": "2025-11-28T09:22:52.700605+00:00",
+    "content": "Austin, Nov. 27, 2025 (GLOBE NEWSWIRE) -- The Personal Loans Market\r\n size was valued at USD 320.73 Billion in 2025E and is expected to reach USD 674.13 Billion by 2033 and grow at a CAGR of 9.75% ov… [+6040 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "USD",
+      "Loans",
+      "Nov.",
+      "Market",
+      "Personal",
+      "Driven",
+      "Lending",
+      "SNS",
+      "Austin"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/mt-k-kapital-plans-to-raise-over-rs-4000-crore-through-india-credit-fund/articleshow/125609430.cms",
+    "title": "Mt K Kapital plans to raise over Rs 4,000 crore through India credit fund",
+    "fetched_on": "2025-11-28T09:22:52.700605+00:00",
+    "content": "Real estate focused fund management company Mt K Kapital is looking to raise over Rs 4,000 crore or $450 million through its second fund from domestic and offshore investors, in one of the largest ca… [+3088 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kapital",
+      "raise",
+      "crore",
+      "chars",
+      "India",
+      "Real",
+      "fund",
+      "million",
+      "investors",
+      "plans"
+    ]
   }
 ]
