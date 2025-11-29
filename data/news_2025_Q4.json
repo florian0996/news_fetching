@@ -214029,5 +214029,105 @@
       "playable",
       "characters"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/india-shifts-from-need-based-borrowing-to-aspiration-led-borrowing-says-survey-report/article70333378.ece",
+    "title": "India shifts from need-based borrowing to aspiration-led borrowing, says survey report",
+    "fetched_on": "2025-11-29T05:21:00.825097+00:00",
+    "content": "People are borrowing more to fulfill their aspirations than needs and self-reliance, a survey report by a consumer finance company, Home Credit has found. Also, now more and more people using digital… [+3168 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Home",
+      "Credit",
+      "borrowing",
+      "survey",
+      "report",
+      "People",
+      "India",
+      "self-reliance",
+      "company",
+      "found"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/live/news/the-best-black-friday-tech-deals-of-2025",
+    "title": "The 151+ best Black Friday tech deals live: expert picks from Amazon, Apple, Walmart, Best Buy, and more",
+    "fetched_on": "2025-11-29T05:21:00.825097+00:00",
+    "content": "2025-11-28T05:23:28.537ZHere's the best super-cheap laptop I've found\r\n(Image credit: Future)\r\nIf you're looking for a super-cheap laptop, this HP Chromebook 14 is a good deal from Best Buy's Black F… [+7926 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buy",
+      "Apple",
+      "Walmart",
+      "Future",
+      "Black",
+      "Amazon",
+      "Image",
+      "Chromebook",
+      "chars",
+      "super-cheap"
+    ]
+  },
+  {
+    "source": "Dealnews.com [NewsAPI]",
+    "url": "https://www.dealnews.com/Big-Horn-Outdoors-Black-Friday-Deals-Pizza-Ovens-Steak-Grills-Up-to-50-off-free-shipping/21789448.html",
+    "title": "Big Horn Outdoors Black Friday Deals — Pizza Ovens & Steak Grills: Up to 50% off + free shipping",
+    "fetched_on": "2025-11-29T05:21:00.825097+00:00",
+    "content": "moreA wide range of deals are on offer, including up to $600 off Galaxy Book3 laptops, up to $1,200 off Bespoke refrigerators, and up to $1,000 instant trade-in credit on select Galaxy phones. Shop N… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "Deals",
+      "Pizza",
+      "Ovens",
+      "Steak",
+      "Grills",
+      "laptops",
+      "Horn",
+      "Outdoors",
+      "Black"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/these-5-credit-cards-allow-travellers-to-earn-maximum-airmiles-check-list-here-11764239584625.html",
+    "title": "THESE credit cards allow travellers to earn maximum airmiles. Check list here",
+    "fetched_on": "2025-11-29T05:21:00.825097+00:00",
+    "content": "As a frequent traveller, it is feasible to use a credit card that offers reward points to you that can be redeemed to buy air tickets. One can accumulate sufficient points as one shops online or offl… [+2058 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "airmiles",
+      "earn",
+      "maximum",
+      "points",
+      "cards",
+      "card",
+      "travellers",
+      "traveller",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Straits Times [NewsAPI]",
+    "url": "https://www.straitstimes.com/business/property/vankes-loan-request-rejected-by-at-least-two-chinese-banks",
+    "title": "Vanke’s loan request rejected by at least two Chinese banks",
+    "fetched_on": "2025-11-29T05:21:00.825097+00:00",
+    "content": "BEIJING - China Vanke was rejected by at least two big local banks as it tried to secure a short-term loan to quell the default fears that have fueled a plunge in its bonds this week, according to pe… [+2189 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BEIJING",
+      "China",
+      "chars",
+      "Vanke",
+      "rejected",
+      "Chinese",
+      "loan",
+      "banks",
+      "week",
+      "request"
+    ]
   }
 ]
