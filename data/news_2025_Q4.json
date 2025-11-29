@@ -214409,5 +214409,65 @@
       "Auto",
       "Loan"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/7d99fe316e462ac2",
+    "title": "The week’s best photos",
+    "fetched_on": "2025-11-29T09:21:10.446512+00:00",
+    "content": "The Soyuz MS-28 spacecraft is seen on the launch pad at the Baikonur Cosmodrome, in Baikonur, Kazakhstan (Image credit: Maxim Shipenkov / EPA / Shutterstock)Deadly fire engulfs multiple high-rise bui… [+141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kazakhstan",
+      "EPA",
+      "Shutterstock",
+      "Baikonur",
+      "Soyuz",
+      "Cosmodrome",
+      "Image",
+      "Maxim",
+      "Shipenkov",
+      "Deadly"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/67a1b7aa6ad4e6ff",
+    "title": "This Is Why Credit Card Interest Rates Are so High",
+    "fetched_on": "2025-11-29T09:21:10.446512+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump vow to pause Third World migration? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will JPMorgans new … [+749 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "High",
+      "return",
+      "false",
+      "Credit",
+      "Card",
+      "Interest",
+      "Rates"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/news/banks-should-think-afresh-to-support-horticulture-fm-nirmala-sitharaman/article70333974.ece",
+    "title": "Banks should think afresh to support horticulture: FM Nirmala Sitharaman",
+    "fetched_on": "2025-11-29T09:21:10.446512+00:00",
+    "content": "Banks and insurance companies should go beyond the traditional approach of lending to support farmers of Amaravati in Andhra Pradesh and promote horticulture,  Union Finance Minister Nirmala Sitharam… [+1955 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Union",
+      "Sitharam",
+      "Nirmala",
+      "horticulture",
+      "Banks",
+      "Sitharaman",
+      "Amaravati",
+      "Andhra",
+      "Pradesh"
+    ]
   }
 ]
