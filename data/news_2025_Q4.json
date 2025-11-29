@@ -214269,5 +214269,25 @@
       "information",
       "post"
     ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/cewjxrg7lkvo",
+    "title": "Matisse lithograph added to art lending scheme",
+    "fetched_on": "2025-11-29T07:19:43.629831+00:00",
+    "content": "A print by one of the 20th Century's most influential artists has become available for loan as part of a gallery's lending scheme.\r\nHenri Matisse's The Dancer (1949) is one of 24 lithographs produced… [+1531 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Century",
+      "lending",
+      "scheme",
+      "Matisse",
+      "added",
+      "art",
+      "print",
+      "influential",
+      "artists",
+      "loan"
+    ]
   }
 ]
