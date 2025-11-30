@@ -218416,5 +218416,65 @@
       "link",
       "setting"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/features/2025-11-30/the-260-billion-mom-and-pop-fixed-maturity-funds-distorting-the-credit-market",
+    "title": "The $260 Billion Mom-and-Pop Funds Distorting the Credit Market",
+    "fetched_on": "2025-11-30T22:20:06.930653+00:00",
+    "content": "<p>Popular with individual investors, fixed-maturity funds are hoovering up the debt of big companies, reducing borrowing costs but obscuring repayment risk.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Market",
+      "Popular",
+      "Funds",
+      "Distorting",
+      "Credit",
+      "investors",
+      "fixed-maturity",
+      "companies",
+      "reducing"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4355208/posts",
+    "title": "Astronomy Picture of the Day - The Images not Posted during the Government Shutdown - An Unusual Globule in IC 1396",
+    "fetched_on": "2025-11-30T22:20:05.774974+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - The Images not Posted during the Government Shutdown - An Unusual Globule in IC 1396NASA ^\r\n | 14 Oct, 2025\r\n | Image Credit &amp; Copyright: Joachim… [+1951 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Shutdown",
+      "Picture",
+      "Posted",
+      "Government",
+      "Unusual",
+      "Globule",
+      "Images",
+      "Skip",
+      "Astronomy"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/politics/trump-shares-post-from-seal-team-6-member-saying-afghans-would-kill-you-for-being-a-witch-if-you-had-a-coffee-machine/",
+    "title": "Trump Shares Post From Seal Team 6 Member Saying Afghans Would Kill You For Being a ‘Witch’ If You Had a Coffee Machine",
+    "fetched_on": "2025-11-30T22:20:05.774974+00:00",
+    "content": "(photo credit: Alex Brandon for AP)\r\nPresident Donald Trump shared a post from Robert O’Neill, the Navy Seal Team 6 member credited with killing Osama bin Laden, saying Afghans would “chop your head … [+1856 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Team",
+      "Afghans",
+      "Member",
+      "Seal",
+      "Post",
+      "Witch’",
+      "Machine",
+      "Alex",
+      "President",
+      "Laden"
+    ]
   }
 ]
