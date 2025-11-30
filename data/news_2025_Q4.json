@@ -218476,5 +218476,45 @@
       "President",
       "Laden"
     ]
+  },
+  {
+    "source": "CBM (Comic Book Movie) [NewsAPI]",
+    "url": "https://comicbookmovie.com/deadpool/deadpool-wolverine/uk-government-under-scrutiny-after-reportedly-giving-deadpool-wolverine-record-breaking-tax-credit-a225218",
+    "title": "UK Government Under Scrutiny After Reportedly Giving DEADPOOL & WOLVERINE Record-Breaking Tax Credit",
+    "fetched_on": "2025-11-30T23:19:51.069805+00:00",
+    "content": "When discussing superhero films, the conversations are often centered around how much they cost to make, their success (or lack thereof) at the box office, and what plot points may serve as clues tow… [+3139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "DEADPOOL",
+      "WOLVERINE",
+      "Government",
+      "Scrutiny",
+      "Reportedly",
+      "Giving",
+      "Tax",
+      "Credit",
+      "films"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/mexican-spiderman-shares-wild-tale-of-smashing-window-with-bowling-ball-to-escape-bay-area-mall-shooting/",
+    "title": "‘Mexican Spiderman’ Shares Wild Tale of Smashing Window With Bowling Ball to Escape Bay Area Mall Shooting",
+    "fetched_on": "2025-11-30T23:19:51.069805+00:00",
+    "content": "(photo credit: La Voz News)\r\nCristian Rodriguez, the self-described “Mexican Spiderman,” shared a wild and detail-packed story about smashing a window with a bowling ball to help people escape from a… [+1869 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mexican",
+      "Ball",
+      "Window",
+      "Bowling",
+      "Shooting",
+      "Cristian",
+      "Rodriguez",
+      "Spiderman",
+      "Wild",
+      "Smashing"
+    ]
   }
 ]
