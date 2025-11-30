@@ -217061,5 +217061,45 @@
       "APR",
       "replies"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/11/29/3196502/0/en/New-Crypto-Coin-Mutuum-Finance-MUTM-Set-to-Reveal-the-V1-Protocol-Launch-Date-Soon.html",
+    "title": "New Crypto Coin Mutuum Finance (MUTM) Set to Reveal the V1 Protocol Launch Date Soon",
+    "fetched_on": "2025-11-30T08:26:14.256691+00:00",
+    "content": "DUBAI, United Arab Emirates, Nov. 29, 2025 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n, a new DeFi lending and borrowing protocol, is preparing to announce the official launch date for its V1 testnet… [+5898 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Nov.",
+      "Mutuum",
+      "testnet",
+      "chars",
+      "Set",
+      "DUBAI",
+      "United",
+      "Emirates"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/c9vjk3ezyjeo",
+    "title": "The card scam causing 'real harm' to businesses",
+    "fetched_on": "2025-11-30T08:26:14.256691+00:00",
+    "content": "'Friendly fraud' is when customers falsly dispute a credit card purchase and receive a refund \r\nBusinesses across the UK have reported a rise in so-called \"friendly fraud\", or chargeback scams, where… [+6550 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Friendly",
+      "fraud",
+      "chars",
+      "businesses",
+      "card",
+      "causing",
+      "real",
+      "harm",
+      "so-called",
+      "customers"
+    ]
   }
 ]
