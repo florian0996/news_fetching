@@ -217638,5 +217638,85 @@
       "fraud",
       "respond"
     ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/cities/pune/sbi-vehicle-loan-scam-ed-seizes-high-end-cars-raids-pune-10393389/",
+    "title": "SBI vehicle loan scam: ED seizes high-end cars during raids in Pune",
+    "fetched_on": "2025-11-30T15:19:37.290447+00:00",
+    "content": "The Directorate of Enforcement, Mumbai Zonal Office, conducted searches at multiple locations in Pune in connection with the vehicle loan fraud at State Bank of India (SBI), Pune.A press statement is… [+2522 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "Pune",
+      "Enforcement",
+      "Mumbai",
+      "Office",
+      "India",
+      "chars",
+      "vehicle",
+      "loan",
+      "Directorate"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/11/29/wwe-survivor-series-wargames-2025-match-card-start-time-and-odd/",
+    "title": "WWE Survivor Series WarGames 2025 Match Card, Start Time And Odd",
+    "fetched_on": "2025-11-30T15:19:37.290447+00:00",
+    "content": "Roman Reigns will team up with a pair of bitter rivals at WWE Survivor Series. (Credit: Cooper Neill/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE Survivor Series: WarGames 2025 is WWEs final PLE … [+4983 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Survivor",
+      "WWE",
+      "Series",
+      "Match",
+      "Card",
+      "Start",
+      "Time",
+      "Odd",
+      "Roman",
+      "Reigns"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/money-changes-december-2025-lpg-atf-fuel-prices-bank-closure-rbi-mpc-loan-rate-ups-pension-tds-key-updates-impact-pocket-11764411512418.html",
+    "title": "Changes from December 1: From LPG, fuel prices to bank closure and loan rates — Key things that could impact your pocket",
+    "fetched_on": "2025-11-30T15:19:37.290447+00:00",
+    "content": "Key money rule changes next month: With December 2025 almost here, there are some changes that could come into effect, that will directly impact your pockets. Starting from December 1, here's a look … [+3959 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Key",
+      "LPG",
+      "impact",
+      "fuel",
+      "rates",
+      "month",
+      "effect",
+      "pocket",
+      "pockets"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/78bcce728afa8c0e",
+    "title": "5 Credit Card Strategies to Keep More Money in Your Pocket",
+    "fetched_on": "2025-11-30T15:19:37.290447+00:00",
+    "content": "Americans currently owe $1.21 trillion on their credit cards, according to CNBC, so its incredibly important that you learn how to use them correctly.Whether youre looking to earn rewards, avoid snea… [+149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "CNBC",
+      "chars",
+      "Strategies",
+      "Money",
+      "Pocket",
+      "Americans",
+      "Card",
+      "cards",
+      "owe"
+    ]
   }
 ]
