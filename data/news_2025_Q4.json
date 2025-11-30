@@ -216961,5 +216961,45 @@
       "Monday",
       "TCGPlayer"
     ]
+  },
+  {
+    "source": "Al Jazeera English [NewsAPI]",
+    "url": "https://www.aljazeera.com/news/2025/11/29/belaruss-lukashenko-becomes-second-only-leader-to-visit-myanmar-since-coup",
+    "title": "Belarus’s Lukashenko becomes second only leader to visit Myanmar since coup",
+    "fetched_on": "2025-11-30T04:34:53.530652+00:00",
+    "content": "Belarusian President Alexander Lukashenko has arrived in Myanmar on a goodwill visit seen as lending support to the Southeast Asian countrys military government in advance of a widely condemned natio… [+3674 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Lukashenko",
+      "Myanmar",
+      "Belarusian",
+      "President",
+      "Alexander",
+      "Southeast",
+      "Asian",
+      "Belarus",
+      "natio"
+    ]
+  },
+  {
+    "source": "Diggers.news [NewsAPI]",
+    "url": "https://diggers.news/business/2025/11/29/fitch-upgrades-zambias-credit-rating-to-b/",
+    "title": "Fitch upgrades Zambia’s credit rating to B",
+    "fetched_on": "2025-11-30T04:34:53.530652+00:00",
+    "content": "FITCH Ratings has upgraded Zambia’s credit rating from ‘Restricted Default’ to ‘B-‘ with a Stable Outlook, following the country’s debt restructuring. And President Hakainde Hichilema has welcomed th… [+626 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zambia",
+      "Restricted",
+      "Outlook",
+      "credit",
+      "Fitch",
+      "rating",
+      "Default’",
+      "Stable",
+      "restructuring",
+      "Ratings"
+    ]
   }
 ]
