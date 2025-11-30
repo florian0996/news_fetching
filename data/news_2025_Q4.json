@@ -217598,5 +217598,45 @@
       "loan",
       "Cam’ron"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/what-to-watch/10-best-superhero-series-and-movies-streaming-on-netflix/",
+    "title": "10 Best Superhero Series and Movies Streaming on Netflix",
+    "fetched_on": "2025-11-30T14:19:16.018697+00:00",
+    "content": "Picture Credit: Netflix\r\nFrom Netflix Originals to licensed content, here are 10 fantastic superhero shows and movies available for streaming right now on Netflix.\r\nThanks to Marvel and DC, and even … [+6762 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Movies",
+      "Credit",
+      "Superhero",
+      "Streaming",
+      "Series",
+      "Picture",
+      "Originals",
+      "content",
+      "fantastic"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/dad-opened-credit-card-name-140000950.html",
+    "title": "Dad opened a credit card in my name, spent $5K and got mad when my uncle helped me out. How to respond to familial fraud",
+    "fetched_on": "2025-11-30T14:19:33.562250+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "spent",
+      "Dad",
+      "opened",
+      "credit",
+      "card",
+      "mad",
+      "uncle",
+      "helped",
+      "fraud",
+      "respond"
+    ]
   }
 ]
