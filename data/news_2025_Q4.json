@@ -218178,5 +218178,103 @@
       "Connections",
       "Hints"
     ]
+  },
+  {
+    "source": "MarketWatch [NewsAPI]",
+    "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc",
+    "title": "‘It’s expensive feeding and housing a family of 7’: I’m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
+    "fetched_on": "2025-11-30T19:17:05.616993+00:00",
+    "content": "After all the bills for the month, we have $3,500 a month left for living, food etc. (Photo subjects are models.) - Getty Images/iStockphoto\r\nI am 41 years old and have just retired from the service.… [+5846 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "debt",
+      "expensive",
+      "feeding",
+      "housing",
+      "family",
+      "credit-card",
+      "month",
+      "Photo",
+      "Getty",
+      "Images"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/mmo/debate-what-is-your-objectively-correct-keybinding-setup-for-your-current-mmo-and-why-is-everybody-else-wrong/",
+    "title": "Debate: What is your objectively correct keybinding setup for your current MMO, and why is everybody else wrong?",
+    "fetched_on": "2025-11-30T19:17:05.616993+00:00",
+    "content": "(Image credit: Future)\r\nThis is Terminally Online:PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive… [+3902 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Debate",
+      "MMO",
+      "wrong",
+      "Future",
+      "objectively",
+      "correct",
+      "keybinding",
+      "setup",
+      "current",
+      "Image"
+    ]
+  },
+  {
+    "source": "The Verge [NewsAPI]",
+    "url": "https://www.theverge.com/gadgets/833566/buying-a-100-apple-gift-card-will-earn-you-15-amazon-credit",
+    "title": "Buying a $100 Apple gift card will earn you $15 Amazon credit",
+    "fetched_on": "2025-11-30T19:17:05.616993+00:00",
+    "content": "<ul><li></li><li></li><li></li></ul>\r\nEquipped with a gift card, the recipient can buy anything they want on the Apple store.\r\nEquipped with a gift card, the recipient can buy anything they want on t… [+1738 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "Equipped",
+      "Amazon",
+      "gift",
+      "card",
+      "recipient",
+      "buy",
+      "Buying",
+      "credit",
+      "store"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/december-2025-tv-shows-to-watch-stream-5490712/",
+    "title": "December 2025 TV Shows to Watch: New & Returning Series to Stream",
+    "fetched_on": "2025-11-30T19:17:05.616993+00:00",
+    "content": "Image Credit: GIULIA PARMIGIANI/NETFLIX\r\nIts the most wonderful time of the year to use that PTO for the sole purpose of binge-watching worthy television. Several fan-favorite TV series are finally c… [+3384 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Watch",
+      "Returning",
+      "Credit",
+      "GIULIA",
+      "PARMIGIANI",
+      "NETFLIX",
+      "December",
+      "Shows",
+      "Stream",
+      "Image"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/friend-cosigned-loan-bmw-driver-110000410.html",
+    "title": "My friend cosigned a loan for a BMW, but the driver defaulted. They’re both on the hook for $5K. What happens now?",
+    "fetched_on": "2025-11-30T19:17:23.045482+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BMW",
+      "defaulted",
+      "friend",
+      "cosigned",
+      "loan",
+      "driver",
+      "’re",
+      "hook"
+    ]
   }
 ]
