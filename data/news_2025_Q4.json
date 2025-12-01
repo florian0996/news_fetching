@@ -218976,5 +218976,105 @@
       "interest",
       "trim"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-01/credit-suisse-charged-over-laundering-tied-to-mozambique-loan",
+    "title": "Credit Suisse Charged Over Laundering Tied to Mozambique Loan",
+    "fetched_on": "2025-12-01T10:26:56.762939+00:00",
+    "content": "Swiss prosecutors charged Credit Suisse with failing to prevent money laundering linked to loans the lender provided to Mozambique to build a fishing fleet in what became the tuna bond scandal.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Suisse",
+      "Mozambique",
+      "Credit",
+      "Charged",
+      "Laundering",
+      "Tied",
+      "Swiss",
+      "scandal",
+      "Loan",
+      "loans"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-01/uk-mortgage-approvals-dipped-in-october-amid-tax-rise-fears",
+    "title": "UK Mortgage Approvals Dipped in October Amid Tax Rise Fears",
+    "fetched_on": "2025-12-01T10:26:56.762972+00:00",
+    "content": "Demand for home loans fell slightly in October as prospective buyers put decisions on ice amid fears of tax rises targeting the UK property market in the budget.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "Tax",
+      "Amid",
+      "Fears",
+      "Mortgage",
+      "Approvals",
+      "Dipped",
+      "Demand",
+      "budget",
+      "Rise"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/unemployed-texas-man-pays-1-101700890.html",
+    "title": "This unemployed Texas man pays $1,200/month for his $56,000 car, has $94,000 in total debt",
+    "fetched_on": "2025-12-01T10:26:56.041264+00:00",
+    "content": "The Ramsey Show Youtube\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nAmerican households carry $1.66 trillion in auto loan balances collectivel… [+4580 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "car",
+      "Texas",
+      "Ramsey",
+      "Show",
+      "Youtube",
+      "Moneywise",
+      "Yahoo",
+      "Finance",
+      "LLC",
+      "pays"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a0cac682e51a91bc",
+    "title": "Spend $350 at Hotels.com, earn 20,000 Capital One miles with new targeted offer",
+    "fetched_on": "2025-12-01T10:26:56.041264+00:00",
+    "content": "Capital One Offers, the credit cardholder offers found within your Capital One credit card login (not to be confused with Capital One Shopping, the public portal open to anyone), has some incredible … [+154 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Hotels.com",
+      "Shopping",
+      "Spend",
+      "earn",
+      "chars",
+      "Offers",
+      "credit",
+      "login",
+      "incredible"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/submission/17342789/oracles-credit-status-under-pressure",
+    "title": "Oracle's credit status under pressure",
+    "fetched_on": "2025-12-01T10:26:56.041264+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Print",
+      "Fine",
+      "Oracle",
+      "credit",
+      "status",
+      "pressure",
+      "comments",
+      "owned",
+      "posted",
+      "responsible"
+    ]
   }
 ]
