@@ -218816,5 +218816,45 @@
       "Job",
       "Spent"
     ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/i-rely-on-cups-of-tea-to-stay-warm-how-middle-ireland-is-coping-with-energy-costs/a1796856300.html",
+    "title": "‘I rely on cups of tea to stay warm’ – how ‘middle Ireland’ is coping with energy costs",
+    "fetched_on": "2025-12-01T06:36:14.244094+00:00",
+    "content": "Its the first winter in four with the universal energy credit. These are some of the extreme sacrifices people are having to make across Ireland just to get by\r\nThe arrival of sub-zero temperatures i… [+395 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ireland’",
+      "energy",
+      "warm’",
+      "middle",
+      "credit",
+      "rely",
+      "cups",
+      "tea",
+      "stay",
+      "coping"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/tokenisation-trend-risks-repeat-chinas-093000736.html",
+    "title": "Tokenisation trend risks repeat of China's P2P lending crisis, asset manager warns",
+    "fetched_on": "2025-12-01T06:36:45.883176+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Tokenisation",
+      "lending",
+      "crisis",
+      "asset",
+      "warns",
+      "trend",
+      "risks",
+      "repeat",
+      "manager"
+    ]
   }
 ]
