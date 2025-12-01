@@ -219176,5 +219176,105 @@
       "lifeline",
       "college"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-01/failed-bank-relied-on-brazil-s-xp-for-its-breakneck-growth",
+    "title": "Failed Bank Relied on Brazil’s XP for Its Breakneck Growth",
+    "fetched_on": "2025-12-01T12:47:25.078012+00:00",
+    "content": "The meteoric rise of Brazil’s Banco Master SA, which collapsed last month amid allegations of fraud, depended heavily on its ties to XP Inc., whose retail investing platform made possible a near doubling of the failed bank’s lending portfolio every year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brazil",
+      "Bank",
+      "Inc.",
+      "Failed",
+      "Relied",
+      "Breakneck",
+      "Growth",
+      "Banco",
+      "Master",
+      "fraud"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/364cc1f0153c32c9",
+    "title": "Weekend Round-Up: Airbus Chaos, BYD's Massive Recall, Tesla's Free FSD Rides, Rivian's Tax Credit Silver Lining And More",
+    "fetched_on": "2025-12-01T12:47:21.492003+00:00",
+    "content": "The past week was a whirlwind in the world of auto and tech. From emergency aircraft recalls to massive vehicle recalls in China, free self-driving rides in Europe, potential benefits from tax credit… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airbus",
+      "Chaos",
+      "BYD",
+      "Tesla",
+      "Rivian",
+      "FSD",
+      "Silver",
+      "Lining",
+      "Tax",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392525/us-armys-secretive-psyop-group-releases-chilling-new-video",
+    "title": "US Army's secretive PSYOP group releases chilling new video",
+    "fetched_on": "2025-12-01T12:47:21.492003+00:00",
+    "content": "Conspiracy\r\nBy T.K. RandallNovember 30, 2025 ·  0 commentsWould you join PSYOP ? Image Credit: US Air ForceThe 4th Psychological Operations Group (Airborne) has posted a strange new recruitment video… [+1474 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airborne",
+      "RandallNovember",
+      "chars",
+      "Image",
+      "Credit",
+      "Psychological",
+      "PSYOP",
+      "group",
+      "Army",
+      "Conspiracy"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/12/01/student-loan-ibr-change.html",
+    "title": "Student loan borrowers — including higher earners — may qualify for lower monthly bills soon",
+    "fetched_on": "2025-12-01T12:47:53.717442+00:00",
+    "content": "Many student loan borrowers may soon be able to switch into a repayment plan that lowers their monthly bill. Here's what to know.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "Student",
+      "borrowers",
+      "monthly",
+      "including",
+      "earners",
+      "higher",
+      "qualify",
+      "switch",
+      "repayment"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/schweiz-verklagt-credit-suisse-und-ubs-im-thunfisch-anleihen-skandal-15324742",
+    "title": "Schweiz verklagt Credit Suisse und UBS im \"Thunfisch-Anleihen\"-Skandal",
+    "fetched_on": "2025-12-01T12:47:54.414575+00:00",
+    "content": "<p>Von Adria Calatayud  DOW JONES--Die <a href=\"https://www.finanzen.net/aktien/ubs-aktie\" rel=\"noopener\" target=\"_blank\">Credit Suisse</a> und ihre Eigentümerin UBS müssen sich wegen eines Korruptionsskandals in Afrika verantworten. Die Schweizer Bundesanwaltschaft hat nach eigenen  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Skandal",
+      "Credit",
+      "Suisse",
+      "UBS",
+      "Von",
+      "JONES",
+      "Thunfisch-Anleihen",
+      "rel",
+      "noopener",
+      "target"
+    ]
   }
 ]
