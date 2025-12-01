@@ -219532,5 +219532,65 @@
       "Public",
       "BlackRock"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-01/kkr-s-avida-sells-debut-srt-to-credit-firm-sona-cfo-says",
+    "title": "KKR’s Avida Sells Debut SRT to Credit Firm Sona, CFO Says",
+    "fetched_on": "2025-12-01T15:24:40.953974+00:00",
+    "content": "Avida Finans AB, a Swedish lender controlled by KKR &amp; Co Inc., sold its inaugural significant risk transfer transaction to Sona Asset Management, Chief Financial Officer Lennart Erlandson said.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CFO",
+      "Inc.",
+      "Management",
+      "Chief",
+      "KKR",
+      "Avida",
+      "Sona",
+      "Sells",
+      "Debut",
+      "SRT"
+    ]
+  },
+  {
+    "source": "CinemaBlend [NewsAPI]",
+    "url": "https://www.cinemablend.com/movies/paul-walker-died-just-after-thanksgiving-vin-diesel-internet-cant-believe-been-12-years",
+    "title": "Paul Walker Died Just After Thanksgiving. Vin Diesel (And The Internet) Can’t Believe It’s Been ‘12 Years’",
+    "fetched_on": "2025-12-01T15:24:40.341389+00:00",
+    "content": "In 2013, Hollywood and the world at large lost a bright star in Paul Walker. The beloved actor had various credits under his belt, but he was best known for his role as Brian O’Conner in the Fast &am… [+3918 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Thanksgiving",
+      "Walker",
+      "Died",
+      "Paul",
+      "Diesel",
+      "Internet",
+      "Years’",
+      "Hollywood",
+      "Fast",
+      "Brian"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/when-will-dark-winds-season-4-be-on-netflix/",
+    "title": "When will ‘Dark Winds’ Season 4 be on Netflix?",
+    "fetched_on": "2025-12-01T15:24:40.341389+00:00",
+    "content": "Picture Credit: AMC\r\nDark Winds will soon be returning to AMC for season 4, but you may be like millions of others who have discovered the show through Netflix. Here’s what we know about the fourth s… [+3121 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Season",
+      "Winds’",
+      "Dark",
+      "AMC",
+      "Credit",
+      "Winds",
+      "chars",
+      "Picture",
+      "returning"
+    ]
   }
 ]
