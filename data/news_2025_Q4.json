@@ -218856,5 +218856,45 @@
       "repeat",
       "manager"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/sbi-chairman-sees-double-digit-corporate-loan-growth-in-fy26-7-lakh-cr-credit-in-pipeline/article70341210.ece",
+    "title": "SBI Chairman sees double-digit corporate loan growth in FY26, ₹7 lakh cr credit in pipeline",
+    "fetched_on": "2025-12-01T07:24:53.084942+00:00",
+    "content": "With the pick-up in economic activity, State Bank of India (SBI) is seeing a clear revival in corporate credit demand and expects the segment to hit double-digit growth over the remaining two quarter… [+3223 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "State",
+      "India",
+      "chars",
+      "Chairman",
+      "Bank",
+      "double-digit",
+      "corporate",
+      "growth",
+      "credit"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/corporate-loan-growth-to-hit-double-digit-in-fy26-rs-7-lakh-crore-credit-in-pipeline-sbi-chairman/articleshow/125669844.cms",
+    "title": "Corporate loan growth to hit double digit in FY26, Rs 7 lakh crore credit in pipeline: SBI chairman",
+    "fetched_on": "2025-12-01T07:24:53.084942+00:00",
+    "content": "With the pick-up in economic activity, State Bank of India (SBI) is seeing a clear revival in corporate credit demand and expects the segment to hit double-digit growth over the remaining two quarter… [+3184 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "State",
+      "India",
+      "chars",
+      "hit",
+      "Bank",
+      "Corporate",
+      "growth",
+      "credit",
+      "lakh"
+    ]
   }
 ]
