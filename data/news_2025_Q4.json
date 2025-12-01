@@ -219749,5 +219749,65 @@
       "Credit",
       "Report"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-01/private-credit-s-marks-get-warning-shot-from-top-doj-cop",
+    "title": "Private Credit’s Marks Get Warning Shot From Top DOJ Cop",
+    "fetched_on": "2025-12-01T17:23:26.824095+00:00",
+    "content": "Invesco Chief Global Market Strategist Brian Levitt explains why he thinks private credit remains attractive amid stable inflation and easing policy.\nDefaults are poised to rise across the $1.7 trillion private credit market next year as a growing number of middle-market firms are experiencing stress, according to Kroll Bond Rating Agency.\nA record 61 borrowers with private debt have a rating of CCC-, KBRA said in a report on Tuesday, which analyzed more than 2,200 middle-market companies backed by private equity in the 12 months through September. The firm tacks on that label for borrowers “facing severe operational or liquidity challenges.”\nThe rising share of firms falling into the CCC- cohort is “a clear signal that pressure is building in certain segments of the direct lending market,” KBRA said in its report. The companies in this group collectively held a record 1.4% of the more than $1 trillion of debt assessed by KBRA.\n (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Private",
+      "Marks",
+      "Warning",
+      "Shot",
+      "Top",
+      "DOJ",
+      "Cop",
+      "Invesco",
+      "Chief"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-01/leveraged-loan-bankers-in-europe-have-busiest-monday-since-june",
+    "title": "Leveraged Loan Bankers in Europe Have Busiest Monday Since June",
+    "fetched_on": "2025-12-01T17:23:26.824125+00:00",
+    "content": "Europe’s leveraged loan market had its busiest Monday since June as borrowers crammed deals through what may be one of the last windows of opportunity in 2025.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Monday",
+      "June",
+      "Europe",
+      "Loan",
+      "Busiest",
+      "Bankers",
+      "Leveraged",
+      "market",
+      "borrowers",
+      "crammed"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/public-banks-take-a-leap-in-personal-loan-origination/articleshow/125676718.cms",
+    "title": "Public banks take a leap in personal loan origination",
+    "fetched_on": "2025-12-01T17:23:26.189657+00:00",
+    "content": "The share of public sector banks in unsecured personal loan origination increased to 36% in the September quarter, up from 27% in the three months to end-June, CRIF High Mark data showed. The growth … [+3213 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "CRIF",
+      "personal",
+      "origination",
+      "September",
+      "High",
+      "Mark",
+      "Public",
+      "banks",
+      "quarter"
+    ]
   }
 ]
