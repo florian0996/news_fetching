@@ -218916,5 +218916,65 @@
       "2025-26",
       "sai"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-01/altice-international-bonds-see-record-drop-after-asset-drop-down",
+    "title": "Altice International Bonds See Record Drop After Asset Drop-Down",
+    "fetched_on": "2025-12-01T09:30:56.733848+00:00",
+    "content": "Altice International’s bonds plunged the most on record on Monday following an announcement on Friday afternoon that the company had shifted some assets out of the reach of creditors, in an aggressive move aimed at stabilizing its finances.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "International",
+      "Altice",
+      "Bonds",
+      "Record",
+      "Drop",
+      "Monday",
+      "Friday",
+      "creditors",
+      "finances",
+      "Asset"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/christmas-overspending-credit-counselling-9.6996167",
+    "title": "Heading into holidays, N.L. credit counsellor says overspending on 'one day' isn't worth it",
+    "fetched_on": "2025-12-01T09:30:56.022824+00:00",
+    "content": "If you want to set yourself up on solid financial footing for the new year, Credit Counselling Services of Newfoundland and Labrador says reigning in your holiday spending is a good start.\r\nExecutive… [+1885 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "Counselling",
+      "Services",
+      "Newfoundland",
+      "Labrador",
+      "Heading",
+      "day",
+      "year",
+      "start",
+      "Executive"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-may-cut-interest-rate-by-25-bps-on-friday/article70341438.ece",
+    "title": "RBI may cut interest rate by 25 bps on Friday",
+    "fetched_on": "2025-12-01T09:30:56.022824+00:00",
+    "content": "The RBI may trim the benchmark lending rate by 25 bps in its forthcoming monetary policy meeting, as inflationary pressures are subdued, though some experts believe the central bank is likely to keep… [+4767 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "bps",
+      "chars",
+      "rate",
+      "Friday",
+      "meeting",
+      "subdued",
+      "cut",
+      "interest",
+      "trim"
+    ]
   }
 ]
