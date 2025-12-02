@@ -220768,5 +220768,45 @@
       "Salesman",
       "Company"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/737a147f21f581c5",
+    "title": "Private Credit ‘Hysteria’ Will Get Very Real Next Year",
+    "fetched_on": "2025-12-02T05:21:39.737756+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Coupang's massive data breach? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Modis reforms impact … [+754 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Credit",
+      "Hysteria’",
+      "Year",
+      "return",
+      "false",
+      "Real",
+      "Coupang"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/crypto-lending-market-transparency-25-billion-galaxy",
+    "title": "$25B crypto lending market now led by ‘transparent’ players: Galaxy",
+    "fetched_on": "2025-12-02T05:21:39.737756+00:00",
+    "content": "The crypto lending market has become more transparent than ever led by the likes of Tether, Nexo and Galaxy and has just hit an aggregate loan book of nearly $25 billion outstanding in the third quar… [+2591 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "lending",
+      "Tether",
+      "Nexo",
+      "chars",
+      "crypto",
+      "market",
+      "led",
+      "transparent’",
+      "players"
+    ]
   }
 ]
