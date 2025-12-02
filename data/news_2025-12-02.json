@@ -42,28 +42,28 @@
   {
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-01/-buy-now-pay-later-firms-pressed-by-states-for-loan-details",
-    "title": "\u2018Buy Now, Pay Later\u2019 Firms Pressed by States for Loan Details",
-    "fetched_on": "2025-12-02T12:48:35.774774+00:00",
+    "title": "Buy Now, Pay Later Firms Pressed by States for Loan Details",
+    "fetched_on": "2025-12-02T18:35:16.284148+00:00",
     "content": "The offices of seven state Democratic attorneys general asked providers of Buy Now, Pay Later services for details about the cost and structures of their installment loans, as well as consumers\u2019 ability to repay them.",
     "platforms_mentioned": [],
     "keywords": [
       "Pay",
       "Buy",
       "Details",
-      "Later\u2019",
       "Firms",
       "Pressed",
       "Democratic",
       "States",
       "Loan",
-      "state"
+      "state",
+      "loans"
     ]
   },
   {
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-01/carlyle-sells-debt-of-roomba-maker-as-bankruptcy-risks-loom",
     "title": "Carlyle Sells Debt of Roomba Maker as Bankruptcy Risks Loom",
-    "fetched_on": "2025-12-02T17:24:02.665100+00:00",
+    "fetched_on": "2025-12-02T18:35:15.952450+00:00",
     "content": "Carlyle Group Inc. sold a troubled loan it provided to iRobot Corp. less than three years ago as the maker of Roomba vacuum cleaners is trying to stave off a potential bankruptcy filing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/01/student-loan-ibr-change.html",
     "title": "Student loan borrowers \u2014 including higher earners \u2014 may qualify for lower monthly bills soon",
-    "fetched_on": "2025-12-02T17:24:22.816110+00:00",
+    "fetched_on": "2025-12-02T18:35:37.519141+00:00",
     "content": "Many student loan borrowers may soon be able to switch into a repayment plan that lowers their monthly bill. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/mortgage-rates-hit-highest-level-in-a-month-pushing-loan-demand-down-5percent.html",
     "title": "Mortgage rates hit highest level in a month, pushing loan demand down 5%",
-    "fetched_on": "2025-12-02T17:24:22.526897+00:00",
+    "fetched_on": "2025-12-02T18:35:37.234350+00:00",
     "content": "Mortgage rates rose to the highest level in a month last week, causing demand for home loans to drop. Demand, however, is still higher than a year ago.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/10/why-the-trump-administration-wants-to-allow-crypto-backed-mortgages.html",
     "title": "The Trump administration wants to allow crypto-backed mortgages. Here's why",
-    "fetched_on": "2025-12-02T17:24:22.526972+00:00",
+    "fetched_on": "2025-12-02T18:35:37.234427+00:00",
     "content": "Fannie Mae and Freddie Mac could allow crypto holdings to be included in mortgage risk assessments.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
     "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
-    "fetched_on": "2025-12-02T17:24:22.526988+00:00",
+    "fetched_on": "2025-12-02T18:35:37.234441+00:00",
     "content": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/blue-owl-calls-off-merger-of-its-two-private-credit-funds-after-announcement-rattles-stock-sources-say.html",
     "title": "Blue Owl calls off merger of its two private credit funds after announcement rattles stock",
-    "fetched_on": "2025-12-02T17:24:22.653741+00:00",
+    "fetched_on": "2025-12-02T18:35:37.383955+00:00",
     "content": "Blue Owl has decided to call off the merging of two of its private credit funds after the deal caused some angst among investors, according to sources.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html",
     "title": "New York Fed met with Wall Street firms about key lending facility: FT",
-    "fetched_on": "2025-12-02T17:24:22.653794+00:00",
+    "fetched_on": "2025-12-02T18:35:37.384009+00:00",
     "content": "The Fed sought feedback from dealers on the use of the central bank's standing repo facility, a permanent lending tool that acts as a backstop for markets.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/29/student-loans-tax-planning.html",
     "title": "Student loans and year-end tax planning \u2014 4 steps for borrowers to take",
-    "fetched_on": "2025-12-02T17:24:22.816133+00:00",
+    "fetched_on": "2025-12-02T18:35:37.519164+00:00",
     "content": "Recent changes to the federal student loan system may affect borrowers' taxes. There are some helpful steps you can take now, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/22/this-56-year-old-man-just-got-170000-in-student-loan-forgiveness-.html",
     "title": "56-year-old man got over $170,000 in student loan forgiveness under Trump: 'I could not believe it'",
-    "fetched_on": "2025-12-02T17:24:22.816218+00:00",
+    "fetched_on": "2025-12-02T18:35:37.519257+00:00",
     "content": "Daniel Gray worried about his student debt for more than two decades. The day after he turned 56, he learned that his over $170,000 balance would be forgiven.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/20/worries-for-student-loan-borrowers-amid-education-department-breakup-.html",
     "title": "Education Department restructuring plan doesn't involve student debt. Still, experts are worried",
-    "fetched_on": "2025-12-02T17:24:22.816259+00:00",
+    "fetched_on": "2025-12-02T18:35:37.519300+00:00",
     "content": "The new restructuring at the Education Department doesn't involve the student loan portfolio. But the instability at the agency could still harm borrowers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/20/holiday-shopping-season-forecasts-show-growing-k-shaped-divide.html",
     "title": "It's looking like a 'K-shaped' holiday season, reports show",
-    "fetched_on": "2025-12-02T17:24:22.816289+00:00",
+    "fetched_on": "2025-12-02T18:35:37.519314+00:00",
     "content": "Some shoppers plan to spend big this holiday season \u2014 even if it means racking up more credit card debt.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1161,7 +1161,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-02/boe-cuts-banks-benchmark-capital-requirements-ahead-of-review",
     "title": "BOE Lowers Bank Capital Requirements to Boost UK Lending",
-    "fetched_on": "2025-12-02T17:24:02.779676+00:00",
+    "fetched_on": "2025-12-02T18:35:16.082489+00:00",
     "content": "The Bank of England cut its estimate of how much capital British banks need for the first time in a decade and promised to consult on rule changes next year, potentially paving the way for higher lending and bigger buybacks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1603,7 +1603,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-02/billionaire-tom-steyer-s-investment-unit-targets-venture-debt",
     "title": "Billionaire Tom Steyer Dodges Private-Credit Hype and Targets Niche Deals",
-    "fetched_on": "2025-12-02T17:24:02.334389+00:00",
+    "fetched_on": "2025-12-02T18:35:15.605646+00:00",
     "content": "The credit arm of Tom Steyer\u2019s asset management firm is targeting a niche corner of private dealmaking that\u2019s been on a different trajectory to the rest of the market.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1803,7 +1803,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-02/fairstone-bank-to-acquire-laurentian-bank-in-1-4-billion-deal",
     "title": "Canada\u2019s Fairstone to Buy Laurentian in $1.4 Billion Deal",
-    "fetched_on": "2025-12-02T17:24:02.899911+00:00",
+    "fetched_on": "2025-12-02T18:35:16.284173+00:00",
     "content": "Laurentian Bank of Canada is set to become the latest small Canadian bank to exit the market after reaching an agreement to sell itself to Fairstone Bank for C$1.9 billion ($1.4 billion) while hiving off its retail banking unit to focus on commercial lending.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1999,7 +1999,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-02/video-americans-are-losing-their-homes-to-zombie-mortgages",
     "title": "Americans Are Losing Their Homes to Zombie Mortgages",
-    "fetched_on": "2025-12-02T17:24:02.544508+00:00",
+    "fetched_on": "2025-12-02T18:35:15.858133+00:00",
     "content": "<p>In this episode of <em>Bloomberg Investigates</em>, we explore how private equity and debt collectors are making millions on home loans once thought canceled.</p>",
     "platforms_mentioned": [],
     "keywords": [
@@ -2709,7 +2709,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-02/billionaire-drahi-strikes-back-with-moves-bashing-altice-lenders",
     "title": "Billionaire Drahi Strikes Back With Moves Bashing Altice Lenders",
-    "fetched_on": "2025-12-02T17:24:02.334361+00:00",
+    "fetched_on": "2025-12-02T18:35:15.605628+00:00",
     "content": "The largest creditors to Altice France met at Ch\u00e2teau Lafite Rothschild near Bordeaux on Monday to toast a debt restructuring deal that was one-and-a-half years in the making. Bondholders and lenders in other corners of Patrick Drahi\u2019s telecommunications empire had far less reason to celebrate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2729,7 +2729,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/newsletters/2025-12-02/billionaire-patrick-drahi-s-third-act-against-creditors",
     "title": "Billionaire Patrick Drahi\u2019s Third Act Against Creditors",
-    "fetched_on": "2025-12-02T17:24:02.544352+00:00",
+    "fetched_on": "2025-12-02T18:35:15.858004+00:00",
     "content": "A highly aggressive financial maneuver crunches down existing creditors and moves assets out of their reach",
     "platforms_mentioned": [],
     "keywords": [
@@ -2749,7 +2749,7 @@
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/eric-guilmette-talks-vertical-dramas-being-an-actor-and-producer-in-the-digital-age/article",
     "title": "Eric Guilmette talks vertical dramas, being an actor and producer in the digital age",
-    "fetched_on": "2025-12-02T17:24:01.936623+00:00",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
     "content": "Eric Guilmette. Photo Credit: Guarav Shah.\r\nActor Eric Guilmette chatted about starring in vertical dramas, as well as being an actor and producer in the digital age.\r\nEric Guilmette grew up in Graft\u2026 [+5007 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2769,7 +2769,7 @@
     "source": "Commercial Observer [NewsAPI]",
     "url": "http://commercialobserver.com/2025/12/optimum-bank-27m-acquisition-loan-distressed-atlanta-office/",
     "title": "Optimum Bank Provides $27M Acquisition Loan for Distressed Atlanta-Area Office",
-    "fetched_on": "2025-12-02T17:24:01.936623+00:00",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
     "content": "Alkamy Capital has secured $26.5 million in acquisition financing to purchase Crown Pointe, a two-building, Class A office complex in Dunwoody, Ga., just outside of Atlanta, that spans more than 500,\u2026 [+1994 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2789,7 +2789,7 @@
     "source": "24/7 Wall St. [NewsAPI]",
     "url": "https://247wallst.com/personal-finance/2025/12/01/discover-how-to-save-hundreds-each-year-with-smart-cash-back-strategies/",
     "title": "Discover How to Save Hundreds Each Year with Smart Cash Back Strategies",
-    "fetched_on": "2025-12-02T17:24:01.936623+00:00",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
     "content": "panuwat phimpha / Shutterstock.com\r\n<ul><li>Earning money with cash-back credit cards isnt difficult if you have the right cards.\r\n</li><li>Using a combination of cards is the best way to increase yo\u2026 [+6176 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2849,7 +2849,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/12/02/trump-cabinet-meeting-hegseth-boat-strikes.html",
     "title": "Watch: Trump holds Cabinet meeting as Hegseth boat strike scrutiny mounts",
-    "fetched_on": "2025-12-02T17:24:22.371781+00:00",
+    "fetched_on": "2025-12-02T18:35:36.683776+00:00",
     "content": "Scrutiny over the boat strikes, government shutdown, ACA tax credits, Jeffrey Epstein and more has dominated the news since Trump's last Cabinet meeting.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2878,6 +2878,266 @@
       "mortgage",
       "rates",
       "credit"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/12/01/walk-my-walk-blanco-brown/",
+    "title": "AI country hit \u2018Walk My Walk\u2019 built on Blanco Brown\u2019s sound sparks questions of attribution, ethics",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "By JONATHAN LANDRUM Jr., Associated Press\r\nLOS ANGELES (AP) When an AI-generated country song called Walk My Walk hit No. 1 on Billboards country digital song sales chart this month, it was credited \u2026 [+7303 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Walk",
+      "ANGELES",
+      "chars",
+      "Walk\u2019",
+      "Blanco",
+      "Brown",
+      "JONATHAN",
+      "LANDRUM",
+      "Press",
+      "LOS"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/99fe1da5c40f0d7a",
+    "title": "Blackstone, Apollo and KKR said to join BoE stress test",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "Blackstone, Apollo and KKR signed up to participate in the Bank of England's (BoE) stress test to see how the private credit market would behave in a major crisis, the Financial Times reported on Mon\u2026 [+69 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "Blackstone",
+      "KKR",
+      "England",
+      "Mon",
+      "chars",
+      "stress",
+      "test",
+      "Bank",
+      "Financial"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/714c082223b860dc",
+    "title": "Blackstone, Apollo and KKR sign up to UK stress test of private credit",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "US private capital groups to take part in Bank of England review amid concerns over systemic risks\r\nThis story appeared on ft.com, 2025-12-01 17:55:46.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Blackstone",
+      "Apollo",
+      "KKR",
+      "Bank",
+      "England",
+      "ft.com",
+      "private",
+      "sign",
+      "stress",
+      "test"
+    ]
+  },
+  {
+    "source": "Cartoon Brew [NewsAPI]",
+    "url": "https://www.cartoonbrew.com/apps/with-love-dan-scanlon-mick-harrison-brege-257185.html",
+    "title": "With Love: An Animated Pen-Pal Platform Designed To Add Value To Kids\u2019 Screen Time (EXCLUSIVE VIDEO)",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "In an animation industry marked by layoffs, shrinking pipelines, and a rising tide of independent creators, a small project called With Love is quietly charting a different path. Blending animation, \u2026 [+4864 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Love",
+      "Time",
+      "EXCLUSIVE",
+      "VIDEO",
+      "Animated",
+      "Platform",
+      "Designed",
+      "Add",
+      "Kids\u2019",
+      "Screen"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/sports/cricket/india-aggressive-batting-rohit-sharma-rahul-dravid-ashwin-10396726/",
+    "title": "Credit for India\u2019s aggressive batting intent in white ball cricket goes to Rohit Sharma, Rahul Dravid: Ashwin",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "India\u2019s aggressive batting approach, which has brought a lot of success, is credit to former captain Rohit Sharma and ex-head coach Rahul Dravid, according to Ravichandran Ashwin.The former Indian of\u2026 [+1729 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dravid",
+      "India",
+      "Rohit",
+      "Sharma",
+      "Rahul",
+      "Ashwin",
+      "aggressive",
+      "chars",
+      "Ravichandran",
+      "Indian"
+    ]
+  },
+  {
+    "source": "Lse.ac.uk [NewsAPI]",
+    "url": "https://eprints.lse.ac.uk/130383/",
+    "title": "Sequential credit markets",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "Axelson, UlfORCID: 0000-0002-1265-2714 and Makarov, IgorORCID: 0009-0006-7557-449X \r\n(2026)\r\nSequential credit markets.\r\nJournal of Financial Economics, 176.\r\nISSN 0304-405X\r\n(In Press)\r\nFull text no\u2026 [+801 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sequential",
+      "Axelson",
+      "Makarov",
+      "UlfORCID",
+      "IgorORCID",
+      "credit",
+      "markets",
+      "ISSN",
+      "Economics",
+      "Press"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/202454b461650810",
+    "title": "Investor Kevin O'Leary Says Credit Cards Aren't 'Evil'\u2014 But Dave Ramsey Warns They're A Snake That'll 'Bite Your Freaking Head Off'",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Tesla called ridiculously overvalued? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Coupang's data b\u2026 [+705 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Evil",
+      "Bite",
+      "return",
+      "false",
+      "Kevin",
+      "Credit",
+      "Cards"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1c7ffdb758dfe19f",
+    "title": "Discover How to Save Hundreds Each Year with Smart Cash Back Strategies",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "Key Points-Earning money with cash-back credit cards isnt difficult if you have the right cards.-Using a combination of cards is the best way to increase your monthly rewards.-You can use the rewards\u2026 [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Save",
+      "Hundreds",
+      "Year",
+      "Smart",
+      "Cash",
+      "Back",
+      "Strategies",
+      "Key",
+      "cards"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/investor-kevin-oleary-says-credit-173109881.html",
+    "title": "Investor Kevin O'Leary Says Credit Cards Aren't 'Evil'\u2014 But Dave Ramsey Warns They're A Snake That'll 'Bite Your Freaking Head Off'",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "When it comes to credit cards, Kevin O'Leary and Dave Ramsey may as well live on different planets.\r\nO'Leary, famously known as \"Mr. Wonderful\" from \"Shark Tank,\" believes the problem isn't plastic i\u2026 [+3446 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kevin",
+      "Dave",
+      "Ramsey",
+      "Credit",
+      "Cards",
+      "Evil",
+      "Bite",
+      "Warns",
+      "Snake",
+      "Freaking"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/01/3197353/0/en/New-Build-Waterfront-Masterpiece-Sells-for-35-Million-in-Port-Royal.html",
+    "title": "New-Build Waterfront Masterpiece Sells for $35 Million in Port Royal",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "Dropbox:\u00a0https://www.dropbox.com/scl/fo/bh5z9vgcqbk5pefth0ecs/AJBomEGBKHCGRFyTQVyUEvo?rlkey=wyzsokr06j6d7xcagbar1tovk&amp;st=eeb8hxoh&amp;dl=\r\nPhoto Credit: Marc Fitzgerald\r\nNAPLES, Fla., Dec. 01, 20\u2026 [+2647 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fla.",
+      "Dec.",
+      "chars",
+      "Million",
+      "Dropbox",
+      "Photo",
+      "Credit",
+      "Marc",
+      "NAPLES",
+      "Waterfront"
+    ]
+  },
+  {
+    "source": "Chelsea.news [NewsAPI]",
+    "url": "https://chelsea.news/2025/12/chalobah-latest-change-magic-formula-chelsea/",
+    "title": "Chelsea finally have the magic formula at the back after successful week",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "Reece James was so good for Chelsea against Arsenal last night that its slightly taken credit away from other players who deserved it.\r\nChelseas player ratings from the draw with Arsenal.\r\nTrevoh Cha\u2026 [+1203 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reece",
+      "James",
+      "Arsenal",
+      "Chelsea",
+      "finally",
+      "magic",
+      "formula",
+      "back",
+      "successful",
+      "week"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18901126-worx-4-volt-cordless-screw-driver-kit-for-just-4-99-menards",
+    "title": "14-pc WORX 4-Volt Cordless Screw Driver Kit + $20 Menards Credit (via rebate) $25 + Free Store Pickup",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor\u2026 [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WORX",
+      "Cordless",
+      "Kit",
+      "Menards",
+      "Credit",
+      "tips",
+      "Screw",
+      "Driver",
+      "Store",
+      "Pickup"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392559/new-study-reveals-widespread-paranormal-beliefs-among-canadians",
+    "title": "New study reveals widespread paranormal beliefs among Canadians",
+    "fetched_on": "2025-12-02T18:35:15.210800+00:00",
+    "content": "Ghosts &amp; Hauntings\r\nDecember 1, 2025 \u00b7 \u00a00 commentsAlmost half of Canadians believe in the paranormal. Image Credit: Bing AI / Dall-E 3Researchers have collected nationally representative data on \u2026 [+5916 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canadians",
+      "Ghosts",
+      "Hauntings",
+      "December",
+      "commentsAlmost",
+      "paranormal",
+      "Dall-E",
+      "chars",
+      "Credit",
+      "Bing"
     ]
   }
 ]
