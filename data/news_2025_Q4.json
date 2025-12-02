@@ -221128,5 +221128,106 @@
       "Graduate",
       "graduates"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-02/boe-stress-test-uk-banks-resilient-capital-buffers-cut-video",
+    "title": "BOE Stress Test: UK Banks Resilient, Capital Buffers Cut",
+    "fetched_on": "2025-12-02T09:28:12.736140+00:00",
+    "content": "The Bank of England has cut its estimate of how much capital the UK’s banking sector needs for the first time in a decade, and signaled a consultation that could free up extra lending and higher payouts to shareholders. The central bank also said all of the UK’s seven largest lenders passed its latest stress test, which examined their resilience to an economic shock worse than the global financial crisis. Bloomberg’s Laura Noonan reports.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Cut",
+      "Test",
+      "BOE",
+      "Resilient",
+      "Buffers",
+      "England",
+      "Stress",
+      "Bank",
+      "decade"
+    ]
+  },
+  {
+    "source": "Retrotogo.com [NewsAPI]",
+    "url": "https://www.retrotogo.com/2025/12/retro-pop-christmas-cards-by-eight-bit-north.html",
+    "title": "Retro pop Christmas cards by Eight Bit North",
+    "fetched_on": "2025-12-02T09:28:11.333041+00:00",
+    "content": "Retro pop Christmas cards by Eight Bit North (image credit: Eight Bit North)\r\nNote all articles are independently researched and written by myself. However, if you buy via one of the links it may be … [+1724 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bit",
+      "North",
+      "Christmas",
+      "Retro",
+      "Note",
+      "pop",
+      "cards",
+      "image",
+      "credit",
+      "articles"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/altice-international-bonds-see-record-drop-after-asset-dropdown-11764580027699.html",
+    "title": "Altice International Bonds See Record Drop After Asset Drop-Down",
+    "fetched_on": "2025-12-02T09:28:11.333041+00:00",
+    "content": "(Bloomberg) -- Altice Internationals bonds plunged the most on record on Monday following an announcement on Friday afternoon that the company had shifted some assets out of the reach of creditors, i… [+1958 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Altice",
+      "Bloomberg",
+      "Bonds",
+      "chars",
+      "International",
+      "Record",
+      "Drop",
+      "Monday",
+      "Friday",
+      "Drop-Down"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-unions/2025/62percent-of-gen-z-turn-to-ai-for-financial-planning-guidance/",
+    "title": "62% of Gen Z Turn to AI for Financial Planning Guidance",
+    "fetched_on": "2025-12-02T09:28:11.333041+00:00",
+    "content": "Credit unions trying to attract younger members now face a generation that expects personalized digital tools and is willing to walk away when it does not get them.The Digital-First Retention Playboo… [+3544 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Playboo",
+      "Gen",
+      "Turn",
+      "Financial",
+      "Planning",
+      "Guidance",
+      "Credit",
+      "Retention",
+      "unions"
+    ]
+  },
+  {
+    "source": "People.com [GNews]",
+    "url": "https://people.com/husband-refuses-to-lend-sister-in-law-money-after-borrowing-8k-now-hes-being-called-controlling-11858009",
+    "title": "Husband Refuses to Lend Sister-in-Law Money After Borrowing $8K, Now He's Being Called 'Controlling'",
+    "fetched_on": "2025-12-02T09:28:18.972615+00:00",
+    "content": "On Reddit, a man shared how he and his wife agreed to stop loaning money to her sister, who owes them over $8,000 and has never repaid it. After being refused another $2,000, the sister accused the husband of “financially controlling” his wife and told the whole family.",
+    "platforms_mentioned": [],
+    "entity": "Lend",
+    "keywords": [
+      "Lend",
+      "Borrowing",
+      "Called",
+      "Reddit",
+      "Money",
+      "Controlling",
+      "Refuses",
+      "wife",
+      "Husband",
+      "sister"
+    ]
   }
 ]
