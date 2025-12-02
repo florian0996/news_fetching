@@ -221008,5 +221008,125 @@
       "Bidi",
       "Shah"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-02/saudi-national-bank-s-1-billion-loan-adds-to-middle-east-spree",
+    "title": "Saudi National Bank’s $1 Billion Loan Adds to Middle East Spree",
+    "fetched_on": "2025-12-02T08:32:53.351801+00:00",
+    "content": "Saudi National Bank is seeking a $1 billion syndicated loan, continuing a borrowing rush by the kingdom’s lenders that are helping finance a $2 trillion economic overhaul.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "National",
+      "Billion",
+      "Bank",
+      "Saudi",
+      "Loan",
+      "Adds",
+      "Middle",
+      "East",
+      "Spree",
+      "continuing"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-02/boe-cuts-banks-benchmark-capital-requirements-ahead-of-review",
+    "title": "BOE Cuts Bank Capital Buffers After Stress Tests Show Resilience",
+    "fetched_on": "2025-12-02T08:32:53.759998+00:00",
+    "content": "The Bank of England has cut its estimate of how much capital the UK’s banking sector needs for the first time in a decade, and signaled a consultation that could free up extra lending and higher payouts to shareholders.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "BOE",
+      "Capital",
+      "Buffers",
+      "Stress",
+      "Tests",
+      "Show",
+      "Resilience",
+      "England",
+      "decade"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/sony-playstation-stablecoin-payments-2026-launch",
+    "title": "Crypto payments coming to PlayStation as Sony plans stablecoin launch in 2026",
+    "fetched_on": "2025-12-02T08:32:53.011342+00:00",
+    "content": "Sony Bank, the online lending subsidiary of Sony Financial Group, is reportedly preparing to launch a stablecoin that will enable payments across the Sony ecosystem in the US.\r\nSony is planning to is… [+2109 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sony",
+      "Bank",
+      "Group",
+      "Financial",
+      "payments",
+      "stablecoin",
+      "launch",
+      "Crypto",
+      "coming",
+      "PlayStation"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/loan-watch-vieira-hits-last-gasp-winner",
+    "title": "Loan watch: Vieira hits last-gasp winner",
+    "fetched_on": "2025-12-02T08:32:53.011342+00:00",
+    "content": "Many of our Mens, Womens and Academy players have been sent out on loan this season to gain experience and further action.\r\nFabio Vieira was the man of the moment for Hamburg, having come off the ben… [+2269 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mens",
+      "Womens",
+      "Academy",
+      "Vieira",
+      "Loan",
+      "watch",
+      "action",
+      "hits",
+      "last-gasp",
+      "winner"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-upgrade-2/",
+    "title": "Why Upgrading to the Samsung Galaxy S26 Ultra Will Actually Feel Like an Upgrade",
+    "fetched_on": "2025-12-02T08:32:53.011342+00:00",
+    "content": "The Samsung Galaxy S26 Ultra represents a thoughtful evolution in smartphone technology, blending subtle design enhancements with innovative functionality. By integrating advanced AI-driven features … [+5014 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "Samsung",
+      "Ultra",
+      "Upgrading",
+      "Feel",
+      "Upgrade",
+      "technology",
+      "blending",
+      "functionality",
+      "chars"
+    ]
+  },
+  {
+    "source": "Inside Higher Ed [NewsAPI]",
+    "url": "https://www.insidehighered.com/opinion/views/2025/12/01/states-should-step-graduate-school-aid-opinion",
+    "title": "States Should Step Up on Graduate School Aid",
+    "fetched_on": "2025-12-02T08:32:53.011342+00:00",
+    "content": "Two decades ago, Uncle Sam offered a helping hand for college graduates who desired careers that required advanced degrees by establishing a loan program known as Grad PLUS. That hand has now been wi… [+13759 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Uncle",
+      "Step",
+      "School",
+      "Aid",
+      "Sam",
+      "Grad",
+      "States",
+      "ago",
+      "Graduate",
+      "graduates"
+    ]
   }
 ]
