@@ -224015,5 +224015,65 @@
       "Smoothly",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-03/france-s-ayvens-markets-200m-dual-tranche-syndicated-loan",
+    "title": "France’s Ayvens Markets £200m Dual-Tranche Syndicated Loan",
+    "fetched_on": "2025-12-03T04:30:31.019448+00:00",
+    "content": "Ayvens SA, a French fleet managing and car leasing company, is marketing a £200m ($264m) dual-tranche bullet loan, according to a person familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ayvens",
+      "Dual-Tranche",
+      "Markets",
+      "Loan",
+      "Syndicated",
+      "French",
+      "France",
+      "company",
+      "matter",
+      "fleet"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/plaints-against-credit-bureaus-up-4-times-in-3-years/articleshow/125708492.cms",
+    "title": "Plaints against credit bureaus up 4 times in 3 years",
+    "fetched_on": "2025-12-03T04:30:30.422791+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Plaints",
+      "times",
+      "years",
+      "loan",
+      "credit",
+      "bureaus",
+      "CalculatorDetermine",
+      "monthly",
+      "installment"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/economic-growth-to-boost-credit-demand-says-pnb-ceo/articleshow/125708454.cms",
+    "title": "Economic growth to boost credit demand, says PNB CEO",
+    "fetched_on": "2025-12-03T04:30:30.422791+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PNB",
+      "CEO",
+      "EMI",
+      "Economic",
+      "demand",
+      "loan",
+      "growth",
+      "boost",
+      "credit",
+      "CalculatorDetermine"
+    ]
   }
 ]
