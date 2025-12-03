@@ -224075,5 +224075,65 @@
       "credit",
       "CalculatorDetermine"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/luke-charles-stafford-talks-about-his-acting-career-and-new-music/article",
+    "title": "Luke Charles Stafford talks about his acting career and new music",
+    "fetched_on": "2025-12-03T05:21:33.382607+00:00",
+    "content": "Luke Charles Stafford. Photo Credit: Michael Roud.\r\nActor and musician Luke Charles Stafford chatted about his acting career, new music, and being a part of the digital age.\r\nThe important thing in l… [+7215 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Charles",
+      "Stafford",
+      "Luke",
+      "acting",
+      "Credit",
+      "Michael",
+      "Roud",
+      "career",
+      "music",
+      "talks"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18916054-amex-offers-10-cash-back-on-single-cvs-b-m-purchase-up-to-10-ymmv",
+    "title": "AmEx offers: 10% cash back on single CVS B&M purchase, up to $10, YMMV (4 replies)",
+    "fetched_on": "2025-12-03T05:21:33.382607+00:00",
+    "content": "Saw this offer on my MR-accruing cards, not CB (BCE) cards.DetailsEarn 10% back as a one-time statement credit after using your enrolled eligible Card to make a single purchase in-store at CVS by 12/… [+1536 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "YMMV",
+      "BCE",
+      "CVS",
+      "replies",
+      "cards.DetailsEarn",
+      "chars",
+      "AmEx",
+      "cash",
+      "back",
+      "single"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/can-you-pay-a-credit-card-bill-with-another-card-here-s-what-actually-works-11764587476387.html",
+    "title": "Can you pay a credit card bill with another card? Here’s what actually works",
+    "fetched_on": "2025-12-03T05:21:33.382607+00:00",
+    "content": "Using one credit card to repay the debt or bill on another credit card is generally not permitted by banking institutions in the country. This is done to keep overall debt in check.\r\nThat said, there… [+3195 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "credit",
+      "bill",
+      "pay",
+      "debt",
+      "country",
+      "chars",
+      "works",
+      "repay",
+      "generally"
+    ]
   }
 ]
