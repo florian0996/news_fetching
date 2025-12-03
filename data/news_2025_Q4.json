@@ -224301,5 +224301,225 @@
       "Lending",
       "Buy"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-03/thames-water-s-debt-pile-grows-as-restructuring-talks-drag-on",
+    "title": "Thames Water’s Debt Pile Grows as Restructuring Talks Drag On",
+    "fetched_on": "2025-12-03T08:31:48.428637+00:00",
+    "content": "Thames Water reported a ballooning debt pile as negotiations continue to try to agree on a creditor-led rescue deal.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Water",
+      "Thames",
+      "Debt",
+      "Pile",
+      "Grows",
+      "Restructuring",
+      "Talks",
+      "Drag",
+      "deal",
+      "reported"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-03/belgium-rejects-eu-proposal-to-tap-russian-funds-for-ukraine-aid",
+    "title": "Belgium Rejects EU Proposal to Tap Russian Funds for Ukraine Aid",
+    "fetched_on": "2025-12-03T08:31:48.659458+00:00",
+    "content": "Belgium dismissed the European Union’s legal proposal to tap frozen Russian assets to back a loan for Ukraine.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ukraine",
+      "Russian",
+      "Proposal",
+      "Tap",
+      "Belgium",
+      "Rejects",
+      "Funds",
+      "Aid",
+      "European",
+      "Union"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-03/uk-fca-to-end-pause-on-handling-car-loan-complaints-on-may-31",
+    "title": "UK FCA to End Pause on Handling Car Loan Complaints on May 31",
+    "fetched_on": "2025-12-03T08:31:49.712542+00:00",
+    "content": "The UK’s Financial Conduct Authority has said it will allow firms to restart processing of some car loan complaints from May 31, part of a push by the regulator to move forward with an estimated £11 billion ($14.6 billion) compensation program for consumers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Loan",
+      "Car",
+      "Complaints",
+      "FCA",
+      "End",
+      "Pause",
+      "Handling",
+      "Financial",
+      "Conduct"
+    ]
+  },
+  {
+    "source": "Protothema.gr [NewsAPI]",
+    "url": "https://en.protothema.gr/2025/12/02/the-messages-sent-by-greek-bankers-from-london-credit-expansion-at-the-center/",
+    "title": "The messages sent by Greek bankers from London: Credit expansion at the center",
+    "fetched_on": "2025-12-03T08:31:47.654398+00:00",
+    "content": "High profits, strong returns, significant credit expansion, and ultimately the differentiated strategies of each bank were discussed yesterday (1/12) in London between the management teams of Greek b… [+3577 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Greek",
+      "London",
+      "Credit",
+      "chars",
+      "expansion",
+      "High",
+      "profits",
+      "strong",
+      "returns",
+      "significant"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2025/12/02/ecb-refuses-to-provide-backstop-for-140bn-ukraine-loan/",
+    "title": "ECB refuses to provide backstop for €140bn Ukraine loan",
+    "fetched_on": "2025-12-03T08:31:47.654398+00:00",
+    "content": "The European Central Bank has refused to backstop a 140 billion payment to Ukraine, dealing a blow to an European Union (EU) plan to raise a reparations loan backed by frozen Russian assets.\r\nThe ECB… [+4040 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ukraine",
+      "European",
+      "Union",
+      "Central",
+      "Bank",
+      "Russian",
+      "ECB",
+      "backstop",
+      "loan",
+      "billion"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/hsbc-credit-card-reward-points-should-you-transfer-to-marriott-bonvoy-for-the-40-bonus-11764661113481.html",
+    "title": "HSBC credit card reward points: Should you transfer to Marriott Bonvoy for the 40% bonus?",
+    "fetched_on": "2025-12-03T08:31:47.654398+00:00",
+    "content": "Banks occasionally offer bonus points for transferring credit card reward points to a partner program. The partner program can be an airline frequent flyer program (FFP) or a hotel loyalty program. C… [+6338 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HSBC",
+      "Marriott",
+      "Bonvoy",
+      "points",
+      "card",
+      "reward",
+      "program",
+      "credit",
+      "bonus",
+      "FFP"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/68491b0c1266b28b",
+    "title": "Bank of England sees risks from AI, private credit and gilt repo in half-yearly update",
+    "fetched_on": "2025-12-03T08:31:47.654398+00:00",
+    "content": "Bitcoin price today: slightly up at $87k after sharp selloff; crypto stocks slideBy David MillikenLONDON, Dec 2 (Reuters) - The Bank of England said risks to Britains financial system had risen this … [+142 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec",
+      "Reuters",
+      "England",
+      "chars",
+      "Bank",
+      "Bitcoin",
+      "David",
+      "Britains",
+      "private",
+      "today"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6cdddb324e27a261",
+    "title": "Hong Kong taps Value Partners, 9 others to manage US$385 million residency fund",
+    "fetched_on": "2025-12-03T08:31:47.654398+00:00",
+    "content": "Hong Kong Investment Corp (HKIC), the governments investment arm, on Tuesday appointed 10 asset managers spanning venture capital, private equity, private credit and hedge funds to oversee at least H… [+142 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HKIC",
+      "Kong",
+      "chars",
+      "Partners",
+      "Corp",
+      "Hong",
+      "private",
+      "Investment",
+      "Tuesday",
+      "million"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/8f36e97aec077e2c",
+    "title": "FPC lowers U.K. bank capital benchmark to boost lending",
+    "fetched_on": "2025-12-03T08:31:47.654398+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Apples AI chief retiring? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Shopify's Cyber Monday outage ha… [+712 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "FPC",
+      "return",
+      "false",
+      "Apples",
+      "lowers",
+      "bank",
+      "lending"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/loan/personal-loan/how-to-increase-your-chances-of-getting-personal-loan-approval-in-2025/articleshow/125712831.cms",
+    "title": "How to increase your chances of getting personal loan approval in 2025",
+    "fetched_on": "2025-12-03T08:31:47.654398+00:00",
+    "content": "The process of applying for a personal loan is usually simple. You fill out an application form, and the lender reviews it before approving your request. In some cases, banks even approach you direct… [+4289 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "personal",
+      "loan",
+      "simple",
+      "increase",
+      "chances",
+      "approval",
+      "process",
+      "applying",
+      "chars",
+      "form"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/how-data-driven-rural-lending-can-transform-india-s-credit-ecosystem-and-boost-growth-credit-score-loans-11764660031391.html",
+    "title": "How data-driven rural lending can transform India’s credit ecosystem and boost growth",
+    "fetched_on": "2025-12-03T08:31:47.654398+00:00",
+    "content": "India has long been an agrarian economy, and rural communities continue to play a central role in the countrys growth story. While urbanisation has accelerated over the decades, Indias aspirations ca… [+4291 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "rural",
+      "growth",
+      "economy",
+      "story",
+      "data-driven",
+      "lending",
+      "transform",
+      "credit",
+      "ecosystem"
+    ]
   }
 ]
