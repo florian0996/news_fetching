@@ -224252,5 +224252,54 @@
       "bills",
       "high"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/legal/will/man-sells-delhi-property-shifts-to-australia-tax-dept-adds-rs-40-lakh-as-unexplained-cash-credit-but-he-wins-in-itat-delhi/articleshow/125710590.cms",
+    "title": "Man sells Delhi property, shifts to Australia; tax dept adds Rs 40 lakh as unexplained cash credit, but he wins in ITAT Delhi",
+    "fetched_on": "2025-12-03T07:23:22.324217+00:00",
+    "content": "On November 12, 2025, the Income Tax Appellate Tribunal (ITAT), Delhi, ruled that taxpayers can claim Section 54 capital gains tax exemption on the sale of an Indian residential property even if the … [+8139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delhi",
+      "ITAT",
+      "Australia",
+      "November",
+      "Tribunal",
+      "Section",
+      "chars",
+      "tax",
+      "Income",
+      "Appellate"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/do-you-need-a-credit-card-200511280.html",
+    "title": "Do you need a credit card?",
+    "fetched_on": "2025-12-03T07:23:44.775881+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/business/buy-now-pay-later-companies-asked-to-share-lending-practices-8b6cec8e?siteid=yhoof2&yptr=yahoo",
+    "title": "Buy Now, Pay Later Companies Asked to Share Lending Practices",
+    "fetched_on": "2025-12-03T07:23:44.776185+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pay",
+      "Practices",
+      "Companies",
+      "Asked",
+      "Share",
+      "Lending",
+      "Buy"
+    ]
   }
 ]
