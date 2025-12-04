@@ -227720,5 +227720,125 @@
       "Ayala",
       "profession"
     ]
+  },
+  {
+    "source": "Insurance Journal [NewsAPI]",
+    "url": "https://www.insurancejournal.com/news/international/2025/12/03/849615.htm",
+    "title": "Bank of England Sees Rising Financial Risks From AI and Lending",
+    "fetched_on": "2025-12-04T06:34:34.841115+00:00",
+    "content": "The Bank of England said on Tuesday that threats to Britain’s financial system had risen this year due to stretched valuations of companies investing in artificial intelligence, risky lending and bet… [+4164 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "England",
+      "Bank",
+      "chars",
+      "Financial",
+      "Lending",
+      "Rising",
+      "Risks",
+      "Tuesday",
+      "Britain",
+      "intelligence"
+    ]
+  },
+  {
+    "source": "Hurriyet Daily News [NewsAPI]",
+    "url": "https://www.hurriyetdailynews.com/consumers-cash-out-gold-cryptocurrencies-to-buy-cars-216400",
+    "title": "Consumers cash out gold, cryptocurrencies to buy cars",
+    "fetched_on": "2025-12-04T06:34:34.841115+00:00",
+    "content": "ISTANBUL\r\nTürkiyes automotive market broke another record in November, with sales surging as consumers shifted away from gold and cryptocurrencies and took advantage of easing credit conditions.\r\nAcc… [+1032 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "ISTANBUL",
+      "Türkiyes",
+      "conditions",
+      "Consumers",
+      "gold",
+      "cryptocurrencies",
+      "Acc",
+      "chars",
+      "cash"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/sport/soccer/premier-league/daniel-mcdonnell-serenity-around-keith-andrews-during-a-daunting-week-is-a-credit-to-the-brentford-way/a227024337.html",
+    "title": "Daniel McDonnell: Serenity around Keith Andrews during a daunting week is a credit to the Brentford way",
+    "fetched_on": "2025-12-04T06:34:34.841115+00:00",
+    "content": "North London double-header offers insight into pros and cons of how the other half lives\r\nFor Keith Andrews, the first week in December will provide a fascinating double-header as the latest step on … [+235 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Keith",
+      "Andrews",
+      "Serenity",
+      "chars",
+      "Brentford",
+      "North",
+      "London",
+      "December",
+      "week",
+      "double-header"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/666afc168016c4d8",
+    "title": "UK banks turn to AI for fraud prevention and to improve services",
+    "fetched_on": "2025-12-04T06:34:34.841115+00:00",
+    "content": "Tools help detect organised crime, automate lending checks and deliver personalised financial offerings\r\nThis story appeared on ft.com, 2025-12-03 05:00:07.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tools",
+      "crime",
+      "automate",
+      "ft.com",
+      "banks",
+      "turn",
+      "fraud",
+      "prevention",
+      "improve",
+      "services"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/modi-trump-huglomacy-in-deep-freeze-congress-hits-out-after-us-again-credits-trump-for-india-pakistan-ceasefire/articleshow/125734483.cms",
+    "title": "‘Modi-Trump huglomacy in deep freeze’: Congress hits out after US again credits Trump for India-Pakistan ceasefire",
+    "fetched_on": "2025-12-04T06:34:34.841115+00:00",
+    "content": "The Congress on Wednesday took a swipe at Prime Minister Narendra Modi over repeated claims by the US that President Donald Trump brokered peace between India and Pakistan, saying \"no wonder the Modi… [+2794 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Congress",
+      "Trump",
+      "Modi",
+      "Pakistan",
+      "chars",
+      "Wednesday",
+      "Prime",
+      "Minister",
+      "Narendra",
+      "President"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/repayment-plan-set-transform-student-182950319.html",
+    "title": "New Repayment Plan Set To Transform Student Loans. Find Out If Your Costs Will Increase or Decrease",
+    "fetched_on": "2025-12-04T06:35:06.341404+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loans",
+      "Repayment",
+      "Plan",
+      "Set",
+      "Transform",
+      "Student",
+      "Decrease",
+      "Costs",
+      "Increase",
+      "Find"
+    ]
   }
 ]
