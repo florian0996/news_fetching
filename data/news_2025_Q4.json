@@ -228500,5 +228500,42 @@
       "personal",
       "loans"
     ]
+  },
+  {
+    "source": "CNET [NewsAPI]",
+    "url": "https://www.cnet.com/tech/services-and-software/how-to-protect-your-computer-from-threats/",
+    "title": "Thousands of Computer Viruses Are Created Every Day. Here’s How to Protect Your Computer From Cyberattacks",
+    "fetched_on": "2025-12-04T13:37:54.080162+00:00",
+    "content": "Our computers store a lot of important information about us, including our addresses, passwords and credit card information. Viruses and other malware can be used to steal this data, slow down our de… [+15559 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Created",
+      "Computer",
+      "Thousands",
+      "Viruses",
+      "Protect",
+      "Cyberattacks",
+      "information",
+      "computers",
+      "chars"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/trucking-credit-metrics-bmo-slide-125352275.html",
+    "title": "Trucking credit metrics at BMO slide as the business gets smaller",
+    "fetched_on": "2025-12-04T13:38:15.821761+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BMO",
+      "Trucking",
+      "smaller",
+      "credit",
+      "metrics",
+      "slide",
+      "business"
+    ]
   }
 ]
