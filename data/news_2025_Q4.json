@@ -227452,5 +227452,85 @@
       "announced",
       "inclusion"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-04/finetoday-owners-to-get-payout-from-350-million-goldman-loan",
+    "title": "Shareholders of FineToday to Get Payout Funded by $350 Million Goldman Loan",
+    "fetched_on": "2025-12-04T03:20:43.110836+00:00",
+    "content": "The shareholders of Japanese personal care business FineToday Holdings Co. will receive dividend payouts funded by a $350 million private credit loan, according to people familiar with the matter, adding to a growing trend of dividend recapitalizations backed by such financings.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Funded",
+      "Million",
+      "Loan",
+      "Goldman",
+      "Japanese",
+      "Holdings",
+      "Shareholders",
+      "matter",
+      "adding",
+      "financings"
+    ]
+  },
+  {
+    "source": "Thebridge.jp [NewsAPI]",
+    "url": "https://thebridge.jp/2025/12/gravis-robotics-23m-series-a-autonomous-construction-equipment-iq-capital-zacua",
+    "title": "ショベルカーを「自律ロボット」に変える——建設現場の人手不足に挑むスイスGravis Robotics",
+    "fetched_on": "2025-12-04T03:20:42.292421+00:00",
+    "content": "1128 Gravis Robotics IQ Capital Zacua Ventures Series A 2,300Pear VC Nesma &amp; Partners CVC ImadSunna VenturesArmada Investment Holcim EU OEM\r\nImage Credit : Gravis Robotics\r\nGravis Gravis Rack LiD… [+440 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gravis",
+      "Robotics",
+      "Nesma",
+      "Partners",
+      "Credit",
+      "chars",
+      "Capital",
+      "Zacua",
+      "Ventures",
+      "Series"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/rubicon-organics-announces-closing-of-its-previously-announced-credit-agreements-with-community-savings-credit-union",
+    "title": "Rubicon Organics Announces Closing of its Previously Announced Credit Agreements with Community Savings Credit Union",
+    "fetched_on": "2025-12-04T03:20:42.292421+00:00",
+    "content": "VANCOUVER, British Columbia, Dec. 02, 2025 (GLOBE NEWSWIRE) Rubicon Organics Inc. (TSXV: ROMJ) (OTCQX: ROMJF) (Rubicon Organics, Rubicon or the Company), Canadas leading premium licensed producer foc… [+4952 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rubicon",
+      "Credit",
+      "Dec.",
+      "Organics",
+      "VANCOUVER",
+      "British",
+      "Columbia",
+      "GLOBE",
+      "NEWSWIRE",
+      "Announces"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/03/3198502/0/en/Rubicon-Organics-Announces-Closing-of-its-Previously-Announced-Credit-Agreements-with-Community-Savings-Credit-Union.html",
+    "title": "Rubicon Organics Announces Closing of its Previously Announced Credit Agreements with Community Savings Credit Union",
+    "fetched_on": "2025-12-04T03:20:42.292421+00:00",
+    "content": "VANCOUVER, British Columbia, Dec. 02, 2025 (GLOBE NEWSWIRE) -- Rubicon Organics Inc. (TSXV: ROMJ) (OTCQX: ROMJF) (Rubicon Organics, Rubicon or the Company), Canadas leading premium licensed producer … [+4199 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rubicon",
+      "Credit",
+      "Dec.",
+      "Organics",
+      "VANCOUVER",
+      "British",
+      "Columbia",
+      "GLOBE",
+      "NEWSWIRE",
+      "Announces"
+    ]
   }
 ]
