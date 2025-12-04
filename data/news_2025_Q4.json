@@ -227840,5 +227840,45 @@
       "Increase",
       "Find"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/03/3198563/0/en/Wholesale-Banking-unit-expands-lending-portfolio-with-EUR-12-5million-secured-loan-to-leading-Baltic-Fintech-Placet-Group.html",
+    "title": "Wholesale Banking unit expands lending portfolio with EUR 12.5million secured loan to leading Baltic Fintech Placet Group",
+    "fetched_on": "2025-12-04T07:22:49.596999+00:00",
+    "content": "Zug, 03 November 2025 Multitude AG, a listed European FinTech company, offering digital lending and online banking services to consumers, small and medium-sized enterprises, and other FinTechs (WKN: … [+4387 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "WKN",
+      "EUR",
+      "Zug",
+      "Multitude",
+      "chars",
+      "Banking",
+      "Baltic",
+      "Placet",
+      "Group"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/12/03/government-reviews-household-debt-as-card-bnpl-use-rises-says-lim-hui-ying",
+    "title": "Government reviews household debt as card, BNPL use rises, says Lim Hui Ying",
+    "fetched_on": "2025-12-04T07:22:49.596999+00:00",
+    "content": "KUALA LUMPUR: Credit and charge card use on e-commerce platforms has increased household credit purchases, says Deputy Finance Minister Lim Hui Ying.\r\nShe said these cards remain a main tool for cons… [+2047 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hui",
+      "Lim",
+      "Ying",
+      "BNPL",
+      "LUMPUR",
+      "Credit",
+      "KUALA",
+      "Deputy",
+      "Finance",
+      "Minister"
+    ]
   }
 ]
