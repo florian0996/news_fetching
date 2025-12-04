@@ -230047,5 +230047,145 @@
       "big",
       "built"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-04/sofi-technologies-seeks-to-raise-1-5-billion-in-share-sale",
+    "title": "SoFi Technologies Seeks to Raise $1.5 Billion in Share Sale",
+    "fetched_on": "2025-12-04T22:19:40.877106+00:00",
+    "content": "SoFi Technologies Inc. is seeking to raise $1.5 billion in a share sale, as the financial technology firm diversifies beyond lending into other products.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raise",
+      "Billion",
+      "Technologies",
+      "Share",
+      "Sale",
+      "Seeks",
+      "Inc.",
+      "SoFi",
+      "products",
+      "seeking"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-04/blackstone-leads-2-billion-loan-to-ontario-teachers-mitratech",
+    "title": "Blackstone Leads $2 Billion Loan to Ontario Teachers’ Mitratech",
+    "fetched_on": "2025-12-04T22:19:40.463563+00:00",
+    "content": "Private credit firms led by Blackstone Inc. are supplying more than $2 billion to help software maker Mitratech refinance a bank loan package, according to people with knowledge of the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Mitratech",
+      "Leads",
+      "Blackstone",
+      "Loan",
+      "Ontario",
+      "Teachers’",
+      "Private",
+      "Inc.",
+      "package"
+    ]
+  },
+  {
+    "source": "Motley Fool Australia [NewsAPI]",
+    "url": "https://www.fool.com.au/2025/12/04/bendigo-and-adelaide-bank-unveils-racq-bank-acquisition-in-investor-update/",
+    "title": "Bendigo and Adelaide Bank unveils RACQ Bank acquisition in investor update",
+    "fetched_on": "2025-12-04T22:19:40.027675+00:00",
+    "content": "The Bendigo and Adelaide Bank Ltd (ASX: BEN) share price is in focus today as the bank announces an agreement to acquire RACQ Bank's retail lending assets and deposits, with over 90,000 customers. Th… [+2662 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Adelaide",
+      "RACQ",
+      "ASX",
+      "BEN",
+      "Bendigo",
+      "customers",
+      "share",
+      "deposits",
+      "unveils"
+    ]
+  },
+  {
+    "source": "BleepingComputer [NewsAPI]",
+    "url": "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/",
+    "title": "Marquis data breach impacts over 74 US banks, credit unions",
+    "fetched_on": "2025-12-04T22:19:40.027675+00:00",
+    "content": "Financial software provider Marquis Software Solutions is warning that it suffered a data breach that impacted dozens of banks and credit unions across the US.\r\nMarquis Software Solutions provides da… [+7107 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "software",
+      "Solutions",
+      "Financial",
+      "Marquis",
+      "data",
+      "breach",
+      "credit",
+      "unions",
+      "banks",
+      "impacts"
+    ]
+  },
+  {
+    "source": "The New Republic [NewsAPI]",
+    "url": "https://newrepublic.com/post/203936/donald-trump-backs-pete-hegseth-boat-strikes",
+    "title": "Trump Backs Pete Hegseth on Boat Strikes Even as GOP Turns on Him",
+    "fetched_on": "2025-12-04T22:19:40.027675+00:00",
+    "content": "Larger companies are still hiring, wrote Heather Long, chief economist at Navy Federal Credit Union, on X. Smaller firms (under 50 workers) are doing the layoffs. Its been a very tough year for small… [+724 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Long",
+      "Union",
+      "Backs",
+      "Pete",
+      "Hegseth",
+      "Boat",
+      "Strikes",
+      "GOP",
+      "Turns",
+      "Larger"
+    ]
+  },
+  {
+    "source": "The New Republic [NewsAPI]",
+    "url": "https://newrepublic.com/post/203933/trump-name-us-institute-peace-headquarters-building",
+    "title": "Trump Plasters His Own Name on U.S. Institute of Peace Headquarters",
+    "fetched_on": "2025-12-04T22:19:40.027675+00:00",
+    "content": "Larger companies are still hiring, wrote Heather Long, chief economist at Navy Federal Credit Union, on X. Smaller firms (under 50 workers) are doing the layoffs. Its been a very tough year for small… [+724 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Institute",
+      "Long",
+      "Union",
+      "Plasters",
+      "Peace",
+      "Headquarters",
+      "Larger",
+      "Heather",
+      "Navy",
+      "Federal"
+    ]
+  },
+  {
+    "source": "The New Republic [NewsAPI]",
+    "url": "https://newrepublic.com/post/203930/jack-smith-testify-donald-trump-republicans-public",
+    "title": "Jack Smith to Testify on Trump—But GOP Won’t Let It Be Public",
+    "fetched_on": "2025-12-04T22:19:40.027675+00:00",
+    "content": "Larger companies are still hiring, wrote Heather Long, chief economist at Navy Federal Credit Union, on X. Smaller firms (under 50 workers) are doing the layoffs. Its been a very tough year for small… [+724 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Long",
+      "Union",
+      "Smith",
+      "Testify",
+      "GOP",
+      "Public",
+      "Larger",
+      "Heather",
+      "Navy"
+    ]
   }
 ]
