@@ -227880,5 +227880,85 @@
       "Finance",
       "Minister"
     ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/iiphone-18-pro-max-leak/",
+    "title": "The iPhone 18 Pro Max Leak That Changes Everything.",
+    "fetched_on": "2025-12-04T08:31:48.375157+00:00",
+    "content": "The iPhone 18 Pro Max is shaping up to be one of Apples most ambitious releases, blending advanced technology with thoughtful design refinements. While some updates build on the foundation of previou… [+6485 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "iPhone",
+      "Max",
+      "Leak",
+      "Apples",
+      "chars",
+      "releases",
+      "blending",
+      "refinements",
+      "previou"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/1203/1547021-european-banks-push-ahead-on-euro-stablecoin-plan/",
+    "title": "European banks push ahead on euro stablecoin plan",
+    "fetched_on": "2025-12-04T08:31:48.375157+00:00",
+    "content": "A group of 10 European banks, including ING, UniCredit and BNP Paribas, have formed a company to launch a euro-pegged stablecoin in the second half of 2026, in a move they hope will counter US domina… [+3427 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "European",
+      "ING",
+      "Paribas",
+      "chars",
+      "banks",
+      "BNP",
+      "stablecoin",
+      "including",
+      "UniCredit",
+      "domina"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/7-reasons-your-credit-card-gets-rejected-even-with-a-good-credit-score-11764747291371.html",
+    "title": "7 reasons your credit card gets rejected even with a good credit score",
+    "fetched_on": "2025-12-04T08:31:48.375157+00:00",
+    "content": "Banks usually consider a good credit score as one of the eligibility criteria for approving or rejecting credit card applications. However, just having a good credit score doesnt guarantee that your … [+7343 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "good",
+      "Banks",
+      "card",
+      "score",
+      "reasons",
+      "applications",
+      "rejected",
+      "eligibility",
+      "criteria"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ef6ab836b093313f",
+    "title": "This Private-Credit Stock Has Gotten Hit Hard. Why It Still Might Join the S&P 500",
+    "fetched_on": "2025-12-04T08:31:48.375157+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Michael Dell donate $6.25B to Trump accounts? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will EU local c… [+728 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hard",
+      "window.open",
+      "this.href",
+      "blank",
+      "Stock",
+      "Hit",
+      "return",
+      "false",
+      "Private-Credit",
+      "Join"
+    ]
   }
 ]
