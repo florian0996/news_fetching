@@ -230567,5 +230567,84 @@
       "Fantasia",
       "sale"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/robwolkenbrod/2025/12/03/aew-dynamite-results-dec-3-2025-3-ups-and-2-downs/",
+    "title": "AEW Dynamite Results (Dec. 3, 2025): 3 Ups And 2 Downs",
+    "fetched_on": "2025-12-05T04:31:20.287215+00:00",
+    "content": "Credit: All Elite Wrestling\r\nAEW Dynamite on Wednesday, Dec. 3 was driven almost entirely by the Continental Classic, and the focus helped produce one of the stronger episodes in recent weeks. The to… [+4697 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec.",
+      "AEW",
+      "Dynamite",
+      "Results",
+      "Ups",
+      "Credit",
+      "Wednesday",
+      "Classic",
+      "Elite",
+      "Wrestling"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/northern-arc-targets-30-growth-roa-of-3-8-as-retail-lending-fee-income-expand-says-ceo-ashish-mehrotra/articleshow/125743798.cms",
+    "title": "Northern Arc targets 30% growth, ROA of 3.8% as retail lending, fee income expand, says CEO Ashish Mehrotra",
+    "fetched_on": "2025-12-05T04:31:20.287215+00:00",
+    "content": "Northern Arc Capital expects its return on assets (ROA) to rise to 3.73.8% over the next two years, driven by stronger net interest margins, a growing direct-to-customer (D2C) book, and a powerful fe… [+1891 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ROA",
+      "Arc",
+      "growth",
+      "book",
+      "chars",
+      "Northern",
+      "CEO",
+      "Ashish",
+      "Mehrotra",
+      "Capital"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/blue-owl-insiders-buy-stock-16363431?siteid=yhoof2&yptr=yahoo",
+    "title": "Blue Owl Execs Bought Stock as Private-Credit Worries Hit Firm’s Funds",
+    "fetched_on": "2025-12-05T04:31:38.048911+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Funds",
+      "Owl",
+      "Execs",
+      "Bought",
+      "Stock",
+      "Worries",
+      "Hit",
+      "Firm",
+      "Blue",
+      "Private-Credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/ethzilla-buys-20-ai-lending-164531267.html",
+    "title": "ETHZilla Buys 20% of AI Lending Platform Karus in $10M Deal to Tokenize Auto Loans",
+    "fetched_on": "2025-12-05T04:31:38.049004+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buys",
+      "Deal",
+      "Loans",
+      "Lending",
+      "Platform",
+      "Karus",
+      "Tokenize",
+      "Auto",
+      "ETHZilla"
+    ]
   }
 ]
