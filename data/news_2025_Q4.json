@@ -230646,5 +230646,45 @@
       "Auto",
       "ETHZilla"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-05/verdure-targets-more-sales-of-securities-backed-by-rooftop-solar",
+    "title": "Verdure Targets More Sales of Securities Backed by Rooftop Solar",
+    "fetched_on": "2025-12-05T05:21:59.566945+00:00",
+    "content": "Verdure Fund, which last month sold South Africa’s first securities backed by loans made to small-scale solar power facilities, plans further sales, starting with an issuance in the first quarter of next year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Backed",
+      "Fund",
+      "Securities",
+      "Verdure",
+      "Sales",
+      "Solar",
+      "Targets",
+      "Rooftop",
+      "South",
+      "Africa"
+    ]
+  },
+  {
+    "source": "The Daily Caller [NewsAPI]",
+    "url": "https://dailycaller.com/2025/12/04/opinion-trumps-50-year-mortgage-plan-beats-bernies-big-government-credit-crackdown-scott-garrett/",
+    "title": "SCOTT GARRETT: Trump’s 50-Year Mortgage Plan Beats Bernie’s Big-Government Credit Crackdown",
+    "fetched_on": "2025-12-05T05:21:58.747356+00:00",
+    "content": "For nearly a century, the 30‑year mortgage has been the backbone of American homeownership. Born out of the Great Depression, it became dominant because it offered families flexibility: lower monthly… [+5973 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "SCOTT",
+      "GARRETT",
+      "Trump",
+      "Plan",
+      "Beats",
+      "Bernie",
+      "Credit",
+      "Crackdown",
+      "American"
+    ]
   }
 ]
