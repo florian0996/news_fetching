@@ -230803,5 +230803,65 @@
       "Based",
       "Fears"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a33db64c64713f97",
+    "title": "Japanese investors sue Switzerland over Credit Suisse's AT1 write-down, law firm says",
+    "fetched_on": "2025-12-05T08:30:12.554469+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did private employers cut 32,000 jobs in November? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Salesf… [+844 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Suisse",
+      "November",
+      "write-down",
+      "return",
+      "false",
+      "Switzerland",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/does-ottoneu-arbitration-correlate-to-league-standings/",
+    "title": "Does Ottoneu Arbitration Correlate to League Standings?",
+    "fetched_on": "2025-12-05T08:30:12.554469+00:00",
+    "content": "Credit: Cary Edmondson-Imagn Images\r\nThis one should be pretty quick. Chad has done all the heavy lifting analyzing how Ottoneu players handled the arbitration deadline last month; he presented a hig… [+5458 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Standings",
+      "Correlate",
+      "League",
+      "Ottoneu",
+      "Arbitration",
+      "Cary",
+      "Credit",
+      "Images",
+      "chars",
+      "quick"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/nexdash-secures-5-8-million-211337355.html",
+    "title": "NexDash secures $5.8 million seed funding for digitally connected electric truck fleet",
+    "fetched_on": "2025-12-05T08:30:33.299022+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NexDash",
+      "secures",
+      "million",
+      "fleet",
+      "seed",
+      "funding",
+      "digitally",
+      "connected",
+      "electric",
+      "truck"
+    ]
   }
 ]
