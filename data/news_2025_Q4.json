@@ -234084,5 +234084,45 @@
       "Banks'",
       "deposits"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/companies/reliance-industries-rating-raised-to-a-from-bbb-by-sp-global/article70360397.ece",
+    "title": "Reliance Industries' rating raised to 'A-' from 'BBB+' by S&P Global",
+    "fetched_on": "2025-12-06T04:24:36.166217+00:00",
+    "content": "Global rating agency S&amp;P Global Ratings has revised its rating on Reliance Industries Ltd. (RIL), raising the long-term issuer credit rating to 'A-' from 'BBB+' amid expectations of improving cas… [+3621 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Global",
+      "BBB",
+      "Reliance",
+      "Industries'",
+      "rating",
+      "RIL",
+      "raised",
+      "agency",
+      "revised",
+      "chars"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/guymartin/2025/12/04/a-hogshead-of-macallan-rolls-under-the-sothebys-hammer/",
+    "title": "A Hogshead Of Macallan Rolls Under The Sotheby’s Hammer",
+    "fetched_on": "2025-12-06T04:24:36.166217+00:00",
+    "content": "The 1993 Macallan Hogshead No. 4378: Approximately 194 bottles of pure Scots bliss.\r\nPhoto Credit: Sotheby's\r\nThe Macallan-Glenlivet Distillerys Hogshead No. 4378 does not, at first blush, look like … [+4063 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Approximately",
+      "Macallan",
+      "Hogshead",
+      "Rolls",
+      "Hammer",
+      "Scots",
+      "Sotheby",
+      "bottles",
+      "bliss",
+      "Credit"
+    ]
   }
 ]
