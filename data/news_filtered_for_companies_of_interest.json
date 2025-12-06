@@ -1,6 +1,38 @@
 {
-  "2025-12-05": {
+  "2025-12-06": {
     "status": "no company in the news"
+  },
+  "2025-12-05": {
+    "articles": [
+      {
+        "title": "Northern Arc targets 30% growth, ROA of 3.8% as retail lending, fee income expand, says CEO Ashish Mehrotra",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/northern-arc-targets-30-growth-roa-of-3-8-as-retail-lending-fee-income-expand-says-ceo-ashish-mehrotra/articleshow/125743798.cms",
+        "platforms_mentioned": [
+          "Northern Arc Capital"
+        ]
+      },
+      {
+        "title": "LendingClub's Sanborn on the State of Consumer Credit",
+        "url": "https://finance.yahoo.com/video/lendingclubs-sanborn-state-consumer-credit-222741440.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "LendingClub's Sanborn on the State of Consumer Credit",
+        "url": "https://finance.yahoo.com/video/lendingclubs-sanborn-state-consumer-credit-222741008.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "Broker's call: Northern Arc (Buy)",
+        "url": "https://www.thehindubusinessline.com/markets/brokers-call-northern-arc-buy/article70357636.ece",
+        "platforms_mentioned": [
+          "Northern Arc Capital"
+        ]
+      }
+    ]
   },
   "2025-12-04": {
     "articles": [
