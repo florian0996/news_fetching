@@ -234244,5 +234244,85 @@
       "StepPay",
       "offer"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/why-you-should-never-share-your-credit-card-otp-over-the-phone-11764915508979.html",
+    "title": "Why you should never share your credit card OTP over the phone",
+    "fetched_on": "2025-12-06T07:19:40.384896+00:00",
+    "content": "In the nations rapidly evolving digital payment ecosystems, one simple rule remains indispensable: never share your credit or debit card OTP with anyone over the phone or via text messages.\r\nFinancia… [+3760 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OTP",
+      "share",
+      "credit",
+      "card",
+      "phone",
+      "ecosystems",
+      "indispensable",
+      "messages",
+      "nations",
+      "rapidly"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/eba657ea531ef552",
+    "title": "China’s risky shadow banks back in spotlight after debt crackdown",
+    "fetched_on": "2025-12-06T07:19:40.384896+00:00",
+    "content": "Chinas crackdown on borrowing by local governments is forcing state-run entities in even some of the wealthiest provinces to tap costly credit from non-bank lenders, a stopgap that is increasing risk… [+137 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "lenders",
+      "risk",
+      "crackdown",
+      "China",
+      "Chinas",
+      "risky",
+      "shadow",
+      "banks",
+      "back"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20251205PD220/amd-lisa-su-ai-demand.html",
+    "title": "AMD's Lisa Su dismisses AI-bubble talk while it prepares taxed MI308 exports to China",
+    "fetched_on": "2025-12-06T07:19:40.384896+00:00",
+    "content": "AMD CEO Lisa Su. Credit: AFPAt WIRED's Big Interview event in San Francisco, AMD CEO Lisa Su rejected claims that the technology sector is drifting into an AI bubble. Pressed on whether the industry … [+76 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lisa",
+      "AMD",
+      "CEO",
+      "China",
+      "taxed",
+      "exports",
+      "Francisco",
+      "dismisses",
+      "AI-bubble",
+      "talk"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/e295cc10a352a08e",
+    "title": "Ex-Credit Suisse executive Andre Helfenstein to become chair of SIX exchange",
+    "fetched_on": "2025-12-06T07:19:40.384896+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Meta cutting metaverse budget? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Fed rate cut impact stocks?… [+713 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Suisse",
+      "Andre",
+      "Helfenstein",
+      "Meta",
+      "Ex-Credit"
+    ]
   }
 ]
