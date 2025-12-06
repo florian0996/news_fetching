@@ -238100,5 +238100,85 @@
       "Socure",
       "anti-fraud"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-rockefeller-center-christmas-tree-lighting-ceremony-reba-mcentire-hosts-and-various-artists-perform/article",
+    "title": "Review: Rockefeller Center Christmas Tree Lighting Ceremony, Reba McEntire hosts, and various artists perform",
+    "fetched_on": "2025-12-06T23:19:32.552757+00:00",
+    "content": "2025 Rockefeller Center Christmas Tree. Photo Credit: Noam Galai, NBC.\r\nThe Rockefeller Center Christmas 93rd annual Tree Lighting Ceremony took place on Wednesday, December 3rd, in the heart of New … [+2739 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Center",
+      "Christmas",
+      "Reba",
+      "Tree",
+      "Rockefeller",
+      "Lighting",
+      "Review",
+      "Ceremony",
+      "NBC",
+      "hosts"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/81a988380862738f",
+    "title": "US watchdogs drop post-crisis safeguard on risky lending",
+    "fetched_on": "2025-12-06T23:19:32.552757+00:00",
+    "content": "Regulators remove critical guidelines for leveraged loans after complaints from Wall Street\r\nThis story appeared on ft.com, 2025-12-05 22:20:14.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Regulators",
+      "Wall",
+      "Street",
+      "ft.com",
+      "watchdogs",
+      "drop",
+      "post-crisis",
+      "safeguard",
+      "risky",
+      "lending"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6ca654f1738191f5",
+    "title": "OCC and FDIC Withdraw ‘Overly Restrictive’ Leveraged Lending Guidance",
+    "fetched_on": "2025-12-06T23:19:32.552757+00:00",
+    "content": "The Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) withdrew two interagency leveraged lending guidance issuances, saying the guidance was overly … [+132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OCC",
+      "Lending",
+      "Guidance",
+      "FDIC",
+      "Leveraged",
+      "Overly",
+      "Withdraw",
+      "Currency",
+      "Corporation",
+      "chars"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/bank-regulation/2025/occ-and-fdic-withdraw-overly-restrictive-leveraged-lending-guidance/",
+    "title": "OCC and FDIC Withdraw ‘Overly Restrictive’ Leveraged Lending Guidance",
+    "fetched_on": "2025-12-06T23:19:32.552757+00:00",
+    "content": "The regulators rescinded the Interagency Guidance on Leveraged Lending, dated March 21, 2013, and the Frequently Asked Questions (FAQ) for Implementing March 2013 Interagency Guidance on Leveraged Le… [+1901 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Leveraged",
+      "Guidance",
+      "March",
+      "FAQ",
+      "Lending",
+      "Interagency",
+      "OCC",
+      "Withdraw",
+      "Overly",
+      "Questions"
+    ]
   }
 ]
