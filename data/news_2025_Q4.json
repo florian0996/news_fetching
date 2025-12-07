@@ -239541,5 +239541,45 @@
       "Reveal",
       "Wars"
     ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/news/almost-a-million-young-people-to-benefit-from-expanded-support-new-training-and-work-experience-opportunities",
+    "title": "Almost a million young people to benefit from expanded support, new training, and work experience opportunities",
+    "fetched_on": "2025-12-07T23:19:12.952676+00:00",
+    "content": "<ul><li>The funding will create 350,000 new workplace opportunities designed to support young people into employment.</li><li>Hundreds of thousands more young people on Universal Credit to benefit fr… [+13355 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hundreds",
+      "young",
+      "people",
+      "chars",
+      "Universal",
+      "Credit",
+      "benefit",
+      "training",
+      "create",
+      "employment."
+    ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/tv-shows/feature/one-star-trek-actor-played-three-characters-in-the-original-series-after-she-was-cut-from-the-pilot/",
+    "title": "One Star Trek Actor Played Three Characters in the Original Series (After She Was Cut From The Pilot)",
+    "fetched_on": "2025-12-07T23:19:12.952676+00:00",
+    "content": "All the credit in Star Trek goes to the characters who work on the bridge. The captain and their second-in-command are the ones calling the shots, deciding whether the ship will participate in a dang… [+3735 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Star",
+      "Trek",
+      "Characters",
+      "Series",
+      "Pilot",
+      "Actor",
+      "Played",
+      "Original",
+      "Cut",
+      "bridge"
+    ]
   }
 ]
