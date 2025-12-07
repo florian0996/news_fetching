@@ -239361,5 +239361,85 @@
       "solar",
       "deadline"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/us-loses-financing-edge-as-asia-borrows-in-euros-credit-weekly",
+    "title": "US Loses Financing Edge as Asia Borrows in Euros: Credit Weekly",
+    "fetched_on": "2025-12-07T19:16:50.842909+00:00",
+    "content": "(Bloomberg) Asian economies arent just shifting their trading ties to fight against US tariffs, theyre also increasingly moving their financing to other markets, underscoring how President Donald Tru… [+5155 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "chars",
+      "Euros",
+      "Credit",
+      "Weekly",
+      "Asian",
+      "Tru",
+      "Financing",
+      "Loses",
+      "Edge"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392713/60-years-on-the-kecksburg-ufo-mystery-continues-to-intrigue",
+    "title": "60 years on, the Kecksburg UFO mystery continues to intrigue",
+    "fetched_on": "2025-12-07T19:16:50.842909+00:00",
+    "content": "The UFO Phenomenon\r\nBy T.K. RandallDecember 6, 2025 ·  0 commentsWhat fell from the sky that day ? Image Credit: Bing AI / Dall-E 3On December 9th, 1965, the woods near Kecksburg, Pennsylvania became… [+1900 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Kecksburg",
+      "UFO",
+      "Image",
+      "Credit",
+      "Bing",
+      "Pennsylvania",
+      "RandallDecember",
+      "Dall-E",
+      "chars"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4356230/posts",
+    "title": "Astronomy Picture of the Day - The Images not Posted during the Government Shutdown - IC 1805: The Heart Nebula",
+    "fetched_on": "2025-12-07T19:16:50.842909+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - The Images not Posted during the Government Shutdown - IC 1805: The Heart Nebula\r\nNASA ^\r\n | 21 Oct, 2025\r\n | Image Credit &amp; Copyright: Toni Fabi… [+2759 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Shutdown",
+      "Picture",
+      "Posted",
+      "Government",
+      "Heart",
+      "Images",
+      "Nebula",
+      "Skip",
+      "Astronomy"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/88f408b56854f419",
+    "title": "US Loses Financing Edge as Asia Borrows in Euros: Credit Weekly",
+    "fetched_on": "2025-12-07T19:16:50.842909+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact will Netflix-Warner Bros merger have? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Waymo recalling … [+744 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Euros",
+      "Credit",
+      "Weekly",
+      "return",
+      "false",
+      "Loses",
+      "Financing"
+    ]
   }
 ]
