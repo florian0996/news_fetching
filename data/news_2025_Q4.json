@@ -238512,5 +238512,25 @@
       "policy",
       "Hours"
     ]
+  },
+  {
+    "source": "Live Science [NewsAPI]",
+    "url": "https://www.livescience.com/health/cancer/science-history-female-chemist-initially-barred-from-research-helps-helps-develop-drug-for-remarkable-but-short-lived-recovery-in-children-with-leukemia-dec-6-1954",
+    "title": "Science history: Female chemist initially barred from research helps helps develop drug for remarkable-but-short-lived recovery in children with leukemia — Dec. 6, 1954",
+    "fetched_on": "2025-12-07T07:20:05.546801+00:00",
+    "content": "Milestone: Chemotherapy agent sends leukemia into remission\r\nDate: Dec. 6, 1954\r\nWhere: Sloan Kettering Institute and Weill Cornell Medical College in New York\r\nWho: Gertrude Elion and colleagues\r\nIn… [+3675 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec.",
+      "Milestone",
+      "chars",
+      "Female",
+      "Chemotherapy",
+      "Date",
+      "Sloan",
+      "Gertrude",
+      "Kettering",
+      "Institute"
+    ]
   }
 ]
