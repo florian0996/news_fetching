@@ -239067,5 +239067,39 @@
       "removed",
       "applied"
     ]
+  },
+  {
+    "source": "CNBC [NewsAPI]",
+    "url": "https://www.cnbc.com/2025/12/06/4-good-enough-financial-moves-to-reach-your-goals-with-less-time-and-hassle-from-a-money-expert.html",
+    "title": "4 'good enough' financial moves to reach your goals with 'less time and hassle,' from a money expert",
+    "fetched_on": "2025-12-07T15:19:18.726565+00:00",
+    "content": "When it comes to managing your finances, you may feel like you have to do the most: reap the most rewards from your credit cards, pay as little as you can in taxes, earn the highest returns on your i… [+6367 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "good",
+      "financial",
+      "hassle",
+      "finances",
+      "reap",
+      "cards",
+      "pay",
+      "taxes",
+      "earn"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/personal-finance/taxes/tax-credits-retirement-dependents-learning-17385773?siteid=yhoof2&yptr=yahoo",
+    "title": "Lower Your Taxes With These Five Often-Missed Credits",
+    "fetched_on": "2025-12-07T15:19:40.215109+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credits",
+      "Taxes",
+      "Lower",
+      "Often-Missed"
+    ]
   }
 ]
