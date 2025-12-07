@@ -239461,5 +239461,45 @@
       "Connections",
       "Hints"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6a4dc64d8ccf3cd7",
+    "title": "At 22, she discovered there was $200,000 in debt in her name. It took a decade to get it removed",
+    "fetched_on": "2025-12-07T21:18:01.479492+00:00",
+    "content": "When Kristin Collier applied for a credit card at age 22, she said, she was surprised to learn that her application was denied. That's when she discovered that there was over $200,000 in debt under h… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "discovered",
+      "debt",
+      "Kristin",
+      "Collier",
+      "chars",
+      "age",
+      "denied",
+      "decade",
+      "removed",
+      "applied"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/football/videos/c8jwplzrw02o",
+    "title": "'It feels like a win today' - Farke on Leeds thrilling draw with Liverpool",
+    "fetched_on": "2025-12-07T21:18:01.479492+00:00",
+    "content": "Leeds United boss Daniel Farke gives \"all the credit to the players\" after they secured a dramatic 3-3 draw against Liverpool.\r\nMATCH REPORT: Leeds 3-3 Liverpool \r\nAvailable to UK users only.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Farke",
+      "Leeds",
+      "Liverpool",
+      "United",
+      "Daniel",
+      "draw",
+      "today",
+      "players",
+      "MATCH",
+      "REPORT"
+    ]
   }
 ]
