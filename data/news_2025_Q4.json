@@ -238452,5 +238452,65 @@
       "Leveraged",
       "Post-Crisis"
     ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18934354-19-99-amazon-basics-6-sheet-cross-cut-paper-shredder-and-credit-card-shredder-3-7-gallon-at-woot",
+    "title": "$19.99*:Amazon Basics 6-Sheet Cross-Cut Paper Shredder and Credit Card Shredder, 3.7 Gallon at Woot! (1 replies)",
+    "fetched_on": "2025-12-07T06:30:56.371048+00:00",
+    "content": "I've never known a shredder that lives up to its rating for \"number of sheets\". And this says only 6.I think it's just something we all adapt to, when the motor tries to stall as you approach the rea… [+1045 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amazon",
+      "Basics",
+      "Gallon",
+      "Woot",
+      "Paper",
+      "Credit",
+      "Card",
+      "Shredder",
+      "Cross-Cut",
+      "replies"
+    ]
+  },
+  {
+    "source": "Supa.works [NewsAPI]",
+    "url": "https://supa.works/",
+    "title": "Show HN: OpenAI-compatible API hosted on German bare metal (GDPR-compliant)",
+    "fetched_on": "2025-12-07T06:30:56.371048+00:00",
+    "content": "Trusted by City of Leipzig\r\nThe sovereign AI Cloud for European Agencies. Deploy Llama 3 and Mistral on German servers via\r\na single API.\r\nNo credit card required",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trusted",
+      "Agencies",
+      "GDPR-compliant",
+      "German",
+      "City",
+      "Leipzig",
+      "Cloud",
+      "European",
+      "API",
+      "Show"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/bob-bank-of-india-cut-repo-linked-interest-rate-after-rbis-policy-rate-cut-others-to-follow-suit/article70364680.ece",
+    "title": "BoB, Bank of India cut repo-linked interest rate after RBI’s policy rate cut, others to follow suit",
+    "fetched_on": "2025-12-07T06:30:56.371048+00:00",
+    "content": "Hours after the RBI slashed key policy rate, state-owned lenders, Bank of Baroda (BoB) and Bank of India, on Friday announced an interest rate cut on loans linked to repo rate by 25 basis points, a m… [+1878 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "BoB",
+      "rate",
+      "India",
+      "RBI",
+      "cut",
+      "Baroda",
+      "interest",
+      "policy",
+      "Hours"
+    ]
   }
 ]
