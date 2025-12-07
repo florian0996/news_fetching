@@ -239501,5 +239501,45 @@
       "MATCH",
       "REPORT"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-07/altice-international-asks-creditors-to-send-copy-of-cooperation-agreement",
+    "title": "Altice International Asks Creditors to Send Copy of Cooperation Agreement",
+    "fetched_on": "2025-12-07T22:19:49.479379+00:00",
+    "content": "Altice International has asked a group of secured creditors to send a copy of the cooperation agreement that binds them to act together in negotiations with the company before starting any potential discussions to restructure its balance sheet, according to a letter seen by Bloomberg.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "International",
+      "Altice",
+      "Creditors",
+      "Send",
+      "Copy",
+      "Cooperation",
+      "Agreement",
+      "Bloomberg",
+      "sheet",
+      "asked"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/12/disney-world-star-wars-project-revealed-emd1/",
+    "title": "The Force Awakens at Disney World: New ‘Star Wars’ Project Gets Official Reveal",
+    "fetched_on": "2025-12-07T22:19:48.387921+00:00",
+    "content": "Disney World has revealed a new Star Wars project inside Galaxy’s Edge. Here’s everything we know.\r\nCredit: rickpilot_2000, Flickr\r\nSomething Strange Happened at Galaxys Edge\r\nFor months, visitors to… [+4252 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "World",
+      "Star",
+      "Project",
+      "Force",
+      "Awakens",
+      "Wars’",
+      "Official",
+      "Reveal",
+      "Wars"
+    ]
   }
 ]
