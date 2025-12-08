@@ -239975,5 +239975,85 @@
       "Sumatra",
       "Indonesian"
     ]
+  },
+  {
+    "source": "Manx Radio [NewsAPI]",
+    "url": "https://www.manxradio.com/news/isle-of-man-news/public-health-warns-dandv-is-circulating-on-the-island/",
+    "title": "Public Health warns D&V is circulating on the Island",
+    "fetched_on": "2025-12-08T10:26:08.430438+00:00",
+    "content": "Sunday, 7 December 2025 10:06\r\nPicture credit: Adobe Stock\r\nIt's issued advice for those experiencing symptoms\r\nPublic Health Isle of Man is warning that diarrhoea and vomiting (D&amp;V) is circulati… [+922 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Health",
+      "Public",
+      "chars",
+      "Sunday",
+      "Adobe",
+      "Island",
+      "Picture",
+      "Stock",
+      "Isle"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/395464/president-announces-debt-relief-for-flood-affected-aceh-farmers",
+    "title": "President announces debt relief for flood-affected Aceh farmers",
+    "fetched_on": "2025-12-08T10:26:08.430438+00:00",
+    "content": "Jakarta (ANTARA) - President Prabowo Subianto stated that the government will cancel Smallholder Business Credit (KUR) debts for Aceh farmers affected by floods and landslides.“As for KUR debts, sinc… [+2038 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANTARA",
+      "Aceh",
+      "President",
+      "KUR",
+      "Jakarta",
+      "Credit",
+      "sinc",
+      "chars",
+      "Prabowo",
+      "Subianto"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/we-have-limited-risk-jupiter-lend-addresses-solana-defi-contagion-fears/",
+    "title": "‘We have limited risk:’ Jupiter Lend addresses Solana DeFi contagion fears",
+    "fetched_on": "2025-12-08T10:26:08.430438+00:00",
+    "content": "Jupiter Lend, a leading lending platform on Solana, has faced backlash amid allegations of ‘false advertising’ about risk. \r\nAccording to critics, the platform lied about its isolated risk and its re… [+2725 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jupiter",
+      "Lend",
+      "Solana",
+      "false",
+      "risk",
+      "platform",
+      "limited",
+      "addresses",
+      "DeFi",
+      "contagion"
+    ]
+  },
+  {
+    "source": "Sky.com [NewsAPI]",
+    "url": "https://news.sky.com/story/young-people-may-lose-benefits-if-they-dont-engage-with-help-from-new-820m-scheme-government-warns-13480447",
+    "title": "Young people 'may lose benefits' if they don't engage with help from new £820m scheme",
+    "fetched_on": "2025-12-08T10:26:08.430438+00:00",
+    "content": "Young people could lose their right to universal credit if they refuse to engage with help from a new scheme without good reason, the government has warned.\r\nAlmost one million will gain from plans t… [+4098 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Young",
+      "people",
+      "engage",
+      "lose",
+      "scheme",
+      "reason",
+      "warned",
+      "benefits'",
+      "universal",
+      "credit"
+    ]
   }
 ]
