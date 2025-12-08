@@ -239915,5 +239915,65 @@
       "Rudolph",
       "Melissa"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/bank-of-maharashtra-slashes-retail-loan-rates-by-25-bps/article70368559.ece",
+    "title": "Bank of Maharashtra slashes retail loan rates by 25 bps",
+    "fetched_on": "2025-12-08T09:30:36.198956+00:00",
+    "content": "Public sector lender Bank of Maharashtra (BoM) on Sunday announced reduction in interest rates by 25 basis points on retail loans, including home, car, education and other loans linked with Repo Link… [+784 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Maharashtra",
+      "Bank",
+      "Link",
+      "BoM",
+      "car",
+      "chars",
+      "retail",
+      "rates",
+      "Public",
+      "Sunday"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-maharashtra-slashes-retail-loan-rates-by-25-bps/articleshow/125815384.cms",
+    "title": "Bank of Maharashtra slashes retail loan rates by 25 bps",
+    "fetched_on": "2025-12-08T09:30:36.198956+00:00",
+    "content": "Public sector lender Bank of Maharashtra (BoM) on Sunday announced reduction in interest rates by 25 basis points on retail loans, including home, car, education and other loans linked with Repo Link… [+736 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Maharashtra",
+      "Bank",
+      "Link",
+      "BoM",
+      "car",
+      "chars",
+      "retail",
+      "rates",
+      "Public",
+      "Sunday"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/395449/govt-moves-to-speed-up-kur-aid-for-msmes-hit-by-sumatra-disasters",
+    "title": "Govt moves to speed up KUR aid for MSMEs hit by Sumatra disasters",
+    "fetched_on": "2025-12-08T09:30:36.198956+00:00",
+    "content": "Tangerang, Banten (ANTARA) - The Indonesian government is seeking to accelerate the disbursement of its subsidized microcredit scheme, People's Business Credit (KUR), for micro, small, and medium ent… [+2043 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banten",
+      "ANTARA",
+      "small",
+      "chars",
+      "Tangerang",
+      "People",
+      "Credit",
+      "KUR",
+      "Sumatra",
+      "Indonesian"
+    ]
   }
 ]
