@@ -240790,5 +240790,105 @@
       "Americans",
       "Car"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-08/mega-deals-make-a-return-video",
+    "title": "Mega Deals Make a Return",
+    "fetched_on": "2025-12-08T19:19:01.692349+00:00",
+    "content": "Christina Minnis, Goldman Sachs Global Head of Credit & Asset Finance and Head of Global Acquisition Finance says the M&amp;A engine is finally humming again &mdash; liquidity is flush, credit spreads are attractive, and boardroom confidence is back. She joined Bloomberg Open Interest to talk about the return of a real M&amp;A cycle. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Head",
+      "Global",
+      "Finance",
+      "Credit",
+      "Minnis",
+      "Goldman",
+      "Asset",
+      "Deals",
+      "Make",
+      "Christina"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-08/private-credit-offers-bally-s-1-1-billion-loan-for-nyc-casino",
+    "title": "Private Credit Offers Bally’s $1.1 Billion Loan for NYC Casino",
+    "fetched_on": "2025-12-08T19:19:03.186370+00:00",
+    "content": "Bally’s Corp. has wrapped up a crucial deal to increase its term loan to $1.1 billion, allowing the casino operator to refinance its debt and pay fees tied to its New York State casino licenses.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bally",
+      "Billion",
+      "Casino",
+      "Loan",
+      "Credit",
+      "Offers",
+      "NYC",
+      "Corp.",
+      "York",
+      "State"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392724/underwater-drone-swarm-to-aid-in-new-hunt-for-missing-flight-mh370",
+    "title": "Underwater drone swarm to aid in new hunt for missing flight MH370",
+    "fetched_on": "2025-12-08T19:19:00.910774+00:00",
+    "content": "Modern Mysteries\r\nBy T.K. RandallDecember 7, 2025 ·  0 commentsWhat happened to MH370 ? Image Credit: PD - ArpingstoneA new high-risk endeavor will seek to use drones to scour the sea for signs of th… [+1658 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Modern",
+      "Image",
+      "Credit",
+      "RandallDecember",
+      "chars",
+      "Mysteries",
+      "Underwater",
+      "flight",
+      "commentsWhat",
+      "ArpingstoneA"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-unlikely-to-reduce-deposit-rates-despite-rbi-easing/articleshow/125823980.cms",
+    "title": "Banks unlikely to reduce deposit rates despite RBI easing",
+    "fetched_on": "2025-12-08T19:19:00.910774+00:00",
+    "content": "Mumbai: A sharp drop in deposit rates, competition from other investment avenues, and a high credit-deposit (CD) ratio is likely to limit scope for further reduction in deposit rates, said bank execu… [+2229 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "deposit",
+      "rates",
+      "Mumbai",
+      "chars",
+      "RBI",
+      "competition",
+      "avenues",
+      "credit-deposit",
+      "ratio",
+      "execu"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-unlikely-to-reduce-deposit-rates-despite-rbi-easing/articleshow/125821037.cms",
+    "title": "Banks unlikely to reduce deposit rates despite RBI easing",
+    "fetched_on": "2025-12-08T19:19:00.910774+00:00",
+    "content": "Mumbai: A sharp drop in deposit rates, competition from other investment avenues, and a high credit-deposit (CD) ratio is likely to limit scope for further reduction in deposit rates, said bank execu… [+2229 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "deposit",
+      "rates",
+      "Mumbai",
+      "chars",
+      "RBI",
+      "competition",
+      "avenues",
+      "credit-deposit",
+      "ratio",
+      "execu"
+    ]
   }
 ]
