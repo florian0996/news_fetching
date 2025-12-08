@@ -239581,5 +239581,45 @@
       "Cut",
       "bridge"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-laurie-berkner-performs-her-2025-childrens-music-holiday-show-at-the-paramount/article",
+    "title": "Review: Laurie Berkner performs her 2025 children’s music holiday show at The Paramount",
+    "fetched_on": "2025-12-08T01:47:21.687639+00:00",
+    "content": "Laurie Berkner performing at The Paramount. Photo Credit: Markos Papadatos\r\nOn Saturday, December 6th, children’s music artist Laurie Berkner performed two back-to-back holiday concerts at The Paramo… [+2639 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paramount",
+      "Laurie",
+      "Berkner",
+      "children",
+      "Review",
+      "December",
+      "music",
+      "holiday",
+      "Credit",
+      "Markos"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/1c83fbea7eee0321",
+    "title": "Jupiter exec acknowledges ‘zero contagion’ claim was ‘not 100% correct’ after backlash over vault design",
+    "fetched_on": "2025-12-08T01:47:21.687639+00:00",
+    "content": "The co-founder of rival lending protocol Kamino has criticized Jupiter's messaging around their \"isolated vaults,\" and blocked a migration tool.\r\nThis story appeared on theblock.co, 2025-12-06 23:35:… [+2 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jupiter",
+      "Kamino",
+      "acknowledges",
+      "correct’",
+      "isolated",
+      "tool",
+      "23:35",
+      "chars",
+      "exec",
+      "contagion’"
+    ]
   }
 ]
