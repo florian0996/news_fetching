@@ -240195,5 +240195,125 @@
       "portfolio",
       "Home"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-08/srts-what-are-significant-risk-transfers-and-why-are-regulators-worried",
+    "title": "Banks Love Significant Risk Transfers &mdash; and That Has Regulators Worried",
+    "fetched_on": "2025-12-08T12:47:01.974786+00:00",
+    "content": "Banks have been in a bind. They want to make more loans so they can better compete against non-banking lenders and boost profits, but they have been hindered by tighter rules imposed after the 2008 financial crisis that require them to hold aside extra money to cover potential losses on the loans they have already made. This leaves less fresh capital available to pursue new lending or expand the company.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks",
+      "Transfers",
+      "Love",
+      "Significant",
+      "Risk",
+      "Regulators",
+      "Worried",
+      "bind",
+      "loans",
+      "profits"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-08/jefferies-to-buy-half-of-hildene-as-asset-manager-acquires-silac",
+    "title": "Jefferies to Buy Half of Hildene as Asset Manager Acquires Silac",
+    "fetched_on": "2025-12-08T12:47:02.964810+00:00",
+    "content": "Jefferies Financial Group Inc. agreed to buy a 50% stake in Hildene Holding Co., a credit-focused asset manager with more than $18 billion under management, a move that comes as Hildene signed a deal to buy Silac Inc., a provider of fixed indexed annuities.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jefferies",
+      "Hildene",
+      "Buy",
+      "Half",
+      "Acquires",
+      "Financial",
+      "Group",
+      "Silac",
+      "Asset",
+      "Manager"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/ubs-poised-for-fresh-job-cuts-report-flags-10-000-layoffs-by-2027-in-next-phase-of-restructuring-11765102832907.html",
+    "title": "UBS poised for fresh job cuts? Report flags 10,000 layoffs by 2027 in next phase of restructuring",
+    "fetched_on": "2025-12-08T12:47:01.225634+00:00",
+    "content": "UBS may eliminate 10,000 jobs by 2027 as part of its ongoing integration of Credit Suisse, Swiss paper SonntagsBlick reported on Sunday. The report stated that the layoffs will target employees in Sw… [+1926 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UBS",
+      "cuts",
+      "Suisse",
+      "Swiss",
+      "Sunday",
+      "poised",
+      "fresh",
+      "Credit",
+      "Report",
+      "layoffs"
+    ]
+  },
+  {
+    "source": "/FILM [NewsAPI]",
+    "url": "https://www.slashfilm.com/2014714/batman-animated-series-network-censors-robin-origin-emmy-winning-episode/",
+    "title": "Working Around Network Censors Gave Batman: The Animated Series An Emmy-Winning Episode",
+    "fetched_on": "2025-12-08T12:47:01.225634+00:00",
+    "content": "As for \"Robin's Reckoning,\" Radomski gave a lot of credit to composer Shirley Walker, whose score absolutely elevated the drama and suspense of the Graysons' death. When the cut rope enters the frame… [+1487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gave",
+      "Batman",
+      "Robin",
+      "Reckoning",
+      "Radomski",
+      "Walker",
+      "Network",
+      "Censors",
+      "Animated",
+      "Series"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/17a4d7ed5f2061b3",
+    "title": "Forcing UK banks to support credit unions would help keep loan sharks at bay",
+    "fetched_on": "2025-12-08T12:47:01.225634+00:00",
+    "content": "High street banks dodged a windfall tax now they should invest in growth of local lendersNikhil Rathi, chief executive of the Financial Conduct Authority, made a pilgrimage on Friday from its glass a… [+144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Rathi",
+      "Authority",
+      "High",
+      "Financial",
+      "Conduct",
+      "Friday",
+      "banks",
+      "Forcing",
+      "chief"
+    ]
+  },
+  {
+    "source": "Changelogy.com [NewsAPI]",
+    "url": "https://www.changelogy.com/",
+    "title": "Show HN: Beautiful changelog hosting for SaaS products – Changelogy",
+    "fetched_on": "2025-12-08T12:47:01.225634+00:00",
+    "content": "Do I need a credit card to start?\r\nNo! You can start with our free plan without entering any payment information. Upgrade to Pro whenever you're ready.\r\nCan I use my own domain?\r\nYes! Pro plan includ… [+831 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Beautiful",
+      "Changelogy",
+      "Show",
+      "products",
+      "changelog",
+      "hosting",
+      "SaaS",
+      "credit",
+      "card",
+      "start"
+    ]
   }
 ]
