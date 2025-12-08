@@ -239815,5 +239815,85 @@
       "Deutschland",
       "Mehr"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/renewables/govt-clarifies-on-solar-financing-after-oversupply-concerns-ministry-says-no-lending-freeze/articleshow/125814277.cms",
+    "title": "Govt clarifies on solar financing after oversupply concerns; Ministry says no lending freeze",
+    "fetched_on": "2025-12-08T07:25:48.970598+00:00",
+    "content": "The Ministry of New &amp; Renewable Energy (MNRE) on Sunday dismissed reports suggesting that it has asked financial institutions to pause fresh lending to renewable energy projects. The clarificatio… [+2977 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MNRE",
+      "Ministry",
+      "Renewable",
+      "Energy",
+      "Sunday",
+      "Govt",
+      "concerns",
+      "projects",
+      "lending",
+      "chars"
+    ]
+  },
+  {
+    "source": "Protothema.gr [NewsAPI]",
+    "url": "https://en.protothema.gr/2025/12/07/greece-moves-toward-early-repayment-of-e5-29-billion-in-bailout-debt/",
+    "title": "Greece moves toward early repayment of €5.29 billion in bailout debt",
+    "fetched_on": "2025-12-08T07:25:48.970598+00:00",
+    "content": "Greece is preparing to make a major step toward reducing its long-term public debt by proceeding with the early repayment of 5.29 billion from the Greek Loan Facility (GLF) of 2010. The move, schedul… [+2830 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GLF",
+      "Facility",
+      "repayment",
+      "billion",
+      "Greece",
+      "Greek",
+      "Loan",
+      "early",
+      "debt",
+      "bailout"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/89050/liverpool-icon-lined-up-for-temporary-stint.html",
+    "title": "Liverpool icon lined up for temporary stint",
+    "fetched_on": "2025-12-08T07:25:48.970598+00:00",
+    "content": "Credit to DaveOCKOP for revealing one of the most striking Liverpool developments of the season. The suggestion that Steven Gerrard has been sounded out as a possible interim manager comes at a momen… [+3994 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Liverpool",
+      "Credit",
+      "season",
+      "icon",
+      "lined",
+      "temporary",
+      "stint",
+      "DaveOCKOP",
+      "revealing",
+      "striking"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/pnb-cuts-repo-linked-lending-rates-by-25-bps-after-rbi-mpc-announcement-will-your-home-loan-emi-go-down-explained-11765084900991.html",
+    "title": "PNB cuts repo-linked lending rates by 25 bps after RBI MPC announcement — Will your home loan EMI go down? Explained",
+    "fetched_on": "2025-12-08T07:25:48.970598+00:00",
+    "content": "PNB loan rate cut: State-owned Punjab National Bank (PNB) has said it lowered its Repo Linked Lending Rate (RLLR), a day after the Reserve Bank of India (RBI) cut the repo rates by 25 basis points.\r\n… [+2419 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PNB",
+      "MPC",
+      "EMI",
+      "RBI",
+      "lending",
+      "Bank",
+      "rates",
+      "rate",
+      "RLLR",
+      "bps"
+    ]
   }
 ]
