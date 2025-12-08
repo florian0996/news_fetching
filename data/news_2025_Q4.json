@@ -241010,5 +241010,45 @@
       "Charlie",
       "Highpoint"
     ]
+  },
+  {
+    "source": "Good News Network [NewsAPI]",
+    "url": "https://www.goodnewsnetwork.org/diets-rich-in-tea-coffee-berries-and-nuts-linked-to-better-long-term-heart-health/",
+    "title": "Diets Rich in Tea, Coffee, Berries and Nuts Linked to Better Long-term Heart Health in New Study",
+    "fetched_on": "2025-12-08T22:21:27.789137+00:00",
+    "content": "Credit: Julian Hochgesang\r\nPeople who regularly consume polyphenol-rich foods and drinks, such as tea, coffee, berries, cocoa, nuts, whole grains, and olive oil, may have better long-term heart healt… [+2611 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coffee",
+      "Tea",
+      "Berries",
+      "Long-term",
+      "Heart",
+      "Credit",
+      "Julian",
+      "cocoa",
+      "chars",
+      "Nuts"
+    ]
+  },
+  {
+    "source": "Card Chronicle [NewsAPI]",
+    "url": "https://www.cardchronicle.com/football/99870/louisville-to-face-toledo-in-boca-raton-bowl",
+    "title": "Louisville to face Toledo in Boca Raton Bowl",
+    "fetched_on": "2025-12-08T22:21:27.789137+00:00",
+    "content": "Louisville will conclude its 2025 football season by taking on Toledo in the Boca Raton Bowl.\r\nThe game will be played at 2 p.m. on Dec. 23 at Flagler Credit Union Stadium in Boca Raton, Fla. ESPN wi… [+491 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raton",
+      "Toledo",
+      "Bowl",
+      "Boca",
+      "Louisville",
+      "Fla",
+      "football",
+      "Dec.",
+      "face",
+      "conclude"
+    ]
   }
 ]
