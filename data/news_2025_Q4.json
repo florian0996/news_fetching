@@ -241050,5 +241050,85 @@
       "face",
       "conclude"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-08/banamex-aims-to-expand-corporate-banking-seek-brokerage-license",
+    "title": "Banamex Aims to Expand Corporate Banking, Seek Brokerage License",
+    "fetched_on": "2025-12-08T23:21:20.689615+00:00",
+    "content": "Citigroup Inc.’s Mexican retail banking unit aims to keep up aggressive growth in consumer credit and will seek to re-enter the corporate banking sector, as it operates more independently from its longtime parent, according to its leader.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banking",
+      "Aims",
+      "Corporate",
+      "Seek",
+      "Expand",
+      "Brokerage",
+      "License",
+      "Citigroup",
+      "Inc.’s",
+      "Mexican"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/new-zealand-couple-stuck-with-77k-miami-bar-tab-bill-after-handing-over-credit-card/YHFKVVE4V5C5TDSHBYNO5S6VZE/",
+    "title": "New Zealand couple stuck with $7.7k Miami bar tab bill after handing over credit card",
+    "fetched_on": "2025-12-08T23:21:20.225919+00:00",
+    "content": "After the pair were unable to get an itemised bill from the club, they applied for a chargeback from their card provider.\r\nThe provider reversed the transaction until the club produced signed receipt… [+1332 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Miami",
+      "Zealand",
+      "bill",
+      "card",
+      "club",
+      "provider",
+      "couple",
+      "stuck",
+      "bar",
+      "tab"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/938935",
+    "title": "Westpac Qantas Altitude Black Card: 90k QFF, $0 Fee 1st Year (+QFF Fee $75) for Existing Customers (Ongoing $295/Year) @ Westpac",
+    "fetched_on": "2025-12-08T23:21:20.225919+00:00",
+    "content": "I am planning to get two credit cards in the coming weeks. 1) Low fee cards with and without cashback offers. 2) Where I can get FF points which I can use for travelling. For the first one, I have na… [+100 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Year",
+      "QFF",
+      "Westpac",
+      "Ongoing",
+      "Customers",
+      "Fee",
+      "Qantas",
+      "Altitude",
+      "Black",
+      "Existing"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/sports/notre-dame-sends-shockwaves-by-turning-down-bowl-invite-after-playoff-snub-dont-take-your-ball-and-go-home/",
+    "title": "Notre Dame Sends Shockwaves By Turning Down Bowl Invite After Playoff Snub: Don’t ‘Take Your Ball and Go Home’",
+    "fetched_on": "2025-12-08T23:21:20.225919+00:00",
+    "content": "(Photo Credit: James Black for AP)\r\nThe University of Notre Dame football team sent shockwaves through the college sports world on Sunday when it announced it would not be playing in any bowl games s… [+3858 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dame",
+      "chars",
+      "Snub",
+      "Home’",
+      "Photo",
+      "Credit",
+      "James",
+      "Notre",
+      "Shockwaves",
+      "Bowl"
+    ]
   }
 ]
