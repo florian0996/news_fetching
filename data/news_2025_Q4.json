@@ -240575,5 +240575,65 @@
       "consumer",
       "loans"
     ]
+  },
+  {
+    "source": "BroBible [NewsAPI]",
+    "url": "https://brobible.com/culture/article/delta-credit-card-policy/",
+    "title": "‘Delta Air Is Crooked’: Delta Forces Group Of 6 From Florida To Buy $7,616.46 Tickets To Uganda Twice. Then They Try To Get A Refund",
+    "fetched_on": "2025-12-08T16:30:49.054887+00:00",
+    "content": "There are few places where you need to show proof of the credit card on file. The rare occasion this happens is usually when doing a return at a store. So they can refund the right card. Or maybe at … [+4751 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delta",
+      "Crooked’",
+      "Buy",
+      "Tickets",
+      "Air",
+      "Forces",
+      "Group",
+      "Florida",
+      "Uganda",
+      "Refund"
+    ]
+  },
+  {
+    "source": "GhanaWeb [NewsAPI]",
+    "url": "https://www.ghanaweb.com/GhanaHomePage/business/Nigerian-fraud-mastermind-jailed-20-years-for-US-bank-scam-2012587",
+    "title": "Nigerian fraud mastermind jailed 20 years for US bank scam",
+    "fetched_on": "2025-12-08T16:30:49.054887+00:00",
+    "content": "A Nigerian national who orchestrated a sophisticated, nationwide scheme targeting Home Equity Lines of Credit (HELOCs) has been sentenced to 20 years in federal prison in the United States.\r\nOluwaseu… [+2441 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOCs",
+      "Credit",
+      "States",
+      "years",
+      "Nigerian",
+      "Home",
+      "Equity",
+      "Lines",
+      "United",
+      "jailed"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-was-michael-annett-5491871/",
+    "title": "Who Was Michael Annett? About the Former NASCAR Racer Who Died at 39",
+    "fetched_on": "2025-12-08T16:30:49.054887+00:00",
+    "content": "Image Credit: Getty Images\r\nMichael Annett built a legacy in the racing world. The late retired NASCAR Xfinity Series driver died at the age of 39 in December 2025, and the sports world has been mour… [+2336 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Michael",
+      "Annett",
+      "NASCAR",
+      "Died",
+      "Credit",
+      "Getty",
+      "world",
+      "Racer",
+      "Image",
+      "Images"
+    ]
   }
 ]
