@@ -240495,5 +240495,85 @@
       "Federal",
       "audio"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-08/one-of-the-world-s-biggest-bond-fund-managers-warns-of-dangerous-credit-ratings-dynamic",
+    "title": "One of World’s Biggest Bond Fund Managers Warns of ‘Dangerous’ Credit-Ratings Dynamic",
+    "fetched_on": "2025-12-08T15:25:52.842407+00:00",
+    "content": "The chief investment officer of one of the world’s biggest bond funds is warning of “dangerous” assumptions in the credit market, where inflated ratings may be giving investors a false sense of security just as the Federal Reserve faces limits on its ability to step in.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Biggest",
+      "Bond",
+      "World",
+      "Dangerous’",
+      "Managers",
+      "Warns",
+      "Dynamic",
+      "Federal",
+      "Reserve",
+      "dangerous"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/64a04e4266ebc5e1",
+    "title": "Student Loan Delinquencies Surge to Alarming Levels—Credit Score Report",
+    "fetched_on": "2025-12-08T15:25:51.919765+00:00",
+    "content": "According to a report from TransUnion, delinquencies among renters doubled after the resumption in student loan collections.\r\nThis story appeared on newsweek.com, 2025-12-07 14:26:25.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Levels",
+      "Credit",
+      "Loan",
+      "Delinquencies",
+      "Report",
+      "Surge",
+      "Alarming",
+      "Score",
+      "Student",
+      "TransUnion"
+    ]
+  },
+  {
+    "source": "Covers.com [NewsAPI]",
+    "url": "https://www.covers.com/ncaaf/conference-championship-week-highlights-reactions-overreactions-bowl-season-preview-2025-tracking-texas-tech-unders",
+    "title": "College Football Conference Championship Week Highlights, Reactions, and Bowl Season Preview",
+    "fetched_on": "2025-12-08T15:25:51.919765+00:00",
+    "content": "Credit to the Indiana Hoosiers. Credit to Curt Cignetti. Credit to clear Heisman winner Fernando Mendoza.\r\nBut do not overlook what the Georgia Bulldogs and the Texas Tech Red Raiders did on Champion… [+7133 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reactions",
+      "Highlights",
+      "Hoosiers",
+      "Football",
+      "Conference",
+      "Championship",
+      "Week",
+      "Bowl",
+      "Season",
+      "Preview"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/12/08/what-another-fed-cut-could-mean-for-your-personal-borrowing-costs.html",
+    "title": "What another Fed cut could mean for your personal borrowing costs",
+    "fetched_on": "2025-12-08T15:26:19.651742+00:00",
+    "content": "Many types of consumer loans are impacted when the Fed lowers its overnight lending rate, but it also depends on the product and duration.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "rate",
+      "duration",
+      "cut",
+      "personal",
+      "borrowing",
+      "costs",
+      "types",
+      "consumer",
+      "loans"
+    ]
   }
 ]
