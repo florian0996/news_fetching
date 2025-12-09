@@ -242167,5 +242167,85 @@
       "chars",
       "card-funded"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/556900de46dffeaf",
+    "title": "HELOC rates today, December 8, 2025: Rates have dropped 60 basis points this year",
+    "fetched_on": "2025-12-09T11:21:04.714315+00:00",
+    "content": "The current national average HELOC rate is at its 2025 low, according to the analytics company Curinos. The home equity line of credit rate has dropped 60 basis points since the beginning of 2025.HEL… [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "December",
+      "Curinos",
+      "basis",
+      "low",
+      "dropped",
+      "today",
+      "points",
+      "rates",
+      "rate"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d70e876fd76b2b98",
+    "title": "HELOC rates today, December 6, 2025: Rates fall under 7.5%",
+    "fetched_on": "2025-12-09T11:21:04.714315+00:00",
+    "content": "The national average HELOC rate has inched down, according to analytics company Curinos. The rate on a home equity line of credit is now under 7.5% its lowest point in 2025.HELOC rates: Saturday, Dec… [+146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "December",
+      "Curinos",
+      "rates",
+      "today",
+      "rate",
+      "Saturday",
+      "Dec",
+      "fall",
+      "national"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-monday-december-8-2025-110049637.html",
+    "title": "HELOC rates today, December 8, 2025: Rates have dropped 60 basis points this year",
+    "fetched_on": "2025-12-09T11:21:04.714315+00:00",
+    "content": "The current national average HELOC rate is at its 2025 low, according to the analytics company Curinos. The home equity line of credit rate has dropped 60 basis points since the beginning of 2025.\r\nA… [+3798 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "December",
+      "Curinos",
+      "basis",
+      "low",
+      "dropped",
+      "points",
+      "rates",
+      "rate",
+      "today"
+    ]
+  },
+  {
+    "source": "Crypto Coins News [NewsAPI]",
+    "url": "https://www.ccn.com/news/crypto/crypto-exchanges-indian-binance-coinbase-race/",
+    "title": "Crypto Exchanges Race for Indian Market — Who’s Next After Binance and Coinbase?",
+    "fetched_on": "2025-12-09T11:21:04.714315+00:00",
+    "content": "India is opening the door to global crypto exchanges. Credit: Ryan Thomas via Pexels.\r\nKey Takeaways\r\n<ul><li>Coinbase has opened up its exchange to Indian users for the first time since 2023.\r\n</li>… [+2470 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Market",
+      "Race",
+      "Binance",
+      "Indian",
+      "Coinbase",
+      "Crypto",
+      "Exchanges",
+      "Ryan",
+      "Pexels",
+      "Takeaways"
+    ]
   }
 ]
