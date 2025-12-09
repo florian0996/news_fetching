@@ -241970,5 +241970,82 @@
       "interest",
       "private"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-09/thai-premier-s-hard-line-on-cambodia-fighting-risks-irking-trump",
+    "title": "Thai Premier’s Hard Line on Cambodia Fighting Risks Irking Trump",
+    "fetched_on": "2025-12-09T09:26:12.106380+00:00",
+    "content": "Thai Prime Minister Anutin Charnvirakul is using fresh border skirmishes with Cambodia to tap nationalist sentiment at home before an election. In doing so he’s gambling it won’t unduly irritate US President Donald Trump, who claimed credit for ending a previous outbreak of fighting.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cambodia",
+      "Thai",
+      "Premier",
+      "Hard",
+      "Line",
+      "Risks",
+      "Irking",
+      "Prime",
+      "Minister",
+      "Anutin"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/08/3201291/0/en/New-Crypto-Coin-Mutuum-Finance-MUTM-Approaches-19-000-Holder-Milestone-Amid-Rapid-Presale-Progress.html",
+    "title": "New Crypto Coin Mutuum Finance (MUTM) Approaches 19,000 Holder Milestone Amid Rapid Presale Progress",
+    "fetched_on": "2025-12-09T09:26:11.045780+00:00",
+    "content": "DUBAI, United Arab Emirates, Dec. 08, 2025 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n, an emerging decentralized lending protocol, is closing in on a significant milestone as its community approache… [+5719 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Dec.",
+      "Mutuum",
+      "chars",
+      "Holder",
+      "DUBAI",
+      "United",
+      "Emirates",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/12/08/family-living-in-fear-after-son-falls-victim-to-loan-sharks",
+    "title": "Family living in fear after son falls victim to loan sharks",
+    "fetched_on": "2025-12-09T09:26:11.045780+00:00",
+    "content": "JOHOR BARU: A local family is living in fear after being targeted by illegal moneylenders over a loan application submitted by their son in Singapore.\r\nHoo Chong Kang, 58, said his 35-year-old son, w… [+2004 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BARU",
+      "Singapore",
+      "fear",
+      "JOHOR",
+      "living",
+      "Family",
+      "loan",
+      "son",
+      "Kang",
+      "falls"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/blackstones-schwarzman-plays-down-private-credit-concerns-over-bankruptcies-4397750",
+    "title": "Blackstone’s Schwarzman plays down private credit concerns over bankruptcies",
+    "fetched_on": "2025-12-09T09:26:27.062823+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Schwarzman",
+      "Blackstone",
+      "bankruptcies",
+      "plays",
+      "private",
+      "credit",
+      "concerns"
+    ]
   }
 ]
