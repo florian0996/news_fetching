@@ -241690,5 +241690,125 @@
       "Repo",
       "rate"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-09/europe-nears-deal-to-use-frozen-russian-assets-video",
+    "title": "Europe Nears Deal to Use Frozen Russian Assets",
+    "fetched_on": "2025-12-09T07:23:44.514762+00:00",
+    "content": "President Volodymyr Zelenskiy and his allies made progress on using frozen Russian sovereign assets to back a €90 billion ($105 billion) loan for Ukraine’s reconstruction, UK Prime Minister Keir Starmer’s office said following talks in London on Monday. European leaders are increasingly confident they will reach a deal to use the immobilized Russian assets before the end of the year. Bloomberg’s Oliver Crook reports.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Russian",
+      "Frozen",
+      "Monday",
+      "President",
+      "Volodymyr",
+      "Zelenskiy",
+      "Ukraine",
+      "Prime",
+      "Minister"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/home-loan-emis-to-get-lower-hdfc-bank-pnb-indian-bank-and-these-lenders-slash-lending-rates/articleshow/125828666.cms",
+    "title": "Home Loan EMIs to get lower: HDFC Bank, PNB, Indian Bank and these lenders slash lending rates",
+    "fetched_on": "2025-12-09T07:23:43.376159+00:00",
+    "content": "Home loan borrowers are set to get some relief as several major banks, including HDFC BankPunjab National Bank (PNB), Bank of India and other lenders have trimmed their lending rates following the Re… [+3113 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PNB",
+      "Bank",
+      "HDFC",
+      "Home",
+      "Loan",
+      "Indian",
+      "lending",
+      "rates",
+      "National",
+      "India"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/still-believing-these-credit-myths-they-re-quietly-ruining-your-financial-health-loans-credit-cards-11765176630761.html",
+    "title": "Still believing these credit myths? They’re quietly ruining your financial health",
+    "fetched_on": "2025-12-09T07:23:43.376159+00:00",
+    "content": "As we wrap up 2025, there are many learnings from the year passed that come to mind, and there are quite a few things that I dont want to carry into the New Year, especially related to personal finan… [+4620 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "myths",
+      "believing",
+      "credit",
+      "year",
+      "chars",
+      "mind",
+      "finan",
+      "’re",
+      "quietly",
+      "ruining"
+    ]
+  },
+  {
+    "source": "Israelnationalnews.com [NewsAPI]",
+    "url": "https://www.israelnationalnews.com/flashes/671947",
+    "title": "Sharp increase in public spending on credit cards in November 2025",
+    "fetched_on": "2025-12-09T07:23:43.376159+00:00",
+    "content": "Credit card spending in November 2025 amounted to NIS 49.621 billion - an increase of 11.8% compared to November last year. According to data from the Shva credit card company, the average daily spen… [+421 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "NIS",
+      "credit",
+      "billion",
+      "increase",
+      "spending",
+      "Sharp",
+      "amounted",
+      "compared",
+      "year"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/axis-bank-credit-card-travel-redemption-options-transfer-ratios-limits-and-tips-11765175011410.html",
+    "title": "Axis Bank credit card travel redemption options: Transfer ratios, limits, and tips",
+    "fetched_on": "2025-12-09T07:23:43.376159+00:00",
+    "content": "December is here. You must be planning your much-needed Christmas break or New Year break. How about your credit card reward points sponsoring your next vacation? These days, some banks allow you to … [+7122 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Transfer",
+      "December",
+      "limits",
+      "Axis",
+      "options",
+      "ratios",
+      "credit",
+      "card",
+      "travel",
+      "redemption"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2025/12/lending-company-employee-reported-their-shady-business-practices-so-they-got-hit-hard-with-lawsuits-by-the-government/",
+    "title": "Lending Company Employee Reported Their Shady Business Practices, So They Got Hit Hard With Lawsuits By The Government",
+    "fetched_on": "2025-12-09T07:23:43.376159+00:00",
+    "content": "Shutterstock/Reddit\r\nRule #1 in life: don’t mess around with the government!\r\nBecause if you do, you’re gonna find yourself in a world of hurt…\r\nAnd this story proves it in a huge way!\r\nCheck out wha… [+2025 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Government",
+      "Practices",
+      "Shutterstock",
+      "Reddit",
+      "Rule",
+      "Company",
+      "Employee",
+      "Reported",
+      "Shady",
+      "Business"
+    ]
   }
 ]
