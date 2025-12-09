@@ -241610,5 +241610,45 @@
       "Sunday",
       "lending"
     ]
+  },
+  {
+    "source": "Americanthinker.com [NewsAPI]",
+    "url": "https://www.americanthinker.com/articles/2025/12/mortgage_loan_fraud_explained.html",
+    "title": "Mortgage Loan Fraud Explained",
+    "fetched_on": "2025-12-09T05:22:09.184903+00:00",
+    "content": "Mortgage Loan Fraud Explained\r\nDisclaimer:  From 2004 until 2009, I worked in the mortgage loan industry. Drawing upon my knowledge and experience in the Risk Management department and as an ancillar… [+7302 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Fraud",
+      "Explained",
+      "Mortgage",
+      "Disclaimer",
+      "industry",
+      "worked",
+      "chars",
+      "Risk",
+      "Management"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/credit-card-related-customer-complaints-rise-as-the-cards-in-circulation-grow/article70368640.ece",
+    "title": "Credit card-related customer complaints rise as the cards in circulation grow",
+    "fetched_on": "2025-12-09T05:22:09.184903+00:00",
+    "content": "As banks get aggressive on bringing out and marketing various kinds of the credit card, customer complaints relating to this product dominated grievances taken to the banking and financial services O… [+2326 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "customer",
+      "complaints",
+      "Credit",
+      "card-related",
+      "rise",
+      "circulation",
+      "grow",
+      "banks",
+      "aggressive"
+    ]
   }
 ]
