@@ -241650,5 +241650,45 @@
       "banks",
       "aggressive"
     ]
+  },
+  {
+    "source": "Standard Digital [NewsAPI]",
+    "url": "https://www.standardmedia.co.ke/health/health-science/article/2001535961/sh34m-windfall-kwale-community-tastes-sweet-carbon-credits-money",
+    "title": "Sh34m windfall: Kwale community tastes 'sweet' carbon credits money",
+    "fetched_on": "2025-12-09T06:35:30.808740+00:00",
+    "content": "A section of the team managing the Mikoko Pamoja project. [File, Standard]\r\n“Conserving mangroves and sea grass is simply incredible,” says Bakari Mwakuzimu, a resident of Vanga in Lunga-Lunga consti… [+195 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "windfall",
+      "sweet",
+      "Kwale",
+      "Mikoko",
+      "Pamoja",
+      "File",
+      "Standard",
+      "tastes",
+      "carbon",
+      "project"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/repo-rate-cut-your-home-loan-interest-emi-burden-set-to-dip/articleshow/125827355.cms",
+    "title": "Repo rate cut: Your home loan interest, EMI burden set to dip",
+    "fetched_on": "2025-12-09T06:35:30.808740+00:00",
+    "content": "The Reserve Bank of Indias (RBI) latest 25 basis point (bps) cut, bringing the repo rate down to 5.25%, is good news for home loan borrowers. This is because it will lower the interest burden, result… [+2506 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "EMI",
+      "Indias",
+      "cut",
+      "latest",
+      "bps",
+      "Reserve",
+      "Bank",
+      "Repo",
+      "rate"
+    ]
   }
 ]
