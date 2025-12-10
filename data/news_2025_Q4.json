@@ -245119,5 +245119,85 @@
       "Hit",
       "Deployment"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-10/trump-says-he-ll-call-thailand-cambodia-over-renewed-conflict",
+    "title": "Over 500,000 Flee Thai-Cambodia Clash as Trump to Urge Peace",
+    "fetched_on": "2025-12-10T09:26:47.010222+00:00",
+    "content": "President Donald Trump plans to speak to the leaders of Thailand and Cambodia as more than half a million people flee a revived border clash, one of eight conflicts the US leader has claimed credit for ending.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Flee",
+      "Clash",
+      "Urge",
+      "Peace",
+      "President",
+      "Donald",
+      "Thailand",
+      "Cambodia",
+      "ending"
+    ]
+  },
+  {
+    "source": "Pointalize.com [NewsAPI]",
+    "url": "https://pointalize.com/maximize-value-of-amex-membership-rewards-points/#article",
+    "title": "Maximize Value of Amex Membership Rewards points",
+    "fetched_on": "2025-12-10T09:26:46.039902+00:00",
+    "content": "Most people treat their American Express Membership Rewards points like a simple coupon book. They cash them out for statement credits or use them to buy products on Amazon.\r\nThis is a financial trag… [+10938 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rewards",
+      "Membership",
+      "Amex",
+      "American",
+      "Express",
+      "points",
+      "Maximize",
+      "book",
+      "Amazon",
+      "people"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/consumer-insights/2025/high-income-households-lift-installment-adoption-by-57percent/",
+    "title": "High-Income Households Lift Installment Adoption by 57%",
+    "fetched_on": "2025-12-10T09:26:46.039902+00:00",
+    "content": "Consumers are reshaping how they use credit, and PYMNTS Intelligence data shows that installment plans are becoming a central tool for managing cash flow in both predictable and discretionary spendin… [+3485 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Consumers",
+      "Installment",
+      "Households",
+      "Lift",
+      "Adoption",
+      "PYMNTS",
+      "Intelligence",
+      "High-Income",
+      "credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c74b2ee46c1a55dc",
+    "title": "Blackstone's Schwarzman plays down private credit concerns over bankruptcies",
+    "fetched_on": "2025-12-10T09:26:46.039902+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidia chip … [+794 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "return",
+      "false",
+      "Schwarzman",
+      "Paramount",
+      "Warner",
+      "Bros",
+      "Blackstone"
+    ]
   }
 ]
