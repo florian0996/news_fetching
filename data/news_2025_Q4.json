@@ -244979,5 +244979,65 @@
       "deduction",
       "credit"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/d4fbdc08dfc1153d",
+    "title": "HMRC owes me £2,200 but says it could be 33 weeks before it pays me back",
+    "fetched_on": "2025-12-10T07:24:27.404854+00:00",
+    "content": "A reader says they overpaid their national insurance, but seem to be lending the government money with no interestI have two roles within the NHS, which has resulted in overpayments of national insur… [+146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "HMRC",
+      "NHS",
+      "weeks",
+      "insurance",
+      "insur",
+      "national",
+      "owes",
+      "pays",
+      "back"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/regulatory-changes-lending-competition-india-private-credit-rbi-sebi-high-risk-cost-banks-lending-11764957085004.html",
+    "title": "As regulatory changes step up lending competition in India, private credit could prove its mettle and thrive",
+    "fetched_on": "2025-12-10T07:24:27.404854+00:00",
+    "content": "The infrastructure sector has emerged as the primary beneficiary of this capital influx, followed by real estate and healthcare. This expansion reflects the growing significance of private credit.\r\nI… [+5051 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "influx",
+      "healthcare",
+      "private",
+      "credit",
+      "regulatory",
+      "step",
+      "lending",
+      "competition",
+      "prove"
+    ]
+  },
+  {
+    "source": "PR Newswire UK [NewsAPI]",
+    "url": "https://www.prnewswire.co.uk/news-releases/bybit-institutional-head-unveils-new-institutional-credit-architecture-and-ultra-low-latency-execution-layer-302636185.html",
+    "title": "Bybit Institutional Head Unveils New Institutional Credit Architecture and Ultra-Low-Latency Execution Layer",
+    "fetched_on": "2025-12-10T07:24:27.404854+00:00",
+    "content": "DUBAI, UAE, Dec. 9, 2025 /PRNewswire/ -- At the BIG Series Institutional Gala, Bybit Institutional introduced two major upgrades set to redefine the standards of institutional digital asset trading i… [+3999 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Institutional",
+      "Bybit",
+      "UAE",
+      "Dec.",
+      "Execution",
+      "DUBAI",
+      "Gala",
+      "PRNewswire",
+      "chars",
+      "Head"
+    ]
   }
 ]
