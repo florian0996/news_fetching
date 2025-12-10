@@ -245039,5 +245039,85 @@
       "chars",
       "Head"
     ]
+  },
+  {
+    "source": "Hospitality Net [NewsAPI]",
+    "url": "https://www.hospitalitynet.org/news/4130099.html",
+    "title": "KKR Provides €300m Financing for Tristan Capital Partners’ EPISO 6 Acquisition of easyHotel Platform",
+    "fetched_on": "2025-12-10T08:32:07.316342+00:00",
+    "content": "KKR, a leading global investment firm, today announced that KKR-managed funds and accounts provided c. 300 million whole loan financing to EPISO 6, a fund managed by Tristan Capital Partners, to supp… [+2395 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KKR",
+      "Acquisition",
+      "EPISO",
+      "Tristan",
+      "Capital",
+      "Partners’",
+      "Platform",
+      "firm",
+      "today",
+      "Financing"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/cholamandalam-investment-chola-digital-lending-chola-nbfc-rbi-digital-lending-11765257725453.html",
+    "title": "Chola reboots digital lending—this time on its own terms",
+    "fetched_on": "2025-12-10T08:32:07.316342+00:00",
+    "content": "Cholamandalam Investment and Finance Company (Chola), one of Indias largest diversified NBFCs, is taking a measured second shot at digital lending.\r\nAfter scaling back its fintech-partner model in 20… [+8607 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lending",
+      "Chola",
+      "Company",
+      "Cholamandalam",
+      "Investment",
+      "Finance",
+      "Indias",
+      "digital",
+      "NBFCs",
+      "chars"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/brianmazique/2025/12/09/mike-tyson-vs-floyd-mayweather-jr-everything-you-should-know/",
+    "title": "Mike Tyson Vs. Floyd Mayweather Jr: Everything You Should Know",
+    "fetched_on": "2025-12-10T08:32:07.316342+00:00",
+    "content": "Mike Tyson-Floyd Mayweather\r\nCredit: Getty\r\nHIGHLIGHTS\r\n<ul><li>Mike Tyson and Floyd Mayweather Jr. are set to meet in an exhibition boxing match in March 2026 in Africa</li><li>The event will be an … [+3405 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mayweather",
+      "Mike",
+      "Tyson",
+      "Floyd",
+      "Credit",
+      "Getty",
+      "HIGHLIGHTS",
+      "March",
+      "Africa",
+      "chars"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b28be45dc88b4f0b",
+    "title": "Private Credit Hit Deployment Record Last Year, ACC Report Says",
+    "fetched_on": "2025-12-10T08:32:07.316342+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Paramount launch a hostile Warner Bros bid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Nvidia chip … [+782 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Year",
+      "ACC",
+      "return",
+      "false",
+      "Credit",
+      "Hit",
+      "Deployment"
+    ]
   }
 ]
