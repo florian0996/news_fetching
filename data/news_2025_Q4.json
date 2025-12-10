@@ -244786,5 +244786,65 @@
       "amount",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-10/australian-gold-miner-ravenswood-gets-650-million-loan-from-rrj",
+    "title": "Australian Gold Miner Ravenswood Gets $650 Million Loan From RRJ",
+    "fetched_on": "2025-12-10T03:24:01.748724+00:00",
+    "content": "Australian gold miner Ravenswood Gold Pty. has secured a $650 million private credit loan from investment firm RRJ Capital for refinancing purposes, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gold",
+      "Ravenswood",
+      "Miner",
+      "Million",
+      "RRJ",
+      "Australian",
+      "Loan",
+      "Pty.",
+      "Capital",
+      "purposes"
+    ]
+  },
+  {
+    "source": "Bankofmyparents.com [NewsAPI]",
+    "url": "https://www.bankofmyparents.com",
+    "title": "Show HN: A \"bank of my parents\" for my young kids",
+    "fetched_on": "2025-12-10T03:23:59.975894+00:00",
+    "content": "100% Free\r\nNo hidden fees, no subscriptions, no credit cards required. \r\n Financial education should be accessible to everyone.\r\nNot a Real Bank\r\nThis is a learning tool, not a real bank account. \r\n … [+299 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Free",
+      "bank",
+      "Show",
+      "parents",
+      "kids",
+      "fees",
+      "subscriptions",
+      "required",
+      "Real",
+      "young"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/931194e0749aa133",
+    "title": "Homes with great fireplaces",
+    "fetched_on": "2025-12-10T03:23:59.975894+00:00",
+    "content": "Kent, Conn.(Image credit: Michael Bowman)The stacked-stone, two-sided fireplace with a wood nook anchors the living room in this four-bedroom with Prairie design elements. The 2009 home features wood… [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Conn.",
+      "Kent",
+      "Image",
+      "Michael",
+      "Bowman",
+      "Prairie",
+      "credit",
+      "stacked-stone",
+      "two-sided",
+      "elements"
+    ]
   }
 ]
