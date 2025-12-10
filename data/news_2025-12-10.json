@@ -423,7 +423,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/wealth-management-platform-wealthfront-files-ipo/",
     "title": "Wealth Management Platform Wealthfront Targets $2.05B Valuation In Latest Fintech IPO",
-    "fetched_on": "2025-12-10T20:27:43.325755+00:00",
+    "fetched_on": "2025-12-10T21:24:56.152023+00:00",
     "content": "Digital wealth management platform unicorn Wealthfront has filed for an initial public offering, lining up the Palo Alto, California-based startup to join a string of fintech IPOs in the U.S. this year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/09/save-student-loan-payment-pause.html",
     "title": "Trump administration moves to remove millions of student loan borrowers from payment pause",
-    "fetched_on": "2025-12-10T20:27:49.074976+00:00",
+    "fetched_on": "2025-12-10T21:25:01.033467+00:00",
     "content": "The Trump administration announced a proposed joint settlement with Missouri that would soon force millions of student loan borrowers into repayment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/08/student-loan-borrowers-say-bills-make-it-harder-to-cover-basic-needs-survey.html",
     "title": "42% of student loan borrowers say bills make it harder to cover basic needs such as food, survey finds",
-    "fetched_on": "2025-12-10T20:27:49.075010+00:00",
+    "fetched_on": "2025-12-10T21:25:01.033497+00:00",
     "content": "A large share of student loan borrowers report that their debt makes it harder to cover basic needs such as food and housing, a new report finds.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/08/what-another-fed-cut-could-mean-for-your-personal-borrowing-costs.html",
     "title": "What another Fed cut could mean for your personal borrowing costs",
-    "fetched_on": "2025-12-10T20:27:49.075001+00:00",
+    "fetched_on": "2025-12-10T21:25:01.033490+00:00",
     "content": "Many types of consumer loans are impacted when the Fed lowers its overnight lending rate, but it also depends on the product and duration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/mortgage-rates-hit-highest-level-in-a-month-pushing-loan-demand-down-5percent.html",
     "title": "Mortgage rates hit highest level in a month, pushing loan demand down 5%",
-    "fetched_on": "2025-12-10T20:27:48.486073+00:00",
+    "fetched_on": "2025-12-10T21:25:00.524630+00:00",
     "content": "Mortgage rates rose to the highest level in a month last week, causing demand for home loans to drop. Demand, however, is still higher than a year ago.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/01/student-loan-ibr-change.html",
     "title": "Student loan borrowers \u2014 including higher earners \u2014 may qualify for lower monthly bills soon",
-    "fetched_on": "2025-12-10T20:27:49.075144+00:00",
+    "fetched_on": "2025-12-10T21:25:01.033609+00:00",
     "content": "Many student loan borrowers may soon be able to switch into a repayment plan that lowers their monthly bill. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/29/student-loans-tax-planning.html",
     "title": "Student loans and year-end tax planning \u2014 4 steps for borrowers to take",
-    "fetched_on": "2025-12-10T20:27:49.075166+00:00",
+    "fetched_on": "2025-12-10T21:25:01.033629+00:00",
     "content": "Recent changes to the federal student loan system may affect borrowers' taxes. There are some helpful steps you can take now, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1628,7 +1628,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
     "title": "Refinance demand for FHA loans jumps 24%, as homeowners seek the most savings they can",
-    "fetched_on": "2025-12-10T20:27:48.485917+00:00",
+    "fetched_on": "2025-12-10T21:25:00.524493+00:00",
     "content": "Current homeowners are turning to government FHA loans, which offer lower interest rates, to find savings, as conventional rates turn higher.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1665,23 +1665,23 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/mortgage-free-seattle-man-wants-133000354.html",
     "title": "Mortgage-free Seattle man wants to convert his HELOC to a 15-year loan. Ramsey hosts explain why it won\u2019t solve the debt",
-    "fetched_on": "2025-12-10T14:25:26.502431+00:00",
-    "content": "HELOCs might seem like an easy way to turn rising home equity into cash, especially when youre struggling to make more than the interest-only payment each month. Thats exactly the spot Josh from Seat\u2026 [+6388 chars]",
+    "fetched_on": "2025-12-10T21:25:01.371568+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
-      "Seattle",
       "loan",
+      "Seattle",
+      "HELOC",
       "Mortgage-free",
       "man",
       "convert",
-      "HELOC",
-      "HELOCs",
-      "Seat",
-      "Josh",
-      "chars"
+      "Ramsey",
+      "debt",
+      "hosts",
+      "explain"
     ]
   },
   {
@@ -1788,7 +1788,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/europe-agrees-to-slash-emissions-90.html",
     "title": "Europe agrees to cut emissions 90% by 2040",
-    "fetched_on": "2025-12-10T20:27:48.311906+00:00",
+    "fetched_on": "2025-12-10T21:25:00.383717+00:00",
     "content": "The amendment to the EU Climate law also includes guidance on removal credits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2306,7 +2306,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-10/jpmorgan-alums-hedge-fund-advised-altice-on-asset-shifting-deal-mj02p3a8",
     "title": "JPMorgan Alums\u2019 Hedge Fund Advised Altice on Asset-Shifting Deal",
-    "fetched_on": "2025-12-10T20:27:27.134732+00:00",
+    "fetched_on": "2025-12-10T21:24:32.098675+00:00",
     "content": "Billionaire Patrick Drahi and the management team of Altice International turned to an unusual adviser to obtain new financing after shifting most of its assets out of creditors\u2019 reach: a hedge fund founded by former JPMorgan Chase &amp; Co. bankers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2466,7 +2466,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/audio/2025-12-10/credit-crunch-around-the-world-of-global-credit-in-60-minutes",
     "title": "Credit Crunch: Around the World of Global Credit in 60 Minutes",
-    "fetched_on": "2025-12-10T20:27:26.511043+00:00",
+    "fetched_on": "2025-12-10T21:24:31.174018+00:00",
     "content": "Global credit markets are tight, and strategic insights are essential heading into 2026. In this episode of the Credit Crunch podcast, Mahesh Bhimalingam, Bloomberg Intelligence\u2019s global head of credit strategy, hosts BI\u2019s global credit strategy team to discuss worldwide research, data and views. Tim Tan and Jason Lee (Asia), Basel Al-Waqayan (Middle East), Reto Bachmann (Structured Finance), Sam Geier (US) and Bhimalingam (Europe) share takeaways on their market outlook, relative value and majo",
     "platforms_mentioned": [],
     "keywords": [
@@ -2486,7 +2486,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-10/signa-founder-benko-found-guilty-of-insolvency-fraud-standard",
     "title": "Signa Founder Benko Found Guilty of Hiding Watches in Fraud",
-    "fetched_on": "2025-12-10T20:27:27.134637+00:00",
+    "fetched_on": "2025-12-10T21:24:32.098590+00:00",
     "content": "Rene Benko, who built a $27 billion global property empire that spanned New York\u2019s Chrysler Building to London\u2019s Selfridges department store, was found guilty of hiding some luxury watches from creditors in a second set of Austrian insolvency fraud charges.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2686,7 +2686,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/student-loan-options-save-forbearance.html",
     "title": "Student loan borrowers have 'a limited time' to leave payment pause. Here are their options",
-    "fetched_on": "2025-12-10T20:27:49.074949+00:00",
+    "fetched_on": "2025-12-10T21:25:01.033442+00:00",
     "content": "Under the terms of a proposed Education Department settlement, millions of student loan borrowers would soon have to resume payments. Here are their options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2966,7 +2966,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/fed-december-rate-cut-mortgages-loans-savings-impact.html",
     "title": "What December's Fed rate cut means for your mortgage, credit card, auto loan, student debt and savings",
-    "fetched_on": "2025-12-10T20:27:49.074925+00:00",
+    "fetched_on": "2025-12-10T21:25:01.033419+00:00",
     "content": "From\u00a0credit cards and car loans to mortgage rates, student loans and savings accounts, here's a look at the ways a Fed rate cut could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3002,7 +3002,7 @@
     "source": "Bavarian Football Works [NewsAPI]",
     "url": "https://www.bavarianfootballworks.com/world-cup-qualifying/153482/serge-gnabry-credits-set-piece-coach-for-his-goal-in-bayern-munichs-3-1-win-over-sporting-cp",
     "title": "Serge Gnabry credits set-piece coach for his goal in Bayern Munich\u2019s 3-1 win over Sporting CP",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Bayern Munich overcame Sporting CP 3-1, with Joshua Kimmichs own goal igniting the fire within the hosts who roared into life with goals from Serge Gnabry, Lennart Karl, and Jonathan Tah. Speaking af\u2026 [+1025 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3022,7 +3022,7 @@
     "source": "Freerepublic.com [NewsAPI]",
     "url": "https://freerepublic.com/focus/f-chat/4356659/posts",
     "title": "Astronomy Picture of the Day - The Heart of the Soul Nebula",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Skip to comments.\r\nAstronomy Picture of the Day - The Heart of the Soul NebulaNASA ^\r\n | 9 Dec, 2025\r\n | Image Credit &amp; Copyright: Nicola Bugin\r\nPosted on 12/09/2025 12:05:44 PM PST by MtnClimber\u2026 [+2217 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3042,7 +3042,7 @@
     "source": "The Jerusalem Post [NewsAPI]",
     "url": "https://www.jpost.com/israel-news/article-879781",
     "title": "Rep. Lawler letter asking Netanyahu to exempt dual citizens from draft dodging arrests resurfaces",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "US Congressman Mike Lawler (R-NY) arrives prior to a closed briefing on Iran for members of the House of Representatives on Capitol Hill in Washington, June 27, 2025; illustrative. (photo credit: REU\u2026 [+2317 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3062,7 +3062,7 @@
     "source": "The Points Guy [NewsAPI]",
     "url": "https://thepointsguy.com/credit-cards/chase-sapphire-preferred-vs-venture-x/",
     "title": "Chase Sapphire Preferred vs. Venture X: Deciding between 2 of the best travel cards",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Chase and Capital One are leaders in the travel rewards credit card space. If you're looking for your next travel rewards credit card, the Chase Sapphire Preferred\u00ae Card (see rates and fees) and the \u2026 [+11276 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3082,7 +3082,7 @@
     "source": "What's on Netflix [NewsAPI]",
     "url": "https://www.whats-on-netflix.com/news/whats-filming-for-netflix-in-early-2026/",
     "title": "What\u2019s Filming for Netflix In Early 2026?",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Picture Credits: Ubisoft, Netflix, BackGrid\r\nWith 2025 now coming to an end, it\u2019s been a hectic year for both new releases and productions, but it\u2019s time to start looking ahead to the New Year. What\u2019\u2026 [+9839 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3102,7 +3102,7 @@
     "source": "Digital Journal [NewsAPI]",
     "url": "https://www.digitaljournal.com/entertainment/review-cheyenne-jackson-puts-carnegie-hall-in-a-new-york-state-of-mind/article",
     "title": "Review: Cheyenne Jackson puts Carnegie Hall in a New York state of mind",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Cheyenne Jackson. Photo Credit: Vince Trupsin.\r\nOn Monday, December 8th, Cheyenne Jackson, Emmy-nominated actor, singer, and Broadway performer, headlined Carnegie Hall in Manhattan for a great turno\u2026 [+7421 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3122,7 +3122,7 @@
     "source": "Newhavenindependent.org [NewsAPI]",
     "url": "http://www.newhavenindependent.org/2025/12/09/matriarchs-death-prompts-a-mental-health-reckoning/",
     "title": "Matriarch's Death Prompts Mental Health Reckoning - New Haven Independent",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "At Saturday\u2019s candlelight vigil on the Grand Avenue Bridge. Credit: Abiba Biao photos\r\nEditors Note: This article discusses self-harm, suicide, and mental-health crises. Please take care while readin\u2026 [+15563 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3142,7 +3142,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/comite-colbert-names-new-president/",
     "title": "Comit\u00e9 Colbert names new president",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Commerce\r\nDecember 9, 2025\r\n H\u00e9l\u00e8ne Poulit-Duquesne was named Boucherons CEO in 2025. Image credit: Boucheron \r\n By Kiran Gill for Luxury Daily News Service\r\nFrances luxury trade association Comit\u00e9 C\u2026 [+4111 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3162,7 +3162,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/hilton-launches-loyalty-program-at-sea-with-explora-journeys/",
     "title": "Hilton launches loyalty program at sea with Explora Journeys",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Travel and hospitality\r\nDecember 9, 2025\r\n Through June 7, 2026, Hilton is offering a limited preview of itineraries with extended savings. Image credit: Hilton \r\n By Kiran Gill for Luxury Daily News\u2026 [+4909 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3182,7 +3182,7 @@
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/the-drama-movie-zendaya-robert-pattinson-5492261/",
     "title": "\u2018The Drama\u2019 Movie: Release Date & All Updates on the Zendaya & Robert Pattinson Film",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Image Credit: Getty Images\r\nLeave it to A24 to bring out another star-studded project with its upcoming rom-com The Drama. Despite its title, the film, co-starring Zendaya and Robert Pattinson, is ex\u2026 [+2008 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3202,7 +3202,7 @@
     "source": "Inside the Magic [NewsAPI]",
     "url": "https://insidethemagic.net/2025/12/disney-resort-star-wars-attraction-2026-emd1/",
     "title": "\u2018Star Wars\u2019 Attraction To Close Down Indefinitely in 2026, Disney Quietly Confirms",
-    "fetched_on": "2025-12-10T20:27:25.264770+00:00",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
     "content": "Disney announced quietly that it will be closing a popular Star Wars\u00a0attraction for an indefinite period. Here\u2019s what you need to know before booking your next vacation in 2026.\r\nCredit: Alex Lue, In\u2026 [+4565 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3236,6 +3236,106 @@
       "blockworks.co",
       "onchain",
       "lending"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-10/bloomberg-markets-12-10-2025-video",
+    "title": "Bloomberg Markets 12/10/2025",
+    "fetched_on": "2025-12-10T21:24:30.578892+00:00",
+    "content": "\"Bloomberg Markets\" follows the market moves across every global asset class and discusses the biggest issues for Wall Street. Today's guests: Duke University Research Professor of Economics Ellen Meade, Portfolio Manager of the Total Return Bond Fund at Columbia Threadneedle Investments Ed Al-Hussainy and CreditSights Global Head of Strategy Winnie Cisar. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Markets",
+      "Street",
+      "Wall",
+      "market",
+      "global",
+      "Source",
+      "Duke",
+      "Meade",
+      "Portfolio"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/how-to-watch-pluribus-episodes-5492283/",
+    "title": "How to Watch \u2018Pluribus\u2019: Where to Stream All Episodes of Vince Gilligan\u2019s Show",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
+    "content": "Image Credit: Anna Kooris\r\nVince Gilligan created a whole Emmy-worthy television world thanks to Breaking Bad and its spinoff, Better Call Saul. But his latest series, Pluribus, is streaming on anoth\u2026 [+1998 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vince",
+      "Gilligan",
+      "Pluribus\u2019",
+      "Watch",
+      "Credit",
+      "Anna",
+      "Saul",
+      "Stream",
+      "Episodes",
+      "Show"
+    ]
+  },
+  {
+    "source": "Activistpost.com [NewsAPI]",
+    "url": "https://www.activistpost.com/algorithmic-pricing-and-the-american-social-credit-score/",
+    "title": "Algorithmic Pricing and the American Social Credit Score",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
+    "content": "Algorithmic Pricing and the American Social Credit Score by Greg Reese\r\nRead on Substack\r\nA quote commonly attributed to Benito Mussolini, Fascism should more properly be called corporatism because i\u2026 [+4607 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pricing",
+      "American",
+      "Social",
+      "Credit",
+      "Score",
+      "chars",
+      "Mussolini",
+      "Fascism",
+      "Algorithmic",
+      "Greg"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/can-you-have-both-a-heloc-and-a-home-equity-loan/",
+    "title": "Can you have both a HELOC and a home equity loan?",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
+    "content": "There are multiple ways to tap into your home equity, and each option offers a unique set of benefits to borrowers.\r\nMicroStockHub/Getty Images\r\nHomeowners have been leaning on their equity more ofte\u2026 [+5433 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "equity",
+      "loan",
+      "home",
+      "Getty",
+      "MicroStockHub",
+      "chars",
+      "Images",
+      "Homeowners",
+      "borrowers"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/12/09/who-left-the-mets-in-2025-edwin-diaz-brandon-nimmo/",
+    "title": "Edwin Diaz, Brandon Nimmo & More: Who Left the Mets in 2025 So Far?",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
+    "content": "Image Credit: Getty Images\r\nThe New York Mets are making headlines as winter meetings are taking place with players. And so far, fans arent happy with the way things have turned out. So far, left fie\u2026 [+2075 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Diaz",
+      "Brandon",
+      "Nimmo",
+      "Mets",
+      "Edwin",
+      "Left",
+      "Credit",
+      "Getty",
+      "York",
+      "Image"
     ]
   }
 ]

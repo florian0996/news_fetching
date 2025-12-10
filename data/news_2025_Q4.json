@@ -247353,5 +247353,105 @@
       "onchain",
       "lending"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-10/bloomberg-markets-12-10-2025-video",
+    "title": "Bloomberg Markets 12/10/2025",
+    "fetched_on": "2025-12-10T21:24:30.578892+00:00",
+    "content": "\"Bloomberg Markets\" follows the market moves across every global asset class and discusses the biggest issues for Wall Street. Today's guests: Duke University Research Professor of Economics Ellen Meade, Portfolio Manager of the Total Return Bond Fund at Columbia Threadneedle Investments Ed Al-Hussainy and CreditSights Global Head of Strategy Winnie Cisar. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Markets",
+      "Street",
+      "Wall",
+      "market",
+      "global",
+      "Source",
+      "Duke",
+      "Meade",
+      "Portfolio"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/how-to-watch-pluribus-episodes-5492283/",
+    "title": "How to Watch ‘Pluribus’: Where to Stream All Episodes of Vince Gilligan’s Show",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
+    "content": "Image Credit: Anna Kooris\r\nVince Gilligan created a whole Emmy-worthy television world thanks to Breaking Bad and its spinoff, Better Call Saul. But his latest series, Pluribus, is streaming on anoth… [+1998 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vince",
+      "Gilligan",
+      "Pluribus’",
+      "Watch",
+      "Credit",
+      "Anna",
+      "Saul",
+      "Stream",
+      "Episodes",
+      "Show"
+    ]
+  },
+  {
+    "source": "Activistpost.com [NewsAPI]",
+    "url": "https://www.activistpost.com/algorithmic-pricing-and-the-american-social-credit-score/",
+    "title": "Algorithmic Pricing and the American Social Credit Score",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
+    "content": "Algorithmic Pricing and the American Social Credit Score by Greg Reese\r\nRead on Substack\r\nA quote commonly attributed to Benito Mussolini, Fascism should more properly be called corporatism because i… [+4607 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pricing",
+      "American",
+      "Social",
+      "Credit",
+      "Score",
+      "chars",
+      "Mussolini",
+      "Fascism",
+      "Algorithmic",
+      "Greg"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/can-you-have-both-a-heloc-and-a-home-equity-loan/",
+    "title": "Can you have both a HELOC and a home equity loan?",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
+    "content": "There are multiple ways to tap into your home equity, and each option offers a unique set of benefits to borrowers.\r\nMicroStockHub/Getty Images\r\nHomeowners have been leaning on their equity more ofte… [+5433 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "equity",
+      "loan",
+      "home",
+      "Getty",
+      "MicroStockHub",
+      "chars",
+      "Images",
+      "Homeowners",
+      "borrowers"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/12/09/who-left-the-mets-in-2025-edwin-diaz-brandon-nimmo/",
+    "title": "Edwin Diaz, Brandon Nimmo & More: Who Left the Mets in 2025 So Far?",
+    "fetched_on": "2025-12-10T21:24:29.545190+00:00",
+    "content": "Image Credit: Getty Images\r\nThe New York Mets are making headlines as winter meetings are taking place with players. And so far, fans arent happy with the way things have turned out. So far, left fie… [+2075 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Diaz",
+      "Brandon",
+      "Nimmo",
+      "Mets",
+      "Edwin",
+      "Left",
+      "Credit",
+      "Getty",
+      "York",
+      "Image"
+    ]
   }
 ]
