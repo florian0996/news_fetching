@@ -423,7 +423,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/wealth-management-platform-wealthfront-files-ipo/",
     "title": "Wealth Management Platform Wealthfront Targets $2.05B Valuation In Latest Fintech IPO",
-    "fetched_on": "2025-12-10T18:33:26.545457+00:00",
+    "fetched_on": "2025-12-10T19:19:54.725809+00:00",
     "content": "Digital wealth management platform unicorn Wealthfront has filed for an initial public offering, lining up the Palo Alto, California-based startup to join a string of fintech IPOs in the U.S. this year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/09/save-student-loan-payment-pause.html",
     "title": "Trump administration moves to remove millions of student loan borrowers from payment pause",
-    "fetched_on": "2025-12-10T18:33:31.905116+00:00",
+    "fetched_on": "2025-12-10T19:19:59.281925+00:00",
     "content": "The Trump administration announced a proposed joint settlement with Missouri that would soon force millions of student loan borrowers into repayment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/08/student-loan-borrowers-say-bills-make-it-harder-to-cover-basic-needs-survey.html",
     "title": "42% of student loan borrowers say bills make it harder to cover basic needs such as food, survey finds",
-    "fetched_on": "2025-12-10T18:33:31.905145+00:00",
+    "fetched_on": "2025-12-10T19:19:59.281954+00:00",
     "content": "A large share of student loan borrowers report that their debt makes it harder to cover basic needs such as food and housing, a new report finds.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/08/what-another-fed-cut-could-mean-for-your-personal-borrowing-costs.html",
     "title": "What another Fed cut could mean for your personal borrowing costs",
-    "fetched_on": "2025-12-10T18:33:31.905138+00:00",
+    "fetched_on": "2025-12-10T19:19:59.281946+00:00",
     "content": "Many types of consumer loans are impacted when the Fed lowers its overnight lending rate, but it also depends on the product and duration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/mortgage-rates-hit-highest-level-in-a-month-pushing-loan-demand-down-5percent.html",
     "title": "Mortgage rates hit highest level in a month, pushing loan demand down 5%",
-    "fetched_on": "2025-12-10T18:33:31.524369+00:00",
+    "fetched_on": "2025-12-10T19:19:59.065838+00:00",
     "content": "Mortgage rates rose to the highest level in a month last week, causing demand for home loans to drop. Demand, however, is still higher than a year ago.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/01/student-loan-ibr-change.html",
     "title": "Student loan borrowers \u2014 including higher earners \u2014 may qualify for lower monthly bills soon",
-    "fetched_on": "2025-12-10T18:33:31.905260+00:00",
+    "fetched_on": "2025-12-10T19:19:59.282083+00:00",
     "content": "Many student loan borrowers may soon be able to switch into a repayment plan that lowers their monthly bill. Here's what to know.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/11/29/student-loans-tax-planning.html",
     "title": "Student loans and year-end tax planning \u2014 4 steps for borrowers to take",
-    "fetched_on": "2025-12-10T18:33:31.905281+00:00",
+    "fetched_on": "2025-12-10T19:19:59.282103+00:00",
     "content": "Recent changes to the federal student loan system may affect borrowers' taxes. There are some helpful steps you can take now, experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1050,7 +1050,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-10/imf-urges-bolder-stimulus-from-china-to-rebalance-economy-trade",
     "title": "IMF Wades Into Debate Over Yuan, Warns on Risk of Trade Tensions",
-    "fetched_on": "2025-12-10T18:33:10.872990+00:00",
+    "fetched_on": "2025-12-10T19:19:42.084834+00:00",
     "content": "The International Monetary Fund linked China\u2019s booming exports and growing trade imbalances in part to a real depreciation of the yuan, lending its voice to a debate over distortions caused by a weaker exchange rate.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1407,23 +1407,21 @@
     ]
   },
   {
-    "source": "Yahoo Entertainment [NewsAPI]",
+    "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/u-solar-installations-soar-developers-103000352.html",
     "title": "U.S. Solar Installations Soar as Developers Rush to Secure Tax Credits",
-    "fetched_on": "2025-12-10T11:20:26.096816+00:00",
-    "content": "The U.S. solar market saw a significant jump in capacity installations in the third quarter as developers ramp up activity and construction to qualify for the last investment tax credits that are bei\u2026 [+2728 chars]",
+    "fetched_on": "2025-12-10T19:19:59.484729+00:00",
+    "content": "",
     "platforms_mentioned": [],
     "keywords": [
       "Solar",
-      "Developers",
-      "Tax",
       "Credits",
-      "chars",
       "Installations",
       "Soar",
+      "Developers",
       "Rush",
       "Secure",
-      "bei"
+      "Tax"
     ]
   },
   {
@@ -1630,7 +1628,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
     "title": "Refinance demand for FHA loans jumps 24%, as homeowners seek the most savings they can",
-    "fetched_on": "2025-12-10T18:33:31.524232+00:00",
+    "fetched_on": "2025-12-10T19:19:59.065703+00:00",
     "content": "Current homeowners are turning to government FHA loans, which offer lower interest rates, to find savings, as conventional rates turn higher.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1790,7 +1788,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/europe-agrees-to-slash-emissions-90.html",
     "title": "Europe agrees to cut emissions 90% by 2040",
-    "fetched_on": "2025-12-10T18:33:31.378887+00:00",
+    "fetched_on": "2025-12-10T19:19:58.737608+00:00",
     "content": "The amendment to the EU Climate law also includes guidance on removal credits.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2308,7 +2306,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-10/jpmorgan-alums-hedge-fund-advised-altice-on-asset-shifting-deal-mj02p3a8",
     "title": "JPMorgan Alums\u2019 Hedge Fund Advised Altice on Asset-Shifting Deal",
-    "fetched_on": "2025-12-10T18:33:11.076689+00:00",
+    "fetched_on": "2025-12-10T19:19:42.227017+00:00",
     "content": "Billionaire Patrick Drahi and the management team of Altice International turned to an unusual adviser to obtain new financing after shifting most of its assets out of creditors\u2019 reach: a hedge fund founded by former JPMorgan Chase &amp; Co. bankers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2448,7 +2446,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-10/brightline-s-hedge-fund-bondholders-ready-restructuring-of-debt",
     "title": "Brightline\u2019s Hedge Fund Bondholders Ready Restructuring of Debt",
-    "fetched_on": "2025-12-10T18:33:09.965259+00:00",
+    "fetched_on": "2025-12-10T19:19:41.476778+00:00",
     "content": "Hedge funds with a stake in Brightline\u2019s $1.1 billion of corporate debt are crafting a plan to elevate their claims over other similar creditors by offering new financing and concessions to the struggling high-speed rail project.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2468,7 +2466,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/audio/2025-12-10/credit-crunch-around-the-world-of-global-credit-in-60-minutes",
     "title": "Credit Crunch: Around the World of Global Credit in 60 Minutes",
-    "fetched_on": "2025-12-10T18:33:10.482592+00:00",
+    "fetched_on": "2025-12-10T19:19:41.749589+00:00",
     "content": "Global credit markets are tight, and strategic insights are essential heading into 2026. In this episode of the Credit Crunch podcast, Mahesh Bhimalingam, Bloomberg Intelligence\u2019s global head of credit strategy, hosts BI\u2019s global credit strategy team to discuss worldwide research, data and views. Tim Tan and Jason Lee (Asia), Basel Al-Waqayan (Middle East), Reto Bachmann (Structured Finance), Sam Geier (US) and Bhimalingam (Europe) share takeaways on their market outlook, relative value and majo",
     "platforms_mentioned": [],
     "keywords": [
@@ -2488,7 +2486,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2025-12-10/signa-founder-benko-found-guilty-of-insolvency-fraud-standard",
     "title": "Signa Founder Benko Found Guilty of Hiding Watches in Fraud",
-    "fetched_on": "2025-12-10T18:33:11.076584+00:00",
+    "fetched_on": "2025-12-10T19:19:42.226923+00:00",
     "content": "Rene Benko, who built a $27 billion global property empire that spanned New York\u2019s Chrysler Building to London\u2019s Selfridges department store, was found guilty of hiding some luxury watches from creditors in a second set of Austrian insolvency fraud charges.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2688,7 +2686,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/student-loan-options-save-forbearance.html",
     "title": "Student loan borrowers have 'a limited time' to leave payment pause. Here are their options",
-    "fetched_on": "2025-12-10T18:33:31.905079+00:00",
+    "fetched_on": "2025-12-10T19:19:59.281901+00:00",
     "content": "Under the terms of a proposed Education Department settlement, millions of student loan borrowers would soon have to resume payments. Here are their options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2708,7 +2706,7 @@
     "source": "Inside the Magic [NewsAPI]",
     "url": "https://insidethemagic.net/2025/12/disney-world-apartments-dvc-lakeshore-emd1/",
     "title": "Apartment-Style Living Coming in 2027 to Walt Disney World Resort",
-    "fetched_on": "2025-12-10T18:33:09.160176+00:00",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
     "content": "In Disney World news, guests may soon have the option for \u201capartment living\u201d within the property, bringing them even closer to their favorite parks.\r\nCredit: Joe Schlabotnik, Flickr\r\nHidden Oasis: Di\u2026 [+5309 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2728,7 +2726,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/news/india/parliament-watch-ai-push-in-steel-big-pli-moves-loan-sanctions-tariffs-more/articleshow/125875310.cms",
     "title": "Parliament watch: AI push in steel, big PLI moves, loan sanctions, tariffs & more",
-    "fetched_on": "2025-12-10T18:33:09.160176+00:00",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
     "content": "Steel CPSEs Adopting AI-based TechSteel ministrys public sector undertakings have adopted artificial intelligence-based digital technologies. In a written response to the Lok Sabha, MoS for steel Bhu\u2026 [+5839 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2748,7 +2746,7 @@
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/do-shane-and-ilya-end-up-together-heated-rivalry-5492233/",
     "title": "Do Shane & Ilya End Up Together or Break Up in \u2018Heated Rivalry\u2019?",
-    "fetched_on": "2025-12-10T18:33:09.160176+00:00",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
     "content": "Image Credit: Crave/HBO Max\r\nUnless you havent opened Instagram all month, youve probably seen clips of a brand-new hockey romance series called Heated Rivalry. Based on the books by Rachel Reid, the\u2026 [+2991 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2768,7 +2766,7 @@
     "source": "Cheezburger.com [NewsAPI]",
     "url": "https://cheezburger.com/43490309/ill-keep-my-mouth-shut-boss-demands-employee-stay-silent-during-project-presentation-trying-to-take",
     "title": "\u2018I'll keep my mouth shut\u2019: Boss demands employee stay silent during project presentation, trying to take credit for employee's work, VP puts boss in her place",
-    "fetched_on": "2025-12-10T18:33:09.160176+00:00",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
     "content": "At work, more often than not, you do not get the proper credit you deserve for the hard work you put in. You can spend countless hours at work, even lose sleep on a certain project, and never even ge\u2026 [+808 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2788,7 +2786,7 @@
     "source": "Biztoc.com [NewsAPI]",
     "url": "https://biztoc.com/x/cc65835233a678de",
     "title": "Fed\u2019s next move could quietly raise the cost of your safety net",
-    "fetched_on": "2025-12-10T18:33:09.160176+00:00",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
     "content": "Your safety net has a price tag.Its what you pay to carry a credit card balance.Its the rate on your homeequity line if you lose your job and need cash.And its the interest your emergency fund earns \u2026 [+135 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2808,7 +2806,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/credit-provided-by-capital-markets-will-overtake-bank-credit-kotak-mahindra-amc-chief-nilesh-shah/articleshow/125875165.cms",
     "title": "Credit provided by capital markets will overtake bank credit: Kotak Mahindra AMC chief Nilesh Shah",
-    "fetched_on": "2025-12-10T18:33:09.160176+00:00",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
     "content": "Credit provided by the mutual fund industry will overtake bank credit one day, a veteran asset manager said on Tuesday.Nilesh Shah, the managing director and chief executive of Kotak Mahindra AMC, wh\u2026 [+1368 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2828,7 +2826,7 @@
     "source": "CBS News [NewsAPI]",
     "url": "https://www.cbsnews.com/news/does-credit-card-debt-qualify-for-401k-hardship-withdrawal/",
     "title": "Does credit card debt qualify for a 401(k) hardship withdrawal?",
-    "fetched_on": "2025-12-10T18:33:09.160176+00:00",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
     "content": "The 401(k) hardship rules were designed to protect long-term retirement security, not to offer quick fixes for debt.\r\nGetty Images/iStockphoto\r\nCredit card balances just keep climbing nationwide, wit\u2026 [+5518 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2882,6 +2880,122 @@
       "network",
       "unveiled",
       "begin"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/mercedes-benz-signs-coco-gauff-as-global-ambassador/",
+    "title": "Mercedes-Benz signs Coco Gauff as global ambassador",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
+    "content": "Commerce\r\nDecember 9, 2025\r\n The American tennis player holds two Grand Slam singles titles. Image credit: Mercedes-Benz \r\n By Kiran Gill for Luxury Daily News Service\r\nGermanys Mercedes-AMG\u00a0has a ne\u2026 [+3663 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Coco",
+      "Gauff",
+      "Commerce",
+      "American",
+      "Grand",
+      "Slam",
+      "Mercedes-Benz",
+      "titles",
+      "chars"
+    ]
+  },
+  {
+    "source": "Viewfromthewing.com [NewsAPI]",
+    "url": "https://viewfromthewing.com/amex-business-platinums-big-200000-point-offer-and-credits-that-can-more-than-cover-the-cards-fee/",
+    "title": "Amex Business Platinum\u2019s Big 200,000 Point Offer And Credits That Can More Than Cover The Card\u2019s Fee",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
+    "content": "I receive compensation for content and many links on this blog. Be aware that websites may earn compensation when a customer clicks on a link, when an application is approved, or when an account is o\u2026 [+7915 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Big",
+      "Point",
+      "Business",
+      "Platinum",
+      "Offer",
+      "Credits",
+      "Cover",
+      "Card",
+      "Fee",
+      "Amex"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/12/09/gov-healey-demands-congressional-republicans-extend-obamacare-tax-credits/",
+    "title": "Gov. Healey demands congressional Republicans extend Obamacare tax credits",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
+    "content": "Governor Maura Healey is demanding congressional Republicans vote to extend a set of tax credits under the Affordable Care Act (ACA) to prevent what she calls skyrocketing healthcare costs across the\u2026 [+4780 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gov",
+      "ACA",
+      "Republicans",
+      "Act",
+      "chars",
+      "Healey",
+      "congressional",
+      "tax",
+      "credits",
+      "Obamacare"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Starlink-now-selling-cheapest-ever-89-dish-from-self-service-kiosk-with-100-service-credit.1181640.0.html",
+    "title": "Starlink now selling cheapest-ever $89 dish from self-service kiosk with $100 service credit",
+    "fetched_on": "2025-12-10T19:19:40.710032+00:00",
+    "content": "SpaceX is branching out and selling its Starlink satellite Internet service anywhere it can. After the first appearance of the Starlink Standard Kit in Home Depot, Best Buy, Costco, or Walmart, Space\u2026 [+2166 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Internet",
+      "Starlink",
+      "selling",
+      "service",
+      "cheapest-ever",
+      "dish",
+      "Costco",
+      "Space",
+      "self-service",
+      "kiosk"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/12/10/fed-december-rate-cut-mortgages-loans-savings-impact.html",
+    "title": "What December's Fed rate cut means for your mortgage, credit card, auto loan, student debt and savings",
+    "fetched_on": "2025-12-10T19:19:59.281881+00:00",
+    "content": "From\u00a0credit cards and car loans to mortgage rates, student loans and savings accounts, here's a look at the ways a Fed rate cut could affect your finances.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "student",
+      "December",
+      "rate",
+      "cut",
+      "credit",
+      "savings",
+      "auto",
+      "accounts",
+      "finances"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/banking/consumer-loans-are-getting-harder-to-tallyand-the-risks-harder-to-gauge-29bfeb90?siteid=yhoof2&yptr=yahoo",
+    "title": "Consumer Loans Are Getting Harder to Tally\u2014and the Risks Harder to Gauge",
+    "fetched_on": "2025-12-10T19:19:59.484737+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Harder",
+      "Tally",
+      "Gauge",
+      "Loans",
+      "Risks",
+      "Consumer"
     ]
   }
 ]
