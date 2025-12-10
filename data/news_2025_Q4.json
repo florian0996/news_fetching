@@ -244906,5 +244906,45 @@
       "Frame",
       "Tasmanian"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/6071101996aaa032",
+    "title": "Boaz Weinstein’s $2bn flagship hedge fund sinks amid buoyant markets",
+    "fetched_on": "2025-12-10T05:23:35.075002+00:00",
+    "content": "Loss of 6.5% this year for credit strategy extends period of lacklustre performance for Saba Capital\r\nThis story appeared on ft.com, 2025-12-09 05:00:31.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Weinstein",
+      "Loss",
+      "Saba",
+      "Capital",
+      "Boaz",
+      "flagship",
+      "ft.com",
+      "hedge",
+      "fund",
+      "sinks"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/your-money/2025/12/09/how-do-i-claim-my-tax-credit-for-selling-solar-energy-back-to-my-supplier/",
+    "title": "How do I claim my tax credit for selling solar energy back to my supplier?",
+    "fetched_on": "2025-12-10T05:23:35.075002+00:00",
+    "content": "Four years ago, we installed a solar PV array on our roof, and now we are in credit with Electric Ireland to the tune of about 2,000.\r\nI understand we are entitled to 400 tax free for the last two ye… [+5292 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "supplier",
+      "credit",
+      "solar",
+      "claim",
+      "selling",
+      "energy",
+      "back",
+      "tax",
+      "Electric",
+      "Ireland"
+    ]
   }
 ]
