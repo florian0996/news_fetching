@@ -248249,5 +248249,65 @@
       "surges",
       "booms"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/939422",
+    "title": "[Switch] Moving Out 2 Deluxe Edition $11.98 @ Nintendo eShop",
+    "fetched_on": "2025-12-11T07:25:54.359270+00:00",
+    "content": "Credit to @Succulent from the Moving Out 1 deal here and to @tacos4brekkie's comment.\r\nAll time low, must purchase Deluxe Edition to get the deal, note if you want 1 and 2, don't buy the bundle, it l… [+52 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moving",
+      "Switch",
+      "Nintendo",
+      "Succulent",
+      "comment",
+      "Deluxe",
+      "Edition",
+      "Credit",
+      "deal",
+      "eShop"
+    ]
+  },
+  {
+    "source": "Arxiv.org [NewsAPI]",
+    "url": "https://arxiv.org/abs/2512.09366",
+    "title": "Meta-learning three-factor plasticity rules for structured credit assignment with sparse feedback",
+    "fetched_on": "2025-12-11T07:25:54.359270+00:00",
+    "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Meta-learning",
+      "website",
+      "arXivLabs",
+      "three-factor",
+      "plasticity",
+      "rules",
+      "structured",
+      "credit",
+      "assignment",
+      "sparse"
+    ]
+  },
+  {
+    "source": "Premium Times [NewsAPI]",
+    "url": "https://www.premiumtimesng.com/business/business-news/841872-cbn-targets-wider-agricultural-lending-as-cardoso-unveils-new-acgsf-board.html",
+    "title": "CBN targets wider agricultural lending as Cardoso unveils new ACGSF board",
+    "fetched_on": "2025-12-11T07:25:54.359270+00:00",
+    "content": "The Central Bank of Nigeria (CBN) has inaugurated a new Board for the Agricultural Credit Guarantee Scheme Fund (ACGSF), with Governor Olayemi Cardoso outlining a broad agenda to modernise agricultur… [+3038 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CBN",
+      "chars",
+      "Nigeria",
+      "Fund",
+      "Cardoso",
+      "ACGSF",
+      "agricultural",
+      "board",
+      "Central",
+      "Bank"
+    ]
   }
 ]
