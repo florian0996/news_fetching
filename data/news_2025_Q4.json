@@ -249261,5 +249261,85 @@
       "million",
       "products"
     ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2025/12/10/australia-social-media-ban/",
+    "title": "Australia Social Media Ban: Who Does the New Law Affect?",
+    "fetched_on": "2025-12-11T14:24:11.710217+00:00",
+    "content": "Image Credit: Getty Images\r\nAustralia introduced a social media ban on younger users effective December 10, 2025. Millions of teens and tweens woke up that day with no access to their social media ac… [+2351 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Affect",
+      "Media",
+      "Law",
+      "Social",
+      "Ban",
+      "Australia",
+      "Credit",
+      "Getty",
+      "December",
+      "chars"
+    ]
+  },
+  {
+    "source": "Coinjournal.net [NewsAPI]",
+    "url": "https://coinjournal.net/news/folks-finance-announces-xchain-v2-with-10m-incentives-scaling-crosschain-defi-into-mainstream-use/",
+    "title": "Folks Finance announces xChain V2 with $10m+ incentives: Scaling crosschain DeFi into mainstream use",
+    "fetched_on": "2025-12-11T14:24:11.710217+00:00",
+    "content": "<ul><li>Folks Finance to launch xChain V2 in H1 2026 with $10M in incentives for crosschain lending users.</li><li>V2 upgrade brings simpler crosschain DeFi, new strategy vaults, and EVM + non-EVM su… [+2730 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Folks",
+      "Finance",
+      "Scaling",
+      "EVM",
+      "xChain",
+      "chars",
+      "crosschain",
+      "DeFi",
+      "users.",
+      "upgrade"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/10/3203188/0/en/Folks-Finance-announces-xChain-V2-with-10m-incentives-Scaling-crosschain-DeFi-into-mainstream-use.html",
+    "title": "Folks Finance announces xChain V2 with $10m+ incentives: Scaling crosschain DeFi into mainstream use",
+    "fetched_on": "2025-12-11T14:24:11.710217+00:00",
+    "content": "SINGAPORE, Dec. 10, 2025 (GLOBE NEWSWIRE) -- Folks Finance, the leading crosschain lending protocol backed by Coinbase Ventures, Jump, ParaFi, and Borderless Capital, is entering its next development… [+2092 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Folks",
+      "Dec.",
+      "Jump",
+      "Finance",
+      "incentives",
+      "ParaFi",
+      "chars",
+      "Scaling",
+      "SINGAPORE",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392777/humans-can-detect-buried-objects-without-directly-touching-them",
+    "title": "Humans can detect buried objects without directly touching them",
+    "fetched_on": "2025-12-11T14:24:11.710217+00:00",
+    "content": "Science &amp; Technology\r\nBy T.K. RandallDecember 10, 2025 ·  0 commentsWe are surprisingly good at finding buried things. Image Credit: CC BY-SA 2.0 Heribert BechenA new study has highlighted a surp… [+1787 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RandallDecember",
+      "Science",
+      "Technology",
+      "Humans",
+      "commentsWe",
+      "things",
+      "buried",
+      "chars",
+      "Credit",
+      "BY-SA"
+    ]
   }
 ]
