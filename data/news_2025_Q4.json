@@ -248189,5 +248189,65 @@
       "Gift",
       "Cards"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/credit-provided-by-capital-markets-will-overtake-bank-credit-kotak-mahindra-amc-chief/article70379020.ece",
+    "title": "Credit provided by capital markets will overtake bank credit: Kotak Mahindra AMC chief",
+    "fetched_on": "2025-12-11T06:36:34.029180+00:00",
+    "content": "Credit provided by the mutual fund industry will overtake bank credit one day, a veteran asset manager said on Tuesday.\r\n Nilesh Shah, the managing director and chief executive of Kotak Mahindra AMC,… [+1421 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Mahindra",
+      "Tuesday",
+      "provided",
+      "overtake",
+      "bank",
+      "Kotak",
+      "AMC",
+      "day",
+      "chief"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/struggling-with-multiple-loans-heres-how-debt-consolidation-can-save-your-finances/the-big-question-should-you-consolidate-your-loans/slideshow/125883882.cms",
+    "title": "Struggling with multiple loans? Here’s how debt consolidation can save your finances",
+    "fetched_on": "2025-12-11T06:36:34.029180+00:00",
+    "content": "Dec 10, 2025, 11:41:23 AM IST\r\nDebt consolidation allows you to combine several high-interest loans into a single, easy-to-manage EMI. This approach makes repayment simpler and less stressful. It hel… [+2593 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Struggling",
+      "debt",
+      "Dec",
+      "loans",
+      "consolidation",
+      "multiple",
+      "IST",
+      "chars",
+      "single"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/42efcbaf918f9b70",
+    "title": "Emerging market private credit surges to record $18bn",
+    "fetched_on": "2025-12-11T06:36:34.029180+00:00",
+    "content": "Lending booms in developing economies even as US industry struggles following collapse of First Brands\r\nThis story appeared on ft.com, 2025-12-10 05:00:15.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "Brands",
+      "Emerging",
+      "record",
+      "ft.com",
+      "market",
+      "private",
+      "credit",
+      "surges",
+      "booms"
+    ]
   }
 ]
