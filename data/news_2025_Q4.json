@@ -249041,5 +249041,225 @@
       "Address",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-11/eu-seeks-russian-asset-freeze-deal-by-friday-to-ease-ukraine-aid",
+    "title": "EU Eyes Russian Asset Freeze Deal by Friday for Ukraine Loan",
+    "fetched_on": "2025-12-11T13:40:35.793488+00:00",
+    "content": "The European Union is pushing to reach an agreement as early as Friday to lengthen the bloc’s freeze on Russian assets using emergency powers &mdash; a key step toward tapping the funds to help Ukraine.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Russian",
+      "Friday",
+      "Ukraine",
+      "Freeze",
+      "Eyes",
+      "Deal",
+      "Loan",
+      "European",
+      "Union",
+      "powers"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-12-11/tech-disruptors-salesforce-scaling-agentforce-in-the-enterprise",
+    "title": "Tech Disruptors: Salesforce Scaling AgentForce in the Enterprise",
+    "fetched_on": "2025-12-11T13:40:36.117284+00:00",
+    "content": "“…A successful agentic enterprise deployment means each of your departments are fundamentally different,” Salesforce’s VP of Product Marketing for AI Sanjana Parulekar says, as she joins Bloomberg Intelligence Senior Technology Analyst Anurag Rana to unpack what it really takes to scale Agentic AI beyond pilots: getting data AI-ready; adding context and governance; blending deterministic workflows with LLM reasoning via hybrid reasoning and monitoring cost and quality with observability tools. T",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Salesforce",
+      "Disruptors",
+      "Enterprise",
+      "agentic",
+      "Scaling",
+      "Product",
+      "Marketing",
+      "Sanjana",
+      "Parulekar",
+      "Bloomberg"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/pii-guard/",
+    "title": "pii-guard added to PyPI",
+    "fetched_on": "2025-12-11T13:40:34.709563+00:00",
+    "content": "Fast, accurate PII detection for LLM applications. Zero dependencies, works 100% offline.\r\nFeatures\r\n<ul><li>50+ PII entity types - SSN, credit cards, emails, phones, crypto addresses, medical record… [+6326 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fast",
+      "LLM",
+      "pii-guard",
+      "accurate",
+      "applications",
+      "PII",
+      "SSN",
+      "works",
+      "offline",
+      "added"
+    ]
+  },
+  {
+    "source": "Daily Hive [NewsAPI]",
+    "url": "https://dailyhive.com/canada/tax-credits-expiring-canada",
+    "title": "Canadians running out of time to claim these expiring tax credits",
+    "fetched_on": "2025-12-11T13:40:34.709563+00:00",
+    "content": "It's never too early to prepare for tax season in Canada, and as the new year approaches, one expert suggests you start looking at receipts.\r\nTax preparation company H&amp;R Block is urging taxpayers… [+5031 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canada",
+      "Canadians",
+      "approaches",
+      "receipts",
+      "tax",
+      "running",
+      "time",
+      "claim",
+      "expiring",
+      "credits"
+    ]
+  },
+  {
+    "source": "Mactrast.com [NewsAPI]",
+    "url": "https://www.mactrast.com/2025/12/european-commission-claims-credit-for-new-iphone-android-switching-tools/",
+    "title": "European Commission Claims Credit for New iPhone-Android Switching Tools",
+    "fetched_on": "2025-12-11T13:40:34.709563+00:00",
+    "content": "The European Commission has jumped to claim credit for Apple and Google’s recent moves to cooperate in creating tools to make it easier to switch between their platforms, iOS and Android. The EC says… [+2120 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Commission",
+      "Credit",
+      "European",
+      "Tools",
+      "Android",
+      "Switching",
+      "Apple",
+      "Google",
+      "Claims",
+      "claim"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/10/3203135/0/en/TransUnion-2026-Outlook-Moderate-Credit-Card-Balance-Growth-and-Stable-Delinquency-Rates-Signal-Consumer-Perseverance.html",
+    "title": "TransUnion 2026 Outlook: Moderate Credit Card Balance Growth and Stable Delinquency Rates Signal Consumer Perseverance",
+    "fetched_on": "2025-12-11T13:40:34.709563+00:00",
+    "content": "CHICAGO, Dec. 10, 2025 (GLOBE NEWSWIRE) -- TransUnion (NYSE: TRU) today released its 2026 Consumer Credit Forecast, projecting credit card balances to grow 2.3% year over year (YoY)the smallest annua… [+6810 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TransUnion",
+      "Outlook",
+      "Dec.",
+      "NYSE",
+      "TRU",
+      "Credit",
+      "Card",
+      "Consumer",
+      "Moderate",
+      "CHICAGO"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ba6731929eabb7c4",
+    "title": "What a Fed rate cut means for your home, car and credit card loans",
+    "fetched_on": "2025-12-11T13:40:34.709563+00:00",
+    "content": "The Federal Reserve is expected to lower interest rates Wednesday. Heres what that means for your mortgages, car loans and credit cards.\r\nThis story appeared on washingtonpost.com, 2025-12-10 13:00:1… [+1 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wednesday",
+      "Fed",
+      "Federal",
+      "Reserve",
+      "car",
+      "credit",
+      "home",
+      "loans",
+      "cut",
+      "expected"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/10/3203088/0/en/Servus-Credit-Union-rewards-members-with-83-million-through-annual-Profit-Share-program.html",
+    "title": "Servus Credit Union rewards members with $83 million through annual Profit Share® program",
+    "fetched_on": "2025-12-11T13:40:34.709563+00:00",
+    "content": "EDMONTON, Alberta, Dec. 10, 2025 (GLOBE NEWSWIRE) -- In a move unlike other financial institutions, Servus Credit Union Ltd. (Servus) announced today it is sharing $83 million in profits with its mem… [+2850 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Servus",
+      "Union",
+      "Alberta",
+      "Dec.",
+      "Share",
+      "EDMONTON",
+      "GLOBE",
+      "NEWSWIRE",
+      "million"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/primaris-reit-provides-leasing-and-status-update-on-former-anchor-space",
+    "title": "Primaris REIT Provides Leasing and Status Update on Former Anchor Space",
+    "fetched_on": "2025-12-11T13:40:34.709563+00:00",
+    "content": "Replacing the Target and Sears tenancies dramatically shifted the tenant and credit profile of our business, with a wide range of retailers including grocery, pharmacy, and other national and interna… [+13960 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "pharmacy",
+      "chars",
+      "REIT",
+      "Leasing",
+      "Status",
+      "Update",
+      "Anchor",
+      "Space",
+      "Replacing",
+      "Target"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/73085d5b7f36e534",
+    "title": "Why Markets Are Getting Anxious About the Fed",
+    "fetched_on": "2025-12-11T13:40:34.709563+00:00",
+    "content": "The central bank is widely expected to lower its benchmark lending rate on Wednesday. But investors are worried about what comes afterward.\r\nThis story appeared on nytimes.com, 2025-12-10 12:48:59.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wednesday",
+      "Markets",
+      "Anxious",
+      "Fed",
+      "central",
+      "bank",
+      "widely",
+      "expected",
+      "lower",
+      "benchmark"
+    ]
+  },
+  {
+    "source": "CNBC Technology [RSS]",
+    "url": "https://www.cnbc.com/2025/12/11/esusu-funding-renters-credit-scores.html",
+    "title": "Esusu, platform for renters to build credit scores, valued at $1.2 billion in new funding round",
+    "fetched_on": "2025-12-11T13:41:04.906158+00:00",
+    "content": "Esusu raises $50 million at a $1.2 billion valuation as it helps more renters build credit scores and gain access to mortgages and other financial products.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "billion",
+      "Esusu",
+      "build",
+      "scores",
+      "platform",
+      "valued",
+      "raises",
+      "million",
+      "products"
+    ]
   }
 ]
