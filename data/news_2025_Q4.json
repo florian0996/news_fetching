@@ -251695,5 +251695,105 @@
       "loan",
       "debt"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-12/bit-more-worried-about-credit-markets-than-equities-l-g-video",
+    "title": "'Bit More Worried' About Credit Markets Than Equities Going Into 2026, L&G Says",
+    "fetched_on": "2025-12-12T04:35:09.636100+00:00",
+    "content": "Ben Bennett, L&amp;G's Asia head of investment strategy, shares his views on how Chinese and US markets could perform going into 2026. He speaks on Bloomberg Television. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bit",
+      "Worried",
+      "Bennett",
+      "Markets",
+      "Credit",
+      "Equities",
+      "Ben",
+      "Asia",
+      "Chinese",
+      "strategy"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-12/china-vanke-seeks-a-one-year-extension-on-a-second-local-bond",
+    "title": "China Vanke Seeks a One-Year Extension on a Second Local Bond",
+    "fetched_on": "2025-12-12T04:35:09.636113+00:00",
+    "content": "China Vanke Co. offered creditors details of its plan to delay payment on a second bond maturing this month, as it races to avert a default on any of its nearly $2 billion of local debt that is due in the coming months.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vanke",
+      "China",
+      "Local",
+      "Bond",
+      "Seeks",
+      "Extension",
+      "billion",
+      "month",
+      "months",
+      "One-Year"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/the-philippines-tests-transition-credits-to-cut-coal-use-in-novel-experiment",
+    "title": "The Philippines tests ‘transition credits’ to cut coal use in novel experiment",
+    "fetched_on": "2025-12-12T04:35:08.745758+00:00",
+    "content": "Philippine pilot project splits opinions\r\nThe transition credit experiment is playing out at the 270-megawatt South Luzon Thermal Energy Corp. power plant in Calaca City, south of Manila.\r\nThe site w… [+3026 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Corp",
+      "South",
+      "Luzon",
+      "Thermal",
+      "Energy",
+      "Philippines",
+      "transition",
+      "experiment",
+      "tests",
+      "credits’"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/jade-lemac-talks-about-her-new-music-touring-and-mental-health-in-the-digital-age/article",
+    "title": "Jade LeMac talks about her new music, touring, and mental health in the digital age",
+    "fetched_on": "2025-12-12T04:35:08.745758+00:00",
+    "content": "Jade LeMac. Photo Credit: Meredith Truax.\r\nCanadian pop artist Jade LeMac chatted about her new music, Jingle Ball 2025 in New York, and being a recording artist in the digital age.\r\nMargaret Mead on… [+6589 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jade",
+      "touring",
+      "music",
+      "LeMac",
+      "digital",
+      "Credit",
+      "Meredith",
+      "Truax",
+      "age",
+      "talks"
+    ]
+  },
+  {
+    "source": "Gadget Flow [NewsAPI]",
+    "url": "https://thegadgetflow.com/blog/pebble-index-01-review/",
+    "title": "Pebble Index 01 review: I found a modern-day da Vinci notebook (it’s a smart ring)",
+    "fetched_on": "2025-12-12T04:35:08.745758+00:00",
+    "content": "I’m checking out a smart ring that records thoughts on the go. It looks simple but has interesting features.\r\nImage Credit: Pebble\r\nLeonardo da Vinci once wrote, “As you go about town, constantly obs… [+3241 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Index",
+      "smart",
+      "review",
+      "ring",
+      "Vinci",
+      "Pebble",
+      "notebook",
+      "found",
+      "modern-day",
+      "checking"
+    ]
   }
 ]
