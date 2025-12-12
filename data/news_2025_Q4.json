@@ -251658,5 +251658,42 @@
       "credit",
       "platform"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/nathan-spiteri-talks-about-his-new-documentary-and-being-a-filmmaker-in-the-digital-age/article",
+    "title": "Nathan Spiteri talks about his new documentary and being a filmmaker in the digital age",
+    "fetched_on": "2025-12-12T03:24:55.676939+00:00",
+    "content": "Nathan Spiteri. Photo Credit: Dean Love.\r\nActor, TED Talk speaker, and filmmaker Nathan Spiteri chatted about his new documentary “If You Tell Anyone,” and being a part of the digital age.\r\nThis film… [+4161 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spiteri",
+      "Nathan",
+      "digital",
+      "Credit",
+      "Dean",
+      "Love",
+      "documentary",
+      "age",
+      "filmmaker",
+      "TED"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/nakamoto-holdings-naka-refinances-debt-152524448.html",
+    "title": "Nakamoto Holdings (NAKA) refinances debt with $210M bitcoin-backed loan",
+    "fetched_on": "2025-12-12T03:25:17.726153+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NAKA",
+      "Holdings",
+      "Nakamoto",
+      "refinances",
+      "bitcoin-backed",
+      "loan",
+      "debt"
+    ]
   }
 ]
