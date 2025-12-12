@@ -252035,5 +252035,125 @@
       "land",
       "good"
     ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/business/stmicroelectronics-announces-1-billion-euro-credit-line-eib-5575836",
+    "title": "STMicroelectronics announces 1-billion-euro credit line with the EIB",
+    "fetched_on": "2025-12-12T07:25:03.048675+00:00",
+    "content": "We know it's a hassle to switch browsers but we want your experience with CNA to be fast, secure and the best it can possibly be.\r\nTo continue, upgrade to a supported browser or, for the finest exper… [+30 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EIB",
+      "CNA",
+      "STMicroelectronics",
+      "announces",
+      "credit",
+      "fast",
+      "secure",
+      "line",
+      "hassle",
+      "switch"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/business/stmicroelectronics-opens-new-1-billion-euro-credit-line-eib-5575836",
+    "title": "STMicroelectronics opens new 1-billion-euro credit line with EIB",
+    "fetched_on": "2025-12-12T07:25:03.048675+00:00",
+    "content": "Dec 11 : Chipmaker STMicroelectronics said on Thursday it had established a 1 billion euro ($1.2 billion) credit line with the European Investment Bank (EIB).\r\nThe first 500-million-euro slice will b… [+504 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "EIB",
+      "Dec",
+      "Chipmaker",
+      "Bank",
+      "line",
+      "billion",
+      "Thursday",
+      "European",
+      "Investment"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/3b9b5209553f8b21",
+    "title": "The Philippines tests ‘transition credits’ to cut coal use in novel experiment",
+    "fetched_on": "2025-12-12T07:25:03.048675+00:00",
+    "content": "The Philippines is testing a new type of carbon credit aimed at encouraging companies to cut their climate warming emissions\r\nThis story appeared on abcnews.go.com, 2025-12-11 05:01:48.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Philippines",
+      "cut",
+      "tests",
+      "transition",
+      "credits’",
+      "coal",
+      "experiment",
+      "testing",
+      "type",
+      "carbon"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/tax/itr-refund-delay-explained-reasons-why-your-tax-refund-is-delayed-this-year-and-how-to-check-status/articleshow/125905350.cms",
+    "title": "ITR refund delay explained: Reasons why your tax refund is delayed this year and how to check status",
+    "fetched_on": "2025-12-12T07:25:03.048675+00:00",
+    "content": "Are you still waiting for your income tax refund to be credited to your bank account and wondering why it is taking so long? While most taxpayers have got their income tax refund, specially those wit… [+6141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ITR",
+      "Reasons",
+      "tax",
+      "refund",
+      "explained",
+      "long",
+      "income",
+      "delay",
+      "delayed",
+      "year"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/11/3203633/0/en/EIB-and-STMicroelectronics-announce-1-billion-agreement-to-boost-Europe-s-competitiveness-and-strategic-autonomy.html",
+    "title": "EIB and STMicroelectronics announce €1 billion agreement to boost Europe’s competitiveness and strategic autonomy",
+    "fetched_on": "2025-12-12T07:25:03.048675+00:00",
+    "content": "JOINT PRESS RELEASE\r\n11 December 2025\r\nLuxembourg / Geneva\r\nEIB and STMicroelectronics announce 1 billion agreement to boost Europes competitiveness and strategic autonomy\r\n<ul><li>Credit line to str… [+5612 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EIB",
+      "announce",
+      "billion",
+      "December",
+      "Luxembourg",
+      "STMicroelectronics",
+      "agreement",
+      "boost",
+      "strategic",
+      "RELEASE"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/speeding-killed-nearly-1-24-lakh-people-non-wearing-of-helmet-seatbelt-caused-39-deaths/articleshow/125904755.cms",
+    "title": "Speeding killed nearly 1.24 lakh people, non-wearing of helmet & seatbelt caused 39% deaths",
+    "fetched_on": "2025-12-12T07:25:03.048675+00:00",
+    "content": "Representative image (Photo credit: ANI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANI",
+      "Photo",
+      "Representative",
+      "Speeding",
+      "lakh",
+      "people",
+      "non-wearing",
+      "helmet",
+      "seatbelt",
+      "caused"
+    ]
   }
 ]
