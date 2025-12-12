@@ -8,7 +8,11 @@ import feedparser
 import pandas as pd
 from datetime import datetime, timezone
 from pathlib import Path
-
+import imaplib
+import email
+from email.header import decode_header
+import hashlib
+import html
 
 import yake
 kw_extractor = yake.KeywordExtractor(lan="en", n=1, top=10)
@@ -70,6 +74,125 @@ RSS_FEEDS = {
     "Economics": "https://feeds.bloomberg.com/economics/news.rss",
     "Industries":"https://feeds.bloomberg.com/industries/news.rss"
 }
+
+# ========== NEWSLETTER FETCH ==========
+def fetch_newsletter_emails():
+    """Fetch emails from dedicated newsletter inbox."""
+    EMAIL = "exaloanmailbox@gmail.com"
+    PASSWORD = os.getenv("NEWSLETTER_EMAIL_PASSWORD")
+    IMAP_SERVER = "imap.gmail.com"
+    
+    if not PASSWORD:
+        raise ValueError("NEWSLETTER_EMAIL_PASSWORD environment variable not set.")
+    
+    print("→ Fetching newsletter emails...")
+    
+    try:
+        # Connect and login
+        imap = imaplib.IMAP4_SSL(IMAP_SERVER)
+        imap.login(EMAIL, PASSWORD)
+        
+        # Select inbox and fetch unread emails
+        imap.select("INBOX")
+        status, messages = imap.search(None, 'UNSEEN')
+        
+        if status != 'OK':
+            raise Exception("Failed to search for emails.")
+        
+        articles = []
+        email_ids = messages[0].split()
+        
+        for email_id in email_ids[-10:]:  # Last 10 unread
+            res, msg = imap.fetch(email_id, "(RFC822)")
+            
+            for response in msg:
+                if isinstance(response, tuple):
+                    msg_obj = email.message_from_bytes(response[1])
+                    
+                    # Decode subject and sender
+                    subject_headers = decode_header(msg_obj["Subject"] or "")
+                    subject = ""
+                    for part, encoding in subject_headers:
+                        if isinstance(part, bytes):
+                            subject += part.decode(encoding or 'utf-8', errors='ignore')
+                        else:
+                            subject += part
+                    
+                    from_headers = decode_header(msg_obj.get("From", "")) or ""
+                    sender = ""
+                    for part, encoding in from_headers:
+                        if isinstance(part, bytes):
+                            sender += part.decode(encoding or 'utf-8', errors='ignore')
+                        else:
+                            sender += part
+                    
+                    # Extract body content (prefer plain-text, fallback to html)
+                    body = ""
+                    if msg_obj.is_multipart():
+                        plain_found = False
+                        html_content = None
+                        for part in msg_obj.walk():
+                            content_type = part.get_content_type()
+                            disposition = str(part.get("Content-Disposition"))
+                            if content_type == "text/plain" and "attachment" not in disposition:
+                                payload = part.get_payload(decode=True)
+                                if payload:
+                                    try:
+                                        body = payload.decode('utf-8')
+                                    except UnicodeDecodeError:
+                                        body = payload.decode('latin-1', errors='ignore')
+                                    plain_found = True
+                                    break
+                            elif content_type == "text/html" and "attachment" not in disposition:
+                                payload = part.get_payload(decode=True)
+                                if payload:
+                                    try:
+                                        html_content = payload.decode('utf-8')
+                                    except UnicodeDecodeError:
+                                        html_content = payload.decode('latin-1', errors='ignore')
+                        
+                        if not plain_found and html_content:
+                            # Simple html to text fallback: unescape html entities and strip tags
+                            import re
+                            text_only = re.sub('<[^<]+?>', '', html_content)  # Remove HTML tags
+                            body = html.unescape(text_only)
+                    else:  # Not multipart
+                        payload = msg_obj.get_payload(decode=True)
+                        if payload:
+                            try:
+                                body = payload.decode('utf-8')
+                            except UnicodeDecodeError:
+                                body = payload.decode('latin-1', errors='ignore')
+                    
+                    now = datetime.now(timezone.utc).isoformat()
+                    
+                    # Generate unique ID as hash of subject + sender + timestamp
+                    unique_str = subject + sender + now
+                    unique_id = hashlib.md5(unique_str.encode('utf-8')).hexdigest()
+                    
+                    articles.append({
+                        "id": unique_id,
+                        "source": f"{sender} [Newsletter]",
+                        "url": "",  # Newsletters typically don't have URLs
+                        "title": subject,
+                        "fetched_on": now,
+                        "content": body,
+                        "platforms_mentioned": [],
+                    })
+        
+        imap.close()
+        imap.logout()
+        
+        print(f"→ Newsletter Emails: {len(articles)} fetched.")
+        return articles
+    
+    except Exception as e:
+        print(f"Error: {e}")
+        if 'imap' in locals():
+            imap.close()
+            imap.logout()
+        return []
+
 
 # ========== FINANZEN.NET FETCH ==========
 FINANZEN_FEED_URL = "https://www.finanzen.net/rss/news"
@@ -569,7 +692,8 @@ crunchbase_articles  = fetch_crunchbase_sections()
 cnbc_articles        = fetch_cnbc_rss()
 yahoo_articles       = fetch_yahoo_rss()
 sifted_articles      = fetch_sifted_rss()
-finanzen_articles      = fetch_finanzen_net()
+finanzen_articles    = fetch_finanzen_net()
+email_newsletters    = fetch_newsletter_emails()
 
 gnews_keywords = []
 for sub_q in GNEWS_QUERIES:
@@ -588,6 +712,7 @@ all_articles = (
   + yahoo_articles
   + sifted_articles
   + finanzen_articles
+  + email_newsletters
 )
 
 # Add keywords to each article
