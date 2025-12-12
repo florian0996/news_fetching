@@ -186,16 +186,15 @@ def fetch_newsletter_emails():
         print(f"→ Newsletter Emails: {len(articles)} fetched.")
         return articles
     
-        except Exception as e:
-            print(f"Error: {e}")
-            if 'imap' in locals():
-                try:
-                    imap.close()
-                    imap.logout()
-                except:
-                    pass  # Connection already closed or corrupted
-            return []
-
+    except Exception as e:  # ✅ Align with 'try'
+        print(f"Error: {e}")
+        if 'imap' in locals():
+            try:
+                imap.close()
+                imap.logout()
+            except:
+                pass
+        return []
 
 # ========== FINANZEN.NET FETCH ==========
 FINANZEN_FEED_URL = "https://www.finanzen.net/rss/news"
