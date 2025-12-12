@@ -13,6 +13,7 @@ import email
 from email.header import decode_header
 import hashlib
 import html
+import re
 
 import yake
 kw_extractor = yake.KeywordExtractor(lan="en", n=1, top=10)
@@ -118,7 +119,7 @@ def fetch_newsletter_emails():
                         else:
                             subject += part
                     
-                    from_headers = decode_header(msg_obj.get("From", "")) or ""
+                    from_headers = decode_header(msg_obj.get("From", ""))
                     sender = ""
                     for part, encoding in from_headers:
                         if isinstance(part, bytes):
@@ -153,7 +154,6 @@ def fetch_newsletter_emails():
                         
                         if not plain_found and html_content:
                             # Simple html to text fallback: unescape html entities and strip tags
-                            import re
                             text_only = re.sub('<[^<]+?>', '', html_content)  # Remove HTML tags
                             body = html.unescape(text_only)
                     else:  # Not multipart
@@ -186,12 +186,15 @@ def fetch_newsletter_emails():
         print(f"→ Newsletter Emails: {len(articles)} fetched.")
         return articles
     
-    except Exception as e:
-        print(f"Error: {e}")
-        if 'imap' in locals():
-            imap.close()
-            imap.logout()
-        return []
+        except Exception as e:
+            print(f"Error: {e}")
+            if 'imap' in locals():
+                try:
+                    imap.close()
+                    imap.logout()
+                except:
+                    pass  # Connection already closed or corrupted
+            return []
 
 
 # ========== FINANZEN.NET FETCH ==========
