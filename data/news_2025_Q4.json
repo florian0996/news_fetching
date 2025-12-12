@@ -251795,5 +251795,45 @@
       "modern-day",
       "checking"
     ]
+  },
+  {
+    "source": "Time [NewsAPI]",
+    "url": "https://time.com/7337800/athlete-of-the-year-aja-wilson-inspiration-young-girls/",
+    "title": "A’ja Wilson Talks About Her ‘Real Trophy’",
+    "fetched_on": "2025-12-12T05:24:16.401579+00:00",
+    "content": "A'ja Wilson and Gayle King speak onstage during the 2025 A Year In TIME event in New York City on Dec. 10, 2025. Credit - Craig BarrittGetty Images for TIME\r\nTIME Athlete of the Year Aja Wilson spoke… [+3574 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Real",
+      "Dec.",
+      "Wilson",
+      "TIME",
+      "Talks",
+      "Trophy’",
+      "A'ja",
+      "Gayle",
+      "King",
+      "York"
+    ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/Business/wireStory/philippines-tests-transition-credits-cut-coal-experiment-128301788",
+    "title": "The Philippines tests ‘transition credits’ to cut coal use in novel experiment",
+    "fetched_on": "2025-12-12T05:24:16.401579+00:00",
+    "content": "CALACA, Philippines -- The Philippines is testing a new type of carbon credit aimed at encouraging companies to cut their climate warming emissions by creating funds that can be used to turn coal-fir… [+5953 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Philippines",
+      "CALACA",
+      "chars",
+      "cut",
+      "tests",
+      "transition",
+      "coal-fir",
+      "credits’",
+      "coal",
+      "experiment"
+    ]
   }
 ]
