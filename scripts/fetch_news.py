@@ -544,16 +544,21 @@ def update_daily_file(articles):
     else:
         existing = []
     
-    # Merge and dedupe by URL
-    combined = {art.get("url"): art for art in existing}
+    # Merge and dedupe by 'id' if exists, else 'url'
+    combined = {}
+    for art in existing:
+        key = art.get("id") or art.get("url")
+        combined[key] = art
     for art in articles:
-        combined[art.get("url")] = art
+        key = art.get("id") or art.get("url")
+        combined[key] = art
     
     merged = list(combined.values())
     
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(merged, f, indent=2)
     print(f"✅ Updated {len(articles)} new articles, total {len(merged)} saved to {filepath}")
+
 # ========== RUN ==========
 newsapi_articles     = fetch_newsapi()
 rss_articles         = fetch_bloomberg_rss()
