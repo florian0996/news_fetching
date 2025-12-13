@@ -48,6 +48,9 @@ jobs:
 
       # 5) Fetch news
       - name: Run fetch_news script
+        env:
+          NEWSLETTER_EMAIL_PASSWORD: ${{ vars.NEWSLETTER_EMAIL_PASSWORD }}
+          GNEWS_API_KEY: ${{ vars.GNEWS_API_KEY }}
         run: python3 scripts/fetch_news.py --entity-queries data/Entity_GNews_Queries.csv
   
       # 6) Merge into all_news.json and a quarterly file
