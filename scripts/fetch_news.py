@@ -698,9 +698,10 @@ finanzen_articles    = fetch_finanzen_net()
 email_newsletters    = fetch_newsletter_emails()
 
 gnews_keywords = []
-for sub_q in GNEWS_QUERIES:
-    print(f"→ GNews chunk ({len(sub_q)} chars)…")
-    gnews_keywords.extend(fetch_gnews(sub_q))
+# Disabled keyword GNews fetches to focus on entities
+# for sub_q in GNEWS_QUERIES:
+#     print(f"→ GNews chunk ({len(sub_q)} chars)…")
+#     gnews_keywords.extend(fetch_gnews(sub_q))
 
 all_articles = (
     rss_articles
