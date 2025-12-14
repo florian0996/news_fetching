@@ -258014,5 +258014,45 @@
       "RBI",
       "State"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/97eb8d049fc82203",
+    "title": "HELOC rates today, December 13, 2025: Moving lower with the prime rate",
+    "fetched_on": "2025-12-14T14:19:38.686093+00:00",
+    "content": "The national average HELOC rate is tracing the path of the prime rate. Following the Federal Reserve's rate cut this week, the prime rate has fallen to 6.75%. Home equity line of credit lenders are a… [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "December",
+      "prime",
+      "rate",
+      "Moving",
+      "today",
+      "lower",
+      "national",
+      "average",
+      "tracing"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/13/3204982/0/en/New-Crypto-Coin-Mutuum-Finance-MUTM-Nears-100-of-Phase-6-Allocation-as-Investor-Activity-Accelerates.html",
+    "title": "New Crypto Coin Mutuum Finance (MUTM) Nears 100% of Phase 6 Allocation as Investor Activity Accelerates",
+    "fetched_on": "2025-12-14T14:19:38.686093+00:00",
+    "content": "Dubai, UAE, Dec. 13, 2025 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM), a new crypto coin positioned in the decentralized finance (DeFi) lending sector, is drawing increased attention as its Phase 6 all… [+5533 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Phase",
+      "UAE",
+      "Dec.",
+      "Mutuum",
+      "Crypto",
+      "Coin",
+      "Allocation",
+      "Dubai"
+    ]
   }
 ]
