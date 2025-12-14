@@ -257534,5 +257534,85 @@
       "Fox",
       "Ryans"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-13/vanke-fails-to-get-enough-bondholder-support-for-extension-plan",
+    "title": "China Vanke’s Paths to Avoid Default Narrow After Failed Vote",
+    "fetched_on": "2025-12-14T07:20:35.936797+00:00",
+    "content": "China Vanke Co., the nation’s last major developer to have so far avoided default amid an unprecedented property crisis, has been left with little time to keep debt failure at bay after creditors spurned its proposal to push back a looming bond payment.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vanke",
+      "China",
+      "Default",
+      "Paths",
+      "Avoid",
+      "Narrow",
+      "Failed",
+      "Vote",
+      "crisis",
+      "payment"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/economy-finance/sbi-passes-rbi-rate-cut-benefit-to-borrowers-reduces-lending-rate-by-25-bps",
+    "title": "SBI Passes RBI Rate Cut Benefit To Borrowers, Reduces Lending Rate By 25 Bps",
+    "fetched_on": "2025-12-14T07:20:35.055334+00:00",
+    "content": "The country's largest lender State Bank of India (SBI) has reduced its lending rate by 25 basis points, following the Reserve Bank's policy rate cut, making loans cheaper for existing and new borrowe… [+2232 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rate",
+      "SBI",
+      "Bank",
+      "Cut",
+      "Lending",
+      "Borrowers",
+      "Reduces",
+      "Bps",
+      "India",
+      "chars"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/openai-chatgpt-5-2-benchmarks/",
+    "title": "ChatGPT 5.2 OpenAI’s Best AI Yet for Productivity, Coding & Smart Planning",
+    "fetched_on": "2025-12-14T07:20:35.055334+00:00",
+    "content": "What if the future of work wasnt just faster, but smarter, effortlessly blending creativity, technical precision, and strategic insight? OpenAIs latest release, ChatGPT 5.2, promises to redefine what… [+7901 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coding",
+      "ChatGPT",
+      "Productivity",
+      "Smart",
+      "Planning",
+      "faster",
+      "smarter",
+      "effortlessly",
+      "creativity",
+      "technical"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-lowers-select-deposit-lending-rates/articleshow/125945595.cms",
+    "title": "SBI lowers select deposit, lending rates",
+    "fetched_on": "2025-12-14T07:20:35.055334+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "EMI",
+      "deposit",
+      "lending",
+      "loan",
+      "lowers",
+      "select",
+      "rates",
+      "CalculatorDetermine",
+      "monthly"
+    ]
   }
 ]
