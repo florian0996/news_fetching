@@ -258887,5 +258887,65 @@
       "Claims",
       "Accuses"
     ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4357253/posts",
+    "title": "Astronomy Picture of the Day - Orion and the Ocean of Storms",
+    "fetched_on": "2025-12-14T21:19:35.594817+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Orion and the Ocean of StormsNASA ^\r\n | 13 Dec, 2025\r\n | Image Credit: NASA, Artemis 1\r\nPosted on 12/13/2025 1:01:41 PM PST by MtnClimber\r\nExplanatio… [+2143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Orion",
+      "Picture",
+      "Ocean",
+      "Astronomy",
+      "Storms",
+      "Skip",
+      "comments",
+      "Dec",
+      "NASA"
+    ]
+  },
+  {
+    "source": "Utexas.edu [NewsAPI]",
+    "url": "https://www.jsg.utexas.edu/news/2025/12/buc-ees-t-shirt-shows-ut-fossil/",
+    "title": "Buc-ee’s T-shirt Shows UT Fossil",
+    "fetched_on": "2025-12-14T21:19:35.594817+00:00",
+    "content": "December 13, 2025\r\nA Buc-ees tshirt featuring Anchitheriomys buceei, a species of extinct beaver discovered in the Jackson School collections. Credit: Jackson School.\r\nBuc-ees, the popular Texas rest… [+858 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Jackson",
+      "School",
+      "T-shirt",
+      "Shows",
+      "Fossil",
+      "Anchitheriomys",
+      "buceei",
+      "collections",
+      "Buc-ees"
+    ]
+  },
+  {
+    "source": "Utexas.edu [NewsAPI]",
+    "url": "https://www.jsg.utexas.edu/news/2025/12/dinosaur-footprints-found-after-floods/",
+    "title": "Dinosaur Footprints Found After Floods",
+    "fetched_on": "2025-12-14T21:19:35.594817+00:00",
+    "content": "December 13, 2025\r\nOne of the dinosaur footprints revealed by the July 4 floods. Credit: Kenneth Bader.\r\nWhen several large, three-toed footprints were discovered embedded in rock on the banks of Big… [+900 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "July",
+      "Floods",
+      "Found",
+      "Dinosaur",
+      "Footprints",
+      "Kenneth",
+      "Bader",
+      "revealed",
+      "Credit"
+    ]
   }
 ]
