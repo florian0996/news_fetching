@@ -257834,5 +257834,65 @@
       "Financial",
       "Times"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/149dc335abe950bc",
+    "title": "Holiday heists warning: Scammers use Wi-Fi jammers, other devices to steal your packages, cars and credit cards, police say",
+    "fetched_on": "2025-12-14T12:42:13.604861+00:00",
+    "content": "A warning about scammers using technology to steal your holiday packages and even get access to your credit cards while shopping. Law enforcement says this technology is being used more by thieves.'T… [+146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "steal",
+      "Scammers",
+      "credit",
+      "cards",
+      "Holiday",
+      "warning",
+      "packages",
+      "jammers",
+      "cars",
+      "police"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/392851/what-did-nostradamus-predict-for-the-year-2026-and-beyond",
+    "title": "What did Nostradamus predict for the year 2026 and beyond ?",
+    "fetched_on": "2025-12-14T12:42:13.604861+00:00",
+    "content": "Modern Mysteries\r\nBy T.K. RandallDecember 13, 2025 ·  0 commentsWhat's in store for 2026 ? Image Credit: PDAs the end of the year approaches, we take a look at what Nostradamus wrote in his predictio… [+1890 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nostradamus",
+      "Modern",
+      "Image",
+      "Credit",
+      "RandallDecember",
+      "chars",
+      "year",
+      "Mysteries",
+      "commentsWhat",
+      "PDAs"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/12/14/student-loan-borrowers-forgiveness-idr-plans.html",
+    "title": "Some student loan borrowers pay 'more than necessary,' advisor says. What to know about relief programs",
+    "fetched_on": "2025-12-14T12:42:35.303568+00:00",
+    "content": "Many federal student loan borrowers surveyed said they don't know about income-driven repayment plans or the Public Service Loan Forgiveness program.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "pay",
+      "advisor",
+      "student",
+      "borrowers",
+      "Public",
+      "Service",
+      "Forgiveness",
+      "relief",
+      "federal"
+    ]
   }
 ]
