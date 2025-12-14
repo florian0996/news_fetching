@@ -257774,5 +257774,65 @@
       "Mobility",
       "empower"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-december-13-2025-110004823.html",
+    "title": "HELOC rates today, December 13, 2025: Moving lower with the prime rate",
+    "fetched_on": "2025-12-14T11:17:45.380537+00:00",
+    "content": "The national average HELOC rate is tracing the path of the prime rate. Following the Federal Reserve's rate cut this week, the prime rate has fallen to 6.75%. Home equity line of credit lenders are a… [+3816 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "December",
+      "prime",
+      "rate",
+      "Moving",
+      "today",
+      "lower",
+      "national",
+      "average",
+      "tracing"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-peaks-tonight-heres-what-to-expect-from-one-of-the-best-shooting-star-shows-of-the-year",
+    "title": "Geminid meteor shower peaks tonight — here’s what to expect from one of the best shooting star shows of the year",
+    "fetched_on": "2025-12-14T11:17:45.380537+00:00",
+    "content": "A composite view of the Geminid meteor shower taken from Arizona in the United States. (Image credit: Alan Dyer/VW Pics/UIG via Getty Images)\r\nThe Geminid meteor shower peaks overnight tonight (Dec. … [+4630 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Geminid",
+      "meteor",
+      "States",
+      "shower",
+      "Arizona",
+      "United",
+      "tonight",
+      "peaks",
+      "Dec.",
+      "expect"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/business/apollo-took-bets-against-software-makers-vulnerable-to-ai",
+    "title": "Apollo Took Bets Against Software Makers Vulnerable To AI",
+    "fetched_on": "2025-12-14T11:17:45.380537+00:00",
+    "content": "Apollo Global Management placed bets against the loans of several software makers as it grew increasingly bearish on technology firms vulnerable to artificial intelligence, the Financial Times report… [+848 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Bets",
+      "Software",
+      "Makers",
+      "Vulnerable",
+      "Apollo",
+      "Global",
+      "Management",
+      "Financial",
+      "Times"
+    ]
   }
 ]
