@@ -259005,5 +259005,45 @@
       "cardholders",
       "paying"
     ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/43589125/she-submitted-paperwork-claiming-shed-raised-me-estranged-aunt-linda-shows-up-at-her-nieces-home",
+    "title": "‘She submitted paperwork claiming she’d raised me’: Estranged aunt Linda shows up at her niece’s home after vanishing for 12 years, demanding she lie to help her get a caregiver credit government program money, but the niece refuses",
+    "fetched_on": "2025-12-14T23:20:15.776944+00:00",
+    "content": "Family reunion stories generally hit somewhere between heartwarming and weird. But this one came with a surprise guest appearance from an aunt who vanished over a decade ago and now needs a handwritt… [+1129 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Estranged",
+      "years",
+      "Linda",
+      "Family",
+      "niece",
+      "me’",
+      "demanding",
+      "money",
+      "weird",
+      "aunt"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/47bab482f712a356",
+    "title": "How tariffs on China are making the holiday season less merry for shoppers",
+    "fetched_on": "2025-12-14T23:20:15.776944+00:00",
+    "content": "This year it might not be the Grinch who threatens to steal Christmas, but tariffs. According to an analysis by Lending Tree, if Trumps tariffs had been in place last year, they would have increased … [+135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Christmas",
+      "China",
+      "Grinch",
+      "tariffs",
+      "year",
+      "making",
+      "holiday",
+      "season",
+      "merry",
+      "shoppers"
+    ]
   }
 ]
