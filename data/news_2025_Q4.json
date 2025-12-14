@@ -258627,5 +258627,65 @@
       "loan",
       "limits"
     ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/mmo/confession-time-how-long-do-you-stick-it-out-before-you-abandon-a-terrible-mmo-dungeon-raid-group/",
+    "title": "Confession time: How long do you stick it out before you abandon a terrible MMO dungeon/raid group?",
+    "fetched_on": "2025-12-14T19:17:28.212604+00:00",
+    "content": "(Image credit: Future)\r\nThis is Terminally Online:PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive… [+3475 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MMO",
+      "Future",
+      "Confession",
+      "time",
+      "dungeon",
+      "raid",
+      "group",
+      "Image",
+      "Online",
+      "long"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-pictures/the-best-and-brightest-moments-from-jingle-ball-1235483599/",
+    "title": "The Best and Brightest Moments From Jingle Ball",
+    "fetched_on": "2025-12-14T19:17:28.212604+00:00",
+    "content": "Image Credit: Griffin Lotz for Rolling Stone\r\nKat, Chenyu, Shijie, Miche, Quchang of A2O May show off their rising star power.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chenyu",
+      "Shijie",
+      "Miche",
+      "Credit",
+      "Griffin",
+      "Kat",
+      "Quchang",
+      "Brightest",
+      "Moments",
+      "Jingle"
+    ]
+  },
+  {
+    "source": "Loyaltylobby.com [NewsAPI]",
+    "url": "https://loyaltylobby.com/2025/12/13/reader-question-air-canada-credited-the-miles-to-aeroplan-instead-of-united-airlines/",
+    "title": "Reader Question: Air Canada Credited The Miles To Aeroplan Instead Of United Airlines?",
+    "fetched_on": "2025-12-14T19:17:28.212604+00:00",
+    "content": "A LoyaltyLobby reader sent us a message about Air Canada crediting flights to Aeroplan instead of United Airlines.\r\nHave a mishap, a loyalty story, or something else travel-related to share? Please s… [+3422 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airlines",
+      "Aeroplan",
+      "United",
+      "Question",
+      "Air",
+      "Canada",
+      "Credited",
+      "Miles",
+      "Reader",
+      "chars"
+    ]
   }
 ]
