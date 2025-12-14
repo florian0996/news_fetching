@@ -42,7 +42,7 @@ if not NEWS_FILES:
 def norm_space(s: str) -> str:
     s = "" if s is None else str(s)
     s = unicodedata.normalize("NFKC", s)
-    s = s.replace("\xa0", " ").replace("–", "-").replace("—", "-").replace("’", "'")
+    s = s.replace("\xa0", " ").replace("–", "-").replace("—", "-").replace("'", "'")
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
@@ -101,7 +101,7 @@ for _, row in df.iterrows():
         pairs.append((a_norm, canon))
 
 # Partition aliases by single-word vs multi-word
-single_aliases: dict[str, str] = {}  # lower(alias) -> canon
+single_aliases: dict[str, str]  = {}  # lower(alias) -> canon
 multi_aliases: dict[str, str]  = {}  # lower(alias) -> canon
 for a, canon in pairs:
     if " " in a or "-" in a:
@@ -135,13 +135,55 @@ articles_tagged = 0
 def ensure_article_dict(item, file_name: str, idx: int) -> dict:
     if not isinstance(item, dict):
         raise ValueError(f"{file_name}[{idx}] expected object, got {type(item).__name__}")
+    
+    # Extract ONLY title/content for tagging (skip ALL metadata)
     title   = norm_space(item.get("title") or item.get("headline") or "")
     content = norm_space(item.get("content") or item.get("text") or "")
+    
     if not title and not content:
         raise ValueError(f"{file_name}[{idx}] missing both title AND content")
     if not title:
         title = (content[:120] + "…") if len(content) > 120 else content
-    item["title"], item["content"] = title, content
+    
+    # Tag ONLY on article text (excludes platformsmentioned/keywords/source/id/Exaloan footers)
+    raw_text = norm_space(f"{title} {content}")
+    t_ci     = raw_text.lower()
+    t_ns     = nospace(raw_text)  # only for multi-word merged alias check
+
+    matches = set()
+
+    # 1) Multi-word aliases:
+    #    - boundary match (ci)
+    #    - merged variant (no spaces/hyphens) present in nospace text
+    for a, canon in multi_aliases.items():
+        if multi_regex[a].search(t_ci):
+            matches.add(canon)
+            continue
+        merged = nospace(a)
+        if merged and merged in t_ns:
+            matches.add(canon)
+
+    # 2) Single-word aliases:
+    #    - NEVER use 'nospace' containment (avoids 'lend' in 'blend', 'conda' in 'anacondas')
+    #    - default: boundary, case-insensitive
+    #    - ambiguous ones: require TitleCase boundary AND at least one context term nearby
+    for a, canon in single_aliases.items():
+        if a in AMBIGUOUS_SINGLE:
+            # Case-sensitive TitleCase boundary
+            if not single_regex_title[a].search(raw_text):
+                continue
+            # Context guard
+            if not any(ctx in t_ci for ctx in AMBIGUOUS_SINGLE[a]):
+                continue
+            matches.add(canon)
+        else:
+            if single_regex_ci[a].search(t_ci):
+                matches.add(canon)
+
+    # Update article but preserve original metadata unchanged
+    item["title"] = title
+    item["content"] = content
+    item["platforms_mentioned"] = sorted(matches)  # NEW tags only (overwrites old)
     return item
 
 try:
@@ -152,42 +194,6 @@ try:
         articles = []
         for idx, raw in enumerate(raw_items):
             art = ensure_article_dict(raw, news_file.name, idx)
-
-            raw_text = norm_space(f"{art['title']} {art['content']}")
-            t_ci     = raw_text.lower()
-            t_ns     = nospace(raw_text)  # only for multi-word merged alias check
-
-            matches = set()
-
-            # 1) Multi-word aliases:
-            #    - boundary match (ci)
-            #    - merged variant (no spaces/hyphens) present in nospace text
-            for a, canon in multi_aliases.items():
-                if multi_regex[a].search(t_ci):
-                    matches.add(canon)
-                    continue
-                merged = nospace(a)
-                if merged and merged in t_ns:
-                    matches.add(canon)
-
-            # 2) Single-word aliases:
-            #    - NEVER use 'nospace' containment (avoids 'lend' in 'blend', 'conda' in 'anacondas')
-            #    - default: boundary, case-insensitive
-            #    - ambiguous ones: require TitleCase boundary AND at least one context term nearby
-            for a, canon in single_aliases.items():
-                if a in AMBIGUOUS_SINGLE:
-                    # Case-sensitive TitleCase boundary
-                    if not single_regex_title[a].search(raw_text):
-                        continue
-                    # Context guard
-                    if not any(ctx in t_ci for ctx in AMBIGUOUS_SINGLE[a]):
-                        continue
-                    matches.add(canon)
-                else:
-                    if single_regex_ci[a].search(t_ci):
-                        matches.add(canon)
-
-            art["platforms_mentioned"] = sorted(matches)
             articles.append(art)
 
         with news_file.open("w", encoding="utf-8") as f:
