@@ -257614,5 +257614,85 @@
       "CalculatorDetermine",
       "monthly"
     ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/12/13/peach-will-congress-limit-holiday-credit-purchases/",
+    "title": "Peach: Will Congress limit holiday credit purchases?",
+    "fetched_on": "2025-12-14T08:28:22.448819+00:00",
+    "content": "Christmas is almost here, and that means its time to shop for presents. However, for millions of Americans, it also means something else: credit card debt.\r\nThe typical American household has $11,000… [+2814 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Peach",
+      "Congress",
+      "purchases",
+      "limit",
+      "holiday",
+      "credit",
+      "chars",
+      "Christmas",
+      "presents",
+      "Americans"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/computing/wi-fi-broadband/virgin-media-offers-meta-ray-ban-smart-glasses-or-gbp125-bill-credit-with-new-broadband-and-tv-packages",
+    "title": "Virgin Media offers Meta Ray-Ban smart glasses or £125 bill credit with new broadband and TV packages",
+    "fetched_on": "2025-12-14T08:28:22.448819+00:00",
+    "content": "Virgin Media is offering new customers the opportunity to get a pair of Meta Ray-Ban (Gen 1) smart glasses, worth £329, or a £125 bill credit when purchasing select broadband and TV bundles on a 24-m… [+1542 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gen",
+      "bill",
+      "Media",
+      "Meta",
+      "Virgin",
+      "worth",
+      "chars",
+      "Ray-Ban",
+      "smart",
+      "glasses"
+    ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/dangote-refinery-unveils-10-day-credit-for-marketers-as-petrol-price-drops/",
+    "title": "Dangote refinery unveils 10-day credit for marketers as petrol price drops",
+    "fetched_on": "2025-12-14T08:28:22.448819+00:00",
+    "content": "The Dangote Petroleum Refinery has implemented a fresh reduction in the gantry price of Premium Motor Spirit (petrol), with the new rate of 699 per litre taking effect from December 12, 2025.\r\nThis i… [+2422 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spirit",
+      "December",
+      "Dangote",
+      "refinery",
+      "Petroleum",
+      "Premium",
+      "Motor",
+      "petrol",
+      "price",
+      "unveils"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/34-ball-liegt-bei-unicredit-34-commerzbank-aktie-im-blick-uebernahme-durch-unicredit-ergibt-laut-orlopp-aktuell-keinen-sinn-15356504",
+    "title": "Commerzbank-Aktie im Blick: Übernahme durch UniCredit ergibt laut Orlopp aktuell keinen Sinn",
+    "fetched_on": "2025-12-14T08:28:50.327622+00:00",
+    "content": "<p>\"Eine Transaktion ist kein Selbstzweck, sie muss für Aktionäre, Kunden und Mitarbeitende Sinn ergeben und Wert schaffen. Das sehen wir auf dem aktuellen Bewertungsniveau nicht\", sagte Orlopp der \"Welt am Sonntag\". Die Italiener könnten allenfalls mit  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sinn",
+      "Blick",
+      "Übernahme",
+      "Eine",
+      "Selbstzweck",
+      "Aktionäre",
+      "Kunden",
+      "Transaktion",
+      "Mitarbeitende",
+      "Wert"
+    ]
   }
 ]
