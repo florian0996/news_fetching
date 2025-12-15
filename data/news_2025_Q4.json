@@ -259386,5 +259386,45 @@
       "Vote",
       "crisis"
     ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/3dab0f8aef8c7408",
+    "title": "Canadians under 35 are debt-stressed — and buy now, pay later ubiquity isn't helping",
+    "fetched_on": "2025-12-15T09:34:28.406972+00:00",
+    "content": "Canadians under 35 are seeking debt relief services in higher numbers and missing credit payments at higher rates. Student loans, first credit cards and slow wage growth aren't helping, but experts s… [+127 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canadians",
+      "higher",
+      "debt-stressed",
+      "pay",
+      "rates",
+      "helping",
+      "credit",
+      "buy",
+      "ubiquity",
+      "seeking"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/business/canadians-under-35-debt-relief-missed-payments-9.7012117",
+    "title": "Canadians under 35 are debt-stressed — and buy now, pay later ubiquity isn't helping",
+    "fetched_on": "2025-12-15T09:34:28.406972+00:00",
+    "content": "Mark Kalinowski has been a credit counsellor for nearly 14 years, helping people of all generations manage their debt. But this year, more than a quarter of the clients he saw in his Calgary office w… [+6251 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mark",
+      "Kalinowski",
+      "Canadians",
+      "debt-stressed",
+      "pay",
+      "debt",
+      "helping",
+      "chars",
+      "buy",
+      "ubiquity"
+    ]
   }
 ]
