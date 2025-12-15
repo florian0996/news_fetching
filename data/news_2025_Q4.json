@@ -259165,5 +259165,45 @@
       "Weekly",
       "natural"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/info-tech/tvs-tech-centre-opened-in-assam/article70394866.ece",
+    "title": "TVS tech centre opened in Assam",
+    "fetched_on": "2025-12-15T03:43:26.793264+00:00",
+    "content": "A TVS credit technology centre has been inaugurated here by Assam Chief Minister Himanta Biswa Sarma, an official statement said on Saturday.\r\nThe state government said that the centre, for which an … [+1284 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TVS",
+      "Assam",
+      "Sarma",
+      "Saturday",
+      "Chief",
+      "Minister",
+      "Himanta",
+      "Biswa",
+      "centre",
+      "tech"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/ff2a06ae061ce383",
+    "title": "Data breach at credit check giant 700Credit affects at least 5.6 million",
+    "fetched_on": "2025-12-15T03:43:26.793264+00:00",
+    "content": "At least 5.6 million people had their names, addresses, dates of birth, and Social Security numbers stolen in a data breach at 700Credit, a company that runs credit checks and identity verification s… [+155 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "breach",
+      "million",
+      "addresses",
+      "chars",
+      "Data",
+      "credit",
+      "Social",
+      "Security",
+      "giant",
+      "affects"
+    ]
   }
 ]
