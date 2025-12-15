@@ -260692,5 +260692,63 @@
       "loan",
       "bad"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-15/100-private-credit-etf-would-be-challenging-blackrock-video",
+    "title": "100% Private Credit ETF Would Be Challenging: BlackRock",
+    "fetched_on": "2025-12-15T23:22:16.720921+00:00",
+    "content": "During Bloomberg's annual flagship ETF event, Bloomberg's Katie Greifeld speaks with Rick Rieder, BlackRock’s global CIO of fixed-income, and Steve Laipply, global co-head of iShares fixed income ETFs. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Challenging",
+      "Rieder",
+      "Laipply",
+      "BlackRock",
+      "ETF",
+      "Bloomberg",
+      "Credit",
+      "Katie",
+      "Greifeld"
+    ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/does-government-spend-these-loans-on-nigeria/",
+    "title": "Does government spend these loans on Nigeria?",
+    "fetched_on": "2025-12-15T23:22:16.013206+00:00",
+    "content": "When I read that the Federal Government is pushing for N17.89tn fresh loans to finance the 2026 budget, I wondered what happened to the loans that were contracted and received for the unimplemented 2… [+5637 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nigeria",
+      "government",
+      "loans",
+      "spend",
+      "Federal",
+      "budget",
+      "chars",
+      "fresh",
+      "unimplemented",
+      "read"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/payments-firm-paypal-files-for-bank-charter-in-lending-push-4409488",
+    "title": "Payments firm PayPal files for bank charter in lending push",
+    "fetched_on": "2025-12-15T23:22:28.337643+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Payments",
+      "push",
+      "firm",
+      "PayPal",
+      "files",
+      "bank",
+      "charter",
+      "lending"
+    ]
   }
 ]
