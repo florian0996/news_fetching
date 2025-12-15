@@ -259607,5 +259607,45 @@
       "Fed",
       "Ventures"
     ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/tv-movies/tv-movie-lists/best-tv-music-moments-needle-drops-2025-1235483002/",
+    "title": "The Best TV Needle Drops of 2025",
+    "fetched_on": "2025-12-15T13:42:08.244255+00:00",
+    "content": "Image Credit: Netflix\r\nConsidering brothers Jake and Vince Friedken (Jude Law and Jason Bateman) were once in a band together called, wouldnt you know it, Black Rabbit, just like their restaurant mus… [+935 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Image",
+      "Credit",
+      "Netflix",
+      "Friedken",
+      "Jude",
+      "Bateman",
+      "Black",
+      "Rabbit",
+      "Needle"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/14/3205030/0/en/Mutuum-Finance-MUTM-Completes-Smart-Contracts-in-Preparation-for-Q4-2025-Testing.html",
+    "title": "Mutuum Finance (MUTM) Completes Smart Contracts in Preparation for Q4 2025 Testing",
+    "fetched_on": "2025-12-15T13:42:08.244255+00:00",
+    "content": "Dubai, UAE, Dec. 14, 2025 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n, a decentralized finance (DeFi) project focused on lending and borrowing infrastructure, has announced the completion of its core… [+5519 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Mutuum",
+      "UAE",
+      "Dec.",
+      "Completes",
+      "Testing",
+      "Dubai",
+      "GLOBE",
+      "NEWSWIRE"
+    ]
   }
 ]
