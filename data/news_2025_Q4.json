@@ -259045,5 +259045,125 @@
       "merry",
       "shoppers"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-15/china-vanke-vows-to-improve-bond-delay-plan-after-failed-vote",
+    "title": "China Vanke Vows to Improve Bond Delay Plan After Failed Vote",
+    "fetched_on": "2025-12-15T01:52:51.890226+00:00",
+    "content": "Distressed developer China Vanke Co. said it would improve on plans to push back a looming bond payment after creditors balked at its initial proposal, raising the risk of default.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vanke",
+      "China",
+      "Improve",
+      "Bond",
+      "Vows",
+      "Delay",
+      "Failed",
+      "Vote",
+      "Distressed",
+      "proposal"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/12/13/wwe-saturday-nights-main-event-results-as-sol-ruca-upsets-bayley/",
+    "title": "WWE Saturday Night’s Main Event Results As Sol Ruca Upsets Bayley",
+    "fetched_on": "2025-12-15T01:52:51.244657+00:00",
+    "content": "Sol Ruca is one of the fastest-rising stars in WWE. (Credit: Kevin Sabitus/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE Saturday Nights Main Event 2025 was, of course, built around John Cenas fin… [+5055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WWE",
+      "Sol",
+      "Ruca",
+      "Saturday",
+      "Main",
+      "Event",
+      "Results",
+      "Upsets",
+      "Bayley",
+      "Getty"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/gallery-43-photos-our-late-win-over-wolves",
+    "title": "Gallery: 43 photos from our late win over Wolves",
+    "fetched_on": "2025-12-15T01:52:51.244657+00:00",
+    "content": "Copyright 2025 The Arsenal Football Club Limited. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Limited",
+      "Gallery",
+      "Wolves",
+      "Arsenal",
+      "Football",
+      "Club",
+      "photos",
+      "late",
+      "win"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/video/6386451574112",
+    "title": "Students shelter in place following shooting at Brown University",
+    "fetched_on": "2025-12-15T01:52:51.244657+00:00",
+    "content": "Students huddled in the Rockefeller Library at Brown University during a shooting incident that killed two and eight remain in critical condition, according to officials. (Credit: Julien Strick)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brown",
+      "University",
+      "Students",
+      "Rockefeller",
+      "Library",
+      "shooting",
+      "condition",
+      "officials",
+      "Credit",
+      "shelter"
+    ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/movies/list/every-mad-max-movie-ranked/",
+    "title": "Every Mad Max Movie, Ranked",
+    "fetched_on": "2025-12-15T01:52:51.244657+00:00",
+    "content": "Much to its credit, the Mad Maxfranchise has never had an outright bad movie. That said, there are two that are much better than the other three. Even at its worst the franchise has always strived to… [+5554 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Movie",
+      "Mad",
+      "Ranked",
+      "Max",
+      "Maxfranchise",
+      "credit",
+      "outright",
+      "bad",
+      "chars",
+      "worst"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/c7eda86dfa2808ba",
+    "title": "Weekly Stock Market News: FED rate, natural gas, Lululemon, Oracle, Broadcom",
+    "fetched_on": "2025-12-15T01:52:51.244657+00:00",
+    "content": "The Federal Reserve announced a quarter-point rate cut this week, now at 3.5% to 3.75%. Borrowers hope to find respite in future lending rates. However, no significant change should be expected in lo… [+147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lululemon",
+      "Oracle",
+      "FED",
+      "Broadcom",
+      "Stock",
+      "Market",
+      "Federal",
+      "Reserve",
+      "Weekly",
+      "natural"
+    ]
   }
 ]
