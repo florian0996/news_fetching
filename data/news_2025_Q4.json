@@ -260423,5 +260423,63 @@
       "Money",
       "insider"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-15/inflation-will-prevent-extended-cutting-cycle-robson-video",
+    "title": "Inflation Will Prevent Extended Cutting Cycle, Says BNP Paribas' Robson",
+    "fetched_on": "2025-12-15T20:26:56.967698+00:00",
+    "content": "Meghan Robson, Head of US Credit Strategy at BNP Paribas, expects inflation to accelerate a bit in 2026 due to pressure on goods inflation. She sees one more rate cut next year but inflation will prevent the Federal Reserve from extending its cutting cycle. She speaks to Bloomberg's Carol Massar, Tim Stenovec, and Michael McKee on 'Bloomberg Businessweek Daily.' (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNP",
+      "Robson",
+      "Cycle",
+      "Head",
+      "Paribas",
+      "Extended",
+      "Paribas'",
+      "Meghan",
+      "Credit",
+      "Strategy"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-15/congress-faces-packed-agenda-amid-health-care-fight-video",
+    "title": "Congress Faces Packed Agenda As Health Care Fight Continues",
+    "fetched_on": "2025-12-15T20:26:57.322471+00:00",
+    "content": "House Republicans plan to vote this week on a package of proposals to address rising health-care costs, but an extension of expiring Obamacare subsidies is conspicuously absent. The package would require more transparency from pharmacy benefit managers, codify association health plans, support self-insured health care models, and fund cost sharing reductions, according to House Republican leadership aides. \n\nCongressman Troy Downing, Republican representing Montana's 2nd District join to discuss health care and the future of Affordable Care Act premium tax credits. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Care",
+      "House",
+      "Faces",
+      "Packed",
+      "Agenda",
+      "Fight",
+      "Continues",
+      "Obamacare",
+      "Health",
+      "Republican"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/xerox-seeks-500-million-ipbacked-loan-to-boost-liquidity--wsj-93CH-4408966",
+    "title": "Xerox seeks $500 million IP-backed loan to boost liquidity - WSJ",
+    "fetched_on": "2025-12-15T20:27:19.600285+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WSJ",
+      "Xerox",
+      "seeks",
+      "million",
+      "liquidity",
+      "IP-backed",
+      "loan",
+      "boost"
+    ]
   }
 ]
