@@ -259647,5 +259647,65 @@
       "GLOBE",
       "NEWSWIRE"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-15/german-insurers-hold-108-billion-illiquid-debt-pile-eiopa-says",
+    "title": "German Insurers Hold $108 Billion Illiquid Debt Pile, EIOPA Says",
+    "fetched_on": "2025-12-15T14:28:16.561236+00:00",
+    "content": "German insurers are the most exposed in Europe to illiquid corporate bonds, a top watchdog said in one of the most detailed reports to date on the industry’s investments in private credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "German",
+      "Insurers",
+      "Hold",
+      "Billion",
+      "Pile",
+      "EIOPA",
+      "Illiquid",
+      "Debt",
+      "Europe",
+      "bonds"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-15/blackrock-s-koesterich-2026-a-year-of-differentiation-video",
+    "title": "BlackRock’s Koesterich Sees 2026 as a Year of Differentiation",
+    "fetched_on": "2025-12-15T14:28:17.941256+00:00",
+    "content": "Russ Koesterich, Global Allocation Fund portfolio manager at BlackRock, says investors will really need to think about stock selection in 2026 and sees “reasonable concern” for AI in equities and credit. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Koesterich",
+      "Global",
+      "Year",
+      "Differentiation",
+      "Russ",
+      "Allocation",
+      "Fund",
+      "Source",
+      "Bloomberg",
+      "reasonable"
+    ]
+  },
+  {
+    "source": "Activistpost.com [NewsAPI]",
+    "url": "https://www.activistpost.com/strategys-michael-saylor-met-with-middle-east-sovereign-wealth-funds-to-pitch-bitcoin-backed-credit/",
+    "title": "Strategy’s Michael Saylor Met With Middle East Sovereign Wealth Funds to Pitch Bitcoin-Backed Credit",
+    "fetched_on": "2025-12-15T14:28:15.832512+00:00",
+    "content": "Strategys Michael Saylor claims he met with every Middle East sovereign wealth fund to pitch Bitcoin-backed credit, positioning digital capital as a yield-generating alternative to traditional fixed … [+3174 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "East",
+      "Michael",
+      "Saylor",
+      "Middle",
+      "Sovereign",
+      "Wealth",
+      "Pitch",
+      "Bitcoin-Backed",
+      "Met",
+      "Credit"
+    ]
   }
 ]
