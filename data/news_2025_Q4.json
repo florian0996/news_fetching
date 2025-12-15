@@ -259988,5 +259988,85 @@
       "magazin",
       "sie"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-15/fannie-freddie-add-billions-to-their-balance-sheets-video",
+    "title": "Fannie, Freddie Expand Portfolios Ahead of Possible Public Offering",
+    "fetched_on": "2025-12-15T17:26:32.251573+00:00",
+    "content": "Fannie Mae and Freddie Mac have added billions of dollars of mortgage-backed securities and home loans to their balance sheets in recent months, fueling speculation they could be preparing for a potential public offering. Bloomberg's Scott Carpenter reports.  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Freddie",
+      "Public",
+      "Offering",
+      "Fannie",
+      "Expand",
+      "Portfolios",
+      "Ahead",
+      "Mae",
+      "Mac",
+      "Bloomberg"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/peter-greene-children-son-5493026/",
+    "title": "Did Peter Greene Have Children? All About the Actor’s Family & How Many Kids He Had",
+    "fetched_on": "2025-12-15T17:26:31.079985+00:00",
+    "content": "Image Credit: Getty Images\r\nPeter Greene was a respected and renowned actor, popular for his performances in The Mask and Pulp Fiction, before he died in December 2025. He was 60. Greenes personal li… [+1885 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Children",
+      "Peter",
+      "Greene",
+      "Actor",
+      "Family",
+      "Credit",
+      "Getty",
+      "Fiction",
+      "December",
+      "Kids"
+    ]
+  },
+  {
+    "source": "BleepingComputer [NewsAPI]",
+    "url": "https://www.bleepingcomputer.com/forums/t/812386/data-breach-at-credit-check-giant-700credit-affects-at-least-56-million/",
+    "title": "Data breach at credit check giant 700Credit affects at least 5.6 million",
+    "fetched_on": "2025-12-15T17:26:31.079985+00:00",
+    "content": "At least 5.6 million people had their names, addresses, dates of birth, and Social Security numbers stolen in a data breach at 700Credit, a company that runs credit checks and identity verification s… [+845 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "breach",
+      "million",
+      "addresses",
+      "chars",
+      "Data",
+      "credit",
+      "Social",
+      "Security",
+      "giant",
+      "affects"
+    ]
+  },
+  {
+    "source": "Loyaltylobby.com [NewsAPI]",
+    "url": "https://loyaltylobby.com/2025/12/14/reader-question-ritz-carlton-fukuoka-with-3-separate-reservation-what-happens-with-various-credits/",
+    "title": "Reader Question: Ritz-Carlton Fukuoka With 3 Separate Reservation & What Happens With Various Credits?",
+    "fetched_on": "2025-12-15T17:26:31.079985+00:00",
+    "content": "A LoyaltyLobby reader sent us a question about a stay at the Ritz-Carlton Fukuoka hotel in Japan that they have booked under three different reservations, and how various credits will work/apply.\r\nHa… [+3491 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Separate",
+      "Fukuoka",
+      "Credits",
+      "Question",
+      "Ritz-Carlton",
+      "Reservation",
+      "Reader",
+      "Japan",
+      "apply",
+      "chars"
+    ]
   }
 ]
