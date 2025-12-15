@@ -259426,5 +259426,65 @@
       "buy",
       "ubiquity"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-15/pakistan-unexpectedly-cuts-interest-rates-after-imf-loan-payout",
+    "title": "Pakistan Unexpectedly Cuts Interest Rates After IMF Loan Payout",
+    "fetched_on": "2025-12-15T11:20:54.721982+00:00",
+    "content": "Pakistan’s central bank unexpectedly cut interest rates on Monday, following the International Monetary Fund’s approval of another loan payment last week.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Interest",
+      "Monday",
+      "Unexpectedly",
+      "Rates",
+      "Pakistan",
+      "Loan",
+      "IMF",
+      "Payout",
+      "International",
+      "Monetary"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-advised-to-link-msme-loans-to-external-benchmark-by-rbi-govt/articleshow/125960656.cms",
+    "title": "Banks advised to link MSME loans to external benchmark by RBI: Govt",
+    "fetched_on": "2025-12-15T11:20:52.916897+00:00",
+    "content": "With a view to improve monetary policy transmission, banks have been advised by the Reserve Bank of India (RBI) to link loans to MSMEs to an external benchmark, the government has informed Parliament… [+2247 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Govt",
+      "India",
+      "Parliament",
+      "link",
+      "loans",
+      "external",
+      "benchmark",
+      "Banks",
+      "Reserve"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-december-14-2025-110050688.html",
+    "title": "HELOC rates today, December 14, 2025: The lower prime rate of 6.75% is causing lenders to reprice",
+    "fetched_on": "2025-12-15T11:20:52.916897+00:00",
+    "content": "Nationally, the average home equity line of credit interest rate is below 7.5% and falling, according to the analytics company Curinos. Lenders are revising pricing to the new, lower prime rate of 6.… [+3751 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "HELOC",
+      "Nationally",
+      "Curinos",
+      "prime",
+      "rate",
+      "today",
+      "falling",
+      "lower",
+      "lenders"
+    ]
   }
 ]
