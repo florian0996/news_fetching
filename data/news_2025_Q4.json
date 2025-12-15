@@ -259346,5 +259346,45 @@
       "sie",
       "sich"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-15/s-africa-inflation-expectations-eased-with-3-target-sarb-says",
+    "title": "South Africa Inflation Expectations Eased With 3% Target, SARB Says",
+    "fetched_on": "2025-12-15T08:34:51.186355+00:00",
+    "content": "South Africa’s central bank credited its new 3% inflation target for already helping guide expectations lower across the economy, after the formal adoption of the goal last month.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Africa",
+      "South",
+      "SARB",
+      "Inflation",
+      "Expectations",
+      "Target",
+      "Eased",
+      "economy",
+      "month",
+      "central"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/china-vanke-s-paths-to-avoid-default-narrow-after-failed-vote-11765700928845.html",
+    "title": "China Vanke’s Paths to Avoid Default Narrow After Failed Vote",
+    "fetched_on": "2025-12-15T08:34:49.653346+00:00",
+    "content": "China Vanke Co., the nations last major developer to have so far avoided default amid an unprecedented property crisis, has been left with little time to keep debt failure at bay after creditors spur… [+3259 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vanke",
+      "China",
+      "chars",
+      "Default",
+      "Paths",
+      "Avoid",
+      "Narrow",
+      "Failed",
+      "Vote",
+      "crisis"
+    ]
   }
 ]
