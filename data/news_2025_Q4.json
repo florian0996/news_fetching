@@ -263390,5 +263390,85 @@
       "price",
       "lot"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-16/speaker-quashes-hopes-for-obamacare-subsidies-vote-video",
+    "title": "Speaker Quashes Hopes for Obamacare Subsidies Vote",
+    "fetched_on": "2025-12-16T20:27:01.056623+00:00",
+    "content": "House Ways and Means Chair Jason Smith (R-MO0 said the Democrats' plan to extend Obamacare premium subsidies doesn't address the high cost of health insurance for the vast majority of Americans\n\nSpeaker Mike Johnson will block a push by moderate House Republicans for a vote on renewing expiring Obamacare subsidies, quashing a last-ditch effort to head off a spike in insurance premiums for more than 20 million Americans.\nThe Republican speaker’s decision guarantees enhanced Affordable Care Act premium credits expire at the end of the year. Democrats have made clear the congressional Republicans’ refusal to extend the subsidies will figure prominently in a midterm congressional campaign focusing on the high cost of living. A band of swing-district moderates had pushed for a vote this week on adding an extension of the expiring subsidies to Republican health care legislation that the House plans to vote on Wednesday.  \n (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Obamacare",
+      "Americans",
+      "Speaker",
+      "Smith",
+      "Subsidies",
+      "Vote",
+      "House",
+      "Quashes",
+      "Hopes",
+      "Chair"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18974659-349-256gb-meta-quest-3s-vr-headset-49-01-credit-at-amazon",
+    "title": "$349: 256GB Meta Quest 3S VR Headset + $49.01 credit at Amazon (6 replies)",
+    "fetched_on": "2025-12-16T20:27:00.049182+00:00",
+    "content": "Amazon[amazon.com] has 256GB Meta Quest 3S VR Headset for $349.Shipping is free.Price$50.99 lower (13% savings) than the list price of $399.99$40.95 lower (11% savings) than the previous price of $38… [+114 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lower",
+      "savings",
+      "Meta",
+      "Quest",
+      "Amazon",
+      "Headset",
+      "replies",
+      "amazon.com",
+      "chars",
+      "price"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/maurybrown/2025/12/15/how-beltran-king-felix-hamels--and-abreu-deserve-a-hof-vote/",
+    "title": "How Beltran, King Felix, Hamels, And Abreu Deserve A HOF Vote",
+    "fetched_on": "2025-12-16T20:27:00.049182+00:00",
+    "content": "The 2026 Baseball Hall of Fame ballot is thin. Even so, here's why several gain my vote. Credit: Ezra O. Shaw /Allsport\r\nGetty Images\r\nAfter 10 years of being a member of the Baseball Writers Associa… [+14886 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hamels",
+      "Beltran",
+      "King",
+      "Felix",
+      "Abreu",
+      "Deserve",
+      "HOF",
+      "Hall",
+      "Fame",
+      "Vote"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/defaults-on-the-rise-in-micro-loans-over-property/articleshow/125992965.cms",
+    "title": "Defaults on the rise in micro loans over property",
+    "fetched_on": "2025-12-16T20:27:00.049182+00:00",
+    "content": "MUMBAI: Early-stage delinquencies in micro-loans against property (micro-LAP) and micro-housing loans have been rising year-on-year, TransUnion CIBIL cautioned in its December 2025 Credit Market Repo… [+1331 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "micro-LAP",
+      "chars",
+      "MUMBAI",
+      "Early-stage",
+      "December",
+      "Credit",
+      "Repo",
+      "CIBIL",
+      "Market",
+      "loans"
+    ]
   }
 ]
