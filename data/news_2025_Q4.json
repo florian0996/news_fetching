@@ -267508,5 +267508,85 @@
       "businesses",
       "loans"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-17/guggenheim-s-dilorenzo-private-credit-to-grow-in-2026-video",
+    "title": "Guggenheim's DiLorenzo Sees Private Credit Growing Into 2026",
+    "fetched_on": "2025-12-17T23:21:48.929537+00:00",
+    "content": "Guggenheim Investments President Dina DiLorenzo discusses her investment strategy going into 2026. Speaking on \"Bloomberg The Close,\" DiLorenzo says private credit will keep growing next year and comments on the company's utilization of AI. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Guggenheim",
+      "President",
+      "Dina",
+      "Bloomberg",
+      "Private",
+      "Credit",
+      "Growing",
+      "Investments",
+      "DiLorenzo",
+      "Source"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-17/s-p-lifts-argentina-rating-sees-nation-more-able-to-repay-debt",
+    "title": "S&amp;P Lifts Argentina Rating, Sees Nation More Able to Repay Debt",
+    "fetched_on": "2025-12-17T23:21:48.929574+00:00",
+    "content": "S&amp;P Global Ratings lifted Argentina’s credit score by a notch, saying that improved economic metrics and the governments increased congressional support make it better able to service its debts.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Argentina",
+      "Lifts",
+      "Nation",
+      "Repay",
+      "Global",
+      "notch",
+      "Rating",
+      "Ratings",
+      "Debt",
+      "debts"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-17/netwealth-to-pay-67-million-compensation-after-fund-s-collapse",
+    "title": "Netwealth to Pay $67 Million Compensation After Fund’s Collapse",
+    "fetched_on": "2025-12-17T23:21:49.866931+00:00",
+    "content": "Australian investment platform Netwealth Group Ltd. will pay around A$101 million ($67 million) in compensation to more than 1,000 customers who invested their retirement savings into a now-failed fund.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Netwealth",
+      "Collapse",
+      "Australian",
+      "Group",
+      "Pay",
+      "Compensation",
+      "Fund",
+      "investment",
+      "platform"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/catherine-kresge-talks-about-the-young-and-the-restless-on-cbs/article",
+    "title": "Catherine Kresge talks about ‘The Young and The Restless’ on CBS",
+    "fetched_on": "2025-12-17T23:21:48.339117+00:00",
+    "content": "Catherine Kresge. Photo Credit: Kathlyn Almeida.\r\nActress Catherine Kresge chatted about being a part of “The Young and The Restless” on CBS, where she plays Detective Annie Stewart.\r\nAre you excited… [+3998 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kresge",
+      "Catherine",
+      "Restless’",
+      "Young",
+      "CBS",
+      "Credit",
+      "Kathlyn",
+      "Almeida",
+      "talks",
+      "Restless"
+    ]
   }
 ]
