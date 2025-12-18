@@ -268248,5 +268248,105 @@
       "Show",
       "Ramsey"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-18/angola-gets-753-million-us-south-africa-loans-for-lobito-rail",
+    "title": "Angola Gets $753 Million US, South Africa Loans for Lobito Rail",
+    "fetched_on": "2025-12-18T07:24:22.460381+00:00",
+    "content": "Angola secured $753 million in financing to speed up development of the Lobito rail corridor, ending months of delays tied to talks over government guarantees.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Lobito",
+      "South",
+      "Rail",
+      "Angola",
+      "Africa",
+      "Loans",
+      "secured",
+      "corridor",
+      "ending"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-18/ares-backs-dubai-multifamily-office-in-gulf-private-credit-push",
+    "title": "Ares Backs Dubai Multifamily Office in Gulf Private Credit Push",
+    "fetched_on": "2025-12-18T07:24:22.460390+00:00",
+    "content": "Ares Management is providing a $100 million facility to Dubai-based multifamily office Patrimium, as global finance firms step up their pursuit of private credit opportunities in the Gulf region.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Patrimium",
+      "Gulf",
+      "Multifamily",
+      "Office",
+      "Private",
+      "Credit",
+      "Backs",
+      "Dubai",
+      "Push",
+      "Management"
+    ]
+  },
+  {
+    "source": "Thebridge.jp [NewsAPI]",
+    "url": "https://thebridge.jp/2025/12/harvey-ai-160m-series-f-andreessen-horowitz-8b-valuation-legal-ai",
+    "title": "法律業務をAIで変革——米Harveyがa16zリードで1.6億ドル調達、評価額は80億ドルに急伸",
+    "fetched_on": "2025-12-18T07:24:21.609056+00:00",
+    "content": "124 AI Harvey Andreessen Horowitz Series F 1.6\r\n WndrCo T. Rowe Price Associates SequoiaKleiner PerkinsConvictionElad Gil 802 Series D 30102.7\r\n20257.6\r\nImage Credit : Harvey\r\nHarvey AI Harvey Assist… [+704 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Harvey",
+      "Andreessen",
+      "Horowitz",
+      "Series",
+      "億ドル調達、評価額は",
+      "億ドルに急伸",
+      "法律業務を",
+      "WndrCo",
+      "で変革——米",
+      "Gil"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180408741",
+    "title": "House won't vote on health care tax credit extension, angering GOP moderates - CBS News",
+    "fetched_on": "2025-12-18T07:24:21.609056+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CBS",
+      "Print",
+      "GOP",
+      "Fine",
+      "House",
+      "extension",
+      "angering",
+      "moderates",
+      "vote",
+      "health"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/89386/seven-players-potentially-out-for-liverpool-ahead-of-spurs-trip.html",
+    "title": "Seven players potentially out for Liverpool ahead of Spurs trip",
+    "fetched_on": "2025-12-18T07:24:21.609056+00:00",
+    "content": "Liverpool head to Tottenham facing an uncomfortable selection picture, with up to seven senior players potentially unavailable. Credit goes to The Express for outlining the scale of the issue, and th… [+3102 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Liverpool",
+      "Spurs",
+      "Tottenham",
+      "players",
+      "potentially",
+      "picture",
+      "unavailable",
+      "ahead",
+      "trip",
+      "head"
+    ]
   }
 ]
