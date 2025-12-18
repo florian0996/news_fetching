@@ -268030,5 +268030,41 @@
       "Accept",
       "Car"
     ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/americans-student-debt-slash-spending-164046113.html",
+    "title": "Americans With Student Debt Slash Spending, Yet Still Struggle to Keep Up With Loan Payments",
+    "fetched_on": "2025-12-18T04:36:11.572933+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spending",
+      "Payments",
+      "Student",
+      "Debt",
+      "Slash",
+      "Struggle",
+      "Loan",
+      "Americans"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/afdb-raises-10-5-billion-175432258.html",
+    "title": "AfDB raises $10.5 billion for low-cost lending window, no word on US funding",
+    "fetched_on": "2025-12-18T04:36:11.573093+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AfDB",
+      "raises",
+      "billion",
+      "window",
+      "funding",
+      "low-cost",
+      "lending",
+      "word"
+    ]
   }
 ]
