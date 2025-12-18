@@ -270291,5 +270291,85 @@
       "lot",
       "lenders"
     ]
+  },
+  {
+    "source": "esquire.com [NewsAPI]",
+    "url": "https://www.esquire.com/style/mens-fashion/a69766507/amazon-mens-winter-clothing-deals-2026/",
+    "title": "Our Favorite Carhartt, Levi's, and Timberland Boots Are All on Sale Right Now",
+    "fetched_on": "2025-12-18T19:18:53.153921+00:00",
+    "content": "All of our pocketbooks are feeling a little strained these daysthe double whammy of the holidays and Black Friday leading to frazzled, over-swiped credit cards. It doesn't help that this is also the … [+1858 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Levi",
+      "Carhartt",
+      "Favorite",
+      "Timberland",
+      "Boots",
+      "Sale",
+      "Black",
+      "Friday",
+      "frazzled",
+      "over-swiped"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/video/four-republicans-side-with-democrats-force-vote-on-aca-tax-credit-extensions/",
+    "title": "Four Republicans side with Democrats in forcing vote on ACA tax credit extensions",
+    "fetched_on": "2025-12-18T19:18:53.153921+00:00",
+    "content": "Copyright ©2025 CBS Interactive Inc. All rights reserved.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "CBS",
+      "Republicans",
+      "Democrats",
+      "ACA",
+      "Interactive",
+      "side",
+      "forcing",
+      "vote",
+      "tax"
+    ]
+  },
+  {
+    "source": "TheWrap [NewsAPI]",
+    "url": "https://www.thewrap.com/illinois-expands-film-tax-credit-program-2039-jb-pritzker/",
+    "title": "Illinois Expands Film Tax Credit Program Through 2039, Adds Green Set and Relocation Bonuses",
+    "fetched_on": "2025-12-18T19:18:53.153921+00:00",
+    "content": "Illinois expanded its film production tax credit program through 2039 with a bill signed by Gov. JB Pritzker Tuesday, paving the way for boosted credits, bonuses for green sets and relocation package… [+2264 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Program",
+      "Tax",
+      "Adds",
+      "Gov",
+      "Illinois",
+      "Film",
+      "Expands",
+      "Green",
+      "Relocation",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a544170e5a3e6e50",
+    "title": "Google Pay Launches Digital Credit Card in India",
+    "fetched_on": "2025-12-18T19:18:53.153921+00:00",
+    "content": "Google Pay launched a digital credit card designed for everyday transactional use in India.\r\nThe new Flex by Google Pay is built on Indias RuPay payment network, powered by the countrys Unified Payme… [+136 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Pay",
+      "Digital",
+      "Card",
+      "Google",
+      "Launches",
+      "India",
+      "Payme",
+      "Indias",
+      "launched"
+    ]
   }
 ]
