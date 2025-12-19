@@ -271628,5 +271628,45 @@
       "Basotxerri",
       "BY-SA"
     ]
+  },
+  {
+    "source": "Newsbreak.com [NewsAPI]",
+    "url": "https://www.newsbreak.com/share/4401050100834-mike-johnson-draws-fury-after-gop-walks-away-from-health-care-tax-credit-extension?s=a2&amp;share_destination_id=ODg1MTU1ODEtMTc2NjAzMjA0MzA3Mg%3D%3D&amp;pd=05zOwfH7&amp;hl=en_US&amp;send_time=1766032043&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.50.1%22%2C%22languages%22%3A%22en%22%7D",
+    "title": "Mike Johnson Draws Fury After GOP Walks Away From Health Care Tax Credit Extension - NewsBreak",
+    "fetched_on": "2025-12-19T04:35:35.409827+00:00",
+    "content": "In a surprising twist, House Speaker Mike Johnson has shut down the vote for extending health care tax credits, causing an uproar online. Previously, the GOP promised to consider an extension of the … [+2878 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Johnson",
+      "Care",
+      "Tax",
+      "Mike",
+      "Health",
+      "House",
+      "Draws",
+      "Fury",
+      "Walks",
+      "Speaker"
+    ]
+  },
+  {
+    "source": "CNX Software [NewsAPI]",
+    "url": "https://www.cnx-software.com/2025/12/18/toradex-luna-sl1680-a-pro-consumer-raspberry-pi-lookalike-based-on-synaptics-sl1680-edge-ai-soc/",
+    "title": "Toradex Luna SL1680 – A “Pro Consumer” Raspberry Pi lookalike based on Synaptics SL1680 Edge AI SoC",
+    "fetched_on": "2025-12-19T04:35:35.409827+00:00",
+    "content": "Toradex Luna SL1680 is a credit card-sized single board computer heavily inspired by the Raspberry Pi 5 design, but powered by a Synaptics SL1680 quad-core Cortex-A73 SoC suitable for Edge AI applica… [+4517 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Luna",
+      "Synaptics",
+      "Raspberry",
+      "Edge",
+      "Toradex",
+      "Pro",
+      "Consumer",
+      "design",
+      "quad-core",
+      "chars"
+    ]
   }
 ]
