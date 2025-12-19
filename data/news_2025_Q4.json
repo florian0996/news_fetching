@@ -271963,5 +271963,105 @@
       "money",
       "expect"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-12-19/trump-suspends-green-card-lottery-90-billion-eu-ukraine-loan",
+    "title": "Trump Suspends Green Card Lottery, €90 billion EU Ukraine Loan",
+    "fetched_on": "2025-12-19T08:31:53.091990+00:00",
+    "content": "Source: Bloomberg, 0:00",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "0:00",
+      "Lottery",
+      "Source",
+      "Suspends",
+      "Green",
+      "Card",
+      "Ukraine",
+      "Loan",
+      "Trump"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-12-19/eu-agrees-90-billion-ukraine-loan-shooting-suspect-found-dead",
+    "title": "EU Agrees €90 Billion Ukraine Loan, Shooting Suspect Found Dead",
+    "fetched_on": "2025-12-19T08:31:53.092025+00:00",
+    "content": "Source: Bloomberg, 0:00",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "0:00",
+      "Agrees",
+      "Billion",
+      "Loan",
+      "Shooting",
+      "Source",
+      "Ukraine",
+      "Suspect",
+      "Found"
+    ]
+  },
+  {
+    "source": "Davidedmundson.co.uk [NewsAPI]",
+    "url": "http://blog.davidedmundson.co.uk/blog/update-on-kde-home-automation-kiot/",
+    "title": "Update on KDE Home Automation (KIOT)",
+    "fetched_on": "2025-12-19T08:31:50.174124+00:00",
+    "content": "This is a effectively a guest blogpost where I, as usual, take the credit for the work someone else has done.\r\nLast year ago set out making a home automation &lt;--&gt; Desktop Linux bridge over the … [+1355 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KIOT",
+      "Automation",
+      "KDE",
+      "Home",
+      "Update",
+      "usual",
+      "effectively",
+      "guest",
+      "blogpost",
+      "credit"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/looking-for-best-travel-credit-card-axis-atlas-vs-hsbc-travelone-vs-hdfc-regalia-gold-vs-diners-club-black-know-which-one-gives-you-highest-value/articleshow/126053590.cms",
+    "title": "Looking for the best travel credit card? Axis Atlas vs HSBC TravelOne vs HDFC Regalia Gold vs Diners Club Black, know which one gives you highest value",
+    "fetched_on": "2025-12-19T08:31:50.174124+00:00",
+    "content": "With airfares, hotel tariffs and international travel costs rising steadily, travel credit cards have emerged as an important tool for frequent flyers looking to optimise spending. Reward points, air… [+12037 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "travel",
+      "Black",
+      "Atlas",
+      "HSBC",
+      "HDFC",
+      "Regalia",
+      "Gold",
+      "Diners",
+      "Club"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/nbfc-fintech-co-lending-model-to-change-rbi-11765972768927.html",
+    "title": "RBI’s clean-up is forcing a rethink of NBFC–fintech co-lending models",
+    "fetched_on": "2025-12-19T08:31:50.174124+00:00",
+    "content": "Co-lending relationships between regulated lenders such as banks and non-banking finance companies (NBFCs) on one side, and fintech firms on the other, are expected to change significantly over the n… [+4740 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "RBI",
+      "co-lending",
+      "NBFC",
+      "NBFCs",
+      "companies",
+      "side",
+      "fintech",
+      "clean-up",
+      "forcing"
+    ]
   }
 ]
