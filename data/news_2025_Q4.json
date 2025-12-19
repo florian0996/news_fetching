@@ -271829,5 +271829,139 @@
       "chars",
       "feature"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2025-12-19/eu-s-90-bln-loan-to-ukraine-won-t-use-russian-assets-video",
+    "title": "EU's €90 Billion Loan to Ukraine Won't Use Frozen Russian Assets",
+    "fetched_on": "2025-12-19T07:23:24.691808+00:00",
+    "content": "European Union leaders reached an agreement to loan Ukraine €90 billion ($106 billion) for the next two years, aiming to strengthen Kyiv’s hand at the negotiating table and keep the war-torn country afloat. The EU will raise joint debt backed by the bloc’s budget to fund the loan, a significant pivot from using frozen Russian assets, a plan favored by Ukrainian President Volodymyr Zelenskiy. Bloomberg's Oliver Crook reports. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Ukraine",
+      "Russian",
+      "European",
+      "Union",
+      "Kyiv",
+      "Loan",
+      "Frozen",
+      "Assets",
+      "years"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-12-19/bloomberg-daybreak-europe-eu-s-90b-ukraine-loan-podcast",
+    "title": "Bloomberg Daybreak Europe: EU's €90B Ukraine Loan (Podcast)",
+    "fetched_on": "2025-12-19T07:23:24.993181+00:00",
+    "content": "Source: Bloomberg, 22:59",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Source",
+      "Bloomberg",
+      "22:59",
+      "Europe",
+      "Ukraine",
+      "Loan",
+      "Daybreak"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-12-19/eu-agrees-to-90-billion-loan-for-ukraine",
+    "title": "EU Agrees to €90 Billion Loan for Ukraine",
+    "fetched_on": "2025-12-19T07:23:24.993200+00:00",
+    "content": "Good morning. Ukraine is set to get a €90 billion loan. The Bank of Japan raises rates to the highest level since 1995. And Brits may be gearing up to spend big as the Christmas spirit sets in. Listen to the day’s top stories.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Agrees",
+      "Good",
+      "Loan",
+      "Ukraine",
+      "morning",
+      "Bank",
+      "Japan",
+      "Brits",
+      "Christmas"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/domestic-growth-to-support-indias-auto-loan-asset-backed-securities-performance-in-2026-fitch-ratings/articleshow/126053268.cms",
+    "title": "Domestic growth to support India's auto loan asset-backed-securities performance in 2026: Fitch Ratings",
+    "fetched_on": "2025-12-19T07:23:23.689047+00:00",
+    "content": "New Delhi: Fitch Ratings has maintained a 'Neutral' outlook for India's auto loan asset-backed securities (ABS) sector for 2026, citing expectations of stable asset performance supported by resilient… [+2917 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fitch",
+      "Neutral",
+      "ABS",
+      "India",
+      "Ratings",
+      "chars",
+      "Delhi",
+      "auto",
+      "loan",
+      "Domestic"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/4955b6223bbf0019",
+    "title": "Ares Backs Dubai Multifamily Office in Gulf Private Credit Push",
+    "fetched_on": "2025-12-19T07:23:23.689047+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Oracle's stock drop after data center funding concerns? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will … [+828 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "Push",
+      "return",
+      "false",
+      "Backs",
+      "Dubai",
+      "Multifamily",
+      "Office"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/140432/report-man-united-set-35m-january-price-tag-on-forward.html",
+    "title": "Report: Man United set £35m January price tag on forward",
+    "fetched_on": "2025-12-19T07:23:23.689047+00:00",
+    "content": "Romas January planning is beginning to sharpen, with renewed focus on Manchester United forward Joshua Zirkzee. Credit must go to Corriere dello Sport for outlining how sporting director Florent Ghis… [+3677 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "United",
+      "January",
+      "Report",
+      "Man",
+      "Zirkzee",
+      "Romas",
+      "Manchester",
+      "Joshua",
+      "set",
+      "sharpen"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/financial-forecast-what-to-expect-165315797.html",
+    "title": "Your money in 2026: What to expect in banking, mortgages, credit cards, and more",
+    "fetched_on": "2025-12-19T07:23:55.068649+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "mortgages",
+      "banking",
+      "credit",
+      "cards",
+      "money",
+      "expect"
+    ]
   }
 ]
