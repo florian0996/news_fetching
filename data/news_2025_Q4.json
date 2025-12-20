@@ -275390,5 +275390,65 @@
       "errors",
       "protect"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/analysis-debt-boom-signals-yuans-081307515.html",
+    "title": "Analysis-Debt boom signals yuan's arrival as a funding currency",
+    "fetched_on": "2025-12-20T08:28:13.931214+00:00",
+    "content": "HONG KONG, Dec 19 (Reuters) - Investors are snapping up yuan credits and surging yuan lending is poised to overtake overseas dollar loans at Chinese banks as attractive pricing helps drive a sustaine… [+6237 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec",
+      "Reuters",
+      "KONG",
+      "Investors",
+      "chars",
+      "yuan",
+      "HONG",
+      "Chinese",
+      "Analysis-Debt",
+      "sustaine"
+    ]
+  },
+  {
+    "source": "GamesRadar+ [NewsAPI]",
+    "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/is-there-a-avatar-fire-and-ash-post-credits-scene/",
+    "title": "Is there an Avatar: Fire and Ash post-credits scene?",
+    "fetched_on": "2025-12-20T08:28:13.931214+00:00",
+    "content": "It's time to head back to Pandora as Avatar: Fire and Ash has finally hit the big screen. Taking place right after Avatar: Way of the Water, Avatar 3 sees Jake Sully and his family living peacefully … [+2630 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Avatar",
+      "Fire",
+      "Ash",
+      "scene",
+      "post-credits",
+      "Pandora",
+      "Water",
+      "Jake",
+      "Sully",
+      "chars"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/140475/report-man-united-midfielder-move-unlikely-this-january.html",
+    "title": "Sky Sports: Man United reveal stance on Kobbie Mainoo’s future ahead of January window",
+    "fetched_on": "2025-12-20T08:28:13.931214+00:00",
+    "content": "Manchester Uniteds stance on Kobbie Mainoo is clear, firm but layered with nuance. Credit to Sky Sports News for reporting that United will only consider selling the academy graduate in January if an… [+3440 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kobbie",
+      "Mainoo",
+      "Man",
+      "Sports",
+      "Manchester",
+      "stance",
+      "January",
+      "Sky",
+      "United",
+      "clear"
+    ]
   }
 ]
