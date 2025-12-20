@@ -275350,5 +275350,45 @@
       "chars",
       "planning"
     ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/bad-credit-heres-how-it-raises-your-car-loan-interest-insurance-premium-and-emis/your-credit-score-can-make-or-break-your-car-deal/slideshow/126071565.cms",
+    "title": "Bad credit? Here’s how it raises your car loan interest, insurance premium and EMIs",
+    "fetched_on": "2025-12-20T07:19:40.856109+00:00",
+    "content": "Dec 19, 2025, 12:05:25 PM IST\r\nFrom buying to leasing to insuring a car, your credit score decides the costs, terms, and options you get. A high score means cheaper loans and better deals on your dre… [+1759 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bad",
+      "credit",
+      "Dec",
+      "terms",
+      "IST",
+      "car",
+      "score",
+      "chars",
+      "interest",
+      "insurance"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/credit-report-disputes-explained-why-they-matter-how-to-fix-errors-and-protect-your-score-11766123569801.html",
+    "title": "Credit report disputes explained: Why they matter, how to fix errors and protect your score",
+    "fetched_on": "2025-12-20T07:19:40.856109+00:00",
+    "content": "A credit report dispute is a formal process that allows credit account holders to rectify mistakes and inaccuracies in their credit reports. Since lending institutions and banks depend heavily on cre… [+4132 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "report",
+      "reports",
+      "explained",
+      "matter",
+      "disputes",
+      "dispute",
+      "fix",
+      "errors",
+      "protect"
+    ]
   }
 ]
