@@ -275134,5 +275134,61 @@
       "credit",
       "cardholders"
     ]
+  },
+  {
+    "source": "Psychology Today [NewsAPI]",
+    "url": "https://www.psychologytoday.com/us/blog/platonic-psychology/202512/why-you-cant-stop-overspending-at-christmas",
+    "title": "Why You Can't Stop Overspending at Christmas",
+    "fetched_on": "2025-12-20T03:16:50.235380+00:00",
+    "content": "Every January, the same pattern appears. Someone sits across from me, frustrated, staring at credit card statements that don't make sense. They knew better. They made a budget in November. They promi… [+7749 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "Stop",
+      "Overspending",
+      "Christmas",
+      "pattern",
+      "frustrated",
+      "November",
+      "staring",
+      "sense",
+      "chars"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/streaming/paramount-plus/landman-season-2-episode-6-release-date-time",
+    "title": "What is the release date for Landman season 2 episode 6 on Paramount+?",
+    "fetched_on": "2025-12-20T03:16:50.235380+00:00",
+    "content": "I can hardly keep up with the drama on Landman season 2, but things have definitely just got worse thanks to Gallino (Andy Garcia).\r\nNow that Cami (Kayla Wallace) has accepted a $500 million loan fro… [+2530 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paramount",
+      "episode",
+      "season",
+      "Landman",
+      "Gallino",
+      "Andy",
+      "Garcia",
+      "release",
+      "date",
+      "Cami"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/where-does-credit-score-stand-212304027.html",
+    "title": "Where Does Your Credit Score Stand Compared to the National Average?",
+    "fetched_on": "2025-12-20T03:17:10.680794+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Average",
+      "Credit",
+      "Score",
+      "Stand",
+      "Compared",
+      "National"
+    ]
   }
 ]
