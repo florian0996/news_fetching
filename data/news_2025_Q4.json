@@ -275270,5 +275270,85 @@
       "Offer",
       "AmEx"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/940872",
+    "title": "Bosch Table Saw 250mm 1800w model: GTS 10 J $479 + $50 TKD instore Credit Shipping $90",
+    "fetched_on": "2025-12-20T06:33:03.935465+00:00",
+    "content": "Looks like a great table saw, the only downside I've found is the slots are 5/8\" not the standard 3/8\", so finding a Miter Gauge for this, not straightforward. Priced $1029.00 at Sydney Tools and eve… [+431 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GTS",
+      "Table",
+      "TKD",
+      "Shipping",
+      "model",
+      "Credit",
+      "Miter",
+      "Gauge",
+      "Bosch",
+      "standard"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/high-value-buying-shifts-to-credit-cards-upi-for-everyday-payments-amid-decline-in-debit-card-usage-report/articleshow/126070974.cms",
+    "title": "High-value buying shifts to credit cards, UPI for everyday payments amid decline in debit card usage: Report",
+    "fetched_on": "2025-12-20T06:33:03.935465+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UPI",
+      "Report",
+      "EMI",
+      "High-value",
+      "usage",
+      "loan",
+      "buying",
+      "shifts",
+      "credit",
+      "everyday"
+    ]
+  },
+  {
+    "source": "Softwarecrafts.co.uk [NewsAPI]",
+    "url": "https://softwarecrafts.co.uk/100-words/day-295",
+    "title": "More adventures in building template components in Django",
+    "fetched_on": "2025-12-20T06:33:03.935465+00:00",
+    "content": "I discovered a new pattern in using one of the latest features from Django 6.0, template-partials. I probably need to give Claude some credit along with Tailwind Plus for the initial HTML. Earlier th… [+2759 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Django",
+      "template-partials",
+      "adventures",
+      "building",
+      "template",
+      "components",
+      "discovered",
+      "pattern",
+      "latest",
+      "features"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/crime-law/courts/2025/12/19/judges-deserve-more-credit-for-their-handling-of-planning-cases-says-high-court-president/",
+    "title": "Judges deserve more ‘credit’ for their handling of planning cases, says High Court president",
+    "fetched_on": "2025-12-20T06:33:03.935465+00:00",
+    "content": "Judicial reviews have got a bad rap in recent debates surrounding delays to big infrastructure projects, the president of the High Court has said.\r\nMr David Justice Barniville said very few planning … [+8036 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "High",
+      "Court",
+      "Judicial",
+      "Judges",
+      "credit’",
+      "cases",
+      "projects",
+      "president",
+      "chars",
+      "planning"
+    ]
   }
 ]
