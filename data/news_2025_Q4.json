@@ -277295,5 +277295,65 @@
       "Antitrust",
       "Cro"
     ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/dojs-epstein-files-drop-shows-michael-jackson-bill-clinton-and-more/",
+    "title": "DOJ’s Epstein Files Drop Shows Michael Jackson, Bill Clinton, and More",
+    "fetched_on": "2025-12-20T23:19:58.239558+00:00",
+    "content": "Credit: The Department of Justice via The New York Times\r\nOn Friday afternoon, as the 11:59 pm deadline of the Epstein Files Transparency Act approached, the Department of Justice posted a slew of do… [+2410 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Department",
+      "Epstein",
+      "Files",
+      "Justice",
+      "DOJ",
+      "Jackson",
+      "Bill",
+      "Clinton",
+      "Credit",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/mitsubishi-announces-4-4bn-shriram-deal/articleshow/126086394.cms",
+    "title": "Mitsubishi announces $4.4bn Shriram deal",
+    "fetched_on": "2025-12-20T23:19:58.239558+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shriram",
+      "EMI",
+      "Mitsubishi",
+      "announces",
+      "loan",
+      "deal",
+      "CalculatorDetermine",
+      "monthly",
+      "installment",
+      "amount"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/12/universal-orlando-new-ride-2026-permit-emd1/",
+    "title": "Universal Orlando’s New Construction Permit May Be the Final Nail in the Coffin for This Opening-Day Land",
+    "fetched_on": "2025-12-20T23:19:58.239558+00:00",
+    "content": "Something new is coming to Universal Orlando Resort, and it’s going to be in the form of a new, modern ride for Islands of Adventure.\r\nCredit: Universal Orlando Resort\r\nUniversal Orlando Gearing up f… [+5770 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Orlando",
+      "Universal",
+      "Adventure",
+      "Resort",
+      "Construction",
+      "Permit",
+      "Final",
+      "Nail",
+      "Coffin",
+      "Land"
+    ]
   }
 ]
