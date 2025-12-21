@@ -277752,5 +277752,65 @@
       "information",
       "post"
     ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/393093/the-end-of-an-era-3iatlas-completes-its-closest-approach-to-the-earth",
+    "title": "The end of an era: 3I/ATLAS completes its closest approach to the Earth",
+    "fetched_on": "2025-12-21T12:42:09.851984+00:00",
+    "content": "Space &amp; Astronomy\r\nBy T.K. RandallDecember 20, 2025 ·  207 commentsSo long 3I/ATLAS... Image Credit: NASA/ESA et al.The enigmatic interstellar interloper has passed the closest point to us it wil… [+1490 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ATLAS",
+      "Space",
+      "Astronomy",
+      "RandallDecember",
+      "Earth",
+      "era",
+      "commentsSo",
+      "long",
+      "NASA",
+      "closest"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/12/star-wars-post-sequel-era-gets-update-after-director-forced-to-scrap-original-movie-th1/",
+    "title": "‘Star Wars’ Post-Sequel Era Gets Update After Director Forced To Scrap Original Movie",
+    "fetched_on": "2025-12-21T12:42:09.851984+00:00",
+    "content": "The next Star Wars film just hit a major milestone, but did it come at a cost?\r\nCredit: Lucasfilm\r\nLucasfilm is charting a noticeably different course for Star Wars, and the mandate is coming from th… [+4824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Star",
+      "Wars",
+      "Wars’",
+      "Era",
+      "Update",
+      "Director",
+      "Forced",
+      "Scrap",
+      "Original",
+      "Movie"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/12/20/testing-8-solder-flux-pastes-after-flux-killed-a-geforce2-gts/",
+    "title": "Testing 8 Solder Flux Pastes After Flux Killed a GeForce2 GTS",
+    "fetched_on": "2025-12-21T12:42:09.851984+00:00",
+    "content": "Riesba NC-559-ASM flux being applied. (Credit: Bits und Bolts, YouTube)\r\nFlux is one of those things that you cannot really use too much of during soldering, as it is essential for cleaning the surfa… [+1686 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Flux",
+      "Solder",
+      "GTS",
+      "Riesba",
+      "Pastes",
+      "Killed",
+      "Testing",
+      "applied",
+      "Credit",
+      "Bits"
+    ]
   }
 ]
