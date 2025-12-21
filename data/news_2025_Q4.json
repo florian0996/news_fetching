@@ -278287,5 +278287,85 @@
       "government",
       "Private"
     ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/comics/feature/today-is-the-day-the-age-of-apocalypse-truly-began-and-its-still-one-of-the-best-x-men-stories-ever/",
+    "title": "Today Is the Day The Age of Apocalypse Truly Began (And It’s Still One of the Best X-Men Stories Ever)",
+    "fetched_on": "2025-12-21T19:17:10.475567+00:00",
+    "content": "With 86 years of history, Marvel Comics has some truly incredible and beloved stories to its credit and its not really a mystery why. The company that began as Timely Comics in 1939 is the home of so… [+4251 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stories",
+      "Marvel",
+      "Day",
+      "Age",
+      "Apocalypse",
+      "Comics",
+      "Began",
+      "Today",
+      "years",
+      "history"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/motorola/motorola-and-oneplus-2025-report-card",
+    "title": "Motorola and OnePlus in 2025: A year of triumphs and trials in mobile tech",
+    "fetched_on": "2025-12-21T19:17:10.475567+00:00",
+    "content": "Motorola: C+\r\n(Image credit: Motorola)\r\nMotorola has proven that there are benefits to being an underdog, as it means there’s plenty of room to grow. The company has done just that while demonstratin… [+8043 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Motorola",
+      "Image",
+      "credit",
+      "underdog",
+      "grow",
+      "OnePlus",
+      "year",
+      "triumphs",
+      "trials",
+      "mobile"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/tech/data-breach-exposes-400k-bank-customers-info",
+    "title": "Data breach exposes 400K bank customers’ info",
+    "fetched_on": "2025-12-21T19:17:10.475567+00:00",
+    "content": "A major data breach tied to U.S. fintech firm Marquis is rippling through banks, credit unions and their customers. Hackers broke into Marquis systems by exploiting a known but unpatched vulnerabilit… [+14107 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Data",
+      "breach",
+      "Marquis",
+      "exposes",
+      "fintech",
+      "credit",
+      "customers",
+      "chars",
+      "customers’",
+      "info"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/12/disney-world-holiday-prices-2025-2026-emd1/",
+    "title": "Disney World Plagued by Transport Failures, Ride Shutdowns Before Christmas: Guests Demand Refunds",
+    "fetched_on": "2025-12-21T19:17:10.475567+00:00",
+    "content": "The buses did not arrive on time, the crowds were packed in like sardines, and prices were sky-high. So why does this event continue to sell out year after year?\r\nCredit: jared422_80, Flickr\r\nDisney … [+6086 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Failures",
+      "Ride",
+      "Christmas",
+      "Guests",
+      "World",
+      "Plagued",
+      "Transport",
+      "Shutdowns",
+      "Demand",
+      "Refunds"
+    ]
   }
 ]
