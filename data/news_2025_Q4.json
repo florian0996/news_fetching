@@ -278428,5 +278428,85 @@
       "year",
       "Shop"
     ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/video/6386764408112",
+    "title": "Shoplifting suspect draws pistol as employee and police officer neutralize threat",
+    "fetched_on": "2025-12-21T21:19:36.650277+00:00",
+    "content": "An alleged shoplifter draws a gun on an Canton, Ohio, police officer, as a store employee and the officer quickly intervene and disarm the suspect. (Credit: Canton Police Department)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ohio",
+      "officer",
+      "police",
+      "employee",
+      "Canton",
+      "suspect",
+      "draws",
+      "Credit",
+      "Shoplifting",
+      "Department"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/ai-boom-brings-flood-of-debt-to-ultrasafe-market-credit-weekly",
+    "title": "AI Boom Brings Flood of Debt to Ultrasafe Market: Credit Weekly",
+    "fetched_on": "2025-12-21T21:19:36.650277+00:00",
+    "content": "(Bloomberg) The great artificial intelligence boom thats fueling US economic growth now depends heavily on credit markets to finance the investments, and utilities are among the key borrowers. \r\nTHIS… [+4933 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Weekly",
+      "Boom",
+      "Credit",
+      "Brings",
+      "Flood",
+      "Debt",
+      "Ultrasafe",
+      "investments",
+      "borrowers"
+    ]
+  },
+  {
+    "source": "Electrek [NewsAPI]",
+    "url": "http://electrek.co/2025/12/20/giddyup-polestar-picks-up-600-million-in-fresh-funding/",
+    "title": "Giddyup: Polestar picks up $600 million in fresh funding",
+    "fetched_on": "2025-12-21T21:19:36.650277+00:00",
+    "content": "Geely-backed performance EV brand Polestar has had some troubling times in recent months, but its future is looking a whole lot better after the company secured a $600 million loan facility to help i… [+2986 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Giddyup",
+      "chars",
+      "Polestar",
+      "million",
+      "Geely-backed",
+      "months",
+      "picks",
+      "fresh",
+      "funding",
+      "performance"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4358314/posts",
+    "title": "Astronomy Picture of the Day - A Solstice Sun Tattoo",
+    "fetched_on": "2025-12-21T21:19:36.650277+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - A Solstice Sun TattooNASA ^\r\n | 20 Dec, 2025\r\n | Image Credit &amp; Copyright: Marcella Pace\r\nPosted on 12/20/2025 12:24:58 PM PST by MtnClimber\r\nExp… [+2381 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Picture",
+      "Solstice",
+      "Astronomy",
+      "Sun",
+      "Tattoo",
+      "Skip",
+      "Dec",
+      "Copyright",
+      "comments"
+    ]
   }
 ]
