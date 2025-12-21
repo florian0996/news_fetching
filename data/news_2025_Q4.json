@@ -278127,5 +278127,65 @@
       "Steady",
       "Force"
     ]
+  },
+  {
+    "source": "Coingape [NewsAPI]",
+    "url": "https://coingape.com/xrp-holders-eye-institutional-grade-yield-as-ripple-engineer-details-upcoming-xrpl-lending-protocol/",
+    "title": "XRP Holders Eye ‘Institutional Grade Yield’ as Ripple Engineer Details Upcoming XRPL Lending Protocol",
+    "fetched_on": "2025-12-21T16:26:17.113784+00:00",
+    "content": "A Ripple engineer recently explained how XRP could gain a utility boost through the upcoming XRPL lending protocol Source: CoinGape\r\n<ul><li>Edward Hennis stated that XRP holders could earn instituti… [+3317 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "XRPL",
+      "XRP",
+      "Ripple",
+      "Lending",
+      "Holders",
+      "Engineer",
+      "Upcoming",
+      "Protocol",
+      "Eye",
+      "Institutional"
+    ]
+  },
+  {
+    "source": "NerdWallet [NewsAPI]",
+    "url": "https://www.nerdwallet.com/credit-cards/learn/choosing-balance-transfer-card#article",
+    "title": "Which Balance Transfer Credit Card Is Right for Me?",
+    "fetched_on": "2025-12-21T16:26:17.113784+00:00",
+    "content": "Moving debt from a high-interest credit card to a card with a promotional 0% APR offer can save you hundreds or even thousands of dollars in interest. When youre looking for a balance transfer credit… [+24455 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Card",
+      "Transfer",
+      "Balance",
+      "APR",
+      "chars",
+      "Moving",
+      "promotional",
+      "interest",
+      "debt"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/test-your-knowledge-of-all-14-games-we-celebrated-in-the-pc-gamer-goty-awards-2025-with-our-latest-quiz/",
+    "title": "Test your knowledge of all 14 games we celebrated in the PC Gamer GOTY awards 2025 with our latest quiz",
+    "fetched_on": "2025-12-21T16:26:17.113784+00:00",
+    "content": "(Image credit: Larian Studios, PC Gamer)\r\nWant to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes, on everything from healthbars to weird currencies to absurd patc… [+1037 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gamer",
+      "Image",
+      "Larian",
+      "Studios",
+      "knowledge",
+      "GOTY",
+      "Test",
+      "games",
+      "awards",
+      "quiz"
+    ]
   }
 ]
