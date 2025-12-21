@@ -277612,5 +277612,45 @@
       "signing",
       "home"
     ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18997261-499-512gb-meta-quest-3-99-01-credit-at-amazon",
+    "title": "$499: 512GB Meta Quest 3 + $99.01 credit at Amazon (2 replies)",
+    "fetched_on": "2025-12-21T09:22:36.952608+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Meta",
+      "Quest",
+      "Amazon",
+      "replies",
+      "tips",
+      "credit",
+      "information",
+      "post",
+      "collaborative",
+      "space"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/save-plan-blocked-student-loan-borrowers-brace-higher-monthly-payments-2025-12",
+    "title": "Student-loan borrowers are gearing up for higher monthly payments after Trump moves to ax their affordable plan: 'I'm bracing for an astronomical bill'",
+    "fetched_on": "2025-12-21T09:22:36.952608+00:00",
+    "content": "David Chatman, 51, is filing for bankruptcy.\r\nOne reason? His monthly student loan payments are projected to jump from $86 to $689 now that President Donald Trump has moved to end the income-driven r… [+5051 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "David",
+      "Chatman",
+      "Trump",
+      "Student-loan",
+      "plan",
+      "bill",
+      "bankruptcy",
+      "borrowers",
+      "gearing",
+      "higher"
+    ]
   }
 ]
