@@ -277552,5 +277552,65 @@
       "paying",
       "breaks"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-21/nigeria-s-heirs-energies-gets-750-million-loan-to-boost-output",
+    "title": "Nigeria’s Heirs Energies Gets $750 Million Loan to Boost Output",
+    "fetched_on": "2025-12-21T08:28:44.970646+00:00",
+    "content": "Nigerian oil producer Heirs Energies secured $750 million of credit from African Export–Import Bank to fund production, according to a company statement.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Heirs",
+      "Energies",
+      "Export",
+      "Import",
+      "Loan",
+      "Boost",
+      "Output",
+      "Nigerian",
+      "African"
+    ]
+  },
+  {
+    "source": "Equinechronicle.com [NewsAPI]",
+    "url": "http://www.equinechronicle.com/ec-photo-of-the-day-leah-nim-and-friends/",
+    "title": "EC Photo of the Day – Leah Nim and Friends",
+    "fetched_on": "2025-12-21T08:28:43.386010+00:00",
+    "content": "Photo credit: Ashley Magnus Photography.\r\nTrue friends are like diamonds bright, beautiful, valuable, and always in style. Nicole Richie.\r\nPictured: Leah Nim and her friends at Trendsetter Performanc… [+213 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Photo",
+      "Day",
+      "Ashley",
+      "Photography",
+      "Leah",
+      "Magnus",
+      "Nim",
+      "Friends",
+      "credit",
+      "Richie"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/397183/prabowo-oversees-mass-signing-of-50030-subsidized-home-loans",
+    "title": "Prabowo oversees mass signing of 50,030 subsidized home loans",
+    "fetched_on": "2025-12-21T08:28:43.386010+00:00",
+    "content": "Jakarta (ANTARA) - President Prabowo Subianto on Saturday attended a nationwide mass signing of 50,030 subsidized home loans under the People’s Housing Credit (KPR) scheme, alongside a symbolic hando… [+2525 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANTARA",
+      "KPR",
+      "subsidized",
+      "scheme",
+      "chars",
+      "Jakarta",
+      "President",
+      "Credit",
+      "signing",
+      "home"
+    ]
   }
 ]
