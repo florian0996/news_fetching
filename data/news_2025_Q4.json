@@ -277692,5 +277692,65 @@
       "giant",
       "home"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-saturday-december-20-2025-110018016.html",
+    "title": "HELOC rates today, December 20, 2025: Lowest rates in 3 years",
+    "fetched_on": "2025-12-21T11:18:19.948094+00:00",
+    "content": "The national average HELOC rate is falling to its lowest point in three years, based on the pricing benchmark of the prime rate. Home equity line of credit lenders are getting more aggressive with in… [+3754 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "December",
+      "Lowest",
+      "years",
+      "rates",
+      "rate",
+      "today",
+      "based",
+      "national",
+      "average"
+    ]
+  },
+  {
+    "source": "The Intercept [NewsAPI]",
+    "url": "https://theintercept.com/2025/12/20/stopantisemitism-israel-blacklist-teacher-job-firings/",
+    "title": "StopAntisemitism Takes Credit for Getting Hundreds Fired. A Music Teacher Is Suing.",
+    "fetched_on": "2025-12-21T11:18:19.948094+00:00",
+    "content": "When Oregon music teacher Susan Lewis logged onto a Zoom meeting with her boss one afternoon in August 2024, she thought she would be preparing for a sixth year teaching at Valley Catholic School. In… [+16961 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fired",
+      "Credit",
+      "Hundreds",
+      "StopAntisemitism",
+      "Music",
+      "Teacher",
+      "Suing",
+      "August",
+      "School",
+      "Oregon"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/18996259-evgo-mobile-app-5-electric-vehicle-charging-credit-free",
+    "title": "EVgo Mobile App: $5 Electric Vehicle Charging Credit Free",
+    "fetched_on": "2025-12-21T11:18:19.948094+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "App",
+      "Electric",
+      "tips",
+      "Mobile",
+      "Vehicle",
+      "Charging",
+      "Credit",
+      "EVgo",
+      "information",
+      "post"
+    ]
   }
 ]
