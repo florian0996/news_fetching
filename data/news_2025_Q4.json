@@ -278847,5 +278847,102 @@
       "fake",
       "firms"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-22/why-americans-are-falling-behind-on-auto-loans-at-their-highest-level-ever",
+    "title": "Why Americans Are Falling Behind on Auto Loans At Their Highest Level Ever",
+    "fetched_on": "2025-12-22T09:30:50.592132+00:00",
+    "content": "<p>Signs of weakness in consumer balance sheets</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Signs",
+      "Americans",
+      "Falling",
+      "Auto",
+      "Loans",
+      "Highest",
+      "Level",
+      "sheets",
+      "weakness",
+      "consumer"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2025-12-22/odd-lots-why-auto-loan-delinquency-is-on-the-rise-podcast",
+    "title": "Odd Lots: Why Auto Loan Delinquency Is On the Rise (Podcast)",
+    "fetched_on": "2025-12-22T09:30:50.592142+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Lots",
+      "Rise",
+      "Auto",
+      "Loan",
+      "Delinquency",
+      "Odd"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-22/fairfax-backed-iifl-seeks-private-credit-to-fund-mid-sized-firms",
+    "title": "Fairfax-Backed IIFL Seeks Private Credit to Fund Mid-Sized Firms",
+    "fetched_on": "2025-12-22T09:30:49.994376+00:00",
+    "content": "India’s IIFL Capital Services Ltd. aims to raise as much as 40 billion rupees ($447 million) through private credit in the next two years to invest in mid-sized companies, according to its joint chief executive officer.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IIFL",
+      "Seeks",
+      "Fund",
+      "Firms",
+      "India",
+      "Capital",
+      "Services",
+      "Private",
+      "Credit",
+      "Fairfax-Backed"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/more-voice-actors-cast-as-chopper-in-one-piece-season-2-alongside-new-first-looks/",
+    "title": "More Voice Actors Cast as Chopper in ‘One Piece’ Season 2 Alongside New First Looks",
+    "fetched_on": "2025-12-22T09:30:49.155849+00:00",
+    "content": "Picture Credit: Netflix\r\nOver the past few days, Netflix has been announcing renewals and other news from Japan, and today we got the international voice cast alongside the previously announced Mikae… [+2897 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Season",
+      "Credit",
+      "Japan",
+      "Mikae",
+      "chars",
+      "Voice",
+      "Cast",
+      "Alongside",
+      "Actors"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-mufgs-stake-trigger-re-rating-for-shriram-finance-heres-what-experts-are-saying/articleshow/126103653.cms",
+    "title": "Can MUFG’s stake trigger re-rating for Shriram Finance? Here’s what experts are saying",
+    "fetched_on": "2025-12-22T09:30:49.155849+00:00",
+    "content": "Japans MUFG Bank has made a decisive statement on Indias lending sector with its plan to invest Rs 39,620 crore in Shriram Finance for a 20% equity stake, in what is poised to be the largest foreign … [+4454 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shriram",
+      "Finance",
+      "MUFG",
+      "chars",
+      "stake",
+      "trigger",
+      "re-rating",
+      "Japans",
+      "Bank",
+      "Indias"
+    ]
   }
 ]
