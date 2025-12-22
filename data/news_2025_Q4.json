@@ -279763,5 +279763,105 @@
       "ambitious",
       "timetable"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-22/stock-surge-currency-gains-fuel-2026-investor-optimism-for-asia",
+    "title": "Stock Surge, Currency Gains Fuel 2026 Investor Optimism for Asia",
+    "fetched_on": "2025-12-22T22:22:34.585707+00:00",
+    "content": "Asia is back on top. The region’s stock markets have beaten the US and Europe this year, credit markets are strong, currencies are strengthening, and investors expect the momentum to carry into 2026.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asia",
+      "Surge",
+      "Currency",
+      "Fuel",
+      "Gains",
+      "Optimism",
+      "top",
+      "Stock",
+      "back",
+      "Europe"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-22/lease-to-own-firm-flexshopper-files-bankruptcy-after-firing-ceo",
+    "title": "Lease-to-Own Firm FlexShopper Files Bankruptcy After Firing CEO",
+    "fetched_on": "2025-12-22T22:22:35.040496+00:00",
+    "content": "FlexShopper Inc., a publicly traded provider of lease-to-own financing for appliances, electronics and other consumer products, filed for bankruptcy months after firing its chief executive officer following an internal investigation into fraudulent loan documents.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Firm",
+      "Inc.",
+      "Firing",
+      "Bankruptcy",
+      "Files",
+      "CEO",
+      "financing",
+      "appliances",
+      "electronics",
+      "products"
+    ]
+  },
+  {
+    "source": "UPI.com [NewsAPI]",
+    "url": "https://www.upi.com/Top_News/US/2025/12/21/jeffries-vows-pressure-on-insurance-subsidies/3261766352645/",
+    "title": "Jeffries vows to 'pressure' Senate on health care insurance subsidies",
+    "fetched_on": "2025-12-22T22:22:33.891279+00:00",
+    "content": "Dec. 21 (UPI) -- House Minority Leader Rep. Hakeem Jeffries, R-N.Y., said Sunday that he expects lawmakers to pass a bipartisan compromise on extending Affordable Care Act tax credits.\r\nJeffries said… [+2574 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UPI",
+      "Senate",
+      "Dec.",
+      "House",
+      "Rep",
+      "pressure",
+      "Minority",
+      "Leader",
+      "Jeffries",
+      "care"
+    ]
+  },
+  {
+    "source": "The Hockey News [NewsAPI]",
+    "url": "https://thehockeynews.com/ohl/latest-news/chicago-blackhawks-prospect-commits-to-ncaa-university-of-st-thomas",
+    "title": "Chicago Blackhawks Prospect Commits To NCAA University Of St. Thomas",
+    "fetched_on": "2025-12-22T22:22:33.891279+00:00",
+    "content": "Erie Otters defenseman &amp; Chicago Blackhawks prospect Ty Henry (2). Credit: Natalie Shaver/OHL Images\r\nThe Erie Otters have been without their star shutdown defenseman, Ty Henry, all season. He su… [+2807 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chicago",
+      "Blackhawks",
+      "Henry",
+      "Prospect",
+      "Erie",
+      "Otters",
+      "Commits",
+      "NCAA",
+      "University",
+      "Thomas"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/941243",
+    "title": "Double Credits: Load $60 & Get $120, $100 & Get $200, $160 & Get $320, $200 & Get $400, $250 & Get $500 @ Timezone",
+    "fetched_on": "2025-12-22T22:22:33.891279+00:00",
+    "content": "Next double dollars is on Boxing Day.How long is Double Dollars on for?Double Dollars is live from 1am AEDT, Friday 26 December 2025 and expires on 11:59pm AEDT, Friday 26 December 2025. Double Dolla… [+664 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AEDT",
+      "Friday",
+      "December",
+      "dollars",
+      "Double",
+      "Load",
+      "Credits",
+      "Timezone",
+      "Boxing",
+      "Day.How"
+    ]
   }
 ]
