@@ -278964,5 +278964,85 @@
       "China",
       "crisis"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-22/netflix-refinances-part-of-59-billion-loan-for-warner-bros-bid",
+    "title": "Netflix Refinances Part of $59 Billion Loan for Warner Bros. Bid",
+    "fetched_on": "2025-12-22T11:20:13.523607+00:00",
+    "content": "Netflix Inc. has refinanced part of a $59 billion bridge loan to support its potential acquisition of Warner Bros. Discovery Inc.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bros",
+      "Warner",
+      "Refinances",
+      "Billion",
+      "Part",
+      "Netflix",
+      "Loan",
+      "Inc.",
+      "Bid",
+      "Discovery"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-december-21-2025-110036345.html",
+    "title": "HELOC rates today, December 21, 2025: A holiday cash flow solution gets a rate break",
+    "fetched_on": "2025-12-22T11:20:12.363174+00:00",
+    "content": "As the national average home equity line of credit interest rate continues to fall, homeowners are finding a HELOC to be a welcome holiday cash flow solution. With pricing as low as it's been in thre… [+3823 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "December",
+      "cash",
+      "flow",
+      "holiday",
+      "solution",
+      "rate",
+      "today",
+      "fall",
+      "homeowners"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/harrison-dudziak-joins-braintree-town-loan",
+    "title": "Harrison Dudziak joins Braintree Town on loan",
+    "fetched_on": "2025-12-22T11:20:12.363174+00:00",
+    "content": "Harrison Dudziak has joined National League side Braintree Town on a youth loan until January 21.\r\nThe 19-year-old joined our academy in June 2016 and went on to sign his first professional contract … [+520 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Town",
+      "Dudziak",
+      "Braintree",
+      "Harrison",
+      "January",
+      "National",
+      "League",
+      "loan",
+      "joined",
+      "June"
+    ]
+  },
+  {
+    "source": "Live Science [NewsAPI]",
+    "url": "https://www.livescience.com/space/glittering-new-james-webb-telescope-image-shows-an-intricate-web-of-chaos-space-photo-of-the-week",
+    "title": "Glittering new James Webb telescope image shows an 'intricate web of chaos' — Space photo of the week",
+    "fetched_on": "2025-12-22T11:20:12.363174+00:00",
+    "content": "Webb and Chandra spot a cosmic car crash (Image credit: Credit: X-ray: NASA/CXC/SAO; Infrared: NASA/ESA/CSA/STScI/Webb; Image Processing: NASA/CXC/SAO/L. Frattare)\r\nWhat it is: The spiral galaxies NG… [+2514 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASA",
+      "CXC",
+      "SAO",
+      "Webb",
+      "X-ray",
+      "Infrared",
+      "ESA",
+      "CSA",
+      "credit",
+      "image"
+    ]
   }
 ]
