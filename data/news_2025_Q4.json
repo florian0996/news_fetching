@@ -278729,5 +278729,63 @@
       "Berlin",
       "Bern"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/home-loan-book-set-to-cross-rs-10-lakh-cr-next-fiscal-year-on-strong-demand-sbi-chief-11766295241376.html",
+    "title": "Home loan book set to cross ₹10 lakh cr next fiscal year on strong demand: SBI chief",
+    "fetched_on": "2025-12-22T06:37:55.925871+00:00",
+    "content": "New Delhi, Dec 21 (PTI) State Bank of India (SBI), the country's largest lender, is poised to achieve another milestone with its home loan portfolio expected to cross the 10 lakh crore mark next fisc… [+1954 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "Dec",
+      "PTI",
+      "lakh",
+      "Delhi",
+      "State",
+      "India",
+      "chars",
+      "Home",
+      "loan"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/your-questions-answered-a-shop-gave-me-a-credit-note-for-jewellery-that-made-my-skin-go-green/a1070979858.html",
+    "title": "Your Questions Answered: ‘A shop gave me a credit note for jewellery that made my skin go green’",
+    "fetched_on": "2025-12-22T06:37:55.925871+00:00",
+    "content": "Q I bought some pieces of jewellery a while back but returned them when I noticed they were turning my skin green. The shop accepted the return, saying it was aware of skin reaction issues with those… [+4750 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Answered",
+      "Questions",
+      "jewellery",
+      "skin",
+      "green",
+      "shop",
+      "gave",
+      "credit",
+      "note",
+      "made"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/ai-boom-brings-flood-debt-200000578.html",
+    "title": "AI Boom Brings Flood of Debt to Ultrasafe Market: Credit Weekly",
+    "fetched_on": "2025-12-22T06:38:15.446271+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Market",
+      "Credit",
+      "Weekly",
+      "Boom",
+      "Brings",
+      "Flood",
+      "Debt",
+      "Ultrasafe"
+    ]
   }
 ]
