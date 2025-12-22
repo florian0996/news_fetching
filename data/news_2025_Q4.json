@@ -278588,5 +278588,65 @@
       "network",
       "issues"
     ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/action/great-moments-in-pc-gaming-dark-messiah-of-might-and-magics-rooftop-chase/",
+    "title": "Great moments in PC gaming: Dark Messiah of Might and Magic's rooftop chase",
+    "fetched_on": "2025-12-22T01:54:40.116692+00:00",
+    "content": "Great moments in PC gaming are bite-sized celebrations of some of our favorite gaming memories.\r\nDark Messiah of Might and Magic\r\n(Image credit: Ubisoft)\r\nDeveloper: ArkaneYear: 2006\r\nI've praised Da… [+2904 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Great",
+      "Dark",
+      "Messiah",
+      "moments",
+      "gaming",
+      "Magic",
+      "memories",
+      "Ubisoft",
+      "Developer",
+      "rooftop"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/12/22/asia-pacific-markets-nifty-50-hang-seng-index-nikkei-225-china-lpr.html",
+    "title": "Asia-Pacific markets trade higher as investors assess China's key lending rate decision",
+    "fetched_on": "2025-12-22T01:55:00.906317+00:00",
+    "content": "Asia-Pacific markets climbed Monday as investors assess China's benchmark lending rate decision.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "investors",
+      "assess",
+      "rate",
+      "Monday",
+      "Asia-Pacific",
+      "markets",
+      "lending",
+      "decision",
+      "trade"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2025/12/22/china-lpr-1-year-5-year-property-market-weak-economic-data-.html",
+    "title": "China keeps benchmark lending rates steady for a seventh straight month despite weak economic data",
+    "fetched_on": "2025-12-22T01:55:00.906296+00:00",
+    "content": "The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively, holding them for a seventh straight meeting.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "seventh",
+      "China",
+      "People",
+      "Bank",
+      "straight",
+      "loan",
+      "holding",
+      "meeting",
+      "rates",
+      "benchmark"
+    ]
   }
 ]
