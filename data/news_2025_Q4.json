@@ -278787,5 +278787,45 @@
       "Debt",
       "Ultrasafe"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-22/kkr-s-private-credit-deal-with-utility-giant-acwa-marks-debut-in-saudi-arabia",
+    "title": "KKR Inks Private Credit Deal With Utility Giant Acwa, Marking Saudi Debut",
+    "fetched_on": "2025-12-22T07:26:15.433900+00:00",
+    "content": "KKR &amp; Co. is providing private credit financing to a desalination plant in Saudi Arabia, marking the alternatives giant’s first foray into the kingdom and highlighting the region’s growing appeal to global investors.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marking",
+      "KKR",
+      "Saudi",
+      "Private",
+      "Credit",
+      "Acwa",
+      "Arabia",
+      "Giant",
+      "Inks",
+      "Deal"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/home-loan-book-set-to-cross-10-lakh-cr-next-fiscal-year-on-strong-demand-sbi-chief/article70422253.ece",
+    "title": "Home loan book set to cross ₹10 lakh cr next fiscal year on strong demand: SBI chief",
+    "fetched_on": "2025-12-22T07:26:13.690352+00:00",
+    "content": "State Bank of India (SBI), the country's largest lender, is poised to achieve another milestone with its home loan portfolio expected to cross the 10 lakh crore mark next fiscal year, driven by robus… [+1973 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "lakh",
+      "fiscal",
+      "India",
+      "chars",
+      "Home",
+      "loan",
+      "cross",
+      "year",
+      "State"
+    ]
   }
 ]
