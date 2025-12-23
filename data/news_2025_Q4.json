@@ -280246,5 +280246,25 @@
       "December",
       "UTC"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/bharatpe-yes-bank-launch-pay-later-with-bharatpe-an-instant-credit-on-upi/article70424976.ece",
+    "title": "BharatPe & YES BANK launch 'Pay Later with BharatPe', an instant Credit on UPI",
+    "fetched_on": "2025-12-23T06:36:59.931965+00:00",
+    "content": "BharatPe, one of India's leading fintech company, in partnership with YES BANK, on Monday announced the launch of 'Pay Later with BharatPe' Credit on UPI, powered by NPCI. \r\nThis new product is desig… [+2176 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pay",
+      "BharatPe",
+      "BANK",
+      "Credit",
+      "UPI",
+      "NPCI",
+      "India",
+      "Monday",
+      "launch",
+      "company"
+    ]
   }
 ]
