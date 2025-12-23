@@ -1,6 +1,17 @@
 {
-  "2025-12-22": {
+  "2025-12-23": {
     "status": "no company in the news"
+  },
+  "2025-12-22": {
+    "articles": [
+      {
+        "title": "FW: Ackman the SpaceX SPARCman",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2025-12-21": {
     "status": "no company in the news"
