@@ -280306,5 +280306,145 @@
       "IST",
       "Canara"
     ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/loan-watch-kiwior-maintains-superb-winning-run",
+    "title": "Loan watch: Kiwior maintains superb winning run",
+    "fetched_on": "2025-12-23T08:32:24.179597+00:00",
+    "content": "Many of our Mens, Womens and Academy players have been sent out on loan this season to gain experience and further action.\r\nOleksandr Zinchenko marked his return to action with victory for Nottingham… [+2743 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kiwior",
+      "Mens",
+      "Womens",
+      "Academy",
+      "watch",
+      "Loan",
+      "chars",
+      "Nottingham",
+      "action",
+      "maintains"
+    ]
+  },
+  {
+    "source": "Ladowntownnews.com [NewsAPI]",
+    "url": "https://www.ladowntownnews.com/news/lights-camera-action-28-new-films-coming-to-california/article_212f00e6-0bad-4ba0-9b5e-570468782218.html",
+    "title": "Lights, Camera, Action: 28 new films coming to California",
+    "fetched_on": "2025-12-23T08:32:24.179597+00:00",
+    "content": "Gov. Gavin Newsom has announced that 28 film projects have received awards through the California Film Commissions recently expanded Film &amp; Television Tax Credit Program. These projects highlight… [+3477 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Camera",
+      "Action",
+      "Gov",
+      "California",
+      "film",
+      "Lights",
+      "Television",
+      "Program",
+      "coming",
+      "Newsom"
+    ]
+  },
+  {
+    "source": "Loyaltylobby.com [NewsAPI]",
+    "url": "https://loyaltylobby.com/2025/12/22/priority-pass-research-study-tomorrows-journey-smarter-faster-connected/",
+    "title": "Priority Pass Research Study: Tomorrow’s Journey – Smarter, Faster, Connected",
+    "fetched_on": "2025-12-23T08:32:24.179597+00:00",
+    "content": "Priority Pass provides access to a vast global lounge and travel experiences network, often included with premium credit cards or through direct paid memberships.\r\nPriority Pass has conducted a globa… [+5675 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Smarter",
+      "Faster",
+      "Pass",
+      "Study",
+      "Tomorrow",
+      "Journey",
+      "Connected",
+      "Priority",
+      "Research",
+      "network"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180437125",
+    "title": "China leaves benchmark lending rates unchanged for seventh straight month - Reuters",
+    "fetched_on": "2025-12-23T08:32:24.179597+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "Print",
+      "Fine",
+      "China",
+      "month",
+      "leaves",
+      "benchmark",
+      "lending",
+      "rates",
+      "unchanged"
+    ]
+  },
+  {
+    "source": "Scrollingtextgenerator.space [NewsAPI]",
+    "url": "https://scrollingtextgenerator.space",
+    "title": "Show HN: Quick scrolling text for banners and tickers, built as a browser tool",
+    "fetched_on": "2025-12-23T08:32:24.179597+00:00",
+    "content": "A free scrolling text generator for marquee, ticker, credit rolls, and vertical announcements. Tune direction, speed, fonts, colors, background, and spacing preview matches export.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Quick",
+      "scrolling",
+      "text",
+      "tickers",
+      "ticker",
+      "Show",
+      "built",
+      "marquee",
+      "credit",
+      "rolls"
+    ]
+  },
+  {
+    "source": "The-independent.com [NewsAPI]",
+    "url": "https://www.the-independent.com/money/credit-score-fix-tips-advice-b2887782.html",
+    "title": "How do I improve my credit score? Quick wins, critical changes and fixing poor financial history",
+    "fetched_on": "2025-12-23T08:32:24.179597+00:00",
+    "content": "Thinking about renting a home, taking out car finance, applying for a mortgage or getting a credit card?\r\nIf so, be prepared for lenders to take a close look at your credit score.\r\nThis important sco… [+4882 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "score",
+      "credit",
+      "improve",
+      "Thinking",
+      "Quick",
+      "wins",
+      "critical",
+      "home",
+      "taking",
+      "finance"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2025/1222/1550132-chinas-lending-rates/",
+    "title": "China keeps lending rates unchanged for seventh month",
+    "fetched_on": "2025-12-23T08:32:24.179597+00:00",
+    "content": "China left benchmark loan prime rates (LPRs) unchanged for the seventh consecutive month in December today, matching market expectations.\r\nThe steady LPR fixings in December suggested that the author… [+1178 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "December",
+      "unchanged",
+      "rates",
+      "seventh",
+      "month",
+      "today",
+      "matching",
+      "expectations",
+      "lending"
+    ]
   }
 ]
