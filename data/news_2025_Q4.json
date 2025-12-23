@@ -280446,5 +280446,105 @@
       "expectations",
       "lending"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/fairfax-backed-iifl-seeks-private-credit-to-fund-mid-sized-firms",
+    "title": "Fairfax-Backed IIFL Seeks Private Credit to Fund Mid-Sized Firms",
+    "fetched_on": "2025-12-23T09:27:34.416893+00:00",
+    "content": "(Bloomberg)  \r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe O'Connor, Gab… [+4083 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Firms",
+      "Canada",
+      "IIFL",
+      "Seeks",
+      "Private",
+      "Credit",
+      "Fund",
+      "CONTENT",
+      "RESERVED"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/football/articles/c1dz1g2xw91o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "Defence wins the day at Amex",
+    "fetched_on": "2025-12-23T09:27:34.416893+00:00",
+    "content": "When a game is low on entertainment value, it's all too easy not to give credit to those who kept it tight and tense. Defence is just as important as attack and Brighton and Sunderland would both hav… [+1189 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amex",
+      "Defence",
+      "tense",
+      "wins",
+      "day",
+      "game",
+      "low",
+      "entertainment",
+      "easy",
+      "give"
+    ]
+  },
+  {
+    "source": "Fandom.com [NewsAPI]",
+    "url": "https://cnas.fandom.com/wiki/Channel_Errors",
+    "title": "Cartoon Network channel errors (1995 – 2025)",
+    "fetched_on": "2025-12-23T09:27:34.416893+00:00",
+    "content": "The following is a work in progress list of known times that Cartoon Network and Adult Swim, alongside Cartoonito, had errors with screenbugs, their split screen credits, any identifications, and eve… [+112469 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Network",
+      "chars",
+      "Swim",
+      "Cartoonito",
+      "Cartoon",
+      "Adult",
+      "alongside",
+      "screenbugs",
+      "credits",
+      "identifications"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/loyalty-and-rewards-news/2025/why-60-percent-of-debit-card-users-have-become-merchant-loyalty-targets/",
+    "title": "Why 60% of Debit Card Users Have Become Merchant Loyalty Targets",
+    "fetched_on": "2025-12-23T09:27:34.416893+00:00",
+    "content": "For years, loyalty followed credit, but new data shows that rewards are now chasing spending habits shaped by caution rather than leverage.That is the central finding of PYMNTS Intelligences Embedded… [+4006 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Embedded",
+      "Loyalty",
+      "Debit",
+      "Card",
+      "Users",
+      "Merchant",
+      "Targets",
+      "PYMNTS",
+      "Intelligences"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/guidance/clean-heat-market-mechanism-fossil-fuel-boiler-sales-targets-and-credits",
+    "title": "Clean Heat Market Mechanism: fossil fuel boiler sales, targets and credits",
+    "fetched_on": "2025-12-23T09:27:34.416893+00:00",
+    "content": "You must report your fossil fuel boiler sales if youre classed as a scheme participant or near-threshold supplier in the CHMM.\r\nCheck if the CHMM applies to you and the timelines for action.\r\nScheme … [+13975 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mechanism",
+      "fuel",
+      "boiler",
+      "CHMM",
+      "Heat",
+      "Market",
+      "fossil",
+      "sales",
+      "Clean",
+      "targets"
+    ]
   }
 ]
