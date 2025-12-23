@@ -282221,5 +282221,125 @@
       "December",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-12-23/us-refrains-from-new-tariffs-on-chinese-chips",
+    "title": "US Refrains From New Tariffs on Chinese Chips",
+    "fetched_on": "2025-12-23T22:21:31.716396+00:00",
+    "content": "Bloomberg's Morning Briefing newsletter will resume publication on Dec. 29.Good morning. The US accuses China of unfair chip trade. Australian funds warn that private credit risks are rising. Tata Motors plans its electric car rollout in India. Listen to the day’s top stories.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec.",
+      "Morning",
+      "Refrains",
+      "Tariffs",
+      "Chinese",
+      "Bloomberg",
+      "Briefing",
+      "newsletter",
+      "resume",
+      "publication"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/stargate-sg-1-returning-to-netflix-after-three-year-hiatus/",
+    "title": "‘Stargate SG-1’ Returning to Netflix After Three Year Hiatus",
+    "fetched_on": "2025-12-23T22:21:30.205835+00:00",
+    "content": "Picture Credit: MGM\r\nThe Stargate is opening once again. After leaving the service back in late 2022, Netflix has struck a new deal with MGM (now under Amazon) to bring all 10 seasons of the legendar… [+2941 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stargate",
+      "Returning",
+      "Credit",
+      "Year",
+      "Hiatus",
+      "Picture",
+      "Netflix",
+      "MGM",
+      "opening",
+      "Amazon"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/nicki-minaj-kids-family-5495128/",
+    "title": "Nicki Minaj’s Kids: Get to Know the Rapper’s Children",
+    "fetched_on": "2025-12-23T22:21:30.205835+00:00",
+    "content": "Image Credit: Getty Images for The Met Museum/Vogue\r\nNicki Minaj is known for her chart-topping music and outspoken personality, but shes also embraced a more private role as a mom. In recent years, … [+3645 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Minaj",
+      "Kids",
+      "Credit",
+      "Getty",
+      "Museum",
+      "Vogue",
+      "Nicki",
+      "Rapper",
+      "Children",
+      "Met"
+    ]
+  },
+  {
+    "source": "Bringatrailer.com [NewsAPI]",
+    "url": "https://bringatrailer.com/2025/12/22/question-of-the-week-whats-the-coolest-art-car/",
+    "title": "Question of the Week: What’s the Coolest Art Car?—WINNER’S UPDATE",
+    "fetched_on": "2025-12-23T22:21:30.205835+00:00",
+    "content": "WINNERS ANNOUNCEMENT:\r\nWere back to announce the winner for our Question of the Week, where our victor will accept a $25 credit for a hat or T-shirt from the BaT Gear Store and the acclaim of their p… [+2933 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Week",
+      "Question",
+      "Car",
+      "WINNER’S",
+      "ANNOUNCEMENT",
+      "Coolest",
+      "Art",
+      "UPDATE",
+      "T-shirt",
+      "Gear"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/nprs-new-rule-for-2026-stop-quoting-the-same-professor-over-and-over/",
+    "title": "NPR’s New Rule for 2026: Stop Quoting The Same Professor Over and Over",
+    "fetched_on": "2025-12-23T22:21:30.205835+00:00",
+    "content": "(Photo Credit: University of Richmond)\r\nHe’s all used up.\r\nNPR reporters were given a new rule heading into 2026 you have to stop going to the same professor for quotes.\r\nThat was the order from stan… [+1956 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Photo",
+      "Credit",
+      "University",
+      "Richmond",
+      "NPR",
+      "Quoting",
+      "Rule",
+      "Professor",
+      "Stop",
+      "chars"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/22/3209568/0/en/reAlpha-Nasdaq-AIRE-Signs-Definitive-Agreement-to-Acquire-InstaMortgage.html",
+    "title": "reAlpha (Nasdaq: AIRE) Signs Definitive Agreement to Acquire InstaMortgage",
+    "fetched_on": "2025-12-23T22:21:30.205835+00:00",
+    "content": "Proposed acquisition will add direct mortgage lending capabilities to complement the Companys existing mortgage brokerage operations\r\nExpected to close in the first half of 2026 following regulatory … [+11598 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nasdaq",
+      "AIRE",
+      "reAlpha",
+      "chars",
+      "Signs",
+      "Definitive",
+      "Agreement",
+      "Acquire",
+      "Proposed",
+      "Companys"
+    ]
   }
 ]
