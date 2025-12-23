@@ -282141,5 +282141,85 @@
       "Herd",
       "Pittsburgh"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-23/private-credit-riskier-in-australia-on-property-bets-cios-warn",
+    "title": "Private Credit Riskier in Australia on Property Bets, CIOs Warn",
+    "fetched_on": "2025-12-23T21:21:11.258207+00:00",
+    "content": "Private-credit investments are growing increasingly risky in Australia due to their heavy weighting toward the property sector, some of the nation’s biggest funds say.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Australia",
+      "Bets",
+      "Property",
+      "Credit",
+      "Riskier",
+      "Warn",
+      "Private-credit",
+      "Private",
+      "CIOs",
+      "sector"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://mmajunkie.usatoday.com/story/sports/boxing/2025/12/22/colby-covington-opinion-jake-paul-really-stupid-anthony-joshua-loss-quit-boxing/87880726007/",
+    "title": "Colby Covington: Jake Paul didn't prove he's tough, just really stupid",
+    "fetched_on": "2025-12-23T21:21:10.419225+00:00",
+    "content": "Colby Covington refuses to give Jake Paul any credit for fighting Anthony Joshua.\r\nCovington was skeptical that the fight between Paul and Joshua even happens, but the matchup did indeed take place F… [+1563 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jake",
+      "Colby",
+      "Paul",
+      "Covington",
+      "Anthony",
+      "Joshua",
+      "tough",
+      "prove",
+      "stupid",
+      "refuses"
+    ]
+  },
+  {
+    "source": "WXOW.com [NewsAPI]",
+    "url": "https://www.wxow.com/news/health/st-clare-health-mission-receives-100-000-from-altra-federal-credit-union/article_963a6e85-86bb-4265-89db-629898da6eff.html",
+    "title": "St. Clare Health Mission receives $100,000 from Altra Federal Credit Union",
+    "fetched_on": "2025-12-23T21:21:10.419225+00:00",
+    "content": "ONALASKA, Wis. (WXOW) The Saint Clare Health Mission received a $100,000 donation from Altra Federal Credit Union on Monday.\r\nThe funding will support renovations for their new clinic on Jackson Stre… [+1220 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wis",
+      "ONALASKA",
+      "Health",
+      "Altra",
+      "Federal",
+      "Credit",
+      "Clare",
+      "Mission",
+      "Union",
+      "WXOW"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/barry-manilow-health-lung-cancer-5495140/",
+    "title": "Barry Manilow’s Health: Does the Singer Have Lung Cancer?",
+    "fetched_on": "2025-12-23T21:21:10.419225+00:00",
+    "content": "Image Credit: Getty Images\r\nBarry Manilow shocked his fan base in December 2025 when he revealed his lung cancer diagnosis. The news came after he had battled bronchitis for weeks with no end in sigh… [+1746 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Health",
+      "Manilow",
+      "Singer",
+      "Barry",
+      "Lung",
+      "Cancer",
+      "Credit",
+      "Getty",
+      "December",
+      "chars"
+    ]
   }
 ]
