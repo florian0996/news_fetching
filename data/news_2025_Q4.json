@@ -280266,5 +280266,45 @@
       "launch",
       "company"
     ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/ai-investing-ideas-beyond-chips-market-startegy-goldman-sachs-podcast-2025-12",
+    "title": "A $25 billion credit investor says betting only on AI chips overlooks the bigger cycle",
+    "fetched_on": "2025-12-23T07:25:50.473106+00:00",
+    "content": "The artificial intelligence boom is real but there's more to the AI trade than chips alone, according to a credit investor.\r\n\"This is a super-duper micro cycle that will outlast many investing career… [+2575 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "investor",
+      "chips",
+      "billion",
+      "cycle",
+      "betting",
+      "overlooks",
+      "bigger",
+      "artificial",
+      "intelligence"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/good-news-for-borrowers-emis-set-to-drop-as-these-banks-cut-lending-rates/major-banks-cut-lending-rates/slideshow/126116300.cms",
+    "title": "Good news for borrowers: EMIs set to drop as these banks cut lending rates",
+    "fetched_on": "2025-12-23T07:25:50.473106+00:00",
+    "content": "Dec 22, 2025, 12:07:51 PM IST\r\nMany borrowers have reasons to cheer as several leading banks, including Canara Bank, State Bank of India (SBI), Punjab National Bank (PNB) and Indian Overseas Bank (IO… [+3083 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "SBI",
+      "PNB",
+      "Dec",
+      "State",
+      "India",
+      "Punjab",
+      "banks",
+      "IST",
+      "Canara"
+    ]
   }
 ]
