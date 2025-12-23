@@ -280866,5 +280866,145 @@
       "firm",
       "deal"
     ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/bondi-beach-gunmen-also-threw-pipe-bombs-into-crowd-officials-say/",
+    "title": "Bondi Beach Gunmen Also Threw Pipe Bombs Into Crowd, Officials Say",
+    "fetched_on": "2025-12-23T13:36:57.945897+00:00",
+    "content": "Photo Credit: Mark Baker for AP\r\nThe two gunmen who killed fifteen people at a Hanukkah celebration at Australias Bondi Beach also threw homemade bombs into the crowd, police say.\r\nThe father and son… [+2274 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Beach",
+      "Crowd",
+      "Bondi",
+      "Threw",
+      "Bombs",
+      "Officials",
+      "Credit",
+      "Mark",
+      "Gunmen",
+      "Pipe"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/james-ransone-cause-of-death-5494990/",
+    "title": "James Ransone’s Cause of Death: How Did the Late Actor Die?",
+    "fetched_on": "2025-12-23T13:36:57.945897+00:00",
+    "content": "Image Credit: Getty Images\r\nJames Ransone, an actor known for his performances in It: Chapter Two, The Black Phone films, The Wire and more, died earlier this month. He was 46. The Los Angeles Medica… [+2404 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Death",
+      "Die",
+      "Ransone",
+      "Late",
+      "James",
+      "Actor",
+      "Credit",
+      "Getty",
+      "Chapter",
+      "Black"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/lic-housing-finance-reduces-lending-rates-to-7-15-on-new-home-loans/articleshow/126123045.cms",
+    "title": "LIC Housing Finance reduces lending rates to 7.15% on new home loans",
+    "fetched_on": "2025-12-23T13:36:57.945897+00:00",
+    "content": "LIC Housing Finance has lowered its home loan interest rates to 7.15% starting December 22, 2025. This reduction, following the RBI's repo rate cut, aims to boost homebuyer sentiment by making home o… [+109 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Housing",
+      "LIC",
+      "Finance",
+      "December",
+      "home",
+      "starting",
+      "rates",
+      "loans",
+      "loan",
+      "reduces"
+    ]
+  },
+  {
+    "source": "Insurance Journal [NewsAPI]",
+    "url": "https://www.insurancejournal.com/news/international/2025/12/22/851935.htm",
+    "title": "Private Credit Ratings Face Fresh Scrutiny From Global Watchdogs",
+    "fetched_on": "2025-12-23T13:36:57.945897+00:00",
+    "content": "The private credit industry is facing fresh scrutiny from top global regulators over some of the ratings being assigned to debt in the $1.7 trillion market, people familiar with the matter told Bloom… [+2294 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scrutiny",
+      "Credit",
+      "Fresh",
+      "Bloom",
+      "Ratings",
+      "Global",
+      "chars",
+      "Private",
+      "Face",
+      "Watchdogs"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/aave-governance-backlash-snapshot-vote-process-dispute",
+    "title": "Aave governance vote sparks backlash over rushed escalation",
+    "fetched_on": "2025-12-23T13:36:57.945897+00:00",
+    "content": "A governance vote at decentralized finance (DeFi) lending protocol Aave sparked a backlash from key stakeholders after a proposal on ownership of Aave's brand assets was escalated to a Snapshot vote … [+2640 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aave",
+      "vote",
+      "DeFi",
+      "chars",
+      "governance",
+      "Snapshot",
+      "backlash",
+      "finance",
+      "lending",
+      "sparks"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/sports/skateboarding-games-had-a-huge-2025-but-it-was-the-controversial-tony-hawks-pro-skater-3-4-that-i-couldnt-put-down/",
+    "title": "Skateboarding games had a huge 2025, but it was the controversial Tony Hawk's Pro Skater 3 + 4 that I couldn't put down",
+    "fetched_on": "2025-12-23T13:36:57.945897+00:00",
+    "content": "(Image credit: Future)\r\nIn addition to our main Game of the Year Awards 2025, each member of the PC Gamer team is shining a spotlight on a game they loved this year. We'll post new personal picks eac… [+4801 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Skater",
+      "Image",
+      "Awards",
+      "Year",
+      "Tony",
+      "Hawk",
+      "Pro",
+      "Gamer",
+      "Game"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/netflix-refinances-part-of-59-billion-loan-with-cheaper-long-term-debt-as-it-seeks-to-acquire-warner-bros-11766406976680.html",
+    "title": "Netflix refinances part of $59 billion loan with cheaper, long-term debt as it seeks to acquire Warner Bros",
+    "fetched_on": "2025-12-23T13:36:57.945897+00:00",
+    "content": "Streaming giant Netflix Inc has refinanced a portion of its $59 billion bridge loan with cheaper, long-term debt, strengthening the financial support for its bid to acquire Warner Bros. Discovery Inc… [+719 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Warner",
+      "Bros",
+      "cheaper",
+      "long-term",
+      "billion",
+      "acquire",
+      "Netflix",
+      "Streaming",
+      "loan",
+      "debt"
+    ]
   }
 ]
