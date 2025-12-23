@@ -282061,5 +282061,85 @@
       "Images",
       "Trumpand"
     ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4358588/posts",
+    "title": "Astronomy Picture of the Day - Sunset Solstice over Stonehenge",
+    "fetched_on": "2025-12-23T20:25:06.442539+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Sunset Solstice over StonehengeNASA ^\r\n | 22 Dec, 2025\r\n | Image Credit &amp; Copyright: English Heritage, Josh Dury\r\nPosted on 12/22/2025 12:17:06 P… [+2018 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Sunset",
+      "Picture",
+      "Solstice",
+      "Astronomy",
+      "Stonehenge",
+      "Skip",
+      "Dec",
+      "Copyright",
+      "comments"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/cfpb/2025/cfpb-says-earned-wage-access-products-are-not-credit/",
+    "title": "CFPB Says Earned Wage Access Products are Not Credit",
+    "fetched_on": "2025-12-23T20:25:06.442539+00:00",
+    "content": "The Consumer Financial Protection Bureau (CFPB) said Monday (Dec. 22) that certain earned wage access (EWA) products are not credit and are not covered by Regulation Z of the Truth in Lending Act.The… [+2738 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CFPB",
+      "Dec.",
+      "EWA",
+      "Wage",
+      "Earned",
+      "Access",
+      "Products",
+      "Credit",
+      "Bureau",
+      "Monday"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/turbo-sdk/",
+    "title": "turbo-sdk added to PyPI",
+    "fetched_on": "2025-12-23T20:25:06.442539+00:00",
+    "content": "A Python SDK for interacting with the Turbo datachain, supporting both Ethereum and Arweave signers for permanent data storage with winston credit payments.\r\nGet Started\r\nInstallation\r\npipinstallturb… [+3619 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Python",
+      "SDK",
+      "Turbo",
+      "Ethereum",
+      "Arweave",
+      "turbo-sdk",
+      "datachain",
+      "supporting",
+      "payments",
+      "chars"
+    ]
+  },
+  {
+    "source": "Fox Sports [NewsAPI]",
+    "url": "https://www.foxsports.com/watch/fmc-untxgw6t471oa1iu",
+    "title": "Steelers beat Lions 29-24, Does Aaron Rodgers deserve credit for their 9-6 record? | The Herd",
+    "fetched_on": "2025-12-23T20:25:06.442539+00:00",
+    "content": "The Pittsburgh Steelers beat the Detroit Lions 29-24, and are now 9-6. Colin Cowherd discusses the Steelers’ season so far and asks if Aaron Rodgers deserves the credit for their winning season.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lions",
+      "Rodgers",
+      "29-24",
+      "Steelers",
+      "Aaron",
+      "beat",
+      "record",
+      "credit",
+      "Herd",
+      "Pittsburgh"
+    ]
   }
 ]
