@@ -1,6 +1,17 @@
 {
-  "2025-12-23": {
+  "2025-12-24": {
     "status": "no company in the news"
+  },
+  "2025-12-23": {
+    "articles": [
+      {
+        "title": "FW: Greenland Back on the Menu",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2025-12-22": {
     "articles": [
