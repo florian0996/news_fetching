@@ -263,7 +263,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/wealth-management-platform-wealthfront-files-ipo/",
     "title": "Wealth Management Platform Wealthfront Targets $2.05B Valuation In Latest Fintech IPO",
-    "fetched_on": "2025-12-24T13:33:46.767458+00:00",
+    "fetched_on": "2025-12-24T14:22:15.188032+00:00",
     "content": "Digital wealth management platform unicorn Wealthfront has filed for an initial public offering, lining up the Palo Alto, California-based startup to join a string of fintech IPOs in the U.S. this year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -283,7 +283,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/record-breaking-seed-funding-us-ai-eoy-2025/",
     "title": "Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead",
-    "fetched_on": "2025-12-24T13:33:49.662814+00:00",
+    "fetched_on": "2025-12-24T14:22:17.434276+00:00",
     "content": "The seed investment environment exhibited its typical quirkiness in 2025. In particular, it was a huge year for huge rounds. Predictably, it was also a banner period for AI dealmaking with the U.S. pulling in a bigger-than-usual share of total investment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -303,7 +303,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/23/student-loan-borrowers-wage-garnishment.html",
     "title": "Trump administration to start seizing pay of defaulted student loan borrowers in January",
-    "fetched_on": "2025-12-24T13:33:52.831134+00:00",
+    "fetched_on": "2025-12-24T14:22:19.831590+00:00",
     "content": "The Trump administration will start garnishing the wages of student loan borrowers in default in early January.",
     "platforms_mentioned": [],
     "keywords": [
@@ -320,30 +320,30 @@
     ]
   },
   {
-    "source": "CNBC Top News [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2025/12/23/how-to-increase-your-credit-score.html",
     "title": "Nearly a quarter of Americans say their credit scores took a hit this year\u2014the No. 1 way to increase yours, according to an expert",
-    "fetched_on": "2025-12-24T06:37:15.167919+00:00",
-    "content": "If your credit score has taken a hit this year, there isn't much you can do to erase your history, but there are steps you can take to rebuild your credit.",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
+    "content": "Whether it from unexpected expenses or increased costs, many Americans say they are ending this year in a worse financial situation than last.\r\nNearly half of Americans believe their financial situat\u2026 [+3524 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "year",
-      "credit",
-      "hit",
       "Americans",
-      "history",
+      "year",
+      "costs",
+      "financial",
       "quarter",
+      "credit",
+      "scores",
+      "hit",
       "increase",
-      "expert",
-      "erase",
-      "steps"
+      "expert"
     ]
   },
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/17/mortgage-rates-moved-higher-after-fed-rate-cut.html",
     "title": "Mortgage rates move higher after the Fed rate cut, causing loan demand to drop",
-    "fetched_on": "2025-12-24T13:33:52.186635+00:00",
+    "fetched_on": "2025-12-24T14:22:19.552854+00:00",
     "content": "Mortgage rates moved higher after the Fed cut interest rates last week. That caused demand to drop for both home buying and refinancing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/11/esusu-funding-renters-credit-scores.html",
     "title": "Esusu, platform for renters to build credit scores, valued at $1.2 billion in new funding round",
-    "fetched_on": "2025-12-24T13:33:52.186671+00:00",
+    "fetched_on": "2025-12-24T14:22:19.552894+00:00",
     "content": "Esusu raises $50 million at a $1.2 billion valuation as it helps more renters build credit scores and gain access to mortgages and other financial products.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/fed-december-rate-cut-mortgages-loans-savings-impact.html",
     "title": "What December's Fed rate cut means for your mortgage, credit card, auto loan, student debt and savings",
-    "fetched_on": "2025-12-24T13:33:52.831276+00:00",
+    "fetched_on": "2025-12-24T14:22:19.831736+00:00",
     "content": "From\u00a0credit cards and car loans to mortgage rates, student loans and savings accounts, here's a look at the ways a Fed rate cut could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
     "title": "Refinance demand for FHA loans jumps 24%, as homeowners seek the most savings they can",
-    "fetched_on": "2025-12-24T13:33:52.186691+00:00",
+    "fetched_on": "2025-12-24T14:22:19.552915+00:00",
     "content": "Current homeowners are turning to government FHA loans, which offer lower interest rates, to find savings, as conventional rates turn higher.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/08/what-another-fed-cut-could-mean-for-your-personal-borrowing-costs.html",
     "title": "What another Fed cut could mean for your personal borrowing costs",
-    "fetched_on": "2025-12-24T13:33:52.186711+00:00",
+    "fetched_on": "2025-12-24T14:22:19.552937+00:00",
     "content": "Many types of consumer loans are impacted when the Fed lowers its overnight lending rate, but it also depends on the product and duration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/11/19/mortgage-rates-hit-highest-level-in-a-month-pushing-loan-demand-down-5percent.html",
     "title": "Mortgage rates hit highest level in a month, pushing loan demand down 5%",
-    "fetched_on": "2025-12-24T13:33:52.186817+00:00",
+    "fetched_on": "2025-12-24T14:22:19.553046+00:00",
     "content": "Mortgage rates rose to the highest level in a month last week, causing demand for home loans to drop. Demand, however, is still higher than a year ago.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2025/12/16/slope-sam-altman-jpmorgan-amazon.html",
     "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon",
-    "fetched_on": "2025-12-24T13:33:52.646448+00:00",
+    "fetched_on": "2025-12-24T14:22:19.690989+00:00",
     "content": "Slope, an AI lending platform backed by JPMorgan Chase, told CNBC exclusively that it is launching a partnership with Amazon's independent sellers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/16/trump-student-loan-forgiveness-backlog.html",
     "title": "Trump officials move slowly on student loan forgiveness, repayment plan backlog: court filing",
-    "fetched_on": "2025-12-24T13:33:52.831210+00:00",
+    "fetched_on": "2025-12-24T14:22:19.831666+00:00",
     "content": "Hundreds of thousands of student loan borrowers remain stuck in a backlog of requests for an affordable payment plan or debt forgiveness, a court filing shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/14/student-loan-borrowers-forgiveness-idr-plans.html",
     "title": "Some student loan borrowers pay 'more than necessary,' advisor says. What to know about relief programs",
-    "fetched_on": "2025-12-24T13:33:52.831223+00:00",
+    "fetched_on": "2025-12-24T14:22:19.831681+00:00",
     "content": "Many federal student loan borrowers surveyed said they don't know about income-driven repayment plans or the Public Service Loan Forgiveness program.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/12/credit-score-average-signs-of-distress.html",
     "title": "Credit score average is \u2018pretty healthy,\u2019 VantageScore CEO says \u2014 but high earners are masking signs of financial distress",
-    "fetched_on": "2025-12-24T13:33:52.831250+00:00",
+    "fetched_on": "2025-12-24T14:22:19.831709+00:00",
     "content": "The CEO of VantageScore explains how the average credit score is masking some financial stress and gives the outlook for consumer credit in 2026.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/student-loan-options-save-forbearance.html",
     "title": "Student loan borrowers have 'a limited time' to leave payment pause. Here are their options",
-    "fetched_on": "2025-12-24T13:33:52.831282+00:00",
+    "fetched_on": "2025-12-24T14:22:19.831743+00:00",
     "content": "Under the terms of a proposed Education Department settlement, millions of student loan borrowers would soon have to resume payments. Here are their options.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1266,7 +1266,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2025-12-24/the-pulse-12-24-2025-video",
     "title": "Ukraine, US Seek Land Compromise for Putin Peace Deal | The Pulse 12/24",
-    "fetched_on": "2025-12-24T13:33:23.321376+00:00",
+    "fetched_on": "2025-12-24T14:21:50.271262+00:00",
     "content": "Ukraine and the US remain split primarily on territorial issues in talks on a peace plan to end Russia\u2019s war, President Volodymyr Zelenskiy said. \u201cWe now have draft documents that largely reflect the joint Ukrainian-American position, in some respects the American position,\u201d Zelenskiy told reporters in Kyiv on Tuesday. \u201cSome issues are still to be resolved.\u201d Still, Zelenskiy offered an upbeat assessment, saying the negotiations had \u201cmoved significantly closer to finalizing the documents.\u201d\n\nToday's guests: Josh Farber, BNP Paribas Markets 360, Head of European Credit Strategy; Roberta Haar, Maastricht University Professor; Ilaria Di Gioia, Birmingham City University Professor. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -1381,7 +1381,7 @@
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/vince-zampella-net-worth-call-of-duty-creator-5495196/",
     "title": "Vince Zampella Net Worth: How Much Money the \u2018Call of Duty\u2019 Creator Had",
-    "fetched_on": "2025-12-24T13:33:22.006908+00:00",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
     "content": "Image Credit: Variety via Getty Images\r\nVincent Vince Zampella, best known as the mastermind behind the Call of Duty franchise, built his legacy in the video game world. The late designers massive su\u2026 [+2522 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1401,7 +1401,7 @@
     "source": "BusinessLine [NewsAPI]",
     "url": "https://www.thehindubusinessline.com/companies/anicut-capital-announces-final-close-of-1275-crore-third-private-credit-fund/article70429996.ece",
     "title": "Anicut Capital announces final close of \u20b91,275-crore third private credit fund",
-    "fetched_on": "2025-12-24T13:33:22.006908+00:00",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
     "content": "Multi-asset investment firm Anicut Capital has announced the final close of its third private credit fund, Grand Anicut Fund IV (GAF-IV) at 1,275 crore, surpassing its initial target of 1,000 crore. \u2026 [+1142 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1421,7 +1421,7 @@
     "source": "9to5Toys [NewsAPI]",
     "url": "http://9to5toys.com/2025/12/23/samsung-55-inch-odyssey-ark-2nd-gen-4k-gaming-monitor-1450-off/",
     "title": "Samsung\u2019s stunning 55-inch Odyssey Ark 2nd-gen 4K gaming monitor with \u2018Cockpit Mode\u2019 still at $1,250 all-time low ($1,450 off)",
-    "fetched_on": "2025-12-24T13:33:22.006908+00:00",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
     "content": "Samsung is offering a giant discount on its\u00a0Odyssey 55-inch Ark 2nd-gen 4K gaming monitor down to\u00a0$1,249.99 shipped\u00a0with a\u00a0$50 FREE\u00a0credit\u00a0that applies during checkout. This is originally a $3,000 di\u2026 [+2527 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1441,7 +1441,7 @@
     "source": "What's on Netflix [NewsAPI]",
     "url": "https://www.whats-on-netflix.com/news/olympo-canceled-at-netflix-wont-return-for-season-2/",
     "title": "\u2018Olympo\u2019 Canceled at Netflix; Won\u2019t Return for Season 2",
-    "fetched_on": "2025-12-24T13:33:22.006908+00:00",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
     "content": "Picture Credit: Netflix\r\nOlympo was one of Netflix Spains biggest swings of 2025, but its time on Netflix has been cut short, as the series has been canceled and will not be returning for a second se\u2026 [+4359 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1461,7 +1461,7 @@
     "source": "Ozbargain.com.au [NewsAPI]",
     "url": "https://www.ozbargain.com.au/node/941514",
     "title": "20x EDR points on Selected Ultimate Gift Cards (In-Store Only) @ Woolworths",
-    "fetched_on": "2025-12-24T13:33:22.006908+00:00",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
     "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nFull credit to GCDB\r\nNext week's upcoming W\u2026 [+346 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1481,7 +1481,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2025/12/23/3209822/0/en/Safe-Harbor-Expands-Consulting-and-Managed-Services-Platform-Through-Talent-Led-Strategic-Transaction.html",
     "title": "Safe Harbor Expands Consulting and Managed Services Platform Through Talent-Led Strategic Transaction",
-    "fetched_on": "2025-12-24T13:33:22.006908+00:00",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
     "content": "DENVER, Dec. 23, 2025 (GLOBE NEWSWIRE) -- SHF Holdings, Inc., d/b/a\u00a0Safe Harbor Financial\r\n (Safe Harbor or the Company) (NASDAQ: SHFS), a provider of banking, lending, and financial services to the \u2026 [+6601 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -1515,6 +1515,146 @@
       "Strategic",
       "Restructuring",
       "Earnout"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-24/secure-trust-sells-car-finance-business-to-lcm-for-459-million",
+    "title": "Secure Trust Sells Car Finance Business to LCM for \u00a3459 Million",
+    "fetched_on": "2025-12-24T14:21:51.637000+00:00",
+    "content": "Secure Trust Bank Plc has agreed to sell its consumer vehicle finance operations to LCM Partners for about \u00a3459 million ($620 million), as mounting provisions linked to potential refunds for missold car loans weighed on the group.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Trust",
+      "LCM",
+      "Secure",
+      "Car",
+      "Finance",
+      "Business",
+      "Bank",
+      "Plc",
+      "Partners"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/anaconda-movie-netflix-streaming-release-date/",
+    "title": "Here\u2019s When The New \u2018Anaconda\u2019 Will Release on Netflix in 2026",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
+    "content": "Picture Credit: Sony Pictures\r\nIs there a franchise that Sony Pictures isn\u2019t willing to reboot? We still don\u2019t know the answer to that, with Anaconda the new Paul Rudd and Jack Black reboot (even tho\u2026 [+3430 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pictures",
+      "Sony",
+      "Anaconda\u2019",
+      "Credit",
+      "Picture",
+      "Release",
+      "Netflix",
+      "reboot",
+      "n\u2019t",
+      "franchise"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e7508682-8809-4791-8f38-e551c458e8ea",
+    "title": "Higher prices could be killing your credit. Here's what to do about it.",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 242 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Higher",
+      "credit",
+      "prices",
+      "killing",
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/rpg/avowed-didnt-rewrite-the-rpg-rulebook-in-2025-but-it-still-gave-me-some-of-my-biggest-gaming-wow-moments-of-the-year/",
+    "title": "Avowed didn't rewrite the RPG rulebook in 2025, but it still gave me some of my biggest gaming 'wow' moments of the year",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
+    "content": "(Image credit: Future)\r\nIn addition to our main Game of the Year Awards 2025, each member of the PC Gamer team is shining a spotlight on a game they loved this year. We'll post new personal picks eac\u2026 [+5689 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "year",
+      "Future",
+      "Game",
+      "Image",
+      "Awards",
+      "RPG",
+      "Gamer",
+      "wow",
+      "Avowed",
+      "gaming"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/adventure/i-almost-learned-something-in-rv-there-yet-but-i-was-too-busy-smoking-cigarettes-and-driving-over-big-rocks/",
+    "title": "I almost learned something in RV There Yet? but I was too busy smoking cigarettes and driving over big rocks",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
+    "content": "(Image credit: Future)\r\nIn addition to our main Game of the Year Awards 2025, each member of the PC Gamer team is shining a spotlight on a game they loved this year. We'll post new personal picks eac\u2026 [+4077 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Image",
+      "Awards",
+      "Game",
+      "Year",
+      "learned",
+      "Gamer",
+      "chars",
+      "rocks",
+      "credit"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-lists/rob-sheffield-best-songs-2025-1235487222/",
+    "title": "Rob Sheffield\u2019s Top 25 Songs of 2025",
+    "fetched_on": "2025-12-24T14:21:49.107898+00:00",
+    "content": "Image Credit: Robin Christian*\r\nIve been a fan of these Welsh indie kids since their great band Joanna Gruesome, who I saw a million times in the year or so when they were constantly playing New York\u2026 [+976 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Top",
+      "Songs",
+      "Image",
+      "Credit",
+      "Robin",
+      "Christian",
+      "Ive",
+      "Gruesome",
+      "York"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2025/12/24/how-to-figure-out-your-ideal-credit-limit-according-to-experts.html",
+    "title": "How to figure out your ideal credit limit, according to financial experts",
+    "fetched_on": "2025-12-24T14:22:19.096035+00:00",
+    "content": "Experts say having a credit limit well above your usual monthly spending can help boost your credit score, so long as you resist the urge to overspend.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "experts",
+      "credit",
+      "limit",
+      "score",
+      "overspend",
+      "figure",
+      "ideal",
+      "financial",
+      "usual",
+      "monthly"
     ]
   }
 ]
