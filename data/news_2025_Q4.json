@@ -284950,5 +284950,85 @@
       "Italy",
       "Skip"
     ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/12/24/interactive-malaysians-go-on-spending-spree-with-credit-cards-in-december",
+    "title": "INTERACTIVE: Malaysians go on spending spree with credit cards in December",
+    "fetched_on": "2025-12-24T23:21:20.247540+00:00",
+    "content": "PETALING JAYA: Tis the season for Malaysians to tap their credit cards, with expenses shooting to its highest in December.\r\nBe it for shopping, the year-end holidays or paying the bills, this month h… [+4090 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "INTERACTIVE",
+      "Malaysians",
+      "JAYA",
+      "Tis",
+      "PETALING",
+      "credit",
+      "cards",
+      "spending",
+      "spree"
+    ]
+  },
+  {
+    "source": "The Real Deal [NewsAPI]",
+    "url": "https://therealdeal.com/miami/2025/12/23/coral-rock-nabs-54-million-loan-for-miami-live-local-project/",
+    "title": "Coral Rock scores $54M construction loan for Live Local Act project in Allapattah",
+    "fetched_on": "2025-12-24T23:21:20.247540+00:00",
+    "content": "Coral Rock Development Group scored a $54 million construction loan for a Live Local Act project in Miamis Allapattah. \r\nDevelopers across South Florida have seized on the state workforce and afforda… [+3267 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Local",
+      "Act",
+      "Rock",
+      "Live",
+      "Allapattah",
+      "Coral",
+      "loan",
+      "project",
+      "Development",
+      "Group"
+    ]
+  },
+  {
+    "source": "Gizmodo.com [NewsAPI]",
+    "url": "https://gizmodo.com/stranger-things-netflix-stats-dnd-music-streaming-2000703127",
+    "title": "Everything Netflix Is Taking Credit for Thanks to the Success of ‘Stranger Things’",
+    "fetched_on": "2025-12-24T23:21:20.247540+00:00",
+    "content": "It’s been almost 10 years since Netflix dropped an original series that io9 took an interest in because of its overt riffs on Steven Spielberg and Stephen King. Initially, though, we weren’t sure if … [+3787 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Stranger",
+      "King",
+      "Taking",
+      "Credit",
+      "Success",
+      "Things’",
+      "Steven",
+      "Spielberg",
+      "Stephen"
+    ]
+  },
+  {
+    "source": "Genlabs.dev [NewsAPI]",
+    "url": "https://agentica.genlabs.dev",
+    "title": "Show HN: Agentica – 200 reqs/day for free, data not used to train our LLMs",
+    "fetched_on": "2025-12-24T23:21:20.247540+00:00",
+    "content": "How do the API credits work?\r\nWhen you subscribe to a paid plan, we credit your account with more value than you pay. For\r\n example, $20/month gets you $45 worth of API credits. Use these credits for… [+624 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Agentica",
+      "reqs",
+      "API",
+      "Show",
+      "day",
+      "free",
+      "data",
+      "work",
+      "credits",
+      "train"
+    ]
   }
 ]
