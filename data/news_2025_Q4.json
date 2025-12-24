@@ -282561,5 +282561,105 @@
       "Investments",
       "Based"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-the-dream-concert-featuring-the-music-of-paul-anka-and-bobby-darin-in-century-village-theater/article",
+    "title": "Review: ‘The Dream Concert’ featuring the music of Paul Anka and Bobby Darin in Century Village Theater",
+    "fetched_on": "2025-12-24T03:25:28.513831+00:00",
+    "content": "Paul Anka. Photo Credit: Paul Anka Productions\r\nOn Saturday, December 20th, “The Dream Concert” featuring the music of Paul Anka and Bobby Darin took place at the Century Village Theater in Pembroke … [+2548 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paul",
+      "Anka",
+      "Bobby",
+      "Village",
+      "Dream",
+      "Darin",
+      "Century",
+      "Theater",
+      "Concert’",
+      "Review"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2025/12/22/celtics-bench-sparks-spirited-comeback-in-win-over-pacers/",
+    "title": "Celtics’ bench sparks spirited comeback in win over Pacers",
+    "fetched_on": "2025-12-24T03:25:28.513831+00:00",
+    "content": "A glance at the stat sheet would suggest Jaylen Brown, with his game-high 31 points and nine rebounds, was the driving force behind the Celtics’ latest victory.\r\nBut credit for the 103-95 win over th… [+4677 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Celtics’",
+      "Brown",
+      "Pacers",
+      "Jaylen",
+      "game-high",
+      "points",
+      "rebounds",
+      "victory",
+      "win",
+      "bench"
+    ]
+  },
+  {
+    "source": "The Hockey News [NewsAPI]",
+    "url": "https://thehockeynews.com/ohl/latest-news/ex-ohl-champion-has-impressive-nhl-debut-with-philadelphia-flyers",
+    "title": "Ex-OHL Champion Has Impressive NHL Debut With Philadelphia Flyers",
+    "fetched_on": "2025-12-24T03:25:28.513831+00:00",
+    "content": "Former London Knights captain Denver Barkey (86). Credit: Morgan Roobroeck/OHL Images\r\nDenver Barkey turned into an outstanding OHL-caliber player with the London Knights. He morphed into exactly wha… [+4038 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "London",
+      "Knights",
+      "Denver",
+      "Barkey",
+      "Champion",
+      "Impressive",
+      "NHL",
+      "Debut",
+      "Philadelphia",
+      "Flyers"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/boxing/article/eddie-hearn-gives-jake-paul-unbelievable-credit-for-anthony-joshua-fight-the-guys-a-complete-madman-023332767.html",
+    "title": "Eddie Hearn gives Jake Paul 'unbelievable credit' for Anthony Joshua fight: 'The guy's a complete madman'",
+    "fetched_on": "2025-12-24T03:25:28.513831+00:00",
+    "content": "Even though Jake Paul was defeated by former heavyweight champion Anthony Joshua this past Friday in their highly-anticipated Netflix fight, Paul left the Kayesa Center in Miami with the respect of t… [+7526 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paul",
+      "Jake",
+      "Anthony",
+      "Joshua",
+      "fight",
+      "chars",
+      "Hearn",
+      "Friday",
+      "Netflix",
+      "Kayesa"
+    ]
+  },
+  {
+    "source": "The Hockey News [NewsAPI]",
+    "url": "https://thehockeynews.com/ohl/latest-news/redemption-story-sarnia-overage-forward-ben-pickell-commits-to-ncaa-robert-morris-university",
+    "title": "Redemption Story: Sarnia Overage Forward Ben Pickell Commits To NCAA Robert Morris University",
+    "fetched_on": "2025-12-24T03:25:28.513831+00:00",
+    "content": "Sarnia Sting forward Ben Pickell (12). Credit: Natalie Shaver/OHL Images\r\nAnother OHL player has committed to an NCAA school, demonstrating great perseverance and determination. Sarnia Sting overage … [+3709 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ben",
+      "Pickell",
+      "Forward",
+      "Story",
+      "Commits",
+      "Robert",
+      "Morris",
+      "University",
+      "NCAA",
+      "Sarnia"
+    ]
   }
 ]
