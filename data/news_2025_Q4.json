@@ -282795,5 +282795,125 @@
       "Louisville",
       "Bowl"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/djt-microfinance-raises-rs-130-crore-from-psbs-nbfcs-to-fund-expansion/articleshow/126136127.cms",
+    "title": "DJT Microfinance raises Rs 130 crore from PSBs, NBFCs to fund expansion",
+    "fetched_on": "2025-12-24T07:25:47.311171+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DJT",
+      "Microfinance",
+      "EMI",
+      "crore",
+      "PSBs",
+      "NBFCs",
+      "loan",
+      "raises",
+      "fund",
+      "expansion"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/chromebooks-laptops/chromebooks-and-tablets-2025-report-card",
+    "title": "As Chromebooks appear to reach their final form and Android tablets get better than ever, it sure looks like the two are on a path of convergence",
+    "fetched_on": "2025-12-24T07:25:47.311171+00:00",
+    "content": "(Image credit: Nicholas Sutrich / Android Central)\r\nBeyond the Alphabet is a weekly column that focuses on the tech world both inside and out of the confines of Mountain View.\r\nChromebooks: B / Table… [+9186 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Android",
+      "Image",
+      "Nicholas",
+      "Sutrich",
+      "Central",
+      "View",
+      "Alphabet",
+      "Mountain",
+      "Chromebooks",
+      "convergence"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/us-markets-in-2026-ai-slowdown-credit-stress-could-test-the-rally-seth-freeman/articleshow/126135817.cms",
+    "title": "US markets in 2026: AI slowdown, credit stress could test the rally: Seth Freeman",
+    "fetched_on": "2025-12-24T07:25:47.311171+00:00",
+    "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "Seth",
+      "Freeman",
+      "Share",
+      "Telegram",
+      "Sensex",
+      "Nifty",
+      "Track",
+      "market",
+      "slowdown"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/lic-housing-finance-cuts-home-loan-rates-how-do-revised-rates-compare-with-sbi-home-loan-rates/articleshow/126135437.cms",
+    "title": "LIC Housing Finance cuts home loan rates: How do revised rates compare with SBI home loan rates?",
+    "fetched_on": "2025-12-24T07:25:47.311171+00:00",
+    "content": "LIC Housing Finance has announced a cut in its home loan interest rates, offering fresh relief to homebuyers in a softening interest rate environment. The lender has reduced the starting rate on new … [+3364 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LIC",
+      "Housing",
+      "Finance",
+      "loan",
+      "SBI",
+      "home",
+      "rates",
+      "revised",
+      "compare",
+      "interest"
+    ]
+  },
+  {
+    "source": "CounterPunch [NewsAPI]",
+    "url": "https://www.counterpunch.org/2025/12/23/whos-the-real-outlaw-at-sea-trumps-tanker-grab-vs-the-houthis-anti-genocide-blockade/",
+    "title": "Who’s the Real Outlaw at Sea? Trump’s Tanker Grab vs. the Houthis’ Anti-Genocide Blockade",
+    "fetched_on": "2025-12-24T07:25:47.311171+00:00",
+    "content": "US troops board tanker off the coast of Venezuela Credit: X/ @AGPamBondi\r\nThe United States has now intercepted multiple Venezuelan oil tankers as part of its escalating aggression against Venezuela,… [+6339 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sea",
+      "Real",
+      "Outlaw",
+      "Venezuela",
+      "Credit",
+      "Tanker",
+      "Grab",
+      "Houthis’",
+      "Blockade",
+      "United"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2025/12/23/aave-falls-18-over-week-as-dispute-pulls-down-token-deeper-than-major-crypto-tokens",
+    "title": "Aave falls 18% over week as dispute pulls down token deeper than major crypto tokens",
+    "fetched_on": "2025-12-24T07:25:47.311171+00:00",
+    "content": "DeFi lending and borrowing protocol Aaves governance fight is starting to cost investors wildly.\r\nThe AAVE token is down about 18% over the past seven days, making it the worst performer among the to… [+2194 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "falls",
+      "wildly",
+      "Aave",
+      "week",
+      "dispute",
+      "pulls",
+      "deeper",
+      "major",
+      "crypto",
+      "DeFi"
+    ]
   }
 ]
