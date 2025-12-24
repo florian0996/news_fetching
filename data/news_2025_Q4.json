@@ -282955,5 +282955,65 @@
       "sign-ups",
       "surge"
     ]
+  },
+  {
+    "source": "Crypto Coins News [NewsAPI]",
+    "url": "https://www.ccn.com/news/business/ethzilla-stock-sinks-745-crypto-sale-dat/",
+    "title": "ETHZilla Stock Sinks After $74.5M Crypto Sale Signaled DAT Retreat",
+    "fetched_on": "2025-12-24T09:26:45.933301+00:00",
+    "content": "ETHZilla stock is down 94% since its all-time high in August. Credit: Tima Miroshnichenko via Pexels.\r\nKey Takeaways\r\n<ul><li>ETHZilla stock fell 8.7% on Monday, Dec. 22.\r\n</li><li>The decline follow… [+2176 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crypto",
+      "August",
+      "Sinks",
+      "Sale",
+      "Signaled",
+      "DAT",
+      "Retreat",
+      "Stock",
+      "ETHZilla",
+      "Dec."
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-unions/2025/credit-unions-compete-as-small-businesses-redefine-the-banking-relationship/",
+    "title": "Credit Unions Compete as Small Businesses Redefine the Banking Relationship",
+    "fetched_on": "2025-12-24T09:26:45.933301+00:00",
+    "content": "Throughout the banking history of the United States, credit unions have played a distinctive role in providing financial services to their local small- to medium-sized businesses (SMBs).Rooted in reg… [+4348 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Unions",
+      "Banking",
+      "States",
+      "Rooted",
+      "SMBs",
+      "chars",
+      "Small",
+      "Businesses",
+      "Compete"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/credit-card-issuance-declines-in-q2fy26-amid-slowing-consumer-credit-growth-jm-financial/articleshow/126137729.cms",
+    "title": "Credit Card issuance declines in Q2FY26 amid slowing consumer credit growth: JM Financial",
+    "fetched_on": "2025-12-24T09:26:45.933301+00:00",
+    "content": "India's credit card industry is witnessing a clear slowdown in growth, with new card issuance declining sharply even as private sector banks continue to consolidate their dominance, according to a re… [+2260 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "growth",
+      "chars",
+      "Credit",
+      "Financial",
+      "India",
+      "issuance",
+      "amid",
+      "dominance",
+      "declines"
+    ]
   }
 ]
