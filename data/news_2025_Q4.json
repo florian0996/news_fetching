@@ -286422,5 +286422,45 @@
       "financial",
       "exile"
     ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/US/wireStory/neil-frank-former-hurricane-center-chief-improved-public-128685709",
+    "title": "Neil Frank, former hurricane center chief who improved public outreach on storms, has died",
+    "fetched_on": "2025-12-25T22:21:30.969593+00:00",
+    "content": "Neil Frank, a former head of the National Hurricane Center credited with increasing the country's readiness for major storms, died Wednesday. He was 94.\r\nFrank led the hurricane center from 1974 to 1… [+2234 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Neil",
+      "Wednesday",
+      "storms",
+      "National",
+      "Frank",
+      "hurricane",
+      "center",
+      "died",
+      "chief",
+      "improved"
+    ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/movies/feature/55-years-ago-disney-released-one-its-most-underrated-animated-features/",
+    "title": "55 Years Ago, Disney Released One Its Most Underrated Animated Features",
+    "fetched_on": "2025-12-25T22:21:30.969593+00:00",
+    "content": "Everyone has a favorite Disney movie. With nearly a centurys worth films to their credit, Walt Disney Studios has made many beloved and even iconic movies that have helped define childhoods and even … [+4630 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Years",
+      "Ago",
+      "Disney",
+      "Released",
+      "Underrated",
+      "Animated",
+      "Features",
+      "favorite",
+      "Walt",
+      "chars"
+    ]
   }
 ]
