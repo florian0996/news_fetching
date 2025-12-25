@@ -286162,5 +286162,85 @@
       "USA",
       "World"
     ]
+  },
+  {
+    "source": "The Real Deal [NewsAPI]",
+    "url": "https://therealdeal.com/miami/2025/12/24/cirrus-77-million-bid-wins-downtown-miami-development-site/",
+    "title": "Cirrus wins distressed downtown Miami development site with $77M credit bid",
+    "fetched_on": "2025-12-25T19:18:01.534222+00:00",
+    "content": "Cirrus Real Estate won a bankruptcy auction for a distressed downtown Miami redevelopment site with a $77 million credit bid. \r\nAn affiliate of New York-based Cirrus, led by Joseph McDonnell, topped … [+2387 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Miami",
+      "downtown",
+      "Real",
+      "Estate",
+      "Cirrus",
+      "distressed",
+      "site",
+      "credit",
+      "bid",
+      "million"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/life/review-a-taste-of-italian-and-american-cuisine-at-the-west-bank-cafe-in-new-york-city/article",
+    "title": "Review: A taste of Italian and American cuisine at West Bank Cafe in New York City",
+    "fetched_on": "2025-12-25T19:18:01.534222+00:00",
+    "content": "West Bank Cafe in Manhattan. Photo Credit: Jamie Prevatt.\r\nOn Monday, December 23rd, this journalist had the chance to dine at West Bank Cafe in New York City for dinner, which is also home to the La… [+2293 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Cafe",
+      "West",
+      "Manhattan",
+      "Italian",
+      "American",
+      "York",
+      "Review",
+      "City",
+      "December"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/credit-card-spending-cools-to-pre-festive-levels-in-nov/articleshow/126165619.cms",
+    "title": "Credit card spending cools to pre-festive levels in Nov",
+    "fetched_on": "2025-12-25T19:18:01.534222+00:00",
+    "content": "Mumbai: Credit card spending tapered off by over 11% in November and normalised to pre-festive season levels as festive fervour cooled, with total spends falling to 1.90 lakh crore, compared with 2.1… [+2603 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "card",
+      "Mumbai",
+      "chars",
+      "spending",
+      "pre-festive",
+      "Nov",
+      "November",
+      "levels",
+      "cooled"
+    ]
+  },
+  {
+    "source": "GhanaWeb [NewsAPI]",
+    "url": "https://www.ghanaweb.com/GhanaHomePage/business/GoldBod-rejects-IMF-claims-of-214m-loss-in-BoG-Gold-for-Reserve-program-2015167",
+    "title": "GoldBod rejects IMF claims of $214m loss in BoG Gold-for-Reserve program",
+    "fetched_on": "2025-12-25T19:18:01.534222+00:00",
+    "content": "The Ghana Gold Board (GoldBod) has strongly rejected claims contained in the International Monetary Funds (IMF) Fifth Review report under Ghanas three-year Extended Credit Facility (ECF) programme th… [+2289 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ECF",
+      "chars",
+      "Board",
+      "Funds",
+      "Facility",
+      "IMF",
+      "GoldBod",
+      "Gold",
+      "International",
+      "Monetary"
+    ]
   }
 ]
