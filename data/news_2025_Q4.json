@@ -285863,5 +285863,124 @@
       "chars",
       "Market"
     ]
+  },
+  {
+    "source": "Get French Football News [NewsAPI]",
+    "url": "https://www.getfootballnewsfrance.com/2025/profile-what-future-for-saint-etiennes-lucas-stassin/",
+    "title": "PROFILE | What future for Saint-Étienne’s Lucas Stassin?",
+    "fetched_on": "2025-12-25T16:28:37.724520+00:00",
+    "content": "Not many players came out of Saint-Étiennes brief stay in Ligue 1 with credit last season. The club had spent significantly following their promotion, but funds largely went on promising but unproven… [+2218 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PROFILE",
+      "Stassin",
+      "Lucas",
+      "Ligue",
+      "future",
+      "chars",
+      "season",
+      "Saint-Étienne",
+      "promotion",
+      "unproven"
+    ]
+  },
+  {
+    "source": "Dansdeals.com [NewsAPI]",
+    "url": "https://www.dansdeals.com/shopping-deals/amazon/haggar-mens-premium-no-iron-classic-fit-expandable-waist-flat-front-dress-pants-and-1-10-amazon-credit-for-22-from-amazon/",
+    "title": "Haggar Men’s Premium No Iron Classic Fit Expandable Waist Flat Front Dress Pants And $1.10 Amazon Credit For $22 From Amazon",
+    "fetched_on": "2025-12-25T16:28:37.724520+00:00",
+    "content": "Advertiser Disclosure: Many of the links that appear on this site are from companies from which DansDeals.com receives compensation. Dan’s Deals LLC is a participant in the Amazon Services LLC Associ… [+1486 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disclosure",
+      "Amazon",
+      "Men",
+      "Premium",
+      "Iron",
+      "Classic",
+      "Fit",
+      "Expandable",
+      "Waist",
+      "Flat"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/emily-in-paris-season-6-netflix-renewal-status-what-to-expect/",
+    "title": "‘Emily in Paris’ Season 6: Netflix Renewal Status & What To Expect",
+    "fetched_on": "2025-12-25T16:28:37.724520+00:00",
+    "content": "Picture Credit: Netflix\r\nEmily in Paris is one of those Netflix shows that, season after season, continues to pick up impressive viewership and maintains its global fandom, despite often being the bu… [+12186 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Emily",
+      "Status",
+      "Credit",
+      "chars",
+      "Season",
+      "Paris’",
+      "Renewal",
+      "Expect",
+      "Picture"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/opinion/letters-to-editor/article70434697.ece",
+    "title": "Letters to Editor",
+    "fetched_on": "2025-12-25T16:28:37.724520+00:00",
+    "content": "Floating-rate housing loans are premised on the idea of shared movement with policy rates. Borrowers consent to this structure at inception, accepting automatic increases in EMIs when rates rise. How… [+2208 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Editor",
+      "Floating-rate",
+      "Letters",
+      "rates",
+      "housing",
+      "loans",
+      "premised",
+      "idea",
+      "shared",
+      "movement"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/opinion/letters/letters-to-editor/article70434697.ece",
+    "title": "Letters to the Editor dated December 24, 2025",
+    "fetched_on": "2025-12-25T16:28:37.724520+00:00",
+    "content": "Floating-rate housing loans are premised on the idea of shared movement with policy rates. Borrowers consent to this structure at inception, accepting automatic increases in EMIs when rates rise. How… [+2208 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Floating-rate",
+      "Editor",
+      "Letters",
+      "rates",
+      "dated",
+      "housing",
+      "loans",
+      "premised",
+      "idea"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/took-500-apr-payday-loans-160113384.html",
+    "title": "He Took Out 500% APR Payday Loans. Dave Ramsey Says, 'Teach Your Children, Teach Your Grandchildren, Teach Everyone's Children To Stay Away'",
+    "fetched_on": "2025-12-25T16:29:04.998505+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Teach",
+      "APR",
+      "Loans",
+      "Payday",
+      "Children",
+      "Grandchildren",
+      "Ramsey",
+      "Stay",
+      "Dave"
+    ]
   }
 ]
