@@ -285030,5 +285030,105 @@
       "credits",
       "train"
     ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/seasonal-sales/live/best-boxing-day-laptop-deals-australia",
+    "title": "Boxing Day laptop deals are kicking off early – and these discounts are perfect for Uni, work or a sneaky gaming upgrade",
+    "fetched_on": "2025-12-25T01:50:28.479454+00:00",
+    "content": "(Image credit: Future)\r\nAfternoon all, and welcome to our live coverage of Boxing Day laptop deals in Australia.\r\nWhile Boxing Day isn't officially until December 26, the sales have already started t… [+1319 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Day",
+      "Uni",
+      "Image",
+      "Afternoon",
+      "Australia",
+      "Boxing",
+      "laptop",
+      "deals",
+      "early"
+    ]
+  },
+  {
+    "source": "Sporting News [NewsAPI]",
+    "url": "https://www.sportingnews.com/us/nfl/chicago-bears/news/ben-johnson-caleb-williams-turn-rocky-start-bears-nfc-surge/4907f0c9cf2ef28e406ad4c8",
+    "title": "Ben Johnson, Caleb Williams turn rocky start Into Bears’ NFC North surge",
+    "fetched_on": "2025-12-25T01:50:28.479454+00:00",
+    "content": "Ben Johnson, Caleb Williams turn rocky start Into Bears NFC North surge originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nMuch of the credit for… [+1759 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Johnson",
+      "Caleb",
+      "Williams",
+      "North",
+      "NFC",
+      "Ben",
+      "Sporting",
+      "turn",
+      "rocky",
+      "start"
+    ]
+  },
+  {
+    "source": "ABC News [NewsAPI]",
+    "url": "https://abcnews.go.com/Politics/delinquent-student-loan-borrowers-wage-garnishments-month/story?id=128664927",
+    "title": "Delinquent student loan borrowers could see wage garnishments next month",
+    "fetched_on": "2025-12-25T01:50:28.479454+00:00",
+    "content": "Millions of student loan borrowers who are severely delinquent in their payments will see wage garnishments hit their paychecks in January, a spokesperson for the U.S. Department of Education confirm… [+2975 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "January",
+      "Department",
+      "loan",
+      "wage",
+      "Millions",
+      "Education",
+      "student",
+      "borrowers",
+      "garnishments"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/24/3210199/32716/en/Klarna-Group-KLAR-Hit-With-IPO-Related-Securities-Class-Action-Amid-102-Spike-in-Credit-Loss-Provision-Questions-About-Risk-Related-Trends-Disclosures-Hagens-Berman.html",
+    "title": "Klarna Group (KLAR) Hit With IPO-Related Securities Class Action Amid 102% Spike in Credit Loss Provision, Questions About Risk-Related Trends Disclosures – Hagens Berman",
+    "fetched_on": "2025-12-25T01:50:28.479454+00:00",
+    "content": "SAN FRANCISCO, Dec. 23, 2025 (GLOBE NEWSWIRE) -- A securities class action styled Nayak v. Klarna Group plc, et al., No. 1:25-cv-07033 (E.D.N.Y.) has been filed, seeking to represent investors who pu… [+3486 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KLAR",
+      "Dec.",
+      "Class",
+      "Hit",
+      "Amid",
+      "Spike",
+      "Provision",
+      "Questions",
+      "Disclosures",
+      "Hagens"
+    ]
+  },
+  {
+    "source": "Marqueesportsnetwork.com [NewsAPI]",
+    "url": "https://www.marqueesportsnetwork.com/chicago-bears-drew-dalman-pro-bowl-nfl-week-17/",
+    "title": "Drew Dalman credits Bears O-line for helping earn first Pro Bowl nod",
+    "fetched_on": "2025-12-25T01:50:28.479454+00:00",
+    "content": "LAKE FOREST, Ill. Drew Dalman has done something for the first time in his five-year NFL career.\r\nThe 27-year-old offensive lineman was named to the 2026 Pro Bowl, and he joins teammates Kevin Byard … [+3703 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ill",
+      "FOREST",
+      "Drew",
+      "Dalman",
+      "Bears",
+      "O-line",
+      "LAKE",
+      "Pro",
+      "Bowl",
+      "credits"
+    ]
   }
 ]
