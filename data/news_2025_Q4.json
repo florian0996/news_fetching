@@ -285523,5 +285523,65 @@
       "ETFs",
       "Interest"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-wednesday-december-24-2025-110031480.html",
+    "title": "HELOC rates today, December 24, 2025: Lenders begin pushing rates down to the 6% range",
+    "fetched_on": "2025-12-25T11:19:54.783815+00:00",
+    "content": "The national average HELOC rate is setting new 2025 lows. The better your credit profile, the lower your rate will be. Some lenders are offering rates below 7%. Shop home equity line of credit lender… [+3832 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "December",
+      "lows",
+      "rates",
+      "today",
+      "range",
+      "begin",
+      "pushing",
+      "national",
+      "average"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-december-24-2025-110013728.html",
+    "title": "Mortgage and refinance interest rates today, December 24: All is calm",
+    "fetched_on": "2025-12-25T11:19:54.783815+00:00",
+    "content": "Mortgage rates seem to be off for the holidays. According to Zillow, the average 30-year fixed rate is 6.11%. The 15-year fixed home loan rate is 5.50%. It seems we've unwrapped these presents before… [+5067 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Mortgage",
+      "today",
+      "holidays",
+      "fixed",
+      "Zillow",
+      "refinance",
+      "interest",
+      "calm",
+      "rates"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/brokers-call-northern-arc-buy/article70433396.ece",
+    "title": "Broker’s call: Northern Arc (Buy)",
+    "fetched_on": "2025-12-25T11:19:54.783815+00:00",
+    "content": "Target: 326\r\nCMP: 251.90\r\nMarket is undermining Northern Arc Capital Ltds NIM/ROE improvement prospects likely due to legacy wholesale mix and recent high credit costs. But since pivoting to retail (… [+1160 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buy",
+      "Target",
+      "CMP",
+      "Northern",
+      "Arc",
+      "Market",
+      "NIM",
+      "ROE",
+      "Capital",
+      "Broker"
+    ]
   }
 ]
