@@ -285226,5 +285226,85 @@
       "avoid",
       "quickly"
     ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2025/12/23/exploring-modern-sid-chip-substitutes/",
+    "title": "Exploring Modern SID Chip Substitutes",
+    "fetched_on": "2025-12-25T06:36:05.403476+00:00",
+    "content": "The SIDKick Pico installed on a breadboard. (Credit: Ben Eater)\r\nDespite the Commodore 64 having been out of production for probably longer than many Hackaday readers have been alive, its SID audio c… [+1705 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Modern",
+      "Chip",
+      "Substitutes",
+      "Pico",
+      "SID",
+      "Credit",
+      "Exploring",
+      "breadboard",
+      "chars",
+      "Ben"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/laila-harbert-portland-thorns-drive-and-family",
+    "title": "Laila Harbert on Portland Thorns, drive and family",
+    "fetched_on": "2025-12-25T06:36:05.403476+00:00",
+    "content": "Eagle-eyed Arsenal Women supporters would have noticed Laila Harbert back in training recently following the conclusion of the NWSL season, where she was on loan with Portland Thorns.\r\nSuch are the l… [+8240 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Thorns",
+      "Harbert",
+      "Portland",
+      "Laila",
+      "Eagle-eyed",
+      "Arsenal",
+      "Women",
+      "NWSL",
+      "drive",
+      "season"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/irish-nationwide-formally-enters-liquidation/a1864562327.html",
+    "title": "Irish Nationwide formally enters liquidation",
+    "fetched_on": "2025-12-25T06:36:05.403476+00:00",
+    "content": "The building society was a key player in speculative lending that hammered the country\r\nThe final death knell has tolled for Irish Nationwide, the building society once headed by Michael Fingleton.It… [+2383 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nationwide",
+      "Irish",
+      "building",
+      "chars",
+      "society",
+      "Michael",
+      "Fingleton.It",
+      "formally",
+      "enters",
+      "liquidation"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/regionals/wicklow/arklow-news/why-one-wicklow-newsagent-has-opened-on-christmas-day-for-11-years-it-started-after-mam-passed/a1083126776.html",
+    "title": "Why one Wicklow newsagent has opened on Christmas Day for 11 years – ‘It started after mam passed’",
+    "fetched_on": "2025-12-25T06:36:05.403476+00:00",
+    "content": "If youre in the Arklow area on Christmas Day and find yourself short on batteries, pre-paid electricity, phone credit or other small essentials, you can rely on Kavanaghs newsagent, where opening for… [+229 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Christmas",
+      "Day",
+      "years",
+      "chars",
+      "Wicklow",
+      "Arklow",
+      "Kavanaghs",
+      "newsagent",
+      "batteries",
+      "pre-paid"
+    ]
   }
 ]
