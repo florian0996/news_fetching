@@ -286302,5 +286302,125 @@
       "court",
       "dismisses"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-25/credit-edge-won-t-publish-today-will-resume-jan-8-podcast",
+    "title": "Credit Edge Won’t Publish Today, Will Resume Jan. 8 (Podcast)",
+    "fetched_on": "2025-12-25T21:20:22.277437+00:00",
+    "content": "Bloomberg Intelligence’s Credit Edge podcast won’t be published today. Look for the next episode on Jan. 8",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Edge",
+      "Today",
+      "Bloomberg",
+      "Credit",
+      "Jan.",
+      "Podcast",
+      "Publish",
+      "Resume",
+      "Intelligence",
+      "n’t"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/modi-government-brought-peace-to-jk-ne-naxal-hit-areas-home-minister/articleshow/126166521.cms",
+    "title": "Modi government brought peace to J&K, NE, Naxal-hit areas: Home minister",
+    "fetched_on": "2025-12-25T21:20:20.736417+00:00",
+    "content": "File photo: Union home minster Amit Shah (Picture credit: ANI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANI",
+      "Naxal-hit",
+      "Union",
+      "Shah",
+      "Picture",
+      "Home",
+      "File",
+      "Amit",
+      "Modi",
+      "areas"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/ashwini-vaishnaw-rahul-gandhis-praise-for-karnataka-jobs-affirms-make-in-india-success/articleshow/126166478.cms",
+    "title": "Ashwini Vaishnaw: Rahul Gandhi's praise for Karnataka jobs affirms Make in India success",
+    "fetched_on": "2025-12-25T21:20:20.736417+00:00",
+    "content": "File photo: Union minister Ashwini Vasihnaw (Picture credit: PTI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PTI",
+      "Vaishnaw",
+      "Rahul",
+      "Union",
+      "Vasihnaw",
+      "Picture",
+      "Ashwini",
+      "Gandhi",
+      "Karnataka",
+      "Make"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-hold-3-day-meet-with-chief-secretaries-ease-of-business-key-agenda/articleshow/126166469.cms",
+    "title": "PM Modi to hold 3-day meet with chief secretaries, ease of business key agenda",
+    "fetched_on": "2025-12-25T21:20:20.736417+00:00",
+    "content": "File photo: PM Modi (Picture credit: ANI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANI",
+      "Modi",
+      "Picture",
+      "File",
+      "hold",
+      "meet",
+      "secretaries",
+      "ease",
+      "photo",
+      "credit"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/netflix-games/netflix-releases-its-knives-out-tie-in-game-just-in-time-for-christmas/",
+    "title": "Netflix Releases Its ‘Knives Out’ Tie-In Game Just In Time For Christmas",
+    "fetched_on": "2025-12-25T21:20:20.736417+00:00",
+    "content": "Picture Credit: Netflix\r\nReleased just in time for the Christmas holiday, Netflix has dropped its latest video game tie-in for the murder-mystery movie franchise Knives Out, now available on connecte… [+2206 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Time",
+      "Knives",
+      "Christmas",
+      "Credit",
+      "chars",
+      "Game",
+      "Releases",
+      "Out’",
+      "Picture"
+    ]
+  },
+  {
+    "source": "NBC News [NewsAPI]",
+    "url": "https://www.nbcnews.com/business/consumer/trump-cannabis-reclassification-dispensaries-banks-rcna250564",
+    "title": "Cannabis reclassification could finally end the industry's financial exile",
+    "fetched_on": "2025-12-25T21:20:20.736417+00:00",
+    "content": "Nearly two decades after individual states began allowing cannabis to be used for medicinal purposes, many licensed dispensaries still cant accept credit or debit cards because payment processors won… [+7037 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "purposes",
+      "won",
+      "Cannabis",
+      "reclassification",
+      "finally",
+      "end",
+      "industry",
+      "financial",
+      "exile"
+    ]
   }
 ]
