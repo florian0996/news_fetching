@@ -285366,5 +285366,45 @@
       "NEWSWIRE",
       "chars"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/toierrorfound.cms",
+    "title": "What your birth number reveals about your leadership style",
+    "fetched_on": "2025-12-25T09:25:33.422231+00:00",
+    "content": "<ul><li>Lifetime\r\n0\r\n</li><li>Expired\r\n0\r\n</li><li>Redeemed\r\n0\r\n</li></ul>\r\n* TimesPoints expire in 1 year from the day of credit",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lifetime",
+      "Expired",
+      "Redeemed",
+      "style",
+      "TimesPoints",
+      "year",
+      "credit",
+      "birth",
+      "number",
+      "reveals"
+    ]
+  },
+  {
+    "source": "Businessnewsthisweek.com [NewsAPI]",
+    "url": "https://businessnewsthisweek.com/business/sensex-nifty-record-mild-gains-amid-positive-global-cues/",
+    "title": "Sensex, Nifty record mild gains amid positive global cues",
+    "fetched_on": "2025-12-25T09:25:33.422231+00:00",
+    "content": "Pic Credit: Pexel\r\nMumbai, Dec 24: Indian benchmark indices made moderate gains early on Wednesday amid positive global cues, as the stock market appears to be in a consolidation phase.\r\nAs of 9.30 a… [+2277 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec",
+      "Nifty",
+      "Credit",
+      "Pexel",
+      "Mumbai",
+      "Indian",
+      "Sensex",
+      "positive",
+      "global",
+      "Pic"
+    ]
   }
 ]
