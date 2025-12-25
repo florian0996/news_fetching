@@ -285583,5 +285583,65 @@
       "Capital",
       "Broker"
     ]
+  },
+  {
+    "source": "Africasacountry.com [NewsAPI]",
+    "url": "https://africasacountry.com/2025/12/afcon-and-the-politics-of-africanhood/",
+    "title": "AFCON and the politics of Africanhood",
+    "fetched_on": "2025-12-25T12:45:30.393975+00:00",
+    "content": "In Morocco, football has become a site for the slow re-Africanization of the country’s national identity.Amsafrane summit in Azilal, Morocco. Image credit Terry137 via Shutterstock © 2020.\r\nMorocco i… [+12276 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AFCON",
+      "Azilal",
+      "Africanhood",
+      "Morocco",
+      "football",
+      "Shutterstock",
+      "politics",
+      "site",
+      "slow",
+      "re-Africanization"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3482_AnalystReport_1766578026000/",
+    "title": "Analyst Report: U.S. Bancorp.",
+    "fetched_on": "2025-12-25T12:45:30.393975+00:00",
+    "content": "Stephen Biggar \r\nDirector of Financial Institutions Research \r\nStephen is responsible for coverage of large global banks, regional banks and domestic credit card companies. He has covered financial s… [+347 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bancorp",
+      "Report",
+      "Analyst",
+      "Stephen",
+      "Financial",
+      "Biggar",
+      "Director",
+      "Institutions",
+      "Research",
+      "banks"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/393225/russia-may-be-developing-a-new-orbital-weapon-made-up-of-tiny-pellets",
+    "title": "Russia may be developing a new orbital weapon made up of tiny pellets",
+    "fetched_on": "2025-12-25T12:45:30.393975+00:00",
+    "content": "Space &amp; Astronomy\r\nBy T.K. RandallDecember 24, 2025 ·  0 commentsA deployment of Starlink satellites. Image Credit: SpaceXGlobal intelligence services have uncovered evidence indicating that Russ… [+1716 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RandallDecember",
+      "Space",
+      "Astronomy",
+      "Starlink",
+      "Russia",
+      "commentsA",
+      "satellites",
+      "chars",
+      "Credit",
+      "Russ"
+    ]
   }
 ]
