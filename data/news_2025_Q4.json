@@ -286242,5 +286242,65 @@
       "International",
       "Monetary"
     ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4358882/posts",
+    "title": "Astronomy Picture of the Day - Mystery: Little Red Dots in the Early Universe",
+    "fetched_on": "2025-12-25T20:25:43.466150+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Mystery: Little Red Dots in the Early UniverseNASA ^\r\n | 4 Dec, 2025\r\n | Image Credit: NASA, ESA, CSA, STScI, JWST; Dale Kocevski (Colby College)\r\nPo… [+4498 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mystery",
+      "Day",
+      "Picture",
+      "Red",
+      "Dots",
+      "Astronomy",
+      "Early",
+      "Universe",
+      "Skip",
+      "comments"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/unnao-rape-case-relocate-me-to-congress-led-state-says-survivor/articleshow/126166361.cms",
+    "title": "Unnao rape case: Relocate me to Congress-led state, says survivor",
+    "fetched_on": "2025-12-25T20:25:43.466150+00:00",
+    "content": "File photo: Unnao rape case survivor speaking to media (Picture credit: ANI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unnao",
+      "ANI",
+      "Relocate",
+      "Picture",
+      "rape",
+      "Congress-led",
+      "File",
+      "case",
+      "state",
+      "photo"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/jk-high-court-dismisses-mehbooba-muftis-plea-to-shift-undertrials/articleshow/126165934.cms",
+    "title": "J&K: High court dismisses Mehbooba Mufti’s plea to shift undertrials",
+    "fetched_on": "2025-12-25T20:25:43.466150+00:00",
+    "content": "File photo: Former J&amp;K CM Mehbooba Mufti (Picture credit: PTI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PTI",
+      "Mehbooba",
+      "Mufti",
+      "High",
+      "Picture",
+      "File",
+      "photo",
+      "credit",
+      "court",
+      "dismisses"
+    ]
   }
 ]
