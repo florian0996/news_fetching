@@ -1,6 +1,17 @@
 {
-  "2025-12-24": {
+  "2025-12-25": {
     "status": "no company in the news"
+  },
+  "2025-12-24": {
+    "articles": [
+      {
+        "title": "FW: Is Fuse really worth $5bn?",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2025-12-23": {
     "articles": [
