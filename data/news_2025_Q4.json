@@ -285326,5 +285326,45 @@
       "users",
       "contribute"
     ]
+  },
+  {
+    "source": "Trend.az [NewsAPI]",
+    "url": "https://www.trend.az/business/4133907.html",
+    "title": "Uzbekistan experiences ongoing growth in loan portfolio",
+    "fetched_on": "2025-12-25T08:30:50.908915+00:00",
+    "content": "Uzbekistan’s loan portfolio posted modest growth in early December 2025, with corporate lending dominating and credit remaining heavily concentrated in Tashkent.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Tashkent",
+      "Uzbekistan",
+      "growth",
+      "loan",
+      "portfolio",
+      "experiences",
+      "ongoing",
+      "posted",
+      "modest"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/24/3210251/0/en/Same-Day-Instant-Cash-Advance-Loans-for-Bad-Credit-in-2026-Introduced-by-MoneyMutual-a-Trusted-Lender-Across-US.html",
+    "title": "Same Day Instant Cash Advance Loans for Bad Credit in 2026, Introduced by MoneyMutual a Trusted Lender Across US",
+    "fetched_on": "2025-12-25T08:30:50.908915+00:00",
+    "content": "SAN DIEGO, Dec. 24, 2025 (GLOBE NEWSWIRE) -- MoneyMutual, a well-known online loan marketplace, today announced its focus on helping consumers identify the top same day instant cash advance loans for… [+30168 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec.",
+      "Day",
+      "Instant",
+      "Cash",
+      "Advance",
+      "Introduced",
+      "DIEGO",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars"
+    ]
   }
 ]
