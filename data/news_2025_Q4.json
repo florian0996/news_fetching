@@ -285703,5 +285703,65 @@
       "Alaska",
       "Airlines"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/scammers-staking-americans-front-doors-140700006.html",
+    "title": "Scammers are staking out Americans' front doors in a wily new debit card scheme. How the scam works and what to do",
+    "fetched_on": "2025-12-25T14:21:25.433162+00:00",
+    "content": "Envato\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nYou may think that credit cards are the payment method most targeted by financial fraudster… [+7100 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans'",
+      "Scammers",
+      "scheme",
+      "staking",
+      "front",
+      "doors",
+      "wily",
+      "debit",
+      "Envato",
+      "Moneywise"
+    ]
+  },
+  {
+    "source": "Den of Geek US [NewsAPI]",
+    "url": "http://www.denofgeek.com/movies/marvel-post-credit-scenes-ranked/",
+    "title": "The Marvel Post-Credits Scenes, Ranked",
+    "fetched_on": "2025-12-25T14:21:25.433162+00:00",
+    "content": "With the exception of James Gunn, Sam Raimi is the greatest director of superhero movies. And there’s nothing Sam Raimi loves more than making his childhood pal Bruce Campbell look stupid. He, of cou… [+2960 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scenes",
+      "Ranked",
+      "Gunn",
+      "Sam",
+      "Raimi",
+      "Marvel",
+      "James",
+      "movies",
+      "Post-Credits",
+      "exception"
+    ]
+  },
+  {
+    "source": "Mypeoplesreview.com [NewsAPI]",
+    "url": "https://mypeoplesreview.com/2025/12/24/global-ime-bank-to-collaborate-with-dai-uday-project-for-credit-expansion-to-small-and-micro-enterprises/",
+    "title": "Global IME Bank to collaborate with DAI–Uday Project for Credit Expansion to Small and Micro Enterprises",
+    "fetched_on": "2025-12-25T14:21:25.433162+00:00",
+    "content": "Kathmandu, December 24: Global IME Bank Limited and the DAIUday Project have signed a Memorandum of Understanding to collaborate on expanding financial access to various small and micro enterprises i… [+2184 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Global",
+      "IME",
+      "Bank",
+      "Micro",
+      "December",
+      "Project",
+      "Small",
+      "Enterprises",
+      "DAI",
+      "Uday"
+    ]
   }
 ]
