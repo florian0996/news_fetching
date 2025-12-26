@@ -286772,5 +286772,43 @@
       "car",
       "wait"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-cheers-foxconn-jobs-in-congress-ruled-karnataka-bjp-says-credit-goes-to-pm-modi/articleshow/126170801.cms",
+    "title": "Rahul Gandhi cheers Foxconn jobs in Congress-ruled Karnataka, BJP says credit goes to PM Modi",
+    "fetched_on": "2025-12-26T06:35:25.622279+00:00",
+    "content": "What began as praise from Congress for a rapid burst of job creation in Karnataka quickly turned into a BJP vs GoP face-off, with the saffron party stepping in to claim ownership of the success.Leade… [+1977 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Karnataka",
+      "BJP",
+      "chars",
+      "Gandhi",
+      "Foxconn",
+      "Congress-ruled",
+      "Modi",
+      "Congress",
+      "Rahul",
+      "face-off"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/7-6m-americans-had-long-203000946.html",
+    "title": "7.6M Americans have had a long break from student loan payments, but time is running out. Here's what to do now",
+    "fetched_on": "2025-12-26T06:36:01.244961+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "payments",
+      "long",
+      "break",
+      "student",
+      "loan",
+      "time",
+      "running"
+    ]
   }
 ]
