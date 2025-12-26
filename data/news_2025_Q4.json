@@ -286482,5 +286482,65 @@
       "Gold",
       "Sweden"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-25/afreximbank-and-ghana-settle-dispute-over-750-million-loan",
+    "title": "Afreximbank and Ghana Settle Dispute Over $750 Million Loan",
+    "fetched_on": "2025-12-26T01:49:44.498140+00:00",
+    "content": "The African Export-Import Bank has settled a dispute with Ghana over a $750 million loan, though it didn’t disclose if it would take losses.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Ghana",
+      "Loan",
+      "Dispute",
+      "Settle",
+      "African",
+      "Bank",
+      "Afreximbank",
+      "losses",
+      "Export-Import"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/credit-card-spending-cools-after-festive-bills/articleshow/126169006.cms",
+    "title": "Credit card spending cools after festive bills",
+    "fetched_on": "2025-12-26T01:49:43.634999+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Credit",
+      "loan",
+      "card",
+      "spending",
+      "cools",
+      "festive",
+      "bills",
+      "CalculatorDetermine",
+      "monthly"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/non-bank-funding-grows-faster-as-india-inc-cuts-reliance-on-bank-credit/articleshow/126165833.cms",
+    "title": "Non-bank funding grows faster as India Inc cuts reliance on bank credit",
+    "fetched_on": "2025-12-26T01:49:43.634999+00:00",
+    "content": "Mumbai: India Inc is increasingly diversifying funding requirements by tapping non-banking sources such as equity markets and corporate bonds, reducing reliance on traditional bank loans. This trend … [+1084 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Mumbai",
+      "reliance",
+      "Non-bank",
+      "bonds",
+      "reducing",
+      "loans",
+      "funding",
+      "bank",
+      "chars"
+    ]
   }
 ]
