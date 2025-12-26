@@ -287050,5 +287050,105 @@
       "TGG",
       "Hisense"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/student-loan-wage-garnishment-returns-in-2026-under-trump-what-borrowers-must-know-now/articleshow/126174168.cms",
+    "title": "Student loan wage garnishment returns in 2026 under Trump — what borrowers must know now",
+    "fetched_on": "2025-12-26T14:22:11.897673+00:00",
+    "content": "The landscape for federal student loan repayment is shifting significantly as the Trump administration prepares to restart mandatory wage garnishments for defaulted borrowers in early 2026. This move… [+5578 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Student",
+      "loan",
+      "wage",
+      "early",
+      "borrowers",
+      "chars",
+      "returns",
+      "landscape",
+      "federal"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-pictures/best-photos-of-2025-1235486248/",
+    "title": "Rolling Stone’s Best Photos of 2025",
+    "fetched_on": "2025-12-26T14:22:11.897673+00:00",
+    "content": "Image Credit: Natalie Keyssar for Rolling Stone\r\nThree years into Ukraine’s defense of the Russian invasion, teenagers in Kyiv are forging a new normal. We followed a few through their lives in warti… [+1486 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stone",
+      "Image",
+      "Credit",
+      "Natalie",
+      "Rolling",
+      "Photos",
+      "Keyssar",
+      "Ukraine",
+      "Russian",
+      "Kyiv"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/sim/tavern-keeper-is-the-management-sim-of-my-dreams-and-the-best-thing-ive-played-in-early-access-in-2025/",
+    "title": "Tavern Keeper is the management sim of my dreams, and the best thing I've played in early access in 2025",
+    "fetched_on": "2025-12-26T14:22:11.897673+00:00",
+    "content": "(Image credit: Future)\r\nIn addition to our main Game of the Year Awards 2025, each member of the PC Gamer team is shining a spotlight on a game they loved this year. We'll post new personal picks eac… [+4977 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Game",
+      "Year",
+      "Image",
+      "Awards",
+      "Keeper",
+      "Gamer",
+      "Tavern",
+      "dreams",
+      "credit"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4358963/posts",
+    "title": "Astronomy Picture of the Day - The Images not Posted during the Government Shutdown - Road to the Galactic Center",
+    "fetched_on": "2025-12-26T14:22:11.897673+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - The Images not Posted during the Government Shutdown - Road to the Galactic CenterNASA ^\r\n | 9 Nov, 2025\r\n | Image Credit &amp; Copyright: Michael Ab… [+2292 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Shutdown",
+      "Road",
+      "Picture",
+      "Posted",
+      "Government",
+      "Images",
+      "Galactic",
+      "Center",
+      "Skip"
+    ]
+  },
+  {
+    "source": "Tom's Hardware UK [NewsAPI]",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/smic-raises-wafer-prices-by-about-10-percent-as-memory-demand-tightens-capacity",
+    "title": "China chipmaker SMIC raises wafer prices by about 10% as memory demand tightens capacity",
+    "fetched_on": "2025-12-26T14:22:11.897673+00:00",
+    "content": "Tom's Hardware Premium Roadmaps\r\n(Image credit: Future)\r\nChina’s SMIC has raised wafer prices by roughly 10% across parts of its production portfolio, according to TrendForce, with memory-related pro… [+6257 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "China",
+      "chars",
+      "Roadmaps",
+      "Image",
+      "SMIC",
+      "prices",
+      "Tom",
+      "Hardware",
+      "Premium"
+    ]
   }
 ]
