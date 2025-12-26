@@ -286695,5 +286695,82 @@
       "emergency",
       "loans"
     ]
+  },
+  {
+    "source": "Seeking Alpha [NewsAPI]",
+    "url": "https://seekingalpha.com/article/4855717-nuveen-churchill-direct-lending-trades-at-a-deep-discount-for-a-reason",
+    "title": "Nuveen Churchill Direct Lending: Trades At A Deep Discount For A Reason",
+    "fetched_on": "2025-12-26T05:24:11.291494+00:00",
+    "content": "Analysts Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this art… [+770 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "hours",
+      "Lending",
+      "Trades",
+      "Disclosure",
+      "Churchill",
+      "Direct",
+      "Deep",
+      "Discount",
+      "Reason",
+      "Analysts"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/pros-cons-private-student-loans-223614212.html",
+    "title": "Pros and cons of private student loans",
+    "fetched_on": "2025-12-26T05:24:41.797968+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pros",
+      "loans",
+      "cons",
+      "private",
+      "student"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/current-credit-card-interest-rates-190100321.html",
+    "title": "Current credit card interest rates",
+    "fetched_on": "2025-12-26T05:24:41.797991+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Current",
+      "rates",
+      "credit",
+      "card",
+      "interest"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/does-loan-purpose-matter-193553959.html",
+    "title": "Does your loan purpose matter? Yes — here’s why",
+    "fetched_on": "2025-12-26T05:24:41.798077+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "matter",
+      "loan",
+      "purpose"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/refinance-car-loan-203512418.html",
+    "title": "When should you refinance your car loan? And when to wait",
+    "fetched_on": "2025-12-26T05:24:41.798115+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "refinance",
+      "car",
+      "wait"
+    ]
   }
 ]
