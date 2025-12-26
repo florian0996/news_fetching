@@ -287370,5 +287370,45 @@
       "eToro",
       "Multi-Asset"
     ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4358984/posts",
+    "title": "Astronomy Picture of the Day - Unicorn, Fox Fur and Christmas Tree",
+    "fetched_on": "2025-12-26T19:17:40.866094+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Unicorn, Fox Fur and Christmas TreeNASA ^\r\n | 25 Dec, 2025\r\n | Image Credit &amp; Copyright: Michael Kalika\r\nPosted on 12/25/2025 10:59:01 AM PST by … [+2608 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unicorn",
+      "Day",
+      "Fox",
+      "Picture",
+      "Fur",
+      "Astronomy",
+      "Christmas",
+      "Tree",
+      "Skip",
+      "Dec"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/12/26/trump-rejects-student-loan-idr-applications.html",
+    "title": "Over 300,000 student loan borrowers were denied a new repayment plan, court filing shows — here's why",
+    "fetched_on": "2025-12-26T19:18:01.981393+00:00",
+    "content": "Trump officials rejected 327,955 income-driven repayment plan requests from student loan borrowers, according to a recent court filing. Here's what to know.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "Trump",
+      "student",
+      "borrowers",
+      "repayment",
+      "plan",
+      "court",
+      "filing",
+      "shows",
+      "rejected"
+    ]
   }
 ]
