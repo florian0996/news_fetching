@@ -286990,5 +286990,65 @@
       "countries",
       "live"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-26/nigeria-secures-1-2-billion-uae-loan-to-build-coastal-highway",
+    "title": "Nigeria Secures $1.2 Billion UAE Loan to Build Coastal Highway",
+    "fetched_on": "2025-12-26T13:33:51.639257+00:00",
+    "content": "Nigeria secured about $1.2 billion in funding from the United Arab Emirates to help build part of a new freeway, the West African nation’s presidency announced Friday.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Secures",
+      "Friday",
+      "Nigeria",
+      "Build",
+      "UAE",
+      "Loan",
+      "Coastal",
+      "Highway",
+      "United"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/941855",
+    "title": "eGift Cards: 3% off Category Choice, 10% off Uber, $20/$10 Promo Credit on $200/$100 Apple/Google Play Spend @ Amazon AU",
+    "fetched_on": "2025-12-26T13:33:50.710055+00:00",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "Cards",
+      "Choice",
+      "Uber",
+      "Promo",
+      "Google",
+      "Spend",
+      "Amazon",
+      "Category",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/941850",
+    "title": "Hisense 75-Inch U7QAU 4K Uled Mini LED Smart TV @Harvey Norman $1293 Delivered (to Metro/ C&C) with Bonus 10% Gift Card ($129)",
+    "fetched_on": "2025-12-26T13:33:50.710055+00:00",
+    "content": "Seems like people don't care for Harvey Norman much on here but it could be worth using this to price match with say TGG. Still seems like a great price for what is a fairly good TV.\r\nFull credit to … [+104 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Harvey",
+      "Norman",
+      "Delivered",
+      "Uled",
+      "Metro",
+      "Bonus",
+      "Gift",
+      "Card",
+      "TGG",
+      "Hisense"
+    ]
   }
 ]
