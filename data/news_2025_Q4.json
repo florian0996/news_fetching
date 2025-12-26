@@ -287488,5 +287488,25 @@
       "Fords",
       "year"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/karnataka-balloon-cylinder-blast-near-mysuru-palace-kills-1-4-injured/articleshow/126178842.cms",
+    "title": "Karnataka: Balloon cylinder blast near Mysuru Palace kills 1; 4 injured",
+    "fetched_on": "2025-12-26T22:21:49.675251+00:00",
+    "content": "Balloon cylinder blast near Mysuru Palace kills 1 (Picture credit: PTI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PTI",
+      "Mysuru",
+      "Palace",
+      "kills",
+      "Balloon",
+      "Karnataka",
+      "Picture",
+      "cylinder",
+      "blast",
+      "injured"
+    ]
   }
 ]
