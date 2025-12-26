@@ -287290,5 +287290,85 @@
       "hidden",
       "exposing"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/25/3210466/32716/en/KLAR-INVESTOR-ALERT-Klarna-Group-KLAR-Facing-Securities-Class-Action-Amid-102-Spike-in-Credit-Loss-Provision-Questions-About-Risk-Related-Trends-Disclosures-Hagens-Berman.html",
+    "title": "KLAR INVESTOR ALERT: Klarna Group (KLAR) Facing Securities Class Action Amid 102% Spike in Credit Loss Provision, Questions About Risk-Related Trends Disclosures – Hagens Berman",
+    "fetched_on": "2025-12-26T18:32:33.314978+00:00",
+    "content": "SAN FRANCISCO, Dec. 25, 2025 (GLOBE NEWSWIRE) -- A securities class action styled Nayak v. Klarna Group plc, et al., No. 1:25-cv-07033 (E.D.N.Y.) has been filed, seeking to represent investors who pu… [+3295 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KLAR",
+      "Dec.",
+      "Class",
+      "Klarna",
+      "ALERT",
+      "Facing",
+      "Amid",
+      "Spike",
+      "Provision",
+      "Questions"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/89612/liverpool-told-to-sign-former-chelsea-defender-in-surprise-move.html",
+    "title": "Liverpool told to sign former Chelsea defender in surprise move",
+    "fetched_on": "2025-12-26T18:32:33.314978+00:00",
+    "content": "Liverpools 2025/26 campaign has revealed a problem that feels both tactical and emotional, a shortage of authoritative voices when pressure bites. Credit is due to Rousing The Kop for surfacing a dis… [+3883 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chelsea",
+      "campaign",
+      "emotional",
+      "bites",
+      "Liverpool",
+      "Liverpools",
+      "told",
+      "sign",
+      "defender",
+      "surprise"
+    ]
+  },
+  {
+    "source": "GhanaWeb [NewsAPI]",
+    "url": "https://www.ghanaweb.com/GhanaHomePage/business/Government-Afreximbank-resolve-issues-surrounding-750m-loan-facility-2015278",
+    "title": "Government, Afreximbank resolve issues surrounding $750m loan facility",
+    "fetched_on": "2025-12-26T18:32:33.314978+00:00",
+    "content": "The Government of Ghana, through the Ministry of Finance, and the African Export-Import Bank (Afreximbank) have announced the successful resolution of issues surrounding the US$750 million financing … [+2395 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Afreximbank",
+      "Government",
+      "Ghana",
+      "Finance",
+      "Bank",
+      "issues",
+      "surrounding",
+      "chars",
+      "Ministry",
+      "African"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/rise-trading-super-apps-etoro-090215763.html",
+    "title": "The Rise of Trading Super Apps—How eToro and Robinhood Pioneered Multi-Asset Investment Platforms",
+    "fetched_on": "2025-12-26T18:33:01.075911+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apps",
+      "Platforms",
+      "Rise",
+      "Trading",
+      "Super",
+      "Robinhood",
+      "Pioneered",
+      "Investment",
+      "eToro",
+      "Multi-Asset"
+    ]
   }
 ]
