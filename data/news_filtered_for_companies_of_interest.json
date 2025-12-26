@@ -1,6 +1,17 @@
 {
-  "2025-12-25": {
+  "2025-12-26": {
     "status": "no company in the news"
+  },
+  "2025-12-25": {
+    "articles": [
+      {
+        "title": "Broker’s call: Northern Arc (Buy)",
+        "url": "https://www.thehindubusinessline.com/markets/brokers-call-northern-arc-buy/article70433396.ece",
+        "platforms_mentioned": [
+          "Northern Arc Capital"
+        ]
+      }
+    ]
   },
   "2025-12-24": {
     "articles": [
