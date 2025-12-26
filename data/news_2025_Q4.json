@@ -286830,5 +286830,65 @@
       "Services",
       "Agency"
     ]
+  },
+  {
+    "source": "mindbodygreen.com [NewsAPI]",
+    "url": "https://www.mindbodygreen.com/articles/these-3-zodiac-signs-are-most-selfish",
+    "title": "The 3 Most Selfish Zodiac Signs, According to Astrologers",
+    "fetched_on": "2025-12-26T10:24:24.968692+00:00",
+    "content": "The 12 signs of the zodiac all have unique personalities, and that includes how selfishor selflessthey are. While some signs are always looking out for others, lending a hand, or sacrificing themselv… [+2834 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zodiac",
+      "Selfish",
+      "Astrologers",
+      "Signs",
+      "personalities",
+      "unique",
+      "includes",
+      "selfishor",
+      "selflessthey",
+      "chars"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-cameras/",
+    "title": "Samsung Galaxy Z Fold 8 to Feature Massive Camera Overhaul: What We Know",
+    "fetched_on": "2025-12-26T10:24:24.968692+00:00",
+    "content": "The Samsung Galaxy Z Fold 8 represents a significant milestone in the evolution of foldable smartphones, blending advanced features with a refined design. Building on the foundation of its predecesso… [+6487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fold",
+      "Galaxy",
+      "Samsung",
+      "Overhaul",
+      "Massive",
+      "Camera",
+      "represents",
+      "smartphones",
+      "blending",
+      "design"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/flight-bookings-emerge-as-most-preferred-use-of-credit-card-reward-points-in-2025-report/article70436505.ece",
+    "title": "Flight bookings emerge as most preferred use of credit card reward points in 2025: Report",
+    "fetched_on": "2025-12-26T10:24:24.968692+00:00",
+    "content": "Flight bookings and airline mile transfers have emerged as the most preferred use of credit card reward points in India in 2025, overtaking cashback for the first time, according to a new report by A… [+2098 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Flight",
+      "preferred",
+      "credit",
+      "card",
+      "reward",
+      "points",
+      "chars",
+      "Report",
+      "India",
+      "bookings"
+    ]
   }
 ]
