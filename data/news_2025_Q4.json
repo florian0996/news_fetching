@@ -286542,5 +286542,45 @@
       "bank",
       "chars"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/creators-turn-micro-companions-test-prep-sectors-challenging-year/articleshow/126169331.cms",
+    "title": "Creators turn micro companions; Test-prep sector’s challenging year",
+    "fetched_on": "2025-12-26T03:26:26.182923+00:00",
+    "content": "Happy Thursday and Merry Christmas! The creator economy in India is going beyond traditional content by lending a virtual ear to its audience. This and more in todays ETtech Morning Dispatch.Also in … [+6765 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Test-prep",
+      "Christmas",
+      "Happy",
+      "Thursday",
+      "Merry",
+      "companions",
+      "turn",
+      "micro",
+      "sector",
+      "challenging"
+    ]
+  },
+  {
+    "source": "Seeking Alpha [NewsAPI]",
+    "url": "https://seekingalpha.com/article/4855704-harbor-convertible-securities-fund-q3-2025-commentary",
+    "title": "Harbor Convertible Securities Fund Q3 2025 Commentary",
+    "fetched_on": "2025-12-26T03:26:26.182923+00:00",
+    "content": "Torsten Asmus/iStock via Getty Images\r\nThe backdrop of continuing U.S. labor market weakness has been increasingly reflected in consumer sentiment surveys and upward trends in credit delinquencies. -… [+53 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "Commentary",
+      "Asmus",
+      "Convertible",
+      "Securities",
+      "Torsten",
+      "Getty",
+      "Images",
+      "Harbor",
+      "iStock"
+    ]
   }
 ]
