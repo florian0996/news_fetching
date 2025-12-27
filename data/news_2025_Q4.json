@@ -287646,5 +287646,45 @@
       "investment",
       "public"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/941982",
+    "title": "HiKOKI framing nailer and finishing nailer kit incl 5x batteries $1499 with $300 store credit delivered / C&C @ Total Tools",
+    "fetched_on": "2025-12-27T04:34:10.274279+00:00",
+    "content": "1x HiKOKI 18V Brushless 50-90mm Framer Nailer Skin NR1890DCA(H4Z)1x HiKOKI 18V Brushless 15GA 32-65mm Finisher Nailer Skin NT1865DAA(H4Z)2x HIKOKI Stackable Case IV 4025411x HiKOKI 18V Battery Charge… [+504 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brushless",
+      "HiKOKI",
+      "Skin",
+      "nailer",
+      "Total",
+      "Tools",
+      "Framer",
+      "Finisher",
+      "Battery",
+      "Charge"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/psu-banks-are-quietly-eating-private-banks-lunch-motilal-oswal-says-hdfc-bank-icici-bank-sbi-and-au-bank-matter-most/articleshow/126182461.cms",
+    "title": "PSU banks are quietly eating private banks’ lunch? Motilal Oswal says HDFC Bank, ICICI Bank, SBI and AU Bank matter most",
+    "fetched_on": "2025-12-27T04:34:10.274279+00:00",
+    "content": "Public sector banks are clawing back market share in MSME and home loans, reshaping competitive dynamics across Indias financial system. Yet even as PSUs tighten the squeeze on private lenders, Motil… [+5293 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "banks",
+      "lunch",
+      "quietly",
+      "eating",
+      "banks’",
+      "ICICI",
+      "SBI",
+      "private",
+      "Motil"
+    ]
   }
 ]
