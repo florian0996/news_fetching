@@ -287566,5 +287566,45 @@
       "tuition",
       "hook"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/merchants-crack-qr-code-to-secure-loans-from-nbfcs/articleshow/126176181.cms",
+    "title": "Merchants crack QR code to secure loans from NBFCs",
+    "fetched_on": "2025-12-27T01:47:29.837775+00:00",
+    "content": "The growth of QR code-led digital payments is boosting unsecured merchant loans by non-bank lenders, bringing hundreds of small businesses into the fold of formal credit at a time when mainstream ban… [+4466 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "loans",
+      "lenders",
+      "bringing",
+      "ban",
+      "crack",
+      "code",
+      "secure",
+      "NBFCs",
+      "growth"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/merchants-crack-qr-code-to-secure-loans-from-nbfcs/articleshow/126180985.cms",
+    "title": "Merchants crack QR code to secure loans from NBFCs",
+    "fetched_on": "2025-12-27T01:47:29.837775+00:00",
+    "content": "The growth of QR code-led digital payments is boosting unsecured merchant loans by non-bank lenders, bringing hundreds of small businesses into the fold of formal credit at a time when mainstream ban… [+4471 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "loans",
+      "lenders",
+      "bringing",
+      "ban",
+      "crack",
+      "code",
+      "secure",
+      "NBFCs",
+      "growth"
+    ]
   }
 ]
