@@ -287766,5 +287766,62 @@
       "Offensive",
       "Limitations"
     ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/business/thai-central-bank-sees-loan-guarantee-scheme-raising-credit-32-billion-over-1-2-years-5719851",
+    "title": "Thai central bank sees loan guarantee scheme raising credit by $3.2 billion over 1-2 years",
+    "fetched_on": "2025-12-27T07:20:25.750282+00:00",
+    "content": "BANGKOK, Dec 26 : Thailand's loan guarantee scheme is expected to boost new credit by 100 billion baht ($3.22 billion) over the next one to two years, the country's central bank said on Friday, part … [+766 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec",
+      "billion",
+      "BANGKOK",
+      "Thailand",
+      "Friday",
+      "guarantee",
+      "part",
+      "chars",
+      "central",
+      "bank"
+    ]
+  },
+  {
+    "source": "Sporting News [NewsAPI]",
+    "url": "https://www.sportingnews.com/us/nba/new-york-knicks/news/knicks-tyler-kolek-credits-mike-brown-his-recent-breakout/bbd863ffa68ddcd43c815475",
+    "title": "Knicks’ Tyler Kolek credits head coach Mike Brown for his recent breakout",
+    "fetched_on": "2025-12-27T07:20:25.750282+00:00",
+    "content": "Knicks Tyler Kolek credits head coach Mike Brown for his recent breakout originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nThe New York Knicks m… [+1426 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kolek",
+      "Mike",
+      "Brown",
+      "Tyler",
+      "Sporting",
+      "credits",
+      "head",
+      "coach",
+      "recent",
+      "breakout"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/paycheck-raid-trump-restarts-student-033105377.html",
+    "title": "The Paycheck Raid: Trump Restarts Student Loan Seizures",
+    "fetched_on": "2025-12-27T07:20:56.401420+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raid",
+      "Trump",
+      "Seizures",
+      "Paycheck",
+      "Restarts",
+      "Student",
+      "Loan"
+    ]
   }
 ]
