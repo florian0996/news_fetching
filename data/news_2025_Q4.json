@@ -289120,5 +289120,65 @@
       "comments",
       "Image"
     ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/elon-musk-claims-zohran-mamdanis-latest-appointment-means-people-will-die/",
+    "title": "Elon Musk Claims Zohran Mamdani’s Latest Appointment Means ‘People Will Die’",
+    "fetched_on": "2025-12-27T23:20:38.488286+00:00",
+    "content": "Credit: (Michael Brochstein/Sipa USA, Sipa via AP Images) and (Evan Vucci/AP photo)\r\nAfter New York City Mayor-Elect Zohran Mamdani’s Tuesday announcement that he will appoint an FDNY commissioner wh… [+2407 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mamdani",
+      "Sipa",
+      "Zohran",
+      "chars",
+      "People",
+      "Credit",
+      "Michael",
+      "Brochstein",
+      "USA",
+      "Images"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/video/6386956391112",
+    "title": "Video shows suspect drag trooper, steal Washington State Patrol vehicle on I-5",
+    "fetched_on": "2025-12-27T23:20:38.488286+00:00",
+    "content": "Video shows a confrontation on I-5 that ended with a suspect stealing a Washington State Patrol vehicle. Authorities confirmed the suspect was later arrested. (Credit: TMZ)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "State",
+      "Patrol",
+      "Video",
+      "Washington",
+      "shows",
+      "vehicle",
+      "suspect",
+      "trooper",
+      "steal",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/kentucky-police-find-55-pounds-of-meth-disguised-as-christmas-gifts/",
+    "title": "Kentucky Police Find 55 Pounds of Meth Disguised as Christmas Gifts",
+    "fetched_on": "2025-12-27T23:20:38.488286+00:00",
+    "content": "Credit: Jeffersontown Police Department\r\nAccording to a Monday press release from Kentucky’s Jeffersontown Police Department, 23-year-old Jacob Talamantes was arrested after police seized more than 5… [+1858 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Police",
+      "Jeffersontown",
+      "Department",
+      "Find",
+      "Pounds",
+      "Credit",
+      "Jacob",
+      "Kentucky",
+      "chars",
+      "Meth"
+    ]
   }
 ]
