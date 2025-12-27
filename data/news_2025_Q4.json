@@ -287606,5 +287606,45 @@
       "NBFCs",
       "growth"
     ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-pnb-housing-finance-nmdc-indus-towers-and-more",
+    "title": "Five Stocks To Buy Today: PNB Housing Finance, NMDC, Indus Towers And More",
+    "fetched_on": "2025-12-27T03:24:43.496485+00:00",
+    "content": "Several top analysts from Angel One, The Street and Motilal Oswal Financial Services this morning issued bullish calls on five key stocks spanning IT, mining, lending, and more.\r\nRajesh Bhosale, Equi… [+1702 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NMDC",
+      "Today",
+      "PNB",
+      "Finance",
+      "Indus",
+      "Stocks",
+      "mining",
+      "lending",
+      "Buy",
+      "Housing"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/rbi-liquidity-infusion-symptom-underlying-problem-banks-deposits-lending-interest-rates-omos-forex-swaps-auctions-11766651368387.html",
+    "title": "RBI’s liquidity infusion: It may relieve the symptom but not the real problem that Indian banking must confront",
+    "fetched_on": "2025-12-27T03:24:43.496485+00:00",
+    "content": "Banking, says Section 5(b) of the Banking Regulation Act of 1949, is accepting for the purpose of lending or investment, of deposits of money from the public, repayable on demand or otherwise, and wi… [+3191 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "banking",
+      "RBI",
+      "Section",
+      "chars",
+      "Indian",
+      "Regulation",
+      "Act",
+      "infusion",
+      "investment",
+      "public"
+    ]
   }
 ]
