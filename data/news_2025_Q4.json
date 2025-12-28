@@ -290097,5 +290097,85 @@
       "File",
       "ideals"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/features/2025-12-28/citi-goldman-jpmorgan-lead-banks-revenge-on-private-equity",
+    "title": "‘It’s Revenge of the Banks’ as Private Creditors Lose Their Edge",
+    "fetched_on": "2025-12-28T22:21:46.529544+00:00",
+    "content": "<p>Deregulation is giving bankers new swagger in their rivalry with asset managers</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Edge",
+      "Deregulation",
+      "Revenge",
+      "Banks’",
+      "Private",
+      "Creditors",
+      "Lose",
+      "managers",
+      "giving",
+      "bankers"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4359226/posts",
+    "title": "Astronomy Picture of the Day - Apollo 17's Moonship",
+    "fetched_on": "2025-12-28T22:21:45.168565+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Apollo 17's MoonshipNASA ^\r\n | 27 Dec, 2025\r\n | Image Credit: Apollo 17, NASA, (Image Reprocessing: Andy Saunders)\r\nPosted on 12/27/2025 1:55:28 PM P… [+3506 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "Day",
+      "Moonship",
+      "Picture",
+      "Astronomy",
+      "Skip",
+      "Image",
+      "Dec",
+      "NASA",
+      "comments"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-permanent-spokesperson-of-anti-india-global-forces-bjp/articleshow/126209221.cms",
+    "title": "Rahul permanent spokesperson of anti-India global forces: BJP",
+    "fetched_on": "2025-12-28T22:21:45.168565+00:00",
+    "content": "Rahul Gandhi during a presser in New Delhi (Picture credit: PTI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PTI",
+      "BJP",
+      "Delhi",
+      "Picture",
+      "Rahul",
+      "Gandhi",
+      "forces",
+      "credit",
+      "permanent",
+      "spokesperson"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-fiasco-key-official-removed-more-action-likely/articleshow/126209128.cms",
+    "title": "IndiGo fiasco: Key official removed, more action likely",
+    "fetched_on": "2025-12-28T22:21:45.168565+00:00",
+    "content": "Representative image (Picture credit: PTI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PTI",
+      "Key",
+      "Picture",
+      "Representative",
+      "IndiGo",
+      "fiasco",
+      "removed",
+      "image",
+      "credit",
+      "official"
+    ]
   }
 ]
