@@ -289460,5 +289460,25 @@
       "Film",
       "Warner"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6d6dd6f6-d993-4d12-b578-c85f139d98d9",
+    "title": "Reporting rent can boost your credit, but 1 tiny mistake could cost you all the benefits",
+    "fetched_on": "2025-12-28T13:30:30.471450+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 244 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "Reporting",
+      "credit",
+      "tiny"
+    ]
   }
 ]
