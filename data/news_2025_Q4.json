@@ -289260,5 +289260,45 @@
       "chars",
       "American"
     ]
+  },
+  {
+    "source": "The Hockey News [NewsAPI]",
+    "url": "https://thehockeynews.com/ohl/latest-news/redemption-on-boxing-day-brady-martin-zayne-parekh-fuel-canada-s-wild-win-over-rival-czechia",
+    "title": "Redemption On Boxing Day: Brady Martin & Zayne Parekh Fuel Canada’s Wild Win Over Rival Czechia",
+    "fetched_on": "2025-12-28T04:47:11.875112+00:00",
+    "content": "Team Canada forward Brady Martin (28). Credit: Allison Davies @alliekphoto on Instagram\r\nRedemption day finally came for Canada. Czechia knocked the Canadians out of the 2025 World Juniors with a pow… [+5023 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Martin",
+      "Brady",
+      "Zayne",
+      "Canada",
+      "Boxing",
+      "Parekh",
+      "Fuel",
+      "Wild",
+      "Win",
+      "Rival"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-au-sfb-well-placed-as-credit-cycle-turns-more-disciplined-siddhartha-khemka/articleshow/126199620.cms",
+    "title": "ICICI Bank, AU SFB well-placed as credit cycle turns more disciplined: Siddhartha Khemka",
+    "fetched_on": "2025-12-28T04:47:11.875112+00:00",
+    "content": "Channel checks across loan selling agents indicate that while overall credit growth is stabilising, the composition of growth is changing, with secured retail and MSME lending emerging as key drivers… [+4737 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "ICICI",
+      "Bank",
+      "Siddhartha",
+      "SFB",
+      "Khemka",
+      "Channel",
+      "MSME",
+      "growth",
+      "disciplined"
+    ]
   }
 ]
