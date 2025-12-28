@@ -289420,5 +289420,45 @@
       "average",
       "wrap"
     ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/mom-led-company-through-acquisition-husband-parented-2025-12",
+    "title": "While I led my company through a $150 million acquisition, my husband handled the parenting. Here's how we make it work in our house.",
+    "fetched_on": "2025-12-28T12:43:21.859719+00:00",
+    "content": "Tiffany Haynes with her husband and kids.Photo credit: Teresa's PHOTOWORKS\r\n<ul><li>Tiffany Haynes is the former COO of Fingercheck and led the company through an acquisition.</li><li>She started her… [+4602 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tiffany",
+      "million",
+      "acquisition",
+      "parenting",
+      "Haynes",
+      "company",
+      "handled",
+      "led",
+      "husband",
+      "Teresa"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/12/netflix-officially-cuts-harry-potter-warner-bros-merger-th1/",
+    "title": "Netflix Officially Cuts Entire ‘Harry Potter’ Film Series in 2026",
+    "fetched_on": "2025-12-28T12:43:21.859719+00:00",
+    "content": "Netflix is officially bidding farewell to the Harry Potter franchise.\r\nCredit: Warner Bros.\r\nThe Harry Potter film franchise is a landmark series in modern cinema, adapting J.K. Rowlings seven bestse… [+6912 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Entire",
+      "Harry",
+      "Officially",
+      "Cuts",
+      "Potter’",
+      "Potter",
+      "Series",
+      "Film",
+      "Warner"
+    ]
   }
 ]
