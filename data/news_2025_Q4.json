@@ -289877,5 +289877,85 @@
       "Breaks",
       "Walls"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/jk-mirwaiz-removed-hurriyat-link-from-x-bio-to-surrender-for-crpf-security-alleges-lone/articleshow/126208712.cms",
+    "title": "J&K: Mirwaiz removed Hurriyat link from X bio to 'surrender for CRPF security’, alleges Lone",
+    "fetched_on": "2025-12-28T19:17:33.540980+00:00",
+    "content": "File photo: Sajad Lone (Picture credit: PTI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PTI",
+      "Mirwaiz",
+      "Sajad",
+      "Picture",
+      "Lone",
+      "Hurriyat",
+      "CRPF",
+      "File",
+      "surrender",
+      "security’"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/gallery-44-photos-success-over-brighton",
+    "title": "Gallery: 44 photos from success over Brighton",
+    "fetched_on": "2025-12-28T19:17:33.540980+00:00",
+    "content": "Copyright 2025 The Arsenal Football Club Limited. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Limited",
+      "Gallery",
+      "Brighton",
+      "Arsenal",
+      "Football",
+      "Club",
+      "photos",
+      "success",
+      "Permission"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/gallery-44-photos-our-success-over-brighton",
+    "title": "Gallery: 44 photos from our success over Brighton",
+    "fetched_on": "2025-12-28T19:17:33.540980+00:00",
+    "content": "Copyright 2025 The Arsenal Football Club Limited. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "Limited",
+      "Gallery",
+      "Brighton",
+      "Arsenal",
+      "Football",
+      "Club",
+      "photos",
+      "success",
+      "Permission"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/12/disney-world-warning-guests-disney-springs-emd1/",
+    "title": "New Warning Issued for Disney World Guests During Busy Holiday Season",
+    "fetched_on": "2025-12-28T19:17:33.540980+00:00",
+    "content": "Disney World guests were given a new warning during the busy Holiday season, leading to rescheduled itineraries and more.\r\nCredit: SJ Grant, Flickr\r\nDisney World Issues New Warning for Guests During … [+4698 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Holiday",
+      "World",
+      "Disney",
+      "Busy",
+      "Season",
+      "Warning",
+      "Guests",
+      "Issued",
+      "leading",
+      "Grant"
+    ]
   }
 ]
