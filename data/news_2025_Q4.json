@@ -289957,5 +289957,85 @@
       "leading",
       "Grant"
     ]
+  },
+  {
+    "source": "iPhone in Canada [NewsAPI]",
+    "url": "https://www.iphoneincanada.ca/2025/12/27/rogers-and-bell-boxing-day-deal-35-for-100gb-canada-us-100-gift-card/",
+    "title": "Rogers and Bell Boxing Day Deal: $35 for 100GB Canada-US + $100 Gift Card",
+    "fetched_on": "2025-12-28T20:25:33.235210+00:00",
+    "content": "The $35 per month Canada-US Boxing Day plan from Rogers and Bell and Telus is turning out to be an even stronger deal when activated through Costco, thanks to additional credits and a $100 Costco gif… [+2800 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bell",
+      "Boxing",
+      "Day",
+      "Costco",
+      "Rogers",
+      "Gift",
+      "Deal",
+      "chars",
+      "Card",
+      "Telus"
+    ]
+  },
+  {
+    "source": "Chicago Reader [NewsAPI]",
+    "url": "http://chicagoreader.com/music/the-secret-history-of-chicago-music/kitty-haywood-stepney-sisters-ohio-jingles-mayfield-callier/",
+    "title": "Kitty Haywood’s voice helped shape Chicago music for decades",
+    "fetched_on": "2025-12-28T20:25:33.235210+00:00",
+    "content": "Credit: Steve Krakow for Chicago Reader\r\nSince 2005 Plastic Crimewave (aka Steve Krakow) has used the Secret History of Chicago Music to shine a light on worthy artists with Chicago ties whove been f… [+10540 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chicago",
+      "Steve",
+      "Krakow",
+      "music",
+      "Credit",
+      "Plastic",
+      "Crimewave",
+      "chars",
+      "Haywood",
+      "Reader"
+    ]
+  },
+  {
+    "source": "Viewfromthewing.com [NewsAPI]",
+    "url": "https://viewfromthewing.com/american-airlines-cut-basic-economy-miles-to-zero-now-it-is-saving-pennies-to-lose-credit-card-customers/",
+    "title": "American Airlines Cut Basic Economy Miles To Zero — Now It Is Saving Pennies To Lose Credit Card Customers",
+    "fetched_on": "2025-12-28T20:25:33.235210+00:00",
+    "content": "American Airlines stopped awarding miles on basic economy tickets, and they did it with no notice whatsoever. I was even looking at tickets on their website right after they made the change and didn’… [+4920 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Airlines",
+      "American",
+      "Basic",
+      "Economy",
+      "Miles",
+      "Cut",
+      "Saving",
+      "Pennies",
+      "Lose",
+      "Credit"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/jk-bilal-lone-backs-mirwaiz-terms-x-bio-barbs-as-dishonest-dangerous/articleshow/126208766.cms",
+    "title": "J&K: Bilal Lone backs Mirwaiz, terms X bio barbs as ‘dishonest, dangerous'",
+    "fetched_on": "2025-12-28T20:25:33.235210+00:00",
+    "content": "File photo: Bilal Lone (PIcture credit: PTI)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bilal",
+      "PTI",
+      "Lone",
+      "dishonest",
+      "Mirwaiz",
+      "File",
+      "terms",
+      "dangerous'",
+      "photo",
+      "PIcture"
+    ]
   }
 ]
