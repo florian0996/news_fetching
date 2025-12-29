@@ -291292,5 +291292,85 @@
       "Stable",
       "NASD"
     ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19030699-select-accounts-2-pack-32-count-scott-1000-toilet-paper-1-ply-15-amazon-promo-credit-46-46-or-less-w-s-s",
+    "title": "Select accounts: 2-Pack 32-Count Scott 1000 Toilet Paper (1-Ply) + $15 Amazon promo credit $46.46 or less w/ S&S",
+    "fetched_on": "2025-12-29T19:18:10.379191+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scott",
+      "Toilet",
+      "Paper",
+      "Amazon",
+      "tips",
+      "Select",
+      "accounts",
+      "credit",
+      "information",
+      "post"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-urge-rbi-to-extend-trade-relief-measures-beyond-december/articleshow/126222033.cms",
+    "title": "Banks urge RBI to extend trade relief measures beyond December",
+    "fetched_on": "2025-12-29T19:18:10.379191+00:00",
+    "content": "Mumbai: Commercial banks have approached the Reserve Bank of India (RBI), seeking an extension of the trade relief measures that permit loan moratoriums for exporters, people familiar with the matter… [+2613 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Mumbai",
+      "Commercial",
+      "India",
+      "relief",
+      "chars",
+      "December",
+      "Reserve",
+      "trade",
+      "measures"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-urge-rbi-to-extend-trade-relief-measures-beyond-december/articleshow/126219204.cms",
+    "title": "Banks urge RBI to extend trade relief measures beyond December",
+    "fetched_on": "2025-12-29T19:18:10.379191+00:00",
+    "content": "Mumbai: Commercial banks have approached the Reserve Bank of India (RBI), seeking an extension of the trade relief measures that permit loan moratoriums for exporters, people familiar with the matter… [+2611 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Mumbai",
+      "Commercial",
+      "India",
+      "relief",
+      "chars",
+      "December",
+      "Reserve",
+      "trade",
+      "measures"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/trump-official-brags-on-fox-news-i-dont-think-small-business-owners-have-ever-been-so-excited-to-pay-their-taxes/",
+    "title": "Trump Official Brags On Fox News: ‘I Don’t Think Small Business Owners Have Ever Been So Excited to Pay Their Taxes!’",
+    "fetched_on": "2025-12-29T19:18:10.379191+00:00",
+    "content": "A Trump administration official credited the president with making small business owners “excited” to pay their taxes thanks to tax cuts and less regulation.\r\nKelly Loeffler, administrator of the Sma… [+2181 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Business",
+      "Pay",
+      "Brags",
+      "Fox",
+      "Small",
+      "Owners",
+      "Taxes",
+      "Trump",
+      "Official",
+      "Excited"
+    ]
   }
 ]
