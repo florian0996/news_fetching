@@ -291432,5 +291432,104 @@
       "Credit",
       "Getty"
     ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2025/12/28/louis-gerstner-obituary-ibm-ceo-turnaround/",
+    "title": "Louis Gerstner, CEO credited with turning around IBM, dies at 83",
+    "fetched_on": "2025-12-29T21:20:48.274440+00:00",
+    "content": "Louis Gerstner, who took over International Business Machines Corp. when it was on its deathbed and resuscitated it as a technology industry leader, died Saturday. He was 83.IBM chairman and CEO Arvi… [+5716 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gerstner",
+      "Louis",
+      "IBM",
+      "Corp",
+      "International",
+      "Business",
+      "Machines",
+      "dies",
+      "CEO",
+      "Saturday"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/post-operation-sindoor-drdo-transfers-key-camouflage-deception-techs-to-army-for-battle-superiority/articleshow/126219991.cms",
+    "title": "Post-Operation Sindoor, DRDO transfers key camouflage, deception techs to Army for battle superiority",
+    "fetched_on": "2025-12-29T21:20:48.274440+00:00",
+    "content": "Defence Laboratory, Jodhpur(DLJ), DRDO handed over Camouflage Pattern Generation Software Sigma 4.0 (CPGSS4.0) and a full-scale Multispectral Signature Tank Mock-up to CME, Pune (Picture credit: DRDO)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DRDO",
+      "Jodhpur",
+      "DLJ",
+      "Pune",
+      "Sindoor",
+      "Laboratory",
+      "Sigma",
+      "CME",
+      "Picture",
+      "camouflage"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/the-copenhagen-test-cast-5495773/",
+    "title": "‘The Copenhagen Test’ Cast: Meet the Stars From Simu Liu to Melissa Barrera",
+    "fetched_on": "2025-12-29T21:20:48.274440+00:00",
+    "content": "Image Credit: Amanda Matlovich/PEACOCK\r\nThe Copenhagen Test explores a near-future world where intelligence agencies, surveillance technology and personal identity collide. The series was created, wr… [+3541 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copenhagen",
+      "Cast",
+      "Meet",
+      "Credit",
+      "Amanda",
+      "Matlovich",
+      "PEACOCK",
+      "Test’",
+      "Stars",
+      "Simu"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4359338/posts",
+    "title": "Astronomy Picture of the Day - NGC 1898: Globular Cluster in the Large Magellanic Cloud",
+    "fetched_on": "2025-12-29T21:20:48.274440+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - NGC 1898: Globular Cluster in the Large Magellanic CloudNASA ^\r\n | 28 Dec, 2025\r\n | Image Credit: ESA/Hubble &amp; NASA\r\nPosted on 12/28/2025 12:30:0… [+2467 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NGC",
+      "Day",
+      "Globular",
+      "Picture",
+      "Cluster",
+      "Large",
+      "Magellanic",
+      "Astronomy",
+      "Cloud",
+      "Skip"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/russian-banking-giant-issues-bitcoin-115752263.html",
+    "title": "Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan",
+    "fetched_on": "2025-12-29T21:21:08.032279+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bitcoin",
+      "Russian",
+      "miner",
+      "country-first’",
+      "loan",
+      "banking",
+      "giant",
+      "issues",
+      "crypto-backed"
+    ]
   }
 ]
