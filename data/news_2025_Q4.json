@@ -290217,5 +290217,65 @@
       "Upset",
       "Team"
     ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2025/12/26/this-year-in-business-quotes-and-numbers/",
+    "title": "John Collison’s bats to D6 topping the property charts: 2025 in quotes and numbers",
+    "fetched_on": "2025-12-29T06:38:36.264727+00:00",
+    "content": "2025 in quotes\r\nMy remit was always to lend. During the difficult period, it was like shooting fish in a barrel because not everybody was lending at the time and there was a really great opportunity.… [+15818 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "quotes",
+      "Collison",
+      "John",
+      "topping",
+      "charts",
+      "numbers",
+      "lend",
+      "bats",
+      "property",
+      "remit"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/kabia-how-his-loan-spell-shrewsbury-going",
+    "title": "Kabia on how his loan spell at Shrewsbury is going",
+    "fetched_on": "2025-12-29T06:38:36.264727+00:00",
+    "content": "Our Young Gun series gets to know the academy youngsters kicking off their careers at the Sobha Realty Training Centre.\r\nIsmeal Kabia spoke to us recently about his experience out on loan with League… [+2989 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Centre",
+      "Shrewsbury",
+      "Young",
+      "Gun",
+      "Sobha",
+      "Realty",
+      "Training",
+      "Kabia",
+      "chars",
+      "League"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/education/news/bank-of-india-recruitment-2025-26-registration-window-opens-for-514-credit-officer-posts-direct-link-to-apply-here/articleshow/126212600.cms",
+    "title": "Bank of India recruitment 2025-26: Registration window opens for 514 Credit Officer posts; direct link to apply here",
+    "fetched_on": "2025-12-29T06:38:36.264727+00:00",
+    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Bank of India recruitment 2025-26: Registration window opens for 514 Credit Officer posts; direct link to apply here</li></ul>\r\nFollow U… [+3145 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Registration",
+      "Credit",
+      "India",
+      "Officer",
+      "Bank",
+      "2025-26",
+      "posts",
+      "direct",
+      "recruitment",
+      "window"
+    ]
   }
 ]
