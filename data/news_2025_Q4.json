@@ -290337,5 +290337,85 @@
       "adding",
       "targets"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-29/afreximbank-said-to-have-taken-losses-on-750-million-ghana-loan",
+    "title": "Afreximbank Said to Have Taken Losses on $750 Million Ghana Loan",
+    "fetched_on": "2025-12-29T11:21:14.720701+00:00",
+    "content": "The African Export-Import Bank will incur losses on a $750 million loan to Ghana following the resolution of a dispute over the facility, according to people with direct knowledge of the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Ghana",
+      "Losses",
+      "Loan",
+      "African",
+      "Bank",
+      "Afreximbank",
+      "facility",
+      "matter",
+      "Export-Import"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/logistics/port-reforms-increased-shipbuilding-activity-drive-credit-surge-to-shipping-sector/article70445993.ece",
+    "title": "Port reforms, increased shipbuilding activity drive credit surge to shipping sector",
+    "fetched_on": "2025-12-29T11:21:13.406335+00:00",
+    "content": "Indias shipping sector has seen a surge in bank credit, with data from the RBI reporting that outstanding credit to the sector stood at 9,959 crore as of October 2025, up 28 per cent year-on-year fro… [+2453 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "fro",
+      "chars",
+      "sector",
+      "Indias",
+      "RBI",
+      "shipping",
+      "credit",
+      "Port",
+      "reforms"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-december-28-2025-110055839.html",
+    "title": "HELOC rates today, December 28, 2025: The equity-tapping advantage of 2026",
+    "fetched_on": "2025-12-29T11:21:13.406335+00:00",
+    "content": "The national average home equity line of credit interest rate continues to fall. For 2026, the year will begin with the lowest HELOC rates in more than three years. That's a hugh advantage that homeo… [+3841 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "HELOC",
+      "today",
+      "fall",
+      "rates",
+      "equity-tapping",
+      "national",
+      "average",
+      "home",
+      "equity"
+    ]
+  },
+  {
+    "source": "Live Science [NewsAPI]",
+    "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-spies-a-monstrous-molecular-cloud-shrouded-in-mystery-space-photo-of-the-week",
+    "title": "James Webb telescope spies a monstrous molecular cloud shrouded in mystery — Space photo of the week",
+    "fetched_on": "2025-12-29T11:21:13.406335+00:00",
+    "content": "JWST's view of the Sagittarius B2 region in near-infrared light. (Image credit: NASA, ESA, CSA, STScI, Adam Ginsburg (University of Florida), Nazar Budaiev (University of Florida), Taehwa Yoo (Univer… [+3094 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Space",
+      "Sagittarius",
+      "University",
+      "Florida",
+      "Webb",
+      "JWST",
+      "James",
+      "mystery",
+      "region",
+      "light"
+    ]
   }
 ]
