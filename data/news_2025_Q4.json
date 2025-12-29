@@ -290538,5 +290538,85 @@
       "investment",
       "crypto"
     ]
+  },
+  {
+    "source": "Tom's Hardware UK [NewsAPI]",
+    "url": "https://www.tomshardware.com/video-games/rainbow-six-siege-is-under-siege-by-hackers-ubisoft-forced-to-take-all-servers-offline-players-randomly-received-billions-of-credits-ultra-exclusive-skins-and-bans-or-unbans",
+    "title": "Rainbow Six Siege is under siege by hackers, Ubisoft forced to take all servers offline — players randomly received billions of credits, ultra-exclusive skins, and bans or unbans",
+    "fetched_on": "2025-12-29T13:38:49.453097+00:00",
+    "content": "Ubisoft has been forced to take all Rainbow Six Siege servers offline after the game was hacked by unknown entities. The company confirmed on X at around 9:10 AM EST on Saturday, December 27, that th… [+2834 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Siege",
+      "Ubisoft",
+      "Rainbow",
+      "forced",
+      "servers",
+      "offline",
+      "hackers",
+      "players",
+      "credits",
+      "ultra-exclusive"
+    ]
+  },
+  {
+    "source": "Manx Radio [NewsAPI]",
+    "url": "https://www.manxradio.com/news/isle-of-man-news/are-people-afraid-to-discuss-mental-health-on-the-island/",
+    "title": "Are people afraid to discuss mental health on the Island?",
+    "fetched_on": "2025-12-29T13:38:49.453097+00:00",
+    "content": "Sunday, 28 December 2025 13:09\r\nPicture credit: Pixabay\r\nMental Health professionals appeared on latest Manx Health Matters Podcast\r\nAre people on the Isle of Man afraid of speaking about mental heal… [+689 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Island",
+      "health",
+      "mental",
+      "December",
+      "people",
+      "afraid",
+      "Pixabay",
+      "discuss",
+      "Sunday",
+      "chars"
+    ]
+  },
+  {
+    "source": "Live Science [NewsAPI]",
+    "url": "https://www.livescience.com/space/stunning-array-of-400-rings-in-a-reflection-nebula-solves-a-30-year-old-star-formation-mystery-space-photo-of-the-week",
+    "title": "Stunning array of 400 rings in a 'reflection' nebula solves a 30-year-old star-formation mystery — Space photo of the week",
+    "fetched_on": "2025-12-29T13:38:49.453097+00:00",
+    "content": "Composite image of the star-forming region NGC 1333 obtained by combining data from the 8.2 m Subaru Telescope and the Digitized Sky Survey. (Image credit: NAOJ, NOAO/AURA/NSF, Robert Gendler, Robert… [+2969 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Space",
+      "NGC",
+      "Survey",
+      "reflection",
+      "Composite",
+      "Subaru",
+      "Telescope",
+      "Digitized",
+      "Sky",
+      "Robert"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2025/12/29/student-debt-rent.html",
+    "title": "Your past-due student loans can make it harder to rent an apartment. These 5 tips can help",
+    "fetched_on": "2025-12-29T13:39:07.068763+00:00",
+    "content": "If you've fallen behind on your student loans, it may be more challenging to get a property manager to approve you for rental housing, financial experts say.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "apartment",
+      "student",
+      "loans",
+      "past-due",
+      "make",
+      "harder",
+      "rent",
+      "tips",
+      "housing",
+      "financial"
+    ]
   }
 ]
