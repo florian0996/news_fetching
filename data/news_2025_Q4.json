@@ -291853,5 +291853,25 @@
       "Committee",
       "Infrastructure"
     ]
+  },
+  {
+    "source": "Bloomberg [NewsAPI]",
+    "url": "https://www.bloomberg.com/news/features/2025-12-28/ai-bubbles-jamie-dimon-cockroaches-gold-11-big-trades-of-2025",
+    "title": "The 11 big trades of 2025: Bubbles, cockroaches and a 367% jump",
+    "fetched_on": "2025-12-30T04:40:29.513047+00:00",
+    "content": "It was another year of high-conviction bets  and fast reversals.\r\nFrom bond desks in Tokyo and credit committees in New York to currency traders in Istanbul, markets delivered both windfalls and whip… [+19203 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bubbles",
+      "big",
+      "cockroaches",
+      "jump",
+      "reversals",
+      "trades",
+      "year",
+      "high-conviction",
+      "bets",
+      "fast"
+    ]
   }
 ]
