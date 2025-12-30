@@ -291873,5 +291873,45 @@
       "bets",
       "fast"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/muthoot-microfins-individual-loan-portfolio-expansion-gathers-momentum/article70448473.ece",
+    "title": "Muthoot Microfin’s individual loan portfolio expansion gathers momentum",
+    "fetched_on": "2025-12-30T05:25:42.530089+00:00",
+    "content": "Muthoot Microfin Ltd on Monday said the assets under management (AUM) of its individual loan portfolio crossed the 1,000 crore mark even as the overall AUM surpassed the 13,000 crore mark. \r\nThe Non-… [+1271 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Microfin",
+      "AUM",
+      "crore",
+      "Muthoot",
+      "loan",
+      "individual",
+      "portfolio",
+      "mark",
+      "Monday",
+      "management"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/loan-watch-nelson-returns-brentford-win",
+    "title": "Loan Watch: Nelson returns in Brentford win",
+    "fetched_on": "2025-12-30T05:25:42.530089+00:00",
+    "content": "There was a belted Christmas present for Reiss Nelson as he returned to action for the first time in a month after injury as he played the final few minutes of Brentfords emphatic 4-1 success over Bo… [+2149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Watch",
+      "Nelson",
+      "Christmas",
+      "Reiss",
+      "Loan",
+      "Brentford",
+      "Brentfords",
+      "returns",
+      "win"
+    ]
   }
 ]
