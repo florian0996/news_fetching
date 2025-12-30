@@ -294148,5 +294148,45 @@
       "Serious’",
       "Photo"
     ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/12/30/broad-range-of-options-for-msians",
+    "title": "Broad range of options for M’sians",
+    "fetched_on": "2025-12-30T23:21:01.525902+00:00",
+    "content": "GEORGE TOWN: With just a couple of days left before the Sumbangan Asas Rahmah (Sara) scheme expires, shoppers are finding out that the RM100 credit can in fact be spent on a far broader range of groc… [+1884 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sara",
+      "chars",
+      "TOWN",
+      "Rahmah",
+      "range",
+      "M’sians",
+      "GEORGE",
+      "Sumbangan",
+      "Asas",
+      "Broad"
+    ]
+  },
+  {
+    "source": "esquire.com [NewsAPI]",
+    "url": "https://www.esquire.com/style/a69879646/after-christmas-sales-2025/",
+    "title": "The 34 Best Post-Christmas Sales to Shop Before the New Year",
+    "fetched_on": "2025-12-30T23:21:01.525902+00:00",
+    "content": "If your wallet feels a bit lighter after the holidays, here's hoping a gift cardor two helps soften the blow. And while it might seem counterintuitive to swipe your credit card again before the new y… [+8945 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sales",
+      "Shop",
+      "Year",
+      "holidays",
+      "blow",
+      "Post-Christmas",
+      "wallet",
+      "feels",
+      "bit",
+      "lighter"
+    ]
   }
 ]
