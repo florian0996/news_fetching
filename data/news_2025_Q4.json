@@ -291913,5 +291913,42 @@
       "returns",
       "win"
     ]
+  },
+  {
+    "source": "Thedailyupside.com [NewsAPI]",
+    "url": "https://www.thedailyupside.com/economics/personal-finance/shoppers-rack-up-bnpl-loans-to-pay-for-presents/",
+    "title": "Holiday Shoppers Brace for 2026 Payments on Record BNPL Loans",
+    "fetched_on": "2025-12-30T06:36:22.176982+00:00",
+    "content": "The Ghost of Christmas Present might turn out to be the phantom debt consumers accrued on gifts this holiday season: Shoppers put a record $10 billion worth of purchases on buy now, pay later plans i… [+3205 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shoppers",
+      "Payments",
+      "chars",
+      "Record",
+      "Brace",
+      "BNPL",
+      "Loans",
+      "Ghost",
+      "Christmas",
+      "Present"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/holiday-shoppers-brace-2026-payments-050100321.html",
+    "title": "Holiday Shoppers Brace for 2026 Payments on Record BNPL Loans",
+    "fetched_on": "2025-12-30T06:36:39.118603+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Payments",
+      "Loans",
+      "Shoppers",
+      "Brace",
+      "Record",
+      "BNPL",
+      "Holiday"
+    ]
   }
 ]
