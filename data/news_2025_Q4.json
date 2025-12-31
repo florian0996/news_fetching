@@ -294800,5 +294800,65 @@
       "mix",
       "lending.A"
     ]
+  },
+  {
+    "source": "Thekenyatimes.com [NewsAPI]",
+    "url": "https://thekenyatimes.com/business/money-markets/cbk-licenses-42-digital-lenders/",
+    "title": "CBK Approves 42 New Digital Credit Providers, Total DCPs Now 195 In Kenya",
+    "fetched_on": "2025-12-31T10:24:47.237220+00:00",
+    "content": "The Central Bank of Kenya (CBK) has announced the licensing of 42 additional Digital Credit Providers (DCPs), increasing the total number of approved providers to 195, in a move expected to expand ac… [+4119 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CBK",
+      "Credit",
+      "Providers",
+      "Digital",
+      "Kenya",
+      "Approves",
+      "chars",
+      "Total",
+      "Central",
+      "Bank"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/publications/the-guarantee-for-repeat-orders",
+    "title": "Guidance: The Guarantee for Repeat Orders",
+    "fetched_on": "2025-12-31T10:24:47.237220+00:00",
+    "content": "The Guarantee for Repeat Orders covers a loan with a pre-agreed credit limit to an overseas buyer to finance the repeat purchase of goods, services and/or intangibles from a UK supplier. The loan can… [+2408 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Repeat",
+      "Guarantee",
+      "Orders",
+      "Guidance",
+      "goods",
+      "services",
+      "supplier",
+      "loan",
+      "covers",
+      "pre-agreed"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/bulgari-uplifts-symbolic-pieces-people-in-eternally-iconic/",
+    "title": "Bulgari uplifts symbolic pieces, people in Eternally Iconic",
+    "fetched_on": "2025-12-31T10:24:47.237220+00:00",
+    "content": "The label is bridging the gap between the unknown and the exemplary. Image credit: Bulgari Italian jeweler Bulgari is celebrating its past while embracing the present.\r\nAs the year draws to a close, … [+368 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bulgari",
+      "Eternally",
+      "Iconic",
+      "pieces",
+      "people",
+      "exemplary",
+      "uplifts",
+      "symbolic",
+      "label",
+      "bridging"
+    ]
   }
 ]
