@@ -296324,5 +296324,45 @@
       "Scores",
       "Today"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-31/first-brands-creditors-hire-firm-that-probed-ftx-bankruptcy",
+    "title": "First Brands Creditors Hire Firm That Probed FTX Bankruptcy",
+    "fetched_on": "2025-12-31T21:20:36.798233+00:00",
+    "content": "First Brands creditors have hired a financial-investigations firm that probed fraud-tainted crypto exchange FTX to aid an examination of the off-balance sheet financing the auto-parts supplier relied on before filing bankruptcy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brands",
+      "FTX",
+      "Creditors",
+      "Firm",
+      "Probed",
+      "Bankruptcy",
+      "Hire",
+      "hired",
+      "financial-investigations",
+      "fraud-tainted"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/30/3211599/0/en/Herzfeld-Credit-Income-Fund-Inc-Pays-Distribution.html",
+    "title": "Herzfeld Credit Income Fund, Inc. Pays Distribution",
+    "fetched_on": "2025-12-31T21:20:33.245380+00:00",
+    "content": "MIAMI BEACH, Fla., Dec. 30, 2025 (GLOBE NEWSWIRE) -- Herzfeld Credit Income Fund, Inc. (NASDAQ: HERZ) (the Fund) today announced that the Fund has made the following year-end distribution:\r\n<table><t… [+7790 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "Herzfeld",
+      "Credit",
+      "Income",
+      "Fla.",
+      "Dec.",
+      "Distribution",
+      "BEACH",
+      "GLOBE",
+      "NEWSWIRE"
+    ]
   }
 ]
