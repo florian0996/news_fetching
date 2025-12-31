@@ -294368,5 +294368,45 @@
       "Credit",
       "Account"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/shriram-finance-shares-in-focus-as-care-upgrades-credit-rating-to-aaa-following-mufg-deal/articleshow/126242795.cms",
+    "title": "Shriram Finance shares in focus as CARE upgrades credit rating to AAA following MUFG deal",
+    "fetched_on": "2025-12-31T03:37:54.717574+00:00",
+    "content": "Shares of Shriram Finance Ltd. are set to be in focus heading into trade on Tuesday, December 30, after the non-bank lender received its first credit rating upgrade since announcing a strategic deal … [+2876 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Finance",
+      "chars",
+      "Tuesday",
+      "Shriram",
+      "shares",
+      "CARE",
+      "AAA",
+      "MUFG",
+      "Ltd."
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19036012-s-s-50-44-2-32-pack-1000-sheets-scott-1000-trusted-clean-toilet-paper-25-22-each-15-credit-at-amazon",
+    "title": "[S&S] $50.44 | 2 × 32-Pack 1000-Sheets Scott 1000 Trusted Clean Toilet Paper ($25.22 each) + $15 credit at Amazon",
+    "fetched_on": "2025-12-31T03:37:54.717574+00:00",
+    "content": "Amazon[amazon.com] has 32-Pack 1000-Sheets Scott 1000 Trusted Clean Toilet Paper 2 for $53.10 - 5% when you check out via Subscribe &amp; Save = $50.44.Shipping is free with Prime or on $35+ orders.P… [+308 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scott",
+      "Trusted",
+      "Paper",
+      "Save",
+      "Clean",
+      "Toilet",
+      "amazon.com",
+      "orders.P",
+      "chars",
+      "Subscribe"
+    ]
   }
 ]
