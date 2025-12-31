@@ -295765,5 +295765,85 @@
       "lenders",
       "rates"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3a98fe00-2b63-4516-8083-d3513da0460b",
+    "title": "Ramsey Said “A High Credit Score Does Not Equal Success”, And He’s Sort of Right, But There Are Big Benefits.",
+    "fetched_on": "2025-12-31T17:20:19.174739+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 244 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Success",
+      "Benefits",
+      "High",
+      "Credit",
+      "Score",
+      "Equal",
+      "Sort",
+      "Big",
+      "Ramsey",
+      "Accept"
+    ]
+  },
+  {
+    "source": "Windows Central [NewsAPI]",
+    "url": "https://www.windowscentral.com/gaming/pc-gaming/dispatch-one-of-favorite-superhero-stories-2025-season-2-hopes",
+    "title": "Dispatch is one of my favorite superhero stories in years — between the great characters, humor, and romance, I'm already hungry for a Season 2",
+    "fetched_on": "2025-12-31T17:20:19.174739+00:00",
+    "content": "It's always a good feeling when seeing the credits rolling on a game almost immediately makes me feel hungry for more.\r\nI had a blast playing through all eight episodes of Dispatch, the debut game fr… [+5690 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "hungry",
+      "humor",
+      "Dispatch",
+      "years",
+      "characters",
+      "romance",
+      "game",
+      "favorite",
+      "superhero"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/partnerships/2025/united-states-bill-takes-fresh-look-bank-fintech-partnerships/",
+    "title": "US Bill Takes Fresh Look at Bank-FinTech Partnerships",
+    "fetched_on": "2025-12-31T17:20:19.174739+00:00",
+    "content": "For many financial institutions, particularly small banks and credit unions, collaborating with FinTechs has become one of the most effective ways to modernize products, improve customer experiences … [+3668 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Bill",
+      "Fresh",
+      "Partnerships",
+      "institutions",
+      "unions",
+      "collaborating",
+      "products",
+      "improve",
+      "experiences"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/grupo-televisa-tv-shows-stronger-164158562.html",
+    "title": "Grupo Televisa (TV) Shows Stronger Cash Generation but Faces Growth Headwinds and Credit Downgrade",
+    "fetched_on": "2025-12-31T17:20:39.915103+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Televisa",
+      "Shows",
+      "Downgrade",
+      "Stronger",
+      "Cash",
+      "Generation",
+      "Faces",
+      "Growth",
+      "Headwinds",
+      "Credit"
+    ]
   }
 ]
