@@ -294548,5 +294548,45 @@
       "Cancer",
       "Senator"
     ]
+  },
+  {
+    "source": "Daily Hive [NewsAPI]",
+    "url": "https://dailyhive.com/canada/benefit-payment-dates-canada-2026",
+    "title": "Here are all the dates in 2026 Canadians can expect government payouts",
+    "fetched_on": "2025-12-31T05:26:48.127068+00:00",
+    "content": "Credit and benefit payment dates for 2026 have been released by the Government of Canada, so you can start budgeting for next year.\r\nAnother year means more expenses. These tax credits and benefit pa… [+3388 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canadians",
+      "Canada",
+      "government",
+      "dates",
+      "year",
+      "benefit",
+      "expect",
+      "payouts",
+      "payment",
+      "released"
+    ]
+  },
+  {
+    "source": "Daily Hive [NewsAPI]",
+    "url": "https://dailyhive.com/canada/benefit-credit-payment-increase-canada",
+    "title": "These Canadian government benefit and credit payments will increase in 2026",
+    "fetched_on": "2025-12-31T05:26:48.127068+00:00",
+    "content": "A new year means an increase in benefit and credit payments from the Government of Canada.\r\nSince 2018, the Canada Revenue Agency (CRA) has used a process called indexation to adjust benefit and cred… [+2673 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "government",
+      "Canadian",
+      "payments",
+      "increase",
+      "Canada",
+      "benefit",
+      "CRA",
+      "Agency",
+      "year"
+    ]
   }
 ]
