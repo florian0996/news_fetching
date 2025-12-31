@@ -294644,5 +294644,81 @@
       "Russia",
       "Crypto‑Backed"
     ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/world/2025/12/30/moody039s-cuts-budapest039s-rating-to-junk-due-to-row-with-national-government",
+    "title": "Moody's cuts Budapest's rating to junk due to row with national government",
+    "fetched_on": "2025-12-31T08:32:05.632126+00:00",
+    "content": "BUDAPEST, Dec 30 (Reuters) - Ratings agency Moody's has downgraded Budapest's credit rating to Ba1 from Baa3 and placed it on review for a further reduction, citing its weak liquidity and a financial… [+1969 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec",
+      "Reuters",
+      "Budapest",
+      "chars",
+      "Moody",
+      "rating",
+      "reduction",
+      "citing",
+      "financial",
+      "cuts"
+    ]
+  },
+  {
+    "source": "Newsbreak.com [NewsAPI]",
+    "url": "https://www.newsbreak.com/share/4417732111338-longtime-conservative-commentator-victor-davis-hanson-steps-away-from-show-after-suffering-serious-health-problem?s=a2&amp;share_destination_id=MjEyMDk4NTAxLTE3NjcwODA1Mjc4OTE%3D&amp;pd=0ELwVZFs&amp;hl=en_US&amp;send_time=1767080527&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.51.1%22%2C%22languages%22%3A%22en%22%7D",
+    "title": "Longtime Conservative Commentator Victor Davis Hanson Steps Away From Show After Suffering ‘Serious’ Health Problem - NewsBreak",
+    "fetched_on": "2025-12-31T08:32:05.632126+00:00",
+    "content": "(Photo Credit; Victor Davis Hanson and The Daily Signal on YouTube)\r\nConservative media veteran Victor Davis Hanson said he is stepping away from his show after suffering a serious health problem.\r\nH… [+2224 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Davis",
+      "Victor",
+      "Hanson",
+      "Problem",
+      "Conservative",
+      "Show",
+      "Suffering",
+      "Health",
+      "Serious’",
+      "Photo"
+    ]
+  },
+  {
+    "source": "Zapzee.net [NewsAPI]",
+    "url": "https://zapzee.net/2025/12/30/gong-myoung-hospitalized-secret-auditing-filming-paused/",
+    "title": "Gong Myung Hospitalized for Sudden Hearing Loss, Drama Filming Paused - ZAPZEE - Premier Korean Entertainment Magazine",
+    "fetched_on": "2025-12-31T08:32:05.632126+00:00",
+    "content": "Credit: Saram Entertainment\r\nGong Myung is taking a brief break from his upcoming drama after being hospitalized for sudden hearing loss.\r\nIndustry sources confirmed that the actor was admitted to th… [+1461 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loss",
+      "ZAPZEE",
+      "Myung",
+      "Sudden",
+      "Hearing",
+      "Entertainment",
+      "Paused",
+      "Premier",
+      "Credit",
+      "Saram"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/unicredit-unions-agree-on-staffing-deal-fabi-says-4426222",
+    "title": "UniCredit, unions agree on staffing deal, FABI says",
+    "fetched_on": "2025-12-31T08:32:27.791028+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UniCredit",
+      "FABI",
+      "unions",
+      "deal",
+      "agree",
+      "staffing"
+    ]
   }
 ]
