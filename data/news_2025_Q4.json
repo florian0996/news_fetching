@@ -294720,5 +294720,85 @@
       "agree",
       "staffing"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/30/3211261/0/en/Global-Credit-Cards-Transaction-Value-to-Exceed-17-73T-by-2030-and-Digital-Only-Virtual-Cards-to-Record-6-91-CAGR-Reports-Mordor-Intelligence.html",
+    "title": "Global Credit Cards Transaction Value to Exceed $17.73T by 2030 and Digital-Only Virtual Cards to Record 6.91% CAGR, Reports Mordor Intelligence",
+    "fetched_on": "2025-12-31T09:27:32.196351+00:00",
+    "content": "Hyderabad, India, Dec. 30, 2025 (GLOBE NEWSWIRE) -- According to Mordor Intelligence, the credit cards market size in terms of transaction value is expected to grow from USD 14.83 trillion in 2025 to… [+7317 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cards",
+      "Mordor",
+      "Intelligence",
+      "CAGR",
+      "India",
+      "Dec.",
+      "Credit",
+      "Transaction",
+      "Exceed",
+      "Record"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-cards/2025/credit-limit-confusion-sends-consumer-spending-packing/",
+    "title": "Credit Limit Confusion Sends Consumer Spending Packing",
+    "fetched_on": "2025-12-31T09:27:32.196351+00:00",
+    "content": "Credit limits have traditionally been treated as a mechanical feature of card programs: a numeric ceiling determined by algorithms, credit scores and internal risk thresholds. But new findings from t… [+3870 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Confusion",
+      "Sends",
+      "Consumer",
+      "Spending",
+      "Packing",
+      "Limit",
+      "limits",
+      "programs",
+      "algorithms"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19037218-89-99-astro-gaming-a20-wireless-headset-gen-2-for-xbox-series-x-s-xbox-one-pc-mac-white-green-45-credit-at-amazon",
+    "title": "$89.99 | ASTRO Gaming A20 Wireless Headset Gen 2 for Xbox Series X | S, Xbox One, PC & Mac - White /Green + $45 credit at Amazon",
+    "fetched_on": "2025-12-31T09:27:32.196351+00:00",
+    "content": "Amazon[amazon.com] has ASTRO Gaming A20 Wireless Headset Gen 2 for Xbox Series X | S, Xbox One, PC &amp; Mac - White /Green for $89.99.Shipping is free.Price$50 lower (36% savings) than the list pric… [+121 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Xbox",
+      "Mac",
+      "White",
+      "Gaming",
+      "Wireless",
+      "Gen",
+      "Headset",
+      "Series",
+      "Green",
+      "ASTRO"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-loans-shine-in-indias-credit-mix-scaling-4x-in-three-years-report/articleshow/126248932.cms",
+    "title": "Gold loans shine in India's credit mix, scaling 4x in three years: Report",
+    "fetched_on": "2025-12-31T09:27:32.196351+00:00",
+    "content": "Gold loans have quietly emerged as one of the most resilient and fastest-growing credit segments in the lending space in past few years amid spotlight on unsecured retail credit and digital lending.A… [+2703 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gold",
+      "Report",
+      "scaling",
+      "chars",
+      "credit",
+      "loans",
+      "India",
+      "years",
+      "mix",
+      "lending.A"
+    ]
   }
 ]
