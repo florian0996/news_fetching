@@ -294608,5 +294608,41 @@
       "Serious’",
       "Photo"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/credit-card-application-rejected-here-are-5-major-reasons-banks-say-no-11767075707382.html",
+    "title": "Credit card application rejected? Here are 5 major reasons banks say no",
+    "fetched_on": "2025-12-31T07:25:37.466387+00:00",
+    "content": "In todays rapidly evolving credit environment, securing a credit card and using it properly can boost financial stability. Still, it has been observed that several applicants face unexpected rejectio… [+3938 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "rejected",
+      "card",
+      "application",
+      "chars",
+      "major",
+      "environment",
+      "securing",
+      "stability",
+      "rejectio"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/russia-sberbank-moves-first-crypto-201452315.html",
+    "title": "Russia’s Sberbank Moves First With Crypto‑Backed Loan Trial",
+    "fetched_on": "2025-12-31T07:25:54.401234+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trial",
+      "Sberbank",
+      "Moves",
+      "Loan",
+      "Russia",
+      "Crypto‑Backed"
+    ]
   }
 ]
