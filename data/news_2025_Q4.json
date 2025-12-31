@@ -296504,5 +296504,65 @@
       "House",
       "credited"
     ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/politics/fbi-nabs-alleged-isis-loving-texan-for-giving-bomb-materials-to-terrorist-brother-who-was-an-undercover-fed/",
+    "title": "FBI Nabs Alleged ISIS-Loving Texan for Giving Bomb Materials to Terrorist ‘Brother’ Who Was an Undercover Fed",
+    "fetched_on": "2025-12-31T23:21:32.653794+00:00",
+    "content": "Photo Credit: U.S. Justice Department\r\nThe FBI arrested a 21-year-old Texas man for providing bomb-making materials to an undercover agent he believed was an ISIS “brother.”\r\nJohn Michael Garza Jr. o… [+2452 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FBI",
+      "Materials",
+      "Undercover",
+      "Terrorist",
+      "Brother’",
+      "Credit",
+      "Justice",
+      "Texas",
+      "ISIS",
+      "brother"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2025/12/31/losing-sleep-over-brothers-debts",
+    "title": "Losing sleep over brother’s debts",
+    "fetched_on": "2025-12-31T23:21:32.653794+00:00",
+    "content": "IPOH: They have not had a good nights sleep ever since their home and car were vandalised with red paint by illegal moneylenders, following a loan taken by a family member working in Singapore.\r\nWe a… [+1606 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IPOH",
+      "Singapore",
+      "sleep",
+      "Losing",
+      "moneylenders",
+      "brother",
+      "debts",
+      "good",
+      "nights",
+      "home"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://billswire.usatoday.com/story/sports/nfl/bills/2025/12/30/power-rankings-buffalo-bills-rank-week-18-josh-allen-nfl/87964634007/",
+    "title": "Power rankings: Where do the Bills rank ahead of Week 18?",
+    "fetched_on": "2025-12-31T23:21:32.653794+00:00",
+    "content": "Dec 28, 2025; Orchard Park, New York, USA; Buffalo Bills head coach Sean McDermott looks on during the second quarter against the Philadelphia Eagles at Highmark Stadium. Mandatory Credit: Gregory Fi… [+5151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Week",
+      "Bills",
+      "Power",
+      "rankings",
+      "USA",
+      "rank",
+      "ahead",
+      "Orchard",
+      "Park",
+      "York"
+    ]
   }
 ]
