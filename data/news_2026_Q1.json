@@ -2825,5 +2825,82 @@
       "Concerns",
       "Credit"
     ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/sports/article-881950",
+    "title": "Daniel Peretz to Southampton, Manor Solomon to Fiorentina in midseason moves",
+    "fetched_on": "2026-01-01T23:21:42.858476+00:00",
+    "content": "Reports say goalkeeper Daniel Peretz is nearing a loan move to Southampton, while winger Manor Solomon could switch from Villarreal to Fiorentina this month.\r\nTwo Israeli internationals were reported… [+2279 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Southampton",
+      "Peretz",
+      "Manor",
+      "Solomon",
+      "Fiorentina",
+      "Daniel",
+      "Reports",
+      "Villarreal",
+      "month",
+      "midseason"
+    ]
+  },
+  {
+    "source": "Variety [NewsAPI]",
+    "url": "https://variety.com/lists/best-concerts-2025-beyonce-lady-gaga/",
+    "title": "The Best Concerts of 2025",
+    "fetched_on": "2026-01-01T23:21:42.858476+00:00",
+    "content": "Image Credit: Chris Willman/Variety\r\nIn some ways, among musicians whose catalogs are not chock-full of universally recognizable hits, Jill Sobules catalog is exceptionally well-suited for a tribute … [+1157 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Image",
+      "Credit",
+      "Chris",
+      "Willman",
+      "Variety",
+      "Jill",
+      "Concerts",
+      "Sobules",
+      "hits"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/31/3211941/18120/en/Amplify-Energy-Announces-Closing-of-Amended-Revolving-Credit-Facility.html",
+    "title": "Amplify Energy Announces Closing of Amended Revolving Credit Facility",
+    "fetched_on": "2026-01-01T23:21:42.858476+00:00",
+    "content": "HOUSTON, Dec. 31, 2025 (GLOBE NEWSWIRE) -- Amplify Energy Corp. (NYSE: AMPY) (Amplify, the Company, us, or our) announced today that it closed the previously announced amended revolving credit facili… [+5110 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amplify",
+      "Energy",
+      "Dec.",
+      "HOUSTON",
+      "GLOBE",
+      "NEWSWIRE",
+      "Corp",
+      "Revolving",
+      "Announces",
+      "Closing"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/a-55-home-loan-mortgage-lenders-with-the-best-rates-this-week-dec-29-jan-4-170834632.html",
+    "title": "A 5.5% home loan: Mortgage lenders with the best rates this week, Dec. 29-Jan. 4",
+    "fetched_on": "2026-01-01T23:22:00.519371+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec.",
+      "Mortgage",
+      "home",
+      "loan",
+      "week",
+      "lenders",
+      "rates"
+    ]
   }
 ]
