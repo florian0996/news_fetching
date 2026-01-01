@@ -677,5 +677,85 @@
       "card",
       "cards"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-11-big-trades-of-2025-bubbles-cockroaches-and-a-367-jump/articleshow/126264587.cms",
+    "title": "The 11 big trades of 2025: Bubbles, cockroaches and a 367% jump",
+    "fetched_on": "2026-01-01T05:28:58.927048+00:00",
+    "content": "It was another year of high-conviction bets and fast reversals. From bond desks in Tokyo and credit committees in New York to currency traders in Istanbul, markets delivered both windfalls and whipla… [+18906 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bubbles",
+      "big",
+      "cockroaches",
+      "jump",
+      "reversals",
+      "trades",
+      "year",
+      "high-conviction",
+      "bets",
+      "fast"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-11-big-trades-of-2025-bubbles-cockroaches-and-a-367-jump/articleshow/126264587.cms",
+    "title": "The 11 big trades of 2025: Bubbles, cockroaches and a 367% jump",
+    "fetched_on": "2026-01-01T05:28:58.927048+00:00",
+    "content": "It was another year of high-conviction bets and fast reversals. From bond desks in Tokyo and credit committees in New York to currency traders in Istanbul, markets delivered both windfalls and whipla… [+18906 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bubbles",
+      "big",
+      "cockroaches",
+      "jump",
+      "reversals",
+      "trades",
+      "year",
+      "high-conviction",
+      "bets",
+      "fast"
+    ]
+  },
+  {
+    "source": "Magiccsv.app [NewsAPI]",
+    "url": "https://magiccsv.app",
+    "title": "Show HN: Magic CSV – Transform CSVs with plain English, no formulas",
+    "fetched_on": "2026-01-01T05:28:58.927048+00:00",
+    "content": "Transform your data in seconds, not hours. No formulas required.\r\nNo credit card required",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Transform",
+      "Magic",
+      "English",
+      "CSV",
+      "CSVs",
+      "Show",
+      "hours",
+      "formulas",
+      "required",
+      "plain"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/942602",
+    "title": "One Month Free Trial of Binge Premium (Normally $22) @ Binge (New Users Only)",
+    "fetched_on": "2026-01-01T05:28:58.927048+00:00",
+    "content": "Read the title. All plans are available but the best value is Premium (4 screens, 4K). Credit card information required.\r\nGo to this link to sign up.\r\nNEW USERS ONLY. (I just used a different email a… [+133 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Binge",
+      "Read",
+      "Premium",
+      "Month",
+      "Free",
+      "Trial",
+      "Users",
+      "title",
+      "screens",
+      "chars"
+    ]
   }
 ]
