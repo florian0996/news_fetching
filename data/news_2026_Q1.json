@@ -597,5 +597,85 @@
       "set",
       "close"
     ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/mfb-maintains-portfolio-quality-despite-economic-pressure/",
+    "title": "MFB maintains portfolio quality despite economic pressure",
+    "fetched_on": "2026-01-01T04:09:59.645056+00:00",
+    "content": "Lovonus Microfinance Bank has said that it has continued to preserve the quality of its loan portfolio despite economic pressure.\r\nIn an interview, the Managing Director/Chief Executive Officer of th… [+3718 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MFB",
+      "economic",
+      "Lovonus",
+      "Microfinance",
+      "Bank",
+      "pressure",
+      "portfolio",
+      "quality",
+      "Director",
+      "Chief"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2025/12/31/3211676/0/en/Best-Personal-Auto-Loans-for-Bad-Credit-Auto-Refinance-AI-Lending-Platforms-Gain-Attention-as-Delinquency-Rates-Hit-Multi-Decade-Highs.html",
+    "title": "Best Personal Auto Loans for Bad Credit Auto Refinance: AI Lending Platforms Gain Attention as Delinquency Rates Hit Multi-Decade Highs",
+    "fetched_on": "2026-01-01T04:09:59.645056+00:00",
+    "content": "HOUSTON, TX, Dec. 30, 2025 (GLOBE NEWSWIRE) -- Disclaimer: This article is for informational purposes only and does not constitute financial advice. Auto refinancing involves replacing one debt oblig… [+34217 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dec.",
+      "Disclaimer",
+      "Refinance",
+      "HOUSTON",
+      "GLOBE",
+      "NEWSWIRE",
+      "Personal",
+      "Loans",
+      "Bad",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Neatorama.com [NewsAPI]",
+    "url": "https://www.neatorama.com/2025/12/30/15-Songs-That-Borrowed-from-Surprising-Sources/",
+    "title": "15 Songs That \"Borrowed\" from Surprising Sources",
+    "fetched_on": "2026-01-01T04:09:59.645056+00:00",
+    "content": "Neatorama readers are familiar with Led Zeppelin's habit of covering old songs and taking writing credit, from \"When the Levee Breaks\" to \"Stairway to Heaven.\" You most certainly know about the time … [+727 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Borrowed",
+      "Breaks",
+      "Stairway",
+      "Heaven",
+      "Songs",
+      "Surprising",
+      "Sources",
+      "Neatorama",
+      "Led",
+      "Zeppelin"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/tax/income-tax-notice-for-credit-card-spending-the-red-flag-transactions-you-must-avoid/articleshow/126215904.cms",
+    "title": "Income Tax notice for credit card spending: The red-flag transactions you must avoid",
+    "fetched_on": "2026-01-01T04:09:59.645056+00:00",
+    "content": "One of the main reasons people use credit cards for payments is extra perks like reward points and milestone benefits. But to keep those reward points coming in, you might find yourself using a money… [+9307 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "credit",
+      "Income",
+      "spending",
+      "benefits",
+      "reward",
+      "points",
+      "chars",
+      "card",
+      "cards"
+    ]
   }
 ]
