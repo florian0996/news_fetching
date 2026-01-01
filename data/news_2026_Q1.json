@@ -757,5 +757,53 @@
       "screens",
       "chars"
     ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/no-increase-on-tax-bands-or-credits-mean-many-workers-due-for-2026-pay-rise-to-feel-the-squeeze/a177083646.html",
+    "title": "No increase on tax bands or credits mean many workers due for 2026 pay rise to feel the squeeze",
+    "fetched_on": "2026-01-01T06:36:29.703923+00:00",
+    "content": "Workers who get a pay rise in 2026 have been warned that they will feel the squeeze from higher income tax and USC from the start of the new year. This is because this coming year there will be no in… [+2905 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "workers",
+      "USC",
+      "pay",
+      "rise",
+      "feel",
+      "squeeze",
+      "tax",
+      "year",
+      "increase",
+      "bands"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-personal-loans-for-bad-credit-211415243.html",
+    "title": "Best personal loans for bad credit for January 2026",
+    "fetched_on": "2026-01-01T06:36:57.443374+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "personal",
+      "loans",
+      "bad",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-personal-loans-202034980.html",
+    "title": "The best personal loans for January 2026",
+    "fetched_on": "2026-01-01T06:36:57.443410+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "personal",
+      "loans"
+    ]
   }
 ]
