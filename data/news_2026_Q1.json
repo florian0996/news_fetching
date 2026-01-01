@@ -805,5 +805,45 @@
       "personal",
       "loans"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/improve-your-credit-score-with-4-simple-new-year-2026-resolutions-timely-repayments-monitoring-more-11767162654689.html",
+    "title": "Improve your credit score with 4 simple New Year 2026 resolutions: Timely repayments, monitoring & more",
+    "fetched_on": "2026-01-01T07:24:43.250498+00:00",
+    "content": "As the New Year 2026 begins, borrowers in the country should focus on strengthening their credit scores to unlock better financial opportunities throughout the year. This becomes important as lending… [+4055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Year",
+      "Timely",
+      "resolutions",
+      "monitoring",
+      "begins",
+      "credit",
+      "Improve",
+      "simple",
+      "repayments",
+      "borrowers"
+    ]
+  },
+  {
+    "source": "CNX Software [NewsAPI]",
+    "url": "https://www.cnx-software.com/2025/12/31/visionfive-2-lite-sbc-review-ubuntu-24-04-on-a-low-cost-risc-v-sbc-in-2026/",
+    "title": "VisionFive 2 Lite SBC Review – Ubuntu 24.04 on a low-cost RISC-V SBC in 2026",
+    "fetched_on": "2026-01-01T07:24:43.250498+00:00",
+    "content": "StarFive has sent me a sample of the VisionFive 2 Lite RISC-V SBC for review. Its a low-cost credit card-sized board based on the StarFive JH7110S quad-core RISC-V SBC and designed to get started wit… [+85782 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lite",
+      "SBC",
+      "Review",
+      "Ubuntu",
+      "RISC-V",
+      "VisionFive",
+      "low-cost",
+      "StarFive",
+      "sample",
+      "chars"
+    ]
   }
 ]
