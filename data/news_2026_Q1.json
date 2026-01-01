@@ -865,5 +865,105 @@
       "World",
       "Mamdani"
     ]
+  },
+  {
+    "source": "Theregister.com [NewsAPI]",
+    "url": "https://www.theregister.com/2025/12/31/long_lived_tech/",
+    "title": "The most durable tech is boring, old, and everywhere",
+    "fetched_on": "2026-01-01T09:27:27.187204+00:00",
+    "content": "Opinion COBOL turned 66 this year and is still in use today. Major retail and commercial banks continue to run core account processing, ATM networks, credit card clearing, and batch end-of-day settle… [+4892 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Opinion",
+      "COBOL",
+      "boring",
+      "turned",
+      "today",
+      "durable",
+      "tech",
+      "year",
+      "ATM",
+      "settle"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/parent-plus-loans-student-loan-debt-repayment-heres-whats-changing-2025-12",
+    "title": "Parents who take out student loans for their kids are set to see repayment changes in the new year. Here's what to know.",
+    "fetched_on": "2026-01-01T09:27:27.187204+00:00",
+    "content": "Parents could see big student-loan changes in the new year.\r\nBeginning July 1, 2026, the Department of Education will begin implementing President Donald Trump's student-loan repayment overhaul, whic… [+2685 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "year",
+      "Parents",
+      "student",
+      "loans",
+      "kids",
+      "set",
+      "repayment",
+      "student-loan",
+      "July",
+      "Department"
+    ]
+  },
+  {
+    "source": "Tistory.com [NewsAPI]",
+    "url": "https://ryueyes11.tistory.com/512031",
+    "title": "새해 (몇 명 빼고) 복 많이 받으세요",
+    "fetched_on": "2026-01-01T09:27:27.187204+00:00",
+    "content": "Tariff panic, an artificial intelligence boom and cockroaches in credit markets were among the major events https://t.co/h2iFYxJ6G7\r\n— Bloomberg (@business) December 30, 2025\r\n S&amp;P 500 . 40% 20 4… [+12424 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "December",
+      "business",
+      "chars",
+      "Tariff",
+      "panic",
+      "events",
+      "받으세요",
+      "artificial",
+      "intelligence"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-unions/2025/nearly-half-of-gen-z-still-want-in-person-financial-advice/",
+    "title": "Nearly Half of Gen Z Still Want In-Person Financial Advice",
+    "fetched_on": "2026-01-01T09:27:27.187204+00:00",
+    "content": "For credit unions, the Gen Z challenge is no longer about digital access but about relevance in moments that shape financial confidence.That theme runs through Digital-First Retention Playbook: Winni… [+3507 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Winni",
+      "Gen",
+      "chars",
+      "Playbook",
+      "Financial",
+      "Half",
+      "Advice",
+      "Retention",
+      "unions",
+      "In-Person"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/save/2025-brought-big-relief-for-home-loan-borrowers-will-they-further-fall-in-their-emis-with-more-interest-rate-cuts-in-2026/articleshow/126268266.cms",
+    "title": "2025 brought big relief for home loan borrowers, will they further fall in their EMIs with more interest rate cuts in 2026?",
+    "fetched_on": "2026-01-01T09:27:27.187204+00:00",
+    "content": "Repo rate-linked home loan borrowers had a gala time in 2025 as the Reserve Bank of India (RBI) cut the repo rate by 125 bps in the year. For other borrowers also with their floating rate home loans … [+9245 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "home",
+      "loan",
+      "borrowers",
+      "rate",
+      "RBI",
+      "brought",
+      "India",
+      "big",
+      "relief",
+      "fall"
+    ]
   }
 ]
