@@ -845,5 +845,25 @@
       "sample",
       "chars"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/education/news/who-is-kamar-samuels-zohran-mamdanis-expected-pick-for-nyc-schools-chancellor/articleshow/126266556.cms",
+    "title": "Who is Kamar Samuels? Zohran Mamdani’s expected pick for NYC schools chancellor",
+    "fetched_on": "2026-01-01T08:32:11.471143+00:00",
+    "content": "Follow Us On Social Media\r\nAnu Malik demands credit for 'Ghar kab aaoge' in Border 2, recreated from 'Sandese Aate Hain'Team USA 2025 recap: World Championship wins, and Olympic-sport highlights from… [+1751 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Samuels",
+      "Kamar",
+      "recap",
+      "chars",
+      "Ghar",
+      "Border",
+      "Sandese",
+      "USA",
+      "World",
+      "Mamdani"
+    ]
   }
 ]
