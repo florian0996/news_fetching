@@ -2710,5 +2710,45 @@
       "credit",
       "cards"
     ]
+  },
+  {
+    "source": "Standard Digital [NewsAPI]",
+    "url": "https://www.standardmedia.co.ke/business/business/article/2001537564/equity-boss-on-loans-cost-ethiopian-expansion-and-2026-outlook",
+    "title": "Equity boss on loans cost, Ethiopian expansion and 2026 outlook",
+    "fetched_on": "2026-01-01T21:21:20.198149+00:00",
+    "content": "Dr James Mwangi, CEO Equity Bank. [File,Standard]\r\nEquity Group chief executive officer Dr James Mwangi shared his confidence in lower lending rates, detailed plans for entering new markets like Ethi… [+687 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ethiopian",
+      "CEO",
+      "Bank",
+      "James",
+      "Mwangi",
+      "Equity",
+      "cost",
+      "outlook",
+      "boss",
+      "loans"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-hunter-king-evan-roderick-and-craig-geoghan-star-in-a-make-or-break-holiday-on-hallmark/article",
+    "title": "Review: Hunter King, Evan Roderick, and Craig Geoghan star in ‘A Make or Break Holiday’ on Hallmark",
+    "fetched_on": "2026-01-01T21:21:20.198149+00:00",
+    "content": "Jonathan Bennett, Hunter King, and Craig Geoghan. Photo Credit: Luka Cyprian, Hallmark Media.\r\nEmmy award-winning actress Hunter King (“The Young and The Restless”) stars in the Hallmark movie “A Mak… [+1999 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Craig",
+      "King",
+      "Geoghan",
+      "Evan",
+      "Roderick",
+      "Bennett",
+      "Hunter",
+      "Make",
+      "Break",
+      "Holiday’"
+    ]
   }
 ]
