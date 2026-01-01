@@ -2750,5 +2750,80 @@
       "Break",
       "Holiday’"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/trump-takes-2-hard-swings-221000737.html",
+    "title": "As Trump takes 2 hard swings at Americans with student loan debt, some are discovering a surprising way out",
+    "fetched_on": "2026-01-01T22:22:17.545148+00:00",
+    "content": "The Trump administration is taking a harder line on Americans with student loan debt, and borrowers are feeling it from two sides.\r\nOn the one front, the U.S. Department of Education has slammed the … [+5153 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "debt",
+      "Trump",
+      "student",
+      "loan",
+      "hard",
+      "sides",
+      "swings",
+      "discovering",
+      "surprising"
+    ]
+  },
+  {
+    "source": "Radaronline.com [NewsAPI]",
+    "url": "https://radaronline.com/p/pam-bondi-deletes-post-joe-biden-credit-caught-lying-trump/",
+    "title": "Pam Bondi Posts Then Deletes Tweet After She Unintentionally Gives Joe Biden Credit... as Trump's Attorney General Suffers Latest Gaffe",
+    "fetched_on": "2026-01-01T22:22:17.545148+00:00",
+    "content": "\"Lol, the truth hurts. @AGPamBondi was glazing Trump again with another lying sycophantic tweet, but the chart she attached stopped in Oct 2024, thus showing the great work done by Joe Biden. She lat… [+657 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Bondi",
+      "Posts",
+      "Deletes",
+      "Unintentionally",
+      "Joe",
+      "Biden",
+      "Lol",
+      "Pam",
+      "Trump"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/americans-could-get-2200-child-tax-credit-checks-in-2026-one-simple-form-required/articleshow/126278472.cms",
+    "title": "Americans could get $2,200 child tax credit checks in 2026 — one simple form required",
+    "fetched_on": "2026-01-01T22:22:17.545148+00:00",
+    "content": "The Child Tax Credit remains the most valuable benefit for families with children. For the 2026 filing season, the credit is set at up to $2,200 per qualifying child under the age of 17. This amount … [+5884 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "tax",
+      "child",
+      "credit",
+      "Americans",
+      "children",
+      "checks",
+      "simple",
+      "form",
+      "required",
+      "remains"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/fortress-nfe-falls-5-credit-134447789.html",
+    "title": "New Fortress (NFE) Falls 5% on Credit Concerns",
+    "fetched_on": "2026-01-01T22:22:34.485057+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NFE",
+      "Falls",
+      "Fortress",
+      "Concerns",
+      "Credit"
+    ]
   }
 ]
