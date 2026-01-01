@@ -2341,5 +2341,65 @@
       "credit",
       "northern"
     ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/?p=809247&preview=true&preview_id=809247",
+    "title": "Ticket Booths Demolished by Excavator as Disney Guests Attempt To Access Theme Parks",
+    "fetched_on": "2026-01-01T19:18:17.498449+00:00",
+    "content": "Guests were shocked and confused to see ticket booths being demolished right in front of them as they attempted to enter the parks during the busiest time of the year.\r\nCredit: Inside the Magic\r\nBusy… [+4801 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Guests",
+      "Booths",
+      "Demolished",
+      "Parks",
+      "Ticket",
+      "Excavator",
+      "Disney",
+      "Attempt",
+      "Access",
+      "Theme"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/89763/report-liverpool-considering-move-to-sign-premier-league-midfielder.html",
+    "title": "Report: Liverpool considering move to sign Premier League midfielder",
+    "fetched_on": "2026-01-01T19:18:17.498449+00:00",
+    "content": "Liverpools recruitment focus is quietly sharpening and the midfield conversation is once again front and centre. Credit to Anfield Watch, whose original report outlines why this area of the squad rem… [+3013 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Premier",
+      "League",
+      "Liverpool",
+      "Liverpools",
+      "centre",
+      "chars",
+      "Watch",
+      "Report",
+      "move",
+      "sign"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/140831/report-european-giants-pushing-to-sign-man-united-midfielder-in-january.html",
+    "title": "Report: European giants pushing to sign Man United midfielder in January",
+    "fetched_on": "2026-01-01T19:18:17.498449+00:00",
+    "content": "Credit to Caught Offside for the original report, which suggests Galatasaray are pushing hard in the January transfer window for Manchester United midfielder Manuel Ugarte.\r\nThis feels like targeted … [+4295 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "United",
+      "January",
+      "European",
+      "Ugarte",
+      "Report",
+      "Man",
+      "Credit",
+      "Caught",
+      "Offside",
+      "Galatasaray"
+    ]
   }
 ]
