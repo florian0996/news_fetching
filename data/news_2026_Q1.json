@@ -1872,5 +1872,125 @@
       "taxable",
       "planning"
     ]
+  },
+  {
+    "source": "The Hockey News [NewsAPI]",
+    "url": "https://thehockeynews.com/ohl/latest-news/flint-firebirds-european-forward-commits-to-ncaa-st-lawrence-university",
+    "title": "Flint Firebirds European Forward Commits To NCAA St. Lawrence University",
+    "fetched_on": "2026-01-01T16:29:33.448526+00:00",
+    "content": "Flint Firebirds forward Ihnat Pazii (95). Credit: Todd Boone/Flint Firebirds \r\nKitchener Rangers defenseman Maxim Dirracolo recently announced his commitment to St. Lawrence University in the NCAA. H… [+2578 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Firebirds",
+      "Pazii",
+      "Flint",
+      "Lawrence",
+      "Forward",
+      "University",
+      "European",
+      "Commits",
+      "Ihnat",
+      "NCAA"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/721900340652bb8a",
+    "title": "Nearly 1 Million Tax Credit Payments to Be Sent Out in January",
+    "fetched_on": "2026-01-01T16:29:33.448526+00:00",
+    "content": "Pennsylvania residents are set to receive a wave of tax relief early next year as nearly 1 million workers prepare to benefit from a newly created state tax credit included in the 2025-26 Pennsylvani… [+143 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Tax",
+      "Credit",
+      "Pennsylvani",
+      "chars",
+      "Payments",
+      "January",
+      "residents",
+      "set",
+      "receive"
+    ]
+  },
+  {
+    "source": "Mwcconnection.com [NewsAPI]",
+    "url": "https://www.mwcconnection.com/san-diego-state-aztec-basketball/78644/aztecs-hot-handed-beat-spartans-81-68",
+    "title": "AZTECS TAKE DOWN UPSET MINDED SPARTANS 81-68",
+    "fetched_on": "2026-01-01T16:29:33.448526+00:00",
+    "content": "Aztecs dominate in paint and hot shooting to negate a 30 point performance by Spartan star Colby Garland. \r\nSan Diego State was in the Bay Area Tuesday evening, visiting the Provident Credit Union Ev… [+2571 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Garland",
+      "AZTECS",
+      "UPSET",
+      "MINDED",
+      "Colby",
+      "point",
+      "SPARTANS",
+      "Spartan",
+      "chars",
+      "81-68"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2025/12/disney-park-news-2026-new-logo-shanghai-emd1/",
+    "title": "Disney Releases New 2026 Logo, Catching Millions off Guard",
+    "fetched_on": "2026-01-01T16:29:33.448526+00:00",
+    "content": "Disney dropped a bombshell on the final day of 2025, leaving guests wondering if this change would soon affect the company itself. A new logo has been revealed for this Disney park.\r\nCredit: Shanghai… [+6207 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Catching",
+      "Releases",
+      "Millions",
+      "Guard",
+      "Disney",
+      "Logo",
+      "leaving",
+      "Shanghai",
+      "dropped",
+      "bombshell"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19042912-s-s-56-90-2-30-pack-108-sheet-scott-choose-a-sheet-paper-towels-double-rolls-28-45-each-15-credit-at-amazon",
+    "title": "[S&S] $56.90 | 2 Ã 30-Pack 108-Sheet Scott Choose-A-Sheet Paper Towels Double Rolls ($28.45 each) + $15 credit at Amazon (7 replies)",
+    "fetched_on": "2026-01-01T16:29:33.448526+00:00",
+    "content": "Amazon[amazon.com] has 30-Pack 108-Sheet Scott Choose-A-Sheet Paper Towels Double Rolls 2 for $59.90 - 5% when you check out via Subscribe &amp; Save = $56.90.Shipping is free with Prime or on $35+ o… [+295 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scott",
+      "Paper",
+      "Rolls",
+      "Save",
+      "Towels",
+      "Double",
+      "Amazon",
+      "replies",
+      "amazon.com",
+      "chars"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/widow-telecom-tycoon-battling-save-153500057.html",
+    "title": "The widow of a telecom tycoon is battling to save her $190m home, accusing a lender of setting up a ‘loan-to-own scheme’",
+    "fetched_on": "2026-01-01T16:29:33.448526+00:00",
+    "content": "A grand mansion from Hollywoods Golden Age is in the midst of a nasty legal battle.\r\nAt the center of this dispute is 79-year-old Karen Winnick (pictured: left), widow of the late Global Crossing fou… [+5362 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hollywoods",
+      "Golden",
+      "Age",
+      "home",
+      "widow",
+      "accusing",
+      "scheme’",
+      "battle",
+      "telecom",
+      "tycoon"
+    ]
   }
 ]
