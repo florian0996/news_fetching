@@ -4121,5 +4121,105 @@
       "review",
       "mortgage"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/new-yorks-new-years-eve-crowd-braves-frigid-weather-for-times-square-ball-drop-to-ring-in-2026/article",
+    "title": "New York’s New Year’s Eve crowd braves frigid weather for Times Square Ball Drop to ring in 2026",
+    "fetched_on": "2026-01-02T19:15:15.231233+00:00",
+    "content": "New Year's Eve in New York's Times Square. Photo Credit: ABC, José A. Alvarado Jr.\r\nOn December 31, 2025, New Year’s Eve crowds gathered in New York’s Times Square where they braved the cold and frig… [+2998 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "York",
+      "Year",
+      "Eve",
+      "Times",
+      "Square",
+      "Ball",
+      "Drop",
+      "ABC",
+      "braves",
+      "frigid"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/140862/report-spurs-considering-moves-to-sign-three-man-city-stars.html",
+    "title": "Report: Spurs considering moves to sign three Man City stars",
+    "fetched_on": "2026-01-02T19:15:15.231233+00:00",
+    "content": "Tottenham head into January with a familiar sense of urgency and opportunity, convinced that one decisive creative addition could reshape their season. Credit must go to Team Talk for breaking the de… [+4824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Spurs",
+      "Man",
+      "City",
+      "Tottenham",
+      "January",
+      "opportunity",
+      "convinced",
+      "season",
+      "chars"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4359900/posts",
+    "title": "Astronomy Picture of the Day - Auroral Corona",
+    "fetched_on": "2026-01-02T19:15:15.231233+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Auroral CoronaNASA ^\r\n | 1 Jan, 2026\r\n | Image Credit &amp; Copyright: Roi Levi\r\nPosted on 01/01/2026 10:39:01 AM PST by MtnClimber\r\nExplanation: Cyc… [+2305 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Picture",
+      "Auroral",
+      "Astronomy",
+      "Corona",
+      "Skip",
+      "Jan",
+      "Copyright",
+      "Cyc",
+      "comments"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lending-rates-edge-up-to-8-7-as-fresh-loans-get-costlier/articleshow/126296339.cms",
+    "title": "Lending rates edge up to 8.7% as fresh loans get costlier",
+    "fetched_on": "2026-01-02T19:15:15.231233+00:00",
+    "content": "MUMBAI: Weighted average lending rates on fresh rupee loans across the banking system rose by 10 basis points to 8.71% end-November, central bank data showed. One basis point is a hundredth of a perc… [+2338 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUMBAI",
+      "Weighted",
+      "end-November",
+      "Lending",
+      "rates",
+      "central",
+      "showed",
+      "fresh",
+      "loans",
+      "basis"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lending-rates-edge-up-to-8-7-as-fresh-loans-get-costlier/articleshow/126293140.cms",
+    "title": "Lending rates edge up to 8.7% as fresh loans get costlier",
+    "fetched_on": "2026-01-02T19:15:15.231233+00:00",
+    "content": "MUMBAI: Weighted average lending rates on fresh rupee loans across the banking system rose by 10 basis points to 8.71% end-November, central bank data showed. One basis point is a hundredth of a perc… [+2336 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUMBAI",
+      "Weighted",
+      "end-November",
+      "Lending",
+      "rates",
+      "central",
+      "showed",
+      "fresh",
+      "loans",
+      "basis"
+    ]
   }
 ]
