@@ -3286,5 +3286,45 @@
       "obstacles",
       "constant"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-02/opec-member-gabon-fires-finance-minister-days-after-rating-cut",
+    "title": "OPEC-Member Gabon Fires Finance Minister Days After Rating Cut",
+    "fetched_on": "2026-01-02T08:31:56.666376+00:00",
+    "content": "Gabon’s President Brice Oligui Nguema fired the nation’s finance minister, Henri Claude Oyima days after the nation’s credit rating was cut deeper into junk.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gabon",
+      "Finance",
+      "Minister",
+      "Days",
+      "Henri",
+      "nation",
+      "Rating",
+      "Cut",
+      "Fires",
+      "President"
+    ]
+  },
+  {
+    "source": "Haaretz [NewsAPI]",
+    "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article/.premium/israel-blocked-37-aid-groups-from-gaza-and-then-claimed-credit-for-their-work/0000019b-7835-d379-a3bb-fa35a7e00000",
+    "title": "Israel blocked 37 aid groups from Gaza – and then claimed credit for their work",
+    "fetched_on": "2026-01-02T08:31:54.670073+00:00",
+    "content": "Israel's decision to prevent 37 international aid organizations from continuing their work in the Gaza Strip is the latest step in a policy that has been both cruel and amateurish in its treatment of… [+27 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gaza",
+      "chars",
+      "Israel",
+      "work",
+      "Strip",
+      "aid",
+      "blocked",
+      "prevent",
+      "international",
+      "groups"
+    ]
   }
 ]
