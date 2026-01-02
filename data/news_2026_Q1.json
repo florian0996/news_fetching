@@ -3002,5 +3002,44 @@
       "Gift-giving",
       "Husband"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/finance/rbi-flags-swelling-slippages-in-unsecured-retail-lending-particularly-among-private-banks/articleshow/126281197.cms",
+    "title": "RBI flags swelling slippages in unsecured retail lending, particularly among private banks",
+    "fetched_on": "2026-01-02T03:41:57.016368+00:00",
+    "content": "Mumbai: The Reserve Bank of India (RBI) Wednesday flagged the risk of elevated fresh slippages and write-offs in unsecured retail lending, particularly among private sector banks. Unsecured retail lo… [+2055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "lending",
+      "Mumbai",
+      "India",
+      "Wednesday",
+      "unsecured",
+      "Reserve",
+      "retail",
+      "banks",
+      "private"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/invesco-senior-loan-etf-owns-153111000.html",
+    "title": "Invesco’s Senior Loan ETF Owns Some Of Elon Musk’s X Debt Yielding 10% | BKLN",
+    "fetched_on": "2026-01-02T03:42:26.665635+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BKLN",
+      "Yielding",
+      "Senior",
+      "Loan",
+      "ETF",
+      "Elon",
+      "Musk",
+      "Debt",
+      "Invesco"
+    ]
   }
 ]
