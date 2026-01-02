@@ -3666,5 +3666,45 @@
       "suppliers",
       "fashion"
     ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+    "title": "I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop",
+    "fetched_on": "2026-01-02T13:34:00.174043+00:00",
+    "content": "I'm all-in, baby. I'm committed. If upgrading any distinct component of my PC didn't require me taking out a loan right now, I'd be seriously considering switching my GPU over to some kind of AMD thi… [+4369 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Linux",
+      "make",
+      "baby",
+      "desktop",
+      "all-in",
+      "brave",
+      "good",
+      "feel",
+      "year",
+      "GPU"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/burning-questions-we-still-have-after-stranger-things-season-5/",
+    "title": "Burning Questions We Still Have After ‘Stranger Things’ Season 5",
+    "fetched_on": "2026-01-02T13:34:00.174043+00:00",
+    "content": "Picture Credit: Netflix\r\nStranger Things returned for one last time, and for the most part, it covered over some of the gaping holes left by volume 2 and provided a wholesome ending. For the most par… [+8390 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stranger",
+      "Season",
+      "Picture",
+      "Credit",
+      "Netflix",
+      "Questions",
+      "Things’",
+      "Things",
+      "Burning",
+      "time"
+    ]
   }
 ]
