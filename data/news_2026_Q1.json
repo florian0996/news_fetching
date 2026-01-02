@@ -3706,5 +3706,45 @@
       "Burning",
       "time"
     ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/do-you-know-your-doom-from-your-dune-put-your-sci-fi-knowledge-to-the-test-in-our-first-quiz-of-2026/",
+    "title": "Do you know your Doom from your Dune? Put your sci-fi knowledge to the test in our first quiz of 2026!",
+    "fetched_on": "2026-01-02T14:23:11.604956+00:00",
+    "content": "(Image credit: Larian Studios, PC Gamer)\r\nWant to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes, on everything from healthbars to weird currencies to absurd patc… [+1075 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dune",
+      "Doom",
+      "Gamer",
+      "knowledge",
+      "Image",
+      "Larian",
+      "Studios",
+      "Put",
+      "chars",
+      "sci-fi"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/01/3211990/0/en/Moto-Finance-Inc-Raises-1-8-Million-in-Pre-Seed-Funding-from-Cyber-Fund-and-Eterna-Capital-to-Develop-Blockchain-Powered-Savings-Account-and-Credit-Card-Platform.html",
+    "title": "Moto Finance Inc. Raises $1.8 Million in Pre-Seed Funding from Cyber Fund and Eterna Capital to Develop Blockchain-Powered Savings Account and Credit Card Platform",
+    "fetched_on": "2026-01-02T14:23:11.604956+00:00",
+    "content": "New York, NY, Jan. 01, 2026 (GLOBE NEWSWIRE) -- Moto Finance Inc. (Moto), a financial technology company, announced that it has raised $1.8 million in pre-seed funding from Cyber Fund and Eterna Capi… [+5588 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moto",
+      "Finance",
+      "Million",
+      "Cyber",
+      "Fund",
+      "Eterna",
+      "Funding",
+      "Jan.",
+      "Pre-Seed",
+      "York"
+    ]
   }
 ]
