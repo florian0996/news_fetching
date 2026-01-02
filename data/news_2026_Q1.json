@@ -3326,5 +3326,45 @@
       "international",
       "groups"
     ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19045849-s-s-ac-24-94-4-32-oz-finish-jet-dry-rinse-aid-dishwasher-rinse-agent-drying-agent-6-24-each-15-credit-at-amazon",
+    "title": "[S&S, AC] $24.94 | 4 × 32-Oz Finish Jet-Dry Rinse Aid, Dishwasher Rinse Agent & Drying Agent ($6.24 each) + $15 credit at Amazon",
+    "fetched_on": "2026-01-02T09:26:59.475351+00:00",
+    "content": "Amazon[amazon.com] has 32-Oz Finish Jet-Dry Rinse Aid, Dishwasher Rinse Agent &amp; Drying Agent 4 for $53.28 - $15 - 20% (multibuy discount) - 5% when you check out via Subscribe &amp; Save = $24.94… [+571 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Agent",
+      "Rinse",
+      "Finish",
+      "Aid",
+      "Dishwasher",
+      "Drying",
+      "Save",
+      "Amazon",
+      "Subscribe",
+      "Jet-Dry"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/kursrally-und-rueckkauf-commerzbank-aktie-mit-starkem-jahr-2025-kartellamt-ebnet-weg-fuer-unicredit-uebernahme-00-15388804",
+    "title": "Commerzbank-Aktie mit starkem Jahr 2025 - Kartellamt ebnet Weg für UniCredit-Übernahme",
+    "fetched_on": "2026-01-02T09:27:20.968814+00:00",
+    "content": "<p>• Commerzbank-Aktie mit starker Performance in 2025<br />• Kartellamt genehmigt weitere Aktienkäufe durch die UniCredit<br />• Commerzbank-Gegenwehr: Börsenwert als Abwehrschild</p><h2>Erfolgreiches Jahr 2025</h2><p>Die <a href=\"https://www.finanzen.net/aktien/commerzbank-aktie\"></p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jahr",
+      "Kartellamt",
+      "Commerzbank-Aktie",
+      "Börsenwert",
+      "Abwehrschild",
+      "Erfolgreiches",
+      "die",
+      "Commerzbank-Gegenwehr",
+      "mit",
+      "Weg"
+    ]
   }
 ]
