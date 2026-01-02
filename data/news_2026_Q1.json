@@ -3746,5 +3746,45 @@
       "Pre-Seed",
       "York"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/6-mortgage-myths-homebuyers-still-150156832.html",
+    "title": "6 Mortgage Myths Homebuyers Still Believe",
+    "fetched_on": "2026-01-02T15:24:28.804345+00:00",
+    "content": "If youre in the market for a home loan, heres the good news: Mortgage rates are falling thanks to a couple of recent Federal Reserve rate cuts, according to Freddie Mac and they might push even lower… [+3383 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "chars",
+      "Myths",
+      "Homebuyers",
+      "Federal",
+      "Reserve",
+      "Freddie",
+      "Mac",
+      "loan",
+      "cuts"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/toi-plus/business-economy/why-budget-holds-key-to-growth-in-2026/articleshow/126289295.cms",
+    "title": "Why Budget Holds Key To Growth In 2026",
+    "fetched_on": "2026-01-02T15:24:28.804345+00:00",
+    "content": "Despite aggressive rate cuts by RBI, lending growth, especially to MSMEs and households, has lagged. Inflation could also resurface as consumption accelerates and core inflation stays above 4%. Impor… [+58 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Growth",
+      "Budget",
+      "Holds",
+      "Key",
+      "lending",
+      "households",
+      "lagged",
+      "aggressive",
+      "rate"
+    ]
   }
 ]
