@@ -1,6 +1,17 @@
 {
-  "2026-01-02": {
+  "2026-01-03": {
     "status": "no company in the news"
+  },
+  "2026-01-02": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: The Podcast: Horse Pilates",
+        "url": null,
+        "platforms_mentioned": [
+          "CG24"
+        ]
+      }
+    ]
   },
   "2026-01-01": {
     "status": "no company in the news"
