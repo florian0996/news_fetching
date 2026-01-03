@@ -4681,5 +4681,85 @@
       "union",
       "asked"
     ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/banks-bad-loans-spike-after-cbn-withdraws-forbearance/",
+    "title": "Banks’ bad loans spike after CBN withdraws forbearance",
+    "fetched_on": "2026-01-03T03:23:50.049635+00:00",
+    "content": "Nigerias banking sector recorded a rise in bad loans in 2025 after the Central Bank of Nigeria withdrew the regulatory forbearance granted to lenders during the COVID-19 pandemic, according to the ap… [+6837 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "pandemic",
+      "chars",
+      "bad",
+      "loans",
+      "CBN",
+      "Central",
+      "Bank",
+      "forbearance",
+      "Nigerias",
+      "Nigeria"
+    ]
+  },
+  {
+    "source": "POLITICO.eu [NewsAPI]",
+    "url": "https://www.politico.eu/article/what-are-the-odds-analyzing-six-global-scenarios-2026-trump-ukraine-bond-market-netanyahu-hungary-orban/",
+    "title": "What are the odds? Analyzing six global scenarios for 2026.",
+    "fetched_on": "2026-01-03T03:23:50.049635+00:00",
+    "content": "And spare a worrying thought for the unregulated private credit market and the so-called shadow banks. The usually staid Governor of the Bank of England, Andrew Bailey, has already tolled the alarm b… [+1867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "odds",
+      "England",
+      "Andrew",
+      "Bailey",
+      "Analyzing",
+      "Governor",
+      "banks",
+      "Bank",
+      "global",
+      "scenarios"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/banks-shape-rbi-nbfcs-financial-stability-risks-reserve-bank-of-india-trends-and-progress-of-banking-balance-sheet-11767252664948.html",
+    "title": "India’s banking sector looks stable but overall financial stability faces risks of increasing complexity",
+    "fetched_on": "2026-01-03T03:23:50.049635+00:00",
+    "content": "Bad loans are at a multi-decade low. Non-banking financial companies (NBFCs) also recorded robust performance, supported by double-digit credit growth, improved asset quality and comfortable capital … [+2997 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bad",
+      "India",
+      "low",
+      "NBFCs",
+      "chars",
+      "financial",
+      "banking",
+      "sector",
+      "stable",
+      "stability"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/credit-growth-outpaces-deposit-sharpens-wedge/articleshow/126296787.cms",
+    "title": "Credit growth outpaces deposit, sharpens wedge",
+    "fetched_on": "2026-01-03T03:23:50.049635+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Credit",
+      "deposit",
+      "sharpens",
+      "loan",
+      "growth",
+      "outpaces",
+      "wedge",
+      "CalculatorDetermine",
+      "monthly"
+    ]
   }
 ]
