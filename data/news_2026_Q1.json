@@ -6710,5 +6710,102 @@
       "Provision",
       "Questions"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180504109",
+    "title": "Tesla loses EV crown to China's BYD as competition, tax credit expiry hit demand - Reuters",
+    "fetched_on": "2026-01-03T21:20:08.771096+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "Print",
+      "China",
+      "BYD",
+      "Fine",
+      "Tesla",
+      "competition",
+      "tax",
+      "demand",
+      "loses"
+    ]
+  },
+  {
+    "source": "SB Nation [NewsAPI]",
+    "url": "https://www.sbnation.com/college-football/1098054/ole-miss-pete-golding-cfp-deserves-all-the-credit-after-lane-kiffins-chaos",
+    "title": "Ole Miss head coach Pete Golding deserves all the credit after Lane Kiffin’s chaos",
+    "fetched_on": "2026-01-03T21:20:08.771096+00:00",
+    "content": "The incredible Ole Miss Rebels season continued in thrilling fashion on Friday, as they mounted a fourth-quarter comeback to stun the Georgia Bulldogs 39-34 in the Sugar Bowl on New Years Day. That w… [+5779 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Miss",
+      "Ole",
+      "Friday",
+      "Day",
+      "Pete",
+      "Golding",
+      "Lane",
+      "Kiffin",
+      "Rebels",
+      "Georgia"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2026/01/02/who-is-morgan-evans-singer/",
+    "title": "Who Is Morgan Evans? 5 Things to Know About Kelsea Ballerini’s Ex-Husband",
+    "fetched_on": "2026-01-03T21:20:08.771096+00:00",
+    "content": "View galleryImage Credit: Kevin Mazur/Getty Images for CMA\r\nMorgan Evans is in a new chapter. After spending much of the past few years reflecting on his divorce from Kelsea Ballerini, the Australian… [+4175 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Evans",
+      "Kelsea",
+      "Ballerini",
+      "Things",
+      "Credit",
+      "Kevin",
+      "Mazur",
+      "Getty",
+      "Australian"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/articles/rose-bowl-mvps-credit-indianas-205054345.html",
+    "title": "Rose Bowl MVPs credit Indiana's focus as key to win over Alabama",
+    "fetched_on": "2026-01-03T21:20:08.771096+00:00",
+    "content": "The Offensive Most Valuable Player of the Rose Bowl game easily could have gone to Heisman Trophy winner Fernando Mendoza. The Indiana quarterback finished the game with more touchdown passes than in… [+3881 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bowl",
+      "Rose",
+      "Mendoza",
+      "Alabama",
+      "Offensive",
+      "Valuable",
+      "Player",
+      "Heisman",
+      "Trophy",
+      "Fernando"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/ai-debt-spree-fueling-credit-200000375.html",
+    "title": "AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly",
+    "fetched_on": "2026-01-03T21:20:26.631544+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Frenzy",
+      "Weekly",
+      "Credit",
+      "Debt",
+      "Spree",
+      "Fueling",
+      "Trading"
+    ]
   }
 ]
