@@ -6921,5 +6921,65 @@
       "Favor",
       "LendingClub"
     ]
+  },
+  {
+    "source": "FOX 4 News [NewsAPI]",
+    "url": "https://www.fox4news.com/news/north-texas-doctor-explains-effects-aca-tax-credits-expiring",
+    "title": "North Texas doctor explains effects of ACA tax credits expiring",
+    "fetched_on": "2026-01-03T23:21:30.110958+00:00",
+    "content": "DALLAS - The new year brought an end to tax credit subsidies that helped more than 24 million people pay for health care coverage.\r\nThe big benefit that made Affordable Care Act insurance premiums mo… [+3324 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DALLAS",
+      "Texas",
+      "ACA",
+      "tax",
+      "North",
+      "million",
+      "coverage",
+      "care",
+      "chars",
+      "credits"
+    ]
+  },
+  {
+    "source": "Android Headlines [NewsAPI]",
+    "url": "https://www.androidheadlines.com/2026/01/apples-a20-chip-could-be-quite-expensive-at-280-per-unit.html",
+    "title": "Apple's A20 Chip Could be Quite Expensive at $280 Per Unit",
+    "fetched_on": "2026-01-03T23:21:30.110958+00:00",
+    "content": "The smartphone industry may see a major shift this year in terms of pricing. The majority of the credit goes to the DRAM, and then comes the chip costs. The year 2026 will see a breakthrough into the… [+2232 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Expensive",
+      "Unit",
+      "Chip",
+      "Apple",
+      "pricing",
+      "smartphone",
+      "industry",
+      "major",
+      "shift",
+      "terms"
+    ]
+  },
+  {
+    "source": "Memeorandum.com [NewsAPI]",
+    "url": "https://www.memeorandum.com/260102/p53",
+    "title": "Tesla sales hit lowest point since 2022 after Musk backlash and end of tax credit (Nathan Bomey/Axios)",
+    "fetched_on": "2026-01-03T23:21:30.110958+00:00",
+    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Axios",
+      "Nathan",
+      "Bomey",
+      "Musk",
+      "Tesla",
+      "credit",
+      "memeorandum",
+      "chars",
+      "Mediagazer",
+      "sales"
+    ]
   }
 ]
