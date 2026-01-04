@@ -8068,5 +8068,85 @@
       "Tax",
       "Credits"
     ]
+  },
+  {
+    "source": "TVLine [NewsAPI]",
+    "url": "https://www.tvline.com/2059044/scrubs-episode-directed-friends-star-matthew-perry/",
+    "title": "The Scrubs Episode Directed By Friends Star Matthew Perry",
+    "fetched_on": "2026-01-04T18:31:50.558626+00:00",
+    "content": "The late Matthew Perry directed a single episode of \"Scrubs,\" marking his only directing credit across film and television.\r\nThe episode, Season 4's \"My Unicorn,\" aired in November 2004 and featured … [+1184 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Matthew",
+      "Perry",
+      "Scrubs",
+      "Directed",
+      "Friends",
+      "Star",
+      "Episode",
+      "marking",
+      "television",
+      "Season"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/01/disney-world-evacuation-news-2026-emd1/",
+    "title": "Large-Scale Evacuation at Disney World: Possible Dangerous Situation Reported",
+    "fetched_on": "2026-01-04T18:31:50.558626+00:00",
+    "content": "A Disney World Resort hotel was immediately evacuated on the evening of January 2, 2026, following the news of a possible dangerous situation.\r\nCredit: Disney\r\nDisney World News: Massive Evacuation T… [+5037 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "Dangerous",
+      "World",
+      "Situation",
+      "January",
+      "Reported",
+      "Resort",
+      "Evacuation",
+      "Large-Scale",
+      "hotel"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/sawai-capital-plans-to-allocate-rs-1250-cr-in-fy26/articleshow/126326122.cms",
+    "title": "Sawai Capital plans to allocate Rs 1,250 cr in FY26",
+    "fetched_on": "2026-01-04T18:31:50.558626+00:00",
+    "content": "NEW DELHI: Sawai Capital, the firm providing access to structured alternative investments across private credit and real estate, has deployed ?750 crore in the first nine months of FY2025-26 and plan… [+2493 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sawai",
+      "Capital",
+      "chars",
+      "DELHI",
+      "estate",
+      "deployed",
+      "crore",
+      "allocate",
+      "firm",
+      "providing"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/student-loan-borrowers-enough-payments-172601048.html",
+    "title": "Student-loan borrowers who make enough payments could get debt relief — and a big tax bill this year",
+    "fetched_on": "2026-01-04T18:32:18.082866+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Student-loan",
+      "relief",
+      "year",
+      "borrowers",
+      "make",
+      "payments",
+      "debt",
+      "big",
+      "tax",
+      "bill"
+    ]
   }
 ]
