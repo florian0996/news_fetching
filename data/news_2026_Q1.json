@@ -7339,5 +7339,45 @@
       "Volume",
       "Penny"
     ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/dietitian-target-healthy-grocery-options-faves-foods-ingredients-snacks-2026-1",
+    "title": "Target doesn't get enough credit for its healthy grocery options. These are my dietitian-approved picks from the store.",
+    "fetched_on": "2026-01-04T10:22:24.954498+00:00",
+    "content": "The author, a dietitian and mother of two young kids, said that Target should get more credit for its healthy grocery options.Delpixart/Getty Images\r\n<ul><li>I'm a dietitian and mom of two little kid… [+5199 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "options",
+      "healthy",
+      "Target",
+      "credit",
+      "grocery",
+      "dietitian",
+      "Getty",
+      "Images",
+      "chars",
+      "store"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/03/3212335/0/en/Mutuum-Finance-MUTM-Advances-Through-Roadmap-Phase-2-With-Halborn-Audit-Now-Complete.html",
+    "title": "Mutuum Finance (MUTM) Advances Through Roadmap Phase 2 With Halborn Audit Now Complete",
+    "fetched_on": "2026-01-04T10:22:24.954498+00:00",
+    "content": "DUBAI, United Arab Emirates, Jan. 03, 2026 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n, a new crypto project focused on decentralized lending and borrowing, has reported progress across its roadmap a… [+5252 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Mutuum",
+      "Jan.",
+      "chars",
+      "Advances",
+      "Phase",
+      "DUBAI",
+      "United",
+      "Emirates"
+    ]
   }
 ]
