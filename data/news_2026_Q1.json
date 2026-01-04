@@ -7121,5 +7121,65 @@
       "raises",
       "loans"
     ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/companies/tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sales-slip/2LFUXFXBHVEPTEVAKX4WAL6RKA/",
+    "title": "Tesla loses EV crown to China’s BYD in 2025 as sales slip",
+    "fetched_on": "2026-01-04T04:11:08.724917+00:00",
+    "content": "The pullback comes after the elimination of a US$7500 ($13,000) tax credit in the US at the end of September 2025, with industry watchers noting it will take time for EV demand to rebalance.\r\nBut eve… [+1951 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "September",
+      "China",
+      "BYD",
+      "Tesla",
+      "tax",
+      "rebalance",
+      "loses",
+      "crown",
+      "sales",
+      "slip"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/craig-geoghan-talks-about-starring-in-make-or-break-holiday-on-hallmark/article",
+    "title": "Craig Geoghan talks about starring in ‘Make or Break Holiday’ on Hallmark",
+    "fetched_on": "2026-01-04T04:11:08.724917+00:00",
+    "content": "Craig Geoghan. Photo Credit: Peter Konerko.\r\nActor Craig Geoghan chatted about starring in “Make or Break Holiday” on Hallmark, where he played Reid, the brother of Hunter King’s character Liv.\r\nThe … [+4332 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Make",
+      "Geoghan",
+      "Holiday’",
+      "Craig",
+      "Break",
+      "Hallmark",
+      "starring",
+      "Credit",
+      "Peter",
+      "Konerko"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/779ae2fae359e9e9",
+    "title": "The Genius Whose Simple Invention Saved Us From Shame at the Gas Station",
+    "fetched_on": "2026-01-04T04:11:08.724917+00:00",
+    "content": "On a rainy day in Detroit, a Ford engineer got confused, then soakedand inspired. It took decades before he got any credit.\r\nThis story appeared on wsj.com, 2026-01-03 02:00:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Detroit",
+      "Genius",
+      "Simple",
+      "Invention",
+      "Saved",
+      "Shame",
+      "Gas",
+      "Station",
+      "Ford",
+      "confused"
+    ]
   }
 ]
