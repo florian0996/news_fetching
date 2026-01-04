@@ -8148,5 +8148,25 @@
       "tax",
       "bill"
     ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/politics/numerous-house-democrats-praise-trumps-capture-of-maduro-venezuelans-deserve-the-promise-of-democracy/",
+    "title": "Numerous House Democrats Praise Trump’s Capture of Maduro: ‘Venezuelans Deserve the Promise of Democracy’",
+    "fetched_on": "2026-01-04T19:17:25.427090+00:00",
+    "content": "(Photo Credit: Tom Williams)\r\nSeveral Democratic politicians celebrated the Trump Administration’s capture of Venezuelan dictator Nicolás Maduro on Saturday, saying it has paved the way for democracy… [+2558 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capture",
+      "Trump",
+      "Maduro",
+      "Democracy’",
+      "Photo",
+      "Credit",
+      "Tom",
+      "Williams",
+      "Saturday",
+      "chars"
+    ]
   }
 ]
