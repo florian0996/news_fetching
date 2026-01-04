@@ -1,6 +1,17 @@
 {
-  "2026-01-03": {
+  "2026-01-04": {
     "status": "no company in the news"
+  },
+  "2026-01-03": {
+    "articles": [
+      {
+        "title": "Here is Why Hedge Funds Favor LendingClub (LC)",
+        "url": "https://finance.yahoo.com/news/why-hedge-funds-favor-lendingclub-060218678.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2026-01-02": {
     "articles": [
