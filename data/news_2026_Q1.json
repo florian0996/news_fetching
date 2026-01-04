@@ -8325,5 +8325,80 @@
       "auto",
       "loans"
     ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/politics/why-the-fck-is-x-on-the-big-screen-the-internet-reacts-to-x-being-pulled-up-in-mar-a-lago-war-room-during-maduro-capture/",
+    "title": "‘Why the F*ck Is X on the Big Screen?’: The Internet Reacts to X Being Pulled Up in Mar-a-Lago War Room During Maduro Capture",
+    "fetched_on": "2026-01-04T22:21:50.509179+00:00",
+    "content": "(Photo Credit: @realDonaldTrump on Truth Social)\r\nPresident Donald Trump posted pictures of his braintrust orchestrating the capture of Venezuelan dictator Nicolás Maduro inside a Mar-a-Lago war room… [+2260 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "War",
+      "Maduro",
+      "Room",
+      "Screen",
+      "Photo",
+      "Credit",
+      "Social",
+      "President",
+      "Capture",
+      "chars"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/?p=809707&preview=true&preview_id=809707",
+    "title": "Thousands Lose Disney World Ticket Upgrades in Sudden Policy Shift",
+    "fetched_on": "2026-01-04T22:21:50.509179+00:00",
+    "content": "Disney World add-ons and ticket options are being removed in 2026 for thousands of guests looking to vacation at the theme parks in Orlando this year.\r\nCredit: Disney\r\nDisney World Ticket Options, Ad… [+3689 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Disney",
+      "Ticket",
+      "Lose",
+      "Upgrades",
+      "Sudden",
+      "Policy",
+      "Shift",
+      "Orlando",
+      "options"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/saks-in-talks-for-1-billion-loan-to-keep-doors-open-bloomberg-new-reports-4428624",
+    "title": "Saks in talks for $1 billion loan to keep doors open, Bloomberg New reports",
+    "fetched_on": "2026-01-04T22:22:02.264958+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Saks",
+      "billion",
+      "open",
+      "reports",
+      "talks",
+      "loan",
+      "doors"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/saks-talks-1-billion-bankruptcy-205226351.html",
+    "title": "Saks in Talks for $1 Billion Bankruptcy Loan to Keep Doors Open",
+    "fetched_on": "2026-01-04T22:22:12.990583+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Open",
+      "Talks",
+      "Bankruptcy",
+      "Loan",
+      "Doors",
+      "Saks"
+    ]
   }
 ]
