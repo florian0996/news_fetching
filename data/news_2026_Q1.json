@@ -7263,5 +7263,25 @@
       "set",
       "increased"
     ]
+  },
+  {
+    "source": "KITV Honolulu [NewsAPI]",
+    "url": "https://www.kitv.com/news/health-care-cost-increase/article_7acca5d9-90bc-433f-b97a-f1505ef0185f.html",
+    "title": "Health care cost increase",
+    "fetched_on": "2026-01-04T07:23:09.638934+00:00",
+    "content": "HONOLULU (Island News) -- This is a big deal. This is the real world of political dysfunction, hitting real people in their real lives. That's what the stakes are in getting the premium tax credit ex… [+2906 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HONOLULU",
+      "Island",
+      "Health",
+      "deal",
+      "real",
+      "care",
+      "cost",
+      "increase",
+      "big",
+      "chars"
+    ]
   }
 ]
