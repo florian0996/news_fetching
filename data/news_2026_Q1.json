@@ -7303,5 +7303,41 @@
       "Bodega",
       "Ines"
     ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/t1-energy-te-soars-17-073512018.html",
+    "title": "T1 Energy (TE) Soars 17% on Tax Credit Compliance Efforts",
+    "fetched_on": "2026-01-04T09:22:09.992645+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Energy",
+      "Soars",
+      "Efforts",
+      "Tax",
+      "Credit",
+      "Compliance"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/p-global-ratings-reaffirms-bb-073102432.html",
+    "title": "S&P Global Ratings Reaffirms BB+ Rating on Coty Inc (COTY)",
+    "fetched_on": "2026-01-04T09:21:52.845686+00:00",
+    "content": "Coty Inc. (NYSE:COTY) is one of the Best High Volume Penny Stocks to Buy. On December 23, S&amp;P Global Ratings reaffirmed a BB+ issuer credit rating on Coty Inc. (NYSE:COTY). This comes as the comp… [+2070 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coty",
+      "Reaffirms",
+      "NYSE",
+      "Global",
+      "Ratings",
+      "Rating",
+      "Buy",
+      "High",
+      "Volume",
+      "Penny"
+    ]
   }
 ]
