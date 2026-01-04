@@ -6981,5 +6981,145 @@
       "Mediagazer",
       "sales"
     ]
+  },
+  {
+    "source": "RNZ [NewsAPI]",
+    "url": "https://www.rnz.co.nz/news/business/583104/tesla-loses-ev-crown-to-china-s-byd-as-competition-tax-credit-expiry-hit-demand",
+    "title": "Tesla loses EV crown to China's BYD as competition, tax credit expiry hit demand",
+    "fetched_on": "2026-01-04T02:02:16.221011+00:00",
+    "content": "By Akash Sriram, Reuters\r\nBYD has outsold Tesla for the first time on an annual basis. Photo: Jakub Porzycki/NurPhoto/Getty Images via CNN Newsource\r\n<ul><li>Tesla's annual sales decline for second c… [+3555 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BYD",
+      "Sriram",
+      "Reuters",
+      "China",
+      "Akash",
+      "Tesla",
+      "competition",
+      "tax",
+      "basis",
+      "annual"
+    ]
+  },
+  {
+    "source": "Buzzfeed [NewsAPI]",
+    "url": "https://www.buzzfeed.com/samanthawieder/elevate-aesthetic-without-elevating-credit-card-bill",
+    "title": "27 Products That’ll Elevate Your Aesthetic Without Elevating Your Credit Card Bill *Too Much*",
+    "fetched_on": "2026-01-04T02:02:16.221011+00:00",
+    "content": "BuzzFeed Shopping is service journalism first: our writers and editors spend all day shopping so you dont have to, vetting products, fact-checking brand claims, and surfacing what actually helps in r… [+766 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Bill",
+      "Products",
+      "Shopping",
+      "Elevate",
+      "Aesthetic",
+      "Elevating",
+      "Credit",
+      "Card",
+      "BuzzFeed"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/64cd267421de3b19",
+    "title": "3 credit card and travel deals that feel too good to last",
+    "fetched_on": "2026-01-04T02:02:16.221011+00:00",
+    "content": "With travel credit cards and loyalty programs, nothing lasts forever.Welcome bonuses, benefits and rules are in constant flux. The best deals can last for years or be erased in a matter of weeks.With… [+148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "travel",
+      "programs",
+      "bonuses",
+      "benefits",
+      "flux",
+      "card",
+      "cards",
+      "deals",
+      "feel"
+    ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/agric-credit-rises-to-n3-24tn/",
+    "title": "Agric credit rises to N3.24tn",
+    "fetched_on": "2026-01-04T02:02:16.221011+00:00",
+    "content": "Credit to the agriculture sector maintained its long-term upward trajectory in 2025, reflecting sustained banking support for the sector despite mild short-term fluctuations.\r\nData from the Central B… [+2109 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "sector",
+      "Agric",
+      "reflecting",
+      "fluctuations",
+      "rises",
+      "agriculture",
+      "maintained",
+      "long-term",
+      "upward"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/banks-want-deposits-but-end-up-giving-more-loans-cd-slr-11767350221855.html",
+    "title": "Banks want deposits but end up giving more loans",
+    "fetched_on": "2026-01-04T02:02:16.221011+00:00",
+    "content": "This has sent the systems incremental credit-deposit (CD) ratiowhich tracks fresh loans and deposits during the yearsoaring to 102% in 2025 from 79% a year earlier. A CD ratio above 100% implies that… [+3872 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banks",
+      "credit-deposit",
+      "ratiowhich",
+      "earlier",
+      "deposits",
+      "loans",
+      "chars",
+      "end",
+      "giving",
+      "systems"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/msme-exporters-get-rs-7300-crore-credit-lifeline/articleshow/126315566.cms",
+    "title": "MSME exporters get Rs 7,300 crore credit lifeline",
+    "fetched_on": "2026-01-04T02:02:16.221011+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MSME",
+      "EMI",
+      "crore",
+      "loan",
+      "exporters",
+      "credit",
+      "lifeline",
+      "CalculatorDetermine",
+      "monthly",
+      "installment"
+    ]
+  },
+  {
+    "source": "SiliconANGLE News [NewsAPI]",
+    "url": "https://siliconangle.com/2026/01/02/banking-software-startup-knight-fintech-raises-23-6m-round-led-accel/",
+    "title": "Banking software startup Knight Fintech raises $23.6M round led by Accel",
+    "fetched_on": "2026-01-04T02:02:16.221011+00:00",
+    "content": "Knight Fintech Pvt Ltd, a Mumbai-based startup that helps banks issue loans, has closed a $23.6 million funding round.\r\nThe Economic Times reported late Thursday that Accel led the investment. It was… [+3772 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Knight",
+      "Fintech",
+      "Pvt",
+      "Mumbai-based",
+      "Accel",
+      "startup",
+      "round",
+      "Banking",
+      "raises",
+      "loans"
+    ]
   }
 ]
