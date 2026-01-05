@@ -8781,5 +8781,82 @@
       "lending",
       "ties"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-05/ubs-offers-first-at1-since-credit-suisse-ruling-capital-plans",
+    "title": "UBS Offers First AT1 Since Credit Suisse Ruling, Capital Plans",
+    "fetched_on": "2026-01-05T11:21:15.149216+00:00",
+    "content": "UBS Group AG is selling Additional Tier 1 debt for the first time since Swiss lawmakers floated changes that could expand its use to meet capital requirements, and as courts weigh the legality of the Credit Suisse AT1 writedown.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Suisse",
+      "UBS",
+      "Ruling",
+      "Tier",
+      "writedown",
+      "Capital",
+      "Offers",
+      "Plans",
+      "Group"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/04/3212373/0/en/New-Crypto-Mutuum-Finance-MUTM-Nears-Roadmap-Phase-2-Completion-Following-Halborn-Audit.html",
+    "title": "New Crypto Mutuum Finance (MUTM) Nears Roadmap Phase 2 Completion Following Halborn Audit",
+    "fetched_on": "2026-01-05T11:21:14.124858+00:00",
+    "content": "DUBAI, United Arab Emirates, Jan. 04, 2026 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n, a decentralized finance project developing a non-custodial lending and borrowing protocol, has reported progres… [+3610 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Jan.",
+      "Finance",
+      "Mutuum",
+      "Phase",
+      "Completion",
+      "DUBAI",
+      "United",
+      "Emirates",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-monday-january-5-2026-110027780.html",
+    "title": "HELOC and home equity loan rates Monday, January 5, 2026: Both options feature lower rates",
+    "fetched_on": "2026-01-05T11:21:44.354724+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "HELOC",
+      "Monday",
+      "rates",
+      "home",
+      "equity",
+      "loan",
+      "options",
+      "feature",
+      "lower"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/saks-global-seeks-1bn-loan-104132919.html",
+    "title": "Saks Global seeks $1bn loan as CEO role changes hands",
+    "fetched_on": "2026-01-05T11:21:44.354935+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Global",
+      "CEO",
+      "Saks",
+      "seeks",
+      "loan",
+      "hands",
+      "role"
+    ]
   }
 ]
