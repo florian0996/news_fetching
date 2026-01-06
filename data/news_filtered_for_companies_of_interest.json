@@ -1,4 +1,19 @@
 {
+  "2026-01-06": {
+    "status": "no company in the news"
+  },
+  "2026-01-05": {
+    "articles": [
+      {
+        "title": "FW: 2026: What’s in store?",
+        "url": null,
+        "platforms_mentioned": [
+          "CG24",
+          "CRX"
+        ]
+      }
+    ]
+  },
   "2026-01-04": {
     "status": "no company in the news"
   },
