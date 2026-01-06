@@ -10212,5 +10212,85 @@
       "facility",
       "eco"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/news/world/us-operation-in-venezuela-kills-32-cuban-officers-havana-confirms/article70472843.ece",
+    "title": "US operation in Venezuela kills 32 Cuban officers, Havana confirms",
+    "fetched_on": "2026-01-06T03:40:35.234902+00:00",
+    "content": "The city, after the U.S. launched a strike on Venezuela, capturing its President Nicolas Maduro and his wife Cilia Flores, in Caracas, Venezuela, January 4, 2026. \r\n| Photo Credit:\r\nREUTERS/Maxwell B… [+1193 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Venezuela",
+      "January",
+      "Cuban",
+      "Havana",
+      "Flores",
+      "Caracas",
+      "President",
+      "Nicolas",
+      "Maduro",
+      "Cilia"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-in-focus-after-q3-update-signals-steady-momentum-as-customer-base-aum-climb/articleshow/126343925.cms",
+    "title": "Bajaj Finance shares in focus after Q3 update signals steady momentum as customer base, AUM climb",
+    "fetched_on": "2026-01-06T03:40:35.234902+00:00",
+    "content": "Shares of Bajaj Finance are likely to be in focus on Monday, after the lenders latest business update pointed to sustained growth in customers, loan disbursements and assets under management, keeping… [+2021 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "Bajaj",
+      "AUM",
+      "Monday",
+      "keeping",
+      "chars",
+      "shares",
+      "focus",
+      "update",
+      "base"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/articles/patriots-players-heap-praise-mike-032658775.html",
+    "title": "Patriots Players Heap Praise On Mike Vrabel After Superb Regular Season",
+    "fetched_on": "2026-01-06T03:40:35.234902+00:00",
+    "content": "New England Patriots head coach Mike Vrabel isnt one to take credit\r\nVrabel likes to deflect, which is what he has done throughout a remarkable first season at the helm at One Patriot Place often sha… [+1039 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vrabel",
+      "Mike",
+      "chars",
+      "Season",
+      "Patriots",
+      "Players",
+      "Heap",
+      "Praise",
+      "Superb",
+      "Regular"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/education/news/bank-of-india-recruitment-2025-registration-window-closes-today-for-514-credit-officer-posts-direct-link-to-apply-here/articleshow/126343580.cms",
+    "title": "Bank of India recruitment 2025: Registration window closes today for 514 Credit Officer posts; direct link to apply here",
+    "fetched_on": "2026-01-06T03:40:35.234902+00:00",
+    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Bank of India recruitment 2025: Registration window closes today for 514 Credit Officer posts; direct link to apply here</li></ul>\r\nFoll… [+1791 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Registration",
+      "Credit",
+      "India",
+      "Officer",
+      "Bank",
+      "recruitment",
+      "posts",
+      "direct",
+      "window",
+      "closes"
+    ]
   }
 ]
