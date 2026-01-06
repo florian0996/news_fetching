@@ -10514,5 +10514,105 @@
       "Photos",
       "images"
     ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2026-01-05/engie-energy-makes-mistake-sends-debt-collectors-after-pensioner/106132388",
+    "title": "Energy company sent debt collectors after pensioner for their billing mistake",
+    "fetched_on": "2026-01-06T07:27:39.664260+00:00",
+    "content": "Pensioner Bill Nedeff was stunned when he received a letter from energy giant ENGIE telling him he had been overcharged $10,763.\r\nWhat made the large credit even more surprising was that the 85-year-… [+7977 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "pensioner",
+      "Bill",
+      "Nedeff",
+      "ENGIE",
+      "overcharged",
+      "Energy",
+      "chars",
+      "company",
+      "debt",
+      "collectors"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/05/3212450/0/en/CREDIT-AGRICOLE-S-A-ANNOUNCES-REDEMPTION-OF-USD-1-500-000-000-Senior-Non-Preferred-Callable-Fixed-to-Floating-Rate-Notes-issued-on-January-26-2021-ISIN-Rule-144A-US22535WAH07-and-R.html",
+    "title": "CREDIT AGRICOLE S.A. ANNOUNCES REDEMPTION OF USD 1,500,000,000 Senior Non-Preferred Callable Fixed-to-Floating Rate Notes issued on January 26, 2021 (ISIN: Rule 144A: US22535WAH07 and Regulation S: US22536PAH47)",
+    "fetched_on": "2026-01-06T07:27:39.664260+00:00",
+    "content": "Montrouge, January 5, 2026\r\nCREDIT AGRICOLE S.A. ANNOUNCES REDEMPTION OF\r\nUSD 1,500,000,000 Senior Non-Preferred Callable Fixed-to-Floating Rate Notes issued on January 26, 2021 (ISIN: Rule 144A: US2… [+3708 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CREDIT",
+      "January",
+      "ISIN",
+      "Rule",
+      "AGRICOLE",
+      "ANNOUNCES",
+      "USD",
+      "Senior",
+      "Callable",
+      "Rate"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-lenders-loan-growth-picks-up-pace-in-december-quarter/articleshow/126347097.cms",
+    "title": "Indian lenders' loan growth picks up pace in December quarter",
+    "fetched_on": "2026-01-06T07:27:39.664260+00:00",
+    "content": "Indian lenders such as HDFC Bank and Bank of Baroda logged improved loan growth in the December quarter, data showed, signalling a rebound in demand for credit in the world's fastest-growing major ec… [+2056 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "December",
+      "Bank",
+      "Indian",
+      "chars",
+      "loan",
+      "growth",
+      "quarter",
+      "HDFC",
+      "Baroda",
+      "data"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/brainstorm/2026/0105/1492025-income-tax-guide-revenue-myaccount-credits-claims-expenses/",
+    "title": "How to take control of your taxes in 2026",
+    "fetched_on": "2026-01-06T07:27:39.664260+00:00",
+    "content": "Analysis: The first place to go if you're claiming tax credits, filing a return or simply checking your tax position is Revenue's own website\r\nIn a world where tax compliance often feels daunting, Re… [+6706 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Analysis",
+      "chars",
+      "Revenue",
+      "tax",
+      "credits",
+      "filing",
+      "daunting",
+      "control",
+      "taxes",
+      "place"
+    ]
+  },
+  {
+    "source": "Digitimes [NewsAPI]",
+    "url": "https://www.digitimes.com/news/a20260104PD200/g-tech-security-defense-supply-chain.html",
+    "title": "GTOC signs 5-year US defense deal for aerospace glass conformal antennas",
+    "fetched_on": "2026-01-06T07:27:39.664260+00:00",
+    "content": "GTOC chairman Tony Chung. Credit: DIGITIMESG-Tech Optoelectronics (GTOC), a glass processing subsidiary of Hon Hai Precision Industry (Foxconn), announced it has signed a five-year framework agreemen… [+97 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chung",
+      "GTOC",
+      "Tony",
+      "signs",
+      "Foxconn",
+      "glass",
+      "defense",
+      "deal",
+      "aerospace",
+      "conformal"
+    ]
   }
 ]
