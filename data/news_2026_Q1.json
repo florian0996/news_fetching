@@ -10754,5 +10754,125 @@
       "Cheap",
       "Proxy"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-06/china-vanke-fallout-seen-as-smaller-builder-talks-state-support",
+    "title": "China Vanke Crisis Prompts Smaller Builder to Reassure Creditors",
+    "fetched_on": "2026-01-06T09:28:47.593850+00:00",
+    "content": "Ripples from the crisis at Chinese developer China Vanke Co. are reaching all the way to builders fully owned by the state.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vanke",
+      "China",
+      "Crisis",
+      "Prompts",
+      "Smaller",
+      "Reassure",
+      "Creditors",
+      "Ripples",
+      "Chinese",
+      "state"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/138f90f44128e3cd",
+    "title": "US to Drive Stocks in 2026 With 10%-Plus Gain: Morgan Stanley",
+    "fetched_on": "2026-01-06T09:28:46.742009+00:00",
+    "content": "Andrew Sheets, global head of corporate credit research at Morgan Stanley, says he expects US stocks to outperform the rest of the world in 2026. \"Our forward earnings growth indicators are very stro… [+152 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Stanley",
+      "Gain",
+      "Sheets",
+      "Stocks",
+      "Drive",
+      "Andrew",
+      "global",
+      "chars",
+      "head"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/mylapay-raises-1-million-from-cdm-capital-credit-saison/article70473452.ece",
+    "title": "Mylapay raises $1 million from CDM Capital, Credit Saison",
+    "fetched_on": "2026-01-06T09:28:46.742009+00:00",
+    "content": "Mylapay, a Chennai-based fintech that develops payment infrastructure has raised $1 million as part of a capital round, ahead of its upcoming Series A funding.\r\nThe round saw continued participation … [+1110 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "million",
+      "Mylapay",
+      "Capital",
+      "CDM",
+      "Saison",
+      "Chennai-based",
+      "Series",
+      "raises",
+      "raised"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/hdfc-amc-enters-private-credit-market-launches-rs-2500-crore-fund/articleshow/126349289.cms",
+    "title": "HDFC AMC enters private credit market; launches Rs 2,500-crore fund",
+    "fetched_on": "2026-01-06T09:28:46.742009+00:00",
+    "content": "New Delhi, HDFC Asset Management Company has forayed into the fast-growing private credit market with its new Structured Credit Fund-I, targeting mid-market companies with alternative debt financing.… [+1137 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "credit",
+      "Delhi",
+      "chars",
+      "private",
+      "market",
+      "AMC",
+      "Asset",
+      "Management",
+      "Company"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/payment-methods/2026/credit-card-installment-use-rises-46percent-since-spring-2025/",
+    "title": "Credit Card Installment Use Rises 46% Since Spring 2025",
+    "fetched_on": "2026-01-06T09:28:46.742009+00:00",
+    "content": "Pay Later has stopped being a seasonal convenience and started to look like a standing line item in how many households manage money.That is the broader takeaway from PYMNTS Intelligences Pay Later E… [+3668 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pay",
+      "chars",
+      "Rises",
+      "Spring",
+      "Card",
+      "Installment",
+      "PYMNTS",
+      "Intelligences",
+      "Credit",
+      "stopped"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/hdfc-amc-enters-private-credit-market-launches-2500-crore-fund/article70473442.ece",
+    "title": "HDFC AMC enters private credit market; launches ₹2,500 crore fund",
+    "fetched_on": "2026-01-06T09:28:46.742009+00:00",
+    "content": "HDFC Asset Management Company has forayed into the fast-growing private credit market with its new Structured Credit Fund-I, targeting mid-market companies with alternative debt financing.\r\n The Inte… [+1156 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "HDFC",
+      "launches",
+      "AMC",
+      "Asset",
+      "Management",
+      "Company",
+      "Structured",
+      "private",
+      "market"
+    ]
   }
 ]
