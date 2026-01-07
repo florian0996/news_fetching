@@ -14425,5 +14425,85 @@
       "UBS",
       "Banker"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c822fd0c-a20e-4206-af44-36ca1b86090c",
+    "title": "\"Credit to them,\" Thunder head coach Mark …",
+    "fetched_on": "2026-01-07T11:22:12.910994+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Credit",
+      "Thunder",
+      "Mark",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/21383d04e7da57af",
+    "title": "HELOC and home equity loan rates today, January 6, 2026: Holding near 7.5%",
+    "fetched_on": "2026-01-07T11:22:12.910994+00:00",
+    "content": "Rates for home equity lines of credit and home equity loans are holding firm near 7.5%. Homeowners with record amounts of home equity can tap that value at some of the best rates in three years.HELOC… [+149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "HELOC",
+      "home",
+      "equity",
+      "Holding",
+      "rates",
+      "today",
+      "loan",
+      "loans",
+      "lines"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/nbcs-night-court-revival-starring-melissa-rauch-finds-new-home-on-netflix/",
+    "title": "NBC’s Night Court Revival Starring Melissa Rauch Finds New Home on Netflix",
+    "fetched_on": "2026-01-07T11:22:12.910994+00:00",
+    "content": "Picture Credit: NBC / Warner Bros. Television\r\nOrder in the court! Netflix US is adding another recent broadcast hit to its licensed library. The complete run of NBCs Night Court revival series is se… [+2521 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Warner",
+      "Bros",
+      "Court",
+      "Starring",
+      "Melissa",
+      "Rauch",
+      "Finds",
+      "Home",
+      "Picture"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-january-7-2025-110034861.html",
+    "title": "HELOC and home equity loan rates today, January 7, 2026: A price break for tapping a home's value",
+    "fetched_on": "2026-01-07T11:22:28.810732+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "HELOC",
+      "today",
+      "home",
+      "equity",
+      "loan",
+      "rates",
+      "price",
+      "break",
+      "tapping"
+    ]
   }
 ]
