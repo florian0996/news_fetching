@@ -14146,5 +14146,45 @@
       "interest",
       "loan"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/q3-credit-growth-signals-economic-pickup-still-prefer-larger-banks-like-axis-kotak-icici-sbi-sandip-sabharwal/articleshow/126369940.cms",
+    "title": "Q3 credit growth signals economic pickup, still prefer larger banks like Axis, Kotak, ICICI, SBI: Sandip Sabharwal",
+    "fetched_on": "2026-01-07T08:34:17.089484+00:00",
+    "content": "Strong credit growth reported by leading banks in the December quarter points to an improving economic cycle, even as select pockets of consumption and retail face near-term challenges, according to … [+3730 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kotak",
+      "ICICI",
+      "SBI",
+      "chars",
+      "Axis",
+      "Sandip",
+      "Sabharwal",
+      "Strong",
+      "December",
+      "credit"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/startups/indias-private-credit-moment-a-quiet-shift-in-global-relative-value/articleshow/126369632.cms",
+    "title": "India’s private credit moment: A quiet shift in global relative value",
+    "fetched_on": "2026-01-07T08:34:17.089484+00:00",
+    "content": "As private credit markets in the US begin to reflect late-cycle dynamics, narrowing spreads, intensifying competition and monetary policy inflection transitioning from rate pause to rate cuts, Indias… [+6100 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "India",
+      "Indias",
+      "private",
+      "credit",
+      "moment",
+      "dynamics",
+      "narrowing",
+      "spreads",
+      "intensifying"
+    ]
   }
 ]
