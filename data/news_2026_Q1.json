@@ -13768,5 +13768,105 @@
       "Turned",
       "UPDATE"
     ]
+  },
+  {
+    "source": "Windows Central [NewsAPI]",
+    "url": "https://www.windowscentral.com/hardware/dell/alienware-ces-2026-annoucements",
+    "title": "From beastly NVIDIA RTX 50-Series desktop to entry-level gaming laptop — here's what Alienware revealed at CES 2026",
+    "fetched_on": "2026-01-07T03:40:54.481226+00:00",
+    "content": "CES 2026 is going strong in Las Vegas this week, where many of the biggest tech companies are announcing their latest products and services.\r\n(Image credit: Windows Central (Edited with Gemini))\r\n• S… [+4786 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CES",
+      "RTX",
+      "NVIDIA",
+      "Alienware",
+      "Las",
+      "Vegas",
+      "desktop",
+      "laptop",
+      "week",
+      "services"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/gabriella-lester-discusses-her-influences-as-a-magician-being-a-part-of-the-digital-age/article",
+    "title": "Gabriella Lester discusses her influences as a magician, being a part of the digital age",
+    "fetched_on": "2026-01-07T03:40:54.481226+00:00",
+    "content": "Gabriella Lester. Photo Credit: LM Captured Photography.\r\nLos Angeles-based magician and illusionist Gabriella Lester opened up about her influences in magic, and being a part of the digital age.\r\nA … [+6427 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lester",
+      "Gabriella",
+      "part",
+      "digital",
+      "influences",
+      "age",
+      "Credit",
+      "Photography",
+      "discusses",
+      "magician"
+    ]
+  },
+  {
+    "source": "Searls.com [NewsAPI]",
+    "url": "https://doc.searls.com/2026/01/05/on-customer-captivity/",
+    "title": "On Customer Captivity",
+    "fetched_on": "2026-01-07T03:40:54.481226+00:00",
+    "content": "Think about all the things that give you global scale online:\r\n<ul><li>The Internet</li><li>The Web</li><li>Email</li><li>RSS</li><li>Cash</li><li>Credit</li></ul>Now think about what traps you:\r\n<ul… [+1093 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Email",
+      "RSS",
+      "Cash",
+      "Credit",
+      "Internet",
+      "Web",
+      "Customer",
+      "Captivity",
+      "chars",
+      "online"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9a3cbcc8d0c64ff0",
+    "title": "5 smart moves to raise your credit score ASAP — and get better loan rates",
+    "fetched_on": "2026-01-07T03:40:54.481226+00:00",
+    "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did oil stocks surge after the Venezuela raid? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Venezuela aff… [+793 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "window.open",
+      "this.href",
+      "blank",
+      "ASAP",
+      "return",
+      "false",
+      "Venezuela",
+      "smart",
+      "rates",
+      "raid"
+    ]
+  },
+  {
+    "source": "Arxiv.org [NewsAPI]",
+    "url": "https://arxiv.org/abs/2601.02636",
+    "title": "Credit Assignment via Neural Manifold Noise Correlation",
+    "fetched_on": "2026-01-07T03:40:54.481226+00:00",
+    "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Assignment",
+      "Neural",
+      "Manifold",
+      "Noise",
+      "Correlation",
+      "Credit",
+      "website",
+      "arXivLabs",
+      "framework",
+      "collaborators"
+    ]
   }
 ]
