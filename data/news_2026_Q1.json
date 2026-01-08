@@ -17600,5 +17600,85 @@
       "post",
       "affiliate"
     ]
+  },
+  {
+    "source": "The Portland Mercury [NewsAPI]",
+    "url": "https://www.portlandmercury.com/i-anonymous/2026/01/07/48238348/paghtemfar-btanay",
+    "title": "Pagh'tem'far, b'tanay",
+    "fetched_on": "2026-01-08T09:30:33.826410+00:00",
+    "content": "All around me, I see people drifting through life like it is endless free credit. Never taking stock of their mistakes, never owning the consequences until it is too late. Unless you act while you ca… [+824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "b'tanay",
+      "credit",
+      "people",
+      "drifting",
+      "life",
+      "endless",
+      "free",
+      "chars",
+      "mistakes",
+      "late"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/07/3214298/28124/en/Global-Alternative-Lending-Forecast-Report-2025-Market-Projected-to-Grow-by-14-4-to-Reach-535-Million-in-2025-Forecast-to-2029.html",
+    "title": "Global Alternative Lending Forecast Report 2025: Market Projected to Grow by 14.4% to Reach $535 Million in 2025 - Forecast to 2029",
+    "fetched_on": "2026-01-08T09:30:33.826410+00:00",
+    "content": "Dublin, Jan. 07, 2026 (GLOBE NEWSWIRE) -- The \"Alternative Lending Market Size &amp; Forecast by Value and Volume Across 100+ KPIs by Type of Lending, End-User Segments, Loan Purpose, Finance Models,… [+5278 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "Dublin",
+      "Jan.",
+      "Forecast",
+      "Alternative",
+      "Market",
+      "Report",
+      "Reach",
+      "Million",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/07/3214297/28124/en/Africa-Alternative-Lending-Market-Forecast-Report-202-2029-BNPL-and-Embedded-Credit-Gain-Momentum-as-Alternative-Data-Institutional-Capital-and-Platform-Integration-Reshape-Credit-.html",
+    "title": "Africa Alternative Lending Market Forecast Report 202-2029: BNPL and Embedded Credit Gain Momentum as Alternative Data, Institutional Capital, and Platform Integration Reshape Credit Access",
+    "fetched_on": "2026-01-08T09:30:33.826410+00:00",
+    "content": "Dublin, Jan. 07, 2026 (GLOBE NEWSWIRE) -- The \"Africa Alternative Lending Market Size &amp; Forecast by Value and Volume Across 100+ KPIs by Type of Lending, End-User Segments, Loan Purpose, Finance … [+11452 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "Alternative",
+      "Africa",
+      "Jan.",
+      "Finance",
+      "Market",
+      "Forecast",
+      "Credit",
+      "BNPL",
+      "Data"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-unions/2026/74-percent-of-credit-union-members-pass-the-loyalty-test/",
+    "title": "74% of Credit Union Members Pass the Loyalty Test",
+    "fetched_on": "2026-01-08T09:30:33.826410+00:00",
+    "content": "Credit unions face a retention challenge that has less to do with age than with architecture.That is the central takeaway from Digital-First Retention Playbook: Winning Gen Z Loyalty at Credit Unions… [+3873 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Loyalty",
+      "unions",
+      "Playbook",
+      "Winning",
+      "chars",
+      "retention",
+      "Members",
+      "Pass",
+      "Test"
+    ]
   }
 ]
