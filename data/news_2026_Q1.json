@@ -17420,5 +17420,85 @@
       "ein",
       "Banken"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-08/kkr-secures-2-5-billion-for-second-asia-private-credit-fund",
+    "title": "KKR Secures $2.5 Billion for Second Asia Private Credit Fund",
+    "fetched_on": "2026-01-08T07:26:25.799295+00:00",
+    "content": "KKR &amp; Co. closed its second Asia-focused credit fund late December, securing $2.5 billion in total investments, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "securing",
+      "Secures",
+      "December",
+      "KKR",
+      "Credit",
+      "Fund",
+      "Asia",
+      "Private",
+      "Asia-focused"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/b5cc9a015751488f",
+    "title": "Trump says US to get 30 million to 50 million barrels of oil from Venezuela at market price",
+    "fetched_on": "2026-01-08T07:26:25.097438+00:00",
+    "content": "Trump pledged to use proceeds from the sale of this oil \"to benefit the people\" of both countries.(Image credit: Evan Vucci)\r\nThis story appeared on npr.org, 2026-01-07 07:07:45.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "million",
+      "Image",
+      "Evan",
+      "Vucci",
+      "Trump",
+      "Venezuela",
+      "oil",
+      "people",
+      "countries.",
+      "credit"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/idfc-first-bank-launches-zero-forex-diamond-reserve-credit-card-for-global-travellers-details-here-11767768820697.html",
+    "title": "IDFC First Bank launches Zero Forex Diamond Reserve Credit Card for global travellers. Details here",
+    "fetched_on": "2026-01-08T07:26:25.097438+00:00",
+    "content": "IDFC FIRST Bank has launched 'Zero-Forex Diamond Reserve Credit Card', a premium travel and lifestyle offering primarily for affluent global travellers with accelerated travel rewards and lifestyle b… [+2463 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reserve",
+      "Credit",
+      "IDFC",
+      "Bank",
+      "Diamond",
+      "Card",
+      "Forex",
+      "global",
+      "travellers",
+      "chars"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/first-wow-black-credit-card-offers-zero-forex-markup-lounge-access-travel-rewards-should-you-apply-11767764665257.html",
+    "title": "FIRST WOW! Black Credit Card offers zero forex markup, lounge access & travel rewards – Should you apply?",
+    "fetched_on": "2026-01-08T07:26:25.097438+00:00",
+    "content": "We are in the midst of the busy travel season. Credit cards with good travel benefits can enhance your travel experience. Keeping a customers travel preferences in mind, IDFC FIRST Bank has launched … [+7817 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WOW",
+      "travel",
+      "Credit",
+      "IDFC",
+      "Card",
+      "cards",
+      "Bank",
+      "Black",
+      "markup",
+      "lounge"
+    ]
   }
 ]
