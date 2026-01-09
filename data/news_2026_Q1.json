@@ -20853,5 +20853,105 @@
       "loans",
       "drop"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-09/rrj-capital-raises-1-1-billion-for-debut-private-credit-fund",
+    "title": "RRJ Capital Raises $1.1 Billion for Debut Private Credit Fund",
+    "fetched_on": "2026-01-09T09:30:37.202171+00:00",
+    "content": "RRJ Capital, a private equity firm founded by a former Goldman Sachs Group Inc. banker, raised $1.1 billion via the first round of financing for its debut private credit fund focusing on investments in Asia Pacific, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RRJ",
+      "Capital",
+      "Raises",
+      "Private",
+      "Billion",
+      "Credit",
+      "Goldman",
+      "Sachs",
+      "Group",
+      "Debut"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/axis-finance-launches-vyapar-business-loan/article70485874.ece",
+    "title": "Axis Finance launches Vyapar business loan",
+    "fetched_on": "2026-01-09T09:30:36.616865+00:00",
+    "content": "Axis Finance Ltd, an NBFC, has announced the launch of Axis Finance Vyapar business loan, a collateral-free credit solution for micro and small businesses (MSMEs) across semi-urban and rural markets … [+739 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finance",
+      "Axis",
+      "Vyapar",
+      "NBFC",
+      "business",
+      "MSMEs",
+      "chars",
+      "loan",
+      "businesses",
+      "markets"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/01/08/the-issue-with-wii-u-gamepads-and-how-to-clone-them/",
+    "title": "The Issue With Wii U Gamepads and How to Clone Them",
+    "fetched_on": "2026-01-09T09:30:36.616865+00:00",
+    "content": "The Wii U running Mario Kart with the Gamepad duplicating the main screen. (Credit: MattKC, YouTube)\r\nHow hard would it be to clone the Wii U gamepad, the quirky controller with its unique embedded s… [+2384 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wii",
+      "Issue",
+      "Mario",
+      "Kart",
+      "Clone",
+      "Gamepad",
+      "screen",
+      "Credit",
+      "running",
+      "duplicating"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/hdfc-bank-cuts-mclr-loan-emis-to-fall-for-borrowers-as-bank-trims-lending-rates/articleshow/126410828.cms",
+    "title": "HDFC Bank Cuts MCLR: Loan EMIs to fall for borrowers as bank trims lending rates",
+    "fetched_on": "2026-01-09T09:30:36.616865+00:00",
+    "content": "Dr Ajai Chowdhry\r\nCo-Founder, HCL, Chairman EPIC Foundation, Author, Just Aspire\r\nWatch Now",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HCL",
+      "Author",
+      "HDFC",
+      "MCLR",
+      "Loan",
+      "Chairman",
+      "Foundation",
+      "Bank",
+      "Cuts",
+      "Ajai"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/agriculture/auri-grow-india-launches-ai-powered-carbon-credit-agritech-platform/articleshow/126410698.cms",
+    "title": "Auri Grow India launches AI-powered carbon credit agritech platform",
+    "fetched_on": "2026-01-09T09:30:36.616865+00:00",
+    "content": "Auri Grow India has launched CarbonKrishi, an AI-enabled platform designed to onboard one lakh farmers and generate an estimated Rs 16-50 crore in annual carbon credits. The platform utilizes AI, sat… [+64 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Grow",
+      "India",
+      "Auri",
+      "carbon",
+      "CarbonKrishi",
+      "platform",
+      "credit",
+      "credits",
+      "launches",
+      "AI-powered"
+    ]
   }
 ]
