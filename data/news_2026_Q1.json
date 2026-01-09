@@ -20720,5 +20720,19 @@
       "issuer",
       "bank"
     ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/cash-credit-card-atm-194309242.html",
+    "title": "How to get cash from a credit card at the ATM",
+    "fetched_on": "2026-01-09T07:27:56.959654+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ATM",
+      "cash",
+      "credit",
+      "card"
+    ]
   }
 ]
