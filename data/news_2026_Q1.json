@@ -23048,5 +23048,65 @@
       "Images",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-09/newsom-seeks-200-million-to-replace-ev-tax-credits-cut-by-trump",
+    "title": "Newsom Seeks $200 Million to Replace EV Tax Credits Cut by Trump",
+    "fetched_on": "2026-01-09T21:23:02.453974+00:00",
+    "content": "California Governor Gavin Newsom is asking for $200 million to restart offering tax rebates for electric vehicles that are purchased in the state, making up for a similar federal program that President Donald Trump ended last year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Trump",
+      "Seeks",
+      "Newsom",
+      "Tax",
+      "Replace",
+      "Credits",
+      "Cut",
+      "California",
+      "Governor"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/9026c3535801938d",
+    "title": "Daily Digest: Tom Brady business to hit S.F., Larry Page's $173M real estate splurge",
+    "fetched_on": "2026-01-09T21:23:01.466659+00:00",
+    "content": "JPMorgan has struck a deal with Goldman Sachs to become the new issuer of the Apple credit card.\r\nThis story appeared on bizjournals.com, 2026-01-08 20:58:21.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Digest",
+      "Tom",
+      "Larry",
+      "Page",
+      "Brady",
+      "Goldman",
+      "Sachs",
+      "Apple",
+      "Daily",
+      "hit"
+    ]
+  },
+  {
+    "source": "International Business Times [NewsAPI]",
+    "url": "https://www.ibtimes.com/how-pennies-income-focused-lending-changing-how-americans-qualify-loans-3794814",
+    "title": "How Pennie's Income-Focused Lending Is Changing How Americans Qualify for Loans",
+    "fetched_on": "2026-01-09T21:23:01.466659+00:00",
+    "content": "For millions of Americans, a credit score has long been the gatekeeper to financial opportunity. One number — shaped by past circumstances that may no longer reflect current reality — determines who … [+3240 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "Pennie",
+      "Lending",
+      "Changing",
+      "Qualify",
+      "Loans",
+      "opportunity",
+      "chars",
+      "Income-Focused",
+      "millions"
+    ]
   }
 ]
