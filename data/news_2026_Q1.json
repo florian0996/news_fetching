@@ -20578,5 +20578,25 @@
       "Studios",
       "chars"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-over-midcaps-in-2026-uti-mfs-amit-premchandani-explains-where-returns-may-come-from/articleshow/126406327.cms",
+    "title": "Largecaps over midcaps in 2026? UTI MF’s Amit Premchandani explains where returns may come from",
+    "fetched_on": "2026-01-09T04:41:52.515089+00:00",
+    "content": "Indian equity markets are likely to remain driven by largecap stocks in the near to medium term, supported by improving credit growth, easing regulatory conditions and stabilising earnings visibility… [+3742 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "UTI",
+      "midcaps",
+      "Amit",
+      "Premchandani",
+      "Indian",
+      "term",
+      "supported",
+      "growth",
+      "easing"
+    ]
   }
 ]
