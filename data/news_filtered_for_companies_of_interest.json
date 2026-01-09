@@ -1,6 +1,17 @@
 {
-  "2026-01-08": {
+  "2026-01-09": {
     "status": "no company in the news"
+  },
+  "2026-01-08": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: MoviePass Is Back With Betting",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-01-07": {
     "articles": [
