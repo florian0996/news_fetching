@@ -20660,5 +20660,65 @@
       "Berlin",
       "Bern"
     ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/tax/credit-card-rewards-can-trigger-income-tax-notice-avoid-these-red-flag-transactions/why-credit-card-spending-is-under-income-tax-scrutiny/slideshow/126408651.cms",
+    "title": "Credit card rewards can trigger income tax notice: Avoid these red-flag transactions",
+    "fetched_on": "2026-01-09T06:37:34.469690+00:00",
+    "content": "Jan 08, 2026, 12:10:49 PM IST\r\nCredit card usage has surged due to rewards, cashback, and milestone perks. When credit card expenses seem too high, circular, or don’t match declared income, they rais… [+3322 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Avoid",
+      "Jan",
+      "cashback",
+      "Credit",
+      "IST",
+      "card",
+      "rewards",
+      "notice",
+      "perks",
+      "income"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/tight-liquidity-deposit-struggle-pushes-sbi-6-000-crore-via-cds-6-11767798867095.html",
+    "title": "Tight liquidity, deposit struggle pushes SBI to raise ₹6,000 cr via CDs at 6%",
+    "fetched_on": "2026-01-09T06:37:34.469690+00:00",
+    "content": "SBIs presence in the CD market has raised eyebrows, traders said, as it signals growing difficulty among banks in raising deposits to fund rising credit demand.\r\nThe funds were raised through CDs mat… [+3351 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tight",
+      "liquidity",
+      "raise",
+      "eyebrows",
+      "traders",
+      "demand",
+      "SBI",
+      "SBIs",
+      "chars",
+      "CDs"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/jpmorgan-to-replace-goldman-as-apple-card-issuer/articleshow/126407671.cms",
+    "title": "JPMorgan to replace Goldman as Apple Card issuer",
+    "fetched_on": "2026-01-09T06:37:34.469690+00:00",
+    "content": "JPMorgan Chase and Apple on Wednesday announced a deal under which the bank will become the new issuer of the Apple Card, replacing Goldman Sachs , further expanding the biggest U.S. bank's credit ca… [+1802 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "Card",
+      "Goldman",
+      "Sachs",
+      "chars",
+      "Chase",
+      "Wednesday",
+      "JPMorgan",
+      "issuer",
+      "bank"
+    ]
   }
 ]
