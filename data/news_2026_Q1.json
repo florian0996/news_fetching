@@ -24674,5 +24674,63 @@
       "Trump",
       "Credit-Card"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/black-mirror-renewed-at-netflix-season-8/",
+    "title": "‘Black Mirror’ Renewed At Netflix Beyond Season 7; But Will It Be A Full Season 8?",
+    "fetched_on": "2026-01-10T16:27:28.413065+00:00",
+    "content": "Picture Credit: Netflix\r\nNetflix has officially confirmed that Black Mirror, the anthology series that has spent over a decade making us wary of our own technology, will return for another season. \r\n… [+3548 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Netflix",
+      "Mirror’",
+      "Renewed",
+      "Full",
+      "Black",
+      "Credit",
+      "Mirror",
+      "chars",
+      "Picture"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/chad-youngs-ottoneu-tiered-mi-rankings-follow-up/",
+    "title": "Chad Young’s Ottoneu Tiered MI Rankings Follow Up",
+    "fetched_on": "2026-01-10T16:27:28.413065+00:00",
+    "content": "Credit: Kevin Jairaj-Imagn Images\r\nMy 4×4 tiered rankings for middle infield came out yesterday, and as promised in my intro article back in December, I am going to follow up each positional ranking … [+13478 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Follow",
+      "Credit",
+      "Kevin",
+      "December",
+      "chars",
+      "Tiered",
+      "Young",
+      "Ottoneu",
+      "Images",
+      "Rankings"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/car-prices-going-buyers-taking-160000249.html",
+    "title": "With car prices going up, buyers are taking out 100-month loans to keep payments down. Why this may not be a good idea",
+    "fetched_on": "2026-01-10T16:27:45.743358+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "buyers",
+      "loans",
+      "car",
+      "prices",
+      "taking",
+      "payments",
+      "idea",
+      "good"
+    ]
   }
 ]
