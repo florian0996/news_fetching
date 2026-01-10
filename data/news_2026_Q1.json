@@ -24239,5 +24239,65 @@
       "KUALA",
       "Sumbangan"
     ]
+  },
+  {
+    "source": "The New Yorker [NewsAPI]",
+    "url": "https://www.newyorker.com/magazine/2026/01/19/magellan-movie-review-the-testament-of-ann-lee",
+    "title": "The Zealous Voyagers of “Magellan” and “The Testament of Ann Lee”",
+    "fetched_on": "2026-01-10T11:18:47.028680+00:00",
+    "content": "Where does such a charge leave Magellan, despoiler of every Eden he encounters? The film, to its credit, does not skimp on paradisiacal visions. Every shot of the tropics is a painterly study in lush… [+5854 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Magellan",
+      "Lee",
+      "Zealous",
+      "Voyagers",
+      "Testament",
+      "Ann",
+      "Eden",
+      "despoiler",
+      "encounters",
+      "charge"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2026/01/09/patriots-wr-kayshon-boutte-credited-for-changing-lives-with-essay-on-gambling-addiction/",
+    "title": "Patriots WR Kayshon Boutte credited for ‘changing lives’ with essay on gambling addiction",
+    "fetched_on": "2026-01-10T11:18:47.028680+00:00",
+    "content": "Set to make his NFL playoff debut on Sunday, Kayshon Boutte has come a long way since he lost it all to sports gambling, as public health leaders credit the Patriots wide receiver for changing lives.… [+6487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kayshon",
+      "Boutte",
+      "chars",
+      "Sunday",
+      "Patriots",
+      "Set",
+      "NFL",
+      "lives.",
+      "changing",
+      "gambling"
+    ]
+  },
+  {
+    "source": "Tom's Hardware UK [NewsAPI]",
+    "url": "https://www.tomshardware.com/tech-industry/hbm4-mass-production-delayed-as-nvidia-pushes-memory-specs-higher",
+    "title": "HBM4 mass production delayed as Nvidia pushes memory specs higher — production to come ‘no earlier’ than late Q126",
+    "fetched_on": "2026-01-10T11:18:47.028680+00:00",
+    "content": "Tom's Hardware Premium Roadmaps\r\n(Image credit: Future)\r\nHBM4 memory is now expected to reach volume production no earlier than the end of Q1 2026, according to a new report from TrendForce. The dela… [+6563 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Tom",
+      "Roadmaps",
+      "Image",
+      "Nvidia",
+      "Hardware",
+      "Premium",
+      "production",
+      "memory",
+      "mass"
+    ]
   }
 ]
