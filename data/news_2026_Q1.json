@@ -25716,5 +25716,25 @@
       "responds",
       "call"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/investing/tsx-stock-rose-120-2025-analysts-hike-price-targets",
+    "title": "This TSX darling rose 120% in 2025, and analysts are hiking their price targets again",
+    "fetched_on": "2026-01-10T23:21:23.328725+00:00",
+    "content": "RBCs Top 30 investment ideas list gets a makeover, why Canadas Big Banks are a stabilizer if tech euphoria fades and why Canadian lifecos may not be getting enough credit for return on equity expansi… [+7824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Top",
+      "TSX",
+      "Canadas",
+      "Big",
+      "Banks",
+      "Canadian",
+      "rose",
+      "investment",
+      "makeover"
+    ]
   }
 ]
