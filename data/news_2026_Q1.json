@@ -24616,5 +24616,63 @@
       "ruling",
       "issued"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-10/trump-s-call-for-10-credit-card-cap-aims-at-banks-crown-jewels",
+    "title": "Trump’s Call for 10% Credit-Card Cap Aims at Banks’ Crown Jewels",
+    "fetched_on": "2026-01-10T15:21:24.197691+00:00",
+    "content": "President Donald Trump’s demand that credit-card lenders cap interest rates at 10% for a year takes aim at one of the banking industry’s crown jewels &mdash; a business line they guard doggedly.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Crown",
+      "Jewels",
+      "Cap",
+      "Call",
+      "Banks’",
+      "President",
+      "Donald",
+      "doggedly",
+      "Credit-Card"
+    ]
+  },
+  {
+    "source": "Antaranews.com [NewsAPI]",
+    "url": "https://en.antaranews.com/news/399217/kur-interest-to-be-waived-in-2026-for-msmes-in-disaster-hit-sumatra",
+    "title": "KUR interest to be waived in 2026 for MSMEs in disaster-hit Sumatra",
+    "fetched_on": "2026-01-10T15:21:22.988219+00:00",
+    "content": "Jakarta (ANTARA) - The government plans to waive interest on its subsidized microcredit program, People’s Business Credit (KUR), for micro, small, and medium enterprises (MSMEs) affected by disasters… [+1943 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANTARA",
+      "KUR",
+      "small",
+      "chars",
+      "Jakarta",
+      "People",
+      "Credit",
+      "Sumatra",
+      "Business",
+      "program"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/trump-call-10-credit-card-143014438.html",
+    "title": "Trump’s Call for 10% Credit-Card Cap Aims at Banks’ Crown Jewels",
+    "fetched_on": "2026-01-10T15:21:39.729264+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jewels",
+      "Call",
+      "Cap",
+      "Aims",
+      "Banks’",
+      "Crown",
+      "Trump",
+      "Credit-Card"
+    ]
   }
 ]
