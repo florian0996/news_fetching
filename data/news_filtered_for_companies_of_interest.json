@@ -1,6 +1,17 @@
 {
-  "2026-01-09": {
+  "2026-01-10": {
     "status": "no company in the news"
+  },
+  "2026-01-09": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: The Podcast: Embarrassment of Something",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-01-08": {
     "articles": [
