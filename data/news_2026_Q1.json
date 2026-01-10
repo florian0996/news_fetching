@@ -23785,5 +23785,65 @@
       "loan",
       "interest"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2026-01-10/trump-s-venezuela-oil-plan-trump-cap-credit-card-rates-more",
+    "title": "Trump’s Venezuela Oil Plan, Trump: Cap Credit Card Rates, More",
+    "fetched_on": "2026-01-10T04:35:16.600417+00:00",
+    "content": "Source: Bloomberg, 5:44",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Trump",
+      "5:44",
+      "Plan",
+      "Cap",
+      "Rates",
+      "Source",
+      "Venezuela",
+      "Oil",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Eonline.com [NewsAPI]",
+    "url": "https://www.eonline.com/news/1427092/britney-spears-giving-son-a-piano-wont-perform-in-u-s",
+    "title": "Britney Spears Reveals Special Gift for Her \"Star\" Son",
+    "fetched_on": "2026-01-10T04:35:15.556738+00:00",
+    "content": "Excuse me crying and breathing hard !!! Britney captioned the clip shared to Instagram in April. I was excited !!! Mamas dont get enough credit at all these days !!! I mean just saying !!!\r\nShe added… [+773 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Star",
+      "Son",
+      "Spears",
+      "Reveals",
+      "Special",
+      "Gift",
+      "Excuse",
+      "Britney",
+      "hard",
+      "April"
+    ]
+  },
+  {
+    "source": "Biztoc.com [NewsAPI]",
+    "url": "https://biztoc.com/x/a34d34fcb2453cab",
+    "title": "Japanese insurer Sompo to ramp up overseas credit investments",
+    "fetched_on": "2026-01-10T04:35:15.556738+00:00",
+    "content": "The Tokyo-based company moved several investment managers from its Japan insurance subsidiary to work in the U.S. from this month.\r\nThis story appeared on japantimes.co.jp, 2026-01-09 02:59:00.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sompo",
+      "Tokyo-based",
+      "Japan",
+      "Japanese",
+      "month",
+      "insurer",
+      "ramp",
+      "overseas",
+      "credit",
+      "company"
+    ]
   }
 ]
