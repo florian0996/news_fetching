@@ -24299,5 +24299,102 @@
       "memory",
       "mass"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2026-01-10/trump-pushes-for-greenland-takeover-credit-card-rate-caps-more",
+    "title": "Trump Pushes for Greenland Takeover, Credit Card Rate Caps, More",
+    "fetched_on": "2026-01-10T12:43:09.746287+00:00",
+    "content": "Source: Bloomberg, 0:00",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "0:00",
+      "Takeover",
+      "Credit",
+      "Caps",
+      "Source",
+      "Pushes",
+      "Greenland",
+      "Card",
+      "Rate"
+    ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/quiz/friday-football-quiz-090126",
+    "title": "Friday Football Quiz, episode 97: Can you get 20 correct answers?",
+    "fetched_on": "2026-01-10T12:43:08.489894+00:00",
+    "content": "It's Friday, so it must be time for another Friday Football Quiz.\r\n(Image credit: Getty Images)\r\nFRIDAY FOOTBALL QUIZ Episode 96\r\nThe second Friday Football Quiz of the year is here for you to enjoy … [+1260 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Football",
+      "Friday",
+      "Quiz",
+      "episode",
+      "correct",
+      "answers",
+      "Getty",
+      "Image",
+      "Images",
+      "chars"
+    ]
+  },
+  {
+    "source": "Tom's Hardware UK [NewsAPI]",
+    "url": "https://www.tomshardware.com/pc-components/dram/chinese-researchers-hail-breakthrough-in-dram-like-cells-which-could-be-used-in-embedded-or-3d-stacked-memory-absence-of-manufacturing-detail-casts-doubt-on-mass-production",
+    "title": "Chinese researchers hail breakthrough in DRAM-like cells, which could be used in embedded or 3D stacked memory — absence of manufacturing detail casts doubt on mass production",
+    "fetched_on": "2026-01-10T12:43:08.489894+00:00",
+    "content": "Tom's Hardware Premium Roadmaps\r\n(Image credit: Future)\r\nChinese researchers have developed a capacitor-less DRAM-like memory cell that uses two transistors (2T0C) with dual-gate control, built at a … [+11002 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chinese",
+      "Future",
+      "chars",
+      "Roadmaps",
+      "Image",
+      "Tom",
+      "Hardware",
+      "Premium",
+      "researchers",
+      "stacked"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-january-9-2026-110059803.html",
+    "title": "HELOC and home equity loan rates today, January 9, 2026: A new low mark for HELOCs",
+    "fetched_on": "2026-01-10T12:43:39.338241+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "today",
+      "HELOC",
+      "HELOCs",
+      "home",
+      "equity",
+      "loan",
+      "rates",
+      "low",
+      "mark"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/trump-calls-one-cap-credit-012743095.html",
+    "title": "Trump calls for one-year cap on credit card rates at 10%",
+    "fetched_on": "2026-01-10T12:43:39.222892+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "calls",
+      "one-year",
+      "cap",
+      "credit",
+      "card",
+      "rates"
+    ]
   }
 ]
