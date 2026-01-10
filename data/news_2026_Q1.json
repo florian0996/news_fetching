@@ -24139,5 +24139,105 @@
       "Offside",
       "story"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/icra-assigns-stable-long-term-credit-rating-to-saarathi-finance/articleshow/126431183.cms",
+    "title": "ICRA assigns stable long-term credit rating to Saarathi Finance",
+    "fetched_on": "2026-01-10T09:22:40.666951+00:00",
+    "content": "Rating agency ICRA has assigned an A- long-term credit stable rating to Saarathi Finance and Credit Private Limited (SFCPL), a newly licensed NBFC focused on Indias micro, small, and medium enterpris… [+2001 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Saarathi",
+      "SFCPL",
+      "Finance",
+      "ICRA",
+      "credit",
+      "rating",
+      "Limited",
+      "small",
+      "chars",
+      "Private"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/real-time-payments/2026/digital-wallets-win-the-instant-payments-habit-battle/",
+    "title": "Digital Wallets Win the Instant Payments Habit Battle",
+    "fetched_on": "2026-01-10T09:22:40.666951+00:00",
+    "content": "Payments history shows a familiar pattern.Innovations begin as features, become expectations and eventually harden into infrastructure.\r\nCredit cards, ACH and online banking all followed this traject… [+4229 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Payments",
+      "Wallets",
+      "Win",
+      "Instant",
+      "Habit",
+      "Battle",
+      "Digital",
+      "features",
+      "infrastructure",
+      "chars"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/louie-copley-joins-crawley-town-loan",
+    "title": "Louie Copley joins Crawley Town on loan",
+    "fetched_on": "2026-01-10T09:22:40.666951+00:00",
+    "content": "Louie Copley has signed a new professional contract with us and has joined League Two side Crawley Town on loan for the remainder of this season.\r\nThe 19-year-old joined our academy in July 2019 and … [+762 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Town",
+      "Copley",
+      "Crawley",
+      "Louie",
+      "League",
+      "loan",
+      "season",
+      "July",
+      "chars",
+      "joined"
+    ]
+  },
+  {
+    "source": "Insurance Journal [NewsAPI]",
+    "url": "https://www.insurancejournal.com/news/international/2026/01/09/853703.htm",
+    "title": "Insurers Buy Erste SRT Deal Linked to €10 Billion Loans for M&A",
+    "fetched_on": "2026-01-10T09:22:40.666951+00:00",
+    "content": "Erste Group Bank AG sold a significant risk transfer linked to more than 10 billion ($11.7 billion) of loans as the Austrian bank seeks to free up capital for its largest ever acquisition.\r\nThe Vienn… [+2151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Erste",
+      "Linked",
+      "Loans",
+      "Bank",
+      "Buy",
+      "SRT",
+      "Deal",
+      "Group",
+      "Austrian"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/nation/2026/01/09/monthly-sara-aid-credited-today-offers-much-needed-support-to-recipients",
+    "title": "Monthly Sara aid credited today, offers much-needed support to recipients",
+    "fetched_on": "2026-01-10T09:22:40.666951+00:00",
+    "content": "KUALA LUMPUR: Recipients of the monthly Sumbangan Asas Rahmah (Sara) assistance, which continues this year, began receiving their payments on Friday (Jan 9), providing relief to more low-income house… [+2152 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jan",
+      "assistance",
+      "chars",
+      "LUMPUR",
+      "Rahmah",
+      "Friday",
+      "Sara",
+      "recipients",
+      "KUALA",
+      "Sumbangan"
+    ]
   }
 ]
