@@ -26650,5 +26650,65 @@
       "Space",
       "Station"
     ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/ackman-trump-call-cap-credit-card-interest-mistake-affordability-2026-1",
+    "title": "'This is a mistake President': Bill Ackman responds to Trump's call for a one-year 10% cap on credit card interest",
+    "fetched_on": "2026-01-11T14:20:48.120534+00:00",
+    "content": "PATRICK T. FALLON/AFP via Getty Images\r\n<ul><li>Bill Ackman said President Donald Trump's call for a one-year cap on credit card interest was a \"mistake.\"</li><li>The hedge fund billionaire said a ra… [+2285 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bill",
+      "Ackman",
+      "Trump",
+      "PATRICK",
+      "President",
+      "call",
+      "credit",
+      "card",
+      "one-year",
+      "cap"
+    ]
+  },
+  {
+    "source": "Exystence.net [NewsAPI]",
+    "url": "https://exystence.net/blog/2026/01/10/olof-arnalds-spira-2025/",
+    "title": "Ólöf Arnalds – Spíra (2025)",
+    "fetched_on": "2026-01-11T14:20:48.120534+00:00",
+    "content": "After lending her versatile skills on stringed instruments (guitar, charango, violin, koto, etc.) to the alternative music scene of Iceland for some time, Ólöf Arnalds released her first solo album, … [+2361 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ólöf",
+      "Spíra",
+      "Arnalds",
+      "guitar",
+      "charango",
+      "violin",
+      "koto",
+      "etc.",
+      "chars",
+      "Iceland"
+    ]
+  },
+  {
+    "source": "Railway.app [NewsAPI]",
+    "url": "https://hookwatch-production.up.railway.app",
+    "title": "Show HN: HookWatch – Simple webhook monitoring with one-click replay",
+    "fetched_on": "2026-01-11T14:20:48.120534+00:00",
+    "content": "Proxy your webhooks through HookWatch. See every request,\r\n get alerts on failures, replay with one click.\r\nNo credit card required",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Simple",
+      "HookWatch",
+      "Proxy",
+      "Show",
+      "replay",
+      "monitoring",
+      "one-click",
+      "webhook",
+      "webhooks",
+      "request"
+    ]
   }
 ]
