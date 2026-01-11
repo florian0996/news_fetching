@@ -26076,5 +26076,65 @@
       "interest",
       "one-year"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180557818",
+    "title": "Trump Calls for One-Year Cap on Credit Card Rates at 10% - Bloomberg.com",
+    "fetched_on": "2026-01-11T05:27:20.758323+00:00",
+    "content": "How many hardware guys does it take to change a light bulb?\r\n\"Well the diagnostics say it's fine buddy, so it's a software problem.\"",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg.com",
+      "Calls",
+      "Cap",
+      "Credit",
+      "Card",
+      "Rates",
+      "Trump",
+      "bulb",
+      "One-Year",
+      "hardware"
+    ]
+  },
+  {
+    "source": "The Daily Caller [NewsAPI]",
+    "url": "https://dailycaller.com/2026/01/10/donald-trump-one-year-cap-credit-card-interest-rates/",
+    "title": "Trump Wants One-Year Cap On Credit Card Interest Rates",
+    "fetched_on": "2026-01-11T05:27:20.758323+00:00",
+    "content": "President Donald Trump announced Friday that he wants to impose a temporary federal cap on credit card interest rates.\r\nIn a Truth Social post, Trump said his administration will move to limit credit… [+2272 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "Interest",
+      "Cap",
+      "Rates",
+      "Credit",
+      "President",
+      "Donald",
+      "Friday",
+      "Trump",
+      "One-Year"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2026/01/10/trump-one-year-cap-credit-card-interest-rates-10-percent/",
+    "title": "Trump calls for one-year cap on credit card rates at 10%",
+    "fetched_on": "2026-01-11T05:27:20.758323+00:00",
+    "content": "President Donald Trump on Friday called for a one-year cap on credit card interest rates at 10%, effective Jan. 20, without specifying details.Please be informed that we will no longer let the Americ… [+1925 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cap",
+      "credit",
+      "President",
+      "Jan.",
+      "Americ",
+      "chars",
+      "Trump",
+      "Donald",
+      "Friday",
+      "one-year"
+    ]
   }
 ]
