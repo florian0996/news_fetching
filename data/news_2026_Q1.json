@@ -27228,5 +27228,105 @@
       "chars",
       "rates"
     ]
+  },
+  {
+    "source": "WPLG Local 10 [NewsAPI]",
+    "url": "https://www.local10.com//business/2026/01/10/trump-pushes-a-1-year-10-cap-on-credit-card-interest-rates-and-banks-balk/",
+    "title": "Trump pushes a 1-year, 10% cap on credit card interest rates and banks balk",
+    "fetched_on": "2026-01-11T21:20:25.132982+00:00",
+    "content": "NEW YORK (AP) Reviving a campaign pledge, President Donald Trump wants a one-year, 10% cap on credit card interest rates, a move that could save Americans tens of billions of dollars but drew immedia… [+6258 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cap",
+      "credit",
+      "card",
+      "interest",
+      "YORK",
+      "Reviving",
+      "President",
+      "Trump",
+      "chars",
+      "rates"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2026/01/10/trump-pushes-a-1-year-10-cap-on-credit-card-interest-rates-and-banks-balk/",
+    "title": "Trump pushes a 1-year, 10% cap on credit card interest rates and banks balk",
+    "fetched_on": "2026-01-11T21:20:25.132982+00:00",
+    "content": "Reviving a campaign pledge, President Trump wants a one-year, 10% cap on credit card interest rates, a move that could save Americans tens of billions of dollars but drew immediate opposition from an… [+6028 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cap",
+      "credit",
+      "card",
+      "interest",
+      "President",
+      "Trump",
+      "chars",
+      "rates",
+      "Reviving",
+      "Americans"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/tech-news-wrap-jan-10-2026",
+    "title": "Tech News Wrap: Samsung's creaseless display, Motorola's bold CES showings, Galaxy S26 latest leaks, and more",
+    "fetched_on": "2026-01-11T21:20:25.132982+00:00",
+    "content": "(Image credit: Future)\r\nTech News Wrap is our column where we highlight and summarize some of the week's top stories so you can catch up on the latest tech news.\r\nThis is Android Central's Tech News … [+6762 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wrap",
+      "Galaxy",
+      "Future",
+      "Tech",
+      "Samsung",
+      "Motorola",
+      "Image",
+      "CES",
+      "latest",
+      "display"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180560490",
+    "title": "'This is a mistake President': Bill Ackman responds to Trump's call for a one-year 10% cap on credit card interest - Business Insider",
+    "fetched_on": "2026-01-11T21:20:25.132982+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "President",
+      "Bill",
+      "Business",
+      "Print",
+      "Ackman",
+      "Trump",
+      "Insider",
+      "Fine",
+      "one-year",
+      "cap"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/analysts-spot-bitcoin-price-rebound-202506139.html",
+    "title": "Analysts Spot Bitcoin Price Rebound Window — Could Trump’s 10% Credit Cap Trigger It?",
+    "fetched_on": "2026-01-11T21:20:42.406914+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Window",
+      "Credit",
+      "Spot",
+      "Bitcoin",
+      "Price",
+      "Rebound",
+      "Trump",
+      "Cap",
+      "Trigger",
+      "Analysts"
+    ]
   }
 ]
