@@ -26234,5 +26234,41 @@
       "rates",
       "comments"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/india/kanpur-loan-fraud-how-a-small-shop-was-used-to-secure-bank-loans-worth-thousands-of-crores/articleshow/126449067.cms",
+    "title": "Kanpur loan fraud: How a small shop was used to secure bank loans worth thousands of crores",
+    "fetched_on": "2026-01-11T08:29:36.771192+00:00",
+    "content": "A major bank loan fraud was uncovered by police in Kanpur, Uttar Pradesh, where a man allegedly floated fake companies to secure loans running into thousands of crores from public sector banks. As pe… [+2128 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Uttar",
+      "Pradesh",
+      "Kanpur",
+      "fraud",
+      "secure",
+      "thousands",
+      "crores",
+      "bank",
+      "loan",
+      "loans"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/regulation/trump-calls-for-10-cap-on-credit-card-interest-rates-73365952?siteid=yhoof2&yptr=yahoo",
+    "title": "Trump Calls for 10% Cap on Credit-Card Interest Rates",
+    "fetched_on": "2026-01-11T08:30:03.704773+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cap",
+      "Rates",
+      "Calls",
+      "Interest",
+      "Trump",
+      "Credit-Card"
+    ]
   }
 ]
