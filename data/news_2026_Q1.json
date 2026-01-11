@@ -26270,5 +26270,65 @@
       "Trump",
       "Credit-Card"
     ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/jenna-nighswonger-joins-aston-villa-loan",
+    "title": "Jenna Nighswonger joins Aston Villa on loan",
+    "fetched_on": "2026-01-11T09:23:33.641730+00:00",
+    "content": "Jenna Nighswonger has joined Aston Villa on loan for the remainder of the 2025/26 season.\r\nThe 25-year-old joined us from National Womens Super League side Gotham FC in the USA in January 2025.\r\nJenn… [+438 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Villa",
+      "Nighswonger",
+      "Aston",
+      "Jenna",
+      "loan",
+      "season",
+      "joined",
+      "joins",
+      "remainder",
+      "January"
+    ]
+  },
+  {
+    "source": "Louder [NewsAPI]",
+    "url": "https://www.loudersound.com/bands-artists/red-hot-chili-peppers-under-the-bridge",
+    "title": "\"He sang it to me and I thought it was beautiful. But he was emphatic: 'No, this isn't what we do!'\" The story of the classic song Red Hot Chili Peppers didn't want to record and its unexpected impact on Middle America",
+    "fetched_on": "2026-01-11T09:23:33.641730+00:00",
+    "content": "You had to give them credit – the Red Hot Chili Peppers were crafty buggers. Having spent the seven years since their formation in 1984 funking up a semi-metallic storm across four albums, the Hollyw… [+4786 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hot",
+      "Chili",
+      "Red",
+      "Peppers",
+      "beautiful",
+      "sang",
+      "thought",
+      "Middle",
+      "America",
+      "Hollyw"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/jessie-gale-joins-bristol-city-loan",
+    "title": "Jessie Gale joins Bristol City on loan",
+    "fetched_on": "2026-01-11T09:23:33.641730+00:00",
+    "content": "Jessie Gale has joined Barclays Womens Super League 2 side Bristol City on loan for the remainder of the 2025/26 season.\r\nThe 19-year-old striker will now continue her development in the South West.\r… [+461 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "City",
+      "Gale",
+      "Bristol",
+      "Jessie",
+      "League",
+      "loan",
+      "Barclays",
+      "Womens",
+      "Super",
+      "season"
+    ]
   }
 ]
