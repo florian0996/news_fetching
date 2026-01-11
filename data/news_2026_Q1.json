@@ -26808,5 +26808,85 @@
       "loan",
       "rates"
     ]
+  },
+  {
+    "source": "TheStreet [NewsAPI]",
+    "url": "https://www.thestreet.com/retail/costco-quietly-added-a-major-credit-card-perk",
+    "title": "Costco quietly added a major credit card perk",
+    "fetched_on": "2026-01-11T16:27:19.025948+00:00",
+    "content": "<ul><li>Almost two-thirds of Americans feel the current economy isn't working for them.\r\n</li><li>Customers with Costco credit cards just got a new benefit that can help ease financial strain.\r\n</li>… [+4819 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "Costco",
+      "perk",
+      "credit",
+      "quietly",
+      "added",
+      "major",
+      "two-thirds",
+      "feel",
+      "current"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/what-not-to-spend-money-on-in-2026-if-you-want-to-get-ahead-diana-clement/premium/JYXNQ6UPWJHB5PWSCY5POETI2A/",
+    "title": "What not to spend money on in 2026 if you want to get ahead – Diana Clement",
+    "fetched_on": "2026-01-11T16:27:19.025948+00:00",
+    "content": "I talked about this article with someone who handles loan applications for the likes of Ford Rangers. It is not uncommon for people who are already in debt to borrow another $30,000 to $60,000.\r\nFor … [+2990 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Diana",
+      "Rangers",
+      "Clement",
+      "Ford",
+      "ahead",
+      "spend",
+      "money",
+      "talked",
+      "article",
+      "handles"
+    ]
+  },
+  {
+    "source": "Memeorandum.com [NewsAPI]",
+    "url": "https://www.memeorandum.com/260110/p15",
+    "title": "Trump says he will temporarily cap credit card rates (Victoria Guida/Politico)",
+    "fetched_on": "2026-01-11T16:27:19.025948+00:00",
+    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Politico",
+      "Victoria",
+      "Guida",
+      "Trump",
+      "rates",
+      "memeorandum",
+      "chars",
+      "Mediagazer",
+      "temporarily",
+      "cap"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/01/disney-park-extended-hours-emd1/",
+    "title": "Longer Park Days Confirmed as Disney Rolls Out New Operational Plan",
+    "fetched_on": "2026-01-11T16:27:19.025948+00:00",
+    "content": "Disney has announced extended park hours for new entertainment options and more magic for thousands of guests.\r\nCredit: Disneyland Paris Resort\r\nDisney Announces Extended Park Hours as New Entertainm… [+5236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Park",
+      "Disney",
+      "Days",
+      "Confirmed",
+      "Rolls",
+      "Operational",
+      "Plan",
+      "extended",
+      "hours",
+      "Longer"
+    ]
   }
 ]
