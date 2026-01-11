@@ -27168,5 +27168,65 @@
       "rates",
       "announced"
     ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4361420/posts",
+    "title": "Astronomy Picture of the Day - Jupiter with the Great Red Spot",
+    "fetched_on": "2026-01-11T20:25:38.763348+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Jupiter with the Great Red SpotNASA ^\r\n | 10 Jan, 2026\r\n | Image Credit &amp; Copyright: Christopher Go\r\nPosted on 01/10/2026 12:17:36 PM PST by MtnC… [+3088 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Jupiter",
+      "Picture",
+      "Great",
+      "Red",
+      "Astronomy",
+      "Spot",
+      "Skip",
+      "comments",
+      "Jan"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/more-bonds-are-teetering-on-the-brink-of-junk-credit-weekly",
+    "title": "More Bonds Are Teetering on the Brink of Junk: Credit Weekly",
+    "fetched_on": "2026-01-11T20:25:38.763348+00:00",
+    "content": "(Bloomberg) Beneath the calm surface of the US corporate bond market, there are worrying signs about companies that could lose their investment-grade status.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS… [+4906 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Junk",
+      "Credit",
+      "Weekly",
+      "Beneath",
+      "Teetering",
+      "Brink",
+      "market",
+      "status",
+      "Bonds"
+    ]
+  },
+  {
+    "source": "PBS [NewsAPI]",
+    "url": "https://www.pbs.org/newshour/politics/banks-balk-as-trump-pushes-for-1-year-10-cap-on-credit-card-interest-rates",
+    "title": "Banks balk as Trump pushes for 1-year, 10% cap on credit card interest rates",
+    "fetched_on": "2026-01-11T20:25:38.763348+00:00",
+    "content": "NEW YORK (AP) Reviving a campaign pledge, President Donald Trump wants a one-year, 10% cap on credit card interest rates, a move that could save Americans tens of billions of dollars but drew immedia… [+6327 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cap",
+      "Trump",
+      "credit",
+      "card",
+      "interest",
+      "YORK",
+      "Reviving",
+      "President",
+      "chars",
+      "rates"
+    ]
   }
 ]
