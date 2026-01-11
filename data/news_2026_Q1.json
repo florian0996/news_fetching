@@ -27386,5 +27386,45 @@
       "earn",
       "paying"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-11/macquarie-loans-117-million-to-polarise-for-data-center-fit-outs",
+    "title": "Macquarie’s Latest Data Center Bet is a Tiny German Startup",
+    "fetched_on": "2026-01-11T23:21:21.608547+00:00",
+    "content": "Macquarie Group Ltd. is lending as much as €117 million ($136 million) to German data center infrastructure startup Polarise GmbH, as a debt-fueled boom in the sector continues into 2026.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "million",
+      "German",
+      "Data",
+      "Center",
+      "Macquarie",
+      "Startup",
+      "Latest",
+      "Bet",
+      "Tiny",
+      "Group"
+    ]
+  },
+  {
+    "source": "Ampcode.com [NewsAPI]",
+    "url": "https://ampcode.com/news/amp-free-frontier",
+    "title": "The Frontier Is Now Free",
+    "fetched_on": "2026-01-11T23:21:20.274416+00:00",
+    "content": "Every Amp user can now receive daily free credits to use the full Amp experience, including our frontier smart agent powered by Opus 4.5. No payment required, powered by adsturn them off if you don't… [+1183 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amp",
+      "Opus",
+      "Frontier",
+      "Free",
+      "experience",
+      "including",
+      "powered",
+      "chars",
+      "user",
+      "receive"
+    ]
   }
 ]
