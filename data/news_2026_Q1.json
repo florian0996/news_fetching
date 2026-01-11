@@ -26330,5 +26330,25 @@
       "Super",
       "season"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/phonepe-introduces-bolt-for-visa-and-mastercard-to-streamline-in-app-card-payments/article70494084.ece",
+    "title": "PhonePe introduces 'Bolt' for Visa and Mastercard to streamline in-app card payments",
+    "fetched_on": "2026-01-11T10:23:42.030570+00:00",
+    "content": "PhonePe Payment Gateway (PhonePe PG), on Saturday announced the launch of 'PhonePe PG Bolt' for Visa and Mastercard Credit and Debit card transactions. \r\nThe solution utilizes device tokenization to … [+1809 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bolt",
+      "Visa",
+      "Mastercard",
+      "PhonePe",
+      "Gateway",
+      "Saturday",
+      "Credit",
+      "Debit",
+      "card",
+      "payments"
+    ]
   }
 ]
