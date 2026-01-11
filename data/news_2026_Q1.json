@@ -27328,5 +27328,63 @@
       "Trigger",
       "Analysts"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_86153d60-f711-406d-90fa-e0567f51a2a3",
+    "title": "'This is a mistake President': Bill Ackman responds to Trump's call for a one-year 10% cap on credit card interest",
+    "fetched_on": "2026-01-11T22:21:19.514556+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "President",
+      "Bill",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Ackman",
+      "Trump"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180560724",
+    "title": "Trump announces one-year 10% cap on credit card interest rates - The Guardian",
+    "fetched_on": "2026-01-11T22:21:19.514556+00:00",
+    "content": "Anyone who imagines that all fruits ripen at the same time\r\nas the strawberries, knows nothing about grapes.\r\n-- Philippus Paracelsus",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Guardian",
+      "Trump",
+      "one-year",
+      "cap",
+      "rates",
+      "strawberries",
+      "grapes",
+      "announces",
+      "credit",
+      "card"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/mortgage-rewards-credit-cards-disappearing-220000698.html",
+    "title": "Mortgage rewards credit cards are disappearing. How else can you earn rewards for paying off your home?",
+    "fetched_on": "2026-01-11T22:21:37.098890+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "disappearing",
+      "rewards",
+      "credit",
+      "cards",
+      "home",
+      "earn",
+      "paying"
+    ]
   }
 ]
