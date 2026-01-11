@@ -26590,5 +26590,65 @@
       "GLOBE",
       "NEWSWIRE"
     ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4268499/AXP;COF;MA;V;SYF-Trump-calls-for--cap-on-credit-card-interest-for-one-year",
+    "title": "Trump calls for 10% cap on credit card interest for one year",
+    "fetched_on": "2026-01-11T13:31:22.863947+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more\r\n<ul><li>\r\nTomorrow at 00:00KeyBanc Hosted Company Meetings at ICR Conference 2026 Conferences\r\nOrlando, FL\r\n</li><li>\r\nTomorrow at 00:00Shake Shack… [+952 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tomorrow",
+      "Shack",
+      "Hosted",
+      "Orlando",
+      "chars",
+      "Earnings",
+      "Company",
+      "Meetings",
+      "ICR",
+      "calls"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/the-earned-income-tax-credit-what-it-is-who-qualifies-and-why-it-matters-at-tax-time/articleshow/126452563.cms",
+    "title": "The earned Income Tax credit: What it is, who qualifies, and why it matters at tax time",
+    "fetched_on": "2026-01-11T13:31:22.863947+00:00",
+    "content": "Millions of Americans could receive extra money back from the IRS this tax season through the Earned Income Tax Credit (EITC). The EITC is one of the most important tools in the U.S. tax code for boo… [+5822 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Income",
+      "credit",
+      "earned",
+      "Tax",
+      "Millions",
+      "Americans",
+      "IRS",
+      "EITC",
+      "qualifies",
+      "matters"
+    ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/live/astronaut-medical-evacuation-on-iss-jan-10-2026",
+    "title": "ISS astronaut medical evacuation latest news: SpaceX readies Dragon spacecraft for Crew-11 return to Earth",
+    "fetched_on": "2026-01-11T13:31:22.863947+00:00",
+    "content": "2026-01-10T12:48:22.143ZSpaceX prepares for Crew-11 medical evacuation\r\n(Image credit: NASA)\r\nSpaceX says it's Dragon spacecraft at the International Space Station is ready to return its four Crew-11… [+12378 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASA",
+      "Dragon",
+      "ISS",
+      "Earth",
+      "Image",
+      "SpaceX",
+      "chars",
+      "International",
+      "Space",
+      "Station"
+    ]
   }
 ]
