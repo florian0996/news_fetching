@@ -28014,5 +28014,103 @@
       "Debt",
       "Bankrate"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-12/barclays-shares-tumble-as-trump-slams-credit-card-interest-rates",
+    "title": "Barclays Shares Tumble as Trump Slams Credit Card Interest Rates",
+    "fetched_on": "2026-01-12T10:28:19.898093+00:00",
+    "content": "Barclays Plc shares dropped the most in three months after US President Donald Trump said that credit-card lenders would be breaking the law if they don’t heed his call to cap interest rates at 10% for one year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Interest",
+      "Rates",
+      "Barclays",
+      "Shares",
+      "Tumble",
+      "Slams",
+      "Credit",
+      "Card",
+      "Plc"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/major-credit-card-stocks-slide-after-trump-comments-on-credit-card-rates-4441018",
+    "title": "Major credit card stocks slide after Trump comments on credit card rates",
+    "fetched_on": "2026-01-12T10:28:29.194706+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "credit",
+      "card",
+      "Major",
+      "rates",
+      "stocks",
+      "slide",
+      "comments"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2026/01/12/trump-credit-card-limit-banks-jpmorgan-citi.html",
+    "title": "Banks including Citi, JPMorgan slide after Trump calls for credit card interest rate limit",
+    "fetched_on": "2026-01-12T10:28:35.124377+00:00",
+    "content": "Posting on Truth Social, Trump said said he would \"no longer let the American Public be 'ripped off' by Credit Card Companies.\"",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Citi",
+      "Social",
+      "Companies",
+      "Trump",
+      "credit",
+      "card",
+      "Posting",
+      "Truth",
+      "American",
+      "Public"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/wall-street-skeptical-trumps-proposed-101743296.html",
+    "title": "Wall Street skeptical Trump's proposed credit card rate cap will advance",
+    "fetched_on": "2026-01-12T10:28:36.109786+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Street",
+      "Trump",
+      "Wall",
+      "advance",
+      "skeptical",
+      "proposed",
+      "credit",
+      "card",
+      "rate",
+      "cap"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/citi-jpmorgan-american-express-stock-trump-credit-cards-51aaf01e?siteid=yhoof2&yptr=yahoo",
+    "title": "Citi, JPMorgan, American Express Stocks Drop. Trump’s Credit Card Plan Sparks Panic.",
+    "fetched_on": "2026-01-12T10:28:36.109943+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Citi",
+      "JPMorgan",
+      "American",
+      "Drop",
+      "Express",
+      "Stocks",
+      "Panic",
+      "Credit",
+      "Card",
+      "Plan"
+    ]
   }
 ]
