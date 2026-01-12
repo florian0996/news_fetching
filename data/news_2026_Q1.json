@@ -27807,5 +27807,62 @@
       "make",
       "talks"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/agri-business/micro-fertiliser-industry-seeks-uniform-5-gst-faster-credit-refunds-ahead-of-budget/article70497036.ece",
+    "title": "Micro-fertiliser industry seeks uniform 5% GST, faster credit refunds ahead of Budget",
+    "fetched_on": "2026-01-12T06:40:08.601302+00:00",
+    "content": "The Indian Micro-Fertilizers Manufacturers Association has urged the Centre to extend the 5 per cent GST across all fertilisers notified under the Fertiliser Control Order, expedite refunds of excess… [+2051 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GST",
+      "Order",
+      "chars",
+      "Budget",
+      "Indian",
+      "Manufacturers",
+      "Association",
+      "Centre",
+      "Control",
+      "refunds"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/agriculture/budget-2026-micro-fertiliser-industry-seeks-uniform-5-percent-gst-faster-credit-refunds-from-sitharaman-co/articleshow/126461779.cms",
+    "title": "Budget 2026: Micro-fertiliser industry seeks uniform 5 percent GST, faster credit refunds from Sitharaman & Co",
+    "fetched_on": "2026-01-12T06:40:08.601302+00:00",
+    "content": "India Budget: The Indian Micro-Fertilizers Manufacturers Association has urged the Centre to extend the 5 per cent GST across all fertilisers notified under the Fertiliser Control Order, expedite ref… [+2131 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "GST",
+      "Micro-fertiliser",
+      "Sitharaman",
+      "Order",
+      "chars",
+      "India",
+      "Indian",
+      "Manufacturers",
+      "Association"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/trump-proposes-10-cap-on-credit-card-interest-rates-4440685",
+    "title": "Trump proposes 10% cap on credit card interest rates",
+    "fetched_on": "2026-01-12T06:40:25.858235+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "proposes",
+      "cap",
+      "rates",
+      "credit",
+      "card",
+      "interest"
+    ]
   }
 ]
