@@ -27706,5 +27706,44 @@
       "Area",
       "lawmakers"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/bob-card-credit-card-health-insurance-gen-z-sbi-card-11767929470604.html",
+    "title": "In a luxury-focussed card market, BoB Card bets on health and insurance",
+    "fetched_on": "2026-01-12T04:52:47.979964+00:00",
+    "content": "MUMBAI\r\n : \r\nAs most credit card issuers chase premium experiences and luxury rewards to drive higher spending, BoB Card is betting on healthcare, wellness and insurance-led benefits to carve a niche… [+5614 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "BoB",
+      "MUMBAI",
+      "chars",
+      "market",
+      "spending",
+      "healthcare",
+      "wellness",
+      "niche",
+      "luxury-focussed"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/does-trump-10-credit-card-174245669.html",
+    "title": "Does Trump’s 10% Credit Card Rate Cap Make Visa and Mastercard a Buy?",
+    "fetched_on": "2026-01-12T04:53:09.752614+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Buy",
+      "Trump",
+      "Card",
+      "Rate",
+      "Cap",
+      "Make",
+      "Visa",
+      "Mastercard"
+    ]
   }
 ]
