@@ -28662,5 +28662,61 @@
       "Harm",
       "Credit-Card"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-12/student-loans-how-the-trump-administration-is-squeezing-borrowers",
+    "title": "How the Trump Administration Is Putting the Squeeze on Student Borrowers",
+    "fetched_on": "2026-01-12T16:30:16.973025+00:00",
+    "content": "The era of student loan leniency in the US is officially over. During the Covid-19 emergency, mandatory payments on federal student loans were paused to shield borrowers from the financial repercussions of missed bills. Even after the economy recovered, multiple extensions and a grace period meant they could get away with ignoring their debts.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Student",
+      "Trump",
+      "Administration",
+      "Putting",
+      "Squeeze",
+      "Borrowers",
+      "era",
+      "leniency",
+      "officially",
+      "loan"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/americans-eager-years-reset-nearly-153253636.html",
+    "title": "'Americans Are Eager for a New Year's Reset.' Nearly Half of Adults' Finances Worsened in 2025 But Tax Season May Offer a Lifeline, Survey Says",
+    "fetched_on": "2026-01-12T16:30:16.092416+00:00",
+    "content": "Almost half of U.S. adults' finances worsened in 2025, but the upcoming tax season could help struggling homeowners even more than usual, an Intuit Credit Karmasurvey released last month found.\r\nThe … [+2159 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "Reset",
+      "Eager",
+      "Year",
+      "Finances",
+      "Worsened",
+      "Half",
+      "Adults'",
+      "Tax",
+      "Season"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/high-earners-credit-card-debt-161335442.html",
+    "title": "High earners have credit card debt, too. But they won't admit it.",
+    "fetched_on": "2026-01-12T16:30:37.591643+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "High",
+      "debt",
+      "earners",
+      "credit",
+      "card",
+      "admit"
+    ]
   }
 ]
