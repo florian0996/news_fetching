@@ -31017,5 +31017,125 @@
       "Netflix",
       "Series"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_72662e85-ce41-4afc-b5a9-105b2c5cb604",
+    "title": "Big banks report earnings as Trump's credit card play poses new threat",
+    "fetched_on": "2026-01-13T14:28:00.639418+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Trump",
+      "IAB",
+      "Big",
+      "click"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4269301/JPM;AXP;COF;AKAM;DAWN;SHAK-Video-Financials-weighed-down-by-Trump-attacks-on-Fed-credit-card-rates",
+    "title": "Video: Financials weighed down by Trump attacks on Fed, credit card rates",
+    "fetched_on": "2026-01-13T14:28:00.639418+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Video",
+      "Financials",
+      "Fed",
+      "Trump",
+      "Earnings",
+      "credit",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4269268/LPRO-Open-Lending-named-a--Top-Pick-at-Northland",
+    "title": "Open Lending named a 2026 Top Pick at Northland",
+    "fetched_on": "2026-01-13T14:28:00.639418+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Top",
+      "Lending",
+      "Pick",
+      "Northland",
+      "Earnings",
+      "Open",
+      "calls",
+      "analyst",
+      "events",
+      "roadshows"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-news/4361690/posts",
+    "title": "Gaza militia takes credit for close-range killing of Hamas investigation chief",
+    "fetched_on": "2026-01-13T14:28:00.639418+00:00",
+    "content": "Skip to comments.\r\nGaza militia takes credit for close-range killing of Hamas investigation chiefArutz Sheva ^\r\n | 12/1/26\r\nPosted on 01/12/2026 6:02:30 AM PST by Eleutheria5\r\nHussam al-Astal, the co… [+2587 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hamas",
+      "Gaza",
+      "Skip",
+      "militia",
+      "credit",
+      "close-range",
+      "killing",
+      "comments",
+      "investigation",
+      "Sheva"
+    ]
+  },
+  {
+    "source": "CNBC Finance [RSS]",
+    "url": "https://www.cnbc.com/2026/01/13/trump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
+    "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
+    "fetched_on": "2026-01-13T14:28:19.947336+00:00",
+    "content": "Banks say a proposed 10% cap on credit card interest rates would result in fewer credit card accounts for Americans and a hit to the U.S. economy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "card",
+      "economy",
+      "banks",
+      "Chase",
+      "Trump",
+      "Americans",
+      "JPMorgan",
+      "table",
+      "proposed"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/wannabe-real-estate-moguls-bet-140000764.html",
+    "title": "‘Wannabe real estate moguls’ bet big on this once-obscure loan type during the pandemic. Now many of them stand to lose",
+    "fetched_on": "2026-01-13T14:28:20.334734+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wannabe",
+      "pandemic",
+      "real",
+      "estate",
+      "moguls’",
+      "bet",
+      "big",
+      "once-obscure",
+      "loan",
+      "type"
+    ]
   }
 ]
