@@ -1,6 +1,24 @@
 {
-  "2026-01-12": {
+  "2026-01-13": {
     "status": "no company in the news"
+  },
+  "2026-01-12": {
+    "articles": [
+      {
+        "title": "FW: Wishing Everyone a Happy Monitoring the Situation",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: Paramount Wants to Warner to Show Its Work",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-01-11": {
     "status": "no company in the news"
