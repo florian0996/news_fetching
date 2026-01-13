@@ -30301,5 +30301,45 @@
       "story",
       "talent"
     ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/loan-watch-fa-cup-action-and-debut-goal",
+    "title": "Loan watch: FA Cup action and a debut goal",
+    "fetched_on": "2026-01-13T08:34:01.563394+00:00",
+    "content": "Many of our mens, womens and academy players have been sent out on loan this season to gain experience and further action.\r\nBrentford have played twice in the past week, which has given opportunities… [+3656 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cup",
+      "Loan",
+      "action",
+      "watch",
+      "mens",
+      "womens",
+      "debut",
+      "goal",
+      "academy",
+      "players"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/90096/forward-who-had-trial-under-richard-hughes-now-wants-liverpool-move.html",
+    "title": "Forward who had trial under Richard Hughes now wants Liverpool move",
+    "fetched_on": "2026-01-13T08:34:01.563394+00:00",
+    "content": "Credit must go to Anfield Watch for highlighting a story that feels quietly significant rather than immediately spectacular. Richard Hughes has rarely been judged on his own terms since arriving at L… [+3936 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hughes",
+      "Liverpool",
+      "Credit",
+      "Anfield",
+      "Watch",
+      "Richard",
+      "Forward",
+      "spectacular",
+      "chars",
+      "trial"
+    ]
   }
 ]
