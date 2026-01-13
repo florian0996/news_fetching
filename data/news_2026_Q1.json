@@ -30457,5 +30457,124 @@
       "rating",
       "ProDipSust"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_72649f5b-4c4e-49c3-bf0d-f0aecea8be86",
+    "title": "Your bank may be quietly pushing you deeper into debt and many credit card users don’t realize it’s happening",
+    "fetched_on": "2026-01-13T11:22:19.795700+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "click",
+      "partners",
+      "device"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-skeptical-trumps-proposed-credit-card-rate-cap-will-advance/articleshow/126482159.cms",
+    "title": "Wall Street skeptical Trump's proposed credit card rate cap will advance",
+    "fetched_on": "2026-01-13T11:22:19.795700+00:00",
+    "content": "U.S. President Donald Trump's proposal to cap credit card interest rates at 10% has grabbed headlines but would require legislation and has slim odds of passing, Wall Street analysts said.Credit card… [+1789 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wall",
+      "Street",
+      "Trump",
+      "President",
+      "chars",
+      "card",
+      "Donald",
+      "credit",
+      "advance",
+      "passing"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f3b47a8d-304f-44b2-b101-b590a28cee4f",
+    "title": "Barclays, US Bank Shares Slide as Trump Slams Credit Card Rates",
+    "fetched_on": "2026-01-13T11:22:19.795700+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Barclays",
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Bank",
+      "Shares",
+      "Slide"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180566808",
+    "title": "Banks including Citi, JPMorgan slide after Trump calls for credit card interest rate limit - CNBC",
+    "fetched_on": "2026-01-13T11:22:19.795700+00:00",
+    "content": "The confusion of a staff member is measured by the length of his memos.\r\n-- New York Times, Jan. 20, 1981",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Citi",
+      "CNBC",
+      "Trump",
+      "Jan.",
+      "Banks",
+      "JPMorgan",
+      "limit",
+      "memos",
+      "Times",
+      "including"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/sofi-ceo-trump-credit-card-cap-personal-loans-2026-1",
+    "title": "SoFi CEO says Trump's proposed credit card cap would drive people to personal loans, and that's good for SoFi",
+    "fetched_on": "2026-01-13T11:22:19.795700+00:00",
+    "content": "SoFi CEO Anthony Noto.BRENDAN MCDERMID/REUTERS\r\n<ul><li>SoFi CEO Anthony Noto weighed in on Trump's proposed 10% cap on credit card interest.</li><li>Noto said the cap could boost consumer demand for… [+2878 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CEO",
+      "Trump",
+      "Anthony",
+      "REUTERS",
+      "Noto",
+      "SoFi",
+      "MCDERMID",
+      "chars",
+      "proposed",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-january-13-2026-110038171.html",
+    "title": "HELOC and home equity loan rates today, January 13, 2026: Among the most affordable ways to borrow",
+    "fetched_on": "2026-01-13T11:22:40.480156+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "HELOC",
+      "today",
+      "borrow",
+      "home",
+      "equity",
+      "loan",
+      "rates",
+      "affordable"
+    ]
   }
 ]
