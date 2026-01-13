@@ -30381,5 +30381,81 @@
       "Life",
       "AMC"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bb6bebe9-4f61-423f-af3c-dc725eea0283",
+    "title": "Wall Street skeptical Trump's proposed credit card rate cap will advance",
+    "fetched_on": "2026-01-13T10:27:07.966959+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Street",
+      "Trump",
+      "IAB",
+      "Wall"
+    ]
+  },
+  {
+    "source": "Retrotogo.com [NewsAPI]",
+    "url": "https://www.retrotogo.com/2026/01/ronda-1960s-style-vinyl-cabinet-at-la-redoute.html",
+    "title": "Sale watch: Ronda 1960s-style vinyl cabinets at La Redoute",
+    "fetched_on": "2026-01-13T10:27:07.966959+00:00",
+    "content": "Ronda 1960s-style vinyl cabinets at La Redoute (image credit: La Redoute)\r\nNote all articles are independently researched and written by myself. However, if you buy via one of the links it may be an … [+3620 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Redoute",
+      "Ronda",
+      "vinyl",
+      "Note",
+      "cabinets",
+      "Sale",
+      "watch",
+      "image",
+      "credit",
+      "articles"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/saint-laurent-taps-model-bella-hadid-for-mombasa-bag-revival/",
+    "title": "Saint Laurent taps model Bella Hadid for Mombasa Bag revival",
+    "fetched_on": "2026-01-13T10:27:07.966959+00:00",
+    "content": "The accessory originally debuted during former creative director Tom Ford's spring/summer 2002 runway presentation. Image credit: Saint Laurent French fashion house Saint Laurent is mining its early-… [+2201 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Laurent",
+      "Saint",
+      "summer",
+      "Bella",
+      "Hadid",
+      "Mombasa",
+      "Bag",
+      "Tom",
+      "Ford",
+      "spring"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/acca-prodipsust-gets-scqf-level-101206065.html",
+    "title": "ACCA’s ProDipSust gets SCQF Level 10 credit rating",
+    "fetched_on": "2026-01-13T10:27:25.136521+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ACCA",
+      "Level",
+      "SCQF",
+      "credit",
+      "rating",
+      "ProDipSust"
+    ]
   }
 ]
