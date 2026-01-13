@@ -30341,5 +30341,45 @@
       "chars",
       "trial"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/european-shares-slip-as-banks-slide-on-trumps-credit-card-fee-cap-plan/articleshow/126480176.cms",
+    "title": "European shares slip as banks slide on Trump's credit card fee cap plan",
+    "fetched_on": "2026-01-13T09:30:34.433981+00:00",
+    "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "market",
+      "Telegram",
+      "Trump",
+      "Sensex",
+      "Nifty",
+      "Track",
+      "shares",
+      "Share",
+      "European"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/bhumika-realty-raises-rs-170-cr-to-fund-project-in-faridabad/articleshow/126480095.cms",
+    "title": "Bhumika Realty raises Rs 170 cr to fund project in Faridabad",
+    "fetched_on": "2026-01-13T09:30:34.433981+00:00",
+    "content": "Bhumika Realty has raised Rs 170 crore from a real estate credit platform of Aditya Birla Sun Life AMC and BGO to fund its new mixed-use project in Faridabad.In a statement on Monday, the company sai… [+1761 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Realty",
+      "chars",
+      "Monday",
+      "Bhumika",
+      "Faridabad",
+      "Aditya",
+      "Birla",
+      "Sun",
+      "Life",
+      "AMC"
+    ]
   }
 ]
