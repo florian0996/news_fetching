@@ -30241,5 +30241,65 @@
       "step",
       "steering"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/stock-markets/ireda-shares-gain-17-as-q3-net-profit-jumps-38-on-strong-lending-growth/article70500529.ece",
+    "title": "IREDA shares gain 1.7% as Q3 net profit jumps 38% on strong lending growth",
+    "fetched_on": "2026-01-13T07:27:04.211359+00:00",
+    "content": "Indian Renewable Energy Development Agency (IREDA) shares were trading at 138.94, up 2.33 or 1.71 per cent from the previous close of 136.61, as of 12.38 pm on Monday after the state-owned renewable … [+1560 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IREDA",
+      "chars",
+      "Agency",
+      "Renewable",
+      "Indian",
+      "Energy",
+      "Development",
+      "Monday",
+      "gain",
+      "net"
+    ]
+  },
+  {
+    "source": "Hospitality Net [NewsAPI]",
+    "url": "https://www.hospitalitynet.org/opinion/4130092.html",
+    "title": "Social Engineering at the Front Desk: A Growing Threat for Hotels",
+    "fetched_on": "2026-01-13T07:27:04.211359+00:00",
+    "content": "Every day, hotel front desk staff welcome new guests and collect their personal identifiable information (PII), such as names, addresses, emails, credit card numbers, and even passport data. This tro… [+9558 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PII",
+      "addresses",
+      "emails",
+      "Front",
+      "Desk",
+      "Engineering",
+      "Growing",
+      "Threat",
+      "Social",
+      "day"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/90094/liverpool-and-rivals-await-la-liga-decision-in-move-for-e18m-serie-a-defender.html",
+    "title": "Liverpool and rivals await La Liga decision in move for €18m Serie A defender",
+    "fetched_on": "2026-01-13T07:27:04.211359+00:00",
+    "content": "Credit must go to Caught Offside for the original reporting, which sheds light on a familiar modern transfer story, one where talent, clauses and power intersect long before a player reaches his supp… [+3819 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Serie",
+      "Liga",
+      "Credit",
+      "Caught",
+      "Offside",
+      "Liverpool",
+      "reporting",
+      "story",
+      "talent"
+    ]
   }
 ]
