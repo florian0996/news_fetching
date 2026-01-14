@@ -22,8 +22,8 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-13/bolivia-gets-4-5-billion-idb-loan-to-support-emergency-reforms",
-    "title": "Bolivia Gets $4.5 Billion IDB Loan to Support Emergency Reforms",
-    "fetched_on": "2026-01-14T03:51:17.119754+00:00",
+    "title": "Bolivia Gets $4.5 Billion IDB Loan to Aid Emergency Reforms",
+    "fetched_on": "2026-01-14T17:28:41.834577+00:00",
     "content": "Bolivia secured a further $4.5 billion in multilateral lending, boosting the new government\u2019s chances of stabilizing an economy enduring its deepest crisis since the 1980s.",
     "platforms_mentioned": [],
     "keywords": [
@@ -31,7 +31,7 @@
       "Bolivia",
       "IDB",
       "Loan",
-      "Support",
+      "Aid",
       "Emergency",
       "Reforms",
       "lending",
@@ -423,7 +423,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/wealth-management-platform-wealthfront-files-ipo/",
     "title": "Wealth Management Platform Wealthfront Targets $2.05B Valuation In Latest Fintech IPO",
-    "fetched_on": "2026-01-14T16:34:28.448353+00:00",
+    "fetched_on": "2026-01-14T17:28:58.416978+00:00",
     "content": "Digital wealth management platform unicorn Wealthfront has filed for an initial public offering, lining up the Palo Alto, California-based startup to join a string of fintech IPOs in the U.S. this year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/record-breaking-seed-funding-us-ai-eoy-2025/",
     "title": "Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead",
-    "fetched_on": "2026-01-14T16:34:30.601732+00:00",
+    "fetched_on": "2026-01-14T17:29:01.302595+00:00",
     "content": "The seed investment environment exhibited its typical quirkiness in 2025. In particular, it was a huge year for huge rounds. Predictably, it was also a banner period for AI dealmaking with the U.S. pulling in a bigger-than-usual share of total investment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/13/trump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
     "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
-    "fetched_on": "2026-01-14T16:34:32.206740+00:00",
+    "fetched_on": "2026-01-14T17:29:03.189133+00:00",
     "content": "Banks say a proposed 10% cap on credit card interest rates would result in fewer credit card accounts for Americans and a hit to the U.S. economy.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/13/car-loan-payments-top-1000-for-more-drivers.html",
     "title": "More drivers have $1,000-plus car loan payments. Here's what buyers can expect in 2026",
-    "fetched_on": "2026-01-14T16:34:32.361129+00:00",
+    "fetched_on": "2026-01-14T17:29:03.385778+00:00",
     "content": "The share of new-car buyers who pay $1,000 or more per month for their auto loans rose to a new record in the fourth quarter, according to Edmunds data.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-credit-card-interest-rate-cap.html",
     "title": "Trump floats 1-year, 10% credit card interest rate cap \u2014 what that could mean for your money",
-    "fetched_on": "2026-01-14T16:34:32.361143+00:00",
+    "fetched_on": "2026-01-14T17:29:03.385791+00:00",
     "content": "President Donald Trump called for a 10% cap on credit card interest rates. Here's what experts say that could mean for cardholders, if implemented.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/09/trump-orders-mortgage-bond-purchases-these-stocks-are-jumping.html",
     "title": "Trump orders mortgage bond purchases to lower rates. These stocks are jumping in response",
-    "fetched_on": "2026-01-14T16:34:32.041311+00:00",
+    "fetched_on": "2026-01-14T17:29:03.096277+00:00",
     "content": "Analysts are now weighing the actual impact for consumers and what the move means for lending stocks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/29/student-debt-rent.html",
     "title": "Your past-due student loans can make it harder to rent an apartment. These 5 tips can help",
-    "fetched_on": "2026-01-14T16:34:32.041390+00:00",
+    "fetched_on": "2026-01-14T17:29:03.096354+00:00",
     "content": "If you've fallen behind on your student loans, it may be more challenging to get a property manager to approve you for rental housing, financial experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/17/mortgage-rates-moved-higher-after-fed-rate-cut.html",
     "title": "Mortgage rates move higher after the Fed rate cut, causing loan demand to drop",
-    "fetched_on": "2026-01-14T16:34:32.041410+00:00",
+    "fetched_on": "2026-01-14T17:29:03.096375+00:00",
     "content": "Mortgage rates moved higher after the Fed cut interest rates last week. That caused demand to drop for both home buying and refinancing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/11/esusu-funding-renters-credit-scores.html",
     "title": "Esusu, platform for renters to build credit scores, valued at $1.2 billion in new funding round",
-    "fetched_on": "2026-01-14T16:34:32.041445+00:00",
+    "fetched_on": "2026-01-14T17:29:03.096409+00:00",
     "content": "Esusu raises $50 million at a $1.2 billion valuation as it helps more renters build credit scores and gain access to mortgages and other financial products.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/fed-december-rate-cut-mortgages-loans-savings-impact.html",
     "title": "What December's Fed rate cut means for your mortgage, credit card, auto loan, student debt and savings",
-    "fetched_on": "2026-01-14T16:34:32.041452+00:00",
+    "fetched_on": "2026-01-14T17:29:03.096415+00:00",
     "content": "From\u00a0credit cards and car loans to mortgage rates, student loans and savings accounts, here's a look at the ways a Fed rate cut could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
     "title": "Refinance demand for FHA loans jumps 24%, as homeowners seek the most savings they can",
-    "fetched_on": "2026-01-14T16:34:32.041467+00:00",
+    "fetched_on": "2026-01-14T17:29:03.096429+00:00",
     "content": "Current homeowners are turning to government FHA loans, which offer lower interest rates, to find savings, as conventional rates turn higher.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/08/what-another-fed-cut-could-mean-for-your-personal-borrowing-costs.html",
     "title": "What another Fed cut could mean for your personal borrowing costs",
-    "fetched_on": "2026-01-14T16:34:32.041488+00:00",
+    "fetched_on": "2026-01-14T17:29:03.096449+00:00",
     "content": "Many types of consumer loans are impacted when the Fed lowers its overnight lending rate, but it also depends on the product and duration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-targets-credit-card-rates-whats-at-stake-for-capital-one-and-other-banks.html",
     "title": "Trump targets credit card rates. What\u2019s at stake for Capital One and other banks",
-    "fetched_on": "2026-01-14T16:34:32.206761+00:00",
+    "fetched_on": "2026-01-14T17:29:03.189154+00:00",
     "content": "Capital One shares sank Monday after Trump called for a 10% cap on credit card rates, a major profit driver for the company.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-credit-card-rate-cap-enforcement-path-risks.html",
     "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
-    "fetched_on": "2026-01-14T16:34:32.206775+00:00",
+    "fetched_on": "2026-01-14T17:29:03.189167+00:00",
     "content": "A 10% rate cap would make large swaths of the credit card industry unprofitable, especially tied to customers with less-than-ideal credit, banks say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html",
     "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
-    "fetched_on": "2026-01-14T16:34:32.206854+00:00",
+    "fetched_on": "2026-01-14T17:29:03.189243+00:00",
     "content": "JPMorgan Chase has reached a deal to take over the Apple credit card from Goldman Sachs, the two banks said late Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/01/student-loan-forgiveness-taxes.html",
     "title": "Student loan forgiveness is taxable again: Start planning for the 'tax bomb,' CFP says",
-    "fetched_on": "2026-01-14T16:34:32.361267+00:00",
+    "fetched_on": "2026-01-14T17:29:03.385914+00:00",
     "content": "Some student loan borrowers who get their debt canceled in 2026 may be hit with a tax bill now that a law protecting the relief from levies has expired.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1624,7 +1624,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-14/sixth-street-raises-3-75-billion-for-european-direct-lending",
     "title": "Sixth Street Raises \u20ac3.75 Billion for European Direct Loans",
-    "fetched_on": "2026-01-14T16:34:03.990474+00:00",
+    "fetched_on": "2026-01-14T17:28:43.576535+00:00",
     "content": "Sixth Street has raised \u20ac3.75 billion ($4.4 billion) from investors to target financing opportunities in Europe\u2019s direct lending market.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1903,7 +1903,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-14/bofa-beats-estimates-as-trading-beats-and-lending-revenue-rises",
     "title": "BofA Tops Estimates as Trading Beats and Lending Revenue Rises",
-    "fetched_on": "2026-01-14T16:34:03.990439+00:00",
+    "fetched_on": "2026-01-14T17:28:43.576505+00:00",
     "content": "Bank of America Corp.\u2019s equity traders posted their best fourth quarter ever as the company reaped the benefits of volatile markets and net interest income topped analysts\u2019 estimates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2182,7 +2182,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html",
     "title": "Citigroup tops estimates on stronger net interest income, smaller loan loss provision",
-    "fetched_on": "2026-01-14T16:34:32.206711+00:00",
+    "fetched_on": "2026-01-14T17:29:03.189103+00:00",
     "content": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling off parts of its overseas operations.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2240,7 +2240,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/newsletters/2026-01-14/eu-unveils-90-billion-loan-for-ukraine-favoring-european-defense-companies",
     "title": "Boost for European Defense Sector as EU Unveils Ukraine Loan",
-    "fetched_on": "2026-01-14T16:34:03.113719+00:00",
+    "fetched_on": "2026-01-14T17:28:42.113602+00:00",
     "content": "The \u20ac90 billion will go toward addressing Ukraine\u2019s defense needs and also help keep the country running.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2436,7 +2436,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-14/big-banks-see-record-lending-haul-as-low-yield-assets-roll-off",
     "title": "Big Banks See Record Lending Haul as Low Yield Assets Roll Off",
-    "fetched_on": "2026-01-14T16:34:03.990393+00:00",
+    "fetched_on": "2026-01-14T17:28:43.576463+00:00",
     "content": "Wall Street\u2019s great rate reset on its securities portfolios has finally arrived.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2456,7 +2456,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-14/delta-air-ceo-says-trump-credit-card-cap-will-upend-industry",
     "title": "Delta Air CEO Says Trump Credit Card Cap Will Upend Industry",
-    "fetched_on": "2026-01-14T16:34:03.990450+00:00",
+    "fetched_on": "2026-01-14T17:28:43.576511+00:00",
     "content": "President Donald Trump\u2019s push to cap credit card interest rates at 10% would hurt banks and lower-end consumers, Delta Air Lines Inc. Chief Executive Officer Ed Bastian said.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2476,7 +2476,7 @@
     "source": "Inside the Magic [NewsAPI]",
     "url": "https://insidethemagic.net/2026/01/disney-world-warns-guests-visiting-resorts-in-early-2026-th1/",
     "title": "Disney World Warns Guests Visiting Resorts in Early 2026",
-    "fetched_on": "2026-01-14T16:34:01.862264+00:00",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
     "content": "More closure warnings have been issued for Disney World\u2019s resorts this year.\r\nCredit: Ryaninc, Flickr\r\nDisney has issued advance notifications to guests staying at two popular Walt Disney World resor\u2026 [+3109 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2496,7 +2496,7 @@
     "source": "Yahoo Entertainment [NewsAPI]",
     "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1a059712-f21a-437a-aa3c-431863a3701b",
     "title": "What Trump\u2019s 10% cap on interest rates would mean for credit cardholders",
-    "fetched_on": "2026-01-14T16:34:01.862264+00:00",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
     "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2516,7 +2516,7 @@
     "source": "Rolling Stone [NewsAPI]",
     "url": "http://www.rollingstone.com/music/music-pictures/bob-weir-memorial-haigh-asbury-1235498551/",
     "title": "Deadheads Gather in San Francisco\u2019s Haight to Remember Bob Weir",
-    "fetched_on": "2026-01-14T16:34:01.862264+00:00",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
     "content": "Image Credit: \u00a9 Jay Blakesberg\r\nA memorial for Bob Weir includes tributes to late counterculture legends Ken Kesey, the architect of the Acid Tests of the 1960s, and Stanley Mouse, the illustrator kn\u2026 [+116 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2716,7 +2716,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/warren-trump-credit-card-interest-rate-affordability.html",
     "title": "Sen. Warren says Trump called her to work on credit card interest rate caps",
-    "fetched_on": "2026-01-14T16:34:32.206680+00:00",
+    "fetched_on": "2026-01-14T17:29:03.189080+00:00",
     "content": "Republicans on Capitol Hill have lightly thrown cold water on capping credit card interest at 10%.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2736,7 +2736,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/student-loans-default-tax-refunds-garnishment.html",
     "title": "Student loan borrowers in default may miss out on Trump's 'largest tax refund season of all time'",
-    "fetched_on": "2026-01-14T16:34:32.361078+00:00",
+    "fetched_on": "2026-01-14T17:29:03.385733+00:00",
     "content": "The Trump administration is predicting larger tax refunds for the 2026 tax season, but the millions of student loan borrowers in default may miss out.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2776,7 +2776,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/student-loans/article/how-to-get-student-loans-out-of-default-150010683.html",
     "title": "How to get student loans out of default",
-    "fetched_on": "2026-01-14T16:34:32.695368+00:00",
+    "fetched_on": "2026-01-14T17:29:03.689054+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -2804,6 +2804,206 @@
       "Mittwoch",
       "Tag",
       "magazin"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-14/bilt-unveils-credit-cards-capped-at-10-after-trump-s-demands",
+    "title": "Bilt Unveils Credit Cards Capped at 10% After Trump\u2019s Demands",
+    "fetched_on": "2026-01-14T17:28:43.576436+00:00",
+    "content": "Bilt Rewards is unveiling three new credit cards with interest rates capped at 10%, days after President Donald Trump threatened lenders that failed to do so.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Credit",
+      "Cards",
+      "Capped",
+      "Bilt",
+      "Unveils",
+      "Demands",
+      "Rewards",
+      "President",
+      "Donald"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-scott-adams-dilbert-creator-5418302/",
+    "title": "Who Is Scott Adams? 5 Things to Know About the \u2018Dilbert\u2019 Creator Who Died",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
+    "content": "Image Credit: Getty Images\r\nScott Adams, best known as the creator of the Dilbert comic strip, was living with the same form of cancer that former President Joe Biden has. Adams got candid about his \u2026 [+2736 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scott",
+      "Adams",
+      "Creator",
+      "Things",
+      "Dilbert\u2019",
+      "Credit",
+      "Getty",
+      "Died",
+      "Dilbert",
+      "President"
+    ]
+  },
+  {
+    "source": "Ai-cio.com [NewsAPI]",
+    "url": "https://www.ai-cio.com/news/coller-capital-ares-management-raise-billions-for-secondaries-funds/",
+    "title": "Coller Capital, Ares Management Raise Billions for Secondaries Funds",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
+    "content": "AlternativesJanuary 13, 2026The $17 billion raised for Coller International Partners IX is already 70% deployed, while Ares raised $7.1 billion for its inaugural credit strategy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "deployed",
+      "Coller",
+      "billion",
+      "Management",
+      "Raise",
+      "Secondaries",
+      "Funds",
+      "International",
+      "Partners"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/hottest-country-in-the-world-new-ad-for-trump-mansions-boasts-saudi-arabia-is-the-place-to-be/",
+    "title": "Hottest Country in the World? New Ad for \u2018Trump Mansions\u2019 Boasts Saudi Arabia Is \u2018The Place to Be\u2019",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
+    "content": "(Photo Credit: Trump Organization)\r\nPresident Donald Trump is fond of calling the USA the \u201chottest\u201d country in the world. But according to a new advertisement released on Tuesday, \u201cthe place to be is\u2026 [+2382 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Trump",
+      "Country",
+      "Hottest",
+      "Place",
+      "Be\u2019",
+      "Photo",
+      "Credit",
+      "Organization",
+      "President"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/trump-demands-credit-card-companies-170000661.html",
+    "title": "Trump demands credit card companies cap interest rates at 10%, but you may not want to wait on Washington to get relief",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
+    "content": "President Trump is calling for a one-year, 10% cap on all credit card interest rates beginning on January 20, warning financial institutions that they would be in violation of the law and subject to \u2026 [+7148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "chars",
+      "Trump",
+      "credit",
+      "card",
+      "interest",
+      "rates",
+      "Washington",
+      "President",
+      "cap"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/will-there-be-a-season-4-of-tell-me-lies-5498180/",
+    "title": "Will There Be a Season 4 of \u2018Tell Me Lies\u2019? What We Know So Far",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
+    "content": "Image Credit: Disney\r\nThe third season ofTell Me Lies is finally here, and with that, viewers are already looking ahead. With any fan-favorite show, audiences hope to see the story continue for as lo\u2026 [+1962 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lies\u2019",
+      "Season",
+      "Credit",
+      "Disney",
+      "Image",
+      "Lies",
+      "chars",
+      "viewers",
+      "ahead",
+      "show"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a9fb854b-0801-469d-beed-51603e06e20a",
+    "title": "JPMorgan warns against lowering high credit card interest",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "JPMorgan",
+      "click",
+      "partners"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/live-action-how-to-train-your-dragon-heading-to-netflix-us-following-short-peacock-run/",
+    "title": "Live Action \u2018How To Train Your Dragon\u2019 Heading to Netflix US Following Peacock Run",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
+    "content": "Picture Credit: Universal Pictures\r\nThe Vikings of Berk are landing on Netflix sooner than you might think. Unexpectedly, the live-action reimagining of How to Train Your Dragon will make its Netflix\u2026 [+3242 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Action",
+      "Credit",
+      "Universal",
+      "Train",
+      "Netflix",
+      "Dragon\u2019",
+      "Heading",
+      "Peacock",
+      "Run",
+      "Vikings"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-cards/2026/jpmorgan-cfo-says-proposed-credit-card-caps-would-hurt-consumers/",
+    "title": "JPMorgan CFO Says Proposed Credit Card Caps Would Hurt Consumers",
+    "fetched_on": "2026-01-14T17:28:41.170236+00:00",
+    "content": "A JPMorgan Chase official says the banking industry could fight proposed credit card price caps.Jermey Barnum, the banks chief financial officer, made those remarks Tuesday (Jan. 13) during a call wi\u2026 [+2269 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jan.",
+      "Credit",
+      "chars",
+      "Barnum",
+      "Tuesday",
+      "Proposed",
+      "Card",
+      "CFO",
+      "Caps",
+      "Hurt"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/big-banks-push-back-on-trumps-credit-card-cap-warning-of-significant-economic-slowdown-165046195.html",
+    "title": "Big banks push back on Trump's credit card cap, warning of 'significant' economic slowdown",
+    "fetched_on": "2026-01-14T17:29:03.688910+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "significant",
+      "Trump",
+      "Big",
+      "cap",
+      "warning",
+      "economic",
+      "slowdown",
+      "banks",
+      "push",
+      "back"
     ]
   }
 ]
