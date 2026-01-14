@@ -33121,5 +33121,85 @@
       "Cap",
       "Credit-Card"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-14/ares-leads-private-credit-firms-in-boosted-loan-for-veritas-deal",
+    "title": "Ares Leads Private Credit Firms in Boosted Loan for Veritas Deal",
+    "fetched_on": "2026-01-14T03:51:17.119661+00:00",
+    "content": "A group of private credit lenders led by Ares Management Corp. upsized their loan to a health-care software platform being acquired by Veritas Capital, leveraging a powerful clause that ensures the firm’s existing debt stays in place while the company changes hands.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Credit",
+      "Corp",
+      "Leads",
+      "Boosted",
+      "Deal",
+      "Management",
+      "Veritas",
+      "Loan",
+      "group"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/martina-monti-talks-about-her-acting-journey-moving-from-italy-to-los-angeles/article",
+    "title": "Martina Monti talks about her acting journey, moving from Italy to Los Angeles",
+    "fetched_on": "2026-01-14T03:51:16.480776+00:00",
+    "content": "Actress Martina Monti. Photo Credit: Matt Marcheski.\r\nMartina Monti chatted about her acting journey, which includes moving from Italy to Los Angeles, and being a part of the vertical space in the di… [+7276 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Monti",
+      "Actress",
+      "Italy",
+      "Los",
+      "Martina",
+      "Angeles",
+      "journey",
+      "acting",
+      "Credit",
+      "Matt"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/bitcoin-slips-below-miner-costs-will-trumps-10-credit-cap-boost-demand/",
+    "title": "Bitcoin slips below miner costs: Will Trump’s 10% credit cap boost demand?",
+    "fetched_on": "2026-01-14T03:51:16.480776+00:00",
+    "content": "There’s a short window of opportunity on the way for Bitcoin [BTC].\r\nOutflows look like they bottomed in late December, and BTC is now priced at less than miner costs, where selling usually eases. Me… [+1980 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "costs",
+      "Bitcoin",
+      "credit",
+      "demand",
+      "BTC",
+      "miner",
+      "slips",
+      "cap",
+      "boost"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/academy-award-nominee-june-squibb-talks-about-starring-in-eleanor-the-great-and-marjorie-prime-on-broadway/article",
+    "title": "Academy Award nominee June Squibb talks about starring in ‘Eleanor the Great’ and ‘Marjorie Prime’ on Broadway",
+    "fetched_on": "2026-01-14T03:51:16.480776+00:00",
+    "content": "June Squibb. Photo Credit: Diana Ragland.\r\nAcademy Award nominee June Squibb chatted about starring in “Eleanor the Great” and in “Marjorie Prime” on Broadway.\r\nHelen Keller once said: “The best and … [+8749 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "June",
+      "Eleanor",
+      "Squibb",
+      "Great’",
+      "Prime’",
+      "Award",
+      "Marjorie",
+      "Broadway",
+      "Academy",
+      "nominee"
+    ]
   }
 ]
