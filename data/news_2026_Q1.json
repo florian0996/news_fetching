@@ -33397,5 +33397,63 @@
       "Sales",
       "Lending"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/business/ubs-ceo-ermotti-to-step-down-in-april-2027-after-steering-credit-suisse-integration-reports/articleshow/126499293.cms",
+    "title": "UBS CEO Ermotti to step down in April 2027 after steering Credit Suisse integration: Reports",
+    "fetched_on": "2026-01-14T07:28:10.353688+00:00",
+    "content": "UBS Group's veteran CEO Sergio Ermotti, who helped the lender navigate the takeover and integration of former rival Credit Suisse, is planning to step down in April 2027, the Financial Times reported… [+1430 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Credit",
+      "Suisse",
+      "UBS",
+      "CEO",
+      "Ermotti",
+      "Reports",
+      "step",
+      "chars",
+      "Group"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/facsi-urges-centre-to-ease-gst-credit-norms-for-mses-in-2026-27-union-budget/article70504138.ece",
+    "title": "FACSI urges Centre to ease GST, credit norms for MSEs in 2026-27 Union Budget",
+    "fetched_on": "2026-01-14T07:28:10.353688+00:00",
+    "content": "The Federation of Associations of Cottage and Small Industries (FACSI) has urged the Centre for tax, credit and regulatory relief measures for micro and small enterprises in the 2026-27 Union Budget,… [+1996 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FACSI",
+      "Union",
+      "Budget",
+      "Centre",
+      "Small",
+      "credit",
+      "GST",
+      "Industries",
+      "chars",
+      "2026-27"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-12-2026/card/analysts-warn-credit-card-rate-cap-could-sideline-many-from-credit-access-wa4pyY22RYNAsNkp5uH6?siteid=yhoof2&yptr=yahoo",
+    "title": "Credit-Card Rate Cap Could Sideline Many From Credit Access, Analysts Warn",
+    "fetched_on": "2026-01-14T07:28:33.220124+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Access",
+      "Analysts",
+      "Warn",
+      "Rate",
+      "Cap",
+      "Sideline",
+      "Credit",
+      "Credit-Card"
+    ]
   }
 ]
