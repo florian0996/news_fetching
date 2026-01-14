@@ -33553,5 +33553,125 @@
       "Interest",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-14/hsbc-plans-risk-transfer-linked-to-2-billion-of-corporate-loans",
+    "title": "HSBC Plans Risk Transfer Linked to €2 Billion of Corporate Loans",
+    "fetched_on": "2026-01-14T09:31:09.564581+00:00",
+    "content": "HSBC Holdings Plc is gauging investor demand for a significant risk transfer tied to a portfolio of about €2 billion ($2.3 billion) of investment-grade corporate loans.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "HSBC",
+      "Risk",
+      "Transfer",
+      "Corporate",
+      "Loans",
+      "Plans",
+      "Linked",
+      "Holdings",
+      "Plc"
+    ]
+  },
+  {
+    "source": "decanter.com [NewsAPI]",
+    "url": "https://www.decanter.com/wine/on-the-rack-eric-asimov-572277/",
+    "title": "On the rack: Eric Asimov",
+    "fetched_on": "2026-01-14T09:31:08.766623+00:00",
+    "content": "Adam Morganstern photo credit: Adam Morganstern\r\nWhats on your wine rack at the moment?\r\nA lot of dry Italian whites. Ive been really interested in Fiano di Avellino recently; dry Rieslings; an occas… [+10101 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Adam",
+      "Morganstern",
+      "Eric",
+      "Asimov",
+      "rack",
+      "credit",
+      "moment",
+      "photo",
+      "wine",
+      "Rieslings"
+    ]
+  },
+  {
+    "source": "T3 US/CA [NewsAPI]",
+    "url": "https://www.t3.com/tech/iphones/apple-confirms-decision-that-will-radically-change-your-iphone-forever",
+    "title": "Apple confirms decision that will radically change your iPhone forever",
+    "fetched_on": "2026-01-14T09:31:08.766623+00:00",
+    "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nCredit: Rik Henderson / Future\r\nQuick Summary\r\nApple and Google have released a joint statement… [+2701 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "articles",
+      "commission",
+      "Apple",
+      "Credit",
+      "chars",
+      "Rik",
+      "Henderson",
+      "confirms",
+      "decision"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/whats-trending/2026/consumers-pay-the-price-as-state-regulation-fractures-fintech-scale/",
+    "title": "Consumers Pay the Price as State Regulation Fractures FinTech Scale",
+    "fetched_on": "2026-01-14T09:31:08.766623+00:00",
+    "content": "States are now reasserting control over credit access and bank-like services, particularly in BNPL, earned wage access and embedded credit. The result is not clearer oversight, but a regulatory patch… [+7662 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNPL",
+      "Pay",
+      "Price",
+      "Regulation",
+      "Fractures",
+      "Scale",
+      "access",
+      "State",
+      "States",
+      "Consumers"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/01/13/fixing-a-ks-jive-dab-radio-with-a-dash-of-fake-ics/",
+    "title": "Fixing a KS Jive DAB Radio with a Dash of Fake ICs",
+    "fetched_on": "2026-01-14T09:31:08.766623+00:00",
+    "content": "The radio unit after a successful repair. (Credit: Buy it Fix it, YouTube)\r\nThe exciting part about repairing consumer electronics is that you are never quite sure what you are going to find. In a re… [+2400 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Radio",
+      "Jive",
+      "DAB",
+      "Dash",
+      "Fake",
+      "Fixing",
+      "repair",
+      "Credit",
+      "ICs",
+      "unit"
+    ]
+  },
+  {
+    "source": "Retrotogo.com [NewsAPI]",
+    "url": "https://www.retrotogo.com/2026/01/mathmos-astro-1960s-lava-lamps.html",
+    "title": "Design classic: 1960s Mathmos Astro lava lamp",
+    "fetched_on": "2026-01-14T09:31:08.766623+00:00",
+    "content": "Design classic: 1960s Mathmos Astro lava lamp (image credit: Mathmos/Amazon)\r\nNote all articles are independently researched and written by myself. However, if you buy via one of the links it may be … [+2296 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mathmos",
+      "Astro",
+      "Amazon",
+      "classic",
+      "Design",
+      "Note",
+      "lava",
+      "lamp",
+      "image",
+      "credit"
+    ]
   }
 ]
