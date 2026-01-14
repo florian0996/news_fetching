@@ -103,7 +103,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-01-13/bloomberg-tech-1-13-2026-video",
     "title": "Meta Shifts to AI Devices From Metaverse | Bloomberg Tech 1/13/2026",
-    "fetched_on": "2026-01-14T13:41:47.412216+00:00",
+    "fetched_on": "2026-01-14T14:27:52.519627+00:00",
     "content": "Bloomberg\u2019s Caroline Hyde and Ed Ludlow discuss Meta\u2019s plans to double the output of its Ray-Ban AI-glasses as it pivots away from the metaverse. Plus, Microsoft pledges to pay electricity rates that will cover costs for its data centers, seeking to quell consumer anxiety over power prices. And, Klarna CEO Sebastian Siemiatkowski weighs in on President Trump\u2019s call for a one-year 10% interest rate cap on credit cards. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/wealth-management-platform-wealthfront-files-ipo/",
     "title": "Wealth Management Platform Wealthfront Targets $2.05B Valuation In Latest Fintech IPO",
-    "fetched_on": "2026-01-14T13:42:02.317494+00:00",
+    "fetched_on": "2026-01-14T14:28:11.161834+00:00",
     "content": "Digital wealth management platform unicorn Wealthfront has filed for an initial public offering, lining up the Palo Alto, California-based startup to join a string of fintech IPOs in the U.S. this year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/record-breaking-seed-funding-us-ai-eoy-2025/",
     "title": "Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead",
-    "fetched_on": "2026-01-14T13:42:05.246821+00:00",
+    "fetched_on": "2026-01-14T14:28:15.881446+00:00",
     "content": "The seed investment environment exhibited its typical quirkiness in 2025. In particular, it was a huge year for huge rounds. Predictably, it was also a banner period for AI dealmaking with the U.S. pulling in a bigger-than-usual share of total investment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/13/trump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
     "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
-    "fetched_on": "2026-01-14T13:42:06.806351+00:00",
+    "fetched_on": "2026-01-14T14:28:17.888542+00:00",
     "content": "Banks say a proposed 10% cap on credit card interest rates would result in fewer credit card accounts for Americans and a hit to the U.S. economy.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/13/car-loan-payments-top-1000-for-more-drivers.html",
     "title": "More drivers have $1,000-plus car loan payments. Here's what buyers can expect in 2026",
-    "fetched_on": "2026-01-14T13:42:06.921783+00:00",
+    "fetched_on": "2026-01-14T14:28:18.041224+00:00",
     "content": "The share of new-car buyers who pay $1,000 or more per month for their auto loans rose to a new record in the fourth quarter, according to Edmunds data.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-credit-card-interest-rate-cap.html",
     "title": "Trump floats 1-year, 10% credit card interest rate cap \u2014 what that could mean for your money",
-    "fetched_on": "2026-01-14T13:42:06.921797+00:00",
+    "fetched_on": "2026-01-14T14:28:18.041239+00:00",
     "content": "President Donald Trump called for a 10% cap on credit card interest rates. Here's what experts say that could mean for cardholders, if implemented.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/09/trump-orders-mortgage-bond-purchases-these-stocks-are-jumping.html",
     "title": "Trump orders mortgage bond purchases to lower rates. These stocks are jumping in response",
-    "fetched_on": "2026-01-14T13:42:06.692806+00:00",
+    "fetched_on": "2026-01-14T14:28:17.807150+00:00",
     "content": "Analysts are now weighing the actual impact for consumers and what the move means for lending stocks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -540,10 +540,10 @@
     ]
   },
   {
-    "source": "CNBC Personal Fin. [RSS]",
+    "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/29/student-debt-rent.html",
     "title": "Your past-due student loans can make it harder to rent an apartment. These 5 tips can help",
-    "fetched_on": "2026-01-14T13:42:06.921966+00:00",
+    "fetched_on": "2026-01-14T14:28:17.807228+00:00",
     "content": "If you've fallen behind on your student loans, it may be more challenging to get a property manager to approve you for rental housing, financial experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/17/mortgage-rates-moved-higher-after-fed-rate-cut.html",
     "title": "Mortgage rates move higher after the Fed rate cut, causing loan demand to drop",
-    "fetched_on": "2026-01-14T13:42:06.692959+00:00",
+    "fetched_on": "2026-01-14T14:28:17.807249+00:00",
     "content": "Mortgage rates moved higher after the Fed cut interest rates last week. That caused demand to drop for both home buying and refinancing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/11/esusu-funding-renters-credit-scores.html",
     "title": "Esusu, platform for renters to build credit scores, valued at $1.2 billion in new funding round",
-    "fetched_on": "2026-01-14T13:42:06.693042+00:00",
+    "fetched_on": "2026-01-14T14:28:17.807283+00:00",
     "content": "Esusu raises $50 million at a $1.2 billion valuation as it helps more renters build credit scores and gain access to mortgages and other financial products.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/fed-december-rate-cut-mortgages-loans-savings-impact.html",
     "title": "What December's Fed rate cut means for your mortgage, credit card, auto loan, student debt and savings",
-    "fetched_on": "2026-01-14T13:42:06.693053+00:00",
+    "fetched_on": "2026-01-14T14:28:17.807290+00:00",
     "content": "From\u00a0credit cards and car loans to mortgage rates, student loans and savings accounts, here's a look at the ways a Fed rate cut could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
     "title": "Refinance demand for FHA loans jumps 24%, as homeowners seek the most savings they can",
-    "fetched_on": "2026-01-14T13:42:06.693071+00:00",
+    "fetched_on": "2026-01-14T14:28:17.807303+00:00",
     "content": "Current homeowners are turning to government FHA loans, which offer lower interest rates, to find savings, as conventional rates turn higher.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/08/what-another-fed-cut-could-mean-for-your-personal-borrowing-costs.html",
     "title": "What another Fed cut could mean for your personal borrowing costs",
-    "fetched_on": "2026-01-14T13:42:06.693092+00:00",
+    "fetched_on": "2026-01-14T14:28:17.807324+00:00",
     "content": "Many types of consumer loans are impacted when the Fed lowers its overnight lending rate, but it also depends on the product and duration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-targets-credit-card-rates-whats-at-stake-for-capital-one-and-other-banks.html",
     "title": "Trump targets credit card rates. What\u2019s at stake for Capital One and other banks",
-    "fetched_on": "2026-01-14T13:42:06.806372+00:00",
+    "fetched_on": "2026-01-14T14:28:17.888565+00:00",
     "content": "Capital One shares sank Monday after Trump called for a 10% cap on credit card rates, a major profit driver for the company.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-credit-card-rate-cap-enforcement-path-risks.html",
     "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
-    "fetched_on": "2026-01-14T13:42:06.806387+00:00",
+    "fetched_on": "2026-01-14T14:28:17.888579+00:00",
     "content": "A 10% rate cap would make large swaths of the credit card industry unprofitable, especially tied to customers with less-than-ideal credit, banks say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html",
     "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
-    "fetched_on": "2026-01-14T13:42:06.806463+00:00",
+    "fetched_on": "2026-01-14T14:28:17.888663+00:00",
     "content": "JPMorgan Chase has reached a deal to take over the Apple credit card from Goldman Sachs, the two banks said late Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/01/student-loan-forgiveness-taxes.html",
     "title": "Student loan forgiveness is taxable again: Start planning for the 'tax bomb,' CFP says",
-    "fetched_on": "2026-01-14T13:42:06.921924+00:00",
+    "fetched_on": "2026-01-14T14:28:18.041386+00:00",
     "content": "Some student loan borrowers who get their debt canceled in 2026 may be hit with a tax bill now that a law protecting the relief from levies has expired.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2025/12/29/bankruptcy-student-loan-borrowers.html",
     "title": "Bankruptcy success rate for student loan borrowers jumps to 87%, study finds",
-    "fetched_on": "2026-01-14T13:42:06.921959+00:00",
+    "fetched_on": "2026-01-14T14:28:18.041419+00:00",
     "content": "The success rate for student loan borrowers in bankruptcy has \"jumped\" to 87%, a study finds. But many people still don't pursue the option.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1624,7 +1624,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-14/sixth-street-raises-3-75-billion-for-european-direct-lending",
     "title": "Sixth Street Raises \u20ac3.75 Billion for European Direct Loans",
-    "fetched_on": "2026-01-14T13:41:47.610052+00:00",
+    "fetched_on": "2026-01-14T14:27:52.674465+00:00",
     "content": "Sixth Street has raised \u20ac3.75 billion ($4.4 billion) from investors to target financing opportunities in Europe\u2019s direct lending market.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1684,7 +1684,7 @@
     "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-14/eu-s-90-billion-ukraine-loan-to-mostly-support-european-firms",
     "title": "EU\u2019s \u20ac90 Billion Ukraine Loan to Mostly Support European Firms",
-    "fetched_on": "2026-01-14T13:41:47.200577+00:00",
+    "fetched_on": "2026-01-14T14:27:52.340392+00:00",
     "content": "The European Union will direct Ukraine to purchase mostly European armaments with a new \u20ac90 billion ($105 billion) loan unless there is an \u201curgent need\u201d and no local option available.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1883,7 +1883,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/audio/2026-01-14/credit-crunch-axar-s-axelrod-on-zombie-owners-and-credit-cycle",
     "title": "Credit Crunch: Axar\u2019s Axelrod on Zombie Owners and Credit Cycle",
-    "fetched_on": "2026-01-14T13:41:47.306776+00:00",
+    "fetched_on": "2026-01-14T14:27:52.443662+00:00",
     "content": "\u201cTime can be a good thing. Time can be a very bad thing\u2026I think the whole market moves a bit slower now when there are problems in terms of how those problems get dealt with,\u201d says Axar Capital founder &amp; CEO Andrew Axelrod when discussing the evolution in markets away from mark-to-market investment vehicles. Axelrod joins Bloomberg Intelligence\u2019s Noel Hebert on the latest episode of Credit Crunch to talk about how he sees the current credit backdrop, whether the 4Q credit flare-ups are cockr",
     "platforms_mentioned": [],
     "keywords": [
@@ -1903,7 +1903,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-14/bofa-beats-estimates-as-trading-beats-and-lending-revenue-rises",
     "title": "BofA Tops Estimates as Trading Beats and Lending Revenue Rises",
-    "fetched_on": "2026-01-14T13:41:47.610039+00:00",
+    "fetched_on": "2026-01-14T14:27:52.674453+00:00",
     "content": "Bank of America Corp.\u2019s equity traders posted their best fourth quarter ever as the company reaped the benefits of volatile markets and net interest income topped analysts\u2019 estimates.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2064,7 +2064,7 @@
     "source": "Thefly.com [NewsAPI]",
     "url": "https://thefly.com/permalinks/entry.php/id4270240/RCEL-Avita-Medical-closes-fiveyear-credit-facility-up-to-M",
     "title": "Avita Medical closes five-year credit facility up to $60M",
-    "fetched_on": "2026-01-14T13:41:46.461286+00:00",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
     "content": "Earnings calls, analyst events, roadshows and more",
     "platforms_mentioned": [],
     "keywords": [
@@ -2084,7 +2084,7 @@
     "source": "Unexplained-mysteries.com [NewsAPI]",
     "url": "https://www.unexplained-mysteries.com/news/393738/canoes-discovered-in-wisconin-lake-are-older-than-the-great-pyramid",
     "title": "Canoes discovered in Wisconin lake are 'older than the Great Pyramid'",
-    "fetched_on": "2026-01-14T13:41:46.461286+00:00",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
     "content": "Archaeology &amp; History\r\nBy T.K. RandallJanuary 13, 2026 \u00b7 \u00a01 commentLake Mendota. Image Credit: CC BY 2.0 Richard HurdA groundbreaking archaeological discovery indicates that an advanced culture e\u2026 [+1682 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2104,7 +2104,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2026/01/13/3217806/0/en/Pelthos-Therapeutics-Secures-Up-to-50-Million-Senior-Secured-Term-Loan-Facility-from-Horizon-Technology-Finance.html",
     "title": "Pelthos Therapeutics Secures Up to $50 Million Senior Secured Term Loan Facility from Horizon Technology Finance",
-    "fetched_on": "2026-01-14T13:41:46.461286+00:00",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
     "content": "DURHAM, N.C., Jan. 13, 2026 (GLOBE NEWSWIRE) -- Pelthos Therapeutics Inc. (NYSE American: PTHS), a biopharmaceutical company committed to commercializing innovative therapeutic products for unmet pat\u2026 [+8485 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2124,7 +2124,7 @@
     "source": "Thefly.com [NewsAPI]",
     "url": "https://thefly.com/permalinks/entry.php/id4270184/SPWR-SunPower-increases-equity-line-of-credit-to-M",
     "title": "SunPower increases equity line of credit to $55M",
-    "fetched_on": "2026-01-14T13:41:46.461286+00:00",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
     "content": "Earnings calls, analyst events, roadshows and more",
     "platforms_mentioned": [],
     "keywords": [
@@ -2144,7 +2144,7 @@
     "source": "Gatewayhispanic.com [NewsAPI]",
     "url": "https://gatewayhispanic.com/2026/01/trump-will-request-limit-credit-card-interest-rates/",
     "title": "Trump Will Request to Limit Credit Card Interest Rates to 10% for One Year to Combat the Scams of the Big Financial Companies",
-    "fetched_on": "2026-01-14T13:41:46.461286+00:00",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
     "content": "Donald Trump has declared war on the abusive practices of credit card companies, announcing through his platform Truth Social a temporary cap of 10 % on interest rates for a full year, effective as o\u2026 [+2957 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2181,8 +2181,8 @@
   {
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html",
-    "title": "Citigroup tops estimates as loan loss provisions come in lighter than expected",
-    "fetched_on": "2026-01-14T13:42:06.806307+00:00",
+    "title": "Citigroup tops estimates on stronger net interest income, smaller loan loss provision",
+    "fetched_on": "2026-01-14T14:28:17.888497+00:00",
     "content": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling off parts of its overseas operations.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2190,12 +2190,12 @@
       "Fraser",
       "CEO",
       "Jane",
+      "income",
+      "smaller",
       "restructuring",
       "selling",
       "operations",
-      "tops",
-      "estimates",
-      "loan"
+      "tops"
     ]
   },
   {
@@ -2214,6 +2214,222 @@
       "Lending",
       "Revenue",
       "BofA"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-14/figure-technology-to-enable-direct-stock-lending-over-blockchain",
+    "title": "Figure Technology to Enable Direct Stock Lending Over Blockchain",
+    "fetched_on": "2026-01-14T14:27:52.259888+00:00",
+    "content": "Blockchain-based lender Figure Technology Solutions Inc. is launching a new platform to issue on-chain equity, allowing investors to lend shares directly to one another without traditional intermediaries.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Technology",
+      "Figure",
+      "Enable",
+      "Direct",
+      "Stock",
+      "Lending",
+      "Blockchain",
+      "Blockchain-based",
+      "Solutions",
+      "Inc."
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-01-14/eu-unveils-90-billion-loan-for-ukraine-favoring-european-defense-companies",
+    "title": "Boost for European Defense Sector as EU Unveils Ukraine Loan",
+    "fetched_on": "2026-01-14T14:27:52.443593+00:00",
+    "content": "The \u20ac90 billion will go toward addressing Ukraine\u2019s defense needs and also help keep the country running.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ukraine",
+      "Defense",
+      "European",
+      "Sector",
+      "Unveils",
+      "Loan",
+      "Boost",
+      "billion",
+      "running",
+      "addressing"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/third-person-shooter/if-i-could-change-one-thing-in-arc-raiders-this-year-id-abolish-late-spawns/",
+    "title": "If I could change one thing in Arc Raiders this year, I'd abolish late spawns",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
+    "content": "Sean Martin, Senior Guides Writer\r\n(Image credit: Future)\r\nLast week I was: finishing off my Expedition after grabbing the last Ion Sputter\r\nThis week I've been: enjoying taking a break from Stella M\u2026 [+4677 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Martin",
+      "Senior",
+      "Writer",
+      "Image",
+      "chars",
+      "week",
+      "Arc",
+      "Raiders",
+      "Sean"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/jpmorgan-warning-on-credit-card-cap-interest-2026-1",
+    "title": "JPMorgan's CFO warns cutting credit card interest could make the business not worth being in",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
+    "content": "JPMorgan Chase CEO Jamie Dimon.Noam Galai/Getty Images\r\n<ul><li>America's biggest bank by assets, JPMorgan Chase, reported fourth-quarter earnings on Tuesday.</li><li>CFO Jeremy Barnum discussed how \u2026 [+1666 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chase",
+      "CFO",
+      "Galai",
+      "Getty",
+      "Images",
+      "America",
+      "Tuesday.",
+      "chars",
+      "JPMorgan",
+      "CEO"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/video/can-trump-cap-credit-card-rates-for-one-year-heres-what-to-know/",
+    "title": "Can Trump cap credit card rates for one year? Here's what to know.",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
+    "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "year",
+      "Copyright",
+      "CBS",
+      "cap",
+      "credit",
+      "card",
+      "rates",
+      "Interactive",
+      "reserved"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_29d6f6bb-8420-4903-941e-1819b6be10c6",
+    "title": "Klarna CEO backs Trump's 10% credit card cap, criticizing rewards as built on poorer borrowers' debt",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Trump",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "CEO",
+      "IAB",
+      "Klarna"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2026/01/13/business/jpmorgan-profit-takes-a-hit-as-it-builds-reserves-for-apple-card-deal/",
+    "title": "JPMorgan profit takes a hit as it builds $2.2B reserves for Apple card deal",
+    "fetched_on": "2026-01-14T14:27:51.549202+00:00",
+    "content": "JPMorgan Chase posted a dip in quarterly profit as it built a $2.2 billion reserve linked to its deal with Goldman Sachs to take over a credit card partnership with Apple.\r\nEarnings at the Wall Stree\u2026 [+2737 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "Chase",
+      "Goldman",
+      "Sachs",
+      "JPMorgan",
+      "profit",
+      "card",
+      "deal",
+      "builds",
+      "billion"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/us-banking-giants-reap-bigger-profits-as-borrowers-seek-more-loans-4447373",
+    "title": "US banking giants reap bigger profits as borrowers seek more loans",
+    "fetched_on": "2026-01-14T14:28:03.522826+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loans",
+      "banking",
+      "giants",
+      "reap",
+      "bigger",
+      "profits",
+      "borrowers",
+      "seek"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/factboxwhat-saks-globals-bankruptcy-filing-reveals-about-its-assets-creditors-financing-4447258",
+    "title": "Factbox-What Saks Global\u2019s bankruptcy filing reveals about its assets, creditors, financing",
+    "fetched_on": "2026-01-14T14:28:03.522842+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "creditors",
+      "financing",
+      "Saks",
+      "Global",
+      "Factbox-What",
+      "assets",
+      "bankruptcy",
+      "filing",
+      "reveals"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/factbox-saks-globals-bankruptcy-filing-133229750.html",
+    "title": "Factbox-What Saks Global's bankruptcy filing reveals about its assets, creditors, financing",
+    "fetched_on": "2026-01-14T14:28:18.262404+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "creditors",
+      "financing",
+      "Saks",
+      "Global",
+      "Factbox-What",
+      "assets",
+      "bankruptcy",
+      "filing",
+      "reveals"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/alleingang-commerzbank-aktie-zwischen-uebernahmefantasie-und-eigenstaendigkeit-15414593",
+    "title": "Commerzbank-Aktie zwischen \u00dcbernahmefantasie und Eigenst\u00e4ndigkeit",
+    "fetched_on": "2026-01-14T14:28:18.804135+00:00",
+    "content": "<p>\u2022\tHohe Bewertung bremst UniCredit-Ambitionen<br />\u2022\tInvestorenforum in New York: Stand-Alone-Strategie im Fokus<br />\u2022\tJahresbilanz 2026 als entscheidender Pr\u00fcfstein?<br /></p><p>Die <a href=\"https://www.finanzen.net/aktien/commerzbank-aktie\" target=\"_blank\">Commerzbank</a>-Aktie  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jahresbilanz",
+      "Die",
+      "Commerzbank",
+      "Aktie",
+      "Eigenst\u00e4ndigkeit",
+      "Hohe",
+      "Investorenforum",
+      "York",
+      "Fokus",
+      "Pr\u00fcfstein"
     ]
   }
 ]
