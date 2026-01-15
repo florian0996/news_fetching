@@ -102,19 +102,19 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-14/hologic-s-8-5-billion-lbo-loan-costs-tighten-on-strong-demand",
-    "title": "Hologic $8.75 Billion Buyout Loan to Wrap Up With Strong Demand",
-    "fetched_on": "2026-01-15T01:52:30.549801+00:00",
-    "content": "The $8.75 billion debt financing tied to the buyout of medical-device maker Hologic Inc. has been widely considered the leveraged loan market\u2019s first big test of the year. Ahead of its expected pricing on Wednesday, it sent a clear signal that demand for risky debt is strong.",
+    "title": "Hologic\u2019s $8.75 Billion of Buyout Loans See Strong Demand",
+    "fetched_on": "2026-01-15T12:51:05.499028+00:00",
+    "content": "The $8.75 billion debt financing tied to the buyout of medical-device maker Hologic Inc. has been widely considered the leveraged loan market\u2019s first big test of the year. The final results sent a clear signal that demand for risky debt is strong.",
     "platforms_mentioned": [],
     "keywords": [
       "Billion",
       "Hologic",
       "Buyout",
-      "Loan",
-      "Wrap",
       "Inc.",
       "Strong",
       "Demand",
+      "Loans",
+      "loan",
       "year",
       "debt"
     ]
@@ -503,7 +503,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/wealth-management-platform-wealthfront-files-ipo/",
     "title": "Wealth Management Platform Wealthfront Targets $2.05B Valuation In Latest Fintech IPO",
-    "fetched_on": "2026-01-15T11:22:28.466280+00:00",
+    "fetched_on": "2026-01-15T12:51:21.318097+00:00",
     "content": "Digital wealth management platform unicorn Wealthfront has filed for an initial public offering, lining up the Palo Alto, California-based startup to join a string of fintech IPOs in the U.S. this year.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/record-breaking-seed-funding-us-ai-eoy-2025/",
     "title": "Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead",
-    "fetched_on": "2026-01-15T11:22:30.035916+00:00",
+    "fetched_on": "2026-01-15T12:51:23.822761+00:00",
     "content": "The seed investment environment exhibited its typical quirkiness in 2025. In particular, it was a huge year for huge rounds. Predictably, it was also a banner period for AI dealmaking with the U.S. pulling in a bigger-than-usual share of total investment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/warren-trump-credit-card-interest-rate-affordability.html",
     "title": "Sen. Warren says Trump called her to work on credit card interest rate caps",
-    "fetched_on": "2026-01-15T11:22:31.546230+00:00",
+    "fetched_on": "2026-01-15T12:51:25.520413+00:00",
     "content": "Republicans on Capitol Hill have lightly thrown cold water on capping credit card interest at 10%.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/trump-credit-card-cap-banks-fend-off-controls.html",
     "title": "Under threat from Trump, Wall Street banks wager they can fend off credit card price controls",
-    "fetched_on": "2026-01-15T11:22:31.546220+00:00",
+    "fetched_on": "2026-01-15T12:51:25.520405+00:00",
     "content": "Five days after Trump's demand to cap credit card rates, bankers and lobbyists told CNBC they have yet to receive any formal or written guidance on the policy.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/what-a-missed-payment-does-to-your-credit-score.html",
     "title": "More Americans expect to miss a debt payment in the months ahead: What that does to your credit score",
-    "fetched_on": "2026-01-15T11:22:31.722593+00:00",
+    "fetched_on": "2026-01-15T12:51:25.765688+00:00",
     "content": "One missed payment could ding a credit score by about 80 points, on average, according to a new report by LendingTree.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/student-loans-default-tax-refunds-garnishment.html",
     "title": "Student loan borrowers in default may miss out on Trump's 'largest tax refund season of all time'",
-    "fetched_on": "2026-01-15T11:22:31.722616+00:00",
+    "fetched_on": "2026-01-15T12:51:25.765697+00:00",
     "content": "The Trump administration is predicting larger tax refunds for the 2026 tax season, but the millions of student loan borrowers in default may miss out.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html",
     "title": "Citigroup tops estimates on stronger net interest income, smaller loan loss provision",
-    "fetched_on": "2026-01-15T11:22:31.546247+00:00",
+    "fetched_on": "2026-01-15T12:51:25.520427+00:00",
     "content": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling off parts of its overseas operations.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/09/trump-orders-mortgage-bond-purchases-these-stocks-are-jumping.html",
     "title": "Trump orders mortgage bond purchases to lower rates. These stocks are jumping in response",
-    "fetched_on": "2026-01-15T11:22:31.361604+00:00",
+    "fetched_on": "2026-01-15T12:51:25.407411+00:00",
     "content": "Analysts are now weighing the actual impact for consumers and what the move means for lending stocks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/29/student-debt-rent.html",
     "title": "Your past-due student loans can make it harder to rent an apartment. These 5 tips can help",
-    "fetched_on": "2026-01-15T11:22:31.361685+00:00",
+    "fetched_on": "2026-01-15T12:51:25.407492+00:00",
     "content": "If you've fallen behind on your student loans, it may be more challenging to get a property manager to approve you for rental housing, financial experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/17/mortgage-rates-moved-higher-after-fed-rate-cut.html",
     "title": "Mortgage rates move higher after the Fed rate cut, causing loan demand to drop",
-    "fetched_on": "2026-01-15T11:22:31.361711+00:00",
+    "fetched_on": "2026-01-15T12:51:25.407513+00:00",
     "content": "Mortgage rates moved higher after the Fed cut interest rates last week. That caused demand to drop for both home buying and refinancing.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/11/esusu-funding-renters-credit-scores.html",
     "title": "Esusu, platform for renters to build credit scores, valued at $1.2 billion in new funding round",
-    "fetched_on": "2026-01-15T11:22:31.361746+00:00",
+    "fetched_on": "2026-01-15T12:51:25.407547+00:00",
     "content": "Esusu raises $50 million at a $1.2 billion valuation as it helps more renters build credit scores and gain access to mortgages and other financial products.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/fed-december-rate-cut-mortgages-loans-savings-impact.html",
     "title": "What December's Fed rate cut means for your mortgage, credit card, auto loan, student debt and savings",
-    "fetched_on": "2026-01-15T11:22:31.361753+00:00",
+    "fetched_on": "2026-01-15T12:51:25.407554+00:00",
     "content": "From\u00a0credit cards and car loans to mortgage rates, student loans and savings accounts, here's a look at the ways a Fed rate cut could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
     "title": "Refinance demand for FHA loans jumps 24%, as homeowners seek the most savings they can",
-    "fetched_on": "2026-01-15T11:22:31.361768+00:00",
+    "fetched_on": "2026-01-15T12:51:25.407568+00:00",
     "content": "Current homeowners are turning to government FHA loans, which offer lower interest rates, to find savings, as conventional rates turn higher.",
     "platforms_mentioned": [],
     "keywords": [
@@ -763,7 +763,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2025/12/08/what-another-fed-cut-could-mean-for-your-personal-borrowing-costs.html",
     "title": "What another Fed cut could mean for your personal borrowing costs",
-    "fetched_on": "2026-01-15T11:22:31.361789+00:00",
+    "fetched_on": "2026-01-15T12:51:25.407588+00:00",
     "content": "Many types of consumer loans are impacted when the Fed lowers its overnight lending rate, but it also depends on the product and duration.",
     "platforms_mentioned": [],
     "keywords": [
@@ -783,7 +783,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/13/trump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
     "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
-    "fetched_on": "2026-01-15T11:22:31.546276+00:00",
+    "fetched_on": "2026-01-15T12:51:25.520456+00:00",
     "content": "Banks say a proposed 10% cap on credit card interest rates would result in fewer credit card accounts for Americans and a hit to the U.S. economy.",
     "platforms_mentioned": [],
     "keywords": [
@@ -803,7 +803,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-targets-credit-card-rates-whats-at-stake-for-capital-one-and-other-banks.html",
     "title": "Trump targets credit card rates. What\u2019s at stake for Capital One and other banks",
-    "fetched_on": "2026-01-15T11:22:31.546298+00:00",
+    "fetched_on": "2026-01-15T12:51:25.520477+00:00",
     "content": "Capital One shares sank Monday after Trump called for a 10% cap on credit card rates, a major profit driver for the company.",
     "platforms_mentioned": [],
     "keywords": [
@@ -823,7 +823,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-credit-card-rate-cap-enforcement-path-risks.html",
     "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
-    "fetched_on": "2026-01-15T11:22:31.546312+00:00",
+    "fetched_on": "2026-01-15T12:51:25.520490+00:00",
     "content": "A 10% rate cap would make large swaths of the credit card industry unprofitable, especially tied to customers with less-than-ideal credit, banks say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -843,7 +843,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html",
     "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
-    "fetched_on": "2026-01-15T11:22:31.546387+00:00",
+    "fetched_on": "2026-01-15T12:51:25.520565+00:00",
     "content": "JPMorgan Chase has reached a deal to take over the Apple credit card from Goldman Sachs, the two banks said late Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -863,7 +863,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/13/car-loan-payments-top-1000-for-more-drivers.html",
     "title": "More drivers have $1,000-plus car loan payments. Here's what buyers can expect in 2026",
-    "fetched_on": "2026-01-15T11:22:31.722655+00:00",
+    "fetched_on": "2026-01-15T12:51:25.765734+00:00",
     "content": "The share of new-car buyers who pay $1,000 or more per month for their auto loans rose to a new record in the fourth quarter, according to Edmunds data.",
     "platforms_mentioned": [],
     "keywords": [
@@ -883,7 +883,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/12/trump-credit-card-interest-rate-cap.html",
     "title": "Trump floats 1-year, 10% credit card interest rate cap \u2014 what that could mean for your money",
-    "fetched_on": "2026-01-15T11:22:31.722669+00:00",
+    "fetched_on": "2026-01-15T12:51:25.765749+00:00",
     "content": "President Donald Trump called for a 10% cap on credit card interest rates. Here's what experts say that could mean for cardholders, if implemented.",
     "platforms_mentioned": [],
     "keywords": [
@@ -903,7 +903,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/01/student-loan-forgiveness-taxes.html",
     "title": "Student loan forgiveness is taxable again: Start planning for the 'tax bomb,' CFP says",
-    "fetched_on": "2026-01-15T11:22:31.722804+00:00",
+    "fetched_on": "2026-01-15T12:51:25.765871+00:00",
     "content": "Some student loan borrowers who get their debt canceled in 2026 may be hit with a tax bill now that a law protecting the relief from levies has expired.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1159,7 +1159,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/student-loans/article/what-are-private-student-loans-161054025.html",
     "title": "What are private student loans? A beginner\u2019s guide.",
-    "fetched_on": "2026-01-15T11:22:31.897774+00:00",
+    "fetched_on": "2026-01-15T12:51:25.970073+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1174,7 +1174,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-15/mozambique-eyes-debt-talks-after-new-imf-program-president-says",
     "title": "Mozambique Eyes Debt Talks After New IMF Program; Eurobond Slips",
-    "fetched_on": "2026-01-15T11:22:16.036997+00:00",
+    "fetched_on": "2026-01-15T12:51:05.820651+00:00",
     "content": "Mozambique will only start talks with creditors to renegotiate its debt after reaching an agreement on a new program with the International Monetary Fund, President Daniel Chapo said.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1333,7 +1333,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-15/china-new-loans-shrink-to-least-in-seven-years-as-demand-weakens",
     "title": "China New Loans Shrink to Least Since 2018 as Demand Weakens",
-    "fetched_on": "2026-01-15T11:22:15.472139+00:00",
+    "fetched_on": "2026-01-15T12:51:05.499169+00:00",
     "content": "Chinese banks extended the smallest amount of new loans since 2018 last year despite an uptick in December, in a reflection of sluggish demand from borrowers that\u2019s weighing on growth.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1393,7 +1393,7 @@
     "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-01-15/chapo-targets-mozambique-development-with-imf-loan-deal-video",
     "title": "Chapo Targets Mozambique Development With IMF Loan Deal",
-    "fetched_on": "2026-01-15T11:22:15.641117+00:00",
+    "fetched_on": "2026-01-15T12:51:05.585684+00:00",
     "content": "Mozambique President Daniel Chapo discusses how a new International Monetary Fund funding program would help improve the African nation\u2019s credibility in international markets. However, he adds any agreement would need to focus on measures that improve the lives of ordinary Mozambicans. \u201cWe really need this growth to be reflected in development,\u201d he told Bloomberg\u2019s Carla Canivete on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1413,7 +1413,7 @@
     "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-01-15/chapo-mozambique-debt-talks-to-be-after-new-imf-program-video",
     "title": "Chapo: Mozambique Debt Talks to Be After New IMF Program",
-    "fetched_on": "2026-01-15T11:22:15.641124+00:00",
+    "fetched_on": "2026-01-15T12:51:05.585690+00:00",
     "content": "Mozambique President Daniel Chapo says the southeastern African nation will only start talks with creditors to renegotiate its debt after reaching an agreement on a new program with the International Monetary Fund. \u201cWe want to establish trust first,\u201d Chapo told Bloomberg\u2019s Carla Canivete on Wednesday.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1433,7 +1433,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-01-15/pboc-cuts-structural-interest-rates-to-boost-targeted-lending",
     "title": "PBOC Sees Easing Room, Steps Up Targeted Support for Economy",
-    "fetched_on": "2026-01-15T11:22:16.036990+00:00",
+    "fetched_on": "2026-01-15T12:51:05.820645+00:00",
     "content": "China\u2019s central bank signaled it has room to further reduce interest rates and bank reserve requirements, while stepping up targeted support for the economy with a cut to the cost of its structural lending tools.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1879,7 +1879,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/news/credit-card-rate-cap-undermines-050300545.html",
     "title": "Credit Card Rate Cap Undermines Bank ETFs After Year of Strong Growth",
-    "fetched_on": "2026-01-15T11:22:31.897851+00:00",
+    "fetched_on": "2026-01-15T12:51:25.969839+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1893,6 +1893,167 @@
       "Strong",
       "Credit",
       "ETFs"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-15/private-credit-drops-safeguard-to-win-deals-on-wall-street-terms",
+    "title": "Private Credit Drops Safeguard to Win Deals on Wall Street Terms",
+    "fetched_on": "2026-01-15T12:51:05.499090+00:00",
+    "content": "Private credit firms\u2019 efforts to reap leveraged debt business from Wall Street is coming at a steep cost &mdash; safeguards that made them less vulnerable to an economic downturn.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wall",
+      "Street",
+      "Private",
+      "Credit",
+      "Drops",
+      "Win",
+      "Deals",
+      "Terms",
+      "cost",
+      "downturn"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/live/earnings-live-bank-of-america-stock-rises-on-earnings-beat-wells-fargo-stock-dips-124717053.html",
+    "title": "Earnings live: Bank of America stock rises on earnings beat, Wells Fargo stock dips",
+    "fetched_on": "2026-01-15T12:51:04.893627+00:00",
+    "content": "Days after President Trump proposed capping credit card interest rates at 10%, corporate executives warned that the policy would have wide-ranging ramifications and possibly hurt consumers if enacted\u2026 [+1893 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Bank",
+      "America",
+      "Fargo",
+      "Days",
+      "President",
+      "Trump",
+      "live",
+      "beat",
+      "corporate"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2026/01/14/business/wells-fargo-posts-higher-profits-after-fed-scraps-asset-cap/",
+    "title": "Wells Fargo posts higher profits after Fed scraps asset cap",
+    "fetched_on": "2026-01-15T12:51:04.893627+00:00",
+    "content": "Wells Fargo wrapped up 2025 with stronger profits, riding a wave of higher revenue from loans and fees as the US economy held steady and the bank looks to move past a years-long, Fed-imposed asset ca\u2026 [+3335 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fargo",
+      "chars",
+      "Fed-imposed",
+      "Fed",
+      "riding",
+      "years-long",
+      "higher",
+      "profits",
+      "asset",
+      "posts"
+    ]
+  },
+  {
+    "source": "Thefly.com [NewsAPI]",
+    "url": "https://thefly.com/permalinks/entry.php/id4270934/LXP-LXP-Industrial-Trust-closes-on-M-revolving-credit-facility-M-term-loan",
+    "title": "LXP Industrial Trust closes on $600M revolving credit facility, $250M term loan",
+    "fetched_on": "2026-01-15T12:51:04.893627+00:00",
+    "content": "Earnings calls, analyst events, roadshows and more",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LXP",
+      "Industrial",
+      "Trust",
+      "Earnings",
+      "revolving",
+      "facility",
+      "term",
+      "calls",
+      "analyst",
+      "events"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3110_AnalystReport_1768392423000/",
+    "title": "Analyst Report: JPMorgan Chase & Co.",
+    "fetched_on": "2026-01-15T12:51:04.893627+00:00",
+    "content": "Stephen Biggar \r\nDirector of Financial Institutions Research \r\nStephen is responsible for coverage of large global banks, regional banks and domestic credit card companies. He has covered financial s\u2026 [+347 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Chase",
+      "Analyst",
+      "JPMorgan",
+      "Stephen",
+      "Financial",
+      "Biggar",
+      "Director",
+      "Institutions",
+      "Research"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/14/3218495/19004/en/LXP-Industrial-Trust-Closes-on-600-Million-Unsecured-Revolving-Credit-Facility-and-250-Million-Unsecured-Term-Loan.html",
+    "title": "LXP Industrial Trust Closes on $600 Million Unsecured Revolving Credit Facility and $250 Million Unsecured Term Loan",
+    "fetched_on": "2026-01-15T12:51:04.893627+00:00",
+    "content": "WEST PALM BEACH, Fla., Jan. 14, 2026 (GLOBE NEWSWIRE) -- LXP Industrial Trust (LXP) (NYSE:LXP), a real estate investment trust focused on Class A warehouse and distribution real estate investments, t\u2026 [+4146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LXP",
+      "Million",
+      "Industrial",
+      "Trust",
+      "Unsecured",
+      "Fla.",
+      "Jan.",
+      "NYSE",
+      "estate",
+      "BEACH"
+    ]
+  },
+  {
+    "source": "Crunchbase News \u2013 IPO [Scrape]",
+    "url": "https://news.crunchbase.com/fintech/funding-jumped-big-checks-ai-ye-2025/",
+    "title": "Fintech Funding Jumped 27% In 2025 With Fewer Deals But Bigger Checks",
+    "fetched_on": "2026-01-15T12:51:19.994920+00:00",
+    "content": "Global venture funding to fintech startups climbed in 2025 to its highest level in several quarters, boosted by later-stage deals, Crunchbase data shows.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jumped",
+      "Crunchbase",
+      "Funding",
+      "Deals",
+      "Fewer",
+      "Bigger",
+      "Checks",
+      "Global",
+      "Fintech",
+      "quarters"
+    ]
+  },
+  {
+    "id": "c8ef6fa6e80b81adf6dfd1da3ae3d274",
+    "source": "Luca Frignani | Exaloan <luca.frignani@exaloan.com> [Newsletter]",
+    "url": "",
+    "title": "FW: Year of the Dragon",
+    "fetched_on": "2026-01-15T12:51:27.365164+00:00",
+    "content": "\r\n________________________________\r\nFrom: Exec Sum - Litquidity <news@execsum.co>\r\nSent: Thursday, 15 January 2026 12:47:25 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna\r\nTo: Luca Frignani | Exaloan <luca.frignani@exaloan.com>\r\nSubject: Year of the Dragon\r\n\r\nFour quant firms partnered to take on Citadel Securities, SCOTUS delayed ruling on Trump's tariffs, bondholders sued Oracle for losses tied to AI, McKinsey is asking job candidates to use AI in  \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c\r\n\r\nJanuary 15, 2026   |   Read Online<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaULUhy52s_CjvcQRQtzCJyr5YqdQx5osUziOKKIuJnApV4vqbxkOw2Qy6y8Y7zssl_n_2A0jwLSI-cVzUEDJk-HQEisplIF4ptObYsxteJmtdqapcLne2WGV_bbJeEB1dAmZgLNIpR7wcKbMvXBCs4ZajA2c_q7PAwskLlWvzQDOmiqOkxtsEc7wxfz0-iLyn9ifsISym14Spg7K_2ARQtZqk_UUnGFuCpEDSIhR4HJCb/4nb/InjcdtuwR4qQJA4feI6GHg/h0/h001.X_K4u2sjVADvWRiMSC5pbp5eaivMmRBzxGmvbRsOjfU>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5d1c85f6-4095-4ac4-98b0-914fad185202/Exec_Sum_V1__white_outline_logo_.png?t=1718247260]\r\n\r\n\r\nTogether with\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/c5445293-e3c3-4462-a56b-f79640b50235/image.png?t=1768398763]<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB3j7Dc-YoMcpR2ufKjiZNiZ8SJEdT7KHNNvrUFvAz6q6e00lZ-o7Z106EgS6kl-FKoxpbB56L5Zfm5nTswrtPDcQV-5hR58BsZMZ2LjcXwiVt2ifirLLmXhw7mLNhLhzzyZxhWC1vWlH1fBf7QQgAbtgxWTutFFjtZmUUz7h4xOZ11IlCaEuXdb3hQRO3Vw9-YJWc0OWzHc_9roNd9bqypouZVvOixtKhrUodx3Lr_nGG5vSHMxx_U8h6uwnegE6EyeWXGLs_PwokUMyULMOMiJzxMUxwclhgiVbgOo-nbrC/4nb/InjcdtuwR4qQJA4feI6GHg/h1/h001.qcFyJ-QKt66s9GtI89zjWQb5kGtPna4R151yxLkmqFs>\r\n\r\nGood Morning,\r\n\r\nFour quant firms partnered to take on Citadel Securities, SCOTUS delayed ruling on Trump's tariffs, bondholders sued Oracle for losses tied to AI, McKinsey is asking job candidates to use AI in interviews, Epstein lured victims in exchange for admission to Columbia, and global investors are betting big on China for 2026.\r\n\r\nPlaid<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB3j7Dc-YoMcpR2ufKjiZNiZ8SJEdT7KHNNvrUFvAz6q6e00lZ-o7Z106EgS6kl-FKoxpbB56L5Zfm5nTswrtPDcQV-5hR58BsZMZ2LjcXwiVt2ifirLLmXhw7mLNhLhzzyZxhWC1vWlH1fBf7QQgAbtgxWTutFFjtZmUUz7h4xOZ11IlCaEuXdb3hQRO3Vw9-YJWc0OWzHc_9roNd9bqypouZVvOixtKhrUodx3Lr_nGoEZKa6NbHWDi6ss1Wa-EHU0you3nvgQ0TOp-yl7Y2ygUxhdmZO7OfFFN32QyTYzt/4nb/InjcdtuwR4qQJA4feI6GHg/h2/h001.f4gR0dxWyhz_YAFWAhJNmb6wb_yn1DeUmmtdtkE3bAo> just released their flagship fintech predictions report for 2026. Read it here<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB3j7Dc-YoMcpR2ufKjiZNiZ8SJEdT7KHNNvrUFvAz6q6e00lZ-o7Z106EgS6kl-FKoxpbB56L5Zfm5nTswrtPDcQV-5hR58BsZMZ2LjcXwiVt2ifirLLmXhw7mLNhLhzzyZxhWC1vWlH1fBf7QQgAbtgxWTutFFjtZmUUz7h4xOZ11IlCaEuXdb3hQRO3Vw9-YJWc0OWzHc_9roNd9bqypouZVvOixtKhrUodx3Lr_nGGEih-9Wazvre9UVZYaFHUtJxx2EpWxIcgG0N7guRAN_bB6rDjrWMsI4hq3FFlXoW/4nb/InjcdtuwR4qQJA4feI6GHg/h3/h001.ZNnwt-26bArPvLLXOeJPUjm_KjjtIIB4nw2loXLLSWQ>.\r\n\r\nLet's dive in.\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/74cf1ad5-57ba-44c3-9546-cd89e7129556/Partner_with_us_logo_FINAL_V3.png?t=1722407247]<https://link.mail.beehiiv.com/ss/c/u001.KN74dixAkkSkzWlFDQrXGf8LL5nvLYQqRkIj4dn6AicN7n7_eipy3E5VOImK60rVrYOsb4ZrM8yg0Za2JAgd-of_ZxhkVMPoy1jF4jvXmHsvbYxpOtxQta_MIGZy6Tjd/4nb/InjcdtuwR4qQJA4feI6GHg/h4/h001.9rdJLntLRqdRMEG4Co8aXimvssBQDXMkC4Zg2VaDvsM>\r\nBefore The Bell\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5cebe3e1-f5cf-4f8a-9870-e6fdc154b884/image.png?t=1768434503]\r\n\r\nAs of 1/14/2026 market close.\r\n\r\nLearn more about the Litquidity portfolios and subscribe to the strategies on Autopilot<https://link.mail.beehiiv.com/ss/c/u001.CWXqVDYE-TGMc8RcZKyAmfgp_NhdeEVvsGSEL3xJXqpUie6Cs8K6-nYQCNATsmTZIU30DRzfuJxcr_0Y3NJ03sU6rCa5KKC7A3YbsRoaHnCF90SPy2sIQh9XzW6vBfOyfHpI2sam2mRI8crQxnDusw/4nb/InjcdtuwR4qQJA4feI6GHg/h5/h001.2bB98srDOcbW01H8FcQdSXo3VuBdPwSMHdpWvdJziUM>.*\r\n\r\nMarkets\r\n\r\n  *   US stocks slumped yesterday as mid bank earnings fueled the ongoing rotation from tech to small-caps\r\n\r\n     *   S&P posted its first back-to-back decline of the year\r\n\r\n     *   Nasdaq had its worst day in a month\r\n\r\n     *   Small-caps Russell 2000 beat S&P for a ninth-straight day for its best relative win streak since 1990\r\n\r\n  *   Japan's Nikkei 225 index soared 1.5% for a 6.5% YTD gain on political optimism for the fiscally-dovish ruling party\r\n\r\n     *   Japan 5Y yield rose past 1.6% to its highest since 2000\r\n\r\n     *   Yen fell to its lowest since July 2024\r\n\r\n  *   Europe's Stoxx 600 hit an ATH\r\n\r\n  *   UK's FTSE 100 hit an ATH\r\n\r\n  *   Korea's KOSPI index is vertical\r\n\r\n  *   EM stocks index is up 5.5% YTD\r\n\r\n  *   US 30Y yield slid below 4.8% to a YTD low\r\n\r\n  *   UK 10Y yield fell to 4.34% to a one-year low\r\n\r\n  *   Gold, silver, copper, and tin hit fresh ATHs as the blistering metals rally continues\r\n\r\nEarnings\r\n\r\n  *   Bank of America beat Q4 earnings and revenue estimates as stronger-than-expected net interest income and equities trading offset flat IB fees (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjlfpfwsMljV0jqMiTuI3n01QaZxbL37AjTL3ITmaKW6Tz6Ll_RyMVb09uB9Jpll2-Ma1SFDSxc4YcAJLW5fapoEwm7RCm7LIYWTnHv1cy8qMjcw5AoW-6e5TfSS13o5zC4y8ODMtZaZxdnN95LUC_kX/4nb/InjcdtuwR4qQJA4feI6GHg/h6/h001.BDUWztgmhf0AL0k-nQfzyYxOsiQEIXfz_A6ygeN2Ffk>)\r\n\r\n  *   Citigroup beat Q4 earnings and revenue estimates on a 35% surge in IB fees and strength in banking, wealth, and institutional services, though net income fell 13% due to a Russia-exit charge (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjkTV89RDPCw2F_cQePBx2oD1GhamoPfrMTUFbCtyczDxCv20pBQbmNkIXrlhqyomKkTL9T1fjA_RQXvwi_2F2l8RVoFgWBRCSuDEBPdFmFN1W1ArjVqEIpP2oyYlmiX7Vc/4nb/InjcdtuwR4qQJA4feI6GHg/h7/h001.WImFZVZy7jdIHgdD1RxwSOUz3-y_EIT3kvHZFyYu3_w>)\r\n\r\n  *   Wells Fargo missed Q4 earnings estimates on $600M severance costs as it cuts headcount to the lowest among peers and aims for growth in capital markets (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrbMufpwzDzamlzLya6PcMKWZ6uwHqCqy1G3f-I5h4Zacapo9JcM7FbcCUKXEaAjYDNye4fnButQ1tVwKwZikafB9UOOuLmW3dyLTOlh5yg4AvNnPHj2f7t307TVvID4RNpy6QfbWCv0mQOd7b9vhP7SLHmWpX3m0EzRayuqQsZnY/4nb/InjcdtuwR4qQJA4feI6GHg/h8/h001.62n9tZMSCdugDmGtoqzxelLqf1icvcZOlwSc6f2sGWw>)\r\n\r\n  *   Infosys issued a Q3 beat-and-raise on strong deal wins and financial services demand, offsetting a profit decline from a one-time charge and lifting shares on hopes of an IT sector recovery (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUEJ1f-WVLmL0PmKIQ46_EwIbhAlnsUQ63FsK1kM3uUxU4VcAYTld2RQBaicv0_Oz_WBMyrZATbs9J-s3dtGSlKD8yfXstMaqilypESBQbBOKYMBj1cmQS0UANUv4yrSyJGDLun0owdSJSv-DNEE4fz7T6bq5BYnJtrX2wg9brImaN_rXeydcW7XJ8yc-HL7FYxjnJGBh1WOBL8RQcfystzw/4nb/InjcdtuwR4qQJA4feI6GHg/h9/h001.ACsY9_3p5l0fdFcfV9fwbtP5QkDzHjRt3VXwHVk0oLI>)\r\n\r\n  *   What we're watching this week:\r\n\r\n     *   Today: TSMC, BlackRock, Goldman Sachs, Morgan Stanley\r\n\r\n     *   Friday: State Street, PNC\r\n\r\n  *   Full calendar here<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUEpASBlKqRsE9vHsj7NGFERfRquo4rhfiyMX_2D4h5Q-ajdoPXa_c31mp5M0rhwVVk2-g2-sMzSeFK8TT8MRYqWl3XysdudLiWL4LjwNYRz1RXo-Uh5p9WUPHe-pQxcYjA/4nb/InjcdtuwR4qQJA4feI6GHg/h10/h001.eYabWOBKmVptJHpmQ-CsCqqNBvl8fzqQ87IT-wCuZhE>\r\n\r\nPrediction Markets\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/af87c24b-6ae2-404f-80e1-6a3a7390b41c/image.png?t=1768435202]\r\n\r\n  *   A nice little M&A due diligence on-site visit by the MD himself\r\n\r\n  *   Track and trade live odds on Polymarket<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB6YIIIVzubcxSS6IYQTvAVpNOMmx757XW5HYs8BRLP1YautZ3q0NSGFwZBx-HvWqjXPiQH96IBiTmzoPqCh01jpimulS24pxL58H_EkWQpTw/4nb/InjcdtuwR4qQJA4feI6GHg/h11/h001.PTOlpFEKv8SLr7fDQkmDh_xywmam-qY2Ti5Ohv7kjtg>\r\n\r\n\r\nHeadline Roundup\r\n\r\n  *   US will not abandon Greenland pursuit after talks (WSJ<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUCsB1Pe4SA-SAzJ2k_YmkFyEz6qyq0IzTpWEDL-hLHwuswy7hqSWQK3DS9tNYV3Bfunkb0dd6KlQ3oHtR7_2wk17jvXWNhY4eiaT1OLCFdSskeP3_2W2PjBssg2OqEdTb7RNMi0V1mh-ZLapw44mEHNmEPyVunFPLQbGh93ROOZL9UDfbJ92gL3w5K8o9mstsAkOqQ0YNZnwcS7rriXezk73M9xCO3YI9LKqWSObTGUs69fStSwe9YT-OR2Gx1HxtG82E0RRYGK79GzlzXXVDzo/4nb/InjcdtuwR4qQJA4feI6GHg/h12/h001.vuXXNWmv7bSNwmMHN1UMB02IGGT6qjpTV5eeqYpFVG0>)\r\n\r\n  *   Buying Greenland could cost US $700B (NBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUKFAhABTaG8VG2FbQhwI5rLd8EBxYmza_QT-3PfMyX1of56L525PnpaFw8Ss4_izc2MIsK3l0XyWHlQRH9aUiAqlCgWFBM_Rr0XxxWOEYh8t9RSL8BzV2D09ojnxlABu1cYORcIRP5t34Wjltqdsxla5NQNNwiJGUFQ6b96EWGOL6f1dOilhfVaT9zs205zHaw/4nb/InjcdtuwR4qQJA4feI6GHg/h13/h001.__b3DBQ-sipnyDohfmeHZQDQBuD9OjZfVlldsklh6zM>)\r\n\r\n  *   US imposed a 25% tariff on some AI chips as part of Nvidia China deal (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrSbUOD8KxXqmRtMsTLmOKnzZKm2scPs2xsRjad4eF1-BmNqhw9Oq2tA3Wy2Qxs6rgk0TFzX1nEo0mVIWeyq7ISS1bTLxijAKKgkARLBXqgokMOcbcc4S2O38JlPunGKJVs8MtRaln-Ch2EhezMRmM1-zJm9eynEuJeX2XqndnXIA/4nb/InjcdtuwR4qQJA4feI6GHg/h14/h001.ssCjFEhfxdvDVuWHiSvM5eeEDZujMj37A_zwoMNC9WY>)\r\n\r\n  *   US PPI inflation rose 3% YoY (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjkn5wyTzzgt2XmVX624AG6ftcFRD3LDXghhqHjXtJ8LunI6EQOZzOskheKtPRkTze7ZhWEVc3eTSwyS2Dn2yTGmvexHVtJWiT0DKFjR620XP14MxSvxrEJ2GDcfWWEfnH4SyOZ1RekQb0UHRjYkW2Cs9efFVV9E3v42aK1WvFB2QahzZ_cItjbsb3MbpOQdeic/4nb/InjcdtuwR4qQJA4feI6GHg/h15/h001.B-SETnKi9Yo7R2efzrySq2xJ2s2NUJVmgJSa_sRFKAk>)\r\n\r\n  *   US retail sales rebounded in Q4 (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLredv5kOtj2WaCN701kE-A8sK9Vrxg-YxjmgtpUL5oaMDCUuixDdVTPVCCm4U4232agwS4X-h6tXTZJE3_qMDSYlVe7vExbxzbvfqGmBC6NE4Lk6GkK5vDM4RdwriBfz70pIaiex8nm0hlxFjBRO8e_icq7eN5jVnFn2KbtSZ8h7w/4nb/InjcdtuwR4qQJA4feI6GHg/h16/h001.k9SFKBWOHVI9Qle1MjQg37JzdqmohCbQL9tM98vUZrA>)\r\n\r\n  *   Fed's Beige Book showed economy picking up (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrkYGdeg8a3vD7__-t2Y2eG2k_BzGJjT6WNdyUEyOYJapVO4n4SBO_YD-edUVViNoT7sI8b0yEgKiFg3roCOULGCcZHYF5krP1fyP1SU8Fy0U87dK0irNk29FAGQt8vOr0y31qBQYHh_ACHaDWdXnJ39SWpi-OrBDj4YJ3WDxH1EM/4nb/InjcdtuwR4qQJA4feI6GHg/h17/h001.mh_kcVamAQpt3pfA4JVPaHWJfIJG2CaW7BqQmszQMFM>)\r\n\r\n  *   Wall Street bank profits rose in Q4 amid consumer resilience (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaULgunTj68TqRJciEY1mgT5DL8YVnQUQf8VF8w-cGXhjvhWVM2IkWQIRkULVhG46ZvSydev2f_xlLUgBWuEWc0jDeoEIP_nYZmhRqAbhgtPlIb0AsIf0GupQ-1bdo5kJavj-OaIuk0_KecqWBNuvWDRmZxx32Jpf0KSxLLd2v3Dix80oYXdgsG4wzHpFFsKv1fpyAaqAkTrahaXUwIhFD-x4/4nb/InjcdtuwR4qQJA4feI6GHg/h18/h001.UEZZHgDyAVkso4naAZUCPgo-_tX04HqTISPLl4bBJV4>)\r\n\r\n  *   Global investors bet big on China stocks and FX for 2026 (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrK9TeymhWnKALYkfjPWs4Dr0SFLb9SeKH2B24eKss7xPDibImUv9d07sJvFNegWJdAlYeRyFW_QY8Bvzs1mZekWOIhb05CCimIjPlL2gLZ2bbkk2wzX3T15-pEHBf1rz0M6n8fdBOPl7sijFcYmfrIXiPzuSbKiMjJPgeNhU26QIZXlpgUhCjivwpfTdY39BQ/4nb/InjcdtuwR4qQJA4feI6GHg/h19/h001.OoAYCM5Hnigwo52f3xymuOX03JoX5r36jbfpvAkciw4>)\r\n\r\n  *   Hedge funds held onto crowded Big Tech longs in 2025 (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUBwp6KeRtxY5_z5IpbOf1RnbDPd3EXx29UT02x3mkXPgMAfGV2PpRSjFI3oyWYJ3mcVAqwUefSfq0YhF5SBDdJitFYma9HX0mm96EW3UZ8q4KzWsj1g4Z25wyNwxNaolAY18RBEJf4MYiknwUSjPKT4ahnCi6TNkfTITtYeF0m9cFNamKAsgfWpA1qbKFEGlbjP8zf490PQusTSgjtgbdGen2D7Q-4dUsaZ8tLdNazEQ/4nb/InjcdtuwR4qQJA4feI6GHg/h20/h001.ctBAmmSZ9w7S3MP3bl83c0itthAwxKrJOjiGYCzg4Sk>)\r\n\r\n  *   PIMCO says historic EM rally should last 'for years' (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrbzWQ3KtcHnjZHe7bgt7QeioUMl-Ij8RxfbRx2c46lZ_T84K0cycMpGFeFg85njEvgv4hgXqwgT4_wIvKsuqFbGZ-R6HSVuvcD21Mc1U_MdUf42EJ4yxnxcGCiWw2ibxeJeqVmUvjOljt17vPbZL-5EzTxVEYPCKe2wJz8lKn8OQKAXNXphsKinLDv5GtoI0A/4nb/InjcdtuwR4qQJA4feI6GHg/h21/h001._ZxJWwbd2VpHlQtX5_gDVR25oXSK5i_cXyrBDBJ5dzU>)\r\n\r\n  *   Risky borrowers flood market to tap investor hunger for yield (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLr3VtOiV7A5PbgSnkdrjsS6tAmAd57WwGm2OReGyvVkSs9k18SpDjme2l0LBRyEf120EbbY7RD2niuG0ZEHzYbD4aBQk19ykZZYaElW2Q-TamCutbCjHCHpwtYedcQ-r_k4_YbvGqH5mXMne6fCyiu7GxXk-eeAscQjZZS4iN5O_cUcptrvjCJ7sGWpnytu4nw/4nb/InjcdtuwR4qQJA4feI6GHg/h22/h001.pCxjKSl5OJq2LARiVLSDIw4H2ah7pWL9Q3IfJ1qwCmc>)\r\n\r\n  *   Hedge funds drove big gains for prime brokerages and S&T (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaULgunTj68TqRJciEY1mgT5DL8YVnQUQf8VF8w-cGXhjveOBuzvACMTy4rV7ZFDjmgtaHTvFb1m0CULzL2ZZrqdHipzmyM5XdqODxzr2Jl3qhET420uqqRjmfM2khs3BvFfk7BbQuRHBKOkxOceudkbF-6TrmN9fHwV-0D7_7mNr_d4pFsDc11XJ03LU57SmCyfnPQnteVNbtL_NvkUddufdTztcfxRgAvQLb2lTkjWjF/4nb/InjcdtuwR4qQJA4feI6GHg/h23/h001.HT1v28bu-3bu4ttP7YoqChLHaF4HxB2y1-lAtiw-sJk>)\r\n\r\n  *   Quant traders are hiring talent to wade into prediction markets (FT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUCnWMPhd9zlqHhb96Hl0WTkkfOImNwSA5JPeTwsfAVYnNk3NeTNXAOvJzLXFuRfnJRYKFO37dAekR6o-qry8vSGIKeiZWzRoMD7RBkeQim3SQn2Cv2pbRl5g7GM6hTaZZbb80JLNOmDIPDgUi9NLMYw/4nb/InjcdtuwR4qQJA4feI6GHg/h24/h001.pHxxT5FJHLGTw6L_KudlntzyoglcDRDrNbrMD_RerOg>)\r\n\r\n  *   US biotech IPOs fell to a decade-low with investors eyeing a rebound (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaULgunTj68TqRJciEY1mgT5DL8YVnQUQf8VF8w-cGXhjvfjFFc2n3SztC3V8KIaNmXy9qCxJTZWpggLxmURhcOsY_cdnI9YBH0KhfBVCVYuo6y1tUeZRfPnP2Bvdb4J6h1sMrlmoDex30NpcIZqpmBpcwYB6IjHW0IwXYJvZtNR-Ns3ZaFJjHW2IJ9_T9eJrm31o7mWAXGxbl0lHYWUFPLlw/4nb/InjcdtuwR4qQJA4feI6GHg/h25/h001.D_5bmpW9TuLws6ewtOEryb7q7sIu8wOF-Yse48aRW2o>)\r\n\r\n  *   Bondholders sued Oracle for losses tied to AI CapEx (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUAmsuLzeHNALtCSJ5ZQq8obsor3hALQ5wnLJlOnIkisgVs4tXmJHJLkJnQIzsr_yYG5nSAbhUoAME5f0001zTwoblIWcwp3FaVao9qKF0t7U4dDwY2CSWb6vMSHJhSgcfx02kAgMRw1MQL8wGgWYDDQdOIPMi3CrU67l_i1_rm9fiQyIW2DeXDvBhDArI_MmMz88RNDn4tSJKlea6PnP61X7UdwHwMdme7MBVSEkfwWV/4nb/InjcdtuwR4qQJA4feI6GHg/h26/h001.EM86Axmgj-XMwTfSRiXnm93NwV4atWk7VGTUhhtnGHg>)\r\n\r\n  *   Bain Capital named David Gross as sole managing partner (FT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUCnWMPhd9zlqHhb96Hl0WTllAKIaZsr_W0exIvIERJ4nC9JonnEoLon1fu_hmH8zkG3BNJ9Ja_m8K216hSlz82TdTm6nJRoDeGPt4SKx8gvWwUYgmJX-Ej_BwzAVpbR0t3A4zvJ2rQLkMg2rFW16w4U/4nb/InjcdtuwR4qQJA4feI6GHg/h27/h001.UXfEbMHTA8_-9X25mqFAv1dcPUzXsy8mNNtQsSR06Hg>)\r\n\r\n  *   Airbnb poached Meta's head of GenAI for CTO role (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjlqsBbiNTmn8_tWNqT2xzPmdOOrp7HlOZeoNOa0-5BFlec22amXX8Wx2ccS61f0nQmcNkvwvSopvLHzGunNdj1S6s4FjWchaSCe-GznLOJb8N5iMWY6yclE7OTrLEbA6bo/4nb/InjcdtuwR4qQJA4feI6GHg/h28/h001.KQgITNHrAKjAkvwIjF9_CNviqsvzdN9vhsZ8MNnKilA>)\r\n\r\n  *   McKinsey is asking job candidates to use AI in interviews (FT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUCnWMPhd9zlqHhb96Hl0WTnixFVW3IjcDIq9Wy2940D-ld4SY5syCvtby2U8h1aaewX617ynE4Lk9Z6FMKjqvdsR_r96VuKlGD_-f9UEiO4AygybcgqMRVyyN9lx7o-JlTA3s6MmBJYeii-lF0UxgyU/4nb/InjcdtuwR4qQJA4feI6GHg/h29/h001.MYiiGP5NgUjjVN7kN1igXsESXiXtXumkYRpkcfGr4Ls>)\r\n\r\n  *   BP will take a $5B hit on its green energy business (FT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUCnWMPhd9zlqHhb96Hl0WTmaJRoA3GTpdI_S8ziwWieqF8mdAWAWg6TTqaquyW2FQF47v4jjJiRMv8HnCZ0YVr5SlSEB5wcV9JU3i7egdmpJ8Cm5S7_ztmxrrqV2hIbyzwlWBhZxoqc9EB-EpU1bW2E/4nb/InjcdtuwR4qQJA4feI6GHg/h30/h001.z8gT17ofOHnMuwVvyT5WwKtmZ8wEe0H2QCxcOqaR4Jk>)\r\n\r\n  *   Musk's Starlink enables Iranians to bypass internet blackout (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrwxe1nn455Z0qZtwcsxvDlxKdbF5MG0bii5CIfqOHus0Xj2G0FxU6MzV3N9wDBQ5rXBS17Tpkm1njoX3xalV1WXnhTnr9cz8T99AcseeR_6zNbfjVp8QD6jT_djsswNctlhTCALeU4WPi-YKXx3tcFni1LOvbA_lTDdQFgmG5K7E/4nb/InjcdtuwR4qQJA4feI6GHg/h31/h001.AXHcJ0nEPg_Z6H2e7jvgkiFw7wJ2WoFXAtlk78Ianh4>)\r\n\r\n  *   SCOTUS delayed ruling on Trump's tariffs (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrs246K-yzhhKhhcjCz9nR1Cxb6mc-7jYQaAbRxa74vvlYmoCEFZjSfMSAJCBXDqlhG2kLjNsGDpBPZ6HKF9eR_lqqZQzTiHiwqdqFFGedXnVfU0v36cCDLg_wUGB2iji4oNaVkIznCk6lRMJ3j4QCQr9crjUUZlhEuPsm54L1ze4/4nb/InjcdtuwR4qQJA4feI6GHg/h32/h001.LRVyI3oxTEu3q6MUHjeICRAcG-lOLR4i0O3_FxQcGnw>)\r\n\r\n  *   US will pause immigrant visas from 75 countries (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrJH_eODLdyxUqkLvolgJUiSb_cG7XXRXu0t122UfuFbHhMYsLckb7t83akyvVc5q_-ICW6taQKTk0TlpD-kpKRNWvAGuPDwguBQnBS04lUBXs9_IltjQSQO2SWN65LpM5vYnC6Mx3JwMy5-QUWNEY1F78qpeLfbIi9RhLqeoZdRWtWwJjikaWUssmY9-Funmg/4nb/InjcdtuwR4qQJA4feI6GHg/h33/h001.fHwMiCxXotObUn8qHzvvhKV0wOg7FHKCuu1Cn-KGw9I>)\r\n\r\n  *   Epstein promised victims admission and tuition to Columbia and NYU (WSJ<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUCv3TmcUK3F_mm5slwTB_s7ywbGBPlg0r1PWIp617Fc9JdKh95I8iH2yc0q2zlWV65G1rdaSfqvy-B13QkMrfBsrplbNyRR6HKVZtjLDGVWHihbjibaZvGlNjFdfGidOl3ZuUGW0ely1eCqo1NKWpqZt63gXZMfMHXCLAZP1JhUfhXaIzrtTxnNBgVflzhlZO7l22fFKZpZACUTBYP5QNeT9LreTts8EO0AigzhMKJ26v35gTw81YvMJnbD6_HniBA/4nb/InjcdtuwR4qQJA4feI6GHg/h34/h001.2mNLy1ZduCQJPw-ZOC8L41Yuzexa04-pA3Pxuz2KVy0>)\r\n\r\n\r\nA Message from Plaid\r\n\r\nWhat's Fintech Got In Store for 2026?\r\n\r\nOur New Year's resolution wasn't to start hitting the gym again \u2013 it was to stay ahead of the game on every industry trend, tip, and trick to make the most of 2026.\r\n\r\nWell, that resolution starts right here, right now, with the latest and greatest from Plaid:\r\n\r\nFintech Predictions 2026<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB3j7Dc-YoMcpR2ufKjiZNiZ8SJEdT7KHNNvrUFvAz6q6e00lZ-o7Z106EgS6kl-FKoxpbB56L5Zfm5nTswrtPDcQV-5hR58BsZMZ2LjcXwiVt2ifirLLmXhw7mLNhLhzzyZxhWC1vWlH1fBf7QQgAbtgxWTutFFjtZmUUz7h4xOZ11IlCaEuXdb3hQRO3Vw9-YJWc0OWzHc_9roNd9bqypouZVvOixtKhrUodx3Lr_nGuix-lpL-O01UWmhIF7NwKlH-aKVhCZi8s9ZqJmjpNFHEslQq7yEe9m7FCa809jAf/4nb/InjcdtuwR4qQJA4feI6GHg/h35/h001.O0RUkfP1br6WyxxGZxMX7F8d8wkpkihQ8UFny1AyhHM>\r\n\r\nThis conversation is basically a cheat code for anyone involved or interested in Fintech. You'll get insight into where everything from AI to open finance is headed in 2026<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB3j7Dc-YoMcpR2ufKjiZNiZ8SJEdT7KHNNvrUFvAz6q6e00lZ-o7Z106EgS6kl-FKoxpbB56L5Zfm5nTswrtPDcQV-5hR58BsZMZ2LjcXwiVt2ifirLLmXhw7mLNhLhzzyZxhWC1vWlH1fBf7QQgAbtgxWTutFFjtZmUUz7h4xOZ11IlCaEuXdb3hQRO3Vw9-YJWc0OWzHc_9roNd9bqypouZVvOixtKhrUodx3Lr_nGE1qaJE30x2c6WOhY0D3VAy9CHtRJFL3qiU_f0XXcon-eG7KuRyJffeHDpTpO5qca/4nb/InjcdtuwR4qQJA4feI6GHg/h36/h001.ZAX-s2wf_Gv4xkQnRE1sp1R4VSduIvR5kJLTLblk0Hk>, helping you shape your roadmap for the year ahead.\r\n\r\nUnlike your Planet Fitness membership, it's completely free. Hear from a panel of experts including Plaid's co-founder and CEO Zach Perret, Chief Technology Officer Will Robinson, and Credit Product Lead Michelle Young, on what's on deck for 2026. You won't regret it.\r\n\r\nGet your free recording of Fintech Predictions 2026 right here.<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB3j7Dc-YoMcpR2ufKjiZNiZ8SJEdT7KHNNvrUFvAz6q6e00lZ-o7Z106EgS6kl-FKoxpbB56L5Zfm5nTswrtPDcQV-5hR58BsZMZ2LjcXwiVt2ifirLLmXhw7mLNhLhzzyZxhWC1vWlH1fBf7QQgAbtgxWTutFFjtZmUUz7h4xOZ11IlCaEuXdb3hQRO3Vw9-YJWc0OWzHc_9roNd9bqypouZVvOixtKhrUodx3Lr_nGIrqF-fqUbFgugzZNd3Tw5yWIDisNkJ_O7119be_9Fn3GekKLulhHl_G2XLbVBmCy/4nb/InjcdtuwR4qQJA4feI6GHg/h37/h001.m8EXlcoVblVXmvCQ2JVLwu7mgZEsKpqe2YUeAZG8JJY>\r\n\r\n\r\nDeal Flow\r\n\r\nM&A / Investments\r\n\r\n  *   Toyota raised its buyout offer for Toyota Industries by 15% to $39B, caving to activist Elliott's demands to sweeten its 'lowball bid'\r\n\r\n  *   Real estate tycoon Stephen Ross received offers worth over $15B for NFL's Miami Dolphins; the team was valued at $8B in a minority stake sale in 2024\r\n\r\n  *   Coca-Cola abandoned plans to sell coffee chain Costa Coffee chain after offers from TDR Capital and Bain Capital fell below expectations; the firm acquired Costa for $5.1B in 2018\r\n\r\n  *   European PE firm EQT is in early talks to take-private gene therapy company Oxford Biomedica in a $1.3B all-cash deal\r\n\r\n  *   Investment firm Neuberger Berman will take a $1.2B minority stake in Onex and Ares-backed tax advisory and software provider Ryan at a $7B valuation\r\n\r\n  *   KKR will acquire a 50% stake in German utility RWE's Norfolk Vanguard offshore wind projects in UK\r\n\r\n  *   Canadian Natural Resources is in talks to buy a portfolio of natural gas properties from Tourmaline Oil Corp for $1B\r\n\r\n  *   HSBC is exploring a sale of its Singapore insurance unit, which could fetch over $1B\r\n\r\n  *   Mission Produce agreed to merge with rival avocado producer Calavo Growers in a $483M cash-and-stock deal\r\n\r\n  *   Canadian miner Northern Graphite formed a $200M JV with Saudi investment firm Al Obeikan to develop and operate a battery anode material facility in Saudi Arabia\r\n\r\n  *   Carlyle is considering an equity investment in Kimmeridge Energy-backed LNG firm Commonwealth\r\n\r\n  *   Shell and ExxonMobil canceled a proposed deal to sell North Sea natural gas assets to Viaro Energy\r\n\r\n  *   Citigroup is considering selling more stakes in its Mexican retail bank Banamex ahead of an IPO\r\n\r\n  *   Nigerian energy firm Vaaris agreed to acquire TotalEnergies' 10% stake in Nigerian onshore asset Renaissance JV and three other licenses after a prior sale to Chappal Energies fell through\r\n\r\nVC\r\n\r\n  *   Quant trading firms Akuna, Belvedere, Optiver, and Virtu invested<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLryvKF3DqbyBoG8WvHxjXjIRbi0FI92FiitKwYd9SalPBn4SA_QDAvQqDylsJNh6gh4gc54OcWqCMEHtaxjm5uCJ45r4DmacRGDcPq2MzFQzr6JpjinXxKtfci_lQwg5Z3Vfse16WuxAnKnuAuPdZALd9jwaVcWq7ucEnuOcVMIlovB9IBDabgBZPDOqzGPkik0cr0YKIjKDdNH48ANMra4w/4nb/InjcdtuwR4qQJA4feI6GHg/h38/h001.aQw4vBYG1VstmwEHJ0HCpn0uE5VA6DGOQP7I7Tcuihg> in new options intermediary Optimal Market Technologies\r\n\r\n  *   Robotics software startup Skild AI raised $1.4B Series C a round at a $14B valuation led by SoftBank\r\n\r\n  *   Coding startup Temporal Technologies is in advanced talks to raise a round at a $5B valuation led by a16z\r\n\r\n  *   AI chip startup Etched.ai raised $500M at a $5B valuation led by Stripes\r\n\r\n  *   osapiens, an enterprise sustainability software startup, raised a $100M Series C at a $1B+ valuation led by BlackRock and Temasek JV Decarbonization Partners\r\n\r\n  *   AI customer-research startup Listen Labs raised a $69M Series B led by Ribbit Capital\r\n\r\n  *   Developer-first cybersecurity platform Aikido Security raised a $60M Series B led by DST Global\r\n\r\n  *   AI offensive-security startup Novee emerged from stealth with $51.5M led by YL Ventures, Canaan Partners, and Zeev Ventures <https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUL4O0yZB2ci8op9gIlZslfTSUkCTW5S-2ffCuQv2vxGjDTLXU1pKsTpkQ67YWY2FR9K6wBcLp8F6-NqgSe98mwgbDfkeNlAHqcR5-SqjPQq2nIbHu3RqVlHa8fvZc7XkyUty3OP_nZI8UPff_C2X-RUUbhE-Q7wDK72vjtyuY7TimNsFEoSmUo1lHQyL_ZZZQ3CV3cmIK6waWeg3uctESJnwgdjcNniSrMcYxXCwM0yC2dHh5ZA3M3M2BuOx3_8uNg/4nb/InjcdtuwR4qQJA4feI6GHg/h39/h001.P-U_2Bf1Eexr1MEb92RnCEF1FOt-PrMPQpJ7hgx6Xgw>\r\n\r\n  *   AI security startup Depthfirst raised a $40M Series A led by Accel Partners\r\n\r\n  *   Quadric, an edge-AI processor IP startup, raised a $30M Series C led by ACCELERATE Fund\r\n\r\n  *   Supply-chain visibility startup Tive raised a $20M round led by Lightsmith Group\r\n\r\n  *   Edge-platform startup IO River raised a $20M Series A led by Venture Guides and New Era Capital Partners\r\n\r\n  *   Project Eleven, a post-quantum digital-asset security startup, raised a $20M Series A led by Castle Island Ventures\r\n\r\n  *   SkyFi, a satellite imagery and analytics startup, raised a $12.7M Series A co-led by Buoyant Ventures and IronGate Capital Advisors\r\n\r\n  *   Noise, an on-chain attention-market startup, raised a $7.1M seed round led by Paradigm\r\n\r\nPowered by Fundable<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaULXNTfA5kp8C2djvdIeuAKFAR7L6lXVY5ClyVVr5LufzRMnd0_1ecGGoBQBuDvR6BNZu42nxITHmfaSUKHcvsu7-BM5IIbDHFpq31Uu50d-F7O2Jg2iVvuRPEnkCcIyeQtJL2VgqLcZrWN6nhw_5aCbHkTFMF9dUtcqrumLLLycBn2g9wJCjPsxYHWClW2PaQg/4nb/InjcdtuwR4qQJA4feI6GHg/h40/h001.uRznhgw0NLVHgVOIYcDeqAipPH1CUriwmd3eb9Gl17E>\r\n\r\nIPO / Direct Listings / Issuances / Block Trades\r\n\r\n  *   $52B-listed Chinese tech giant Baidu is considering upgrading its Hong Kong listing to primary status\r\n\r\n  *   European defense giant Czechoslovak Group plans to raise $3.5B at a ~$35B valuation in an Amsterdam IPO\r\n\r\n  *   Honeywell-backed quantum computing firm Quantinuum filed for an IPO; the firm was valued at $11B in September\r\n\r\n  *   Apax Partners and Warburg Pincus-backed Dutch telecom Odido is set to file for a $1.2B Amsterdam IPO\r\n\r\n  *   Brazilian fintech Agibank filed for a $1B US IPO; the startup was last valued at $1.7B in December 2024\r\n\r\nDebt\r\n\r\n  *   France raised $11.7B in a bond sale despite entering a fiscal 'danger zone'\r\n\r\n  *   Banks tightened pricing on $8.5B in leveraged loans for Blackstone and TPG's $18.3B LBO of medical-device maker Hologic\r\n\r\n  *   JPMorgan sold $6B of investment-grade bonds to kick off Wall Street banks' Q1 issuances\r\n\r\n  *   European PE firm CVC is in talks with BlackRock's HPS to raise $3.15B in debt for its Global Sport Group platform, with Ares and Bain Capital in talks to provide additional equity\r\n\r\n  *   Bolivia secured a $4.5B support package from the Inter-American Development Bank to help stabilize the economy\r\n\r\n  *   TPG agreed to buy $2.4B of consumer loans from subprime consumer lender OneMain under a forward-flow agreement\r\n\r\n  *   Lenders are preparing a $2.3B debt package to support European PE firm Astorg's sale of fund services business IQ-EQ\r\n\r\n  *   HSBC is gauging investor demand for a SRT tied to a portfolio of $2.3B of investment-grade corporate loans\r\n\r\n  *   Private credit lenders Ares, Golub, Cliffwater, and New Mountain Capital upsized their loan to Global Healthcare Exchange, the healthcare software platform being acquired by Veritas Capital, from $1.3B to $1.6B\r\n\r\n  *   Angola will rollover a $1B loan and raise an additional $500M from JPMorgan\r\n\r\n  *   Nigeria is seeking to raise a $1B green bond this year\r\n\r\nBankruptcy / Restructuring / Distressed\r\n\r\n  *   Luxury retailer Saks Global filed for Chapter 11 bankruptcy and secured $1.75B in DIP financing to keep stores open during restructuring\r\n\r\n  *   Goldman Sachs is leading a takeover of historic LA studio lot Radford Studio Center after owner Hackman Capital Partners defaulted on a $1.1B mortgage; the property was last appraised at $1.8B in 2021\r\n\r\n  *   Brazilian investor Nelson Tanure surrendered most of his ~20% stake in oil company Prio to repay a loan to UBS\r\n\r\n  *   Collapsed subprime auto lender Tricolor's bondholders sued trustee Wilmington Trust for failing to notice the fraud as part of its supervision duties\r\n\r\nFunds / Secondaries\r\n\r\n  *   Arab Energy Fund aims to boost its PE business by 60% to $12B\r\n\r\n  *   Investment firm Sixth Street raised $4.4B for a third European private credit fund\r\n\r\n  *   Saudi's Jadwa Investment is seeking to raise $200M for its flagship private credit fund\r\n\r\n  *   Disgraced Crispin Odey's UK hedge fund Odey Asset Management will cease trading activities and wind down next month\r\n\r\n\r\nCrypto Sum Snapshot\r\n\r\n  *   Bitcoin ETFs saw the largest inflow since October's crypto crash\r\n\r\n  *   Binance's spot crypto trading market share fell to a four-year low\r\n\r\n  *   Visa is working to integrate stablecoins into existing payment system\r\n\r\nCrypto Sum compiles the most important stories on everything crypto. Read it here<https://link.mail.beehiiv.com/ss/c/u001.JB95HUiL4y24HF1r-8cc3kszKTgIV0dmLvy75aJNjZdxlbe6ORKK4Bk--PVO06w1o3NpWxnGUb0z7xHVdFOXkvRNeE5_P5pwGcUyBzWnIWUtpF89mmKlzTnZrl7jmG7U/4nb/InjcdtuwR4qQJA4feI6GHg/h41/h001.B1nqfRELF2C3tSan9HTDzhsquW96t9g2hbnlOHnB7go>.\r\n\r\n\r\nExec\u2019s Picks\r\n\r\n  *   Evolving consumer habits are driving M&A activity in the consumer sector worldwide. Companies are leveraging acquisitions to follow where the consumer is heading, ensuring they stay aligned with rapidly changing preferences. Charles Gournay, Greenhill Consumer & Retail London, explores how M&A enables companies to achieve faster growth. Hear more<https://link.mail.beehiiv.com/ss/c/u001.Rn4Cf8RRlhIYyCWyikrDzD0sKiGOWRwY_EQ0MOcitr79JiOBGsfPYRPs9K9HuydZijXSPP1K7Bas2YtPuSegh6SDq2ZKsm6KdVtxqCFPNjWkFgx8chuYSQj_WC1CHUL_rupKZqSu_tfpY7YCfTy1AgJzXIm-TqzCEWpXdkxohGrsKimkHjLE1WnDDzRsU-05FR7Ep2Aeu5-3U4cQXDsSqkDBHySlYtX1UFyMsbECxJLB2abARxZK7eRbcAayatev1ImZ3OLEdOk4OPEQtQe8m3LPYDPgvjeniGZDr-O3atRzg-9EHM1ULH2iWh73PTVqgJMA2S7F_HfiHON7ggbyPQ/4nb/InjcdtuwR4qQJA4feI6GHg/h42/h001.UEHfJWLWIGBCcRMM0p87vVLPRpdjaTZx3T7NbIWOj0s>.\r\n\r\n\r\nMeme Cleanser\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2d797e37-276e-4d44-ada7-1bf24e4b5f0b/image.png?t=1768412468]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWDt52gDQJVbxB3fujDpQIb7ZA0NKkD2jsv_ShzrNtVlBYCVBBbcL3-TyMl8-svjEdjhPOvK-gDap9dWrx-naHfwX9c41F_AEj52hr5L2Ew2lamnh3GeLctoui5KqJuqJbUOTEOmFm7C5btTOE8e_5bE/4nb/InjcdtuwR4qQJA4feI6GHg/h43/h001.XBuuGjMlJxJ0XEU-5r1Tb5nBrj2T-IrtH4agc3-6hGQ>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/d417887c-03c0-4cdf-9be4-f80cac862cc0/image.png?t=1768442581]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWLf2VH9sYYL97XdJc8ygSGGdwscd2kOSXTuZoVonsCUVEDC926_F8Vk5FzG-ZQYTwQzioLU-u5AqvF5-P5uA2We1hhs4S9Y58BwaJGPTclLFkgA3EAi68GNChBdGwJPvRbySvJOwaWxvBAgC8V01g9I/4nb/InjcdtuwR4qQJA4feI6GHg/h44/h001.Hom5JKFvRbIvpxQysqKcS0FeB970JJR3q0HTqu5ByJU>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/582f37d1-d8c1-4a4a-9e07-d9c7ff7c9479/image.png?t=1768412591]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWO4K-Hz44Tl_4lhDJ6UaUwMhNXniF-bIJDkZPtdx5EEljRH_u_a51yx2C5L-mZEl8GGbXsKxWlhSzQ1UZjzqGEXKejqyXBOlkvSww-QxgZE63t5BruK5vpwmb_SdxrS_rA/4nb/InjcdtuwR4qQJA4feI6GHg/h45/h001.AQpc8X5W1EJKajPU8zjdO-ZCKXJoae-U_CN2nk6wdiA>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/dbc11e7b-293e-4d92-bd9b-01816e031060/image.png?t=1768412626]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWI9QrD86arz5fwBVPKmBspSytxU0iN-9OSjnweY-SP_zbrs2QjXUxJ8wC5kchvFnw_RhicsMOjcTveRXhF8bl73aUEIKFjja8gentaJt47M-F5F6HEfoRRh_zyDNE-cqfA6xi34Ytgm---5z4fZ3UwA/4nb/InjcdtuwR4qQJA4feI6GHg/h46/h001._4bRUpZMpkwZi6BeC2lOLu0gIk69BCOrZsMqJ-jhLO0>\r\n\r\n\r\n\ud83d\uded2 Merch Store: Visit our merch store<https://link.mail.beehiiv.com/ss/c/u001.biIzj1Rawmhh1KhB3-IzvOAAxhEjQ_Rk9thKYEeqg8YqI6Mzm6ECjsu751PkG2y2iQT5hAxRQxjLSSbzEBIT0mGOJCBNmLPq5BctK5LgpIPxN9dxkINIadcM3cB0qQvm1DoITjjebo_7pDCjN78HUg/4nb/InjcdtuwR4qQJA4feI6GHg/h47/h001.NwDeRSo0TGH8fIsvpMMd11LutbwDQI3xGz_Qaz6DbqM> to shop our latest apparel, shoes, bags, accessories and more.\r\n\r\n\ud83d\udcb5 Litquidity Ventures: Accredited investors & qualified purchasers within the Litquidity community can gain access to alternative investments such as venture, late-stage growth, and private equity through Litquidity Ventures. Interested? Fill out this form<https://link.mail.beehiiv.com/ss/c/u001.KN74dixAkkSkzWlFDQrXGR4s9Jn7Rjgs2-B7UTGxPWGhrUnayO2umKqyD57bSFcypqIv-e9Dx6INPY_qE3ltePjiMuQbULLEjXaIt3fG5kI81r8pFI3ejXT83U9kyifa/4nb/InjcdtuwR4qQJA4feI6GHg/h48/h001.70hOWcqUnbVOW0nN09uH3ex2SJwuEQec-aRs3uS7RiU>.\r\n\r\n\u260e\ufe0f Book a call with Lit: Want to pick Litquidity's brain on business advice, insights, or just chat to say what's up? Buy his time here<https://link.mail.beehiiv.com/ss/c/u001.JB95HUiL4y24HF1r-8cc3p1TJ9HxH-A3UpRMDNutOL9ScaXzwE8_8YofMLsFWF9uY5epr7nNkc7GLaWIRHxraNTneIbFMehzENb38ecCZin6jPVLPzSBlfM3uTk8Icrr/4nb/InjcdtuwR4qQJA4feI6GHg/h49/h001.wYD31W9TRL1EljBjE59ZmwbVk3u5r9xCGyJcr8cKdd8>.\r\n\r\n\ud83d\udce7 Launch your own newsletter: Have great content ideas and looking to launch your own publication? We highly recommend beehiiv<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUFBQ5ZqRB2BSxu3rgKUapCsj8jvwqxE1YlUaw22Qd_KWTV-tJQ2rgjLbA0cJJPTnSYBYlBIpyTYGMXbPrNGtHwxYWr35qOsi1KENPnJT0rRHPk8VnEDyXnobkSASWZ9tNU2wxArimklKUykRtD3B-4lmH7ThM7rJfFDYCD-zXYIxPk_if30IC7ImgElPeP7rOzkkZ_ElFYcdUtqMeJWYO49UNGyWIlP1QLwYvcLBrb86QJLeLs1RQR8ZCZ8kjgmVv5UMPRYnawr8pjAIUBqoiSoOH1jFV0FmtFufemHFtHWbAjHMO_VL0yHjZ10wQPpbYIVbfguF9KW5rwbEriOICyPt4zSRgUwH1_SmzKcl1T7wpcaiuvqoE5tbLtGYBHDkk4pVGY89YZKEsg2CeLnsW1jlK19bY44uOnx2ST17imlCiHVbubEHJ24rfiniH2LOiw/4nb/InjcdtuwR4qQJA4feI6GHg/h50/h001.ZvmdZvzItBktNgZmCLq915dUmKlea4wVVdW42EJqK9w> to get started.\r\n\r\n*DISCLAIMER: Investment advice provided by Autopilot Advisers, LLC (\"Autopilot\"), an SEC-registered investment adviser. Past performance does not guarantee future results. Investing carries risks, including loss of principal. As always, be smart out there. Litquidity is compensated to promote AutoPilot. Compensation details available upon request.\r\n\r\n\r\n\r\nShare Exec Sum\r\n\r\nLove our newsletter? Share it with your friends, family, colleagues, interns who need to stay on top of the market and earn free Litquidity / Exec Sum swag!\r\n\r\nYou currently have 0 referrals, only 5 away from receiving a 15% off coupon from the Litquidity merch store.\r\n\r\n[a 15% off coupon from the Litquidity merch store]<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUL-YSHQmEYUgdO43apMXgEpvoU61lNuqyVK_OrGwKGcYb6PGi1olM7_-Cq9ryfeebj3-pgyFAnc8EpduN5cA1d-LZfrW54wkhOkTy17rJftTeXoi157PFWH1C37MQRV0MPrQYUt87QEYY-zg-JHItekXQTICdYldOyBK9ticMfS6/4nb/InjcdtuwR4qQJA4feI6GHg/h51/h001.W8KPc3Tg0ir_Ru7KGZS8mJqn6dtFnCxS60eb7h7LE84>\r\nClick to Share <https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUL-YSHQmEYUgdO43apMXgEpvoU61lNuqyVK_OrGwKGcYb6PGi1olM7_-Cq9ryfeebj3-pgyFAnc8EpduN5cA1d-LZfrW54wkhOkTy17rJftTeXoi157PFWH1C37MQRV0MPrQYUt87QEYY-zg-JHItekXQTICdYldOyBK9ticMfS6/4nb/InjcdtuwR4qQJA4feI6GHg/h52/h001.Mq399tlDTo6NVC0nph8z9ReLl7dHZyrULHSxFlWrLQA>\r\n\r\nOr copy and paste this link to others: https://www.execsum.co/subscribe?ref=qfM9fDnlrE<https://www.execsum.co/subscribe?ref=qfM9fDnlrE&_bhlid=bf7a73b936aab597b0df9777ef50b28c5a049d32>\r\n\r\n\r\n[tw]<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUDRPORsLOCVwDJyfUDxLrcoq_J1rc0udQSVQ6RzrWdcyxaNp2UWqWJIWkN0nXyD3desRRrwUBvu7pWEylUYPFCBIUJTqsz-2c_BgAgUY3sM1/4nb/InjcdtuwR4qQJA4feI6GHg/h53/h001.P6oQWiMlGejUJ_oDJbsjcdp5gecTEOm72DlA3GneFZo>  [ig] <https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUFTG7s9AmVc5coYkabBIJRFIYteVh1P7kETcpZKWFIMX7WhHhrne3OgN_3Wj4ShADC947Mt3pEyJAGakrdxmTRP4x0tOS6HySqxHfqG3DK9E/4nb/InjcdtuwR4qQJA4feI6GHg/h54/h001.z5RennjDpD2JU429smV9CSJnzj-pBZ-A7KCOJgreXZc>         [in] <https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUMaUZ1gum041ORgX3QUt2hHvj4Ip91BWc8IKPqSXzzMmJ_xrn4NXwCe012PVDF0plvWGkXUwNb28zt7uLXyr8LaWlphPonRG8H5vs1mVuPVTikX4Pk7ok-wAsr9EmXeHdg/4nb/InjcdtuwR4qQJA4feI6GHg/h55/h001.yIYXmUl_qwVPNl7k36WxfANQmbhz24R7qzL8KE8np30>\r\n\r\n\r\nUpdate your email preferences or unsubscribe here<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUL-YSHQmEYUgdO43apMXgEpvoU61lNuqyVK_OrGwKGcYb6PGi1olM7_-Cq9ryfeebqFri7Qyp5L2UnOJI4AC_UsFrM0qNczHSTTnM3j9MBgLxLe4rCbAsIQEqzfvogAh_npf4c5Gz2_6Nhw9jG1HIAbptXwB0_GZ-3acU1ur5HKFe9TGaEYtCZUDqAEWmMHfgukio3W5t_NeCmG_HFp2whMw73sE08aVIWlpH6Lx5vFPzLYpd8g4N62q7G9une7N1sUJZ7CvzKM4iBA3oiK7gtDO1uAghjxYlKbC_BxxnUgjlr6Bq8dT5c_QSfqZJ4N1dgqu9tGVMv-i58vyjj7u5qmSrYiVYwJIM7rl5VZayyOCPVKWu8NwXipqj1MzMgq7rWvkoPGeAU0AAVbY8eBXOKEEbwji1XiRToHTfzm8iGMJ/4nb/InjcdtuwR4qQJA4feI6GHg/h56/h001.V1A0dWiNbXbWFC0sOK7iF8DUzqBydJfP0LuiQN4Gx9A>\r\n\r\n\u00a9 2026 Exec Sum\r\n\r\n228 Park Ave S, #29976, New York, New York 10003, United States\r\n\r\nTerms of Service <https://link.mail.beehiiv.com/ss/c/u001.MbbflVXbDiZldD_8wm25n2L_6nPXyTSejw7vxOGpukCAMjubKNRzS6lazVWZILNcR_DDFLqnTx_p9CHBjeTmhvvwmzWiKGiD1C4bIX72s7k/4nb/InjcdtuwR4qQJA4feI6GHg/h57/h001.SRb18pDbgdIclgGL-xWr-fPpNzV5zzvk7_4h9tz_L4I>\r\n<https://email.beehiivstatus.com/8f3ec2da0e0d317d758c57225cfc5cda4eee7cfe/hclick>\r\nExaloan AG | Registergericht/Registration: Amtsgericht/Local Court Frankfurt am Main HRB 115711 | Vorstand/Executive Board: Luca Frignani | Aufsichtsrat/Supervisory Board: Andreas H\u00f6fner (Vorsitz/ Chairman), Dr. Tom Oliver Schorling, Thomas Nicolas\r\n\r\nDiese Nachricht und alle Anlagen sind vertraulich und ausschlie\u00dflich f\u00fcr den im Adressfeld genannten Adressaten bestimmt. Bitte informieren Sie uns, wenn Sie nicht der vorgesehene Empf\u00e4nger sein sollten und l\u00f6schen Sie diese Nachricht und alle Anlagen in Ihrem System. Vielen Dank. Jede unbefugte Nutzung, Weiterleitung, Ver\u00e4nderung, Offenlegung gegen\u00fcber Dritten oder Fertigung einer Kopie ist unzul\u00e4ssig. Da wir nicht die Echtheit oder Vollst\u00e4ndigkeit der in dieser Nachricht enthaltenen Informationen garantieren k\u00f6nnen, schlie\u00dfen wir jede rechtliche Verbindlichkeit der vorstehenden Erkl\u00e4rungen und \u00c4u\u00dferungen aus.\r\n\r\nThis message and any attachment are confidential and may be privileged or otherwise protected from disclosure. It is intended solely for the mentioned person in the address field. Please inform us, if you are not the intended recipient and delete the message and any attachment from your system. Thank you. Any use, modification, unauthorized dissemination, distribution or copying hereof is prohibited. As we cannot guarantee the genuineness or completeness of the information in the message, the statements set forth above are not legally binding.\r\n",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BBG",
+      "capital",
+      "raised",
+      "led",
+      "startup",
+      "firm",
+      "Series",
+      "Litquidity",
+      "January",
+      "Securities"
     ]
   }
 ]
