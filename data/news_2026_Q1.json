@@ -36951,5 +36951,45 @@
       "clears",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-15/china-new-loans-shrink-to-least-in-seven-years-as-demand-weakens",
+    "title": "China New Loans Shrink to Least in Seven Years as Demand Weakens",
+    "fetched_on": "2026-01-15T07:27:18.044703+00:00",
+    "content": "Chinese banks extended the smallest amount of new loans since 2018 last year while credit expansion slowed in December, in a reflection of sluggish demand from borrowers that’s weighing on growth.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loans",
+      "December",
+      "Demand",
+      "Shrink",
+      "Weakens",
+      "Chinese",
+      "China",
+      "growth",
+      "Years",
+      "year"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/141381/journalist-carrick-appointment-wont-change-man-uniteds-mega-midfield-overhaul-plans.html",
+    "title": "Journalist: Carrick appointment won’t change Man United’s mega midfield overhaul plans",
+    "fetched_on": "2026-01-15T07:27:17.065888+00:00",
+    "content": "Credit must go to The Athletic for laying out, in forensic detail, a week that somehow managed to feel both decisive and static at Manchester United. Change has arrived in name, but not yet in substa… [+3501 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "United",
+      "Carrick",
+      "Journalist",
+      "Man",
+      "Credit",
+      "Athletic",
+      "Manchester",
+      "detail",
+      "change",
+      "appointment"
+    ]
   }
 ]
