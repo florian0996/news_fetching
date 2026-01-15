@@ -36911,5 +36911,45 @@
       "January",
       "UTC"
     ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/your-house-can-fund-your-next-big-goal-unlock-home-equity-to-reduce-debt-invest-smarter-and-build-long-term-wealth/your-home-is-more-than-shelterits-capital/slideshow/126519778.cms",
+    "title": "Your house can fund your next big goal: Unlock home equity to reduce debt, invest smarter and build long-term wealth",
+    "fetched_on": "2026-01-15T06:37:17.979705+00:00",
+    "content": "Jan 14, 2026, 12:06:36 PM IST\r\nYour house is not just a place to live but also a financial asset that grows over time. As you repay your home loan and property values increase, it builds equity. This… [+2673 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unlock",
+      "Jan",
+      "house",
+      "IST",
+      "goal",
+      "debt",
+      "invest",
+      "time",
+      "home",
+      "equity"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/india/delhi-cabinet-clears-carbon-credit-policy-to-monetise-emission-cuts/articleshow/126519289.cms",
+    "title": "Delhi Cabinet clears carbon credit policy to monetise emission cuts",
+    "fetched_on": "2026-01-15T06:37:17.979705+00:00",
+    "content": "New Delhi: The Delhi government on Tuesday approved a policy framework that will allow it to generate revenue by monetising reductions in carbon emissions, officials said.The Cabinet cleared the Carb… [+2218 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Delhi",
+      "Cabinet",
+      "Carb",
+      "chars",
+      "Tuesday",
+      "officials",
+      "carbon",
+      "policy",
+      "clears",
+      "credit"
+    ]
   }
 ]
