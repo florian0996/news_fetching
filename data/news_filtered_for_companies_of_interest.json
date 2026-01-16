@@ -1,6 +1,17 @@
 {
-  "2026-01-15": {
+  "2026-01-16": {
     "status": "no company in the news"
+  },
+  "2026-01-15": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: Stablecoin Narrow Banking",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-01-14": {
     "status": "no company in the news"
