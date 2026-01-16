@@ -40962,5 +40962,45 @@
       "Fall",
       "Earnings"
     ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/bitcoin-backed-credit-card-argentina-lemon",
+    "title": "Lemon launches Bitcoin-backed credit card in cash-hoarding Argentina",
+    "fetched_on": "2026-01-16T09:29:15.506381+00:00",
+    "content": "Lemon, one of Argentinas largest crypto exchanges, has launched what it describes as the countrys first Bitcoin-backed Visa credit card, offering users Argentine peso financing without forcing them t… [+3204 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Bitcoin-backed",
+      "Lemon",
+      "Visa",
+      "Argentine",
+      "credit",
+      "card",
+      "exchanges",
+      "offering",
+      "Argentina"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/tracker_posts/critical-moment-the-ai-imperative-for-credit-unions/",
+    "title": "Critical Moment: The AI Imperative for Credit Unions",
+    "fetched_on": "2026-01-16T09:29:15.506381+00:00",
+    "content": "Artificial intelligence (AI) has moved quickly from novelty to necessity across financial services, and credit unions (CUs) are no exception. More than half of consumers already use AI for financial … [+11942 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Unions",
+      "Moment",
+      "CUs",
+      "Imperative",
+      "Artificial",
+      "Critical",
+      "intelligence",
+      "services",
+      "exception"
+    ]
   }
 ]
