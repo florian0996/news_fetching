@@ -40845,5 +40845,25 @@
       "Banken",
       "ist"
     ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2026/0115/1553183-ptsb-homeowner-loans/",
+    "title": "PTSB to cut variable interest rates for retrofit loans",
+    "fetched_on": "2026-01-16T07:26:38.535386+00:00",
+    "content": "PTSB has announced it is reducing its variable interest rates for loans to homeowners under the State-backed retrofitting Home Energy Upgrade Loan Scheme.\r\nHomeowners can borrow from 5,000 to 75,000 … [+2204 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PTSB",
+      "Scheme",
+      "interest",
+      "rates",
+      "State-backed",
+      "Home",
+      "Energy",
+      "Upgrade",
+      "loans",
+      "variable"
+    ]
   }
 ]
