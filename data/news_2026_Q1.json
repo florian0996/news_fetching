@@ -43443,5 +43443,83 @@
       "myVerizon",
       "chars"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/quebec-premiers-resignation-adds-to-credit-uncertainty-says-morningstar",
+    "title": "Quebec Premier’s Resignation Adds to Credit Uncertainty, Says Morningstar",
+    "fetched_on": "2026-01-16T19:21:15.619709+00:00",
+    "content": "(Bloomberg) The sudden resignation of Quebec Premier Francois Legault is a new source of uncertainty for the French-speaking province as the separatist Parti Quebecois rises in polls, credit rating a… [+5216 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Premier",
+      "Quebec",
+      "Morningstar",
+      "chars",
+      "Resignation",
+      "Credit",
+      "Uncertainty",
+      "Adds",
+      "Francois"
+    ]
+  },
+  {
+    "source": "cleveland.com [NewsAPI]",
+    "url": "https://www.cleveland.com/news/2026/01/how-to-claim-your-verizon-credit-from-wednesdays-outage.html",
+    "title": "How to claim your Verizon credit from Wednesday’s outage",
+    "fetched_on": "2026-01-16T19:21:15.619709+00:00",
+    "content": "NEW YORK Verizon said it will give customers credits after a major outage that left many people without phone service or mobile internet for nearly 10 hours on Wednesday, the company announced Thursd… [+2555 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Thursd",
+      "Verizon",
+      "Wednesday",
+      "YORK",
+      "hours",
+      "outage",
+      "claim",
+      "give",
+      "customers"
+    ]
+  },
+  {
+    "source": "CNBC Finance [RSS]",
+    "url": "https://www.cnbc.com/2026/01/16/white-house-hassett-trump-cards-credit-card-battle.html",
+    "title": "Kevin Hassett pivots to possible ‘Trump cards’ amid credit card battle with banks",
+    "fetched_on": "2026-01-16T19:21:37.599010+00:00",
+    "content": "Trump called for banks to cap credit card interest rates at 10%, an idea that has been roundly rejected by industry executives and their lobbyists this week.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Hassett",
+      "credit",
+      "card",
+      "Kevin",
+      "week",
+      "banks",
+      "pivots",
+      "cards’",
+      "amid"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/argentinian-crypto-app-lemon-launches-092236408.html",
+    "title": "Argentinian Crypto App Lemon Launches Bitcoin-Backed Credit Card",
+    "fetched_on": "2026-01-16T19:21:38.191652+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "Crypto",
+      "App",
+      "Lemon",
+      "Launches",
+      "Credit",
+      "Argentinian",
+      "Bitcoin-Backed"
+    ]
   }
 ]
