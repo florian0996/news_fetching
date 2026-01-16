@@ -40147,5 +40147,145 @@
       "lending",
       "flow"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-15/bca-earnings-set-to-be-bright-spot-among-indonesia-s-top-banks",
+    "title": "BCA Earnings Set to Be Bright Spot Among Indonesia’s Top Banks",
+    "fetched_on": "2026-01-16T01:54:15.088108+00:00",
+    "content": "PT Bank Central Asia is set to be the only one among Indonesia’s biggest banks to post higher profit for 2025, as manageable costs and robust credit quality helped it weather soft loan demand.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indonesia",
+      "Set",
+      "BCA",
+      "Banks",
+      "Earnings",
+      "Bright",
+      "Spot",
+      "Top",
+      "Central",
+      "Asia"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/how-well-do-you-know-classic-videogame-cheats-see-if-you-can-answer-these-10-tricky-questions/",
+    "title": "How well do you know classic videogame cheats? See if you can answer these 10 tricky questions",
+    "fetched_on": "2026-01-16T01:54:14.533665+00:00",
+    "content": "(Image credit: Larian Studios, PC Gamer)\r\nWant to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes, on everything from healthbars to weird currencies to absurd patc… [+1522 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cheats",
+      "Gamer",
+      "classic",
+      "videogame",
+      "Image",
+      "Larian",
+      "Studios",
+      "chars",
+      "tricky",
+      "questions"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/creditcard-identifier/2.3.0/",
+    "title": "creditcard-identifier 2.3.0",
+    "fetched_on": "2026-01-16T01:54:14.533665+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "creditcard-identifier",
+      "load",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension",
+      "network"
+    ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/fps/i-consider-it-a-millennial-shooter-the-fps-dev-making-hit-shooters-by-leaning-into-2007-core/",
+    "title": "'I consider it a millennial shooter': The FPS dev making hit shooters by leaning into '2007-core'",
+    "fetched_on": "2026-01-16T01:54:14.533665+00:00",
+    "content": "(Image credit: Future)\r\nWelcome to FOV 90, an FPS column from staff writer Morgan Park. Every other week, I cover topics relevant to first-person shooter enjoyers, spanning everything from multiplaye… [+14468 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "FPS",
+      "Image",
+      "FOV",
+      "Park",
+      "Morgan",
+      "credit",
+      "millennial",
+      "dev",
+      "making"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00160-4",
+    "title": "PhD students’ taste for risk mirrors their supervisors’",
+    "fetched_on": "2026-01-16T01:54:14.533665+00:00",
+    "content": "Students are more likely to show risk-taking behaviour if their supervisors have a tendency for risky projects. Credit: Getty\r\nA researchers propensity for risky projects is passed down to their doct… [+2756 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Students",
+      "risky",
+      "PhD",
+      "projects",
+      "students’",
+      "taste",
+      "risk",
+      "mirrors",
+      "supervisors’",
+      "show"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00116-8",
+    "title": "A ‘time capsule for cells’ stores the secret experiences of their past",
+    "fetched_on": "2026-01-16T01:54:14.533665+00:00",
+    "content": "Ribosomes, pictured here, synthesize proteins by translating messenger RNA (mRNA) into amino acid chains. Credit: Christoph Burgstedt/Science Photo Library\r\nResearchers have engineered a time capsule… [+3469 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "mRNA",
+      "Ribosomes",
+      "RNA",
+      "pictured",
+      "synthesize",
+      "chains",
+      "time",
+      "capsule",
+      "Credit",
+      "chars"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-025-03342-8",
+    "title": "During the course of my PhD, I’ve been relearning how to rest",
+    "fetched_on": "2026-01-16T01:54:14.533665+00:00",
+    "content": "People with PhDs say they spent years during their studies feeling exhausted and lost their worklife balance. Credit: Getty\r\nI have just started the fourth year of my PhD. As I reflect on where the t… [+3981 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "People",
+      "balance",
+      "PhD",
+      "Getty",
+      "’ve",
+      "relearning",
+      "rest",
+      "spent",
+      "studies",
+      "feeling"
+    ]
   }
 ]
