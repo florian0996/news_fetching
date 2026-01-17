@@ -44888,5 +44888,45 @@
       "Credit",
       "Secondaries"
     ]
+  },
+  {
+    "source": "nwitimes.com [NewsAPI]",
+    "url": "https://nwitimes.com/news/local/business/article_737a18d3-9e9e-488d-ba5c-351c2023cf8f.html",
+    "title": "Steel CEOs credit tariffs with shrinking import market share from 30% to 16%",
+    "fetched_on": "2026-01-17T04:34:00.812124+00:00",
+    "content": "U. S. Steel President and CEO Dave Burritt, left, chats with U.S. Rep. Frank Mrvan at the announcement of the mill's new pig iron caster facility now under construction.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rep",
+      "Steel",
+      "Burritt",
+      "left",
+      "credit",
+      "tariffs",
+      "shrinking",
+      "import",
+      "market",
+      "share"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-rises-on-dealmaking-trading-strength/articleshow/126556820.cms",
+    "title": "Goldman Sachs' profit rises on dealmaking, trading strength",
+    "fetched_on": "2026-01-17T04:34:00.812124+00:00",
+    "content": "Goldman Sachs' profit rose in the fourth quarter, fueled by dealmaking, stronger trading revenues in a turbulent market and a one-time gain from exiting its credit card partnership with Apple.The ban… [+2191 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sachs'",
+      "chars",
+      "Goldman",
+      "dealmaking",
+      "profit",
+      "quarter",
+      "fueled",
+      "stronger",
+      "ban",
+      "trading"
+    ]
   }
 ]
