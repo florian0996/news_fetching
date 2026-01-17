@@ -45107,5 +45107,85 @@
       "Critics",
       "chars"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/standard-chartered-mulls-options-for-india-cards-unit-in-retail-pullback/articleshow/126561443.cms",
+    "title": "Standard Chartered mulls options for India cards unit in retail pullback",
+    "fetched_on": "2026-01-17T08:29:01.365581+00:00",
+    "content": "Standard Chartered Plc is reviewing its retail credit card business in India amid a wider strategy to reshape operations in the worlds fastestgrowing major economy, according to people familiar with … [+2384 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chartered",
+      "India",
+      "Standard",
+      "chars",
+      "Plc",
+      "retail",
+      "economy",
+      "mulls",
+      "options",
+      "unit"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/accessories/smart-home/with-geforce-now-nvidia-is-building-the-cloud-gaming-service-ive-always-wanted",
+    "title": "With GeForce Now, NVIDIA is building the cloud gaming service I've always wanted",
+    "fetched_on": "2026-01-17T08:29:01.365581+00:00",
+    "content": "(Image credit: Nicholas Sutrich / Android Central)\r\nIn Hardwired, AC Senior Editor Harish Jonnalagadda delves into all things hardware, including phones, audio products, storage servers, and networki… [+3318 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "NVIDIA",
+      "Image",
+      "Nicholas",
+      "Sutrich",
+      "Android",
+      "Central",
+      "Hardwired",
+      "Senior",
+      "Editor"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/banking/markets-banks-hdfc-bank-icici-bank-q3-results-earnings-preview-11768542720196.html",
+    "title": "HDFC Bank, ICICI Bank to report steady Q3 on firm loan growth, recovery in margins",
+    "fetched_on": "2026-01-17T08:29:01.365581+00:00",
+    "content": "Mumbai: Indias two largest private-sector lenders, HDFC Bank and ICICI Bank, are expected to post a steady performance for the December quarter, supported by firm loan growth, improving margins and c… [+4352 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "HDFC",
+      "ICICI",
+      "growth",
+      "loan",
+      "Mumbai",
+      "Indias",
+      "chars",
+      "firm",
+      "December"
+    ]
+  },
+  {
+    "source": "Newser [NewsAPI]",
+    "url": "https://www.newser.com/story/382064/verizon-offers-20-credit-after-nationwide-7-hour-outage.html",
+    "title": "Verizon Offers $20 Credit After Nationwide 7-Hour Outage",
+    "fetched_on": "2026-01-17T08:29:01.365581+00:00",
+    "content": "Wednesday's disruption began around 12:30pm ET and lasted roughly seven hours, according to outage tracker Downdetector, which logged more than 1.5 million reports. The problems were reported nationw… [+1131 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Offers",
+      "Credit",
+      "Nationwide",
+      "Downdetector",
+      "Outage",
+      "Wednesday",
+      "Verizon",
+      "hours",
+      "million",
+      "reports"
+    ]
   }
 ]
