@@ -47613,5 +47613,45 @@
       "Credit",
       "Score"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/tesla-hits-major-roadblock-attempt-230500724.html",
+    "title": "Tesla hits major roadblock in attempt to launch new vehicle: 'Likelihood of confusion'",
+    "fetched_on": "2026-01-17T23:21:13.641755+00:00",
+    "content": "Photo Credit: Getty Images\r\nElectric vehicle maker Tesla attempted to name its autonomous vehicle the \"Cybercab\" but encountered trademark obstacles.\r\nThe U.S. Patent and Trademark Office suspended T… [+2012 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cybercab",
+      "Likelihood",
+      "Photo",
+      "Credit",
+      "Getty",
+      "Tesla",
+      "Images",
+      "Electric",
+      "vehicle",
+      "trademark"
+    ]
+  },
+  {
+    "source": "OCRegister [NewsAPI]",
+    "url": "https://www.ocregister.com/2026/01/16/trumps-credit-card-threats-rain-on-banks-earnings-parade/",
+    "title": "Trump’s credit card threats rain on banks’ earnings parade",
+    "fetched_on": "2026-01-17T23:21:13.641755+00:00",
+    "content": "Georgie McKay\r\n(Bloomberg) President Donald Trumps unexpected demand for a cap on credit card interest rates sent financial shares tumbling this week, leaving the heads of Wall Streets biggest lender… [+3305 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "chars",
+      "President",
+      "Georgie",
+      "Donald",
+      "Wall",
+      "Streets",
+      "credit",
+      "card",
+      "McKay"
+    ]
   }
 ]
