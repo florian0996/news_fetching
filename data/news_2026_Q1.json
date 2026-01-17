@@ -44928,5 +44928,65 @@
       "ban",
       "trading"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/grammy-nominated-artist-tenroc-talks-about-his-new-single-playlist-and-the-digital-age/article",
+    "title": "Grammy-nominated artist Tenroc talks about his new single ‘Playlist’ and the digital age",
+    "fetched_on": "2026-01-17T05:22:52.570826+00:00",
+    "content": "Tenroc. Photo Credit: Cedric Jones Photography.\r\nGrammy-nominated artist Tenroc chatted about his new single “Playlist” and the digital age.\r\nOver the past half-decade, Tenroc has made his mark in th… [+5262 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Playlist’",
+      "Tenroc",
+      "Grammy-nominated",
+      "single",
+      "artist",
+      "digital",
+      "age",
+      "Credit",
+      "Cedric",
+      "Photography"
+    ]
+  },
+  {
+    "source": "Decrypt [NewsAPI]",
+    "url": "https://decrypt.co/354839/california-fines-crypto-lender-nexo-500k-unlicensed-loans",
+    "title": "California Fines Crypto Wealth Platform Nexo $500K Over 'Unlicensed' Loans",
+    "fetched_on": "2026-01-17T05:22:52.570826+00:00",
+    "content": "In brief\r\n<ul><li>The California Department of Financial Protection and Innovation found Nexo issued crypto-backed loans to at least 5,456 Californians without a license.</li><li>Nexo reportedly fail… [+3544 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unlicensed",
+      "Nexo",
+      "Californians",
+      "chars",
+      "California",
+      "Loans",
+      "Fines",
+      "Crypto",
+      "Wealth",
+      "Platform"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-retirement-plan-is-an-animated-short-by-john-kelly-that-explores-the-facts-of-life/article",
+    "title": "Review: ‘Retirement Plan’ is an animated short by John Kelly that explores the facts of life",
+    "fetched_on": "2026-01-17T05:22:52.570826+00:00",
+    "content": "Still from 'Retirement Plan.' Photo Credit: John Kelly.\r\n“Retirement Plan” is an animated short film by John Kelly, which explores the facts of life. \r\nIt was directed by John Kelly, who wrote the sc… [+1317 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "John",
+      "Retirement",
+      "Kelly",
+      "Plan",
+      "Plan’",
+      "Review",
+      "animated",
+      "facts",
+      "Credit",
+      "short"
+    ]
   }
 ]
