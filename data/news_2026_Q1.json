@@ -48222,5 +48222,45 @@
       "Economist",
       "Paul"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/17/3220617/0/en/Mutuum-Finance-MUTM-Announces-New-V1-Protocol-Launch-Updates-as-Funding-Nears-20M.html",
+    "title": "Mutuum Finance (MUTM) Announces New V1 Protocol Launch Updates as Funding Nears $20M",
+    "fetched_on": "2026-01-18T10:24:18.651616+00:00",
+    "content": "DUBAI, United Arab Emirates, Jan. 17, 2026 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n has delivered a new round of updates regarding its upcoming V1 lending protocol launch as investor participation… [+4264 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Mutuum",
+      "DUBAI",
+      "Jan.",
+      "chars",
+      "Announces",
+      "United",
+      "Emirates",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-q3-results-profit-interest-income-nii-nim-11768635575674.html",
+    "title": "HDFC Bank eyes faster loan growth, says high credit-deposit ratio not a constraint",
+    "fetched_on": "2026-01-18T10:24:18.651616+00:00",
+    "content": "HDFC Bank has reiterated its intent to accelerate loan growth and deepen its participation in Indias credit cycle, saying its relatively elevated credit-deposit (CD) ratio does not constrain expansio… [+3111 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "Bank",
+      "chars",
+      "loan",
+      "growth",
+      "Indias",
+      "credit-deposit",
+      "ratio",
+      "cycle",
+      "expansio"
+    ]
   }
 ]
