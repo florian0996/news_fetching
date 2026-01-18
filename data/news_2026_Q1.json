@@ -48475,5 +48475,65 @@
       "Stands",
       "Short-Dated"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-18/sovereign-wealth-funds-join-clamor-for-private-credit-in-ems",
+    "title": "Sovereign Wealth Funds Join Clamor for Private Credit in EMs",
+    "fetched_on": "2026-01-18T14:20:12.661363+00:00",
+    "content": "A record wave of private credit deals across emerging markets looks set to extend this year, with a host of institutional and sovereign wealth investors seeking to diversify their US-focused portfolios.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wealth",
+      "Private",
+      "Credit",
+      "Funds",
+      "Join",
+      "Clamor",
+      "Sovereign",
+      "year",
+      "portfolios",
+      "EMs"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-01-18/what-s-happening-in-em-surge-in-private-credit-deals-podcast",
+    "title": "What’s Happening in EM: Surge in Private Credit Deals (Podcast)",
+    "fetched_on": "2026-01-18T14:20:12.661385+00:00",
+    "content": "This week, Mpho Hlakudi in Johannesburg joins Selcuk Gokoluk to discuss how private credit funds are looking to take advantage of increased demand for emerging markets investments in a shift away from US credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Credit",
+      "Private",
+      "Surge",
+      "Deals",
+      "Mpho",
+      "Happening",
+      "Hlakudi",
+      "Johannesburg",
+      "Selcuk"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6c22ea4-8153-42c3-972d-268f888b875d",
+    "title": "As Trump's deadline for a cap on credit card rates looms, banks have only questions and no answers",
+    "fetched_on": "2026-01-18T14:20:11.899961+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Trump",
+      "IAB",
+      "looms",
+      "banks"
+    ]
   }
 ]
