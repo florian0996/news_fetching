@@ -47983,5 +47983,65 @@
       "Education",
       "Student-Loan"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_95a8ff08-10c1-49e8-a16e-c46847568e2c",
+    "title": "Vantage Credit Union Prep Zone | January 16, 2026",
+    "fetched_on": "2026-01-18T06:34:39.753402+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "including",
+      "chars",
+      "Zone",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Credit",
+      "Union"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/world/goldman-sachs-profit-rises-again/a1799838841.html",
+    "title": "Goldman Sachs’ profit rises again",
+    "fetched_on": "2026-01-18T06:34:39.753402+00:00",
+    "content": "Goldman Sachs profit rose in the fourth quarter, fuelled by deal-making, stronger trading revenues in a turbulent market, and a one-time gain from leaving its credit card partnership with Apple.\r\nThe… [+186 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "Goldman",
+      "Sachs’",
+      "Sachs",
+      "quarter",
+      "fuelled",
+      "deal-making",
+      "stronger",
+      "market",
+      "profit"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-swedish-short-film-without-kelly-by-lovisa-siren-paints-a-moving-picture-on-young-motherhood/article",
+    "title": "Review: Swedish short film ‘Without Kelly’ by Lovisa Sirén paints a moving picture on young motherhood",
+    "fetched_on": "2026-01-18T06:34:39.753402+00:00",
+    "content": "Medea Strid in 'Without Kelly' with baby Teodora. Photo Credit: Christine Leuhusen\r\nThe Swedish short film “Without Kelly,” which was written and directed by Lovisa Sirén, paints a poignant picture o… [+1712 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kelly",
+      "Teodora",
+      "Lovisa",
+      "film",
+      "Review",
+      "Swedish",
+      "Sirén",
+      "Kelly’",
+      "Medea",
+      "Strid"
+    ]
   }
 ]
