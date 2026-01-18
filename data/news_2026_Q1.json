@@ -48615,5 +48615,85 @@
       "Movie",
       "Stars"
     ]
+  },
+  {
+    "source": "Newser [NewsAPI]",
+    "url": "https://www.newser.com/story/382120/scotus-to-hear-case-on-geofence-warrants.html",
+    "title": "SCOTUS to Hear Case on 'Geofence' Warrants",
+    "fetched_on": "2026-01-18T16:27:33.365177+00:00",
+    "content": "Police used the information to arrest Okello Chatrie in the 2019 robbery of the Call Federal Credit Union in Midlothian. Chatrie eventually pleaded guilty and was sentenced to nearly 12 years in pris… [+913 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Geofence",
+      "SCOTUS",
+      "Warrants",
+      "Midlothian",
+      "Hear",
+      "Case",
+      "Police",
+      "Okello",
+      "Call",
+      "Federal"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/a-screen-without-the-crease-is-exactly-what-foldables-need",
+    "title": "A screen without 'the crease' is exactly what foldables need",
+    "fetched_on": "2026-01-18T16:27:33.365177+00:00",
+    "content": "(Image credit: Future)\r\nOne of the web's longest-running tech columns, Android &amp; Chill is your Saturday discussion of Android, Google, and all things tech.\r\nA lot of engineering has gone into mak… [+4271 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Android",
+      "Future",
+      "Google",
+      "Image",
+      "Chill",
+      "Saturday",
+      "tech",
+      "crease",
+      "credit",
+      "columns"
+    ]
+  },
+  {
+    "source": "Equinechronicle.com [NewsAPI]",
+    "url": "http://www.equinechronicle.com/helping-your-new-horse-fit-in/",
+    "title": "Helping Your New Horse Fit In",
+    "fetched_on": "2026-01-18T16:27:33.365177+00:00",
+    "content": "All graphics credit: AAEP\r\nThe American Association of Equine Practitioners offers some sage advice for settling in a new horse:\r\nBringing a new equine companion home can be a very exciting experienc… [+1895 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Horse",
+      "chars",
+      "AAEP",
+      "Bringing",
+      "Equine",
+      "Fit",
+      "American",
+      "Association",
+      "Practitioners",
+      "Helping"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/opinion/david-marcus-secure-border-brings-plummeting-overdose-deaths-dont-expect-trump-get-credit",
+    "title": "DAVID MARCUS: Secure border brings plummeting overdose deaths, but don't expect Trump to get credit",
+    "fetched_on": "2026-01-18T16:27:33.365177+00:00",
+    "content": "These days, it seems like the hardest thing to come across in the United States of America is something that all of us can celebrate as unambiguous good news. Well, you would think the steady and sub… [+4517 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DAVID",
+      "MARCUS",
+      "Secure",
+      "Trump",
+      "United",
+      "States",
+      "America",
+      "deaths",
+      "days",
+      "border"
+    ]
   }
 ]
