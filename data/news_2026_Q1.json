@@ -48102,5 +48102,65 @@
       "Alto",
       "Stocks"
     ]
+  },
+  {
+    "source": "Aawsat.com [NewsAPI]",
+    "url": "https://english.aawsat.com/business/5230630-fitch-affirms-saudi-arabia%E2%80%99s-credit-rating-%E2%80%98%E2%80%99-stable-outlook",
+    "title": "Fitch Affirms Saudi Arabia’s Credit Rating at ‘A+’ with Stable Outlook",
+    "fetched_on": "2026-01-18T08:29:53.494964+00:00",
+    "content": "A high-ranking Saudi delegation led by Minister of Foreign Affairs Prince Faisal bin Farhan bin Abdullah will participate in the World Economic Forum (WEF) Annual Meeting 2026 in Davos, Switzerland, … [+5512 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WEF",
+      "Switzerland",
+      "chars",
+      "Forum",
+      "Annual",
+      "Meeting",
+      "Davos",
+      "Saudi",
+      "Affirms",
+      "Arabia"
+    ]
+  },
+  {
+    "source": "Committracker.com [NewsAPI]",
+    "url": "https://www.committracker.com",
+    "title": "Show HN: Commit Tracker – RSS feeds for GitHub commits",
+    "fetched_on": "2026-01-18T08:29:53.494964+00:00",
+    "content": "Get commit updates from React, Next.js, or any repovia RSS, email, or Slack. Not GitHub's noisy notifications.\r\nFree during beta. No credit card required.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Next.js",
+      "RSS",
+      "Tracker",
+      "React",
+      "Slack",
+      "Commit",
+      "email",
+      "Show",
+      "commits",
+      "GitHub"
+    ]
+  },
+  {
+    "source": "Equinechronicle.com [NewsAPI]",
+    "url": "http://www.equinechronicle.com/ec-photo-of-the-day-the-language-of-friendship/",
+    "title": "EC Photo of the Day: The Language of Friendship",
+    "fetched_on": "2026-01-18T08:29:53.494964+00:00",
+    "content": "Photo credit: Jessica O’Connor Equine Imagery.\r\nThe language of Friendship is not words, but meanings. Henry David Thoreau.\r\nIf you have a great photo of the day, please email it to: Delores.Kuhlwein… [+20 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jessica",
+      "Imagery",
+      "Friendship",
+      "Equine",
+      "Language",
+      "Day",
+      "Photo",
+      "credit",
+      "O’Connor",
+      "Thoreau"
+    ]
   }
 ]
