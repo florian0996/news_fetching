@@ -48915,5 +48915,85 @@
       "House",
       "rates"
     ]
+  },
+  {
+    "source": "CryptoSlate [NewsAPI]",
+    "url": "https://cryptoslate.com/bitcoins-next-major-move-hinges-on-a-63-billion-fallen-angel-signal-that-most-investors-are-completely-ignoring/",
+    "title": "Bitcoin’s next major move hinges on a $63 billion “fallen angel” signal that most investors are completely ignoring",
+    "fetched_on": "2026-01-18T20:24:58.876141+00:00",
+    "content": "Corporate credit quality is deteriorating beneath a surface that looks deceptively calm. JPMorgan tallied roughly $55 billion in US corporate bonds that slid from investment-grade to junk status in 2… [+9497 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Bitcoin",
+      "fallen",
+      "angel",
+      "signal",
+      "calm",
+      "Corporate",
+      "major",
+      "move",
+      "hinges"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/sport/rugby/2026/01/17/teams-are-dropping-at-different-stages-were-managing-to-get-wins-leo-cullen-credits-leinster-resolve-against-bayonne/",
+    "title": "‘Teams are dropping at different stages, we’re managing to get wins’: Leo Cullen credits Leinster resolve against Bayonne",
+    "fetched_on": "2026-01-18T20:24:58.876141+00:00",
+    "content": "Champions Cup: Bayonne 13 Leinster 22\r\nMost likely, this didnt make the earth move back home, and maybe you had to be at the wonderfully atmospheric Stade Jean Dauger to appreciate both the difficult… [+6397 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Leinster",
+      "Bayonne",
+      "chars",
+      "Teams",
+      "Leo",
+      "Cup",
+      "Cullen",
+      "Champions",
+      "Stade",
+      "Jean"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180607098",
+    "title": "As Trump's deadline for a cap on credit card rates looms, banks have only questions and no answers - AP News",
+    "fetched_on": "2026-01-18T20:24:58.876141+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Print",
+      "Trump",
+      "Fine",
+      "looms",
+      "banks",
+      "answers",
+      "deadline",
+      "cap",
+      "credit",
+      "card"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-kianna-underwood-nickelodeon-all-that-little-bill-5498843/",
+    "title": "Who Was Kianna Underwood? About the Nickelodeon Star Who Died in a Hit-and-Run Accident",
+    "fetched_on": "2026-01-18T20:24:58.876141+00:00",
+    "content": "Image Credit: FilmMagic/Getty Images\r\nKianna Underwood, an actress best known for her performance in Nickelodeons All That, has died. She was 33 years old. She had also voiced one of the characters f… [+2371 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Underwood",
+      "Kianna",
+      "Accident",
+      "Credit",
+      "Getty",
+      "Died",
+      "FilmMagic",
+      "Star",
+      "Nickelodeon",
+      "Image"
+    ]
   }
 ]
