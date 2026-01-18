@@ -48875,5 +48875,45 @@
       "chars",
       "Full"
     ]
+  },
+  {
+    "source": "WSLS 10 [NewsAPI]",
+    "url": "https://www.wsls.com/news/politics/2026/01/17/as-trumps-deadline-for-a-cap-on-credit-card-rates-looms-banks-have-only-questions-and-no-answers/",
+    "title": "As Trump's deadline for a cap on credit card rates looms, banks have only questions and no answers",
+    "fetched_on": "2026-01-18T19:17:57.403803+00:00",
+    "content": "NEW YORK President Donald Trump a week ago told the credit card industry it had until Jan. 20 to comply with his demand for a 10% cap on interest rates. With just days to go, consumer groups, politic… [+4771 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Jan.",
+      "YORK",
+      "President",
+      "Donald",
+      "cap",
+      "credit",
+      "card",
+      "rates",
+      "looms"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2026/01/17/ticker-as-trumps-deadline-for-a-cap-on-credit-card-rates-looms-banks-have-only-questions-and-no-answers/",
+    "title": "Ticker: As Trump’s deadline for a cap on credit card rates looms, banks have only questions and no answers",
+    "fetched_on": "2026-01-18T19:17:57.403803+00:00",
+    "content": "President Trump has demanded a 10% cap on credit card interest rates by January 20. Consumer groups, politicians, and bankers remain unclear about the White House’s plans.\r\nThe White House has not de… [+1504 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "January",
+      "Ticker",
+      "credit",
+      "President",
+      "White",
+      "cap",
+      "card",
+      "House",
+      "rates"
+    ]
   }
 ]
