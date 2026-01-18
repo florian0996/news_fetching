@@ -48795,5 +48795,85 @@
       "bolster",
       "household"
     ]
+  },
+  {
+    "source": "The West Australian [NewsAPI]",
+    "url": "https://thewest.com.au/business/agriculture/wa-dairy-farmers-dropping-like-flies-amid-soaring-costs-and-supermarket-prices-racing-to-the-bottom-c-21306976",
+    "title": "WA dairy farmers dropping like flies amid soaring costs and supermarket prices ‘racing to the bottom’",
+    "fetched_on": "2026-01-18T18:31:13.918430+00:00",
+    "content": "Main Image: Brunswick Dairy Farmer Michael Partridge is one of the increasingly fewer dairy farmers in WA as many turn to focus on beef which is more profitable. Credit: Justin Benson-Cooper/The Sund… [+7 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "dairy",
+      "Image",
+      "Brunswick",
+      "farmers",
+      "Main",
+      "Michael",
+      "Partridge",
+      "Farmer",
+      "prices",
+      "racing"
+    ]
+  },
+  {
+    "source": "The West Australian [NewsAPI]",
+    "url": "https://thewest.com.au/news/wa/perth-on-the-precipice-of-meeting-population-demands-after-period-of-astronomical-growth-c-21246651",
+    "title": "‘Astronomical’ growth: Perth population surges, but can city meet the challenge?",
+    "fetched_on": "2026-01-18T18:31:13.918430+00:00",
+    "content": "Main Image: With Perths population tipped to rise another 200,000 in five years time, the race to keep up with the booming population is felt most in the outer suburbs. Credit: The West",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Astronomical’",
+      "population",
+      "growth",
+      "surges",
+      "challenge",
+      "Perth",
+      "Perths",
+      "city",
+      "meet",
+      "Image"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/01/disney-world-transportation-closure-emd1/",
+    "title": "A Major Disney World Closure Starts in 8 Days—and It Will Disrupt Park Operations",
+    "fetched_on": "2026-01-18T18:31:13.918430+00:00",
+    "content": "Disney World will soon announce a major transportation service closure, affecting operations across hotels and parks for millions of visitors.\r\nCredit: Disney\r\nDisney Skyline Closure: Operational Dis… [+5504 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Days",
+      "Disney",
+      "Major",
+      "Operations",
+      "Closure",
+      "Starts",
+      "Disrupt",
+      "Park",
+      "parks"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/what-is-parental-choice-tax-credit-program-and-how-to-get-7500-payment-full-explainer-on-eligibility-deadline-application-process-exclusions-and-rules/articleshow/126622451.cms",
+    "title": "What is Parental Choice Tax Credit Program and how to get $7,500 payment? Full explainer on eligibility, deadline, application process, exclusions and rules",
+    "fetched_on": "2026-01-18T18:31:13.918430+00:00",
+    "content": "What is Parental Choice Tax Credit Program and how to get $7,500 payment is now a key topic for families in Idaho. The state has launched a new refundable tax credit to support parents paying for non… [+3601 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Parental",
+      "Choice",
+      "Program",
+      "Tax",
+      "Credit",
+      "payment",
+      "Idaho",
+      "deadline",
+      "chars",
+      "Full"
+    ]
   }
 ]
