@@ -49673,5 +49673,25 @@
       "societies",
       "banks"
     ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2026/01/18/opinion/the-hidden-danger-in-new-yorks-universal-child-care-plan-and-how-it-can-be-fixed/",
+    "title": "The hidden danger in New York’s ‘universal’ child care plan— and how it can be fixed",
+    "fetched_on": "2026-01-19T15:28:52.652046+00:00",
+    "content": "New York’s child-care debate is being sold as a budget question.\r\nIt’s not: It’s a child-outcomes question.\r\nCredit to Mayor Zohran Mamdani for putting this issue front and center. My party the famil… [+5201 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "York",
+      "question",
+      "universal’",
+      "plan",
+      "hidden",
+      "danger",
+      "child",
+      "care",
+      "fixed",
+      "child-care"
+    ]
   }
 ]
