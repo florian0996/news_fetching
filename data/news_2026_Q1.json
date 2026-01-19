@@ -49255,5 +49255,45 @@
       "Credit",
       "Tyler"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-19/won-slide-to-asia-s-worst-performer-sparks-kimchi-bond-demand",
+    "title": "Won Slide as Asia’s Worst Performer Sparks Kimchi Bond Demand",
+    "fetched_on": "2026-01-19T04:55:13.694436+00:00",
+    "content": "A leading South Korean credit card company is selling a dollar bond in the local market, highlighting demand to diversify away from the won after recent declines.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bond",
+      "Demand",
+      "Slide",
+      "Asia",
+      "Worst",
+      "Performer",
+      "Sparks",
+      "Kimchi",
+      "South",
+      "Korean"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/review-rafael-de-la-fuente-and-jaicy-elliot-experience-love-on-the-amazon-in-new-hallmark-movie/article",
+    "title": "Review: Rafael de la Fuente and Jaicy Elliot experience ‘Love on the Amazon’ in new Hallmark movie",
+    "fetched_on": "2026-01-19T04:55:13.223398+00:00",
+    "content": "Rafael de la Fuente and Jaicy Elliot in 'Love on the Amazon.' Photo Credit: Hallmark Media, Johnson Management Group.\r\nActors Rafael de la Fuente and Jaicy Elliot star in the new Hallmark rom-com “Lo… [+1768 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Love",
+      "Fuente",
+      "Jaicy",
+      "Amazon",
+      "Rafael",
+      "Elliot",
+      "Hallmark",
+      "Amazon’",
+      "Review",
+      "experience"
+    ]
   }
 ]
