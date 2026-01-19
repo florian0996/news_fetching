@@ -49653,5 +49653,25 @@
       "Credit",
       "Autopaying"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/very-few-large-multi-state-co-operative-credit-societies-will-be-eligible-for-conversion-into-ucbs/article70522279.ece",
+    "title": "Very few large multi-state co-operative credit societies will be eligible for conversion into UCBs",
+    "fetched_on": "2026-01-19T14:29:46.395725+00:00",
+    "content": "Only a handful of large multi-state co-operative credit societies (MSCCS) may be eligible for conversion into urban co-operative banks (UCBs), going by the stiff eligibility criteria proposed in RBIs… [+2404 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MSCCS",
+      "co-operative",
+      "multi-state",
+      "credit",
+      "eligible",
+      "conversion",
+      "chars",
+      "large",
+      "societies",
+      "banks"
+    ]
   }
 ]
