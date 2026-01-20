@@ -50911,5 +50911,45 @@
       "control",
       "company"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/19/3220707/0/en/WENDEL-Wendel-Investment-Managers-affiliates-successfully-raised-over-11-billion-in-European-Private-Equity-US-Private-Credit-Markets.html",
+    "title": "WENDEL: Wendel Investment Managers affiliates successfully raised over €11 billion in European Private Equity & US Private Credit Markets",
+    "fetched_on": "2026-01-20T07:30:13.437860+00:00",
+    "content": "Wendel Investment Managers affiliates successfully raised over 11 billion in European Private Equity &amp; US Private Credit Markets\r\nIK Partners, a leading European private equity firm that joined W… [+6632 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "European",
+      "Equity",
+      "Investment",
+      "Managers",
+      "Credit",
+      "WENDEL",
+      "Markets",
+      "billion",
+      "affiliates"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/141566/chelsea-star-a-summer-target-for-la-liga-giants.html",
+    "title": "Chelsea star a summer target for La Liga giants",
+    "fetched_on": "2026-01-20T07:30:13.437860+00:00",
+    "content": "Credit must go to TeamTalk for bringing clarity to a story that feels both inevitable and unsettling. Real Madrid, forever alert to opportunity, appear to have sensed a shift at Chelsea, one that pla… [+3748 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Liga",
+      "Credit",
+      "Chelsea",
+      "unsettling",
+      "star",
+      "summer",
+      "target",
+      "giants",
+      "TeamTalk",
+      "bringing"
+    ]
   }
 ]
