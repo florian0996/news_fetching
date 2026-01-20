@@ -50811,5 +50811,105 @@
       "auf",
       "nicht"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-20/china-unveils-loan-incentives-to-boost-investment-consumption",
+    "title": "China Unveils Loan Incentives to Boost Investment, Consumption",
+    "fetched_on": "2026-01-20T06:39:28.510634+00:00",
+    "content": "China has announced a slew of incentives to spur investment and consumption, including a 500 billion-yuan ($72 billion) loan guarantee facility to encourage private companies to borrow for expansion.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Incentives",
+      "China",
+      "Loan",
+      "Investment",
+      "Consumption",
+      "billion-yuan",
+      "billion",
+      "Unveils",
+      "Boost",
+      "including"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/stock-markets/mufin-green-finance-secures-12-million-loan-from-finnish-development-fund/article70524523.ece",
+    "title": "Mufin Green Finance secures $12 million loan from Finnish development fund",
+    "fetched_on": "2026-01-20T06:39:27.027046+00:00",
+    "content": "The shares of Mufin Green Finance Limited were trading at 118 up by 0.28 or 0.24 per cent on the NSE today at 11.55 am. \r\nMufin Green Finance Limited has entered into a finance agreement with Finnish… [+822 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Green",
+      "Finance",
+      "Mufin",
+      "Limited",
+      "NSE",
+      "Finnish",
+      "secures",
+      "million",
+      "loan",
+      "development"
+    ]
+  },
+  {
+    "source": "Sporting News [NewsAPI]",
+    "url": "https://www.sportingnews.com/us/nfl/los-angeles-rams/news/stafford-credits-dennis-allen-disrupting-rams-offense/9d907559874b8cc967871254",
+    "title": "Matthew Stafford credits Dennis Allen for disrupting Rams offense",
+    "fetched_on": "2026-01-20T06:39:27.027046+00:00",
+    "content": "Matthew Stafford credits Dennis Allen for disrupting Rams offense originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nLos Angeles Rams quarterback… [+1763 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stafford",
+      "Dennis",
+      "Allen",
+      "Matthew",
+      "Sporting",
+      "Rams",
+      "credits",
+      "disrupting",
+      "offense",
+      "originally"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.co.uk/news/articles/c4g0m1j4042o",
+    "title": "'Credit score company encouraged me to borrow again when I was nearly debt-free'",
+    "fetched_on": "2026-01-20T06:39:27.027046+00:00",
+    "content": "Concerns have also been raised about vulnerable borrowers having their credit limits increased without asking.\r\nTom Richardson, an academic who researches debt and mental health, says his own experie… [+1612 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Concerns",
+      "Credit",
+      "debt-free",
+      "chars",
+      "Richardson",
+      "score",
+      "company",
+      "encouraged",
+      "borrow",
+      "raised"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/c4g0m1j4042o",
+    "title": "'Credit-score company encouraged me to borrow again when I was nearly debt-free'",
+    "fetched_on": "2026-01-20T06:39:27.027046+00:00",
+    "content": "A woman who had a £10,000 credit card debt has told BBC Panorama how a credit-rating service, which she thought would help her bring her finances under control, encouraged her to take out yet more ca… [+10174 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Credit-score",
+      "BBC",
+      "Panorama",
+      "encouraged",
+      "debt-free",
+      "credit",
+      "service",
+      "control",
+      "company"
+    ]
   }
 ]
