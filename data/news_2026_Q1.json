@@ -50991,5 +50991,85 @@
       "free",
       "Tax"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-20/platinum-equity-s-biscuit-international-seeks-debt-extension",
+    "title": "Platinum Equity’s Biscuit International Seeks Debt Extension",
+    "fetched_on": "2026-01-20T09:35:29.320529+00:00",
+    "content": "Biscuit International is trying to negotiate an extension of its term loans coming due in just over a year as the Platinum Equity-backed business faces weakened demand and high costs.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Biscuit",
+      "International",
+      "Platinum",
+      "Extension",
+      "Equity",
+      "Seeks",
+      "Debt",
+      "Equity-backed",
+      "costs",
+      "negotiate"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/crorepati-beggar-indores-mangilal-picked-up-from-streets-owns-three-houses-autos-car-and-also-runs-a-money-lending-business/articleshow/126674265.cms",
+    "title": "Crorepati beggar: Indore's Mangilal picked up from streets owns three houses, autos, car and also runs a money-lending business",
+    "fetched_on": "2026-01-20T09:35:28.130158+00:00",
+    "content": "The \"Beggar-free Indore\" mission was meant to gradually help homeless or extremely poor people leave life on the streets but the Madhya Pradesh government campaign led to a surprising discovery. The … [+3393 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indore",
+      "Beggar-free",
+      "autos",
+      "Mangilal",
+      "Madhya",
+      "Pradesh",
+      "streets",
+      "Crorepati",
+      "beggar",
+      "houses"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/irfc-q3-results-co-posts-its-biggest-ever-profit-of-rs-1802-crore-up-11-yoy/articleshow/126674298.cms",
+    "title": "IRFC Q3 Results: Co posts its biggest-ever profit of Rs 1,802 crore, up 11% YoY",
+    "fetched_on": "2026-01-20T09:35:28.130158+00:00",
+    "content": "Indian Railway Finance Corporation (IRFC) on Monday reported its highest-ever quarterly profit for the third consecutive quarter, supported by steady loan growth and improving margins. For the quarte… [+2547 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IRFC",
+      "Results",
+      "crore",
+      "Corporation",
+      "Indian",
+      "Railway",
+      "Finance",
+      "Monday",
+      "YoY",
+      "quarter"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/loan-watch-derby-victory-dazzling-displays",
+    "title": "Loan watch: Derby victory, dazzling displays",
+    "fetched_on": "2026-01-20T09:35:28.130158+00:00",
+    "content": "Many of our Mens, Womens and Academy players have been sent out on loan this season to gain experience and further action.\r\nJakub Kiwior and Porto kept yet another clean sheet with another victory on… [+2406 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Derby",
+      "Mens",
+      "Womens",
+      "Academy",
+      "Loan",
+      "watch",
+      "dazzling",
+      "action",
+      "victory",
+      "displays"
+    ]
   }
 ]
