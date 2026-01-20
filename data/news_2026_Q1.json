@@ -50689,5 +50689,45 @@
       "Visa",
       "Pay"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-20/blackrock-gets-nod-to-extend-asia-credit-fund-by-another-year",
+    "title": "BlackRock Gets Nod to Extend Asia Credit Fund by Another Year",
+    "fetched_on": "2026-01-20T04:47:40.533293+00:00",
+    "content": "BlackRock Inc. has obtained investor consent to extend the investment period of its second Asia private credit fund, a step forward as it navigates challenges in the region’s private markets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asia",
+      "Extend",
+      "Credit",
+      "Fund",
+      "Nod",
+      "Year",
+      "Inc.",
+      "markets",
+      "BlackRock",
+      "private"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-19/mubadala-ceo-backs-ai-private-credit-bets-despite-market-doubts",
+    "title": "Mubadala CEO Backs AI, Private Credit Bets Despite Market Doubts",
+    "fetched_on": "2026-01-20T04:47:42.093658+00:00",
+    "content": "Mubadala Investment Co.’s chief executive said the Abu Dhabi wealth fund has “a lot of conviction” in artificial intelligence, despite investor concerns about exuberance in the sector.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Mubadala",
+      "CEO",
+      "Backs",
+      "Credit",
+      "Bets",
+      "Market",
+      "Doubts",
+      "Investment",
+      "Co.’s"
+    ]
   }
 ]
