@@ -1,6 +1,17 @@
 {
-  "2026-01-19": {
+  "2026-01-20": {
     "status": "no company in the news"
+  },
+  "2026-01-19": {
+    "articles": [
+      {
+        "title": "FW: 100 fastest-growing startups of 2025",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-01-18": {
     "status": "no company in the news"
