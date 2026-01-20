@@ -51192,5 +51192,64 @@
       "HTML",
       "software"
     ]
+  },
+  {
+    "source": "Space.com [NewsAPI]",
+    "url": "https://www.space.com/astronomy/sun/sun-erupts-with-powerful-x-class-flare-as-huge-cme-races-toward-earth-impact-possible-within-24-hours",
+    "title": "Sun erupts with powerful X-class flare as huge CME races toward Earth, impact possible within 24 hours",
+    "fetched_on": "2026-01-20T11:25:27.997179+00:00",
+    "content": "Full-halo CME from the X1.9 flare. The three bright specks of light (left to right) are Venus, Mercury and Mars. (Image credit: NOAA Space Weather Prediction Center)\r\nThe sun sure has woken up this w… [+3850 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CME",
+      "Earth",
+      "X-class",
+      "Full-halo",
+      "flare",
+      "impact",
+      "hours",
+      "Venus",
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/19/3220852/0/en/New-Crypto-Mutuum-Finance-MUTM-Progress-Update-Protocol-Launch-Security-Reviews-and-Future-Infrastructure.html",
+    "title": "New Crypto Mutuum Finance (MUTM) Progress Update: Protocol Launch, Security Reviews and Future Infrastructure",
+    "fetched_on": "2026-01-20T11:25:27.997179+00:00",
+    "content": "DUBAI, United Arab Emirates, Jan. 19, 2026 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n continues to move through its development roadmap as it prepares a lending protocol built for on-chain borrowing… [+4766 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Jan.",
+      "Mutuum",
+      "chars",
+      "Progress",
+      "Update",
+      "Launch",
+      "Security",
+      "DUBAI"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-january-20-2026-110002475.html",
+    "title": "HELOC and home equity loan rates today, January 20, 2026: Rates hover around 7.5% or lower",
+    "fetched_on": "2026-01-20T11:25:57.339679+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "HELOC",
+      "rates",
+      "today",
+      "lower",
+      "home",
+      "equity",
+      "loan",
+      "hover"
+    ]
   }
 ]
