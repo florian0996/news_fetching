@@ -53319,5 +53319,105 @@
       "yuan",
       "bond"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-21/global-market-turmoil-prompts-china-oil-firm-to-pull-bond-sale",
+    "title": "Global Market Turmoil Prompts China Oil Firm to Pull Bond Sale",
+    "fetched_on": "2026-01-21T03:47:35.185235+00:00",
+    "content": "Spikes in borrowing costs following a meltdown in Japanese bonds and a selloff in US Treasuries have prompted at least one Asian borrower to shelve plans to raise funds, underscoring how renewed volatility is rippling through credit markets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Turmoil",
+      "Prompts",
+      "China",
+      "Oil",
+      "Firm",
+      "Pull",
+      "Sale",
+      "Spikes",
+      "Japanese",
+      "Treasuries"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-21/brookfield-seeks-1-7-billion-loan-to-refinance-seoul-ifc-deal",
+    "title": "Brookfield Seeks $1.7 Billion Loan to Refinance Seoul IFC Deal",
+    "fetched_on": "2026-01-21T03:47:35.185388+00:00",
+    "content": "Brookfield Asset Management Ltd. is seeking a 2.5 trillion won ($1.7 billion) loan backed by Seoul’s International Finance Center, people familiar with the matter said, underscoring the refinancing squeeze facing investors stuck with unsold commercial real estate.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Seeks",
+      "Center",
+      "Seoul",
+      "Brookfield",
+      "Loan",
+      "Refinance",
+      "IFC",
+      "Deal",
+      "Asset"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/credit-core-domain/",
+    "title": "credit-core-domain added to PyPI",
+    "fetched_on": "2026-01-21T03:47:34.131075+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "added",
+      "load",
+      "PyPI",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/credit-core-domain/0.0.0/",
+    "title": "credit-core-domain 0.0.0",
+    "fetched_on": "2026-01-21T03:47:34.131075+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "load",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension",
+      "network",
+      "issues"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/post-holiday-debt-westpac-launches-special-consolidation-interest-rate/VTPUJEJ3ARCRFCQY3H6ICZRHDM/",
+    "title": "Post-holiday debt? Westpac launches special consolidation interest rate",
+    "fetched_on": "2026-01-21T03:47:34.131075+00:00",
+    "content": "Over the past year weve seen an uptick in people applying for debt consolidation personal loans, as well as an increase in the amounts theyre asking for, which is consistent with the cost pressures w… [+2477 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Post-holiday",
+      "debt",
+      "chars",
+      "consolidation",
+      "Westpac",
+      "loans",
+      "launches",
+      "special",
+      "interest",
+      "rate"
+    ]
   }
 ]
