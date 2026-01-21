@@ -53624,5 +53624,105 @@
       "Berlin",
       "Bern"
     ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/statistics/universal-credit-statistics-29-april-2013-to-11-december-2025",
+    "title": "Official Statistics: Universal Credit statistics, 29 April 2013 to 11 December 2025",
+    "fetched_on": "2026-01-21T09:35:06.200510+00:00",
+    "content": "These official statistics contain data on: \r\n<ul><li>the number of people who made a claim or started on Universal Credit to October 2025</li><li>the number of people who are on Universal Credit to D… [+1472 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Universal",
+      "Credit",
+      "April",
+      "December",
+      "Statistics",
+      "October",
+      "number",
+      "people",
+      "chars",
+      "Official"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/personal-finance/credit-card-interest-when-you-pay-it-and-when-you-dont-10484412/",
+    "title": "Credit Card Interest: When you pay it and when you don’t",
+    "fetched_on": "2026-01-21T09:35:06.200510+00:00",
+    "content": "Credit cards are designed for convenience, but they are also among the costliest forms ofborrowing if not used carefully. Many cardholders assume interest is charged only when apayment is missed. In … [+3020 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Card",
+      "cards",
+      "Interest",
+      "convenience",
+      "carefully",
+      "pay",
+      "n’t",
+      "designed",
+      "costliest"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/artificial-intelligence-2/2026/credit-unions-see-ais-promise-but-readiness-lags-adoption/",
+    "title": "Credit Unions See AI’s Promise, but Readiness Lags Adoption",
+    "fetched_on": "2026-01-21T09:35:06.200510+00:00",
+    "content": "Artificial intelligence (AI) has the potential to help credit unions scale personalization, improve fraud detection and streamline operations, but only if the foundations beneath those tools are soli… [+4732 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Promise",
+      "Unions",
+      "Readiness",
+      "Lags",
+      "Adoption",
+      "Artificial",
+      "Credit",
+      "intelligence",
+      "personalization"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/galaxy-a57-just-showed-up-early-samsung-fans-may-feel-dj-vu_id177481",
+    "title": "The Galaxy A57 just showed up early, and Samsung fans may feel déjà vu",
+    "fetched_on": "2026-01-21T09:35:06.200510+00:00",
+    "content": "Samsung Galaxy A56 5G. | Image credit PhoneArena\r\nWhile we are waiting for Samsung to officially unveil the Galaxy S26 flagship lineup next month (probably on February 25), the tech giant is clearly … [+3358 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "Samsung",
+      "early",
+      "Image",
+      "February",
+      "showed",
+      "fans",
+      "feel",
+      "déjà",
+      "chars"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2026/01/21/chinas-investment-crash-credit-default-risks-real-estate-banks-fitch.html",
+    "title": "China's investment crash raises credit risks for homebuilders, banks, government: Fitch",
+    "fetched_on": "2026-01-21T09:35:25.936783+00:00",
+    "content": "China’s sharp investment downturn is amplifying credit risks across the economy, weighing on the credit profiles of homebuilders, banks and local governments.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fitch",
+      "homebuilders",
+      "banks",
+      "China",
+      "credit",
+      "risks",
+      "economy",
+      "weighing",
+      "investment",
+      "government"
+    ]
   }
 ]
