@@ -53543,5 +53543,25 @@
       "Berlin",
       "Bern"
     ]
+  },
+  {
+    "source": "Naturalnews.com [NewsAPI]",
+    "url": "https://www.naturalnews.com/2026-01-20-musk-openai-microsoft-lawsuit-over-wrongful-gains.html",
+    "title": "Elon Musk demands $134 billion from OpenAI and Microsoft in explosive lawsuit over “wrongful gains”",
+    "fetched_on": "2026-01-21T06:39:58.351379+00:00",
+    "content": "<ul><li>Elon Musk is suing OpenAI and Microsoft for up to $134 billion, alleging they unfairly profited from his early financial and strategic contributions ($38M seed funding, talent recruitment, an… [+6468 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Elon",
+      "Musk",
+      "Microsoft",
+      "billion",
+      "chars",
+      "OpenAI",
+      "demands",
+      "wrongful",
+      "gains",
+      "alleging"
+    ]
   }
 ]
