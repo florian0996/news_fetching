@@ -56653,5 +56653,85 @@
       "monthly",
       "installment"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-22/hong-kong-s-sogo-mall-operator-seeks-1-billion-loan-refinancing",
+    "title": "Hong Kong’s Sogo Mall Operator Seeks $1 Billion Loan Refinancing",
+    "fetched_on": "2026-01-22T07:29:22.072650+00:00",
+    "content": "Hong Kong mall operator Lifestyle International Holdings Ltd. is in talks with banks to refinance a HK$8 billion ($1.03 billion) loan, months after lenders relaxed terms on the borrowing as earnings remain under pressure, said people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Kong",
+      "Hong",
+      "Mall",
+      "Operator",
+      "Seeks",
+      "Loan",
+      "Sogo",
+      "Refinancing",
+      "Lifestyle"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/finance/govt-pumps-5000-cr-into-sidbi-to-step-up-credit-for-msmes/articleshow/126948392.cms",
+    "title": "Govt to pump ₹5,000 cr into SIDBI to step up credit for MSMEs",
+    "fetched_on": "2026-01-22T07:29:21.151311+00:00",
+    "content": "The Union Cabinet on Wednesday approved the infusion of Rs 5,000 crore equity capital into Small Industries Development Bank of India (SIDBI), in a bid to increase flow of credit to MSMEs. The cabine… [+1598 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SIDBI",
+      "India",
+      "Union",
+      "Cabinet",
+      "Wednesday",
+      "Small",
+      "Industries",
+      "Development",
+      "Bank",
+      "credit"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19122712-32-99-skechers-women-s-hands-free-slip-ins-d-lites-shoes-1-65-credit-at-amazon",
+    "title": "$32.99 | Skechers Women's Hands Free Slip-ins D'Lites Shoes + $1.65 credit at Amazon",
+    "fetched_on": "2026-01-22T07:29:21.151311+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Skechers",
+      "Shoes",
+      "tips",
+      "Women",
+      "Hands",
+      "Slip-ins",
+      "Amazon",
+      "credit",
+      "information",
+      "post"
+    ]
+  },
+  {
+    "source": "Theregister.com [NewsAPI]",
+    "url": "https://www.theregister.com/2026/01/21/atm_bork/",
+    "title": "ATM takes a kicking yet keeps on ticking",
+    "fetched_on": "2026-01-22T07:29:21.151311+00:00",
+    "content": "Bork!Bork!Bork! Sometimes technology is made of sterner stuff than we give credit for, such as this ATM, which has clung on to life and power despite the indignities heaped upon it.\r\nSpotted by Regis… [+1746 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bork",
+      "ATM",
+      "kicking",
+      "ticking",
+      "Regis",
+      "chars",
+      "Spotted",
+      "technology",
+      "made",
+      "sterner"
+    ]
   }
 ]
