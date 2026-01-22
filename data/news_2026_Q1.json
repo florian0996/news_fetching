@@ -56773,5 +56773,85 @@
       "analyst",
       "rallied"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-22/vanke-leaves-creditors-guessing-on-plans-as-restructuring-looms",
+    "title": "Vanke Leaves Creditors Guessing on Plans as Restructuring Looms",
+    "fetched_on": "2026-01-22T09:35:22.314862+00:00",
+    "content": "China Vanke Co., which is preparing a plan for a restructuring that would be one of the nation’s biggest ever, is leaving creditors grappling for clarity on how it will deal with more bonds due in the months ahead.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vanke",
+      "Creditors",
+      "Restructuring",
+      "Leaves",
+      "Guessing",
+      "Looms",
+      "China",
+      "ahead",
+      "Plans",
+      "plan"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-major-equity-support-for-sidbi-to-boost-msme-credit/articleshow/126962217.cms",
+    "title": "Cabinet approves major equity support for SIDBI to boost MSME credit",
+    "fetched_on": "2026-01-22T09:35:21.563232+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SIDBI",
+      "MSME",
+      "EMI",
+      "Cabinet",
+      "loan",
+      "approves",
+      "major",
+      "equity",
+      "support",
+      "boost"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/economy/2026/why-the-labor-economy-turns-to-credit-to-keep-spending/",
+    "title": "Why the Labor Economy Turns to Credit to Keep Spending",
+    "fetched_on": "2026-01-22T09:35:21.563232+00:00",
+    "content": "The U.S. Labor Economy may sit at the lower end of the wage scale, but it punches far above its weight in economic impact. Roughly 60 million workers earning less than $25 an hour account for about 1… [+3788 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Labor",
+      "Economy",
+      "Turns",
+      "Credit",
+      "Spending",
+      "scale",
+      "impact",
+      "sit",
+      "lower",
+      "end"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/funding/arthum-raises-rs-10-crore-to-formalise-contract-workforce/articleshow/126960232.cms",
+    "title": "Arthum raises Rs 10 crore to formalise contract workforce",
+    "fetched_on": "2026-01-22T09:35:21.563232+00:00",
+    "content": "Arthum, a workforce management startup focused on contract labour, on Wednesday announced raising 10 crore in a seed funding round led by Caret Capital, with participation from Keynote Financial Serv… [+1670 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Capital",
+      "Serv",
+      "crore",
+      "Arthum",
+      "Wednesday",
+      "Caret",
+      "Keynote",
+      "Financial",
+      "labour"
+    ]
   }
 ]
