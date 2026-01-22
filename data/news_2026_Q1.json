@@ -59229,5 +59229,65 @@
       "Trump",
       "Credit-Card"
     ]
+  },
+  {
+    "source": "MobileSyrup [NewsAPI]",
+    "url": "https://mobilesyrup.com/2026/01/21/virgin-plus-60gb-us-mexico-plans-freedom-better/",
+    "title": "Virgin Plus, Fido offer new 60GB US/MX plans, but Freedom’s is better",
+    "fetched_on": "2026-01-22T23:23:52.846275+00:00",
+    "content": "Virgin Plus has launched a new $50/60GB plan that quickly got undercut by Fido.\r\nBell’s sub-brand launched a new $50/60GB plan (actually $60/60GB with $10 autopay credit). This plan includes data, ta… [+1281 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fido",
+      "Virgin",
+      "Freedom",
+      "launched",
+      "plan",
+      "offer",
+      "quickly",
+      "undercut",
+      "chars",
+      "Bell"
+    ]
+  },
+  {
+    "source": "Uxdesign.cc [NewsAPI]",
+    "url": "https://uxdesign.cc/what-if-ai-lies-about-you-d5d0697c9604",
+    "title": "What if AI lies about you?",
+    "fetched_on": "2026-01-22T23:23:52.846275+00:00",
+    "content": "As with Pinocchio, AI isnt lying maliciously its doing so because it is young and doesnt have a cricket conscience to listen to. Image Credit.\r\nAI summaries have steadily become standard. In June of … [+1013 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lies",
+      "Pinocchio",
+      "Credit",
+      "chars",
+      "June",
+      "Image",
+      "isnt",
+      "lying",
+      "maliciously",
+      "young"
+    ]
+  },
+  {
+    "source": "Al Jazeera English [NewsAPI]",
+    "url": "https://www.aljazeera.com/economy/2026/1/21/jpmorgans-dimon-calls-credit-card-interest-rate-caps-a-economic-disaster",
+    "title": "JPMorgan’s Dimon calls credit card interest rate caps a ‘economic disaster’",
+    "fetched_on": "2026-01-22T23:23:52.846275+00:00",
+    "content": "JPMorgan Chase CEO Jamie Dimon pushed back on calls by the administration of United States President Donald Trump to cap credit card interest rates, claiming that if Congress follows through, it woul… [+4333 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Dimon",
+      "card",
+      "interest",
+      "Chase",
+      "CEO",
+      "Jamie",
+      "United",
+      "States",
+      "President"
+    ]
   }
 ]
