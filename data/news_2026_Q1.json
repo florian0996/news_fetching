@@ -56733,5 +56733,45 @@
       "made",
       "sterner"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/save/right-time-for-existing-borrowers-to-save-big-on-their-home-loans-know-how/articleshow/126948892.cms",
+    "title": "Right time for existing borrowers to save big on their home loans, know how",
+    "fetched_on": "2026-01-22T08:35:33.582379+00:00",
+    "content": "After a prolonged period of elevated interest rates between 2022 and 2024, the lending environment turned borrower-friendly in 2025 and is expected to remain favourable-or improve further-through 202… [+4877 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "loans",
+      "further-through",
+      "time",
+      "existing",
+      "borrowers",
+      "save",
+      "big",
+      "home",
+      "prolonged"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/stock-markets/creditaccess-grameen-shares-jump-12-after-q3-profit-turnaround-analyst-upgrades-lift-sentiment/article70532516.ece",
+    "title": "CreditAccess Grameen shares jump 12% after Q3 profit turnaround, analyst upgrades lift sentiment",
+    "fetched_on": "2026-01-22T08:35:33.582379+00:00",
+    "content": "Shares of CreditAccess Grameen rallied 12 per cent on Wednesday after the microfinance lender reported a sharp turnaround in its December quarter performance, reigniting investor confidence and promp… [+3570 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Grameen",
+      "chars",
+      "shares",
+      "Wednesday",
+      "December",
+      "CreditAccess",
+      "jump",
+      "profit",
+      "analyst",
+      "rallied"
+    ]
   }
 ]
