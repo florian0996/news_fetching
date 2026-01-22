@@ -56613,5 +56613,45 @@
       "UTC",
       "Amsterdam"
     ]
+  },
+  {
+    "source": "TmoNews [NewsAPI]",
+    "url": "https://www.tmonews.com/2026/01/t-mobile-links-employee-performance-to-credit-card-signups/",
+    "title": "T-Mobile Links Employee Performance to Credit Card Signups",
+    "fetched_on": "2026-01-22T06:38:38.851916+00:00",
+    "content": "T-Mobile is ramping up efforts to get customers to sign up for its branded Visa credit card, and store employees are now being held accountable for making it happen. \r\nAccording to Android Authority,… [+1644 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Card",
+      "Links",
+      "Performance",
+      "Signups",
+      "Visa",
+      "T-Mobile",
+      "Employee",
+      "employees",
+      "happen"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/au-small-finance-bank-net-up-26-to-rs-667-crore/articleshow/126940251.cms",
+    "title": "AU Small Finance Bank net up 26% to Rs 667 crore",
+    "fetched_on": "2026-01-22T06:38:38.851916+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Small",
+      "Finance",
+      "Bank",
+      "EMI",
+      "crore",
+      "loan",
+      "net",
+      "CalculatorDetermine",
+      "monthly",
+      "installment"
+    ]
   }
 ]
