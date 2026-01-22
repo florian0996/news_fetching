@@ -56497,5 +56497,25 @@
       "Universe",
       "provide"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/budget/financial-sector-seeks-capital-easing-credit-push-and-policy-stability-in-union-budget-2026/article70531980.ece",
+    "title": "Financial sector seeks capital easing, credit push and policy stability in Union Budget 2026",
+    "fetched_on": "2026-01-22T04:51:12.424063+00:00",
+    "content": "As the Union Budget 2026 approaches, stakeholders across the financial sector have called on the government to strengthen the financial system through policy measures that ease capital constraints, p… [+3651 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "Union",
+      "Financial",
+      "approaches",
+      "chars",
+      "sector",
+      "capital",
+      "policy",
+      "easing",
+      "credit"
+    ]
   }
 ]
