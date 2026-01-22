@@ -56853,5 +56853,45 @@
       "Financial",
       "labour"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-22/bank-regulation-under-trump-how-rules-are-easing-for-big-lenders",
+    "title": "How Trump Is Rewriting the Rules for America’s Biggest Banks",
+    "fetched_on": "2026-01-22T10:30:14.404270+00:00",
+    "content": "Washington’s matrix of banking regulations, in the view of Wall Street lending giants, has long been overly complex and burdensome. Since the start of President Donald Trump’s second term, regulators have worked to loosen the guardrails for large US banks such as Bank of America Corp., JPMorgan Chase &amp; Co. and Goldman Sachs Group Inc.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rewriting",
+      "Rules",
+      "Biggest",
+      "Washington",
+      "Wall",
+      "Street",
+      "Trump",
+      "America",
+      "Banks",
+      "regulations"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-22/firstrand-s-uk-future-hinges-on-motor-finance-decision-ceo-says",
+    "title": "FirstRand’s UK Future Hinges on Motor Finance Decision, CEO Says",
+    "fetched_on": "2026-01-22T10:30:15.278081+00:00",
+    "content": "FirstRand Ltd. said the fate of its UK unit remains in the balance as it awaits a final ruling over the amount of compensation banks have to pay to consumers over claims they were missold car loans.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Decision",
+      "CEO",
+      "Future",
+      "Hinges",
+      "Motor",
+      "Finance",
+      "FirstRand",
+      "loans",
+      "fate",
+      "unit"
+    ]
   }
 ]
