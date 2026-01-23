@@ -1,8 +1,18 @@
 {
+  "2026-01-23": {
+    "status": "no company in the news"
+  },
   "2026-01-22": {
     "articles": [
       {
         "title": "FW: Litquidity's 2025 Year-End Letter",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: FTX Does Some Effective Altruism",
         "url": null,
         "platforms_mentioned": [
           "CRX"
