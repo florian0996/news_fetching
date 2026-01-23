@@ -60974,5 +60974,85 @@
       "Cashing",
       "Private-Credit"
     ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/galaxy-s26-ultra-renders-show-new-colors-for-samsung-flagship_id177580",
+    "title": "Galaxy S26 Ultra renders show off the main new colors for Samsung’s flagship",
+    "fetched_on": "2026-01-23T14:28:00.456256+00:00",
+    "content": "*Image credit Michael MaThe upcoming Samsung Galaxy S26 Ultra will, according to reports, launch in six different colors, two of which will likely be online exclusive options. New renders have been m… [+2001 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ultra",
+      "Galaxy",
+      "Samsung",
+      "Image",
+      "Michael",
+      "flagship",
+      "reports",
+      "launch",
+      "options",
+      "colors"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q3-preview-pat-may-see-sharp-erosion-up-to-99-nii-to-likely-fall-up-to-18/articleshow/127162116.cms",
+    "title": "IndusInd Bank Q3 Preview: PAT may see sharp erosion up to 99%, NII to likely fall up to 18%",
+    "fetched_on": "2026-01-23T14:28:00.456256+00:00",
+    "content": "IndusInd Bank is expected to report a sharply weaker Q3FY26, with brokerages pencilling in a 78%-99% year-on-year fall in profit after tax (PAT) amid muted loan growth, pressure on margins and elevat… [+2330 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PAT",
+      "IndusInd",
+      "Bank",
+      "Preview",
+      "NII",
+      "chars",
+      "fall",
+      "weaker",
+      "tax",
+      "amid"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/maple-brings-syrupusdc-to-base",
+    "title": "Maple brings syrupUSDC to Base, targets Aave V3 listing",
+    "fetched_on": "2026-01-23T14:28:00.456256+00:00",
+    "content": "Onchain asset manager Maple is extending its yield-bearing US dollar token, syrupUSDC, to Coinbases Base network, plugging institutional credit directly into a fastgrowing Ethereum layer-2 ecosystem.… [+3118 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ecosystem.",
+      "chars",
+      "Aave",
+      "Ethereum",
+      "Base",
+      "Maple",
+      "Onchain",
+      "Coinbases",
+      "targets",
+      "listing"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/have-an-old-iphone-or-macbook-apple-is-offering-trade-ins-worth-more-than-1000/articleshow/127158642.cms",
+    "title": "Have an old iPhone or MacBook? Apple is offering trade-ins worth more than $1,000",
+    "fetched_on": "2026-01-23T14:28:00.456256+00:00",
+    "content": "Apple trade-in program: Apple is asking customers to bring back their old devices and in return, its offering trade-in credits that can add up to more than $1,000 for certain products. How the Apple … [+2769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "MacBook",
+      "iPhone",
+      "offering",
+      "trade-in",
+      "chars",
+      "program",
+      "return",
+      "products",
+      "worth"
+    ]
   }
 ]
