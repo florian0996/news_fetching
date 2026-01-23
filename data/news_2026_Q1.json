@@ -60030,5 +60030,140 @@
       "loans",
       "rates"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180636902",
+    "title": "Trump credit card plan would be a 'disaster', JP Morgan boss warns - BBC",
+    "fetched_on": "2026-01-23T08:33:43.898190+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "disaster",
+      "BBC",
+      "Print",
+      "Morgan",
+      "Fine",
+      "Trump",
+      "warns",
+      "credit",
+      "card",
+      "plan"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/irish/avant-owner-bankinter-says-irish-lending-has-hit-5bn/a830873203.html",
+    "title": "Avant owner Bankinter says Irish lending has hit €5bn",
+    "fetched_on": "2026-01-23T08:33:43.898190+00:00",
+    "content": "Lending in Ireland by Spains Bankinter was up 23pc last year to 5bn, boosted by its growing mortgage book.The bank, which trades here as Avant Money, had a total mortgage book of 4bn at the end of th… [+1183 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Money",
+      "Bankinter",
+      "Avant",
+      "lending",
+      "Irish",
+      "Ireland",
+      "Spains",
+      "hit",
+      "boosted"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/irish/avant-owner-bankinter-says-irish-lending-has-hit-5bn-no-interest-in-ptsb/a830873203.html",
+    "title": "Avant owner Bankinter says Irish lending has hit €5bn, no interest in PTSB",
+    "fetched_on": "2026-01-23T08:33:43.898190+00:00",
+    "content": "Lending in Ireland by Spains Bankinter was up 23pc last year to 5bn, boosted by its growing mortgage book.The bank, which trades here as Avant Money, had a total mortgage book of 4bn at the end of th… [+1856 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Money",
+      "Bankinter",
+      "Avant",
+      "lending",
+      "Irish",
+      "PTSB",
+      "Ireland",
+      "Spains",
+      "hit"
+    ]
+  },
+  {
+    "source": "Equinechronicle.com [NewsAPI]",
+    "url": "http://www.equinechronicle.com/ec-photo-of-the-day-communicating-with-horses/",
+    "title": "EC Photo of the Day: Communicating with Horses",
+    "fetched_on": "2026-01-23T08:33:43.898190+00:00",
+    "content": "Photo credit: Jessica O’Connor Equine Imagery.\r\n“Theres something meditative about communicating with horses, something instinctive where you eventually have to merge into one in order to move forwar… [+126 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Photo",
+      "Day",
+      "Jessica",
+      "Imagery",
+      "Equine",
+      "Communicating",
+      "Horses",
+      "credit",
+      "chars",
+      "O’Connor"
+    ]
+  },
+  {
+    "source": "Inside Higher Ed [NewsAPI]",
+    "url": "https://www.insidehighered.com/news/students/academics/2026/01/22/some-grad-schools-open-admitting-3-year-degree-holders",
+    "title": "Will Graduate Schools Accept 3-Year Degrees?",
+    "fetched_on": "2026-01-23T08:33:43.898190+00:00",
+    "content": "As a handful of colleges debuted 90-credit degrees this fall, one of the questions most top of mind for students, institutions and accreditors alike was whether graduate schools would admit students … [+5416 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Accept",
+      "Degrees",
+      "Graduate",
+      "Schools",
+      "students",
+      "chars",
+      "debuted",
+      "fall",
+      "institutions",
+      "handful"
+    ]
+  },
+  {
+    "source": "Whitecoatinvestor.com [NewsAPI]",
+    "url": "https://www.whitecoatinvestor.com/student-loan-forgiveness-taxes-and-retirement-accounts-455/",
+    "title": "Student Loan Forgiveness, Taxes, and Retirement Accounts",
+    "fetched_on": "2026-01-23T08:33:43.898190+00:00",
+    "content": "In todays episode, were answering your questions about student loans, taxes, and what to do next once youre already doing a lot of things right. We talk about Borrowers Defense cases and when the gov… [+15094 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Taxes",
+      "Forgiveness",
+      "Retirement",
+      "Accounts",
+      "Student",
+      "Loan",
+      "loans",
+      "episode",
+      "todays",
+      "answering"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/trump-says-received-calls-credit-213634252.html",
+    "title": "Trump says he has received calls from credit-card companies",
+    "fetched_on": "2026-01-23T08:34:06.433363+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "companies",
+      "received",
+      "calls",
+      "credit-card"
+    ]
   }
 ]
