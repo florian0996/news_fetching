@@ -59933,5 +59933,102 @@
       "Saison",
       "chars"
     ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2026/0122/1554435-spains-bankinter-q4-net-profit-rises-25-from-2024/",
+    "title": "Spain's Bankinter Q4 net profit rises 25%, helped by fees",
+    "fetched_on": "2026-01-23T07:27:38.935719+00:00",
+    "content": "Spain's Bankinter said today its fourth-quarter net profit rose 25% from the same time in 2024 thanks to a rise in fees and loans that helped drive a recovery in lending income.\r\nThe country's fifth-… [+970 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bankinter",
+      "Spain",
+      "net",
+      "profit",
+      "helped",
+      "fees",
+      "rose",
+      "income",
+      "today",
+      "fourth-quarter"
+    ]
+  },
+  {
+    "source": "Thesportingtribune.com [NewsAPI]",
+    "url": "https://www.thesportingtribune.com/2026/01/21/mbb-sdsu-at-gcu-last-second-free-throws-end-winning-streak-simmons-harringon-davis-byrd",
+    "title": "SDSU's furious rally falls short in last-second loss at Grand Canyon",
+    "fetched_on": "2026-01-23T07:27:38.935719+00:00",
+    "content": "Global Credit Union Arena has been where unbeaten Mountain West streaks go to end, and the San Diego State Aztecs saw theirs fall on a pair of free-throws by Makiah Williams with 1.8 seconds left in … [+2752 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "SDSU",
+      "Grand",
+      "Canyon",
+      "Global",
+      "Credit",
+      "Union",
+      "Arena",
+      "Mountain",
+      "West"
+    ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/person/player/why-manchester-city-may-cut-jack-grealishs-everton-loan-short-this-month",
+    "title": "Why Manchester City may cut Jack Grealish's Everton loan short this month",
+    "fetched_on": "2026-01-23T07:27:38.935719+00:00",
+    "content": "Everton star Jack Grealish may return to parent club Manchester City sooner than expected.\r\nHaving joined the Toffees on loan for the 2025-26 season, Grealish hit the ground running, earning the Prem… [+2414 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Manchester",
+      "City",
+      "Jack",
+      "Everton",
+      "Grealish",
+      "expected",
+      "loan",
+      "cut",
+      "short",
+      "month"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/axis-atlas-vs-hsbc-travelone-vs-regalia-gold-vs-diners-club-black-which-one-wins-on-travel-rewards/why-travel-credit-cards-are-not-one-size-fits-all/slideshow/127115442.cms",
+    "title": "Axis Atlas vs HSBC TravelOne vs Regalia Gold vs Diners Club Black: Which one wins on travel rewards?",
+    "fetched_on": "2026-01-23T07:27:38.935719+00:00",
+    "content": "Jan 22, 2026, 12:16:19 PM IST\r\nTravel credit cards differ widely in reward structure, partner tie-ups and fees. The right card depends on how often you travel, how much you spend, and whether you val… [+981 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Black",
+      "Atlas",
+      "HSBC",
+      "Regalia",
+      "Gold",
+      "Diners",
+      "Club",
+      "travel",
+      "Axis",
+      "TravelOne"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/home-equity-loans-heloc-rates-205825622.html",
+    "title": "Home equity loans and HELOC rates both reach 2023 lows",
+    "fetched_on": "2026-01-23T07:27:59.081544+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lows",
+      "HELOC",
+      "Home",
+      "reach",
+      "equity",
+      "loans",
+      "rates"
+    ]
   }
 ]
