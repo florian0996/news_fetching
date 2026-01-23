@@ -62627,5 +62627,145 @@
       "Date",
       "calendar"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-23/banks-don-t-like-trump-s-10-credit-card-cap-big-take-podcast",
+    "title": "US Borrowers Owe $1 Trillion in Credit Card Debt. Could an Interest Cap Help?",
+    "fetched_on": "2026-01-23T23:23:42.097154+00:00",
+    "content": "<p>On today’s Big Take podcast: President Trump has revived a campaign pledge to cap credit card interest at 10%, taking aim at a major source of revenue for big banks.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Owe",
+      "Trillion",
+      "Debt",
+      "Borrowers",
+      "Credit",
+      "Card",
+      "Interest",
+      "Cap",
+      "Big",
+      "President"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2026-01-23/big-take-banks-say-trump-s-credit-card-cap-won-t-work-podcast",
+    "title": "Big Take: Banks Say Trump’s Credit Card Cap Won’t Work (Podcast)",
+    "fetched_on": "2026-01-23T23:23:42.097161+00:00",
+    "content": "Source: Bloomberg, 0:00",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Source",
+      "Bloomberg",
+      "0:00",
+      "Banks",
+      "Work",
+      "Trump",
+      "Credit",
+      "Card",
+      "Cap"
+    ]
+  },
+  {
+    "source": "NBC News [NewsAPI]",
+    "url": "https://www.nbcnews.com/business/consumer/bank-america-considers-new-credit-card-capped-10-interest-rcna255495",
+    "title": "Bank of America considers new credit card capped at 10% interest",
+    "fetched_on": "2026-01-23T23:23:39.334185+00:00",
+    "content": "Bank of America is considering whether to offer a credit card with interest capped at 10% for a year, a person familiar with the banks thinking told NBC News on Thursday. \r\nPresident Donald Trump rec… [+3247 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "America",
+      "Thursday",
+      "Bank",
+      "NBC",
+      "credit",
+      "card",
+      "capped",
+      "interest",
+      "year",
+      "banks"
+    ]
+  },
+  {
+    "source": "Study Finds [NewsAPI]",
+    "url": "https://studyfinds.org/digital-sabotage-hackers-power-grid/",
+    "title": "Hacking Grid: How Digital Sabotage Turns Infrastructure Into Weapon...",
+    "fetched_on": "2026-01-23T23:23:39.334185+00:00",
+    "content": "Todays power grid equipment incorporates internet-connected and therefore hackable computers. (Credit: metamorworks/Shutterstock)\r\nThe darkness that swept over the Venezuelan capital in the predawn h… [+8676 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Weapon",
+      "Digital",
+      "Sabotage",
+      "Turns",
+      "Infrastructure",
+      "Grid",
+      "Hacking",
+      "Credit",
+      "Shutterstock",
+      "metamorworks"
+    ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/chargers/250066/chargers-defensive-coordinator-jesse-minter-hired-as-ravens-head-coach/",
+    "title": "Chargers Defensive Coordinator Jesse Minter Hired as Ravens Head Coach",
+    "fetched_on": "2026-01-23T23:23:39.334185+00:00",
+    "content": "Photo Credit: Kirby Lee-Imagn Images\r\nThe Los Angeles Chargers have been anticipating the departure of defensive coordinator Jesse Minter this offseason. Minter has been a top candidate for multiple … [+2223 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jesse",
+      "Coordinator",
+      "Defensive",
+      "Credit",
+      "Kirby",
+      "Minter",
+      "Chargers",
+      "Hired",
+      "Ravens",
+      "Head"
+    ]
+  },
+  {
+    "source": "Observer [NewsAPI]",
+    "url": "https://observer.com/2026/01/design-interview-julien-lombrail-loic-le-gaillard-carpenters-workshop-vincenzo-de-cotiis-exhibition-waterlilies/",
+    "title": "Art as Catalyst: Vincenzo De Cotiis’s Material Transformation",
+    "fetched_on": "2026-01-23T23:23:39.334185+00:00",
+    "content": "Je Marchais Pieds Nus Dans LÉtang (translation: “I Walked Barefoot in the Pond”) features selected works from De Cotiis’s new series of 50 unique pieces. Credit Matt Harrington, courtesy of Carpenter… [+6050 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cotiis",
+      "translation",
+      "Catalyst",
+      "Vincenzo",
+      "Pond",
+      "Material",
+      "Transformation",
+      "Marchais",
+      "Pieds",
+      "Nus"
+    ]
+  },
+  {
+    "source": "PetaPixel [NewsAPI]",
+    "url": "https://petapixel.com/2026/01/22/the-top-five-photography-trends-of-2026/",
+    "title": "The Top Five Photography Trends of 2026",
+    "fetched_on": "2026-01-23T23:23:39.334185+00:00",
+    "content": "Image credit: Paul Waring\r\nAI culling, editing, and retouching company Aftershoot has identified what it believes are the top five photography trends for 2026. \r\n“As photography enters 2026, the indu… [+3840 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Top",
+      "Trends",
+      "Image",
+      "Paul",
+      "Photography",
+      "editing",
+      "Waring",
+      "Aftershoot",
+      "credit",
+      "culling"
+    ]
   }
 ]
