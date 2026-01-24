@@ -1,6 +1,31 @@
 {
-  "2026-01-23": {
+  "2026-01-24": {
     "status": "no company in the news"
+  },
+  "2026-01-23": {
+    "articles": [
+      {
+        "title": "LendingClub Update: Aus Wette wird Gewissheit",
+        "url": "https://www.finanzen.net/nachricht/aktien/LendingClub-Update-Aus-Wette-wird-Gewissheit-15432647",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "FW: Donny Dumps on Jamie",
+        "url": null,
+        "platforms_mentioned": [
+          "Castlelake"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: The Podcast: An OK Horse",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-01-22": {
     "articles": [
