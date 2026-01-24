@@ -63326,5 +63326,45 @@
       "Seasonal",
       "Loan"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180642098",
+    "title": "World's top banker Jamie Dimon gives Trump brutal reality check over plan to cut credit card costs - Daily Mail",
+    "fetched_on": "2026-01-24T08:29:44.412883+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Daily",
+      "Print",
+      "Jamie",
+      "Dimon",
+      "Trump",
+      "Mail",
+      "Fine",
+      "World",
+      "costs",
+      "top"
+    ]
+  },
+  {
+    "source": "FourFourTwo [NewsAPI]",
+    "url": "https://www.fourfourtwo.com/quiz/friday-football-quiz-230126",
+    "title": "Friday Football Quiz, episode 99: Can you get 20 correct answers?",
+    "fetched_on": "2026-01-24T08:29:44.412883+00:00",
+    "content": "We're back with a shiny new Friday Football Quiz to get your brain moving at the end of another long winter week.\r\n(Image credit: Getty Images)\r\nFRIDAY FOOTBALL QUIZ Episode 98\r\nOur brand new Friday … [+1365 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Friday",
+      "Football",
+      "Quiz",
+      "episode",
+      "correct",
+      "answers",
+      "Getty",
+      "Image",
+      "Images",
+      "chars"
+    ]
   }
 ]
