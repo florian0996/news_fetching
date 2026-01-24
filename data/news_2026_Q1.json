@@ -63985,5 +63985,145 @@
       "crypto",
       "lending"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-24/wall-street-grapples-with-new-risk-a-european-buyers-strike",
+    "title": "Wall Street Grapples With New Risk: A European Buyers’ Strike",
+    "fetched_on": "2026-01-24T14:21:36.903232+00:00",
+    "content": "US Commerce Secretary Howard Lutnick told the elites gathered in Davos that the Trump administration believes globalization is “a failed policy” that left America behind. A day later, his boss, President Donald Trump, predicted the US stock market would double from records he openly took credit for.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Risk",
+      "Street",
+      "Grapples",
+      "European",
+      "Buyers’",
+      "Strike",
+      "Commerce",
+      "Secretary",
+      "Howard",
+      "Lutnick"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-bank-q3-preview-pat-may-grow-by-up-to-3-yoy-nii-to-rise-up-to-5-7-things-to-know/articleshow/127292313.cms",
+    "title": "Kotak Bank Q3 Preview: PAT may grow by up to 3% YoY, NII to rise up to 5%. 7 things to know",
+    "fetched_on": "2026-01-24T14:21:36.448195+00:00",
+    "content": "Kotak Mahindra Bank is expected to report a steady set of Q3FY26 numbers, with modest growth in profits and operating metrics, supported by healthy loan expansion, stable margins and benign asset qua… [+2720 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Preview",
+      "PAT",
+      "NII",
+      "Bank",
+      "YoY",
+      "Kotak",
+      "grow",
+      "rise",
+      "Mahindra",
+      "numbers"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-puts-stake-sale-in-consumer-lending-arm-axis-finance-on-hold-sources-say/articleshow/127292374.cms",
+    "title": "Axis Bank puts stake sale in consumer lending arm Axis Finance on hold, sources say",
+    "fetched_on": "2026-01-24T14:21:36.448195+00:00",
+    "content": "Axis Bank has put on hold plans to sell a stake in its consumer lending arm, Axis Finance. after the central bank eased proposed restrictions on overlapping business activities between banks and thei… [+2213 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Axis",
+      "Finance",
+      "lending",
+      "Bank",
+      "consumer",
+      "arm",
+      "hold",
+      "stake",
+      "sources",
+      "sale"
+    ]
+  },
+  {
+    "source": "Broadwayjournal.com [NewsAPI]",
+    "url": "https://www.broadwayjournal.com/p/hochul-proposes-150-million-add-on",
+    "title": "New York State Governor Proposes $150 Million Retroactive Extension Of Theater Tax Credits",
+    "fetched_on": "2026-01-24T14:21:36.448195+00:00",
+    "content": "EXCLUSIVE: New York Gov. Kathy Hochul proposed allocating an additional $150 million to retroactively extend a prized New York State theater tax credit. \r\nEmpire State Development, which supports eco… [+2039 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "York",
+      "Proposes",
+      "EXCLUSIVE",
+      "Gov",
+      "State",
+      "Governor",
+      "Retroactive",
+      "Extension",
+      "Million",
+      "Tax"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/affirm-submits-applications-to-establish-industrial-loan-company",
+    "title": "Affirm submits applications to establish industrial loan company",
+    "fetched_on": "2026-01-24T14:21:36.448195+00:00",
+    "content": "SAN FRANCISCO Affirm Holdings, Inc. (NASDAQ: AFRM) (Affirm or the Company) today announced that it has submitted applications to the Nevada Financial Institutions Division and the Federal Deposit Ins… [+6369 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Holdings",
+      "SAN",
+      "FRANCISCO",
+      "Affirm",
+      "company",
+      "NASDAQ",
+      "AFRM",
+      "applications",
+      "submits",
+      "establish"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/23/3224811/0/en/First-Federal-Savings-Bank-Introduces-New-Bridge-Loan-to-Help-Homebuyers-Move-Seamlessly-Into-Their-Next-Home.html",
+    "title": "First Federal Savings Bank Introduces New Bridge Loan to Help Homebuyers Move Seamlessly Into Their Next Home",
+    "fetched_on": "2026-01-24T14:21:36.448195+00:00",
+    "content": "EVANSVILLE, Ind., Jan. 23, 2026 (GLOBE NEWSWIRE) -- First Federal Savings Bank recently announced the launch of its new Bridge Loan, a short-term Home Equity Line of Credit (HELOC) designed to help h… [+2353 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ind.",
+      "Jan.",
+      "HELOC",
+      "Federal",
+      "Savings",
+      "Bridge",
+      "Bank",
+      "Loan",
+      "chars",
+      "EVANSVILLE"
+    ]
+  },
+  {
+    "source": "Jezebel [NewsAPI]",
+    "url": "https://www.jezebel.com/us-homicide-rate-murders-crime-decreases-cities-republicans-trump-immigration-national-guard",
+    "title": "Homicide in the U.S. Is the Lowest Ever Measured. No One Person Gets to Take Credit.",
+    "fetched_on": "2026-01-24T14:21:36.448195+00:00",
+    "content": "There has never been a time in U.S. history with a lower recorded rate of homicide (or murder) than what we just experienced in 2025. That’s according to a major new analysis of crime data from 40 la… [+8139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Measured",
+      "Lowest",
+      "Credit",
+      "Homicide",
+      "Person",
+      "chars",
+      "history",
+      "murder",
+      "time",
+      "lower"
+    ]
   }
 ]
