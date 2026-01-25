@@ -65669,5 +65669,25 @@
       "tax",
       "claim"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/aepc-chairman-urges-centre-to-introduce-focus-market-scheme-for-apparel-exports-to-the-us/article70545286.ece",
+    "title": "AEPC chairman urges Centre to introduce Focus Market Scheme for apparel exports to the US",
+    "fetched_on": "2026-01-25T06:35:32.288721+00:00",
+    "content": "The textile industry has urged the Centre to introduce Focus Market Scheme for apparel exports to the US, with freely transferable duty credit scrips equivalent to 20 per cent of the FOB value, urged… [+1755 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Focus",
+      "Market",
+      "Scheme",
+      "Centre",
+      "introduce",
+      "apparel",
+      "exports",
+      "AEPC",
+      "chars",
+      "FOB"
+    ]
   }
 ]
