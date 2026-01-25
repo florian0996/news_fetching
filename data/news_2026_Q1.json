@@ -66074,5 +66074,45 @@
       "financing",
       "pay"
     ]
+  },
+  {
+    "source": "Businessnewsthisweek.com [NewsAPI]",
+    "url": "https://businessnewsthisweek.com/health/pgimer-teams-brave-harsh-weather-to-carry-out-liver-pancreas-transplants/",
+    "title": "Pancreas Transplants: A Gift of Life",
+    "fetched_on": "2026-01-25T14:21:23.061745+00:00",
+    "content": "Pic Credit: Pexel\r\nChandigarh, Jan 24: Braving biting cold, incessant rain and strong winds, transplant teams of the Postgraduate Institute of Medical Education and Research (PGIMER) ensured that the… [+4020 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jan",
+      "PGIMER",
+      "chars",
+      "Credit",
+      "Pexel",
+      "Chandigarh",
+      "Braving",
+      "Research",
+      "Gift",
+      "Life"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/trico-bancshares-price-target-raised-140054967.html",
+    "title": "TriCo Bancshares price target raised to $54 from $51 at DA Davidson",
+    "fetched_on": "2026-01-25T14:21:23.061745+00:00",
+    "content": "DA Davidson raised the firms price target on TriCo Bancshares (TCBK) to $54 from $51 and keeps a Neutral rating on the shares. The firm has noted clear wins in Q4 from ramping loan production and a s… [+441 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bancshares",
+      "Davidson",
+      "TCBK",
+      "Neutral",
+      "TriCo",
+      "price",
+      "target",
+      "raised",
+      "shares",
+      "rating"
+    ]
   }
 ]
