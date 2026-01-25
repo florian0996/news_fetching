@@ -66588,5 +66588,43 @@
       "Health",
       "Credit"
     ]
+  },
+  {
+    "source": "Casualhoya.com [NewsAPI]",
+    "url": "https://www.casualhoya.com/game-summaries/32372/resilient-georgetown-overcomes-21-point-deficit-for-81-78-win-at-providence",
+    "title": "RESILIENT: Georgetown Overcomes 21-Point Deficit for 81-78 Win at Providence",
+    "fetched_on": "2026-01-25T21:21:10.154757+00:00",
+    "content": "Credit where credit is due. A pleasantly surprising outcome arrived for your Georgetown Hoyas (10-10, 2-7) on Saturday afternoon as they staged a historic comeback to defeat the Providence Friars (9-… [+2937 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RESILIENT",
+      "Overcomes",
+      "Deficit",
+      "Credit",
+      "Win",
+      "Georgetown",
+      "Providence",
+      "due",
+      "Hoyas",
+      "Friars"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/2b-healthcare-ceo-says-paying-201624315.html",
+    "title": "A $2B Healthcare CEO Says Paying Off $100K in Student Loans Was When He Finally Felt Rich",
+    "fetched_on": "2026-01-25T21:21:27.475206+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Healthcare",
+      "Rich",
+      "CEO",
+      "Paying",
+      "Student",
+      "Loans",
+      "Finally",
+      "Felt"
+    ]
   }
 ]
