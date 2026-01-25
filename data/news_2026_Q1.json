@@ -65634,5 +65634,40 @@
       "Commission",
       "Friday"
     ]
+  },
+  {
+    "source": "blogTO [NewsAPI]",
+    "url": "https://www.blogto.com/radar/2026/01/ontario-festival-abruptly-cancels-2026-return/",
+    "title": "Popular Ontario festival abruptly cancels plans to return for summer 2026",
+    "fetched_on": "2026-01-25T05:29:55.452543+00:00",
+    "content": "Another Ontario event has gone belly up, as Port Credit Buskerfest announces the cancellation of its 2026 edition.\r\nThe three-day outdoor festival, which brings together some of the best street perfo… [+2523 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ontario",
+      "edition",
+      "Port",
+      "Credit",
+      "Buskerfest",
+      "Popular",
+      "summer",
+      "festival",
+      "abruptly",
+      "cancels"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/child-tax-credit-know-2023-160951349.html",
+    "title": "Child tax credit: Who’s eligible, how to claim it and more",
+    "fetched_on": "2026-01-25T05:30:25.485195+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Child",
+      "credit",
+      "eligible",
+      "tax",
+      "claim"
+    ]
   }
 ]
