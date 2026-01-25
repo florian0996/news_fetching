@@ -65689,5 +65689,99 @@
       "chars",
       "FOB"
     ]
+  },
+  {
+    "source": "Hurriyet Daily News [NewsAPI]",
+    "url": "https://www.hurriyetdailynews.com/fitch-revises-turkiye-outlook-to-positive-affirms-bb-rating-218173",
+    "title": "Fitch revises Türkiye outlook to positive, affirms BB- rating",
+    "fetched_on": "2026-01-25T07:23:27.502971+00:00",
+    "content": "ISTANBUL\r\nFitchRatings upgraded its outlook Friday on Türkiyes long-term foreign-currency issuer default rating to positive from stable, while affirming the rating at BB-.\r\nThe international credit r… [+891 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ISTANBUL",
+      "Friday",
+      "rating",
+      "positive",
+      "Türkiye",
+      "Türkiyes",
+      "outlook",
+      "Fitch",
+      "affirms",
+      "stable"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_592f7ce8-bb8a-4cbc-a15c-2a5421ea4483",
+    "title": "SEC agrees to dismiss case over crypto lending by Winklevoss' Gemini",
+    "fetched_on": "2026-01-25T07:23:27.502971+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "SEC",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Winklevoss'",
+      "Gemini",
+      "IAB"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/tax-credits-valuable-tool-trim-003152743.html",
+    "title": "Tax credits are a valuable tool to trim your tax bill — here’s how they work",
+    "fetched_on": "2026-01-25T07:23:50.128416+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "bill",
+      "work",
+      "Tax",
+      "credits",
+      "valuable",
+      "tool",
+      "trim"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/sec-agrees-dismiss-case-over-022633499.html",
+    "title": "SEC agrees to dismiss case over crypto lending by Winklevoss' Gemini",
+    "fetched_on": "2026-01-25T07:23:50.128423+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SEC",
+      "Gemini",
+      "Winklevoss'",
+      "agrees",
+      "dismiss",
+      "case",
+      "crypto",
+      "lending"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/business/enphase-energy-to-cut-jobs-as-end-of-tax-credits-dents-demand-916f0794?siteid=yhoof2&yptr=yahoo",
+    "title": "Enphase Energy to Cut Jobs as End of Tax Credits Dents Demand",
+    "fetched_on": "2026-01-25T07:23:50.128553+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Demand",
+      "Energy",
+      "Cut",
+      "Jobs",
+      "End",
+      "Tax",
+      "Credits",
+      "Dents",
+      "Enphase"
+    ]
   }
 ]
