@@ -65843,5 +65843,42 @@
       "order",
       "places"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/average-65-old-much-debt-105513327.html",
+    "title": "The Average 65-Year-Old Has This Much Debt — How You Compare",
+    "fetched_on": "2026-01-25T11:19:53.507886+00:00",
+    "content": "Carrying debt well into your 60s isnt all that uncommon, and nothing to be ashamed of.\r\nFactors like longer loan terms, inflation and rising housing costs have most likely contributed to higher loan … [+3076 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Average",
+      "Debt",
+      "Compare",
+      "Carrying",
+      "isnt",
+      "uncommon",
+      "chars",
+      "ashamed",
+      "loan",
+      "Factors"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/car-payments-just-reached-high-100000925.html",
+    "title": "Car Payments Just Reached a New High—Even With Loan Rates at a 3-Year Low",
+    "fetched_on": "2026-01-25T11:20:22.728231+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Low",
+      "High",
+      "Payments",
+      "Reached",
+      "Loan",
+      "Rates",
+      "Car"
+    ]
   }
 ]
