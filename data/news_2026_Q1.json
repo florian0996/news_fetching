@@ -66531,5 +66531,25 @@
       "rates",
       "cash"
     ]
+  },
+  {
+    "source": "PC Gamer [NewsAPI]",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/wows-rough-2-0-transmog-overhaul-is-mostly-fixed-and-im-left-wondering-why-blizzard-didnt-just-take-the-easy-win/",
+    "title": "WoW's rough 2.0 transmog overhaul is mostly fixed, and I'm left wondering why Blizzard didn't just take the easy win",
+    "fetched_on": "2026-01-25T19:18:37.112115+00:00",
+    "content": "(Image credit: Future)\r\nThis is Terminally Online:PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive… [+4856 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Image",
+      "Online",
+      "Blizzard",
+      "Terminally",
+      "Gamer",
+      "MMO",
+      "WoW",
+      "rough",
+      "transmog"
+    ]
   }
 ]
