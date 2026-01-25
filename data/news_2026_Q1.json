@@ -65880,5 +65880,99 @@
       "Rates",
       "Car"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7fbb9072-5fb0-454a-b39f-2664fbef2451",
+    "title": "Trump's 10% Interest Rate Cap On Credit Cards Will 'Likely Bring On A Recession,' Says Capital One CEO: $6 Trillion Consumer Spending At Stake",
+    "fetched_on": "2026-01-25T12:47:16.184737+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "including",
+      "chars",
+      "Interest",
+      "Recession",
+      "CEO",
+      "Trillion",
+      "Accept",
+      "Transparency",
+      "Consent"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/141854/report-ac-milan-interested-in-move-to-sign-liverpool-star.html",
+    "title": "Report: AC Milan interested in move to sign Liverpool star",
+    "fetched_on": "2026-01-25T12:47:16.184737+00:00",
+    "content": "Credit to CalcioMercato for the original reporting, which paints a picture of a club caught between urgency and restraint. On Via Aldo Rossi, the mood is one of cautious assessment rather than decisi… [+3179 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "Milan",
+      "Liverpool",
+      "Credit",
+      "reporting",
+      "restraint",
+      "chars",
+      "Rossi",
+      "interested",
+      "move"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_29d64903-c9c5-468e-8387-03336952dc6f",
+    "title": "Las Vegas Businesses Ditch Credit Card Fees for Bitcoin Payments",
+    "fetched_on": "2026-01-25T12:47:16.184737+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Vegas",
+      "Businesses",
+      "Ditch",
+      "Credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/700k-home-equity-500k-mortgage-113200364.html",
+    "title": "I Have $700K in Home Equity and a $500K Mortgage. Here’s How to Use Equity to Reduce Your Home Loan",
+    "fetched_on": "2026-01-25T12:47:36.489627+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgage",
+      "Home",
+      "Equity",
+      "Loan",
+      "Reduce"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/las-vegas-businesses-ditch-credit-111139665.html",
+    "title": "Las Vegas Businesses Ditch Credit Card Fees for Bitcoin Payments",
+    "fetched_on": "2026-01-25T12:47:36.489826+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Payments",
+      "Vegas",
+      "Businesses",
+      "Ditch",
+      "Credit",
+      "Card",
+      "Fees",
+      "Bitcoin",
+      "Las"
+    ]
   }
 ]
