@@ -65803,5 +65803,45 @@
       "Crypto",
       "Lending"
     ]
+  },
+  {
+    "source": "Daily Sabah [NewsAPI]",
+    "url": "https://www.dailysabah.com/business/economy/fitch-upgrades-turkiye-outlook-to-positive-keeps-bb-rating",
+    "title": "Fitch upgrades Türkiye outlook to positive, keeps BB- rating",
+    "fetched_on": "2026-01-25T09:24:33.086430+00:00",
+    "content": "Fitch Ratings on Friday raised Türkiyes outlook to positive from stable while maintaining its long-term foreign-currency credit rating at BB-.\r\nThe international credit rating agency said its decisio… [+866 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fitch",
+      "outlook",
+      "Türkiye",
+      "Türkiyes",
+      "Friday",
+      "positive",
+      "rating",
+      "credit",
+      "upgrades",
+      "raised"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/945437",
+    "title": "40% off Two Grocery, Convenience, or Restaurant Delivery Orders @ DoorDash",
+    "fetched_on": "2026-01-25T09:24:33.086430+00:00",
+    "content": "Referee: Up to $10 off first 1 or 2 or 3 orders over $15/$20.Referrer: Up to $45 credit once referee places an order over $20.\r\nCheck the web page heading before joining as there are multiple sign up… [+7 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Convenience",
+      "Grocery",
+      "Referee",
+      "Orders",
+      "Restaurant",
+      "Delivery",
+      "DoorDash",
+      "credit",
+      "order",
+      "places"
+    ]
   }
 ]
