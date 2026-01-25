@@ -66392,5 +66392,45 @@
       "balance",
       "impact"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2026/01/24/nyt-connections-hints-today-sunday-january-25-clues-and-answers-959/",
+    "title": "NYT Connections Hints Today: Sunday, January 25 Clues And Answers (#959)",
+    "fetched_on": "2026-01-25T17:20:13.878505+00:00",
+    "content": "Credit: NYT / Erik Kain\r\nSunday is here and with it, yet another NYT Connections puzzle to solve. Sixteen words need to be grouped into four color-coded categories Yellow, Blue, Green and Purple and … [+5425 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYT",
+      "Connections",
+      "Sunday",
+      "January",
+      "Credit",
+      "Today",
+      "Clues",
+      "Answers",
+      "Erik",
+      "Hints"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/141864/report-man-united-set-to-battle-chelsea-in-the-race-to-sign-bundesliga-midfielder.html",
+    "title": "Report: Man United set to battle Chelsea in the race to sign Bundesliga midfielder",
+    "fetched_on": "2026-01-25T17:20:13.878505+00:00",
+    "content": "Credit to Caught Offside for the original reporting on a developing transfer story that once again highlights how quickly Bundesliga midfielders can become premium Premier League targets.\r\nBorussia D… [+3665 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bundesliga",
+      "Man",
+      "Report",
+      "United",
+      "Chelsea",
+      "Credit",
+      "Caught",
+      "Offside",
+      "Premier",
+      "League"
+    ]
   }
 ]
