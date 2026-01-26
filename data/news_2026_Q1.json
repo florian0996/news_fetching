@@ -68299,5 +68299,65 @@
       "seemingly",
       "dominated’"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/apollo-took-loss-on-asset-backed-loan-deemed-protected",
+    "title": "Apollo Took Loss on Portion of Wiped Out Asset-Backed Loan",
+    "fetched_on": "2026-01-26T23:25:18.426864+00:00",
+    "content": "Apollo Global Management Inc. took a loss on a portion of a $170 million asset-backed financing for Amazon brand aggregator Perch that was wiped out, a rare stumble for a strategy touted as one of private credit’s safest and most promising.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "Loan",
+      "Global",
+      "Management",
+      "Loss",
+      "Portion",
+      "Wiped",
+      "Asset-Backed",
+      "Amazon",
+      "Perch"
+    ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/dodgers/250060/dodgers-will-smith-to-host-comedy-event-for-netflix/",
+    "title": "Dodgers’ Will Smith to Host Comedy Event For Netflix",
+    "fetched_on": "2026-01-26T23:25:17.686460+00:00",
+    "content": "Photo Credit: John E. Sokolowski-Imagn Images\r\nLos Angeles Dodgers catcher Will Smith has agreed to host Dodgers Comedy Night for the Netflix is A Joke Festival 2026 in May. The show will take place … [+1912 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Smith",
+      "Comedy",
+      "Netflix",
+      "Dodgers",
+      "Host",
+      "Credit",
+      "John",
+      "Festival",
+      "chars",
+      "Event"
+    ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/movies/list/10-perfect-mutants-for-the-mcus-new-young-x-men-team/",
+    "title": "10 Perfect Mutants for the MCU’s New Young X-Men Team",
+    "fetched_on": "2026-01-26T23:25:17.686460+00:00",
+    "content": "The X-Men will join the MCU when Avengers: Doomsday hits theaters in December. They already made their first post-credit experience in The Marvels, and three of the Fox X-Men heroes were in the third… [+6694 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MCU",
+      "Perfect",
+      "Avengers",
+      "Doomsday",
+      "December",
+      "Mutants",
+      "Young",
+      "Team",
+      "X-Men",
+      "join"
+    ]
   }
 ]
