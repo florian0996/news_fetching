@@ -67264,5 +67264,125 @@
       "partners",
       "crypto"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/junk-debt-sales-soar-in-europe-after-trump-tariff-threat-recedes",
+    "title": "Junk Debt Sales Soar in Europe After Trump Tariff Threat Recedes",
+    "fetched_on": "2026-01-26T13:46:45.251391+00:00",
+    "content": "Europe’s junk-debt sales for bonds and loans surged as firms took advantage of easing geopolitical tensions after US President Donald Trump abandoned his Greenland-linked tariff threats.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Europe",
+      "Trump",
+      "Tariff",
+      "Sales",
+      "Debt",
+      "Soar",
+      "Recedes",
+      "President",
+      "Donald",
+      "Greenland-linked"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/unicredit-plans-srt-transactions-linked-to-5-billion-of-loans",
+    "title": "UniCredit Plans SRT Transactions Linked to €5 Billion of Loans",
+    "fetched_on": "2026-01-26T13:46:45.251410+00:00",
+    "content": "UniCredit SpA is planning to issue significant risk transfers tied to around €5 billion ($6 billion) of loans, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Loans",
+      "Plans",
+      "SRT",
+      "Transactions",
+      "Linked",
+      "UniCredit",
+      "matter",
+      "SpA",
+      "planning"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/analyst-favorite-experian-extends-plunge-on-ai-loser-worries",
+    "title": "Analyst Favorite Experian Extends Plunge on ‘AI Loser’ Worries",
+    "fetched_on": "2026-01-26T13:46:45.577092+00:00",
+    "content": "Experian Plc shares have fallen to a two-year low as investors bet that one of analysts’ favorite FTSE 100 stocks will suffer as artificial intelligence automates credit scoring.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FTSE",
+      "Experian",
+      "Favorite",
+      "Extends",
+      "Plunge",
+      "Loser’",
+      "Worries",
+      "Plc",
+      "Analyst",
+      "stocks"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/ubs-top-executives-to-appear-at-senate-hearing-on-credit-suisse-nazi-accounts",
+    "title": "UBS Top Executives to Appear at Senate Hearing on Credit Suisse Nazi Accounts",
+    "fetched_on": "2026-01-26T13:46:45.746257+00:00",
+    "content": "The head of UBS Group AG’s Americas arm and the lender’s top lawyer are both scheduled to testify at a US Senate hearing next week into Nazi-era accounts at Credit Suisse, the scandal-hit rival it acquired in 2023.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Senate",
+      "Credit",
+      "Suisse",
+      "UBS",
+      "Hearing",
+      "Top",
+      "Accounts",
+      "Executives",
+      "Nazi",
+      "Group"
+    ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2026/01/25/nx-s1-5685281/at-davos-trump-calls-for-laws-to-make-housing-and-credit-cards-more-affordable",
+    "title": "At Davos, Trump calls for laws to make housing and credit cards more affordable",
+    "fetched_on": "2026-01-26T13:46:44.600418+00:00",
+    "content": "At Davos, President Trump called on Congress to pass two laws to help with housing affordability: a ban on large investors buying up houses, and a 10% cap on credit card interest rates.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Davos",
+      "Trump",
+      "President",
+      "laws",
+      "credit",
+      "Congress",
+      "affordability",
+      "houses",
+      "cap",
+      "rates"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/credit-deposit-growth-mismatch-effect-banks-cost-of-raising-funds-via-cds-goes-up/article70549446.ece",
+    "title": "Credit-Deposit growth mismatch effect: Banks’ cost of raising funds via CDs goes up",
+    "fetched_on": "2026-01-26T13:46:44.600418+00:00",
+    "content": "The cost of raising funds for banks and financial institutions via certificate of deposits (CDs) has gone up in the last one month or so amid marginal increase in issuance of these short-term money m… [+3097 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "raising",
+      "Banks’",
+      "chars",
+      "cost",
+      "funds",
+      "CDs",
+      "Credit-Deposit",
+      "effect",
+      "deposits",
+      "growth"
+    ]
   }
 ]
