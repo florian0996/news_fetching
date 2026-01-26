@@ -67068,5 +67068,44 @@
       "Montag",
       "Januar"
     ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2026/01/25/editorial-going-after-irresponsible-student-loan-policies/",
+    "title": "Editorial: Going after irresponsible student loan policies",
+    "fetched_on": "2026-01-26T09:37:04.915355+00:00",
+    "content": "Changes are coming to the federal student loan program. And it cant happen fast enough.\r\nPresident Donald Trumps one, big beautiful bill, enacted and signed last summer, includes a number of provisio… [+2655 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Editorial",
+      "student",
+      "loan",
+      "program",
+      "irresponsible",
+      "policies",
+      "coming",
+      "federal",
+      "chars",
+      "Donald"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/uk-banning-credit-cards-crypto-090615062.html",
+    "title": "UK Banning Credit Cards For Crypto? The Full List Of Potential New Crypto Rules In Britain",
+    "fetched_on": "2026-01-26T09:37:33.826823+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Banning",
+      "Credit",
+      "Cards",
+      "Crypto",
+      "Britain",
+      "Full",
+      "List",
+      "Potential",
+      "Rules"
+    ]
   }
 ]
