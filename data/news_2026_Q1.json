@@ -68199,5 +68199,85 @@
       "Measure",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/wes-edens-nfe-in-talks-with-creditors-to-take-preferred-equity-mkvnk28s",
+    "title": "Wes Edens’ NFE in Talks With Creditors to Take Preferred Equity",
+    "fetched_on": "2026-01-26T21:26:46.951394+00:00",
+    "content": "Wes Edens’ New Fortress Energy Inc. is ironing out a proposed restructuring support agreement that would see creditors get preferred equity in the reorganized liquefied natural gas operator, according to people familiar with the situation.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Edens’",
+      "Wes",
+      "Preferred",
+      "Equity",
+      "Creditors",
+      "NFE",
+      "Talks",
+      "Fortress",
+      "Energy",
+      "Inc."
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/ecuador-tapping-debt-markets-for-first-time-since-restructuring",
+    "title": "Ecuador Selling $4 Billion in First Post-Restructuring Bond Deal",
+    "fetched_on": "2026-01-26T21:26:46.951400+00:00",
+    "content": "Ecuador is selling $4 billion of bonds, its largest-ever issuance as it returns to global credit markets after restructuring its debt in 2020.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Selling",
+      "Billion",
+      "Ecuador",
+      "Deal",
+      "Bond",
+      "bonds",
+      "Post-Restructuring",
+      "largest-ever",
+      "issuance",
+      "returns"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-01-26/building-strategy-for-bitcoin-hesitant-investors-willis-video",
+    "title": "Building Strategy For Bitcoin-Hesitant Investors: Willis",
+    "fetched_on": "2026-01-26T21:26:47.672747+00:00",
+    "content": "Cyber Hornet ETFs co-founder and CEO Michael Willis tells Bloomberg his firm’s 75/25 strategy, blending equities with Bitcoin exposure, is designed to give investors a more familiar, stable entry point into crypto. Willis adds that the firm is moving its Bitcoin exposure from futures to spot and plans to launch additional ETFs using the same methodology. He joined the discussion on \"Bloomberg ETF IQ\" with Katie Greifeld and Scarlet Fu.\n\n\n (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Strategy",
+      "Investors",
+      "Bitcoin",
+      "Cyber",
+      "Hornet",
+      "CEO",
+      "Michael",
+      "Willis",
+      "Bloomberg",
+      "Building"
+    ]
+  },
+  {
+    "source": "STAT [NewsAPI]",
+    "url": "https://www.statnews.com/2026/01/25/william-foege-obituary-smallpox-cdc-vaccination/",
+    "title": "William Foege, 20th century public health hero, has died",
+    "fetched_on": "2026-01-26T21:26:46.279296+00:00",
+    "content": "William (Bill) Foege, credited by many for shepherding the smallpox eradication effort to completion, died Saturday at the age of 89. A towering figure, both literally  he was 6 7 and figuratively, F… [+9142 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Foege",
+      "Bill",
+      "William",
+      "Saturday",
+      "century",
+      "hero",
+      "credited",
+      "completion",
+      "died",
+      "chars"
+    ]
   }
 ]
