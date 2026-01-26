@@ -66967,5 +66967,65 @@
       "Big",
       "Demand"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/cvc-buys-us-credit-manager-marathon-in-about-1-2-billion-deal",
+    "title": "CVC Buys US Credit Manager Marathon in About $1.2 Billion Deal",
+    "fetched_on": "2026-01-26T07:30:12.554039+00:00",
+    "content": "CVC Capital Partners Plc has agreed to buy US credit manager Marathon, the latest example of consolidation among alternative asset managers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marathon",
+      "Credit",
+      "CVC",
+      "Manager",
+      "Billion",
+      "Deal",
+      "Capital",
+      "Partners",
+      "Plc",
+      "Buys"
+    ]
+  },
+  {
+    "source": "Khabarhub.com [NewsAPI]",
+    "url": "https://english.khabarhub.com/2026/25/532432/",
+    "title": "TU to award academic credits for students’ extracurricular achievements",
+    "fetched_on": "2026-01-26T07:30:10.919217+00:00",
+    "content": "KIRTIPUR: Students at Tribhuvan University (TU) will now receive academic credits not only for their academic performance but also for their talents and contributions in extracurricular activities.\r\n… [+2883 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KIRTIPUR",
+      "Students",
+      "University",
+      "academic",
+      "Tribhuvan",
+      "credits",
+      "extracurricular",
+      "activities",
+      "award",
+      "students’"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/football/articles/c23rz5x04mdo",
+    "title": "Why mentality matters for Wrexham and their latest promotion bid",
+    "fetched_on": "2026-01-26T07:30:10.919217+00:00",
+    "content": "The quality of the players they have bought along the way certainly helps, but for all the extra money spent, the attitude has not altered.\r\n\"The manager deserves credit for that because he assembles… [+1387 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wrexham",
+      "spent",
+      "altered",
+      "mentality",
+      "matters",
+      "latest",
+      "promotion",
+      "bid",
+      "quality",
+      "players"
+    ]
   }
 ]
