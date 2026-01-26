@@ -66888,5 +66888,84 @@
       "Heim",
       "bei"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-26/kenya-plans-969-million-of-short-term-borrowing-for-roads",
+    "title": "Kenya Plans $969 Million of Short-Term Borrowing for Roads",
+    "fetched_on": "2026-01-26T06:40:35.038342+00:00",
+    "content": "Kenya plans to borrow 125 billion shillings ($969 million) in short-term syndicated loans this year to help build roads, and will refinance the debt later with longer-term bonds pegged to a fuel levy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Kenya",
+      "Plans",
+      "Roads",
+      "Borrowing",
+      "borrow",
+      "billion",
+      "shillings",
+      "levy",
+      "Short-Term"
+    ]
+  },
+  {
+    "source": "Hacker News [NewsAPI]",
+    "url": "https://news.ycombinator.com/item?id=46735545",
+    "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops | Hacker News",
+    "fetched_on": "2026-01-26T06:40:33.095267+00:00",
+    "content": "&gt; Sending your kid to the shops with your card is temporary delegation, not permanent key escrow to a third party you don't control. It's the difference between lending someone your house key for … [+4955 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hacker",
+      "Sending",
+      "FBI",
+      "Microsoft",
+      "laptops",
+      "delegation",
+      "control",
+      "gave",
+      "set",
+      "BitLocker"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q3-preview-pat-may-fall-8-yoy-with-margins-under-pressure-loan-growth-to-recover/articleshow/127453796.cms",
+    "title": "Axis Bank Q3 Preview: PAT may fall 8% YoY with margins under pressure; loan growth to recover",
+    "fetched_on": "2026-01-26T06:40:33.095267+00:00",
+    "content": "Private lender Axis Bank is expected to report a mixed performance for the December quarter, with steady balance sheet growth offset by pressure on margins and profitability. An average of five broke… [+3258 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Preview",
+      "Bank",
+      "PAT",
+      "Axis",
+      "Private",
+      "December",
+      "fall",
+      "YoY",
+      "loan",
+      "quarter"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/junkiest-junk-bonds-finding-big-200000578.html",
+    "title": "The Junkiest Junk Bonds Are Finding Big Demand This Year: Credit Weekly",
+    "fetched_on": "2026-01-26T06:41:02.681837+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Year",
+      "Credit",
+      "Weekly",
+      "Junkiest",
+      "Junk",
+      "Bonds",
+      "Finding",
+      "Big",
+      "Demand"
+    ]
   }
 ]
