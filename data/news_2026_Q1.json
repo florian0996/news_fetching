@@ -68759,5 +68759,25 @@
       "wie",
       "das"
     ]
+  },
+  {
+    "source": "Shorlabs.com [NewsAPI]",
+    "url": "https://www.shorlabs.com/",
+    "title": "Show HN: Deploy backends without the hassle. An Open source alternative",
+    "fetched_on": "2026-01-27T06:38:48.071922+00:00",
+    "content": "A modern platform for deploying, managing, and scaling your Python and Node.js backends. Connect GitHub, configure, and go live.\r\nFree tier available No credit card required",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deploy",
+      "Show",
+      "hassle",
+      "backends",
+      "managing",
+      "Open",
+      "Python",
+      "Node.js",
+      "configure",
+      "deploying"
+    ]
   }
 ]
