@@ -68600,5 +68600,45 @@
       "shutdown",
       "impact"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-27/fatburger-owner-files-bankruptcy-overwhelmed-by-debt",
+    "title": "Fatburger Owner Files Bankruptcy in Latest Casual-Dining Demise",
+    "fetched_on": "2026-01-27T04:49:37.622022+00:00",
+    "content": "FAT Brands Inc., the owner of restaurant chains Fatburger, Johnny Rockets and Twin Peaks, filed for bankruptcy, adding to a string of casual-dining brands that have sought court protection from creditors.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Inc.",
+      "Johnny",
+      "Peaks",
+      "Fatburger",
+      "Owner",
+      "Bankruptcy",
+      "Brands",
+      "Files",
+      "Latest",
+      "Demise"
+    ]
+  },
+  {
+    "source": "Haaretz [NewsAPI]",
+    "url": "https://www.haaretz.com/israel-news/2026-01-26/ty-article-live/netanyahu-israel-to-allow-opening-of-rafah-crossing-after-ending-search-for-last-hostage/0000019b-f87b-d5eb-a7ff-fefba5850000",
+    "title": "Netanyahu: Israel to allow opening of Gaza's Rafah crossing after ending search for last hostage",
+    "fetched_on": "2026-01-27T04:49:36.955881+00:00",
+    "content": "Egyptian soldiers stand guard near the Rafah Crossing at the Egypt-Gaza border, in Rafah, Egypt, 2024.Credit: Amr Alfiky/Reuters \r\nIsrael has agreed to open the Rafah crossing connecting the Gaza Str… [+2485 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rafah",
+      "crossing",
+      "Egypt",
+      "Israel",
+      "Gaza",
+      "Amr",
+      "Alfiky",
+      "Reuters",
+      "Str",
+      "Netanyahu"
+    ]
   }
 ]
