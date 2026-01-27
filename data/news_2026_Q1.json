@@ -70475,5 +70475,45 @@
       "financial",
       "trade"
     ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/clinique-la-prairie-launches-life-reset-mental-health-retreat/",
+    "title": "Clinique La Prairie launches ‘Life Reset’ mental health retreat",
+    "fetched_on": "2026-01-27T20:26:28.197099+00:00",
+    "content": "Healthcare\r\nJanuary 26, 2026\r\n The week-long therapeutic stays kick off this month at Clinique La Prairie locations in Switzerland and China. Image credit: Clinique La Prairie \r\n By Zach James for Lu… [+3714 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Prairie",
+      "Life",
+      "January",
+      "China",
+      "Clinique",
+      "Reset’",
+      "Healthcare",
+      "Switzerland",
+      "launches",
+      "mental"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/new-brunswick/daniel-bard-moncton-trial-charlo-testimony-9.7061189",
+    "title": "Daniel Bard claimed his loan model was 'innovative,' says witness in Moncton fraud trial",
+    "fetched_on": "2026-01-27T20:26:28.197099+00:00",
+    "content": "A man working for a northern New Brunswick company testified Monday that Daniel Bard pitched a multimillion-dollar loan plan to him as an \"innovative\" idea used by large U.S. investment companies suc… [+3285 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "innovative",
+      "Bard",
+      "Daniel",
+      "chars",
+      "Moncton",
+      "Brunswick",
+      "Monday",
+      "loan",
+      "idea",
+      "large"
+    ]
   }
 ]
