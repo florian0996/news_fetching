@@ -68839,5 +68839,85 @@
       "Members",
       "chars"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/axis-bank-q3-net-profit-rises-3-as-festival-season-lending-picks-up/article70552348.ece",
+    "title": "Axis Bank Q3 net profit rises 3% as festival-season lending picks up",
+    "fetched_on": "2026-01-27T08:36:01.685769+00:00",
+    "content": "Axis Bank reported\r\na surprise quarterly profit rise on Monday, supported by healthy\r\nloan growth.\r\nThe country's fourth-largest private lender by market\r\ncapitalisation said standalone net profit ro… [+981 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Axis",
+      "Monday",
+      "profit",
+      "supported",
+      "growth",
+      "net",
+      "rises",
+      "rise",
+      "festival-season"
+    ]
+  },
+  {
+    "source": "Intego.com [NewsAPI]",
+    "url": "https://www.intego.com/mac-security-blog/what-is-a-keylogger/",
+    "title": "What Is a Keylogger? How It Works, Risks, and How to Remove It",
+    "fetched_on": "2026-01-27T08:36:01.685769+00:00",
+    "content": "Security &amp; Privacy\r\nPosted on\r\n January 26th, 2026 by\r\nShira Stieglitz\r\nEvery time you type a password, send a message, or enter credit card details online, that information briefly exists in its… [+19680 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Keylogger",
+      "Risks",
+      "Works",
+      "Security",
+      "Privacy",
+      "January",
+      "chars",
+      "Remove",
+      "Posted",
+      "Shira"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/loan-watch-nwaneris-lightning-start-france",
+    "title": "Loan watch: Nwaneri’s lightning start in France",
+    "fetched_on": "2026-01-27T08:36:01.685769+00:00",
+    "content": "Many of our Mens, Womens and Academy players have been sent out on loan this season to gain experience and further action.\r\nEarlier in the week, we wished Ethan Nwaneri well for the rest of the seaso… [+3258 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mens",
+      "Womens",
+      "France",
+      "Academy",
+      "Nwaneri",
+      "Loan",
+      "watch",
+      "action",
+      "lightning",
+      "start"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/sport/basketball/2026/0126/1555065-womens-super-league-killester-stay-top-after-ot-win/",
+    "title": "Women's Super League: Killester stay top after OT win",
+    "fetched_on": "2026-01-27T08:36:01.685769+00:00",
+    "content": "Killester remain at the top of the Domino's Womens Super League, following an 82-78 overtime victory over Gurranabraher Credit Union Brunell.\r\nIreland international Edel Thornton scored a team-high 1… [+2009 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "League",
+      "Super",
+      "Killester",
+      "Brunell",
+      "Domino",
+      "Gurranabraher",
+      "Credit",
+      "Union",
+      "Women",
+      "Womens"
+    ]
   }
 ]
