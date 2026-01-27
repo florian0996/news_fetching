@@ -68359,5 +68359,85 @@
       "X-Men",
       "join"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/irfc-swiss-franc-swap-inr-usd-borrowings-forex-11769314949849.html",
+    "title": "IRFC explores some Swiss franc swap to cut dollar risk",
+    "fetched_on": "2026-01-27T02:00:21.252387+00:00",
+    "content": "New Delhi: Indian Railway Finance Corp (IRFC) is reworking its foreign-currency borrowing mix, exploring a plan to swap part of its dollar-denominated loans into Swiss francs to limit foreign exchang… [+5373 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IRFC",
+      "Swiss",
+      "Delhi",
+      "Indian",
+      "Corp",
+      "chars",
+      "Railway",
+      "Finance",
+      "swap",
+      "mix"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-cards/2026/sen-warren-accuses-cfpb-of-harming-trumps-affordability-push/",
+    "title": "Sen. Warren Accuses CFPB of Harming Trump’s Affordability Push",
+    "fetched_on": "2026-01-27T02:00:21.252387+00:00",
+    "content": "President Donald Trump has been lobbying for a 10% cap on credit card interest rates.But according to Sen. Elizabeth Warren, Trumps own administration has been undermining what the president has char… [+2477 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sen",
+      "Trump",
+      "Warren",
+      "President",
+      "Accuses",
+      "CFPB",
+      "Harming",
+      "Affordability",
+      "Push",
+      "Donald"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2026/01/25/nyt-strands-monday/",
+    "title": "NYT Strands Hints, Spangram, Answers: Monday, January 26 (Grape Expectations)",
+    "fetched_on": "2026-01-27T02:00:21.252387+00:00",
+    "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nAnother Monday, another NYT Strands puzzle to solve. We have some words to uncover, so lets pop the cork and get to solving!\r\nLooking fo… [+1745 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Strands",
+      "NYT",
+      "Monday",
+      "Spangram",
+      "January",
+      "Hints",
+      "Grape",
+      "Expectations",
+      "Today",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/first-brands-lenders-oppose-700-million-loan-request-push-for-asset-liquidation-wsj-reports-4466312",
+    "title": "First Brands’ lenders oppose $700 million loan request, push for asset liquidation, WSJ reports",
+    "fetched_on": "2026-01-27T02:00:32.047457+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WSJ",
+      "Brands’",
+      "oppose",
+      "million",
+      "request",
+      "push",
+      "liquidation",
+      "reports",
+      "lenders",
+      "loan"
+    ]
   }
 ]
