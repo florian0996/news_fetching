@@ -71546,5 +71546,105 @@
       "improves",
       "improved"
     ]
+  },
+  {
+    "source": "POLITICO.eu [NewsAPI]",
+    "url": "https://www.politico.eu/article/ecb-clears-path-for-dlt-assets-as-collateral-for-its-lending-operations/",
+    "title": "ECB clears path for DLT assets as collateral for its lending operations",
+    "fetched_on": "2026-01-28T09:36:41.060706+00:00",
+    "content": "It is therefore exploring if, how and under what criteria assets issued using DLT and not represented in eligible securities settlement systems could become eligible and be mobilized as Eurosystem co… [+611 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DLT",
+      "ECB",
+      "chars",
+      "Eurosystem",
+      "assets",
+      "eligible",
+      "clears",
+      "path",
+      "collateral",
+      "lending"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/visa/2026/visa-urges-banks-to-rethink-loyalty-beyond-credit-card-rewards/",
+    "title": "Visa Urges Banks to Rethink Loyalty Beyond Credit Card Rewards",
+    "fetched_on": "2026-01-28T09:36:41.060706+00:00",
+    "content": "The perceptions and realities of rewards programs are changing as consumers redefine what good loyalty looks like. Simple loyalty mechanics are no longer enough.Rewards must be meaningful, contextual… [+5219 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rewards",
+      "Urges",
+      "Banks",
+      "Rethink",
+      "Credit",
+      "Card",
+      "Loyalty",
+      "Visa",
+      "perceptions",
+      "realities"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/consumer-finance/2026/block-says-traditional-credit-scores-shut-out-100-million-americans/",
+    "title": "Block Says Traditional Credit Scores Shut Out 100 Million Americans",
+    "fetched_on": "2026-01-28T09:36:41.060706+00:00",
+    "content": "For much of modern consumer finance, underwriting has relied on static credit files that offer a delayed view of financial behavior. Those bureau-based models, Block Chief Risk Officer Brian Boates t… [+5259 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Credit",
+      "Block",
+      "Traditional",
+      "Scores",
+      "Shut",
+      "Americans",
+      "finance",
+      "underwriting",
+      "behavior"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-unions/2026/credit-unions-turn-to-fintechs-to-fast-track-digital-upgrades/",
+    "title": "Credit Unions Turn to FinTechs to Fast Track Digital Upgrades",
+    "fetched_on": "2026-01-28T09:36:41.060706+00:00",
+    "content": "Credit union innovation is no longer something that happens quietly in the background. It has become a defining factor in how these institutions compete, grow and serve members in a fast-changing fin… [+3318 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Turn",
+      "Fast",
+      "Track",
+      "Digital",
+      "Upgrades",
+      "Unions",
+      "union",
+      "background",
+      "FinTechs"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/business/trump-credit-card-cap-interest-rates-9.7061434",
+    "title": "Trump wants to cap credit card interest at 10%. Is that a good idea?",
+    "fetched_on": "2026-01-28T09:36:41.060706+00:00",
+    "content": "U.S. President Donald Trump's proposal that credit card interest rates be capped at 10 per cent could bring short-term relief to some consumers but is likely to cause a broader credit crisis in the l… [+5042 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "card",
+      "Trump",
+      "interest",
+      "cap",
+      "President",
+      "Donald",
+      "chars",
+      "idea",
+      "good"
+    ]
   }
 ]
