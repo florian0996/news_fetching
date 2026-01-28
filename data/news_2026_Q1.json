@@ -71406,5 +71406,145 @@
       "Fund",
       "BlackRock"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-28/moody-s-upgrades-kenya-s-rating-to-b3-changes-outlook-to-stable",
+    "title": "Moody’s Upgrades Kenyan Credit Rating on Reduced Default Risk",
+    "fetched_on": "2026-01-28T08:36:14.371102+00:00",
+    "content": "Moody’s Ratings upgraded its assessment of Kenya’s debt, citing a reduced risk of default in the near-term.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moody",
+      "Reduced",
+      "Default",
+      "Risk",
+      "Upgrades",
+      "Kenyan",
+      "Credit",
+      "Kenya",
+      "Rating",
+      "Ratings"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/2026-macbook-lineup-2/",
+    "title": "Apple’s 2026 MacBook Lineup: Game-Changing Features",
+    "fetched_on": "2026-01-28T08:36:12.963298+00:00",
+    "content": "Apple’s 2026 MacBook lineup is shaping up to be a significant milestone in the company’s product evolution. By blending incremental updates with forward-thinking innovations, Apple aims to cater to a… [+6043 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MacBook",
+      "Lineup",
+      "Apple",
+      "Features",
+      "Game-Changing",
+      "evolution",
+      "shaping",
+      "significant",
+      "milestone",
+      "company"
+    ]
+  },
+  {
+    "source": "TmoNews [NewsAPI]",
+    "url": "https://www.tmonews.com/2026/01/t-mobile-simplifies-trade-in-credits-with-major-policy-shift/",
+    "title": "T-Mobile Simplifies Trade-In Credits with Major Policy Shift",
+    "fetched_on": "2026-01-28T08:36:12.963298+00:00",
+    "content": "T-Mobile is rolling out significant changes to how it handles trade-in credits for customers upgrading their phones. The shift, which is already taking effect, restructures the way discounts are appl… [+2318 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credits",
+      "Simplifies",
+      "Major",
+      "Policy",
+      "Trade-In",
+      "phones",
+      "T-Mobile",
+      "Shift",
+      "chars",
+      "rolling"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2026/01/27/kandrach-unintended-consequences-to-credit-card-rate-cap/",
+    "title": "Kandrach: Unintended consequences to credit card rate cap",
+    "fetched_on": "2026-01-28T08:36:12.963298+00:00",
+    "content": "Over the last five years, Americans have been grappling with an affordability crisis. As a result, many families are confronting bills they cant manage.\r\nPolicymakers are right to give this crisis th… [+2805 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Unintended",
+      "Americans",
+      "Kandrach",
+      "years",
+      "consequences",
+      "credit",
+      "card",
+      "rate",
+      "cap",
+      "grappling"
+    ]
+  },
+  {
+    "source": "Coinjournal.net [NewsAPI]",
+    "url": "https://coinjournal.net/news/bitwise-launches-non-custodial-defi-vault-as-asset-managers-move-on-chain/",
+    "title": "Bitwise launches non-custodial DeFi vault as asset managers move on-chain",
+    "fetched_on": "2026-01-28T08:36:12.963298+00:00",
+    "content": "<ul><li>The initial strategy focuses on USDC stablecoin lending through overcollateralised pools on Morpho.</li><li>Bitwise said the strategy currently targets returns of up to 6%, depending on marke… [+3939 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bitwise",
+      "chars",
+      "Morpho.",
+      "USDC",
+      "strategy",
+      "on-chain",
+      "depending",
+      "marke",
+      "launches",
+      "non-custodial"
+    ]
+  },
+  {
+    "source": "Europa.eu [NewsAPI]",
+    "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260127_1~a946167ce1.en.html",
+    "title": "ECB paves way for acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "fetched_on": "2026-01-28T08:36:12.963298+00:00",
+    "content": "27 January 2026\r\n<ul><li>Eurosystem to accept marketable assets issued in central securities depositories (CSDs) using distributed ledger technology (DLT) as eligible collateral for Eurosystem credit… [+2360 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "DLT",
+      "Eurosystem",
+      "ECB",
+      "CSDs",
+      "chars",
+      "eligible",
+      "depositories",
+      "technology",
+      "credit"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2026/0127/1555267-credit-union-consumer-sentiment/",
+    "title": "Consumer sentiment improves to nine-month high",
+    "fetched_on": "2026-01-28T08:36:12.963298+00:00",
+    "content": "Consumer sentiment improved to a nine-month high in January but the index remained far below its long-term average, a survey showed today.\r\nThe latest Credit Union Consumer Sentiment Survey climbed t… [+1027 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Consumer",
+      "sentiment",
+      "January",
+      "nine-month",
+      "high",
+      "survey",
+      "average",
+      "today",
+      "improves",
+      "improved"
+    ]
   }
 ]
