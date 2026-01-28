@@ -72106,5 +72106,125 @@
       "items",
       "sodas"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-28/fitch-cuts-afreximbank-s-rating-to-junk-after-lender-severs-ties",
+    "title": "Fitch Cuts Afreximbank’s Rating to Junk After Lender Severs Ties",
+    "fetched_on": "2026-01-28T14:33:18.592005+00:00",
+    "content": "Fitch Ratings cut its assessment of the African Export-Import Bank’s credit to ‘junk’ status, just days after the Cairo-based lender said it terminated their relationship following a dispute.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fitch",
+      "Lender",
+      "Afreximbank",
+      "Junk",
+      "Severs",
+      "Ties",
+      "African",
+      "Bank",
+      "Cairo-based",
+      "junk’"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/rbis-big-push-on-disaster-relief-new-rules-to-help-borrowers-as-banks-asked-to-implement-measures-during-floods-landslides-and-more/articleshow/127631045.cms",
+    "title": "RBI’s big push on disaster relief: New rules to help borrowers as banks asked to implement measures during floods, landslides and more",
+    "fetched_on": "2026-01-28T14:33:17.968680+00:00",
+    "content": "The Reserve Bank of India (RBI) has proposed a new set of guidelines aimed at helping banks and other regulated entities manage loan stress caused by natural disasters. The draft framework, released … [+3196 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "India",
+      "Reserve",
+      "banks",
+      "relief",
+      "floods",
+      "landslides",
+      "Bank",
+      "big",
+      "push"
+    ]
+  },
+  {
+    "source": "PCMag.com [NewsAPI]",
+    "url": "https://uk.pcmag.com/tax-software/162806/get-a-bigger-tax-refund-expert-tips-for-maximizing-credits-and-deductions",
+    "title": "Get a Bigger Tax Refund: Expert Tips for Maximizing Credits and Deductions",
+    "fetched_on": "2026-01-28T14:33:17.968680+00:00",
+    "content": "If you want to get as large a tax refund as possible, it pays to know about every credit and deduction legally available to you in the US tax code. This requires some financial savvy on your part. Yo… [+8678 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Refund",
+      "Expert",
+      "Bigger",
+      "Tips",
+      "Maximizing",
+      "Credits",
+      "Deductions",
+      "credit",
+      "deduction"
+    ]
+  },
+  {
+    "source": "PCMag.com [NewsAPI]",
+    "url": "https://me.pcmag.com/en/tax-software/34931/get-a-bigger-tax-refund-expert-tips-for-maximizing-credits-and-deductions",
+    "title": "Get a Bigger Tax Refund: Expert Tips for Maximizing Credits and Deductions",
+    "fetched_on": "2026-01-28T14:33:17.968680+00:00",
+    "content": "If you want to get as large a tax refund as possible, it pays to know about every credit and deduction legally available to you in the US tax code. This requires some financial savvy on your part. Yo… [+8678 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tax",
+      "Refund",
+      "Expert",
+      "Bigger",
+      "Tips",
+      "Maximizing",
+      "Credits",
+      "Deductions",
+      "credit",
+      "deduction"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2026/01/mayhem-minneapolis/",
+    "title": "Mayhem In Minneapolis",
+    "fetched_on": "2026-01-28T14:33:17.968680+00:00",
+    "content": "Credit: ROBERTO SCHMIDT/AFP/Getty Images\r\nThe riots in Minneapolis have escalated in recent weeks in response to two shootings involving ICE and Border Patrol agents reacting to violent agitators who… [+8107 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Minneapolis",
+      "AFP",
+      "Credit",
+      "ROBERTO",
+      "SCHMIDT",
+      "Getty",
+      "chars",
+      "Images",
+      "ICE",
+      "Border"
+    ]
+  },
+  {
+    "source": "Plos.org [NewsAPI]",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341674",
+    "title": "How peer mechanism impacts loan repayment in a Self-help group?: An empirical study in India",
+    "fetched_on": "2026-01-28T14:33:17.968680+00:00",
+    "content": "Results of ANOVA\r\nThe results of the ANOVA analysis highlight important differences among members in terms of risk propensity. In terms of income growth after joining the group, after self-help group… [+9852 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ANOVA",
+      "Results",
+      "group",
+      "India",
+      "Self-help",
+      "terms",
+      "propensity",
+      "peer",
+      "mechanism",
+      "impacts"
+    ]
   }
 ]
