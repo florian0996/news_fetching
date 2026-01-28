@@ -71371,5 +71371,40 @@
       "credit",
       "cards"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/ambienta-raises-over-e500-million-for-european-sustainable-loans",
+    "title": "Ambienta Raises Over €500 Million for European Sustainable Loans",
+    "fetched_on": "2026-01-28T07:28:12.441942+00:00",
+    "content": "(Bloomberg) Investment firm Ambienta SGR has raised over 500 million ($594 million) for its inaugural private credit fund to lend to environmentally sustainable mid-market companies in Europe, a sign… [+5017 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Bloomberg",
+      "Loans",
+      "Investment",
+      "Europe",
+      "chars",
+      "Ambienta",
+      "Sustainable",
+      "Raises",
+      "European"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-26-2026/card/blackrock-private-credit-fund-tanks-kz1nW1f1DunLQikI92xc?siteid=yhoof2&yptr=yahoo",
+    "title": "BlackRock Private Credit Fund Tanks",
+    "fetched_on": "2026-01-28T07:28:33.136775+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tanks",
+      "Private",
+      "Credit",
+      "Fund",
+      "BlackRock"
+    ]
   }
 ]
