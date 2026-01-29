@@ -74722,5 +74722,201 @@
       "loan",
       "joins"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-29/wells-fargo-centerbridge-venture-has-inked-7-billion-in-deals",
+    "title": "Wells Fargo and Centerbridge Venture Has Inked $7 Billion in Deals",
+    "fetched_on": "2026-01-29T11:32:38.980239+00:00",
+    "content": "A direct-lending venture between Wells Fargo &amp; Co. and Centerbridge Partners said it has put together more than $7 billion of deals since its launch less than two years ago, offering a rare glimpse into how banks and private credit lenders are leveraging these partnerships.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Fargo",
+      "Centerbridge",
+      "Inked",
+      "Venture",
+      "Deals",
+      "Partners",
+      "ago",
+      "offering",
+      "partnerships"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/news/nra-pushes-back-after-trump-suggests-alex-pretti-shouldnt-have-been-carrying-a-gun/",
+    "title": "NRA Pushes Back After Trump Suggests Alex Pretti ‘Shouldn’t Have Been Carrying a Gun’",
+    "fetched_on": "2026-01-29T11:32:38.463795+00:00",
+    "content": "(Evan Vucci | Credit: AP) (AP Photo/Jessica Hill)\r\nThe National Rifle Association (NRA) declared its absolutist stance on gun rights in a statement just hours after President Donald Trump suggested t… [+2355 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "NRA",
+      "chars",
+      "Pretti",
+      "Gun’",
+      "Evan",
+      "Vucci",
+      "Photo",
+      "Jessica",
+      "Hill"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/transunion-and-zenbase-bring-rental-payment-information-to-credit-reports",
+    "title": "TransUnion and Zenbase Bring Rental Payment Information to Credit Reports",
+    "fetched_on": "2026-01-29T11:32:38.463795+00:00",
+    "content": "Approximately five million Canadian households rent their homes1; rental payments on credit reports could help millions showcase responsible payment behaviour, marking a major step forward in financi… [+5606 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rental",
+      "Credit",
+      "Reports",
+      "chars",
+      "Payment",
+      "Zenbase",
+      "Bring",
+      "Information",
+      "Approximately",
+      "Canadian"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/transunion-and-frontlobby-to-launch-rental-payment-reporting-on-credit-files",
+    "title": "TransUnion and FrontLobby to Launch Rental Payment Reporting on Credit Files",
+    "fetched_on": "2026-01-29T11:32:38.463795+00:00",
+    "content": "Key Benefits of Rental Reporting:\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecte… [+5459 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rental",
+      "Reporting",
+      "Canada",
+      "Launch",
+      "Payment",
+      "Credit",
+      "Files",
+      "Key",
+      "Benefits",
+      "CONTENT"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/28/3227380/0/en/TransUnion-and-Zenbase-Bring-Rental-Payment-Information-to-Credit-Reports.html",
+    "title": "TransUnion and Zenbase Bring Rental Payment Information to Credit Reports",
+    "fetched_on": "2026-01-29T11:32:38.463795+00:00",
+    "content": "Approximately five million Canadian households rent their homes1; rental payments on credit reports could help millions showcase responsible payment behaviour, marking a major step forward in financi… [+4466 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rental",
+      "Credit",
+      "Reports",
+      "chars",
+      "Payment",
+      "Zenbase",
+      "Bring",
+      "Information",
+      "Approximately",
+      "Canadian"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/28/3227383/0/en/707-Cayman-Holdings-Limited-Files-Form-F-1-Registration-Statement-for-Resale-of-Shares-and-Potential-Proceeds-Up-to-9-6-Million-Under-Equity-Line-of-Credit.html",
+    "title": "707 Cayman Holdings Limited Files Form F-1 Registration Statement for Resale of Shares and Potential Proceeds Up to $9.6 Million Under Equity Line of Credit",
+    "fetched_on": "2026-01-29T11:32:38.463795+00:00",
+    "content": "HONG KONG, Jan. 28, 2026 (GLOBE NEWSWIRE) -- 707 Cayman Holdings Limited (707 Cayman or the Company) (Nasdaq: JEM), a Cayman Islands company that sells quality apparel products and provides supply ch… [+5006 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cayman",
+      "Holdings",
+      "Limited",
+      "Jan.",
+      "Nasdaq",
+      "JEM",
+      "Form",
+      "Registration",
+      "Million",
+      "KONG"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/28/3227374/0/en/TransUnion-and-FrontLobby-to-Launch-Rental-Payment-Reporting-on-Credit-Files.html",
+    "title": "TransUnion and FrontLobby to Launch Rental Payment Reporting on Credit Files",
+    "fetched_on": "2026-01-29T11:32:38.463795+00:00",
+    "content": "Key Benefits of Rental Reporting:\r\n<ul><li>For tenants: Recognizes monthly rental payments to support credit-building efforts.</li><li>For housing providers: Supports proactive rent management and fo… [+4025 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rental",
+      "Reporting",
+      "Recognizes",
+      "chars",
+      "Launch",
+      "Credit",
+      "Files",
+      "Key",
+      "Benefits",
+      "TransUnion"
+    ]
+  },
+  {
+    "source": "Livingrichwithcoupons.com [NewsAPI]",
+    "url": "https://www.livingrichwithcoupons.com/2026/01/amazon-fresh-grocery-stores-closing.html",
+    "title": "Amazon Fresh Stores Are Closing | Here’s What You Need to Know",
+    "fetched_on": "2026-01-29T11:32:38.463795+00:00",
+    "content": "Photo Credit: Supermarket News\r\nAmazon is closing its Amazon Fresh grocery stores, along with Amazon Go locations.\r\nIf youve shopped Amazon for groceries before, dont worry Amazon is not leaving the … [+1245 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amazon",
+      "Fresh",
+      "Stores",
+      "Closing",
+      "Credit",
+      "Supermarket",
+      "Photo",
+      "locations",
+      "grocery",
+      "chars"
+    ]
+  },
+  {
+    "source": "Naftemporiki.gr [NewsAPI]",
+    "url": "https://www.naftemporiki.gr/english/2064935/sp-revises-three-greek-banks-outlook-to-positive/",
+    "title": "S&P revises three Greek banks’ outlook to positive",
+    "fetched_on": "2026-01-29T11:32:38.463795+00:00",
+    "content": "S&amp;P Global Ratings has upgraded the outlook for three Greek banks, citing the continued improvement in credit conditions despite increased risks.\r\nAs the rating agency pointed out, Greece’s econo… [+1440 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Greek",
+      "Global",
+      "outlook",
+      "banks",
+      "citing",
+      "risks",
+      "revises",
+      "banks’",
+      "positive",
+      "upgraded"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/mortgages-loans-pay-home-renovations-213037849.html",
+    "title": "Mortgages and loans to pay for home renovations: How to find the best one for you",
+    "fetched_on": "2026-01-29T11:32:54.623389+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mortgages",
+      "renovations",
+      "loans",
+      "pay",
+      "home",
+      "find"
+    ]
   }
 ]
