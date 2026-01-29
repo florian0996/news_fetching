@@ -76737,5 +76737,65 @@
       "chars",
       "Raise"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/28/3228065/0/en/Ryman-Hospitality-Properties-Inc-Successfully-Completes-Refinancing-of-700-Million-Revolving-Credit-Facility-and-Increases-Size-to-850-Million.html",
+    "title": "Ryman Hospitality Properties, Inc. Successfully Completes Refinancing of $700 Million Revolving Credit Facility and Increases Size to $850 Million",
+    "fetched_on": "2026-01-29T21:29:39.407651+00:00",
+    "content": "NASHVILLE, Tenn., Jan. 28, 2026 (GLOBE NEWSWIRE) -- Ryman Hospitality Properties, Inc. (NYSE: RHP), a leading lodging and hospitality real estate investment trust (REIT) that specializes in upscale c… [+5322 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Properties",
+      "Ryman",
+      "Hospitality",
+      "Million",
+      "Tenn.",
+      "Jan.",
+      "NYSE",
+      "RHP",
+      "REIT",
+      "NASHVILLE"
+    ]
+  },
+  {
+    "source": "Standard Digital [NewsAPI]",
+    "url": "https://www.standardmedia.co.ke/business/business/article/2001539587/why-kenyans-are-not-taking-bank-loans-despite-falling-interest-rates",
+    "title": "Why Kenyans are not taking bank loans despite falling interest rates",
+    "fetched_on": "2026-01-29T21:29:39.407651+00:00",
+    "content": "Local banks now say harsh economic conditions have slowed down credit uptake among households and businesses despite the drop in interest rates. \r\nBold Reporting Takes Time, Courage and Investment. S… [+239 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kenyans",
+      "Local",
+      "interest",
+      "rates",
+      "Time",
+      "Courage",
+      "Investment",
+      "taking",
+      "loans",
+      "falling"
+    ]
+  },
+  {
+    "source": "Sky.com [NewsAPI]",
+    "url": "https://news.sky.com/story/federal-reserve-opts-against-interest-rate-cut-despite-donald-trump-pressure-on-jerome-powell-13500359",
+    "title": "Federal Reserve keeps interest rates unchanged despite Trump pressure",
+    "fetched_on": "2026-01-29T21:29:39.407651+00:00",
+    "content": "The Federal Reserve has voted to keep interest rates the same - despite pressure from Donald Trump to make a cut.\r\nThe US central bank said on Wednesday that it will keep its key lending rate between… [+2148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reserve",
+      "Trump",
+      "Federal",
+      "interest",
+      "Donald",
+      "pressure",
+      "cut",
+      "rates",
+      "unchanged",
+      "voted"
+    ]
   }
 ]
