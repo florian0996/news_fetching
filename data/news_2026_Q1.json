@@ -75079,5 +75079,357 @@
       "stocks",
       "valuation"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-29/amc-agrees-on-amendment-with-creditors-to-clear-refinancing-path",
+    "title": "AMC Agrees on Amendment With Creditors to Clear Refinancing Path",
+    "fetched_on": "2026-01-29T14:38:55.707083+00:00",
+    "content": "AMC Entertainment Holdings, Inc. reached a deal with a group of creditors to change the terms in one of its notes, making it easier for the cinema chain to refinance its debt, according to a filing on Thursday.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "AMC",
+      "Holdings",
+      "Agrees",
+      "Amendment",
+      "Clear",
+      "Refinancing",
+      "Path",
+      "Entertainment",
+      "Creditors",
+      "Thursday"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-29/adani-eyes-1-5-billion-yen-debt-in-bid-to-diversify-credit-mix",
+    "title": "Adani Eyes $1.5 Billion Yen Debt in Bid to Diversify Credit Mix",
+    "fetched_on": "2026-01-29T14:38:55.707144+00:00",
+    "content": "Adani Group is seeking to raise as much as $1.5 billion worth of yen-denominated debt in the next year and a half in a bid to diversify its financing, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Debt",
+      "Bid",
+      "Diversify",
+      "Eyes",
+      "Adani",
+      "Yen",
+      "Credit",
+      "Mix",
+      "Group"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-29/ai-real-estate-business-taps-100m-private-credit-loan",
+    "title": "AI Real Estate Business Taps $100 Million Private Credit Loan",
+    "fetched_on": "2026-01-29T14:38:55.707173+00:00",
+    "content": "Propy, a real estate technology company, tapped the private credit market for the first time, securing $100 million to support the startup’s acquisition strategy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Real",
+      "Estate",
+      "Private",
+      "Credit",
+      "Taps",
+      "Propy",
+      "securing",
+      "Business",
+      "Loan"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/minimal-impact-of-iran-unrest-on-india-inc-crisil/articleshow/127713200.cms",
+    "title": "Minimal impact of Iran unrest on India Inc: Crisil",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "Domestic credit ratings agency Crisil on Wednesday said the unrest in Iran has not had any impact on Indian companies so far.However, if the tensions persist or escalate, leading to rise in crude pri… [+2000 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Iran",
+      "Crisil",
+      "chars",
+      "India",
+      "Domestic",
+      "Wednesday",
+      "Indian",
+      "impact",
+      "unrest",
+      "Minimal"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2026/01/28/why-are-amazon-fresh-grocery-stores-closing/",
+    "title": "Why Are Amazon Fresh Grocery Stores Closing? What to Know About the Closure",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "Image Credit: MediaNews Group via Getty Images\r\nIn recent years, quite a few grocery and retail chains have shut down due to financial struggles. As economic changes further plague certain businesses… [+2032 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Closing",
+      "Amazon",
+      "Fresh",
+      "Stores",
+      "Grocery",
+      "Credit",
+      "Closure",
+      "Group",
+      "Getty",
+      "chars"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/personal-finance/drowning-in-emis-smart-ways-to-handle-multiple-personal-loans-10901100",
+    "title": "Drowning in EMIs? Smart Ways to Handle Multiple Personal Loans",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "Many people find themselves drowning in EMIs from multiple personal loans. Whether it's for a wedding, medical emergency, home renovation, or simply bridging cash flow gaps, personal loans have becom… [+2777 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Personal",
+      "Loans",
+      "Multiple",
+      "Drowning",
+      "EMIs",
+      "Handle",
+      "chars",
+      "Smart",
+      "wedding",
+      "medical"
+    ]
+  },
+  {
+    "source": "Github.com [NewsAPI]",
+    "url": "https://github.com/SecureLend/mcp-financial-services",
+    "title": "Show HN: I built an MCP server so ChatGPT can replace comparison sites",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "Production MCP server and standardized schemas for financial services comparison\r\nThis repository provides:\r\n<ul><li>Standardized JSON schemas for loans, banking, credit cards</li><li>MCP server at h… [+4513 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MCP",
+      "server",
+      "banking",
+      "chars",
+      "standardized",
+      "Production",
+      "JSON",
+      "schemas",
+      "Show",
+      "loans"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/thrivecart-introduces-thrivepay-installments-a-card-linked-alternative-to-bnpl",
+    "title": "ThriveCart Introduces ThrivePay Installments, a Card-Linked Alternative to BNPL",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "Designed to significantly increase buy now, pay later authorization rates, ThrivePay Installments enables buyers to pay over time using existing pre-authorized credit card limits, while merchants rec… [+5356 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Installments",
+      "chars",
+      "ThrivePay",
+      "Introduces",
+      "Alternative",
+      "BNPL",
+      "Designed",
+      "pay",
+      "ThriveCart",
+      "rates"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/01/marvel-debuts-doctor-doom-latveria-avengers-doomsday-th1/",
+    "title": "Marvel Debuts Doctor Doom’s Latveria With Official Welcome Video Ahead of ‘Doomsday’s Release",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "This year, Marvel Studios will release its biggest movie in years: Avengers: Doomsday.\r\nCredit: 20th Century Studios\r\nIn December 2026, Avengers: Doomsday will officially be released as the Marvel Ci… [+5103 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Avengers",
+      "Doomsday",
+      "Release",
+      "Debuts",
+      "Doctor",
+      "Doom",
+      "Latveria",
+      "Official",
+      "Video",
+      "Ahead"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/142045/report-brighton-reject-approach-from-rivals-for-star.html",
+    "title": "Report: Brighton reject approach from rivals for star",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "Brighton have rejected an approach from Nottingham Forest for Lewis Dunk, underlining their determination to retain a cornerstone of the squad. Credit to Sky Sports for first reporting the stance.\r\nT… [+1621 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brighton",
+      "Dunk",
+      "Report",
+      "approach",
+      "Nottingham",
+      "Forest",
+      "Lewis",
+      "underlining",
+      "squad",
+      "reject"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/01/disney-ratatouille-ride-update-cj1/",
+    "title": "UPDATE: Disney Backtracks on Future of Indefinitely Closed ‘Ratatouille’ Ride",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "Disney has shared a new update on the future of its beloved Ratatouille attraction.\r\nSince its debut, Ratatouille has become one of Disneys most immersive modern dark rides. Blending trackless techno… [+4216 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Closed",
+      "Ratatouille’",
+      "UPDATE",
+      "Backtracks",
+      "Indefinitely",
+      "Disney",
+      "attraction",
+      "shared",
+      "beloved"
+    ]
+  },
+  {
+    "source": "Equinechronicle.com [NewsAPI]",
+    "url": "http://www.equinechronicle.com/important-status-update-horse-protection-act-regulations/",
+    "title": "Important Status Update: Horse Protection Act Regulations",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "Image credit: American Horse Council.\r\nFrom the American Horse Council:\r\nWASHINGTON, D.C., January 28, 2026 The U.S. Department of Agricultures (USDA) Animal and Plant Health Inspection Service (APHI… [+2748 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Council",
+      "Horse",
+      "Update",
+      "American",
+      "Status",
+      "Protection",
+      "Act",
+      "Regulations",
+      "Image",
+      "Important"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/world/south-asia/ummah-or-dollars-pakistans-high-stakes-dilemma-amid-us-iran-conflict/articleshow/127705254.cms",
+    "title": "Ummah or Dollars: Pakistan’s high stakes dilemma amid US-Iran conflict",
+    "fetched_on": "2026-01-29T14:38:54.950991+00:00",
+    "content": "AI image (Picture credit: Google Gemini)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dollars",
+      "Pakistan",
+      "Picture",
+      "Google",
+      "Gemini",
+      "Ummah",
+      "image",
+      "credit",
+      "high",
+      "stakes"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2026/01/29/irs-refund-pandemic-era-penalty-tax-relief.html",
+    "title": "IRS owes some taxpayers refunds for pandemic-era penalty tax relief, watchdog audit finds",
+    "fetched_on": "2026-01-29T14:39:18.989974+00:00",
+    "content": "An audit from a government watchdog alerted the IRS of the mistake and the agency took steps to credit the tax accounts affected by the oversight.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IRS",
+      "tax",
+      "watchdog",
+      "audit",
+      "relief",
+      "oversight",
+      "owes",
+      "taxpayers",
+      "refunds",
+      "pandemic-era"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/fed-affects-auto-loan-rates-190622401.html",
+    "title": "How does the Fed interest rate affect car loans?",
+    "fetched_on": "2026-01-29T14:39:19.617057+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fed",
+      "loans",
+      "interest",
+      "rate",
+      "affect",
+      "car"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/average-car-loan-interest-rates-212521067.html",
+    "title": "Average auto loan interest rates by credit score in 2025",
+    "fetched_on": "2026-01-29T14:39:19.617108+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Average",
+      "auto",
+      "loan",
+      "interest",
+      "rates",
+      "credit",
+      "score"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/amazon-luxury-groups-join-saks-142350740.html",
+    "title": "Amazon and luxury groups join Saks creditors panel – report",
+    "fetched_on": "2026-01-29T14:39:19.617188+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "report",
+      "Saks",
+      "Amazon",
+      "panel",
+      "luxury",
+      "groups",
+      "join",
+      "creditors"
+    ]
+  },
+  {
+    "id": "4bc2e38bbf4ea19a55a73b2952f718fa",
+    "source": "Jakub from P2P Empire <info@p2pempire.com> [Newsletter]",
+    "url": "",
+    "title": "Triple Dragon Funding Review 2026 | High Yield or Hidden Risk?",
+    "fetched_on": "2026-01-29T14:39:22.000846+00:00",
+    "content": "Hello,\r\n\r\nYou have received a newsletter from EmpireMedia OÜ.\r\n\r\nHowever, your email software can't display HTML emails. You can view the newsletter by clicking here:\r\n\r\nhttps://agylxew.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjIwMDEwNDcsXCJsXCI6MTc3OTM4NDExMzA1MzA1MTIzLFwiclwiOjE3NzkzODUxNjUwNTc5MDEwMX0iLCJzIjoiNzhlZjBhMTM0ODA0MzUwNSJ9\r\n\r\n\r\n\r\nYou're receiving this newsletter because you have shown interest in EmpireMedia OÜ.\r\nNot interested anymore? Click here to unsubscribe:\r\nhttps://agylxew.clicks.mlsend.com/tj/c/eyJ2Ijoie1wiYVwiOjIwMDEwNDcsXCJsXCI6MTc3OTM4NDExMzAwMDYyMjQxLFwiclwiOjE3NzkzODUxNjUwNTc5MDEwMX0iLCJzIjoiNDU5ZGNiNDc4MzE1YjI2ZiJ9\r\n",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Review",
+      "High",
+      "Risk",
+      "Dragon",
+      "Funding",
+      "Yield",
+      "Hidden",
+      "Triple",
+      "newsletter",
+      "EmpireMedia"
+    ]
   }
 ]
