@@ -74622,5 +74622,105 @@
       "Results",
       "survey"
     ]
+  },
+  {
+    "source": "Citizen.digital [NewsAPI]",
+    "url": "https://www.citizen.digital/business/moodys-upgrades-kenyas-credit-rating-what-it-means-for-the-country-n376497",
+    "title": "Moody's upgrades Kenya's credit rating; what it means for the country",
+    "fetched_on": "2026-01-29T10:39:19.960502+00:00",
+    "content": "Global credit rating agency Moodys has upgraded Kenyas credit rating, offering some relief after a period of economic strain and high debt pressure.\r\nThe agency raised Kenyas rating to B3 from Caa1 a… [+3860 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "Global",
+      "rating",
+      "Kenyas",
+      "Moody",
+      "Moodys",
+      "offering",
+      "pressure",
+      "agency",
+      "Kenya"
+    ]
+  },
+  {
+    "source": "CryptoSlate [NewsAPI]",
+    "url": "https://cryptoslate.com/aave-defi-lending-monopoly-reaches-51-creating-a-systemic-feedback-loop-with-only-a-460m-backstop/",
+    "title": "Aave DeFi lending monopoly reaches 51%, creating a systemic feedback loop with only a $460M backstop",
+    "fetched_on": "2026-01-29T10:39:19.960502+00:00",
+    "content": "Aave now controls 51.5% of the decentralized finance lending market share, the first time any protocol has crossed the 50% threshold since 2020.\r\nThe milestone arrives not through competitor collapse… [+8480 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aave",
+      "lending",
+      "reaches",
+      "creating",
+      "backstop",
+      "controls",
+      "share",
+      "threshold",
+      "DeFi",
+      "monopoly"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/sonnet-4-7-claude/",
+    "title": "Claude Sonnet 4.7 Leaked : New Anthropic AI Sets a Higher Bar for Reliable Work Tools",
+    "fetched_on": "2026-01-29T10:39:19.960502+00:00",
+    "content": "What if the AI you rely on could not only assist but anticipate your needs, seamlessly blending into your daily routines? Universe of AI outlines how the latest advancements, including Claude Sonnet … [+8311 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Leaked",
+      "Sonnet",
+      "Anthropic",
+      "Sets",
+      "Higher",
+      "Bar",
+      "Reliable",
+      "Work",
+      "Tools",
+      "Claude"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/trust-is-the-new-currency-of-luxury-positive-luxury/",
+    "title": "‘Trust is the new currency of luxury’: Positive Luxury",
+    "fetched_on": "2026-01-29T10:39:19.960502+00:00",
+    "content": "Sustainability\r\nJanuary 28, 2026\r\n Consumers are turning to generative artificial intelligence to search for sustainable products and practices. Image credit: Positive Luxury \r\n By Kiran Gill\r\nNearly… [+9909 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Positive",
+      "Trust",
+      "January",
+      "Consumers",
+      "Luxury",
+      "Sustainability",
+      "luxury’",
+      "practices",
+      "chars",
+      "currency"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/laila-harbert-joins-everton-loan",
+    "title": "Laila Harbert joins Everton on loan",
+    "fetched_on": "2026-01-29T10:39:19.960502+00:00",
+    "content": "Laila Harbert has joined Barclays Womens Super League side Everton on loan for the remainder of the 2025/26 season.\r\nThe 19-year-old defensive midfielder will now continue her development in Merseysi… [+456 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Harbert",
+      "Everton",
+      "Laila",
+      "season",
+      "Barclays",
+      "Womens",
+      "Super",
+      "League",
+      "loan",
+      "joins"
+    ]
   }
 ]
