@@ -1,6 +1,32 @@
 {
+  "2026-01-30": {
+    "articles": [
+      {
+        "title": "LendingClub Grows LevelUp Base as Loan Originations Rise",
+        "url": "https://www.pymnts.com/earnings/2026/lendingclub-grows-levelup-base-as-loan-originations-rise/",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
   "2026-01-29": {
-    "status": "no company in the news"
+    "articles": [
+      {
+        "title": "Why Shares of LendingClub Are Sinking Today",
+        "url": "https://finance.yahoo.com/news/why-shares-lendingclub-sinking-today-163444533.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: First Brands Did Some Round Trips",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-01-28": {
     "articles": [
