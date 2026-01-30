@@ -78394,5 +78394,105 @@
       "firm",
       "January"
     ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2026/01/29/wwe-royal-rumble-2026-liv-morgan-and-the-5-most-likely-winners/",
+    "title": "WWE Royal Rumble 2026: Liv Morgan And The 5 Most Likely Winners",
+    "fetched_on": "2026-01-30T14:01:10.244899+00:00",
+    "content": "Liv Morgan is in line for a massive push en route to WrestleMania 42. (Credit: WWE/Getty Images)\r\nWWE via Getty Images\r\nWWE Royal Rumble 2026 will mark just the ninth-ever womens Royal Rumble, and th… [+5724 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rumble",
+      "Liv",
+      "Morgan",
+      "Royal",
+      "WWE",
+      "Winners",
+      "Getty",
+      "Images",
+      "WrestleMania",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/adani-eyes-1-5-billion-yen-debt-in-bid-to-diversify-credit-mix",
+    "title": "Adani Eyes $1.5 Billion Yen Debt in Bid to Diversify Credit Mix",
+    "fetched_on": "2026-01-30T14:01:10.244899+00:00",
+    "content": "(Bloomberg) Adani Group is seeking to raise as much as $1.5 billion worth of yen-denominated debt in the next year and a half in a bid to diversify its financing, according to people familiar with th… [+3677 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Adani",
+      "Billion",
+      "Bloomberg",
+      "Debt",
+      "Bid",
+      "Diversify",
+      "Eyes",
+      "Mix",
+      "chars",
+      "Yen"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/irs-warns-millions-are-missing-an-overlooked-tax-credit-heres-how-to-claim-the-cash/articleshow/127777298.cms",
+    "title": "IRS warns millions are missing an overlooked tax credit — here’s how to claim the cash",
+    "fetched_on": "2026-01-30T14:01:10.244899+00:00",
+    "content": "The Internal Revenue Service (IRS) is asking Americans to carefully check their tax returns this filing season, the agency said. The IRS warned that rushing through tax filing can lead to penalties, … [+3367 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Service",
+      "IRS",
+      "Internal",
+      "Revenue",
+      "Americans",
+      "tax",
+      "credit",
+      "season",
+      "filing",
+      "warns"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/citrea-bitcoin-rollup-is-stress-testing-block-space",
+    "title": "Citrea ZK-rollup launch stress tests scarce Bitcoin block space",
+    "fetched_on": "2026-01-30T14:01:10.244899+00:00",
+    "content": "Founders Fund and Galaxy Ventures-backed Bitcoin zero-knowledge rollup (ZK-rollup) Citrea launched its mainnet on Tuesday with BTC collateral lending, BTC-structured products and a new US dollar stab… [+3958 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Citrea",
+      "chars",
+      "Bitcoin",
+      "Founders",
+      "Fund",
+      "Galaxy",
+      "Ventures-backed",
+      "Tuesday",
+      "BTC",
+      "rollup"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/spend/icici-bank-credit-card-rule-changes-from-february-1-2026-bookmyshow-complimentary-movie-benefit-to-be-discontinued-other-key-changes/articleshow/127777210.cms",
+    "title": "ICICI Bank credit card rule changes from February 1, 2026: BookMyShow complimentary movie benefit to be discontinued; other key changes",
+    "fetched_on": "2026-01-30T14:01:10.244899+00:00",
+    "content": "Starting February 1, 2025, ICICI Bank has announced important changes to its credit card benefits, which may impact a number of its credit card holders across categories. ICICI Bank will discontinue … [+4392 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ICICI",
+      "February",
+      "credit",
+      "Bank",
+      "card",
+      "Starting",
+      "BookMyShow",
+      "discontinued",
+      "categories",
+      "rule"
+    ]
   }
 ]
