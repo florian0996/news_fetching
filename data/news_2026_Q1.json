@@ -78033,5 +78033,105 @@
       "assessment",
       "curb"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2026-01-30/credit-crunch-beach-point-s-hunsaker-on-structured-landscape",
+    "title": "Credit Crunch: Beach Point’s Hunsaker on Structured Landscape",
+    "fetched_on": "2026-01-30T11:30:40.634847+00:00",
+    "content": "“We’ll risk-manage the portfolios such that, when beta is an uncompelling opportunity set, we have more risk-management overlays in place. And luckily, where we are today with the short rebate that you get paid to borrow and short bonds, it’s not that much of an opportunity cost,” says Beach Point Capital Portfolio Manager and Head of Structured Credit Benjamin Hunsaker, discussing limited excess-return prospects in the context of long-short strategies. Hunsaker joins Bloomberg Intelligence’s No",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crunch",
+      "Landscape",
+      "Beach",
+      "Point",
+      "Structured",
+      "Hunsaker",
+      "Credit",
+      "set",
+      "place",
+      "opportunity"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/29/3228333/0/en/Mutuum-Finance-MUTM-Reaches-20-Million-Raised-as-V1-Protocol-Goes-Live-on-Sepolia-Testnet.html",
+    "title": "Mutuum Finance (MUTM) Reaches $20 Million Raised as V1 Protocol Goes Live on Sepolia Testnet",
+    "fetched_on": "2026-01-30T11:30:39.607633+00:00",
+    "content": "DUBAI, United Arab Emirates, Jan. 29, 2026 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n has officially announced a major milestone, confirming the successful launch of its V1 lending and borrowing pro… [+4519 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Mutuum",
+      "Reaches",
+      "Jan.",
+      "chars",
+      "Million",
+      "Protocol",
+      "DUBAI",
+      "United"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/canara-bank-q3fy26-profit-climbs-26-as-slippages-ease-npas-fall/article70565177.ece",
+    "title": "Canara Bank Q3FY26 profit climbs 26% as slippages ease, NPAs fall",
+    "fetched_on": "2026-01-30T11:30:39.607633+00:00",
+    "content": "Public sector lender Canara Bank reported a 25.6 per cent year-on-year (y-o-y) jump in net profit at 5,155 crore for the third quarter of FY26, aided by steady credit growth, improving asset quality … [+1396 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "chars",
+      "Canara",
+      "Public",
+      "climbs",
+      "ease",
+      "NPAs",
+      "cent",
+      "jump",
+      "crore"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/upi-a-key-driver-of-financial-inclusion-credit-expansion-economic-survey/articleshow/127772247.cms",
+    "title": "UPI a key driver of financial inclusion, credit expansion: Economic Survey",
+    "fetched_on": "2026-01-30T11:30:39.607633+00:00",
+    "content": "Indias public digital payments infrastructure, led by the Unified Payments Interface (UPI), has played a central role in deepening financial inclusion and expanding access to formal credit, the Econo… [+2554 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UPI",
+      "chars",
+      "Economic",
+      "Interface",
+      "Econo",
+      "payments",
+      "Survey",
+      "Indias",
+      "Unified",
+      "financial"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/single-women-account-for-a-third-of-equity-release-loans/a681940591.html",
+    "title": "Single women account for a third of equity-release loans",
+    "fetched_on": "2026-01-30T11:30:39.607633+00:00",
+    "content": "Single women accounted for one in three equity-release loans issued in Ireland last year by the main lender in the sector, Spry Finance.It said a large number of borrowers were using equity release t… [+3050 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Single",
+      "Spry",
+      "chars",
+      "women",
+      "equity-release",
+      "loans",
+      "Ireland",
+      "sector",
+      "account",
+      "accounted"
+    ]
   }
 ]
