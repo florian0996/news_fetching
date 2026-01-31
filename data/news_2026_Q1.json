@@ -80701,5 +80701,45 @@
       "rates",
       "loan"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/articles/tolopilo-makes-32-saves-canucks-061225747.html",
+    "title": "Tolopilo makes 32 saves in Canucks' 2-0 win over Ducks, but doesn't get credit for shutout",
+    "fetched_on": "2026-01-31T06:42:09.691667+00:00",
+    "content": "VANCOUVER, British Columbia (AP) Nikita Tolopilo made 32 saves, Drew OConnor opened the scoring with 9:42 left and the Vancouver Canucks beat the Anaheim Ducks 2-0 on Thursday night.\r\nTolopilo was de… [+645 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ducks",
+      "British",
+      "Columbia",
+      "Nikita",
+      "Drew",
+      "saves",
+      "VANCOUVER",
+      "Canucks'",
+      "Canucks",
+      "Anaheim"
+    ]
+  },
+  {
+    "source": "The Daily Caller [NewsAPI]",
+    "url": "https://dailycaller.com/2026/01/30/opinion-swamp-creatures-in-congress-try-to-reverse-trumps-rate-cuts-tomas-philipson/",
+    "title": "TOMAS PHILIPSON: Swamp Creatures In Congress Try To Reverse Trump’s Rate Cuts",
+    "fetched_on": "2026-01-31T06:42:09.691667+00:00",
+    "content": "Last week, President Donald Trump kicked off a national debate when he said he wants to cap credit card interest rates. Such price controls will likely hurt the poor as high-risk credit will be shot … [+5953 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "TOMAS",
+      "PHILIPSON",
+      "Swamp",
+      "President",
+      "Creatures",
+      "Congress",
+      "Reverse",
+      "Cuts",
+      "Donald"
+    ]
   }
 ]
