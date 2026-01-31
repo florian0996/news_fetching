@@ -81016,5 +81016,85 @@
       "emails",
       "anymore"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/companies/adani-secures-landmark-jcr-ratings-opens-door-to-japans-long-term-capital/article70569830.ece",
+    "title": "Adani secures landmark JCR Ratings, opens door to Japan's long-term capital",
+    "fetched_on": "2026-01-31T10:27:47.005760+00:00",
+    "content": "The Adani Group has won credit ratings from Japan Credit Rating Agency (JCR) for three of its companies, a move that could pave the way for broader access to Japan's debt markets as the Indian conglo… [+4014 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Japan",
+      "JCR",
+      "credit",
+      "Agency",
+      "Ratings",
+      "chars",
+      "Adani",
+      "Group",
+      "Indian",
+      "opens"
+    ]
+  },
+  {
+    "source": "Ndtvprofit.com [NewsAPI]",
+    "url": "https://www.ndtvprofit.com/markets/india-bond-lending-plan-said-to-be-stalled-by-tax-uncertainties-10913385",
+    "title": "India Bond Lending Plan Said To Be Stalled By Tax Uncertainties",
+    "fetched_on": "2026-01-31T10:27:47.005760+00:00",
+    "content": "India's plan to allow lending and borrowing of sovereign bonds remains stalled by uncertainty on how taxes will be applied, despite infrastructure being in place for more than 18 months, according to… [+1685 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stalled",
+      "months",
+      "chars",
+      "India",
+      "Lending",
+      "Plan",
+      "Tax",
+      "Uncertainties",
+      "applied",
+      "Bond"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/chinas-luxury-market-losses-narrowing-bain/",
+    "title": "China’s luxury market losses narrowing: Bain",
+    "fetched_on": "2026-01-31T10:27:47.005760+00:00",
+    "content": "Research\r\nJanuary 30, 2026\r\n Valentino's VLogo print takes center stage in a Lunar New Year campaign. Image credit: Valentino \r\n By Amirah Keaton\r\nMainland Chinas personal luxury goods market contrac… [+6880 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bain",
+      "January",
+      "Valentino",
+      "Research",
+      "Lunar",
+      "Year",
+      "narrowing",
+      "campaign",
+      "chars",
+      "luxury"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/startups/cred-fy25-revenue-rises-16-to-rs-2735-crore-losses-narrow/articleshow/127796869.cms",
+    "title": "Cred FY25 revenue rises 16% to Rs 2,735 crore, losses narrow",
+    "fetched_on": "2026-01-31T10:27:47.005760+00:00",
+    "content": "Fintech startup Cred reported consolidated operating revenues of Rs 2,735 crore in FY25, a 16% increase over the previous year, as higher product adoption helped improve monetisation and reduce losse… [+2456 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "crore",
+      "Cred",
+      "Fintech",
+      "rises",
+      "increase",
+      "year",
+      "narrow",
+      "startup",
+      "reported"
+    ]
   }
 ]
