@@ -1,4 +1,7 @@
 {
+  "2026-01-31": {
+    "status": "no company in the news"
+  },
   "2026-01-30": {
     "articles": [
       {
@@ -6,6 +9,20 @@
         "url": "https://www.pymnts.com/earnings/2026/lendingclub-grows-levelup-base-as-loan-originations-rise/",
         "platforms_mentioned": [
           "Lending Club"
+        ]
+      },
+      {
+        "title": "FW: Musk's Mega-Merger Bender Begins",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: The Podcast: Elevated Shepherd’s Pie",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
         ]
       }
     ]
