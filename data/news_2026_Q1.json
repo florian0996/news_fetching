@@ -83080,5 +83080,105 @@
       "exchange",
       "hours"
     ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/save/sbi-hdfc-bank-pnb-and-icici-bank-changes-kicking-in-february-2026-what-customers-should-know/new-banking-rules-from-february-2026-charges-rewards-and-deadlines/slideshow/127802892.cms",
+    "title": "SBI, HDFC Bank, PNB and ICICI Bank changes kicking in February 2026: What customers should know",
+    "fetched_on": "2026-02-01T05:02:34.792838+00:00",
+    "content": "Jan 30, 2026, 07:10:18 PM IST\r\nIn February 2026, several banking and card-related changes are set to come into effect, impacting everyday transactions, credit card uses and compliance-related formali… [+1845 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "SBI",
+      "Bank",
+      "HDFC",
+      "PNB",
+      "Jan",
+      "chars",
+      "ICICI",
+      "IST",
+      "effect"
+    ]
+  },
+  {
+    "source": "Berkeleyside.org [NewsAPI]",
+    "url": "http://www.berkeleyside.org/2026/01/30/berkeley-general-strike-ice-out-protest-shutdown",
+    "title": "Berkeley businesses close, students protest in 'ICE Out' strike",
+    "fetched_on": "2026-02-01T05:02:34.792838+00:00",
+    "content": "West Berkeley’s CoRo Coffee Room was one of several businesses that shut their doors Friday. Credit: Tracey Taylor/Berkeleyside\r\nBerkeley residents joined a nationwide strike against the Trump Admini… [+5779 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ICE",
+      "Friday",
+      "West",
+      "Coffee",
+      "Room",
+      "Berkeley",
+      "businesses",
+      "close",
+      "students",
+      "strike"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/sebi-to-simplify-demat-process-from-april-2-cuts-securities-transfer-time-to-30-days/article70573084.ece",
+    "title": "SEBI to simplify demat process from April 2, cuts securities transfer time to 30 days",
+    "fetched_on": "2026-02-01T05:02:34.792838+00:00",
+    "content": "Markets regulator SEBI has streamlined the process of crediting securities to dematerialised accounts by doing away with the requirement of letter of confirmation, a move that will reduce the period … [+1284 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SEBI",
+      "April",
+      "chars",
+      "Markets",
+      "process",
+      "securities",
+      "cuts",
+      "days",
+      "confirmation",
+      "period"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/companies/q3-results-today-live-updates-sun-pharma-gail-india-idfc-first-bank-birla-corporation-zen-technologies-bharat-dynamics-delhivery-fujiyama-power-systems-results-31-jan-2026/article70573113.ece",
+    "title": "Q3 Results Today Live: Sun Pharma, GAIL India, IDFC First Bank, Birla Corporation, Zen Technologies, Bharat Dynamics, Delhivery, Fujiyama Power Systems to announce Q3 results",
+    "fetched_on": "2026-02-01T05:02:34.792838+00:00",
+    "content": "Multi exposure of abstract financial diagram with upward arrow and hand typing on laptop on background, rise and breakthrough concept istock photo for BL\r\n | Photo Credit: \r\n Igor Kutyaev\r\nQ3 Results… [+2847 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Results",
+      "Delhivery",
+      "Live",
+      "Sun",
+      "Pharma",
+      "GAIL",
+      "India",
+      "IDFC",
+      "Bank",
+      "Birla"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/agri-business/boosting-indias-livestock-sector-how-health-infrastructure-credit-can-drive-rural-prosperity/article70571711.ece",
+    "title": "Boosting India’s livestock sector: How health, infrastructure, credit can drive rural prosperity",
+    "fetched_on": "2026-02-01T05:02:34.792838+00:00",
+    "content": "Indias livestock sector has shifted from a supporting role in agriculture to a crucial economic engine, driving rural livelihoods, food security, and trade. With rising national income contributions … [+5363 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "infrastructure",
+      "livestock",
+      "sector",
+      "India",
+      "Indias",
+      "Boosting",
+      "health",
+      "credit",
+      "engine",
+      "driving"
+    ]
   }
 ]
