@@ -83500,5 +83500,40 @@
       "Park",
       "Extreme"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0e814076-a010-4d55-b6dc-e31851655551",
+    "title": "I’m 38 With $16K in Credit Card Debt—Should I Dip Into My $25K 401(K) to Pay It Off?",
+    "fetched_on": "2026-02-01T14:28:17.614937+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Debt",
+      "Credit",
+      "Card",
+      "Dip",
+      "Pay",
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/m-38-16k-credit-card-123500013.html",
+    "title": "I’m 38 With $16K in Credit Card Debt—Should I Dip Into My $25K 401(K) to Pay It Off?",
+    "fetched_on": "2026-02-01T14:28:37.701578+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Debt",
+      "Credit",
+      "Card",
+      "Dip",
+      "Pay"
+    ]
   }
 ]
