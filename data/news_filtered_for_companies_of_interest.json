@@ -1,6 +1,17 @@
 {
-  "2026-01-31": {
+  "2026-02-01": {
     "status": "no company in the news"
+  },
+  "2026-01-31": {
+    "articles": [
+      {
+        "title": "LendingClub (LC) Drops 16% on Accounting Shift",
+        "url": "https://finance.yahoo.com/news/lendingclub-lc-drops-16-accounting-041047044.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
   },
   "2026-01-30": {
     "articles": [
