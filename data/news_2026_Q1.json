@@ -83222,5 +83222,25 @@
       "Amazon",
       "amazon.com"
     ]
+  },
+  {
+    "source": "Haaretz [NewsAPI]",
+    "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-01-31/ty-article/.premium/moodys-raises-israels-credit-outlook-from-negative-to-stable-citing-gaza-cease-fire/0000019c-132d-db90-a7fd-5b6dae090000",
+    "title": "Moody's raises Israel's credit outlook from negative to stable, citing Gaza cease-fire",
+    "fetched_on": "2026-02-01T09:33:27.204908+00:00",
+    "content": "Credit rating agency Moody's on Friday raised Israel's credit outlook from negative to stable, citing reduced security risks following the Israel-Hamas cease-fire, while reaffirming the country's Baa… [+34 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "stable",
+      "Israel",
+      "credit",
+      "Baa",
+      "outlook",
+      "negative",
+      "citing",
+      "chars",
+      "Moody",
+      "Gaza"
+    ]
   }
 ]
