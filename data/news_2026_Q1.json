@@ -83280,5 +83280,45 @@
       "Private",
       "Cash"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/01/31/3229854/0/en/Mutuum-Finance-MUTM-Gains-Whale-Attention-After-Launching-V1-Protocol-on-Sepolia-Testnet.html",
+    "title": "Mutuum Finance (MUTM) Gains Whale Attention After Launching V1 Protocol on Sepolia Testnet",
+    "fetched_on": "2026-02-01T11:23:19.848486+00:00",
+    "content": "DUBAI, United Arab Emirates, Jan. 31, 2026 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)\r\n continues to build momentum in the DeFi space after officially launching its V1 lending and borrowing protocol o… [+4121 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUTM",
+      "Finance",
+      "Mutuum",
+      "Jan.",
+      "chars",
+      "Gains",
+      "DUBAI",
+      "United",
+      "Emirates",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/ineos-unit-gets-e500-million-fresh-funds-ahead-of-bond-maturity",
+    "title": "Ineos Unit Gets €500 Million Fresh Funds Ahead of Bond Maturity",
+    "fetched_on": "2026-02-01T11:23:19.848486+00:00",
+    "content": "(Bloomberg) A unit of chemicals giant INEOS announced it has received 500 million ($593 million) of additional funds in the form of new equity and credit lines, boosting its cash coffers ahead of an … [+4051 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Bloomberg",
+      "Ahead",
+      "Ineos",
+      "Unit",
+      "Funds",
+      "Maturity",
+      "chars",
+      "Fresh",
+      "Bond"
+    ]
   }
 ]
