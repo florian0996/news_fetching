@@ -83182,5 +83182,25 @@
       "engine",
       "driving"
     ]
+  },
+  {
+    "source": "Manchester United [NewsAPI]",
+    "url": "https://www.manutd.com/en/news/detail/noussair-mazraoui-fantastic-around-carrington-on-afcon-return",
+    "title": "Carrick: Nous deserves credit",
+    "fetched_on": "2026-02-01T07:38:26.974974+00:00",
+    "content": "Nous was given some extra time off to recover, having started all seven games in the competition for his country, but made his United return as a late substitute in Sunday’s win at Arsenal.\r\nOur head… [+249 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nous",
+      "Carrick",
+      "Arsenal",
+      "United",
+      "Sunday",
+      "recover",
+      "country",
+      "chars",
+      "deserves",
+      "credit"
+    ]
   }
 ]
