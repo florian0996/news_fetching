@@ -85095,5 +85095,80 @@
       "Premium",
       "ein"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-02/ben-black-takes-us-lending-agency-to-wall-street-with-nyc-office",
+    "title": "Ben Black Takes US Lending Agency to Wall Street With NYC Office",
+    "fetched_on": "2026-02-02T15:39:00.799970+00:00",
+    "content": "Fresh from a tripling of its financial resources, the Washington-based US International Development Finance Corp. is opening a Wall Street office to lure more private-sector talent and deals.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wall",
+      "Street",
+      "Office",
+      "Black",
+      "Lending",
+      "Agency",
+      "NYC",
+      "Fresh",
+      "Washington-based",
+      "International"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/madueke-awarded-goal-our-win-against-leeds",
+    "title": "Madueke awarded goal in our win against Leeds",
+    "fetched_on": "2026-02-02T15:39:00.132186+00:00",
+    "content": "Noni Madueke has retrospectively been credited with our second goal during our 4-0 win against Leeds United at Elland Road.\r\nThe winger, who was a last-minute addition to our starting line-up after B… [+876 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Leeds",
+      "Madueke",
+      "Road",
+      "win",
+      "Noni",
+      "United",
+      "Elland",
+      "goal",
+      "awarded",
+      "retrospectively"
+    ]
+  },
+  {
+    "source": "Libertyballers.com [NewsAPI]",
+    "url": "https://www.libertyballers.com/76ers-analysis/85435/joel-embiid-sixers-40-points-nba-all-star-reserves-tyrese-maxey-dr-glashow",
+    "title": "Dr. Glashow did a great job, but make sure to give Joel Embiid credit",
+    "fetched_on": "2026-02-02T15:39:00.132186+00:00",
+    "content": "If anyone needed any more evidence that Philadelphia is an insanely intense fandom, all you need to do is check the latest reviews of Dr. Jonathan Glashow. Sixers fans have flooded him with online re… [+3750 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Glashow",
+      "Joel",
+      "Embiid",
+      "Philadelphia",
+      "Jonathan",
+      "job",
+      "fandom",
+      "chars",
+      "great",
+      "make"
+    ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/news/much-bigger-could-sofis-lending-152600600.html",
+    "title": "How Much Bigger Could SoFi's Lending Business Get? You Might Be Surprised",
+    "fetched_on": "2026-02-02T15:39:21.495475+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bigger",
+      "Lending",
+      "Business",
+      "Surprised",
+      "SoFi"
+    ]
   }
 ]
