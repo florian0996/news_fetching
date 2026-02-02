@@ -84556,5 +84556,85 @@
       "Montag",
       "Februar"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-02/data-center-demand-doesn-t-add-up-video",
+    "title": "The Utilities Analyst Who Says The Data Center Demand Story Doesn't Add Up | Odd Lots",
+    "fetched_on": "2026-02-02T09:53:47.315310+00:00",
+    "content": "Utilities analysts are having a moment as the energy sector gets a boost from AI. With an extra 94 gigawatts forecast to be needed by 2030 to power all these data centers, energy investment has become a hot play as investors take a \"picks and shovels\" approach. But one long-time utilities analyst says that -- from a utilities perspective -- we're already set to overbuild capacity by twice as much is needed. Andy DeVries, head of investment grade credit and head of utilities and power at CreditSights, talks to us about the math behind his infrastructure overbuild analysis, who's been making money (so far) from the data center boom, and what we already see playing out in the credit markets. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Odd",
+      "Utilities",
+      "Data",
+      "Demand",
+      "Story",
+      "Add",
+      "Lots",
+      "Center",
+      "Analyst",
+      "energy"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2026-02-02/odd-lots-the-data-center-demand-story-doesn-t-add-up-podcast",
+    "title": "Odd Lots: The Data Center Demand Story Doesn’t Add Up (Podcast)",
+    "fetched_on": "2026-02-02T09:53:47.626773+00:00",
+    "content": "Utilities analysts are having a moment as the energy sector gets a boost from AI. With an extra 94 gigawatts forecast to be needed by 2030 to power all these new data centers, energy investment has become a hot play as investors take a “picks and shovels” approach. But one long-time analyst says that &mdash; from a utilities perspective &mdash; we’re already set to overbuild capacity by twice as much as is needed. On this episode, Andy DeVries, co-head of investment grade credit and head of utilities and po",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Podcast",
+      "Lots",
+      "Demand",
+      "Story",
+      "Add",
+      "Data",
+      "Utilities",
+      "Odd",
+      "energy",
+      "n’t"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/who-gains-or-loses-in-india-infrastructure-push-derivatives-tax/articleshow/127838523.cms",
+    "title": "Budget 2026: Who gains or loses in India infrastructure push, derivatives tax?",
+    "fetched_on": "2026-02-02T09:53:46.741818+00:00",
+    "content": "New Delhi: In her Budget 2026 speech on Sunday, Finance Minister Nirmala Sitharaman proposed the creation of an Infrastructure Risk Guarantee Fund aimed at providing partial credit guarantees to lend… [+5545 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "India",
+      "push",
+      "derivatives",
+      "tax",
+      "infrastructure",
+      "Delhi",
+      "Sunday",
+      "Finance",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/budget-infra-gets-a-leg-up-in-budget-2026-27-infrastructure-risk-guarantee-fund-capex-msme/articleshow/127837980.cms",
+    "title": "Infra gets a leg up in Budget 2026-27",
+    "fetched_on": "2026-02-02T09:53:46.741818+00:00",
+    "content": "The government will set up an Infrastructure Risk Guarantee Fund to calibrate partial credit guarantees to lenders, a move aimed at strengthening the confidence of private developers during infrastru… [+2582 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Budget",
+      "Infrastructure",
+      "Risk",
+      "Fund",
+      "Infra",
+      "lenders",
+      "infrastru",
+      "Guarantee",
+      "guarantees"
+    ]
   }
 ]
