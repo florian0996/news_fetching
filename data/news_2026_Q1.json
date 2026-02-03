@@ -88097,5 +88097,125 @@
       "market",
       "company"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-03/kaszek-endeavor-back-series-b-for-tapi-s-expansion-in-mexico",
+    "title": "Kaszek, Endeavor Back Series B for tapi’s Expansion in Mexico",
+    "fetched_on": "2026-02-03T19:48:56.283076+00:00",
+    "content": "Fintech startup tapi raised $27 million in a Series B round led by Kaszek Ventures as it looks to deepen its role in Mexico’s payments ecosystem and expand a network that allows consumers and businesses to move money across banks, digital platforms and physical retail locations.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Series",
+      "Mexico",
+      "Endeavor",
+      "Kaszek",
+      "Back",
+      "Expansion",
+      "Fintech",
+      "Ventures",
+      "tapi",
+      "raised"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/new-brunswick/daniel-bard-trial-moncton-accountant-trace-9.7070423",
+    "title": "Daniel Bard could sell 'the dream' to clients, ex-fiancée tells judge in fraud trial",
+    "fetched_on": "2026-02-03T19:48:54.731545+00:00",
+    "content": "When Lucie Boucher sat in on a meeting between Daniel Bard and perspective clients in Italy nearly eight years ago, she said even she was sold on his pitch for a complicated loan deal.\r\nWhen he talks… [+4973 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bard",
+      "Daniel",
+      "Lucie",
+      "Boucher",
+      "Italy",
+      "clients",
+      "sell",
+      "dream",
+      "ex-fiancée",
+      "ago"
+    ]
+  },
+  {
+    "source": "Federalreserve.gov [NewsAPI]",
+    "url": "https://www.federalreserve.gov/econres/feds/monetary-policy-exposure-of-banks-and-loan-contracting.htm",
+    "title": "FEDS Paper: Monetary Policy Exposure of Banks and Loan Contracting",
+    "fetched_on": "2026-02-03T19:48:54.731545+00:00",
+    "content": "February 2026\r\nMonetary Policy Exposure of Banks and Loan Contracting\r\nAhmet Degerli, Jing Wang\r\nAbstract:\r\nWe provide evidence that banks use loan covenants to prepare for future monetary policy tig… [+1432 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Policy",
+      "Exposure",
+      "Monetary",
+      "Banks",
+      "Loan",
+      "Contracting",
+      "FEDS",
+      "Paper",
+      "February",
+      "Degerli"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/savannah-guthrie-siblings-5501746/",
+    "title": "Savannah Guthrie’s Siblings: Does the ‘Today’ Anchor Have Brothers & Sisters?",
+    "fetched_on": "2026-02-03T19:48:54.731545+00:00",
+    "content": "Image Credit: GC Images\r\nSavannah Guthrie is close with her family. The Today co-anchor was born and briefly raised in Melbourne, Australia, where her father was stationed for work. As the youngest i… [+2370 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sisters",
+      "Siblings",
+      "Today’",
+      "Brothers",
+      "Guthrie",
+      "Anchor",
+      "Savannah",
+      "Australia",
+      "Credit",
+      "Melbourne"
+    ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/movies/news/chris-evans-captain-americas-return-was-reportedly-cut-from-2025-mcu-movie-post-credits-scene/",
+    "title": "Chris Evans’ Captain America’s Return Was Reportedly Cut From 2025 MCU Movie Post-Credits Scene",
+    "fetched_on": "2026-02-03T19:48:54.731545+00:00",
+    "content": "Chris Evans will return as Steve Rogers/Captain America in Avengers: Doomsday but reportedly, fans almost got to see him onscreen again before that. The rollout to Doomsday has been slow and steady, … [+4715 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Captain",
+      "America",
+      "MCU",
+      "Rogers",
+      "Avengers",
+      "Chris",
+      "Return",
+      "Reportedly",
+      "Evans’",
+      "Cut"
+    ]
+  },
+  {
+    "source": "CNBC Top News [RSS]",
+    "url": "https://www.cnbc.com/2026/02/03/billionaire-trader-jenny-just-poker-strategy.html",
+    "title": "Billionaire trader, poker player Jenny Just says one skill could have saved her a decade of early losses",
+    "fetched_on": "2026-02-03T19:49:23.998393+00:00",
+    "content": "Self-made billionaire Jenny Just uses poker as a training ground for risk assessment and decision making, and she's on a mission to teach girls to play.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Jenny",
+      "Self-made",
+      "Billionaire",
+      "poker",
+      "trader",
+      "making",
+      "play",
+      "player",
+      "skill",
+      "saved"
+    ]
   }
 ]
