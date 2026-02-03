@@ -1,6 +1,17 @@
 {
-  "2026-02-02": {
+  "2026-02-03": {
     "status": "no company in the news"
+  },
+  "2026-02-02": {
+    "articles": [
+      {
+        "title": "FW: Defence tech’s government gigs",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-01": {
     "status": "no company in the news"
