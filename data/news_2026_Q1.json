@@ -86594,5 +86594,65 @@
       "card",
       "rewards"
     ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "https://www.arsenal.com/news/loan-watch-vieira-stings-bayern-gale-fires-brace",
+    "title": "Loan Watch: Vieira stings Bayern, Gale fires brace",
+    "fetched_on": "2026-02-03T07:44:18.137181+00:00",
+    "content": "Fabio Vieira and Hamburg made their mark against runaway leaders Bayern Munich on Saturday, as the Portuguese midfielder converted a penalty to open the scoring at a buoyant Volksparkstadion.\r\nDepite… [+4075 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vieira",
+      "Bayern",
+      "Watch",
+      "Gale",
+      "Saturday",
+      "Volksparkstadion",
+      "Fabio",
+      "Hamburg",
+      "Munich",
+      "Portuguese"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/top-luxury-campaigns-of-2025-luxury-daily-2/",
+    "title": "Top luxury campaigns of 2025: Luxury Daily",
+    "fetched_on": "2026-02-03T07:44:18.137181+00:00",
+    "content": "Bottega Veneta released Craft is Our Language in May 2025, celebrating the 50th anniversary of its iconic Intrecciato leather weave. Image credit: Bottega Veneta In 2025, luxury brands navigated a la… [+24716 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bottega",
+      "Veneta",
+      "Daily",
+      "Craft",
+      "Language",
+      "Intrecciato",
+      "luxury",
+      "Top",
+      "celebrating",
+      "anniversary"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/apple-news-and-ios-26-3/",
+    "title": "New Privacy Tools in iOS 26.3: Everything in Apple News This Week",
+    "fetched_on": "2026-02-03T07:44:18.137181+00:00",
+    "content": "Apple’s iOS 26.3 represents a significant update, blending performance enhancements, new features, and ongoing challenges, particularly for older devices. This release underscores Apple’s dedication … [+7179 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apple",
+      "iOS",
+      "Privacy",
+      "Tools",
+      "Week",
+      "represents",
+      "update",
+      "blending",
+      "enhancements",
+      "features"
+    ]
   }
 ]
