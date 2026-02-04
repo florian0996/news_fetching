@@ -88980,5 +88980,85 @@
       "Language",
       "birth"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-04/mufg-profit-rises-as-boj-s-rate-increases-bolster-lending-income",
+    "title": "MUFG Profit Rises as BOJ’s Rate Increases Bolster Lending Income",
+    "fetched_on": "2026-02-04T07:46:30.435011+00:00",
+    "content": "Mitsubishi UFJ Financial Group Inc.’s profit rose in the third quarter as higher interest rates boosted lending income.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MUFG",
+      "Lending",
+      "Income",
+      "Profit",
+      "Rises",
+      "BOJ",
+      "Increases",
+      "Bolster",
+      "Mitsubishi",
+      "UFJ"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/football/articles/ce8g7rr30zro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "Wolves come out of a difficult window with credit",
+    "fetched_on": "2026-02-04T07:46:29.472779+00:00",
+    "content": "Wolves had to tread carefully this window.\r\nThey needed to start preparing for next season but if they sold too much of the silverware it would look like they were surrendering too early.\r\nWith releg… [+1321 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wolves",
+      "window",
+      "difficult",
+      "credit",
+      "tread",
+      "carefully",
+      "chars",
+      "early",
+      "releg",
+      "needed"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/muthoot-fincorp-aims-to-raise-600-crore-launches-new-ncd-issue/article70586389.ece",
+    "title": "Muthoot Fincorp aims to raise ₹600 crore, launches new NCD issue",
+    "fetched_on": "2026-02-04T07:46:29.472779+00:00",
+    "content": "Muthoot FinCorp Ltd has announced the launch Tranche I of secured and redeemable NCDs with a face value of 1,000 each. \r\nThe offering is intended to support lending and financing activities, repay in… [+899 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "crore",
+      "Muthoot",
+      "Fincorp",
+      "Tranche",
+      "raise",
+      "launches",
+      "NCD",
+      "NCDs",
+      "chars",
+      "aims"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/hohe-kosten-credit-agricole-aktie-italien-plaene-zehren-am-gewinn-15460966",
+    "title": "Credit Agricole-Aktie: Italien-Pläne zehren am Gewinn",
+    "fetched_on": "2026-02-04T07:46:54.586776+00:00",
+    "content": "<p>Im vierten Quartal verdiente das Institut gut eine Milliarde Euro und damit 39 Prozent weniger als ein Jahr zuvor, wie es am Mittwoch in Paris mitteilte. \"Wir haben sehr ehrgeizige eigenständige Ziele für <a href=\"https://www.finanzen.net/aktien/crédit_agricole-aktie\">Crédit  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gewinn",
+      "Prozent",
+      "Quartal",
+      "Institut",
+      "Milliarde",
+      "Euro",
+      "Jahr",
+      "Mittwoch",
+      "Paris",
+      "Crédit"
+    ]
   }
 ]
