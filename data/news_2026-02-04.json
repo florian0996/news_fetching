@@ -203,7 +203,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/funding-jumped-big-checks-ai-ye-2025/",
     "title": "Fintech Funding Jumped 27% In 2025 With Fewer Deals But Bigger Checks",
-    "fetched_on": "2026-02-04T19:39:59.011009+00:00",
+    "fetched_on": "2026-02-04T20:37:36.582675+00:00",
     "content": "Global venture funding to fintech startups climbed in 2025 to its highest level in several quarters, boosted by later-stage deals, Crunchbase data shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -223,7 +223,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/record-breaking-seed-funding-us-ai-eoy-2025/",
     "title": "Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead",
-    "fetched_on": "2026-02-04T19:40:01.655732+00:00",
+    "fetched_on": "2026-02-04T20:37:40.439713+00:00",
     "content": "The seed investment environment exhibited its typical quirkiness in 2025. In particular, it was a huge year for huge rounds. Predictably, it was also a banner period for AI dealmaking with the U.S. pulling in a bigger-than-usual share of total investment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -240,23 +240,23 @@
     ]
   },
   {
-    "source": "CNBC Markets [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2026/02/03/private-credit-stocks-plummet-on-concern-about-exposure-to-software-industry-disrupted-by-ai.html",
     "title": "Private credit stocks plummet on concern about exposure to software industry disrupted by AI",
-    "fetched_on": "2026-02-04T11:35:04.070732+00:00",
-    "content": "Shares of stocks with significant private credit market exposure were diving on fears about exposure to the industries being disrupted by artificial intelligence, including software.",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
+    "content": "Blue Owl signage outside the Seagram Building at 375 Park Avenue in the Midtown East neighborhood of New York, US, on Tuesday, Jan. 20, 2026. \r\nShares of stocks with significant private credit market\u2026 [+2183 chars]",
     "platforms_mentioned": [],
     "keywords": [
-      "exposure",
-      "Shares",
-      "Private",
-      "credit",
-      "disrupted",
-      "intelligence",
-      "including",
-      "stocks",
-      "software",
-      "plummet"
+      "Jan.",
+      "Park",
+      "York",
+      "Tuesday",
+      "Blue",
+      "Owl",
+      "Seagram",
+      "Building",
+      "Avenue",
+      "Midtown"
     ]
   },
   {
@@ -283,7 +283,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/03/rocket-companies-shares-jump-6percent-after-ceo-says-mortgage-loan-volume-is-surging.html",
     "title": "Rocket Companies shares jump 6% after CEO says mortgage loan volume is surging",
-    "fetched_on": "2026-02-04T19:40:02.573112+00:00",
+    "fetched_on": "2026-02-04T20:37:41.519938+00:00",
     "content": "CEO Varun Krishna said his company is poised to post its strongest mortgage loan production in four years after a drop in borrowing costs helped revive demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -303,7 +303,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/02/mortgage-delinquencies-housing-affordability.html",
     "title": "Housing affordability isn't just hurting buyers: More homeowners are falling behind on their mortgages",
-    "fetched_on": "2026-02-04T19:40:02.786000+00:00",
+    "fetched_on": "2026-02-04T20:37:41.660036+00:00",
     "content": "While the overall share of delinquencies among all mortgages remains small, the growth is occurring faster than late payments for other types of consumer loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -323,7 +323,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/28/fed-decision-mortgage-rates-credit-cards-loans.html",
     "title": "Fed holds interest rates steady: What that means for mortgages, credit cards and loans",
-    "fetched_on": "2026-02-04T19:40:02.786066+00:00",
+    "fetched_on": "2026-02-04T20:37:41.660097+00:00",
     "content": "From mortgage rates and auto loans to credit cards and savings accounts, here's a look at how the January Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -343,7 +343,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/26/fed-rates-may-hold-steady.html",
     "title": "Fed is likely to hold interest rates steady, resisting Trump pressure. Here\u2019s what that means for borrowers",
-    "fetched_on": "2026-02-04T19:40:02.786139+00:00",
+    "fetched_on": "2026-02-04T20:37:41.660152+00:00",
     "content": "From mortgage rates to auto loans and credit cards, here\u2019s a look at how the upcoming January Fed decision may affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/23/c-pace-cre-lending-record-deals.html",
     "title": "Why a niche category of CRE lending is suddenly seeing record deals",
-    "fetched_on": "2026-02-04T19:40:02.460053+00:00",
+    "fetched_on": "2026-02-04T20:37:41.427377+00:00",
     "content": "C-PACE stands for commercial property assessed clean energy and is a type of financing that differs from a traditional bank loan. It's seeing explosive growth.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/09/trump-orders-mortgage-bond-purchases-these-stocks-are-jumping.html",
     "title": "Trump orders mortgage bond purchases to lower rates. These stocks are jumping in response",
-    "fetched_on": "2026-02-04T19:40:02.460160+00:00",
+    "fetched_on": "2026-02-04T20:37:41.427467+00:00",
     "content": "Analysts are now weighing the actual impact for consumers and what the move means for lending stocks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/30/american-express-credit-card-high-spenders.html",
     "title": "American Express, credit card provider to the wealthy, wants even more high spenders",
-    "fetched_on": "2026-02-04T19:40:02.573153+00:00",
+    "fetched_on": "2026-02-04T20:37:41.519977+00:00",
     "content": "AmEx's strategy shift is the latest example of the K-shaped economy, in which wealthy consumers continue to spend freely while others rein in their expenses",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/23/warren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
     "title": "Sen. Warren blasts CFPB director for undermining Trump's credit card affordability push",
-    "fetched_on": "2026-02-04T19:40:02.573295+00:00",
+    "fetched_on": "2026-02-04T20:37:41.520120+00:00",
     "content": "Sen. Elizabeth Warren seized on contradictions within the Trump administration when it comes to his push to make credit cards more affordable for Americans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html",
     "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
-    "fetched_on": "2026-02-04T19:40:02.573309+00:00",
+    "fetched_on": "2026-02-04T20:37:41.520134+00:00",
     "content": "Private credit is expected to grow from $3.4 trillion in 2025 to an estimated $4.9 trillion by 2029. Wall Street is starting to raise alarms about the risks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/29/irs-refund-pandemic-era-penalty-tax-relief.html",
     "title": "IRS owes some taxpayers refunds for pandemic-era penalty tax relief, watchdog audit finds",
-    "fetched_on": "2026-02-04T19:40:02.786059+00:00",
+    "fetched_on": "2026-02-04T20:37:41.660090+00:00",
     "content": "An audit from a government watchdog alerted the IRS of the mistake and the agency took steps to credit the tax accounts affected by the oversight.",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/01/26/trump-credit-card-rate-cap-credit-score.html",
     "title": "Don\u2019t wait for Trump's 10% cap, Fed cuts \u2014 here's how to get a better credit card interest rate now",
-    "fetched_on": "2026-02-04T19:40:02.786152+00:00",
+    "fetched_on": "2026-02-04T20:37:41.660165+00:00",
     "content": "President Trump has called for a 10% cap on credit card interest rates. What to know to get a lender's best rates sooner.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2056,7 +2056,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-04/afreximbank-agrees-11-billion-loan-package-for-south-africa",
     "title": "Afreximbank Agrees $11 Billion Loan Package for South Africa",
-    "fetched_on": "2026-02-04T19:39:46.238499+00:00",
+    "fetched_on": "2026-02-04T20:37:22.000419+00:00",
     "content": "The African Export-Import Bank agreed to lend South Africa an initial $11 billion to ease funding pressures, support infrastructure projects and Black-owned businesses.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2677,7 +2677,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-04/milei-pushes-dollar-loans-for-all-ending-a-taboo-in-argentina",
     "title": "Milei Pushes Dollar Loans for All, Ending a Taboo in Argentina",
-    "fetched_on": "2026-02-04T19:39:46.383656+00:00",
+    "fetched_on": "2026-02-04T20:37:22.075966+00:00",
     "content": "President Javier Milei is looking to sweep aside one of Argentina\u2019s biggest financial taboos: offering dollar loans to people and companies that don\u2019t earn in dollars.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2717,7 +2717,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-04/distressed-software-loans-swell-by-18-billion-in-span-of-weeks",
     "title": "Distressed Software Loans Swell by $18 Billion in Span of Weeks",
-    "fetched_on": "2026-02-04T19:39:46.383644+00:00",
+    "fetched_on": "2026-02-04T20:37:22.075954+00:00",
     "content": "A selloff in software debt has pushed billions of dollars of loans into distressed territory, rapidly repricing a market amid the threat of AI disruption.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2917,7 +2917,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-04/afreximbank-chief-plays-down-fitch-junk-rating-downgrade",
     "title": "Afreximbank Chief Plays Down Fitch Junk-Rating Downgrade",
-    "fetched_on": "2026-02-04T19:39:46.238431+00:00",
+    "fetched_on": "2026-02-04T20:37:22.000351+00:00",
     "content": "African Export-Import Bank President George Elombi shrugged off Fitch Ratings\u2019 downgrade of the lender\u2019s credit to junk, saying its finances remain solid and it will continue to support government policy priorities.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3266,7 +3266,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-02-04/brookfield-s-bruce-flatt-on-succession-ai-and-strategy-video",
     "title": "Brookfield's Bruce Flatt on Succession Plan, AI and Strategy",
-    "fetched_on": "2026-02-04T19:39:46.095443+00:00",
+    "fetched_on": "2026-02-04T20:37:21.897207+00:00",
     "content": "Brookfield CEO Bruce Flatt discusses his future role at the company, his big bet on AI infrastructure and nuclear power, and his strategy for investing in the credit market. Brookfield Asset Management\u00a0named\u00a0Connor Teskey\u00a0CEO, freeing up Flatt to focus on his plan to turn parent company\u00a0Brookfield Corp.\u00a0into an investment-led insurer. He speaks with Dani Burger on the debut episode of \"Bloomberg Deals.\" (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -3286,7 +3286,7 @@
     "source": "Livemint [NewsAPI]",
     "url": "https://www.livemint.com/companies/deutsche-bank-group-stuck-with-software-loans-in-rare-hung-deal-11770143978256.html",
     "title": "Deutsche Bank Group Stuck With Software Loans in Rare Hung Deal",
-    "fetched_on": "2026-02-04T19:39:45.034209+00:00",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
     "content": "(Bloomberg) -- A group of banks led by Deutsche Bank AG has been unable to sell about $1.2 billion of loans backing the acquisition of a software provider the latest casualty of investor fears surrou\u2026 [+2141 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3406,7 +3406,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-04/howard-university-s-sharp-growth-reverses-in-5-enrollment-drop",
     "title": "Howard University\u2019s Sharp Growth Reverses in 5% Enrollment Drop",
-    "fetched_on": "2026-02-04T19:39:45.951174+00:00",
+    "fetched_on": "2026-02-04T20:37:21.819395+00:00",
     "content": "After years of setting records with soaring applicants and class sizes, Howard University is under financial pressure, according to Fitch Ratings analysts who lowered the school\u2019s credit outlook to negative this week.",
     "platforms_mentioned": [],
     "keywords": [
@@ -3426,7 +3426,7 @@
     "source": "Inside the Magic [NewsAPI]",
     "url": "https://insidethemagic.net/?p=814095",
     "title": "Multiple Disney Attractions Now Closed Through Busy Spring Break Season: No Reopening Date in Sight",
-    "fetched_on": "2026-02-04T19:39:45.034209+00:00",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
     "content": "A slew of Disney rides will be closing soon, affecting vacation schedules. Here\u2019s what you need to know.\r\nCredit: Dr Janos Korom, Flickr\r\nDisney Resort Closing Slew of Rides: No Opening Date in Sight\u2026 [+5744 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3446,7 +3446,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/perigold-olivia-palermo-announce-design-partnership/",
     "title": "Perigold, Olivia Palermo announce design partnership",
-    "fetched_on": "2026-02-04T19:39:45.034209+00:00",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
     "content": "Home furnishings\r\nFebruary 3, 2026\r\n A curated edit of Ms. Palermos interior picks is available to shop online. Image credit: Perigold \r\n By Kiran Gill for Luxury Daily News Service\r\nOnline luxury ho\u2026 [+4182 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3466,7 +3466,7 @@
     "source": "GlobeNewswire [NewsAPI]",
     "url": "https://www.globenewswire.com/news-release/2026/02/03/3231554/0/en/Granite-Credit-Union-Opens-First-Branch-in-Davis-County.html",
     "title": "Granite Credit Union Opens First Branch in Davis County",
-    "fetched_on": "2026-02-04T19:39:45.034209+00:00",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
     "content": "SALT LAKE CITY, Feb. 03, 2026 (GLOBE NEWSWIRE) -- Granite Credit Union has opened its new Clearfield Branch location, marking the credit unions 13th branch location, its fourth branch inside Rancho M\u2026 [+2843 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3486,7 +3486,7 @@
     "source": "What's on Netflix [NewsAPI]",
     "url": "https://www.whats-on-netflix.com/news/a-man-on-the-inside-picks-up-unexpected-season-3-renewal-at-netflix/",
     "title": "\u2018A Man on the Inside\u2019 Picks Up Unexpected Season 3 Renewal at Netflix",
-    "fetched_on": "2026-02-04T19:39:45.034209+00:00",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
     "content": "Picture Credit: Netflix\r\nGreat news for comedy fans: A Man on the Inside has defied the odds! Despite a quieter launch for its second season, Netflix has officially renewed the Mike Schur and Ted Dan\u2026 [+5619 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3506,7 +3506,7 @@
     "source": "Cheezburger.com [NewsAPI]",
     "url": "https://cheezburger.com/44190213/employee-refuses-to-send-template-to-shady-coworker-after-not-getting-proper-credit-for-helping-him",
     "title": "Employee refuses to send template to shady coworker after not getting proper credit for helping him out: 'I'm not sending him the file'",
-    "fetched_on": "2026-02-04T19:39:45.034209+00:00",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
     "content": "In any collaborative work environment, people are going to inevitably ask for support or advice on how to execute certain procedures. A seasoned employee might assist a new hire and provide a tutoria\u2026 [+957 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3541,6 +3541,144 @@
       "index",
       "IPO",
       "asset"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-jill-bidens-ex-husband-about-william-stevenson-his-murder-charges-5501907/",
+    "title": "Who Is Jill Biden\u2019s Ex-Husband? About William Stevenson & His Murder Charges",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
+    "content": "Image Credit: Getty Images\r\nFormer First Lady Jill Bidenwas married once before meeting her current husband, former President Joe Biden. Her ex-husband is William Stevenson, who made headlines in ear\u2026 [+2665 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stevenson",
+      "Jill",
+      "Biden",
+      "William",
+      "Credit",
+      "Getty",
+      "Ex-Husband",
+      "Murder",
+      "Charges",
+      "Lady"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/finding-her-edge-renewed-for-season-2-at-netflix/",
+    "title": "\u2018Finding Her Edge\u2019 Renewed for Season 2 at Netflix",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
+    "content": "Picture Credit: Netflix\r\nNetflix\u2019s adaptation of Jennifer Iacopelli\u2019s BookTok sensation sports-romance novel, Finding Her Edge, has secured its future on the ice. After a brilliant start on the platf\u2026 [+6722 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finding",
+      "Netflix",
+      "Season",
+      "Credit",
+      "Edge",
+      "Edge\u2019",
+      "Renewed",
+      "Picture",
+      "Jennifer",
+      "Iacopelli"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4365306/posts",
+    "title": "Astronomy Picture of the Day - Red Spider Planetary Nebula from Webb",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Red Spider Planetary Nebula from WebbNASA ^\r\n | 3 Feb, 2026\r\n | Image Credit: ESA/Webb, NASA &amp; CSA, J. H. Kastner (RIT)\r\nPosted on 02/03/2026 12:\u2026 [+2231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Red",
+      "Picture",
+      "Spider",
+      "Planetary",
+      "Nebula",
+      "Astronomy",
+      "Skip",
+      "Webb",
+      "Feb"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d15b3700-9840-4c40-86f5-694b40aeebc6",
+    "title": "Terrell Williams: Zak Kuhr \u2018deserves a lot of credit\u2019 for Patriots\u2019 D",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Williams",
+      "Zak",
+      "Kuhr",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Patriots\u2019"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-look-to-get-export-credit-lines-ready-as-us-lowers-tariff/articleshow/127894089.cms",
+    "title": "Banks look to get export credit lines ready as US lowers tariff",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
+    "content": "Kolkata: Banks are preparing to open fresh credit lines for export-oriented sectors with the US lowering import tariffs on Indian goods to 18%, said senior bank executives.Bankers expect the tariff c\u2026 [+2059 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kolkata",
+      "chars",
+      "Indian",
+      "credit",
+      "lines",
+      "Banks",
+      "tariff",
+      "export",
+      "ready",
+      "lowers"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/what-is-a-609-letter-to-remove-debt-what-borrowers-should-know/",
+    "title": "What is a 609 letter to remove debt? Here's what borrowers should know.",
+    "fetched_on": "2026-02-04T20:37:21.057141+00:00",
+    "content": "A 609 letter can be a useful tool if you're dealing with credit report errors, but it's not a cure-all for your debt problems.\u00a0\r\nNora Carol Photography/Getty Images\r\nAmericans are carrying over $1.23\u2026 [+5410 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "letter",
+      "remove",
+      "debt",
+      "Photography",
+      "Getty",
+      "Carol",
+      "Images",
+      "Americans",
+      "chars",
+      "borrowers"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/eldorado-gold-ratings-on-creditwatch-positive-at-sp-amid-high-gold-prices-93CH-4485894",
+    "title": "Eldorado Gold ratings on CreditWatch positive at S&P amid high gold prices",
+    "fetched_on": "2026-02-04T20:37:32.729953+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gold",
+      "Eldorado",
+      "prices",
+      "ratings",
+      "CreditWatch",
+      "positive",
+      "amid",
+      "high"
     ]
   }
 ]
