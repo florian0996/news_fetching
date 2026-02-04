@@ -1,6 +1,24 @@
 {
-  "2026-02-03": {
+  "2026-02-04": {
     "status": "no company in the news"
+  },
+  "2026-02-03": {
+    "articles": [
+      {
+        "title": "FW: Palantir culture spreads in Europe",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: $XXX Ticker Incoming",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-02": {
     "articles": [
