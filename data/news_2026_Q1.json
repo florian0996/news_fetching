@@ -88557,5 +88557,85 @@
       "card",
       "interest"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-03/hong-kong-property-bets-grow-as-private-credit-fund-doubles-down",
+    "title": "Hong Kong Property Bets Grow as Private Credit Fund Plans to Double Investment",
+    "fetched_on": "2026-02-04T02:12:11.354063+00:00",
+    "content": "A Hong Kong–based private credit fund aims to double its lending into distressed opportunities in the city, adding to a growing list of money managers positioning for further recovery after the deepest property slump in decades.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Kong",
+      "Hong",
+      "Private",
+      "Fund",
+      "Double",
+      "Property",
+      "Bets",
+      "Grow",
+      "Plans"
+    ]
+  },
+  {
+    "source": "WSB Atlanta [NewsAPI]",
+    "url": "https://www.wsbtv.com/news/local/atlanta/it-could-soon-be-harder-file-complaint-about-credit-bureaus/UJCCK7RPWNCANEMKYEKS4J56BA/",
+    "title": "It could soon be harder to file a complaint about credit bureaus",
+    "fetched_on": "2026-02-04T02:12:09.950112+00:00",
+    "content": "ATLANTA — A notice posted to the Federal Register has consumer advocates concerned that it could soon become harder to file a complaint with the federal government about issues with credit bureaus.\r\n… [+2867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Federal",
+      "ATLANTA",
+      "file",
+      "Register",
+      "harder",
+      "complaint",
+      "credit",
+      "bureaus",
+      "notice",
+      "posted"
+    ]
+  },
+  {
+    "source": "Europa.eu [NewsAPI]",
+    "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260203~5d990c4134.en.html",
+    "title": "January 2026 euro area bank lending survey",
+    "fetched_on": "2026-02-04T02:12:09.950112+00:00",
+    "content": "3 February 2026\r\n<ul><li>Banks tightened credit standards for firms, citing higher perceived risks amid lower risk tolerance</li><li>Credit standards eased slightly for housing loans, but tightened f… [+8749 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "credit",
+      "January",
+      "chars",
+      "standards",
+      "tightened",
+      "euro",
+      "survey",
+      "firms",
+      "citing"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/michelle-obama-documentary-becoming-back-in-netflix-top-10s-as-melania-hits-theaters/",
+    "title": "Michelle Obama Documentary ‘Becoming’ Back In Netflix Top 10s As ‘Melania’ Hits Theaters",
+    "fetched_on": "2026-02-04T02:12:09.950112+00:00",
+    "content": "Picture Credit: Netflix\r\nIt is uncommon for a documentary released nearly six years ago to organically re-enter the Daily Top 10s, but that is exactly what we are tracking this weekend with Michelle … [+3251 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Top",
+      "chars",
+      "Becoming’",
+      "Melania’",
+      "Credit",
+      "Netflix",
+      "Michelle",
+      "Documentary",
+      "Obama",
+      "Back"
+    ]
   }
 ]
