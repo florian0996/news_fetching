@@ -1,6 +1,31 @@
 {
-  "2026-02-04": {
+  "2026-02-05": {
     "status": "no company in the news"
+  },
+  "2026-02-04": {
+    "articles": [
+      {
+        "title": "FW: Inside the defence tech talent hunt",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "LendingClub Corporation (LC): A Bull Case Theory",
+        "url": "https://finance.yahoo.com/news/lendingclub-corporation-lc-bull-case-022629567.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      },
+      {
+        "title": "💡 Beleggen in 2026: 5 essentiële vragen voor uw je portefeuille",
+        "url": null,
+        "platforms_mentioned": [
+          "Mozzeno"
+        ]
+      }
+    ]
   },
   "2026-02-03": {
     "articles": [
