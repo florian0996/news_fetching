@@ -92139,5 +92139,143 @@
       "CRÉDIT",
       "table"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-05/historic-uk-tin-mine-lines-up-225-million-in-funding-from-us",
+    "title": "Historic UK Tin Mine Lines Up $225 Million in Funding From US",
+    "fetched_on": "2026-02-05T08:46:51.688986+00:00",
+    "content": "Cornish Metals Plc received funding interest from the US government’s export-credit agency that could underpin the restart of a historic tin mine in southwest England, which closed almost three decades ago.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "England",
+      "Tin",
+      "Mine",
+      "Funding",
+      "Lines",
+      "Cornish",
+      "Metals",
+      "Plc",
+      "ago"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-04/european-investment-bank-returns-to-turkey-with-energy-loans",
+    "title": "European Investment Bank Returns to Turkey With Energy Loans",
+    "fetched_on": "2026-02-05T08:46:52.114490+00:00",
+    "content": "The European Investment Bank is set to formally return to Turkey after a yearslong diplomatic fallout stemming from energy exploration in the eastern Mediterranean, reviving a key foreign source of financing for Ankara.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Investment",
+      "Bank",
+      "Turkey",
+      "European",
+      "Mediterranean",
+      "Ankara",
+      "Energy",
+      "Loans",
+      "reviving",
+      "Returns"
+    ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2026/02/04/nx-s1-5698499/three-sides-of-a-car-loan-update",
+    "title": "Riding with the repo man (update)",
+    "fetched_on": "2026-02-05T08:46:51.176384+00:00",
+    "content": "Planet Money book tour ticket info and dates here. \r\nA record number of Americans with poor or just okay credit are behind on their car payments. And once last year's numbers are tallied, an estimate… [+1108 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Planet",
+      "update",
+      "Money",
+      "Riding",
+      "man",
+      "repo",
+      "book",
+      "tour",
+      "ticket",
+      "info"
+    ]
+  },
+  {
+    "source": "Macworld [NewsAPI]",
+    "url": "https://www.macworld.com/article/3046323/never-lose-your-wallet-again-with-this-credit-card-sized-tracker-on-sale.html",
+    "title": "Never lose your wallet again with this credit card-sized tracker on sale",
+    "fetched_on": "2026-02-05T08:46:51.176384+00:00",
+    "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nTL;DR: The MagTag Ul… [+1545 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Skip",
+      "articles",
+      "commission",
+      "chars",
+      "lose",
+      "wallet",
+      "credit",
+      "card-sized",
+      "tracker",
+      "sale"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/capital-markets-must-lead-bond-market-growth-as-bank-credit-alone-is-insufficient-tuhin-kanta-pandey/article70590814.ece",
+    "title": "Capital markets must lead bond market growth, as bank credit alone is insufficient: Tuhin Kanta Pandey",
+    "fetched_on": "2026-02-05T08:46:51.176384+00:00",
+    "content": "Talking about Indias underutilised bond markets, SEBI Chairman Tuhin Kanta Pandey said, Capital markets must lead this growth, as bank credit alone is insufficient.\r\nSpeaking at the The Inaugural Pan… [+1832 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kanta",
+      "Capital",
+      "Tuhin",
+      "Pandey",
+      "insufficient",
+      "markets",
+      "SEBI",
+      "growth",
+      "bank",
+      "credit"
+    ]
+  },
+  {
+    "source": "Dealnews.com [NewsAPI]",
+    "url": "https://www.dealnews.com/Zalman-CUBIX-G-Micro-ATX-PC-Case-for-40-free-shipping/21807472.html",
+    "title": "Zalman CUBIX-G Micro-ATX PC Case for $40 + free shipping",
+    "fetched_on": "2026-02-05T08:46:51.176384+00:00",
+    "content": "morePlus, earn a $25 statement credit when you make a purchase of $250 or more using your Newegg Store Credit Card. Shop deals on games, PCs, peripherals, networking gear, smart home devices, and mor… [+20 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "credit",
+      "CUBIX-G",
+      "Case",
+      "Newegg",
+      "Store",
+      "Zalman",
+      "free",
+      "morePlus",
+      "earn"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/capital-southwest-expands-private-credit-212434915.html",
+    "title": "Capital Southwest Expands Private Credit Reach Through New Joint Venture",
+    "fetched_on": "2026-02-05T08:47:11.541168+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Venture",
+      "Southwest",
+      "Expands",
+      "Private",
+      "Credit",
+      "Reach",
+      "Joint",
+      "Capital"
+    ]
   }
 ]
