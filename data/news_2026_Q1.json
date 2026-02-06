@@ -94514,5 +94514,85 @@
       "Guerlain",
       "Deadstock"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-06/indonesia-cds-widen-most-in-months-after-moody-s-lowers-outlook",
+    "title": "Indonesia Assets Slide as Moody’s Outlook Cut Hurts Sentiment",
+    "fetched_on": "2026-02-06T04:48:24.922180+00:00",
+    "content": "Indonesia’s assets slid on Friday after Moody’s Ratings cut the country’s credit outlook to negative, adding to investor unease over fiscal risks and market liquidity.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moody",
+      "Indonesia",
+      "Assets",
+      "Outlook",
+      "Cut",
+      "Slide",
+      "Hurts",
+      "Sentiment",
+      "Friday",
+      "Ratings"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/odoo-addon-account-credit-control/18.0.2.0.1.5/",
+    "title": "odoo-addon-account-credit-control 18.0.2.0.1.5",
+    "fetched_on": "2026-02-06T04:48:24.009307+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "load",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension",
+      "network",
+      "issues"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/odoo-addon-account-banking-sepa-credit-transfer/18.0.1.0.0.3/",
+    "title": "odoo-addon-account-banking-sepa-credit-transfer 18.0.1.0.0.3",
+    "fetched_on": "2026-02-06T04:48:24.009307+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "load",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension",
+      "network",
+      "issues"
+    ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-news/chris-brown-sued-sensational-monalisa-song-royalties-1235511251/",
+    "title": "Chris Brown Sued by Songwriter Claiming Star Stiffed Him Out of ‘Sensational’ and ‘Monalisa’ Royalties",
+    "fetched_on": "2026-02-06T04:48:24.009307+00:00",
+    "content": "R&amp;B singer Chris Brown is facing allegations he cut a songwriter out of credit and compensation on his two songs “Monalisa” and “Sensational.”\r\nIn a new lawsuit filed Wednesday in Manhattan feder… [+1944 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Brown",
+      "Monalisa",
+      "Sensational",
+      "Chris",
+      "Sensational’",
+      "Monalisa’",
+      "Songwriter",
+      "Sued",
+      "Claiming",
+      "Star"
+    ]
   }
 ]
