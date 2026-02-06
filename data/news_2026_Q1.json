@@ -94871,5 +94871,65 @@
       "permit",
       "kill-switch"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-raises-1-billion-from-mufg-via-social-loan/articleshow/127928398.cms",
+    "title": "SBI raises $1 billion from MUFG via social loan",
+    "fetched_on": "2026-02-06T08:45:36.240461+00:00",
+    "content": "Mumbai: State Bank of India (SBI), the countrys largest lender by assets, has raised $1 billion (about Rs 9,100 crore) through a five-year loan from Japan's largest lender, Mitsubishi UFG Financial G… [+2481 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "crore",
+      "chars",
+      "Mumbai",
+      "State",
+      "India",
+      "Mitsubishi",
+      "billion",
+      "MUFG",
+      "Bank"
+    ]
+  },
+  {
+    "source": "Screen Rant [NewsAPI]",
+    "url": "https://screenrant.com/steam-free-store-credit-deal-trading-cards/",
+    "title": "Steam Gamers Just Realizing They're Sat On Free Store Credit",
+    "fetched_on": "2026-02-06T08:45:36.240461+00:00",
+    "content": "Steam has never shied away from offering plenty of complex new features or hidden deals that players can take advantage of, but some of the most lucrative opportunities are often overlooked by the av… [+3347 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Steam",
+      "Gamers",
+      "Realizing",
+      "Sat",
+      "Free",
+      "Store",
+      "Credit",
+      "shied",
+      "offering"
+    ]
+  },
+  {
+    "source": "Inside Higher Ed [NewsAPI]",
+    "url": "https://www.insidehighered.com/news/tech-innovation/alternative-credentials/2026/02/05/understanding-noncredit-students-goals-and",
+    "title": "Understanding Noncredit Students’ Goals and Motivations",
+    "fetched_on": "2026-02-06T08:45:36.240461+00:00",
+    "content": "Noncredit programs at community colleges draw millions of adult learners every year, but theres little research on who they are and what their goals are.\r\nA recent report from Rutgers Universitys Edu… [+4131 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Noncredit",
+      "Goals",
+      "Students’",
+      "Motivations",
+      "Understanding",
+      "year",
+      "chars",
+      "programs",
+      "community",
+      "colleges"
+    ]
   }
 ]
