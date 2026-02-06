@@ -94791,5 +94791,85 @@
       "Issuer",
       "Lowers"
     ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/news/uk-exporters-boost-economy-as-new-study-reveals-major-impact-of-export-credit-on-uk-industry",
+    "title": "UK exporters boost economy, as new study reveals major impact of export credit on UK industry",
+    "fetched_on": "2026-02-06T07:51:02.031253+00:00",
+    "content": "<ul><li>£23 billion was added to the UK economy through exports backed by UK Export Finance over the last five years, supporting on average 66,000 full-time equivalent jobs each year across key indus… [+4831 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "export",
+      "Finance",
+      "economy",
+      "industry",
+      "billion",
+      "supporting",
+      "average",
+      "full-time",
+      "indus"
+    ]
+  },
+  {
+    "source": "Hollywood Reporter [NewsAPI]",
+    "url": "http://www.hollywoodreporter.com/business/business-news/postproduction-tax-credit-assemblymember-nick-schultz-bill-1236495667/",
+    "title": "Postproduction Tax Credit: CA Assemblymember Nick Schultz Preps Bill",
+    "fetched_on": "2026-02-06T07:51:02.031253+00:00",
+    "content": "State Assemblymember Nick Schultz has committed to carrying a bill aimed at creating a standalone postproduction tax incentive in California, a field representative for his office announced at a town… [+4980 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nick",
+      "Assemblymember",
+      "Schultz",
+      "Tax",
+      "Credit",
+      "California",
+      "Bill",
+      "chars",
+      "Postproduction",
+      "Preps"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1963bfd1-4d34-46bd-8187-f31bb61a3f80",
+    "title": "Ethereum Lending Hits $28 Billion After Aave Proves DeFi’s Crisis Shield in Weekend Crash",
+    "fetched_on": "2026-02-06T07:51:02.031253+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Hits",
+      "Billion",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Lending",
+      "Aave"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/why-rbi-permit-kill-switch-phones-bought-on-loans-credit-expansion-privacy-nbfcs-11770195477948.html",
+    "title": "Why RBI should permit a kill-switch for phones bought on loans: It will aid credit expansion",
+    "fetched_on": "2026-02-06T07:51:02.031253+00:00",
+    "content": "After saying that the Reserve Bank of India (RBI) is evaluating whether to bring back the policy of allowing loan-financed phones on which repayments are interrupted to be locked as a method of enfor… [+5153 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "chars",
+      "India",
+      "Reserve",
+      "Bank",
+      "phones",
+      "loans",
+      "enfor",
+      "permit",
+      "kill-switch"
+    ]
   }
 ]
