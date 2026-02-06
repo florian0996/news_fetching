@@ -95211,5 +95211,286 @@
       "rates",
       "one-year"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-06/private-credit-stocks-keep-falling-as-software-wipeout-spreads",
+    "title": "Private Credit Stocks Keep Falling as Software Wipeout Spreads",
+    "fetched_on": "2026-02-06T13:04:15.716451+00:00",
+    "content": "The stock market rout this week that started in technology is quickly engulfing finance companies that invest in and lend to the software makers who are considered at risk from the development of artificial intelligence.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Software",
+      "Credit",
+      "Falling",
+      "Wipeout",
+      "Spreads",
+      "Private",
+      "intelligence",
+      "Stocks",
+      "stock",
+      "market"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-02-06/tech-debt-rout-kindles-private-capital-stress",
+    "title": "Tech Debt Rout Kindles Private Capital Stress",
+    "fetched_on": "2026-02-06T13:04:16.059431+00:00",
+    "content": "<p>Blistering selloff raises alarm on private&nbsp;equity and&nbsp;credit exposures</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stress",
+      "Blistering",
+      "Private",
+      "Debt",
+      "Rout",
+      "Kindles",
+      "Capital",
+      "Tech",
+      "exposures",
+      "selloff"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/05/3232913/0/en/AFC-Provides-60-Million-Senior-Secured-Credit-Facility-to-Support-the-Combination-of-STAT-Recovery-Services-and-The-Moresby-Group.html",
+    "title": "AFC Provides $60 Million Senior Secured Credit Facility to Support the Combination of STAT Recovery Services and The Moresby Group",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "WEST PALM BEACH, Fla., Feb. 05, 2026 (GLOBE NEWSWIRE) -- AFC today announced that its wholly owned subsidiary TCGDL LLC has closed a $60 million senior secured credit facility to STAT Buyer, LLC, a h… [+5757 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Fla.",
+      "Feb.",
+      "AFC",
+      "Senior",
+      "Secured",
+      "Credit",
+      "Facility",
+      "chars",
+      "BEACH"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/05/3232921/0/en/AdvanceIQ-ai-Launches-Risk-Portfolio-Intelligence-Platform-for-SMB-Lending.html",
+    "title": "AdvanceIQ.ai Launches Risk & Portfolio Intelligence Platform for SMB Lending",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "NEW YORK, Feb. 05, 2026 (GLOBE NEWSWIRE) --  AdvanceIQ.ai, a leading provider of risk and portfolio intelligence for the SMB lending and private credit market, today announced the launch of the AIQ P… [+3400 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Feb.",
+      "SMB",
+      "Portfolio",
+      "Intelligence",
+      "Lending",
+      "AdvanceIQ.ai",
+      "YORK",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/economy/agriculture/farmers-now-getting-loans-in-5-minutes-through-e-kcc-adityanath/articleshow/127936434.cms",
+    "title": "Farmers now getting loans in 5 minutes through e-KCC: Adityanath",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "Lucknow: Uttar Pradesh Chief Minister Yogi Adityanath on Thursday said digital governance has transformed the loan approval process in the state, enabling farmers to avail credit within five minutes … [+3252 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Lucknow",
+      "Uttar",
+      "Adityanath",
+      "Pradesh",
+      "Chief",
+      "Minister",
+      "Yogi",
+      "Thursday",
+      "e-KCC"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/news/live/nintendo-direct-partner-showcase-february-2026-live",
+    "title": "Nintendo Direct Partner Showcase live build-up: gearing up for the latest Switch 2 game announcements today",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "2026-02-05T13:02:38.411ZThe Duskbloods is a shoo-in\r\n(Image credit: FromSoftware)\r\nNintendo Swich 2 exclusive The Duskbloods is also a game that I expect to appear.\r\nWe haven't heard too much about t… [+3101 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Duskbloods",
+      "Nintendo",
+      "Switch",
+      "Image",
+      "Swich",
+      "FromSoftware",
+      "Direct",
+      "Partner",
+      "Showcase",
+      "build-up"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2026/02/05/trillion-dollar-tech-wipeout-ensnares-all-stocks-in-ais-path/",
+    "title": "Trillion-dollar tech wipeout ensnares all stocks in AI’s path",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "There have been many AI-driven selloffs in the three years since ChatGPT burst into the mainstream. Nothing, though, quite rivals the rout rippling through stock and credit markets this week.For one,… [+3865 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trillion-dollar",
+      "mainstream",
+      "tech",
+      "wipeout",
+      "ensnares",
+      "path",
+      "AI-driven",
+      "selloffs",
+      "years",
+      "ChatGPT"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/05/3232889/0/en/P10-Expands-into-Lower-Middle-Market-Direct-Lending-with-Acquisition-of-Stellus-Capital-Management.html",
+    "title": "P10 Expands into Lower-Middle Market Direct Lending with Acquisition of Stellus Capital Management",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "Established direct lender with a 20+ year track record will add approximately $3.8 billion in assets under managementLower-middle market focus a natural fit with existing P10 strategies \r\nDALLAS, Feb… [+8341 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Feb",
+      "Expands",
+      "DALLAS",
+      "chars",
+      "Market",
+      "Direct",
+      "Lending",
+      "Acquisition",
+      "Stellus",
+      "Capital"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/rogers-sugar-delivers-strong-first-quarter-results-driven-by-focus-on-execution-in-both-business-segments",
+    "title": "Rogers Sugar Delivers Strong First Quarter Results, Driven by Focus on Execution in Both Business Segments",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "We are funding the LEAP Project with a combination of debt, equity, cash flow from operations and our revolving credit facility. In connection with the financing plan for the LEAP Project, we issued … [+3825 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Results",
+      "Driven",
+      "LEAP",
+      "equity",
+      "Project",
+      "Sugar",
+      "Delivers",
+      "Strong",
+      "Quarter",
+      "Focus"
+    ]
+  },
+  {
+    "source": "Nakedcapitalism.com [NewsAPI]",
+    "url": "https://www.nakedcapitalism.com/2026/02/links-2-5-2026-html.html",
+    "title": "Links 2/5/2026",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "A hearing test for the worlds rarest sea turtle EurekaAlert!\r\nClimate/Environment\r\nFitch warns sovereign credit risk will rise with worsening climate events Intellinews\r\nHome values are rising fastes… [+7228 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Links",
+      "EurekaAlert",
+      "chars",
+      "Environment",
+      "hearing",
+      "test",
+      "worlds",
+      "rarest",
+      "sea",
+      "turtle"
+    ]
+  },
+  {
+    "source": "CryptoSlate [NewsAPI]",
+    "url": "https://cryptoslate.com/trend-research-has-already-dumped-112828-eth-and-the-next-aave-threshold-could-turn-this-unwind-ugly/",
+    "title": "Ethereum faces billion dollar sell pressure as top crypto fund faces $862M high stakes liquidation risk",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "A leveraged Ethereum position built by Jack Yi's Trend Research continues to unwind under pressure.\r\nThe position, assembled through Aave's lending protocol and reported to have reached roughly $958 … [+7225 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ethereum",
+      "Jack",
+      "Trend",
+      "Research",
+      "high",
+      "faces",
+      "pressure",
+      "chars",
+      "position",
+      "billion"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/european-investment-bank-returns-to-turkey-with-energy-loans",
+    "title": "European Investment Bank Returns to Turkey With Energy Loans",
+    "fetched_on": "2026-02-06T13:04:15.044592+00:00",
+    "content": "(Bloomberg) The European Investment Bank is set to formally return to Turkey after a yearslong diplomatic fallout stemming from energy exploration in the eastern Mediterranean, reviving a key foreign… [+3811 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Investment",
+      "Bloomberg",
+      "Bank",
+      "Turkey",
+      "European",
+      "Loans",
+      "Mediterranean",
+      "chars",
+      "Energy",
+      "reviving"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2026/02/06/trump-child-tax-credit.html",
+    "title": "How Trump's child tax credit changes could impact your refund this season",
+    "fetched_on": "2026-02-06T13:04:40.431535+00:00",
+    "content": "The maximum child tax credit increased to $2,200 in 2025 based on changes enacted via President Donald Trump's \"big beautiful bill.\"",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "tax",
+      "President",
+      "Donald",
+      "child",
+      "credit",
+      "based",
+      "big",
+      "bill",
+      "impact"
+    ]
+  },
+  {
+    "id": "76dd556e8d7737ec2bdf6a2f570462fa",
+    "source": "Luca Frignani | Exaloan <luca.frignani@exaloan.com> [Newsletter]",
+    "url": "",
+    "title": "FW: Claude Broke the Market",
+    "fetched_on": "2026-02-06T13:04:42.559458+00:00",
+    "content": "\r\n________________________________\r\nFrom: Exec Sum - Litquidity <news@execsum.co>\r\nSent: Friday, 6 February 2026 12:45:38 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna\r\nTo: Luca Frignani | Exaloan <luca.frignani@exaloan.com>\r\nSubject: Claude Broke the Market\r\n\r\nSince Claude broke the market, Claude can also fix it. So my intern worked through the night to vibe-code a solution 🤦  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌\r\n\r\nFebruary 06, 2026   |   Read Online<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaULUhy52s_CjvcQRQtzCJyr6LwsoCRkBlR_B6GsVTEmnuWa9lf0_bNizwOLKDgSREg9tTnyDD51Q0dh2XejjXoXt-N_RDFJtYG4d5bNah18mAp89tP8gRyGD-42lmYgRs9HrN0WRZ3Ee7_LocgsKw0kouVzR_7-D0D1PDjLGi59jdeRFwjuZuwo0imSeaVPD3OHBCCyex27l3tGFfDPq905uuBXVXcIIKffvqnLJlNJC2p0yZYLvI-XL2YEOf9aBTR7smZDQa96oppQfTVSjanz_eNtV5l3uPiKq2vAJhR_WWUZgV3zLzEmkrMbJR9M8LycqdZqnCKMDG2K6ztg-S4ekqSj9gnqJREEGOsnVhkM1OXlEQMbABaT88WX7uK5zkF5nGAmAhI6A4GTyNG7S9DcSFE-Ev-yu6uItfPv7fTy8eaho-OagMJ0lDniw_G9xU7DG63BB-P4S_Z6BMFPT3PCgAMbCcumprCNCckDur0dfGBpsojY8DI22YxhzKHy9QCKveCcSdjk7MSr2S9OurIVhsoofztjiD_1kZgbVD3SOq_ialzfi8GfCUffn3_685eEJ7jILlP0YrS9QJLvFWkrx4ze48X5uUBpcgydpeS4Tth80zWxkDEWWnRMluSyMFhKOG86OfMbACz-8yJ21LqeOwL8G4f2UgIrFmltyWD8Yl0UQT0QgHoAmaF6Ada4ff4A/4nx/Srd-CSrMSkGQ1t0dCma2-A/h0/h001.yMuwGMK4B4L8LTzDO36PzEM_6mO8NhRd3D-3js1wqfg>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5d1c85f6-4095-4ac4-98b0-914fad185202/Exec_Sum_V1__white_outline_logo_.png?t=1718247260]\r\n\r\n\r\nTogether with\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/872df1cb-760c-4cad-b55b-a547d5776a19/image.png?t=1770304938]<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUD1W8IwtDHehF4uU8J-ibltZCU_FbFHKYJnVmHG0cv0rPNqFJpiC1CoMJRY0TWL1kIDjNdDgQSzrSGpdl15QekHGY6Wxs5BLnrZ7XeLGV7bTWgzlhJpMxtIlw-eT9Knz2lTLhUFyfWPsrK_tedHgr91hcnQitI6NtGASlNlmOgdpUQqMER0ewc2xcTftrzVbBoM5ecRgP7axaLoLxqFtLhbbYiE0X7rGrg6adFV1EUP5hw_jnCyXq4Jmt-bg7IDmhqRHmuIiT8P6TO5-puYEbP4/4nx/Srd-CSrMSkGQ1t0dCma2-A/h1/h001.mt-4J6NviZhAqtO1bTIEqjNGPYsx0EujI7PWfZPEQOs>\r\n\r\nGood Morning,\r\n\r\nWall Street's favorite trades, from tech to metals to Bitcoin, collapsed. All it took was a Claude update.\r\n\r\nSince Claude broke the market, Claude can also fix it. So my intern worked through the night to vibe-code a solution 🤦\r\n\r\nimport Claude\r\n\r\ndef Plz_fix_market(broken market):\r\n    bull market = Claude.fix(broken market)\r\n    return (bull market)\r\n\r\nPrint(\"Ok Claude, {Plz_fix_market}\")\r\n\r\nThe flagship Wharton Online-Wall Street Prep Private Equity Certificate Program begins next week. If you've been debating it for some time, this is your sign to jump right in<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUD1W8IwtDHehF4uU8J-ibltZCU_FbFHKYJnVmHG0cv0rPNqFJpiC1CoMJRY0TWL1kIDjNdDgQSzrSGpdl15QekHGY6Wxs5BLnrZ7XeLGV7bTWgzlhJpMxtIlw-eT9Knz2lTLhUFyfWPsrK_tedHgr91hcnQitI6NtGASlNlmOgdpUQqMER0ewc2xcTftrzVbBoM5ecRgP7axaLoLxqFtLha4qzPomyoe8S_wwPnmtIkbKondJ9wRPB-DcDZO0wOkXrfiifZugootfNw8g56evcs/4nx/Srd-CSrMSkGQ1t0dCma2-A/h2/h001.6zuDx0J0M1m0aIWWEAPhLySkSuGB_DbizaZs4pZ4klo>. Our discount is still active!\r\n\r\nLet's dive in.\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/74cf1ad5-57ba-44c3-9546-cd89e7129556/Partner_with_us_logo_FINAL_V3.png?t=1722407247]<https://link.mail.beehiiv.com/ss/c/u001.KN74dixAkkSkzWlFDQrXGf8LL5nvLYQqRkIj4dn6AicN7n7_eipy3E5VOImK60rVrYOsb4ZrM8yg0Za2JAgd-of_ZxhkVMPoy1jF4jvXmHsvbYxpOtxQta_MIGZy6Tjd/4nx/Srd-CSrMSkGQ1t0dCma2-A/h3/h001.Y9WGOdZ2xx18oDQaqbn0b_SGGLpAVlExk8oFUWVd2X0>\r\nBefore The Bell\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5f686da2-b509-4c91-9f99-58a35ffa8864/image.png?t=1770333245]\r\n\r\nAs of 2/5/2026 market close.\r\n\r\nLearn more about the Litquidity portfolios and subscribe to the strategies on Autopilot<https://link.mail.beehiiv.com/ss/c/u001.CWXqVDYE-TGMc8RcZKyAmfgp_NhdeEVvsGSEL3xJXqpUie6Cs8K6-nYQCNATsmTZIU30DRzfuJxcr_0Y3NJ03sU6rCa5KKC7A3YbsRoaHnCF90SPy2sIQh9XzW6vBfOyfHpI2sam2mRI8crQxnDusw/4nx/Srd-CSrMSkGQ1t0dCma2-A/h4/h001.jqwimDxZqEfZ624X6EF4pIN73TpV9NYy-jwcACzHg2A>.*\r\n\r\nMarkets\r\n\r\n  *   US stocks continued their decline as sour jobs data amplified the software-led selloff\r\n\r\n     *   S&P 500 turned negative YTD\r\n\r\n     *   S&P 500 Software & Services index is down 18% YTD after shedding $1T in market value in one week\r\n\r\n  *   Dollar rose to a two-week high\r\n\r\n  *   Pound fell 0.7% on threats to PM Starmer's leadership\r\n\r\n  *   Silver erased its 62% YTD gain with volatility at 46-year highs\r\n\r\n  *   Bitcoin tumbled to its lowest since October 2024\r\n\r\nEarnings\r\n\r\n  *   Amazon missed Q4 earnings estimates but beat on revenue on 24% growth in AWS; the firm projected a massive $200B in FY CapEx (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjnCpcWL8WrcL2gTPqgAtC-CgNDRZ1LgjFKm1Vsk8FwBhxEhZmbJQD3LpQ-nB8M76IMv6aZvHfDUnZaP4d3F9dE4FjPel5I55T1rM9_UAYLaL4q22BbynGgsxD_Goj2IjH8/4nx/Srd-CSrMSkGQ1t0dCma2-A/h5/h001.JmyiiMFVYUMsC8zuudfUW4mohs5V3YVMfX6dLh2rfPU>)\r\n\r\n  *   KKR missed Q4 earnings despite AUM rising to $744B as the firm comes under pressure from AI and a 7% software exposure despite reassurances on risk management; the firm will acquire sports investor Arctos Partners (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrGOP_rwlJq-FhKxrs_TeTxNeq7NO2sY-oH4A_63j9KLzV715yrCD0fndjWC60qanrDm8uWX_6KiK-HUbE1bhlmSE6EevUXLlLGkxQCpJeet_X91j2ezYuJ2-4v3yWZEgX2WXRY4ldwgeh7XBG2zOxHjUpK6KdjHkaKirVUCvaKXM/4nx/Srd-CSrMSkGQ1t0dCma2-A/h6/h001.GRhWgMMHdOetnebuOshVTkJZ7_TMFmGxu8WBDJt4fvI>)\r\n\r\n  *   Ares missed Q4 earnings and revenue estimates but AUM hit a record $622.5B with the firm seeing opportunities in the software disruption (WSJ<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE5C1ymGBYCz568MGIwxqLOIyplotQZI6hqJOk35ZdHoZkyVYuPuKEhHjVoYUFQIBOJWD5wKor8cEkTAtcVqnoNI8P7p2I2m-Nr7s_fWFk0RJL56VLnxvy2OZiq3vaUWd-dUUDrwERsqCUnyj4QTeftWRmKIYfKtL9ShsmY2PP5LGWhfqr6hVjwu1PHOYZU21p-fPwiTuRN0J7ry_fzv5FmxIshs7lo0xGNt_pAxhnSL22ey4FnlCpFhQyPgJ2QK_oktvPQpAhNFQmQ2oO9Wr5okmQ8xf25roo20db6RMnE3F5X9CS5_1gYXXHofjbsGIcUfvUDE80q54vUWIHmHiOtTEYpEgr3tSs_SOsJkmnf1HocPveiR0Oqi-twoajeNG1I6BQrUsbcXnz2kiIEfLA61t3Vf50UunxgzoCeEErDzBukKbp7dlfkV7CiINFKz9w/4nx/Srd-CSrMSkGQ1t0dCma2-A/h7/h001.I-j08LHBTbBfFqVnQJyRra_k32S5E5kZUgDrGllrc9E>)\r\n\r\n  *   Shell missed Q4 results on its weakest profit in five years due to lower oil prices and a challenging market environment in Europe energy (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjlecJHOaEaQlJU9bEXcQlUC4MNxaHRA392ZKkwKBN84E5C-SVbtFsO2ACD8Pu-G75ZvkH7EoXkaCaX6n3qnwOIS7BbOWhiEzxCqYQvwSsv9Uw5JAVMhVcWUPvbpn_wmiZE/4nx/Srd-CSrMSkGQ1t0dCma2-A/h8/h001.MNiL4GadBDTNmET_VgxtePR3hZPy2nUbn62OFOYlAcw>)\r\n\r\n  *   Reddit beat Q4 earnings and revenue estimates and issued strong Q1 guidance on 19% global DAUq growth to 121.4M (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjlBKvN10oo-GX6XtrL7XtCBIoZPu8sPWsOB6kTyPGeIan451XK_DPncQ4Mfnh4vGx85tVn47DefkazUOO6GqEU_-zQYTdbAxCh6E7xG4DWr1Q/4nx/Srd-CSrMSkGQ1t0dCma2-A/h9/h001.1z6TMrvX0YJUViclsdt4Y5b6wdfhh4hE1BlN0ZLuPAs>)\r\n\r\n  *   Roblox beat Q4 revenue estimates with narrower-than-expected losses as bookings and DAUs rose (WSJ<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUAaBmZbeNRq2Vl_Z9zC_dGEr1EPXREoZhcZHY4T50YgvvCWYcAVkdNtHXelaTaQ53YIUS09p7QMaxLujkH_Xbkh5jh42JJV_o54YGg9KhaWMhnAckwoKJ5BetClSZXtxUM9YeM15eMPuVyfzWq7QiAS_8sz64Tm2E8lql3O01t65wnkeRoeJKwIYQv4EVJStN0piz0aJd6xZIbM4RqS0mjiHWkLRuwt6ldFt2wrLTt-UKp8vJg0FcpA7_RDdobq6dORUJeepxla3tUUWXDQ5Xsd4S8x6N-8-QkvxJMna1LAuol6Mpz4kHbGOsGZ9H8SMGM7wqywyCZBJFE4e73YtBmgfl08AWZwMl80aUarKoe-FXzusFUEg4gU2xwOs9yCdEPqLp7y-Gg17gPKpR2_Xm7QZ38W394PjKw4rQ-fUFadalyB_2fesT5BBNd9IuRkiSxJYSa87_pZHRtoNtAxFpNdqg2wWUnk3rcTDIeovY1_s/4nx/Srd-CSrMSkGQ1t0dCma2-A/h10/h001._VDSG3Fw5m7tnrHGTWojCGe7ZXYVEaTN4i_MVpzKtvc>)\r\n\r\n  *   Strategy beat Q4 revenue estimates but posted a $12B unrealized loss on its Bitcoin holdings (WSJ<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUAaBmZbeNRq2Vl_Z9zC_dGHb6lvH4nq9gqcgeWaRqvF-J1X5OAVyx3ncuhSOml0eeqOMj2KkZN6rVSDsr1COe6r6G_CqW19g0Z9IJTtTbswR7AkGPG54kpDjH54tYPbDz1qcSl67KkEjvHXcUSKNaJcqjoujivmwyCxioWlZcT4b2DfOML05qo6iT0ECRqo0zw/4nx/Srd-CSrMSkGQ1t0dCma2-A/h11/h001.rC8sQjZiva6NWM-0ulKSikuXphOhcYzKR5pD9HAIskQ>)\r\n\r\n  *   What we're watching this week:\r\n\r\n     *   Today: Toyota\r\n\r\n  *   Full calendar here<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUEpASBlKqRsE9vHsj7NGFERfRquo4rhfiyMX_2D4h5Q-ajdoPXa_c31mp5M0rhwVVk2-g2-sMzSeFK8TT8MRYqWl3XysdudLiWL4LjwNYRz1RXo-Uh5p9WUPHe-pQxcYjA/4nx/Srd-CSrMSkGQ1t0dCma2-A/h12/h001.5ahVeUNqFNSgbqbiuFuUwL63rRz-OrRWHYGOkolnfKU>\r\n\r\nPrediction Markets\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/05a6df13-f1ec-41f9-8754-03c5454e0f37/image.png?t=1770333406]<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB6YIIIVzubcxSS6IYQTvAVpNOMmx757XW5HYs8BRLP1YautZ3q0NSGFwZBx-HvWqjXPiQH96IBiTmzoPqCh01jpimulS24pxL58H_EkWQpTw/4nx/Srd-CSrMSkGQ1t0dCma2-A/h13/h001.2vfP-6kcDIbSuBXk-kusMhski-MN6t5r5Zb3iT5j4jQ>\r\n\r\n  *   Those predicting the return of Jesus Christ this year have outperformed Bitcoin investors over the past five years\r\n\r\n  *   Trade event contracts on Polymarket<https://link.mail.beehiiv.com/ss/c/u001.A8jt33RoOwlsc3GmmxwCB6YIIIVzubcxSS6IYQTvAVoR0_Redu2BTWIhWJoeJC_bPppUBbYxEV2L3Ap9yLGQ6p4QmtzKX1PmsmXT2pGe7Vq29ii3o38zq2YHJJw8aC2b/4nx/Srd-CSrMSkGQ1t0dCma2-A/h14/h001.CrxXHmDjBOUsf1EifhrRpcRGXg8hhXvKBVO13vyHHT0>, the world's largest prediction market\r\n\r\n\r\nHeadline Roundup\r\n\r\n  *   Clintons want Epstein testimony to take place in public (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjnkruiGUwsJ1GE3PfYF5wJjN40HhiuxXuucjie2lO2tHTIHmLL9Wcouvs9eopJ30qVPeDCg7TPhmrfyPumTuYAltyvzhEBV80vcuI8sx-cYEeFE4x-W5w1lfhQdPRdusjsh26ShizqV-JEpMqQogcbP5cW20sxCg2dNlR7MkxXD3g/4nx/Srd-CSrMSkGQ1t0dCma2-A/h15/h001.3ER5tjypW8Y698w1IcL0fFyvQvq1qJKeHwbqQ7gCB3o>)\r\n\r\n  *   Bessent won't promise that Trump won't sue Kevin Warsh over policy (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUEJ1f-WVLmL0PmKIQ46_EwIAqMCWI2AN9yn76ru2Lw3lwk5Rwbbz6HXJiGifzdGdb_z2pxR-zYqmL65kY_QXhtuZE4ggMir8wxn5ydHYyWNk_WLNzmKu_FT0VyPTWvUQ1YKVqZzygYJPrMN_uaNOj8l8sf9BFq-jkN-9Hhgq3k_hCZAUqeCrgSd0_hJlnNYfTqPjPm_xaRoJPzvQa8U6u4djuv_9VbOE1B1sKxgnYk-2/4nx/Srd-CSrMSkGQ1t0dCma2-A/h16/h001.co3r2hvIcOqKC85ORIVuUEAYLbhrYXsVJ8psgRku_z8>)\r\n\r\n  *   US job market is the worst since the Great Recession (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkGZCr0gcDt6UX-rP0wWuFfWyObLzIB-I4xRKQlo39s3iXggLymHGQVElXFTMfItH2s7kkK4LpanSk_9mVAeKvUMGr2vbFGQ04PGJzK4K1vWtwt3mPmrnzPKy6yNymmSPjRrBpcbhgDxGVNOhTFLDKb4tAe0EWdWQn603dzQ0bvnFtT5YizVqQKXCDwqwyM3UAs/4nx/Srd-CSrMSkGQ1t0dCma2-A/h17/h001.1_RZu_C7dodneoytp9okSqGfp5ss97fyYP1JEMa8WSI>)\r\n\r\n  *   ECB held rates steady at 2% (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjnJFDribJYaL50pgPVYa-St6DJH7ruXTzBPtVDIEF_CmDvcZKwBdRCHVrPd-KlFj-xPV6elPEF3Uw2AqPZRNmlkpINwY4_6lAdKLD3-tTSkRr5q2zK9g4xtt3TKjXixyxar3QcRzCVTu_ypgHfYgNx9/4nx/Srd-CSrMSkGQ1t0dCma2-A/h18/h001.pGqnIbV_SIAsoQWGDs4nZNR-1YVbURdisDgav4K9O_g>)\r\n\r\n  *   BoE held rates steady at 3.75% (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjmoIxbHva9zcK4D-2lGrOhwbsbSvvOWa67ZvuxzYETnJqE3EtnPrXshFQ2_E6LxBa-gQ14ezctGGnGyJpV2QmYFN1KayQUwDNMsRmA6Kdaq2QR-GRQU9gBHt2YcHEaOlY2si33PiBZlo-Y9bMg58o1gu5ZNOcFkfvFyBJ0QR51AuA/4nx/Srd-CSrMSkGQ1t0dCma2-A/h19/h001.gDqHpHsLr3Ebv20ynzt__XSgEotllLR4NylwpvHHkzM>)\r\n\r\n  *   Wall Street's favorite trades are collapsing (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrmuTdUrSOrJdQtT_UwtWRTmMCJhjRfgBhi2HBtRksqJbwDhuW33CYpUdKqQ6FF166EPIJYEsX6FzCr-_Tpp5hSewmBMk9jkG4P7i4uKYm6dbr3fsRkR-6rMtXjknby0nKp1-KrCRtGGnOTUMCYOS56G0PXm0cYqxM1ITnUAA0cDtyqlZYNVFi-mg_xfVEAUV9F0Nbhh5wDGGLXzqwvSlA6Q/4nx/Srd-CSrMSkGQ1t0dCma2-A/h20/h001.FPCEMZkIs9V3FW_LtltIwIXPjV1siNbu02sLt5It4Hg>)\r\n\r\n  *   Anthropic's AI tool sparks selloff from software to broader market (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrMZe56nLdE9-6x-bYNVtmfty4bEbG5kw64nEdih9-zUixvIE1Nt18cKxHhk-jJHHT2GGdKRkMjS3bA9xYN0tKPLROpU2eKlBx3uK6l5szhyYXOKEUosqrTGA-3Ultw9ZhLQIv36JDPnSrM5ZxmAkFetPpf1dg6YIxEAPcE5atETY/4nx/Srd-CSrMSkGQ1t0dCma2-A/h21/h001.40JbeLi6tJvLwWJhDsvW27J7Yu4IIFc2WhaprEf0u1M>)\r\n\r\n  *   $1T software wipeout ensnares all stocks in AI's path (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLryubYSVLeWVYRiRt9D0nPE0ePmUif1gOzWValioc95h5R8nJtnzNaVNbybJDlMsHLSXn5qiMd_rUZe57k9AH3BffUw5UYtqOKYHGJVTqeR3zuBPQl6h-HueWzn8lDpEajJdmBm_SxYMfXMqGKaZMNcys9c8kGIRx5wagPeZYyolw/4nx/Srd-CSrMSkGQ1t0dCma2-A/h22/h001.mi1EFxccvNmv0nXehzr_N9zb-tw1dGACiGnJGAHB1ZE>)\r\n\r\n  *   Dip-buyers go missing as software selloff slams stocks (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaULgunTj68TqRJciEY1mgT5AV-ggITSXTdWAdLHHXsFs2AEDnkv8HxakPlnfNhqjGJLoYGXl7su0HSrCalKv-6m-t2uuWasrzixvWgr9iuZp1nrSzpXP3FMT6qDrn26BJdeZVyLyNWD6nb6Li7BC48ndOmhmUzlHc-x9gRnUdOh6Lnb-QKxzfM3bPHTTEtPUMzw/4nx/Srd-CSrMSkGQ1t0dCma2-A/h23/h001.Me-wM6HTsUIJSWgQJpoa6SsjwGzWKMG3VMqcir_A5WQ>)\r\n\r\n  *   Stock-picking hedge funds had their worst day in a year (RT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUAmsuLzeHNALtCSJ5ZQq8obsor3hALQ5wnLJlOnIkisgVs4tXmJHJLkJnQIzsr_yYCwJEBCk0kWMi3uMT_6RWOPmragJRkbZcP3MWMFi5Dbb96TMT94zegjcfYyvveg2A2HA3-JH_AZkjMkwBxqiW6ZO7NhoWu_8CKMIa8O40FPhvv1ErVnRiNg5pj7i0TaFShYyeXflixLbeHFRg3ItLVk_aKtiHgpG5doFVny8cvmZ/4nx/Srd-CSrMSkGQ1t0dCma2-A/h24/h001.hHq6GMrF-SDoNrYoxTGod9v7dnLZuvxISWMUYtcUfCE>)\r\n\r\n  *   Short sellers raised software shorts after $24B profits (CNBC<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUE0m5n1DW7r6WLhbMf3OLjkalqSg9YbTDgmgp6dgEzt5cI6YBcFSlQFAl_U6xw6bsqDSemucXZlZID2563B6_FcVvEwliTbyayd3spqj07RxcSfDIM41g7xxzLJUHXOsIjlazIGmgqVlIMGDXzosRAKKcyH3OKvizjkQPPc2wK0Lli19b_n4b3ahhkFCRPCh4x7BjHC6xVTQGvrrwmjWmrvSmLkF_vGMnTb6e_LceJit/4nx/Srd-CSrMSkGQ1t0dCma2-A/h25/h001.HOYXcc4RqnLDcIqpvpSZXcj6gTr7F3Lhx5QMhoPJKxY>)\r\n\r\n  *   Options traders pile into tech hedges after software rout (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrW5jzYqBP3s38hpWF3rgOyTLeJldHFhhBWHDI2KsXw_sopHqvIVlrNHIj6Cl47d9I_A-e2tgIdbg-UL8kr9S_XsrJI-8LhO0Bcd7Lzz8NBOGYulL-c2Hw1q0xeRMsoPUEQvQuSuY-nwfQKHb2qS4D3_RG__W46y1wkPO0jcNGFzhg2cGLq2xGWbmfnqXiQkjZ/4nx/Srd-CSrMSkGQ1t0dCma2-A/h26/h001.GvICaDkuiJE8gDZvTamIl6B1fPGq6JpXuhz_7My6FMQ>)\r\n\r\n  *   PE megafunds rush to defend software companies as AI rout deepens (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrOacxT2kK42SGgjhTGl3Z2jc3comA-1f-ZirYJAsHTXDfXfSJ44CK6Ke4VzpsFclsaZYWoiw45eWrbE3q8Z14_mXhdLjgfWw3oaenMEzFIEb5MTl8pxiF71v_cN08JnsskPqK64J4wZzovdra8n1HlQpe0aXcOAi8X2gZFg1Qz4Zr6petg6A8XUToF_lbB6GL/4nx/Srd-CSrMSkGQ1t0dCma2-A/h27/h001.QAo8GAE5fY58pEd6n0CtkC73wzGHdx3sGB7OK-i0D9M>)\r\n\r\n  *   PE stocks sunk on AI and software worries (FT<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUCnWMPhd9zlqHhb96Hl0WTklgBHAZI5xNL2kVqA2L_2iW5h5NNAKvkm9MR3lUHfFhbbSXX6ROMxOOCeMItq9Art4GXBxj_53Qc9r36_Lk69oI3gTJjoXWOLGj1g4m2UUITMQc4jrpdZx6WLWvb7Zr4U/4nx/Srd-CSrMSkGQ1t0dCma2-A/h28/h001.UGet0Rf2zu-OukTA48kYWLQPWnlvVtOIq4hby5aSVDk>)\r\n\r\n  *   Hedge funds close to new cash as LPs rush to invest (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrexe1d6xzFGZIEP4uVpguaJWqfUXyLDnumwLY66znpemaUKY71C5g77J8Rzu5ccFUm1nco_NCwULwQRbR4cFYIgQa6X7XN2gU7op_2rcHqMOzUSWVT3H1wUqJ_DL_Ehbrl8yhExbojLk7Q1rbNj8yWYCcE43KKfm_mSKBen7aXFE/4nx/Srd-CSrMSkGQ1t0dCma2-A/h29/h001.N4ShfdV1xOwl_QZDY0jM6DLo1YOO1YpQ22X7gv5_ylk>)\r\n\r\n  *   Crowded swap spread widener trade faces risk of rapid unwind (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLr1HuPMViT-ehzESJyf79rXR-8SVReA-rIAS6xIswC-wQ5LG38R2JyvDUCtOTNoHdOpou91k3evrkKFpJimd1ofcZ4CaoZyE77o55vIjhD_FT64d7VGTBdBie7kEgyhVlAV3gx-kWUEhwfZ2mXZEd6efQ1wzup-678GsCoibsId_Q/4nx/Srd-CSrMSkGQ1t0dCma2-A/h30/h001.QvFOTANsYYXZXFJXvjaUxIuKTEVtWRKX31HgCriWEXo>)\r\n\r\n  *   Oracle's blockbuster bond sale may spur AI borrowing rush (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLr6BL6slXh1js0SHVUFlqnUwq-evx0s70n5O0-d1CU3WyuF4Bi6YRt7FAFDoHN4btGqvTg-RZPosYkalQyMRdY3IDXWIGtoQ_DalQM4lNY4bKDHmZnkAhygpexWHh9z-BFfnxzW0Tt_4UeKPaeAlGgBW7WWvQMfC4Hq3XNyFOnNsteirrcMFXQpseXPiEZaenc/4nx/Srd-CSrMSkGQ1t0dCma2-A/h31/h001.PEmDq0FtAkN3MLH78322hQoJ17tzdqfcfx-sFp6nQoo>)\r\n\r\n  *   UBS IB units to see bonus pools jump by 20% (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrEdXC2hg31I5028AzlXoFUucS8O18nci9CnidnUNGDqv5Z0zii3DA5ShjmrBqHTrC5u-2MnpUoQm2mtlaCL7cN2CLjmBH-rJi5HqCE8sUjGKEIVEm90TgspQhSZtMk2AkKpz6j9UaqokMmXuoStbUOlMGc0rSFu7ggmz6417h8XfsVKVIp8q3qkLMs3mvsaxC/4nx/Srd-CSrMSkGQ1t0dCma2-A/h32/h001.CtnbBAZbMXUF9XS70CITK44PmdIJx-aD5q3zep6IWLU>)\r\n\r\n  *   Vanguard poached ten directors from BlackRock and Goldman (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLriqFHl7uZcNuLskjxLl9QY9EailYyINpZ5EO-Yd0BVhePO5z6wwHjWcEM-Jv5PmKikVIuU-dh0Xkzjl_v0sKrMOc9zAq9JJxZJR_Jcb47cMLZ848dCbaEhleANp93VMmKERZMJVqtHaaC0YbwYt_VBmLQAZ_uoBLTBUgsUZgyueJ7lF6esEU1j1yQXxjia2dY/4nx/Srd-CSrMSkGQ1t0dCma2-A/h33/h001._8ixEcvepuEsDS-mvS3yV3QIiWXqHqT_70NVs7bHYu4>)\r\n\r\n  *   Dubai's financial hub posts record growth on hedge fund boom (BBG<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkEg6DbkFzbhBBcwSL-M_QLrK86pZPQSdjDLuSVLoZ53_9r0hMS5joCDe0AQdt_4t8ywRuB4APIJQE-MdEhzKfqxskB3eSGe5BD95PaC2fB_CDWZV1Bq7lHXJw8F0xdNeSCkPrT8U2E3bLppeGBotfnEqWUG1W5NSBEEJRbLOdHe1auR3IzFBxB-tIrjv7nhIuA9HEb3OAaGsuda3mWG06kq/4nx/Srd-CSrMSkGQ1t0dCma2-A/h34/h001.wwg5KEtdYTUeycc7TSo3GkYlqgUzI77zhaL4S8dxOh8>)\r\n\r\n\r\nA Message from Wall Street Prep\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/00764b6f-d525-4e21-bc9c-17653ca14451/image.png?t=1770304897]<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUD1W8IwtDHehF4uU8J-ibltZCU_FbFHKYJnVmHG0cv0rPNqFJpiC1CoMJRY0TWL1kIDjNdDgQSzrSGpdl15QekHGY6Wxs5BLnrZ7XeLGV7bTWgzlhJpMxtIlw-eT9Knz2lTLhUFyfWPsrK_tedHgr91hcnQitI6NtGASlNlmOgdpUQqMER0ewc2xcTftrzVbBoM5ecRgP7axaLoLxqFtLhangpXKuQlxQBei77pLXNPSabVq2b-0qpOC3TDMwNFdP0XxdHY3SiLEwd1o3qwcKU0/4nx/Srd-CSrMSkGQ1t0dCma2-A/h35/h001.hYiOEFtkQ40u0G_ni4e1IhTwcwe_2V1pn6_rqkmwYdw>\r\n\r\nThe insider's guide to investment committee nobody tells you.\r\n\r\nThe 8-week Private Equity Certificate Program<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUD1W8IwtDHehF4uU8J-ibltZCU_FbFHKYJnVmHG0cv0rPNqFJpiC1CoMJRY0TWL1kIDjNdDgQSzrSGpdl15QekHGY6Wxs5BLnrZ7XeLGV7bTWgzlhJpMxtIlw-eT9Knz2lTLhUFyfWPsrK_tedHgr91hcnQitI6NtGASlNlmOgdpUQqMER0ewc2xcTftrzVbBoM5ecRgP7axaLoLxqFtLhZ9haDge8WsS1u6vr-KT1Qz8MVv9iIGzkrRV3-VoHANUsbiZW1GfCMkm7kZqjWLjDg/4nx/Srd-CSrMSkGQ1t0dCma2-A/h36/h001.FwSbkV8QyJoLQEYaBp88AoLtHS6eNPC2kMaJfyJmReM> from Wharton Online + Wall Street Prep delivers the same training used at Blackstone, KKR, and other top firms.\r\n\r\n  *   Join LIVE office hours with Wharton Business School faculty to pressure-test ideas and ask questions.\r\n\r\n  *   Earn your certificate from Wharton Online + join an optional closing ceremony in NYC!\r\n\r\n  *   Get lifetime access to program materials, invites to meet-ups, and networking sessions\r\n\r\nEnroll today<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUD1W8IwtDHehF4uU8J-ibltZCU_FbFHKYJnVmHG0cv0rPNqFJpiC1CoMJRY0TWL1kIDjNdDgQSzrSGpdl15QekHGY6Wxs5BLnrZ7XeLGV7bTWgzlhJpMxtIlw-eT9Knz2lTLhUFyfWPsrK_tedHgr91hcnQitI6NtGASlNlmOgdpUQqMER0ewc2xcTftrzVbBoM5ecRgP7axaLoLxqFtLhaJTT3intsxh9pTlFqB6T-jiY4JYYZDjGZzilEVFWO-sQzWaEhlKyj4UsSUfaYwNTg/4nx/Srd-CSrMSkGQ1t0dCma2-A/h37/h001.Ygj4lrCvsEgtdVRrf-VCOpK697O0N4lhgZ506gFn48Q> to join the next cohort starting February 9.\r\n\r\nCode LITQUIDITY saves $300 off tuition.\r\n\r\n\r\nDeal Flow\r\n\r\nM&A / Strategic\r\n\r\n  *   Mining giants Rio Tinto and Glencore canceled their $260B merger plans\r\n\r\n  *   Canada's CPPIB and OMERS are seeking to sell their 33% stakes in UK's biggest ports operator Associated British Ports at an over $13.6B valuation\r\n\r\n  *   Thailand's largest auto-parts manufacturer Thai Summit Group is weighing a $1.5B-$2B sale\r\n\r\n  *   KKR agreed to acquire sports PE firm Arctos Partners in a $1.4B cash-and-stock deal\r\n\r\n  *   Zimbabwe's state-owned miner Mutapa Platinum is seeking partners to help fund and develop a $500M mine\r\n\r\n  *   Mining giant Anglo American warned of a third De Beers write-down in three years as it seeks to sell or spinoff its diamond unit amid a merger with Teck Resources\r\n\r\nVC\r\n\r\n  *   AI startup Anthropic is in talks to sell secondary shares at a $350B valuation alongside plans to raise $20B at a $350B valuation\r\n\r\n  *   Structured-data AI startup Fundamental emerged forms stealth with a $255M seed and Series A at a $1.2 billion led by Oak HC/FT, Valor Equity Partners, Battery Ventures, and Salesforce Ventures\r\n\r\n  *   Interpretability-focused AI lab Goodfire raised a $150M Series B at a $1.25B valuation led by B Capital\r\n\r\n  *   Connect Music, a music rights and technology platform for independent artists, raised an $80M round led by Rockmont Partners\r\n\r\n  *   AI-native accounting automation startup Accrual raised a $75M round led by General Catalyst\r\n\r\n  *   Geospatial-AI startup Urban SDK raised a $65M growth round from Riverwood Capital\r\n\r\n  *   UK legaltech startup Lawhive raised a $60M Series B led by Mitch Rales\r\n\r\n  *   Turnstile, a quote-to-cash platform, raised a $29M round led by First Round\r\n\r\n  *   UK automated FX hedging startup Bound raised a $24.5M Series A led by AlbionVC\r\n\r\n  *   enshift AG, a European provider of integrated energy-transition solutions for real estate, raised a $21M Series A led by Swiss Solar Group\r\n\r\n  *   R3 Robotics, a European EV disassembly automation startup, raised a $16M Series A co-led by HG Ventures and Suma Capital\r\n\r\n  *   European electric-propulsion specialist Morpheus Space raised a $15M strategic round led by Alpine Space Ventures\r\n\r\n  *   AI product-security startup Nullify raised a $12.5M seed round led by SYN Ventures\r\n\r\n  *   Mathematical verification startup Midas raised a $10M round led by Valor Equity Partners and Nova Global\r\n\r\nGet real-time updates on any startup, VC, or sector on Fundable<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaULXNTfA5kp8C2djvdIeuAKFAR7L6lXVY5ClyVVr5LufzRMnd0_1ecGGoBQBuDvR6BNZu42nxITHmfaSUKHcvsu7-BM5IIbDHFpq31Uu50d-F7O2Jg2iVvuRPEnkCcIyeQtJL2VgqLcZrWN6nhw_5aCbHkTFMF9dUtcqrumLLLycBn2g9wJCjPsxYHWClW2PaQg/4nx/Srd-CSrMSkGQ1t0dCma2-A/h38/h001.FCPAXQiDmh7bpBl-HNC95kKjaouJOe0SUlcpCiyqZBc>.\r\n\r\nIPO / Direct Listings / Issuances / Block Trades\r\n\r\n  *   Barrick Mining plans to spin off its top North American gold assets at a potential $60B valuation\r\n\r\n  *   China's Sinochem-owned agro-chemicals giant Syngenta is hiring banks for a potential $10B Hong Kong IPO\r\n\r\n  *   Hg-backed Norwegian software group Visma may delay its $22B London IPO amid the growing software selloff\r\n\r\n  *   Activist Elliott raised its stake in Toyota Industries to 7.1% in an effort to block Toyota's buyout\r\n\r\n  *   Neos Partners-backed electrical equipment maker Forgent Power Solutions raised $1.5B at an $8.8B valuation in its IPO\r\n\r\n  *   Blackstone-backed mobile advertising company Liftoff postponed its $762M IPO amid a market selloff\r\n\r\n  *   Cancer biotech Eikon Therapeutics raised $381M at a $972M valuation in its IPO\r\n\r\n  *   Bain Capital-backed furniture retailer Bob's Discount Furniture raised $330M at a $2.4B valuation in its IPO\r\n\r\n  *   Generate Biomedicines filed for an IPO\r\n\r\n  *   Rare earths miner Ionic is weighing an IPO\r\n\r\nDebt\r\n\r\n  *   Goldman Sachs is readying a revised $3.75B financing to support TJC-backed chemical maker Arclin's $1.8B acquisition of DuPont's Aramids business\r\n\r\n  *   South Korea sold $3B of dollar bonds to boost FX reserves\r\n\r\n  *   Brazilian conglomerate CSN plans to raise $1.5B in a secured loan\r\n\r\n  *   Goldman Sachs, Blackstone, and Apollo are providing a $975M private credit loan for Australian PE firm BGH Capital's $1.6B LBO of pharma company Aspen's APAC business\r\n\r\n  *   Brazil's only rare earths miner Serra Verde gave US an option to acquire a stake in the company as part of a $565M financing deal\r\n\r\n  *   State-owned Life Insurance Corporation of India is in talks to buy zero-coupon STRIPS bonds\r\n\r\nFunds / Secondaries\r\n\r\n  *   PE firm Clearlake Capital will double its GP commitment to its eighth flagship PE fund from $300M to $600M and lower its fund size target from $15B to $14.2B to buy a second fundraising extension\r\n\r\n  *   French PE firm Ardian raised over $5.2B for its ninth infrastructure secondaries fund\r\n\r\n  *   Oncology-focused VC Yosemite raised $200M for a targeted $350M sophomore fund\r\n\r\n  *   Commodities giant Trafigura is in talks with Chinese state-owned supply chain giant ITG to form a credit fund JV to finance commodity deals\r\n\r\n\r\nCrypto Sum Snapshot\r\n\r\n  *   Welcome back, diamond hands. While you were on the moon, we've been publishing a daily newsletter that compiles the most important news and stories on everything crypto. Read it here<https://link.mail.beehiiv.com/ss/c/u001.JB95HUiL4y24HF1r-8cc3kszKTgIV0dmLvy75aJNjZdxlbe6ORKK4Bk--PVO06w1o3NpWxnGUb0z7xHVdFOXkvRNeE5_P5pwGcUyBzWnIWUtpF89mmKlzTnZrl7jmG7U/4nx/Srd-CSrMSkGQ1t0dCma2-A/h39/h001.gEvT0V-U_nEJe_ry3va0dHJkyrGhACOO8ZURx22RJ5A>.\r\n\r\n\r\nExec’s Picks\r\n\r\n  *   The situation at Two Sigma is absolutely insane. Their co-founders stepped down from their co-CEO roles in 2024 after disagreements turned so toxic so as to pose a 'material risk' to the firm. Now, one co-founder may end up losing half of his $7B net worth and control of the firm in a messy lawsuit-ridden divorce. Probably explains the fallout between the co-founders...What an absolute governance, management, succession, and personal nightmare<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUGJLSe7TQPPGKcVrVftCHkHiUe5SwJjAs00fQr1zS0ex1KHpyhygLEbIhnmswVwgKjStJuxfoSr9n1lxTiT1PhHSZ-o5VWd3lWCr-FN5kVTwtl30mCGWGxiYPViVP3NUZ4A7Y0AXnLyLHfr6VquBCzQz8B7GCY9ZTYPSM-6iHfD3ssMzevZLCSOdp2ahTtgt7-ivW6nfLR1cJbQ7iNDMn-5vvsm1dCqkXwESdnlnW0SSpHkHTe1EiBP8agZQ1ho3moHyz9oKkkTwu4bwFeo7a_HvQNMfnkaEkB_3W2dypv4r5tUu-02cDZC1cj5X_6PBRheQoUZc20niNdnfA5a4vpn1mSgrmsvoQHLjAZ_CauZhjY588xBt28G82Bc6zFQ4WzBLPmDcV8WjFwqHZx5OXri0m5D_sRj6b-B9TKYsP0G727zgdKykg4LTneBdVKtTGiUewNuNk2JZm2rMRDyK6RYd2LTO9iVcUFKHdGiogimiycYShOBh9yJMlHe19oBaDoaEPC6855fswCFmIX071LAgaNzwbl9wgu52UjUCDDPlWByPc7LMfkAynh6n6akOAPz2u9XhN1kB_5nEwycxLre4NZcBaqWZwReLyGUsUhaX/4nx/Srd-CSrMSkGQ1t0dCma2-A/h40/h001.P2wv_YpLpri2yY0LAHAUk_j0D851WXGJ-mpzGnKyw1I> for one of the most prominent quant hedge funds ever.\r\n\r\n\r\nInvestment Banking Opportunity – MD Level 💼\r\n\r\nManaging Directors – Anonymous Elite Boutique Investment Bank<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUAF381AvbKggxGmfORrYSJ7eAroLCZx8L9hmGJ99Sd7H-yErUTvy6IqbhC2gws6drAkhwdEOi3nDG89Zs6wRwrXmwlDTxt87Zpow5JxAj3kGSnlXqnvzcFBfi5xWgR7OwtTE4Nc2MSuZA2vaMixyDb4FTDSFo2B0LN6EflPwj_8LzoL2LPAOg6-KZnsSfMfp9Q/4nx/Srd-CSrMSkGQ1t0dCma2-A/h41/h001.6pwrTcZK_QtMGPLZI0xeuyaFVbkwMslB4SXXXOmBWxg>\r\n\r\nWe are working with an EB investment bank to hire MDs across numerous coverage and product groups to expand their Chicago presence.\r\n\r\nThe firm is an influential advisor on M&A, restructurings, financings, and capital markets to corporations, partnerships, institutions, and governments globally with a footprint spanning four continents. They are looking for candidates who possess:\r\n\r\n  *   12+ years of IB or related advisory experience\r\n\r\n  *   Experience in leading transactions, including M&A and restructuring deals\r\n\r\n  *   Existing client relationships and a strong track-record of execution\r\n\r\n  *   Strong leadership, communication skills, and a team-oriented attitude\r\n\r\nIf this sounds like you, we'd love to connect. Apply here<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUAF381AvbKggxGmfORrYSJ7eAroLCZx8L9hmGJ99Sd7H-yErUTvy6IqbhC2gws6drAkhwdEOi3nDG89Zs6wRwrXmwlDTxt87Zpow5JxAj3kGSnlXqnvzcFBfi5xWgR7OwmTTv1T3UkU5ArL1kjTc7D8aZolau4eX-jcGAtrzH9c-pnG_EZYSrDoK45rq_2Tj4w/4nx/Srd-CSrMSkGQ1t0dCma2-A/h42/h001.bn1NPFqsPq7zqBTg6r3Z2rIJxgw6Kt2oAEFF7CPTfvM> 🤝\r\n\r\n\r\nMeme Cleanser\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/d4a83b98-28c0-4b8a-bc4c-baa44918b6d6/image.png?t=1770327022]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWDG6pWbLCzjznNgC5dL8ws3-KjJ1kpRvGTbGmHVZr8g1mS_V0KtjTMB8ANhGZCJO28D_SdotctACRwot6aeVBMwSkrZ7IYFKCzL_ikBKwIshf8xt8b6YRaZFhf-Y8f49yw/4nx/Srd-CSrMSkGQ1t0dCma2-A/h43/h001.nSkJw-gJKV0QVYAuZgjh60xwzk2QIjchQcru515_q8c>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6461d463-c68c-4e37-8cf2-606dcf1b49f9/image.png?t=1770354275]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWBZkxLNnMnIH5qVj9ZovBawkPPkc0_xkNfWoEik_-6agxKerTADg_YBECbxH-TvoRNh665wkzyFYlWuJvPbdAssRr4EiIWapoIbH2c1A0ChnF_NqOdA2py9TQKBf8Nqk1g/4nx/Srd-CSrMSkGQ1t0dCma2-A/h44/h001.osm5sYt6JGDftxlg5lXfx1iSzAam9L4Wz24Ylf3KDaQ>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/85f8e793-6636-4809-bd5b-2da36d758d0b/image.png?t=1770326842]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWNZ_wWyH4EPN64lakh2aiKCZNgBtkb_yR_CLyYQAplLbVVUNypj4bdH1Vba91q_WFNkiy0S-alYcaNqKiU2JHw12Hepg9ge0KnVE4KGseI2KjG3hNpCqd99vDz0_Zx9TzQ/4nx/Srd-CSrMSkGQ1t0dCma2-A/h45/h001.PtNzKbffoYhbiS__VNcK--FQkdOfVjQkQFMB7jU4jlU>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/064e3670-10ca-4d9b-bc11-ceb9fa56a8e6/image.png?t=1770326873]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWBgd73xmttI8fF7j2HQgKcwMPMTrZOT4EuZWWjE_Pkh5Uns2GnV_HEKyeBHtKNuAimqVJac_XLCJy5Amb-3uQ-lctMSQ9zWoPQMkszZYpy88TO4BTmc2Zf3uuEZahU_QEFeRcTOqK34jVWBxphdukeo/4nx/Srd-CSrMSkGQ1t0dCma2-A/h46/h001.VSmTN96i1gKMuMql7IjrOJn-RJTaXD-dLDLizd1My5k>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/0adeb9f7-0c09-4ef1-802e-e97e83f19031/image.png?t=1770326906]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWKOUTkNRG1hbL1f34tY9h8ndIDyFL-nHzfyPzrtPoG2sw9Nqd5Zm-u3l8rtXywAJ51LxP7DJj0lJuV58nC1UiaXSTXDhdA_vyap2GKoWL3BciMg0yUPp56qxHoY6khjWOQ/4nx/Srd-CSrMSkGQ1t0dCma2-A/h47/h001.da85fDRHEepgKB1mGVRE4b-Qi5hmtYZl2H7jVmNjaO0>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e4a9d851-90e3-497e-8215-ca9b2d59fe1f/image.png?t=1770326936]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWJZgRPy1gPr6Um_ptkDiBdr-SjIun0oAxVEaPXYnhIw1NRfFRFMeu4rfX-XjrEJGq9tTKSmJhTAZH2LNFsp3ca5nXnf8HX8vOxCmoOwfbXzv8-EXfouciVFh9XEbetmRDg/4nx/Srd-CSrMSkGQ1t0dCma2-A/h48/h001.FessB76dBzeOQ0uH8K42nRxdHkGAJmCN-7bfk5UwfYY>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/3b71fac8-cfc9-402e-b171-77e5e66a2f94/image.png?t=1770326969]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWMn7vPiDRt-kpUxct5owIjCkGSn_tM5PAinRzKJQLKyXn0ADvOSgPedek8RBGl5sYVtRKh5pS8iCNQtmCZqokqMu3CKE7g61RCu7Zkxe-3h52256a39hqrGGgfU2UflWIK3TTHHzVjuLyD2JXahGz8A/4nx/Srd-CSrMSkGQ1t0dCma2-A/h49/h001.7AGCtYPun4JVl3lgTR7GhzesQCcpnorgEUWds4i-vcc>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/aa5be2c1-2c64-441c-ac06-356e4b6c9baf/image.png?t=1770353992]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWKew6psU-Fo_6qXaWTsGRaCvDxfHYUElViPpxVrCfg4FCYJGjxooGIIBCosU1FpDExnC0fwW4aKiHWk8NpP0H-u6s2Nm1NHJybPXoGWk7TI5mkaqUgt59UgFIOChdZVt1A/4nx/Srd-CSrMSkGQ1t0dCma2-A/h50/h001.HIbQIgXda0-PFP2AY8s81GzNAyIxz7MTfLs4cFla0rE>\r\n\r\n[https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/20940e7b-005e-4f78-b99e-6a5d6f3552f4/image.png?t=1770327082]<https://link.mail.beehiiv.com/ss/c/u001.o9Jass-wELUcLDRjVXVrWCougr--1gpIozXrmsYeoYarM9dCdCkdmm8VktuLoJHssVBiYdJk_7jLNQStsNd6vqjiyxJ-45RwLs0tzdyRgl6vX5udspcIqRyrTKv7EEGcfkqDPp5kNdfO63azq7scsFvDiwyQvjPN_0A4cSpBiAc/4nx/Srd-CSrMSkGQ1t0dCma2-A/h51/h001.Ghzm-9Ohu4BSVSelGsaj_iWv5m7-gMyfVyzyd3m1iS4>\r\n\r\n\r\n🛒 Merch Store<https://link.mail.beehiiv.com/ss/c/u001.biIzj1Rawmhh1KhB3-IzvOAAxhEjQ_Rk9thKYEeqg8YqI6Mzm6ECjsu751PkG2y2iQT5hAxRQxjLSSbzEBIT0mGOJCBNmLPq5BctK5LgpIPxN9dxkINIadcM3cB0qQvm1DoITjjebo_7pDCjN78HUg/4nx/Srd-CSrMSkGQ1t0dCma2-A/h52/h001.3q6utFZojimKF-2DyLhFF9hnlwC0m0ZomHw9CBp0K4E>: Visit our merch store to shop our latest apparel, shoes, bags, accessories and more.\r\n\r\n💵 Litquidity Ventures<https://link.mail.beehiiv.com/ss/c/u001.KN74dixAkkSkzWlFDQrXGR4s9Jn7Rjgs2-B7UTGxPWGhrUnayO2umKqyD57bSFcypqIv-e9Dx6INPY_qE3ltePjiMuQbULLEjXaIt3fG5kI81r8pFI3ejXT83U9kyifa/4nx/Srd-CSrMSkGQ1t0dCma2-A/h53/h001.GPdZ-6QeSt4S7ckfZAKvrwb2Yj1Gl8EnWi3kE8YLBQ8>: Accredited investors & qualified purchasers within the Litquidity community can gain access to alternative investments such as venture, late-stage growth, and private equity through Litquidity Ventures. Interested? Fill out this form<https://link.mail.beehiiv.com/ss/c/u001.KN74dixAkkSkzWlFDQrXGR4s9Jn7Rjgs2-B7UTGxPWGhrUnayO2umKqyD57bSFcyU8WJqxWoP5T34EMIjIwm9RfDINqGGmNJ_QY77-cb5KKmwLqve0VKcJ6puMI_79Ah/4nx/Srd-CSrMSkGQ1t0dCma2-A/h54/h001.lqXzdeDeiFsZONircsKMOj-v13TzzqbDGf8-vgSpBjU>.\r\n\r\n☎️ Book a call with Lit<https://link.mail.beehiiv.com/ss/c/u001.JB95HUiL4y24HF1r-8cc3p1TJ9HxH-A3UpRMDNutOL9ScaXzwE8_8YofMLsFWF9uY5epr7nNkc7GLaWIRHxraNTneIbFMehzENb38ecCZin6jPVLPzSBlfM3uTk8Icrr/4nx/Srd-CSrMSkGQ1t0dCma2-A/h55/h001.ctGm9vzHcPYKicgQ07e2rsyoivdCZTn08YKVF0xUiTk>: Want to pick Litquidity's brain on business advice, insights, or just chat to say what's up? Buy his time here<https://link.mail.beehiiv.com/ss/c/u001.JB95HUiL4y24HF1r-8cc3p1TJ9HxH-A3UpRMDNutOL_8pp6JH2E4MGswCtWrBWXM3d91UyOhz5qKi5b3-e2iiAi6YlVjlZquSVPTk38sZjyvTWbAiEXafUX1IMwQy46Q/4nx/Srd-CSrMSkGQ1t0dCma2-A/h56/h001.tLINQ14RMrZHLOvO1dMoNqZDCPHJM3CheaJ0wav7UOo>.\r\n\r\n📧 Launch your own newsletter<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUFBQ5ZqRB2BSxu3rgKUapCsj8jvwqxE1YlUaw22Qd_KWTV-tJQ2rgjLbA0cJJPTnSYBYlBIpyTYGMXbPrNGtHwxYWr35qOsi1KENPnJT0rRHPk8VnEDyXnobkSASWZ9tNU2wxArimklKUykRtD3B-4lmH7ThM7rJfFDYCD-zXYIxPk_if30IC7ImgElPeP7rOzkkZ_ElFYcdUtqMeJWYO49UNGyWIlP1QLwYvcLBrb86QJLeLs1RQR8ZCZ8kjgmVv5UMPRYnawr8pjAIUBqoiSoOH1jFV0FmtFufemHFtHWbAjHMO_VL0yHjZ10wQPpbYIVbfguF9KW5rwbEriOICyPt4zSRgUwH1_SmzKcl1T7wpcaiuvqoE5tbLtGYBHDkk4pVGY89YZKEsg2CeLnsW1jlK19bY44uOnx2ST17imlCiHVbubEHJ24rfiniH2LOiw/4nx/Srd-CSrMSkGQ1t0dCma2-A/h57/h001.p65nBegEaT970geL-DKwbhYFY5CvAVpZN-nwmBQGRLE>: Have great content ideas and looking to launch your own publication? We highly recommend beehiiv<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUFBQ5ZqRB2BSxu3rgKUapCsj8jvwqxE1YlUaw22Qd_KWTV-tJQ2rgjLbA0cJJPTnSYBYlBIpyTYGMXbPrNGtHwxYWr35qOsi1KENPnJT0rRHPk8VnEDyXnobkSASWZ9tNU2wxArimklKUykRtD3B-4lmH7ThM7rJfFDYCD-zXYIxPk_if30IC7ImgElPeP7rOzkkZ_ElFYcdUtqMeJWYO49UNGyWIlP1QLwYvcLBrb86QJLeLs1RQR8ZCZ8kjgmVv5UMPRYnawr8pjAIUBqoiSoOH1jFV0FmtFufemHFtHWbAjHMO_VL0yHjZ10wQPpbYIVbfguF9KW5rwbEriOICyPt4zSRgUwH1_SmzKcl1T7wiVD3uTs6W127jeHM4KuBKAF3pBtJw5_bbvmdQeBCkn8LJTWv7rNx1wP711KnL4smBKEAzmT9891A5M2nYPmuWg/4nx/Srd-CSrMSkGQ1t0dCma2-A/h58/h001.D5xNk-Km63_Jr9BfYz2gbKLXt0fO-mDoi_B1HUuk4fg> to get started.\r\n\r\n*DISCLAIMER: Investment advice provided by Autopilot Advisers, LLC (\"Autopilot\"), an SEC-registered investment adviser. Past performance does not guarantee future results. Investing carries risks, including loss of principal. As always, be smart out there. Litquidity is compensated to promote AutoPilot. Compensation details available upon request.\r\n\r\n\r\n\r\nShare Exec Sum\r\n\r\nLove our newsletter? Share it with your friends, family, colleagues, interns who need to stay on top of the market and earn free Litquidity / Exec Sum swag!\r\n\r\nYou currently have 0 referrals, only 5 away from receiving a 15% off coupon from the Litquidity merch store.\r\n\r\n[a 15% off coupon from the Litquidity merch store]<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUL-YSHQmEYUgdO43apMXgEpvoU61lNuqyVK_OrGwKGcYb6PGi1olM7_-Cq9ryfeebj3-pgyFAnc8EpduN5cA1d-LZfrW54wkhOkTy17rJftTeXoi157PFWH1C37MQRV0MPrQYUt87QEYY-zg-JHItekccHFtARdNKOOLFDi13EGCsnqLc18MoCOaYdK1IYCZh9--KA05oIy8GVp1sQrLPfElvn4hIhpA9fdFQv11H60YqfhRvLFLVOPZlsp_T0DCb1nT47rEpIp680d2u1djTAQqDGFCEkxWiHatUaeK9ossQ1E7bFZrUIUmyFh9jH3Y7Phluaf-5qXdWK5Fxnq2p6J_Sh4rRM3QxSfXSLq4d1xFDAo_eGzIUjveKapK53931N0hJBLMMqJtYudNAX86gc9My8_3t5uolmcWmYHYatpNTC34J7poNeVtff4xe6AwEV6FfFVYM2hWW_Eh_mjdDv7UFJcjOPX5z1zEKUM1CEce7uiHRToVa-p8331l_zOG0MT4YRiEb96BRMG0MJb7oT7Btu3OK-6BpLVXZ-wVGWhFWzEKVmBJpo-HJtu-TMRtiotcGlScQNSv9A2SC7C5U_Ox54jvCqLt661Pfy_NpVsFPbREaTntv2JEJlPV8XwbK0kLY8zzgaGIWt_mBmuFCTc/4nx/Srd-CSrMSkGQ1t0dCma2-A/h59/h001.UkFLTTWxixlq77bqEVMf87111XQ6W9kZ4GaZBtaApac>\r\nClick to Share <https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUL-YSHQmEYUgdO43apMXgEpvoU61lNuqyVK_OrGwKGcYb6PGi1olM7_-Cq9ryfeebj3-pgyFAnc8EpduN5cA1d-LZfrW54wkhOkTy17rJftTeXoi157PFWH1C37MQRV0MPrQYUt87QEYY-zg-JHItekccHFtARdNKOOLFDi13EGCsnqLc18MoCOaYdK1IYCZh9--KA05oIy8GVp1sQrLPfElvn4hIhpA9fdFQv11H60YqfhRvLFLVOPZlsp_T0DCb1nT47rEpIp680d2u1djTAQqDGFCEkxWiHatUaeK9ossQ1E7bFZrUIUmyFh9jH3Y7Phluaf-5qXdWK5Fxnq2p6J_Sh4rRM3QxSfXSLq4d1xFDAo_eGzIUjveKapK53931N0hJBLMMqJtYudNAX86gc9My8_3t5uolmcWmYHYatpNTC34J7poNeVtff4xe6AwEV6FfFVYM2hWW_Eh_mjdDv7UFJcjOPX5z1zEKUM1CEce7uiHRToVa-p8331l_zOG0MT4YRiEb96BRMG0MJb7oT7Btu3OK-6BpLVXZ-wVGWhFWzEKVmBJpo-HJtu-TMRtiotcGlScQNSv9A2SC7C5U_Ox54jvCqLt661Pfy_NpVsFPbREaTntv2JEJlPV8XwbK0kLY8zzgaGIWt_mBmuFCTc/4nx/Srd-CSrMSkGQ1t0dCma2-A/h60/h001.ToTBrqVX7qT7n0U-ih34YgnYXpCZWAcOnR8mT4KtXUU>\r\n\r\nOr copy and paste this link to others: https://www.execsum.co/subscribe?ref=qfM9fDnlrE<https://www.execsum.co/subscribe?ref=qfM9fDnlrE&_bhlid=bf7a73b936aab597b0df9777ef50b28c5a049d32>\r\n\r\n\r\n[tw]<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUDRPORsLOCVwDJyfUDxLrcoq_J1rc0udQSVQ6RzrWdcyxaNp2UWqWJIWkN0nXyD3desRRrwUBvu7pWEylUYPFCBIUJTqsz-2c_BgAgUY3sM1/4nx/Srd-CSrMSkGQ1t0dCma2-A/h61/h001.kknkeZ7hqeMwUJYYxzmAVCIM41Ilg3HVcVPV2R4JETg>  [ig] <https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUFTG7s9AmVc5coYkabBIJRFIYteVh1P7kETcpZKWFIMX7WhHhrne3OgN_3Wj4ShADC947Mt3pEyJAGakrdxmTRP4x0tOS6HySqxHfqG3DK9E/4nx/Srd-CSrMSkGQ1t0dCma2-A/h62/h001.6FFiAQWGUK1APyQ_1YlIUHGVX_KF5iBzaq7IrZk6eA4>         [in] <https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUMaUZ1gum041ORgX3QUt2hHvj4Ip91BWc8IKPqSXzzMmJ_xrn4NXwCe012PVDF0plvWGkXUwNb28zt7uLXyr8LaWlphPonRG8H5vs1mVuPVTikX4Pk7ok-wAsr9EmXeHdg/4nx/Srd-CSrMSkGQ1t0dCma2-A/h63/h001.ffA3zvBYhoiuPAbCRmXqJqW_1LBAbLXgnBf72UuPjbE>\r\n\r\n\r\nUpdate your email preferences or unsubscribe here<https://link.mail.beehiiv.com/ss/c/u001.dC22L7024aqiYTMhiRVaUL-YSHQmEYUgdO43apMXgEpvoU61lNuqyVK_OrGwKGcYb6PGi1olM7_-Cq9ryfeebqFri7Qyp5L2UnOJI4AC_UsFrM0qNczHSTTnM3j9MBgLrKGbOBO4SSZ_qY2hkxhz5gFDCVMMFMdmVELCQwA_OCkwu9UC5vlumHciJw-9p0T6pq8ClN8o94SQFSv6_FpLgz6x18QCJz3_PNxT0c_JezA3k_s1LVn9_tuRDcvHi5dOyqDl9mVMtZZB_iOtYyV_GRT7GNE1LDMBZrT6g4j1yw2vV6KejKvOdNBt4jxVmW8uvzyFBjxDhW9GA6iyu7C_Lm57WUHpqitGwsVCkAUdxuLbgutI1OHC1TxFDKH1VActK1tGySwno0WtuPPv264Vc9kPCqorMWUpYiTrobK2zuKE-ZhtLGfT9ZRHxpbL1JfxLKMLuLp06UbtMy0KeuIs12e_4xecMx1MYOwRtzwQq-HqZurEZMyj4apa_sOAf1CK2QKZaqf-lDPgf-P-9FvFbWXpWi8vINHSsrOwglHd7x0G8m8S8wZVUT3aOrPhN60rBEXDTv-jRgB6kTRtcnXvY4mbltjFTrDuVnq2TmBHI5C_ar1cNMw3bcMR0f2uBNBWQt5YgH0cpY9Y24GIyHeFvH2jTXpr4t1ELM3oRnYWEfytRiFdsgmOs-AD9tF8yMI1kNRazTtWGWTnphkvEVICx48iAzOkTzrARJWHeWSMPOss-7Fbx-BuQP3GEK3ub-b3S7KW_QKw41JhwM86MoYTLXG0dnM9oMxcvcTldQzZ065yZpMXVrIBmqBZxV3ZFX6S0L0HXMfMBzh9AGCzZZgwVl0TsOYf575n7esnAQCS904-MfqRR17QWNdH_jyQHPAy/4nx/Srd-CSrMSkGQ1t0dCma2-A/h64/h001.t0ACng2i3PX-xsNBSHCwYQzL2ZWaytuLNsboIzATdzM>\r\n\r\n© 2026 Exec Sum\r\n\r\n228 Park Ave S, #29976, New York, New York 10003, United States\r\n\r\nTerms of Service <https://link.mail.beehiiv.com/ss/c/u001.MbbflVXbDiZldD_8wm25n2L_6nPXyTSejw7vxOGpukCAMjubKNRzS6lazVWZILNcR_DDFLqnTx_p9CHBjeTmhvvwmzWiKGiD1C4bIX72s7k/4nx/Srd-CSrMSkGQ1t0dCma2-A/h65/h001._xycU_5T5sAzYKFFqDy6_f2l83j4txsPGLBcgJF-2xU>\r\n<https://email.beehiivstatus.com/5299c0779a360456b97861bb7ae6bc41343956a0/hclick>\r\nExaloan AG | Registergericht/Registration: Amtsgericht/Local Court Frankfurt am Main HRB 115711 | Vorstand/Executive Board: Luca Frignani | Aufsichtsrat/Supervisory Board: Andreas Höfner (Vorsitz/ Chairman), Dr. Tom Oliver Schorling, Thomas Nicolas\r\n\r\nDiese Nachricht und alle Anlagen sind vertraulich und ausschließlich für den im Adressfeld genannten Adressaten bestimmt. Bitte informieren Sie uns, wenn Sie nicht der vorgesehene Empfänger sein sollten und löschen Sie diese Nachricht und alle Anlagen in Ihrem System. Vielen Dank. Jede unbefugte Nutzung, Weiterleitung, Veränderung, Offenlegung gegenüber Dritten oder Fertigung einer Kopie ist unzulässig. Da wir nicht die Echtheit oder Vollständigkeit der in dieser Nachricht enthaltenen Informationen garantieren können, schließen wir jede rechtliche Verbindlichkeit der vorstehenden Erklärungen und Äußerungen aus.\r\n\r\nThis message and any attachment are confidential and may be privileged or otherwise protected from disclosure. It is intended solely for the mentioned person in the address field. Please inform us, if you are not the intended recipient and delete the message and any attachment from your system. Thank you. Any use, modification, unauthorized dissemination, distribution or copying hereof is prohibited. As we cannot guarantee the genuineness or completeness of the information in the message, the statements set forth above are not legally binding.\r\n",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Market",
+      "BBG",
+      "raised",
+      "Claude",
+      "Litquidity",
+      "IPO",
+      "Software",
+      "firm",
+      "led",
+      "CNBC"
+    ]
   }
 ]
