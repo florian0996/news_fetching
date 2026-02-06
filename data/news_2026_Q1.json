@@ -94931,5 +94931,85 @@
       "community",
       "colleges"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-06/unicredit-advises-poland-s-pko-on-srt-tied-to-corporate-loans",
+    "title": "UniCredit Advises Poland’s PKO on SRT Tied to Corporate Loans",
+    "fetched_on": "2026-02-06T09:45:31.232388+00:00",
+    "content": "UniCredit SpA is advising PKO Bank Polski SA on a potential synthetic risk transfer transaction following the Polish lender’s debut transaction last year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PKO",
+      "Advises",
+      "Poland",
+      "SRT",
+      "Tied",
+      "Corporate",
+      "Loans",
+      "Bank",
+      "Polski",
+      "Polish"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-06/ukraine-seeks-to-soften-key-condition-for-new-imf-loan",
+    "title": "Ukraine Seeks to Soften Key Condition for New IMF Loan",
+    "fetched_on": "2026-02-06T09:45:31.645438+00:00",
+    "content": "Ukraine is seeking to soften unpopular tax bill demanded by the International Monetary Fund as a condition to unlock more than $8 billion under a financing program, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Soften",
+      "Ukraine",
+      "Condition",
+      "Seeks",
+      "Key",
+      "IMF",
+      "Loan",
+      "International",
+      "Monetary",
+      "Fund"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/secondhand-watch-market-stabilizes-in-2025-chrono24/",
+    "title": "Secondhand watch market stabilizes in 2025: Chrono24",
+    "fetched_on": "2026-02-06T09:45:30.591687+00:00",
+    "content": "The market is normalizing despite global financial challenges. Image credit: Chrono24 Secondhand luxury watch retailer Chrono24 is revealing how the industry fared to close 2025.\r\nAs revealed in the … [+3480 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Secondhand",
+      "market",
+      "challenges",
+      "watch",
+      "stabilizes",
+      "normalizing",
+      "global",
+      "financial",
+      "chars",
+      "Image"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-cards/2026/two-thirds-of-cardholders-view-issuers-more-positively-after-credit-limit-increases/",
+    "title": "Two-Thirds of Cardholders View Issuers More Positively After Credit Limit Increases",
+    "fetched_on": "2026-02-06T09:45:30.591687+00:00",
+    "content": "Nearly three-quarters of credit cardholders who requested a limit increase and were denied turned to installment plans as an alternative source of credit, revealing how rejection decisions push consu… [+3371 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Limit",
+      "chars",
+      "Cardholders",
+      "View",
+      "Issuers",
+      "Positively",
+      "Two-Thirds",
+      "revealing",
+      "consu"
+    ]
   }
 ]
