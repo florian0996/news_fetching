@@ -96389,5 +96389,45 @@
       "Violated",
       "Title"
     ]
+  },
+  {
+    "source": "Databricks.com [NewsAPI]",
+    "url": "https://www.databricks.com/blog/tutorial-3-free-databricks-analytics-projects-you-can-do-afternoon",
+    "title": "Tutorial: 3 Free Databricks Analytics Projects You Can Do In An Afternoon",
+    "fetched_on": "2026-02-06T19:38:47.905560+00:00",
+    "content": "Want a real analytics project you can share publicly, talk about in interviews, or add to your resume or portfolio, all without needing a credit card?\r\nDatabricks Free Edition gives students, young p… [+12319 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tutorial",
+      "Analytics",
+      "Afternoon",
+      "Projects",
+      "project",
+      "Free",
+      "publicly",
+      "talk",
+      "interviews",
+      "portfolio"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "http://www.arsenal.com/news/madison-earl-joins-glasgow-city-loan",
+    "title": "Madison Earl joins Glasgow City on loan",
+    "fetched_on": "2026-02-06T19:38:47.905560+00:00",
+    "content": "Maddy Earl has joined Scottish side Glasgow City on loan for the remainder of the 2025/26 season.\r\nThe 19-year-old attacking midfielder will now continue her development in Scotland in the Scottish W… [+460 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "City",
+      "Glasgow",
+      "Earl",
+      "loan",
+      "Maddy",
+      "season",
+      "Scottish",
+      "Madison",
+      "joins",
+      "joined"
+    ]
   }
 ]
