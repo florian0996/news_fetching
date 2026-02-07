@@ -97748,5 +97748,65 @@
       "anymore",
       "email"
     ]
+  },
+  {
+    "source": "The Florida Times-Union [NewsAPI]",
+    "url": "https://www.jacksonville.com/story/business/briefs/2026/02/06/community-first-credit-union-renovates-edgewood-bakery-murray-hill-florida/88418429007/",
+    "title": "Community First Credit Union begins renovation of Edgewood Bakery",
+    "fetched_on": "2026-02-07T10:28:33.701812+00:00",
+    "content": "Community First Credit Union officially launched construction on the former Edgewood Bakery building in Murray Hill this week, marking a major step in the revitalization of one of Jacksonvilles most … [+4061 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Union",
+      "Edgewood",
+      "Bakery",
+      "Community",
+      "chars",
+      "Murray",
+      "Hill",
+      "Jacksonvilles",
+      "week"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/ralph-lauren-burberry-among-lyst-indexs-top-q4-risers/",
+    "title": "Ralph Lauren, Burberry among Lyst Index’s top Q4 risers",
+    "fetched_on": "2026-02-07T10:28:33.701812+00:00",
+    "content": "Legacy prestige names are reestablishing themselves in the rankings. Image credit: Lyst Index Heritage luxury labels climbed the Lyst Index to close 2025.\r\nIn the latest edition of the quarterly repo… [+336 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lyst",
+      "Index",
+      "Lauren",
+      "Burberry",
+      "Legacy",
+      "Ralph",
+      "top",
+      "risers",
+      "rankings",
+      "prestige"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/world/2026/02/06/ukraine-seeks-to-soften-key-condition-for-new-imf-loan-bloomberg-news-reports",
+    "title": "Ukraine seeks to soften key condition for new IMF loan, Bloomberg News reports",
+    "fetched_on": "2026-02-07T10:28:33.701812+00:00",
+    "content": "Feb 6 (Reuters) - Ukraine is seeking to soften an unpopular tax bill demanded by the International Monetary Fund as a condition to unlock more than $8 billion under a financing programme, Bloomberg N… [+558 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Reuters",
+      "Ukraine",
+      "Feb",
+      "chars",
+      "soften",
+      "IMF",
+      "International",
+      "Monetary",
+      "Fund"
+    ]
   }
 ]
