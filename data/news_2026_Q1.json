@@ -97289,5 +97289,105 @@
       "Credit",
       "Getty"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-allows-banks-to-lend-directly-to-reits/article70598797.ece",
+    "title": "RBI allows banks to lend directly to REITs",
+    "fetched_on": "2026-02-07T05:43:25.679189+00:00",
+    "content": "The Reserve Bank of India has proposed allowing banks to lend directly to real estate trusts (REITs) as part of its measures to improve the flow of credit to the real estate sector.\r\nThis has been on… [+859 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "banks",
+      "lend",
+      "directly",
+      "RBI",
+      "real",
+      "estate",
+      "Reserve",
+      "India",
+      "REITs",
+      "Bank"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/record-number-of-personal-loans-taken-out-in-first-nine-months-of-last-year-says-bpfi/a1279551558.html",
+    "title": "Record number of personal loans taken out in first nine months of last year, says BPFI",
+    "fetched_on": "2026-02-07T05:43:25.679189+00:00",
+    "content": "Drawdown value in the third quarter of last year also broke records, up 16pc on 2024\r\nBorrowing by consumers shows no signs of slowing down.There has been a surge in the number of people borrowing mo… [+2780 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Borrowing",
+      "number",
+      "year",
+      "chars",
+      "BPFI",
+      "Drawdown",
+      "personal",
+      "loans",
+      "months",
+      "quarter"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/from-rs-10-lakh-to-rs-20-lakh-collateral-free-loan-limit-will-be-doubled-for-these-borrowers-rbi-mpc/articleshow/127970246.cms",
+    "title": "From Rs 10 lakh to Rs 20 lakh, collateral free loan limit will be doubled for these borrowers; RBI MPC",
+    "fetched_on": "2026-02-07T05:43:25.679189+00:00",
+    "content": "The Reserve Bank of India (RBI) has announced to increase the collateral-free loan limit from Rs 10 lakh to Rs 20 lakh for small businesses of Micro, Small, and Medium Enterprises (MSMEs).The announc… [+1318 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lakh",
+      "RBI",
+      "India",
+      "Micro",
+      "Enterprises",
+      "small",
+      "MSMEs",
+      "chars",
+      "loan",
+      "limit"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/rbi-mpc-meeting-highlights-governor-sanjay-malhotra-key-announcements-6-february-2026-key-updates-allows-banks-to-lend-to-reits-financing-funding/articleshow/127970480.cms",
+    "title": "RBI MPC Meet: RBI allows banks to lend to REITs, boosting long-term funding",
+    "fetched_on": "2026-02-07T05:43:25.679189+00:00",
+    "content": "The Reserve Bank of India on Friday allowed banks to lend to Real Estate Investment Trusts (REITs), a move aimed at broadening credit access for the real estate investment ecosystem and supporting lo… [+2027 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Estate",
+      "Real",
+      "Investment",
+      "lend",
+      "REITs",
+      "Meet",
+      "Trusts",
+      "banks",
+      "chars"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/tron-takes-the-lead-what-ethereums-slip-in-usdt-dominance-means-for-defi/",
+    "title": "TRON takes the lead! What Ethereum’s slip in USDT dominance means for DeFi",
+    "fetched_on": "2026-02-07T05:43:25.679189+00:00",
+    "content": "Stablecoin dominance is basically the first step to DeFi dominance. The logic is simple – Networks with more stablecoins locked on-chain have deeper liquidity, which enables smoother trading, lending… [+2451 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TRON",
+      "lead",
+      "dominance",
+      "Ethereum",
+      "USDT",
+      "DeFi",
+      "Networks",
+      "lending",
+      "chars",
+      "Stablecoin"
+    ]
   }
 ]
