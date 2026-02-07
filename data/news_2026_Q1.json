@@ -97808,5 +97808,105 @@
       "Monetary",
       "Fund"
     ]
+  },
+  {
+    "source": "The West Australian [NewsAPI]",
+    "url": "https://thewest.com.au/news/health/how-parents-thought-their-new-born-was-dead-when-mum-gave-birth-on-the-freeway-after-hospital-handpass-c-21464839",
+    "title": "Parents thought their new-born was dead when mum gave birth on Kwinana Freeway after hospital handpass",
+    "fetched_on": "2026-02-07T11:23:54.258232+00:00",
+    "content": "Main Image: Desperate mother Lena thought her baby was dead when she was forced to give birth on the side of the freeway after being 'kicked out' of St John of God Hospital. Credit: Carwyn Monck",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Freeway",
+      "Image",
+      "Desperate",
+      "dead",
+      "hospital",
+      "Kwinana",
+      "Main",
+      "Lena",
+      "John",
+      "God"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/rbi-banks-lend-real-estate-investment-trusts-india-property-funding-growth-11770370148444.html",
+    "title": "RBI opens bank lending for real estate trusts, draft norms to be issued soon",
+    "fetched_on": "2026-02-07T11:23:54.258232+00:00",
+    "content": "The Reserve Bank of India (RBI) has unlocked a fresh source of funds for the nations property sector, allowing banks to lend directly to real estate investment trusts (Reits) for the first time.\r\nThe… [+5811 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Reits",
+      "trusts",
+      "India",
+      "bank",
+      "real",
+      "estate",
+      "Reserve",
+      "draft",
+      "sector"
+    ]
+  },
+  {
+    "source": "Theregister.com [NewsAPI]",
+    "url": "https://www.theregister.com/2026/02/06/dwp_chatbot_testing/",
+    "title": "DWP considers chatbot work coaches as AI-fueled job losses loom",
+    "fetched_on": "2026-02-07T11:23:54.258232+00:00",
+    "content": "AI-pocalypse Britain's welfare system is experimenting with AI to manage Universal Credit claimants even as evidence piles up that artificial intelligence may soon be pushing more people onto benefit… [+2847 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "DWP",
+      "Britain",
+      "Universal",
+      "Credit",
+      "benefit",
+      "chatbot",
+      "work",
+      "coaches",
+      "AI-fueled"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2026/02/man-who-works-in-credit-card-customer-service-tries-to-keep-a-straight-face-but-its-mission-impossible-due-to-all-the-wild-questions-he-gets-on-a-daily-basis/",
+    "title": "Credit Card Customer Service Rep Tries To Keep A Straight Face During His Job, But It’s A Daily Struggle Due To All The Wild Questions",
+    "fetched_on": "2026-02-07T11:23:54.258232+00:00",
+    "content": "Freepik/Reddit\r\nWorking at a call center is just taking calls and following a script, right?\r\nMaybe the occasional angry caller? Nope.\r\nIt’s even harder than that already sounds.\r\nLet’s read about a … [+4074 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Job",
+      "Freepik",
+      "Reddit",
+      "Card",
+      "Customer",
+      "Service",
+      "Rep",
+      "Straight",
+      "Face",
+      "Daily"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/142505/fabrizio-romano-tottenham-hotspur-forward-set-to-leave-in-7-8m-move.html",
+    "title": "Fabrizio Romano: Tottenham Hotspur forward set to leave in £7.8m move",
+    "fetched_on": "2026-02-07T11:23:54.258232+00:00",
+    "content": "Brazilian side Bahia have reached an agreement to sign Alejo Véliz from Tottenham on a permanent basis, with credit to Fabrizio Romano for reporting the development. The update confirms, 9m fee plus … [+1680 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Romano",
+      "Tottenham",
+      "Fabrizio",
+      "Hotspur",
+      "Brazilian",
+      "Bahia",
+      "Alejo",
+      "Véliz",
+      "move",
+      "basis"
+    ]
   }
 ]
