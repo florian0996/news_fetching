@@ -97529,5 +97529,83 @@
       "continues",
       "transform"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-07/india-s-top-bank-beats-profit-forecast-on-strong-credit-demand",
+    "title": "India’s Top Bank Beats Profit Forecast on Strong Credit Demand",
+    "fetched_on": "2026-02-07T08:35:10.676761+00:00",
+    "content": "State Bank of India reported stronger-than-expected profit as rising retail consumption demand boosted credit growth, helping the state-owned lender take on its private peers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "India",
+      "Profit",
+      "Credit",
+      "Demand",
+      "Top",
+      "Beats",
+      "Forecast",
+      "Strong",
+      "State"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/rbi-nod-to-bank-lending-seen-lowering-reit-funding-costs-ease-refinancing/articleshow/127978488.cms",
+    "title": "RBI nod to bank lending seen lowering REIT funding costs, ease refinancing",
+    "fetched_on": "2026-02-07T08:35:09.904849+00:00",
+    "content": "The Reserve Bank of Indias decision to allow banks to lend directly to Real Estate Investment Trusts (REITs) is expected to lower funding costs and improve balance-sheet flexibility for listed trusts… [+2972 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trusts",
+      "RBI",
+      "funding",
+      "costs",
+      "bank",
+      "chars",
+      "Reserve",
+      "Indias",
+      "Real",
+      "Estate"
+    ]
+  },
+  {
+    "source": "Dealnews.com [NewsAPI]",
+    "url": "https://www.dealnews.com/100-Lowes-Gift-Card-for-90/21808176.html",
+    "title": "$100 Lowe's Gift Card for $90",
+    "fetched_on": "2026-02-07T08:35:09.904849+00:00",
+    "content": "morePlus, earn a $25 statement credit when you make a purchase of $250 or more using your Newegg Store Credit Card. Shop deals on games, PCs, peripherals, networking gear, smart home devices, and mor… [+20 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "morePlus",
+      "Lowe",
+      "credit",
+      "Gift",
+      "Newegg",
+      "Store",
+      "earn",
+      "statement",
+      "PCs"
+    ]
+  },
+  {
+    "source": "Prtimes.jp [NewsAPI]",
+    "url": "https://prtimes.jp/main/html/rd/p/000002271.000060591.html",
+    "title": "【ルイ・ヴィトン】モノグラム誕生130周年を記念して世界的なアイコンを起用したキャンペーンを展開",
+    "fetched_on": "2026-02-07T08:35:09.904849+00:00",
+    "content": "1······\r\n 19301959· \r\n··1992··\r\n ·1932· ·\r\n ·2007\r\n·130\r\nPHOTO CREDIT: LOUIS VUITTON\r\n·\r\n1854··()··\r\n· louisvuitton.com",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PHOTO",
+      "CREDIT",
+      "LOUIS",
+      "VUITTON",
+      "【ルイ・ヴィトン】モノグラム誕生",
+      "louisvuitton.com",
+      "周年を記念して世界的なアイコンを起用したキャンペ",
+      "ンを展開"
+    ]
   }
 ]
