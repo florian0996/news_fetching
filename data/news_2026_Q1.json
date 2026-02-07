@@ -99445,5 +99445,65 @@
       "Edit",
       "paypal"
     ]
+  },
+  {
+    "source": "Breitbart News [NewsAPI]",
+    "url": "https://www.breitbart.com/politics/2026/02/06/common-sense-makes-a-comeback-utah-joins-growing-list-of-states-offering-prageru-educational-resources-includes-high-school-credit/",
+    "title": "Common Sense Makes a Comeback: Utah Joins Growing List of States Offering PragerU Educational Resources, Includes High School Credit",
+    "fetched_on": "2026-02-07T23:32:48.125981+00:00",
+    "content": "Utah has joined the growing list of states offering PragerU educational resources, as the state’s Board of Education recently approved a new online learning finance course, the conservative organizat… [+2675 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Resources",
+      "List",
+      "Offering",
+      "Educational",
+      "Utah",
+      "Growing",
+      "Comeback",
+      "Includes",
+      "PragerU",
+      "chars"
+    ]
+  },
+  {
+    "source": "Marketplace.org [NewsAPI]",
+    "url": "https://www.marketplace.org/episode/2026/02/06/consumer-mood-sours",
+    "title": "Consumer mood sours",
+    "fetched_on": "2026-02-07T23:32:48.125981+00:00",
+    "content": "\"Marketplace\" host Kai Ryssdal talks the latest on the job market, tariff-related price increases, and more economic news with Courtenay Brown at Axios and Heather Long at Navy Federal Credit Union.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marketplace",
+      "Union",
+      "Kai",
+      "Ryssdal",
+      "Courtenay",
+      "Brown",
+      "Axios",
+      "Heather",
+      "Long",
+      "Navy"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-alysa-liu-4637809/",
+    "title": "Who Is Alysa Liu? 5 Things About the 2026 Olympic Figure Skater",
+    "fetched_on": "2026-02-07T23:32:48.125981+00:00",
+    "content": "View galleryImage Credit: Getty Images\r\nThe 2026 Winter Olympics Milano Cortina officially commenced on February 6, 2026, and Team USAs Alysa Liu started off the competition on a high note. Since the… [+2514 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alysa",
+      "Liu",
+      "Things",
+      "Credit",
+      "Getty",
+      "Winter",
+      "February",
+      "Figure",
+      "Skater",
+      "View"
+    ]
   }
 ]
