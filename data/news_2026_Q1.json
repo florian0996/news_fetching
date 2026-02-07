@@ -98705,5 +98705,65 @@
       "Entire",
       "Land"
     ]
+  },
+  {
+    "source": "Common Dreams [NewsAPI]",
+    "url": "https://www.commondreams.org/news/trump-credit-card-interest-cap",
+    "title": "Sweeping Coalition Backs AOC-Sanders Bill to Cap Credit Card Interest Rates at 10%",
+    "fetched_on": "2026-02-07T18:38:28.320945+00:00",
+    "content": "As polling continues to show US consumers are pessimistic about an economy in which they face rising costs for everything from groceries to healthcare and housing under President Donald Trump, a \"his… [+4729 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Trump",
+      "Coalition",
+      "Backs",
+      "Bill",
+      "Cap",
+      "Credit",
+      "Card",
+      "Interest",
+      "Rates"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/phones/iphone/from-magsafe-to-a-dynamic-island-and-beyond-how-likely-are-these-iphone-17e-rumors",
+    "title": "From MagSafe to a Dynamic Island and beyond, how likely are these iPhone 17e rumors?",
+    "fetched_on": "2026-02-07T18:38:28.320945+00:00",
+    "content": "(Image credit: Future / Lance Ulanoff)\r\nRumors Rated is where we assess the biggest, most interesting and sometimes bizarre rumors and claimed leaks around the upcoming tech and predicted products. W… [+7205 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dynamic",
+      "Island",
+      "rumors",
+      "iPhone",
+      "Future",
+      "MagSafe",
+      "Image",
+      "Lance",
+      "Ulanoff",
+      "Rated"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/business/2026/02/06/russia-s-largest-bank-sberbank-prepares-to-issue-crypto-backed-loans",
+    "title": "Russia’s largest bank, Sberbank, prepares to issue crypto-backed loans",
+    "fetched_on": "2026-02-07T18:38:28.320945+00:00",
+    "content": "Russias largest bank, Sberbank, is moving toward offering loans secured by cryptocurrency and said Friday it is prepared to coordinate with the countrys central bank on shaping the necessary regulato… [+2106 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sberbank",
+      "chars",
+      "bank",
+      "Friday",
+      "largest",
+      "prepares",
+      "regulato",
+      "loans",
+      "Russia",
+      "Russias"
+    ]
   }
 ]
