@@ -98945,5 +98945,205 @@
       "dire",
       "wolf"
     ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/rcmp-probe-cbrm-mayor-amanda-mcdougall-expenses-9.7077651",
+    "title": "Constituents want answers into former CBRM mayor's expenses: councillor",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "A councillor for the Cape Breton Regional Municipality says with the sentencing of a Halifax hospital's former CEO for credit card fraud, some constituents are looking for an update on the one-year-o… [+3570 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "CBRM",
+      "Cape",
+      "Breton",
+      "Regional",
+      "Municipality",
+      "Halifax",
+      "CEO",
+      "Constituents",
+      "councillor"
+    ]
+  },
+  {
+    "source": "Boston Herald [NewsAPI]",
+    "url": "https://www.bostonherald.com/2026/02/06/valentine-flower-imports/",
+    "title": "Valentine flower imports increase at Miami airport, despite tariffs and higher costs, officials say",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "By DAVID FISCHER, Associated Press\r\nMIAMI (AP) Winged babies shooting heart-shaped arrows might get most of the credit on Valentines Day, but the real magic behind millions of romantic bouquets happe… [+3038 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "FISCHER",
+      "Winged",
+      "Day",
+      "Miami",
+      "DAVID",
+      "Press",
+      "airport",
+      "costs",
+      "officials"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/bithumb-confirms-reward-payout-error-after-abnormal-bitcoin-trades",
+    "title": "Bithumb confirms reward payout error after abnormal Bitcoin trades",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "Bithumb said it identified and corrected an internal payout error after an abnormal amount of Bitcoin was credited to some user accounts during a promotional event, briefly causing sharp price fluctu… [+2685 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Bitcoin",
+      "error",
+      "Bithumb",
+      "payout",
+      "event",
+      "briefly",
+      "fluctu",
+      "abnormal",
+      "confirms"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/aston-martin-loops-breitling-in-as-global-watch-partner/",
+    "title": "Aston Martin loops Breitling in as global watch partner",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "Automotive\r\nFebruary 6, 2026\r\n Under the agreement, Breitling will also serve as the official watch partner of the Aston Martin Aramco Formula One team. Image credit: Aston Martin \r\n By Amirah Keaton… [+4275 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Breitling",
+      "Martin",
+      "February",
+      "Aston",
+      "Automotive",
+      "Aramco",
+      "Formula",
+      "watch",
+      "partner",
+      "agreement"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/90948/journalist-reveals-the-truth-behind-florian-wirtzs-recent-liverpool-form.html",
+    "title": "Journalist reveals the truth behind Florian Wirtz’s recent Liverpool form",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "Credit to Lewis Steele of The Daily Mail for the original reporting that sparked renewed focus on Florian Wirtzs Anfield evolution. What we are witnessing now feels less like a sudden surge and more … [+3234 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Florian",
+      "Wirtz",
+      "Wirtzs",
+      "Liverpool",
+      "Credit",
+      "Lewis",
+      "Steele",
+      "Daily",
+      "Mail",
+      "Anfield"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/142533/report-la-liga-giants-ready-to-pay-e30m-to-sign-manchester-united-star.html",
+    "title": "Report: La Liga giants ready to pay €30m to sign Manchester United star",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "Barcelona appear ready to bring Marcus Rashfords Manchester United chapter to a definitive close, with plans in place to make his loan move permanent this summer. Credit must go to Sport, who first r… [+3883 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Manchester",
+      "United",
+      "ready",
+      "Liga",
+      "Barcelona",
+      "Marcus",
+      "Rashfords",
+      "Report",
+      "pay",
+      "close"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/valentine-flower-imports-increase-at-miami-airport-despite-tariffs-and-higher-costs-officials-say-11770407049260.html",
+    "title": "Valentine flower imports increase at Miami airport, despite tariffs and higher costs, officials say",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "MIAMI (AP) Winged babies shooting heart-shaped arrows might get most of the credit on Valentines Day, but the real magic behind millions of romantic bouquets happens in a cargo warehouse at a South F… [+2654 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Winged",
+      "Day",
+      "Miami",
+      "South",
+      "airport",
+      "costs",
+      "officials",
+      "Valentine",
+      "Valentines"
+    ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/tv-shows/news/fallouts-mr-house-star-wants-an-origin-story-reveals-what-he-knows-about-season-3-exclusive/",
+    "title": "Fallout’s Mr House Star Wants an Origin Story & Reveals What He Knows About Season 3 [Exclusive]",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "Amazon’s Fallouthas aired its Season 2 finale, and it’s a credit to the show’s success that fans are already clamoring for details on Season 3. Fallout Season 2 introduced a new villain in Robert Edw… [+3141 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Exclusive",
+      "Story",
+      "Reveals",
+      "Amazon",
+      "House",
+      "Star",
+      "Origin",
+      "Fallouthas",
+      "finale"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/estee-lauder-companies-raises-full-year-outlook/",
+    "title": "Estée Lauder Companies raises full-year outlook",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "Commerce\r\nFebruary 6, 2026\r\n The group credits the shift to stronger demand in mainland China, continued fragrance momentum and growth in skin care. Image credit: La Mer \r\n By Amirah Keaton for Luxur… [+4914 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "China",
+      "Lauder",
+      "Companies",
+      "Commerce",
+      "Estée",
+      "continued",
+      "care",
+      "chars",
+      "Luxur"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/estee-lauder-companies-raises-full-year-outlook-for-2026-fiscal/",
+    "title": "Estée Lauder Companies raises full-year outlook for 2026 fiscal",
+    "fetched_on": "2026-02-07T20:30:05.774100+00:00",
+    "content": "Commerce\r\nFebruary 6, 2026\r\n The group credits the shift to stronger demand in mainland China, continued fragrance momentum and growth in skin care. Image credit: La Mer \r\n By Amirah Keaton for Luxur… [+4924 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "China",
+      "Lauder",
+      "Companies",
+      "Commerce",
+      "Estée",
+      "fiscal",
+      "continued",
+      "care",
+      "chars"
+    ]
   }
 ]
