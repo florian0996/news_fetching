@@ -99645,5 +99645,45 @@
       "network",
       "issues"
     ]
+  },
+  {
+    "source": "Al Jazeera English [NewsAPI]",
+    "url": "https://www.aljazeera.com/features/longform/2026/2/7/vanishing-wildlife-at-egypts-lake-qarun-force-fishermen-to-abandon-trade",
+    "title": "Vanishing wildlife at Egypt’s Lake Qarun force fishermen to abandon trade",
+    "fetched_on": "2026-02-08T06:53:31.840153+00:00",
+    "content": "The Egyptian government believes that it should be given credit for its work to clean up the country's lakes.\r\nEl-Raghy said the Lake Qarun project began in 2018 and has run for about six years, aimi… [+3654 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Qarun",
+      "Egypt",
+      "Egyptian",
+      "Lake",
+      "Vanishing",
+      "wildlife",
+      "force",
+      "fishermen",
+      "abandon",
+      "trade"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd573b11-a059-46cd-b749-e4ee542c1fcb",
+    "title": "Vantage Credit Union Prep Zone | February 6, 2026",
+    "fetched_on": "2026-02-08T06:53:31.840153+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "including",
+      "chars",
+      "Zone",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Credit",
+      "Union"
+    ]
   }
 ]
