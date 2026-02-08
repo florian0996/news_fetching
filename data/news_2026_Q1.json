@@ -99925,5 +99925,64 @@
       "Bank",
       "Saturday"
     ]
+  },
+  {
+    "source": "Dev.to [NewsAPI]",
+    "url": "https://dev.to/pvgomes/java-in-2026-still-boring-still-powerful-still-printing-money-5ehj",
+    "title": "Java in 2026: still boring, still powerful, still printing money",
+    "fetched_on": "2026-02-08T14:30:12.693344+00:00",
+    "content": "Let’s be honest.\n\nJava is not sexy.\nNobody wakes up excited thinking “wow, I hope today I can write some beautiful enterprise Java code.”\n\n\nAnd yet…\n\nBanks, fintechs, payment processors, credit engin… [+5609 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Java",
+      "boring",
+      "powerful",
+      "honest",
+      "printing",
+      "money",
+      "Banks",
+      "wow",
+      "sexy",
+      "fintechs"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/44250629/sister-steals-siblings-credit-card-and-charges-6000-for-all-inclusive-resort-in-aruba-she-gets",
+    "title": "Sister steals sibling's credit card and charges $6,000 for all-inclusive resort in Aruba, she gets caught and states sibling \"owes her\" for watching her dog a couple of times, sibling says: 'They arrested her the next day'",
+    "fetched_on": "2026-02-08T14:30:12.693344+00:00",
+    "content": "Families are complicated, to say the least. Even healthy ones have their own spats every once in a while. It can be a maze of carefully-concocted conversations where every turn could reveal a twist, … [+1241 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aruba",
+      "Families",
+      "sibling",
+      "Sister",
+      "charges",
+      "owes",
+      "times",
+      "day",
+      "complicated",
+      "steals"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/interested-bond-etfs-schq-splb-125403682.html",
+    "title": "Interested in Bond ETFs? SCHQ and SPLB Offer Different Ways to Play Long-Duration Loans.",
+    "fetched_on": "2026-02-08T14:30:43.250478+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bond",
+      "Interested",
+      "ETFs",
+      "SCHQ",
+      "Loans",
+      "SPLB",
+      "Offer",
+      "Play",
+      "Long-Duration"
+    ]
   }
 ]
