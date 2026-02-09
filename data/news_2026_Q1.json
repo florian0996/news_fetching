@@ -101969,5 +101969,25 @@
       "target",
       "CalculatorDetermine"
     ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2026/02/08/credit-card-debt-is-keeping-households-in-the-hole-how-to-get-help/88579954007/",
+    "title": "Households coming up nearly $1,000 short each month. How to get help.",
+    "fetched_on": "2026-02-09T21:40:51.321915+00:00",
+    "content": "Gauging the personal pain that's hitting those buried by credit card debt and other bills often amounts to absolute disbelief over today's incredibly high interest rates.\r\nThe average rate on credit … [+10423 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Households",
+      "short",
+      "month",
+      "coming",
+      "credit",
+      "chars",
+      "Gauging",
+      "personal",
+      "pain",
+      "hitting"
+    ]
   }
 ]
