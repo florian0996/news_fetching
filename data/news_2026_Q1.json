@@ -100739,5 +100739,65 @@
       "NBC",
       "Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-09/canadian-solar-seeks-private-credit-to-bolster-us-operations",
+    "title": "Canadian Solar Seeks Private Credit to Bolster US Operations",
+    "fetched_on": "2026-02-09T05:02:13.048112+00:00",
+    "content": "Canadian Solar Inc. is seeking a $350 million private credit loan to expand its US operations, according to people familiar with the matter, as Washington steps up scrutiny of imports from China.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Solar",
+      "Canadian",
+      "Private",
+      "Credit",
+      "Operations",
+      "China",
+      "Seeks",
+      "Bolster",
+      "Inc.",
+      "Washington"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-says-honesty-is-alive-as-a-security-guard-returns-his-fallen-credit-card/articleshow/128058281.cms",
+    "title": "Anupam Kher says 'honesty is alive' as a security guard returns his fallen credit card",
+    "fetched_on": "2026-02-09T05:02:11.904083+00:00",
+    "content": "Follow Us On Social Media",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Media",
+      "Kher",
+      "Follow",
+      "Social",
+      "Anupam",
+      "honesty",
+      "alive",
+      "security",
+      "guard",
+      "returns"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2026/02/09/private-credit-software-firms-fall-ai-fears.html",
+    "title": "Private credit worries resurface in $3 trillion market as AI pressures software firms",
+    "fetched_on": "2026-02-09T05:02:40.677669+00:00",
+    "content": "Artificial intelligence is adding a new layer of uncertainty to the private credit industry, raising concerns that some lenders may face rising defaults.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Artificial",
+      "Private",
+      "credit",
+      "trillion",
+      "industry",
+      "raising",
+      "defaults",
+      "worries",
+      "resurface",
+      "market"
+    ]
   }
 ]
