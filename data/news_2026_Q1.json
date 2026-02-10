@@ -104602,5 +104602,125 @@
       "earnings",
       "lending"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-10/commonwealth-bank-s-profit-tops-estimates-as-business-loans-grow",
+    "title": "Commonwealth Bank Profit Tops Estimates on Business Loans",
+    "fetched_on": "2026-02-10T21:51:58.805892+00:00",
+    "content": "Commonwealth Bank of Australia’s first-half profit topped estimates, buoyed by growth in its flagship mortgage business and a push in lending more to companies.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Commonwealth",
+      "Profit",
+      "Estimates",
+      "Business",
+      "Tops",
+      "Loans",
+      "Australia",
+      "buoyed",
+      "companies"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-10/bond-dealers-push-up-bdc-trading-costs-amid-software-slide",
+    "title": "Bond Dealers Push Up Private Credit Fund Trading Costs Amid Software Slide",
+    "fetched_on": "2026-02-10T21:51:59.291242+00:00",
+    "content": "Wall Street dealers are demanding higher compensation to trade corporate bonds issued by private credit funds, as investors turn squeamish about the funds’ exposure to software firms facing artificial intelligence disruption.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Private",
+      "Dealers",
+      "Software",
+      "Push",
+      "Trading",
+      "Costs",
+      "Amid",
+      "Slide",
+      "Wall"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2026-02-10/credit-edge-tech-debt-binge-is-just-getting-started-podcast",
+    "title": "Credit Edge: Tech Debt Binge Is Just Getting Started (Podcast)",
+    "fetched_on": "2026-02-10T21:51:59.164038+00:00",
+    "content": "Technology companies flooding debt markets are just getting started on funding a $4 trillion artificial intelligence boom, according to Bloomberg Intelligence. “This is the tip of the iceberg,” Robert Schiffman, BI’s senior tech credit analyst, tells Bloomberg News’ James Crombie in this special episode of the Credit Edge podcast. “A lot will depend on at what pace industries are embracing AI technologies,” adds Anurag Rana, a senior BI equity analyst who also covers the sector. BI expects AI ca",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Started",
+      "Debt",
+      "intelligence",
+      "Technology",
+      "Edge",
+      "Binge",
+      "Podcast",
+      "Credit",
+      "Bloomberg",
+      "Tech"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4366141/posts",
+    "title": "Astronomy Picture of the Day - Miranda Revisited",
+    "fetched_on": "2026-02-10T21:51:58.244183+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Miranda RevisitedNASA ^\r\n | 9 Feb, 2026\r\n | Image Credit: NASA, JPL, Voyager 2; Processing &amp; License: Flickr: zelario12; Text: Keighley Rockclif\r… [+3055 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Picture",
+      "Miranda",
+      "Astronomy",
+      "Revisited",
+      "Skip",
+      "Feb",
+      "NASA",
+      "JPL",
+      "Voyager"
+    ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2026/02/watch-florida-bar-owner-perfectly-handles-whiny-leftist/",
+    "title": "WATCH: Florida Bar Owner Perfectly Handles Whiny Leftist Complaining About Him Playing TPUSA’s “All-American Halftime Show” Instead of Bad Bunny’s Disgusting Performance",
+    "fetched_on": "2026-02-10T21:51:58.244183+00:00",
+    "content": "A Florida bar and grill owner perfectly handles a feftist whining about not getting to see Bad Bunny perform. Credit: boogieboyee TikTok\r\nA bar owner is going viral for how he perfectly handled a lou… [+2064 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Florida",
+      "Bad",
+      "Bunny",
+      "WATCH",
+      "Handles",
+      "Show",
+      "Bar",
+      "Owner",
+      "Perfectly",
+      "Whiny"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/02/09/upcycling-an-ipad-into-a-touchscreen-display-for-your-pc/",
+    "title": "Upcycling an iPad into a Touchscreen Display for your PC",
+    "fetched_on": "2026-02-10T21:51:58.244183+00:00",
+    "content": "Installing an RPi Pico board like it’s a modchip. (Credit: Tucker Osman, YouTube)\r\nAlthough generally iPads tend to keep their resale value, there are a few exceptions, such as when you find yourself… [+1227 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Touchscreen",
+      "Display",
+      "Installing",
+      "Pico",
+      "Upcycling",
+      "modchip",
+      "Credit",
+      "RPi",
+      "board",
+      "Tucker"
+    ]
   }
 ]
