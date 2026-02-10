@@ -103142,5 +103142,366 @@
       "firm",
       "Deal"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-10/the-pulse-2-10-2026-video",
+    "title": "Alphabet's Ultra-Rare 100-Year Bond; Starmer Survives, For Now | The Pulse 2/10/2026",
+    "fetched_on": "2026-02-10T13:18:38.699773+00:00",
+    "content": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Andrea Orcel, UniCredit, CEO; Arend Kapteyn, UBS Investment Bank, Global Head of Economics & Strategy Research; Jim O'Neill, UK House of Lords, Member; Leslie Vinjamuri, Chicago Council on Global Affairs, President & CEO.\n\nCorrects to say 'Takaichi Trade' in graphic at 22:38. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pulse",
+      "Bond",
+      "Starmer",
+      "Survives",
+      "Lacqua",
+      "CEO",
+      "Francine",
+      "global",
+      "economics",
+      "Alphabet"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-10/moody-s-cuts-stellantis-rating-after-profit-cash-flow-downgrade",
+    "title": "Moody’s Cuts Stellantis Rating After Profit, Cash Flow Downgrade",
+    "fetched_on": "2026-02-10T13:18:39.452853+00:00",
+    "content": "Moody’s Ratings has downgraded Stellantis NV’s credit rating, following the carmaker’s preliminary results and EV pivot that point to returns taking longer than expected to improve.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stellantis",
+      "Moody",
+      "Profit",
+      "Cash",
+      "Rating",
+      "Cuts",
+      "Flow",
+      "Downgrade",
+      "improve",
+      "Ratings"
+    ]
+  },
+  {
+    "source": "Autocar [NewsAPI]",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/touchscreens-wrong-technology-main-car-controls-says-iphone-designer",
+    "title": "Touchscreens 'wrong technology' for main car controls, says iPhone designer",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Touchscreens are “the wrong technology to be the primary interface” in cars, according to the man who designed the iPhone and iPad.\r\nMany car designers credit Jony Ive’s 2007 creation – the first pho… [+1840 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Touchscreens",
+      "wrong",
+      "technology",
+      "iPhone",
+      "controls",
+      "interface",
+      "iPad",
+      "car",
+      "main",
+      "primary"
+    ]
+  },
+  {
+    "source": "Autocar [NewsAPI]",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/touchscreens-wrong-technology-main-car-controls-says-iphone-creator",
+    "title": "Touchscreens \"wrong technology\" for main car controls, says iPhone creator",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Touchscreens are “the wrong technology to be the primary interface” in cars, Jony Ive, the man who created the iPhone, iPad and more, has told Autocar.\r\nMany car designers credit Ive’s 2007 creation … [+1973 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Touchscreens",
+      "Jony",
+      "Autocar",
+      "wrong",
+      "technology",
+      "Ive",
+      "iPhone",
+      "controls",
+      "interface",
+      "iPad"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/bad-bunny-super-bowl-halftime-show-2026-5369567/",
+    "title": "Bad Bunny’s Super Bowl 2026 Halftime Show: A Recap",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Image Credit: AFP via Getty Images\r\nBad Bunny delivered a history-making performance for his 2026 Super Bowl Halftime Show. In September 2025, the NFL confirmed that the global superstar would headli… [+2072 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Show",
+      "Bunny",
+      "Super",
+      "Bowl",
+      "Halftime",
+      "Credit",
+      "AFP",
+      "Bad",
+      "Recap",
+      "Getty"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/wicked-for-good-netflix-release-date/",
+    "title": "‘Wicked: For Good’ Confirms Peacock and Netflix Streaming Release Dates",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Picture Credit: Universal Pictures\r\nFirst reported over the weekend and confirmed during the Super Bowl, Wicked: For Good is headed to streaming in the United States. As part of the major “Pay-1” lic… [+2904 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wicked",
+      "Streaming",
+      "Credit",
+      "Universal",
+      "Bowl",
+      "States",
+      "Good’",
+      "Confirms",
+      "Peacock",
+      "Netflix"
+    ]
+  },
+  {
+    "source": "Business Standard [NewsAPI]",
+    "url": "https://www.business-standard.com/finance/news/bob-slashes-car-loan-rates-by-30-bps-to-7-6-effective-immediately-126020901182_1.html",
+    "title": "BoB slashes car loan rates by 30 bps to 7.6%, effective immediately",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "State-owned Bank of Baroda (BoB) on Monday announced a 30-basis-point reduction in its car loan interest rates, effective immediately.\r\nThe bank's floating rate now starts from 7.6 per cent per annum… [+947 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "effective",
+      "Baroda",
+      "BoB",
+      "State-owned",
+      "Monday",
+      "car",
+      "loan",
+      "immediately",
+      "Bank",
+      "bps"
+    ]
+  },
+  {
+    "source": "The Denver Post [NewsAPI]",
+    "url": "https://www.denverpost.com/2026/02/09/colorado-family-tax-credits-child-poverty-legislature/",
+    "title": "Colorado’s family-oriented tax credits gave ‘light and hope’ to one mom — but costs make their future uncertain",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "When Bukola Arije received a slew of new and expanded state tax credits last year to help raise her three children, she saw not only a chance to catch up on bills. She also saw a rare opportunity to … [+11441 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "tax",
+      "credits",
+      "Bukola",
+      "Arije",
+      "Colorado",
+      "gave",
+      "light",
+      "mom",
+      "children",
+      "bills"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/09/3234442/0/en/Loan-Origination-Software-Market-Set-to-Surpass-US-11-44-Billion-by-2032-AI-Driven-Decisioning-Cloud-Adoption-and-Digital-Lending-Accelerate-Market-Expansion-Says-Astute-Analytica.html",
+    "title": "Loan Origination Software Market Set to Surpass US$ 11.44 Billion by 2032 | AI-Driven Decisioning, Cloud Adoption, and Digital Lending Accelerate Market Expansion Says Astute Analytica",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Chicago, Feb. 09, 2026 (GLOBE NEWSWIRE) -- According to recent data from Astute Analytica, the global loan origination software market generated a revenue of nearly US$ 4.57 billion in 2023 and is po… [+10407 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Feb.",
+      "Market",
+      "Origination",
+      "Software",
+      "Billion",
+      "Astute",
+      "Analytica",
+      "Decisioning",
+      "Cloud",
+      "Adoption"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/samsung-production-hints-foldable-iphone-taking-the-world-by-storm_id178060",
+    "title": "Samsung’s production plans hint at the foldable iPhone taking the world by storm",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "*Image credit Ben GeskinThe long-awaited foldable iPhone is expected to finally become a reality later this year, when Apple will release it alongside the iPhone 18 Pro and the iPhone 18 Pro Max. Sam… [+1609 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "iPhone",
+      "Image",
+      "Max",
+      "foldable",
+      "Ben",
+      "Apple",
+      "Samsung",
+      "storm",
+      "year"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-allows-gold-silver-pledged-voluntarily-for-collateral-free-mse-loans/articleshow/128135636.cms",
+    "title": "RBI allows gold, silver pledged voluntarily for collateral-free MSE loans",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Nearly a year after extending a similar provision to agricultural loans, the Reserve Bank of India (RBI) has clarified that banks may accept gold and silver voluntarily pledged by borrowers for loans… [+1389 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "India",
+      "chars",
+      "MSE",
+      "Reserve",
+      "loans",
+      "gold",
+      "silver",
+      "pledged",
+      "voluntarily"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-allows-gold-silver-pledged-voluntarily-for-collateral-free-mse-loans/articleshow/128114817.cms",
+    "title": "RBI allows gold, silver pledged voluntarily for collateral-free MSE loans",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Nearly a year after extending a similar provision to agricultural loans, the Reserve Bank of India (RBI) has clarified that banks may accept gold and silver voluntarily pledged by borrowers for loans… [+1389 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "India",
+      "chars",
+      "MSE",
+      "Reserve",
+      "loans",
+      "gold",
+      "silver",
+      "pledged",
+      "voluntarily"
+    ]
+  },
+  {
+    "source": "Harvard School of Engineering and Applied Sciences [NewsAPI]",
+    "url": "https://corpgov.law.harvard.edu/2026/02/09/financial-crises-new-insights/",
+    "title": "Financial Crises: New Insights",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Financial crises, like disease outbreaks, are recurring events with devastating consequences.  Contagious and difficult to control, crises trigger steep declines in asset prices, disrupt credit inter… [+7212 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Financial",
+      "Insights",
+      "Crises",
+      "outbreaks",
+      "consequences",
+      "disease",
+      "recurring",
+      "events",
+      "devastating",
+      "chars"
+    ]
+  },
+  {
+    "source": "Business Standard [NewsAPI]",
+    "url": "https://www.business-standard.com/industry/news/up-govt-sees-priority-sector-credit-potential-at-9-14-trillion-in-fy27-126020901107_1.html",
+    "title": "UP govt sees priority sector credit potential at ₹9.14 trillion in FY27",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "The chief minister said the state is introducing artificial intelligence (AI) in agriculture to strengthen the farm economy and is the first state in the country to collaborate with the World Bank in… [+35 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "state",
+      "chars",
+      "World",
+      "Bank",
+      "trillion",
+      "intelligence",
+      "govt",
+      "priority",
+      "sector",
+      "credit"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-this-week-february-9th-to-15th-2026/",
+    "title": "What’s Coming to Netflix This Week: February 9th to 15th, 2026",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "Picture Credit: Universal Television and Universal Pictures\r\nIts a massive week for Netflix as we cross the midpoint of February 2026, bringing a powerhouse mix of live-action blockbusters, prestige … [+4798 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "prestige",
+      "chars",
+      "Credit",
+      "Netflix",
+      "Universal",
+      "Week",
+      "Coming",
+      "Television",
+      "bringing"
+    ]
+  },
+  {
+    "source": "Nation.Cymru [NewsAPI]",
+    "url": "https://nation.cymru/news/25-women-receive-payouts-following-gynaecological-surgery-by-one-doctor-at-welsh-health-board/",
+    "title": "25 women receive payouts following gynaecological surgery by one doctor at Welsh health board",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "(L) Derek Klazinga (R) Kerry Watson. Credit: Y Byd ar Bedwar, S4C | ITV Cymru Wales\r\nTwenty-five women have received compensation from a Welsh health board following gynaecological surgery carried ou… [+6151 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Derek",
+      "Klazinga",
+      "Kerry",
+      "Watson",
+      "Welsh",
+      "gynaecological",
+      "health",
+      "surgery",
+      "board",
+      "Bedwar"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/09/3234387/0/en/Prospect-Enhanced-Yield-Fund-a-Debt-Focused-Structured-Credit-Interval-Fund-Announces-10-6-Net-Annualized-3-Month-Total-Return-and-9-0-Cash-Dividend-Yield-on-Net-Asset-Value-on-Ful.html",
+    "title": "Prospect Enhanced Yield Fund, a Debt-Focused Structured Credit Interval Fund, Announces 10.6% Net Annualized 3-Month Total Return and 9.0% Cash Dividend Yield (on Net Asset Value) on Fully Deployed Anchor Capital",
+    "fetched_on": "2026-02-10T13:18:38.162828+00:00",
+    "content": "NEW YORK, Feb. 09, 2026 (GLOBE NEWSWIRE) -- Prospect Enhanced Yield Fund (the Fund, CUSIP PAYIX), a debt-focused structured credit interval fund with daily net asset value and quarterly mandatory liq… [+13427 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "Yield",
+      "Enhanced",
+      "Prospect",
+      "Net",
+      "Structured",
+      "Credit",
+      "Interval",
+      "Asset",
+      "Announces"
+    ]
+  },
+  {
+    "id": "67324512d99642e2962b4b9880ab28ad",
+    "source": "Luca Frignani | Exaloan <luca.frignani@exaloan.com> [Newsletter]",
+    "url": "",
+    "title": "FW: Commerzbank übertrifft Ergebnisziel – und kündigt weiteren Aktienrückkauf an",
+    "fetched_on": "2026-02-10T13:18:57.114517+00:00",
+    "content": "\r\n________________________________\r\nFrom: Finanz-Szene  Der Newsletter <newsletter@finanz-szene.de>\r\nSent: Tuesday, 10 February 2026 13:29:03 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna\r\nTo: Luca Frignani | Exaloan <luca.frignani@exaloan.com>\r\nSubject: Commerzbank übertrifft Ergebnisziel  und kündigt weiteren Aktienrückkauf an\r\n\r\nFinanz-Szene ist der Branchen-Newsletter für Banken und Fintechs\r\n[https://mcusercontent.com/44c6f60586bc54f2917f00498/images/76739326-3b23-34b7-1a12-6c448a7579c1.png]\r\nAnzeige\r\n[https://mcusercontent.com/44c6f60586bc54f2917f00498/images/504fd4cf-3171-5b9f-3630-855e5621b218.jpg] <https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=a3c72b5a8f&e=8f69674dd2>\r\nCommerzbank übertrifft Ergebnisziel  und kündigt weiteren Aktienrückkauf an\r\n\r\nDie Commerzbank hat die eigentlich für Mittwochfrüh geplante Veröffentlichung ihrer Zahlen teilweise vorgezogen. Wie das Institut am Mittag mitteilte, lag das Nettoergebnis im abgelaufenen Geschäftsjahr bei 2,63 Mrd. Euro inklusive Restrukturierung  etwas mehr als die prognostizierten 2,5 Mrd. Euro (und minimal über dem Analysten-Konsens). Bereinigt um die Restrukturierungs-Aufwendungen stieg der Gewinn um rund 13 % auf 3,0 Mrd. Euro.\r\n\r\n\"2025 war für die Commerzbank ein sehr erfolgreiches Geschäftsjahr\", wird Vorstandschefin Bettina Orlopp in der Mitteilung zitiert. \"Insgesamt geben wir 2,7 Mrd. Euro an Kapital zurück und damit sogar etwas mehr, als wir ursprünglich versprochen hatten.\" Zu diesem Zwecke habe der Vorstand heute den Start eines weiteren Aktienrückkaufs beschlossen. Vom 12. Februar an werde die Bank eigene Aktien im Volumen von bis zu 540 Mio. Euro zurückkaufen.\r\n\r\nCopyright © 2026 finanz-szene.de, All rights reserved.\r\n\r\nSie erhalten diese E-Mail, weil Sie sich auf unserer Website dafür eingetragen haben.\r\n\r\nFinanz-Szene GmbH (haftungsbeschränkt) mit Sitz in Hamburg,\r\neingetragen im Handelsregister des Amtsgerichts Hamburg unter HRB 169636,\r\ngeschäftsansässig: Eimsbütteler Straße 93, 22769 Hamburg\r\nImpressum<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=c1449f1a58&e=8f69674dd2>\r\n\r\n\r\nHier können Sie Ihr Abonnement verwalten<https://finanz-szene.us16.list-manage.com/profile?u=44c6f60586bc54f2917f00498&id=469b9c479d&e=8f69674dd2&c=0d7baf65da>.\r\n\r\nFalls Sie den Newsletter nicht mehr erhalten wollen,\r\nkönnen Sie ihn hier einfach abbestellen<https://finanz-szene.us16.list-manage.com/unsubscribe?u=44c6f60586bc54f2917f00498&id=469b9c479d&t=b&e=8f69674dd2&c=0d7baf65da>.\r\n\r\n[Email Marketing Powered by Mailchimp]<https://login.mailchimp.com/signup/email-referral/?aid=44c6f60586bc54f2917f00498>\r\n\r\nExaloan AG | Registergericht/Registration: Amtsgericht/Local Court Frankfurt am Main HRB 115711 | Vorstand/Executive Board: Luca Frignani | Aufsichtsrat/Supervisory Board: Andreas Höfner (Vorsitz/ Chairman), Dr. Tom Oliver Schorling, Thomas Nicolas\r\n\r\nDiese Nachricht und alle Anlagen sind vertraulich und ausschließlich für den im Adressfeld genannten Adressaten bestimmt. Bitte informieren Sie uns, wenn Sie nicht der vorgesehene Empfänger sein sollten und löschen Sie diese Nachricht und alle Anlagen in Ihrem System. Vielen Dank. Jede unbefugte Nutzung, Weiterleitung, Veränderung, Offenlegung gegenüber Dritten oder Fertigung einer Kopie ist unzulässig. Da wir nicht die Echtheit oder Vollständigkeit der in dieser Nachricht enthaltenen Informationen garantieren können, schließen wir jede rechtliche Verbindlichkeit der vorstehenden Erklärungen und Äußerungen aus.\r\n\r\nThis message and any attachment are confidential and may be privileged or otherwise protected from disclosure. It is intended solely for the mentioned person in the address field. Please inform us, if you are not the intended recipient and delete the message and any attachment from your system. Thank you. Any use, modification, unauthorized dissemination, distribution or copying hereof is prohibited. As we cannot guarantee the genuineness or completeness of the information in the message, the statements set forth above are not legally binding.\r\n",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ergebnisziel",
+      "übertrifft",
+      "kündigt",
+      "Mrd",
+      "Commerzbank",
+      "Sie",
+      "und",
+      "Tuesday",
+      "February",
+      "UTC"
+    ]
   }
 ]
