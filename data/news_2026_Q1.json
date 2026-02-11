@@ -105582,5 +105582,65 @@
       "Berlin",
       "Bern"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-11/hedge-fund-steps-up-srt-buying-to-lure-private-credit-investors",
+    "title": "Seer Capital Steps Up SRT Buying to Woo Private Credit Investors",
+    "fetched_on": "2026-02-11T09:56:35.658128+00:00",
+    "content": "Hedge fund Seer Capital Management LP is stepping up purchases of significant risk transfers in a bid to lure investors who still want exposure to loans but are wary of the rout in private credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Capital",
+      "Seer",
+      "Private",
+      "Credit",
+      "Investors",
+      "Steps",
+      "SRT",
+      "Buying",
+      "Woo",
+      "Hedge"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/brandhub/the-smart-borrowers-checklist-things-to-keep-in-mind-before-you-apply-for-a-loan/article70595938.ece",
+    "title": "The Smart Borrower’s Checklist: Things to Keep in Mind Before You Apply for a Loan",
+    "fetched_on": "2026-02-11T09:56:35.036861+00:00",
+    "content": "Customers have access to several kinds of loans from banking and non-banking lenders. Borrowers can choose from a wide range of lending products such as car loans, home loans, education loans and the… [+4974 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Checklist",
+      "Things",
+      "Smart",
+      "Mind",
+      "Apply",
+      "Customers",
+      "loans",
+      "lenders",
+      "access",
+      "kinds"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-cards/2026/nearly-3-in-4-premium-cardholders-used-a-card-linked-offer-in-the-past-year/",
+    "title": "Nearly 3 in 4 Premium Cardholders Used a Card-Linked Offer in the Past Year",
+    "fetched_on": "2026-02-11T09:56:35.036861+00:00",
+    "content": "Consumers who pay the most for their credit cards turn out to be the ones least likely to ignore them. Just 3.9% of premium cardholders report rarely or never using their high-fee plastic, making the… [+3510 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Offer",
+      "Past",
+      "Year",
+      "Consumers",
+      "Premium",
+      "Cardholders",
+      "Card-Linked",
+      "pay",
+      "credit",
+      "cards"
+    ]
   }
 ]
