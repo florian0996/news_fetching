@@ -108354,5 +108354,45 @@
       "Fee",
       "daysAdditional"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-12/-ai-scare-trade-are-investors-overreacting-video",
+    "title": "'AI Scare Trade': Are Investors Overreacting?",
+    "fetched_on": "2026-02-12T05:00:03.254298+00:00",
+    "content": "Kim Forrest, CIO at Bokeh Capital Partners, says markets are overreacting to the so-called \"AI scare trade\" after investors rushed to dump shares of software firms, private credit companies, wealth managers and insurance brokers within the span of just over a week. She speaks with Shery Ahn and Avril Hong on Bloomberg's The Asia Trade. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trade",
+      "Scare",
+      "Investors",
+      "Overreacting",
+      "Bloomberg",
+      "Forrest",
+      "CIO",
+      "Partners",
+      "Source",
+      "Bokeh"
+    ]
+  },
+  {
+    "source": "Study Finds [NewsAPI]",
+    "url": "https://studyfinds.org/smart-underwear-tracks-gut-bacteria-measuring-flatulence/",
+    "title": "Scientists Create 'Smart' Underwear That Monitors Gut Health...",
+    "fetched_on": "2026-02-12T05:00:01.394307+00:00",
+    "content": "(Credit: CGN089/Shutterstock)\r\n<ul><li>Scientists developed a wearable sensor that clips onto underwear and monitors gut bacteria activity by measuring hydrogen gas in flatulence for up to a week on … [+11301 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Smart",
+      "Create",
+      "Health",
+      "Scientists",
+      "Credit",
+      "Shutterstock",
+      "Monitors",
+      "Gut",
+      "Underwear",
+      "chars"
+    ]
   }
 ]
