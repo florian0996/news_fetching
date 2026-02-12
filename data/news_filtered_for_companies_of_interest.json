@@ -1,6 +1,31 @@
 {
-  "2026-02-11": {
+  "2026-02-12": {
     "status": "no company in the news"
+  },
+  "2026-02-11": {
+    "articles": [
+      {
+        "title": "FW: Turkish startups to watch",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: The AI Grim Reaper Eyes Financials",
+        "url": null,
+        "platforms_mentioned": [
+          "Viola Credit"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: The AI Whateverpocalypse Trade",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-10": {
     "status": "no company in the news"
