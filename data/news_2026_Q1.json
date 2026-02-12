@@ -108577,5 +108577,65 @@
       "Thursday",
       "February"
     ]
+  },
+  {
+    "source": "Business Standard [NewsAPI]",
+    "url": "https://www.business-standard.com/markets/news/sbi-pips-tcs-takes-4th-spot-in-market-cap-ranking-stock-up-10-in-3-days-126021100679_1.html",
+    "title": "SBI pips TCS, takes 4th spot in market-cap ranking; stock up 10% in 3 days",
+    "fetched_on": "2026-02-12T07:53:38.216820+00:00",
+    "content": "At 11:55 AM on Wednesday; SBI's market cap stood at 10.78 trillion, as compared to TCS's market cap of 10.68 trillion on the BSE, the exchange data shows.\r\nPhoto Credit: Ruby Sharma\r\nDeepak Korgaonka… [+4629 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SBI",
+      "TCS",
+      "Wednesday",
+      "BSE",
+      "trillion",
+      "market",
+      "cap",
+      "spot",
+      "ranking",
+      "stock"
+    ]
+  },
+  {
+    "source": "Helpdeskgeek.com [NewsAPI]",
+    "url": "https://helpdeskgeek.com/how-to-stop-laptop-battery-drain-10-pro-tips-to-save-your-power/",
+    "title": "How to Stop Laptop Battery Drain: 10 Pro Tips to Save Your Power",
+    "fetched_on": "2026-02-12T07:53:38.216820+00:00",
+    "content": "10 Pro Tips To Stop Battery DrainImage Credit Wondershare Recoverit\r\nWatching your laptop battery drop from 100% to 10% in just minutes, instead of hours, is a frustrating experience for most users.\r… [+5391 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "Tips",
+      "Battery",
+      "Stop",
+      "Laptop",
+      "Drain",
+      "Power",
+      "Save",
+      "Credit",
+      "Wondershare"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/pagaya-technologies-pgy-aaa-rated-195636330.html",
+    "title": "Pagaya Technologies (PGY)’s AAA-Rated Personal Loan ABS Transaction Exceeds the Initial $600 Million Target By 33%",
+    "fetched_on": "2026-02-12T07:53:56.459184+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PGY",
+      "Technologies",
+      "Initial",
+      "Million",
+      "Personal",
+      "Loan",
+      "ABS",
+      "Transaction",
+      "Exceeds",
+      "Target"
+    ]
   }
 ]
