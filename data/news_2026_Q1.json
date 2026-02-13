@@ -111598,5 +111598,105 @@
       "Key",
       "unexpected"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/kotak-arm-raises-rs-3900-cr-private-credit-fund-from-domestic-investors/articleshow/128252193.cms",
+    "title": "Kotak arm raises Rs 3,900 cr private credit fund from domestic investors",
+    "fetched_on": "2026-02-13T10:41:41.792638+00:00",
+    "content": "Mumbai: Kotak Alternate on Thursday announced a Rs 3,900 crore fundraise, which will be deployed in private credit opportunities.The entire amount has been raised from domestic investors, including f… [+1025 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kotak",
+      "chars",
+      "Mumbai",
+      "domestic",
+      "Alternate",
+      "Thursday",
+      "private",
+      "credit",
+      "investors",
+      "crore"
+    ]
+  },
+  {
+    "source": "CNBC [NewsAPI]",
+    "url": "https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html",
+    "title": "Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race",
+    "fetched_on": "2026-02-13T10:41:41.792638+00:00",
+    "content": "Alphabet's rare 100-year sterling bond is the latest sign of late-cycle exuberance in credit markets, strategists say, as tech hyperscalers ramp up borrowing to historic levels to fund vast data cent… [+4829 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "sterling",
+      "chars",
+      "Alphabet",
+      "bond",
+      "rare",
+      "markets",
+      "strategists",
+      "cent",
+      "raising",
+      "fears"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/coming-soon/dutch-netflix-slate-2026-all-the-new-movies-series-coming-this-year/",
+    "title": "Dutch Netflix Slate 2026: All The New Movies & Series Coming This Year",
+    "fetched_on": "2026-02-13T10:41:41.792638+00:00",
+    "content": "Picture Credits: Netflix\r\nOver the past few weeks, several countries have unveiled new titles set to arrive on Netflix in 2026. While the Benelux did not host a major showcase event this year, a numb… [+3942 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Slate",
+      "Movies",
+      "Series",
+      "Credits",
+      "Coming",
+      "Picture",
+      "Year",
+      "Dutch",
+      "weeks"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/in-prestige-beauty-category-hair-outpacing-fragrance-purchases-in-us-circana/",
+    "title": "In prestige beauty category, hair outpacing fragrance purchases in US: Circana",
+    "fetched_on": "2026-02-13T10:41:41.792638+00:00",
+    "content": "Research\r\nFebruary 12, 2026\r\n American model Emily Ratajkowski for luxury haircare brand Kérastase, owned by L'Oréal Group. Image credit: Kérastase \r\n By Amirah Keaton\r\nU.S. beauty retail delivered a… [+4402 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Circana",
+      "February",
+      "American",
+      "Group",
+      "Research",
+      "Emily",
+      "Ratajkowski",
+      "Kérastase",
+      "category",
+      "hair"
+    ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2026/02/12/g-s1-100821/sarah-mclachlan-tiny-desk-concert",
+    "title": "Sarah McLachlan: Tiny Desk Concert",
+    "fetched_on": "2026-02-13T10:41:41.792638+00:00",
+    "content": "Credit: Photo: Michael Zamora/NPR\r\nDuring a Sarah McLachlan\r\n performance, the chills come when you least expect them. One of the most expressive singer-songwriters of her generation, McLachlan makes… [+2166 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Photo",
+      "Sarah",
+      "Tiny",
+      "Credit",
+      "Michael",
+      "Zamora",
+      "NPR",
+      "Desk",
+      "Concert",
+      "McLachlan"
+    ]
   }
 ]
