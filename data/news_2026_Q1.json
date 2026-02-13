@@ -111378,5 +111378,45 @@
       "Europe",
       "event"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/kotak-alts-secures-record-3900-crore-first-close-for-private-credit-fund/article70622955.ece",
+    "title": "Kotak Alts secures record ₹3,900 crore first close for private credit fund",
+    "fetched_on": "2026-02-13T07:50:41.417220+00:00",
+    "content": "Kotak Alternate Asset Managers Limited announced Thursday the first close of its Kotak Yield &amp; Growth Fund at 3,900 crore ($430 million), marking the largest-ever domestic private credit fundrais… [+1358 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kotak",
+      "Yield",
+      "Growth",
+      "crore",
+      "million",
+      "chars",
+      "fund",
+      "Alts",
+      "Alternate",
+      "Asset"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/948032",
+    "title": "Gaming PC (No GPU): 7500F, 32GB DDR5 CL30, ASUS B850M + Free Gift $1288 | 7800X3D $1529 Delivered @ Radium PCs",
+    "fetched_on": "2026-02-13T07:50:41.417220+00:00",
+    "content": "Hi Everyone,\r\nWere running a double BYO GPU deal, perfect if youve already got a GPU (or youre waiting for the right card price).\r\nSurcharge: 0% Hello Clever, 1.37% credit/debit card, 4.52% Afteray.\r… [+2149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GPU",
+      "ASUS",
+      "Delivered",
+      "Free",
+      "Gift",
+      "Radium",
+      "BYO",
+      "Afteray",
+      "Gaming",
+      "deal"
+    ]
   }
 ]
