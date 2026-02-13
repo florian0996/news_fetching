@@ -112360,5 +112360,81 @@
       "redirect",
       "America"
     ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/pro/security/huge-onefly-data-breach-sees-traveler-ids-and-payment-details-leaked",
+    "title": "Huge OneFly data breach sees traveler IDs and payment details leaked",
+    "fetched_on": "2026-02-13T15:43:57.849265+00:00",
+    "content": "<ul><li>OneFly leaked thousands of sensitive customer records via unsecured Elasticsearch instance </li><li>Data included names, IDs, flight details, full credit card info, and JWT tokens</li><li>Cyb… [+2762 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cyb",
+      "data",
+      "chars",
+      "Elasticsearch",
+      "JWT",
+      "OneFly",
+      "IDs",
+      "details",
+      "leaked",
+      "Huge"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/rs-5-lakh-dicgc-bank-deposit-insurance-is-it-enough-or-should-the-govt-increase-it-11770896010378.html",
+    "title": "₹5 lakh DICGC bank deposit insurance: Is it enough or should the govt increase it?",
+    "fetched_on": "2026-02-13T15:43:57.849265+00:00",
+    "content": "Deposits are crucial for any bank, as these are further given out as loans. Hence, it is important that a depositor feels confident about the money deposited with the bank. For this, the Deposit Insu… [+5624 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DICGC",
+      "bank",
+      "lakh",
+      "insurance",
+      "deposit",
+      "govt",
+      "increase",
+      "Insu",
+      "Deposits",
+      "loans"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/02/frozen-ever-after-reopens-at-epcot-and-the-crowds-are-already-out-of-control-bwb1/",
+    "title": "Frozen Ever After Reopens at EPCOT and the Crowds Are Already Out of Control",
+    "fetched_on": "2026-02-13T15:43:57.849265+00:00",
+    "content": "If youve been anywhere near EPCOT this morning, you probably already know what the biggest story of the day is.\r\nCredit: Eric Lopez, Flickr\r\nFrozen Ever After is officially back open.\r\nAnd in true Di… [+8671 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EPCOT",
+      "Reopens",
+      "Crowds",
+      "Control",
+      "Frozen",
+      "morning",
+      "Eric",
+      "Lopez",
+      "Flickr",
+      "youve"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/credit-counseling-vs-debt-settlement-151706017.html",
+    "title": "Credit counseling vs. debt settlement: What to know to start your debt payoff",
+    "fetched_on": "2026-02-13T15:44:27.339953+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "settlement",
+      "payoff",
+      "debt",
+      "counseling",
+      "start"
+    ]
   }
 ]
