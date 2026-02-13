@@ -1,6 +1,24 @@
 {
-  "2026-02-12": {
+  "2026-02-13": {
     "status": "no company in the news"
+  },
+  "2026-02-12": {
+    "articles": [
+      {
+        "title": "FW: Ex-AI @ xAI",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Der Tag mit Europas Rüstungsindustrie im Fokus",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-11": {
     "articles": [
