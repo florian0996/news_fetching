@@ -111478,5 +111478,125 @@
       "crore",
       "access"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-13/china-posts-solid-credit-expansion-in-january-on-seasonal-boost",
+    "title": "China Posts Solid Credit Expansion in January on Seasonal Boost",
+    "fetched_on": "2026-02-13T09:48:15.630575+00:00",
+    "content": "China’s credit expansion picked up more than expected from a year ago in January, as financing activities benefited from seasonal factors.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "Credit",
+      "Expansion",
+      "China",
+      "Seasonal",
+      "Posts",
+      "Solid",
+      "Boost",
+      "factors",
+      "picked"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-13/ares-leads-1-4-billion-private-credit-loan-package-for-eg",
+    "title": "Ares Leads €1.4 Billion Private Credit Loan Package for EG",
+    "fetched_on": "2026-02-13T09:48:16.531923+00:00",
+    "content": "Ares Management Corp. is leading a private credit financing of about €1.4 billion ($1.7 billion) for Scandinavian software business EG A/S, people with knowledge of the matter said.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Private",
+      "Credit",
+      "Leads",
+      "Loan",
+      "Package",
+      "Management",
+      "Corp.",
+      "Scandinavian",
+      "people"
+    ]
+  },
+  {
+    "source": "Business Standard [NewsAPI]",
+    "url": "https://www.business-standard.com/markets/capital-market-news/prakash-industries-receives-upgrade-in-credit-ratings-126021200808_1.html",
+    "title": "Prakash Industries receives upgrade in credit ratings",
+    "fetched_on": "2026-02-13T09:48:14.799497+00:00",
+    "content": "Don't miss the most important news and views of the day. Get them on our \r\nTelegram channel\r\nFirst Published: Feb 12 2026 | 2:53 PMIST",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Industries",
+      "Feb",
+      "Prakash",
+      "day",
+      "Published",
+      "PMIST",
+      "receives",
+      "upgrade",
+      "credit",
+      "ratings"
+    ]
+  },
+  {
+    "source": "Tymr.digital [NewsAPI]",
+    "url": "https://www.tymr.digital/",
+    "title": "Show HN: Tymr – simple time tracking and invoicing for freelancers",
+    "fetched_on": "2026-02-13T09:48:14.799497+00:00",
+    "content": "Pricing\r\nUnlimited entries, invoices, and exports. No credit card, no trial, no catch.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tymr",
+      "invoices",
+      "Pricing",
+      "Unlimited",
+      "Show",
+      "simple",
+      "entries",
+      "exports",
+      "time",
+      "tracking"
+    ]
+  },
+  {
+    "source": "Bitcoinist [NewsAPI]",
+    "url": "https://bitcoinist.com/blockfills-freezes-client-funds-crypto-crisis/",
+    "title": "BlockFills Freezes Client Funds — Is Another Crypto Crisis Unfolding?",
+    "fetched_on": "2026-02-13T09:48:14.799497+00:00",
+    "content": "BlockFills, a Chicagobased cryptocurrency trading and lending firm that caters to institutional investors, has temporarily halted client deposits and withdrawals following the latest sharp downturn i… [+3077 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Funds",
+      "Unfolding",
+      "Freezes",
+      "Crypto",
+      "Crisis",
+      "BlockFills",
+      "Client",
+      "chars",
+      "Chicagobased",
+      "investors"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/brandhub/personal-loan-eligibility-explained-key-factors-to-qualify/article70622652.ece",
+    "title": "Personal Loan Eligibility Explained: Key Factors to Qualify",
+    "fetched_on": "2026-02-13T09:48:14.799497+00:00",
+    "content": "When unexpected expenses arise, a personal loan can offer quick relief. However, securing one depends on meeting specific eligibility criteria. Understanding these requirements is key to increasing y… [+4560 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Explained",
+      "Loan",
+      "Factors",
+      "Qualify",
+      "Personal",
+      "Eligibility",
+      "arise",
+      "relief",
+      "Key",
+      "unexpected"
+    ]
   }
 ]
