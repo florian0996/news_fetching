@@ -1,22 +1,22 @@
 [
   {
-    "source": "Bloomberg \u2013 Markets [RSS]",
+    "source": "Bloomberg \u2013 Politics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-13/us-details-new-china-limits-for-clean-energy-tax-credits",
-    "title": "US Clean Energy Still Seeking Answers After Tax Guidance",
-    "fetched_on": "2026-02-13T22:35:50.050787+00:00",
+    "title": "Trump\u2019s Tax Rules Still Unclear to US Clean-Energy Industry",
+    "fetched_on": "2026-02-13T23:32:55.093579+00:00",
     "content": "The Trump administration\u2019s interim guidance on clean energy tax credits released Thursday offered some relief to the industry by laying out a manageable path for new projects. But, it still left investors uncertain.",
     "platforms_mentioned": [],
     "keywords": [
-      "Clean",
-      "Energy",
-      "Tax",
-      "Guidance",
-      "Seeking",
-      "Answers",
       "Trump",
+      "Tax",
+      "Industry",
+      "Rules",
+      "Unclear",
       "Thursday",
       "projects",
-      "administration"
+      "Clean-Energy",
+      "administration",
+      "interim"
     ]
   },
   {
@@ -343,7 +343,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/funding-jumped-big-checks-ai-ye-2025/",
     "title": "Fintech Funding Jumped 27% In 2025 With Fewer Deals But Bigger Checks",
-    "fetched_on": "2026-02-13T22:36:15.330510+00:00",
+    "fetched_on": "2026-02-13T23:33:09.206444+00:00",
     "content": "Global venture funding to fintech startups climbed in 2025 to its highest level in several quarters, boosted by later-stage deals, Crunchbase data shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/record-breaking-seed-funding-us-ai-eoy-2025/",
     "title": "Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead",
-    "fetched_on": "2026-02-13T22:36:18.021598+00:00",
+    "fetched_on": "2026-02-13T23:33:11.295045+00:00",
     "content": "The seed investment environment exhibited its typical quirkiness in 2025. In particular, it was a huge year for huge rounds. Predictably, it was also a banner period for AI dealmaking with the U.S. pulling in a bigger-than-usual share of total investment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/10/new-york-fed-credit-card-debt-tops-1point28-trillion.html",
     "title": "Credit card debt tops $1.28 trillion \u2014 consistent with \u2018K-shaped\u2019 economic divide, New York Fed research shows",
-    "fetched_on": "2026-02-13T22:36:19.726748+00:00",
+    "fetched_on": "2026-02-13T23:33:13.209382+00:00",
     "content": "Collectively, Americans owe $1.28 trillion on their credit cards, according to a new report by the Federal Reserve Bank of New York.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/02/mortgage-delinquencies-housing-affordability.html",
     "title": "Housing affordability isn't just hurting buyers: More homeowners are falling behind on their mortgages",
-    "fetched_on": "2026-02-13T22:36:19.726888+00:00",
+    "fetched_on": "2026-02-13T23:33:13.209504+00:00",
     "content": "While the overall share of delinquencies among all mortgages remains small, the growth is occurring faster than late payments for other types of consumer loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/28/fed-decision-mortgage-rates-credit-cards-loans.html",
     "title": "Fed holds interest rates steady: What that means for mortgages, credit cards and loans",
-    "fetched_on": "2026-02-13T22:36:19.371584+00:00",
+    "fetched_on": "2026-02-13T23:33:12.701387+00:00",
     "content": "From mortgage rates and auto loans to credit cards and savings accounts, here's a look at how the January Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/26/fed-rates-may-hold-steady.html",
     "title": "Fed is likely to hold interest rates steady, resisting Trump pressure. Here\u2019s what that means for borrowers",
-    "fetched_on": "2026-02-13T22:36:19.371620+00:00",
+    "fetched_on": "2026-02-13T23:33:12.701421+00:00",
     "content": "From mortgage rates to auto loans and credit cards, here\u2019s a look at how the upcoming January Fed decision may affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -463,7 +463,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/23/c-pace-cre-lending-record-deals.html",
     "title": "Why a niche category of CRE lending is suddenly seeing record deals",
-    "fetched_on": "2026-02-13T22:36:19.371627+00:00",
+    "fetched_on": "2026-02-13T23:33:12.701428+00:00",
     "content": "C-PACE stands for commercial property assessed clean energy and is a type of financing that differs from a traditional bank loan. It's seeing explosive growth.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html",
     "title": "Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'",
-    "fetched_on": "2026-02-13T22:36:19.574956+00:00",
+    "fetched_on": "2026-02-13T23:33:12.912200+00:00",
     "content": "Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's \"Squawk Box.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -503,7 +503,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/05/private-credit-meltdown-fears-why-bondbloxx-isnt-worried-.html",
     "title": "Fixed-income ETF provider BondBloxx questions private credit meltdown fears, sees space as sensible way to generate income",
-    "fetched_on": "2026-02-13T22:36:19.575024+00:00",
+    "fetched_on": "2026-02-13T23:33:12.912288+00:00",
     "content": "BondBloxx's Joanna Gallegos, J.P. Morgan's former head of global ETF strategy, is confident private credit is a sensible way for investors to pursue income.",
     "platforms_mentioned": [],
     "keywords": [
@@ -523,7 +523,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/03/rocket-companies-shares-jump-6percent-after-ceo-says-mortgage-loan-volume-is-surging.html",
     "title": "Rocket Companies shares jump 6% after CEO says mortgage loan volume is surging",
-    "fetched_on": "2026-02-13T22:36:19.575044+00:00",
+    "fetched_on": "2026-02-13T23:33:12.912308+00:00",
     "content": "CEO Varun Krishna said his company is poised to post its strongest mortgage loan production in four years after a drop in borrowing costs helped revive demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/01/30/american-express-credit-card-high-spenders.html",
     "title": "American Express, credit card provider to the wealthy, wants even more high spenders",
-    "fetched_on": "2026-02-13T22:36:19.575077+00:00",
+    "fetched_on": "2026-02-13T23:33:12.912342+00:00",
     "content": "AmEx's strategy shift is the latest example of the K-shaped economy, in which wealthy consumers continue to spend freely while others rein in their expenses",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/09/cfpb-student-loan-complaints.html",
     "title": "Student loan complaints hit record high, CFPB finds \u2014 but the watchdog agency omits details",
-    "fetched_on": "2026-02-13T22:36:19.726762+00:00",
+    "fetched_on": "2026-02-13T23:33:13.209396+00:00",
     "content": "The Consumer Financial Protection Bureau's latest student loan report cites a record number of complaints from borrowers but leaves out certain information.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/09/pslf-public-service-loan-forgiveness-buyback-backlog.html",
     "title": "Some student loan borrowers wait over a year in public servant debt forgiveness backlog",
-    "fetched_on": "2026-02-13T22:36:19.726792+00:00",
+    "fetched_on": "2026-02-13T23:33:13.209409+00:00",
     "content": "More than 83,000 federal student loan borrowers are waiting for a Public Service Loan Forgiveness Buyback\u00a0application decision. What experts say to do while in line.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/06/trump-child-tax-credit.html",
     "title": "How Trump's child tax credit changes could impact your refund this season",
-    "fetched_on": "2026-02-13T22:36:19.726813+00:00",
+    "fetched_on": "2026-02-13T23:33:13.209429+00:00",
     "content": "The maximum child tax credit increased to $2,200 in 2025 based on changes enacted via President Donald Trump's \"big beautiful bill.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/04/student-loan-debt-retirement-savings.html",
     "title": "Older workers with student loan debt have less saved for retirement, Fidelity finds",
-    "fetched_on": "2026-02-13T22:36:19.726847+00:00",
+    "fetched_on": "2026-02-13T23:33:13.209463+00:00",
     "content": "Older workers with student debt have much smaller retirement account balances than their peers without the loans, a Fidelity report shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1764,7 +1764,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/personal-loan-deferment-144540238.html",
     "title": "Personal loan deferment: How to temporarily pause your payments",
-    "fetched_on": "2026-02-13T22:36:19.938509+00:00",
+    "fetched_on": "2026-02-13T23:33:13.447261+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -2041,7 +2041,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/student-loans/article/how-to-apply-for-federal-student-loans-203505397.html",
     "title": "How to apply for federal student loans: Compare the different types, loan limits, and more",
-    "fetched_on": "2026-02-13T18:54:25.727063+00:00",
+    "fetched_on": "2026-02-13T23:33:13.447042+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -2156,7 +2156,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-02-13/private-credit-s-software-bet-is-bigger-than-it-appears-video",
     "title": "Private Credit\u2019s Software Bet Is Bigger Than It Appears",
-    "fetched_on": "2026-02-13T22:35:51.301628+00:00",
+    "fetched_on": "2026-02-13T23:32:55.357596+00:00",
     "content": "A review of holdings across seven major business development companies found wide variation in how investments tied to the software sector are categorized. Olivia Fishlow reports on \"Bloomberg Open Interest.\"  (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -2476,7 +2476,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/13/ai-credit-markets.html",
     "title": "AI disruption could spark a \u2018shock to the system\u2019 in credit markets, UBS analyst says",
-    "fetched_on": "2026-02-13T22:36:19.574879+00:00",
+    "fetched_on": "2026-02-13T23:33:12.912117+00:00",
     "content": "UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2677,7 +2677,7 @@
     "source": "CNBC Top News [RSS]",
     "url": "https://www.cnbc.com/2026/02/13/interest-on-new-car-loans-tax-deductible.html",
     "title": "Interest on new car loans is now tax deductible up to $10,000\u2014here's how much buyers may actually save",
-    "fetched_on": "2026-02-13T22:36:18.944542+00:00",
+    "fetched_on": "2026-02-13T23:33:12.378078+00:00",
     "content": "A new tax break offers deductions of up to $10,000, but income limits and loan rules mean most buyers will see much smaller savings.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2891,8 +2891,8 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-02-13/real-yield-2-13-2025-video",
-    "title": "US CPI Fuels Fed Wagers, US Inflation Comes In Cooler Than Expected | Real Yield 2/13/2025",
-    "fetched_on": "2026-02-13T22:35:50.050937+00:00",
+    "title": "US CPI Fuels Fed Wagers, US Inflation Comes In Cooler Than Expected | Real Yield 2/13/2026",
+    "fetched_on": "2026-02-13T23:32:54.974116+00:00",
     "content": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Schwab Center for Financial Research Chief Fixed Income Strategist Kathy Jones, JPMorgan Private Bank Global Head of Macro & Fixed income Strategy Alexander Wolf, TCW Generalist Portfolio Manager, Fixed Income Jerry Cudzil and Invesco Head of North American Investment Grade Credit Matt Brill. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -2912,7 +2912,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-02-13/bloomberg-open-interest-2-13-2026-video",
     "title": "Inflation Data Calms Markets | Bloomberg Open Interest 2/13/2026",
-    "fetched_on": "2026-02-13T22:35:50.050943+00:00",
+    "fetched_on": "2026-02-13T23:32:54.974281+00:00",
     "content": "Inflation closing out a high-stakes week &mdash; with CPI coming in fairly mild. Meanwhile, the \"AI trade scare\" rattled markets this week. Today, logistics stocks are caught in the crossfire.\nAnd private credit\u2019s massive software bet? Bigger than investors may realize. Bloomberg uncovers at least 250 hidden investments worth more than $9 billion. Plus &mdash; building AI data centers in space.\u00a0 We speak with Phantom Space CEO James Cantrell on the new frontier. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -3072,7 +3072,7 @@
     "source": "Fox News [NewsAPI]",
     "url": "https://www.foxnews.com/media/cnn-host-kaitlan-collins-reveals-karoline-leavitt-defended-her-press-access-saudi-arabia",
     "title": "CNN host Kaitlan Collins reveals Karoline Leavitt defended her press access in Saudi Arabia",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "CNN host Kaitlan Collins credited White House press secretary Karoline Leavitt on Wednesday for defending the journalist while on a presidential trip to Saudi Arabia.\r\nCollins explained on Heather Mc\u2026 [+2988 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3092,7 +3092,7 @@
     "source": "The Advocate [NewsAPI]",
     "url": "https://www.theadvocate.com/baton_rouge/news/politics/national-guard-new-orleans-crime/article_ce9c4b1c-2ddb-5dc1-85bf-2a03b4b664ab.html",
     "title": "National Guard touts impact of operation in New Orleans. See the numbers.",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "Louisiana National Guard officials on Thursday took credit for New Orleans low crime rate, saying that their deployment to the city on the federal governments dime has led to positive trends, includi\u2026 [+423 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3112,7 +3112,7 @@
     "source": "Yale.edu [NewsAPI]",
     "url": "https://macmillan.yale.edu/stories/getting-creative-2025-leadership-africa-forum-entrepreneurship",
     "title": "2025 Leadership in Africa Forum spotlights entrepreneurship across the continent",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "Credit: Stephanie AnestisDr. Kassim Gidado, Chairman at Polaris Bank.\r\nAfrican entrepreneurship isn't just about adapting Western modelsit's about building solutions designed specifically for African\u2026 [+1669 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3132,7 +3132,7 @@
     "source": "Linkedin.com [NewsAPI]",
     "url": "https://www.linkedin.com/pulse/why-human-connection-smart-marketing-right-lending-partner-beaco-ekohc",
     "title": "Why Human Connection, Smart Marketing, and the Right Lending Partner Still Win in Real Estate",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "Technology continues to reshape real estate in many positive ways. AI tools can assist with automation, captions, and marketing ideas. These tools can improve efficiency and save time. However, techn\u2026 [+7005 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3211,7 +3211,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-02-13/ai-angst-issuance-wave-widen-credit-spreads-video",
     "title": "MAIA: Credit Spreads Widen Amid AI Concerns and Tech Bond Discounts",
-    "fetched_on": "2026-02-13T22:35:50.050817+00:00",
+    "fetched_on": "2026-02-13T23:32:54.974149+00:00",
     "content": "The segment discusses the recent modest widening of credit spreads, driven by both AI-related market fears and a surge in debt issuance. While the overall index shows little change, there is significant dispersion, particularly in leveraged loans and among certain software, insurance, and asset management firms experiencing notable price declines. For the first time since the financial crisis, tech bonds are trading at a discount, attributed to both increased supply and some weakening demand. The guest anticipates continued pressure on corporate spreads throughout the year, noting a structural rise in supply and some balance sheet weakening, though not to a level that threatens company stability.\n\nOriginal filename: 20260213_215152_Credit_Spreads_Widen_Amid_AI_Concerns_and_Tech_Bond_Discount.mp4 (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -3231,7 +3231,7 @@
     "source": "Luxurydaily.com [NewsAPI]",
     "url": "https://www.luxurydaily.com/b-corp-audit-updates-take-effect-this-month/",
     "title": "B Corp audit updates take effect this month",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "Sustainability\r\nFebruary 12, 2026\r\n More than 10,000 companies currently hold the certification. Image credit: B Lab \r\n By Zach James for Luxury Daily News Service\r\nGlobal nonprofit organization B La\u2026 [+5175 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3251,7 +3251,7 @@
     "source": "Hollywood Life [NewsAPI]",
     "url": "https://hollywoodlife.com/feature/are-madison-chock-evan-bates-married-5502979/",
     "title": "Are Madison Chock & Evan Bates Married? About the Olympic Skaters\u2019 Relationship",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "Image Credit: Getty Images\r\nAmerican ice dancers Madison Chock and Evan Bates have created buzz around the world with their performance skills and chemistry. But their relationship off the ice has ca\u2026 [+2462 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3271,7 +3271,7 @@
     "source": "LancasterOnline [NewsAPI]",
     "url": "https://lancasteronline.com/business/local_business/taylor-chip-reports-federal-loan-as-biggest-chunk-of-debt-in-bankruptcy-filing/article_bcf9007b-ff40-4c90-867a-7a39d1fbdc07.html",
     "title": "Taylor Chip reports federal loan as biggest chunk of debt in bankruptcy filing",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "Struggling with lagging sales at two costly new Philadelphia locations, Taylor Chip Cookie Co. secured a $1.95 million last June from the federal Small Business Administration.\r\nThat loan, which was \u2026 [+3135 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3291,7 +3291,7 @@
     "source": "What's on Netflix [NewsAPI]",
     "url": "https://www.whats-on-netflix.com/news/kpop-demon-hunters-2-unlikely-to-release-before-2030-sony-animation-bosses-confirm/",
     "title": "\u2018KPop: Demon Hunters 2\u2019 Unlikely to Release Before 2029, Sony Animation Bosses Confirm",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "Picture Credit: Netflix / Sony Pictures Animation\r\nBad news for fans of the biggest movie in Netflix history: You are going to be waiting a very long time for the encore. Sony Pictures Animation has \u2026 [+5318 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3311,7 +3311,7 @@
     "source": "Doctorofcredit.com [NewsAPI]",
     "url": "https://www.doctorofcredit.com/citi-to-focus-on-credit-cards-in-2026-more-details-to-come-on-investor-day/",
     "title": "Citi To Focus On Credit Cards In 2026 \u2013 More Details To Come On Investor Day",
-    "fetched_on": "2026-02-13T22:35:48.536076+00:00",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
     "content": "You can help support this site by using our links to Amazon &amp; eBay.\r\nAs an Amazon Associate I earn from qualifying purchases. Keep in mind that if you do use our links, you wont be able to earn c\u2026 [+173 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -3325,6 +3325,66 @@
       "eBay",
       "Citi",
       "links"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-13/companies-may-spend-to-defend-ai-risk-moody-s-pinto-video",
+    "title": "Companies May 'Spend to Defend' AI Risk: Moody's Pinto",
+    "fetched_on": "2026-02-13T23:32:55.357460+00:00",
+    "content": "Marc Pinto, Moody\u2019s Global Head of Private Credit, discusses rising investor anxiety amid a year-to-date decline in software stocks. He speaks with Katie Greifeld and Bailey Lipschultz on The Close. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Moody",
+      "Pinto",
+      "Spend",
+      "Defend",
+      "Risk",
+      "Credit",
+      "Marc",
+      "Global",
+      "Head",
+      "Private"
+    ]
+  },
+  {
+    "source": "Coloradoan [NewsAPI]",
+    "url": "https://www.coloradoan.com/story/sports/high-school/girls-basketball/2026/02/12/poudre-basketball-matea-burdick-named-blue-fcu-fort-colins-girls-athlete-week/88648294007/",
+    "title": "Poudre basketball's Matea Burdick named Blue FCU Girls Athlete of Week",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
+    "content": "This week's Blue Federal Credit Union Girls Athlete of the Week award is heading right back to the basketball court.\r\nPoudre basketball's Matea Burdick took top honors in the Fort Collins area for th\u2026 [+2273 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Athlete",
+      "Girls",
+      "Week",
+      "Blue",
+      "Matea",
+      "Poudre",
+      "Burdick",
+      "FCU",
+      "Federal",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Cool Hunting [NewsAPI]",
+    "url": "http://coolhunting.com/travel/the-next-level-of-luxury-travel-credit-card-offerings/",
+    "title": "The Next Level of Luxury Travel Credit Card Offerings",
+    "fetched_on": "2026-02-13T23:32:54.350250+00:00",
+    "content": "Credit card brands are expanding their luxury offerings to include highly curated trips, Michelin-starred meals and priority reservations\n\n\nRead\nTravel\r\n\n\n\n\n\nThe Next Level of Luxury Travel Credit Ca\u2026 [+7221 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Travel",
+      "Credit",
+      "Level",
+      "Luxury",
+      "Card",
+      "Michelin-starred",
+      "chars",
+      "Offerings",
+      "Read",
+      "trips"
     ]
   }
 ]
