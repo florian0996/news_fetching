@@ -1,6 +1,17 @@
 {
-  "2026-02-13": {
+  "2026-02-14": {
     "status": "no company in the news"
+  },
+  "2026-02-13": {
+    "articles": [
+      {
+        "title": "FW: They're calling it the Bondi top",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-12": {
     "articles": [
