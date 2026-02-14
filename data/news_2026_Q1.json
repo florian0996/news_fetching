@@ -114220,5 +114220,25 @@
       "hit",
       "reward"
     ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/dad-promised-help-pay-off-030110787.html",
+    "title": "Dad Promised To Help Pay Off $100K In Student Loans She And Her Husband Accrued, But They Cut Ties Anyway. The Debt Is 'Looming' Over Their Heads",
+    "fetched_on": "2026-02-14T07:35:16.677519+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Accrued",
+      "Looming",
+      "Promised",
+      "Pay",
+      "Student",
+      "Loans",
+      "Husband",
+      "Cut",
+      "Ties",
+      "Dad"
+    ]
   }
 ]
