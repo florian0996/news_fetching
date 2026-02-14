@@ -115614,5 +115614,145 @@
       "Card",
       "earlier"
     ]
+  },
+  {
+    "source": "The Jerusalem Post [NewsAPI]",
+    "url": "https://www.jpost.com/israel-news/sports/article-886352",
+    "title": "Rain or shine, Jerusalem’s new indoor tennis courts are a game changer",
+    "fetched_on": "2026-02-14T18:38:04.748978+00:00",
+    "content": "Walking through the light rail construction site on the way to the Stuart Weitzman Tennis Complex of the ITEC (Israel Tennis and Education Center). (photo credit: HOWARD BLAS)\r\nJerusalems new indoor … [+3880 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "tennis",
+      "ITEC",
+      "Israel",
+      "Center",
+      "Walking",
+      "Stuart",
+      "Weitzman",
+      "Complex",
+      "Education",
+      "Jerusalem"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/394682/impossible-inside-out-solar-system-discovered-by-astronomers",
+    "title": "'Impossible' inside-out solar system discovered by astronomers",
+    "fetched_on": "2026-02-14T18:38:04.748978+00:00",
+    "content": "Space &amp; Astronomy\r\nBy T.K. RandallFebruary 13, 2026 ·  1 commentHS 1903 is not like other solar systems. Image Credit: CC BY-SA 3.0 IGO / ESAThe discovery of a distant solar system with its plane… [+1305 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Impossible",
+      "Space",
+      "Astronomy",
+      "RandallFebruary",
+      "commentHS",
+      "solar",
+      "inside-out",
+      "IGO",
+      "system",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Business Standard [NewsAPI]",
+    "url": "https://www.business-standard.com/industry/banking/reserve-bank-of-india-allows-bank-loans-for-unlisted-listed-takeovers-126021301857_1.html",
+    "title": "Reserve Bank of India allows bank loans for unlisted, listed takeovers",
+    "fetched_on": "2026-02-14T18:38:04.748978+00:00",
+    "content": "Image: Bloomberg\r\nManojit SahaMumbai\r\nThe Reserve Bank of India (RBI) has permitted banks to finance acquisitions of both listed and unlisted non-financial companies, while capping such funding at 75… [+5351 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Bank",
+      "RBI",
+      "Reserve",
+      "Image",
+      "Bloomberg",
+      "chars",
+      "Manojit",
+      "unlisted",
+      "listed"
+    ]
+  },
+  {
+    "source": "Crypto Briefing [NewsAPI]",
+    "url": "https://cryptobriefing.com/figure-technology-shares-rise-6-after-preliminary-q4-revenue-tops-estimates/",
+    "title": "Figure Technology shares rise 6% after preliminary Q4 revenue tops estimates",
+    "fetched_on": "2026-02-14T18:38:04.748978+00:00",
+    "content": "Blockchain lender forecasts up to $162M in revenue as loan volume jumps 131% year over year. Figure Technology Solutions shares rose about 6% to $36.10 in early Friday trading after the company relea… [+1102 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Figure",
+      "Technology",
+      "Blockchain",
+      "rise",
+      "preliminary",
+      "jumps",
+      "revenue",
+      "year",
+      "chars",
+      "shares"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/02/universal-epic-universe-expansion-new-emd1/",
+    "title": "Secret Expansion for Universal Epic Universe Obtained by Orlando News Channel",
+    "fetched_on": "2026-02-14T18:38:04.748978+00:00",
+    "content": "Something big is coming to Epic Universe, as Universal is quietly working on an interesting expansion that will cost upwards of $20 million.\r\nCredit: Inside The Magic\r\nUniversal Epic Universe Expansi… [+5926 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Epic",
+      "Universe",
+      "Universal",
+      "Expansion",
+      "million",
+      "Obtained",
+      "Orlando",
+      "Channel",
+      "Secret",
+      "Inside"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/spider-noir-movie-trailer-release-date-cast-5503056/",
+    "title": "‘Spider-Noir’ Series: Watch Trailer, See Release Date, Meet the Cast & More",
+    "fetched_on": "2026-02-14T18:38:04.748978+00:00",
+    "content": "Image Credit: Courtesy of Prime\r\nWelcome back to the 1930s! Amazon MGM Studios upcoming Spider-Noir series, starring Nicolas Cage, is bringing back the black-and-white and full color hues in filmmaki… [+2301 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Watch",
+      "Trailer",
+      "Date",
+      "Meet",
+      "Cast",
+      "Credit",
+      "Courtesy",
+      "Series",
+      "Release",
+      "Image"
+    ]
+  },
+  {
+    "source": "My Modern Met [NewsAPI]",
+    "url": "https://mymodernmet.com/montreal-travel-guide/",
+    "title": "My Modern Met’s Art + Culture Guide to Montréal",
+    "fetched_on": "2026-02-14T18:38:04.748978+00:00",
+    "content": "Photo: EN Credit © Leo Films Tourisme Montréal\r\nAs the second-largest city in Canada, Montréal is a bustling metropolis that marries history with contemporary culture. The French and English-speaking… [+10116 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Montréal",
+      "Art",
+      "Photo",
+      "Credit",
+      "Leo",
+      "Canada",
+      "Culture",
+      "Modern",
+      "Met",
+      "Guide"
+    ]
   }
 ]
