@@ -116074,5 +116074,65 @@
       "Hudson",
       "Williams’"
     ]
+  },
+  {
+    "source": "Observer [NewsAPI]",
+    "url": "https://observer.com/2026/02/simile-100m-startup-backed-fei-fei-li-andrej-karpathy/",
+    "title": "Fei-Fei Li and Andrej Karpathy Back a New A.I. Use Case: Simulating Human Behavior",
+    "fetched_on": "2026-02-14T22:26:36.106746+00:00",
+    "content": "A.I. pioneer Fei-Fei Li is lending her support to Similes effort to simulate human behavior at scale. John Nacion/Variety via Getty Images\r\nEvery three months, public companies brace for analyst ques… [+3417 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Andrej",
+      "Karpathy",
+      "Back",
+      "Human",
+      "Behavior",
+      "Fei-Fei",
+      "Case",
+      "Simulating",
+      "Nacion",
+      "Variety"
+    ]
+  },
+  {
+    "source": "Writersdigest.com [NewsAPI]",
+    "url": "https://www.writersdigest.com/your-story-141#article",
+    "title": "Your Story #141",
+    "fetched_on": "2026-02-14T22:26:36.106746+00:00",
+    "content": "Photo credit MoMo Productions via Getty Images\r\nPrompt: Write a drabblea short story of exactly 100 wordsbased on the photo prompt below. You can be funny, poignant, witty, etc.; it is, after all, yo… [+524 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Write",
+      "Story",
+      "Photo",
+      "Prompt",
+      "Productions",
+      "Getty",
+      "Images",
+      "wordsbased",
+      "poignant",
+      "witty"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-essential-apps-playground-coding",
+    "title": "Nothing has finally given its phones a truly essential feature",
+    "fetched_on": "2026-02-14T22:26:36.106746+00:00",
+    "content": "(Image credit: Nicholas Sutrich / Android Central)\r\nAndroid Central Labs is a weekly column devoted to deep dives, experiments, and a focused look into the tech you use. It covers phones, tablets, an… [+5772 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Android",
+      "Central",
+      "Image",
+      "Nicholas",
+      "Sutrich",
+      "experiments",
+      "Labs",
+      "feature",
+      "credit",
+      "dives"
+    ]
   }
 ]
