@@ -116472,5 +116472,25 @@
       "Loan",
       "Market"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/next-crypto-to-explode-deepsnitch-ai-might-be-the-1-opportunity-as-aster-and-layer-zero-consolidate/articleshow/128344449.cms",
+    "title": "Next Crypto to Explode: DeepSnitch AI Might Be the #1 Opportunity as Aster and Layer Zero Consolidate",
+    "fetched_on": "2026-02-15T11:24:51.720605+00:00",
+    "content": "Institutions are racing to bring real-world assets on-chain, and OKX Ventures' backing of a new RWA-powered stablecoin marks another step toward merging private credit with blockchain rails. It's a c… [+5622 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Explode",
+      "Opportunity",
+      "Crypto",
+      "Aster",
+      "Layer",
+      "Consolidate",
+      "Institutions",
+      "OKX",
+      "Ventures'",
+      "DeepSnitch"
+    ]
   }
 ]
