@@ -116750,5 +116750,65 @@
       "rates",
       "rate"
     ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/02/disney-world-will-close-entire-park-in-24-hours-th1/",
+    "title": "Disney World Will Close Entire Park in 24 Hours",
+    "fetched_on": "2026-02-15T14:29:56.478355+00:00",
+    "content": "The Walt Disney World Resort will say goodbye to the theme park at the end of business on February 14, 2026.\r\nCredit: Disney\r\nDisney World has confirmed a seasonal closure thats set to reshape how vi… [+3564 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "World",
+      "Hours",
+      "February",
+      "Park",
+      "Close",
+      "Entire",
+      "Walt",
+      "Resort",
+      "goodbye"
+    ]
+  },
+  {
+    "source": "Time [NewsAPI]",
+    "url": "https://time.com/7378663/olympics-ilia-malinin-free-skate-fall-2026/",
+    "title": "Ilia Malinin Misses the Podium in Stunning Olympic Loss",
+    "fetched_on": "2026-02-15T14:29:56.478355+00:00",
+    "content": "Ilia Malinin of the U.S. reacts after competing in the men's free skate event at the Milano Cortina Winter Olympic Games at Milano Ice Skating Arena on Feb. 13, 2026. Credit - Sarah StierGetty Images… [+10179 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Malinin",
+      "Olympic",
+      "Milano",
+      "Ilia",
+      "Feb.",
+      "Misses",
+      "Podium",
+      "Stunning",
+      "Loss",
+      "Cortina"
+    ]
+  },
+  {
+    "source": "The Daily Hodl [NewsAPI]",
+    "url": "https://dailyhodl.com/2026/02/14/wells-fargo-handing-56850000-to-customers-after-allegedly-sending-botched-reports-to-credit-agencies/",
+    "title": "Wells Fargo Handing $56,850,000 To Customers After Allegedly Sending Botched Reports To Credit Agencies",
+    "fetched_on": "2026-02-15T14:29:56.478355+00:00",
+    "content": "Wells Fargo has agreed to pay $56.85 million to settle a class action lawsuit accusing the bank of sending erroneous reports to credit agencies.\r\nThe lawsuit accuses the bank of wrongfully reporting … [+1624 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fargo",
+      "Credit",
+      "Reports",
+      "Agencies",
+      "Sending",
+      "Handing",
+      "Customers",
+      "Allegedly",
+      "Botched",
+      "bank"
+    ]
   }
 ]
