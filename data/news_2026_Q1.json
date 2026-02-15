@@ -116970,5 +116970,45 @@
       "companies",
       "readily"
     ]
+  },
+  {
+    "source": "Securityaffairs.com [NewsAPI]",
+    "url": "https://securityaffairs.com/187988/data-breach/fintech-firm-figure-disclosed-data-breach-after-employee-phishing-attack.html",
+    "title": "Fintech firm Figure disclosed data breach after employee phishing attack",
+    "fetched_on": "2026-02-15T17:27:28.119589+00:00",
+    "content": "Fintech firm Figure disclosed data breach after employee phishing attack\r\nBlockchain-based lending firm Figure confirmed a data breach after an employee fell victim to a social engineering attack. Ac… [+2061 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Figure",
+      "breach",
+      "firm",
+      "data",
+      "Fintech",
+      "employee",
+      "disclosed",
+      "phishing",
+      "Blockchain-based",
+      "attack"
+    ]
+  },
+  {
+    "source": "Boardingarea.com [NewsAPI]",
+    "url": "https://economyclassandbeyond.boardingarea.com/2026/02/14/last-week-at-economy-class-and-beyond-14th-february-2026/",
+    "title": "Last Week at Economy Class and Beyond (14th February)",
+    "fetched_on": "2026-02-15T17:27:28.119589+00:00",
+    "content": "It’s the 14th February. For some, it’s time to bust out the credit card for flowers, chocolates and dinners. For here, it’s Saturday, the end of a week and a half.\r\nIt must be time for Last Week at E… [+1401 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "Economy",
+      "Class",
+      "Week",
+      "Saturday",
+      "time",
+      "flowers",
+      "chocolates",
+      "dinners",
+      "chars"
+    ]
   }
 ]
