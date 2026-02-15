@@ -116354,5 +116354,25 @@
       "RTÉ",
       "screens"
     ]
+  },
+  {
+    "source": "Variety [NewsAPI]",
+    "url": "https://variety.com/2026/film/news/ai-indian-screenwriters-pay-credit-gaps-1236663159/",
+    "title": "AI Adoption Rises Among Indian Screenwriters as Pay, Credit Gaps Persist, Tulsea–Ormax Report Finds (EXCLUSIVE)",
+    "fetched_on": "2026-02-15T08:36:06.691524+00:00",
+    "content": "Artificial intelligence is increasingly being used by Indian screenwriters in their work even as long-standing concerns around pay, credit and professional recognition continue to dominate sentiment,… [+4177 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tulsea",
+      "EXCLUSIVE",
+      "Pay",
+      "Credit",
+      "Indian",
+      "chars",
+      "Persist",
+      "Ormax",
+      "Finds",
+      "Artificial"
+    ]
   }
 ]
