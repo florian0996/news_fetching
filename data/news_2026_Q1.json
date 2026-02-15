@@ -116810,5 +116810,45 @@
       "Botched",
       "bank"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/phonepe-sharpens-lending-insurance-play-ahead-of-ipo-as-segment-drives-growth/article70632814.ece",
+    "title": "PhonePe sharpens lending, insurance play ahead of IPO as segment drives growth",
+    "fetched_on": "2026-02-15T15:28:00.248545+00:00",
+    "content": "Walmart-backed fintech major PhonePe is sharpening its financial services play ahead of its proposed public listing, as lending and insurance distribution emerge as key growth drivers beyond its core… [+1700 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ahead",
+      "chars",
+      "play",
+      "IPO",
+      "Walmart-backed",
+      "PhonePe",
+      "lending",
+      "insurance",
+      "growth",
+      "listing"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/sdi-ptc-securitised-debt-instruments-risks-returns-retail-investors/article70565434.ece",
+    "title": "Why invoices, loan collections linked debt instruments warrant extra caution",
+    "fetched_on": "2026-02-15T15:28:00.248545+00:00",
+    "content": "With retail inflation lately around 1-1.5 per cent, even a 6 per cent debt return can be a decent real return after inflation. Yet many investors see returns from fixed income from bank FDs and gover… [+6995 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cent",
+      "debt",
+      "inflation",
+      "invoices",
+      "loan",
+      "collections",
+      "linked",
+      "instruments",
+      "warrant",
+      "extra"
+    ]
   }
 ]
