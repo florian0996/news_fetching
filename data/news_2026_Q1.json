@@ -117711,5 +117711,85 @@
       "card",
       "convo"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-16/us-banks-to-see-new-mortgage-capital-requirements-in-basel-plan",
+    "title": "US Banks to See New Mortgage Capital Requirements in Basel Plan",
+    "fetched_on": "2026-02-16T14:43:02.905581+00:00",
+    "content": "US lenders are poised to see new mortgage-loan requirements as the Federal Reserve comes closer to unveiling a long-awaited bank capital proposal tied to Basel III.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Basel",
+      "III",
+      "Capital",
+      "Requirements",
+      "Mortgage",
+      "Plan",
+      "Federal",
+      "Reserve",
+      "Banks",
+      "bank"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/opinion/below-the-line/article70635778.ece",
+    "title": "Below the line",
+    "fetched_on": "2026-02-16T14:43:02.308857+00:00",
+    "content": "Thanks but no thanks\r\nWhile the Reserve Bank of India (RBI) may be inclined to give licence to a few large, multi-state urban co-operative credit societies to convert into urban co-operative banks, t… [+1962 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "India",
+      "chars",
+      "urban",
+      "co-operative",
+      "Reserve",
+      "large",
+      "multi-state",
+      "Bank",
+      "banks"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/394762/consciousness-may-be-able-to-persist-after-death-new-study-claims",
+    "title": "Consciousness may be able to persist after death, new study claims",
+    "fetched_on": "2026-02-16T14:43:02.308857+00:00",
+    "content": "Metaphysics &amp; Psychology\r\nBy T.K. RandallFebruary 15, 2026 ·  0 commentsHow long after death does consciousness persist ? Image Credit: CC BY 2.0 Andrew MasonAn Arizona State University researche… [+1679 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RandallFebruary",
+      "chars",
+      "Metaphysics",
+      "Psychology",
+      "Image",
+      "Credit",
+      "Andrew",
+      "Arizona",
+      "State",
+      "University"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2026/02/16/student-loan-parent-plus-forgiveness.html",
+    "title": "Parents with student loans have a short window to secure affordable repayment and forgiveness",
+    "fetched_on": "2026-02-16T14:43:22.455816+00:00",
+    "content": "Parents with student debt may be excluded from affordable repayment plans and loan forgiveness in the coming months if they don't take certain steps soon.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Parents",
+      "student",
+      "affordable",
+      "repayment",
+      "forgiveness",
+      "short",
+      "window",
+      "secure",
+      "debt",
+      "excluded"
+    ]
   }
 ]
