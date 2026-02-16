@@ -117269,5 +117269,45 @@
       "Union",
       "Event"
     ]
+  },
+  {
+    "source": "Time [NewsAPI]",
+    "url": "https://time.com/7378751/jordan-stolz-olympics-gold-speedskating/",
+    "title": "Jordan Stolz Could Already Be the Speedskating GOAT",
+    "fetched_on": "2026-02-16T05:00:47.864002+00:00",
+    "content": "Gold medallist Jordan Stolz of the U.S. celebrates after the men's 500 meters speedskating race at the 2026 Winter Olympics, in Milan, Italy, Saturday, Feb. 14, 2026. Credit - Claudio Furlan/LaPresse… [+4806 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stolz",
+      "Italy",
+      "Saturday",
+      "Feb.",
+      "Jordan",
+      "Speedskating",
+      "Winter",
+      "Olympics",
+      "Milan",
+      "GOAT"
+    ]
+  },
+  {
+    "source": "Business Standard [NewsAPI]",
+    "url": "https://www.business-standard.com/markets/news/rbi-curbs-loans-extended-to-brokers-in-blow-to-proprietary-trading-volumes-126021500050_1.html",
+    "title": "RBI curbs loans extended to brokers in blow to proprietary trading volumes",
+    "fetched_on": "2026-02-16T05:00:47.864002+00:00",
+    "content": "All credit facilities to securities firms will have to be backed by collateral, while lending for trading on their own account or investments by brokers will be prohibited\r\nThe stricter measures woul… [+2695 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "chars",
+      "brokers",
+      "trading",
+      "collateral",
+      "woul",
+      "curbs",
+      "loans",
+      "extended",
+      "blow"
+    ]
   }
 ]
