@@ -117511,5 +117511,65 @@
       "liable",
       "chars"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-16/brokers-forced-to-rethink-funding-playbook-as-india-curbs-loans",
+    "title": "Brokers Forced to Rethink Funding Playbook as India Curbs Loans",
+    "fetched_on": "2026-02-16T10:54:17.402530+00:00",
+    "content": "India’s move to tighten bank lending norms for firms engaged in proprietary trading of shares and commodities is set to push these companies toward alternative sources of capital.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Forced",
+      "Rethink",
+      "Funding",
+      "Playbook",
+      "Curbs",
+      "Loans",
+      "Brokers",
+      "capital",
+      "move"
+    ]
+  },
+  {
+    "source": "Manx Radio [NewsAPI]",
+    "url": "https://www.manxradio.com/news/isle-of-man-news/majority-of-whistleblowing-cases-against-doi-relate-to-health-and-safety-concerns/",
+    "title": "Majority of whistleblowing cases against DOI relate to health and safety concerns",
+    "fetched_on": "2026-02-16T10:54:16.840135+00:00",
+    "content": "Sunday, 15 February 2026 10:42\r\nPicture credit: Tynwald\r\nA total of nine claims have been raised since April 2024\r\nThe Department of Infrastructure says the vast majority of its whistleblowing cases … [+465 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "Sunday",
+      "Tynwald",
+      "April",
+      "chars",
+      "Majority",
+      "whistleblowing",
+      "cases",
+      "DOI",
+      "Picture"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/womens-asia-cup-rising-stars-india-a-beat-pakistan-a-by-eight-wickets/articleshow/128379166.cms",
+    "title": "Women's Asia Cup Rising Stars: India A beat Pakistan A by eight wickets",
+    "fetched_on": "2026-02-16T10:54:16.840135+00:00",
+    "content": "Photo credit: X/@ACCMedia1\r\nIndia A Women secured their first win in the Women’s Asia Cup Rising Stars tournament with an eight-wicket victory over Pakistan A Women on Sunday, led by captain Radha Ya… [+4639 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Women",
+      "Cup",
+      "Rising",
+      "Asia",
+      "Stars",
+      "Pakistan",
+      "Sunday",
+      "chars",
+      "Photo"
+    ]
   }
 ]
