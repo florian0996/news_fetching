@@ -117830,5 +117830,45 @@
       "Klumpenrisiko",
       "Tech"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-16/south-africa-s-sarb-wants-key-rate-to-be-used-to-price-loans",
+    "title": "South Africa’s SARB Wants Key Rate to be Used to Price Loans",
+    "fetched_on": "2026-02-16T16:48:38.129960+00:00",
+    "content": "South Africa’s central bank is seeking to replace prime, the main reference commercial banks use to price trillions of rands of loans, with its benchmark interest rate.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Africa",
+      "South",
+      "Price",
+      "Rate",
+      "Loans",
+      "SARB",
+      "Key",
+      "prime",
+      "central",
+      "seeking"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/tech/why-physical-id-theft-harder-fix-than-credit-card-fraud",
+    "title": "Why physical ID theft is harder to fix than credit card fraud",
+    "fetched_on": "2026-02-16T16:48:36.929687+00:00",
+    "content": "It started with a voicemail from a Hertz rental car location in Miami, Florida. A 57-year-old woman in Los Alamitos, California, was asked when she planned to return a Mercedes-Benz she had never ren… [+9133 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Florida",
+      "Miami",
+      "Hertz",
+      "California",
+      "physical",
+      "theft",
+      "harder",
+      "fix",
+      "credit",
+      "card"
+    ]
   }
 ]
