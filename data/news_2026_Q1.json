@@ -117791,5 +117791,44 @@
       "debt",
       "excluded"
     ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://finance.yahoo.com/news/nexo-taps-bakkt-us-return-150102690.html",
+    "title": "Nexo Taps Bakkt For US Return Three Years After SEC Settlement Over Lending Product",
+    "fetched_on": "2026-02-16T15:42:48.444249+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Product",
+      "Taps",
+      "Bakkt",
+      "Return",
+      "Years",
+      "SEC",
+      "Settlement",
+      "Lending",
+      "Nexo"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/naechste-hiobsbotschaft-nach-kursbeben-bei-software-aktien-deutsche-bank-warnt-vor-klumpenrisiko-im-junk-bond-markt-15488002",
+    "title": "Nach Kursbeben bei Software-Aktien: Deutsche Bank warnt vor Klumpenrisiko im Junk-Bond-Markt",
+    "fetched_on": "2026-02-16T15:42:49.393507+00:00",
+    "content": "<p>• Software und Tech vereinen rund 30 Prozent des spekulativen Kreditmarktes <br />• KI-Sorgen treffen auf hohe Verschuldung und steigende <a href=\"https://www.finanzen.net/zinsen\">Zinsen</a> <br />• Private Credit gilt als besonders anfällig bei steigenden  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zinsen",
+      "Deutsche",
+      "Software",
+      "Prozent",
+      "Kreditmarktes",
+      "Private",
+      "Kursbeben",
+      "Bank",
+      "Klumpenrisiko",
+      "Tech"
+    ]
   }
 ]
