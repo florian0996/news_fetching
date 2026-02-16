@@ -118486,5 +118486,25 @@
       "chars",
       "n’t"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/universal-movies-coming-to-netflix-us-march-2026/",
+    "title": "4 Major Universal Movies Hit Netflix US in March: Includes ‘Bad Guys 2’ & ‘Downton Abbey’",
+    "fetched_on": "2026-02-16T23:31:35.561925+00:00",
+    "content": "Picture Credit: Alamy \r\nThe pipeline of Universal Pictures movies heading to Netflix US continues to flow under a new deal brought forward. Thanks to the Pay 1 window arrangement shared between Peaco… [+4231 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Includes",
+      "Universal",
+      "Major",
+      "March",
+      "Bad",
+      "Downton",
+      "Credit",
+      "Alamy",
+      "Movies"
+    ]
   }
 ]
