@@ -119308,5 +119308,25 @@
       "reason",
       "taking"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-17/bank-watchdogs-at-early-stage-of-assessing-srt-debt-bis-says",
+    "title": "Lack of Data on SRTs Is Hindering Risk Assessment, BIS Says",
+    "fetched_on": "2026-02-17T10:49:30.928147+00:00",
+    "content": "The Basel Committee on Banking Supervision called for closer cooperation between regulators as a lack of data is hindering its assessment of credit exposure from synthetic risk transfer deals.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Data",
+      "Hindering",
+      "BIS",
+      "Risk",
+      "Assessment",
+      "Lack",
+      "Basel",
+      "Committee",
+      "Banking",
+      "Supervision"
+    ]
   }
 ]
