@@ -118766,5 +118766,125 @@
       "Bruce",
       "Glikas"
     ]
+  },
+  {
+    "source": "Business Standard [NewsAPI]",
+    "url": "https://www.business-standard.com/industry/news/merger-involving-61-billion-of-debt-seen-aiding-india-s-credit-market-126021600071_1.html",
+    "title": "Merger involving $61 billion of debt seen aiding India's credit market",
+    "fetched_on": "2026-02-17T04:53:35.345116+00:00",
+    "content": "The government will merge state-run PFC and REC, a move fund managers say could channel more capital into major corporates and large power projects\r\nCreditsights analysts expect the merger may lead t… [+3450 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "REC",
+      "India",
+      "PFC",
+      "Creditsights",
+      "involving",
+      "billion",
+      "Merger",
+      "debt",
+      "aiding"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/02/15/removing-the-bios-administrator-password-on-a-thinkpad-takes-timing/",
+    "title": "Removing the BIOS Administrator Password on a ThinkPad Takes Timing",
+    "fetched_on": "2026-02-17T04:53:35.345116+00:00",
+    "content": "This would be a bad time to slip. (Credit: onionboots, YouTube)\r\nIn the olden days, an administrator password on a BIOS was a mere annoyance, one quickly remedied by powering off the system and pulli… [+1428 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Password",
+      "Timing",
+      "BIOS",
+      "Administrator",
+      "Removing",
+      "slip",
+      "Credit",
+      "ThinkPad",
+      "bad",
+      "time"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/grayscale-files-convert-aave-trust-etf-launch-nyse-arca",
+    "title": "Grayscale seeks to convert Aave trust into ETF on NYSE Arca",
+    "fetched_on": "2026-02-17T04:53:35.345116+00:00",
+    "content": "Crypto asset manager Grayscale filed for regulatory approval to convert its trust tracking the token of the decentralized lending protocol Aave into an exchange-traded fund (ETF).\r\nThe company filed … [+2164 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aave",
+      "ETF",
+      "Grayscale",
+      "NYSE",
+      "Arca",
+      "Crypto",
+      "convert",
+      "trust",
+      "fund",
+      "filed"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4367005/posts",
+    "title": "Astronomy Picture of the Day - To Fly Free in Space",
+    "fetched_on": "2026-02-17T04:53:35.345116+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - To Fly Free in SpaceNASA ^\r\n | 15 Feb, 2026\r\n | Image Credit: NASA, STS-41B\r\nPosted on 02/15/2026 6:40:37 PM PST by MtnClimber\r\nExplanation: What wou… [+2207 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Picture",
+      "Fly",
+      "Free",
+      "Astronomy",
+      "Space",
+      "Skip",
+      "comments",
+      "Feb",
+      "NASA"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/merger-involving-61-billion-of-debt-to-support-indias-credit-market/articleshow/128403435.cms",
+    "title": "Merger involving $61 billion of debt to support India’s credit market",
+    "fetched_on": "2026-02-17T04:53:35.345116+00:00",
+    "content": "A recently announced merger of Indian lenders to the power sector is fueling hope that financing will get a boost for energy and other key drivers of the worlds fastest growing major economy.The Indi… [+2974 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Indi",
+      "India",
+      "Indian",
+      "Merger",
+      "involving",
+      "billion",
+      "debt",
+      "support",
+      "credit"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/apollo-deepens-blockchain-play-enters-crypto-lending-via-morpho-partnership",
+    "title": "TradFi giant Apollo enters crypto lending arena via Morpho deal",
+    "fetched_on": "2026-02-17T04:53:35.345116+00:00",
+    "content": "Traditional finance giant Apollo Global Management Inc. has signed a partnership agreement with decentralized lending platform Morpho to take a significant stake in the project and help support its b… [+2422 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "chars",
+      "Morpho",
+      "Traditional",
+      "Global",
+      "Management",
+      "Inc.",
+      "giant",
+      "TradFi",
+      "lending"
+    ]
   }
 ]
