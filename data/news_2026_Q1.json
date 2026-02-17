@@ -119228,5 +119228,85 @@
       "joining",
       "Associate"
     ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2026/02/the-number-one-thing-you-have-to-do-is-get-on-the-phone-verizon-customer-shares-how-you-can-get-money-credited-to-your-account-after-the-companys-major-outage/",
+    "title": "‘The number one thing you have to do is get on the phone.’ – Verizon Customer Shares How You Can Get Money Credited To Your Account After The Company’s Major Outage",
+    "fetched_on": "2026-02-17T09:52:33.088471+00:00",
+    "content": "TikTok/@guillermounfiltered\r\nIn case you haven’t been paying close attention to the news, there was recently a major Verizon outage across the U.S. and customers were definitely not happy about it.\r\n… [+1796 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Verizon",
+      "phone.’",
+      "Major",
+      "Outage",
+      "number",
+      "thing",
+      "Shares",
+      "Money",
+      "Credited",
+      "Account"
+    ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2026/02/16/nx-s1-5707475/how-trumps-tariffs-push-some-importers-into-risky-high-cost-loans",
+    "title": "How Trump's tariffs push some importers into risky, high-cost loans",
+    "fetched_on": "2026-02-17T09:52:33.088471+00:00",
+    "content": "President Trump's tariffs can create a cash crunch for importers. They have to pay the tariff bill before they can sell their products. Some have turned to a costly form of credit. But what looks lik… [+57 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "President",
+      "importers",
+      "risky",
+      "high-cost",
+      "tariffs",
+      "push",
+      "loans",
+      "create",
+      "cash"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/02/16/inside-a-fake-mean-well-din-rail-psu/",
+    "title": "Inside a Fake Mean Well DIN-rail PSU",
+    "fetched_on": "2026-02-17T09:52:33.088471+00:00",
+    "content": "Looks just like the real deal in a dark cabinet. (Credit: Big Clive, YouTube)\r\nThese days, you can get fakes, bootlegs, and similar for just about anything. While a fake handbag isn’t such a big deal… [+1420 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PSU",
+      "Inside",
+      "cabinet",
+      "Credit",
+      "Fake",
+      "Big",
+      "DIN-rail",
+      "real",
+      "dark",
+      "Clive"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/world/us-violent-crime-statistics-trump-9.7087435",
+    "title": "Violent crime in U.S. cities is way down, and Trump is taking credit",
+    "fetched_on": "2026-02-17T09:52:33.088471+00:00",
+    "content": "Fresh statistics show a sharp nationwide drop in violent crime in major U.S. cities in 2025, and U.S. President Donald Trump is claiming that his get-tough policies are the reason. \r\nThe decreases ar… [+7953 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "crime",
+      "cities",
+      "President",
+      "Violent",
+      "Fresh",
+      "Donald",
+      "major",
+      "reason",
+      "taking"
+    ]
   }
 ]
