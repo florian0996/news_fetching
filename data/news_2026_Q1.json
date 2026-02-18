@@ -121602,5 +121602,65 @@
       "das",
       "Mit"
     ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2026/02/17/defi-protocol-zerolend-shuts-down-after-3-years-citing-inactive-chains-and-hacks",
+    "title": "DeFi protocol ZeroLend shuts down after three years, citing inactive chains and hacks",
+    "fetched_on": "2026-02-18T07:51:49.114875+00:00",
+    "content": "Decentralized lending protocol ZeroLEnd is winding down operations after three years, citing unsustainable economics amid inactive blockchains and rising security threats.\r\nThe protocol, which ran cr… [+2448 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "years",
+      "citing",
+      "Decentralized",
+      "ZeroLend",
+      "protocol",
+      "inactive",
+      "DeFi",
+      "threats",
+      "shuts",
+      "chains"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/crypto-protocol-zerolend-shuts-down-no-longer-sustainable",
+    "title": "Crypto protocol ZeroLend shuts down, saying it's ‘no longer sustainable’",
+    "fetched_on": "2026-02-18T07:51:49.114875+00:00",
+    "content": "Decentralized lending protocol ZeroLend says it is shutting down completely after the blockchains it operates on have suffered from low user numbers and liquidity.\r\nAfter three years of building and … [+2774 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "protocol",
+      "ZeroLend",
+      "Decentralized",
+      "Crypto",
+      "liquidity",
+      "shuts",
+      "longer",
+      "sustainable’",
+      "lending",
+      "shutting"
+    ]
+  },
+  {
+    "source": "Helpdeskgeek.com [NewsAPI]",
+    "url": "https://helpdeskgeek.com/how-to-turn-on-developer-options-on-firestick/",
+    "title": "How to Turn on Developer Options on Firestick?",
+    "fetched_on": "2026-02-18T07:51:49.114875+00:00",
+    "content": "How to Enable Developer Options on Amazon Firestick Image Credit YouTube\r\nAmazon Firestick is one of the most popular streaming devices across the globe. It can make any TV smart by allowing you to w… [+3106 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Firestick",
+      "Options",
+      "Developer",
+      "Turn",
+      "Amazon",
+      "Enable",
+      "Image",
+      "Credit",
+      "chars",
+      "globe"
+    ]
   }
 ]
