@@ -121903,5 +121903,104 @@
       "Bread",
       "BofA"
     ]
+  },
+  {
+    "source": "Manx Radio [NewsAPI]",
+    "url": "https://www.manxradio.com/news/isle-of-man-news/budget-2026-412-million-for-islands-health-and-care-services/",
+    "title": "Budget 2026: £412 million for Island’s health and care services",
+    "fetched_on": "2026-02-18T10:49:06.602178+00:00",
+    "content": "Tuesday, 17 February 2026 10:45\r\nPicture Credit: Treasury\r\nBut concerns Manx Care spend could outstrip allocated funding\r\nMore than £400 million has been allocated for the Isle of Man’s health servic… [+1528 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "Budget",
+      "chars",
+      "Tuesday",
+      "Credit",
+      "Treasury",
+      "million",
+      "care",
+      "Island",
+      "Picture"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2026/02/17/airline-credit-card-loyalty-programs-legislation-the-points-guy-unamerican/",
+    "title": "New U.S. legislation could upend credit card loyalty programs. The Points Guy founder calls the reckoning un-American",
+    "fetched_on": "2026-02-18T10:49:06.602178+00:00",
+    "content": "Good morning. Americans love their loyalty points. Almost three-quarters of them use a credit card that lets them earn rewards. And the income generated from issuing those points is critically import… [+5226 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "legislation",
+      "programs",
+      "Points",
+      "upend",
+      "credit",
+      "card",
+      "loyalty",
+      "Guy",
+      "Good",
+      "morning"
+    ]
+  },
+  {
+    "source": "Repoclip.io [NewsAPI]",
+    "url": "https://repoclip.io/",
+    "title": "Show HN: RepoClip – Generate promo videos from GitHub repos using AI",
+    "fetched_on": "2026-02-18T10:49:06.602178+00:00",
+    "content": "No video editing skills required. Just paste your URL and let our AI handle the script, visuals, and narration.\r\n2 free videos per month. No credit card required.\r\nBuilt for Developers, by Developers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Generate",
+      "RepoClip",
+      "Show",
+      "Developers",
+      "required",
+      "promo",
+      "GitHub",
+      "repos",
+      "editing",
+      "skills"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/loewe-introduces-new-artistic-signatures-for-springsummer/",
+    "title": "Loewe introduces new artistic signatures for spring/summer",
+    "fetched_on": "2026-02-18T10:49:06.602178+00:00",
+    "content": "Apparel and accessories\r\nFebruary 17, 2026\r\n The release marks the first marketing endeavor under the brands new creative braintrust. Image credit: Loewe/Talia Chetrit \r\n By Zach James\r\nSpanish fashi… [+11301 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "Loewe",
+      "Apparel",
+      "spring",
+      "summer",
+      "braintrust",
+      "introduces",
+      "artistic",
+      "signatures",
+      "accessories"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/arthur-hayes-warns-bitcoin-could-102138400.html",
+    "title": "Arthur Hayes Warns Bitcoin Could Fall Below $60,000 in AI-Driven Credit Crisis — Why He Still Sees a New High After",
+    "fetched_on": "2026-02-18T10:49:22.469002+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crisis",
+      "Hayes",
+      "Warns",
+      "Bitcoin",
+      "Fall",
+      "Credit",
+      "High",
+      "Arthur",
+      "AI-Driven"
+    ]
   }
 ]
