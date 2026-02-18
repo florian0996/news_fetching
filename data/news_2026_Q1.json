@@ -121378,5 +121378,45 @@
       "Credit",
       "Banks"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-18/bain-ubs-lend-382-million-to-quadrant-s-aidacare-in-australia",
+    "title": "Bain, UBS Lend $382 Million to Quadrant’s Aidacare in Australia",
+    "fetched_on": "2026-02-18T04:55:16.709616+00:00",
+    "content": "Bain Capital Credit LP and UBS Group AG are lending a combined A$540 million ($382 million) to an Australian health-equipment manufacturer Aidacare Pty., according to people familiar with the matter, in the latest example of private credit being used to help finance stakeholder returns.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "UBS",
+      "Aidacare",
+      "Lend",
+      "Pty.",
+      "Bain",
+      "Credit",
+      "Quadrant",
+      "Australia",
+      "Capital"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/why-fighting-yesterdays-battles-against-chinas-belt-road-is-pointless-now/articleshow/128446886.cms",
+    "title": "Why fighting yesterday's battles against China's Belt & Road is pointless now",
+    "fetched_on": "2026-02-18T04:55:15.972955+00:00",
+    "content": "Chinas Belt and Road program is not in retreat, although many have been predicting its untimely demise for some time. Far from shrinking, President Xi Jinpings signature lending plan is adapting, and… [+4732 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Belt",
+      "Road",
+      "China",
+      "Chinas",
+      "retreat",
+      "time",
+      "fighting",
+      "yesterday",
+      "battles",
+      "pointless"
+    ]
   }
 ]
