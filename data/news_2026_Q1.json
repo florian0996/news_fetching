@@ -126610,5 +126610,125 @@
       "Getty",
       "Jacksonville"
     ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2026/02/18/sports/snoop-doggs-credit-card-declined-at-winter-olympics-dinner/",
+    "title": "Snoop Dogg’s credit card gets declined at Winter Olympics dinner — so he repays Milan restaurant in a special way",
+    "fetched_on": "2026-02-19T23:32:02.987129+00:00",
+    "content": "Aint nothing but a free thang.\r\nSnoop Doggs credit card was declined during dinner at a restaurant in Italy   so he repaid the owners with five free tickets to the much-anticipated 2026 Winter Olympi… [+2102 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Snoop",
+      "Olympics",
+      "Milan",
+      "Aint",
+      "Winter",
+      "thang",
+      "credit",
+      "card",
+      "restaurant",
+      "Dogg"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/football/articles/c4g286jn2ewo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "Wolves 2-2 Arsenal: What Arteta and Saka said",
+    "fetched_on": "2026-02-19T23:32:02.987129+00:00",
+    "content": "Arsenal manager Mikel Arteta, speaking to BBC Match of the Day: \"Incredibly disappointed that we gave two points away. I think we need to fault ourselves and give credit to Wolves. But what we did in… [+1841 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Arsenal",
+      "Arteta",
+      "Day",
+      "Incredibly",
+      "Saka",
+      "Mikel",
+      "BBC",
+      "Match",
+      "Wolves",
+      "speaking"
+    ]
+  },
+  {
+    "source": "Deadline [NewsAPI]",
+    "url": "http://deadline.com/2026/02/amanda-seyfried-didnt-know-ep-the-housemaid-1236728851/",
+    "title": "Amanda Seyfried “Didn’t Know” She Was An EP On ‘The Housemaid’ Until Filming Began: “One Of Those Vanity Credits”",
+    "fetched_on": "2026-02-19T23:32:02.987129+00:00",
+    "content": "With The Housemaid nearing $360M worldwide, Amanda Seyfried recently admitted the extent of her work on the Paul Feig film.\r\nDespite being credited as an executive producer on the feature adaptation … [+1278 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amanda",
+      "Seyfried",
+      "Began",
+      "Credits",
+      "Housemaid’",
+      "Filming",
+      "Vanity",
+      "Housemaid",
+      "Paul",
+      "Feig"
+    ]
+  },
+  {
+    "source": "9to5google.com [NewsAPI]",
+    "url": "http://9to5google.com/2026/02/18/google-store-trade-in-pixel-instant/",
+    "title": "Google Store trade-ins towards Pixel are now an instant discount, but not for everyone",
+    "fetched_on": "2026-02-19T23:32:02.987129+00:00",
+    "content": "Trade-ins are a key part of modern smartphone purchases, and Google is making a pretty big change for Pixel buyers with the arrival of instant trade-in credits through the Google Store. \r\nWith the la… [+3685 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "Store",
+      "Pixel",
+      "trade-ins",
+      "instant",
+      "discount",
+      "purchases",
+      "trade-in",
+      "key",
+      "part"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/18/3240718/0/en/Stratton-Capital-Group-Funds-18-6-Million-Industrial-Bridge-Loan-Through-In-House-Private-Credit-Platform.html",
+    "title": "Stratton Capital Group Funds $18.6 Million Industrial Bridge Loan Through In-House Private Credit Platform",
+    "fetched_on": "2026-02-19T23:32:02.987129+00:00",
+    "content": "SAVANNAH, Ga., Feb. 18, 2026 (GLOBE NEWSWIRE) -- Stratton Capital Group has successfully funded an $18.6 million transitional bridge loan for the acquisition and stabilization of a Class B industrial… [+2720 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stratton",
+      "Feb.",
+      "Capital",
+      "Million",
+      "Group",
+      "chars",
+      "Funds",
+      "SAVANNAH",
+      "GLOBE",
+      "NEWSWIRE"
+    ]
+  },
+  {
+    "source": "Decrypt [NewsAPI]",
+    "url": "https://decrypt.co/358480/coinbases-crypto-backed-lending-product-xrp-doge",
+    "title": "Coinbase’s Crypto-Backed Lending Product Expands to XRP and DOGE",
+    "fetched_on": "2026-02-19T23:32:02.987129+00:00",
+    "content": "In brief\r\n<ul><li>Coinbases crypto-backed lending product has expanded to several altcoins.</li><li>Those include XRP, Dogecoin, Cardano, and Litecoin.</li><li>The product faced a wave of liquidation… [+3219 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "Product",
+      "XRP",
+      "Dogecoin",
+      "Cardano",
+      "Litecoin.",
+      "Crypto-Backed",
+      "chars",
+      "Expands",
+      "DOGE"
+    ]
   }
 ]
