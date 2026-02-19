@@ -1,6 +1,17 @@
 {
-  "2026-02-18": {
+  "2026-02-19": {
     "status": "no company in the news"
+  },
+  "2026-02-18": {
+    "articles": [
+      {
+        "title": "FW: Palantir Heads to South Beach",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-17": {
     "articles": [
