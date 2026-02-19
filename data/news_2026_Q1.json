@@ -124304,5 +124304,45 @@
       "rink",
       "reason’"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/private-credit-bringing-an-investment-approach-into-lending/articleshow/128491938.cms",
+    "title": "Private credit: Bringing an investment approach into lending",
+    "fetched_on": "2026-02-19T04:54:28.255661+00:00",
+    "content": "For years, credit has instinctively gone with lending and equity with investment. Lending is about safety and repayment; equity is about growth and upside. But what happens when one word from each ca… [+4449 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bringing",
+      "credit",
+      "investment",
+      "lending",
+      "Private",
+      "years",
+      "equity",
+      "approach",
+      "instinctively",
+      "chars"
+    ]
+  },
+  {
+    "source": "Haaretz [NewsAPI]",
+    "url": "https://www.haaretz.com/israel-news/2026-02-18/ty-article-live/jd-vance-says-iran-talks-mixed-tehran-still-rejects-trump-nuclear-red-lines/0000019c-6eb6-d8bc-adde-6ebf7e650000",
+    "title": "JD Vance says Iran talks 'mixed,' Tehran still rejects Trump nuclear red lines",
+    "fetched_on": "2026-02-19T04:54:28.255661+00:00",
+    "content": "Javier Bardem wears a keffiyeh as he poses on the red carpet at the 77th Primetime Emmy Awards in Los Angeles, California, U.S., in September, 2025.Credit: Daniel Cole/Reuters\r\nMore than 80 actors, d… [+1176 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "California",
+      "mixed",
+      "actors",
+      "chars",
+      "Tehran",
+      "Primetime",
+      "Angeles",
+      "September",
+      "Daniel",
+      "Cole"
+    ]
   }
 ]
