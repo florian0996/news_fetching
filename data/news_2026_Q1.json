@@ -124642,5 +124642,45 @@
       "amid",
       "cost"
     ]
+  },
+  {
+    "source": "Slate Magazine [NewsAPI]",
+    "url": "https://slate.com/advice/2026/02/money-advice-sister-loan-emergency.html",
+    "title": "My Sister Has Asked for Yet Another Loan. This Time I’m Finally Saying No—For Her Sake.",
+    "fetched_on": "2026-02-19T11:39:23.988074+00:00",
+    "content": "Pay Dirt is Slates money advice column.Have a question? Send it to Kristin and Ilyce here. (Its anonymous!)\r\nDear Pay Dirt,\r\nMy family grew up relatively poor, no fault of my parents, just the way it… [+9712 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Sister",
+      "Asked",
+      "Dirt",
+      "Sake",
+      "Pay",
+      "Time",
+      "Finally",
+      "Slates",
+      "Kristin"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/bandhan-bank-building-ai-capability-to-offer-hyper-personalised-loans-working-on-developing-super-app/article70647020.ece",
+    "title": "Bandhan Bank building AI capability to offer hyper-personalised loans, working on developing super app",
+    "fetched_on": "2026-02-19T11:39:23.988074+00:00",
+    "content": "Bandhan Bank, which has been revamping its technology landscape to compete with top lenders, is building a powerful AI capability to offer hyper-personalised loans across segments to drive business g… [+3723 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Bandhan",
+      "capability",
+      "offer",
+      "hyper-personalised",
+      "chars",
+      "loans",
+      "building",
+      "working",
+      "lenders"
+    ]
   }
 ]
