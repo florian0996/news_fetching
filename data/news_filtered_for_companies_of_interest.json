@@ -1,6 +1,17 @@
 {
-  "2026-02-19": {
+  "2026-02-20": {
     "status": "no company in the news"
+  },
+  "2026-02-19": {
+    "articles": [
+      {
+        "title": "FW: The Spaniard Will Do",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-18": {
     "articles": [
