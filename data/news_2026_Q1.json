@@ -127168,5 +127168,85 @@
       "credit",
       "selling"
     ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/yearly-sales-drop-5pc-at-otb-group/",
+    "title": "Yearly sales drop 5pc at OTB Group",
+    "fetched_on": "2026-02-20T09:43:17.581957+00:00",
+    "content": "Commerce\r\nFebruary 19, 2026\r\n OTB Group performed well in the Middle East and North America. Image credit: OTB Group \r\n By Kiran Gill for Luxury Daily News Service\r\nItalian luxury conglomerate OTB Gr… [+4685 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OTB",
+      "Group",
+      "February",
+      "America",
+      "Commerce",
+      "Middle",
+      "East",
+      "North",
+      "Yearly",
+      "drop"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/ledn-bitcoin-backed-abs-188m-sp-ratings",
+    "title": "Ledn raises $188M in first Bitcoin-backed loan securitization: Bloomberg",
+    "fetched_on": "2026-02-20T09:43:17.581957+00:00",
+    "content": "Bitcoin-backed loan platform Ledn sold about $188 million of bonds tied to Bitcoincollateralized consumer loans into the mainstream assetbacked securities (ABS) market, Bloomberg reported on Wednesda… [+3766 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "ABS",
+      "Bitcoin-backed",
+      "Wednesda",
+      "market",
+      "chars",
+      "Ledn",
+      "Bitcoincollateralized",
+      "raises",
+      "securitization"
+    ]
+  },
+  {
+    "source": "ZyCrypto [NewsAPI]",
+    "url": "https://zycrypto.com/coinbase-expands-its-crypto-backed-lending-product-to-xrp-dogecoin-and-cardano/",
+    "title": "Coinbase Expands Its Crypto-Backed Lending Product To XRP, Dogecoin, And Cardano",
+    "fetched_on": "2026-02-20T09:43:17.581957+00:00",
+    "content": "On Wednesday, Coinbase announced an expansion of its crypto-backed lending service in the United States, adding support for Ripples XRP, Dogecoin, Cardano, and Litecoin.\r\nCustomers can secure loans b… [+2530 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dogecoin",
+      "XRP",
+      "Coinbase",
+      "Cardano",
+      "Wednesday",
+      "States",
+      "Litecoin",
+      "Lending",
+      "Crypto-Backed",
+      "Expands"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/91390/report-liverpool-are-in-the-race-to-sign-brazilian-star-in-26m-move.html",
+    "title": "Report: Liverpool are in the race to sign Brazilian star in £26m move",
+    "fetched_on": "2026-02-20T09:43:17.581957+00:00",
+    "content": "Liverpools recruitment strategy continues to evolve under Arne Slot, with fresh reports suggesting the club are monitoring another promising addition in midfield. Credit to Sports Boom for the origin… [+4257 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Slot",
+      "Brazilian",
+      "Arne",
+      "Liverpool",
+      "Liverpools",
+      "move",
+      "midfield",
+      "race",
+      "sign",
+      "star"
+    ]
   }
 ]
