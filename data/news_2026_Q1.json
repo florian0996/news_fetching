@@ -126850,5 +126850,105 @@
       "Nigeria",
       "Nigerias"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-20/blue-owl-sold-private-loans-to-pension-giants-and-own-insurer",
+    "title": "Blue Owl Sold Private Loans to Pension Giants and Own Insurer",
+    "fetched_on": "2026-02-20T04:48:13.619235+00:00",
+    "content": "Blue Owl Capital Inc., facing a looming deadline to return cash in one of its private credit funds, found four buyers for a $1.4 billion portfolio of loans to help pay out investors: Three of North America’s biggest pension funds and its own insurance firm.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Owl",
+      "Blue",
+      "Loans",
+      "Inc.",
+      "Private",
+      "Pension",
+      "Sold",
+      "Giants",
+      "Insurer",
+      "Capital"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-02-20/foreigners-raise-stakes-in-sbi-bank-of-baroda-canara-bank-and-pnb",
+    "title": "Global Funds Pile Into India State-Owned Lenders as Credit Growth Stays Strong",
+    "fetched_on": "2026-02-20T04:48:13.791018+00:00",
+    "content": "An index tracking state-owned lenders is up 12% so far this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lenders",
+      "Funds",
+      "Pile",
+      "India",
+      "Credit",
+      "Growth",
+      "Stays",
+      "Strong",
+      "State-Owned",
+      "Global"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/green-push-gathers-pace-as-idfc-first-bank-sees-rising-traction-in-deposits-and-ev-financing/articleshow/128539203.cms",
+    "title": "Green push gathers pace as IDFC First Bank sees rising traction in deposits and EV financing",
+    "fetched_on": "2026-02-20T04:48:13.062913+00:00",
+    "content": "The growing momentum around sustainable finance is beginning to show tangible results, with banks reporting increasing customer interest in green products and lending linked to environmentally friend… [+3514 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "IDFC",
+      "results",
+      "friend",
+      "Green",
+      "Bank",
+      "banks",
+      "push",
+      "gathers",
+      "pace"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19225774-t-mobile-pixel-9a-on-us-with-any-phone-trade-in-and-on-any-phone-plan-128gb-or-256gb-free-after-bill-credits",
+    "title": "T-Mobile - Pixel 9a on us with any phone trade in and on any phone plan - 128GB or 256GB - Free after bill credits",
+    "fetched_on": "2026-02-20T04:48:13.062913+00:00",
+    "content": "I'm on a very old Simple Choice plan and it lets me do this with any phone trade in for an upgrade.The only color they have is Obsidian and I chose the 256GB as a test in the T-Life app and selected … [+299 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "phone",
+      "Pixel",
+      "trade",
+      "Free",
+      "T-Mobile",
+      "chars",
+      "Simple",
+      "Choice",
+      "Obsidian",
+      "plan"
+    ]
+  },
+  {
+    "source": "Newsbreak.com [NewsAPI]",
+    "url": "https://www.newsbreak.com/share/4498180954899-kid-rock-once-said-the-hardest-part-of-cutting-back-on-drugs-was-relearning-how-to-drink-now-he-s-rfk-jr-s-fitness-partner?s=a2&amp;share_destination_id=NjM4NTQxMzMtMTc3MTQ2ODY4Mjc5MQ%3D%3D&amp;pd=04JvNNa0&amp;hl=en_US&amp;send_time=1771468682&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.6.1%22%2C%22languages%22%3A%22en%22%7D",
+    "title": "Kid Rock Once Said the Hardest Part of Cutting Back on Drugs Was 'Relearning How to Drink.' Now He's RFK Jr.'s Fitness Partner",
+    "fetched_on": "2026-02-20T04:48:13.062913+00:00",
+    "content": "Image credit: @kidrock/Instagram; @seckennedy/Instagram \r\nThe HHS Secretary's shirtless workout montage with the self-described hard-partying rocker has the internet asking one question: Why him?\r\nHe… [+4861 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Relearning",
+      "Drink",
+      "Rock",
+      "Hardest",
+      "Part",
+      "Cutting",
+      "Back",
+      "Drugs",
+      "Instagram",
+      "Kid"
+    ]
   }
 ]
