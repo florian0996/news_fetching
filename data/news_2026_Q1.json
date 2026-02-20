@@ -127068,5 +127068,25 @@
       "Bigbanks",
       "months"
     ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2026/02/19/ledn-raises-usd188m-with-first-bitcoin-backed-bond-sale-in-asset-backed-market",
+    "title": "Ledn raises $188m with first bitcoin backed bond sale in asset backed market",
+    "fetched_on": "2026-02-20T07:52:41.595372+00:00",
+    "content": "Ledn, a crypto lending company, has completed the first asset-backed securities (ABS) deal backed by bitcoin collateral, raising $188 million for crypto credit markets. \r\nAsset-backed securities are … [+1239 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ABS",
+      "Ledn",
+      "raising",
+      "backed",
+      "bitcoin",
+      "crypto",
+      "raises",
+      "company",
+      "deal",
+      "collateral"
+    ]
   }
 ]
