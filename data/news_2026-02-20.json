@@ -43,7 +43,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-19/asset-manager-shares-plunge-as-blue-owl-curbs-fund-redemptions",
     "title": "Asset Manager Shares Sink as Blue Owl Curbs Fund Redemptions",
-    "fetched_on": "2026-02-20T13:03:15.720387+00:00",
+    "fetched_on": "2026-02-20T14:40:09.750882+00:00",
     "content": "Shares of alternative asset managers tumbled on Thursday after Blue Owl Capital Inc. restricted withdrawals from one of its retail-focused private credit funds, a fresh blow to a sector that\u2019s faced heightened scrutiny in recent weeks.",
     "platforms_mentioned": [],
     "keywords": [
@@ -123,7 +123,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-19/bofa-commits-25-billion-of-its-own-cash-to-private-credit-deals",
     "title": "Bank of America Commits $25 Billion of Its Own Cash to Private Credit Deals",
-    "fetched_on": "2026-02-20T13:03:15.720407+00:00",
+    "fetched_on": "2026-02-20T14:40:09.750900+00:00",
     "content": "Bank of America Corp. is committing $25 billion to private-credit deals, joining its Wall Street rivals in putting its own balance sheet behind lending in the fast-growing market, according to people with knowledge of the matter.",
     "platforms_mentioned": [],
     "keywords": [
@@ -423,7 +423,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/funding-jumped-big-checks-ai-ye-2025/",
     "title": "Fintech Funding Jumped 27% In 2025 With Fewer Deals But Bigger Checks",
-    "fetched_on": "2026-02-20T13:03:35.078563+00:00",
+    "fetched_on": "2026-02-20T14:40:23.956297+00:00",
     "content": "Global venture funding to fintech startups climbed in 2025 to its highest level in several quarters, boosted by later-stage deals, Crunchbase data shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -443,7 +443,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/record-breaking-seed-funding-us-ai-eoy-2025/",
     "title": "Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead",
-    "fetched_on": "2026-02-20T13:03:38.129528+00:00",
+    "fetched_on": "2026-02-20T14:40:26.475298+00:00",
     "content": "The seed investment environment exhibited its typical quirkiness in 2025. In particular, it was a huge year for huge rounds. Predictably, it was also a banner period for AI dealmaking with the U.S. pulling in a bigger-than-usual share of total investment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -483,7 +483,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/19/trump-colleges-low-student-loan-repayment-rates.html",
     "title": "Trump administration issues warning to hundreds of colleges with low student loan repayment rates",
-    "fetched_on": "2026-02-20T13:03:39.563620+00:00",
+    "fetched_on": "2026-02-20T14:40:27.670703+00:00",
     "content": "Trump officials are turning up the pressure on colleges to ensure their students repay their federal student loans or risk losing their financial aid.",
     "platforms_mentioned": [],
     "keywords": [
@@ -500,30 +500,30 @@
     ]
   },
   {
-    "source": "CNBC Markets [RSS]",
+    "source": "CNBC [NewsAPI]",
     "url": "https://www.cnbc.com/2026/02/19/blue-owl-private-debt-investor-loan-liquidity-restriction-market-shares.html",
-    "title": "Blue Owl curbs investor liquidity following asset sale, shares slide almost 6%",
-    "fetched_on": "2026-02-20T07:00:00.055991+00:00",
-    "content": "Private credit specialist Blue Owl said it will restrict quarterly liquidity for investors in its retail-focused debt fund.",
+    "title": "Blue Owl curbs investor liquidity following asset sale, shares down 3% in pre-market trading",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "Shares in Blue Owl Capital were down almost 3% in pre-market trading on Thursday after the private market and alternative assets manager sold $1.4 billion of loan assets held across three of its priv\u2026 [+2775 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Owl",
-      "Private",
       "Blue",
-      "sale",
+      "pre-market",
+      "chars",
       "shares",
-      "fund",
-      "liquidity",
-      "curbs",
-      "asset",
-      "slide"
+      "Capital",
+      "Thursday",
+      "trading",
+      "sale",
+      "sold"
     ]
   },
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/10/new-york-fed-credit-card-debt-tops-1point28-trillion.html",
     "title": "Credit card debt tops $1.28 trillion \u2014 consistent with \u2018K-shaped\u2019 economic divide, New York Fed research shows",
-    "fetched_on": "2026-02-20T13:03:39.563764+00:00",
+    "fetched_on": "2026-02-20T14:40:27.670829+00:00",
     "content": "Collectively, Americans owe $1.28 trillion on their credit cards, according to a new report by the Federal Reserve Bank of New York.",
     "platforms_mentioned": [],
     "keywords": [
@@ -543,7 +543,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/02/02/mortgage-delinquencies-housing-affordability.html",
     "title": "Housing affordability isn't just hurting buyers: More homeowners are falling behind on their mortgages",
-    "fetched_on": "2026-02-20T13:03:39.221364+00:00",
+    "fetched_on": "2026-02-20T14:40:27.188586+00:00",
     "content": "While the overall share of delinquencies among all mortgages remains small, the growth is occurring faster than late payments for other types of consumer loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -563,7 +563,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/28/fed-decision-mortgage-rates-credit-cards-loans.html",
     "title": "Fed holds interest rates steady: What that means for mortgages, credit cards and loans",
-    "fetched_on": "2026-02-20T13:03:39.221385+00:00",
+    "fetched_on": "2026-02-20T14:40:27.188607+00:00",
     "content": "From mortgage rates and auto loans to credit cards and savings accounts, here's a look at how the January Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -583,7 +583,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/26/fed-rates-may-hold-steady.html",
     "title": "Fed is likely to hold interest rates steady, resisting Trump pressure. Here\u2019s what that means for borrowers",
-    "fetched_on": "2026-02-20T13:03:39.221420+00:00",
+    "fetched_on": "2026-02-20T14:40:27.188641+00:00",
     "content": "From mortgage rates to auto loans and credit cards, here\u2019s a look at how the upcoming January Fed decision may affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -603,7 +603,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/23/c-pace-cre-lending-record-deals.html",
     "title": "Why a niche category of CRE lending is suddenly seeing record deals",
-    "fetched_on": "2026-02-20T13:03:39.221427+00:00",
+    "fetched_on": "2026-02-20T14:40:27.188648+00:00",
     "content": "C-PACE stands for commercial property assessed clean energy and is a type of financing that differs from a traditional bank loan. It's seeing explosive growth.",
     "platforms_mentioned": [],
     "keywords": [
@@ -623,7 +623,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/13/ai-credit-markets.html",
     "title": "AI disruption could spark a \u2018shock to the system\u2019 in credit markets, UBS analyst says",
-    "fetched_on": "2026-02-20T13:03:39.399245+00:00",
+    "fetched_on": "2026-02-20T14:40:27.457484+00:00",
     "content": "UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.",
     "platforms_mentioned": [],
     "keywords": [
@@ -643,7 +643,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html",
     "title": "Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'",
-    "fetched_on": "2026-02-20T13:03:39.399310+00:00",
+    "fetched_on": "2026-02-20T14:40:27.457549+00:00",
     "content": "Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's \"Squawk Box.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -663,7 +663,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/05/private-credit-meltdown-fears-why-bondbloxx-isnt-worried-.html",
     "title": "Fixed-income ETF provider BondBloxx questions private credit meltdown fears, sees space as sensible way to generate income",
-    "fetched_on": "2026-02-20T13:03:39.399385+00:00",
+    "fetched_on": "2026-02-20T14:40:27.457616+00:00",
     "content": "BondBloxx's Joanna Gallegos, J.P. Morgan's former head of global ETF strategy, is confident private credit is a sensible way for investors to pursue income.",
     "platforms_mentioned": [],
     "keywords": [
@@ -683,7 +683,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/03/rocket-companies-shares-jump-6percent-after-ceo-says-mortgage-loan-volume-is-surging.html",
     "title": "Rocket Companies shares jump 6% after CEO says mortgage loan volume is surging",
-    "fetched_on": "2026-02-20T13:03:39.399406+00:00",
+    "fetched_on": "2026-02-20T14:40:27.457636+00:00",
     "content": "CEO Varun Krishna said his company is poised to post its strongest mortgage loan production in four years after a drop in borrowing costs helped revive demand.",
     "platforms_mentioned": [],
     "keywords": [
@@ -703,7 +703,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/17/student-loan-forgiveness-eligibility-reaches-more-borrowers-.html",
     "title": "Trump administration identifies more borrowers eligible for student loan forgiveness, court filing shows",
-    "fetched_on": "2026-02-20T13:03:39.563635+00:00",
+    "fetched_on": "2026-02-20T14:40:27.670719+00:00",
     "content": "The Trump administration identified more than 40,000 borrowers eligible for federal student loan relief in January, a recent court filing shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -723,7 +723,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/16/student-loan-parent-plus-forgiveness.html",
     "title": "Parents with student loans have a short window to secure affordable repayment and forgiveness",
-    "fetched_on": "2026-02-20T13:03:39.563657+00:00",
+    "fetched_on": "2026-02-20T14:40:27.670740+00:00",
     "content": "Parents with student debt may be excluded from affordable repayment plans and loan forgiveness in the coming months if they don't take certain steps soon.",
     "platforms_mentioned": [],
     "keywords": [
@@ -743,7 +743,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/09/cfpb-student-loan-complaints.html",
     "title": "Student loan complaints hit record high, CFPB finds \u2014 but the watchdog agency omits details",
-    "fetched_on": "2026-02-20T13:03:39.563778+00:00",
+    "fetched_on": "2026-02-20T14:40:27.670842+00:00",
     "content": "The Consumer Financial Protection Bureau's latest student loan report cites a record number of complaints from borrowers but leaves out certain information.",
     "platforms_mentioned": [],
     "keywords": [
@@ -763,7 +763,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/09/pslf-public-service-loan-forgiveness-buyback-backlog.html",
     "title": "Some student loan borrowers wait over a year in public servant debt forgiveness backlog",
-    "fetched_on": "2026-02-20T13:03:39.563791+00:00",
+    "fetched_on": "2026-02-20T14:40:27.670855+00:00",
     "content": "More than 83,000 federal student loan borrowers are waiting for a Public Service Loan Forgiveness Buyback\u00a0application decision. What experts say to do while in line.",
     "platforms_mentioned": [],
     "keywords": [
@@ -783,7 +783,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/06/trump-child-tax-credit.html",
     "title": "How Trump's child tax credit changes could impact your refund this season",
-    "fetched_on": "2026-02-20T13:03:39.563812+00:00",
+    "fetched_on": "2026-02-20T14:40:27.670875+00:00",
     "content": "The maximum child tax credit increased to $2,200 in 2025 based on changes enacted via President Donald Trump's \"big beautiful bill.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -943,7 +943,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2026/02/20/canary-in-the-coal-mine-blue-owl-liquidity-curbs-fuel-fears-private-credit-bubble-.html",
     "title": "'Canary in the coal mine': Blue Owl liquidity curbs fuel fears about private credit bubble",
-    "fetched_on": "2026-02-20T13:03:39.052078+00:00",
+    "fetched_on": "2026-02-20T14:40:27.104790+00:00",
     "content": "The private credit boom is facing a new test after Blue Owl Capital permanently restricted withdrawals from one of its retail-focused debt funds.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1039,7 +1039,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/nibbles-pet-rewards-credit-card-193202782.html",
     "title": "Nibbles Pet Rewards Credit Card review: Free pet insurance and more savings for pet owners",
-    "fetched_on": "2026-02-20T13:03:40.116425+00:00",
+    "fetched_on": "2026-02-20T14:40:27.936753+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1059,7 +1059,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-credit-vs-deduction-224610939.html",
     "title": "Tax credit vs. deduction: Which is better?",
-    "fetched_on": "2026-02-20T13:03:40.116417+00:00",
+    "fetched_on": "2026-02-20T14:40:27.936708+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1152,7 +1152,7 @@
     "source": "CNBC Markets [RSS]",
     "url": "https://www.cnbc.com/2026/02/20/cnbc-daily-open-us-markets-rocked-by-private-credit-worries-and-potential-strike-on-iran.html",
     "title": "CNBC Daily Open: U.S. markets rocked by private credit worries and potential strike on Iran",
-    "fetched_on": "2026-02-20T13:03:39.052125+00:00",
+    "fetched_on": "2026-02-20T14:40:27.104852+00:00",
     "content": "Meanwhile, Blue Owl Capital tightened investor liquidity after selling $1.4 billion in loan assets, raising alarms about stability in the private credit market.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1768,7 +1768,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-02-20/blue-owl-found-buyers-for-portfolio-of-private-loans-video",
     "title": "Blue Owl Found Buyers for Portfolio of Private Loans",
-    "fetched_on": "2026-02-20T13:03:14.532772+00:00",
+    "fetched_on": "2026-02-20T14:40:08.996885+00:00",
     "content": "Blue Owl Capital found four buyers for a $1.4 billion portfolio of loans to help pay out investors, part of a plan to return cash to investors in the firm\u2019s Blue Owl Capital Corp II, which was hit with a wave of redemptions last year. Silas Brown reports on Bloomberg Television. (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -1788,7 +1788,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/newsletters/2026-02-20/blue-owl-s-fund-saga-is-a-lesson-about-retail-money-and-private-markets",
     "title": "Blue Owl's blues reignite debate over retail money in private credit",
-    "fetched_on": "2026-02-20T13:03:15.002469+00:00",
+    "fetched_on": "2026-02-20T14:40:09.309719+00:00",
     "content": "<p>Regulators examine links between insurers and private markets</p>",
     "platforms_mentioned": [],
     "keywords": [
@@ -1808,7 +1808,7 @@
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/videos/2026-02-20/bloomberg-brief-2-20-2026-video",
     "title": "Trump Ups Pressure on Iran; Blue Owl Sold Private Loans to Pay Investors | Bloomberg Brief 2/20/2026",
-    "fetched_on": "2026-02-20T13:03:15.230942+00:00",
+    "fetched_on": "2026-02-20T14:40:09.482834+00:00",
     "content": "US equity futures climb as markets await the December PCE inflation data. President Trump urges Iran to reach a deal over its nuclear program in 15 days, while the US carries out the biggest military buildup in the Middle East since 2003. Blue Owl is said to have found four buyers for a $1.4 billion portfolio of loans to help pay out investors. Cayla Seder of State Street discusses the risks in private credit.  (Source: Bloomberg)",
     "platforms_mentioned": [],
     "keywords": [
@@ -1828,7 +1828,7 @@
     "source": "Unexplained-mysteries.com [NewsAPI]",
     "url": "https://www.unexplained-mysteries.com/news/394854/further-clue-suggests-trump-really-will-give-an-alien-disclosure-speech",
     "title": "Further clue suggests Trump really will give an alien disclosure speech",
-    "fetched_on": "2026-02-20T13:03:12.707407+00:00",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
     "content": "Extraterrestrial\r\nBy T.K. RandallFebruary 19, 2026 \u00b7 \u00a0102 commentsCould the rumors be true ? Image Credit: Bing AI / Dall-E 3Trump's own daughter-in-law has offered an update on the claim that he wil\u2026 [+2075 chars]",
     "platforms_mentioned": [],
     "keywords": [
@@ -2203,6 +2203,406 @@
       "private",
       "firm",
       "market"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-20/apollo-on-private-credit-we-don-t-do-what-banks-do-video",
+    "title": "Apollo on Private Credit: 'We Don't Do What Banks Do'",
+    "fetched_on": "2026-02-20T14:40:08.996775+00:00",
+    "content": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan and Eiji Ueda, the firm's Asia-Pacific chief, discuss how the business's private-credit expertise meshes with Japan's needs to finance capital investment. They speak with Bloomberg Television's David Westin on Wall Street Week. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "Credit",
+      "Private",
+      "Banks",
+      "Global",
+      "Management",
+      "Bloomberg",
+      "Ueda",
+      "Source",
+      "Chief"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-20/partners-group-seeks-to-reassure-on-ai-private-credit-exposure",
+    "title": "Partners Group Seeks to Reassure on AI, Private Credit Exposure",
+    "fetched_on": "2026-02-20T14:40:09.482800+00:00",
+    "content": "Partners Group Holding AG sought to send a calming message about its investments after the stocks of other alternative asset managers suffered in recent weeks over their exposures to private credit and to industries potentially affected by artificial intelligence.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group",
+      "Partners",
+      "Private",
+      "Credit",
+      "Seeks",
+      "Reassure",
+      "Holding",
+      "intelligence",
+      "Exposure",
+      "exposures"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-20/imf-s-board-said-to-meet-to-consider-ukraine-s-loan-on-feb-26",
+    "title": "IMF\u2019s Board Said to Meet to Consider Ukraine\u2019s Loan on Feb. 26",
+    "fetched_on": "2026-02-20T14:40:09.163711+00:00",
+    "content": "The International Monetary Fund\u2019s board will meet on February 26 to consider a four-year, $8.1 billion loan program for Ukraine, people familiar with the matter said.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ukraine",
+      "Board",
+      "IMF",
+      "Feb.",
+      "February",
+      "Meet",
+      "Loan",
+      "International",
+      "Monetary",
+      "Fund"
+    ]
+  },
+  {
+    "source": "The Points Guy [NewsAPI]",
+    "url": "https://thepointsguy.com/news/united-airlines-mileageplus-miles-shakeup/",
+    "title": "United tightens basic economy policy, shakes up MileagePlus - The Points Guy",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "United Airlines is leaning in to its cobranded credit card holders, while making it tougher for flyers without a United card or status to earn miles.\r\nUnited on Thursday revealed it's slashing mileag\u2026 [+4427 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "United",
+      "Points",
+      "Guy",
+      "Airlines",
+      "card",
+      "policy",
+      "shakes",
+      "MileagePlus",
+      "holders",
+      "miles"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/19/3241237/0/en/Home-Loan-Eligibility-Calculator-How-Much-Home-Loan-Can-You-Really-Get-in-2026.html",
+    "title": "Home Loan Eligibility Calculator - How Much Home Loan Can You Really Get in 2026?",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "Pune, Maharashtra, Feb. 19, 2026 (GLOBE NEWSWIRE) -- If you are planning to buy a home in 2026, your first step is to check the numbers. A home loan eligibility calculator quickly shows how much a ba\u2026 [+8077 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Home",
+      "Eligibility",
+      "Calculator",
+      "Maharashtra",
+      "Feb.",
+      "GLOBE",
+      "NEWSWIRE",
+      "Pune",
+      "chars"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/peaky-blinders-the-immortal-man-soundtrack-revealed-new-red-right-hand-version-massive-attack-covers-incoming/",
+    "title": "Peaky Blinders: The Immortal Man Soundtrack Revealed: New Red Right Hand Version & Massive Attack Covers Incoming",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "Picture Credit: Netflix\r\nThe Peaky Blinders are finally returning next month with the release of The Immortal Man, and if there is one thing that defines the world of Tommy Shelby as much as the flat\u2026 [+2836 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Immortal",
+      "Blinders",
+      "Man",
+      "Peaky",
+      "Revealed",
+      "Version",
+      "Massive",
+      "Credit",
+      "Netflix",
+      "Soundtrack"
+    ]
+  },
+  {
+    "source": "HITC - Football, Gaming, Movies, TV, Music [NewsAPI]",
+    "url": "https://www.hitc.com/hong-kongs-coleman-wong-credits-rafael-nadal-as-he-reaches-delray-beach-quarterfinals/",
+    "title": "Hong Kong\u2019s Coleman Wong credits Rafael Nadal as he reaches Delray Beach quarterfinals",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "Coleman Wong defeated Brandon Nakashima, 6-4, 7-6, to book his place in the Delray Beach Open quarterfinals.\r\nThe Rafael Nadal academy graduate has enjoyed a great week in Florida, coming through qua\u2026 [+1978 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coleman",
+      "Wong",
+      "Delray",
+      "Beach",
+      "Nakashima",
+      "Rafael",
+      "Nadal",
+      "Kong",
+      "Brandon",
+      "Open"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/02/stranger-things-reportedly-rewritten-and-will-be-re-released-after-season-5-debacle-th1/",
+    "title": "\u2018Stranger Things\u2019 Reportedly Rewritten and Will Be Released Following Season 5 Backlash",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "The world of Stranger Things expanded significantly in the last four years with the fourth and fifth seasons of the show and the addition of the prequel stage play.\r\nCredit: Netflix\r\nFew Netflix seri\u2026 [+6454 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stranger",
+      "Backlash",
+      "Things\u2019",
+      "Reportedly",
+      "Rewritten",
+      "Released",
+      "Things",
+      "Season",
+      "seasons",
+      "Netflix"
+    ]
+  },
+  {
+    "source": "Commercial Observer [NewsAPI]",
+    "url": "http://commercialobserver.com/2026/02/cre-financing-spreads-cred-iq/",
+    "title": "CRE Financing Spreads Compressing \u2014 But Not Equally",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "Commercial real estate lending spreads have tightened across every major property type since mid-2025, but the pace and magnitude of compression vary dramatically by sector and the gap between winner\u2026 [+2042 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "CRE",
+      "Compressing",
+      "Spreads",
+      "Financing",
+      "Equally",
+      "Commercial",
+      "winner",
+      "real",
+      "estate"
+    ]
+  },
+  {
+    "source": "Notebookcheck.net [NewsAPI]",
+    "url": "https://www.notebookcheck.net/Tesla-regulatory-credit-revenue-set-to-fall-drastically-as-U-S-government-nixes-EV-fuel-factor-multiplier.1230143.0.html",
+    "title": "Tesla regulatory credit revenue set to fall drastically as U.S. government nixes EV fuel factor multiplier",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "The White House administration has rescinded a rule that allowed automakers to inflate the real fuel economy of electric vehicles in their fleet with the so-called fuel content factor (FCF). \r\nTucked\u2026 [+2027 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FCF",
+      "fuel",
+      "White",
+      "House",
+      "factor",
+      "Tesla",
+      "government",
+      "regulatory",
+      "credit",
+      "revenue"
+    ]
+  },
+  {
+    "source": "TVLine [NewsAPI]",
+    "url": "https://www.tvline.com/2103466/mayor-of-kingstown-taylor-sheridan-milestone-first-pilot-written/",
+    "title": "Mayor Of Kingstown Marked A Major Milestone For Taylor Sheridan's Creative Journey",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "Taylor Sheridan might be the brains behind \"Lioness,\" \"Tulsa King,\" and a handful of \"Yellowstone\" spin-offs (including the upcoming CBS drama \"Marshals\"), but some credit belongs to Nicole Muirbrook\u2026 [+1048 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lioness",
+      "Yellowstone",
+      "Marshals",
+      "Taylor",
+      "Sheridan",
+      "spin-offs",
+      "chars",
+      "Tulsa",
+      "King",
+      "Muirbrook"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/19/3241203/0/en/NewDay-USA-Recognized-as-a-2026-Top-Workplace-by-Scotsman-Guide.html",
+    "title": "NewDay USA Recognized as a 2026 Top Workplace by Scotsman Guide",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "WEST PALM BEACH, Fla., Feb. 19, 2026 (GLOBE NEWSWIRE) -- NewDay USA\r\n, a leading national mortgage lending company serving the veteran community, today announced it has been named a Top Workplace by \u2026 [+2713 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Workplace",
+      "NewDay",
+      "Fla.",
+      "Feb.",
+      "USA",
+      "Top",
+      "BEACH",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars"
+    ]
+  },
+  {
+    "source": "Doctorofcredit.com [NewsAPI]",
+    "url": "https://www.doctorofcredit.com/usaa-adding-200-auto-deductible-reimbursement-to-all-credit-cards/",
+    "title": "USAA Adding $200 Auto Deductible Reimbursement To All Credit Cards",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "USAA has sent out an e-mail to cardholders informing them of a new benefit. All cardholders are eligible for a $200 auto deductible reimbursement and you don\u2019t need a USAA car insurance to qualify. T\u2026 [+1506 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Auto",
+      "Adding",
+      "USAA",
+      "Credit",
+      "Cards",
+      "Deductible",
+      "Reimbursement",
+      "benefit",
+      "cardholders",
+      "e-mail"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/voltage-launches-usd-settled-credit-line-bitcoin",
+    "title": "Voltage rolls out USD-settled Bitcoin Lightning credit line for businesses",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "Bitcoin infrastructure company Voltage has announced the launch of Voltage Credit, a programmatic revolving line of credit designed to let businesses send payments with Lightning-style instant finali\u2026 [+4046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Voltage",
+      "Bitcoin",
+      "chars",
+      "credit",
+      "Lightning",
+      "Lightning-style",
+      "finali",
+      "line",
+      "businesses",
+      "rolls"
+    ]
+  },
+  {
+    "source": "Order-order.com [NewsAPI]",
+    "url": "https://order-order.com/2026/02/19/more-than-10-billion-in-benefits-given-to-unemployed-migrants-in-18-months/",
+    "title": "More Than \u00a310 Billion in Benefits Given to Unemployed Migrants in 18 Months",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "A whopping \u00a310.6 billion in Universal Credit has been given to households with at least one non-working migrant between January 2024 and June 2025, according to research by the Centre for Migration C\u2026 [+520 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Months",
+      "January",
+      "June",
+      "chars",
+      "Benefits",
+      "Unemployed",
+      "Universal",
+      "Credit",
+      "Centre"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/19/3241111/0/en/BondBloxx-Private-Credit-CLO-ETF-PCMM-Named-Newcomer-Fixed-Income-ETF-of-the-Year-at-2026-With-Intelligence-Mutual-Fund-ETF-Awards.html",
+    "title": "BondBloxx Private Credit CLO ETF (PCMM) Named \u201cNewcomer Fixed Income ETF of the Year\u201d at 2026 With Intelligence Mutual Fund & ETF Awards",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "LARKSPUR, Calif., Feb. 19, 2026 (GLOBE NEWSWIRE) -- BondBloxx Investment Management, a leading provider of precision fixed income ETFs, is proud to announce that its BondBloxx Private Credit CLO ETF \u2026 [+4370 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ETF",
+      "Private",
+      "Credit",
+      "CLO",
+      "Income",
+      "PCMM",
+      "Named",
+      "Calif.",
+      "Feb.",
+      "Fixed"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/19/3241073/0/en/TransUnion-2026-Originations-Forecast-Shows-Continued-Positive-Momentum-Amidst-Moderate-Expansion.html",
+    "title": "TransUnion 2026 Originations Forecast Shows Continued Positive Momentum Amidst Moderate Expansion",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "CHICAGO, Feb. 19, 2026 (GLOBE NEWSWIRE) -- TransUnion (NYSE: TRU) released its 2026 credit originations forecast, highlighting continued momentum in originations for mortgages as well as for unsecure\u2026 [+17115 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TransUnion",
+      "Feb.",
+      "NYSE",
+      "TRU",
+      "Originations",
+      "Forecast",
+      "CHICAGO",
+      "GLOBE",
+      "NEWSWIRE",
+      "chars"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/maharashtras-msme-credit-guarantees-rise-36-times-in-three-years/article70651764.ece",
+    "title": "Maharashtra\u2019s MSME credit guarantees rise 3.6 times in three years",
+    "fetched_on": "2026-02-20T14:40:08.446389+00:00",
+    "content": "Maharashtra has recorded a sharp surge in credit guarantees approved for Micro and Small Enterprises (MSEs), including those in rural areas, under the Credit Guarantee Scheme (CGS) of the Credit Guar\u2026 [+2028 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "CGS",
+      "guarantees",
+      "Enterprises",
+      "Scheme",
+      "Guar",
+      "Maharashtra",
+      "MSEs",
+      "chars",
+      "MSME"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2026/02/20/subprime-borrowers-personal-loans.html",
+    "title": "Personal loans surge amid affordability struggles: It's 'the middle-class refinancing option,' expert says",
+    "fetched_on": "2026-02-20T14:40:27.670664+00:00",
+    "content": "Some borrowers are turning to personal loans to refinance credit card debt. Those loans are expected increase nearly 6% this year, TransUnion forecasts",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Personal",
+      "loans",
+      "struggles",
+      "option",
+      "expert",
+      "debt",
+      "surge",
+      "amid",
+      "affordability",
+      "middle-class"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/mail-thieves-nabbing-credit-cards-140000305.html",
+    "title": "Mail thieves nabbing credit cards and checks daily despite USPS security efforts. How to protect your mail and finances",
+    "fetched_on": "2026-02-20T14:40:27.936599+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "USPS",
+      "efforts",
+      "Mail",
+      "thieves",
+      "nabbing",
+      "credit",
+      "cards",
+      "checks",
+      "daily",
+      "security"
     ]
   }
 ]
