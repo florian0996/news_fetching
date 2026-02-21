@@ -133045,5 +133045,65 @@
       "Sister",
       "Haylie"
     ]
+  },
+  {
+    "source": "Rolling Stone [NewsAPI]",
+    "url": "http://www.rollingstone.com/music/music-pictures/margo-price-pearl-charles-webster-hall-1235514837/",
+    "title": "Backstage With Margo Price and Pearl Charles in New York",
+    "fetched_on": "2026-02-21T23:26:42.236956+00:00",
+    "content": "Image Credit: Sacha Lecca for Rolling Stone\r\nLast month, Price performed at a Neil Young tribute concert at the Troubadour in Los Angeles, as part of the Americana Pre-Grammy Salute. A longtime Young… [+421 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Price",
+      "Credit",
+      "Sacha",
+      "Angeles",
+      "Salute",
+      "Margo",
+      "Pearl",
+      "Charles",
+      "York",
+      "Image"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/helios-fairfax-partners-corporation-closes-amendment-to-credit-facility",
+    "title": "Helios Fairfax Partners Corporation Closes Amendment to Credit Facility",
+    "fetched_on": "2026-02-21T23:26:42.236956+00:00",
+    "content": "Helios Fairfax is an investment holding company whose investment objective is to achieve long term capital appreciation, while preserving capital, by investing in public and private equity securities… [+160 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fairfax",
+      "chars",
+      "Helios",
+      "Partners",
+      "Corporation",
+      "Closes",
+      "Amendment",
+      "Credit",
+      "Facility",
+      "appreciation"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180833558",
+    "title": "Blue Owl sold $1.4B loan portfolio to pension giants, own insurer (OWL:NYSE) - Seeking Alpha",
+    "fetched_on": "2026-02-21T23:26:42.236956+00:00",
+    "content": "Stupidity, like virtue, is its own reward.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYSE",
+      "Seeking",
+      "Stupidity",
+      "Owl",
+      "Alpha",
+      "Blue",
+      "sold",
+      "loan",
+      "giants",
+      "insurer"
+    ]
   }
 ]
