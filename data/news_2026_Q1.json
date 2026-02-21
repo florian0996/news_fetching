@@ -130913,5 +130913,45 @@
       "equity",
       "loan"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/relationships/from-sachin-tendulkar-to-virat-kohli-5-indian-cricketers-who-credit-their-wives-or-girlfriends-for-success/photostory/128597435.cms",
+    "title": "5 Indian cricketers who credit their wives or girlfriends for success",
+    "fetched_on": "2026-02-21T07:33:53.006065+00:00",
+    "content": "\"Hitman\" Rohit Sharma has thanked his wife Ritika Sajdeh, for her love and support in many incidents. For instance, in 2021 Rohit Sharma thanked Ritika for scoring a century in the 2nd Test in a spec… [+517 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hitman",
+      "Rohit",
+      "Indian",
+      "Sajdeh",
+      "Sharma",
+      "Ritika",
+      "success",
+      "incidents",
+      "thanked",
+      "cricketers"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19229818-7-99-rust-oleum-zinsser-98014-4-inch-long-handle-scraper-tool-0-88-credit-at-amazon",
+    "title": "$7.99 | Rust-Oleum Zinsser 98014 4-Inch Long-Handle Scraper Tool + $0.88 credit at Amazon",
+    "fetched_on": "2026-02-21T07:33:53.006065+00:00",
+    "content": "Amazon[amazon.com] has Rust-Oleum Zinsser 98014 4-Inch Long-Handle Scraper Tool for $7.99.Shipping is free with Prime or on $35+ orders.Price$3.55 lower (31% savings) than the list price of $11.54$2.… [+169 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zinsser",
+      "Scraper",
+      "Long-Handle",
+      "Tool",
+      "amazon.com",
+      "orders.Price",
+      "lower",
+      "savings",
+      "chars",
+      "Amazon"
+    ]
   }
 ]
