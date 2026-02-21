@@ -130953,5 +130953,102 @@
       "chars",
       "Amazon"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/stock-markets/top-gainers-losers-of-nifty-50-this-week-lt-itc-eternal-mm-kwality-walls-in-action/article70655204.ece",
+    "title": "Top gainers & losers of Nifty 50 this week: L&T, ITC, Eternal, M&M, Kwality Wall’s in action",
+    "fetched_on": "2026-02-21T08:34:15.429498+00:00",
+    "content": "The week saw significant moves within the benchmark Nifty 50, with engineering, FMCG and a few financial heavyweights lending support on the upside even as information technology and select auto coun… [+2839 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nifty",
+      "ITC",
+      "Eternal",
+      "chars",
+      "Kwality",
+      "FMCG",
+      "Wall",
+      "week",
+      "Top",
+      "gainers"
+    ]
+  },
+  {
+    "source": "Statetimes.in [NewsAPI]",
+    "url": "https://statetimes.in/how-to-get-a-personal-loan-for-self-employed-individuals/",
+    "title": "How to Get a Personal Loan for Self-Employed Individuals?",
+    "fetched_on": "2026-02-21T08:34:15.429498+00:00",
+    "content": "Self-employed individuals often have unique financial requirements. Whether you want to grow your business, manage unexpected expenses, or fund personal projects, access to Personal Loans for the sel… [+5586 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Personal",
+      "Individuals",
+      "Self-Employed",
+      "Loan",
+      "Loans",
+      "chars",
+      "requirements",
+      "business",
+      "manage",
+      "expenses"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/benefits-of-a-good-credit-score-170629507.html",
+    "title": "6 benefits of a good credit score",
+    "fetched_on": "2026-02-21T08:34:31.142597+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "benefits",
+      "score",
+      "good",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-check-your-credit-score-for-free-170021822.html",
+    "title": "How to check your credit score for free",
+    "fetched_on": "2026-02-21T08:34:31.142605+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "free",
+      "check",
+      "credit",
+      "score"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-credit-mix-210412501.html",
+    "title": "What is credit mix, and how does it affect your credit score?",
+    "fetched_on": "2026-02-21T08:34:31.142612+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "mix",
+      "score",
+      "credit",
+      "affect"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/what-kind-of-credit-check-affects-credit-score-232738255.html",
+    "title": "What type of credit check affects your credit score?",
+    "fetched_on": "2026-02-21T08:34:31.142620+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "score",
+      "credit",
+      "type",
+      "check",
+      "affects"
+    ]
   }
 ]
