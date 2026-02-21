@@ -132985,5 +132985,65 @@
       "redesigned",
       "location"
     ]
+  },
+  {
+    "source": "C-sharpcorner.com [NewsAPI]",
+    "url": "https://www.c-sharpcorner.com/article/can-you-use-a-credit-card-or-debit-card-for-a-crypto-on-ramp/",
+    "title": "Can You Use a Credit Card or Debit Card for a Crypto On Ramp?",
+    "fetched_on": "2026-02-21T22:26:51.572349+00:00",
+    "content": "Why people prefer cards for buying crypto\r\nCards are familiar, fast, and easy. For many users, they feel like the most natural way to enter crypto.\r\nPeople choose cards becauseThey are instantNo bank… [+3440 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ramp",
+      "Credit",
+      "Debit",
+      "cards",
+      "Crypto",
+      "Card",
+      "people",
+      "fast",
+      "familiar",
+      "easy"
+    ]
+  },
+  {
+    "source": "Securityaffairs.com [NewsAPI]",
+    "url": "https://securityaffairs.com/188309/data-breach/paypal-discloses-extended-data-leak-linked-to-loan-app-glitch.html",
+    "title": "PayPal discloses extended data leak linked to Loan App glitch",
+    "fetched_on": "2026-02-21T22:26:51.572349+00:00",
+    "content": "PayPal discloses extended data leak linked to Loan App glitch\r\nPayPal has disclosed a data breach caused by a software bug in its PayPal Working Capital loan app. The flaw exposed sensitive customer … [+2324 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "App",
+      "Loan",
+      "PayPal",
+      "data",
+      "discloses",
+      "extended",
+      "leak",
+      "linked",
+      "glitch",
+      "Working"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/we-dont-talk-lyrics-hilary-duff-haylie-duff-5504016/",
+    "title": "Hilary Duff’s ‘We Don’t Talk’ Lyrics: Breaking Down the Song About Sister Haylie Duff",
+    "fetched_on": "2026-02-21T22:26:51.572349+00:00",
+    "content": "Image Credit: WireImage\r\nHilary Duff is reflecting on a broken bond in her new song We Dont Talk from her 2026 album, luck or something. After performing the track for the first time on stage earlier… [+2651 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Duff",
+      "Hilary",
+      "Lyrics",
+      "Breaking",
+      "Credit",
+      "Song",
+      "album",
+      "Talk’",
+      "Sister",
+      "Haylie"
+    ]
   }
 ]
