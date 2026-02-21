@@ -131188,5 +131188,85 @@
       "Street",
       "Thursday"
     ]
+  },
+  {
+    "source": "Dealnews.com [NewsAPI]",
+    "url": "https://www.dealnews.com/Baby-Essentials-at-Amazon-for-Spend-100-get-25-Amazon-Credit-free-shipping/21811516.html",
+    "title": "Baby Essentials at Amazon for Spend $100, get $25 Amazon Credit + free shipping",
+    "fetched_on": "2026-02-21T10:28:51.255405+00:00",
+    "content": "moreAmazon's Presidents' Day Sale is live. Within, you'll find deals spread across all major categories, including Amazon devices, home essentials, kitchen items, apparel, headphones, TVs, and more. … [+87 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spend",
+      "Credit",
+      "Amazon",
+      "Presidents'",
+      "Day",
+      "Sale",
+      "Essentials",
+      "Baby",
+      "free",
+      "live"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-slams-pm-modi-for-taking-credit-for-upi-after-macrons-praise/articleshow/128602561.cms",
+    "title": "Classmate who does no work, but shows up to take all credit: Cong's dig at PM over UPI",
+    "fetched_on": "2026-02-21T10:28:51.255405+00:00",
+    "content": "New Delhi: A day after French President Emmanuel Macron lauded India's UPI architecture, the Congress on Friday said its initial conception happened under the UPA government in 2012-2013 and likened … [+2238 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Cong",
+      "Delhi",
+      "UPI",
+      "French",
+      "President",
+      "Emmanuel",
+      "Macron",
+      "India",
+      "Congress"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/photography-ai-guide-latest-jaeger-lecoultre-made-of-makers-project/",
+    "title": "Photography, AI guide latest Jaeger-LeCoultre ‘Made of Makers’ project",
+    "fetched_on": "2026-02-21T10:28:51.255405+00:00",
+    "content": "The crossover coincides with the onset of Ramadan. Image credit: Jaeger-LeCoultre Swiss watchmaker Jaeger-LeCoultre is continuing its long-running series of collaborations with experts from external … [+379 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Made",
+      "Ramadan",
+      "Photography",
+      "Makers’",
+      "Jaeger-LeCoultre",
+      "guide",
+      "latest",
+      "project",
+      "crossover",
+      "coincides"
+    ]
+  },
+  {
+    "source": "NPR [NewsAPI]",
+    "url": "https://www.npr.org/2026/02/20/g-s1-97283/flo-tiny-desk-concert",
+    "title": "FLO: Tiny Desk Concert",
+    "fetched_on": "2026-02-21T10:28:51.255405+00:00",
+    "content": "Credit: Photo: Zayrha Rodriguez\r\nBritish trio FLO\r\n crossed the pond for its Tiny Desk debut in Washington, D.C. So we got V.I.P. access to Club FLO courtesy of Stella Quaresma, Reneé Downer and Jorj… [+2158 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Photo",
+      "FLO",
+      "Tiny",
+      "Desk",
+      "Credit",
+      "Zayrha",
+      "Washington",
+      "Quaresma",
+      "Reneé",
+      "Jorj"
+    ]
   }
 ]
