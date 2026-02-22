@@ -133484,5 +133484,45 @@
       "maintained",
       "credit"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fab9965a-8a0f-4f3b-a262-002f4f27697c",
+    "title": "United Airlines escalates the credit card perk wars",
+    "fetched_on": "2026-02-22T11:23:46.044461+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Airlines",
+      "IAB",
+      "United",
+      "click"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/multimedia/video/nifty-and-bank-nifty-prediction-for-the-week-23-feb26-to-27-feb26-by-bl-guru/article70659286.ece",
+    "title": "Nifty and Bank Nifty Prediction for the week 23 Feb’26 to 27 Feb’26 by BL GURU",
+    "fetched_on": "2026-02-22T11:23:46.044461+00:00",
+    "content": "Coming to the markets, nothing much has changed on the charts from last week.\r\nVideo Credit: BusinesslineThe US Supreme Court has ruled out the tariffs imposed by the US President Donald Trump. This … [+617 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "week",
+      "Nifty",
+      "Bank",
+      "Prediction",
+      "GURU",
+      "Coming",
+      "markets",
+      "changed",
+      "charts",
+      "Credit"
+    ]
   }
 ]
