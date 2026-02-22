@@ -133642,5 +133642,65 @@
       "trouble",
       "authorized"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-22/szijjarto-says-hungary-to-block-eu-sanctions-package-on-monday",
+    "title": "Hungary to Block EU Sanctions, Loans Over Druzhba Standoff",
+    "fetched_on": "2026-02-22T14:28:32.712176+00:00",
+    "content": "Hungary plans to block every European Union decision concerning Ukraine, including a new sanctions package against Russia and key loans, until oil starts flowing again through the Druzhba pipeline in western Ukraine.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ukraine",
+      "Druzhba",
+      "Block",
+      "Hungary",
+      "Sanctions",
+      "Loans",
+      "Standoff",
+      "European",
+      "Union",
+      "Russia"
+    ]
+  },
+  {
+    "source": "The Points Guy [NewsAPI]",
+    "url": "https://thepointsguy.com/credit-cards/amex-platinum-fhr-staycation/",
+    "title": "I booked a luxury staycation — and somehow came out $1 ahead",
+    "fetched_on": "2026-02-22T14:28:32.197484+00:00",
+    "content": "The hotel credit on my American Express Platinum Card® stands among my favorite card perks.\r\nIt's highly valuable, providing me with up to $600 per calendar year (up to $300 semiannually) in the form… [+5934 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Card",
+      "American",
+      "Express",
+      "Platinum",
+      "staycation",
+      "ahead",
+      "stands",
+      "perks",
+      "semiannually",
+      "chars"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/markets/2026/02/20/how-this-week-s-sign-of-private-credit-stress-could-set-stage-for-next-bitcoin-bull-run",
+    "title": "Blue Owl liquidity crisis has investors bracing for 2008-style fallout — it could mean bitcoin's next bull run",
+    "fetched_on": "2026-02-22T14:28:32.197484+00:00",
+    "content": "Blue Owl Capital's (OWL) announcement this week that it would sell $1.4 billion in loans to raise liquidity for investors in a retail-focused private credit fund has triggered alarm bells across fina… [+4987 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Owl",
+      "Blue",
+      "Capital",
+      "fallout",
+      "chars",
+      "liquidity",
+      "investors",
+      "announcement",
+      "sell",
+      "billion"
+    ]
   }
 ]
