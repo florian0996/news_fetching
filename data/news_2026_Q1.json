@@ -134258,5 +134258,64 @@
       "Debut",
       "Historical"
     ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4367777/posts",
+    "title": "Astronomy Picture of the Day - Twilight with Moon and Planets",
+    "fetched_on": "2026-02-22T21:27:26.332447+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Twilight with Moon and PlanetsNASA ^\r\n | 21 Feb, 2026\r\n | Image Credit &amp; Copyright: Tunc Tezel (TWAN)\r\nPosted on 02/21/2026 1:25:23 PM PST by Mtn… [+2415 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Twilight",
+      "Picture",
+      "Moon",
+      "Astronomy",
+      "Planets",
+      "Skip",
+      "Feb",
+      "Copyright",
+      "TWAN"
+    ]
+  },
+  {
+    "source": "Alltoc.com [NewsAPI]",
+    "url": "https://alltoc.com/travel/why-will-mileageplus-members-earn-fewer-miles",
+    "title": "Why will MileagePlus members earn fewer miles? #travel",
+    "fetched_on": "2026-02-22T21:27:26.332447+00:00",
+    "content": "United Airlines is restructuring its MileagePlus program in a way that reduces the miles credited to many flyersespecially customers who buy the cheapest fares and who dont carry a United cobranded c… [+1589 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "United",
+      "chars",
+      "MileagePlus",
+      "miles",
+      "members",
+      "earn",
+      "fewer",
+      "Airlines",
+      "travel",
+      "restructuring"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/week-slump-asset-manager-stocks-133000629.html",
+    "title": "Last week’s slump in asset-manager stocks was driven by private-credit fears. Here’s what’s worrying investors.",
+    "fetched_on": "2026-02-22T21:27:52.953435+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "fears",
+      "week",
+      "slump",
+      "asset-manager",
+      "stocks",
+      "driven",
+      "private-credit",
+      "investors",
+      "worrying"
+    ]
   }
 ]
