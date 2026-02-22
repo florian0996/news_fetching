@@ -133344,5 +133344,65 @@
       "Subscribe",
       "Save"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/always-respected-tradition-will-credit-jr-dagar-bandhu-ar-rahman/articleshow/128636007.cms",
+    "title": "‘Always respected tradition’, will credit Jr Dagar Bandhu: AR Rahman",
+    "fetched_on": "2026-02-22T06:51:48.434473+00:00",
+    "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Always respected tradition, will credit Jr Dagar Bandhu: AR Rahman</li></ul>\r\nFollow Us On Social Media\r\nCopyright © 2026 Bennett, Coleman &amp; Co. Ltd. A… [+64 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bandhu",
+      "Rahman",
+      "Dagar",
+      "Bennett",
+      "Coleman",
+      "credit",
+      "India",
+      "Follow",
+      "Copyright",
+      "respected"
+    ]
+  },
+  {
+    "source": "Alltoc.com [NewsAPI]",
+    "url": "https://alltoc.com/travel/who-loses-miles-under-uniteds-mileageplus-changes",
+    "title": "Who loses miles under United’s MileagePlus changes? #travel",
+    "fetched_on": "2026-02-22T06:51:48.434473+00:00",
+    "content": "United Airlines has restructured MileagePlus to concentrate rewards more on customers who hold the airlines cobranded credit cards or who have elite status. One notable effect is that travelers witho… [+1548 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "United",
+      "Airlines",
+      "MileagePlus",
+      "loses",
+      "miles",
+      "chars",
+      "travel",
+      "status",
+      "witho",
+      "restructured"
+    ]
+  },
+  {
+    "source": "Youare.travel [NewsAPI]",
+    "url": "https://youare.travel/big-changes-coming-to-the-world-of-hyatt-loyalty-program-and-a-new-hyatt-credit-card/",
+    "title": "Big Changes Coming to the World of Hyatt Loyalty Program (And a New Hyatt Credit Card)?",
+    "fetched_on": "2026-02-22T06:51:48.434473+00:00",
+    "content": "tl;dr A tipster posted to both Flyertalk and Reddit, suggesting some big upcoming changes to the World of Hyatt program. The tipster later claimed their earlier posts to be fake.\r\nLate the other nigh… [+9268 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hyatt",
+      "World",
+      "Card",
+      "Coming",
+      "Loyalty",
+      "Credit",
+      "Program",
+      "Big",
+      "Reddit",
+      "Flyertalk"
+    ]
   }
 ]
