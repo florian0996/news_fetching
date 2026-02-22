@@ -133524,5 +133524,123 @@
       "charts",
       "Credit"
     ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/395037/man-who-founded-his-own-country-has-also-now-set-up-two-embassies",
+    "title": "Man who founded his own country has also now set up two embassies",
+    "fetched_on": "2026-02-22T12:54:25.817324+00:00",
+    "content": "World of the Bizarre\r\nBy T.K. RandallFebruary 21, 2026 ·  0 commentsWill the Republic of Verdis ever become official ? Image Credit: PixabayDaniel Jackson has become the president of his own country … [+1724 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RandallFebruary",
+      "chars",
+      "Image",
+      "Credit",
+      "country",
+      "World",
+      "Bizarre",
+      "Republic",
+      "Verdis",
+      "Jackson"
+    ]
+  },
+  {
+    "source": "Checkapi.io [NewsAPI]",
+    "url": "https://checkapi.io/",
+    "title": "Show HN: CheckAPI – open-source API monitoring built with FastAPI and Next.js",
+    "fetched_on": "2026-02-22T12:54:25.817324+00:00",
+    "content": "Get instant alerts when your APIs go down. Simple setup, powerful monitoring, and affordable pricing for developers and teams.\r\nFree plan available No credit card required Cancel anytime",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CheckAPI",
+      "Next.js",
+      "Show",
+      "open-source",
+      "API",
+      "APIs",
+      "monitoring",
+      "built",
+      "FastAPI",
+      "instant"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/invest/wealth-quote-of-the-day-never-spend-money-before-by-thomas-jefferson/articleshow/128639468.cms",
+    "title": "Wealth quote of the day: Never spend money before…. by Thomas Jefferson",
+    "fetched_on": "2026-02-22T12:54:25.817324+00:00",
+    "content": "People tend to accumulate debt over time. Some of this debt is productive, such as a home or car loan, which are secured loans. Sometimes, however, we are forced to take unproductive, high-cost debts… [+1911 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Thomas",
+      "Jefferson",
+      "People",
+      "Wealth",
+      "day",
+      "time",
+      "quote",
+      "spend",
+      "money",
+      "tend"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bc9bf339-bdcb-483e-8938-89d4cfce2c2c",
+    "title": "My wife’s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
+    "fetched_on": "2026-02-22T12:54:25.817324+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "overdue",
+      "wife",
+      "credit-card",
+      "payment",
+      "months",
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2026/02/22/the-worlds-largest-energy-lender-has-a-new-head-heres-how-it-could-shape-us-policy.html",
+    "title": "The world's largest energy lender has a new head: Here's how it could shape U.S. policy",
+    "fetched_on": "2026-02-22T12:54:44.958541+00:00",
+    "content": "Gregory Beard heads the Office of Energy Dominance Financing, which has nearly $300 billion in lending authority. These are his energy priorities.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Financing",
+      "Gregory",
+      "Beard",
+      "Office",
+      "Dominance",
+      "energy",
+      "shape",
+      "policy",
+      "billion",
+      "authority"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/wife-credit-card-payment-three-113000723.html",
+    "title": "My wife’s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
+    "fetched_on": "2026-02-22T12:54:45.456707+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "overdue",
+      "wife",
+      "credit-card",
+      "payment",
+      "months",
+      "user",
+      "trouble",
+      "authorized"
+    ]
   }
 ]
