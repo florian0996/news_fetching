@@ -133464,5 +133464,25 @@
       "facts",
       "day"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/fitch-to-retain-upl-rating-post-reorganisation/article70659503.ece",
+    "title": "Fitch to retain UPL rating post-reorganisation",
+    "fetched_on": "2026-02-22T10:27:57.020386+00:00",
+    "content": "Fitch Ratings has maintained the credit rating of UPL Corporation at BB/Stable after the proposed group reorganisation. It will not lead to any change in its creditworthiness or consolidated rating f… [+1882 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UPL",
+      "Stable",
+      "Fitch",
+      "Corporation",
+      "rating",
+      "reorganisation",
+      "retain",
+      "post-reorganisation",
+      "maintained",
+      "credit"
+    ]
   }
 ]
