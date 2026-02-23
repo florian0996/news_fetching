@@ -134820,5 +134820,82 @@
       "Februar",
       "UTC"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-23/hungary-draws-rebuke-over-threat-to-block-eu-ukrainian-aid",
+    "title": "Hungary Draws Rebuke Over Threat to Block EU Ukrainian Aid",
+    "fetched_on": "2026-02-23T09:58:07.543304+00:00",
+    "content": "Hungary prompted an outcry among European Union member states over its threat to block the latest sanctions package against Russia and a €90 billion ($106 billion) loan to Ukraine.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Threat",
+      "Block",
+      "Ukraine",
+      "Hungary",
+      "Draws",
+      "Rebuke",
+      "Ukrainian",
+      "Aid",
+      "European"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-23/ecb-steps-up-scrutiny-of-european-banks-ai-industry-exposure",
+    "title": "ECB Steps Up Scrutiny of European Banks’ AI Industry Exposure",
+    "fetched_on": "2026-02-23T09:58:07.792678+00:00",
+    "content": "The European Central Bank is delving into the risks faced by banks in the region from the artificial intelligence industry, amid heightened concern over hidden credit exposures and financial-sector disruption.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "European",
+      "ECB",
+      "Industry",
+      "Steps",
+      "Scrutiny",
+      "Banks’",
+      "Central",
+      "amid",
+      "disruption",
+      "Exposure"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2026/02/young-man-was-saddled-with-thousands-of-dollars-of-debt-before-he-even-became-an-adult-so-now-hes-passing-it-back-to-his-mom-who-signed-him-up-for-it-in-the-first-place/",
+    "title": "Young Man Was Saddled With Thousands Of Dollars Of Debt Before He Even Became An Adult, So Now He’s Passing It Back To His Mom, Who Signed Him Up For It In The First Place",
+    "fetched_on": "2026-02-23T09:58:06.687220+00:00",
+    "content": "Pexels/Reddit\r\nWhen you become an adult, there are plenty of things you can do that are not legal when you’re younger.\r\nOne of these, in particular, is signing up for a loan.\r\nChildren and young peop… [+3923 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Adult",
+      "Mom",
+      "Pexels",
+      "Reddit",
+      "Man",
+      "Saddled",
+      "Thousands",
+      "Dollars",
+      "Debt",
+      "Passing"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/saks-global-wins-us-approval-094801304.html",
+    "title": "Saks Global wins US approval for $1bn bankruptcy loan – report",
+    "fetched_on": "2026-02-23T09:58:22.529574+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "report",
+      "Global",
+      "Saks",
+      "bankruptcy",
+      "loan",
+      "wins",
+      "approval"
+    ]
   }
 ]
