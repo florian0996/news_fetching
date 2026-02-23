@@ -134897,5 +134897,45 @@
       "wins",
       "approval"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-23/natwest-plans-risk-transfer-tied-to-cre-loans-amid-m-a-push",
+    "title": "NatWest Plans Risk Transfer Tied to CRE Loans Amid M&amp;A Push",
+    "fetched_on": "2026-02-23T10:56:53.680681+00:00",
+    "content": "NatWest Group Plc is in discussions with investors to issue a significant risk transfer tied to commercial real estate loans, a move that could help its capital reserves after a planned acquisition of Evelyn Partners.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Transfer",
+      "Tied",
+      "Risk",
+      "Partners",
+      "Loans",
+      "Plans",
+      "CRE",
+      "Amid",
+      "Push",
+      "Group"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2026/02/22/private-credit-market-shadow-default-rate-deals/",
+    "title": "In the $3 trillion private credit market, the ‘shadow default’ rate is increasing as more money chases lower-quality deals",
+    "fetched_on": "2026-02-23T10:56:53.001818+00:00",
+    "content": "The total value of companies in the private credit market has increased over the last year but the quality of much of the debt they have issued has declined, according to an analysis by Lincoln Inter… [+3949 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "private",
+      "market",
+      "Inter",
+      "Lincoln",
+      "chars",
+      "trillion",
+      "shadow",
+      "declined",
+      "default’"
+    ]
   }
 ]
