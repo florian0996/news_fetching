@@ -134679,5 +134679,65 @@
       "UTC",
       "Amsterdam"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-23/indian-infrastructure-lender-secures-125-million-loan-from-hsbc",
+    "title": "Indian Infrastructure Lender Secures $125 Million Loan From HSBC",
+    "fetched_on": "2026-02-23T07:56:15.914121+00:00",
+    "content": "India’s infrastructure lender has secured about $125 million through its maiden foreign-currency borrowing, paving the way for access to a deeper pool of global capital.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Secures",
+      "Infrastructure",
+      "Lender",
+      "Loan",
+      "HSBC",
+      "India",
+      "Indian",
+      "borrowing",
+      "paving"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/91476/report-liverpool-face-manchester-city-and-others-in-e70m-premier-league-starlet-race.html",
+    "title": "Report: Liverpool face Manchester City and others in €70m Premier League starlet race",
+    "fetched_on": "2026-02-23T07:56:13.773258+00:00",
+    "content": "Credit to SportsBoom for bringing fresh detail to the growing noise around Luka Vukovi, a teenager already spoken about in the language of inevitability. At 18, the Tottenham Hotspur centre back is n… [+2984 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Liverpool",
+      "Premier",
+      "Vukovi",
+      "Report",
+      "Manchester",
+      "City",
+      "League",
+      "Credit",
+      "Luka",
+      "inevitability"
+    ]
+  },
+  {
+    "source": "Syllad.com [NewsAPI]",
+    "url": "https://www.syllad.com/nabard-projects-rs-92207-crore-credit-potential-for-assam-in-fy-2026-27-focus-on-e-kcc-push/",
+    "title": "NABARD projects Rs 92,207 crore credit potential for Assam in FY 2026–27, focus on e-KCC push",
+    "fetched_on": "2026-02-23T07:56:13.773258+00:00",
+    "content": "Syllad | The Rising MeghalayaFebruary 22, 2026\r\nThe National Bank for Agriculture and Rural Development (NABARD) has projected a total credit potential of Rs 92,207.72 crore for Assam under the Prior… [+2943 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NABARD",
+      "Assam",
+      "crore",
+      "Syllad",
+      "Development",
+      "Prior",
+      "chars",
+      "credit",
+      "potential",
+      "Rising"
+    ]
   }
 ]
