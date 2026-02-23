@@ -134937,5 +134937,85 @@
       "declined",
       "default’"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-02-23/blue-owl-s-woes-cloud-the-outlook-for-private-credit",
+    "title": "Blue Owl’s Woes Cloud the Outlook for Private Credit",
+    "fetched_on": "2026-02-23T11:42:33.801339+00:00",
+    "content": "<p>Opaque assets become a tougher sell when investors can’t pull their cash out.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Opaque",
+      "Owl",
+      "Woes",
+      "Cloud",
+      "Outlook",
+      "Private",
+      "Blue",
+      "out.",
+      "assets"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-02-23/uae-saudi-arabia-qatar-prolific-private-credit-buyout-backers-face-test",
+    "title": "Middle East’s Prolific Private Credit, Buyout Backers Face Test",
+    "fetched_on": "2026-02-23T11:42:34.158145+00:00",
+    "content": "Also: Abu Dhabi’s MGX is racing toward a target of more than $100 billion in assets under management.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Buyout",
+      "Abu",
+      "East",
+      "Prolific",
+      "Private",
+      "Backers",
+      "Face",
+      "Test",
+      "Dhabi"
+    ]
+  },
+  {
+    "source": "The Advocate [NewsAPI]",
+    "url": "https://www.theadvocate.com/baton_rouge/sports/lsu/nate-oats-compliments-lsu-basketball-lose-to-alabama/article_f40b58bf-a82e-5e03-84fc-ea9d07354630.html",
+    "title": "Why Alabama coach Nate Oats complimented LSU after the Tigers' seven-point home loss",
+    "fetched_on": "2026-02-23T11:42:33.140809+00:00",
+    "content": "You got to give them a lot of credit, because they could easily not do what they did tonight, based on some of the tough, close one, two-possession losses that they've had. So lot of credit to them.\"… [+547 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alabama",
+      "Nate",
+      "Oats",
+      "LSU",
+      "Tigers'",
+      "tonight",
+      "based",
+      "tough",
+      "close",
+      "two-possession"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-february-23-2026-110010534.html",
+    "title": "HELOC and home equity loan rates Monday, February 23, 2026: Unlocking the cash in your home at the lowest rates in years",
+    "fetched_on": "2026-02-23T11:42:52.381320+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "HELOC",
+      "Monday",
+      "Unlocking",
+      "years",
+      "home",
+      "rates",
+      "equity",
+      "loan",
+      "cash"
+    ]
   }
 ]
