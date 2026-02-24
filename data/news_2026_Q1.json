@@ -139221,5 +139221,80 @@
       "acquisition",
       "stock"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-24/dimon-see-pre-crisis-parallels-in-rush-to-make-loans-video",
+    "title": "Dimon Sees Pre-Crisis Parallels as Rivals Do ‘Dumb Things’",
+    "fetched_on": "2026-02-24T23:34:29.799993+00:00",
+    "content": "JPMorgan Chase CEO Jamie Dimon, asked about fierce competition across the financial industry, said he’s starting to see parallels to the era before the 2008 financial crisis, when a rush to make loans ended disastrously. “Unfortunately, we did see this in ’05, ’06 and ’07, almost the same thing &mdash; the rising tide was lifting all boats, everyone was making a lot of money,” Dimon told investors on Monday. While JPMorgan isn’t willing to make riskier loans to boost net interest income, he said, “I see a couple people doing some dumb things. They’re just doing dumb things to create NII.” Dimon, who led the largest US bank through the 2008 financial crisis and scooped up two major competitors that collapsed, said he expects the credit cycle will eventually sour again &mdash; though he is not sure when. Bloomberg News Finance Reporter Katherine Doherty joins Bloomberg Businessweek Daily to discuss. She speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Parallels",
+      "Dimon",
+      "Rivals",
+      "Things’",
+      "Chase",
+      "CEO",
+      "Jamie",
+      "Dumb",
+      "financial",
+      "Bloomberg"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-02-24/new-warning-on-private-credit-dangers-evening-briefing-americas",
+    "title": "New Warning on Private Credit Dangers",
+    "fetched_on": "2026-02-24T23:34:30.091985+00:00",
+    "content": "<p>Get caught up.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dangers",
+      "Warning",
+      "Private",
+      "Credit",
+      "caught"
+    ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/gina-torres-talks-about-starring-in-the-off-broadway-play-pen-pals-working-with-carmen-cusack/article",
+    "title": "Gina Torres talks about starring in the Off-Broadway play ‘Pen Pals,’ working with Carmen Cusack",
+    "fetched_on": "2026-02-24T23:34:29.146607+00:00",
+    "content": "Gina Torres in 'Pen Pals.' Photo Credit: Russ Rowland.\r\nVeteran actress Gina Torres chatted about starring in the Off-Broadway play “Pen Pals,” where she plays the role of Mags.\r\nThe show was written… [+3545 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pen",
+      "Pals",
+      "Torres",
+      "Gina",
+      "Carmen",
+      "Cusack",
+      "starring",
+      "Off-Broadway",
+      "working",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Seattletransitblog.com [NewsAPI]",
+    "url": "https://seattletransitblog.com/2026/02/23/tap-to-pay-starts/",
+    "title": "Tap to Pay Starts",
+    "fetched_on": "2026-02-24T23:34:29.146607+00:00",
+    "content": "Open payments or “Tap to Pay” started today. Several transit agencies’ bus and rail readers including Sound Transit and Metro now accept not only ORCA cards but also credit cards and digital wallets … [+236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tap",
+      "Pay",
+      "Starts",
+      "Open",
+      "started",
+      "today",
+      "transit",
+      "payments",
+      "chars",
+      "Sound"
+    ]
   }
 ]
