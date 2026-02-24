@@ -136175,5 +136175,145 @@
       "signals",
       "tolerance"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-24/dimon-sees-pre-crisis-parallels-dumb-things-by-rivals-video",
+    "title": "Dimon Sees Parallels to Pre-Crisis Era, Rivals Doing 'Dumb Things'",
+    "fetched_on": "2026-02-24T04:53:43.223627+00:00",
+    "content": "JPMorgan CEO Jamie Dimon, asked about fierce competition across the financial industry, said he’s starting to see parallels to the era before the 2008 financial crisis, when a rush to make loans ended disastrously. He also spoke about navigating the era of AI in an investor event. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Parallels",
+      "Dimon",
+      "Rivals",
+      "Dumb",
+      "Things'",
+      "CEO",
+      "Jamie",
+      "Era",
+      "financial",
+      "asked"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/bofa-stanchart-see-upgrade-to-south-africa-outlook-after-budget",
+    "title": "BofA, StanChart See Upgrade to South Africa Outlook After Budget",
+    "fetched_on": "2026-02-24T04:53:42.725247+00:00",
+    "content": "(Bloomberg) Finance Minister Enoch Godongwana will this week outline improvements in South Africas public finances that pave the way for a sovereign credit-rating outlook upgrade, a Bloomberg survey … [+4882 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "South",
+      "BofA",
+      "chars",
+      "Budget",
+      "Bloomberg",
+      "Upgrade",
+      "Outlook",
+      "Minister",
+      "Enoch",
+      "Godongwana"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2026/02/brother-refused-to-hand-over-his-hard-earned-car-to-his-destructive-sibling-so-a-simple-request-turned-into-a-family-standoff/",
+    "title": "Brother Refused To Hand Over His Hard-Earned Car To His Destructive Sibling, So A Simple Request Turned Into A Family Standoff",
+    "fetched_on": "2026-02-24T04:53:42.725247+00:00",
+    "content": "Pexels/Reddit\r\nSharing might be caring, but only when there’s enough trust and respect.\r\nSo when an older brother said no to lending his beloved car to his younger brother who had a track record of r… [+2443 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sibling",
+      "Pexels",
+      "Reddit",
+      "Refused",
+      "Hand",
+      "Destructive",
+      "Simple",
+      "Request",
+      "Turned",
+      "Family"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/markets/indias-new-lending-curbs-seen-squeezing-trading-firms/article70665541.ece",
+    "title": "India's new lending curbs seen squeezing trading firms",
+    "fetched_on": "2026-02-24T04:53:42.725247+00:00",
+    "content": "RBIs curbs on bank funding for proprietary trading could spur\r\ntrading firms to shift business offshore and may force smaller\r\nplayers to shut down, executives and analysts said.\r\nProposed rule chang… [+3494 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "trading",
+      "firms",
+      "curbs",
+      "India",
+      "executives",
+      "lending",
+      "squeezing",
+      "RBIs",
+      "bank",
+      "funding"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19238785-navy-federal-flagship-rewards-card-49-annual-free-amazon-prime-global-entry-350-bonus-w-3500-90d-spend-3-cb-on-travel-2-cb-on-everything-else",
+    "title": "Navy Federal Flagship Rewards Card $49 Annual. Free Amazon Prime, Global Entry, $350 Bonus /w $3500/90d spend, 3% CB on travel, 2% CB on everything else",
+    "fetched_on": "2026-02-24T04:53:42.725247+00:00",
+    "content": "I had posted this card a while back, but they made a fairly significant change so I feel it's worth reposting. Amazon Prime membership is now paid for annually as a statement credit. The change is be… [+2250 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Annual",
+      "Federal",
+      "Flagship",
+      "Rewards",
+      "Card",
+      "Prime",
+      "Bonus",
+      "Navy",
+      "Amazon",
+      "Global"
+    ]
+  },
+  {
+    "source": "The Straits Times [NewsAPI]",
+    "url": "https://www.straitstimes.com/business/ai-driven-businesses-in-asia-to-get-more-support-as-dbs-partners-granite-asia",
+    "title": "AI-driven businesses in Asia to get more support as DBS partners Granite Asia",
+    "fetched_on": "2026-02-24T04:53:42.725247+00:00",
+    "content": "SINGAPORE AI-driven businesses in Asia are set to receive stronger backing to support their growth under a new collaboration between DBS and multi-asset investment platform Granite Asia.  \r\nFor a sta… [+3343 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asia",
+      "Granite",
+      "DBS",
+      "businesses",
+      "SINGAPORE",
+      "AI-driven",
+      "support",
+      "partners",
+      "set",
+      "receive"
+    ]
+  },
+  {
+    "source": "Alltoc.com [NewsAPI]",
+    "url": "https://alltoc.com/tech/can-a-raspberry-pi-run-openclaw-agents",
+    "title": "Can a Raspberry Pi run OpenClaw agents? #tech",
+    "fetched_on": "2026-02-24T04:53:42.725247+00:00",
+    "content": "A sudden spike in investor interest linked the Raspberry Pi brand to the OpenClaw family of AI agents, briefly lifting share prices. The idea that a creditcard sized singleboard computer could host t… [+1864 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raspberry",
+      "agents",
+      "OpenClaw",
+      "run",
+      "chars",
+      "tech",
+      "briefly",
+      "prices",
+      "sudden",
+      "spike"
+    ]
   }
 ]
