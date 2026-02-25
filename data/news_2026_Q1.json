@@ -141927,5 +141927,85 @@
       "Declares",
       "Dividend"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/top-10-reports/reality-check-inside-americas-next-top-model-the-lincoln-lawyer-the-museum-of-innocence/",
+    "title": "Netflix Top 10 Report: ‘Reality Check: Inside America’s Next Top Model’ Is A Hit While ‘The Lincoln Lawyer’ Continues Strong",
+    "fetched_on": "2026-02-25T22:36:10.439625+00:00",
+    "content": "Picture Credits: Netflix\r\nIts a busy week on the Netflix charts with several heavy hitters returning, but the big story is the diminishing returns for one of Netflixs biggest action franchises, The N… [+16003 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Top",
+      "Report",
+      "Reality",
+      "Check",
+      "Inside",
+      "Credits",
+      "chars",
+      "America",
+      "Model’"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-in-ashley-tisdales-now-former-toxic-mom-group-breaking-down-the-rumors-5497008/",
+    "title": "Who Is in Ashley Tisdale’s Now-Former ‘Toxic Mom Group’? Breaking Down the Rumors",
+    "fetched_on": "2026-02-25T22:36:10.439625+00:00",
+    "content": "View galleryImage Credit: Getty Images\r\nSharpay Evans would never be excluded from a clique, but Ashley Tisdale claims she was. In an essay titled, Breaking Up With My Toxic Mom Group. I Thought I Fo… [+4073 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group’",
+      "Ashley",
+      "Tisdale",
+      "Toxic",
+      "Mom",
+      "Breaking",
+      "Now-Former",
+      "Credit",
+      "Getty",
+      "Group"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4368155/posts",
+    "title": "Astronomy Picture of the Day - Planet Parade over Sydney Opera House",
+    "fetched_on": "2026-02-25T22:36:10.439625+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Planet Parade over Sydney Opera HouseNASA ^\r\n | 24 Feb, 2026\r\n | Image Credit &amp; Copyright: Prasun Agrawal\r\nPosted on 02/24/2026 2:04:48 PM PST by… [+2295 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Planet",
+      "Picture",
+      "Parade",
+      "Sydney",
+      "Astronomy",
+      "Opera",
+      "House",
+      "Skip",
+      "Feb"
+    ]
+  },
+  {
+    "source": "Substack.com [NewsAPI]",
+    "url": "https://kenschachter.substack.com/p/earned-autonomy",
+    "title": "Show HN: An \"earned autonomy\" architecture for AI agents using Subjective Logic",
+    "fetched_on": "2026-02-25T22:36:10.439625+00:00",
+    "content": "When you hire someone new, you dont make them ask permission for every email they send. But you also dont give them the company credit card on day one. Theres this whole middle ground where trust bui… [+21808 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Subjective",
+      "Logic",
+      "Show",
+      "earned",
+      "autonomy",
+      "architecture",
+      "send",
+      "dont",
+      "agents",
+      "hire"
+    ]
   }
 ]
