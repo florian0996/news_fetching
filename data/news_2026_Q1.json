@@ -139901,5 +139901,105 @@
       "Februar",
       "UTC"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-25/nuveen-equities-strongly-bid-but-with-increased-hedging-video",
+    "title": "Nuveen: Equities Strongly Bid But With Increased Hedging",
+    "fetched_on": "2026-02-25T09:57:03.359399+00:00",
+    "content": "Nuveen's global investment strategist and macro credit head Laura Cooper discusses markets positioning in light of recent global trade and policy uncertainty. \"People don't want to take on that dollar exposure,\" Cooper tells Bloomberg Television. She also adds that Treasuries can still \"showcase their safe haven dynamics in acute risk-off episodes.\" (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Equities",
+      "Nuveen",
+      "Strongly",
+      "Bid",
+      "Increased",
+      "Hedging",
+      "Laura",
+      "Cooper",
+      "global",
+      "uncertainty"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/audio/2026-02-25/trump-s-strident-economic-defence-private-credit-fears-more",
+    "title": "Trump's Strident Economic Defence, Private Credit Fears, More",
+    "fetched_on": "2026-02-25T09:57:03.789341+00:00",
+    "content": "Source: Bloomberg, 0:00",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "0:00",
+      "Defence",
+      "Private",
+      "Fears",
+      "Source",
+      "Strident",
+      "Economic",
+      "Credit",
+      "Trump"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/tax/80-lakh-cash-loan-row-madras-hc-refuses-to-force-pan-disclosure-sends-papers-to-i-t-dept/articleshow/128746303.cms",
+    "title": "₹80 lakh cash loan row: Madras HC refuses to force PAN disclosure, sends papers to I-T dept",
+    "fetched_on": "2026-02-25T09:57:02.624473+00:00",
+    "content": "On January 7, 2026, the Madras High Court ruled that the lender of a cash loan cant be asked to provide his PAN number to the Income Tax Department. However, the court did allow for the case files to… [+7913 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Madras",
+      "PAN",
+      "January",
+      "Department",
+      "cash",
+      "loan",
+      "High",
+      "Income",
+      "Tax",
+      "Court"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-unions/2026/credit-unions-build-cloud-data-strategy-to-stay-competitive/",
+    "title": "Credit Unions Build Cloud Data Strategy to Stay Competitive",
+    "fetched_on": "2026-02-25T09:57:02.624473+00:00",
+    "content": "The payments environment facing credit unions in 2026 reflects a subtle yet consequential shift in emphasis, as competitive pressures, member expectations and technological capabilities converge arou… [+5510 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Unions",
+      "Competitive",
+      "Build",
+      "Cloud",
+      "Data",
+      "Strategy",
+      "Stay",
+      "Credit",
+      "reflects"
+    ]
+  },
+  {
+    "source": "Dealnews.com [NewsAPI]",
+    "url": "https://www.dealnews.com/RFID-Blocking-Slim-Leather-Bifold-Credit-Card-Holder-for-2-free-shipping-w-Prime/21812157.html",
+    "title": "RFID Blocking Slim Leather Bifold Credit Card Holder for $2 + free shipping w/ Prime",
+    "fetched_on": "2026-02-25T09:57:02.624473+00:00",
+    "content": "moreAmazon's Presidents' Day Sale is live. Within, you'll find deals spread across all major categories, including Amazon devices, home essentials, kitchen items, apparel, headphones, TVs, and more. … [+87 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RFID",
+      "Prime",
+      "Blocking",
+      "Slim",
+      "Leather",
+      "Bifold",
+      "Credit",
+      "Card",
+      "Holder",
+      "Presidents'"
+    ]
   }
 ]
