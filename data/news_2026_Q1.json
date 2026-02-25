@@ -142007,5 +142007,140 @@
       "agents",
       "hire"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-02-25/wall-street-turns-its-fearful-gaze-to-private-credit-evening-briefing-americas",
+    "title": "Wall Street Turns Its Fearful Gaze to Private Credit",
+    "fetched_on": "2026-02-25T23:30:32.375720+00:00",
+    "content": "<p>Get caught up.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Street",
+      "Turns",
+      "Fearful",
+      "Gaze",
+      "Private",
+      "Wall",
+      "caught"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-25/victor-khosla-sees-fat-tail-risk-in-credit-markets-video",
+    "title": "Victor Khosla Sees 'Fat' Tail Risk in Credit Markets",
+    "fetched_on": "2026-02-25T23:30:32.477484+00:00",
+    "content": "Victor Khosla, founder and CIO of Strategic Value Partners, warns about the contagion risk facing the credit market from the selloff in software stocks. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Khosla",
+      "Fat",
+      "Victor",
+      "Credit",
+      "Risk",
+      "Tail",
+      "Partners",
+      "CIO",
+      "Strategic",
+      "Bloomberg"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/commodities/energy/oil-gas/whitecap-veren-takeover-helped-global-gas-contracts",
+    "title": "Whitecap says scale gained with Veren takeover helped secure global gas contracts",
+    "fetched_on": "2026-02-25T23:30:31.528481+00:00",
+    "content": "Whitecap Resources Inc. says the scale it gained with its acquisition of Veren Inc. helped drive a credit-rating upgrade, lowered borrowing costs and boosted reserves helping it to secure new long-te… [+4279 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Whitecap",
+      "Resources",
+      "Veren",
+      "gained",
+      "scale",
+      "takeover",
+      "global",
+      "gas",
+      "contracts",
+      "helped"
+    ]
+  },
+  {
+    "source": "Android Central [NewsAPI]",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/will-galaxy-s26-series-be-samsungs-savior-in-the-global-memory-crisis",
+    "title": "Galaxy S26 launch: Will S26 series be Samsung's savior in the Global Memory Crisis?",
+    "fetched_on": "2026-02-25T23:30:31.528481+00:00",
+    "content": "(Image credit: Android Central)\r\nThis is an exclusive column featuring expert analysts from International Data Corporation (IDC), who provide insights into the latest products, news, and more.\r\nSamsu… [+6146 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crisis",
+      "Galaxy",
+      "launch",
+      "Samsung",
+      "Global",
+      "Memory",
+      "IDC",
+      "series",
+      "Image",
+      "Android"
+    ]
+  },
+  {
+    "source": "Cape.co [NewsAPI]",
+    "url": "https://www.cape.co/",
+    "title": "Cell Service for the Fairly Paranoid",
+    "fetched_on": "2026-02-25T23:30:31.528481+00:00",
+    "content": "When you pay for your Cape plan, we don't ask for your name or address (because we're committed to data minimization), and we don't store your full credit card number (or other payment method) or exp… [+510 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Service",
+      "Fairly",
+      "Paranoid",
+      "Cape",
+      "Cell",
+      "plan",
+      "address",
+      "minimization",
+      "number"
+    ]
+  },
+  {
+    "source": "Commercial Observer [NewsAPI]",
+    "url": "http://commercialobserver.com/2026/02/wells-fargo-1250-broadway-cmbs/",
+    "title": "Wells Fargo Refis 1250 Broadway With $450M CMBS Loan",
+    "fetched_on": "2026-02-25T23:30:31.528481+00:00",
+    "content": "Eyal Ofers Global Holdingshas secured $450 million of commercial mortgage-backed securities (CMBS) debt to refinance its NoMad Tower office property, Commercial Observer has learned.\r\nWells Fargo pro… [+946 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CMBS",
+      "Refis",
+      "Broadway",
+      "commercial",
+      "Fargo",
+      "Loan",
+      "Eyal",
+      "Ofers",
+      "Global",
+      "Holdingshas"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/credit-card-surcharges-rise-small-153653992.html",
+    "title": "Credit card surcharges rise as small businesses adapt",
+    "fetched_on": "2026-02-25T23:30:52.938118+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "adapt",
+      "card",
+      "surcharges",
+      "rise",
+      "small",
+      "businesses"
+    ]
   }
 ]
