@@ -139436,5 +139436,145 @@
       "Diagnosis",
       "Photo"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-25/raizen-creditors-ask-shareholders-for-meaningful-money-injection",
+    "title": "Raízen Creditors Ask Shareholders for Meaningful Money Injection",
+    "fetched_on": "2026-02-25T04:54:42.080329+00:00",
+    "content": "Bondholders and bank creditors from struggling sugar and ethanol producer Raízen SA sent letters to its major shareholders, Cosan SA and Shell Plc, asking for a “substantial and meaningful” capital injection, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cosan",
+      "Plc",
+      "Raízen",
+      "Creditors",
+      "Shareholders",
+      "Meaningful",
+      "Injection",
+      "Money",
+      "Bondholders",
+      "Shell"
+    ]
+  },
+  {
+    "source": "C-sharpcorner.com [NewsAPI]",
+    "url": "https://www.c-sharpcorner.com/article/the-silent-superpower-of-the-web-unleashing-the-power-of-css/",
+    "title": "The Silent Superpower of the Web: Unleashing the Power of CSS",
+    "fetched_on": "2026-02-25T04:54:41.315457+00:00",
+    "content": "The Real Power of CSS\r\nWhen people talk about building websites, HTML usually gets the credit for structure and JavaScript for interactivity. But the true visual magic the part users actually see and… [+4760 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Power",
+      "CSS",
+      "Web",
+      "Unleashing",
+      "HTML",
+      "Silent",
+      "Superpower",
+      "Real",
+      "websites",
+      "interactivity"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-disruption-fears-stall-debt-deals-adding-pressure-on-us-software-stocks/articleshow/128740163.cms",
+    "title": "US Stocks | AI disruption fears stall debt deals, adding pressure on US software stocks",
+    "fetched_on": "2026-02-25T04:54:41.315457+00:00",
+    "content": "Software companies are increasingly delaying or rethinking debt fundraising as borrowing costs rise and lenders tighten scrutiny, signalling growing unease in credit markets. According to Reuters, th… [+4112 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stocks",
+      "software",
+      "deals",
+      "adding",
+      "scrutiny",
+      "signalling",
+      "markets",
+      "debt",
+      "chars",
+      "Reuters"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-leaves-benchmark-lending-rates-unchanged-for-ninth-straight-month/articleshow/128737964.cms",
+    "title": "China leaves benchmark lending rates unchanged for ninth straight month",
+    "fetched_on": "2026-02-25T04:54:41.315457+00:00",
+    "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "Share",
+      "Telegram",
+      "market",
+      "Sensex",
+      "Nifty",
+      "Track",
+      "China",
+      "month",
+      "stock"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-rush-windfall-how-smaller-private-and-psu-banks-are-riding-the-bullion-boom/articleshow/128737681.cms",
+    "title": "Gold rush windfall: How smaller private and PSU banks are riding the bullion boom",
+    "fetched_on": "2026-02-25T04:54:41.315457+00:00",
+    "content": "A clutch of smaller private and PSU banks with chunky gold loan books are turning the bullion boom into a balance sheet bonanza, as soaring prices and a surge in demand for secured credit bolster gro… [+4846 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PSU",
+      "private",
+      "bullion",
+      "chars",
+      "smaller",
+      "banks",
+      "boom",
+      "Gold",
+      "windfall",
+      "bonanza"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/sports/cricket/ranji-trophy-2025-26-final-day-1-karnataka-vs-jammu-and-kashmir-live-cricket-score-at-ksca-hubli-cricket-ground-10547678/",
+    "title": "Karnataka Vs Jammu and Kashmir Live Cricket Score, Ranji Trophy 2025-26 Final Day 1 Live: Underdogs J&K take on 8-time champs KNTKA in summit clash",
+    "fetched_on": "2026-02-25T04:54:41.315457+00:00",
+    "content": "KNTKA Vs J&amp;K, Ranji Trophy 2025-26 Final Day 1 Match Live Score: Karnataka take on Jammu and Kashmir in Ranji Trophy final. (Credit: BCCI Screengrab)Karnataka Vs Jammu and Kashmir Live Cricket Sc… [+2633 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trophy",
+      "Day",
+      "Ranji",
+      "Final",
+      "Score",
+      "Live",
+      "Karnataka",
+      "Jammu",
+      "Kashmir",
+      "KNTKA"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/video/student-loan-delinquency-rate-have-jumped-nearly-25-in-trumps-second-term-report-finds/",
+    "title": "Student loan delinquency rate have jumped nearly 25% in Trump's second term, report finds",
+    "fetched_on": "2026-02-25T04:54:41.315457+00:00",
+    "content": "Copyright ©2026 CBS Interactive Inc. All rights reserved.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "CBS",
+      "Trump",
+      "Interactive",
+      "Student",
+      "term",
+      "report",
+      "loan",
+      "delinquency",
+      "rate"
+    ]
   }
 ]
