@@ -140001,5 +140001,125 @@
       "Holder",
       "Presidents'"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-25/strong-earnings-not-enough-to-power-stocks-past-ai-credit-worry",
+    "title": "Strong Earnings Not Enough to Power Stocks Past AI, Credit Worry",
+    "fetched_on": "2026-02-25T10:55:36.881978+00:00",
+    "content": "Corporate America just delivered one of the strongest earnings seasons in recent memory, but you wouldn’t know it looking at the stock market.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Earnings",
+      "Power",
+      "Past",
+      "Worry",
+      "Corporate",
+      "America",
+      "Strong",
+      "memory",
+      "market"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/cautious-holiday-spending-appears-to-have-softened-the-typical-january-credit-card-delinquency-spike",
+    "title": "Cautious Holiday Spending Appears to Have Softened the Typical January Credit Card Delinquency Spike",
+    "fetched_on": "2026-02-25T10:55:35.739622+00:00",
+    "content": "A Widening Gap in Borrowing Power\r\nLenders showed signs of tightening access to credit for riskier borrowers. Non-mortgage debt levels for Subprime consumers (scores 320-580) remained stagnant in Q4,… [+6064 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Holiday",
+      "Spending",
+      "Softened",
+      "Typical",
+      "January",
+      "Card",
+      "Delinquency",
+      "Spike",
+      "Widening"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/24/3243269/0/en/Cautious-Holiday-Spending-Appears-to-Have-Softened-the-Typical-January-Credit-Card-Delinquency-Spike.html",
+    "title": "Cautious Holiday Spending Appears to Have Softened the Typical January Credit Card Delinquency Spike",
+    "fetched_on": "2026-02-25T10:55:35.739622+00:00",
+    "content": "Equifax Canada® Market Pulse Quarterly Consumer Credit Trends and Insights\r\nTORONTO, Feb. 24, 2026 (GLOBE NEWSWIRE) -- Equifax® Canadas Q4 2025 Market Pulse Consumer Credit Trends and Insights data s… [+9089 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Market",
+      "Credit",
+      "Trends",
+      "Feb.",
+      "Pulse",
+      "Consumer",
+      "Insights",
+      "Equifax",
+      "TORONTO",
+      "GLOBE"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/business/rbi-governor-new-bank-lending-norms-brokers-10549366/",
+    "title": "No rethink on new bank lending norms for brokers: RBI Governor",
+    "fetched_on": "2026-02-25T10:55:35.739622+00:00",
+    "content": "The Reserve Bank of India (RBI) is not contemplating any change in the recently-announced guidelines that tighten norms governing bank lending to capital market intermediaries such as brokers, Govern… [+4276 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RBI",
+      "Govern",
+      "bank",
+      "India",
+      "brokers",
+      "chars",
+      "Governor",
+      "Reserve",
+      "lending",
+      "norms"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/ai-software-stock-crash-private-credit-market-clos-idx-advisors-2026-2",
+    "title": "AI disruption is a threat to the booming private credit market, investment chief says",
+    "fetched_on": "2026-02-25T10:55:35.739622+00:00",
+    "content": "AI has thrown a wrench into various pockets of the stock market this year. An investment chief says it also has the potential to cause problems in the debt market.\r\nOver the last few weeks, AI update… [+2578 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chief",
+      "market",
+      "investment",
+      "year",
+      "disruption",
+      "threat",
+      "booming",
+      "private",
+      "credit",
+      "thrown"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/student-loan-borrowers-default-social-security-tax-refunds-trump-pause-2026-2",
+    "title": "'A band-aid on a serious wound': More student-loan borrowers are at risk of Social Security and tax refund seizures once Trump's pause lifts",
+    "fetched_on": "2026-02-25T10:55:35.739622+00:00",
+    "content": "Student-loan borrowers are falling behind on payments at record levels.\r\nA new report by left-leaning groups, the Century Foundation and Protect Borrowers, found that nearly 9 million student-loan bo… [+4391 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "borrowers",
+      "Social",
+      "Security",
+      "Trump",
+      "student-loan",
+      "wound",
+      "levels",
+      "band-aid",
+      "risk",
+      "tax"
+    ]
   }
 ]
