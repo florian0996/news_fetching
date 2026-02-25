@@ -1,6 +1,17 @@
 {
-  "2026-02-24": {
+  "2026-02-25": {
     "status": "no company in the news"
+  },
+  "2026-02-24": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: AI Can Manage Your Mutual Fund",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-23": {
     "articles": [
