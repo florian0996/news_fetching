@@ -143298,5 +143298,65 @@
       "met",
       "verjaardag"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/25/3244416/0/en/WLTH-Shareholder-Alert-Wealthfront-Corporation-s-Home-Lending-Business-Issues-Spark-Securities-Investigation-after-Stock-Drops-16-Contact-BFA-Law.html",
+    "title": "$WLTH Shareholder Alert: Wealthfront Corporation’s Home-Lending Business Issues Spark Securities Investigation after Stock Drops 16% – Contact BFA Law",
+    "fetched_on": "2026-02-26T11:41:12.365891+00:00",
+    "content": "NEW YORK, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into Wealthfront Corporation (NASDAQ: WLTH) for potential violations … [+3276 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Feb.",
+      "NASDAQ",
+      "WLTH",
+      "Wealthfront",
+      "Corporation",
+      "chars",
+      "Alert",
+      "Drops",
+      "Contact",
+      "YORK"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/strong-earnings-not-enough-to-power-stocks-past-ai-credit-worry",
+    "title": "Strong Earnings Not Enough to Power Stocks Past AI, Credit Worry",
+    "fetched_on": "2026-02-26T11:41:12.365891+00:00",
+    "content": "(Bloomberg) Corporate America just delivered one of the strongest earnings seasons in recent memory, but you wouldnt know it looking at the stock market.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONL… [+5188 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Credit",
+      "Worry",
+      "Corporate",
+      "Earnings",
+      "Power",
+      "Past",
+      "America",
+      "Strong",
+      "memory"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/25/3244396/0/en/Canadian-Household-Debt-Reaches-2-6-Trillion-as-Balanced-Growth-Emerges-at-Both-Ends-of-the-Risk-Spectrum.html",
+    "title": "Canadian Household Debt Reaches $2.6 Trillion as Balanced Growth Emerges at Both Ends of the Risk Spectrum",
+    "fetched_on": "2026-02-26T11:41:12.365891+00:00",
+    "content": "Key findings from TransUnion report:\r\n<ul><li>Nearly one-in-five Canadians improved their credit score over the past year</li><li>Canadian consumer credit delinquencies remained stable as consumers a… [+12816 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canadian",
+      "Reaches",
+      "Trillion",
+      "chars",
+      "Canadians",
+      "Household",
+      "Debt",
+      "Balanced",
+      "Growth",
+      "Emerges"
+    ]
   }
 ]
