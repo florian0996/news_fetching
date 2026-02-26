@@ -144676,5 +144676,85 @@
       "Summary",
       "Call"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/banks-lift-share-in-flow-of-resources-to-corp-sector/articleshow/128796378.cms",
+    "title": "Banks lift share in flow of resources to corp sector",
+    "fetched_on": "2026-02-26T22:36:11.075106+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Banks",
+      "loan",
+      "lift",
+      "share",
+      "flow",
+      "resources",
+      "corp",
+      "sector",
+      "CalculatorDetermine"
+    ]
+  },
+  {
+    "source": "Android Police [NewsAPI]",
+    "url": "https://www.androidpolice.com/samsung-free-50-credit-is-a-mystery/",
+    "title": "Samsung drops a no-strings $50 credit — no one knows why, but folks are cashing in",
+    "fetched_on": "2026-02-26T22:36:11.075106+00:00",
+    "content": "We know Samsung is making a lot of noise today with the release of its latest Galaxy S26 series phones. The highlight, like always, is going to center around the top-end Ultra model, this time offeri… [+1837 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "Samsung",
+      "credit",
+      "no-strings",
+      "series",
+      "phones",
+      "drops",
+      "folks",
+      "cashing",
+      "making"
+    ]
+  },
+  {
+    "source": "The Advocate [NewsAPI]",
+    "url": "https://www.theadvocate.com/baton_rouge/news/politics/courtney-scott-baton-rouge-indictment-kickbacks/article_b896293f-fc82-4c88-bcfd-4f003adb0854.html",
+    "title": "New details: Ex-Baton Rouge official used kickbacks on mortgage, credit cards, sources say",
+    "fetched_on": "2026-02-26T22:36:11.075106+00:00",
+    "content": "The Scott and Mathis charges are the latest in a wave of indictments stemming from the attorney generals investigation.\r\nLast month, five people were indicted on charges related to Baton Rouge transi… [+544 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Scott",
+      "Mathis",
+      "Rouge",
+      "details",
+      "Ex-Baton",
+      "mortgage",
+      "credit",
+      "cards",
+      "sources",
+      "investigation"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/legacy-lenders-rule-credit-card-spends/articleshow/128795110.cms",
+    "title": "Legacy lenders rule credit card spends",
+    "fetched_on": "2026-02-26T22:36:11.075106+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Legacy",
+      "loan",
+      "lenders",
+      "rule",
+      "credit",
+      "card",
+      "spends",
+      "CalculatorDetermine",
+      "monthly"
+    ]
   }
 ]
