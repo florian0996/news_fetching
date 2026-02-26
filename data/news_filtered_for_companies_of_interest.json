@@ -1,6 +1,17 @@
 {
-  "2026-02-25": {
+  "2026-02-26": {
     "status": "no company in the news"
+  },
+  "2026-02-25": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: Kalshi Found Some Insider Traders",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-02-24": {
     "articles": [
