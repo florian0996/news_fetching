@@ -142782,5 +142782,125 @@
       "Needed",
       "Ramsey"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-26/axa-s-buberl-sees-concern-over-private-credit-says-exposure-low",
+    "title": "Axa’s Buberl Sees Concern Over Private Credit, Says Exposure Low",
+    "fetched_on": "2026-02-26T08:52:18.801257+00:00",
+    "content": "Axa SA Chief Executive Officer Thomas Buberl acknowledged widespread worries about private credit while seeking to reassure investors about his firm’s investments in the asset class.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buberl",
+      "Private",
+      "Credit",
+      "Axa",
+      "Concern",
+      "Exposure",
+      "Low",
+      "Chief",
+      "Executive",
+      "Officer"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-26/openai-says-chatgpt-refused-to-help-chinese-influence-operations",
+    "title": "OpenAI Says ChatGPT Refused to Help Chinese Influence Operations",
+    "fetched_on": "2026-02-26T08:52:19.342869+00:00",
+    "content": "OpenAI said its ChatGPT AI service refused to assist an individual associated with Chinese law enforcement in planning an online campaign to discredit the Japanese prime minister.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chinese",
+      "Refused",
+      "Influence",
+      "Operations",
+      "Japanese",
+      "OpenAI",
+      "ChatGPT",
+      "minister",
+      "service",
+      "assist"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2026/0225/1560300-consumer-sentiment-index/",
+    "title": "Consumer sentiment edges up to 11-month high",
+    "fetched_on": "2026-02-26T08:52:18.182104+00:00",
+    "content": "Consumer sentiment improved slightly to an 11-month high in February but the index remained far below its long-term average, a survey showed today.\r\nThe latest Credit Union Consumer Sentiment Survey … [+534 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Consumer",
+      "high",
+      "sentiment",
+      "February",
+      "survey",
+      "average",
+      "today",
+      "edges",
+      "improved",
+      "slightly"
+    ]
+  },
+  {
+    "source": "Ibtimes.com.au [NewsAPI]",
+    "url": "https://www.ibtimes.com.au/blue-owl-capital-owl-stock-rebounds-1073-after-sharp-2026-sell-off-1862042",
+    "title": "Blue Owl Capital (OWL) Stock Rebounds to $10.73 After Sharp 2026 Sell-Off",
+    "fetched_on": "2026-02-26T08:52:18.182104+00:00",
+    "content": "Blue Owl Capital Inc.'s stock staged a partial recovery on February 24, 2026, closing at $10.73 after rising 2.78%, as investors digested recent liquidity management actions in its private credit fun… [+4702 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Owl",
+      "Capital",
+      "Blue",
+      "Sharp",
+      "Inc.",
+      "February",
+      "chars",
+      "Stock",
+      "Rebounds",
+      "Sell-Off"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/meet-the-man-who-is-credited-with-turning-bengaluru-into-a-pink-paradise/articleshow/128773786.cms",
+    "title": "Meet the man who is credited with turning Bengaluru into a pink paradise",
+    "fetched_on": "2026-02-26T08:52:18.182104+00:00",
+    "content": "Often identified with traffic bottlenecks, hurried commuters, and the relentless rhythm of metropolitan life, Bengaluru recently experienced a rare, gentle interlude. The city, usually defined by hon… [+5483 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bengaluru",
+      "Meet",
+      "bottlenecks",
+      "hurried",
+      "commuters",
+      "life",
+      "rare",
+      "gentle",
+      "interlude",
+      "man"
+    ]
+  },
+  {
+    "source": "The Daily Caller [NewsAPI]",
+    "url": "https://dailycaller.com/2026/02/25/opinion-credit-card-rate-caps-a-bad-progressive-idea/",
+    "title": "LEIF LARSON: Credit Card Rate Caps A Bad Progressive Idea",
+    "fetched_on": "2026-02-26T08:52:18.182104+00:00",
+    "content": "Legislation to cap credit card interest rates at 10% is moving through Congress — and if it passes, millions of Americans who rely on credit cards will lose access to them.\r\nWhat is sold as consumer … [+5352 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "LEIF",
+      "LARSON",
+      "Congress",
+      "Card",
+      "Bad",
+      "Progressive",
+      "Idea",
+      "Legislation",
+      "Americans"
+    ]
   }
 ]
