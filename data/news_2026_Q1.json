@@ -144756,5 +144756,85 @@
       "CalculatorDetermine",
       "monthly"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-26/nvidia-shares-slide-after-forecast-underwhelms-investors-video",
+    "title": "Nvidia Shares Slide After Forecast Underwhelms Investors",
+    "fetched_on": "2026-02-26T23:32:29.206862+00:00",
+    "content": "Nvidia, the dominant maker of artificial intelligence chips, suffered its worst stock decline in 10 months after the company’s latest forecast failed to dispel fears of an AI bubble. The shares fell 5.5% to $184.89 in New York, marking the biggest one-day drop since April 16. The decline followed a first-quarter sales outlook that &mdash; on its face &mdash; looked impressive. Nvidia easily beat the average analyst estimate and delivered a 73% surge in fourth-quarter revenue. The reaction was a stark reminder of the skepticism now surrounding Nvidia. After explosive sales growth turned the chipmaker into the world’s most valuable company, investors are seeking stronger assurances that booming AI spending can be maintained. Bloomberg Intelligence Senior Semiconductor Analyst Kunjan Sobhani, and Senior Technology Credit Analyst Robert Schiffman both join Bloomberg Businessweek Daily to discuss. They speak with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Forecast",
+      "Slide",
+      "Underwhelms",
+      "Nvidia",
+      "Shares",
+      "analyst",
+      "Bloomberg",
+      "chips",
+      "suffered",
+      "months"
+    ]
+  },
+  {
+    "source": "HuffPost [NewsAPI]",
+    "url": "https://www.huffpost.com/entry/trump-takes-credit-for-biden-law_n_699f6ec9e4b0ef1afcc096a9",
+    "title": "Trump Takes Credit For Biden-Era $1,000 Match For Low-Income Retirement Plans",
+    "fetched_on": "2026-02-26T23:32:28.130626+00:00",
+    "content": "U.S. President Donald Trump delivers his State of the Union address to a joint session of Congress in the chambers of the U.S. House of Representatives in Washington, D.C., United States, on Feb. 24,… [+3843 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Match",
+      "Plans",
+      "President",
+      "House",
+      "Washington",
+      "United",
+      "Feb.",
+      "chars",
+      "Credit"
+    ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/mfbs-control-majority-lending-pos-terminals/",
+    "title": "‘MFBs control majority lending, POS terminals’",
+    "fetched_on": "2026-02-26T23:32:28.130626+00:00",
+    "content": "The Chairman of the National Association of Microfinance Banks, FCT Chapter, Francis Akie, has said microfinance banks account for 95 per cent of total lending in the industry and control 85 per cent… [+4059 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Microfinance",
+      "Banks",
+      "POS",
+      "FCT",
+      "Chapter",
+      "Francis",
+      "Akie",
+      "chars",
+      "cent",
+      "Chairman"
+    ]
+  },
+  {
+    "source": "Frequentmiler.com [NewsAPI]",
+    "url": "https://frequentmiler.com/virgin-voyages-promo-get-80-off-second-guest-free-drinks-free-onboard-credit/",
+    "title": "Virgin Voyages promo: Get 80% off second guest, free drinks, & free onboard credit",
+    "fetched_on": "2026-02-26T23:32:28.130626+00:00",
+    "content": "Advertiser Disclosure: FrequentMiler is an independent, advertising-supported website. Frequent Miler has financial relationships with many of the cards mentioned here, and is compensated through the… [+1404 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disclosure",
+      "free",
+      "Voyages",
+      "Advertiser",
+      "Virgin",
+      "promo",
+      "guest",
+      "drinks",
+      "FrequentMiler",
+      "independent"
+    ]
   }
 ]
