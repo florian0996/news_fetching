@@ -2,21 +2,21 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-26/fs-kkr-private-credit-fund-cuts-dividend-amid-rise-in-bad-loans",
-    "title": "FS KKR Private Credit Fund Cuts Dividend Amid Rise in Bad Loans",
-    "fetched_on": "2026-02-26T02:13:04.316771+00:00",
-    "content": "A private credit fund jointly managed by Future Standard and KKR &amp; Co. cut its dividend to 48 cents a share from 70 cents after earnings fell amid declining interest rates and losses tied to struggling investments.",
+    "title": "FS KKR Private Credit Fund Sinks on Dividend Cut, Bad Loans",
+    "fetched_on": "2026-02-26T18:55:31.228721+00:00",
+    "content": "A private credit fund jointly managed by Future Standard and KKR &amp; Co. plunged after cutting its dividend more than forecast, as earnings declined amid lower interest rates and losses from troubled investments.",
     "platforms_mentioned": [],
     "keywords": [
       "Credit",
+      "Cut",
+      "Bad",
       "KKR",
       "Private",
       "Fund",
-      "cents",
       "Dividend",
-      "Amid",
-      "Rise",
-      "Bad",
-      "Loans"
+      "Sinks",
+      "Loans",
+      "Future"
     ]
   },
   {
@@ -81,7 +81,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-26/chicago-hit-by-fitch-credit-rating-cut-as-fiscal-troubles-mount",
     "title": "Chicago Hit by Fitch Credit Rating Cut as Fiscal Woes Mount",
-    "fetched_on": "2026-02-26T17:01:19.925131+00:00",
+    "fetched_on": "2026-02-26T18:55:31.953026+00:00",
     "content": "Fitch Ratings lowered Chicago\u2019s credit grade one notch due to the city\u2019s deficits and the friction between Mayor Brandon Johnson and the city council, underscoring the mounting financial challenges facing the third-largest US city.",
     "platforms_mentioned": [],
     "keywords": [
@@ -281,7 +281,7 @@
     "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/funding-jumped-big-checks-ai-ye-2025/",
     "title": "Fintech Funding Jumped 27% In 2025 With Fewer Deals But Bigger Checks",
-    "fetched_on": "2026-02-26T17:01:34.812739+00:00",
+    "fetched_on": "2026-02-26T18:55:47.311438+00:00",
     "content": "Global venture funding to fintech startups climbed in 2025 to its highest level in several quarters, boosted by later-stage deals, Crunchbase data shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -301,7 +301,7 @@
     "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/record-breaking-seed-funding-us-ai-eoy-2025/",
     "title": "Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead",
-    "fetched_on": "2026-02-26T17:01:38.177073+00:00",
+    "fetched_on": "2026-02-26T18:55:50.184725+00:00",
     "content": "The seed investment environment exhibited its typical quirkiness in 2025. In particular, it was a huge year for huge rounds. Predictably, it was also a banner period for AI dealmaking with the U.S. pulling in a bigger-than-usual share of total investment.",
     "platforms_mentioned": [],
     "keywords": [
@@ -321,7 +321,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/22/cost-of-credit-reports-for-mortgages-center-of-debate-what-to-know-.html",
     "title": "Homebuyers are paying more for mortgage credit checks. Here\u2019s why",
-    "fetched_on": "2026-02-26T17:01:39.530414+00:00",
+    "fetched_on": "2026-02-26T18:55:51.596528+00:00",
     "content": "Despite being a small part of closing costs, credit report fees have become a flashpoint in the mortgage industry.",
     "platforms_mentioned": [],
     "keywords": [
@@ -341,7 +341,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/20/subprime-borrowers-personal-loans.html",
     "title": "Personal loans surge amid affordability struggles: It's 'the middle-class refinancing option,' expert says",
-    "fetched_on": "2026-02-26T17:01:39.530459+00:00",
+    "fetched_on": "2026-02-26T18:55:51.596570+00:00",
     "content": "Some borrowers are turning to personal loans to refinance credit card debt. Those loans are expected increase nearly 6% this year, TransUnion forecasts",
     "platforms_mentioned": [],
     "keywords": [
@@ -361,7 +361,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/02/10/new-york-fed-credit-card-debt-tops-1point28-trillion.html",
     "title": "Credit card debt tops $1.28 trillion \u2014 consistent with \u2018K-shaped\u2019 economic divide, New York Fed research shows",
-    "fetched_on": "2026-02-26T17:01:38.931307+00:00",
+    "fetched_on": "2026-02-26T18:55:51.092332+00:00",
     "content": "Collectively, Americans owe $1.28 trillion on their credit cards, according to a new report by the Federal Reserve Bank of New York.",
     "platforms_mentioned": [],
     "keywords": [
@@ -381,7 +381,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/02/02/mortgage-delinquencies-housing-affordability.html",
     "title": "Housing affordability isn't just hurting buyers: More homeowners are falling behind on their mortgages",
-    "fetched_on": "2026-02-26T17:01:38.931356+00:00",
+    "fetched_on": "2026-02-26T18:55:51.092380+00:00",
     "content": "While the overall share of delinquencies among all mortgages remains small, the growth is occurring faster than late payments for other types of consumer loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -401,7 +401,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/28/fed-decision-mortgage-rates-credit-cards-loans.html",
     "title": "Fed holds interest rates steady: What that means for mortgages, credit cards and loans",
-    "fetched_on": "2026-02-26T17:01:38.931393+00:00",
+    "fetched_on": "2026-02-26T18:55:51.092400+00:00",
     "content": "From mortgage rates and auto loans to credit cards and savings accounts, here's a look at how the January Fed decision could affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -421,7 +421,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/26/fed-rates-may-hold-steady.html",
     "title": "Fed is likely to hold interest rates steady, resisting Trump pressure. Here\u2019s what that means for borrowers",
-    "fetched_on": "2026-02-26T17:01:38.931427+00:00",
+    "fetched_on": "2026-02-26T18:55:51.092434+00:00",
     "content": "From mortgage rates to auto loans and credit cards, here\u2019s a look at how the upcoming January Fed decision may affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
@@ -441,7 +441,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/01/23/c-pace-cre-lending-record-deals.html",
     "title": "Why a niche category of CRE lending is suddenly seeing record deals",
-    "fetched_on": "2026-02-26T17:01:38.931434+00:00",
+    "fetched_on": "2026-02-26T18:55:51.092440+00:00",
     "content": "C-PACE stands for commercial property assessed clean energy and is a type of financing that differs from a traditional bank loan. It's seeing explosive growth.",
     "platforms_mentioned": [],
     "keywords": [
@@ -461,7 +461,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
     "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
-    "fetched_on": "2026-02-26T17:01:39.380317+00:00",
+    "fetched_on": "2026-02-26T18:55:51.342375+00:00",
     "content": "PayPal's stock lost nearly a third of its value last year due to slowing growth and competition concerns.",
     "platforms_mentioned": [],
     "keywords": [
@@ -481,7 +481,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/23/jamie-dimon-says-watch-out-as-high-asset-prices-add-to-economic-risks-my-anxiety-is-high.html",
     "title": "Jamie Dimon says 'watch out\u2019 as lofty asset prices add to economic risks: \u2018My anxiety is high\u2019",
-    "fetched_on": "2026-02-26T17:01:39.380338+00:00",
+    "fetched_on": "2026-02-26T18:55:51.342396+00:00",
     "content": "JPMorgan Chase CEO Jamie Dimon is anxious as high asset levels collide with increased competition among lenders and jitters over loans to the software industry.",
     "platforms_mentioned": [],
     "keywords": [
@@ -501,7 +501,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html",
     "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
-    "fetched_on": "2026-02-26T17:01:39.380389+00:00",
+    "fetched_on": "2026-02-26T18:55:51.342430+00:00",
     "content": "Blue Owl, a direct lender specializing in loans to the software industry, said it had sold $1.4 billion of its loans to institutional investors at 99.7% of par value.",
     "platforms_mentioned": [],
     "keywords": [
@@ -521,7 +521,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/13/ai-credit-markets.html",
     "title": "AI disruption could spark a \u2018shock to the system\u2019 in credit markets, UBS analyst says",
-    "fetched_on": "2026-02-26T17:01:39.380423+00:00",
+    "fetched_on": "2026-02-26T18:55:51.342467+00:00",
     "content": "UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.",
     "platforms_mentioned": [],
     "keywords": [
@@ -541,7 +541,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html",
     "title": "Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'",
-    "fetched_on": "2026-02-26T17:01:39.380484+00:00",
+    "fetched_on": "2026-02-26T18:55:51.342527+00:00",
     "content": "Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's \"Squawk Box.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -561,7 +561,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/23/student-loan-forgiveness-irs-bill.html",
     "title": "Student loan forgiveness is taxable again. How to plan for a five-figure IRS bill",
-    "fetched_on": "2026-02-26T17:01:39.530399+00:00",
+    "fetched_on": "2026-02-26T18:55:51.596511+00:00",
     "content": "Student loan holders who get their debt excused in 2026 can expect a hefty tax bill. But there are steps you can take to prepare, and some may not have to pay.",
     "platforms_mentioned": [],
     "keywords": [
@@ -581,7 +581,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/20/student-loan-delinquency.html",
     "title": "Student loan delinquency rate jumps to nearly 25% in Trump's second term, analysis finds",
-    "fetched_on": "2026-02-26T17:01:39.530451+00:00",
+    "fetched_on": "2026-02-26T18:55:51.596563+00:00",
     "content": "Around 7.9 million student loan borrowers entered delinquency in the first three quarters of 2025 alone, according to a new report by The Century Foundation.",
     "platforms_mentioned": [],
     "keywords": [
@@ -601,7 +601,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/19/trump-colleges-low-student-loan-repayment-rates.html",
     "title": "Trump administration issues warning to hundreds of colleges with low student loan repayment rates",
-    "fetched_on": "2026-02-26T17:01:39.530480+00:00",
+    "fetched_on": "2026-02-26T18:55:51.596590+00:00",
     "content": "Trump officials are turning up the pressure on colleges to ensure their students repay their federal student loans or risk losing their financial aid.",
     "platforms_mentioned": [],
     "keywords": [
@@ -621,7 +621,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/17/student-loan-forgiveness-eligibility-reaches-more-borrowers-.html",
     "title": "Trump administration identifies more borrowers eligible for student loan forgiveness, court filing shows",
-    "fetched_on": "2026-02-26T17:01:39.530494+00:00",
+    "fetched_on": "2026-02-26T18:55:51.596604+00:00",
     "content": "The Trump administration identified more than 40,000 borrowers eligible for federal student loan relief in January, a recent court filing shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -641,7 +641,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/02/16/student-loan-parent-plus-forgiveness.html",
     "title": "Parents with student loans have a short window to secure affordable repayment and forgiveness",
-    "fetched_on": "2026-02-26T17:01:39.530515+00:00",
+    "fetched_on": "2026-02-26T18:55:51.596624+00:00",
     "content": "Parents with student debt may be excluded from affordable repayment plans and loan forgiveness in the coming months if they don't take certain steps soon.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1436,7 +1436,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/student-loans/article/student-loan-defaults-are-rising-what-borrowers-should-know-before-its-too-late-154333663.html",
     "title": "Student loan defaults are rising. What borrowers should know before it's too late.",
-    "fetched_on": "2026-02-26T17:01:39.709112+00:00",
+    "fetched_on": "2026-02-26T18:55:52.195867+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1452,7 +1452,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/taxes/article/student-loan-interest-deduction-181147463.html",
     "title": "How to claim the student loan interest deduction: Rules and income limits",
-    "fetched_on": "2026-02-26T17:01:39.709120+00:00",
+    "fetched_on": "2026-02-26T18:55:52.195890+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -1484,7 +1484,7 @@
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-26/world-s-biggest-money-managers-favor-emerging-markets-citi-says",
     "title": "World\u2019s Top Money Managers Favor Emerging Markets, Citi Says",
-    "fetched_on": "2026-02-26T17:01:19.500843+00:00",
+    "fetched_on": "2026-02-26T18:55:31.228785+00:00",
     "content": "Global asset managers who collectively oversee more than $20 trillion of assets have grown more bullish across emerging-market equities, currencies, domestic bonds and credit, potentially offering fresh momentum to the sector\u2019s record-busting rally.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1524,7 +1524,7 @@
     "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-26/s-p-flags-risks-to-indonesia-rating-weeks-after-moody-s-warning",
     "title": "S&amp;P Flags Risks to Indonesia Rating, Weeks After Moody\u2019s Warning",
-    "fetched_on": "2026-02-26T17:01:19.925225+00:00",
+    "fetched_on": "2026-02-26T18:55:31.953134+00:00",
     "content": "S&amp;P Global Ratings warned that rising fiscal pressures, particularly higher debt-servicing costs, are increasing downside risks for Indonesia\u2019s sovereign credit profile and could lead to negative rating action.",
     "platforms_mentioned": [],
     "keywords": [
@@ -1925,21 +1925,21 @@
   {
     "source": "Bloomberg \u2013 Technology [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-26/blackstone-private-credit-fund-markets-bond-amid-software-tumult",
-    "title": "Blackstone Fund Markets Bond Amid Software Tumult",
-    "fetched_on": "2026-02-26T17:01:19.825440+00:00",
-    "content": "A publicly-traded private credit fund managed by Blackstone Inc. is marketing a new bond one day after the fund disclosed continued signs of stress in one of its largest investments.",
+    "title": "Blackstone Fund Offers $400 Million Bond Amid Software Tumult",
+    "fetched_on": "2026-02-26T18:55:31.733710+00:00",
+    "content": "A publicly-traded private credit fund managed by Blackstone Inc. has launched a $400 million bond sale one day after the fund disclosed continued signs of stress in one of its largest investments.",
     "platforms_mentioned": [],
     "keywords": [
+      "Million",
+      "Bond",
+      "Offers",
       "Fund",
       "Blackstone",
-      "Bond",
-      "Markets",
       "Amid",
       "Software",
       "Tumult",
       "Inc.",
-      "investments",
-      "publicly-traded"
+      "investments"
     ]
   },
   {
@@ -2206,7 +2206,7 @@
     "source": "Bloomberg \u2013 Industries [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-26/private-credit-s-great-divide-imminent-crisis-or-no-big-deal",
     "title": "Private Credit\u2019s Great Divide: Imminent Crisis or \u2018No Big Deal\u2019",
-    "fetched_on": "2026-02-26T17:01:20.014114+00:00",
+    "fetched_on": "2026-02-26T18:55:32.136420+00:00",
     "content": "Even in the world of private credit, which for months has pitted skeptics against true believers after some high-profile blowups, the difference of opinion has reached new heights in the past week.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2226,7 +2226,7 @@
     "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/newsletters/2026-02-26/dimon-s-dumb-things-remark-frames-debate-over-private-credit",
     "title": "Dimon\u2019s \u2018Dumb Things\u2019 Remark Frames Debate Over Private Credit",
-    "fetched_on": "2026-02-26T17:01:19.678934+00:00",
+    "fetched_on": "2026-02-26T18:55:31.574744+00:00",
     "content": "Also: AI wants to be an investment banker; sleep is not an option",
     "platforms_mentioned": [],
     "keywords": [
@@ -2345,8 +2345,8 @@
   {
     "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-02-26/barclays-atlas-among-firms-exposed-to-collapsed-uk-lender-mfs",
-    "title": "Barclays, Atlas Among Firms Exposed to Collapsed UK Lender MFS",
-    "fetched_on": "2026-02-26T17:01:19.500907+00:00",
+    "title": "Barclays, Atlas Among Firms Exposed to Failed UK Lender MFS",
+    "fetched_on": "2026-02-26T18:55:31.228753+00:00",
     "content": "Barclays Plc and Atlas SP Partners are among Wall Street firms that helped arrange more than \u00a32 billion ($2.7 billion) of loans to a UK mortgage-finance company that has unraveled amid allegations of financial irregularities.",
     "platforms_mentioned": [],
     "keywords": [
@@ -2355,7 +2355,7 @@
       "Barclays",
       "Firms",
       "Exposed",
-      "Collapsed",
+      "Failed",
       "Lender",
       "MFS",
       "Plc",
@@ -2481,6 +2481,86 @@
       "Sie",
       "das",
       "magazin"
+    ]
+  },
+  {
+    "source": "Bloomberg \u2013 Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-26/private-credit-s-liquidity-test-video",
+    "title": "Private Credit's Liquidity Test",
+    "fetched_on": "2026-02-26T18:55:31.733744+00:00",
+    "content": "Private credit has grown into a $2 trillion market, but as retail investors demand more liquidity, the structure is getting stress-tested. Marc Pinto, the Global Head of Private Credit at Moodys joined Bloomberg Open Interest to talk about the scrutiny surrounding liquidity risks in private credit.\n (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Credit",
+      "Test",
+      "Liquidity",
+      "Bloomberg",
+      "trillion",
+      "market",
+      "stress-tested",
+      "Pinto",
+      "Source"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2026/02/25/olivia-rodrigos-album-no-3-third-record/",
+    "title": "Olivia Rodrigo\u2019s Album No. 3: Is She Working on Her Third Record?",
+    "fetched_on": "2026-02-26T18:55:30.561569+00:00",
+    "content": "Image Credit: WireImage\r\nOlivia Rodrigo is officially entering a new era. Born on February 20, 2003, the Grammy-winning pop star has dominated the charts with SOUR and GUTS and now, fans are eagerly \u2026 [+2217 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Record",
+      "Rodrigo",
+      "Album",
+      "Working",
+      "Olivia",
+      "Credit",
+      "February",
+      "chars",
+      "Grammy-winning",
+      "SOUR"
+    ]
+  },
+  {
+    "source": "9to5google.com [NewsAPI]",
+    "url": "http://9to5google.com/2026/02/25/best-samsung-galaxy-s26-preorder-deals/",
+    "title": "Deals: Samsung Galaxy S26 pre-order deals now live \u2013 Up to $900 off, $150 off accessories, FREE credit, 70% off Galaxy Buds 4 Pro, more",
+    "fetched_on": "2026-02-26T18:55:30.561569+00:00",
+    "content": "Screenshot\r\nFor todays 9to5Toys Lunch Break its all about the new Galaxy 26 lineup that is now up for pre-order with some massive deals. The new Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra are now \u2026 [+8098 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "Pro",
+      "Samsung",
+      "FREE",
+      "Buds",
+      "Lunch",
+      "Deals",
+      "Screenshot",
+      "Break",
+      "pre-order"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/395225/ancient-martian-organisms-may-be-trapped-in-ice-study-finds",
+    "title": "Ancient Martian organisms may be trapped in ice, study finds",
+    "fetched_on": "2026-02-26T18:55:30.561569+00:00",
+    "content": "Space &amp; Astronomy\r\nBy T.K. RandallFebruary 25, 2026 \u00b7 \u00a00 commentsCould ice be the key to finding life on Mars ? Image Credit: NASA / JPL-CaltechEvidence of ancient life on Mars might be found in \u2026 [+1300 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASA",
+      "Mars",
+      "Space",
+      "Astronomy",
+      "Image",
+      "Credit",
+      "RandallFebruary",
+      "chars",
+      "life",
+      "Martian"
     ]
   }
 ]
