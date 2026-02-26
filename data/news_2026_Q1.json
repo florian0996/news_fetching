@@ -142322,5 +142322,125 @@
       "private-credit",
       "comments"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-26/indonesia-raises-4-5-billion-to-rebuff-credit-outlook-concerns",
+    "title": "Indonesia Raises $4.5 Billion to Defy Fiscal Health Concerns",
+    "fetched_on": "2026-02-26T04:52:19.775241+00:00",
+    "content": "Indonesia pulled off its biggest global bond sale since at least 2017, overcoming the threat of a credit rating downgrade and signaling easing investor concerns about fiscal woes in Southeast Asia’s largest economy.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raises",
+      "Billion",
+      "Indonesia",
+      "Fiscal",
+      "Concerns",
+      "Defy",
+      "Health",
+      "Southeast",
+      "Asia",
+      "overcoming"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-26/egypt-unlocks-around-2-3-billion-in-imf-funding-after-reviews",
+    "title": "Egypt Unlocks Around $2.3 Billion in IMF Funding After Reviews",
+    "fetched_on": "2026-02-26T04:52:20.932040+00:00",
+    "content": "Egypt unlocked about $2.3 billion in loans after clearing reviews of an International Monetary Fund program that was expanded in 2024, a boost for a country whose currency and bonds have felt jitters over the prospect of a US-Iran war.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Egypt",
+      "Reviews",
+      "Unlocks",
+      "IMF",
+      "Funding",
+      "International",
+      "Monetary",
+      "Fund",
+      "war"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/airtels-14000-crore-nbfc-bet-small-vs-60000-crore-fcf-dividend-upside-likely-iifl-capital/articleshow/128770228.cms",
+    "title": "Airtel’s ₹14,000 crore NBFC bet small vs ₹60,000 crore FCF; dividend upside likely: IIFL Capital",
+    "fetched_on": "2026-02-26T04:52:19.056842+00:00",
+    "content": "Bharti Airtels proposed entry into lending through a new NBFC may be grabbing headlines, but in the context of its surging free cash flows, the allocation remains modest, says Balaji Subramanian, Sen… [+3735 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sen",
+      "chars",
+      "FCF",
+      "IIFL",
+      "Subramanian",
+      "NBFC",
+      "crore",
+      "Capital",
+      "Bharti",
+      "Balaji"
+    ]
+  },
+  {
+    "source": "Des Moines Register [NewsAPI]",
+    "url": "https://www.desmoinesregister.com/story/sports/college/iowa-state/basketball-mens/2026/02/24/iowa-state-basketball-utah-cyclones-score/88848866007/",
+    "title": "5 standout stats from Iowa State basketball's road win at Utah",
+    "fetched_on": "2026-02-26T04:52:19.056842+00:00",
+    "content": "Feb 24, 2026; Salt Lake City, Utah, USA; Utah Utes guard Terrence Brown (left) and guard Obomate Abbey (21) warm up before the game Iowa State Cyclones at Jon M. Huntsman Center. Mandatory Credit: Ro… [+3610 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Utah",
+      "Iowa",
+      "State",
+      "USA",
+      "Feb",
+      "Salt",
+      "City",
+      "Brown",
+      "Abbey",
+      "Center"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/949448",
+    "title": "$10 BCF Club Credit (No Minimum Spend, Activation Required) @ BCF",
+    "fetched_on": "2026-02-26T04:52:19.056842+00:00",
+    "content": "Offer valid only at BCF and BCF online (bcf.com.au ). Offer valid between 25.02.26 - 04.03.26. To redeem this offer you must activate before 23:59 AEST 04.03.26. $10 credit will be applied to this BC… [+542 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BCF",
+      "Spend",
+      "Activation",
+      "Required",
+      "Club",
+      "Minimum",
+      "Offer",
+      "valid",
+      "online",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/949438",
+    "title": "[NSW, NRMA] Sign up to Engie NRMA Plan for $170 Electricity Bill Credit, $230 Gas Bill Credit @ Engie",
+    "fetched_on": "2026-02-26T04:52:19.056842+00:00",
+    "content": "Sign up for an ENGIE NRMA plan by March 31 and youll get:\r\nUp to $400 credit on your first bill $170 for electricity and $230 for gas.*21% less than the Electricity reference price in NSW (including … [+209 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NRMA",
+      "NSW",
+      "Bill",
+      "Credit",
+      "Engie",
+      "Sign",
+      "Electricity",
+      "Plan",
+      "Gas",
+      "March"
+    ]
   }
 ]
