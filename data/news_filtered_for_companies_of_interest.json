@@ -1,6 +1,24 @@
 {
-  "2026-02-26": {
+  "2026-02-27": {
     "status": "no company in the news"
+  },
+  "2026-02-26": {
+    "articles": [
+      {
+        "title": "FW: Revolut weighs another share sale",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "9 jaar samen! 🎂",
+        "url": null,
+        "platforms_mentioned": [
+          "Mozzeno"
+        ]
+      }
+    ]
   },
   "2026-02-25": {
     "articles": [
