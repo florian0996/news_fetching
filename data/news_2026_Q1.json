@@ -145537,5 +145537,45 @@
       "chars",
       "Credit"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/banks-credit-deposit-ratio-rbi-norms-loans-reserves-crr-credit-reserve-ratio-omo-11772045617758.html",
+    "title": "Banks are doing okay with credit about to surpass four-fifths of deposits—so does this ratio still matter?",
+    "fetched_on": "2026-02-27T07:50:32.072099+00:00",
+    "content": "The logic goes this way. If the cash reserve ratio (CRR) is 3% and the statutory liquidity ratio (SLR) 18%both are mandatory carve-outs from deposits that banks must keepthen the CD ratio cannot be a… [+5139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ratio",
+      "matter",
+      "credit",
+      "surpass",
+      "four-fifths",
+      "CRR",
+      "SLR",
+      "Banks",
+      "deposits",
+      "chars"
+    ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/wealth/borrow/earn-below-rs-3-lakh-you-could-get-a-microfinance-loan-up-to-rs-1-25-lakh-heres-how/microfinance-loans-get-funds-without-collateral-or-security/slideshow/128805467.cms",
+    "title": "Earn below Rs 3 lakh? You could get a microfinance loan up to Rs 1.25 lakh — here’s how",
+    "fetched_on": "2026-02-27T07:50:32.072099+00:00",
+    "content": "Feb 26, 2026, 12:36:46 PM IST\r\nMicrofinance loans are small, collateral-free loans given to people from low-income households, earning up to Rs.3 lakh a year. You don't need to pledge any asset, depo… [+2194 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "lakh",
+      "Earn",
+      "microfinance",
+      "Feb",
+      "loans",
+      "IST",
+      "depo",
+      "chars",
+      "small",
+      "collateral-free"
+    ]
   }
 ]
