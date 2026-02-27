@@ -148324,5 +148324,85 @@
       "Sign",
       "KYC"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-27/us-leveraged-loans-lose-the-most-since-2022-on-ai-driven-fears",
+    "title": "US Leveraged Loans Lose the Most Since 2022 on AI-Driven Fears",
+    "fetched_on": "2026-02-27T23:27:18.885228+00:00",
+    "content": "A basket of outstanding US corporate loans suffered its steepest monthly decline in more than three years as fears of artificial-intelligence disruption deepened, sparking a selloff.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loans",
+      "Fears",
+      "Leveraged",
+      "Lose",
+      "deepened",
+      "sparking",
+      "selloff",
+      "AI-Driven",
+      "basket",
+      "outstanding"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-27/jpmorgan-warns-up-to-150-billion-of-loans-in-clos-face-ai-risk",
+    "title": "JPMorgan Warns Up to $150 Billion of Loans in CLOs Face AI Risk",
+    "fetched_on": "2026-02-27T23:27:18.885234+00:00",
+    "content": "Anywhere from $40 billion to $150 billion of leveraged loans packaged into US collateralized loan obligations could be disrupted by the artificial intelligence boom, according to JPMorgan Chase &amp; Co.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Chase",
+      "Warns",
+      "Face",
+      "Risk",
+      "Loans",
+      "boom",
+      "JPMorgan",
+      "CLOs",
+      "leveraged"
+    ]
+  },
+  {
+    "source": "Marketplace.org [NewsAPI]",
+    "url": "https://www.marketplace.org/episode/2026/02/26/a-private-credit-market-boom",
+    "title": "A private credit market boom",
+    "fetched_on": "2026-02-27T23:27:18.192055+00:00",
+    "content": "The private credit market has grown fivefold since the 2008 financial crisis, according to the Federal Reserve, and now sits somewhere near the $2 trillion-mark globally. In the last couple weeks, th… [+40 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "Reserve",
+      "private",
+      "market",
+      "Federal",
+      "financial",
+      "crisis",
+      "trillion-mark",
+      "globally",
+      "boom"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-government-budget-deficit-9.7107517",
+    "title": "Credit ratings agency takes notice of N.S. finances",
+    "fetched_on": "2026-02-27T23:27:18.192055+00:00",
+    "content": "Another of the major credit rating agencies is taking notice of the Nova Scotia governments finances.\r\nOn Wednesday, Morningstar DBRS issued a commentary saying that the budget tabled this week shows… [+2263 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nova",
+      "Scotia",
+      "Credit",
+      "notice",
+      "finances",
+      "ratings",
+      "rating",
+      "agency",
+      "major",
+      "agencies"
+    ]
   }
 ]
