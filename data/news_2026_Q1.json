@@ -145938,5 +145938,83 @@
       "partners",
       "launched"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-02-27/london-credit-blowup-has-wall-street-firms-scrambling-video",
+    "title": "London Credit Blowup Has Wall Street Firms Scrambling (Video)",
+    "fetched_on": "2026-02-27T11:34:23.029910+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Video",
+      "Scrambling",
+      "Credit",
+      "Blowup",
+      "Wall",
+      "Street",
+      "Firms",
+      "London"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/banks-g-sec-portfolio-grows-at-a-slower-clip-amid-pick-up-in-credit-growth/article70679393.ece",
+    "title": "Banks’ G-Sec portfolio grows at a slower clip amid pick up in credit growth",
+    "fetched_on": "2026-02-27T11:34:22.344599+00:00",
+    "content": "Banks investment in central government securities (G-Secs) and State Government Securities (SGS) grew at a slower clip of 3 per cent year-on-year (y-o-y) as on January 31, 2026 amidst credit growth p… [+2406 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "securities",
+      "SGS",
+      "chars",
+      "January",
+      "government",
+      "slower",
+      "Banks",
+      "State",
+      "clip",
+      "credit"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/funding/lending-firm-prayaan-capital-raises-rs-110-crore-from-peak-xv-partners/articleshow/128811261.cms",
+    "title": "Lending firm Prayaan Capital raises Rs 110 crore from Peak XV Partners",
+    "fetched_on": "2026-02-27T11:34:22.344599+00:00",
+    "content": "Non-banking finance company Prayaan Capital has raised Rs 110 crore led by Peak XV Partners, according to a statement. Former Five Star Business Finance CEO Rangarajan Krishnan recently acquired a co… [+776 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Prayaan",
+      "Capital",
+      "Peak",
+      "Partners",
+      "crore",
+      "Non-banking",
+      "Lending",
+      "statement",
+      "finance",
+      "chars"
+    ]
+  },
+  {
+    "source": "PhoneArena [NewsAPI]",
+    "url": "https://www.phonearena.com/news/mysterious-credits-sent-to-samsung-accounts_id178522",
+    "title": "Mysterious $50 credits sent to some Samsung Accounts before Wednesday's Unpacked event",
+    "fetched_on": "2026-02-27T11:34:22.344599+00:00",
+    "content": "A discussion is a place, where people can voice their opinion, no matter if it\r\n is positive, neutral or negative. However, when posting, one must stay true to the topic, and not just share some\r\n ra… [+1082 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mysterious",
+      "Samsung",
+      "Accounts",
+      "Wednesday",
+      "Unpacked",
+      "credits",
+      "place",
+      "opinion",
+      "positive",
+      "neutral"
+    ]
   }
 ]
