@@ -147565,5 +147565,125 @@
       "Defaults",
       "Marathon"
     ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/government-backs-house-of-science-to-roll-out-hands-on-science-kits-in-schools/JBD6CUHCFJGN7AGZT22R7PRGI4/",
+    "title": "Government backs House of Science to roll out hands-on science kits in schools",
+    "fetched_on": "2026-02-27T19:35:01.685647+00:00",
+    "content": "A real credit \r\nThis is a significant milestone for our organisation and a real credit to the dedication of our team.\r\nIt also reflects the encouragement, advocacy and goodwill of our wider House of … [+3077 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "real",
+      "Science",
+      "House",
+      "credit",
+      "Government",
+      "team",
+      "backs",
+      "roll",
+      "hands-on",
+      "kits"
+    ]
+  },
+  {
+    "source": "PetaPixel [NewsAPI]",
+    "url": "https://petapixel.com/2026/02/26/you-need-to-see-tamrons-back-to-the-future-collab-at-cp/",
+    "title": "You Need to See Tamron’s ‘Back to the Future’ Collab at CP+",
+    "fetched_on": "2026-02-27T19:35:01.685647+00:00",
+    "content": "Credit: Tamron, UCS LLC, Amblin\r\nTamron’s Godzilla-themed booth at CP+ 2025 was always going to be a tough act to follow, but somehow Tamron topped it. This year’s Tamron booth features a big “Back t… [+1994 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tamron",
+      "Credit",
+      "Back",
+      "UCS",
+      "LLC",
+      "Amblin",
+      "Future’",
+      "Collab",
+      "Godzilla-themed",
+      "follow"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-may-have-to-pay-more-on-cds-bulk-deposits-in-march/articleshow/128833178.cms",
+    "title": "Banks may have to pay more on CDs, bulk deposits in March",
+    "fetched_on": "2026-02-27T19:35:01.685647+00:00",
+    "content": "Mumbai: Year-end credit demand, tight liquidity, and a visible rush to shore up balance sheets could mean Indian banks may have to pay more on certificates of deposit (CD) and bulk deposits over the … [+2589 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mumbai",
+      "Year-end",
+      "pay",
+      "chars",
+      "March",
+      "Indian",
+      "Banks",
+      "bulk",
+      "CDs",
+      "demand"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-may-have-to-pay-more-on-cds-bulk-deposits-in-march/articleshow/128824693.cms",
+    "title": "Banks may have to pay more on CDs, bulk deposits in March",
+    "fetched_on": "2026-02-27T19:35:01.685647+00:00",
+    "content": "Mumbai: Year-end credit demand, tight liquidity, and a visible rush to shore up balance sheets could mean Indian banks may have to pay more on certificates of deposit (CD) and bulk deposits over the … [+2593 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mumbai",
+      "Year-end",
+      "pay",
+      "chars",
+      "March",
+      "Indian",
+      "Banks",
+      "bulk",
+      "CDs",
+      "demand"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-venture-capital-tax-credit-9.7106916",
+    "title": "Tax credit boost will help stimulate investment, growth of young companies, Manitoba says",
+    "fetched_on": "2026-02-27T19:35:01.685647+00:00",
+    "content": "Manitoba is hoping to make it easier for small business startups to tap into investment funding by boosting the venture capital tax credit from $22 million to $30 million.\r\nIt's also lowering the min… [+2086 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Manitoba",
+      "million",
+      "Tax",
+      "credit",
+      "investment",
+      "growth",
+      "companies",
+      "boost",
+      "stimulate",
+      "young"
+    ]
+  },
+  {
+    "source": "Crypto Briefing [NewsAPI]",
+    "url": "https://cryptobriefing.com/morgan-stanley-bitcoin-lending-services/",
+    "title": "Morgan Stanley explores offering Bitcoin lending and yield services",
+    "fetched_on": "2026-02-27T19:35:01.685647+00:00",
+    "content": "Asked how much crypto their clients already hold off-platform, Morgan Stanley's executive said \"a considerable number.\" Morgan Stanley’s head of digital assets, Amy Oldenburg, said that lending and y… [+1500 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Stanley",
+      "Bitcoin",
+      "Asked",
+      "off-platform",
+      "number",
+      "lending",
+      "Amy",
+      "Oldenburg",
+      "explores"
+    ]
   }
 ]
