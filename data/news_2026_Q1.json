@@ -145658,5 +145658,125 @@
       "email",
       "emails"
     ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/statistics/pension-credit-applications-and-awards-february-2026",
+    "title": "Official Statistics: Pension Credit applications and awards: February 2026",
+    "fetched_on": "2026-02-27T09:43:29.474492+00:00",
+    "content": "We use some essential cookies to make this website work.\r\nWed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\r\nWe also use coo… [+70 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "Statistics",
+      "Pension",
+      "Credit",
+      "Official",
+      "awards",
+      "work",
+      "cookies",
+      "applications",
+      "essential"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/publications/pension-credit-journeys",
+    "title": "Research: Pension Credit Journeys",
+    "fetched_on": "2026-02-27T09:43:29.474492+00:00",
+    "content": "Research background \r\nThis report discusses the findings of the Pension Credit Journeys research carried out by Verian on behalf of the Department for Work and Pensions (DWP). The research was commis… [+1307 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Journeys",
+      "Pension",
+      "DWP",
+      "Research",
+      "Verian",
+      "Department",
+      "Work",
+      "Pensions",
+      "background"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/statistics/evaluation-of-those-invited-to-move-to-universal-credit-from-tax-credits",
+    "title": "Official Statistics: Evaluation of those invited to move to Universal Credit from tax credits",
+    "fetched_on": "2026-02-27T09:43:29.474492+00:00",
+    "content": "We use some essential cookies to make this website work.\r\nWed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\r\nWe also use coo… [+70 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Statistics",
+      "Evaluation",
+      "Universal",
+      "Credit",
+      "credits",
+      "cookies",
+      "Official",
+      "work",
+      "invited",
+      "move"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/regulation/2026/embedded-finance-firms-brace-for-tighter-us-regulations/",
+    "title": "Embedded Finance Firms Brace for Tighter US Regulations",
+    "fetched_on": "2026-02-27T09:43:29.474492+00:00",
+    "content": "From Amazon to dentist offices to Uber, companies that arent banks are the new face of financial services. Embedded finance offers credit, buy now, pay later, card installment plans, payments and ins… [+7743 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Uber",
+      "Embedded",
+      "Firms",
+      "Brace",
+      "Tighter",
+      "Regulations",
+      "Amazon",
+      "Finance",
+      "companies",
+      "services"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/is-solana-digital-credit-king-of-2026-saylor-and-circles-q4-data-say/",
+    "title": "Is Solana ‘digital credit’ king of 2026? Saylor and Circle’s Q4 data say…",
+    "fetched_on": "2026-02-27T09:43:29.474492+00:00",
+    "content": "Q4 made it clear that stablecoins are still the go-to safe haven.\r\nCircle [USDC], the second-largest stablecoin with a market cap above $70 billion, demonstrated through its strong OctoberDecember 20… [+2419 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Solana",
+      "digital",
+      "USDC",
+      "Circle",
+      "credit’",
+      "king",
+      "billion",
+      "chars",
+      "Saylor",
+      "data"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/psu-banks-better-placed-on-loan-deposit-metrics-microfinance-cycle-nearing-normalisation-says-yuvraj-choudhary/articleshow/128807790.cms",
+    "title": "PSU banks better placed on loan-deposit metrics; microfinance cycle nearing normalisation, says Yuvraj Choudhary",
+    "fetched_on": "2026-02-27T09:43:29.474492+00:00",
+    "content": "At a time when Indias banking system is witnessing a steady recovery in credit growth, concerns around the loan-to-deposit ratio (LDR) have resurfaced. The debate has centred on whether rising credit… [+6779 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LDR",
+      "ratio",
+      "PSU",
+      "Yuvraj",
+      "Choudhary",
+      "Indias",
+      "metrics",
+      "microfinance",
+      "normalisation",
+      "growth"
+    ]
   }
 ]
