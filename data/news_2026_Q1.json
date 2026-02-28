@@ -149021,5 +149021,45 @@
       "equity",
       "loan"
     ]
+  },
+  {
+    "source": "Annielytics.com [NewsAPI]",
+    "url": "https://www.annielytics.com/blog/ai/lets-dissect-anthropics-stand-against-pentagon/",
+    "title": "Let’s Dissect Anthropic’s Stand Against the Pentagon",
+    "fetched_on": "2026-02-28T06:41:35.494194+00:00",
+    "content": "Image credit: TechCrunch via Wikimedia\r\nTwo days before Anthropic CEO Dario Amodei published his statement about Anthropic’s relationship with the Department of War (DoW), he released something else … [+7812 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Anthropic",
+      "War",
+      "DoW",
+      "chars",
+      "Dissect",
+      "Stand",
+      "Pentagon",
+      "Image",
+      "Wikimedia",
+      "CEO"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/02/26/fixing-the-damage-of-a-botched-snes-supercic-mod/",
+    "title": "Fixing the Damage of a Botched SNES SuperCIC Mod",
+    "fetched_on": "2026-02-28T06:41:35.494194+00:00",
+    "content": "Not what you want to see when testing that ‘repaired’ SNES. (Credit: Skawo, YouTube)\r\nThe good part about older game consoles like the Super Nintendo is that they have rather rudimentary region locks… [+2182 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SNES",
+      "Damage",
+      "Botched",
+      "Mod",
+      "Fixing",
+      "repaired’",
+      "Credit",
+      "Skawo",
+      "SuperCIC",
+      "testing"
+    ]
   }
 ]
