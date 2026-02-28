@@ -1,6 +1,17 @@
 {
-  "2026-02-27": {
+  "2026-02-28": {
     "status": "no company in the news"
+  },
+  "2026-02-27": {
+    "articles": [
+      {
+        "title": "FW: Big Invoice Coming Larry Ellison's Way",
+        "url": null,
+        "platforms_mentioned": [
+          "Castlelake"
+        ]
+      }
+    ]
   },
   "2026-02-26": {
     "articles": [
