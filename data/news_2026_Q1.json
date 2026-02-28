@@ -149281,5 +149281,25 @@
       "summer",
       "delivers"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/data-stories/data-focus/bank-credit-to-micro-and-small-industry-grows-277-in-first-nine-months-of-fy26/article70683501.ece",
+    "title": "Bank credit to micro and small industry grows 27.7% in first nine months of FY26",
+    "fetched_on": "2026-02-28T11:21:41.891470+00:00",
+    "content": "Micro and small industries (MSE), which have 23 per cent share in outstanding bank credit to industry, recorded 27.7 per cent growth between April to December 2025. This is sharply higher than the 6.… [+3750 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MSE",
+      "micro",
+      "December",
+      "credit",
+      "recorded",
+      "April",
+      "Bank",
+      "small",
+      "cent",
+      "industry"
+    ]
   }
 ]
