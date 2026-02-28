@@ -149637,5 +149637,85 @@
       "Back",
       "IRS"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/every-canceled-netflix-series-in-2026-so-far/",
+    "title": "Every Canceled Netflix Series In 2026 (So Far)",
+    "fetched_on": "2026-02-28T14:24:36.278863+00:00",
+    "content": "Picture Credits: Netflix\r\nWe’re only a few months into 2026, and the streaming giant is already making ruthless cuts to its library. From highly anticipated original series that failed to find an aud… [+5377 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Picture",
+      "Credits",
+      "Canceled",
+      "library",
+      "Series",
+      "chars",
+      "’re",
+      "months",
+      "streaming"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/homebuyers-face-higher-credit-check-costs-heres-why-fees-are-rising-now/articleshow/128852632.cms",
+    "title": "Homebuyers face higher credit check costs — here’s why fees are rising now",
+    "fetched_on": "2026-02-28T14:24:36.278863+00:00",
+    "content": "Homebuyers credit check costs explained: For many homebuyers, closing costs already feel overwhelming. Now, theres another expense drawing attention is the fee lenders pay to check a borrowers credit… [+3900 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Homebuyers",
+      "costs",
+      "check",
+      "credit",
+      "explained",
+      "closing",
+      "overwhelming",
+      "face",
+      "higher",
+      "rising"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/icici-prudential-life-insurance-sk-finance-tie-up-to-offer-credit-life-solutions/article70684310.ece",
+    "title": "ICICI Prudential Life Insurance, SK Finance tie up to offer credit life solutions",
+    "fetched_on": "2026-02-28T14:24:36.278863+00:00",
+    "content": "SK Finance, a leading non-banking finance company, has announced a strategic partnership with ICICI Prudential Life Insurance Company to offer group credit protection insurance solutions for customer… [+1660 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Prudential",
+      "Life",
+      "Insurance",
+      "Finance",
+      "ICICI",
+      "chars",
+      "company",
+      "offer",
+      "customer",
+      "credit"
+    ]
+  },
+  {
+    "source": "Music Ally [NewsAPI]",
+    "url": "http://musically.com/2026/02/27/charli-xcxs-fictional-brat-card-is-now-a-real-thing-for-fans/",
+    "title": "Charli XCX’s fictional ‘Brat card’ is now a real thing for fans",
+    "fetched_on": "2026-02-28T14:24:36.278863+00:00",
+    "content": "If youve seen Charli XCX mockumentary-film The Moment youll have clocked the plotline where fictional bank Howard Stirling launches a Brat-green branded credit card.\r\nDespite this being spiky satire … [+1064 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "XCX",
+      "Brat",
+      "Charli",
+      "Moment",
+      "Howard",
+      "Stirling",
+      "Brat-green",
+      "card",
+      "fictional",
+      "chars"
+    ]
   }
 ]
