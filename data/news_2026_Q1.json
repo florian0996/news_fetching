@@ -149561,5 +149561,81 @@
       "Spider-Man",
       "Studios"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180867526",
+    "title": "New Credit Blowup in London Has Wall Street Chasing Billions - Bloomberg.com",
+    "fetched_on": "2026-02-28T13:37:47.493498+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billions",
+      "Bloomberg.com",
+      "Print",
+      "Credit",
+      "Blowup",
+      "London",
+      "Wall",
+      "Street",
+      "Chasing",
+      "Fine"
+    ]
+  },
+  {
+    "source": "Bitcoinist [NewsAPI]",
+    "url": "https://bitcoinist.com/ripple-whitepaper-digital-asset-trading/",
+    "title": "Ripple Unveils Whitepaper On Institutional Digital Asset Trading",
+    "fetched_on": "2026-02-28T13:37:47.493498+00:00",
+    "content": "Ripple has published a new whitepaper arguing that institutional crypto market structure still lacks the settlement, credit and risk infrastructure needed to support large-scale participation. In the… [+4206 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ripple",
+      "Whitepaper",
+      "Institutional",
+      "Unveils",
+      "Digital",
+      "Asset",
+      "Trading",
+      "settlement",
+      "credit",
+      "participation"
+    ]
+  },
+  {
+    "source": "Studyfinds.com [NewsAPI]",
+    "url": "https://studyfinds.com/1-in-3-us-teens-diabetes/",
+    "title": "1 In 3 American Teens Already Has Prediabetes Or Diabetes...",
+    "fetched_on": "2026-02-28T13:37:47.493498+00:00",
+    "content": "Credit: LightField Studios on Shutterstock\r\n<ul><li>Nearly 1 in 3 American teenagers has prediabetes or type 2 diabetes, with the vast majority of cases being prediabetes, which is reversible if caug… [+9077 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "American",
+      "Prediabetes",
+      "Diabetes",
+      "Teens",
+      "Shutterstock",
+      "Credit",
+      "chars",
+      "Studios",
+      "LightField",
+      "type"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/6-ways-money-back-irs-130405197.html",
+    "title": "6 Ways To Get Money Back From the IRS Using Tax Credits — According to a Tax Pro",
+    "fetched_on": "2026-02-28T13:38:07.173696+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credits",
+      "Pro",
+      "Tax",
+      "Money",
+      "Back",
+      "IRS"
+    ]
   }
 ]
