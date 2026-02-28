@@ -149161,5 +149161,45 @@
       "impacting",
       "credit"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/02/27/3246335/0/en/Auto-Loan-Market-to-Exceed-USD-2-8-Trillion-by-2031-as-Passenger-Vehicles-Account-for-80-75-of-Global-Auto-Financing-Demand-in-2025-according-to-a-2026-Mordor-Intelligence-Report.html",
+    "title": "Auto Loan Market to Exceed USD 2.8 Trillion by 2031 as Passenger Vehicles Account for 80.75% of Global Auto Financing Demand in 2025, according to a 2026 Mordor Intelligence Report",
+    "fetched_on": "2026-02-28T09:29:09.136341+00:00",
+    "content": "Hyderabad, India, Feb. 27, 2026 (GLOBE NEWSWIRE) -- According to Mordor Intelligences report, the auto loan market size is set to grow from USD 1.84 trillion in 2025 to USD 1.98 trillion in 2026, wit… [+9006 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "USD",
+      "Trillion",
+      "Mordor",
+      "Loan",
+      "Auto",
+      "India",
+      "Feb.",
+      "Market",
+      "Report",
+      "Hyderabad"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-affluent-are-taking-instant-personal-loans-to-protect-long-term-investments/articleshow/128842179.cms",
+    "title": "India's affluent are taking instant personal loans to protect long-term investments",
+    "fetched_on": "2026-02-28T09:29:09.136341+00:00",
+    "content": "Even as banks tighten scrutiny on unsecured lending, a new class of borrowers is emerging: savers with money in the bank who are choosing to take personal loans instead of dipping into their investme… [+3056 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "personal",
+      "loans",
+      "India",
+      "lending",
+      "emerging",
+      "savers",
+      "investme",
+      "affluent",
+      "taking"
+    ]
   }
 ]
