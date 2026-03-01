@@ -151355,5 +151355,141 @@
       "disruption",
       "fears"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-close-eighth-month-of-gains-on-earnings-lift-credit-fears-hit-banks/articleshow/128874065.cms",
+    "title": "European shares close eighth month of gains on earnings lift; credit fears hit banks",
+    "fetched_on": "2026-03-01T04:55:32.306468+00:00",
+    "content": "European shares closed at a record high on Friday to log their eighth straight month of gains after better-than-expected corporate updates, while heavyweight banks tumbled amid credit and AI-disrupti… [+2577 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "European",
+      "Friday",
+      "shares",
+      "month",
+      "gains",
+      "lift",
+      "corporate",
+      "updates",
+      "AI-disrupti"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/commodities/gold-the-fastest-moving-loan-product-for-banks-in-january/articleshow/128873778.cms",
+    "title": "Gold the fastest moving loan product for banks in January",
+    "fetched_on": "2026-03-01T04:55:32.306468+00:00",
+    "content": "Kolkata: Loans against gold continued to grow sharply, recording a year-on-year rise of 128% in January, up from the 91% recorded a year earlier, monthly data released by the Reserve Bank of India sh… [+1421 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "January",
+      "Kolkata",
+      "chars",
+      "Reserve",
+      "India",
+      "Gold",
+      "sharply",
+      "recording",
+      "rise",
+      "recorded"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/average-lending-rates-on-new-loans-firm-up/articleshow/128873601.cms",
+    "title": "Average lending rates on new loans firm up",
+    "fetched_on": "2026-03-01T04:55:32.306468+00:00",
+    "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "market",
+      "Share",
+      "Telegram",
+      "Sensex",
+      "Nifty",
+      "Track",
+      "Average",
+      "stock",
+      "tips"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bad-memories-of-another-day-for-lenders-as-bihar-moves-to-regulate-microloans/articleshow/128873547.cms",
+    "title": "Bad Memories of Another Day for Lenders as Bihar Moves to Regulate Microloans",
+    "fetched_on": "2026-03-01T04:55:32.306468+00:00",
+    "content": "Bihar government's move to regulate microfinance institutions may hobble the recovery of the sector, which had shown signs of recovery from stress after long years.The state's legislative assembly ad… [+2864 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bihar",
+      "Regulate",
+      "chars",
+      "Memories",
+      "Day",
+      "Lenders",
+      "Microloans",
+      "recovery",
+      "Bad",
+      "sector"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/iifl-home-finance-inks-300-million-loan-pact-with-adb/articleshow/128873456.cms",
+    "title": "IIFL Home Finance inks $300 million loan pact with ADB",
+    "fetched_on": "2026-03-01T04:55:32.306468+00:00",
+    "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Budget",
+      "IIFL",
+      "ADB",
+      "Share",
+      "Telegram",
+      "market",
+      "Home",
+      "Finance",
+      "Sensex",
+      "Nifty"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/odoo-addon-account-payment-sepa-credit-transfer/18.0.3.0.1.1/",
+    "title": "odoo-addon-account-payment-sepa-credit-transfer 18.0.3.0.1.1",
+    "fetched_on": "2026-03-01T04:55:32.306468+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "load",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension",
+      "network",
+      "issues"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.wsj.com/finance/banking/bank-stocks-suffer-another-plunge-on-credit-and-ai-fears-3f3d1876?siteid=yhoof2&yptr=yahoo",
+    "title": "Bank Stocks Suffer Another Plunge on Credit and AI Fears",
+    "fetched_on": "2026-03-01T04:55:49.039817+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fears",
+      "Stocks",
+      "Suffer",
+      "Plunge",
+      "Credit",
+      "Bank"
+    ]
   }
 ]
