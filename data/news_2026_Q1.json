@@ -151508,5 +151508,25 @@
       "JPMorgan",
       "CLOs"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://it.slashdot.org/story/26/02/27/2348254/southern-california-air-board-rejects-pollution-rules-after-ai-generated-flood-of-comments",
+    "title": "Southern California Air Board Rejects Pollution Rules After AI-Generated Flood of Comments",
+    "fetched_on": "2026-03-01T07:34:35.985917+00:00",
+    "content": "A Southern California-based public affairs consultant, Matt Klink, has taken credit for using CiviClick to wage the opposition campaign, including in a sponsored article on the website Campaigns and … [+1510 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Matt",
+      "Klink",
+      "Southern",
+      "California",
+      "Air",
+      "Board",
+      "Rejects",
+      "Pollution",
+      "Rules"
+    ]
   }
 ]
