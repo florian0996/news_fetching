@@ -151528,5 +151528,65 @@
       "Pollution",
       "Rules"
     ]
+  },
+  {
+    "source": "The Daily Hodl [NewsAPI]",
+    "url": "https://dailyhodl.com/2026/02/28/billion-dollar-bank-paying-10200000-settlement-after-allegedly-badgering-customers-with-non-stop-phone-calls/",
+    "title": "Billion-Dollar Bank Paying $10,200,000 Settlement After Allegedly Badgering Customers With Non-Stop Phone Calls",
+    "fetched_on": "2026-03-01T08:34:51.988832+00:00",
+    "content": "A US bank is preparing to shell out more than $10 million to settle allegations that it harassed customers.\r\nA civil lawsuit accused the Las Vegas-based bank Credit One of instructing agent vendors t… [+2210 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paying",
+      "Settlement",
+      "Customers",
+      "Allegedly",
+      "Badgering",
+      "Phone",
+      "Calls",
+      "Bank",
+      "Billion-Dollar",
+      "million"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/groww-doubles-down-on-wealth-management-lending-to-diversify-revenue-base-ceo-lalit-keshre/articleshow/128878219.cms",
+    "title": "Groww doubles down on wealth management, lending to diversify revenue base: CEO Lalit Keshre",
+    "fetched_on": "2026-03-01T08:34:51.988832+00:00",
+    "content": "Wealthtech startup Groww is stepping up its focus on wealth management and lending as it looks to reduce dependence on its core broking business, cofounder and chief executive Lalit Keshre said. We g… [+2127 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lalit",
+      "Keshre",
+      "CEO",
+      "wealth",
+      "Groww",
+      "Wealthtech",
+      "management",
+      "lending",
+      "base",
+      "business"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/rbc-sees-improving-credit-outlook-043708388.html",
+    "title": "RBC Sees Improving Credit Outlook for The Bank of Nova Scotia (BNS), Raises Price Objective",
+    "fetched_on": "2026-03-01T08:35:21.096506+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNS",
+      "RBC",
+      "Scotia",
+      "Raises",
+      "Objective",
+      "Improving",
+      "Credit",
+      "Outlook",
+      "Bank",
+      "Nova"
+    ]
   }
 ]
