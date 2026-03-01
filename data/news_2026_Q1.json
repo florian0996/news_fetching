@@ -151668,5 +151668,85 @@
       "set",
       "title"
     ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/02/halloween-reboot-shares-early-footage-ahead-of-march-preview-dr1/",
+    "title": "Official ‘Halloween’ Reboot Shares New Footage of Michael Myers Ahead of March Preview",
+    "fetched_on": "2026-03-01T11:22:50.317906+00:00",
+    "content": "Halloween is in yet another state of reinvention. This is nothing new, though, seeing as the franchise has undergone many reimaginings since John Carpenter’s original 1978 classic.\r\nCredit: Universal… [+4302 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Halloween’",
+      "Official",
+      "Reboot",
+      "Shares",
+      "Footage",
+      "Michael",
+      "Myers",
+      "Ahead",
+      "March",
+      "Preview"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/pro/security/looking-for-a-holiday-bargain-dont-get-caught-out-experts-warn-of-dark-web-travel-agencies-using-stolen-credit-cards-to-buy-hotels-flights-and-more",
+    "title": "Looking for a holiday bargain? Don't get caught out — experts warn of dark web travel agencies using stolen credit cards to buy hotels, flights, and more",
+    "fetched_on": "2026-03-01T11:22:50.317906+00:00",
+    "content": "<ul><li>Buyers of cheap travel deals often face canceled bookings and lost money</li><li>Fraudulent travel reservations can appear legitimate until banks freeze accounts unexpectedly</li><li>Cardhold… [+3777 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "bargain",
+      "travel",
+      "Cardhold",
+      "holiday",
+      "Buyers",
+      "Fraudulent",
+      "flights",
+      "chars",
+      "experts",
+      "hotels"
+    ]
+  },
+  {
+    "source": "Pointalize.com [NewsAPI]",
+    "url": "https://pointalize.com/amex-equinox-credit-guide/#article",
+    "title": "Amex Equinox Credit Guide",
+    "fetched_on": "2026-03-01T11:22:50.317906+00:00",
+    "content": "3What is the Amex Equinox Credit?\r\nThe Amex Equinox credit is a $300 annual statement credit available to cardholders of The Platinum Card® from American Express. This benefit fully covers an annual … [+8834 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Equinox",
+      "Amex",
+      "Credit",
+      "Guide",
+      "Card",
+      "Express",
+      "Platinum",
+      "American",
+      "annual",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/real-estate/news/7-things-to-know-before-taking-a-home-loan-in-india/photostory/128882025.cms",
+    "title": "7 things to know before taking a home loan in India",
+    "fetched_on": "2026-03-01T11:22:50.317906+00:00",
+    "content": "Before approving a home loan, banks and other financial institutions conduct a property valuation and ensure that the property title is clear. They check if the property has all the necessary clearan… [+778 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "home",
+      "India",
+      "loan",
+      "property",
+      "things",
+      "banks",
+      "clear",
+      "taking",
+      "approving",
+      "financial"
+    ]
   }
 ]
