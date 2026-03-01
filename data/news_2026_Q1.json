@@ -151588,5 +151588,65 @@
       "Bank",
       "Nova"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7f960ded-854e-4af0-adf1-0732bf4c5c6e",
+    "title": "Green Plains Details 45Z Credit Upside, Data-Driven Plant Shift and Low-Carbon Push at Conference",
+    "fetched_on": "2026-03-01T09:32:27.361040+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Details",
+      "Credit",
+      "Upside",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Plains"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f9ff224-fd7f-45b7-afb3-b3fd16788a53",
+    "title": "RBC Sees Improving Credit Outlook for The Bank of Nova Scotia (BNS), Raises Price Objective",
+    "fetched_on": "2026-03-01T09:32:27.361040+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNS",
+      "including",
+      "chars",
+      "RBC",
+      "Scotia",
+      "Raises",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/green-plains-details-45z-credit-050708899.html",
+    "title": "Green Plains Details 45Z Credit Upside, Data-Driven Plant Shift and Low-Carbon Push at Conference",
+    "fetched_on": "2026-03-01T09:32:46.457416+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Details",
+      "Credit",
+      "Upside",
+      "Conference",
+      "Plains",
+      "Plant",
+      "Shift",
+      "Push",
+      "Green",
+      "Data-Driven"
+    ]
   }
 ]
