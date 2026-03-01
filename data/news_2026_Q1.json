@@ -151491,5 +151491,22 @@
       "Credit",
       "Bank"
     ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/jpmorgan-warns-150-billion-loans-222139102.html",
+    "title": "JPMorgan Warns Up to $150 Billion of Loans in CLOs Face AI Risk",
+    "fetched_on": "2026-03-01T05:54:13.075256+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Risk",
+      "Warns",
+      "Loans",
+      "Face",
+      "JPMorgan",
+      "CLOs"
+    ]
   }
 ]
