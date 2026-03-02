@@ -153487,5 +153487,60 @@
       "BBC",
       "Match"
     ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/395363/nasa-artemis-iii-mission-will-no-longer-land-humans-on-the-moon",
+    "title": "NASA: Artemis III mission will no longer land humans on the Moon",
+    "fetched_on": "2026-03-02T18:52:49.104139+00:00",
+    "content": "Space &amp; Astronomy\r\nBy T.K. RandallMarch 1, 2026 ·  2 commentsWe will now have to wait for Artemis IV to see a manned landing. Image Credit: NASAThe major policy change was revealed on Friday as t… [+1310 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NASA",
+      "Artemis",
+      "RandallMarch",
+      "Space",
+      "Astronomy",
+      "III",
+      "Moon",
+      "commentsWe",
+      "landing",
+      "chars"
+    ]
+  },
+  {
+    "source": "Doctorofcredit.com [NewsAPI]",
+    "url": "https://www.doctorofcredit.com/doordash-stops-allowing-10-chase-credit-for-alcohol-purchases/",
+    "title": "DoorDash Stops Allowing $10 Chase Credit For Alcohol Purchases",
+    "fetched_on": "2026-03-02T18:52:49.104139+00:00",
+    "content": "You can help support this site by using our links to Amazon &amp; eBay.\r\nAs an Amazon Associate I earn from qualifying purchases. Keep in mind that if you do use our links, you wont be able to earn c… [+173 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Allowing",
+      "Chase",
+      "eBay",
+      "Stops",
+      "Credit",
+      "Alcohol",
+      "Amazon",
+      "Purchases",
+      "DoorDash",
+      "links"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/know-trump-student-loan-repayment-100000494.html",
+    "title": "What to know about Trump’s new student loan repayment plan",
+    "fetched_on": "2026-03-02T18:53:05.700786+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "plan",
+      "student",
+      "loan",
+      "repayment"
+    ]
   }
 ]
