@@ -153447,5 +153447,45 @@
       "engaging",
       "varied"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-02/ares-is-lead-buyer-in-2-2-billion-arcmont-secondary-sale",
+    "title": "Ares Is Lead Buyer in $2.2 Billion Arcmont Secondary Sale",
+    "fetched_on": "2026-03-02T17:47:31.305825+00:00",
+    "content": "Ares Management Corp. emerged as the primary buyer for a private credit portfolio sold by Arcmont Asset Management in the market for secondhand stakes, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Corp",
+      "Lead",
+      "Secondary",
+      "Sale",
+      "Arcmont",
+      "Management",
+      "Buyer",
+      "Asset",
+      "emerged"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/sport/football/articles/cy7jv1n32rlo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "Man Utd 2-1 Crystal Palace: What Carrick said",
+    "fetched_on": "2026-03-02T17:47:30.707116+00:00",
+    "content": "Manchester United manager Michael Carrick speaking to BBC Match of the Day: \"I'm delighted with the win and the way we responded to a slow start. Credit to Palace, they started the game really sharpl… [+1689 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Carrick",
+      "Palace",
+      "Day",
+      "Utd",
+      "Crystal",
+      "Manchester",
+      "United",
+      "Michael",
+      "BBC",
+      "Match"
+    ]
   }
 ]
