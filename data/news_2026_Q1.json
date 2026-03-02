@@ -152766,5 +152766,45 @@
       "Sie",
       "wir"
     ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/02/28/vend-o-vision-trading-quarters-for-watching-tv-in-public/",
+    "title": "Vend-o-Vision: Trading Quarters for Watching TV in Public",
+    "fetched_on": "2026-03-02T07:01:38.707080+00:00",
+    "content": "The timer mechanism of the Vend-o-Vision. (Credit: SpaceTime Junction, YouTube)\r\nThere was a time before portable TVs and personal media players when the idea of putting coin-operated TVs everywhere,… [+2161 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trading",
+      "Quarters",
+      "Watching",
+      "Public",
+      "Credit",
+      "timer",
+      "mechanism",
+      "Junction",
+      "YouTube",
+      "chars"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/financial-services/2026/02/28/central-banks-latest-financial-risk-assessment-makes-for-grim-reading/",
+    "title": "Central Bank’s latest financial risk assessment makes for grim reading",
+    "fetched_on": "2026-03-02T07:01:38.707080+00:00",
+    "content": "What are the risks to the financial system? It seems the sort of question that a regulator would want to stay on top of all the time, so its no surprise that the Central Bank publishes its assessment… [+2172 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "financial",
+      "Central",
+      "system",
+      "assessment",
+      "latest",
+      "makes",
+      "grim",
+      "reading",
+      "risk"
+    ]
   }
 ]
