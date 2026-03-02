@@ -153763,5 +153763,105 @@
       "experts",
       "recommend"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-02/bloomberg-businessweek-daily-3-02-2026-video",
+    "title": "Treasuries Sink, Oil Jumps as Markets Weigh Iran | Bloomberg Businessweek Daily 3/02/2026",
+    "fetched_on": "2026-03-02T21:36:07.605664+00:00",
+    "content": "On today's episode of Bloomberg Businessweek Daily, Carol Massar and Tim Stenovec discuss the market moves and potential impacts after the US struck Iran over the weekend. Richard Bernstein Advisors CIO Michael Contopoulos joins to discuss moves in the treasury market. Then, Bloomberg Surveillance Co-Host Lisa Abramowicz sits down with JPMorgan Chase CEO Jamie Dimon on the state of the US economy, private credit risks, and more. Then, Moses Ventures Founder Danny Moses of 'Big Short' fame joins alongside Bloomberg's Alexandra Semenova to discuss AI risks, why he sees concerns in private credit, AI's impact on the job market, and more. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Daily",
+      "Businessweek",
+      "Iran",
+      "Bloomberg",
+      "Sink",
+      "Oil",
+      "Carol",
+      "Jumps",
+      "Weigh",
+      "Massar"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/netflix-games/overcooked-all-you-can-eat-netflix-release-date/",
+    "title": "Overcooked! All You Can Eat Coming to Netflix Games with Stranger Things & KPop Demon Hunter Skins",
+    "fetched_on": "2026-03-02T21:36:06.520948+00:00",
+    "content": "Picture Credit: Team17\r\nNetflix is about to get a lot more chaotic in the kitchen. We can confirm that the definitive edition of the hit cooking simulation, Overcooked! All You Can Eat, is officially… [+2886 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Overcooked",
+      "Netflix",
+      "Eat",
+      "Things",
+      "Credit",
+      "Coming",
+      "Games",
+      "Stranger",
+      "Demon",
+      "Hunter"
+    ]
+  },
+  {
+    "source": "Fstoppers [NewsAPI]",
+    "url": "https://fstoppers.com/critique-community/print-worthy",
+    "title": "Critique the Community: Print Worthy",
+    "fetched_on": "2026-03-02T21:36:06.520948+00:00",
+    "content": "Welcome to the March Critique the Community!  This month we want to see your most \"Print Worthy\" photographs, and the first place winner will receive a $1000 credit to print their photos through Luma… [+2644 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Community",
+      "Critique",
+      "Print",
+      "Worthy",
+      "March",
+      "Luma",
+      "photographs",
+      "chars",
+      "credit",
+      "month"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/950018",
+    "title": "$10 Cashback on $100 Minimum Spend in One Transaction at Myer (Exclusions Apply) @ NAB Goodies",
+    "fetched_on": "2026-03-02T21:36:06.520948+00:00",
+    "content": "Should be possible to purchase a $100 Coles Myer GC\r\nHow to claim\r\n<ol><li>Shop with participating merchants.</li><li>Pay with your active NAB personal Visa debit card, credit card, or NAB Now Pay La… [+503 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NAB",
+      "Myer",
+      "Pay",
+      "card",
+      "Cashback",
+      "Minimum",
+      "Exclusions",
+      "Apply",
+      "Coles",
+      "Shop"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/03/01/turning-a-cast-iron-radiator-into-a-water-cooled-pc/",
+    "title": "Turning a Cast-Iron Radiator into a Water-Cooled PC",
+    "fetched_on": "2026-03-02T21:36:06.520948+00:00",
+    "content": "Bottom of the cast-iron radiator gaming PC during plumbing. (Credit: Billet Labs, YouTube)\r\nWater-cooled PCs generally have in common that there’s a radiator somewhere in the loop, yet nobody said th… [+1871 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bottom",
+      "Cast-Iron",
+      "Radiator",
+      "Water-Cooled",
+      "Turning",
+      "plumbing",
+      "Credit",
+      "Billet",
+      "Labs",
+      "gaming"
+    ]
   }
 ]
