@@ -153427,5 +153427,25 @@
       "Won",
       "Album"
     ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/gaming/the-goal-was-always-to-create-engaging-and-varied-content-that-supported-players-ideas-and-stories-not-historical-realism-the-sims-4s-lead-game-designer-talks-royalty-and-legacy",
+    "title": "'The goal was always to create engaging and varied content that supported players ideas and stories, not historical realism' — The Sims 4’s lead game designer talks Royalty and Legacy",
+    "fetched_on": "2026-03-02T16:52:56.677182+00:00",
+    "content": "The latest The Sims 4 expansion pack is here, and it’s one of my favorites yet. Blending rich story-building gameplay mechanics with gorgeous new assets and worldbuilding lore, Royalty and Legacy is … [+7900 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sims",
+      "Royalty",
+      "Legacy",
+      "stories",
+      "realism",
+      "expansion",
+      "goal",
+      "create",
+      "engaging",
+      "varied"
+    ]
   }
 ]
