@@ -152644,5 +152644,85 @@
       "Earning",
       "Bonus"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180876598",
+    "title": "Wall Street hit by UK mortgage lender collapse, raising fears of more credit 'cockroaches' - Reuters",
+    "fetched_on": "2026-03-02T04:49:13.702058+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "cockroaches'",
+      "Reuters",
+      "Print",
+      "Street",
+      "Fine",
+      "Wall",
+      "collapse",
+      "raising",
+      "credit",
+      "hit"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180876458",
+    "title": "MFS Creditors Warn of £930 Million Shortfall From Double Pledges - Bloomberg",
+    "fetched_on": "2026-03-02T04:49:13.702058+00:00",
+    "content": "Anyone who imagines that all fruits ripen at the same time\r\nas the strawberries, knows nothing about grapes.\r\n-- Philippus Paracelsus",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MFS",
+      "Million",
+      "Pledges",
+      "Bloomberg",
+      "Creditors",
+      "Warn",
+      "Shortfall",
+      "Double",
+      "strawberries",
+      "grapes"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2026/02/28/wwe-elimination-chamber-2026-results-as-randy-orton-wins-seth-rollins-returns/",
+    "title": "WWE Elimination Chamber 2026 Results As Randy Orton Wins, Seth Rollins Returns",
+    "fetched_on": "2026-03-02T04:49:13.702058+00:00",
+    "content": "Randy Orton will challenge for the WWE title at WrestleMania 42. (Credit: Andrew Timms/WWE via Getty Images)\r\nWWE via Getty Images\r\nWWE Elimination Chamber 2026 marks the last official stop on the ro… [+7357 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "WWE",
+      "Randy",
+      "Orton",
+      "Chamber",
+      "Elimination",
+      "Results",
+      "Wins",
+      "Seth",
+      "Rollins",
+      "Returns"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/44505605/wealthy-20-year-old-complains-about-credit-card-debt-friends-complain-shes-cosplaying-their-real",
+    "title": "Wealthy 20-year-old complains about credit card debt, friends complain she's 'cosplaying' their real struggle: 'Telling me I wouldn’t know difficulty if it hit me in the face'",
+    "fetched_on": "2026-03-02T04:49:13.702058+00:00",
+    "content": "Complaining about money is a hallmark of friendship, especially when you're young. You're in it together, and you have a shared struggle. Rent is always too high, and pay is always too low. You find … [+1119 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Telling",
+      "Complaining",
+      "Wealthy",
+      "cosplaying",
+      "struggle",
+      "debt",
+      "friends",
+      "face",
+      "friendship",
+      "young"
+    ]
   }
 ]
