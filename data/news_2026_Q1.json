@@ -154489,5 +154489,65 @@
       "Stade",
       "Loan"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-03/softbank-s-30-billion-openai-bet-spurs-s-p-credit-outlook-cut",
+    "title": "SoftBank’s $30 Billion OpenAI Bet Spurs S&amp;P Credit Outlook Cut",
+    "fetched_on": "2026-03-03T09:44:12.766955+00:00",
+    "content": "S&amp;P Global Inc. lowered its outlook for SoftBank Group Corp. to negative from stable, saying plans for an additional $30 billion investment in OpenAI may hurt the Japanese company’s liquidity and the credit quality of its assets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bet",
+      "Spurs",
+      "Cut",
+      "Global",
+      "Billion",
+      "Outlook",
+      "Credit",
+      "Corp",
+      "SoftBank",
+      "OpenAI"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/smbs/2026/52-percent-of-small-businesses-dont-revolve-their-credit-card-balances/",
+    "title": "52% of Small Businesses Don’t Revolve Their Credit Card Balances",
+    "fetched_on": "2026-03-03T09:44:11.805936+00:00",
+    "content": "Small businesses are treating credit cards less like a backup and more like a flexible operating tool, and the way they use them is starting to look surprisingly consumer-like.That is the throughline… [+2698 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Small",
+      "chars",
+      "Businesses",
+      "Credit",
+      "Revolve",
+      "Balances",
+      "tool",
+      "surprisingly",
+      "throughline",
+      "Card"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/gold-royalty-corp-groy-expands-064716478.html",
+    "title": "Gold Royalty Corp. (GROY) Expands Credit Facility and Delivers Record Revenue Growth",
+    "fetched_on": "2026-03-03T09:44:30.414003+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Corp",
+      "GROY",
+      "Royalty",
+      "Gold",
+      "Expands",
+      "Growth",
+      "Credit",
+      "Facility",
+      "Delivers",
+      "Record"
+    ]
   }
 ]
