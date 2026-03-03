@@ -1,6 +1,31 @@
 {
-  "2026-03-02": {
+  "2026-03-03": {
     "status": "no company in the news"
+  },
+  "2026-03-02": {
+    "articles": [
+      {
+        "title": "FW: Opinionated women: where are you?",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Regime Change Ahead of Schedule",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: War Markets Have Some Bugs",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-01": {
     "status": "no company in the news"
