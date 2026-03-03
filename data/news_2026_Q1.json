@@ -154269,5 +154269,25 @@
       "UTC",
       "Amsterdam"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/opinion/online-views/india-fintech-boom-moral-hazard-crisis-shock-retail-credit-loans-debt-unsecured-personal-loans-11772345125930.html",
+    "title": "India’s fintech boom is loaded with moral hazard and could trigger a crisis at the slightest shock",
+    "fetched_on": "2026-03-03T06:55:30.585545+00:00",
+    "content": "Unsecured retail loans account for 53.1% of total retail slippages at scheduled commercial banks, even as their retail gross non-performing assets (GNPA) ratio sits at a comforting 1.8%. This is fina… [+4705 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "GNPA",
+      "retail",
+      "Unsecured",
+      "India",
+      "banks",
+      "assets",
+      "ratio",
+      "comforting",
+      "fintech",
+      "boom"
+    ]
   }
 ]
