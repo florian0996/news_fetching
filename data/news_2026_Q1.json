@@ -156472,5 +156472,105 @@
       "Card",
       "Cards"
     ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/banks-disburse-n36-4tn-to-trade-sector-amid-rate-cuts/",
+    "title": "Banks disburse N36.4tn to trade sector amid rate cuts",
+    "fetched_on": "2026-03-04T02:10:44.054763+00:00",
+    "content": "Nigerian deposit money banks disbursed a total of N36.39tn in credit to the Trade and General Commerce sector in the first nine months of 2025, amid calls for more credit to the private sector for pr… [+5370 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "trade",
+      "Nigerian",
+      "General",
+      "Commerce",
+      "credit",
+      "sector",
+      "disburse",
+      "Banks",
+      "amid"
+    ]
+  },
+  {
+    "source": "Haaretz [NewsAPI]",
+    "url": "https://www.haaretz.com/opinion/editorial/2026-03-03/ty-article/netanyahu-should-give-credit-where-its-due-for-bombing-iran/0000019c-b065-df64-a59c-fa77ee8c0000",
+    "title": "Netanyahu should give credit where it's due for bombing Iran",
+    "fetched_on": "2026-03-04T02:10:44.054763+00:00",
+    "content": "Prime Minister Benjamin Netanyahu, who so far has taken great care to evade taking any responsibility for the October 7 massacre, has been very generous toward himself when it comes to distributing c… [+46 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "massacre",
+      "chars",
+      "October",
+      "Netanyahu",
+      "Iran",
+      "Prime",
+      "Minister",
+      "Benjamin",
+      "give",
+      "credit"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/c20lz7rkqv4o",
+    "title": "'I've given up on hospitality. The £15,000 pay isn't worth the stress'",
+    "fetched_on": "2026-03-04T02:10:44.054763+00:00",
+    "content": "Ivy Morris, a 32-year-old mother of three from Hinckley, Leicestershire, receives the personal independence payment for a range of disabilities that affect her mobility, as well as universal credit. … [+59 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "hospitality",
+      "Leicestershire",
+      "Morris",
+      "Hinckley",
+      "Ivy",
+      "chars",
+      "pay",
+      "mother",
+      "receives",
+      "mobility"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00597-7",
+    "title": "See raining iguanas and coral from the inside out — February’s best science images",
+    "fetched_on": "2026-03-04T02:10:44.054763+00:00",
+    "content": "Credit: Ross Gudgeon/CUPOTY\r\nCoral life. This inside-out view of a cauliflower soft coral (Eunephthya thyrsoidea) in the Lembeh Strait in Indonesia, reveals its forest-like inner architecture, formed… [+5106 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "Credit",
+      "Ross",
+      "Gudgeon",
+      "CUPOTY",
+      "coral",
+      "life",
+      "raining",
+      "iguanas",
+      "inside"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00595-9",
+    "title": "Hey ChatGPT, write me a fictional paper: these LLMs are willing to commit academic fraud",
+    "fetched_on": "2026-03-04T02:10:44.054763+00:00",
+    "content": "Credit: Smith Collection/Gado/Getty\r\nAll major large language models (LLMs) can be used to either commit academic fraud or facilitate junk science, a test of 13 models has found.\r\nStill, some LLMs pe… [+3460 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gado",
+      "Credit",
+      "Smith",
+      "Collection",
+      "Getty",
+      "academic",
+      "commit",
+      "fraud",
+      "models",
+      "Hey"
+    ]
   }
 ]
