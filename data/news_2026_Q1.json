@@ -158303,5 +158303,145 @@
       "Administration",
       "Highlights"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-03-04/flight-to-safety-threatens-to-expose-cracks-in-private-credit",
+    "title": "Private Credit’s Fault Lines Risk Deepening",
+    "fetched_on": "2026-03-04T17:40:40.957613+00:00",
+    "content": "The Iran war may not last long enough to hurt the broader economy but it could be enough to expose weaknesses in an industry that’s already vulnerable.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Fault",
+      "Lines",
+      "Risk",
+      "Deepening",
+      "Iran",
+      "Private",
+      "vulnerable",
+      "war",
+      "long"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-04/marathon-s-richards-on-software-lending-and-defaults-video",
+    "title": "Marathon's Richards on Software Lending and Defaults",
+    "fetched_on": "2026-03-04T17:40:41.253210+00:00",
+    "content": "Marathon Asset Management Chair and CEO Bruce Richards explains why he thinks highly-leveraged software default rates could surge and discusses where he is finding investment opportunities on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Richards",
+      "Interest",
+      "Bloomberg",
+      "Marathon",
+      "Software",
+      "Lending",
+      "Asset",
+      "Management",
+      "Chair",
+      "CEO"
+    ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-04/macklem-says-bank-of-canada-to-move-to-central-repo-clearing",
+    "title": "Bank of Canada Moves to Central Clearing to Curb Repo Risk",
+    "fetched_on": "2026-03-04T17:40:41.527688+00:00",
+    "content": "The Bank of Canada will begin centrally clearing its repo operations, Governor Tiff Macklem said, as he flagged growing risks from hedge funds’ leveraged bets in government bonds and the rapid expansion of private credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canada",
+      "Bank",
+      "Governor",
+      "Clearing",
+      "Repo",
+      "Moves",
+      "Central",
+      "Curb",
+      "Tiff",
+      "Macklem"
+    ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/news/can-veterans-get-their-credit-card-debt-forgiven/",
+    "title": "Can veterans get their credit card debt forgiven?",
+    "fetched_on": "2026-03-04T17:40:39.789074+00:00",
+    "content": "Veterans have access to debt relief options, but do any of them meaningfully reduce or eliminate what's owed?\r\nSeksan Mongkhonkhamsao/Getty Images\r\nThe financial challenges that follow military servi… [+5772 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "forgiven",
+      "veterans",
+      "debt",
+      "credit",
+      "card",
+      "Mongkhonkhamsao",
+      "Getty",
+      "chars",
+      "Images",
+      "options"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180899950",
+    "title": "Blackstone’s Flagship Private Credit Fund Hit by Record Redemptions - Bloomberg.com",
+    "fetched_on": "2026-03-04T17:40:39.789074+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Redemptions",
+      "Bloomberg.com",
+      "Print",
+      "Flagship",
+      "Private",
+      "Credit",
+      "Fund",
+      "Hit",
+      "Record",
+      "Fine"
+    ]
+  },
+  {
+    "source": "Bringatrailer.com [NewsAPI]",
+    "url": "https://bringatrailer.com/2026/03/03/question-of-the-week-what-car-is-best-at-poverty-spec/",
+    "title": "Question of the Week: What Car is Best at “Poverty Spec?”—WINNER’S UPDATE",
+    "fetched_on": "2026-03-04T17:40:39.789074+00:00",
+    "content": "WINNERS ANNOUNCEMENT:\r\nWere back to announce the winner for our Question of the Week, where our victor will accept a $25 credit for a hat or T-shirt from the BaT Gear Store and the acclaim of their p… [+5012 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Week",
+      "Question",
+      "Poverty",
+      "Spec",
+      "WINNER’S",
+      "ANNOUNCEMENT",
+      "chars",
+      "Car",
+      "UPDATE",
+      "T-shirt"
+    ]
+  },
+  {
+    "source": "Fox News [NewsAPI]",
+    "url": "https://www.foxnews.com/tech/figure-data-breach-exposes-nearly-1-million-accounts",
+    "title": "Figure data breach exposes nearly 1M accounts",
+    "fetched_on": "2026-03-04T17:40:39.789074+00:00",
+    "content": "If you have applied for a loan online, you probably shared more than you realized. Your name. Your email. Your date of birth. Maybe even your home address and phone number. Now imagine all of that si… [+7540 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Figure",
+      "accounts",
+      "online",
+      "realized",
+      "data",
+      "breach",
+      "exposes",
+      "applied",
+      "loan",
+      "shared"
+    ]
   }
 ]
