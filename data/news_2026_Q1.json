@@ -160422,5 +160422,125 @@
       "Summary",
       "Call"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-05/srt-sales-hit-record-pace-as-banks-expand-use-to-hedge-risks",
+    "title": "SRT Sales Hit Record Pace as Banks Expand Use to Hedge Risks",
+    "fetched_on": "2026-03-05T11:35:27.745188+00:00",
+    "content": "Banks are issuing significant risk transfers at a record pace as they use the tool to hedge a wider range of loans, including leveraged buyouts and fund financing.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pace",
+      "SRT",
+      "Banks",
+      "Record",
+      "Hedge",
+      "Sales",
+      "Hit",
+      "Expand",
+      "loans",
+      "including"
+    ]
+  },
+  {
+    "source": "Bitcoinist [NewsAPI]",
+    "url": "https://bitcoinist.com/stablecoins-pose-fresh-risk-to-eurozone-lending-ecb-says/",
+    "title": "Stablecoins Pose Fresh Risk To Eurozone Lending, ECB Says",
+    "fetched_on": "2026-03-05T11:35:27.241283+00:00",
+    "content": "Europes top central bank is watching stablecoins with growing caution. What began as a niche crypto tool is now large enough to draw attention in Frankfurt.\r\nBased on reports, the European Central Ba… [+3077 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Lending",
+      "ECB",
+      "Pose",
+      "Fresh",
+      "Risk",
+      "Eurozone",
+      "Europes",
+      "Stablecoins",
+      "caution",
+      "central"
+    ]
+  },
+  {
+    "source": "Radaronline.com [NewsAPI]",
+    "url": "https://radaronline.com/p/shia-labeouf-dead-fear-sad-spiral-rehab-drinking-arrest/",
+    "title": "EXCLUSIVE: Shia LaBeouf's Sad Spiral Exposed — And How It's Rehab or DEATH for Boozed-Up Hollywood Bad Boy",
+    "fetched_on": "2026-03-05T11:35:27.241283+00:00",
+    "content": "Witnesses said the former Disney Channel kid allegedly covered up and tried to pay with a credit card, according to employee Kyle Catarouch, but was asked to leave after trying to \"be a celebrity bar… [+469 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EXCLUSIVE",
+      "Shia",
+      "Exposed",
+      "Catarouch",
+      "chars",
+      "Sad",
+      "Spiral",
+      "Rehab",
+      "DEATH",
+      "Hollywood"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/loan-repaid-vehicle-hypothecation-to-be-removed-automatically-under-new-online-system/articleshow/129022723.cms",
+    "title": "Loan repaid? Vehicle hypothecation to be removed automatically under new online system",
+    "fetched_on": "2026-03-05T11:35:27.241283+00:00",
+    "content": "In a major relief for vehicle owners, the removal of hypothecation from registration certificates will now take place automatically through an online system once a loan is fully repaid, eliminating t… [+2118 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "repaid",
+      "chars",
+      "Loan",
+      "online",
+      "system",
+      "Vehicle",
+      "hypothecation",
+      "automatically",
+      "owners",
+      "eliminating"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/gpt-53-search-upgrade/",
+    "title": "GPT-5.3 Instant Improves Query Intent Detection in Search",
+    "fetched_on": "2026-03-05T11:35:27.241283+00:00",
+    "content": "OpenAIs ChatGPT 5.3 Instant introduces a new level of precision and personalization to web search, blending advanced natural language processing with an emphasis on user intent. One of its standout f… [+7047 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Instant",
+      "Intent",
+      "Search",
+      "Improves",
+      "Query",
+      "Detection",
+      "ChatGPT",
+      "blending",
+      "chars",
+      "OpenAIs"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/business/fitch-cuts-indonesia-credit-rating-outlook-negative-5970526",
+    "title": "Fitch cuts Indonesia credit rating outlook to negative",
+    "fetched_on": "2026-03-05T11:35:27.241283+00:00",
+    "content": "JAKARTA, March 4 : Fitch Ratings on Wednesday cut Indonesia's credit rating outlook to negative from stable, citing increasing uncertainty and reduced credibility in policymaking, in a move that will… [+3481 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Indonesia",
+      "March",
+      "Fitch",
+      "JAKARTA",
+      "credit",
+      "outlook",
+      "chars",
+      "rating",
+      "Wednesday",
+      "negative"
+    ]
   }
 ]
