@@ -159736,5 +159736,103 @@
       "customers",
       "credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-05/goldman-sachs-s-reynolds-on-private-credit-outlook-video",
+    "title": "Goldman Sachs's Reynolds on Private Credit Outlook",
+    "fetched_on": "2026-03-05T04:46:34.069368+00:00",
+    "content": "James Reynolds, Goldman Sachs Asset Management Co-Head of Private Credit, said the private credit sector remains resilient, with few borrowers struggling to meet loan payments, and that fundamentals look \"very strong\" at this stage. He speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\".  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Goldman",
+      "Private",
+      "Credit",
+      "Sachs",
+      "Reynolds",
+      "Bloomberg",
+      "Outlook",
+      "James",
+      "Asset",
+      "Management"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-05/what-does-china-s-gdp-target-reveal-video",
+    "title": "What Does China's GDP Target Reveal?",
+    "fetched_on": "2026-03-05T04:46:34.069400+00:00",
+    "content": "Xiaojia Zhi, Credit Agricole Chief China economist, tells Bloomberg TV that China's modest GDP growth targets reflects a desire to boost domestic demand while limiting fiscal support to those sectors where it is most urgently required. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reveal",
+      "China",
+      "GDP",
+      "Bloomberg",
+      "Source",
+      "Zhi",
+      "Credit",
+      "Agricole",
+      "Chief",
+      "Target"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180902774",
+    "title": "Blackstone Senior Staff Opened Wallets With Flagship Private Credit Fund Under Pressure - Bloomberg.com",
+    "fetched_on": "2026-03-05T04:46:33.557287+00:00",
+    "content": "If it smells it's chemistry, if it crawls it's biology, if it doesn't work\r\nit's physics.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pressure",
+      "Bloomberg.com",
+      "Senior",
+      "Staff",
+      "Opened",
+      "Wallets",
+      "Flagship",
+      "Private",
+      "Credit",
+      "Fund"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/03/03/inside-skala-how-chernobyls-reactor-was-actually-controlled/",
+    "title": "Inside SKALA: How Chernobyl’s Reactor Was Actually Controlled",
+    "fetched_on": "2026-03-05T04:46:33.557287+00:00",
+    "content": "Entering SKALA codes during RBMK operation. (Credit: Pripyat-Film studio)\r\nRunning a nuclear power plant isn’t an easy task, even with the level of automation available to a 1980s Soviet RBMK reactor… [+2989 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SKALA",
+      "Chernobyl",
+      "Controlled",
+      "Entering",
+      "RBMK",
+      "Credit",
+      "Inside",
+      "operation",
+      "Reactor",
+      "Running"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/robinhood-launches-new-platinum-credit-card-aimed-at-wealthy-customers-4542767",
+    "title": "Robinhood launches new platinum credit card aimed at wealthy customers",
+    "fetched_on": "2026-03-05T04:46:43.455520+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Robinhood",
+      "customers",
+      "launches",
+      "platinum",
+      "credit",
+      "card",
+      "aimed",
+      "wealthy"
+    ]
   }
 ]
