@@ -162777,5 +162777,25 @@
       "Credit",
       "Trading"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/firstrand-interim-profit-rises-to-record-as-loans-fees-climb",
+    "title": "FirstRand Interim Profit Rises to Record as Loans, Fees Climb",
+    "fetched_on": "2026-03-06T08:41:00.469250+00:00",
+    "content": "(Bloomberg) FirstRand Ltd.s interim profit rose to a record as Africas biggest bank by market value earned more from fees and commissions and as growth in loans boosted revenue.\r\nTHIS CONTENT IS RESE… [+4794 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Interim",
+      "Profit",
+      "Record",
+      "Climb",
+      "FirstRand",
+      "Loans",
+      "Fees",
+      "Rises",
+      "Ltd.s"
+    ]
   }
 ]
