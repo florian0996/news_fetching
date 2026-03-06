@@ -162637,5 +162637,65 @@
       "Friday",
       "March"
     ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/03/05/grant-williams-grew-with-celtics-and-now-helping-hornets-flourish/88989982007/",
+    "title": "Grant Williams credits Celtics for growth as a player, leader",
+    "fetched_on": "2026-03-06T06:53:31.915659+00:00",
+    "content": "BOSTON When Grant Williams was with the Boston Celtics, he was almost the class clown of the roster. He'd cheer up talented teammates such as superstar forward turned friend Jayson Tatum and goof off… [+6037 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Williams",
+      "Celtics",
+      "Grant",
+      "BOSTON",
+      "player",
+      "leader",
+      "roster",
+      "credits",
+      "growth",
+      "class"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19273632-10-amazon-credit-when-you-spend-25-on-select-beauty-products",
+    "title": "$10 Amazon credit when you spend $25 on Select Beauty Products",
+    "fetched_on": "2026-03-06T06:53:31.915659+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amazon",
+      "tips",
+      "Select",
+      "Beauty",
+      "Products",
+      "spend",
+      "information",
+      "post",
+      "credit",
+      "collaborative"
+    ]
+  },
+  {
+    "source": "AdExchanger [NewsAPI]",
+    "url": "http://www.adexchanger.com/commerce/sallie-mae-has-an-ad-business-and-meta-is-declining-credit-cards/",
+    "title": "Sallie Has An Ad Business And Meta Is Declining Credit Cards",
+    "fetched_on": "2026-03-06T06:53:31.915659+00:00",
+    "content": "Welcome back to AdExchanger’s Commerce Media Newsletter.\r\nSome sad news to start. Pour one out for the ecommerce brand founders who’ve been putting their marketing budgets on a corporate (or even a p… [+3266 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Newsletter",
+      "Business",
+      "Meta",
+      "Declining",
+      "Credit",
+      "Cards",
+      "Commerce",
+      "Media",
+      "Sallie",
+      "back"
+    ]
   }
 ]
