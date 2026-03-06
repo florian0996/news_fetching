@@ -162435,5 +162435,84 @@
       "Mahood",
       "talks"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-06/demand-for-carbon-credits-may-climb-if-middle-east-war-drags-on",
+    "title": "Demand for Carbon Credits May Climb If Middle East War Drags On",
+    "fetched_on": "2026-03-06T04:43:49.202975+00:00",
+    "content": "A protracted war in the Middle East could lift demand for carbon credits in the compliance market, if ongoing disruptions to LNG supplies compel industries to turn to cheaper, higher-emission fuels.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Carbon",
+      "Middle",
+      "East",
+      "Credits",
+      "War",
+      "Demand",
+      "Climb",
+      "Drags",
+      "LNG",
+      "market"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-06/softbank-seeks-record-loan-of-up-to-40-billion-for-openai-stake",
+    "title": "SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake",
+    "fetched_on": "2026-03-06T04:43:48.607584+00:00",
+    "content": "SoftBank Group Corp. is seeking a loan of as much as $40 billion to mostly help finance its investment in US tech giant OpenAI, according to people familiar with the matter, in what would be its largest-ever borrowing denominated solely in dollars.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Loan",
+      "Seeks",
+      "Record",
+      "Stake",
+      "Group",
+      "Corp.",
+      "SoftBank",
+      "OpenAI",
+      "matter"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/950533",
+    "title": "ANZ 2-Year Fixed Home Loan from 5.62% p.a. (Owner Occupied, ≤70% LVR, Comparison Rate ~6.30% p.a.) @ Soren Financial",
+    "fetched_on": "2026-03-06T04:43:47.054279+00:00",
+    "content": "ANZ is currently offering competitive 2-year fixed home loan rates starting from approximately 5.62% p.a. (comparison rate approx. 6.30% p.a.) for owner-occupied lending.\r\nThis appears to be part of … [+2259 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fixed",
+      "Home",
+      "Comparison",
+      "ANZ",
+      "LVR",
+      "Loan",
+      "Owner",
+      "Occupied",
+      "Rate",
+      "Soren"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/softbank-seeks-up-to-40-billion-loan-to-finance-openai-investment-bloomberg-news-reports-4545981",
+    "title": "SoftBank seeks up to $40 billion loan to finance OpenAI investment, Bloomberg News reports",
+    "fetched_on": "2026-03-06T04:44:05.600772+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "SoftBank",
+      "billion",
+      "investment",
+      "reports",
+      "seeks",
+      "loan",
+      "finance",
+      "OpenAI"
+    ]
   }
 ]
