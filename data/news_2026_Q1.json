@@ -165236,5 +165236,45 @@
       "problem",
       "private"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/950698",
+    "title": "Earn 3% Dining Credit @ ALDI, Coles, Woolworths (Maximum $10 Combined Total per Calendar Month) via EatClub (Caviar Tier Only)",
+    "fetched_on": "2026-03-07T05:38:18.330481+00:00",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ALDI",
+      "Coles",
+      "Woolworths",
+      "Maximum",
+      "Earn",
+      "Dining",
+      "Credit",
+      "Combined",
+      "Month",
+      "Caviar"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/softbank-seeks-up-to-40-billion-loan-to-finance-openai-investment-bloomberg/articleshow/129132007.cms",
+    "title": "SoftBank seeks up to $40 billion loan to finance OpenAI investment: Bloomberg",
+    "fetched_on": "2026-03-07T05:38:18.330481+00:00",
+    "content": "SoftBank is seeking a loan of as much as $40 billion to mostly help finance its investment in US tech giant OpenAI, according to people familiar with the matter, in what would be its largest-ever bor… [+3236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Bloomberg",
+      "chars",
+      "SoftBank",
+      "loan",
+      "finance",
+      "OpenAI",
+      "investment",
+      "matter",
+      "bor"
+    ]
   }
 ]
