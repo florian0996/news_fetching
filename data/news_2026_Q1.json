@@ -167105,5 +167105,105 @@
       "crash",
       "bad"
     ]
+  },
+  {
+    "source": "Openguard.sh [NewsAPI]",
+    "url": "https://openguard.sh",
+    "title": "Show HN: OpenGuard",
+    "fetched_on": "2026-03-07T23:25:04.852500+00:00",
+    "content": "02REAL-TIME REDACTION\r\nEmails, phone numbers, SSNs, credit cards detected and replaced before they reach the provider. Works on streamed output too, chunk by chunk.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OpenGuard",
+      "SSNs",
+      "REDACTION",
+      "Emails",
+      "Show",
+      "phone",
+      "numbers",
+      "credit",
+      "provider",
+      "cards"
+    ]
+  },
+  {
+    "source": "Abcnews.com [NewsAPI]",
+    "url": "https://abcnews.com/US/wireStory/suspect-utah-killings-3-women-free-iowa-burglary-130839377",
+    "title": "Suspect in Utah killings of 3 women was free on Iowa burglary and other charges",
+    "fetched_on": "2026-03-07T23:25:04.852500+00:00",
+    "content": "A man accused of killing three women in Utah in order to steal their cars and credit cards was already known to police in Iowa: He had been arrested in that state on suspicion of breaking into a cabi… [+6655 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Utah",
+      "Iowa",
+      "chars",
+      "women",
+      "Suspect",
+      "cabi",
+      "free",
+      "burglary",
+      "charges",
+      "man"
+    ]
+  },
+  {
+    "source": "The-independent.com [NewsAPI]",
+    "url": "https://www.the-independent.com/news/world/americas/crime/ivan-miller-utah-homicide-iowa-burglary-b2933751.html",
+    "title": "Man accused of triple homicide in Utah was already known to Iowa police",
+    "fetched_on": "2026-03-07T23:25:04.852500+00:00",
+    "content": "A man accused of killing three women in Utah to steal their cars and credit cards was already known to Iowapolice. \r\nCourt documents show Ivan Miller, 22, had been arrested there two months earlier o… [+5743 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Utah",
+      "accused",
+      "Iowapolice",
+      "Man",
+      "Iowa",
+      "triple",
+      "homicide",
+      "police",
+      "killing",
+      "women"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19274343-10-oz-eos-cashmere-whipped-oil-body-butter-vanilla-cashmere-10-amazon-credit-2-for-24-65-w-subscribe-save",
+    "title": "10-oz eos Cashmere Whipped Oil Body Butter (Vanilla Cashmere) + $10 Amazon Credit 2 for $24.65 w/ Subscribe & Save",
+    "fetched_on": "2026-03-07T23:25:04.852500+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Subscribe",
+      "Cashmere",
+      "Butter",
+      "Vanilla",
+      "Amazon",
+      "Credit",
+      "Save",
+      "tips",
+      "Whipped",
+      "Oil"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/950806",
+    "title": "$20 Cashback When You Spend $200 or More in One or more Transactions at Woolworths Online @ NAB Goodies (Activation Required)",
+    "fetched_on": "2026-03-07T23:25:04.852500+00:00",
+    "content": "Claim this offerShop with participating merchants.Pay with your active NAB personal Visa debit card, credit card or NAB Now Pay Later digital card. You can also use your digital wallet.Get cashback p… [+240 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NAB",
+      "Spend",
+      "Online",
+      "Goodies",
+      "Activation",
+      "Required",
+      "Claim",
+      "Transactions",
+      "Woolworths",
+      "Visa"
+    ]
   }
 ]
