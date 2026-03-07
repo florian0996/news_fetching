@@ -165374,5 +165374,82 @@
       "loan",
       "rates"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/up-economy-sees-surge-in-credit-distribution-and-industrial-investment/articleshow/129140437.cms",
+    "title": "UP economy sees surge in credit distribution and industrial investment",
+    "fetched_on": "2026-03-07T08:34:44.122276+00:00",
+    "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>UP economy sees surge in credit distribution and industrial investment</li></ul>\r\nFollow Us On Social Media\r\nCopyright © 2026 Bennett, Coleman &amp; Co. Lt… [+68 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "investment",
+      "Bennett",
+      "Coleman",
+      "economy",
+      "surge",
+      "credit",
+      "distribution",
+      "industrial",
+      "India",
+      "Follow"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00333761-af1a-4547-bec0-9f817c6835f5",
+    "title": "BlackRock’s Writedown of Small Loan Fuels Private Credit Alarm",
+    "fetched_on": "2026-03-07T08:34:44.122276+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Writedown",
+      "Small",
+      "Loan",
+      "Fuels"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/softbank-seeks-40-billion-loan-042731791.html",
+    "title": "SoftBank eyes up to $40 billion loan to fund OpenAI investment, Bloomberg News reports",
+    "fetched_on": "2026-03-07T08:35:02.540725+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "SoftBank",
+      "billion",
+      "investment",
+      "reports",
+      "eyes",
+      "loan",
+      "fund",
+      "OpenAI"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/blackrock-writedown-small-loan-fuels-050100069.html",
+    "title": "BlackRock’s Writedown of Small Loan Fuels Private Credit Alarm",
+    "fetched_on": "2026-03-07T08:35:02.540757+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Alarm",
+      "Writedown",
+      "Small",
+      "Loan",
+      "Fuels",
+      "Private",
+      "Credit",
+      "BlackRock"
+    ]
   }
 ]
