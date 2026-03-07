@@ -165532,5 +165532,105 @@
       "anymore",
       "email"
     ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/andrew-left-bullish-stock-market-lending-subprime-short-selling-cacc-2026-3",
+    "title": "Andrew Left throws in the towel on his bearish call on a subprime lending stock that he now says is poised to rally",
+    "fetched_on": "2026-03-07T10:26:26.629101+00:00",
+    "content": "Andrew Left has correctly called some famous market blowups, but this week, he's reversed course on a stock and is turning bullish. \r\nThe short-seller wrote that he has turned bullish on Credit Accep… [+1948 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Left",
+      "Andrew",
+      "stock",
+      "blowups",
+      "week",
+      "bullish",
+      "throws",
+      "towel",
+      "bearish",
+      "call"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/blockfills-bitcoin-freeze-order-dominion-capital-customer-fund-dispute",
+    "title": "Judge freezes 71 Bitcoin in BlockFills case over customer fund claims",
+    "fetched_on": "2026-03-07T10:26:26.629101+00:00",
+    "content": "A US judge has temporarily frozen 70.6 Bitcoin tied to crypto lending and trading firm BlockFills and ordered an accounting of segregated customer funds after Dominion Capital accused the company of … [+2341 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bitcoin",
+      "chars",
+      "Dominion",
+      "Capital",
+      "customer",
+      "freezes",
+      "frozen",
+      "Judge",
+      "BlockFills",
+      "case"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/ysl-beauty-refreshes-us-ambassador-roster/",
+    "title": "YSL Beauty refreshes US ambassador roster",
+    "fetched_on": "2026-03-07T10:26:26.629101+00:00",
+    "content": "The brand is adding new faces to its domestic marketing presence. Image credit: YSL Beauty/Renell Medrano Frances YSL Beauty is introducing its latest slate of representatives,\r\nAmerican models Lila … [+3245 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "YSL",
+      "Beauty",
+      "presence",
+      "Renell",
+      "American",
+      "Lila",
+      "refreshes",
+      "ambassador",
+      "roster",
+      "brand"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/invest/when-will-epf-interest-be-credited-to-your-provident-fund-account-as-epfo-keeps-rate-unchanged-at-8-25/articleshow/129146433.cms",
+    "title": "When will EPF interest be credited to your provident fund account as EPFO keeps rate unchanged at 8.25%?",
+    "fetched_on": "2026-03-07T10:26:26.629101+00:00",
+    "content": "The Central Board of Trustees (CBT) of Employees Provident Fund Organisation (EPFO) has announced an 8.25% interest rate unchanged from the previous year for the financial year 2025-26. However, many… [+2920 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EPF",
+      "EPFO",
+      "provident",
+      "fund",
+      "CBT",
+      "rate",
+      "unchanged",
+      "interest",
+      "Trustees",
+      "Organisation"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_081485e6-a7d0-46f0-9eaf-85f26427451a",
+    "title": "Ellington Credit Q4 Earnings Call Highlights",
+    "fetched_on": "2026-03-07T10:26:26.629101+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Credit",
+      "Earnings",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Call",
+      "Highlights"
+    ]
   }
 ]
