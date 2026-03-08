@@ -167450,5 +167450,25 @@
       "calls",
       "private-credit"
     ]
+  },
+  {
+    "source": "Economictimes.com [NewsAPI]",
+    "url": "https://m.economictimes.com/mf/mf-news/what-is-the-fastest-growing-thing-in-finance-sips-sifs-credit-cards-radhika-gupta-answers/articleshow/129204375.cms",
+    "title": "What is the fastest growing thing in finance? SIPs? SIFs? Credit cards? Radhika Gupta answers",
+    "fetched_on": "2026-03-08T08:34:22.025737+00:00",
+    "content": "Indias financial landscape has been undergoing a rapid transformation as more people begin participating in investments, banking and digital payments. One of the most notable changes in recent years … [+3077 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "finance",
+      "fastest",
+      "growing",
+      "thing",
+      "SIPs",
+      "SIFs",
+      "chars",
+      "Gupta",
+      "Indias",
+      "Credit"
+    ]
   }
 ]
