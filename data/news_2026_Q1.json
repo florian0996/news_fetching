@@ -167205,5 +167205,101 @@
       "Woolworths",
       "Visa"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/business/blackrock-fund-limits-withdrawals-as-redemptions-rattle-private-credit/articleshow/129189671.cms",
+    "title": "BlackRock fund limits withdrawals as redemptions rattle private credit",
+    "fetched_on": "2026-03-08T02:23:18.962232+00:00",
+    "content": "BlackRock said on Friday it has limited withdrawals from a flagship debt fund after a surge in redemption requests, as investor worries mount around the $2 trillion private credit industry.Shares of … [+3635 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Friday",
+      "private",
+      "credit",
+      "requests",
+      "trillion",
+      "BlackRock",
+      "fund",
+      "withdrawals",
+      "limits"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/own-a-property-and-need-funds-heres-how-to-unlock-lakhs-without-selling-it/articleshow/129152055.cms",
+    "title": "Own a property and need funds? Here’s how to unlock lakhs without selling it",
+    "fetched_on": "2026-03-08T02:23:18.962232+00:00",
+    "content": "In times of emergency or unforeseen expenses, a lot of Indians tend to think about getting a personal loans first.But if you own a valuable property and need a significant amount of money, a loan aga… [+6349 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "property",
+      "funds",
+      "Indians",
+      "chars",
+      "expenses",
+      "money",
+      "aga",
+      "loans",
+      "loan",
+      "unlock"
+    ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/dodgers/251203/dodgers-shohei-ohtani-make-wbc-history-in-team-japans-opener/",
+    "title": "Dodgers’ Shohei Ohtani Make WBC History in Team Japan’s Opener",
+    "fetched_on": "2026-03-08T02:23:18.962232+00:00",
+    "content": "Feb 21, 2026; Tempe, Arizona, USA; Los Angeles Dodgers designated hitter Shohei Ohtani against the Los Angeles Angels during a spring training game at Tempe Diablo Stadium. Mandatory Credit: Mark J. … [+1602 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Arizona",
+      "USA",
+      "Shohei",
+      "Ohtani",
+      "Los",
+      "Angeles",
+      "Tempe",
+      "Feb",
+      "Stadium",
+      "Make"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/blackrock-26-billion-private-credit-195527199.html",
+    "title": "BlackRock $26 Billion Private Credit Fund Limits Withdrawals",
+    "fetched_on": "2026-03-08T02:23:39.278847+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BlackRock",
+      "Billion",
+      "Withdrawals",
+      "Private",
+      "Credit",
+      "Fund",
+      "Limits"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/blackrock-stock-private-credit-redemptions-34e6c94d?siteid=yhoof2&yptr=yahoo",
+    "title": "BlackRock Stock Tumbles as Flagship Private Credit Firm Limits Redemptions",
+    "fetched_on": "2026-03-08T02:23:39.278724+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Redemptions",
+      "Stock",
+      "Tumbles",
+      "Flagship",
+      "Private",
+      "Credit",
+      "Firm",
+      "Limits",
+      "BlackRock"
+    ]
   }
 ]
