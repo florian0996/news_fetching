@@ -167301,5 +167301,43 @@
       "Limits",
       "BlackRock"
     ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/cd9gvv5w3v8o",
+    "title": "There's an inflation wave coming. How worried should we be?",
+    "fetched_on": "2026-03-08T04:44:37.907018+00:00",
+    "content": "The net result is a wave of inflationary pressures emanating from the conflict zone, and upsetting global markets for energy, fuel, food, industrial chemicals, and credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "coming",
+      "inflation",
+      "wave",
+      "fuel",
+      "food",
+      "zone",
+      "energy",
+      "industrial",
+      "chemicals",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/banking/western-alliance-sues-jefferies-7b0614f9?siteid=yhoof2&yptr=yahoo",
+    "title": "Western Alliance Sues Jefferies Over Soured Loan, Records Charge-Off",
+    "fetched_on": "2026-03-08T04:45:04.208391+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Records",
+      "Alliance",
+      "Sues",
+      "Jefferies",
+      "Soured",
+      "Western",
+      "Charge-Off"
+    ]
   }
 ]
