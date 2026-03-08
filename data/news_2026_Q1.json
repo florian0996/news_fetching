@@ -167545,5 +167545,45 @@
       "Shares",
       "BlackRock"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1040d235-13a6-4576-893e-ae4af8b377be",
+    "title": "Premium credit cards can offer big-time benefits, but many of them go to waste. How to make the most of your perks",
+    "fetched_on": "2026-03-08T11:23:25.554759+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Premium",
+      "benefits",
+      "waste",
+      "credit",
+      "cards",
+      "offer",
+      "big-time",
+      "Accept",
+      "Transparency",
+      "Consent"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-blackrock-stock-tanked-7-after-curbing-withdrawals-from-flagship-fund/articleshow/129210168.cms",
+    "title": "Explained: Why BlackRock stock tanked 7% after curbing withdrawals from flagship fund",
+    "fetched_on": "2026-03-08T11:23:25.554759+00:00",
+    "content": "Shares of BlackRock fell sharply on Friday, dropping as much as 7.2%, after the worlds largest asset manager restricted withdrawals from a flagship private credit fund, highlighting growing investor … [+3313 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Explained",
+      "chars",
+      "Friday",
+      "Shares",
+      "withdrawals",
+      "tanked",
+      "dropping",
+      "highlighting",
+      "investor",
+      "BlackRock"
+    ]
   }
 ]
