@@ -167506,5 +167506,44 @@
       "Loans",
       "Pay"
     ]
+  },
+  {
+    "source": "Socialmediaexplorer.com [NewsAPI]",
+    "url": "https://socialmediaexplorer.com/content-sections/news-and-noise/feature/balancing-credit-building-with-credit-caution/",
+    "title": "Balancing Credit Building with Credit Caution",
+    "fetched_on": "2026-03-08T10:27:45.630971+00:00",
+    "content": "Treat Your Credit Like a Campfire, Not a Bonfire\r\nBuilding credit is often framed as something you need to fuel aggressively. Open accounts. Increase limits. Use your cards often. Show activity. The … [+6491 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Building",
+      "Campfire",
+      "Caution",
+      "Treat",
+      "Bonfire",
+      "Balancing",
+      "aggressively",
+      "framed",
+      "fuel"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/investing/blackrock-sticks-to-redemption-minimum-on-credit-fund-sends-shares-lower-0da83b7f?siteid=yhoof2&yptr=yahoo",
+    "title": "BlackRock Sticks to Redemption Minimum on Credit Fund, Sends Shares Lower",
+    "fetched_on": "2026-03-08T10:28:14.894809+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "Sends",
+      "Lower",
+      "Sticks",
+      "Redemption",
+      "Minimum",
+      "Credit",
+      "Shares",
+      "BlackRock"
+    ]
   }
 ]
