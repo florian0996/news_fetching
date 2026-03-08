@@ -168239,5 +168239,25 @@
       "March",
       "Effective"
     ]
+  },
+  {
+    "source": "Pricemon.io [NewsAPI]",
+    "url": "https://pricemon.io",
+    "title": "Show HN: PriceMon – get alerted when a competitor changes their pricing",
+    "fetched_on": "2026-03-08T19:25:30.617273+00:00",
+    "content": "Competitor pricing intelligence\r\nPriceMon watches competitor pricing pages and emails you an instant summary when anything changes. No more manual checks.\r\nSign in with GitHub · No credit card requir… [+1 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "competitor",
+      "pricing",
+      "PriceMon",
+      "Show",
+      "alerted",
+      "intelligence",
+      "watches",
+      "pages",
+      "emails",
+      "instant"
+    ]
   }
 ]
