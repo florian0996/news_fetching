@@ -167779,5 +167779,45 @@
       "rates",
       "demand"
     ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19280733-sns-49-48-3-82-5-oz-persil-intense-fresh-everyday-clean-liquid-laundry-detergent-110-loads-15-credit-at-amazon",
+    "title": "[SnS] $49.48* | 3 × 82.5-Oz Persil Intense Fresh Everyday Clean Liquid Laundry Detergent (110 Loads) + $15 credit at Amazon",
+    "fetched_on": "2026-03-08T13:41:24.072281+00:00",
+    "content": "Amazon[amazon.com] has 82.5-Oz Persil Intense Fresh Everyday Clean Liquid Laundry Detergent (110 Loads) 3 for $52.08 - 5% when you check out via Subscribe &amp; Save = $49.48.Shipping is free with Pr… [+429 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loads",
+      "Persil",
+      "Detergent",
+      "Save",
+      "Intense",
+      "Fresh",
+      "Everyday",
+      "Clean",
+      "Liquid",
+      "Laundry"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/robinhood-unveils-platinum-card-offering-130027483.html",
+    "title": "Robinhood Unveils New Platinum Card Offering $250 Autonomous Ride Credit, TSA PreCheck Access, Cashbacks—Here's What You Need To Know",
+    "fetched_on": "2026-03-08T13:41:24.072281+00:00",
+    "content": "Trading platform Robinhood Markets Inc. has unveiled a new platinum card that offers incentives for autonomous ride-hailing services, access to the Transportation Security Administration's (TSA) PreC… [+4046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cashbacks",
+      "TSA",
+      "Platinum",
+      "PreC",
+      "chars",
+      "Offering",
+      "Credit",
+      "Administration",
+      "Card",
+      "Robinhood"
+    ]
   }
 ]
