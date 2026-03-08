@@ -167359,5 +167359,81 @@
       "Prime",
       "Eligible"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/lower-emis-for-these-hdfc-bank-loan-customers-lender-trims-lending-rates-by-up-to-10-bps-on-select-tenures/articleshow/129198481.cms",
+    "title": "Lower EMIs for these HDFC Bank loan customers: Lender trims lending rates by up to 10 bps on select tenures",
+    "fetched_on": "2026-03-08T06:47:17.385929+00:00",
+    "content": "HDFC Bank has reduced its Marginal Cost of Funds-based Lending Rates (MCLR) by up to 10 basis points (bps), which will benefit borrowers whose loans are linked to this regime. A basis point is one-hu… [+3414 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "Bank",
+      "MCLR",
+      "lending",
+      "rates",
+      "Lender",
+      "bps",
+      "Marginal",
+      "Cost",
+      "Funds-based"
+    ]
+  },
+  {
+    "source": "The Indianapolis Star [NewsAPI]",
+    "url": "https://www.indystar.com/story/sports/nba/pacers/2026/03/07/luka-doncics-offensive-explosion-leads-to-lakers-blowout-of-pacers/88936762007/",
+    "title": "Luka Doncic goes off for 44 points as James-less Lakers blow out Pacers",
+    "fetched_on": "2026-03-08T06:47:17.385929+00:00",
+    "content": "Mar 5, 2026; Los Angeles, California, USA; Indiana Pacers head coach Rick Carlisle at press conference at the Crypto.com Arena. Mandatory Credit: Kirby Lee-Imagn Images\r\nLOS ANGELES -- Luka Doncic sc… [+4280 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "California",
+      "USA",
+      "Pacers",
+      "Luka",
+      "Angeles",
+      "Mar",
+      "Indiana",
+      "Arena",
+      "Doncic",
+      "James-less"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.wsj.com/finance/investing/how-robinhoods-new-695-a-year-credit-card-stacks-up-in-a-crowded-market-dcd354c6?siteid=yhoof2&yptr=yahoo",
+    "title": "How Robinhood’s New $695-a-Year Credit Card Stacks Up in a Crowded Market",
+    "fetched_on": "2026-03-08T06:47:33.050105+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Market",
+      "Robinhood",
+      "Card",
+      "Stacks",
+      "Crowded"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/outside-firms-start-offer-shares-blue-owl-private-credit-fund-a412d9be?siteid=yhoof2&yptr=yahoo",
+    "title": "Outside Firms Start Their Deep Discount Offer for Shares in Blue Owl Private Credit Fund",
+    "fetched_on": "2026-03-08T06:47:33.050233+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fund",
+      "Firms",
+      "Start",
+      "Deep",
+      "Discount",
+      "Offer",
+      "Shares",
+      "Blue",
+      "Owl",
+      "Private"
+    ]
   }
 ]
