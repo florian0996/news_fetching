@@ -168599,5 +168599,65 @@
       "Amy",
       "Madigan"
     ]
+  },
+  {
+    "source": "ComicBook.com [NewsAPI]",
+    "url": "http://comicbook.com/movies/list/10-deadliest-horror-movie-villains-ranked-by-kill-count/",
+    "title": "10 Deadliest Horror Movie Villains, Ranked by Kill Count",
+    "fetched_on": "2026-03-09T02:24:16.668086+00:00",
+    "content": "If you buy a ticket to a horror film, especially one that is a member of an enduring cinematic saga, you’re going in expecting some characters to not make it to the final credit scroll. That is the a… [+10119 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Horror",
+      "Deadliest",
+      "Villains",
+      "Ranked",
+      "Movie",
+      "Kill",
+      "Count",
+      "film",
+      "saga",
+      "scroll"
+    ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/nigerians-repaid-n1-33tn-personal-loans-in-one-year-cbn/",
+    "title": "Nigerians repaid N1.33tn personal loans in one year – CBN",
+    "fetched_on": "2026-03-09T02:24:16.668086+00:00",
+    "content": "Nigerians repaid about N1.33tn in personal loans within one year as outstanding household borrowing declined sharply between November 2024 and November 2025, data from the Central Bank of Nigeria has… [+5197 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "November",
+      "chars",
+      "CBN",
+      "Nigerians",
+      "Central",
+      "Bank",
+      "Nigeria",
+      "repaid",
+      "personal",
+      "loans"
+    ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/crc-unveils-app-to-expand-financial-services-access/",
+    "title": "CRC unveils app to expand financial services access",
+    "fetched_on": "2026-03-09T02:24:16.668086+00:00",
+    "content": "A leading credit bureau and financial data institution in Nigeria and Africa, CRC Credit Bureau, has launched an upgraded CRC mobile app designed to give customers seamless access to their credit inf… [+4350 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CRC",
+      "credit",
+      "bureau",
+      "Africa",
+      "chars",
+      "Nigeria",
+      "inf",
+      "app",
+      "financial",
+      "access"
+    ]
   }
 ]
