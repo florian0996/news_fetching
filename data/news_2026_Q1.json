@@ -169076,5 +169076,65 @@
       "Athlete",
       "athletes"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-09/asia-credit-risk-gauge-surges-as-oil-shock-adds-repayment-stress",
+    "title": "Soaring Credit Risk Pushes Borrowers to Keep Delaying Bond Sales",
+    "fetched_on": "2026-03-09T13:08:07.093248+00:00",
+    "content": "A measure of credit risk jumped and bond sales in Europe were put on hold on concerns that soaring oil prices and a prolonged war in the Middle East will weaken corporate balance sheets and heighten repayment risks.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Bond",
+      "Sales",
+      "Risk",
+      "Pushes",
+      "Borrowers",
+      "Delaying",
+      "Europe",
+      "Middle",
+      "East"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-09/bloomberg-brief-3-9-2026-video",
+    "title": "Stocks, Bonds Slide as Oil Tops $100 | Bloomberg Brief 3/9/2026",
+    "fetched_on": "2026-03-09T13:08:07.368303+00:00",
+    "content": "Bloomberg Brief” delivers the market news, data and analysis you need to set your agenda. Today's guests: Julie Norman, Chatham House Associate Fellow on the Middle East; Laura Cooper, Nuveen Global Investment Strategist & Head of Macro Credit.  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Bonds",
+      "Tops",
+      "Stocks",
+      "Slide",
+      "Oil",
+      "delivers",
+      "data",
+      "agenda",
+      "Source"
+    ]
+  },
+  {
+    "source": "The Points Guy [NewsAPI]",
+    "url": "https://thepointsguy.com/credit-cards/american-express-platinum-benefits-la-mamounia/",
+    "title": "How I used my Amex Platinum benefits to save over $500 on a dream stay in Morocco",
+    "fetched_on": "2026-03-09T13:08:06.698894+00:00",
+    "content": "I hate to admit it, but I'm frequently guilty of breaking one of TPG's golden rules: Don't hoard your points and miles. And I'm the same way with a lot of my credit card benefits, specifically hotel … [+9784 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amex",
+      "Platinum",
+      "Morocco",
+      "TPG",
+      "rules",
+      "miles",
+      "benefits",
+      "save",
+      "dream",
+      "stay"
+    ]
   }
 ]
