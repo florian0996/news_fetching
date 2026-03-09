@@ -169596,5 +169596,45 @@
       "risk",
       "sell"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-credit-card-base-shrinks-as-local-rivals-step-up/articleshow/129286913.cms",
+    "title": "Foreign banks' credit card base shrinks as local rivals step up",
+    "fetched_on": "2026-03-09T19:42:02.291677+00:00",
+    "content": "MUMBAI: Foreign banks, once dominant players in India's credit card market, have been losing ground as domestic lenders expand aggressively in the segment. In 2025, foreign banks recorded around 6% y… [+2516 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Foreign",
+      "MUMBAI",
+      "India",
+      "credit",
+      "card",
+      "market",
+      "segment",
+      "banks",
+      "banks'",
+      "base"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-credit-card-base-shrinks-as-local-rivals-step-up/articleshow/129298981.cms",
+    "title": "Foreign banks' credit card base shrinks as local rivals step up",
+    "fetched_on": "2026-03-09T19:42:02.291677+00:00",
+    "content": "MUMBAI: Foreign banks, once dominant players in India's credit card market, have been losing ground as domestic lenders expand aggressively in the segment. In 2025, foreign banks recorded around 6% y… [+2514 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Foreign",
+      "MUMBAI",
+      "India",
+      "credit",
+      "card",
+      "market",
+      "segment",
+      "banks",
+      "banks'",
+      "base"
+    ]
   }
 ]
