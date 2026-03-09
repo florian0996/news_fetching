@@ -168840,5 +168840,102 @@
       "gründet",
       "Deutsche"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-09/us-equities-are-getting-dragged-into-global-selloff-video",
+    "title": "US Equities Are Getting Dragged Into Global Selloff",
+    "fetched_on": "2026-03-09T07:13:51.502193+00:00",
+    "content": "Selling swept across regions and asset classes as the war in the Middle East added fresh stress to markets that are already under pressure from AI disruptions and worries about the potential for cracks in credit markets. The escalating crisis has left investors caught between the risk of renewed inflation stemming from elevated oil prices and signs of cooling in the US labor market. Bloomberg's Mark Cranfield has the latest. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Equities",
+      "Dragged",
+      "Global",
+      "Selloff",
+      "Selling",
+      "Middle",
+      "East",
+      "markets",
+      "Bloomberg",
+      "swept"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-09/ubs-bonus-pool-rises-10-ermotti-pay-unchanged-at-19-million",
+    "title": "UBS Bonus Pool Rises 10%, Ermotti Pay Unchanged at $19 Million",
+    "fetched_on": "2026-03-09T07:13:52.715052+00:00",
+    "content": "UBS Group AG increased its bonus pool for last year by 10% as the Credit Suisse integration nears its end, while keeping Chief Executive Officer Sergio Ermotti’s compensation at the same level.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rises",
+      "Million",
+      "UBS",
+      "Ermotti",
+      "Bonus",
+      "Pool",
+      "Pay",
+      "Unchanged",
+      "Group",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-09/softbank-group-cds-widens-shares-slump-on-stargate-ai-concerns",
+    "title": "SoftBank Group CDS Widens, Shares Slump on Stargate AI Concerns",
+    "fetched_on": "2026-03-09T07:13:52.295123+00:00",
+    "content": "SoftBank Group Corp.’s credit default swaps widened and its shares fell after concerns mounted over the viability of the artificial intelligence infrastructure project known as “Stargate,” in which the Japanese conglomerate is involved.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Group",
+      "Stargate",
+      "Widens",
+      "Shares",
+      "Concerns",
+      "SoftBank",
+      "CDS",
+      "Slump",
+      "Corp.’s",
+      "Japanese"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2026/03/08/will-private-credit-be-the-trigger-for-the-next-financial-crisis/",
+    "title": "Will private credit be the trigger for the next financial crisis?",
+    "fetched_on": "2026-03-09T07:13:50.622854+00:00",
+    "content": "While most of us are watching the Middle East at present, it would be easy to miss what appears to be a burgeoning crisis in one of the most important and most opaque corners of global finance.\r\nPriv… [+2384 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "crisis",
+      "private",
+      "credit",
+      "trigger",
+      "financial",
+      "Middle",
+      "East",
+      "Priv",
+      "chars",
+      "present"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/traders-snatch-derivatives-risks-grow-200000117.html",
+    "title": "Traders Snatch Up Derivatives as Risks Grow: Credit Weekly",
+    "fetched_on": "2026-03-09T07:14:21.176091+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Grow",
+      "Credit",
+      "Weekly",
+      "Snatch",
+      "Derivatives",
+      "Risks",
+      "Traders"
+    ]
   }
 ]
