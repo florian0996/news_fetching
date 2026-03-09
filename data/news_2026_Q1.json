@@ -168659,5 +168659,65 @@
       "financial",
       "access"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/jk-bank-partners-with-nbfcs-to-expand-home-and-gold-loan-lending/article70718133.ece",
+    "title": "J&K Bank partners with NBFCs to expand home and gold loan lending",
+    "fetched_on": "2026-03-09T04:53:09.744649+00:00",
+    "content": "J&amp;K Bank has partnered with two non-banking financial companies to expand its retail lending business, particularly outside Jammu and Kashmir, focusing on home and gold loans.\r\nThe bank signed co… [+1537 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kashmir",
+      "gold",
+      "Bank",
+      "Jammu",
+      "expand",
+      "home",
+      "lending",
+      "business",
+      "focusing",
+      "loan"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2026/03/homeowner-does-all-the-construction-work-on-an-addition-to-his-house-but-his-wife-lets-her-friends-believe-she-helped/",
+    "title": "Homeowner Does All The Construction Work On An Addition To His House, But His Wife Lets Her Friends Believe She Helped",
+    "fetched_on": "2026-03-09T04:53:09.744649+00:00",
+    "content": "Shutterstock/Reddit\r\nImagine deciding to add an addition onto your house, and you decide to do all the work yourself. Would you be upset if your wife took credit for the building addition and pretend… [+2777 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "House",
+      "Shutterstock",
+      "Reddit",
+      "Work",
+      "Construction",
+      "Friends",
+      "Helped",
+      "Imagine",
+      "Addition",
+      "Wife"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/aaves-revenue-surges-despite-dao-turmoil-is-lending-defis-backbone-now/",
+    "title": "Aave’s revenue surges despite DAO turmoil – Is lending DeFi’s backbone now?",
+    "fetched_on": "2026-03-09T04:53:09.744649+00:00",
+    "content": "Recent DeFi revenue trends have revealed a widening divide between speculative sectors and credit-driven protocols.\r\nTotal ecosystem fees climbed to $56 million over the past 24 hours. And yet, this … [+3257 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DAO",
+      "Aave",
+      "turmoil",
+      "revenue",
+      "DeFi",
+      "surges",
+      "lending",
+      "backbone",
+      "hours",
+      "chars"
+    ]
   }
 ]
