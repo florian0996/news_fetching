@@ -169036,5 +169036,45 @@
       "rates",
       "rate"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00f2f765-2808-40b4-a0ad-df179bf774d2",
+    "title": "Vote! Who should be Maps Credit Union girls Athlete of the Week?",
+    "fetched_on": "2026-03-09T11:35:53.718627+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vote",
+      "Week",
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Maps",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Statesman Journal [NewsAPI]",
+    "url": "https://www.statesmanjournal.com/story/sports/high-school/athlete-of-the-week/2026/03/08/vote-osaa-maps-credit-union-boys-athlete-of-the-week-salem-keizer-statesman-journal/89025598007/",
+    "title": "Vote! Who should be Maps Credit Union boys Athlete of the Week?",
+    "fetched_on": "2026-03-09T11:35:53.718627+00:00",
+    "content": "Winter sports are wrapping up across Oregon and Salem-Keizer area athletes in basketball, wrestling and swimming are closing the book on successful seasons.\r\nEvery week, you get to vote for the State… [+2896 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Week",
+      "Maps",
+      "Credit",
+      "Union",
+      "Vote",
+      "State",
+      "Oregon",
+      "chars",
+      "Athlete",
+      "athletes"
+    ]
   }
 ]
