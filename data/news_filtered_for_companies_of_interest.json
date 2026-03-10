@@ -1,6 +1,17 @@
 {
-  "2026-03-09": {
+  "2026-03-10": {
     "status": "no company in the news"
+  },
+  "2026-03-09": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: BlackRock Guards the Gates",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-08": {
     "status": "no company in the news"
