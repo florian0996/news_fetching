@@ -170176,5 +170176,45 @@
       "March",
       "UTC"
     ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-10/south-africa-plans-major-infrastructure-push-with-new-guarantee-fund",
+    "title": "South Africa Targets Infrastructure Deals With Guarantee Fund",
+    "fetched_on": "2026-03-10T06:54:00.995869+00:00",
+    "content": "South Africa plans to rapidly expand a new credit-guarantee vehicle to support billions of dollars in infrastructure projects, from power-grid expansion and water systems to ports and freight rail.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Africa",
+      "South",
+      "Infrastructure",
+      "Targets",
+      "Deals",
+      "Guarantee",
+      "Fund",
+      "projects",
+      "rail",
+      "plans"
+    ]
+  },
+  {
+    "source": "Protothema.gr [NewsAPI]",
+    "url": "https://en.protothema.gr/2026/03/09/goldman-sachs-greeces-growth-resilient-despite-the-energy-shock/",
+    "title": "Goldman Sachs: Greece’s growth resilient despite the energy shock",
+    "fetched_on": "2026-03-10T06:54:00.053342+00:00",
+    "content": "The Greek economyretains strong growth momentum, which is expected to continue to support bank loan growth and investment activity in the coming years, according to Goldman Sachs analysis by economis… [+919 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sachs",
+      "Goldman",
+      "Greece",
+      "chars",
+      "Greek",
+      "growth",
+      "momentum",
+      "years",
+      "economis",
+      "resilient"
+    ]
   }
 ]
