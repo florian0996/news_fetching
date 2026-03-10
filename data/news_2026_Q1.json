@@ -170256,5 +170256,105 @@
       "Indian",
       "companies"
     ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/berluti-lights-up-shadow-sneaker/",
+    "title": "Berluti lights up Shadow sneaker",
+    "fetched_on": "2026-03-10T08:47:10.995788+00:00",
+    "content": "English actor Rupert Everett, French Michelin-starred chef Mory Sacko and German bartender Charles Schumann star in the Shadow sneaker campaign. Image credit: Berluti/Roe Ethridge French footwear and… [+2874 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shadow",
+      "Everett",
+      "Berluti",
+      "English",
+      "Rupert",
+      "Michelin-starred",
+      "Mory",
+      "Sacko",
+      "German",
+      "Charles"
+    ]
+  },
+  {
+    "source": "Github.com [NewsAPI]",
+    "url": "https://github.com/AJ/FinSight",
+    "title": "Show HN: Finsight – A Privacy First, AI Credit Card and Bank Statement Analyzer",
+    "fetched_on": "2026-03-10T08:47:10.995788+00:00",
+    "content": "AI-powered personal finance analyzer runs 100% locally, no cloud, no login.\r\nUpload a PDF / CSV / Excel bank or credit card statement AI extracts and categorizes every transaction interactive dashboa… [+11936 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finsight",
+      "locally",
+      "Analyzer",
+      "Privacy",
+      "CSV",
+      "Credit",
+      "Card",
+      "Show",
+      "runs",
+      "cloud"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/aave-31-revenue-growth-yet-price-slides-toward-100-explained/",
+    "title": "Aave: 31% revenue growth yet price slides toward $100 – Explained!",
+    "fetched_on": "2026-03-10T08:47:10.995788+00:00",
+    "content": "Aave [AAVE] generated $1.62 million in daily fees, it was reported recently. Over the past 30 days, its revenue has reached $82.14 million. This proved the DeFi sector’s credit-driven protocols to ge… [+2730 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aave",
+      "Explained",
+      "million",
+      "growth",
+      "price",
+      "slides",
+      "revenue",
+      "generated",
+      "days",
+      "fees"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/credit-unions/2026/86-percent-of-top-performing-credit-unions-support-open-banking/",
+    "title": "86% of Top Performing Credit Unions Support Open Banking",
+    "fetched_on": "2026-03-10T08:47:10.995788+00:00",
+    "content": "Small businesses may still like the local, relationship-first feel of credit unions, but that loyalty now comes with a digital price tag.The new PYMNTS Intelligence and Velera report, Credit Union In… [+3809 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Unions",
+      "chars",
+      "Top",
+      "Performing",
+      "Support",
+      "Open",
+      "Banking",
+      "Small",
+      "PYMNTS"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/gopublic/tuition-scam-9.7115857",
+    "title": "New tuition scam left woman with $37K in fraudulent charges – and no help from bank, police or school",
+    "fetched_on": "2026-03-10T08:47:10.995788+00:00",
+    "content": "Mira Burgess didn't have to wonder where her money went. \r\nMore than $37,000 in fraudulent credit and debit card transactions showed up at one place paid to a private university, just a few kilometre… [+9402 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mira",
+      "Burgess",
+      "charges",
+      "bank",
+      "police",
+      "fraudulent",
+      "chars",
+      "tuition",
+      "scam",
+      "left"
+    ]
   }
 ]
