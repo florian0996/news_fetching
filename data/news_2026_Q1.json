@@ -170216,5 +170216,45 @@
       "economis",
       "resilient"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/companies/swiggy-hdfc-bank-launch-two-new-co-branded-credit-cards-with-up-to-48000-annual-savings/article70721594.ece",
+    "title": "Swiggy, HDFC Bank launch two new co-branded credit cards with up to ₹48,000 annual savings",
+    "fetched_on": "2026-03-10T07:42:38.334530+00:00",
+    "content": "Swiggy and HDFC Bank on March 7 launched two new co-branded credit cards the Swiggy BLCK HDFC Bank Credit Card and the Swiggy Ornge HDFC Bank Credit Card expanding a partnership that first began in 2… [+1679 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "credit",
+      "HDFC",
+      "Swiggy",
+      "cards",
+      "Card",
+      "March",
+      "co-branded",
+      "chars",
+      "BLCK"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/360-one-asset-closes-fifth-private-credit-fund-with-400-million-corpus-11773039046850.html",
+    "title": "360 One Asset closes fifth private credit fund with $400 million corpus",
+    "fetched_on": "2026-03-10T07:42:38.334530+00:00",
+    "content": "MUMBAI: 360 ONE Asset has closed its fifth private credit fund with a corpus of $400 million ( 3,500 crore) and will offer structured and innovative credit solutions to high-quality Indian companies,… [+2840 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Asset",
+      "MUMBAI",
+      "credit",
+      "private",
+      "fund",
+      "million",
+      "crore",
+      "chars",
+      "Indian",
+      "companies"
+    ]
   }
 ]
