@@ -172370,5 +172370,105 @@
       "Debt",
       "Suze"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-10/private-credit-lends-extra-400-million-to-software-firm-enverus",
+    "title": "Private Credit Lends Extra $400 Million to Software Firm Enverus",
+    "fetched_on": "2026-03-10T22:31:06.348226+00:00",
+    "content": "Private credit lenders have provided a more than $400 million delayed draw term loan for Blackstone Inc.’s Enverus after supplying roughly $3 billion in December, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Million",
+      "Extra",
+      "December",
+      "Enverus",
+      "Private",
+      "Credit",
+      "Lends",
+      "Software",
+      "Firm",
+      "Blackstone"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-10/raizen-creditors-said-to-near-deal-for-out-of-court-debt-rework",
+    "title": "Raízen, Creditors Near Deal for Out-of-Court Debt Rework",
+    "fetched_on": "2026-03-10T22:31:06.348232+00:00",
+    "content": "Brazilian sugar and ethanol producer Raízen SA is close to reaching an agreement with its main creditors to start an out-of-court debt restructuring, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Debt",
+      "Raízen",
+      "Creditors",
+      "Deal",
+      "Rework",
+      "Brazilian",
+      "restructuring",
+      "matter",
+      "sugar",
+      "ethanol"
+    ]
+  },
+  {
+    "source": "Breitbart News [NewsAPI]",
+    "url": "https://www.breitbart.com/politics/2026/03/09/trump-admin-bans-foreign-nationals-from-more-small-business-loans/",
+    "title": "Trump Administration Bans Foreign Nationals from More Small Business Loans",
+    "fetched_on": "2026-03-10T22:31:05.715761+00:00",
+    "content": "President Donald Trumps Small Business Administration (SBA) is banning foreign nationals from securing federal dollars via more small business loan programs, the agency announced Monday.\r\n“The Trump … [+1455 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Small",
+      "Business",
+      "SBA",
+      "Nationals",
+      "Administration",
+      "Foreign",
+      "Monday",
+      "Bans",
+      "President",
+      "Donald"
+    ]
+  },
+  {
+    "source": "Dailyreckoning.com [NewsAPI]",
+    "url": "https://dailyreckoning.com/loans-to-nonbanks-threaten-banking-crisis/",
+    "title": "Loans to Nonbanks Threaten Banking Crisis",
+    "fetched_on": "2026-03-10T22:31:05.715761+00:00",
+    "content": "Last week, the Federal Deposit Insurance Corp released the industry data for US banks for 2025. On the surface, the numbers look reassuring, even strong. But beneath the calm headline figures lies a … [+10870 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nonbanks",
+      "Threaten",
+      "Banking",
+      "Crisis",
+      "Federal",
+      "Deposit",
+      "Insurance",
+      "Corp",
+      "Loans",
+      "week"
+    ]
+  },
+  {
+    "source": "9to5Toys [NewsAPI]",
+    "url": "http://9to5toys.com/2026/03/09/last-chance-galaxy-s26-deals-free-galaxy-buds/",
+    "title": "Last Chance – Just over 24 hours left for Galaxy S26 deals: Up to $900 off, FREE Galaxy Buds, exclusive store credit, more",
+    "fetched_on": "2026-03-10T22:31:05.715761+00:00",
+    "content": "It is the final weekend to take advantage of the Galaxy S26, S26+, and S26 Ultra pre-order deals. You will almost certainly still be able to trade-in older devices for one after delivery day early ne… [+1277 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "deals",
+      "Chance",
+      "FREE",
+      "Buds",
+      "Ultra",
+      "hours",
+      "exclusive",
+      "credit",
+      "left"
+    ]
   }
 ]
