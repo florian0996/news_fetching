@@ -172470,5 +172470,85 @@
       "credit",
       "left"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-10/alberta-carbon-market-rally-fades-as-april-1-deadline-nears",
+    "title": "Alberta Carbon Market Rally Fades as April 1 Deadline Nears",
+    "fetched_on": "2026-03-10T23:30:14.509216+00:00",
+    "content": "A rally in the price of Alberta’s carbon credits after the province promised to raise the industrial carbon tax and shore up its carbon trading system has faded.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Carbon",
+      "April",
+      "Deadline",
+      "Alberta",
+      "Rally",
+      "Market",
+      "Fades",
+      "faded",
+      "price",
+      "credits"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/03/09/building-a-class-100-semiconductor-cleanroom-inside-a-shed/",
+    "title": "Building a Class 100 Semiconductor Cleanroom Inside a Shed",
+    "fetched_on": "2026-03-10T23:30:12.537190+00:00",
+    "content": "Just your typical backyard cleanroom shed. (Credit: Dr. Semiconductor, YouTube)\r\nMost people see that garden shed as little more than a place to store some gardening tools in, but if you’re like [Dr.… [+1390 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Class",
+      "Cleanroom",
+      "Inside",
+      "Semiconductor",
+      "Shed",
+      "Building",
+      "Credit",
+      "typical",
+      "backyard",
+      "YouTube"
+    ]
+  },
+  {
+    "source": "Redfin.com [NewsAPI]",
+    "url": "https://www.redfin.com/blog/buying-house-with-500-credit-score/",
+    "title": "Can I Buy a House With a 500 Credit Score?",
+    "fetched_on": "2026-03-10T23:30:12.537190+00:00",
+    "content": "Key Takeaways\r\n<ul><li>Its possible to buy a house with a 500 credit score, though your loan options might be limited.</li><li>FHA loans offer the best chance of approval for borrowers with a lower c… [+4965 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Score",
+      "House",
+      "Buy",
+      "Takeaways",
+      "FHA",
+      "chars",
+      "Key",
+      "limited.",
+      "options"
+    ]
+  },
+  {
+    "source": "Bringatrailer.com [NewsAPI]",
+    "url": "https://bringatrailer.com/2026/03/09/question-of-the-week-whats-the-best-car-powered-by-a-non-automotive-engine/",
+    "title": "Question of the Week: What’s the Best Car Powered By a Non-Automotive Engine?—WINNER’S UPDATE",
+    "fetched_on": "2026-03-10T23:30:12.537190+00:00",
+    "content": "WINNERS ANNOUNCEMENT:\r\nWere back to announce the winner for our Question of the Week, where our victor will accept a $25 credit for a hat or T-shirt from the BaT Gear Store and the acclaim of their p… [+6011 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Week",
+      "Question",
+      "Engine",
+      "WINNER’S",
+      "ANNOUNCEMENT",
+      "Car",
+      "Powered",
+      "UPDATE",
+      "T-shirt",
+      "Gear"
+    ]
   }
 ]
