@@ -170436,5 +170436,65 @@
       "stitches",
       "product"
     ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "http://www.arsenal.com/news/loan-watch-kiwior-double-derby-action",
+    "title": "Loan watch: Kiwior in double derby action",
+    "fetched_on": "2026-03-10T10:41:26.152250+00:00",
+    "content": "Many of our Mens, Womens and Academy players have been sent out on loan this season to gain experience and further action.\r\nJakub Kiwior and Porto were embroiled in a double dose of Portuguese derbie… [+2900 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mens",
+      "Womens",
+      "Academy",
+      "Kiwior",
+      "Loan",
+      "action",
+      "watch",
+      "double",
+      "derby",
+      "players"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/03/09/3251618/0/en/ORIGENCE-ANNOUNCES-DAYMOND-JOHN-AS-KEYNOTE-SPEAKER-FOR-LENDING-TECH-LIVE-26-CONFERENCE.html",
+    "title": "ORIGENCE ANNOUNCES DAYMOND JOHN AS KEYNOTE SPEAKER FOR LENDING TECH LIVE ’26 CONFERENCE",
+    "fetched_on": "2026-03-10T10:41:26.152250+00:00",
+    "content": "Irvine, CA, March 09, 2026 (GLOBE NEWSWIRE) -- Origence, a leading provider of lending technology solutions, announced acclaimed entrepreneur, branding expert, and Shark Tank star Daymond John will b… [+2438 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "ORIGENCE",
+      "chars",
+      "Irvine",
+      "GLOBE",
+      "NEWSWIRE",
+      "DAYMOND",
+      "JOHN",
+      "LENDING",
+      "ANNOUNCES"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-10-2026-100002601.html",
+    "title": "HELOC and home equity loan rates today, March 10, 2026: Steady rates make it a good time to shop lenders",
+    "fetched_on": "2026-03-10T10:41:45.852114+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "HELOC",
+      "Steady",
+      "today",
+      "lenders",
+      "rates",
+      "home",
+      "equity",
+      "loan",
+      "make"
+    ]
   }
 ]
