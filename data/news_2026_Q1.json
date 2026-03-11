@@ -173006,5 +173006,45 @@
       "interest",
       "negotiate"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-11/oasis-reports-6-7-stake-in-nidec-engulfed-in-accounting-scandal",
+    "title": "Oasis Takes Stake in Scandal-Embroiled Motor Maker Nidec",
+    "fetched_on": "2026-03-11T07:47:30.042758+00:00",
+    "content": "Oasis Management Co. has built a significant stake in Nidec Corp., which is in turmoil following an accounting scandal that forced the Japanese electric-motor maker to delay financial results, see its credit rating downgraded and put it at risk of a delisting from the stock market.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Nidec",
+      "Stake",
+      "Corp.",
+      "Oasis",
+      "Maker",
+      "Motor",
+      "Management",
+      "Japanese",
+      "results",
+      "market"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-11/morgan-stanley-traders-pitch-shorting-kronos-worldwide-s-bonds",
+    "title": "Morgan Stanley Traders Pitch Shorting Kronos Worldwide’s Bonds",
+    "fetched_on": "2026-03-11T07:47:29.475162+00:00",
+    "content": "Morgan Stanley’s credit trading desk is pitching a bet against bonds issued by Kronos Worldwide Inc, a titanium-dioxide manufacturer that was already struggling before the war in Iran sent energy costs soaring.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stanley",
+      "Kronos",
+      "Worldwide",
+      "Morgan",
+      "Bonds",
+      "Traders",
+      "Pitch",
+      "Shorting",
+      "Iran",
+      "soaring"
+    ]
   }
 ]
