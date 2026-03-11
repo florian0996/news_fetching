@@ -175156,5 +175156,105 @@
       "Rates",
       "Stay"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-11/apollo-ramps-up-efforts-to-mark-private-credit-daily-video",
+    "title": "Apollo Ramps Up Efforts to Mark Private Credit Daily",
+    "fetched_on": "2026-03-11T21:35:20.860687+00:00",
+    "content": "Apollo Global Management Inc. is preparing to start reporting the net asset values of its credit funds on a monthly basis, with aims for daily NAVs and third-party valuations over time. Aaron Weinman has more on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "Credit",
+      "Daily",
+      "Ramps",
+      "Efforts",
+      "Mark",
+      "Private",
+      "Global",
+      "Management",
+      "Inc."
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4370136/posts",
+    "title": "Astronomy Picture of the Day - Sky Glows over Paranal Observatory",
+    "fetched_on": "2026-03-11T21:35:20.137648+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Sky Glows over Paranal ObservatoryNASA ^\r\n | 10 Mar, 2026\r\n | Image Credit &amp; Copyright: Julien Looten\r\nPosted on 03/10/2026 2:29:32 PM PDT by Mtn… [+2584 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Sky",
+      "Picture",
+      "Glows",
+      "Astronomy",
+      "Paranal",
+      "Observatory",
+      "Skip",
+      "Mar",
+      "Copyright"
+    ]
+  },
+  {
+    "source": "Mit.edu [NewsAPI]",
+    "url": "https://news.mit.edu/2026/mit-sloan-sports-analytics-conference-shows-why-data-makes-difference-0310",
+    "title": "2026 MIT Sloan Sports Analytics Conference shows why data make a difference",
+    "fetched_on": "2026-03-11T21:35:20.137648+00:00",
+    "content": "With time dwindling in the Olympic womens ice hockey gold medal game on Feb. 19, players for Team USA and Team Canada lined up for a key faceoff in Canadas end. Canada had a 1-0 lead. USA had 2:23 le… [+10068 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Team",
+      "MIT",
+      "Feb.",
+      "Sloan",
+      "Sports",
+      "Analytics",
+      "Conference",
+      "Olympic",
+      "Canada",
+      "USA"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/one-piece-season-2-cast-5506278/",
+    "title": "‘One Piece’ Season 2 Cast: Meet the Actors Behind the Netflix Series",
+    "fetched_on": "2026-03-11T21:35:20.137648+00:00",
+    "content": "Image Credit: Courtesy of Netflix\r\nThe Straw Hat Pirates are setting sail again for season 2! After the massive success of Netflixs live-action adaptation of One Piece, the streamer expanded the worl… [+3136 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Cast",
+      "Meet",
+      "Credit",
+      "Courtesy",
+      "Netflix",
+      "Piece’",
+      "Actors",
+      "Series",
+      "Image"
+    ]
+  },
+  {
+    "source": "esquire.com [NewsAPI]",
+    "url": "https://www.esquire.com/entertainment/tv/a70701263/harvey-weinstein-yellowstone-taylor-sheridan/",
+    "title": "Harvey Weinstein Thinks He's Why Yellowstone Was So Successful",
+    "fetched_on": "2026-03-11T21:35:20.137648+00:00",
+    "content": "You don't need the reminder that Yellowstone was, and maybe still is, the biggest television show of the last ten years. But of all the people in (or in this case, out of) Hollywood to take credit fo… [+2017 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Yellowstone",
+      "Weinstein",
+      "Successful",
+      "Harvey",
+      "years",
+      "reminder",
+      "biggest",
+      "television",
+      "show",
+      "ten"
+    ]
   }
 ]
