@@ -172550,5 +172550,125 @@
       "T-shirt",
       "Gear"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-11/ares-plans-first-local-currency-private-credit-fund-in-asia",
+    "title": "Ares Plans Its First Local Currency Private Credit Fund in Asia",
+    "fetched_on": "2026-03-11T02:08:58.818948+00:00",
+    "content": "Ares Management Corp. is planning to establish its first Asia local currency private credit fund in Thailand, according to people familiar with the matter, as the country emerges as a new market for the asset class.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Currency",
+      "Private",
+      "Credit",
+      "Fund",
+      "Asia",
+      "Local",
+      "Thailand",
+      "Plans",
+      "Management",
+      "Corp."
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-11/raizen-creditors-agree-to-restructure-debt-out-of-court",
+    "title": "Raízen, Creditors Agree to Restructure Debt Out of Court",
+    "fetched_on": "2026-03-11T02:08:58.998045+00:00",
+    "content": "Raízen SA, the struggling Brazilian sugar and ethanol producer co-owned by Shell Plc and Cosan SA, agreed to start an out-of-court debt restructuring worth around 70 billion reais ($13.6 billion), outlet Globo reported.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Creditors",
+      "billion",
+      "Raízen",
+      "Debt",
+      "Agree",
+      "Restructure",
+      "Court",
+      "Brazilian",
+      "Shell",
+      "Plc"
+    ]
+  },
+  {
+    "source": "Twistedsifter.com [NewsAPI]",
+    "url": "http://twistedsifter.com/2026/03/employee-spent-45-minutes-teaching-coworker-his-custom-report-workflow-but-after-the-coworker-presented-it-as-his-own-and-refused-to-credit-him-he-declined-to-share-the-actual-template-file/",
+    "title": "Employee Spent 45 Minutes Teaching Coworker His Custom Report Workflow, But After The Coworker Presented It As His Own And Refused To Credit Him, He Declined To Share The Actual Template File",
+    "fetched_on": "2026-03-11T02:08:58.237599+00:00",
+    "content": "Pexels/Reddit\r\nHelping a coworker hits different when they act as if they did it all alone.\r\nSo, what would you do if you spent nearly an hour walking a teammate through your carefully built workflow… [+3344 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Coworker",
+      "Minutes",
+      "Pexels",
+      "Reddit",
+      "Workflow",
+      "Teaching",
+      "Custom",
+      "Report",
+      "Presented",
+      "Refused"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/moneyview-doubles-down-on-dlg-lending-ahead-of-ipo-11773048823463.html",
+    "title": "While rivals retreat from default guarantees, Moneyview is doubling down",
+    "fetched_on": "2026-03-11T02:08:58.237599+00:00",
+    "content": "In its draft IPO prospectus, the Bengaluru-based startup revealed plans to substantially expand default loss guarantee (DLG) arrangements with lending partners as part of its credit distribution stra… [+5879 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "DLG",
+      "chars",
+      "Moneyview",
+      "IPO",
+      "Bengaluru-based",
+      "prospectus",
+      "arrangements",
+      "stra",
+      "default",
+      "guarantees"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/can-nri-equity-investors-avail-section-115f-tax-relief-even-if-not-claimed-earlier-11773037461364.html",
+    "title": "Can NRI equity investors avail section 115F tax relief even if not claimed earlier?",
+    "fetched_on": "2026-03-11T02:08:58.237599+00:00",
+    "content": "I am a Non-Resident Indian (NRI) living in Australia. I had filed my income-tax return for FY 2024-25 to claim a refund of excess TDS and provided my NRE bank account details for the refund credit. H… [+2805 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NRI",
+      "section",
+      "tax",
+      "earlier",
+      "Indian",
+      "Australia",
+      "equity",
+      "investors",
+      "avail",
+      "relief"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00786-4",
+    "title": "‘Virtual cell’ captures most-basic process of life: bacterial division",
+    "fetched_on": "2026-03-11T02:08:58.237599+00:00",
+    "content": "A computer generated illustration of a simulated cell in the early stages of division. Credit: Zane Thornburg\r\nFor the first time, researchers have simulated nearly every chemical reaction in a livin… [+2612 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Virtual",
+      "division",
+      "life",
+      "bacterial",
+      "simulated",
+      "cell’",
+      "captures",
+      "most-basic",
+      "process",
+      "computer"
+    ]
   }
 ]
