@@ -174558,5 +174558,105 @@
       "Google",
       "Gemini"
     ]
+  },
+  {
+    "source": "Breitbart News [NewsAPI]",
+    "url": "https://www.breitbart.com/economy/2026/03/10/sba-agency-helps-citizens-blocks-e-2-visa-migrants-from-loans/",
+    "title": "SBA Helps Citizens, Blocks E-2 Visa Migrants from Loans",
+    "fetched_on": "2026-03-11T17:51:00.434753+00:00",
+    "content": "The Small Business Administration has stopped offering government loans to the networks of ethnic E-2 migrants who elbow American citizens out of opportunities to buy businesses or lease franchise ho… [+6042 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Blocks",
+      "chars",
+      "SBA",
+      "Visa",
+      "Citizens",
+      "Migrants",
+      "Loans",
+      "Small",
+      "Business",
+      "Administration"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/paul-walter-hauser-eyed-for-role-in-netflixs-live-action-scooby-doo-series/",
+    "title": "Paul Walter Hauser Eyed for Role in Netflix’s Live-Action ‘Scooby-Doo’ Series",
+    "fetched_on": "2026-03-11T17:51:00.434753+00:00",
+    "content": "Picture Credit: Getty Images\r\nThe Mystery Machine is revving up, and we’ve got an exciting new casting tip to share. Sources tell What’s on Netflix that Paul Walter Hauser currently has an offer on t… [+3487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Getty",
+      "Walter",
+      "Hauser",
+      "Eyed",
+      "Role",
+      "Series",
+      "Picture",
+      "Images",
+      "Mystery"
+    ]
+  },
+  {
+    "source": "Ambcrypto.com [NewsAPI]",
+    "url": "https://ambcrypto.com/?p=577829",
+    "title": "Ethereum Eezo Shunt Upgrade Begins 10 March as MUTM Lending Aims for Instant Liquidity",
+    "fetched_on": "2026-03-11T17:51:00.434753+00:00",
+    "content": "The Ethereum network is preparing for its next technical step. On March 10, 2026, at 06:00 UTC, the blockchain will activate the Eezo Shunt upgrade, formally labeled version 1.17.1. Binance, among ot… [+4657 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Begins",
+      "Shunt",
+      "Ethereum",
+      "Eezo",
+      "MUTM",
+      "Lending",
+      "Aims",
+      "Instant",
+      "Liquidity",
+      "March"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/alternative-credit/2026/propel-secures-150-million-dollars-freshline-consumer-credit-product/",
+    "title": "Propel Secures $150 Million for FreshLine Consumer Credit Product",
+    "fetched_on": "2026-03-11T17:51:00.434753+00:00",
+    "content": "FinTech Propel Holdings debuted FreshLine, an unsecured personal line-of-credit offering, according to a Tuesday (March 10) press release.The Toronto-based company also received a $150 million commit… [+2347 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Million",
+      "offering",
+      "chars",
+      "Secures",
+      "Tuesday",
+      "Propel",
+      "Consumer",
+      "Credit",
+      "Product"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/citi-ceo-jane-fraser-private-credit-risk-war-iran-ai-2026-3",
+    "title": "Citi CEO doesn't see systemic risk lurking in private credit — unless these 3 things converge",
+    "fetched_on": "2026-03-11T17:51:00.434753+00:00",
+    "content": "Fraser said she doesn't see a systemic risk in private credit.Elizabeth Frantz/Reuters\r\n<ul><li>Jane Fraser said on Tuesday she was \"sanguine\" about risks in private credit.</li><li>She said a conver… [+2346 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reuters",
+      "Fraser",
+      "Frantz",
+      "Jane",
+      "private",
+      "sanguine",
+      "chars",
+      "CEO",
+      "Tuesday",
+      "systemic"
+    ]
   }
 ]
