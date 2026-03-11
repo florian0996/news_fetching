@@ -175256,5 +175256,65 @@
       "show",
       "ten"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-11/private-credit-s-redemption-pressure-roller-coaster",
+    "title": "Private Credit’s Redemption Pressure Roller Coaster",
+    "fetched_on": "2026-03-11T22:29:24.643556+00:00",
+    "content": "Brian Chappatta and Olivia Fishlow unpack the recent tumult in the world of private credit on the Big Take Podcast. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Podcast",
+      "Private",
+      "Redemption",
+      "Pressure",
+      "Roller",
+      "Coaster",
+      "Brian",
+      "Chappatta",
+      "Olivia"
+    ]
+  },
+  {
+    "source": "CoinDesk [NewsAPI]",
+    "url": "https://www.coindesk.com/business/2026/03/10/defi-lending-platform-aave-sees-a-rare-usd27-million-liquidations-after-a-price-glitch",
+    "title": "DeFi lending platform Aave sees a rare $27 million liquidations after a price glitch",
+    "fetched_on": "2026-03-11T22:29:23.749745+00:00",
+    "content": "About $27 million was liquidated on the decentralized lending platform Aave over the last 24 hours, in what some market participants say may have been caused by a temporary pricing issue involving th… [+3272 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Aave",
+      "platform",
+      "million",
+      "hours",
+      "chars",
+      "lending",
+      "DeFi",
+      "rare",
+      "liquidations",
+      "price"
+    ]
+  },
+  {
+    "source": "CNA [NewsAPI]",
+    "url": "https://www.channelnewsasia.com/commentary/china-us-winning-trade-war-ai-race-global-role-5983841",
+    "title": "Commentary: The global narrative is shifting in favour of China – don’t misread it",
+    "fetched_on": "2026-03-11T22:29:23.749745+00:00",
+    "content": "Chinas reluctance was evident in several regional conflicts. \r\nMr Trump has claimed he ended 8 wars in just 8 months. Whatever the debate on whether to give him credit, his claim included three confl… [+1319 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Commentary",
+      "China",
+      "Chinas",
+      "conflicts",
+      "global",
+      "narrative",
+      "shifting",
+      "favour",
+      "n’t",
+      "misread"
+    ]
   }
 ]
