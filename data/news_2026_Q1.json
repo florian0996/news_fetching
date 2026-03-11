@@ -172930,5 +172930,81 @@
       "Berlin",
       "Bern"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-11/pimco-blames-sloppy-underwriting-for-private-credit-reckoning",
+    "title": "Pimco Blames Sloppy Underwriting for Private Credit ‘Reckoning’",
+    "fetched_on": "2026-03-11T06:57:02.587861+00:00",
+    "content": "The rising strain in the private credit market is a result of years of sloppy underwriting standards in lending, according to Pacific Investment Management Co.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reckoning’",
+      "Sloppy",
+      "Underwriting",
+      "Private",
+      "Credit",
+      "Blames",
+      "Pacific",
+      "Investment",
+      "Management",
+      "Pimco"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/south-africa-targets-infrastructure-deals-with-guarantee-fund",
+    "title": "South Africa Targets Infrastructure Deals With Guarantee Fund",
+    "fetched_on": "2026-03-11T06:57:01.100903+00:00",
+    "content": "(Bloomberg) South Africa plans to rapidly expand a new credit-guarantee vehicle to support billions of dollars in infrastructure projects, from power-grid expansion and water systems to ports and fre… [+5122 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "South",
+      "Bloomberg",
+      "Africa",
+      "Fund",
+      "chars",
+      "Infrastructure",
+      "Targets",
+      "Deals",
+      "Guarantee",
+      "projects"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/jpmorgan-marks-down-loan-portfolios-of-private-credit-groups-ft-4553569",
+    "title": "JPMorgan marks down loan portfolios of private credit groups- FT",
+    "fetched_on": "2026-03-11T06:57:10.733931+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "JPMorgan",
+      "groups",
+      "marks",
+      "loan",
+      "portfolios",
+      "private",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/average-credit-card-interest-rate-200158114.html",
+    "title": "The average credit card interest rate is almost 24%, trapping Americans in debt. How to negotiate for a better rate",
+    "fetched_on": "2026-03-11T06:57:19.805109+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "trapping",
+      "debt",
+      "rate",
+      "average",
+      "credit",
+      "card",
+      "interest",
+      "negotiate"
+    ]
   }
 ]
