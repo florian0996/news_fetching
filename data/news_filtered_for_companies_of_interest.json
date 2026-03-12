@@ -1,6 +1,17 @@
 {
-  "2026-03-11": {
+  "2026-03-12": {
     "status": "no company in the news"
+  },
+  "2026-03-11": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: Private Credit Gets Marked Down",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-10": {
     "status": "no company in the news"
