@@ -175916,5 +175916,45 @@
       "Shorting",
       "Iran"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-12/morgan-stanley-limits-private-credit-redemptions-video",
+    "title": "Morgan Stanley, Cliffwater Limit Private Credit Redemptions",
+    "fetched_on": "2026-03-12T09:45:35.475234+00:00",
+    "content": "Morgan Stanley and Cliffwater capped withdrawals from their multibillion-dollar private credit funds after investors sought to redeem vastly more than the vehicles allow. Bloomberg's Sinead Cruise reports. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stanley",
+      "Cliffwater",
+      "Morgan",
+      "Private",
+      "Credit",
+      "Limit",
+      "Redemptions",
+      "Bloomberg",
+      "Source",
+      "capped"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/private-credit-financial-crisis-blackrock-blue-owl-debt-software-2026-3",
+    "title": "Veteran fund manager George Noble warns that a private credit crisis may be unfolding in real time",
+    "fetched_on": "2026-03-12T09:45:34.628258+00:00",
+    "content": "George Noble, a longtime Fidelity fund manager and Wall Street veteran, sees big problems brewing in the booming private credit market. \r\nThe former director of Fidelity Overseas Fund recently wrote … [+1910 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "George",
+      "Noble",
+      "Wall",
+      "Street",
+      "manager",
+      "private",
+      "credit",
+      "fund",
+      "Fidelity",
+      "Veteran"
+    ]
   }
 ]
