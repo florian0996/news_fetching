@@ -175876,5 +175876,45 @@
       "Worry",
       "Iran"
     ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/payments-innovation/2026/embedded-finance-now-has-to-survive-the-cfo-audit/",
+    "title": "Embedded Finance Now Has to Survive the CFO Audit",
+    "fetched_on": "2026-03-12T08:47:22.133969+00:00",
+    "content": "Embedded finance has matured past its land-grab era. What once began as a race to bolt payments, lending and insurance into digital platforms is now confronting a new reality of being judged not as a… [+4789 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Embedded",
+      "Finance",
+      "Survive",
+      "CFO",
+      "Audit",
+      "era",
+      "matured",
+      "past",
+      "land-grab",
+      "chars"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/morgan-stanley-traders-pitch-shorting-kronos-worldwides-bonds",
+    "title": "Morgan Stanley Traders Pitch Shorting Kronos Worldwide’s Bonds",
+    "fetched_on": "2026-03-12T08:47:22.133969+00:00",
+    "content": "(Bloomberg) Morgan Stanleys credit trading desk is pitching a bet against bonds issued by Kronos Worldwide Inc, a titanium-dioxide manufacturer that was already struggling before the war in Iran sent… [+4135 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Bloomberg",
+      "Kronos",
+      "Worldwide",
+      "chars",
+      "Bonds",
+      "Traders",
+      "Pitch",
+      "Shorting",
+      "Iran"
+    ]
   }
 ]
