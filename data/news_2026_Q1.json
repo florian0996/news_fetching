@@ -178167,5 +178167,42 @@
       "Fund",
       "Cliffwater"
     ]
+  },
+  {
+    "source": "TheStranger.com [NewsAPI]",
+    "url": "https://www.thestranger.com/culture/2026/03/11/80507166/my-so-called-luddite-life",
+    "title": "My So-Called Luddite Life",
+    "fetched_on": "2026-03-12T22:28:39.821222+00:00",
+    "content": "For the last few years, Ive carried around a primitive mobile device called the Light Phone II, otherwise known as a dumbphone.\r\nIts a tiny hunk of gray plastic approximately the size of a credit car… [+7941 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ive",
+      "Luddite",
+      "Life",
+      "Light",
+      "Phone",
+      "years",
+      "dumbphone",
+      "So-Called",
+      "carried",
+      "primitive"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/jpmorgan-marks-down-private-credit-145000784.html",
+    "title": "JPMorgan marks down private-credit loans amid market concerns",
+    "fetched_on": "2026-03-12T22:29:06.990928+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "JPMorgan",
+      "concerns",
+      "marks",
+      "private-credit",
+      "loans",
+      "amid",
+      "market"
+    ]
   }
 ]
