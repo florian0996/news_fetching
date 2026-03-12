@@ -175956,5 +175956,145 @@
       "Fidelity",
       "Veteran"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-12/deutsche-bank-flags-a-30-billion-exposure-to-private-credit",
+    "title": "Deutsche Bank Flags a $30 Billion Exposure to Private Credit",
+    "fetched_on": "2026-03-12T10:41:16.645530+00:00",
+    "content": "Deutsche Bank AG flagged a €26 billion ($30 billion) exposure to private credit, an asset class that’s grappling with fund redemptions, scrutiny of underwriting standards and the impact of AI on some borrowers such as software makers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Bank",
+      "Private",
+      "Deutsche",
+      "Exposure",
+      "Credit",
+      "Flags",
+      "redemptions",
+      "scrutiny",
+      "makers"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/apple-studio-display-xdr/",
+    "title": "Is This the Ultimate Mac Monitor? Apple Studio Display XDR",
+    "fetched_on": "2026-03-12T10:41:15.595692+00:00",
+    "content": "The Apple Studio Display XDR establishes itself as a standout in the realm of high-performance monitors, seamlessly blending advanced technology with a refined design. Tailored for creative professio… [+6824 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ultimate",
+      "Mac",
+      "Studio",
+      "Display",
+      "XDR",
+      "Apple",
+      "Monitor",
+      "monitors",
+      "chars",
+      "seamlessly"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/news/jpmorgan-limits-private-credit-lending-080550358.html",
+    "title": "JPMorgan Restricts Private Credit Lending After Loan Markdowns",
+    "fetched_on": "2026-03-12T10:41:15.595692+00:00",
+    "content": "(Bloomberg) -- JPMorgan Chase &amp; Co. is restricting some lending to private credit funds after marking down the value of certain loans in their portfolios, according to a person familiar with the … [+3425 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "chars",
+      "Markdowns",
+      "Chase",
+      "Private",
+      "Credit",
+      "JPMorgan",
+      "Lending",
+      "Restricts",
+      "portfolios"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/have-an-old-epfo-account-funds-from-these-inoperative-accounts-may-be-auto-credited-check-if-you-are-eligible-11773216218625.html",
+    "title": "Have an old EPFO account? Funds from these inoperative accounts may be auto-credited — check if you are eligible",
+    "fetched_on": "2026-03-12T10:41:15.595692+00:00",
+    "content": "The Employees' Provident Fund Organisation (EPFO) has approved a pilot project to automatically settle claims in small inoperative accounts, a move aimed at reducing delays and helping members recove… [+2476 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EPFO",
+      "accounts",
+      "Organisation",
+      "inoperative",
+      "chars",
+      "Employees'",
+      "Provident",
+      "auto-credited",
+      "check",
+      "recove"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/aave-capo-oracle-glitch-27m-liquidations",
+    "title": "Aave wstETH glitch forces $27M in liquidations and compensation",
+    "fetched_on": "2026-03-12T10:41:15.595692+00:00",
+    "content": "A configuration error in a risk-oracle system used by crypto lending platform Aave triggered the liquidation of about $27 million in wrapped staked Ether (wstETH) positions, prompting the protocol to… [+2899 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ether",
+      "positions",
+      "chars",
+      "Aave",
+      "wstETH",
+      "forces",
+      "million",
+      "prompting",
+      "glitch",
+      "compensation"
+    ]
+  },
+  {
+    "source": "Slate Magazine [NewsAPI]",
+    "url": "https://slate.com/advice/2026/03/money-advice-cash-back-rewards-scam.html",
+    "title": "This ‘Money-Saving Perk’ Sounds Too Good to Be True. It’s a Scam, Right?",
+    "fetched_on": "2026-03-12T10:41:15.595692+00:00",
+    "content": "Pay Dirt is Slates money advice column.Have a question? Send it to Kristin and Ilyce here. (Its anonymous!)\r\nDear Pay Dirt,\r\nIs cash-back really worth it? I have really good credit, and I keep gettin… [+9218 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "True",
+      "Perk’",
+      "Sounds",
+      "Money-Saving",
+      "Dirt",
+      "Scam",
+      "Pay",
+      "Good",
+      "Slates",
+      "Kristin"
+    ]
+  },
+  {
+    "source": "The New Republic [NewsAPI]",
+    "url": "https://newrepublic.com/article/206939/buy-now-pay-later-affordability",
+    "title": "How “Buy Now, Pay Later” Reveals the Weakness of the Trump Economy",
+    "fetched_on": "2026-03-12T10:41:15.595692+00:00",
+    "content": "Emily DiVito, senior adviser for economic policy at Groundwork Collaborative, said, The steady rise in the use of buy now, pay later loans to cover the basics, like groceries and rent, is a warning s… [+1157 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pay",
+      "Buy",
+      "Reveals",
+      "Collaborative",
+      "chars",
+      "Weakness",
+      "Trump",
+      "Economy",
+      "Emily",
+      "Groundwork"
+    ]
   }
 ]
