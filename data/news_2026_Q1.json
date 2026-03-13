@@ -179304,5 +179304,61 @@
       "Z-focused",
       "spring"
     ]
+  },
+  {
+    "source": "9to5Toys [NewsAPI]",
+    "url": "http://9to5toys.com/2026/03/12/32gb-m5-macbook-pro-deals-2/",
+    "title": "This 32GB M5 MacBook Pro config is $300 less than the model Amazon sells, deals from $1,399",
+    "fetched_on": "2026-03-13T10:39:25.059473+00:00",
+    "content": "Apples all-new M5 Pro MacBooks have now arrived, and we have uncovered a $100 bonus reward credit on those at Best Buy. But for those looking towards the much more affordable M5 MacBook Pro, the deal… [+2431 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Pro",
+      "Apples",
+      "Buy",
+      "Amazon",
+      "sells",
+      "all-new",
+      "arrived",
+      "bonus",
+      "MacBook",
+      "config"
+    ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/951505",
+    "title": "Westpac Altitude Velocity Black Credit Card: 120000 VFF ($6000 Spend in 120 Days Req), $200 1st Yr + $75 Annual Fee",
+    "fetched_on": "2026-03-13T10:39:25.059473+00:00",
+    "content": "Westpac's first year 120,000 VFF points offer via a generic post booking link I received when booking a flight with virgin.\r\nGet up to 180,000 bonus Velocity Points:\r\n120,000 Velocity Points in year … [+662 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "VFF",
+      "Card",
+      "Spend",
+      "Days",
+      "Req",
+      "Annual",
+      "Velocity",
+      "Westpac",
+      "points",
+      "Altitude"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/creditcard-cash-reshapes-us-airline-loyalty--and-profit-4559355",
+    "title": "Credit-card cash reshapes US airline loyalty — and profit",
+    "fetched_on": "2026-03-13T10:39:37.475493+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit-card",
+      "loyalty",
+      "profit",
+      "cash",
+      "reshapes",
+      "airline"
+    ]
   }
 ]
