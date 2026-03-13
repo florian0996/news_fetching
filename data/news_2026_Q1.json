@@ -178867,5 +178867,45 @@
       "Stock",
       "Blue"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/legal/will/missed-home-loan-emis-law-gives-you-105-days-before-bank-can-start-auction-off-your-house/articleshow/129496104.cms",
+    "title": "Missed home loan EMIs? Law gives you 105 days before bank can start auction off your house",
+    "fetched_on": "2026-03-13T07:49:34.962394+00:00",
+    "content": "Missing home loan EMI payments can have grave consequences, including the possibility of your home being auctioned off to recover the unpaid loan amount. But it is not as simple as it seems; banks mu… [+9235 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "home",
+      "Missed",
+      "EMIs",
+      "EMI",
+      "Missing",
+      "chars",
+      "Law",
+      "days",
+      "consequences"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e74af6ae-5ceb-4098-9237-f395101c67d2",
+    "title": "“Credit to him” – Liam Rosenior answers questions on Filip Jorgensen’s PSG blunders",
+    "fetched_on": "2026-03-13T07:49:34.962394+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Credit",
+      "Liam",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Rosenior",
+      "Filip"
+    ]
   }
 ]
