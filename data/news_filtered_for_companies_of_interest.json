@@ -1,6 +1,17 @@
 {
-  "2026-03-12": {
+  "2026-03-13": {
     "status": "no company in the news"
+  },
+  "2026-03-12": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: Lever the Predictions",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-11": {
     "articles": [
