@@ -181386,5 +181386,84 @@
       "Credit",
       "Stocks"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-03-13/warning-that-it-s-2008-all-over-again-evening-briefing-americas",
+    "title": "Wall Street Warning on Oil and Private Credit",
+    "fetched_on": "2026-03-13T23:30:35.426215+00:00",
+    "content": "For investors, it’s bad news all over thanks to the war and private credit.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Credit",
+      "Street",
+      "Warning",
+      "Oil",
+      "Wall",
+      "investors",
+      "bad",
+      "war"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/companies/airlines/qantas-to-pay-127m-over-covid-credit-class-action/premium/4RPKBLRFENEPLD3QCZZTSC5T7U/",
+    "title": "Qantas to pay $127m over Covid credit class action",
+    "fetched_on": "2026-03-13T23:30:32.217375+00:00",
+    "content": "The class action included allegations the airline breached its contractual obligations regarding refunds.\r\nQantas in August 2023 removed the expiry date on flight credits issued during Covid, meaning… [+1101 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "class",
+      "action",
+      "Covid",
+      "Qantas",
+      "pay",
+      "refunds",
+      "included",
+      "allegations",
+      "airline",
+      "breached"
+    ]
+  },
+  {
+    "source": "Coloradoan [NewsAPI]",
+    "url": "https://www.coloradoan.com/story/sports/high-school/2026/03/12/fort-collins-tennis-scarlett-marske-named-blue-federal-credit-union-girls-athlete-week/89126246007/",
+    "title": "Fort Collins' Scarlett Marske named Blue FCU Girls Athlete of Week",
+    "fetched_on": "2026-03-13T23:30:32.217375+00:00",
+    "content": "This week's Blue Federal Credit Union Girls Athlete of the Week award is headed outdoors for some spring tennis\r\nFort Collins tennis player Scarlett Marske took top honors in the Fort Collins area fo… [+2179 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Athlete",
+      "Fort",
+      "Scarlett",
+      "Marske",
+      "Girls",
+      "Collins",
+      "Week",
+      "Blue",
+      "chars",
+      "Collins'"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/b2b-payments/2026/earnings-show-ai-lending-platforms-scaling-originations/",
+    "title": "Earnings Show AI Lending Platforms Scaling Originations",
+    "fetched_on": "2026-03-13T23:30:32.217375+00:00",
+    "content": "Earnings season. drawing to close, has offered up a detailed look at how artificial intelligence (AI) is reshaping credit underwriting.In recent weeks, FinTech lenders reported that automated underwr… [+5139 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Earnings",
+      "Show",
+      "Lending",
+      "Platforms",
+      "Scaling",
+      "Originations",
+      "season",
+      "chars",
+      "drawing",
+      "close"
+    ]
   }
 ]
