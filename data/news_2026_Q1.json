@@ -178747,5 +178747,125 @@
       "Sie",
       "Euro"
     ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180957282",
+    "title": "Partners Group sounds alarm on private credit default rates - Financial Times",
+    "fetched_on": "2026-03-13T06:57:10.233326+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Financial",
+      "Print",
+      "Group",
+      "Times",
+      "Fine",
+      "Partners",
+      "rates",
+      "sounds",
+      "alarm",
+      "private"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/free-flights-and-hotel-stays-with-credit-card-reward-points-heres-how-to-maximise-your-rewards/articleshow/129458467.cms",
+    "title": "Free flights and hotel stays with credit card reward points: Here’s how to maximise your rewards",
+    "fetched_on": "2026-03-13T06:57:10.233326+00:00",
+    "content": "Travel has gained momentum across age groups in the years after Covid-19, helped by higher disposable incomes and a growing appetite to spend on experiences. At the same time, credit card usage has s… [+9236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Travel",
+      "Free",
+      "points",
+      "helped",
+      "experiences",
+      "credit",
+      "card",
+      "chars",
+      "flights",
+      "hotel"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/03/12/3254287/0/en/Multitude-AG-preliminary-unaudited-results-2025-Excellent-financial-performance-and-net-profit-guidance-exceeded.html",
+    "title": "Multitude AG preliminary unaudited results 2025: Excellent financial performance and net profit guidance exceeded",
+    "fetched_on": "2026-03-13T06:57:10.233326+00:00",
+    "content": "Zug, 12 March 2026 Multitude AG, a listed European FinTech company, offering digital lending and online banking services to consumers, SMEs, and institutional clients, (Multitude, Company or Group) t… [+5269 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Multitude",
+      "March",
+      "Excellent",
+      "Zug",
+      "Group",
+      "SMEs",
+      "chars",
+      "company",
+      "European",
+      "results"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/03/12/3254278/0/en/Bigbank-AS-Results-for-February-2026.html",
+    "title": "Bigbank AS Results for February 2026",
+    "fetched_on": "2026-03-13T06:57:10.233326+00:00",
+    "content": "Bigbanks loan and deposit portfolios continued to grow steadily in February. Although February, being the shortest month of the year, resulted in somewhat lower interest income, profitability remaine… [+6437 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "February",
+      "Results",
+      "Bigbank",
+      "Bigbanks",
+      "loan",
+      "deposit",
+      "portfolios",
+      "continued",
+      "grow",
+      "steadily"
+    ]
+  },
+  {
+    "source": "Newhumanist.org.uk [NewsAPI]",
+    "url": "https://newhumanist.org.uk/articles/6522/red-lipstick-resistance",
+    "title": "Red lipstick resistance",
+    "fetched_on": "2026-03-13T06:57:10.233326+00:00",
+    "content": "Even in prison, Belarusian dissident women havent given up. The future of the country may still be in their handsMaria Kolesnikova, wearing her signature red lipstick. Credit: Alamy Stock Photo\r\nDary… [+14556 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Belarusian",
+      "prison",
+      "Red",
+      "lipstick",
+      "Kolesnikova",
+      "resistance",
+      "dissident",
+      "women",
+      "havent",
+      "Alamy"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/jpmorgan-restricts-private-credit-lending-blue-owl-kkr-stock-566019b0?siteid=yhoof2&yptr=yahoo",
+    "title": "JPMorgan Tightens Lending to Private Credit, Reports Say. KKR Stock and Blue Owl Fall.",
+    "fetched_on": "2026-03-13T06:57:39.049119+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Reports",
+      "Tightens",
+      "Lending",
+      "Private",
+      "JPMorgan",
+      "KKR",
+      "Fall",
+      "Stock",
+      "Blue"
+    ]
   }
 ]
