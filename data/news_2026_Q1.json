@@ -181168,5 +181168,45 @@
       "Loans",
       "High-Risk"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/03/12/3255188/0/en/Mountain-America-Supports-BYU-Student-Athletes-with-17-000-Donation-Through-3-Point-Donation-Program.html",
+    "title": "Mountain America Supports BYU Student-Athletes with $17,000 Donation Through 3-Point Donation Program",
+    "fetched_on": "2026-03-13T21:35:19.409833+00:00",
+    "content": "A Media Snippet accompanying this announcement is available by clicking on this link.\r\nSANDY, Utah, March 12, 2026 (GLOBE NEWSWIRE) -- Mountain America Credit Union recently presented a $17,000 donat… [+2155 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Donation",
+      "Mountain",
+      "America",
+      "Supports",
+      "BYU",
+      "Program",
+      "Media",
+      "Snippet",
+      "SANDY",
+      "Utah"
+    ]
+  },
+  {
+    "source": "Decider [NewsAPI]",
+    "url": "https://decider.com/2026/03/12/the-testament-of-ann-lee-stream-it-or-skip-it/",
+    "title": "Stream It Or Skip It: ‘The Testament of Ann Lee’ on VOD, an Over-the-Top Musical Biopic in Which Amanda Seyfried Blows us Away Playing a Christian Cult Leader",
+    "fetched_on": "2026-03-13T21:35:19.409833+00:00",
+    "content": "Is The Testament of Ann Lee (now streaming on VOD platforms like Amazon Prime Video) the grimmest musical ever put on film? Credit director Mona Fastvold who co-wrote The Brutalist with Brady Corbet,… [+7646 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Testament",
+      "Ann",
+      "VOD",
+      "Musical",
+      "Lee",
+      "Video",
+      "Skip",
+      "Lee’",
+      "Biopic",
+      "Amanda"
+    ]
   }
 ]
