@@ -178583,5 +178583,105 @@
       "showed",
       "redemptions"
     ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-13/cki-said-to-seek-bridge-loan-for-macquarie-uk-smart-meters-bid",
+    "title": "CKI Said to Seek Bridge Loan for Macquarie UK Smart Meters Bid",
+    "fetched_on": "2026-03-13T04:45:51.629045+00:00",
+    "content": "Hong Kong’s CK Infrastructure Holdings Ltd. is seeking a £1 billion ($1.4 billion) bridge loan for its pursuit of UK smart-meter assets owned by Macquarie Group Ltd., according to people with knowledge of the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Loan",
+      "CKI",
+      "Macquarie",
+      "Ltd.",
+      "Bridge",
+      "Seek",
+      "Smart",
+      "Meters",
+      "Bid"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/business/no-loans-for-gulf-as-iran-war-spooks-asian-lenders/articleshow/129489818.cms",
+    "title": "No loans for Gulf as Iran war spooks Asian lenders",
+    "fetched_on": "2026-03-13T04:45:50.392807+00:00",
+    "content": "On the sidelines of a meeting this week of Asias largest loan association, private conversations were dominated by a single theme: how the Iran war has rattled enthusiasm for the Middle East.That moo… [+3422 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Iran",
+      "chars",
+      "war",
+      "Gulf",
+      "Asian",
+      "Asias",
+      "Middle",
+      "association",
+      "private",
+      "theme"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180956746",
+    "title": "Cliffwater caps payouts at credit fund as redemption requests surge - Financial Times",
+    "fetched_on": "2026-03-13T04:45:50.392807+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Financial",
+      "Print",
+      "Times",
+      "Fine",
+      "Cliffwater",
+      "surge",
+      "caps",
+      "payouts",
+      "credit",
+      "fund"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/promoters-tap-private-credit-firms-to-up-stake-prior-to-public-market-listing-11773123317062.html",
+    "title": "Private credit fuels founder buybacks ahead of public listings",
+    "fetched_on": "2026-03-13T04:45:50.392807+00:00",
+    "content": "Over the past 12-14 months, founders or promoters of companies including Leap India, Symbiotec Pharma, Vivriti Group, Zepto, InMobi, Lenskart and Zetwerk have engaged in such transactions ahead of th… [+6031 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zepto",
+      "InMobi",
+      "chars",
+      "India",
+      "Symbiotec",
+      "Pharma",
+      "Vivriti",
+      "Group",
+      "Lenskart",
+      "ahead"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180956480",
+    "title": "Private credit crisis is a result of 'really bad underwriting' - PIMCO - Seeking Alpha",
+    "fetched_on": "2026-03-13T04:45:50.392807+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PIMCO",
+      "Seeking",
+      "Print",
+      "Alpha",
+      "Fine",
+      "Private",
+      "underwriting",
+      "credit",
+      "crisis",
+      "result"
+    ]
   }
 ]
