@@ -1,6 +1,24 @@
 {
-  "2026-03-13": {
+  "2026-03-14": {
     "status": "no company in the news"
+  },
+  "2026-03-13": {
+    "articles": [
+      {
+        "title": "FW: \"Claude, open the Strait of Hormuz\"",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: The Podcast: Man Not Bird",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-12": {
     "articles": [
