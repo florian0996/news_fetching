@@ -184023,5 +184023,105 @@
       "investment",
       "craze"
     ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/?p=819572&preview=true&preview_id=819572",
+    "title": "Disney World Begins Redesign of Animal Kingdom Location, Unlike Anything Else on the Planet",
+    "fetched_on": "2026-03-15T11:28:37.063826+00:00",
+    "content": "Guests visiting today will experience a wholly different Animal Kingdom theme park.\r\nCredit: Jess Colopy, Inside the Magic\r\nDisneys Animal Kingdom is undergoing one of the most dramatic transformatio… [+5605 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Animal",
+      "Kingdom",
+      "Location",
+      "Unlike",
+      "World",
+      "Begins",
+      "Redesign",
+      "Planet",
+      "Guests",
+      "park"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/olivia-rodrigos-album-no-3-third-record-5504552/",
+    "title": "Olivia Rodrigo’s Album No. 3: Is She Working on Her Third Record?",
+    "fetched_on": "2026-03-15T11:28:37.063826+00:00",
+    "content": "Image Credit: WireImage\r\nOlivia Rodrigo is officially entering a new era. Born on February 20, 2003, the Grammy-winning pop star has dominated the charts with SOUR and GUTS and now, fans are eagerly … [+2217 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Record",
+      "Rodrigo",
+      "Album",
+      "Working",
+      "Olivia",
+      "Credit",
+      "February",
+      "chars",
+      "Grammy-winning",
+      "SOUR"
+    ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/143987/report-man-united-ready-to-join-the-race-to-sign-e50m-forward.html",
+    "title": "Report: Man United ready to join the race to sign €50m forward",
+    "fetched_on": "2026-03-15T11:28:37.063826+00:00",
+    "content": "Credit to CaughtOffside for the original reporting that has sparked fresh discussion around the future of FC Koln forward Said El Mala. The 19-year-old attacker is quickly becoming one of the most ta… [+4366 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Man",
+      "Mala",
+      "forward",
+      "United",
+      "Credit",
+      "Koln",
+      "Report",
+      "sign",
+      "ready",
+      "join"
+    ]
+  },
+  {
+    "source": "Crawlapi.dev [NewsAPI]",
+    "url": "https://crawlapi.dev",
+    "title": "Show HN: Crawl API",
+    "fetched_on": "2026-03-15T11:28:37.063826+00:00",
+    "content": "POST/api/crawlFull JS-rendered page crawl with all resources\r\n3 credits\r\nPOST/api/contentRaw HTML content of any page\r\n1 credit\r\nPOST/api/screenshotFull-page PNG screenshot, hosted on CDN\r\n2 credits\r… [+377 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "POST",
+      "credits",
+      "API",
+      "CDN",
+      "Crawl",
+      "chars",
+      "HTML",
+      "PNG",
+      "credit",
+      "page"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/03/female-ghostbuster-actor-confirms-return-following-divisive-film-dr1/",
+    "title": "Female Ghostbuster Actress Confirms Return Following Divisive Film",
+    "fetched_on": "2026-03-15T11:28:37.063826+00:00",
+    "content": "Credit: Sony Pictures\r\nThe Failures and Controversies of the 2016 Reboot\r\nBut among those reinventions, none stand out quite as much as the 2016 reboot. Decades after the original film, Sony hit rese… [+3467 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Reboot",
+      "Sony",
+      "Credit",
+      "Ghostbuster",
+      "Actress",
+      "Confirms",
+      "Return",
+      "Divisive",
+      "Pictures",
+      "Failures"
+    ]
   }
 ]
