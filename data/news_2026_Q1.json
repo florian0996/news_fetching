@@ -184689,5 +184689,65 @@
       "Accept",
       "Transparency"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/jpmorgan-makes-bold-push-to-offload-huge-lbo-debt",
+    "title": "JPMorgan Makes Bold Push to Offload Huge LBO Debt",
+    "fetched_on": "2026-03-15T19:29:48.677961+00:00",
+    "content": "(Bloomberg) Jamie Dimon has been warning for weeks months, even that the credit cycle will eventually sour. Now, his bank is about to test investors appetites.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBE… [+4933 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "Debt",
+      "Jamie",
+      "Makes",
+      "Bold",
+      "Push",
+      "Offload",
+      "Huge",
+      "LBO",
+      "Dimon"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4370644/posts",
+    "title": "Astronomy Picture of the Day - A Year for K2-315b",
+    "fetched_on": "2026-03-15T19:29:48.677961+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - A Year for K2-315bNASA ^\r\n | 14 Mar, 2026\r\n | Artist's Illustration Credit: NASA Ames/JPL-Caltech/T. Pyle, Christine Daniloff, MIT\r\nPosted on 03/14/2… [+1948 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Skip",
+      "Picture",
+      "Year",
+      "Astronomy",
+      "Mar",
+      "comments",
+      "Artist",
+      "Credit",
+      "NASA"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/?p=819626&preview=true&preview_id=819626",
+    "title": "Disney World Cast Member Leaves in Handcuffs After Violent Altercation",
+    "fetched_on": "2026-03-15T19:29:48.677961+00:00",
+    "content": "An argument turned violent for two Disney World cast members on March 10, leading to one being put in handcuffs.\r\nCredit: Inside The Magic\r\nFor Many Disney Fans, the Magic of Walt Disney World Extend… [+5780 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Cast",
+      "Disney",
+      "Handcuffs",
+      "March",
+      "Violent",
+      "Leaves",
+      "Altercation",
+      "Member",
+      "members"
+    ]
   }
 ]
