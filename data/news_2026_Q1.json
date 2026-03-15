@@ -183766,5 +183766,45 @@
       "intelligence",
       "quantum"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_32eba356-d891-4ace-88e1-b74caa3d3674",
+    "title": "Vantage Credit Union Prep Zone | March 13, 2026",
+    "fetched_on": "2026-03-15T05:07:01.483337+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "including",
+      "chars",
+      "Zone",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Credit",
+      "Union"
+    ]
+  },
+  {
+    "source": "The Topeka Capital-Journal [NewsAPI]",
+    "url": "https://www.cjonline.com/story/sports/college/hawk-zone/2026/03/13/kansas-basketball-big-12-conference-tournament-run-ends-with-lopsided-loss-vs-houston-in-kansas-city/89143071007/",
+    "title": "Kansas basketball’s Big 12 tournament run ends with loss vs Houston",
+    "fetched_on": "2026-03-15T05:07:01.483337+00:00",
+    "content": "Mar 13, 2026; Kansas City, MO, USA; Kansas Jayhawks cheerleaders perform prior to the game against the Houston Cougars at T-Mobile Center. Mandatory Credit: William Purnell-Imagn Images\r\nKANSAS CITY,… [+2100 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Houston",
+      "USA",
+      "City",
+      "Kansas",
+      "Big",
+      "Mar",
+      "Center",
+      "Jayhawks",
+      "Cougars",
+      "tournament"
+    ]
   }
 ]
