@@ -184470,5 +184470,45 @@
       "receive",
       "commission"
     ]
+  },
+  {
+    "source": "Digital Journal [NewsAPI]",
+    "url": "https://www.digitaljournal.com/entertainment/percy-daggs-iv-of-paradise-talks-about-starring-in-hunger-games-sunrise-on-the-reaping/article",
+    "title": "Percy Daggs IV of ‘Paradise’ talks about starring in ‘Hunger Games: Sunrise on the Reaping’",
+    "fetched_on": "2026-03-15T16:35:10.457787+00:00",
+    "content": "Percy Daggs IV. Photo Credit: Ryan Daly\r\nActor Percy Daggs IV of “Paradise” chatted about starring in “Hunger Games: Sunrise on the Reaping.”\r\nThe synopsis is: This dystopian action film will revisit… [+3149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Daggs",
+      "Hunger",
+      "Games",
+      "Sunrise",
+      "Paradise’",
+      "Percy",
+      "Reaping’",
+      "starring",
+      "Paradise",
+      "Credit"
+    ]
+  },
+  {
+    "source": "Breitbart News [NewsAPI]",
+    "url": "https://www.breitbart.com/clips/2026/03/14/chip-roy-trump-has-taken-right-steps-to-free-world-from-irans-radical-theocracy/",
+    "title": "Chip Roy: Trump Has Taken 'Right Steps' to Free World from Iran's Radical Theocracy",
+    "fetched_on": "2026-03-15T16:35:10.457787+00:00",
+    "content": "Friday on FNC’s “The Ingraham Angle,” Rep. Chip Roy (R-TX), a candidate for Texas Attorney General, credited President Donald Trump for taking the right steps to free the globe from the so-called “ra… [+1675 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Rep",
+      "Roy",
+      "Angle",
+      "Chip",
+      "Steps'",
+      "World",
+      "Iran",
+      "Radical",
+      "Theocracy",
+      "Friday"
+    ]
   }
 ]
