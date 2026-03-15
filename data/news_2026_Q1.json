@@ -184375,5 +184375,80 @@
       "Make",
       "Minimum"
     ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/03/14/3255864/0/en/Mutuum-Finance-Highlights-Roadmap-Phase-3-Progress-With-Over-20-8M-Raised-Since-Q1-2025.html",
+    "title": "Mutuum Finance Highlights Roadmap Phase 3 Progress With Over $20.8M Raised Since Q1 2025",
+    "fetched_on": "2026-03-15T14:32:54.889970+00:00",
+    "content": "DUBAI, United Arab Emirates, March 14, 2026 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM), an Ethereum-based lending platform, has recently confirmed that it is moving into Phase 3 of its development roa… [+4437 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mutuum",
+      "DUBAI",
+      "March",
+      "MUTM",
+      "Phase",
+      "Finance",
+      "chars",
+      "Progress",
+      "Raised",
+      "United"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b1fe24b9-e0fd-43e0-ad6a-f127ec45e1be",
+    "title": "Private Credit Fears, War Darken Outlook for US Financial Stocks",
+    "fetched_on": "2026-03-15T14:32:54.889970+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Fears",
+      "War",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Credit",
+      "Darken"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/soon-ex-husband-maxed-credit-140000549.html",
+    "title": "My soon to be ex-husband maxed out new credit cards in my name. How can I ensure he gets the debt in the divorce?",
+    "fetched_on": "2026-03-15T14:33:22.648879+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ex-husband",
+      "maxed",
+      "credit",
+      "cards",
+      "divorce",
+      "ensure",
+      "debt"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/private-credit-fears-war-darken-130000093.html",
+    "title": "Private Credit Fears, War Darken Outlook for US Financial Stocks",
+    "fetched_on": "2026-03-15T14:33:22.648734+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fears",
+      "War",
+      "Stocks",
+      "Credit",
+      "Darken",
+      "Outlook",
+      "Financial",
+      "Private"
+    ]
   }
 ]
