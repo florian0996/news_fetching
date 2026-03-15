@@ -184769,5 +184769,45 @@
       "afternoon",
       "leading"
     ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/buffy-reboot-what-happened-to-the-series-5367339/",
+    "title": "‘Buffy the Vampire Slayer’ Reboot: What Happened to it?",
+    "fetched_on": "2026-03-15T21:31:07.635057+00:00",
+    "content": "Image Credit: Getty Images/ FilmMagic\r\nThe reboot of Buffy the Vampire Slayer was in the works, but unfortunately, thats no longer the case. According to Sarah Michelle Gellar, the new series is no l… [+1962 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buffy",
+      "Vampire",
+      "Slayer’",
+      "Happened",
+      "Reboot",
+      "Credit",
+      "Getty",
+      "Slayer",
+      "Gellar",
+      "Image"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/world/2026/03/15/moody039s-affirms-albania039s-ba3-rating-with-stable-outlook",
+    "title": "Moody's affirms Albania's \"Ba3\" rating with stable outlook",
+    "fetched_on": "2026-03-15T21:31:07.635057+00:00",
+    "content": "TIRANA, March 14 (Xinhua) -- The international credit rating agency Moody's has affirmed Albania's sovereign credit rating at \"Ba3\" with a stable outlook, local media outlet ABC News Albania reported… [+1236 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Xinhua",
+      "Albania",
+      "TIRANA",
+      "chars",
+      "rating",
+      "Moody",
+      "ABC",
+      "stable",
+      "outlook"
+    ]
   }
 ]
