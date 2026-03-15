@@ -184450,5 +184450,25 @@
       "Financial",
       "Private"
     ]
+  },
+  {
+    "source": "BGR [NewsAPI]",
+    "url": "https://www.bgr.com/2119879/mini-usb-vs-thumb-drive/",
+    "title": "Are Mini USB Drives Better Than Thumb Drives?",
+    "fetched_on": "2026-03-15T15:31:24.085782+00:00",
+    "content": "We may receive a commission on purchases made from links.\r\nDrives come in all shapes and sizes. They come in bricks and candybar-style shapes like phones, they come in rugged, credit card-sized forms… [+1488 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mini",
+      "USB",
+      "Thumb",
+      "Drives",
+      "shapes",
+      "links",
+      "chars",
+      "sizes",
+      "receive",
+      "commission"
+    ]
   }
 ]
