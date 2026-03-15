@@ -184510,5 +184510,44 @@
       "Theocracy",
       "Friday"
     ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/world/2026/03/15/rwanda039s-outlook-revised-to-stable-by-fitch-as-funding-uncertainty-eases",
+    "title": "Rwanda's outlook revised to stable by Fitch as funding uncertainty eases",
+    "fetched_on": "2026-03-15T17:30:12.135750+00:00",
+    "content": "KIGALI, March 14 (Xinhua) -- The Rwandan government on Saturday welcomed credit ratings agency Fitch Ratings for reaffirming Rwanda's Long-Term Foreign-Currency Issuer Default Rating at \"B+\" and revi… [+2045 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Xinhua",
+      "Fitch",
+      "KIGALI",
+      "chars",
+      "Rwanda",
+      "ratings",
+      "Rwandan",
+      "Saturday",
+      "Issuer"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/morgan-stanley-not-worried-equitable-163151027.html",
+    "title": "Morgan Stanley Not Worried About Equitable Holdings (EQH) Exposure To Private Credit",
+    "fetched_on": "2026-03-15T17:30:29.842725+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EQH",
+      "Holdings",
+      "Exposure",
+      "Credit",
+      "Stanley",
+      "Worried",
+      "Equitable",
+      "Private",
+      "Morgan"
+    ]
   }
 ]
