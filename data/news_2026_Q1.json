@@ -183846,5 +183846,45 @@
       "Position",
       "Nuveen"
     ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2026/03/14/private-credit-meltdown-how-wall-streets-blackstone-kkr-apollo-ares-blue-owl-investment-craze-panic/",
+    "title": "The $265 billion private credit meltdown: How Wall Street’s hottest investment craze turned into a panic",
+    "fetched_on": "2026-03-15T08:39:32.385806+00:00",
+    "content": "It was a glorious time to make money. From early summer 2023 to the close of January 2025, private equity stocks staged what may rank as the single biggest surge, over a tight time frame, in the anna… [+13889 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wall",
+      "Street",
+      "billion",
+      "meltdown",
+      "money",
+      "private",
+      "time",
+      "credit",
+      "hottest",
+      "investment"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/submission/17345588/ny-times-credits-python-for-making-interest-calculation-easier-than-assembly",
+    "title": "NY Times Credits Python for Making Interest Calculation Easier than Assembly",
+    "fetched_on": "2026-03-15T08:39:32.385806+00:00",
+    "content": "\"One early computer language was Assembly, and it was devilishly hard to write,\" explains Clive Thompson in this week's New York Times Magazine cover story, Coding After Coders: The End of Computer P… [+2272 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Assembly",
+      "chars",
+      "Coding",
+      "Coders",
+      "Times",
+      "computer",
+      "Credits",
+      "Python",
+      "Making",
+      "Interest"
+    ]
   }
 ]
