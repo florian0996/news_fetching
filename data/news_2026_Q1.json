@@ -183686,5 +183686,85 @@
       "Ointment",
       "Advanced"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/panel-calls-for-making-upi-viable-cybersecurity-better/articleshow/129567591.cms",
+    "title": "Panel calls for making UPI viable, cybersecurity better",
+    "fetched_on": "2026-03-15T02:36:24.895710+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "UPI",
+      "EMI",
+      "Panel",
+      "viable",
+      "cybersecurity",
+      "loan",
+      "calls",
+      "making",
+      "CalculatorDetermine",
+      "monthly"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/repaid-your-car-loan-but-unable-to-sell-your-vehicle-may-still-be-marked-as-hypothecated-to-the-bank-you-need-to-do-this-now/articleshow/129548854.cms",
+    "title": "Repaid your car loan but unable to sell? Your vehicle may still be marked as hypothecated to the bank; you need to do this now",
+    "fetched_on": "2026-03-15T02:36:24.895710+00:00",
+    "content": "Paying the last equated monthly instalment (EMI) of your car loan often feels like a major accomplishment. After years of making monthly payments, you finally reach the day when the loan is fully rep… [+5456 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "car",
+      "loan",
+      "Repaid",
+      "sell",
+      "EMI",
+      "unable",
+      "monthly",
+      "Paying",
+      "chars",
+      "bank"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/online/newsmax-host-greg-kelly-rips-hegseths-iran-trash-talk-save-it-for-your-podcast-bros/",
+    "title": "Newsmax Host Greg Kelly Rips Hegseth’s Iran ‘Trash Talk’: Save It for Your ‘Podcast Bros’",
+    "fetched_on": "2026-03-15T02:36:24.895710+00:00",
+    "content": "Credit: Newsmax and AP Photo/Kevin Wolf\r\nIn a Friday X post, Newsmax host GregKelly ripped Defense Secretary PeteHegseth over his “trash talk” amid the ongoing U.S. conflict with Iran, emphasizing th… [+2267 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Newsmax",
+      "Iran",
+      "Trash",
+      "Host",
+      "Talk’",
+      "Save",
+      "Podcast",
+      "Credit",
+      "Photo",
+      "Kevin"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00814-3",
+    "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
+    "fetched_on": "2026-03-15T02:36:24.895710+00:00",
+    "content": "Credit: Kevin Frayer/Getty\r\nChina is pledging to use extraordinary measures to support the country's bid to become a global leader in artificial intelligence, quantum technology and other cutting-edg… [+3787 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Credit",
+      "Kevin",
+      "Frayer",
+      "Getty",
+      "chars",
+      "Top",
+      "tech",
+      "intelligence",
+      "quantum"
+    ]
   }
 ]
