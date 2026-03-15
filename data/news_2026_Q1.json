@@ -183983,5 +183983,45 @@
       "Stock",
       "Hold"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c824a1d0-ac1c-49fc-ac67-f6a64e5cf459",
+    "title": "The $265 billion private credit meltdown: How Wall Street’s hottest investment craze turned into a panic",
+    "fetched_on": "2026-03-15T10:32:36.675015+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Wall",
+      "Street",
+      "IAB",
+      "billion"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/265-billion-private-credit-meltdown-080000628.html",
+    "title": "The $265 billion private credit meltdown: How Wall Street’s hottest investment craze turned into a panic",
+    "fetched_on": "2026-03-15T10:33:05.349883+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wall",
+      "Street",
+      "billion",
+      "meltdown",
+      "panic",
+      "private",
+      "credit",
+      "hottest",
+      "investment",
+      "craze"
+    ]
   }
 ]
