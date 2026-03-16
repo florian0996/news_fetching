@@ -186452,5 +186452,125 @@
       "Hauptversammlung",
       "Kapitalerhöhung"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-16/private-credit-default-rates-to-reach-8-morgan-stanley-says",
+    "title": "Private Credit Default Rates to Reach 8%, Morgan Stanley Says",
+    "fetched_on": "2026-03-16T23:34:09.400824+00:00",
+    "content": "Default rates in direct lending will climb to 8% as advances in artificial intelligence continue to disrupt the software industry, according to Morgan Stanley.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Default",
+      "Morgan",
+      "Stanley",
+      "Rates",
+      "Reach",
+      "Credit",
+      "Private",
+      "industry",
+      "direct",
+      "lending"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-16/delivery-hero-downsizes-loan-widens-pricing-amid-market-turmoil",
+    "title": "Delivery Hero Downsizes Loan, Widens Pricing Amid Market Turmoil",
+    "fetched_on": "2026-03-16T23:34:09.836687+00:00",
+    "content": "Delivery Hero SE has downsized and widened the price of its loan offering to gauge investor interest, after the food delivery platform struggled to gain traction in the primary market in recent days amid market turmoil, according to a person familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Market",
+      "Hero",
+      "Delivery",
+      "Amid",
+      "Turmoil",
+      "Widens",
+      "Loan",
+      "Downsizes",
+      "Pricing",
+      "interest"
+    ]
+  },
+  {
+    "source": "Variety [NewsAPI]",
+    "url": "https://variety.com/gallery/oscars-2026-executive-arrivals-red-carpet-netflix-disney-warner-bros/",
+    "title": "Oscars 2026 Executive Arrivals: Hollywood Honchos Assemble",
+    "fetched_on": "2026-03-16T23:34:08.793550+00:00",
+    "content": "Image Credit: Alberto Rodriguez\r\nToronto International Film Festival’s Anita Lee, Cameron Bailey, Telefilm Canada’s Julie Roy, TIFF’s Jeffrey Remedios and National Film Board of Canada’s Suzanne Guèv… [+105 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canada",
+      "Film",
+      "Executive",
+      "Arrivals",
+      "Hollywood",
+      "Credit",
+      "Alberto",
+      "Lee",
+      "Cameron",
+      "Bailey"
+    ]
+  },
+  {
+    "source": "The Star Online [NewsAPI]",
+    "url": "https://www.thestar.com.my/news/environment/2026/03/16/planetary-health-matters-living-beyond-the--planets-credit-limit",
+    "title": "Planetary Health Matters: Living beyond the planet’s credit limit",
+    "fetched_on": "2026-03-16T23:34:08.793550+00:00",
+    "content": "IMAGINE constantly living on a maxed-out credit card. The bills continue to arrive; the interest consistently compounds, and yet you keep spending as if the limit does not exist.\r\nThis is what many n… [+6410 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Living",
+      "Matters",
+      "Health",
+      "IMAGINE",
+      "credit",
+      "Planetary",
+      "card",
+      "limit",
+      "planet",
+      "constantly"
+    ]
+  },
+  {
+    "source": "The Globe And Mail [NewsAPI]",
+    "url": "https://www.theglobeandmail.com/business/article-homeowners-credit-score-mortgage-equifax/",
+    "title": "Homeowners with stronger credit scores are increasingly defaulting on mortgage payments",
+    "fetched_on": "2026-03-16T23:34:08.793550+00:00",
+    "content": "Open this photo in gallery:A sold sign sits in front of a house in Toronto in July, 2022.COLE BURSTON/The Canadian Press\r\nHomeowners with stronger credit scores are increasingly defaulting on their m… [+4811 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BURSTON",
+      "Homeowners",
+      "stronger",
+      "credit",
+      "scores",
+      "increasingly",
+      "defaulting",
+      "July",
+      "chars",
+      "Open"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/entertainment/hollywood/oscars-2026-winners-live-updates-98th-academy-awards-winners-list-best-actor-actress-director-10583061/",
+    "title": "Oscars 2026 Winners LIVE Updates: Sinners, One Battle After Another lock horns one last time; Timothée Chalamet, Michael B Jordan vie for top honours",
+    "fetched_on": "2026-03-16T23:34:08.793550+00:00",
+    "content": "Oscars 2026 Winners LIVE Updates: Sinners (R) clinched 16 nominations this time, while One Battle After Another follows closely behind with 13. (Credit: IMDb)Oscars 2026 Winners LIVE Updates: Amid th… [+6342 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sinners",
+      "Winners",
+      "Updates",
+      "Battle",
+      "LIVE",
+      "Oscars",
+      "Timothée",
+      "Chalamet",
+      "Michael",
+      "time"
+    ]
   }
 ]
