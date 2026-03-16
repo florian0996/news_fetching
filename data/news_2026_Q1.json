@@ -185010,5 +185010,166 @@
       "Santander",
       "Bank"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-16/italy-s-unicredit-makes-takeover-bid-for-germany-s-commerzbank",
+    "title": "UniCredit Makes €35 Billion Takeover Bid for Commerzbank",
+    "fetched_on": "2026-03-16T07:21:06.913194+00:00",
+    "content": "UniCredit SpA made a €35 billion ($40 billion) takeover bid for Commerzbank AG, while saying it doesn’t expect to actually take full control.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Commerzbank",
+      "Bid",
+      "Takeover",
+      "Makes",
+      "control",
+      "UniCredit",
+      "SpA",
+      "made",
+      "n’t"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/mlb/article/world-baseball-classic-samurai-japan-outpitched-outhit-and-outmanaged-by-venezuela-in-quarterfinal-loss-064057682.html",
+    "title": "World Baseball Classic: Samurai Japan outpitched, outhit and outmanaged by Venezuela in quarterfinal loss",
+    "fetched_on": "2026-03-16T07:21:05.492191+00:00",
+    "content": "MIAMI As Pitbulls Fireball thundered from the stadium speakers, Shohei Ohtani readied himself for one last chance.\r\nStanding in loanDepot Parks third-base dugout before the bottom of the ninth inning… [+6318 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Classic",
+      "Samurai",
+      "Shohei",
+      "Baseball",
+      "Japan",
+      "Venezuela",
+      "MIAMI",
+      "Pitbulls",
+      "Fireball",
+      "Ohtani"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/advance-tax-deadline-today-can-you-pay-the-final-instalment-on-15-march-via-credit-card-11773550703669.html",
+    "title": "Advance tax deadline today: Can you pay the final instalment on 15 March via credit card?",
+    "fetched_on": "2026-03-16T07:21:05.492191+00:00",
+    "content": "The deadline for paying the fourth and final instalment of advance tax for the financial year 202526 is due on Sunday, 15 March 2026, where taxpayers are required to clear their outstanding tax liabi… [+2803 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "tax",
+      "today",
+      "card",
+      "Advance",
+      "final",
+      "instalment",
+      "deadline",
+      "pay",
+      "credit"
+    ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/irish-news/i-could-do-better-paintings-visitors-to-the-national-gallery-complained-about-nudity-and-too-many-religious-artworks/a1132238922.html",
+    "title": "‘I could do better paintings’ — visitors to the National Gallery complained about nudity and too many religious artworks",
+    "fetched_on": "2026-03-16T07:21:05.492191+00:00",
+    "content": "Visitors to Irelands main art gallery complained of nudity, too many religious paintings and transgender tours.\r\nThe National Gallery of Ireland (NGI) was also criticised for lending some of its most… [+78 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "visitors",
+      "National",
+      "Gallery",
+      "complained",
+      "religious",
+      "nudity",
+      "NGI",
+      "paintings’",
+      "tours",
+      "Irelands"
+    ]
+  },
+  {
+    "source": "CNBC Markets [RSS]",
+    "url": "https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html",
+    "title": "Big Tech purchases of carbon credits explode amid AI race, with Microsoft leading the way",
+    "fetched_on": "2026-03-16T07:21:20.216253+00:00",
+    "content": "Carbon credit purchases by Amazon, Google, Meta and Microsoft skyrocketed in 2023, based on tracked purchases.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "Microsoft",
+      "carbon",
+      "Amazon",
+      "Meta",
+      "Tech",
+      "purchases",
+      "Big",
+      "race",
+      "based"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/unicredit-legt-uebernahmeangebot-fuer-commerzbank-vor-15557680",
+    "title": "Unicredit legt Übernahmeangebot für Commerzbank vor",
+    "fetched_on": "2026-03-16T07:21:21.594790+00:00",
+    "content": "<p>FRANKFURT (dpa-AFX) - Die <a href=\"https://www.finanzen.net/aktien/unicredit-aktie\">UniCredit</a> hat ein Übernahmeangebot für die <a href=\"https://www.finanzen.net/aktien/commerzbank-aktie\">Commerzbank</a> vorgelegt. Den Aktionären werde ein freiwilliges öffentliches Übernahmeangebot in Gestalt eines  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Die",
+      "href",
+      "Commerzbank",
+      "FRANKFURT",
+      "Übernahmeangebot",
+      "Unicredit",
+      "für",
+      "dpa-AFX",
+      "vorgelegt",
+      "vor"
+    ]
+  },
+  {
+    "source": "Finanzen.net [RSS]",
+    "url": "https://www.finanzen.net/nachricht/aktien/uebernahmeangebot-unicredit-unterbreitet-offizielles-tauschangebot-fuer-commerzbank-aktien-00-15557660",
+    "title": "UniCredit unterbreitet offizielles Tauschangebot für Commerzbank-Aktien",
+    "fetched_on": "2026-03-16T07:21:21.594814+00:00",
+    "content": "<p>• Offizielles Tauschangebot von 0,485 UniCredit-Aktien je Commerzbank-Aktie.<br />• UniCredit kontrolliert durch Direktanteile und Derivate bereits knapp 30 Prozent<br /> • Außerordentliche Hauptversammlung der UniCredit für Kapitalerhöhung bis 4. Mai  ...</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tauschangebot",
+      "Prozent",
+      "offizielles",
+      "Außerordentliche",
+      "Direktanteile",
+      "Derivate",
+      "Hauptversammlung",
+      "Kapitalerhöhung",
+      "UniCredit",
+      "für"
+    ]
+  },
+  {
+    "id": "51f744383d99257f2fa0d180fce71d8a",
+    "source": "Luca Frignani | Exaloan <luca.frignani@exaloan.com> [Newsletter]",
+    "url": "",
+    "title": "FW: Most active investors in European AI",
+    "fetched_on": "2026-03-16T07:21:22.463495+00:00",
+    "content": "\r\n________________________________\r\nFrom: Sifted Daily <sifted@sifted.eu>\r\nSent: Monday, 16 March 2026 06:18:42 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna\r\nTo: Luca Frignani | Exaloan <luca.frignani@exaloan.com>\r\nSubject: Most active investors in European AI\r\n\r\n+ the curious rise of Londonmaxxing ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\r\nView in browser<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfkH5nR3bW6N1X8z6lZ3lTW5RkL9x1DzWzwW7trcf01l9_60W2f2rzT56vSD5W4cfkwR2LS8s0W8TLkNG29B7BNW7ml83f3PrbjyW8v0C7t20t0VxW3zYJFW30DnsFW5vC9Lv8BmK-RW62hT1n30C8qwW86vjJs5_nW_BW1LggWw6dgYx3W7Gw5yV5vSZVZW8X8zZB8KwkkzW2trcNN8F27vtVYjn576mf0NnW5yh37L67BnwJW90jz_X446vGkW8G6dcJ7_R8vqN6NCXGQp7xF5W1PcT3_1bfNKLW6fHshM98d3pTVwkPYj17wnxKW1MrJqT205X4YN2ZztjyYr792W5znqZR4Zx55JW47C1925-NNhcW885KKR10-7Z9W4Y3XzM38Lxx_W8Jwbk97VMzynW63t-0k77HrBZW6YS2Sl6lp93FW1Gyg1V3f7hhXW1rn9ts8r1wl6W5nFc4-4sR3ysN8pQXdvdHyZXW8Py7yp3kR0kpW3j6r8h4dxTV-f3RDhF004>\r\n[Powered by DBT_flagship] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3nyW7nV2q86VYcj8W45vh3s7DrRgDW3xqWcv6d6tYDW32jhy81rtql-W7Lsz2Y4wLVx6W66n90C6GkW3LW6T5qth9hMtXcW9gKqj96p52QwW18Tp6-5dSxFkW53NjrY6316nVW31-2qC8Xw7pWW7Kb9Ns2lk7HxW8PYzz_6XTJYjW7zTYpf3gWY4CV12msm7KGhWzW6RCkTC5BLVj-W3-Kl_14Pl8GFW4ysf8Y4jbz-6W6bRYby8FjXlrW67QG6x4p1CC-W2FW6bp6JRm9gW7t4_b57h51x5W8S8cH95l71hFW6BxDXv4g5DqLW6vhLJL1rVHMNW6QK2Rv5TqfPTf8__g_l04>\r\n\r\n[Sifted_Daily]\r\n[Author-Martin]\r\n\r\nby Martin Coulter\r\n\r\nGood morning Luca,\r\n\r\n\r\n\r\nOver the past week or so, a curious new phrase has been bouncing around the UK startup scene: “Londonmaxxing.”\r\n\r\n\r\n\r\nThe idea, popularised by a handful of influencers in and around the industry, is simple. If you want to maximise your chances of building a successful startup, get to London! Spend enough time bobbing around Soho cafes and Shoreditch coworking spaces and, before long, you'll collide with the cofounder, investor or engineer who changes your trajectory.\r\n\r\n\r\n\r\nAfter years of tech bros dismissing the capital as a crime-ridden hellhole and dreaming of relocating to Dubai, the sudden enthusiasm for London feels like a big U-turn. A combination of spring sunshine, blockbuster funding rounds and buzzy AI meetups has prompted some in the ecosystem to rediscover the city's virtues.\r\n\r\n\r\n\r\nBut the recent excitement also raises a question: what exactly is new here?\r\n\r\n\r\n\r\nLondon has long been Europe’s deepest pool of VC money and entrepreneurial talent, giving rise to fintech giants like Revolut and helping nurture a growing cluster of AI startups.\r\n\r\n\r\n\r\nIn today’s column, I explore the curious rise of Londonmaxxing — and why the city's strengths have always been plain to see.<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflz3qgz0W8wLKSR6lZ3pCW1r2vPr4rsXWpW80Js1Q60CKG6N28tvBPPP5dzW3t7dyB2Gxl5-W4sYNX87rHbBCW2mqv5D6Q5zL5W3FVvSM9fd86bW5VWmv82J8x5HW6ShcPf4dZPtBMR6-L1Zl7ZMW1CcKXH5GNjCRW1YMrmQ4JpJ1cW1MWmd57076fVW1Wpk_31-XvQBW6db9Tx1N6L9gW5mFqxS3SNHJhTDCRG4lnt-qW8zqSJM3r1G04W22NL2B4m9hKHW6p9wYs5bqv2yW4TxF2F852lfNW8ZLV395x2tLSW4PWbwL4jwGGBW5FydJs4_V0QzW8Gpbsr1tWyCGW227Krc1TY_vhW3GSt9K7VVy_nW4RVpZT7fgyTCf1xRSF004>\r\n\r\n\r\n\r\nElsewhere today:\r\n\r\n  *   These were the most active investors in European AI startups in 2025<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflz3qgz0W8wLKSR6lZ3lPW4vNzrr598pkmVSX15y1WDd_LW7pv00s6_-NL4W76NKVS223XL-W65pXPP6k9nl8N2mNk1WFFFLxW2Jy0DV1y2Zm_W5-yv9p1MlFypW71WYd58NSn4rW5Ps67f6-khfQW3pkykt5Fmt3RW78CWvP2KNRPWW4SPvVS844NNjW9dSXNb7GSwvzVz4cTl3CFffLW6wsT8B1cxhv3W1n-cVl13Pc2QN8NYtyPG4q-FW1-TM-X8N3Q9bW22ldBf5_PglKW506phV1xYDJcW4TL4c24Dl7WfW5qx3g25VqCwGW2m_NQ41qXjY1W3M9LxC59T7pkW3dYvNn12SxrYW6wYmJn3dcyB-W5GwTnY7fX479f42RjJY04>\r\n  *   Hélène Huby, CEO of The Exploration Company: ‘Only the crazy people change the world’<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3nPW7t3rHC3vMrfjW8fn48q4qgFTNW3ZYZM087m-N-W2YdXwM2XQq0KW1CvmTW2WmtycW1s1J9k4M2pZxW4H2YpC2-Zm3sW33tvqN5QRmHvW3ZMxDF3HNSlpN1D2Fb1KbL6VW8Ykkw37zYGftW5nrRxs7xMC0vW15-R_X6hHHHJW8FGKDc6sCqrhW7FKJ225g6hr6W3zK9CW1s-m-lW13F5qr2YyTkcN3kBDbtFlJ8SW12kPKR781SKwW2qGskS8yX9NgN5QZxLLkps_yVvyBLc8ySJGyW4G8s513m10kFN72h9yCKXLptW1H7VGQ2vHB24N6MckgqHtH0Kf96CXmv04>\r\n\r\n/A message from our sponsor UK Department for Business and Trade<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3mwW4vN8NT7V9rQnW34625h34mjhyW8558Q81Bz3qRVyZB_02sZ5FWW4D724Y8bbKYXV9G-181YR8sRW9hyrls39PY5jW13M5N88DMsT3W6dJCwm1xB0WbW6GlGV24-6xQ3W82mlM84jkXcBW69-3Wv77-rRVN6jSZ2G4Z9XTW1ztJcX7-5SRmW1sz4Zs3ghyWSW46Mrw41r-TjbW4kX2-27WzfcqW5VhF8Y1Yr54HMRkcf1xY-MFW6H2Ptx4GFX1ZW4d-NZG8B4qD7N5PMH05xtLjBVsHn_z7G9-SCW2GJMCq15PwW0N2TvhHg1mcXlW40svfX3_Cm-3f5mZTsC04>\r\n\r\n\r\n\r\nThe UK’s tech landscape is transforming — and fast <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3pmW4Xm19Y63YqvmW3VKM2N6fY8JMW91HtF82xBgl-W43LtXp9jChM9W2yHkZP5Hh5yHW8-lK6v11lHFjW8yBT_n3LBJh3N7F7rlRwyf5NN7PcCMxgTfmjW6J5TyY2Mb2CMVZ2qfK6rQbRkW9gSbXs55MrQHW12qCVp7BZhvFN5N1srwX1bF3W3KWJ375tMnfbW29C0g95WjYs6VpQpXt36X32KW3rS9Rt8gQK4_W6gytWg2038_xW3bPx512--CjpW1Cs7Nt8SmBzrW8gYG-z4pjqt-W3v31G95RQ6HlW7z4lsP769N26W3w0-k02HcctnW8zbJbT4qmt8jf4l92wg04>\r\n\r\nIt isn’t just London calling, but a new wave of innovation is rising across the country — from quantum breakthroughs in the West Midlands to deeptech engines in Scotland and semiconductors in South Wales to creative biotech and engineering hubs in Bristol. This interactive piece spotlights the UK’s most investable regions and the founders building with purpose.\r\n\r\nRead it here <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3kxW5Bl5j81G6MQTW2b8Lb31htMdGW1k5pZX3f531GT7ndr3rPR6gW9fj--Y1sHvl-W8S-6Tn8CQSpgW1ZWKkc754zPqW30JC-X96WJV9W93FQJ04QQkqnN1nNykrpx576W5W3XJl3XtzCWVvJTVP3KlsvkW5qf_hj69KjtXW3YWjb193tbJfW107BvM69dpCPW9jyq2S5dGgtRW1qfxkK1NjTW6W38C0yK7xQjQVW6wc3G24pFc-GW3K7tDC4R17fnW8Xrx4F3RyF_dV-zNJb545d9RW23W8Y09032_tW5BVd7t3q4xjCW6gw__12tS5-HW5Cmz0877qbkzf1y75F804>\r\n[The News]\r\n\r\n🇪🇺 EU Inc has warned that leaked plans for the long-awaited “28th regime” do not go far enough.<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflz3qgz0W8wLKSR6lZ3n2VFb52457GpwdW4s30BW26YW5dW5KCzd03lPylWW6CcS9L8tlPrrV8Kd4t2jSzw0W2tXM8z8s-G9YW99X0dz55Z03RW5tzRVZ2cdfMrW83YsmG5ZLb5MW2PRBr63vmx29W6wPBz212CfhGW5QqNq32Wn-QQW34P7SJ2_l7J2N3swJ4_pxRpXMmZxNvzxL3jW3jHFGm2WZ2_qW5NgVhD8YMSZsW52j_wS6xvT6kW16tB604st-ncW8vmJwG74zyyTW1w024k82J_4KW87N32l7c9qGLW4l_ch14jPJffW8ckBJy4hN6twW92CspF3_3rxnW2vXjJR60HJL5W8Wh8py5klT3_W2nsZ_n39VtSff3--p2C04>\r\n\r\n[Podcast]\r\n[Youtube Helene] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3l_VYFRLp5dsYgfW3fB3sZ6tlWv4W2Hwsv63fV2X9W8w-9qT9f0tQ_VJ1vPX23yYXBW8gv1jY2s5R19W89r62v6g5m1kW1lfTT77r8bhJW4xvdH91fvv7sW66dhRw962mGFW76J7kb90fmGGW26v_mH4MsxCNW8WgWxW3CC7HHW8j155b2j-KCsW63Pqhc2yszPkVVsYw04mjl7VW6lLkVw5HG_0nW5RWLgl3j9xCcW4WwjS-5qhqz6N4bRwM_8g-FXVcS_bq99wWytW5D9YmM4W3jRcW4MRtx07XnMpSW6wM77p6mF6f5W3D92dK9fVPHwW2hxWHb3b6BJPd7SbGg04>\r\n\r\nHélène Huby, CEO of The Exploration Company: ‘Only the crazy people change the world’<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3lGW17t71S31bG3PW1gfQH93rl9yDW3t30_F34F0srW8_kS0M8xDXWfW9gHtJ86Z_dMgW2h5dvD4ggnBkN9lPGmJzw65zW8d1Rcl5KQ8gGW6f2MxM14yFq8W2mTwhN7r0VVkW8zpCxF5pY9KtW2bs-p55kMj1LW4tVGr38yDjQKW1S93wW7r2xfwW1YDFM_4S3p6VVhZ6sm2qcDZbW39t0tb6_FLN3W7BlHKs9klKCKW7vzG-p7lNHC8N7bSpBDq-GgMW50_scx44rjzTN1csp4Dc79LZN6VnX2V1FkNTW1gJ_Tf5QCXgWW3SbYkj81s6KDW5p3m5y9fqCf_dgFK9Y04>\r\n\r\n\r\n\r\nHélène Huby, founder and CEO of spacetech startup The Exploration Company, is not afraid to take risks — or fail.\r\n\r\n\r\n\r\nHer company, which is only five years old, builds reusable and refillable vehicles to carry cargo to and from space stations in low-Earth orbit — and beyond.\r\n\r\n\r\n\r\nIt’s already (semi-) successfully sent cargo into space — and back — at a fraction of the cost, and time, achieved by other companies.\r\n\r\n\r\n\r\nOn this episode of the Sifted podcast, Hélène shares The Exploration Company’s roadmap for 2026, including fundraising plans for a “significant amount of money” to build a high-thrust rocket engine.\r\n\r\n\r\n\r\nHélène and Amy also get into:\r\n\r\n  *   Why the space industry is set to more than double in value over the next decade\r\n  *   Collaborating in space during a decidedly antagonistic geopolitical moment\r\n  *   Contracts in the works\r\n  *   The ideal funding roadmap for a deeptech company\r\n  *   Dealing with very public failure as a CEO\r\n  *   And Hélène’s hopes and dreams for Europe’s space future\r\n\r\nWatch on YouTube<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3nwW7pl73g1BQpTcW3wxSMK1TQhJlN3f_K2XhLN9ZW25t_Kl21dbLLW28VRKW36WB2TW5c_9pf7T_-VhW34r26r190_SJW61R-nR1W202zW41pqSB8_sfb-W66FlzY7xf-z3W2N87KL8tDVD7N4FdcppWt2QMMFxQGt8tylTW2qqQRY1BnkCrW1930HL1QzgC6VHXLDG8RXsYCW1yLLx492wgDFN1yGhMbnw1BbVG67HS4n584vW94TGKn3g1l5ZW1J10Pt3C5p8qW2n-Q_t1SZqL-W2YFTlC6Dr37tW4FcsYl7YNdDpMfcb6J6pmnYW2z63mQ3b5t6Mf7gxRBK04>\r\n\r\nListen on Apple Podcasts<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfkn5nR3bW69t95C6lZ3m5W4Sy1r75GHT-QW73b4dP71RV8dVW1g1Q857TqBW5wD38r78VR01W3vQ_GT7rdWg4W26Q9xf9kZYwrW3VrGpC2JNnk5W1JQlh_1Fdz1CW4Wq1Xz2yFP_9W79h--p6v1n8KW3l_KPF9l9vHsW34vYCl6XHvW7W4MjgK85MP9QgW1-Nb5W8RwTxcVq91Tv214WS5W4QwXdK8N-wcyW8cGcVy50MxWGVL6TM02bsy5VW1P3lM31hTHVhW7s0xK_1syRl2W8gMRSx1NsG2gW2lsdmd59KJGlVk668r8yVTrWVBTXDW4zYws9N5B8R1nwFlkNW8Bjjdr3QBtNQW8mS8FS94_vP5VKTNlH479FYPW593KNG66RTlyW8FzyzD8fCqZsW45HYtj55pvPyW24LV2W7nYv7hW2h53dt3v897KW8vm3wN1XYGNxN3T5mcwJ6bshW6Lt-W729d8xJf4YsCBq04>\r\n\r\nListen on Spotify<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflT3qgz0W95jsWP6lZ3nNW5twxlc1lSxF6W3hJ8py5bnhf2W4lDfgZ96GJlmW8_1B1-2FrN0QN2j6cqn5bffdW799lr98d6xC4W8LYZQC2vvNh3W6PSJQm8zVn5FW5zmZwG2xGttYW5fkLW62PXXFxVlNMD-3mJchMW2RGfGS58pWkrW5vvCdf4h7ffcVv_g7M1Vk8vcW9f8v074dQYNZW5ZBYpD9gcmPqVgkt3P70Sv6dW43N4BL7KBn7zN3fnfV-SrMdfVBZWMX495g5NN6KSDC6J-9wQW1tPH_b3tMHtDW8psVSc5tsyNZW8RqMT25L08BwW4jnc7r52qxDDN4dsKt2m6Cw_W5c8MMN5m7Q5YW30ZcKb2X38mmN1CJ6SS8dLPYW9dvSr21rx_SQf1d_K9P04>\r\n\r\nListen elsewhere<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3mYW2TwZ4M7bTQtcW753jZ83bCSVcW1D1q9f5l4twQW6PXGMP5tXN2LW4CwP-g2rwpKMN2FLT5klQ6xxW5sCFLR4TyWWvW14QJC293nyKQV9BjBJ8KPmMnW3gWx6_1f8hF4Vbg9yT9dwL83W6JySSF2xL9KTW3QgBc-6NN2w9W6JPFgf58C74HW8WqFJH11pJNqW1bkYGL30-KtQN6zzF-9ZJrV8W28MnzC7ds32FW3rHjXf3WVTZkW1PK0jY7QSpsVVLnTgT5s5QnSW9klVdt7DrFFBW8VlXrm3GxRtSW5vwyNt7gQ5T2W2YnBPw1DdW42W3NlP728Yg1W2f12lqK-04>\r\n\r\n[Must Reads]\r\n\r\n🇬🇧 Londonmaxxing has got my cortisol spiking. In this week's Sifted View, news editor Martin Coulter asks how long the ecosystem's newest mantra will survive. <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflT3qgz0W95jsWP6lZ3pzW9cvyPm5z83wNW96MySw6KPdg8W8lmdbP7ddXN1W4C8LRm25xtRkN75b2nV2G6S2N7lqJWnc5PZvW58fS3N6JDj38W6ZCx0D4DJ5C8W8DYBpH3QZh9nW3nnb0-8RXL11VQpky11XWkj3W8R1ZjP11CKpmW65VkBz8w3PxTW6vGVD92QgbFHW25MbWv68MvSXVxld9c8lq7BsW5cLrQd5MVVnSW7VcxN79knzG1W48BRVY2g1kzrW5jrCGF1YzqMZW74fFCK3PJ4S-W2xrWX34f84gRW3LNqQb4B3zTlW6NwWVv1-7gvTW1D3vXR1MNRbcW41X7cS3cYQ5hW1S-w7Z2kgPCGW7_bQ1Q4VqqFtW67mx6P2YftJDW5YTWX08SbjVCf22R9Md04>\r\n\r\n🎩 European growth funds are coming. VCs and public funds are rallying to fill the ‘growth funding gap’.<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3l2W791R3f15CxWCW16DB8T7xmXrsW1W4Hnz5jcS7XN7w9MybFm1BWW8lHCvV8RsDCjW3bdh0N8y0BLNW4lGSLQ8DFCMRW15QSMK18DlmrW6jsPfh9b_H9QW3fZXtk3k5Zg0W1TGDhk1YqRk_W26S0j-3p452XW8cVHCz32ZdCdW5KlZTK2-Tv3ZW5lgDNW7ZV-GJW2XBdwh6yBw90W36-1RL79-WWVW8yq7Y2262SqJW9m389b1gryZXW8JKWT27p90xGW5wRPZ04SGWmNW3zrhrz6MMpLPW1mwW9454sXhJN3PzDGGb5Q1MW12Nhqn5QL-tZW7Kb7tZ25_Szcf8LnfpT04>\r\n\r\n\r\n\r\n🤑 Breaking news: There was a lot of money invested in AI last year. Okay, we all knew that: but who were the most active investors in European AI startups? <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflz3qgz0W8wLKSR6lZ3nbW3_lFq37sG__TW7VfNpg28PCvVW2L12m84qF3lxN11JxY-G5flwW1RPn_M4_WPcQW4H3bhW8BR4x1W7vVlWl8vmwpNW50W_LF6ctFBFW3vKZ127VwYFRN5rpWZLz5wNpW23bgl94L67hdW2vDxj71jC2yhN7HgPj55NDrWW919Chr7d1bhzW8QJMjm1Yt-xMVhz2ZC16KdTFW7XSDfL7mVCk4W2yBg6-3P42s_V9G8Fd2yv2kFW115Dbt5pV2ZgW2CSqxf5z1d7dW71hvL81Lg9nNW5ddstp2__2BJW6GnSbQ6vmYT4W3GQ5cg5QTsLkW8KLPtv89mZdmW3l53Vl7vqgfcW7wVPxJ75xkFPf3gKmVv04>\r\n\r\n\r\n\r\n🌹 20 AI startups to watch. Station F launched a Y Combinator-style AI accelerator last month but mysteriously didn’t name the first batch of participating companies. We’ve finally got hold of the names here<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfkn5nR3bW69t95C6lZ3kwW9jBnnH7dp7LvVFtlkW3_61kbVkK1Dv4zdMJ9N4jV5jtVyG2jW1kbFRM8GHnL7W5D6wD5568-RNVl4HrS3Yr-j9W8pr7zd3LFkFHW3Pd2br2_RRPsW2hkLV-5S5Jj5W4nygbs3_PPWmW7Gh7l76WxVbzN9583SWS5mMxW3cQXly6xWFVGW732SgV281VgwW29Ftyg1MnVhnW5klb1J54Wlf2W84TZkD4yjK0kW3FCW4y7GXWChW7HSs2H54d2P4W7pcjyw1DQQrwW7W0sXV5lhx-pW28m3lV3BTMnrW63Pth43kKgfzW8jBCS-1sZwGYW2B49_l8Cbw3YW4cMngl4FPx4pW8x-M4n4_GLH2W8nN8zF4wD8ywW1v-lMY5csndvW5xL9Q93H2BR_W1Bvkkl6j-y0sW1rG2RH3ktW13W5FhHsr9kZgJGW9fzswD2Z8k1lW3GLj1Z3xGgw0f3bNgfY04>.\r\n\r\n[Sifted Talks] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflT3qgz0W95jsWP6lZ3mfW2QRPTS4S4bJFW7Gm0S73-kNRWW6H2Kp4317nGTW4rl5-34t3cQ2W4l-fBF2wYQ98W33CwqP6_zBf4N4Rlsvj_X_R1W2pbwvJ7yn6G8W7ds6mW4VcZ8LW1_dtD61wBhRpW1nwpll5FFNRGV84gBF8xLlgcW71453W7r08bhW3m3nX138FWPcW5Sfsl22ZRV4hW6Z0nx-2NggVYW7BCjjv58CmLzN5SRn0fLh8-_W58Cpwd1yVX0qW6yBmVQ812pnMW3CWG2p8tBD6nW7JLsST4Z6204W4nc5VM1755mqW8Qv4rx4NKNB4N6W54grq4W3WW434RC55ZHK3rVSjTG86FFQJ7V4KFgq8yqlqSW9fHZ3R4bY5pQW6Tvtws7FpmHjf3gzYN204>\r\n\r\nToo many AI tools. Not enough results?<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflT3qgz0W95jsWP6lZ3pJW7GQ71v3xVwbzW5CH5lh994hLQW7NR1jr79ymHtW1tvBX18jlfKFN1hRlQZ2QlvbW1WQd3j4hjtttW6l_5074QnfK0W84-ZwJ82CFbGW3G2Nwb980cCFW2wvgZs3jLYFCW8fxx_s54RTxFW2PRFBL20RlB7W4zKgF07s9cfZW89n_4B8v4VV9W4z-9b77dr539W8cwZjC7xxCWlW4v-5Hf5h-PbsN3FCTPm-DNNSW8FdVF216m6q_N2F9ZTq_YLznM2-xJ8s4jD_W5G9NmT5R2QFMVkmR2B8cyp1bW4GTnBn2ZwrrkW6KQGjg6tCSnYW6ZPD9n8y_lcyW1gdXdz8nYqnRN68v1_n21fmHW8kyLGT7l1pmzVx8RS_3m-j_lf2s-QDz04>\r\n\r\nLaunching pilots is easy. Scaling AI across your organisation without adding friction is harder. On March 24 at 12pm GMT, we examine where AI is genuinely saving time today and how founders can turn experimentation into measurable impact.\r\n\r\nJoin the session <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflT3qgz0W95jsWP6lZ3nVW3np0JY3CTQs_W2f7Qbq3DMwYFN1bQLLfQ1Y5bW3Mqrjy3DLvZ0W1XB9dz2bmY7DW7frHmr7YH2M6W3ynHN73Wj3Y9W7jpJvq6MWSJCW8cQB6032MCyqW3zfHTT3fSh2tN3_RxkRGKF6wW4BjzNB7-fQJLW3zvbM96SVRpqW1QpFB56Bs72_N5NHRkHBSfnbN3vS8nKFPcGhW7nYSj5843Y1yW90drPV10bn2hW8TpZL728bckpW31H7xs1rzLsbW1h7kWK42KS-4VBzDb21VcQWfW7VRP1-6xnJ1LW2SHr5C3pKT5QW1f_Z3X2-JGNvW8BXTbP7wDmytM_3VzvDm-9VW1XYBt385hy3wN84cNp6MnJftW6k536h5ws8mjf755JKC04>\r\n[Deals]\r\n\r\nIf you’d like to submit a deal, <mailto:news@sifted.eu> get in touch.<mailto:news@sifted.eu>\r\n\r\n\r\n\r\nNorwich, UK-based Tropic, which develops gene-edited tropical crops like bananas and rice, raised €91.3m in Series C funding. Forbion and Corteva led the round and were joined by investors including Just Climate, IQ Capital, ABN Amro, Invest International, Temasek, Five Seasons Ventures, Sucden Ventures, Genoa Ventures and Polaris Partners.\r\n\r\n\r\n\r\nNicosia-based Kodree, which provides an edtech platform for career switchers and professionals seeking upskilling, raised $10m in funding from PvX Partners.\r\n\r\n[Deals-Tracker-NL-desktop] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfk-3qgz0W7lCdLW6lZ3mWVflgZN5qXwYwW4_xKJx5ZZV_pW1D4TT794M28GW1pvCLv7QB3MrW5crhWT2lQmcQW75X__43Jsc0yW4D-bLp3GcpgDW19LdCS3gQzP1W1MrWlt5W-BpqW6DQ88t1d3qqvW1t4zS44M8j7zW989n8q43M1JCW5_J0kq4F-CRZW1bhK0b93qRj1W6HNRR75GpRD1W127fc61JrqLDN7SN9Ng_dsNJV4-2_L1vt85jVZRWLQ5Dk_JbN8PfFz8C4MdKV2GnTz8P6sndN2myfsPr2hJKW3F9R6P6mgqLxN7z96rPLSyGBf4pVTZg04>\r\n[Deals-Tracker-NL-desktop]\r\n[Deals-Tracker-NL-mobile] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfk-3qgz0W7lCdLW6lZ3l6W5jHKxG7CMVwfW1g4y_m8Jccv0W5xQ8b46XZBT1V3_sFq5yVc11W4-Np1t2ttSlfN3PhqrgWKDT4VS94LQ1cC5H7W1CR_d86lsNjQVXYsS681J0hRW39KxDr51jXdpW35B_dJ8YmZSvW89Krm-6FL_84W6YGBQy3TF3rlW7_gqqk3_gN-2W52DYwk3lzg-TVMzRXk8_CCy3N3pTrkk50V_dW8RhRd61WhWSnW7pZJl063PfS7W53bzrd5VL7D9W64q8Tr65vCBZW3Nf2PG4GVbQLN5QWcWZw5780MYzkJ7vB4Xcf1GsQj404>\r\n[Facebook] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfk-3qgz0W7lCdLW6lZ3krW380x6K2pHk-8W36FZz51QkZT4W45NLZq8ltwplN9lz8FwW58fnN7WdgBWLX8vVW3QLmCQ8TbFpTW4BwksW85Kd4kW2BXyln1KWd6HW7_cGz13l0ffXW2mdSFS8xXw-YW5wgz_n5qTSWHVywStg4xZDx8N5ngmhG9V2MNW38PktJ8wN5vXW63MYJQ6J12cqVGFQ543y1BlQW4fQWQP28YHr6N7CtFcNbD-sYN1dwpWFnGqcMW4zCssM99b1thW5Z_6X15w8DV1W3GPhXC3Lzv6QW8M60jz6xJ4ZxW4CBvZz6bPgxndG27wY04>\r\n[twitter@2x] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfk-3qgz0W7lCdLW6lZ3kDW51Z3J-8YJP-xVgFQ5Y86qsLGW1CGJp52wydMcW52NlsB1CvskFW2xf6ZM1WVV1dW1n3t2x5Slq3QVCKJcv4vh0MSW7zlN1b31wn5HVt3C9y7VTP06W7f_KxZ4zxrzGW2rnbbV1lgVn5W27lHl41-VbjvW5qp0zG4TxTCZW2fj03Z1YyK38W33V2gS8B8dhjW7qyhmT1WZRhzW5dVj9s4-7X3CW2Q7RWn8krpHVW76MM4T4DJ1LcW8cgtV_15ZDM6VwQCMC8mpWtNVGJnS13FMX54M_ztTBcPcN4W1M1j4p3mXxJ8f2WHp3b04>\r\n[Instagram] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfk-3qgz0W7lCdLW6lZ3krW82RnH27-1vZSW6TGjMP8HmlmBW8Vvwj63BCbw-W2F5WJJ230bTSW8v3-6w6Njwf_N9cHwmZLnjLZW36GpyK6rmtHwW8nsqWN754GDFW2D-R8V6vr_bdW6kb6gq6mYtK_W8yGBjF4Zj7hQW7NghBb7H-RqQVTmR2L6ZjLzjN1wng2J7xlJgW2YGvr98h3LNZW2hy8mR4fMD4KW7D4VN13xPP4FW5KH0mr84zgsGW5tcL3l5kW-SxW2FGmFP1Ls9ydW2QH5lf29WwJLW4CXn2883T9MrW8xgPNw67Y14WW7QVBZ88pQYDqdzXdfv04>\r\n[LinkedIn] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRflg3qgz0W7Y8-PT6lZ3kQW7SfCzY50VgBsW70rD1y7VJK4YN1cF9QPXjL0fW5rVL4h2Kvl3SW32HJNy4_3TyhW3j_5Y64c7N_7W7VzYv_1Qzst-W8HTW0m2H75KYW1QH76B95pzPcW6t-mVk6fkDDYW3NH10y77HZD1W2DbLhp3PBvpjW3rf43N6Q8-7FN3Wfn4lzyNWwW7VYXlN69frX_W5LWwqX7hl04ZW5By07Q3rJpWwW21gb3T9k_W6_W21378j22kdY7W4R90Zb4f1_xcW1SPqG550GdJsW10NB8l3CWjTkW5yClN682SmXNW194V3g6HgmQhW5ydHdQ5jSKfcW3sc32R3fP_kdf1d4NGv04>\r\n[Bluesky] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/MWLLHxLPvNnW6vnwQT8nF9XkW39GxQ75LJdDxMfRfk-3qgz0W7lCdLW6lZ3kWW5Rgpnv80mkKkW23dByB1hpyQpN87Qm0rBLlGKW1DKDTy5-gkSwW7R0JHS5dbddPW3TzPgp61p6WtW3TRW-V7ksWNcW8LX1cH2j6pclN4XFJmKx9N54W4FxTKs6PrtMTW64HKsN3HlQR7W9gQ4n_3SMN70W4mwLCd6jkc_LW51jj5b6c5RMkW6DwGjD6ZWPqdN8pJbvYPptQvW8hXFnt48t6KpW56Zcz385RjdtW1w2CYG62k5CpW8WfJR46Q132JW61gSpP7dH9b9W6L-qR487Tzy4W4m7N8K50HHcBN96FQKqMPmqqf2fmxYR04>\r\n\r\nCopyright © 2026 SIFTED (EU) LTD, All rights reserved.\r\n\r\nSifted EU Ltd, Thanet House, London, England, WC2R 1DA\r\n\r\nSimply unsubscribe<https://email.sifted.eu/hs/preferences-center/en/page?data=W2nXS-N30h-LtW3Q_R1w25fhFNW45vPHs2TtbpFW3ZGz053HbfrgW1XbB3p2WxKgFW3ZHRLy30lynwW34FJF_2CF0hPW2-8ggv4czkfbW1Lj_621BcDb2W2Hqmlv3GRFvtW45kd112B0d94W2nN-WW3BZmVcW212Xbv3f_zfkW30KvMC3-1TJ4W2-kvBM1V3KrbW3ZHjtc2CFYw5W2sR4bQ3yNzJKW4hL7zQ2vTnP9W2HFxyS3QVB-DW4kr6FT4cwRzXW3BP8R23S-R__W3dz5MV2MRsRQW2WF1Kc3W0b_-W3ZFFMN1V1cdtW20VJBk2TyjkNW4kcQqS43FvyhW4tqgZs3XZ654W43N-jk3dnxSCW3gnnYM3bbMVRW3yYcbP3NSgVwW1XtDk_34nFkTW3gqXbL4fG_DTW3ZwGws1X09XWW2vThkW1X13Y2W2CZ_hl1VrlClW3NGJNJ4hqwhGW3R2l_T3VG5xyW4pHTQB1NxrrlW36nSLD2-rGv5W2359Gw2Rs65mW2p9B253g6hJfW30rZsC1N7g_kW2PlxyW2Fq-KhW36CrfS4kshCgW2YCc5832qt_HW2MMM7Y3JVql5W32JmyS4hmWyxW2r3XZt2CwQ-PW3K6gHM47SNhlW2Rm4Sy32gwnJW32s8333ZTMxWW2vMwdF2Pv0RCW3bzPF-3F6fpjW1Vw0Bj2zPcz9W3H8XZX1BtNdVW32FzDP2zYYSlW38ctwT4pJbgt0&utm_campaign=Sifted%20Daily%20Newsletter&utm_source=hs_email&utm_medium=email&utm_content=408683038&_hsenc=p2ANqtz-9gFdr3aWdg1Shk5QdwqhI1HrjwUdiwqcrJmE9EcIMhFfLMRGr7ppr3IOAxBwG3bmV3wVKn-gqSvC8A8U942oF4t4y012JHXGx7pwDvXvXsJ8Vq1Po&_hsmi=408683038> to opt out of Sifted Updates.\r\n\r\n\r\nExaloan AG | Registergericht/Registration: Amtsgericht/Local Court Frankfurt am Main HRB 115711 | Vorstand/Executive Board: Luca Frignani | Aufsichtsrat/Supervisory Board: Andreas Höfner (Vorsitz/ Chairman), Dr. Tom Oliver Schorling, Thomas Nicolas\r\n\r\nDiese Nachricht und alle Anlagen sind vertraulich und ausschließlich für den im Adressfeld genannten Adressaten bestimmt. Bitte informieren Sie uns, wenn Sie nicht der vorgesehene Empfänger sein sollten und löschen Sie diese Nachricht und alle Anlagen in Ihrem System. Vielen Dank. Jede unbefugte Nutzung, Weiterleitung, Veränderung, Offenlegung gegenüber Dritten oder Fertigung einer Kopie ist unzulässig. Da wir nicht die Echtheit oder Vollständigkeit der in dieser Nachricht enthaltenen Informationen garantieren können, schließen wir jede rechtliche Verbindlichkeit der vorstehenden Erklärungen und Äußerungen aus.\r\n\r\nThis message and any attachment are confidential and may be privileged or otherwise protected from disclosure. It is intended solely for the mentioned person in the address field. Please inform us, if you are not the intended recipient and delete the message and any attachment from your system. Thank you. Any use, modification, unauthorized dissemination, distribution or copying hereof is prohibited. As we cannot guarantee the genuineness or completeness of the information in the message, the statements set forth above are not legally binding.\r\n",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Daily",
+      "Sifted",
+      "Hélène",
+      "Company",
+      "London",
+      "European",
+      "investors",
+      "Londonmaxxing",
+      "Exploration",
+      "CEO"
+    ]
   }
 ]
