@@ -186332,5 +186332,65 @@
       "Simple",
       "Accountant"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-16/asian-private-bankers-go-on-blitz-to-calm-private-credit-nerves",
+    "title": "Asian Private Bankers Go on Blitz to Calm Private Credit Nerves",
+    "fetched_on": "2026-03-16T21:42:08.229270+00:00",
+    "content": "Private bankers across Asia are scrambling to contain client anxiety as redemption pressures ripple through the $1.8 trillion private credit market, even in a region seen as more insulated from the recent turmoil.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Private",
+      "Bankers",
+      "Credit",
+      "Blitz",
+      "Calm",
+      "Nerves",
+      "Asia",
+      "Asian",
+      "trillion",
+      "market"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-16/jefferies-goodman-early-in-the-ai-disruption-story-video",
+    "title": "Jefferies' Goodman: 'Early' in the AI Disruption Story",
+    "fetched_on": "2026-03-16T21:42:08.694348+00:00",
+    "content": "Jefferies Global Head of Investment and Wealth Solutions Laurie Goodman discusses tech leading all S&amp;P sectors to a higher close, AI disruption, and the ongoing challenges in private markets, including private credit. She talks with Romaine Bostick and Bailey Lipschultz on \"The Close.\" (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Early",
+      "Goodman",
+      "Disruption",
+      "close",
+      "Story",
+      "Jefferies",
+      "Global",
+      "Head",
+      "Investment",
+      "Wealth"
+    ]
+  },
+  {
+    "source": "News.com.au [NewsAPI]",
+    "url": "https://www.news.com.au/lifestyle/fashion/not-today-satan-small-biz-tracks-down-scammer/news-story/8bbe7216e810275866aea1ceeaca3be0",
+    "title": "Small-business owner confronts scammer after catching her in the act: ‘Not today, Satan’",
+    "fetched_on": "2026-03-16T21:42:07.672050+00:00",
+    "content": "An Australian business owner has taken matters into her own hands after catching a customer trying to steal hundreds of dollars worth of clothing using a common credit card scam.\r\nMarisa Taschke, 37,… [+4396 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Satan’",
+      "Australian",
+      "catching",
+      "Small-business",
+      "act",
+      "today",
+      "scam",
+      "owner",
+      "chars",
+      "Taschke"
+    ]
   }
 ]
