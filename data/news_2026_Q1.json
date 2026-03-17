@@ -186752,5 +186752,145 @@
       "Wireless",
       "Gaming"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-nbfcs-to-face-rising-credit-costs-liquidity-strain-if-conflict-drags-report/articleshow/129600577.cms",
+    "title": "India’s banks, NBFCs to face rising credit costs, liquidity strain if conflict drags: Report",
+    "fetched_on": "2026-03-17T04:53:37.442849+00:00",
+    "content": "Indias banks and nonbank lenders will face rising credit costs, tighter liquidity and pressure on corporate and household borrowers if the Middle East conflict prolongs, CreditSights said in a report… [+2444 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "costs",
+      "rising",
+      "credit",
+      "chars",
+      "Report",
+      "Middle",
+      "East",
+      "face",
+      "NBFCs",
+      "drags"
+    ]
+  },
+  {
+    "source": "Crypto Briefing [NewsAPI]",
+    "url": "https://cryptobriefing.com/blockfills-crypto-bankruptcy-filings/",
+    "title": "BlockFills files for Chapter 11 bankruptcy after suspending withdrawals and deposits",
+    "fetched_on": "2026-03-17T04:53:37.442849+00:00",
+    "content": "The company froze withdrawals following losses tied to lending, trading, and crypto mining operations. Crypto trading platform BlockFills announced today that it has entered Chapter 11 after the comp… [+2290 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chapter",
+      "bankruptcy",
+      "lending",
+      "operations",
+      "withdrawals",
+      "chars",
+      "BlockFills",
+      "trading",
+      "crypto",
+      "files"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/culture/books/review/2026/03/07/a-beautiful-loan-by-mary-costello-timely-homing-in-on-sorrows-particular-to-women/",
+    "title": "A Beautiful Loan by Mary Costello: Timely homing in on sorrows particular to women",
+    "fetched_on": "2026-03-17T04:53:37.442849+00:00",
+    "content": "Unlike most writers, Mary Costello was reluctant to accept the vocation. Previously a full-time primary schoolteacher, she would try to suppress stories, but they would kind of push up, she once told… [+4681 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mary",
+      "Costello",
+      "Timely",
+      "Beautiful",
+      "Loan",
+      "Unlike",
+      "writers",
+      "vocation",
+      "homing",
+      "sorrows"
+    ]
+  },
+  {
+    "source": "Slj.com [NewsAPI]",
+    "url": "https://afuse8production.slj.com/2026/03/16/fuse-8-n-kate-muncha-muncha-muncha-by-candace-fleming-ill-g-brian-karas/",
+    "title": "Fuse 8 n’ Kate: Muncha Muncha Muncha by Candace Fleming, ill. G. Brian Karas",
+    "fetched_on": "2026-03-17T04:53:37.442849+00:00",
+    "content": "“Hubris, Kate. He suffers from hubris!” We’re on the cusp of spring, so full credit to Eric Carpenter for pointing out to me how egregious a gap we’ve had in our roster until now. Have we really and … [+1978 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Muncha",
+      "Fleming",
+      "Kate",
+      "Candace",
+      "Fuse",
+      "ill",
+      "Hubris",
+      "Karas",
+      "Brian",
+      "Eric"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/news/wells-fargos-ai-boss-just-told-bankers-exactly-how-not-to-get-replaced-by-evolving-tech-11773622278499.html",
+    "title": "Wells Fargo's AI boss tells employees how not to get replaced by evolving tech",
+    "fetched_on": "2026-03-17T04:53:37.442849+00:00",
+    "content": "As artificial intelligence (AI) continues to advance, Wells Fargo is working to ensure its workforce adapts. Saul Van Beurden, head of AI and the co-CEO of consumer banking and lending, told Business… [+3316 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fargo",
+      "intelligence",
+      "continues",
+      "advance",
+      "adapts",
+      "boss",
+      "employees",
+      "replaced",
+      "evolving",
+      "tech"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/embattled-crypto-lender-blockfills-files-bankruptcy-us",
+    "title": "Embattled crypto lender BlockFills files for bankruptcy in US",
+    "fetched_on": "2026-03-17T04:53:37.442849+00:00",
+    "content": "Crypto lending platform BlockFills has filed for bankruptcy in the US after the company halted customer deposits and withdrawals last month.\r\nReliz LTD, BlockFills operating company, along with three… [+1348 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "bankruptcy",
+      "crypto",
+      "Embattled",
+      "month",
+      "BlockFills",
+      "company",
+      "lender",
+      "files",
+      "lending",
+      "platform"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/exclusive-morgan-stanley-blackrock-limit-173116831.html",
+    "title": "Exclusive: Morgan Stanley And BlackRock Limit Withdrawals—Is Private Credit Gating A Crisis Or Market 'Stabilizer'?",
+    "fetched_on": "2026-03-17T04:53:55.243305+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Stabilizer",
+      "Exclusive",
+      "Morgan",
+      "Withdrawals",
+      "Market",
+      "Stanley",
+      "Limit",
+      "Private",
+      "Credit",
+      "Gating"
+    ]
   }
 ]
