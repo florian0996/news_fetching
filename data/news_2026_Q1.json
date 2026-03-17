@@ -188744,5 +188744,122 @@
       "tax",
       "market"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-17/park-square-s-doumar-on-rising-ai-risks-video",
+    "title": "Park Square’s Doumar on Rising AI Risks",
+    "fetched_on": "2026-03-17T19:16:23.550426+00:00",
+    "content": "Morgan Stanley analysts say private credit default rates will climb to 8% as AI advances disrupt the software industry. Robin Doumar, Founder at Park Square Capital, weighs in on “ Bloomberg Open Interest.” (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Square",
+      "Rising",
+      "Risks",
+      "Morgan",
+      "Stanley",
+      "Doumar",
+      "Bloomberg",
+      "Park",
+      "industry",
+      "Source"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-17/world-baseball-classic-lavazza-scores-with-italy-s-espresso-celebrations",
+    "title": "Lavazza Scores With Italy’s Espresso Celebrations at World Baseball Classic",
+    "fetched_on": "2026-03-17T19:16:23.710235+00:00",
+    "content": "Members of Team Italy drink espresso in the dugout before the game against Team Venezuela at loanDepot park in Miami on March 16. Photographer: Daniel Shirey/MLB/Getty Images",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Italy",
+      "Team",
+      "March",
+      "Espresso",
+      "Scores",
+      "Celebrations",
+      "World",
+      "Baseball",
+      "Classic",
+      "Members"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/pro/energy-hungry-big-tech-turn-to-carbon-credits-to-fuel-data-centers-while-remaining-committed-to-net-zero-emissions",
+    "title": "Energy hungry Big Tech turn to carbon credits to fuel data centers while remaining committed to net-zero emissions",
+    "fetched_on": "2026-03-17T19:16:22.407202+00:00",
+    "content": "<ul><li>Carbon credit purchases have risen sharply since the AI boom</li><li>Companies are using carbon offsetting to counter data center emissions</li><li>Net zero and sustainability goals are being… [+2631 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "carbon",
+      "emissions",
+      "Companies",
+      "Net",
+      "data",
+      "chars",
+      "Big",
+      "Tech",
+      "Energy",
+      "boom"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/a-quiet-place-3-release-date-cast-plot-5507002/",
+    "title": "‘A Quiet Place 3’: Release Date, Cast, Plot & More Updates on the Sequel",
+    "fetched_on": "2026-03-17T19:16:22.407202+00:00",
+    "content": "Image Credit: Paramount+\r\nA Quiet Place introduced horror fans to a new kind of fear when the first film hit theaters in 2018. Now that John Krasinskis franchise has expanded with a sequel and a preq… [+1808 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Quiet",
+      "Place",
+      "Cast",
+      "Plot",
+      "Paramount",
+      "Release",
+      "Date",
+      "Credit",
+      "Updates",
+      "Image"
+    ]
+  },
+  {
+    "source": "Deadline [NewsAPI]",
+    "url": "http://deadline.com/2026/03/matt-clark-dead-character-actor-in-westerns-1236756764/",
+    "title": "Matt Clark Dies: Character Actor In Scores Of Films & TV Shows Spanning 50 Years Was 89",
+    "fetched_on": "2026-03-17T19:16:22.407202+00:00",
+    "content": "Matt Clark, a character actor with more than 100 film and TV credits ranging from In the Heat of the Night and dozens of Westerns to Seth MacFarlane’s A Million Ways to Die in the West, died March 15… [+2167 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Matt",
+      "Clark",
+      "Character",
+      "Actor",
+      "Spanning",
+      "Years",
+      "West",
+      "March",
+      "chars",
+      "Scores"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/unicredit-should-clarify-intentions-for-commerzbank-german-state-premier-says-4566417",
+    "title": "Unicredit should clarify intentions for Commerzbank, German state premier says",
+    "fetched_on": "2026-03-17T19:16:32.358775+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Commerzbank",
+      "German",
+      "Unicredit",
+      "clarify",
+      "intentions",
+      "state",
+      "premier"
+    ]
   }
 ]
