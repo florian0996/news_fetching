@@ -187629,5 +187629,84 @@
       "rates",
       "loan"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-17/unicredit-gave-rome-a-heads-up-on-commerzbank-35-billion-offer",
+    "title": "UniCredit Gave Rome a Heads-Up on Commerzbank €35 Billion Offer",
+    "fetched_on": "2026-03-17T11:50:31.510449+00:00",
+    "content": "UniCredit SpA representatives briefed Italian Prime Minister Giorgia Meloni’s office in advance of a €35 billion ($40 billion) bid to deepen its influence over Commerzbank AG, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Commerzbank",
+      "Gave",
+      "Rome",
+      "Offer",
+      "Italian",
+      "Prime",
+      "Minister",
+      "Giorgia",
+      "Meloni"
+    ]
+  },
+  {
+    "source": "Arsenal.com [NewsAPI]",
+    "url": "http://www.arsenal.com/news/loan-watch-goals-clean-sheets-and-debuts",
+    "title": "Loan watch: Goals, clean sheets and debuts",
+    "fetched_on": "2026-03-17T11:50:30.710976+00:00",
+    "content": "Many of our Mens, Womens and Academy players have been sent out on loan this season to gain experience and further action.\r\nIt was another goalscoring weekend for Fabio Vieira, as his Hamburg side pl… [+4026 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Goals",
+      "Mens",
+      "Womens",
+      "Academy",
+      "Loan",
+      "watch",
+      "clean",
+      "action",
+      "sheets",
+      "debuts"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/credit-score-equifax-now-offers-lenders-2-year-trend-in-customer-score-movement/article70749698.ece",
+    "title": "Credit score: Equifax now offers lenders’ 2-year trend in customer score movement",
+    "fetched_on": "2026-03-17T11:50:30.710976+00:00",
+    "content": "Movement of credit score over a two-year period can give lenders better insights into a prospective borrowers credit behaviour than a point in time score. Keeping this in view, credit information com… [+1700 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "score",
+      "Equifax",
+      "movement",
+      "Credit",
+      "lenders’",
+      "trend",
+      "offers",
+      "customer",
+      "two-year",
+      "period"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/nebius-intends-raise-3-75-110156379.html",
+    "title": "Nebius intends to raise $3.75 billion via convertible loan following Meta, Nvidia deals",
+    "fetched_on": "2026-03-17T11:50:58.737546+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Meta",
+      "Nvidia",
+      "Nebius",
+      "raise",
+      "billion",
+      "deals",
+      "intends",
+      "convertible",
+      "loan"
+    ]
   }
 ]
