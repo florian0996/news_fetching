@@ -189741,5 +189741,80 @@
       "Star",
       "Trek"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0dc0966-a8c8-4c84-88ad-0c22120de529",
+    "title": "The Penguins Went 2-1-2 Without Malkin And Crosby. And Rickard Rakell Deserves More Credit For That.",
+    "fetched_on": "2026-03-18T04:58:04.199399+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Crosby",
+      "Penguins",
+      "Malkin",
+      "Rickard",
+      "Rakell",
+      "Deserves",
+      "Credit",
+      "Accept",
+      "Transparency",
+      "Consent"
+    ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/business/asb-class-action-payout-why-571-credits-are-appearing-in-nearly-200000-accounts/UFJXRPJRNVCNHAJF37PMXVEGY4/",
+    "title": "ASB class action payout: Why $571 credits are appearing in nearly 200,000 accounts",
+    "fetched_on": "2026-03-18T04:58:04.199399+00:00",
+    "content": "Didnt even know this was going on, thought someone accidentally put it in my account.\r\nSeveral others wrote about receiving the payment.\r\nJust found this thread searching to confirm that the $571 in … [+1800 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ASB",
+      "Didnt",
+      "payout",
+      "credits",
+      "thought",
+      "class",
+      "action",
+      "appearing",
+      "accidentally",
+      "put"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/exporters-seek-moratorium-on-loan-repayment-for-6-mths/articleshow/129622292.cms",
+    "title": "Exporters seek moratorium on loan repayment for 6 mths",
+    "fetched_on": "2026-03-18T04:58:04.199399+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Exporters",
+      "mths",
+      "loan",
+      "seek",
+      "moratorium",
+      "repayment",
+      "CalculatorDetermine",
+      "monthly",
+      "installment"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/factbox-key-players-unicredits-pursuit-180505156.html",
+    "title": "Factbox-Key players in UniCredit's pursuit of Commerzbank",
+    "fetched_on": "2026-03-18T04:58:20.354437+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Commerzbank",
+      "Factbox-Key",
+      "players",
+      "UniCredit",
+      "pursuit"
+    ]
   }
 ]
