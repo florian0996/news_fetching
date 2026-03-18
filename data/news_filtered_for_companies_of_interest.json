@@ -1,6 +1,17 @@
 {
-  "2026-03-17": {
+  "2026-03-18": {
     "status": "no company in the news"
+  },
+  "2026-03-17": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: Anti-Private Equity Is Good Business",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-16": {
     "status": "no company in the news"
