@@ -190821,5 +190821,45 @@
       "BBG",
       "crypto"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e96d67cc-a99f-4311-b07a-dcd5091d826e",
+    "title": "Max Dowman’s father hits out at former Arsenal coach over taking credit for developing son",
+    "fetched_on": "2026-03-18T11:52:26.871320+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Dowman",
+      "Arsenal",
+      "IAB",
+      "Max"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/one-5-people-ignore-valuable-110000189.html",
+    "title": "One in 5 people ignore a valuable tax credit that's potentially worth thousands. How to boost your tax refund in 2026",
+    "fetched_on": "2026-03-18T11:52:57.236987+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "people",
+      "thousands",
+      "tax",
+      "ignore",
+      "valuable",
+      "credit",
+      "potentially",
+      "worth",
+      "boost",
+      "refund"
+    ]
   }
 ]
