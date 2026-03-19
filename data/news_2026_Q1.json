@@ -195592,5 +195592,85 @@
       "BlackRock",
       "JPMorgan"
     ]
+  },
+  {
+    "source": "CryptoSlate [NewsAPI]",
+    "url": "https://cryptoslate.com/banks-risk-another-2008-crisis-after-moving-equivalent-of-18-million-btc-into-shadow-lenders/",
+    "title": "Banks risk another 2008 crisis after moving the equivalent of 18 million BTC into shadow lenders",
+    "fetched_on": "2026-03-19T22:31:15.725506+00:00",
+    "content": "US banks “reduced” their credit risk after 2008 by shifting more of it to nonbank lenders.\r\nSince 2008, banks have shifted a growing share of their lending to nonbanks like private credit funds, maki… [+13487 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "reduced",
+      "BTC",
+      "risk",
+      "lenders",
+      "crisis",
+      "million",
+      "Banks",
+      "credit",
+      "moving",
+      "equivalent"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/banking/2026/bofa-targets-european-banks-with-private-credit-short-basket/",
+    "title": "BofA Targets European Banks With Private Credit Short Basket",
+    "fetched_on": "2026-03-19T22:31:15.725506+00:00",
+    "content": "Bank of America is offering clients a basket of 17 European financial stocks that allows them to bet against companies the bank said are among the most exposed to private credit shocks, the Financial… [+2093 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "European",
+      "Private",
+      "Credit",
+      "chars",
+      "Basket",
+      "financial",
+      "Bank",
+      "Targets",
+      "Short",
+      "America"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/media/im-not-doing-this-piers-morgan-ends-interview-after-manosphere-influencer-brings-up-his-wifes-pool-boy-joke/",
+    "title": "‘I’m Not Doing This!’ Piers Morgan Ends Interview After Manosphere Influencer Brings Up His Wife’s Pool Boy Joke",
+    "fetched_on": "2026-03-19T22:31:15.725506+00:00",
+    "content": "(Photo Credit: Hstikkytokky on Kick)\r\nPiers Morgan’s interview with a “Manosphere” influencer came to an abrupt end on Wednesday when the streamer flashed a picture of Morgan’s wife lounging by the p… [+3311 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Morgan",
+      "Piers",
+      "Manosphere",
+      "Interview",
+      "Influencer",
+      "Wife",
+      "Joke",
+      "Photo",
+      "Credit",
+      "Hstikkytokky"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2026/03/18/us-news/nyc-subway-ridership-still-trail-pre-covid-numbers-but-mta-claims-congestion-pricing-is-helping/",
+    "title": "NYC subway ridership still trail pre-COVID numbers — but MTA claims congestion pricing is helping",
+    "fetched_on": "2026-03-19T22:31:15.725506+00:00",
+    "content": "Subway ridership still trails pre-COVID pandemic levels — by a whopping 25% — even as transit officials rush to credit congestion pricing for getting New Yorkers back on the public transportation sys… [+3620 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "subway",
+      "ridership",
+      "NYC",
+      "chars",
+      "pre-COVID",
+      "congestion",
+      "pricing",
+      "MTA",
+      "Yorkers",
+      "numbers"
+    ]
   }
 ]
