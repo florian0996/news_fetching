@@ -192751,5 +192751,145 @@
       "cuts",
       "outlook"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-19/bolivia-wins-credit-rating-upgrade-after-coupon-payment-pledge",
+    "title": "Bolivia Wins Credit Rating Upgrade After Coupon Payment Pledge",
+    "fetched_on": "2026-03-19T02:28:14.849464+00:00",
+    "content": "Moody’s Ratings lifted Bolivia’s credit rating following a pledge by the government it will be able to meet dollar bond coupon payments this month.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Coupon",
+      "Rating",
+      "Bolivia",
+      "Pledge",
+      "Wins",
+      "Upgrade",
+      "Moody",
+      "month",
+      "Payment"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-18/hdfc-bank-chair-chakraborty-resigns-citing-ethical-differences",
+    "title": "HDFC Bank Chair Resigns Citing Ethical Differences",
+    "fetched_on": "2026-03-19T02:28:15.601261+00:00",
+    "content": "HDFC Bank Ltd.’s part-time Chairman Atanu Chakraborty resigned citing ethical differences, dealing a blow to India’s largest non-state lender that was just beginning to capture more loan market share following a challenging merger.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ethical",
+      "HDFC",
+      "Bank",
+      "Citing",
+      "Differences",
+      "Chair",
+      "Resigns",
+      "Ltd.’s",
+      "Chairman",
+      "Atanu"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/waseda-credit-calculator/0.1.1/",
+    "title": "waseda-credit-calculator 0.1.1",
+    "fetched_on": "2026-03-19T02:28:14.309313+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "load",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension",
+      "network",
+      "issues"
+    ]
+  },
+  {
+    "source": "Github.com [NewsAPI]",
+    "url": "https://github.com/RedsonNgwira/sonder",
+    "title": "Show HN: Sonder – self-hosted AI social simulation engine",
+    "fetched_on": "2026-03-19T02:28:14.309313+00:00",
+    "content": "sonder the realization that each passerby has a life as vivid and complex as your own.\r\nCreated by Redson Ngwira · @RedsonNgwira · Malawi \r\nRun AI social simulations for free, forever. No credit card… [+5233 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sonder",
+      "social",
+      "Show",
+      "self-hosted",
+      "Ngwira",
+      "Malawi",
+      "RedsonNgwira",
+      "forever",
+      "engine",
+      "realization"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00854-9",
+    "title": "Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat",
+    "fetched_on": "2026-03-19T02:28:14.309313+00:00",
+    "content": "The speakers of some 40% of talks surveyed made no attempts at humour, not even puns. Credit: Getty\r\nEveryone knows that a good joke can liven up a talk. Sadly, however, good jokes are in short suppl… [+2532 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Knock",
+      "Getty",
+      "good",
+      "jokes",
+      "Credit",
+      "Study",
+      "humour",
+      "puns",
+      "Sadly",
+      "chars"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00818-z",
+    "title": "Founders of quantum information win top prize in computer science",
+    "fetched_on": "2026-03-19T02:28:14.309313+00:00",
+    "content": "Charles Bennett (left) and Gilles Brassard (right) pose for a photograph besides a crytopgraphy quilt. Credit: Lise Raymond\r\nGilles Brassard and Charles Bennett have been awarded the A. M. Turing Awa… [+2672 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Charles",
+      "Bennett",
+      "Gilles",
+      "Brassard",
+      "left",
+      "Founders",
+      "pose",
+      "quilt",
+      "Lise",
+      "quantum"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00779-3",
+    "title": "Affordable mobility for all: why we need smaller, cheaper electric vehicles",
+    "fetched_on": "2026-03-19T02:28:14.309313+00:00",
+    "content": "Each small vehicle that is electrified in China could save around one tonne of carbon dioxide emissions per year.Credit: Daniel Gerard/Alamy\r\nWhen it comes to decarbonizing transport, the world is fi… [+9437 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Daniel",
+      "Gerard",
+      "Alamy",
+      "China",
+      "Affordable",
+      "smaller",
+      "cheaper",
+      "year.Credit",
+      "transport"
+    ]
   }
 ]
