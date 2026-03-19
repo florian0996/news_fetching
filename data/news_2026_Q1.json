@@ -193483,5 +193483,125 @@
       "Ratings",
       "Moody"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-federal-bank-line-up-to-acquire-stancharts-india-credit-card-only-customers-offer-review-underway/articleshow/129652689.cms",
+    "title": "Kotak Mahindra, Federal Bank line-up to acquire StanChart's India credit-card-only customers; Offer review underway",
+    "fetched_on": "2026-03-19T09:47:21.128717+00:00",
+    "content": "Mumbai: Standard Chartered is reviewing offers from Kotak Mahindra Bank and Federal Bank to acquire the British lender's up to 600,000 customers in India who only have credit card accounts, two sourc… [+2814 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Mahindra",
+      "Federal",
+      "India",
+      "Kotak",
+      "Mumbai",
+      "Standard",
+      "customers",
+      "chars",
+      "Chartered"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/blacksoil-capital-raises-200-cr-from-impact-fund-denmark-for-climate-lending/article70757467.ece",
+    "title": "BlackSoil Capital raises ₹200 cr from Impact Fund Denmark for climate lending",
+    "fetched_on": "2026-03-19T09:47:21.128717+00:00",
+    "content": "Mumbai-based alternate credit platform, BlackSoil Capital has raised 200 crore in debt funding from Impact Fund Denmark to expand climate-focused and inclusive lending in India\r\nThe funding will supp… [+1696 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Impact",
+      "Fund",
+      "BlackSoil",
+      "Capital",
+      "Denmark",
+      "chars",
+      "Mumbai-based",
+      "India",
+      "raises",
+      "platform"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-rise-2-as-lender-set-to-invest-rs-1500-crore-into-nbfc-arm-axis-finance/articleshow/129652398.cms",
+    "title": "Axis Bank shares rise 2% as lender set to invest Rs 1,500 crore into NBFC arm Axis Finance",
+    "fetched_on": "2026-03-19T09:47:21.128717+00:00",
+    "content": "Shares of Axis Bank gained more than 2.5% on Wednesday after the private lender announced that its board has approved a proposal to infuse Rs 1,500 crore into its consumer lending arm, Axis Finance.I… [+1864 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Axis",
+      "Bank",
+      "crore",
+      "shares",
+      "chars",
+      "NBFC",
+      "Finance",
+      "Wednesday",
+      "lender",
+      "arm"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/global-luxury-market-to-grow-by-up-to-4pc-in-2026-kearney/",
+    "title": "Global luxury market to grow by up to 4pc in 2026: Kearney",
+    "fetched_on": "2026-03-19T09:47:21.128717+00:00",
+    "content": "Research\r\nMarch 18, 2026\r\n Although financial growth is expected, macroeconomic volatility will continue to impact profit margins across the board. Image credit: Kearney \r\n By Zach James\r\nThe prestig… [+11445 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Kearney",
+      "Research",
+      "Global",
+      "expected",
+      "macroeconomic",
+      "board",
+      "luxury",
+      "market",
+      "grow"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2026/03/18/apple-ceo-bonus-targets-pay-trends-macro-uncertainty/",
+    "title": "The best way for CEOs to keep bonuses in a downturn: Lower expectations",
+    "fetched_on": "2026-03-19T09:47:21.128717+00:00",
+    "content": "Good morning. Call it the Hall of Blame. One time-honored tradition in business is to take credit for what goes well, blame disappointing results on factors beyond your control and lower the bar in t… [+4380 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Good",
+      "downturn",
+      "morning",
+      "Lower",
+      "Blame",
+      "CEOs",
+      "bonuses",
+      "expectations",
+      "Hall",
+      "chars"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/money/personal-finance/women-are-powering-india-s-next-credit-boom-here-s-what-the-data-shows-11773823231523.html",
+    "title": "Women are powering India’s next credit boom; here’s what the data shows",
+    "fetched_on": "2026-03-19T09:47:21.128717+00:00",
+    "content": "India is making strong progress in the credit ecosystem, whether it is through digitalisation, better use of data and analytics, adoption of AI and machine learning, or expanding reach. It is also ma… [+5110 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "credit",
+      "data",
+      "Women",
+      "boom",
+      "ecosystem",
+      "digitalisation",
+      "analytics",
+      "adoption",
+      "learning"
+    ]
   }
 ]
