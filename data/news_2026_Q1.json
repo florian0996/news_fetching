@@ -195967,5 +195967,45 @@
       "lending",
       "market"
     ]
+  },
+  {
+    "source": "New Zealand Herald [NewsAPI]",
+    "url": "https://www.nzherald.co.nz/nz/politics/finance-minister-nicola-willis-hints-at-who-will-receive-governments-targeted-fuel-support-and-who-will-miss-out-analysis/premium/VCBO3CHKGJH7RMCLKYPDHMV6PM/",
+    "title": "Finance Minister Nicola Willis hints at who will receive Government’s targeted fuel support – and who will miss out – Analysis",
+    "fetched_on": "2026-03-20T04:48:43.260229+00:00",
+    "content": "The In-Work Tax Credit (IWTC), one of the main Working for Families tax credits administered by Inland Revenue, goes to about 150,000 low-to-middle income families with dependent children.\r\nTo be eli… [+5158 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IWTC",
+      "Analysis",
+      "Revenue",
+      "Tax",
+      "Families",
+      "Minister",
+      "Nicola",
+      "Willis",
+      "Government",
+      "Working"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/asia-stocks-choppy-amid-oil-volatility-china-keeps-lending-rates-steady-4572234",
+    "title": "Asia stocks choppy amid oil volatility; China keeps lending rates steady",
+    "fetched_on": "2026-03-20T04:49:04.788441+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "China",
+      "Asia",
+      "volatility",
+      "steady",
+      "stocks",
+      "choppy",
+      "amid",
+      "oil",
+      "lending",
+      "rates"
+    ]
   }
 ]
