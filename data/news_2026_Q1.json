@@ -196713,5 +196713,85 @@
       "Enhance",
       "Scoring"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-20/mexico-s-femsa-cuts-jobs-after-fintech-bid-fizzles",
+    "title": "Mexico’s Femsa Cuts Jobs After Bid to Become Fintech Powerhouse Fizzles",
+    "fetched_on": "2026-03-20T10:40:18.675348+00:00",
+    "content": "One of Mexico’s largest retailers is laying off workers in its fintech startup while scaling back its ambitions &mdash; illustrating the difficulty of establishing a foothold in the nation’s increasingly competitive financial system.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mexico",
+      "Fintech",
+      "Femsa",
+      "Cuts",
+      "Jobs",
+      "Bid",
+      "Powerhouse",
+      "Fizzles",
+      "ambitions",
+      "illustrating"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/muthoot-fincorp-ncd-are-the-yields-attractive-for-investors/article70759337.ece",
+    "title": "Muthoot Fincorp NCD: Are the yields attractive for investors?",
+    "fetched_on": "2026-03-20T10:40:16.507621+00:00",
+    "content": "Gold loans have been growing at a healthy pace even in the phase when the yellow metals prices werent surging sharply. With the rise in gold prices in the past couple of years, the rise in gold loan … [+4921 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NCD",
+      "Fincorp",
+      "Gold",
+      "Muthoot",
+      "investors",
+      "yields",
+      "attractive",
+      "rise",
+      "prices",
+      "sharply"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-6/",
+    "title": "Samsung Galaxy Z Fold 8: The “Apple-Killer” Features That Have Cupertino Worried",
+    "fetched_on": "2026-03-20T10:40:16.507621+00:00",
+    "content": "The Samsung Galaxy Z Fold 8 is poised to reshape the foldable smartphone market by blending advanced technology with practical enhancements. With notable improvements in battery life, charging speed,… [+5165 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fold",
+      "Galaxy",
+      "Samsung",
+      "Features",
+      "Apple-Killer",
+      "Cupertino",
+      "Worried",
+      "enhancements",
+      "poised",
+      "reshape"
+    ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/top-stock-picks-private-credit-ares-kkr-owl-2026-3",
+    "title": "BofA says buy these 4 stocks unfairly beaten down by panicked private-credit headlines",
+    "fetched_on": "2026-03-20T10:40:16.507621+00:00",
+    "content": "Private credit has captured investors' attention for the wrong reasons lately.\r\nHowever, Bank of America says not only are worries misplaced, but that the recent \"media obsession\" with the private cr… [+3313 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BofA",
+      "stocks",
+      "Private",
+      "buy",
+      "unfairly",
+      "beaten",
+      "panicked",
+      "private-credit",
+      "headlines",
+      "credit"
+    ]
   }
 ]
