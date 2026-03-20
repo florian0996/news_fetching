@@ -1,6 +1,17 @@
 {
-  "2026-03-19": {
+  "2026-03-20": {
     "status": "no company in the news"
+  },
+  "2026-03-19": {
+    "articles": [
+      {
+        "title": "FW: A win for EU Inc?",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-18": {
     "articles": [
