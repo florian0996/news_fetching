@@ -196204,5 +196204,82 @@
       "March",
       "UTC"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-20/eu-says-orban-not-honoring-his-word-on-ukraine-loan-deal-video",
+    "title": "EU Says Orban 'Not Honoring His Word' on Ukraine Loan Deal",
+    "fetched_on": "2026-03-20T06:58:57.528125+00:00",
+    "content": "European Commission President Ursula von der Leyen accused Hungarian Prime Minister Viktor Orban of \"not honoring his word\" after EU leaders failed to break the deadlock over a €90 billion ($103 billion) loan to Ukraine. Orban, backed by Slovakia, is refusing to unlock the aid until Hungary regains access to Russian oil. Several leaders say Orban's stance amounts to a breach of an agreement among EU nations in December. Bloomberg's Oliver Crook reports. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Word",
+      "billion",
+      "Honoring",
+      "Ukraine",
+      "Loan",
+      "Orban",
+      "Deal",
+      "European",
+      "Commission",
+      "President"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-war-oil-shock-and-credit-stress-banks-face-dj-vu-in-leveraged-finance/articleshow/129671903.cms",
+    "title": "US Stock Market | War, Oil Shock and Credit Stress: Banks face déjà vu in leveraged finance",
+    "fetched_on": "2026-03-20T06:58:56.561400+00:00",
+    "content": "A familiar stress cycle is resurfacing on Wall Street. With geopolitical tensions intensifying, oil prices climbing past $100 a barrel and inflation risks re-emerging, leveraged finance markets are o… [+4844 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "War",
+      "Banks",
+      "Street",
+      "Stress",
+      "Oil",
+      "Stock",
+      "Shock",
+      "Credit",
+      "Wall",
+      "leveraged"
+    ]
+  },
+  {
+    "source": "Libsyn.com [NewsAPI]",
+    "url": "https://youneedabudget.libsyn.com/who-could-you-become-if-you-werent-worried-about-money",
+    "title": "Who Could You Become If You Weren't Worried About Money?",
+    "fetched_on": "2026-03-20T06:58:56.561400+00:00",
+    "content": "It's an interesting question, isn't it? Imagine for a second... your credit cards are paid off, you have cash in the bank, your bills are on autopay and you don't even know when they will hit because… [+741 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Money",
+      "Worried",
+      "question",
+      "chars",
+      "interesting",
+      "Imagine",
+      "bank",
+      "credit",
+      "cards",
+      "paid"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/watchlist-of-private-credit-loans-growing-9b1a80a7?siteid=yhoof2&yptr=yahoo",
+    "title": "The ‘Watchlist’ of Private Credit Loans Showing Stress Is Growing. What It Means.",
+    "fetched_on": "2026-03-20T06:59:23.815192+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Watchlist’",
+      "Growing",
+      "Private",
+      "Credit",
+      "Loans",
+      "Showing",
+      "Stress"
+    ]
   }
 ]
