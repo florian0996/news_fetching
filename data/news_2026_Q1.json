@@ -198678,5 +198678,84 @@
       "good",
       "put"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-20/blackstone-private-credit-fund-has-first-monthly-loss-since-2022",
+    "title": "Blackstone Private Credit Fund Has First Monthly Loss Since 2022",
+    "fetched_on": "2026-03-20T23:31:07.137055+00:00",
+    "content": "Blackstone Inc.’s flagship private credit fund posted its first monthly loss in more than three years, one of the clearest signs yet of weakening performance in the $1.8 trillion market.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Blackstone",
+      "Credit",
+      "Monthly",
+      "Private",
+      "Fund",
+      "Loss",
+      "Inc.’s",
+      "years",
+      "trillion",
+      "market"
+    ]
+  },
+  {
+    "source": "Abcnews.com [NewsAPI]",
+    "url": "https://abcnews.com/Politics/treasury-taking-federal-student-loans-amid-dismantling-department/story?id=131230589",
+    "title": "Treasury taking over federal student loans amid dismantling of Dept. of Education",
+    "fetched_on": "2026-03-20T23:31:06.591716+00:00",
+    "content": "The Trump administration is expected to send the nearly $1.7 trillion student loan portfolio from the Department of Education to the Treasury Department amid its ongoing winding down of the agency, t… [+4853 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Education",
+      "Department",
+      "Treasury",
+      "student",
+      "chars",
+      "Dept.",
+      "Trump",
+      "amid",
+      "trillion",
+      "agency"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/coty-shakes-up-board-announces-resignations/",
+    "title": "Coty shakes up board, announces resignations",
+    "fetched_on": "2026-03-20T23:31:06.591716+00:00",
+    "content": "Commerce\r\nMarch 19, 2026\r\n The fragrance company was founded in Paris in 1904. Image credit: Coty \r\n By Amirah Keaton for Luxury Daily News Service\r\nNew leaders will help U.S. beauty group Coty steer… [+5370 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Commerce",
+      "Paris",
+      "Coty",
+      "board",
+      "announces",
+      "shakes",
+      "resignations",
+      "fragrance",
+      "company"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/blackstones-flagship-private-credit-fund-posts-first-monthly-loss-in-over-three-years-4573908",
+    "title": "Blackstone’s flagship private credit fund posts first monthly loss in over three years",
+    "fetched_on": "2026-03-20T23:31:11.980633+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Blackstone",
+      "years",
+      "flagship",
+      "private",
+      "credit",
+      "fund",
+      "posts",
+      "monthly",
+      "loss"
+    ]
   }
 ]
