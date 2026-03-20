@@ -198122,5 +198122,45 @@
       "credit",
       "card"
     ]
+  },
+  {
+    "source": "Niemanlab.org [NewsAPI]",
+    "url": "https://www.niemanlab.org/2026/03/chatgpt-claude-gemini-and-grok-are-all-bad-at-crediting-news-outlets-but-chatgpt-is-the-worst-at-least-in-this-study/",
+    "title": "ChatGPT, Claude, Gemini, and Grok are all bad at crediting news outlets, but ChatGPT is the worst (at least in this study)",
+    "fetched_on": "2026-03-20T19:38:05.986875+00:00",
+    "content": "Canadian researchers asked the paid and free versions of four AI models ChatGPT, Claude, Gemini, and Grok about Canadian news events to see whether they would credit individual news outlets in their … [+5797 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Claude",
+      "Gemini",
+      "Grok",
+      "Canadian",
+      "chars",
+      "outlets",
+      "ChatGPT",
+      "worst",
+      "study",
+      "bad"
+    ]
+  },
+  {
+    "source": "Unexplained-mysteries.com [NewsAPI]",
+    "url": "https://www.unexplained-mysteries.com/news/396065/scientists-move-one-step-closer-to-reviving-a-cryopreserved-brain",
+    "title": "Scientists move one step closer to reviving a cryopreserved brain",
+    "fetched_on": "2026-03-20T19:38:05.986875+00:00",
+    "content": "Science &amp; Technology\r\nBy T.K. RandallMarch 19, 2026 ·  0 commentsImage Credit: MidjourneyResearchers have succeeded in partially reviving the frozen brain tissue of a mouse for the first time.\r\nE… [+1800 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "RandallMarch",
+      "Science",
+      "Technology",
+      "Credit",
+      "Scientists",
+      "commentsImage",
+      "MidjourneyResearchers",
+      "time",
+      "reviving",
+      "brain"
+    ]
   }
 ]
