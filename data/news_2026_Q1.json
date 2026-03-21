@@ -200826,5 +200826,25 @@
       "credit",
       "card"
     ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/loblaw-credit-debit-system-reported-outages-9.7136794",
+    "title": "Loblaw says 'some stores' saw payment systems outage Friday, but issue now resolved",
+    "fetched_on": "2026-03-21T22:27:53.145202+00:00",
+    "content": "Customers at Loblaw-connected stores in multiple provinces were advised of interruptions to credit and debit systems on Friday afternoon, though the company says the reported issues have since been r… [+1485 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Friday",
+      "Customers",
+      "Loblaw-connected",
+      "Loblaw",
+      "afternoon",
+      "systems",
+      "stores'",
+      "payment",
+      "outage"
+    ]
   }
 ]
