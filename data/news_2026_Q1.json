@@ -199328,5 +199328,45 @@
       "design",
       "exceptional"
     ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/valuequest-returns-to-financials-on-easing-balance-sheet-stress-11773982512256.html",
+    "title": "ValueQuest returns to financials on easing balance-sheet stress",
+    "fetched_on": "2026-03-21T08:36:37.120781+00:00",
+    "content": "This marks a shift from its first fund, when the firm largely stayed away from the sector due to concerns around balance sheets and asset quality. With credit cycles stabilizing after the post-pandem… [+3396 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "ValueQuest",
+      "fund",
+      "quality",
+      "returns",
+      "financials",
+      "easing",
+      "balance-sheet",
+      "stress",
+      "marks",
+      "shift"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2026/0320/1564315-credit-unions-mortgage-lending-closes-in-on-1-billion/",
+    "title": "Credit unions' mortgage lending closes in on €1 billion",
+    "fetched_on": "2026-03-21T08:36:37.120781+00:00",
+    "content": "New figures from the Irish League of Credit Unions - which represents 90% of active credit unions here - show its union loan book reached the highest level ever and mortgage lending continuing on a s… [+2611 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "chars",
+      "Unions",
+      "Irish",
+      "League",
+      "mortgage",
+      "lending",
+      "billion",
+      "represents",
+      "show"
+    ]
   }
 ]
