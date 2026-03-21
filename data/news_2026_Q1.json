@@ -199153,5 +199153,80 @@
       "Retiring",
       "fond"
     ]
+  },
+  {
+    "source": "Abcnews.com [NewsAPI]",
+    "url": "https://abcnews.com/Business/wireStory/energy-fallout-iran-war-signals-global-wake-call-131242469",
+    "title": "Energy fallout from Iran war signals a global wake-up call for renewable energy",
+    "fetched_on": "2026-03-21T06:49:01.031889+00:00",
+    "content": "HANOI, Vietnam -- The war in Iran is exposing the worlds reliance on fragile fossil fuel routes, lending urgency to calls for hastening the shift to renewable energy.\r\nFighting has all but halted oil… [+7479 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vietnam",
+      "Iran",
+      "HANOI",
+      "Energy",
+      "renewable",
+      "war",
+      "routes",
+      "lending",
+      "call",
+      "calls"
+    ]
+  },
+  {
+    "source": "Whitecoatinvestor.com [NewsAPI]",
+    "url": "https://www.whitecoatinvestor.com/physician-corporations/",
+    "title": "Should Physicians Form ‘Micro-Corporations?’",
+    "fetched_on": "2026-03-21T06:49:01.031889+00:00",
+    "content": "Happy Match Day! To celebrate, were offering the Fire Your Financial Advisor: RESIDENT course (a $299 value) FOR FREE if you book a consultation with StudentLoanAdvice.com by March 23 (the consult do… [+14418 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Micro-Corporations",
+      "Form",
+      "Physicians",
+      "Day",
+      "chars",
+      "Advisor",
+      "RESIDENT",
+      "March",
+      "Match",
+      "Happy"
+    ]
+  },
+  {
+    "source": "The Irish Times [NewsAPI]",
+    "url": "https://www.irishtimes.com/business/2026/03/20/credit-unions-close-in-on-1bn-of-mortgage-lending-as-restrictions-are-eased/",
+    "title": "Credit unions close in on €1bn of mortgage lending as restrictions are eased",
+    "fetched_on": "2026-03-21T06:49:01.031889+00:00",
+    "content": "The Irish credit union movement is close to having 1 billion of mortgage loans, following strong growth in recent years amid an easing of sector lending restrictions, according to the Irish League of… [+3388 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Irish",
+      "chars",
+      "Credit",
+      "mortgage",
+      "League",
+      "close",
+      "lending",
+      "restrictions",
+      "billion",
+      "loans"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/private-credit-out-of-favor-today-in-401-k-s-tomorrow-c16f4445?siteid=yhoof2&yptr=yahoo",
+    "title": "Private Credit: Out of Favor Today, in 401(k)s Tomorrow",
+    "fetched_on": "2026-03-21T06:49:14.955206+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Today",
+      "Tomorrow",
+      "Favor",
+      "Private"
+    ]
   }
 ]
