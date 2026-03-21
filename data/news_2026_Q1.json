@@ -200646,5 +200646,105 @@
       "demand",
       "soars"
     ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2026/03/20/scott-bessent-treasury-department-student-debt-loans-management/",
+    "title": "Scott Bessent’s Treasury Department will start overseeing the $180 billion of student loans that are in default",
+    "fetched_on": "2026-03-21T20:29:40.350697+00:00",
+    "content": "The U.S. Education Department is handing off a portion of its student loan portfolio to the Treasury Department, a first step toward shedding management of all student loans as Trump administration o… [+5415 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Department",
+      "Treasury",
+      "Education",
+      "student",
+      "chars",
+      "Bessent",
+      "Trump",
+      "loans",
+      "Scott",
+      "billion"
+    ]
+  },
+  {
+    "source": "TheWrap [NewsAPI]",
+    "url": "https://www.thewrap.com/industry-news/industry-trends/noah-wyle-hollywood-federal-film-tv-tax-credit-adam-schiff/",
+    "title": "Noah Wyle Joins IATSE Chief in Push for Federal Film and TV Tax Credit: ‘An Investment in Our People’ | Video",
+    "fetched_on": "2026-03-21T20:29:40.350697+00:00",
+    "content": "Noah Wyle, IATSE chief Matthew Loeb and former CNN journalist Jim Acosta met with Sen. Adam Schiff to discuss the rise in film and TV productions leaving the U.S. to shoot in countries that offer bet… [+2092 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wyle",
+      "IATSE",
+      "Noah",
+      "Chief",
+      "Credit",
+      "People’",
+      "Video",
+      "Sen",
+      "Joins",
+      "Push"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/bc-credit-drop-2026-9.7136371",
+    "title": "B.C.'s credit rating downgraded as 'entrenched deficits' expected, but premier says services more important",
+    "fetched_on": "2026-03-21T20:29:40.350697+00:00",
+    "content": "British Columbia's credit rating has been downgraded, but Premier David Eby said government made a \"very clear choice\" between making cuts to \"meet a credit rating\" and \"prioritizing British Columbia… [+3865 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "British",
+      "Columbia",
+      "premier",
+      "credit",
+      "rating",
+      "chars",
+      "David",
+      "Eby",
+      "entrenched",
+      "expected"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/03/20/how-long-can-a-quadcopter-drone-fly-on-just-solar/",
+    "title": "How Long Can a Quadcopter Drone Fly on Just Solar?",
+    "fetched_on": "2026-03-21T20:29:40.350697+00:00",
+    "content": "The final second prototype flying. (Credit: Luke Maximo Bell, YouTube)\r\nThe dream of fully powering everything from aircraft to cars on just the power generated from solar panels attached to the mach… [+2617 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Long",
+      "Quadcopter",
+      "Drone",
+      "Fly",
+      "Solar",
+      "Credit",
+      "Luke",
+      "Bell",
+      "Maximo",
+      "YouTube"
+    ]
+  },
+  {
+    "source": "The Big Lead [NewsAPI]",
+    "url": "https://www.thebiglead.com/sabres-88m-d-man-credits-unbelievable-goaltending-amid-historic-buffalo-season/",
+    "title": "Sabres’ $88M D-man credits ‘unbelievable’ goaltending amid historic Buffalo season",
+    "fetched_on": "2026-03-21T20:29:40.350697+00:00",
+    "content": "The Buffalo Sabres are in the middle of a historic run, and Rasmus Dahlin made it clear what is driving their success. \r\nThe star defenseman, who is signed on an $88 million contract, pointed to one … [+2267 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Buffalo",
+      "D-man",
+      "Sabres’",
+      "Sabres",
+      "Rasmus",
+      "Dahlin",
+      "historic",
+      "credits",
+      "unbelievable’",
+      "run"
+    ]
   }
 ]
