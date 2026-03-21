@@ -200846,5 +200846,45 @@
       "payment",
       "outage"
     ]
+  },
+  {
+    "source": "Thegatewaypundit.com [NewsAPI]",
+    "url": "https://www.thegatewaypundit.com/2026/03/watch-president-trump-reacts-death-chuck-norris/",
+    "title": "WATCH: President Trump Reacts to the Death of Chuck Norris",
+    "fetched_on": "2026-03-21T23:27:35.334108+00:00",
+    "content": "President Trump weighs in on Chuck Norris’s death during a question-and-answer session outside the White House. Credit: Fox News screenshot\r\nPresident Trump has weighed in on the death of one of Amer… [+1547 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chuck",
+      "Norris",
+      "WATCH",
+      "President",
+      "Trump",
+      "House",
+      "Death",
+      "Reacts",
+      "White",
+      "session"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/whats-new/whats-new-on-netflix-this-week-and-top-10-movies-series-march-20-2025/",
+    "title": "What’s New on Netflix This Week and Top 10 Movies & Series: March 20, 2025",
+    "fetched_on": "2026-03-21T23:27:35.334108+00:00",
+    "content": "Picture Credit: A24\r\nWelcome along to another weekly look back at everything new added to Netflix in the United States. An exceptionally busy week of new arrivals, particularly on the licensed side o… [+9416 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Movies",
+      "Series",
+      "March",
+      "Netflix",
+      "Top",
+      "Picture",
+      "Credit",
+      "States",
+      "United",
+      "Week"
+    ]
   }
 ]
