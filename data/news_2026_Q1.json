@@ -199113,5 +199113,45 @@
       "Pro",
       "Convection"
     ]
+  },
+  {
+    "source": "Independent.ie [NewsAPI]",
+    "url": "https://www.independent.ie/business/money/value-of-mortgage-lending-at-credit-unions-close-to-milestone-of-1bn/a526495910.html",
+    "title": "Value of mortgage lending at credit unions close to milestone of €1bn",
+    "fetched_on": "2026-03-21T05:42:22.842581+00:00",
+    "content": "The value of mortgages issued by credit unions is fast closing in on 1bn.This is due to a sharp rise in the value of home loans issued in the last three months of last year by the member-owned bodies… [+2932 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "unions",
+      "chars",
+      "issued",
+      "bodies",
+      "mortgage",
+      "mortgages",
+      "lending",
+      "close",
+      "milestone"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2026/03/20/sports/retiring-broadcaster-howie-rose-gave-islanders-fond-memories-with-calls/",
+    "title": "Retiring broadcaster Howie Rose gave Islanders ‘fond memories’ with calls during time with team",
+    "fetched_on": "2026-03-21T05:42:22.842581+00:00",
+    "content": "OTTAWA, Ontario Howie Rose said goodbye to the Islanders a decade ago, but its a credit to the impact he had calling their games on MSG that there were still plenty of kind words to say about him Thu… [+2266 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Howie",
+      "Rose",
+      "Islanders",
+      "OTTAWA",
+      "Ontario",
+      "Thu",
+      "chars",
+      "MSG",
+      "Retiring",
+      "fond"
+    ]
   }
 ]
