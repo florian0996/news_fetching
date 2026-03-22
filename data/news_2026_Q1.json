@@ -201144,5 +201144,65 @@
       "Things",
       "Investors"
     ]
+  },
+  {
+    "source": "9to5Toys [NewsAPI]",
+    "url": "http://9to5toys.com/2026/03/21/macbook-neo-deals-alerady-live/",
+    "title": "MacBook Neo deals: Up to $52 off ‘excellent’ Best Buy open-box units with 1-yr. Apple warranty, more",
+    "fetched_on": "2026-03-22T11:25:55.656485+00:00",
+    "content": "Best Buy is still offering FREE $50 store credits with purchases of the new MacBook Neo, but only for its paid members. You will also find some light $10 price drops over at Amazon, but there are als… [+1573 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Neo",
+      "Buy",
+      "deals",
+      "excellent’",
+      "MacBook",
+      "FREE",
+      "open-box",
+      "units",
+      "Amazon",
+      "chars"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/millennial-made-1m-trading-meme-111500378.html",
+    "title": "A millennial made $1M trading meme stocks — then lost it all. What his story reveals about chasing risky gains",
+    "fetched_on": "2026-03-22T11:25:55.656485+00:00",
+    "content": "Financial struggles are nothing new, but some generations are feeling the squeeze more than others. A study by Credit One Bank found that 35% of Gen X and 33% of millennials feel worse off than their… [+4761 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "made",
+      "trading",
+      "stocks",
+      "meme",
+      "lost",
+      "Financial",
+      "chars",
+      "Credit",
+      "Bank",
+      "Gen"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19326348-41mm-google-pixel-watch-3-wi-fi-smartwatch-170-free-s-h",
+    "title": "41mm Google Pixel Watch 3 Wi-Fi Smartwatch $170 + Free S&H",
+    "fetched_on": "2026-03-22T11:25:55.656485+00:00",
+    "content": "The email may only be to those who have Google store credit, I don't know if others got it, too. Gave it another look, and the subject line has:\"get 25% off and use your $100.00 Google Store credit\".… [+223 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Watch",
+      "Smartwatch",
+      "Free",
+      "Google",
+      "credit",
+      "store",
+      "Pixel",
+      "Wi-Fi",
+      "email",
+      "chars"
+    ]
   }
 ]
