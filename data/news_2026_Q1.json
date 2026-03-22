@@ -201026,5 +201026,25 @@
       "monthly",
       "installment"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/geopolitical-tensions-rising-diversify-globally-and-rebalance-toward-defensives-says-lgt-wealths-nikhil-advani/articleshow/129713541.cms",
+    "title": "Geopolitical tensions rising; diversify globally and rebalance toward defensives, says LGT Wealth’s Nikhil Advani",
+    "fetched_on": "2026-03-22T05:55:18.221433+00:00",
+    "content": "As geopolitical tensions intensify and global markets grapple with rising oil prices, credit concerns, and technological disruption, investors are increasingly seeking stability in an uncertain envir… [+6271 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Geopolitical",
+      "tensions",
+      "LGT",
+      "Wealth",
+      "Nikhil",
+      "Advani",
+      "rising",
+      "diversify",
+      "defensives"
+    ]
   }
 ]
