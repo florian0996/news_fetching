@@ -201362,5 +201362,45 @@
       "Transparency",
       "Consent"
     ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/chuck-norris-net-worth-5507696/",
+    "title": "Chuck Norris’ Net Worth: How Much Money the Late Action Movie Star Made",
+    "fetched_on": "2026-03-22T15:28:53.536451+00:00",
+    "content": "Image Credit: Getty Images\r\nChuck Norris etched himself in Hollywood history as one of the most famous action heroes of all time. Known for his roles in Walker, Texas Ranger and The Way of the Dragon… [+2405 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chuck",
+      "Action",
+      "Worth",
+      "Credit",
+      "Getty",
+      "Norris’",
+      "Net",
+      "Money",
+      "Late",
+      "Movie"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/merrily-we-roll-along-starring-daniel-radcliffe-and-jonathan-groff-sets-netflix-streaming-debut/",
+    "title": "‘Merrily We Roll Along’ Starring Daniel Radcliffe and Jonathan Groff Sets Netflix Streaming Debut",
+    "fetched_on": "2026-03-22T15:28:53.536451+00:00",
+    "content": "Picture Credit: Sony Pictures Classics\r\nSony Pictures Classics’ highly acclaimed proshot of the Tony-winning Broadway musical Merrily We Roll Along is officially heading to Netflix in the United Stat… [+3284 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Merrily",
+      "Roll",
+      "Sony",
+      "Pictures",
+      "Netflix",
+      "Credit",
+      "Stat",
+      "chars",
+      "Along’",
+      "Starring"
+    ]
   }
 ]
