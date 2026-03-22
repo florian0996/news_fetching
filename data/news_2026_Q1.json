@@ -200886,5 +200886,45 @@
       "United",
       "Week"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/the-amazing-digital-circus-episode-8-netflix-release-date/",
+    "title": "You’ll Have to Wait a Little Longer for Episode 8 of ‘The Amazing Digital Circus’ to Hit Netflix",
+    "fetched_on": "2026-03-22T02:28:50.550165+00:00",
+    "content": "Picture Credit: GLITCH\r\nThe Amazing Digital Circus has become a massive global phenomenon, racking up tens of millions of views and dominating Netflixs global top 10 charts. With the shows ongoing su… [+2325 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amazing",
+      "Digital",
+      "Episode",
+      "Credit",
+      "GLITCH",
+      "charts",
+      "Wait",
+      "Longer",
+      "Circus’",
+      "Hit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/treasury-to-take-over-student-loans-as-education-secretary-mcmahon-aims-to-get-defaulted-borrowers-on-repayment-183826258.html",
+    "title": "Treasury to take over student loans as Education Secretary McMahon aims to get defaulted borrowers on repayment",
+    "fetched_on": "2026-03-22T02:29:21.612455+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Education",
+      "Secretary",
+      "Treasury",
+      "repayment",
+      "student",
+      "loans",
+      "McMahon",
+      "aims",
+      "defaulted",
+      "borrowers"
+    ]
   }
 ]
