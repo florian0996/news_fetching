@@ -201244,5 +201244,63 @@
       "loan",
       "rates"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/economy/finmin-makes-changes-to-mutual-credit-guarantee-scheme-to-support-msmes/article70769235.ece",
+    "title": "Finmin makes changes to Mutual Credit Guarantee Scheme to support MSMEs",
+    "fetched_on": "2026-03-22T13:47:46.399310+00:00",
+    "content": "Finance Ministry on Saturday said that loans up to 100 crore for the purchase of plant, machinery and equipment by Micro, Small and Medium Enterprises (MSME) will be eligible for guarantee coverage. … [+2116 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Micro",
+      "Small",
+      "Enterprises",
+      "Guarantee",
+      "Mutual",
+      "Credit",
+      "Scheme",
+      "Finance",
+      "Ministry",
+      "Saturday"
+    ]
+  },
+  {
+    "source": "CNBC Personal Fin. [RSS]",
+    "url": "https://www.cnbc.com/2026/03/22/private-credit.html",
+    "title": "When it comes to private credit, 'some caution is reasonable,' advisor says. What to know",
+    "fetched_on": "2026-03-22T13:48:07.888912+00:00",
+    "content": "While there are pockets of weakness in private credit, concern about a broad-based meltdown among these funds may be misplaced, some experts say.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "reasonable",
+      "advisor",
+      "private",
+      "caution",
+      "concern",
+      "misplaced",
+      "pockets",
+      "weakness",
+      "broad-based"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/economy/policy/articles/student-loan-garnishment-social-security-115950918.html",
+    "title": "Student Loan Garnishment of Social Security Is Still Looming. Here Is Where Things Stand Now.",
+    "fetched_on": "2026-03-22T13:48:08.661058+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Looming",
+      "Loan",
+      "Garnishment",
+      "Social",
+      "Security",
+      "Student",
+      "Things",
+      "Stand"
+    ]
   }
 ]
