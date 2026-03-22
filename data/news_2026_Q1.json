@@ -201662,5 +201662,45 @@
       "Land",
       "Opening"
     ]
+  },
+  {
+    "source": "Alltoc.com [NewsAPI]",
+    "url": "https://alltoc.com/travel/hilton-aspire-resort-credit-how-to-use",
+    "title": "Hilton Aspire resort credit: how to use #travel",
+    "fetched_on": "2026-03-22T18:40:09.536472+00:00",
+    "content": "Hilton Aspire cardholders can use a yearly resort credit tied to eligible Hilton brands, but the practical value depends on how you actually trigger the benefit and avoid last-minute booking issues.\r… [+1287 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hilton",
+      "Aspire",
+      "resort",
+      "credit",
+      "travel",
+      "brands",
+      "issues",
+      "cardholders",
+      "yearly",
+      "tied"
+    ]
+  },
+  {
+    "source": "STLtoday.com [NewsAPI]",
+    "url": "https://www.stltoday.com/sports/college/mizzou/article_5718af26-6010-4d6b-adb1-fdeebac54ac4.html",
+    "title": "Mizzou's season was a 'failure,' Dennis Gates says. But he wants credit, too",
+    "fetched_on": "2026-03-22T18:40:09.536472+00:00",
+    "content": "Missouri guard Anthony Robinson II, left, and Mark Mitchell foul Miami forward Malik Reneau, center, on a shot in the second half during a game between Missouri and Miami in the first round of the NC… [+92 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dennis",
+      "failure",
+      "Gates",
+      "Mizzou",
+      "Missouri",
+      "Miami",
+      "season",
+      "Reneau",
+      "left",
+      "center"
+    ]
   }
 ]
