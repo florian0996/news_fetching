@@ -201204,5 +201204,45 @@
       "email",
       "chars"
     ]
+  },
+  {
+    "source": "Android Police [NewsAPI]",
+    "url": "https://www.androidpolice.com/use-google-wallet-every-day-missing-features-still-annoy-me/",
+    "title": "I use Google Wallet every day, but these missing features still annoy me",
+    "fetched_on": "2026-03-22T12:56:22.485345+00:00",
+    "content": "Over the past few years, Google Wallet has evolved into more than just another payment app. It can store everything from your credit and debit cards to loyalty programs, boarding passes, gym membersh… [+5050 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Google",
+      "Wallet",
+      "day",
+      "years",
+      "app",
+      "chars",
+      "missing",
+      "features",
+      "annoy",
+      "past"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-march-22-2026-100000460.html",
+    "title": "HELOC and home equity loan rates Sunday, March 22, 2026: Steady following second Fed rate pause",
+    "fetched_on": "2026-03-22T12:56:38.063349+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "HELOC",
+      "Sunday",
+      "Steady",
+      "Fed",
+      "pause",
+      "home",
+      "equity",
+      "loan",
+      "rates"
+    ]
   }
 ]
