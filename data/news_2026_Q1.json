@@ -201302,5 +201302,65 @@
       "Things",
       "Stand"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0ddfa12a-33c5-4344-9671-0394bb5f190c",
+    "title": "Deutsche Bank’s $30 Billion Private Credit Bet Has Shares Down 26% This Year",
+    "fetched_on": "2026-03-22T14:30:09.004833+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Billion",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Bank",
+      "Private",
+      "Credit"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/coming-soon/new-extraction-movies-series-coming-to-netflxi/",
+    "title": "Every ‘Extraction’ Movie and Spin-Off Coming Soon to Netflix",
+    "fetched_on": "2026-03-22T14:30:09.004833+00:00",
+    "content": "Picture Credit: Netflix\r\nFew franchises have delivered the kind of eye-watering viewership numbers quite like the Russo Brothers AGBO-produced Extraction films and Netflix is going all-in over the ne… [+5440 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Extraction’",
+      "Credit",
+      "chars",
+      "Movie",
+      "Coming",
+      "Picture",
+      "Russo",
+      "Brothers",
+      "Extraction"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ed6056e-f126-43a3-93ad-b67631f181be",
+    "title": "Oportun Financial Highlights 2025 Profit Gains, Details 2026 Credit and Funding Plan at Sidoti Conference",
+    "fetched_on": "2026-03-22T14:30:09.004833+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Details",
+      "including",
+      "chars",
+      "Highlights",
+      "Profit",
+      "Gains",
+      "Credit",
+      "Accept",
+      "Transparency",
+      "Consent"
+    ]
   }
 ]
