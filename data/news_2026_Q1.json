@@ -201822,5 +201822,62 @@
       "Fitch",
       "credit"
     ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/03/21/reviving-a-cursed-sun-sparcstation-ipx/",
+    "title": "Reviving a Cursed Sun SPARCstation IPX",
+    "fetched_on": "2026-03-22T23:31:07.220859+00:00",
+    "content": "SPARCstation IPX running Solaris 2.6. (Credit: This Does Not Compute, YouTube)\r\nThe best part about retro computing is the idea that you’ll save some poor system from being scrapped and revive it to … [+2014 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "IPX",
+      "Solaris",
+      "Cursed",
+      "Sun",
+      "SPARCstation",
+      "Credit",
+      "Reviving",
+      "YouTube",
+      "chars",
+      "Compute"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19330554-149-99-ninja-flip-8-in-1toaster-oven-air-fryer-w-air-fry-basket-sheet-pan-wire-rack-removable-crumb-tray-stainless-steel-20-credit-at-amazon",
+    "title": "$149.99 | Ninja Flip 8-in-1Toaster Oven & Air Fryer w/ Air Fry Basket, Sheet Pan, Wire Rack & Removable Crumb Tray (Stainless Steel) + $20 credit at Amazon",
+    "fetched_on": "2026-03-22T23:31:07.220859+00:00",
+    "content": "Amazon[amazon.com] has Ninja Flip 8-in-1Toaster Oven &amp; Air Fryer w/ Air Fry Basket, Sheet Pan, Wire Rack &amp; Removable Crumb Tray (Stainless Steel) for $149.99.Shipping is free.Price$100 lower … [+187 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Air",
+      "Oven",
+      "Flip",
+      "Basket",
+      "Sheet",
+      "Pan",
+      "Wire",
+      "Rack",
+      "Removable",
+      "Tray"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/economy/policy/articles/car-loan-interest-deduction-limits-221500369.html",
+    "title": "Car Loan Interest Deduction Limits Explained: What You Need To Know Before You Claim",
+    "fetched_on": "2026-03-22T23:31:22.902442+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Explained",
+      "Claim",
+      "Loan",
+      "Interest",
+      "Deduction",
+      "Limits",
+      "Car"
+    ]
   }
 ]
