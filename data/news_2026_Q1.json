@@ -202758,5 +202758,25 @@
       "Saturday",
       "Meteorite"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/india/kotak-sells-stake-in-capital-market-lending-arm/articleshow/129738556.cms",
+    "title": "Kotak sells stake in capital market lending arm",
+    "fetched_on": "2026-03-23T20:39:39.493862+00:00",
+    "content": "Follow Us On Social Media",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Media",
+      "Follow",
+      "Social",
+      "Kotak",
+      "sells",
+      "stake",
+      "capital",
+      "market",
+      "lending",
+      "arm"
+    ]
   }
 ]
