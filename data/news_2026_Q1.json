@@ -201879,5 +201879,65 @@
       "Limits",
       "Car"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-23/vpbank-seeks-1-2-billion-in-one-of-vietnam-s-largest-esg-deals",
+    "title": "VPBank Seeks $1.2 Billion in One of Vietnam’s Largest ESG Deals",
+    "fetched_on": "2026-03-23T02:29:32.766075+00:00",
+    "content": "Vietnam Prosperity JSC Bank is seeking a sustainability‑linked loan of about $1.2 billion, according to people familiar with the matter, in what would be one of the country’s largest financings tied to ESG metrics.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Vietnam",
+      "ESG",
+      "Largest",
+      "Seeks",
+      "Deals",
+      "Prosperity",
+      "JSC",
+      "Bank",
+      "VPBank"
+    ]
+  },
+  {
+    "source": "The Daily Caller [NewsAPI]",
+    "url": "https://dailycaller.com/2026/03/21/opinion-protect-housing-market-from-biden-era-credit-policies-leif-larson/",
+    "title": "LEIF LARSON: Protect Housing Market From Biden Era Credit Policies",
+    "fetched_on": "2026-03-23T02:29:32.071800+00:00",
+    "content": "Investors joke that owing a bank $100,000 means the bank owns you, but owing $1 million means you own the bank because it can’t afford to let you default. Large loans pose big risks, requiring lender… [+5528 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "LEIF",
+      "LARSON",
+      "Protect",
+      "bank",
+      "Housing",
+      "Market",
+      "Biden",
+      "Era",
+      "Credit",
+      "Policies"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/politics/trump-threatens-iran-you-have-48-hours-to-fully-open-strait-of-hormuz-or-else/",
+    "title": "Trump Threatens Iran: You Have 48 Hours to ‘FULLY OPEN’ Strait of Hormuz — Or Else",
+    "fetched_on": "2026-03-23T02:29:32.071800+00:00",
+    "content": "(Credit: Kyle Mazza/TheNews2/Cover Images via AP Images)\r\nPresident Donald Trump threatened Iran it must “FULLY OPEN” the Strait of Hormuz within the next 48 hours or else the United States military … [+1825 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "FULLY",
+      "Credit",
+      "Strait",
+      "Hormuz",
+      "Hours",
+      "Iran",
+      "Images",
+      "Kyle",
+      "Mazza",
+      "Cover"
+    ]
   }
 ]
