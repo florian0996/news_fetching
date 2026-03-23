@@ -202958,5 +202958,65 @@
       "redemption",
       "requests"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-23/private-credit-fund-run-by-future-standard-and-kkr-cut-to-junk-by-moody-s",
+    "title": "Private Credit Fund Run by Future Standard and KKR Cut to Junk by Moody’s",
+    "fetched_on": "2026-03-23T23:34:49.036895+00:00",
+    "content": "A private credit fund jointly run by Future Standard and KKR &amp; Co. lost one of its investment-grade ratings, a rare occurrence in the $1.8 trillion private credit market that could result in higher borrowing costs for the $14 billion investment vehicle.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Standard",
+      "Credit",
+      "KKR",
+      "Fund",
+      "Run",
+      "Private",
+      "Cut",
+      "Junk",
+      "Moody"
+    ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/dodgers/251654/dodgers-option-hyeseong-kim-to-triple-a-ahead-of-opening-day/",
+    "title": "Dodgers Option Hyeseong Kim to Triple-A Ahead of Opening Day",
+    "fetched_on": "2026-03-23T23:34:48.546428+00:00",
+    "content": "Feb 23, 2026; Phoenix, Arizona, USA; Los Angeles Dodgers infielder Hyeseong Kim against the Seattle Mariners during a spring training game at Camelback Ranch-Glendale. Mandatory Credit: Mark J. Rebil… [+1682 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phoenix",
+      "Arizona",
+      "USA",
+      "Hyeseong",
+      "Kim",
+      "Feb",
+      "Los",
+      "Dodgers",
+      "Option",
+      "Ahead"
+    ]
+  },
+  {
+    "source": "CNBC Finance [RSS]",
+    "url": "https://www.cnbc.com/2026/03/23/apollo-private-credit-fund-gives-investors-only-45percent-of-requested-withdrawals.html",
+    "title": "Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund",
+    "fetched_on": "2026-03-23T23:35:04.101684+00:00",
+    "content": "The withdrawals show that Apollo didn't avoid the rush of investor redemptions plaguing rivals, driven by concern over private credit loans to software firms.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "private",
+      "credit",
+      "billion",
+      "rivals",
+      "driven",
+      "firms",
+      "withdrawals",
+      "requested",
+      "fund"
+    ]
   }
 ]
