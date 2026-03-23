@@ -1,10 +1,10 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-03-23/vpbank-seeks-1-2-billion-in-one-of-vietnam-s-largest-esg-deals",
-    "title": "VPBank Seeks $1.2 Billion in One of Vietnam’s Largest ESG Deals",
+    "title": "VPBank Seeks $1.2 Billion in One of Vietnam\u2019s Largest ESG Deals",
     "fetched_on": "2026-03-23T05:04:55.752175+00:00",
-    "content": "Vietnam Prosperity JSC Bank is seeking a sustainability‐linked loan of about $1.2 billion, according to people familiar with the matter, in what would be one of the country’s largest financings tied to ESG metrics.",
+    "content": "Vietnam Prosperity JSC Bank is seeking a sustainability\u2010linked loan of about $1.2 billion, according to people familiar with the matter, in what would be one of the country\u2019s largest financings tied to ESG metrics.",
     "platforms_mentioned": [],
     "keywords": [
       "Billion",
@@ -20,11 +20,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Economics [RSS]",
+    "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-03-22/nz-yields-rise-to-highest-in-a-year-on-outlook-cut-oil-s-rise",
     "title": "New Zealand Yields Hit Highest Since 2024 on Outlook Cut, Oil",
-    "fetched_on": "2026-03-23T05:04:56.686109+00:00",
-    "content": "New Zealand’s benchmark bond yields rose to the highest since 2024 after the country’s AA+ credit rating outlook was cut to negative by Fitch Ratings.",
+    "fetched_on": "2026-03-23T07:13:54.055946+00:00",
+    "content": "New Zealand\u2019s benchmark bond yields rose to the highest since 2024 after the country\u2019s AA+ credit rating outlook was cut to negative by Fitch Ratings.",
     "platforms_mentioned": [],
     "keywords": [
       "Zealand",
@@ -40,11 +40,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Economics [RSS]",
+    "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-03-20/new-zealand-rating-outlook-cut-to-negative-by-fitch-on-debt",
     "title": "New Zealand Rating Outlook Cut to Negative by Fitch on Debt",
     "fetched_on": "2026-03-23T02:29:33.266482+00:00",
-    "content": "New Zealand’s credit rating outlook was cut to negative by Fitch Ratings on concern it will take longer than expected to rein in government debt.",
+    "content": "New Zealand\u2019s credit rating outlook was cut to negative by Fitch Ratings on concern it will take longer than expected to rein in government debt.",
     "platforms_mentioned": [],
     "keywords": [
       "Zealand",
@@ -63,8 +63,8 @@
     "source": "The Daily Caller [NewsAPI]",
     "url": "https://dailycaller.com/2026/03/21/opinion-protect-housing-market-from-biden-era-credit-policies-leif-larson/",
     "title": "LEIF LARSON: Protect Housing Market From Biden Era Credit Policies",
-    "fetched_on": "2026-03-23T05:04:54.995942+00:00",
-    "content": "Investors joke that owing a bank $100,000 means the bank owns you, but owing $1 million means you own the bank because it can’t afford to let you default. Large loans pose big risks, requiring lender... [+5528 chars]",
+    "fetched_on": "2026-03-23T07:13:52.183045+00:00",
+    "content": "Investors joke that owing a bank $100,000 means the bank owns you, but owing $1 million means you own the bank because it can\u2019t afford to let you default. Large loans pose big risks, requiring lender\u2026 [+5528 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "LEIF",
@@ -82,9 +82,9 @@
   {
     "source": "Mediaite [NewsAPI]",
     "url": "https://www.mediaite.com/politics/trump-threatens-iran-you-have-48-hours-to-fully-open-strait-of-hormuz-or-else/",
-    "title": "Trump Threatens Iran: You Have 48 Hours to ‘FULLY OPEN’ Strait of Hormuz - Or Else",
-    "fetched_on": "2026-03-23T05:04:54.995942+00:00",
-    "content": "(Credit: Kyle Mazza/TheNews2/Cover Images via AP Images) President Donald Trump threatened Iran it must “FULLY OPEN” the Strait of Hormuz within the next 48 hours or else the United States military ... [+1825 chars]",
+    "title": "Trump Threatens Iran: You Have 48 Hours to \u2018FULLY OPEN\u2019 Strait of Hormuz \u2014 Or Else",
+    "fetched_on": "2026-03-23T07:13:52.183045+00:00",
+    "content": "(Credit: Kyle Mazza/TheNews2/Cover Images via AP Images)\r\nPresident Donald Trump threatened Iran it must \u201cFULLY OPEN\u201d the Strait of Hormuz within the next 48 hours or else the United States military \u2026 [+1825 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "FULLY",
@@ -104,7 +104,7 @@
     "url": "https://hackaday.com/2026/03/21/reviving-a-cursed-sun-sparcstation-ipx/",
     "title": "Reviving a Cursed Sun SPARCstation IPX",
     "fetched_on": "2026-03-23T05:04:54.995942+00:00",
-    "content": "SPARCstation IPX running Solaris 2.6. (Credit: This Does Not Compute, YouTube) The best part about retro computing is the idea that you’ll save some poor system from being scrapped and revive it to ... [+2014 chars]",
+    "content": "SPARCstation IPX running Solaris 2.6. (Credit: This Does Not Compute, YouTube) The best part about retro computing is the idea that you\u2019ll save some poor system from being scrapped and revive it to ... [+2014 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "IPX",
@@ -160,10 +160,10 @@
     ]
   },
   {
-    "source": "Crunchbase News – IPO [Scrape]",
+    "source": "Crunchbase News \u2013 IPO [Scrape]",
     "url": "https://news.crunchbase.com/fintech/funding-jumped-big-checks-ai-ye-2025/",
     "title": "Fintech Funding Jumped 27% In 2025 With Fewer Deals But Bigger Checks",
-    "fetched_on": "2026-03-23T05:05:19.725703+00:00",
+    "fetched_on": "2026-03-23T07:14:16.687030+00:00",
     "content": "Global venture funding to fintech startups climbed in 2025 to its highest level in several quarters, boosted by later-stage deals, Crunchbase data shows.",
     "platforms_mentioned": [],
     "keywords": [
@@ -183,7 +183,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/22/private-credit.html",
     "title": "When it comes to private credit, 'some caution is reasonable,' advisor says. What to know",
-    "fetched_on": "2026-03-23T05:05:23.637316+00:00",
+    "fetched_on": "2026-03-23T07:14:20.378224+00:00",
     "content": "While there are pockets of weakness in private credit, concern about a broad-based meltdown among these funds may be misplaced, some experts say.",
     "platforms_mentioned": [],
     "keywords": [
@@ -202,9 +202,9 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/18/fed-march-rate-decision.html",
-    "title": "Fed holds interest rates steady - here’s what that means for consumers",
-    "fetched_on": "2026-03-23T05:05:23.637390+00:00",
-    "content": "From mortgage rates to auto loans and credit cards, here’s a look at how the Fed's March interest rate decision may affect your finances.",
+    "title": "Fed holds interest rates steady \u2014 here\u2019s what that means for consumers",
+    "fetched_on": "2026-03-23T07:14:20.378298+00:00",
+    "content": "From mortgage rates to auto loans and credit cards, here\u2019s a look at how the Fed's March interest rate decision may affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
       "Fed",
@@ -222,8 +222,8 @@
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/02/22/cost-of-credit-reports-for-mortgages-center-of-debate-what-to-know-.html",
-    "title": "Homebuyers are paying more for mortgage credit checks. Here’s why",
-    "fetched_on": "2026-03-23T05:05:23.100218+00:00",
+    "title": "Homebuyers are paying more for mortgage credit checks. Here\u2019s why",
+    "fetched_on": "2026-03-23T07:14:20.032273+00:00",
     "content": "Despite being a small part of closing costs, credit report fees have become a flashpoint in the mortgage industry.",
     "platforms_mentioned": [],
     "keywords": [
@@ -243,7 +243,7 @@
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/02/20/subprime-borrowers-personal-loans.html",
     "title": "Personal loans surge amid affordability struggles: It's 'the middle-class refinancing option,' expert says",
-    "fetched_on": "2026-03-23T05:05:23.100225+00:00",
+    "fetched_on": "2026-03-23T07:14:20.032280+00:00",
     "content": "Some borrowers are turning to personal loans to refinance credit card debt. Those loans are expected increase nearly 6% this year, TransUnion forecasts",
     "platforms_mentioned": [],
     "keywords": [
@@ -262,14 +262,14 @@
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/02/10/new-york-fed-credit-card-debt-tops-1point28-trillion.html",
-    "title": "Credit card debt tops $1.28 trillion - consistent with ‘K-shaped’ economic divide, New York Fed research shows",
-    "fetched_on": "2026-03-23T05:05:23.100265+00:00",
+    "title": "Credit card debt tops $1.28 trillion \u2014 consistent with \u2018K-shaped\u2019 economic divide, New York Fed research shows",
+    "fetched_on": "2026-03-23T07:14:20.032321+00:00",
     "content": "Collectively, Americans owe $1.28 trillion on their credit cards, according to a new report by the Federal Reserve Bank of New York.",
     "platforms_mentioned": [],
     "keywords": [
       "York",
       "trillion",
-      "K-shaped’",
+      "K-shaped\u2019",
       "Collectively",
       "Americans",
       "Credit",
@@ -283,7 +283,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
     "title": "Apollo's John Zito questions private equity's software valuations: 'All the marks are wrong'",
-    "fetched_on": "2026-03-23T05:05:23.392492+00:00",
+    "fetched_on": "2026-03-23T07:14:20.207126+00:00",
     "content": "While Wall Street figures have flagged risks in private credit, Apollo's Zito is among the first within private credit to candidly acknowledge weakness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -303,7 +303,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html",
     "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
-    "fetched_on": "2026-03-23T05:05:23.392553+00:00",
+    "fetched_on": "2026-03-23T07:14:20.207184+00:00",
     "content": "JPMorgan's move shows that the biggest U.S. bank by assets wants to get ahead of potential turbulence involving private credit loans to software companies.",
     "platforms_mentioned": [],
     "keywords": [
@@ -323,7 +323,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/20/student-loan-collection-will-be-managed-by-treasury-department.html",
     "title": "Trump admin tasks Treasury Dept. with student loan collection. What borrowers need to know",
-    "fetched_on": "2026-03-23T05:05:23.637368+00:00",
+    "fetched_on": "2026-03-23T07:14:20.378277+00:00",
     "content": "Trump officials plan to task the Treasury Department with collecting on defaulted student loans and eventually \"operational support\" on current loans.",
     "platforms_mentioned": [],
     "keywords": [
@@ -343,8 +343,8 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/17/student-loan-borrower-relief-backlog.html",
     "title": "More than 576,000 student loan borrowers in backlog for affordable repayment plans, court filing shows",
-    "fetched_on": "2026-03-23T05:05:23.637417+00:00",
-    "content": "More than half a million federal student loan borrowers remain in a backlog of applications for an affordable repayment plan, a court filing revealed.",
+    "fetched_on": "2026-03-23T07:14:20.378322+00:00",
+    "content": "More than half a million federal student loan borrowers remain in a backlog of applications for an affordable repayment plan, a court filing\u00a0revealed.",
     "platforms_mentioned": [],
     "keywords": [
       "loan",
@@ -363,7 +363,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/12/student-loan-oversight-trump-gao.html",
     "title": "Trump administration has scaled back oversight of student loan servicers, congressional watchdog finds",
-    "fetched_on": "2026-03-23T05:05:23.637500+00:00",
+    "fetched_on": "2026-03-23T07:14:20.378405+00:00",
     "content": "The Department of Education has scaled back its oversight of student loan servicers, a new report from the nonpartisan Government Accountability Office finds.",
     "platforms_mentioned": [],
     "keywords": [
@@ -382,8 +382,8 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/11/personal-loan-credit-card-debt-consolidation.html",
-    "title": "You can't 'borrow your way out of debt,' expert says - but more consumers are trying",
-    "fetched_on": "2026-03-23T05:05:23.637514+00:00",
+    "title": "You can't 'borrow your way out of debt,' expert says \u2014 but more consumers are trying",
+    "fetched_on": "2026-03-23T07:14:20.378418+00:00",
     "content": "Borrowers who struggle with high-interest debt often turn to personal loans to help pay it off, but without a change in habits debt can become a cycle.",
     "platforms_mentioned": [],
     "keywords": [
@@ -403,7 +403,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/10/save-plan-for-student-loan-borrowers-is-over-federal-appeals-court-.html",
     "title": "Federal appeals court orders end to SAVE plan used by millions of student loan borrowers",
-    "fetched_on": "2026-03-23T05:05:23.637527+00:00",
+    "fetched_on": "2026-03-23T07:14:20.378432+00:00",
     "content": "A federal appeals court ordered the end to the SAVE plan, the Biden administration-era program used by millions of student loan borrowers.",
     "platforms_mentioned": [],
     "keywords": [
@@ -420,11 +420,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Business [RSS]",
+    "source": "Bloomberg \u2013 Business [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-03-23/credit-suisse-s-at1-bond-crash-fueled-leadership-crisis-at-hdfc",
-    "title": "Credit Suisse’s AT1 Bond Crash Fueled Leadership Crisis at HDFC",
-    "fetched_on": "2026-03-23T05:04:56.183812+00:00",
-    "content": "Shortly before midnight on the eve of a bank holiday in India, HDFC Bank Ltd., a favorite among global investors, stunned the market by announcing the abrupt exit of its chairman. One line in the statement jumped out: Atanu Chakraborty resigned over “ethical” differences with the bank going back two years.",
+    "title": "Credit Suisse\u2019s AT1 Bond Crash Fueled Leadership Crisis at HDFC",
+    "fetched_on": "2026-03-23T07:13:53.477794+00:00",
+    "content": "Shortly before midnight on the eve of a bank holiday in India, HDFC Bank Ltd., a favorite among global investors, stunned the market by announcing the abrupt exit of its chairman. One line in the statement jumped out: Atanu Chakraborty resigned over \u201cethical\u201d differences with the bank going back two years.",
     "platforms_mentioned": [],
     "keywords": [
       "HDFC",
@@ -443,8 +443,8 @@
     "source": "Ozbargain.com.au [NewsAPI]",
     "url": "https://www.ozbargain.com.au/node/952986",
     "title": "adidas: 20% Cashback (22% SB Plus, Uncapped), [Westpac] 10% Bonus ($20 Cap Per Purchase) @ ShopBack",
-    "fetched_on": "2026-03-23T05:04:54.995942+00:00",
-    "content": "Take note Make sure you check out on this stores website, not in their app. Exclusions You won't get Cashback on: <ul><li>Any Gift Card, Voucher or store credit purchase</li><li>Other bonus or ca... [+553 chars]",
+    "fetched_on": "2026-03-23T07:13:52.183045+00:00",
+    "content": "Take note\r\nMake sure you check out on this stores website, not in their app.\r\nExclusions\r\nYou won't get Cashback on:\r\n<ul><li>Any Gift Card, Voucher or store credit purchase</li><li>Other bonus or ca\u2026 [+553 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Uncapped",
@@ -463,8 +463,8 @@
     "source": "Freerepublic.com [NewsAPI]",
     "url": "https://freerepublic.com/focus/f-chat/4371675/posts",
     "title": "Why AI Worries About Software Companies Are Hitting Private Credit",
-    "fetched_on": "2026-03-23T05:04:54.995942+00:00",
-    "content": "Skip to comments. Why AI Worries About Software Companies Are Hitting Private CreditMorningstar ^ | 02/26/2026 | Abby Latour Posted on 03/21/2026 7:57:56 PM PDT by SeekAndFind Its not just the... [+9270 chars]",
+    "fetched_on": "2026-03-23T07:13:52.183045+00:00",
+    "content": "Skip to comments.\r\nWhy AI Worries About Software Companies Are Hitting Private CreditMorningstar ^\r\n | 02/26/2026\r\n | Abby Latour\r\nPosted on 03/21/2026 7:57:56 PM PDT by SeekAndFind\r\nIts not just the\u2026 [+9270 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "Worries",
@@ -477,6 +477,88 @@
       "comments",
       "Abby",
       "chars"
+    ]
+  },
+  {
+    "source": "ANI News [NewsAPI]",
+    "url": "https://www.aninews.in/news/business/govt-amends-mutual-credit-guarantee-scheme-to-support-msme-manufacturing-exports20260322120323",
+    "title": "Govt amends Mutual Credit Guarantee Scheme to support MSME manufacturing, exports",
+    "fetched_on": "2026-03-23T07:13:52.183045+00:00",
+    "content": "New Delhi [India], March 22 (ANI): The Central Government modified the Mutual Credit Guarantee Scheme (MCGS-MSME) to bolster manufacturing and export capabilities within the micro, small, and medium \u2026 [+2781 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Guarantee",
+      "India",
+      "March",
+      "ANI",
+      "MCGS-MSME",
+      "Mutual",
+      "Scheme",
+      "Delhi",
+      "small"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/energy/power/india-to-start-carbon-credit-trading-after-four-months-power-minister-manohar-lal/articleshow/129728903.cms",
+    "title": "India to start carbon credit trading after four months: Power minister Manohar Lal",
+    "fetched_on": "2026-03-23T07:13:52.183045+00:00",
+    "content": "Carbon credit trading will start in India after four months, said power minister Manohar Lal. The government has already stated the detailed process for compliance and voluntary carbon markets under \u2026 [+2235 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Manohar",
+      "Lal",
+      "months",
+      "Power",
+      "India",
+      "credit",
+      "minister",
+      "carbon",
+      "trading",
+      "start"
+    ]
+  },
+  {
+    "id": "e5a566e08792ac88ca7683ead443e14d",
+    "source": "Luca Frignani | Exaloan <luca.frignani@exaloan.com> [Newsletter]",
+    "url": "",
+    "title": "FW: Air Street raises Europe's biggest solo GP fund",
+    "fetched_on": "2026-03-23T07:14:22.908749+00:00",
+    "content": "\r\n________________________________\r\nFrom: Sifted Daily <sifted@sifted.eu>\r\nSent: Monday, 23 March 2026 06:19:33 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna\r\nTo: Luca Frignani | Exaloan <luca.frignani@exaloan.com>\r\nSubject: Air Street raises Europe's biggest solo GP fund\r\n\r\n+ Why are funding rounds so crowded? \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad\r\nView in browser<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yqT5nR3bW6N1X8z6lZ3pyW1M_ZfJ2sgVcxMRkH-2sPfg_VSrRWt1fX2JCV2cvtV22dgXfW8skt6P4KM3pSW20bhxY5Wmz6pW1FZGqT1Y4GPnW5JGgsH4c3NGrW1WkG7k3bbJygW6R1mjm1GXLb1W1v-z4V7j_h9WW2bRPml2nZDYhW4cJZGZ2PZ9lgW6MCdKh2ktM2DW4DfbL87y6CWHVdyvWP5qHjhlN1QQJswKN4BwW2nsYR76LMDXCW539kLB73wqngW3dWz1L49YqCHW3ZBkK47jYpxcW93RV3J1Ggtx4W5jJTlR6_rz-3N5ddWYk_xQ-LW7YRCq2594nQ1W8cv2yv73ytSMW8LBgmN265dyHN89lgL4rF5RnW7DBvyc7Lz2gRW2nmmfS4ygJjJN5GC5W0CwRZ4W96xv5Q7xcmgqW8V9dzJ2-kVVgW7_jQLH1f3TtwW7jFVR84ZMz8FW9fkBy66f49RxW56WNXK60t6ynW6PdwFn4_fb32f2DvZ8H04>\r\n[Powered by DBT_flagship] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrs3qgz0W7Y8-PT6lZ3kPW2ltTpJ8LlNSNW25c0Rn3BFxMzN7CrKdGhtpKxN7ctdRqhNMdBW3h3dmT7W7gxPW5VsnSg3mzNC9W69YLvx72fMsfW6r83xp4bJdGxW3hQ_8T7Qfr91W5yN-Ts2X1w9cW9cQ3bn6TwNgQN1xxNMcXY13fW8jCq4Q8sFqQ_VZj0Dn6D5F0vW1Qsmkp1MGxWvW1KQs-m8RGS6xW6y2p0p8ShzZsW1MxjqZ6TykjCW1hF0cj3M8XsMW15vY9W5FHvpmW7snSZs8LS0WVN3yhLn-JK3g3W1nLPr06h1_dHW5Kmm366cZlkFW7fVY1-5CbzW0W2FNypG7qLtCVf3_5rmv04>\r\n\r\n[Sifted_Daily]\r\n[Amy Lewin Sifted circle]\r\n\r\nby Amy Lewin\r\n\r\nGood morning Luca,\r\n\r\n\r\n\r\nNathan Benaich was investing in AI long before it was the zeitgeist \u2014 and it\u2019s served him well.\r\n\r\n\r\n\r\nBenaich is today announcing that he's raised $232m for his third fund at Air Street Capital, making it Europe\u2019s largest solo GP fund.\r\n\r\n\r\n\r\nHis portfolio includes several European AI champions, including Synthesia and Black Forest Labs, along with biotech, defence and robotics startups.\r\n\r\n\r\n\r\nLast week, I spoke to Benaich about when he thinks AI upstarts should cosy up to AI giants (and when they should stay the hell away), what he thinks the exit route for most European AI startups is and whether it's a good idea to raise huge funding rounds that aren't strictly needed. Read our conversation here. <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrs3qgz0W7Y8-PT6lZ3ldN2Jz31JklkZdW4g3w4X8WkzxzW2Nl2zS8Q4mMNM25Z5S2JxVLV9MhJK4DTR0SW1Mt_2v6TDb_kW6MHlJJ3c-9YSW3rlwlc32RPW1W8Xsgr94RpbM-W6y2F2W4W4Nr6W4LZtcl7HlVbPW4hJLZm8HHdNcW1KvWf-3kD-jPW2gF4V_7gQly3W8YgyxH2wTDWzW1ZYZlX7Py19FW1X0HWd8gnC0DVDY9WF8zgTvLW8V5pJ61l5r1fW2ShDrB2pv75bN1vyXDYB2TNZW3LXjVT8wj6DfW2WFZKL7Br6gbW6G-PVX86SZp5W3qfD362B0JL9W25GhYk8f9lMkf2G8jP-04>\r\n\r\n\r\n\r\nElsewhere:\r\n\r\n  *   Exclusive: Air defence startup Egide raises \u20ac8m<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3l9W6Np2YR4PBzvtW6JMMy34YGc4_W7jZXld2-zF4SW71DbdC8Z4jsxW8CzJkS4mjprCW5211Kh8CJRcyW5nZv4G1ypn0_W8R9lVK2ZrtxZW3zrnh-3Z06RQN8m9KV21-CV2VHtxhl86X6sKW7TzDHf4vN-KJTJsl39ffjQyW3DtV-n25mG4-W807ckl10Bl6GW4WYDHZ7xrgspV59FD02gwjqtVmd9-2738vqVW7GvKBj7W7rZrN3KN1z_HPLPsW98nTKf4gpGCcW5m3ZLm2Vb2t0W1-rhM13mT-g7W5hBl392z2wpmW7Kq_Qb7Y0_HxW5nQSnz6krz2YW3GBtyt4tBJ7cW2_NlRb3vYbNnf8YtDvM04>\r\n  *   Sifted View: Politicians are flirting with founders but need to commit<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3mJW8DxkPl6gB2GZW2FC0dp7T9cL1W7YNM1F3XymKZW6y1s2951vDPbW3P--126rFNpbW8Q53ws7rfb4WW50QgwT89Z07XW3FW23160xzhwW7q-lC29hXR-WN6ZYgjv9SWS4W2VJ3vR8r8ycXW1_sFBJ62vK_4W86rpwQ1_LZtxW7r_nSP2HLr8rW7N_XFk613r00W183Ccy2NPDhDW7JN0sP5gQpMLW2N-3xD56Xf7rW3qD-ky8rQqX-W2TVdgP743YcwW8SdP7h5GkK8yW66jJhB2Z6lQ5W1mCTQ55RJTwkW6_jNLc92H9J_W8CwyNw5SkwcqW2WMY8Y6RmT-WW73cS-y4C0k8lW1lSt-D6Z2Kb7f5bn5kq04>\r\n  *   Meet the 25 startups selected for UK\u2019s Future Fifty growth programme<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3lcN1wHX0ND0tvBW2Zb5ll3lNZkmW8_lglm5P_TY2W9fh8FH79_SVgW6GyVPp3VznvCW4VFH-04lSL5RW4VnPBn3w-6h0W2nCqpg6htCZPW24DSh94S8ns_W7_mtCG3Z-bd-W6tygGz6WnF0NW3-J0lP2Hz8rqW3P3m_89gN59xVLKGpl6_xnx6W4BTVxW7xf4jtN8M7hLQrX12XW8wCVlF3crgHMW7KNKrp1xjjM5W7q_BWp2vFP5MW1_Gxd_66dnl9W8SD5hG3-H2cGVS90g57Hnf43W8ZCkQR5cmvb4W6wld_Z6dLDRKW70lPL494kpYVW6yBYLf48ryfYDWnYnKfKKmW8TKDHR68TNGLf7sBNZY04>\r\n\r\n/A message from our sponsor UK Department for Business and Trade<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrs3qgz0W7Y8-PT6lZ3nxW4lcFCB1fDQ6rW29Wdng6h6DYgV2x3KG8st9fpW8Rx3W943jsF4W55VMfV3rNdDfW8NBVK31TFLxWW2HQ3Tt3rtzz4W4tydBK95z32yW4sJbzr8-Qg3wVdkBsF7zltygW7kvgCs5j1wNGW1l8rbl34mGFRW6Ww98q56-L2MW9gnlb34bc1c2W8B0_Tv4qMNFnV9YMPV3HzfskW9fy9cR4sR43zVBwD8G59XTfFW2LTv_N8p4T96W3tk74y6FcCFsW20vnGJ8yqg61N1g2KwV3Wt9tN58Ch38pmPxQW43__F72GyCnMW336msh1Fw-0bW6k-GMf4LmZlJf3PTFdC04>\r\n\r\n\r\n\r\nAcross the UK, founders are rewriting where great tech gets built<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrs3qgz0W7Y8-PT6lZ3lcW6NLgxz2RH7KMW85S1721qtGJ-W8LX6zq23Mf5hW1fQ1pQ92VGwkW7vxYNt7jzGQDW29BTfw78dGX6VWD-jW8mKtPcW2sxhJN6dChR_VckHsz4c1ppwVXWs_11KYpXJW96gZBb8pN-f5W8_nNGM2GFndYVvBQJz4jV-C1W25kCDT3t2qPvW28CPJP4NzvgXMdJDdbwj0DxW2Rn4JF3g6mZSW2C4TTC2Ktm1GN6SJZmY4SX4vW3HQhM58GsnnJVjQdbh4ldgM8W7jwjzm6Q0f4SW7k0Yzm2TZ-kCW4t42nh7CHMhKW5RFg6f8DbHBSW602ylt2kggHCf4K-hnR04>\r\n\r\nRegional leaders are powering a new wave of innovation \u2014 from cutting-edge supercomputers and quantum hubs to university breakthroughs, major inward investment and rapidly growing startup communities. In this interactive, voices from across the UK share what\u2019s driving their regions forward and where the strongest sector momentum is taking shape.\r\n\r\nRead it here <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrs3qgz0W7Y8-PT6lZ3kKW1lqskB4PH2xYW2Hb_Rh30_W23W8rBX3t3pxMMMW81jnVG6M2hRKW88_CTY8ZmT4mW5QlGJG2nZGwvW853jCC8z0JRPW4xknSq4h3fqfW17NhDD2Jlfy5W24MzPm31BNgqVsx5006x7Y0PW983J811RjJSSW8tQMf-3p1QdnW5kpt_q2WKDYHN390fyRQRBPYW2VVFrb3NP-1lN3D9-mR5JkC_W1jm75B5nW_yCW1-bwZN8trTRMW8MmTcJ2qpTMKW92zr4g2JZzPpW7T5X8m32PRm4V6qFwj1H-LsqW9b2JWp5bM4q1N6mmgsGbFj2zW3wNlRh304Bqwf90GKMj04>\r\n[The News]\r\n\r\n\ud83e\udd16 Air Street Capital closes $232m solo GP fund \u2014 Europe\u2019s largest. <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3n8W4Yp0fL1R-wmNW8_BxsY47dnMJW2j5qW32CfT3ZN7JpL-ZFCVJ-V3BHw03C89dBW8fKgf58cnk5rW2WbDJ49l1JBMW2376rl4VMWPxW39DstN3HFvxXW97DVgF92TK5dVNY0D95Rw8s8W33-MC97ZfBsjW8qGjb91PcjgyW7y_Y4l5pYmjdW5YMwhG6K7x6BN8jP1FcvQ_f_W8jPtjL28KPXGW2NmC816RS44xW4WY59K49MBTTW4Mfk5W3-_6BJW82WsZG1-fFDxW8lXC59667y-SN6_NDf8PgdLlN2D-dbcVGr80W8g12dr2wh3hRW8dtdl75rmrKvW6TZ0pB6fdHS6W8QXH6n3YyGRQf8SqHxM04>\r\n\r\n\r\n\r\n\ud83d\udd90\ufe0f Exclusive: Egide, a Paris-based startup building air defence systems to intercept and defeat hostile drones, has raised an \u20ac8m seed round.<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3kCW2kpV3Z57xSPYW3TPzss1gdvLmW14Bh8C8wZ9lCW85QXnB7Gvq05N3Zn4xrPmMptW2HKWz72jrL3dW7fbP8362C6VnW8dd5474ZX2gfW2KZW1178b3pwW3C_CMn52BXLLW1CJWry1DT06yW99pGWj8NLjJ5W1ZnkqK19y9xwN8c5RF0Ky9LFN3LHndgycpDTVbZfJj7QV0SxW1DWc9g8mMQcJVKCxhH677BGQW6zXJ064vqsnmN3gJk3yWsdqhW3lr-hc5vPxk5W1kRw204_gw6KW5cRRmm585fq5W2Lx30L33x8Q6W59dyVg5qkFwfW37ZHS_4Fl2sRW1VSTt46_mrQZW1C2VKR18V3f4f7tlsNv04>\r\n\r\n\r\n\r\n\ud83d\udc69\u200d\ud83c\udf93 French-Italian venture firm 360 Capital has raised \u20ac85m for a new fund focused on deeptech startups and university spinouts \u2014 with backing from a European defence prime<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3nJW2ktC3X6Krxz5W59Zz7_531FxfW4_Jssq6-ymC4W2nMp3192j8QrW2y188-8g-z0tW7S0h1l7WGjX7W1knc0c2FB8LCVd6wn14qqX2BW63bSm42Hrs93W5plK2l4dZwhZW5ZxM-p6cnmlgVcddVl3QTx4NW25PMVZ33Q0s1W7sVFND5tVLXfW3FrYj881ZRxSW4RWs2L504NlnW3smWCg544JLQW1xw5S_4SfbhrW7gdxxL38KBQbVMQNl89c7MZWW94WtQp8BvLRSW8kZ7RX48qnKfW42jdfK5RgZRWW1wMW1t4vwb-BW1_w4Y54wtl5_W8lf9zt3Twm0dW3-SL3g8ybV_hW2RKwSL58F6bZf3wbhj404>.\r\n\r\n\r\n\r\n\ud83d\uded2 Rivr, a Swiss company that makes stair-climbing delivery robots, has been acquired by US tech giant Amazon<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3p9W85x3b35_jC1VN2tNg0dPpJ4kW6Q_9z08K-j0HW2C4nzr2l_YJBW50dsr16J_dzhW1zxnkm2drrDLW2k88bY8m2pFWN6Ddtz6vPDZDW8cHvlz21gnWrW1hH6_F8ShwN0W5Btpx917h-XBW1CRlQc4-QK2YW80k1128yB2H_N2C6lPJFDJpPW3zB1g677W8kpW7FKTQc8LtYw3W2Hrb_v770GTtW77j1Y565jslkW7BggDZ2Hn4BZW3wNjmw7pXBnwW4G3hSj57pGJcN3pdhL_7b1b1N6j2Nqsc6F46VV77Wj5LpvsSW51p3vB250sVjW7kxkVC4yBvLxW3fh6rb3yLRSpW4qGMFF1PJ8_2f5Hg_lj04> for an undisclosed amount.\r\n\r\n  *   ICYMI: European robotics mapped: 90 startups driving the next wave of automation<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3nlW614QNP4ywrxPW1YW89R15_LvZW6tF7pK404vFZW5QMWDq8yf_LXW8f4dH0918dVBW8HptSL5f9wtjW6zvzwh8-D0DHW8XP8CZ82NZ1KW5sXKhy1Tq7JwW14dlTf330S5fW5gZxcs2t5ZFgW7vwxRs8XdvSZW42FtB517xJcwW8zyNDp60N4D6W1h58Hw445kRPW3XG0h344gq6DW6KLt8j2tfKwtW76N46q1dvnccW46dqsp3dl9ykW1DmZP35Y8Dz7W4klLqq17kB25W77kW8x3s-LtdW5MgPTV8Sx5QDN3lFdKkL7Kn0V5k21_6wwwFHW4WQbKS65VZfsW39Gy9v70CBRyW7YzNSc5q89kPf7sJ06H04>\r\n\r\n\ud83c\udfa9 Meet the 25 startups selected for UK\u2019s Future Fifty growth programme.<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3l6W7QqCcj24dM0cW4bG1P98CnKvNW3K5qf36nDW-jVX-K1W1F54-5W2RcPzD4KVN4LW70SKRT51KJTxW7x4cKr11DFvTW67rsdL6SYyXrN7N-qH2WWGhRN1k-29RMM1SWN7W9zLCYK6zQW42j25q4PfL0xW4v5nrz2QkSQXW2y5vSw2pvyr-W41mTZX8TQVz9W3tJBth3DYfF4W4B41tR8zM_ZlMHHdHpGWZG_MS3B9SzDGZ-W9dwnYR75fbfdW169dGC8z3-TfW2Nn7bp3KLDgKW7C8BPH96FnxWW5bhvmk2jGmyPW6tXyFf8MtZB9N3fST5rR6yMhVwxLW51Jw0FmW2nc51k7jP3h_f4W3gTd04> Last week, they were all invited to Number 11 Downing Street, where, over smoked salmon canap\u00e9s and white wine, UK finance minister Rachel Reeves made her message to the cohort clear: the government wants the country to be somewhere founders can \u201cstart, scale and stay.\u201d\r\n\r\n[Must Reads]\r\n\r\n\ud83d\udce3 Politicians are flirting with founders but need to commit, writes Sifted founder John Thornhill,<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrM3qgz0W8wLKSR6lZ3pwN88dn-jfpX-lW1PwXv67wRp8qVTP7XB2RHS3WN5VP6Db7yhgbW1XS4JT40N2zsW4DLgMG2K8Rr5W3dbkh29k8vkXMWT4gPlh6CSVwCWgG6_XND5W5Dfl314Jf22ZTFkWk7BXggxW5pDd6W5Yh5WHN6TTbR8rh2PnW2rzZ0R3G5f29W6YnLth1-NGg9W6KFcwf7K_VxjW1H47nD3Xz_blW5zMdPW2hQfB_W74lbjM8JxHGyW8fXkH06q46VvW2B83Gn5lz6zCW4mxz6S3Hx0qTW716GzY5dWwjRW31J3jH3Y3MhxW7Wf3-n7qpg2cW1spr8b3Tj3zxW9jK6QL47ZQL4W7GGg5b5g1ZKZf9gdbw604> as startup leaders across Europe feel pessimistic about the future.\r\n\r\n\ud83c\uddec\ud83c\udde7 The investors who backed the most companies <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3ys23qgz0W95jsWP6lZ3pyW6Bx60t45wY0pW5_F02S11KkKVW1hPJ-v2DDYN_N30XLDNfGqCMN8h332dvmfVsW5GVLPW16QZGtW4-5PMc3XP6qpW90LQmS6nC97bW3cksSn1PKT-yW5MVh2R5-tsL8W3b0Md33sylLzVS39qQ1ycjWsN8N8GKVWzm1TVQPBf05P3d9_W7CYNd-6fCl9tN1lCgdmVPppvW4Qt-wB4hnjvKW4kK2zZ1M2SfjW1twLLp16bllVW1TlGYQ1RbnHzVYpBKK89G58DW9m3dNs94YHJBN1ZkRLVD6r5rV_0S7K5cY-scW8KNLjX750GNqVPFlYS5jnXZ-N9j-13ccw44vW857D0P4VDcLHW2c_GHx74BjgzW7kDpQT643Xm9f58g6JP04> in Sifted\u2019s latest UK & Ireland leaderboard of fastest-growing startups in the region.\r\n\r\n\ud83e\uddd0 Funding rounds are getting crowded. Why are there suddenly so many investors in some rounds<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrs3qgz0W7Y8-PT6lZ3q2W2ySX0l1pk0bmW1jgtkJ4GnJv_W2_sj376r_9F-W6qhQgB1T9DxhW9fpKCh3KH4c3Mwdtcbgh0YKW17B_RJ5TjPyTTVMlM6-sKvYW4S8LP_7bf51QW7mlTyT50VMHkW1YRNS76j4CCXW2ntGx11YwWctW7XFNFz7SP60PW4tKCQd3SVtLmW4Cj05F5FgNCpW42ZgSZ2T8zlvW1YPL-D3WzpnxW5_nkBz36lmdDW8LRTGf7ck0GGW2QV77c1YWTFzW3qT8bC2DqJsFW8XX2454yTMX0N8Hb8BMjM1QpW42csSD7vhmnVW4Jyql885SZ0DW7htVd65hNLHSf9lFHbH04>? asks Anne Sraders.\r\n\r\n[Sifted Reports] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3ys23qgz0W95jsWP6lZ3mPW84PK_G6mGb8fW1j1RfS1bx0CLW3KyFGm4HPG91W7zQppw8C2FFcW863H5v8h7lKBN10GZf6QgR1tW2k4xr-49nhrWW7tBtnJ1gr_GtW83gFHn8kbDs8W1ZBH_n3PRw5lMdlrLpGzgcyW3lJ-Xf7DNpBnW1fNXRG1wxXw6N5YTVS7bpGMzW13W17-889kC-W7DTK_H7WX5HqW4_zjW85SDZtyW7ZbGdb4_dd5WW1nMMdk6JvVswN4fTZ1mZVvbmVZy0jS5mJd5lW203z0C7Q0JCZN1xMVV5cdqc9W3KNqJV6Wc3MBVVDn3h9drb0BW7j8lpM2yHpxgW6hxhwd54lx66W1js8kM8wnd0pW8NHFgH6vXGvrW6Rlfn77hFn1ff2k4rZl04>\r\n\r\nWho\u2019s really growing in the UK & Ireland?<https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3ys23qgz0W95jsWP6lZ3pFN7nLmwVXgXqnW4tlNPk4__Wv1W8ssnqC4w0MLMW2Dzmks4cftQWVx1Rbk2_nKVnVQlNC850q5MbW2Y36601Qqs1ZVhjp-y6xpXmSW6LYR-r1zLb7rW2c_V1n5krhY8W8MK06H7fqy2GW7951K16M-b_BW8zSZ4W3YdZpfW5rJRR_8LjvJsW2r_TGD6mcHbcW1jWwJn93v4dbW2ZT3TY38zYN6W6nkr_n8tyH2LW5hkKtX6FqdK1W8xm0RR4s8lCQW1T_By56HcxGnW7wdrPf7D8P61Vts4ql8ZHgjsW6-TRzG8tXfptW3Bcb7C6JCG70W4wsrlr15lLNnW98n_V-3FM-_MW8v8zbg3d-MRCW35sKvj3v7BXzN899cBtzLP0fdMSYqx04>\r\n\r\nSifted\u2019s 2026 leaderboard ranks the region\u2019s fastest-growing startups based on revenue growth, with every submission independently reviewed and verified by our team. Download the report to see who\u2019s leading, who\u2019s climbing and what the data says about where momentum is building.\r\n\r\nDiscover the top 100 <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3ys23qgz0W95jsWP6lZ3lxW3L7MmZ7Vp3wCN3jRll3p8pwJW1G1gMq1R4q6NW1gz3D58lrqyWW6X2wy-4mrwqcW73QTGM5sSRhzW2VD1MX8mjqHDW49Z3fQ20-FHKW3vZ9503dKx8XW18W-tV87NW79W5V3Dsn78yVmHW63LCnx1v5-mpW2xckDX6hWfgJMhf_Lg_jdbTW35W_WF1_rFmPW70Xdbz8lHCQrW4PDs3M3QgrZWMJPJYHtdH3pW8DWqd45JyX7ZW8WysS77jXzpQW7f6J_y77lVj9N4r9KRmT_TTHW8n-0W96KlSlqW3wKB5T1j9P4KW2qt1zh67YMvxW7YB9dN687PFpMCJdxBdJ48sW961DK-6R93xlW94LV-H5WTNtwW5RkSD33rqgsldcZF5Y04>\r\n[Deals]\r\n\r\nIf you\u2019d like to submit a deal, <mailto:news@sifted.eu> get in touch.<mailto:news@sifted.eu>\r\n\r\n\r\n\r\nLondon-based Edra, which automates business processes using AI agents that learn from existing enterprise data, raised $30m in Series A funding. Sequoia led the round and was joined by investors including 8VC and A*z.\r\n\r\n\r\n\r\nLondon-based Flexzo AI, which develops an agentic AI workforce system for healthcare providers to manage staffing, raised $12m in Series A funding. Octopus Ventures led the round and was joined by investors including Fuel Ventures.\r\n\r\n[Deals-Tracker-NL-desktop] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yr83qgz0W7lCdLW6lZ3llW23ymdF2X27xvW3SZQ187Z2zdSV_plPg1Tz9rGW1-8CQj3wmq1xW2VCFLW2GhQHyW13k5mf8SKX4kW83gyPg6J8jwRW9b_PtX1PZZcbW352jLP6cXHpYW1CljQ71MYMpkW8F2h4_2cpx37W8gQXC92VZQTHW1W0w-j1-326yW33lpHb7hN5TsW90lStc1ZZGk7W5wnJhF3pFs0kW2M-lmf2KkCyhW4x0XNv7MmMxvW22KhVd6xMGm7W2ChG2_8j4gpGVhJgDf6ZPP8vW54vqns19F975VrD6Hb32lVHVVt7LSG5bsycjf74RSjd04>\r\n[Deals-Tracker-NL-desktop]\r\n[Deals-Tracker-NL-mobile] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yr83qgz0W7lCdLW6lZ3kKW4pHRnV3qqh0lW1Cnlzv8nPDb1N1M3bKl56pGCW4YvlNR8pnSrhVDLJ0g8DJn9gW2jyM4f83RN4GW6dfsDG7CJHc4W8LsX047TwKfPW1Fzgry67DlblW3jjpqK7-ylz7W7cGBbC6jBxHDW8thRH77FWz-fW2nYXSL3L2TfyW8fmmdp1tfmKkW5h-4_m7v0jLBN7dmhmZtPTH8V-lrwL2WXYkfW18-Dvz3mwhK7N4gkYS0wH52kW10fmQt449zmcW2-Fgkt1J6RYTW1NVScl1D7nrxW1JkYzp6lwBYNW4mSDSJ1WyGFxf5G66-j04>\r\n[Facebook] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yr83qgz0W7lCdLW6lZ3m7Vx55gh9csbF7W5_L68H7mVdkBVvZQhQ8QWH7zW8dK0Bq1b2dh0W8LJ6BZ3sN-8YW2PP2Y518-yHqW96HBkp1m2NxVW61hg1n4cmxy6W1JJ32R8NSDm2W7wNhvY7yq4t5W3lH_Jb2cG-RwW76nC-f24x2lmW4Fjc-7184sHrW8ZktG24NV13DVKxPQj7B4Wc7W42r3yF4Vg96TW5N-dXD7dS7ZmW1fYRD577nNXPW7bc12p4Mn0_VW8Wpn3W3HZbFNN7Cl-xWX8bTCW2rqxHR1R5DjVW524hG12nDx8yW8VhzRm3PTrvhf2mPf0d04>\r\n[twitter@2x] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yr83qgz0W7lCdLW6lZ3pJW4zGkqt669GTMW2_D4Fg9j9GrLN6PyRj1tp2zlW6gVFqc4zmzzWW2bx2Gp2lJYytW3MMtV32y-zYKW3n-CRZ9kMN8hW2Zl83Y5jp-XMN6Xz_yTRWccVW2SlfWl1hR_FlW1m4J7566ghW2W83DnFR8TszlmN2_ByQ48dhgcV4-cJL3B2cZhW4Vl0842RpRWJW8Zy_169l3QnGW112-vV3brkN9W6xw4YS2vXZHdW8ZxvbN1klPWRN5Q63sG1hhv0VNG0bp19qyWSVcfMc027cmgnW5Hp6VF4NkbBlW6246Cw2DGMsmf2HB9dd04>\r\n[Instagram] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yr83qgz0W7lCdLW6lZ3lCW8L_-gX5FdmJcW2P8TV_5r7yfMVpsWQH4GKDXxW7fqQVK7WZq9RW6TwTKj27BVVFW3BRhfZ8pR7-PW1N58Sx6HP6G3N3Gplys81fj5W6X1Rfb4Nv7KvN8nJgfDDVP8qW1p4dzg5R1P3bW4x2G113jNcDCW6lydw81FX_Y1W39Mt-63yCrR4W6PGHKb4K4_MKW1RBXM46HHCHHF4KnFNZPYYCW3ZHczC1NtZh8W7kDjLp2tnppXW9lBX8w8QGG7FW2mLjnl91x4wCV4dYT84KmN74Vy8VzT1z5CyzW4fRK9_5ccTMKf8jP8x804>\r\n[LinkedIn] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yrs3qgz0W7Y8-PT6lZ3nQN3JRPSN6frvTN7p0GQHGdkdTW1JBYCc3GBd2HW6T_V2q69lX2XW193xc03dJcQYW2w1-5z6GJkQXW5RG1yz4PD50pW6QnNds5wL9l1W8YV0DD458d1mW3Lytmg8Gt0L2W6tQ9fj7f4CjQW15WpZJ3c2VQ0W80_TVJ8HY_npVksdqJ4QmH-VVjctT86rSDP5W1zv0qK3QmdCNV_h8-V5L-VsDW19KpTL1G41HnW2V2sGk3XdyBRW4Ypn-V4BKG1hW8ypD5c5qbqhRW8KJ3yd3mYHFVW8qqf3P5H9ybQW34Pt3Z5hfp_GW7LkgvZ843RVDV_vfcS1ydVKzf5GwvbH04>\r\n[Bluesky] <https://email.sifted.eu/e3t/Ctc/LZ+113/d2mfCN04/VVGSKy45GGMvW4_qVv25hDF6hW3fCDQw5L-dX9N1h3yr83qgz0W7lCdLW6lZ3m3W2ldcp_25lY1lW64HFtg6GmD0DW934pMm82qZ6JN7DzHf55MXW1W7PWH7Y1c1bPFW5T9RVV1yl3PyW7NHTvp4jj_9BN2jlLyxlGMp0W2Z5V9w5ncPSvW5BxTVc3mtP2zW4-wmP65sNsBGW1yP1wq3pSSk9W6lG5hx504Z5tW3QzL-294pT_WW9lJnP672WMFBW5clDSd2lkNf8N8mjrRHTjnyvW1nty9w68zqj4W5cqfNt6mm1YvW6V7HS33zPhnWW6k-P1k231st3W68QT0p5MGsxkW1Zdslj21CL6DW59nKmV19_z09f14PcQl04>\r\n\r\nCopyright \u00a9 2026 SIFTED (EU) LTD, All rights reserved.\r\n\r\nSifted EU Ltd, Thanet House, London, England, WC2R 1DA\r\n\r\nSimply unsubscribe<https://email.sifted.eu/hs/preferences-center/en/page?data=W2nXS-N30h-zKW47Sj9c25dW_WW3QCFyB383y9nW4tGcdL3ZLFyxW3XNxMh3Zt6c5W2xzj911_t7BtW3QNj2z1ZksSPW4t8wrT36m-H7W3C2P7x3HfyRXW1Zm67123fX4KW1Nf1qy2zHQG6W3NDdlF3Y1N9mW2KHl3b2z-_gyW3JL3V33JXTFHW2r84Hy36BcwkW2RsXzF1ZbmLSW3M3CNH4ksN6xW3gw0CL30ymQxW25gXZb1SxqZ6W3_rGJV3F6hpkW3dpP9j47yXXrW2zvQdc2KyjQsW3JVR1732gX2tW1SyL_730CGS6W1Nf5y82RkRQwW34FN841LkXM-W3b5lK42PQWyPW4hGn3N2CKD-rW4cy_fs43xCRZW2nWbP32zWpQ8W2xYNbb2w2kb1W49kChq41K4cNW3jf7_C2HSJMXW3_N6NZ2vQpBGW1--W092HpZddW2RlGXx2PvmsGW3M0G4R45M_VDW4fgn4l32Gh99W22RFxH212YqHW47T8rS1L5LNvW32GmhT3jr7tyW1SvTr538b8HhW2Wg8033b44GXW2D0t3x2Fw7F7W1Vw36849RgJ3W3DXsnm32yvR8W3GS5rC3BWQrXW216JLZ4hhPmSW25nqHp2sT4_wW367qM_2WNyzqW45mKl_36mZ-dW2xQBfc3QRCZlW3P9bxl4rJ4tbW4tDWFY43H_MkW2y30vn4r4bmLW1Y-mvV4fyMd_W2RxhFj1BN6wc0&utm_campaign=Sifted%20Daily%20Newsletter&utm_source=hs_email&utm_medium=email&utm_content=409893387&_hsenc=p2ANqtz-8sZ_RqW3wn1zFx6vveEwMwd-q0YJ06gpNQTGzUBinz42L-qewaWXYOf1i7DynaVHSlMRTZdS0EVAFPzYpgsYnh--_8L1tlVs_x8dvOgB6cRNtgBLE&_hsmi=409893387> to opt out of Sifted Updates.\r\n\r\n\r\nExaloan AG | Registergericht/Registration: Amtsgericht/Local Court Frankfurt am Main HRB 115711 | Vorstand/Executive Board: Luca Frignani | Aufsichtsrat/Supervisory Board: Andreas H\u00f6fner (Vorsitz/ Chairman), Dr. Tom Oliver Schorling, Thomas Nicolas\r\n\r\nDiese Nachricht und alle Anlagen sind vertraulich und ausschlie\u00dflich f\u00fcr den im Adressfeld genannten Adressaten bestimmt. Bitte informieren Sie uns, wenn Sie nicht der vorgesehene Empf\u00e4nger sein sollten und l\u00f6schen Sie diese Nachricht und alle Anlagen in Ihrem System. Vielen Dank. Jede unbefugte Nutzung, Weiterleitung, Ver\u00e4nderung, Offenlegung gegen\u00fcber Dritten oder Fertigung einer Kopie ist unzul\u00e4ssig. Da wir nicht die Echtheit oder Vollst\u00e4ndigkeit der in dieser Nachricht enthaltenen Informationen garantieren k\u00f6nnen, schlie\u00dfen wir jede rechtliche Verbindlichkeit der vorstehenden Erkl\u00e4rungen und \u00c4u\u00dferungen aus.\r\n\r\nThis message and any attachment are confidential and may be privileged or otherwise protected from disclosure. It is intended solely for the mentioned person in the address field. Please inform us, if you are not the intended recipient and delete the message and any attachment from your system. Thank you. Any use, modification, unauthorized dissemination, distribution or copying hereof is prohibited. As we cannot guarantee the genuineness or completeness of the information in the message, the statements set forth above are not legally binding.\r\n",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Sifted",
+      "startups",
+      "Air",
+      "Street",
+      "Europe",
+      "Luca",
+      "fund",
+      "startup",
+      "European",
+      "Daily"
+    ]
+  },
+  {
+    "id": "d4ab50cb40340130ae731d4767f3976a",
+    "source": "Luca Frignani | Exaloan <luca.frignani@exaloan.com> [Newsletter]",
+    "url": "",
+    "title": "FW: 23/03/26: Hidden Champion unter den B2B-Fintechs, Das teure\r\n Dilemma der Unicredit",
+    "fetched_on": "2026-03-23T07:14:23.116130+00:00",
+    "content": "\r\n________________________________\r\nFrom: Finanz-Szene \u0096 Der Newsletter <newsletter@finanz-szene.de>\r\nSent: Monday, 23 March 2026 06:19:52 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna\r\nTo: Luca Frignani | Exaloan <luca.frignani@exaloan.com>\r\nSubject: 23/03/26: Hidden Champion unter den B2B-Fintechs, Das teure Dilemma der Unicredit\r\n\r\nAu\u00dferdem: N\u00e4chste Privatbank vor Verkauf?, Mehrere Updates aus dem Genosektor\r\n[https://mcusercontent.com/44c6f60586bc54f2917f00498/images/76739326-3b23-34b7-1a12-6c448a7579c1.png]\r\nAnzeige\r\n[https://mcusercontent.com/44c6f60586bc54f2917f00498/images/1834424a-991c-bf27-b6a6-5181ded72fd8.jpg] <https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=218352cf4b&e=8f69674dd2>\r\nNiemand hat die Absicht, die Kontrolle zu erlangen \u0096 aber genau darauf l\u00e4uft's hinaus!\r\n\r\nFalls am vergangenen Montag europ\u00e4ische Bankengeschichte geschrieben worden sein sollte \u0096 dann auf skurrile Art und Weise. Da war der morgendliche Analysten-Call, bei dem Unicredit-Chef Andrea Orcel phasenweise klang, als w\u00fcrde er mit einer am Mund gehaltenen Muschel eines Analogtelefons telefonieren (und dabei im Badezimmer von Manfred Knof sitzen). Da war das herrliche Paradoxon, dass die Italiener einerseits ein Angebot zur Voll\u00fcbernahme abgaben \u0096 aber andererseits betonten, das Angebot sei so unattraktiv, dass kaum jemand es annehmen werde. Und dann war da noch die verwirrende Penetranz, mit der die Unicredit in ihrer Pressemitteilung gleich dreimal betonte, sie gehe keineswegs davon aus, irgendeine Kontrolle \u00fcber die Commerzbank zu erlangen. In der \u00dcberschrift (\"No expectation to achieve control\"). Im dritten Satz (\"It is expected that UniCredit will achieve a stake in Commerzbank in excess of 30% without reaching control\"). Und dann auch noch mal am Ende (\"If as expected UniCredit remains with no control in Commerzbank the financial impact on capital will be negligible\"). Nun mag es ja so sein, dass uns Finanzjournalisten bisweilen eine gewisse Begriffsstutzigkeit anhaftet \u0096 als kognitive Hilfestellung war die mehrmalige Wiederholung im Pressestatement aber trotzdem nicht gedacht. Vielmehr scheint die Unicredit in einem (potenziell ziemlich teuren) Dilemma zu stecken. Einerseits l\u00e4uft ihr Vorgehen fast zwingend darauf hinaus, in gleich mehrerer Hinsicht die Kontrolle \u00fcber die Commerzbank zu gewinnen. Andererseits kann sie genau das nicht gebrauchen. Hier entlang: FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=e4b243e43b&e=8f69674dd2>\r\n\r\nAnzeige\r\n[https://mcusercontent.com/44c6f60586bc54f2917f00498/images/29499bf3-8bb4-458f-b952-c22e0c2c2932.jpg] <https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=01b977f032&e=8f69674dd2>\r\nAI stellt alles in Frage \u0096 In Fabriken sind fast alle Arbeitsschritte auf Maschinen und Roboter \u00fcbergegangen. Jetzt stehen B\u00fcro-T\u00e4tigkeiten vor der Abl\u00f6sung, denn AI kann viele kognitive Aufgaben ersetzen. Ein spannender Prozess bez\u00fcglich Arbeit und der Rolle des Menschen startet. Wie Agentic AI zum strategischen Wettbewerbsvorteil eingesetzt werden kann, zeigt unser Whitepaper. Jetzt downloaden.<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=e82521471a&e=8f69674dd2>\r\nBriefing\r\n\r\nWird die F\u00fcrst Fugger Privatbank demn\u00e4chst zum Verkauf gestellt? Die neue Eigent\u00fcmerin der F\u00fcrst Fugger Privatbank pr\u00fcft \"Bloomberg\" (Paywall)<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=be059876ff&e=8f69674dd2> zufolge einen Verkauf des in Augsburg ans\u00e4ssigen Traditionsinstituts. Hintergrund ist, dass der langj\u00e4hrige Mutterkonzern der Fugger-Bank, die N\u00fcrnberger Versicherung, aktuell von der Vienna Insurance Group \u00fcbernommen wird \u0096 die nun offenbar damit lieb\u00e4ugelt, die Privatbank abzusto\u00dfen. Noch bef\u00e4nden sich die Pl\u00e4ne allerdings in einem fr\u00fchen Stadium, schreibt \"Bloomberg\". Eine Entscheidung solle erst in der zweiten Jahresh\u00e4lfte fallen, wenn man die angestrebte Akquise der N\u00fcrnberger Versicherung plangem\u00e4\u00df abgeschlossen haben will. Dem Artikel zufolge bewertet die \u00f6sterreichische Versicherungsgruppe die F\u00fcrst Fugger Privatbank derzeit mit rund 120 Mio. Euro. Im Gesch\u00e4ftsjahr 2024 erzielte das Institut einen Vorsteuergewinn von 19,6 Mio. Euro \u0096 bei einer Eigenkapitalrendite von 28% und einer Cost-Income-Ratio von 61%. Im Peer-Group-Vergleich sind das Top-Werte (siehe zuletzt unsere gro\u00dfe Analyse \u0096> Von Metzler bis Seeliger \u0096 die klassischen Privatbanken im gro\u00dfen GuV-Check<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=80061ea7a4&e=8f69674dd2>). Ende 2024 kam die Fugger-Bank auf \"Assets under Control\" von 6,8 Mrd. Euro \u0096 etwas mehr als die H\u00e4lfte (3,7 Mrd. Euro) davon entfiel auf die klassische Verm\u00f6gensverwaltung. Daneben betreibt die Fugger Bank ein Haftungsdach, an dem rund 250 selbstst\u00e4ndige Vermittler von Verm\u00f6gensverwaltungen und Investmentfonds \u0096 in der Regel ehemalige Privatbanker \u0096 angeschlossen sind.\r\n\r\nBlog\r\n\r\nWarum ist die Verbund-Volksbank OWL (a.k.a. Eulenbank) so viel profitabler als andere Gro\u00df-Volksbanken??? Am Freitag haben wir mit einem doch eigentlich harmlosen Linkedin-Post zur Verbund-Volksbank Ostwestfalen-Lippe (\"So was Krasses wie DAS haben wir bei einer Volksbank noch nie gesehen\") wahre Begeisterungsst\u00fcrme im genossenschaftlichen Lager ausgel\u00f6st. Offen allerdings blieb, was eigentlich der Grund ist f\u00fcr das exorbitant hohe Betriebsergebnis des in Paderborn ans\u00e4ssigen 11-Mrd.-Euro-Instituts. Hier kommt die Antwort (die \u00fcbrigens nicht \"Zins\u00fcberschuss\" lautet): FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=4d87aaaaed&e=8f69674dd2>\r\n\r\nTicker\r\n\r\n  *   Warum eines der unscheinbarsten deutschen Fintechs zugleich zu den erfolgreichsten geh\u00f6rt \u0096 unser Fintech-Ticker: FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=0249a9baa7&e=8f69674dd2>\r\n  *   Wie sich die PSD Bank Rhein-Ruhr f\u00fcr ihre Flucht zu den Spardas rechtfertigt \u0096 unser Genobanken-Ticker (auch noch mit zwei weiteren Sektor-Updates): FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=f82f33c8fc&e=8f69674dd2>\r\n  *   Wie eine der gr\u00f6\u00dften deutschen Sparkassen ihre Bilanz um einen ganz dicken Brocken entschlackt \u0096 unser Sparkassen-Ticker: FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=3898250bb5&e=8f69674dd2>\r\n\r\nAnzeige\r\n[https://mcusercontent.com/44c6f60586bc54f2917f00498/images/198d9453-1aa8-e5c5-d1cd-4e004e8cb201.png] <https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=116df04d68&e=8f69674dd2>\r\n\r\nGrenz\u00fcberschreitende Zahlungen sollten kein Gl\u00fccksspiel sein. Wenn Zahlungen genau dann ankommen, wann sie sollen, entsteht Vertrauen. Visa Direct hilft, zuverl\u00e4ssig zu liefern. Mehr auf der Visa Website erfahren.<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=65311e9833&e=8f69674dd2>\r\n\r\nNews\r\n\r\n  *   Die Deutsche Bank soll in der Vergangenheit nicht nur bei Cum-Ex-Gesch\u00e4ften (letztes Jahr hatten die Frankfurter ja eine Steuerr\u00fcckzahlung in H\u00f6he von 29 Mio. Euro geleistet, wie im j\u00fcngst ver\u00f6ffentlichten Gesch\u00e4ftsbericht steht), sondern auch bei Cum-Cum-Deals mitgemischt haben \u0096 so zumindest schreiben es die \"S\u00fcddeutsche\" (Paywall)<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=18c0e01114&e=8f69674dd2> und der WDR. Den Berichten zufolge geht die Staatsanwaltschaft K\u00f6ln in ihrem schon seit Jahren laufenden Verfahren gegen das Institut auch dem Verdacht nach, zwischen 2009 bis 2015 mit Cum-Cum-Gesch\u00e4ften rund 600 Mio. Euro aus der Staatskasse kassiert zu haben. Die Deutsche Bank wollte sich dazu gegen\u00fcber den beiden Medien nicht \u00e4u\u00dfern.\r\n\r\nMehr zum Thema im Archiv:\r\n\r\n  *   Warum Cum-Cum das gr\u00f6\u00dfere Cum-Ex zu werden droht \u0096 unser FAQ. FS Premium (Mai 2025)<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=2b3913416f&e=8f69674dd2>\r\n  *   Milliarden-Spiel \u0096 die irren Cum-Cum-Dimensionen am Beispiel der deutschen SEB. FS Premium (Juni 2025)<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=990bb91ba1&e=8f69674dd2>\r\n  *   Von HCOB bis Sparkasse Karlsruhe \u0096 diese Banken haben ein Cum-Cum-Problem. FS Premium (Juli 2025)<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=3af3499683&e=8f69674dd2>\r\n\r\nWussten Sie schon?\r\n\r\n... wie Bettina Orlopp vom \u00dcbernahmeangebot der Unicredit letzten Montag erfahren hat? \"Ich sa\u00df im Auto auf dem Weg in die Bank. Da poppte eine kurze Nachricht von Andrea Orcel an mich hoch, wenige Minuten vor der offiziellen Ank\u00fcndigung\", erz\u00e4hlt die Commerzbank-Chefin im Interview mit der \"S\u00fcddeutschen Zeitung\" (Paywall)<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=6a30800de3&e=8f69674dd2>. Darin kritisiert Orlopp auch, dass Orcel in den letzten Wochen \"das Narrativ\" gewechselt habe. \"Bis heute sind wir im Unklaren, was Unicredit eigentlich will.\"\r\n\r\nFavoriten\r\n\r\n  1.  Volksbanken wollen Dienstleister fusionieren \u0096 DG Nexolution als neues Powerhouse? FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=44a364689a&e=8f69674dd2>\r\n  2.  Podcast (#205): \u0084Die Commerzbank kann sich dem Dialog mit der Unicredit nicht ewig verweigern\u0093. Finanz-Szene (frei zug\u00e4nglich)<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=0d6148d74b&e=8f69674dd2>\r\n  3.  Das h\u00f6chste Betriebsergebnis in der Historie der Sparkassen \u0096 wirklich??? FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=4aef582c30&e=8f69674dd2>\r\n  4.  Deutsche Bank: Campelli wird Vize. Hoops wird Vorstand. Leukert-Nachfolge gekl\u00e4rt. FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=173718c53d&e=8f69674dd2>\r\n  5.  Warum die Merkur Privatbank trotz verdreifachter Risikovorsorge pr\u00e4chtig verdient. FS Premium<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=457a375dbe&e=8f69674dd2>\r\n\r\nCopyright \u00a9 2026 finanz-szene.de, All rights reserved.\r\n\r\nSie erhalten diese E-Mail, weil Sie sich auf unserer Website daf\u00fcr eingetragen haben.\r\n\r\nFinanz-Szene GmbH (haftungsbeschr\u00e4nkt) mit Sitz in Hamburg,\r\neingetragen im Handelsregister des Amtsgerichts Hamburg unter HRB 169636,\r\ngesch\u00e4ftsans\u00e4ssig: Eimsb\u00fctteler Stra\u00dfe 93, 22769 Hamburg\r\nImpressum<https://finanz-szene.us16.list-manage.com/track/click?u=44c6f60586bc54f2917f00498&id=c003659052&e=8f69674dd2>\r\n\r\n\r\nHier k\u00f6nnen Sie Ihr Abonnement verwalten<https://finanz-szene.us16.list-manage.com/profile?u=44c6f60586bc54f2917f00498&id=469b9c479d&e=8f69674dd2&c=61c2ae1506>.\r\n\r\nFalls Sie den Newsletter nicht mehr erhalten wollen,\r\nk\u00f6nnen Sie ihn hier einfach abbestellen<https://finanz-szene.us16.list-manage.com/unsubscribe?u=44c6f60586bc54f2917f00498&id=469b9c479d&t=b&e=8f69674dd2&c=61c2ae1506>.\r\n\r\n[Email Marketing Powered by Mailchimp]<https://login.mailchimp.com/signup/email-referral/?aid=44c6f60586bc54f2917f00498>\r\n\r\nExaloan AG | Registergericht/Registration: Amtsgericht/Local Court Frankfurt am Main HRB 115711 | Vorstand/Executive Board: Luca Frignani | Aufsichtsrat/Supervisory Board: Andreas H\u00f6fner (Vorsitz/ Chairman), Dr. Tom Oliver Schorling, Thomas Nicolas\r\n\r\nDiese Nachricht und alle Anlagen sind vertraulich und ausschlie\u00dflich f\u00fcr den im Adressfeld genannten Adressaten bestimmt. Bitte informieren Sie uns, wenn Sie nicht der vorgesehene Empf\u00e4nger sein sollten und l\u00f6schen Sie diese Nachricht und alle Anlagen in Ihrem System. Vielen Dank. Jede unbefugte Nutzung, Weiterleitung, Ver\u00e4nderung, Offenlegung gegen\u00fcber Dritten oder Fertigung einer Kopie ist unzul\u00e4ssig. Da wir nicht die Echtheit oder Vollst\u00e4ndigkeit der in dieser Nachricht enthaltenen Informationen garantieren k\u00f6nnen, schlie\u00dfen wir jede rechtliche Verbindlichkeit der vorstehenden Erkl\u00e4rungen und \u00c4u\u00dferungen aus.\r\n\r\nThis message and any attachment are confidential and may be privileged or otherwise protected from disclosure. It is intended solely for the mentioned person in the address field. Please inform us, if you are not the intended recipient and delete the message and any attachment from your system. Thank you. Any use, modification, unauthorized dissemination, distribution or copying hereof is prohibited. As we cannot guarantee the genuineness or completeness of the information in the message, the statements set forth above are not legally binding.\r\n",
+    "platforms_mentioned": [],
+    "keywords": [
+      "die",
+      "der",
+      "Premium",
+      "Unicredit",
+      "Hidden",
+      "Champion",
+      "sie",
+      "und",
+      "Das",
+      "von"
     ]
   }
 ]
