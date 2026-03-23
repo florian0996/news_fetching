@@ -202898,5 +202898,65 @@
       "Permission",
       "source"
     ]
+  },
+  {
+    "source": "Dansdeals.com [NewsAPI]",
+    "url": "https://www.dansdeals.com/shopping-deals/amazon/shout-free-laundry-stain-remover-spray-22oz-bottle-for-2-79-2-99-plus-buy-13-bottles-and-get-a-15-amazon-credit/",
+    "title": "Shout Free Laundry Stain Remover Spray 22oz. Bottle For $2.79-$2.99, Plus Buy 13 Bottles And Get A $15 Amazon Credit!",
+    "fetched_on": "2026-03-23T22:35:16.549797+00:00",
+    "content": "Advertiser Disclosure: Many of the links that appear on this site are from companies from which DansDeals.com receives compensation. Dan’s Deals LLC is a participant in the Amazon Services LLC Associ… [+1486 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Spray",
+      "Free",
+      "Laundry",
+      "Stain",
+      "Remover",
+      "Shout",
+      "Amazon",
+      "Buy",
+      "Credit",
+      "LLC"
+    ]
+  },
+  {
+    "source": "Associated Press [NewsAPI]",
+    "url": "https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e",
+    "title": "Iran war energy crisis is a renewable energy wake-up call",
+    "fetched_on": "2026-03-23T22:35:16.549797+00:00",
+    "content": "HANOI, Vietnam (AP) The war in Iran is exposing the worlds reliance on fragile fossil fuel routes, lending urgency to calls for hastening the shift to renewable energy.\r\nFighting has all but halted o… [+9326 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Vietnam",
+      "HANOI",
+      "Iran",
+      "energy",
+      "renewable",
+      "war",
+      "routes",
+      "lending",
+      "crisis",
+      "wake-up"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/apollos-private-credit-fund-limits-investor-withdrawals-after-redemption-requests-surge-4576362",
+    "title": "Apollo’s private credit fund limits investor withdrawals after redemption requests surge",
+    "fetched_on": "2026-03-23T22:35:21.839922+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "surge",
+      "private",
+      "credit",
+      "fund",
+      "limits",
+      "investor",
+      "withdrawals",
+      "redemption",
+      "requests"
+    ]
   }
 ]
