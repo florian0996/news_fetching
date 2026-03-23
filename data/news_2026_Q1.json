@@ -202480,5 +202480,101 @@
       "Süddeutschen",
       "Zeitung"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_29219aca-186e-4076-8c0d-d2f887ab1aaa",
+    "title": "An Employee Says He's Asked To Push Credit Cards And HELOCs To Customers. Dave Ramsey Says The Moral Dilemma Has A Simple Answer",
+    "fetched_on": "2026-03-23T16:03:46.054043+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Customers",
+      "Employee",
+      "Asked",
+      "Push",
+      "Credit",
+      "Cards",
+      "HELOCs",
+      "Accept",
+      "Transparency",
+      "Consent"
+    ]
+  },
+  {
+    "source": "The Points Guy [NewsAPI]",
+    "url": "https://thepointsguy.com/loyalty-programs/fuel-loyalty-programs/",
+    "title": "What is the best gas rewards program for saving at the pump?",
+    "fetched_on": "2026-03-23T16:03:46.054043+00:00",
+    "content": "There are many ways to save on gas purchases. And as fuel prices rise and summer road trips grow closer, these savings can become even more valuable.\r\nIn addition to using one of the best gas credit … [+14213 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "gas",
+      "pump",
+      "rewards",
+      "program",
+      "purchases",
+      "chars",
+      "closer",
+      "valuable",
+      "saving",
+      "savings"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/celebrities-affected-by-the-hawaii-floods-jason-momoa-5507747/",
+    "title": "Celebrities Who Own Homes in Hawaii Amid 2026 Floods: Jason Momoa & More",
+    "fetched_on": "2026-03-23T16:03:46.054043+00:00",
+    "content": "Image Credit: Getty Images\r\nThe March 2026 Hawaiian floods caused widespread damage to properties and homes across the islands, especially on Oahus North Shore. Fortunately, no deaths have been repor… [+1993 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Amid",
+      "Jason",
+      "Momoa",
+      "Credit",
+      "Getty",
+      "March",
+      "Hawaiian",
+      "Shore",
+      "Homes",
+      "Floods"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/riskscore-api/",
+    "title": "riskscore-api added to PyPI",
+    "fetched_on": "2026-03-23T16:03:46.054043+00:00",
+    "content": "Python client for the RiskScore API composite CVE risk scores combining CVSS, EPSS, and CISA KEV into a single 0100 signal.\r\nFree tier: 100 requests/day. No credit card required.\r\nInstallation\r\npipin… [+2839 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EPSS",
+      "signal",
+      "CVSS",
+      "Python",
+      "API",
+      "CVE",
+      "CISA",
+      "KEV",
+      "requests",
+      "day"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/markets/options/articles/where-home-equity-loan-121007742.html",
+    "title": "Where to get a home equity loan or HELOC: finding the best lender",
+    "fetched_on": "2026-03-23T16:04:15.338031+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HELOC",
+      "finding",
+      "lender",
+      "home",
+      "equity",
+      "loan"
+    ]
   }
 ]
