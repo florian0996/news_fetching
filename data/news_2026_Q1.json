@@ -203462,5 +203462,105 @@
       "airport",
       "card"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/svatantra-microfin-completes-merger-with-chaitanya-india-fin-credit-becomes-indias-no-2-nbfc-mfi/article70774923.ece",
+    "title": "Svatantra Microfin completes merger with Chaitanya India Fin Credit, becomes India's no. 2 NBFC-MFI",
+    "fetched_on": "2026-03-24T08:55:56.631929+00:00",
+    "content": "Svatantra Microfin Private Limited on Monday announced the completion of its amalgamation with Chaitanya India Fin Credit Private Limited (CIFCPL) and Svatantra Holding Private Limited, following app… [+1834 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Chaitanya",
+      "Fin",
+      "Svatantra",
+      "Private",
+      "Limited",
+      "Microfin",
+      "Credit",
+      "CIFCPL",
+      "NBFC-MFI"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/the-macallan-brings-distil-your-world-series-to-paris/",
+    "title": "The Macallan brings ‘Distil Your World’ series to Paris",
+    "fetched_on": "2026-03-24T08:55:56.631929+00:00",
+    "content": "The brand is taking inspiration from French cuisine with the new release. Image credit: The Macallan Scottish whisky maker The Macallan is ushering in the next chapter of an ongoing creative project.… [+4506 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Macallan",
+      "Distil",
+      "World’",
+      "Paris",
+      "French",
+      "brings",
+      "release",
+      "series",
+      "brand",
+      "taking"
+    ]
+  },
+  {
+    "source": "Grist [NewsAPI]",
+    "url": "https://grist.org/energy/trump-biden-chris-wright-loan-programs-office/",
+    "title": "This $400B Biden climate program is surviving the Trump administration",
+    "fetched_on": "2026-03-24T08:55:56.631929+00:00",
+    "content": "In January, the Trump administration announced that it had completed its dismantling of yet another Biden-era climate program. This time, the target was the Department of Energy’s Loan Programs Offic… [+12277 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Biden",
+      "January",
+      "climate",
+      "administration",
+      "Biden-era",
+      "program",
+      "surviving",
+      "announced",
+      "completed"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/digital-identity/2026/identity-gaps-are-becoming-billion-dollar-points-of-failure/",
+    "title": "Identity Gaps Are Becoming Billion-Dollar Points of Failure",
+    "fetched_on": "2026-03-24T08:55:56.631929+00:00",
+    "content": "Digital identity now runs through every part of the customer and partner journey, from logging in and making transactions to onboarding vendors and issuing loans. This shift is changing how companies… [+2505 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Gaps",
+      "Points",
+      "Failure",
+      "Digital",
+      "Identity",
+      "journey",
+      "loans",
+      "Billion-Dollar",
+      "runs",
+      "part"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/svatantra-microfin-completes-amalgamation-with-chaitanya-india-fin-credit/articleshow/129746528.cms",
+    "title": "Svatantra Microfin completes amalgamation with Chaitanya India Fin Credit",
+    "fetched_on": "2026-03-24T08:55:56.631929+00:00",
+    "content": "Kolkata: Ananya Birla-promoted Svatantra Microfin Monday announced that it has completed the amalgamation with Chaitanya India Fin Credit, which it acquired in November 2023 from Sachin Bansal's Navi… [+1113 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chaitanya",
+      "India",
+      "Fin",
+      "Microfin",
+      "Credit",
+      "chars",
+      "Kolkata",
+      "Ananya",
+      "November",
+      "Navi"
+    ]
   }
 ]
