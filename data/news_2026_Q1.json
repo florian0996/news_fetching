@@ -203138,5 +203138,85 @@
       "gross",
       "Getty"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-24/dell-s-family-office-hunts-gems-amid-turmoil-video",
+    "title": "Dell’s Family Office Hunts ‘Gems’ Amid Turmoil",
+    "fetched_on": "2026-03-24T04:55:15.428538+00:00",
+    "content": "Alisa Mall, chief investment officer for Michael Dell's family office, says tumult in private-credit markets is turning into a buying opportunity. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hunts",
+      "Gems’",
+      "Mall",
+      "Family",
+      "Office",
+      "Dell",
+      "Amid",
+      "Turmoil",
+      "Alisa",
+      "Michael"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-24/private-credit-gems-amid-turmoil-dell-cio-video",
+    "title": "Private Credit 'Gems' Amid Turmoil: Dell CIO",
+    "fetched_on": "2026-03-24T04:55:15.428562+00:00",
+    "content": "Alisa Mall, chief investment officer for Michael Dell's family office, predicts a dispersion in private credit performance, which will require close attention to details to find \"gems\" that can be accessed at a discount. She spoke to Bloomberg's Dani Burger in a wide-ranging interview at Bloomberg New Voices event in New York.  (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dell",
+      "Credit",
+      "Gems'",
+      "Turmoil",
+      "Mall",
+      "gems",
+      "Amid",
+      "CIO",
+      "Alisa",
+      "Michael"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-24/sembcorp-picks-banks-for-2-billion-alinta-loan-in-aussie-push",
+    "title": "Sembcorp Picks Banks for $2 Billion Alinta Loan in Aussie Push",
+    "fetched_on": "2026-03-24T04:55:15.806246+00:00",
+    "content": "Singapore energy provider Sembcorp Industries Ltd. has shortlisted banks for an about A$3 billion ($2.1 billion) loan to fund its purchase of Australia’s Alinta Energy Pty, according to people familiar with the matter, a further step in the firm’s strategy to expand beyond its home market.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Alinta",
+      "Banks",
+      "Pty",
+      "Sembcorp",
+      "Loan",
+      "energy",
+      "Picks",
+      "Aussie",
+      "Push"
+    ]
+  },
+  {
+    "source": "Eatingwell.com [NewsAPI]",
+    "url": "https://www.eatingwell.com/this-sleep-mistake-may-be-hurting-your-heart-health-11928966",
+    "title": "Cardiologists Warn This Daily Sleep Mistake May Be Hurting Your Heart Health",
+    "fetched_on": "2026-03-24T04:55:14.844374+00:00",
+    "content": "Reviewed by Dietitian Casey Wing, RD, CD\r\nCredit: Getty Images. EatingWell design.\r\nKey Points\r\n<ul><li>Irregular sleep disrupts circadian rhythms, raising stress hormones and straining heart health.… [+7837 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wing",
+      "Credit",
+      "Getty",
+      "Images",
+      "Warn",
+      "Daily",
+      "Mistake",
+      "Hurting",
+      "Health",
+      "Reviewed"
+    ]
   }
 ]
