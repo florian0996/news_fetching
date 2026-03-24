@@ -1,6 +1,17 @@
 {
-  "2026-03-23": {
+  "2026-03-24": {
     "status": "no company in the news"
+  },
+  "2026-03-23": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: Elon Did Some Securities Fraud",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-22": {
     "status": "no company in the news"
