@@ -205815,5 +205815,45 @@
       "request",
       "AFP"
     ]
+  },
+  {
+    "source": "The Punch [NewsAPI]",
+    "url": "https://punchng.com/ten-prepositional-errors-you-should-avoid-3/",
+    "title": "Ten prepositional errors you should avoid (3)",
+    "fetched_on": "2026-03-24T23:35:11.931016+00:00",
+    "content": "As we conclude this topic today, tell me the problem with each of the sentences below:\r\nThe director frowned at the managers decision to sell the goods on credit.\r\nThe police accused  the man of stab… [+2634 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ten",
+      "avoid",
+      "today",
+      "credit",
+      "prepositional",
+      "errors",
+      "conclude",
+      "topic",
+      "problem",
+      "sentences"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19336263-199-95-breville-smart-oven-air-fryer-compact-brushed-stainless-steel-20-credit-at-amazon",
+    "title": "$199.95 | Breville Smart Oven Air Fryer Compact (Brushed Stainless Steel) + $20 credit at Amazon",
+    "fetched_on": "2026-03-24T23:35:11.931016+00:00",
+    "content": "Amazon[amazon.com] has Breville Smart Oven Air Fryer Compact (Brushed Stainless Steel) for $199.95.Shipping is free.Price$50 lower (20% savings) than the list price of $249.95\r\nCustomer reviews4.5 / … [+114 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Compact",
+      "Brushed",
+      "Steel",
+      "Customer",
+      "Smart",
+      "Oven",
+      "Air",
+      "Fryer",
+      "Stainless",
+      "Breville"
+    ]
   }
 ]
