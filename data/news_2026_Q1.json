@@ -207798,5 +207798,85 @@
       "Algrim",
       "Tim"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-25/jefferies-investment-banking-windfall-eroded-by-credit-woes",
+    "title": "Jefferies’ Investment-Banking Windfall Eroded by Credit Woes",
+    "fetched_on": "2026-03-25T20:41:13.124646+00:00",
+    "content": "Jefferies Financial Group Inc. posted results that missed Wall Street estimates, dragged down by losses on wayward credit bets.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Windfall",
+      "Eroded",
+      "Woes",
+      "Jefferies",
+      "Financial",
+      "Group",
+      "Jefferies’",
+      "Credit",
+      "Investment-Banking",
+      "Wall"
+    ]
+  },
+  {
+    "source": "OCRegister [NewsAPI]",
+    "url": "https://www.ocregister.com/2026/03/24/ares-apollo-cap-private-credit-fund-withdrawals-as-exodus-grows/",
+    "title": "Ares, Apollo cap private credit fund withdrawals as exodus grows",
+    "fetched_on": "2026-03-25T20:41:10.980271+00:00",
+    "content": "By Olivia Fishlow | Bloomberg\r\nTwo of the biggest names in private credit, Ares Management Corp. and Apollo Global Management Inc., blocked investors from getting even half of the money they wanted o… [+2830 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Fishlow",
+      "Bloomberg",
+      "Inc.",
+      "Apollo",
+      "Management",
+      "Olivia",
+      "Corp.",
+      "Global",
+      "private"
+    ]
+  },
+  {
+    "source": "Jalopnik [NewsAPI]",
+    "url": "https://www.jalopnik.com/2127975/do-you-need-to-use-blinker-in-turn-lane/",
+    "title": "Why You Should Still Use Your Blinker Even In Dedicated Turn Lanes",
+    "fetched_on": "2026-03-25T20:41:10.980271+00:00",
+    "content": "The history of the blinking electric turn signal goes back at least to the 1930s, with either Talbot (1932) or Buick (1939) getting credit for their introduction, depending on whom you believe. Up un… [+1424 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Talbot",
+      "Buick",
+      "Turn",
+      "Blinker",
+      "Dedicated",
+      "Lanes",
+      "introduction",
+      "depending",
+      "history",
+      "blinking"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/walletgrower-mcp/",
+    "title": "walletgrower-mcp added to PyPI",
+    "fetched_on": "2026-03-25T20:41:10.980271+00:00",
+    "content": "Financial product comparison data for AI agents. Search, compare, and get personalized recommendations for high-yield savings accounts, credit cards, personal loans, budgeting apps, and 54 earning pr… [+4186 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Financial",
+      "walletgrower-mcp",
+      "agents",
+      "Search",
+      "compare",
+      "chars",
+      "added",
+      "PyPI",
+      "product",
+      "comparison"
+    ]
   }
 ]
