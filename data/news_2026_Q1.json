@@ -207738,5 +207738,65 @@
       "Debt",
       "investors"
     ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/the-great-flood-final-top-10-position/",
+    "title": "South Korean Sci-Fi Thriller ‘The Great Flood’ Wraps Up 91-Day Netflix Run, #5 In All-Time Top 10",
+    "fetched_on": "2026-03-25T19:50:29.443866+00:00",
+    "content": "Picture Credit: Netflix\r\nNetflixs South Korean sci-fi disaster epic The Great Flood has officially wrapped up its crucial first 91 days on the platform, and what a wave it made.\r\nStarring Kim Da-mi a… [+2971 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Korean",
+      "Great",
+      "Netflix",
+      "South",
+      "Thriller",
+      "Run",
+      "Top",
+      "Picture",
+      "Credit",
+      "Flood’"
+    ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4372030/posts",
+    "title": "Astronomy Picture of the Day - A Gravity Map of Earth",
+    "fetched_on": "2026-03-25T19:50:29.443866+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - A Gravity Map of EarthNASA ^\r\n | 24 Mar, 2026\r\n | Video Credit: NASA, GSFC, GRACE, SVS\r\nPosted on 03/24/2026 12:16:28 PM PDT by MtnClimber\r\nExplanati… [+3286 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Day",
+      "Picture",
+      "Gravity",
+      "Map",
+      "Astronomy",
+      "Earth",
+      "Skip",
+      "comments",
+      "Mar",
+      "NASA"
+    ]
+  },
+  {
+    "source": "Chicago Reader [NewsAPI]",
+    "url": "http://chicagoreader.com/music/gossip-wolf/stuck-optimizer-chicago-artists-against-ice-trash-tape-records/",
+    "title": "Stuck take a sleek turn on their third LP, Optimizer",
+    "fetched_on": "2026-03-25T19:50:29.443866+00:00",
+    "content": "Stuck. From L-R: David Algrim, Tim Green, and Greg Obis. Credit: Miles Kalchik Credit: Miles Kalchik\r\nStuck front man Greg Obis forged his band in response to bad times. The group dropped their gnarl… [+6256 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Optimizer",
+      "Miles",
+      "Stuck",
+      "Greg",
+      "Obis",
+      "Kalchik",
+      "Credit",
+      "David",
+      "Algrim",
+      "Tim"
+    ]
   }
 ]
