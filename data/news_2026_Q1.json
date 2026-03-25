@@ -206055,5 +206055,85 @@
       "eggs",
       "Yamanashi"
     ]
+  },
+  {
+    "source": "Typerson.com [NewsAPI]",
+    "url": "https://www.typerson.com",
+    "title": "Show HN: A form builder that feels like chatting",
+    "fetched_on": "2026-03-25T04:56:09.421887+00:00",
+    "content": "Is there a free plan?\r\nYes! Our free plan lets you create up to 3 forms with 10 completed responses per month. No credit card required. Upgrade anytime when you need more.\r\nCan I use Typerson free fo… [+1743 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Show",
+      "free",
+      "plan",
+      "builder",
+      "feels",
+      "chatting",
+      "Typerson",
+      "chars",
+      "completed",
+      "month"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/sembcorp-picks-banks-for-2-billion-alinta-loan-in-aussie-push",
+    "title": "Sembcorp Picks Banks for $2 Billion Alinta Loan in Aussie Push",
+    "fetched_on": "2026-03-25T04:56:09.421887+00:00",
+    "content": "(Bloomberg) Singapore energy provider Sembcorp Industries Ltd. has shortlisted banks for an about A$3 billion ($2.1 billion) loan to fund its purchase of Australias Alinta Energy Pty, according to pe… [+4161 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Bloomberg",
+      "Alinta",
+      "Banks",
+      "Push",
+      "Singapore",
+      "Pty",
+      "chars",
+      "Sembcorp",
+      "Loan"
+    ]
+  },
+  {
+    "source": "Rubyflow.com [NewsAPI]",
+    "url": "https://rubyflow.com/p/orlww4-ruby-sees-the-world",
+    "title": "Ruby Sees the World.",
+    "fetched_on": "2026-03-25T04:56:09.421887+00:00",
+    "content": "https://rubystacknews.com/2026/03/23/ruby-sees-the-world-automatic-measurement-from-photos/\r\nPlace a credit card in a photo. Ruby finds it, calibrates the scale, and measures everything else in the f… [+140 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Ruby",
+      "Place",
+      "chars",
+      "photo",
+      "calibrates",
+      "scale",
+      "credit",
+      "card",
+      "finds"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-alex-in-paradise-season-2-5507937/",
+    "title": "Who Is Alex in Paradise Season 2? Identity and Meaning Explained",
+    "fetched_on": "2026-03-25T04:56:09.421887+00:00",
+    "content": "Image Credit: Disney\r\nSeason 2 of Paradise has raised the stakes even more. As we near the season finale, viewers were left bewildered at the end of episode 7, which teases the true identity of Alex … [+2008 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Paradise",
+      "Season",
+      "Alex",
+      "Credit",
+      "Disney",
+      "Meaning",
+      "Explained",
+      "Image",
+      "Identity",
+      "chars"
+    ]
   }
 ]
