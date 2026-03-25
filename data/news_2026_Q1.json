@@ -207974,5 +207974,125 @@
       "Starting",
       "Apollo"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-25/vanguard-s-wrzesniewsky-credit-holding-on-pretty-well-video",
+    "title": "Vanguard's Wrzesniewsky: Credit Holding on Pretty Well",
+    "fetched_on": "2026-03-25T22:38:34.957804+00:00",
+    "content": "Vanguard Head of Fixed Income Client Portfolio Management Matt Wrzesniewsky discusses bonds losing more than $2 trillion as the war in Iran continues to cause ripples through markets. He talks with Katie Greifeld and Romaine Bostick on “The Close.” (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Wrzesniewsky",
+      "Credit",
+      "Vanguard",
+      "Holding",
+      "Pretty",
+      "Head",
+      "Fixed",
+      "Income",
+      "Client",
+      "Portfolio"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-25/us-credit-market-grew-more-dysfunctional-in-march-ny-fed-says",
+    "title": "US Credit Market Grew More Dysfunctional in March, NY Fed Says",
+    "fetched_on": "2026-03-25T22:38:34.957842+00:00",
+    "content": "A New York Fed index on Wednesday signaled that the US corporate bond market saw more dislocations in March, with the high-grade bond market more bruised than its high-yield counterpart.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Fed",
+      "Market",
+      "Credit",
+      "Grew",
+      "Dysfunctional",
+      "York",
+      "Wednesday",
+      "bond",
+      "counterpart"
+    ]
+  },
+  {
+    "source": "Dealnews.com [NewsAPI]",
+    "url": "https://www.dealnews.com/products/Samsung/Samsung-Galaxy-Watch8-Classic-46-mm-Bluetooth-Smartwatch-2025/495778.html",
+    "title": "Samsung Galaxy Watch8 Classic 46mm Bluetooth Smartwatch (2025) for $220 + free shipping",
+    "fetched_on": "2026-03-25T22:38:34.282252+00:00",
+    "content": "moreSamsung offer the Unlocked Samsung Galaxy S26 Ultra 1TB Android Smartphone from $1,080, supposing you get the max allowed $720 trade-in credit. Plus, you'll enjoy a $30 Samsung credit to boot. Yo… [+214 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Galaxy",
+      "Classic",
+      "Ultra",
+      "Bluetooth",
+      "Smartwatch",
+      "Android",
+      "Samsung",
+      "Unlocked",
+      "Smartphone",
+      "free"
+    ]
+  },
+  {
+    "source": "Utexas.edu [NewsAPI]",
+    "url": "https://www.jsg.utexas.edu/news/2026/03/new-ice-age-animals-and-slice-of-earth-history-found-in-central-texas-water-cave/",
+    "title": "New Ice Age Animals and Slice of Earth History Found in Central Texas Water Cave",
+    "fetched_on": "2026-03-25T22:38:34.282252+00:00",
+    "content": "March 24, 2026\r\nWith a wet suit and goggles, paleontologist John Moretti searches for fossils in the stream that flows through Benders Cave. Credit: John Moretti.\r\nA paleontologist from The Universit… [+5821 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Cave",
+      "March",
+      "John",
+      "Moretti",
+      "Ice",
+      "Age",
+      "Animals",
+      "Slice",
+      "Earth",
+      "History"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/creditriskengine/",
+    "title": "creditriskengine added to PyPI",
+    "fetched_on": "2026-03-25T22:38:34.282252+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "creditriskengine",
+      "load",
+      "added",
+      "PyPI",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/creditriskengine/0.2.0/",
+    "title": "creditriskengine 0.2.0",
+    "fetched_on": "2026-03-25T22:38:34.282252+00:00",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "creditriskengine",
+      "load",
+      "required",
+      "part",
+      "site",
+      "couldnt",
+      "browser",
+      "chars",
+      "extension",
+      "network"
+    ]
   }
 ]
