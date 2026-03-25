@@ -206599,5 +206599,85 @@
       "led",
       "fund"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-25/israel-to-hold-zone-up-to-lebanon-s-litani-river-video",
+    "title": "Israel To Hold Zone Up To Lebanon's Litani River",
+    "fetched_on": "2026-03-25T11:42:58.499326+00:00",
+    "content": "Israel's Defense Minister says the military will take control of southern Lebanon up to the Litani River to prevent Hezbollah from transporting weapons and fighters.  Lebanon has withdrawn accreditation from the Iranian ambassador, demanding his departure from the country by Sunday. Bloomberg's Dan Williams spoke to Joumanna Bercetche on Horizons Middle East and Africa. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Litani",
+      "River",
+      "Israel",
+      "Lebanon",
+      "Hold",
+      "Zone",
+      "Defense",
+      "Minister",
+      "Hezbollah",
+      "fighters"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/claude-cowork-obsidian/",
+    "title": "Put Your Folders on Autopilot : How Claude Cowork Handles the Busywork",
+    "fetched_on": "2026-03-25T11:42:57.908351+00:00",
+    "content": "Claude Cowork offers a unique approach to productivity by blending artificial intelligence with advanced file management and workflow optimization. In a recent guide by Nick Milo, the focus is on how… [+7803 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Claude",
+      "Cowork",
+      "Autopilot",
+      "Folders",
+      "Handles",
+      "Busywork",
+      "Put",
+      "optimization",
+      "chars",
+      "Milo"
+    ]
+  },
+  {
+    "source": "Getfootball.eu [NewsAPI]",
+    "url": "https://getfootball.eu/exclusive-rennes-arnaud-nordin-everyone-wants-to-play-in-the-champions-league-for-now-were-focused-on-being-in-europe/",
+    "title": "EXCLUSIVE | Rennes’ Arnaud Nordin: ‘Everyone wants to play in the Champions League. For now, we’re focused on being in Europe.’",
+    "fetched_on": "2026-03-25T11:42:57.908351+00:00",
+    "content": "Arnaud Nordin (27), on loan from Mainz, has established himself as a key player in a revived Stade Rennais side who, under new manager Franck Haise, are looking to make a return to European football.… [+6767 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EXCLUSIVE",
+      "Rennes’",
+      "League",
+      "Nordin",
+      "Champions",
+      "Arnaud",
+      "Europe.’",
+      "play",
+      "Mainz",
+      "Haise"
+    ]
+  },
+  {
+    "source": "Onefootball.com [NewsAPI]",
+    "url": "https://onefootball.com/en/news/marseilles-best-signings-of-the-longoria-era-42608177",
+    "title": "Marseille's best signings of the Longoria era ✨",
+    "fetched_on": "2026-03-25T11:42:57.908351+00:00",
+    "content": "Some impressive names to his credit.\r\nThis Monday, OM officially announced the departure of Pablo Longoria. Having stepped back for several weeks, the Spaniard remained at the helm of the Marseille c… [+2946 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Longoria",
+      "era",
+      "credit",
+      "Marseille",
+      "signings",
+      "impressive",
+      "Monday",
+      "Pablo",
+      "Spaniard",
+      "chars"
+    ]
   }
 ]
