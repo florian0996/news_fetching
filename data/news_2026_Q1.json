@@ -210359,5 +210359,85 @@
       "Longtime",
       "Exec"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-26/trapped-in-private-credit-investors-wait-to-pull-5b-video",
+    "title": "Trapped in Private Credit, Investors Wait to Pull Out $5 Billion",
+    "fetched_on": "2026-03-26T21:33:57.991244+00:00",
+    "content": "A wave of redemption requests across the private credit industry has left more than $4.6 billion of investor capital trapped behind withdrawal limits, with more asset managers expected to impose curbs in the coming weeks. Investors have looked to pull roughly $13 billion from over a dozen funds so far this quarter, according to Bloomberg estimates and data from Robert A Stanger & Co. But since the vehicles can cap withdrawals at 5% of net assets per quarter, investors have only been able to access about two-thirds of the cash they’ve sought, the data show. Len Tannenbaum, Founder of Tannenbaum Capital Group, joins Bloomberg Businessweek Daily to discuss redemption jitters, the evolution of private credit and the current credit cycle, and more. He speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Wait",
+      "Credit",
+      "Trapped",
+      "Pull",
+      "Private",
+      "Investors",
+      "Bloomberg",
+      "capital",
+      "limits"
+    ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-26/judge-defers-ruling-on-multi-color-chapter-11-loan-roll-up",
+    "title": "Judge Defers Ruling on Multi-Color Chapter 11 Loan ‘Roll-Up’",
+    "fetched_on": "2026-03-26T21:33:57.991271+00:00",
+    "content": "A federal judge said he would let label-maker Multi-Color Corp. draw the rest of its $250 million Chapter 11 loan, but stopped short of approving a contested feature of the financing that would push some existing debt to the top of the repayment line.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Loan",
+      "Chapter",
+      "Corp",
+      "Defers",
+      "Ruling",
+      "Judge",
+      "Multi-Color",
+      "Roll-Up’",
+      "federal",
+      "label-maker"
+    ]
+  },
+  {
+    "source": "Slashdot.org [NewsAPI]",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181103500",
+    "title": "How private credit could quickly become a public problem - CNN",
+    "fetched_on": "2026-03-26T21:33:57.383188+00:00",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CNN",
+      "Print",
+      "Fine",
+      "problem",
+      "private",
+      "credit",
+      "quickly",
+      "public",
+      "comments",
+      "owned"
+    ]
+  },
+  {
+    "source": "Vulture [NewsAPI]",
+    "url": "http://www.vulture.com/article/mlb-opening-night-wednesday-thing-first-pitch.html",
+    "title": "Wednesday Is Lending the MLB a Hand for Opening Night",
+    "fetched_on": "2026-03-26T21:33:57.383188+00:00",
+    "content": "This is one of the weirder Things Netflix has done in order to get into the live-sports game. Wednesdays Thing will be throwing the ceremonial first pitch for Major League Baseballs Opening Night. Th… [+1222 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Opening",
+      "Night",
+      "Lending",
+      "MLB",
+      "Hand",
+      "Netflix",
+      "game",
+      "Things",
+      "Thing",
+      "weirder"
+    ]
   }
 ]
