@@ -210439,5 +210439,125 @@
       "Thing",
       "weirder"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-26/mortgage-rates-jump-to-6-38-war-rattles-housing-market-video",
+    "title": "Mortgage Rates Jump to 6.38% as War Rattles Housing Market",
+    "fetched_on": "2026-03-26T22:33:00.118277+00:00",
+    "content": "US mortgage rates jumped for a fourth straight week, reaching the highest point in six months and dampening prospects for the crucial spring season as the Iran war roils markets. The average rate for 30-year, fixed loans climbed to 6.38%, the highest since September 2025 and up from 6.22% last week, according to data from Freddie Mac Thursday. At the current 30-year average, borrowers with a $1 million loan would pay about $6,242 a month, not including insurance and taxes. That is up from $5,983 in late February when rates briefly dipped below 6% right before the US-Israeli bombing campaign began. Clear Investment Group CEO Amy Rubenstein joins Bloomberg Businessweek Daily to discuss, plus the state of affordable housing. She speaks with with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "War",
+      "Mortgage",
+      "Jump",
+      "Rattles",
+      "Iran",
+      "Rates",
+      "Market",
+      "markets",
+      "week",
+      "highest"
+    ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/features/2026-03-26/mfs-paresh-raja-s-property-empire-collapse-reveals-private-markets-blind-spot",
+    "title": "Tangled Web of Loans Brought Down a British Property Empire",
+    "fetched_on": "2026-03-26T22:33:01.293454+00:00",
+    "content": "<p>The collapse of Paresh Raja's property empire has left lenders facing up to $1.7 billion of losses and questions about their due diligence.</p>",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Property",
+      "Empire",
+      "Web",
+      "Loans",
+      "Brought",
+      "British",
+      "Paresh",
+      "Raja",
+      "Tangled",
+      "billion"
+    ]
+  },
+  {
+    "source": "Chicago Reader [NewsAPI]",
+    "url": "http://chicagoreader.com/music/the-secret-history-of-chicago-music/anne-hills-folk-burda-mike-smith-paxton-gibson-best-friends-hogeye/",
+    "title": "Anne Hills carries folk music’s Chicago heyday in her head and heart",
+    "fetched_on": "2026-03-26T22:32:59.407062+00:00",
+    "content": "Credit: Steve Krakow for Chicago Reader\r\nSince 2005 Plastic Crimewave (aka Steve Krakow) has used the Secret History of Chicago Music to shine a light on worthy artists with Chicago ties whove been f… [+13247 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chicago",
+      "Steve",
+      "Krakow",
+      "Credit",
+      "Plastic",
+      "Crimewave",
+      "music",
+      "chars",
+      "Hills",
+      "Reader"
+    ]
+  },
+  {
+    "source": "National Post [NewsAPI]",
+    "url": "https://nationalpost.com/news/canada/american-passengers-from-crashed-air-canada-jet-thanking-pilots-for-saving-their-lives",
+    "title": "American passengers from crashed Air Canada jet thanking pilots for saving their lives",
+    "fetched_on": "2026-03-26T22:32:59.407062+00:00",
+    "content": "American passengers of the ill-fated Air Canada jet that crashed at New Yorks LaGuardia airport on Sunday are publicly thanking the Canadian pilots crediting them with saving dozens of lives.\r\nTHIS C… [+4769 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Canada",
+      "Air",
+      "American",
+      "Yorks",
+      "Sunday",
+      "Canadian",
+      "passengers",
+      "jet",
+      "crashed",
+      "thanking"
+    ]
+  },
+  {
+    "source": "Japan Today [NewsAPI]",
+    "url": "https://japantoday.com/category/national/11-japan-railway-operators-start-offering-contactless-payment-transfers",
+    "title": "11 Japan railway operators start offering contactless payment transfers",
+    "fetched_on": "2026-03-26T22:32:59.407062+00:00",
+    "content": "Eleven railway operators in Tokyo and its vicinity on Wednesday began allowing passengers to transfer between lines using a contactless payment system, including tap-to-pay credit cards.\r\nThe service… [+681 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Japan",
+      "including",
+      "Eleven",
+      "Tokyo",
+      "Wednesday",
+      "railway",
+      "operators",
+      "contactless",
+      "payment",
+      "system"
+    ]
+  },
+  {
+    "source": "Slickdeals.net [NewsAPI]",
+    "url": "https://slickdeals.net/f/19342488-select-accounts-2-pk-16-oz-therabreath-oral-rinse-1-10-amazon-credit-9-80-w-s-s",
+    "title": "Select Accounts: 2-Pk 16-Oz TheraBreath Oral Rinse + $1.10 Amazon Credit $9.80 w/ S&S",
+    "fetched_on": "2026-03-26T22:32:59.407062+00:00",
+    "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+105 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Accounts",
+      "Rinse",
+      "Amazon",
+      "Credit",
+      "tips",
+      "Oral",
+      "Select",
+      "TheraBreath",
+      "information",
+      "post"
+    ]
   }
 ]
