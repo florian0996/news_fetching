@@ -1,6 +1,18 @@
 {
-  "2026-03-25": {
+  "2026-03-26": {
     "status": "no company in the news"
+  },
+  "2026-03-25": {
+    "articles": [
+      {
+        "title": "FW: Money Stuff: Private Credit Has Some Debt",
+        "url": null,
+        "platforms_mentioned": [
+          "CG24",
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-24": {
     "status": "no company in the news"
