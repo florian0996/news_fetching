@@ -210559,5 +210559,25 @@
       "information",
       "post"
     ]
+  },
+  {
+    "source": "CBS News [NewsAPI]",
+    "url": "https://www.cbsnews.com/video/record-number-americans-carrying-credit-card-debt-cant-pay-off-report-shows/",
+    "title": "Record number of Americans carrying credit card debt they can't pay off, report shows",
+    "fetched_on": "2026-03-26T23:34:52.694253+00:00",
+    "content": "Copyright ©2026 CBS Interactive Inc. All rights reserved.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Copyright",
+      "CBS",
+      "Americans",
+      "Interactive",
+      "Record",
+      "report",
+      "number",
+      "carrying",
+      "credit",
+      "card"
+    ]
   }
 ]
