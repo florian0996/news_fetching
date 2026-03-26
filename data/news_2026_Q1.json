@@ -208552,5 +208552,102 @@
       "LBBW",
       "das"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-26/ares-private-credit-fund-posts-steepest-monthly-loss-video",
+    "title": "Private Credit Fund Managed by Ares Posts Steepest Ever Monthly Loss",
+    "fetched_on": "2026-03-26T08:59:41.335027+00:00",
+    "content": "A private credit fund managed by Ares Management posted its steepest monthly loss on record in February, providing further evidence of deteriorating performance in the $1.8 trillion private credit market. Bloomberg's Sinead Cruise has more. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Fund",
+      "Managed",
+      "Monthly",
+      "Loss",
+      "February",
+      "Private",
+      "Steepest",
+      "Posts",
+      "Management"
+    ]
+  },
+  {
+    "source": "Ahouseinthehills.com [NewsAPI]",
+    "url": "https://ahouseinthehills.com/how-debt-gets-divided-in-divorce-and-the-part-nobody-warns-you-about/",
+    "title": "How Debt Gets Divided in Divorce (And the Part Nobody Warns You About)",
+    "fetched_on": "2026-03-26T08:59:40.617722+00:00",
+    "content": "Divorce is already one of the hardest things a person can walk through. But discovering, weeks or months later, that a debt you thought was “your ex’s problem” just wrecked your credit score? That’s … [+9163 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Divorce",
+      "Divided",
+      "Part",
+      "Warns",
+      "Debt",
+      "hardest",
+      "things",
+      "person",
+      "walk",
+      "chars"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/money-mobility/2026/why-millions-of-new-accounts-never-turn-into-real-banking-relationships/",
+    "title": "Why Millions of New Accounts Never Turn Into Real Banking Relationships",
+    "fetched_on": "2026-03-26T08:59:40.617722+00:00",
+    "content": "Banks and credit unions are opening millions of new accounts, yet too many fail to become active relationships. As FinTechs deliver instant funding and immediate usability, traditional financial inst… [+2416 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Millions",
+      "Accounts",
+      "Relationships",
+      "Turn",
+      "Real",
+      "Banking",
+      "Banks",
+      "chars",
+      "credit",
+      "unions"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/economy/articles/credit-scores-tick-down-borrowers-210254907.html",
+    "title": "Credit Scores Tick Down as Borrowers Struggle With Student Loan and Mortgage Payments",
+    "fetched_on": "2026-03-26T09:00:02.638274+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Payments",
+      "Scores",
+      "Tick",
+      "Borrowers",
+      "Struggle",
+      "Student",
+      "Loan",
+      "Mortgage",
+      "Credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-syf-credit-trends-215358881.html",
+    "title": "Synchrony Financial (SYF) Credit Trends Reinforce Analyst Optimism",
+    "fetched_on": "2026-03-26T09:00:02.638466+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SYF",
+      "Financial",
+      "Credit",
+      "Optimism",
+      "Trends",
+      "Reinforce",
+      "Analyst",
+      "Synchrony"
+    ]
   }
 ]
