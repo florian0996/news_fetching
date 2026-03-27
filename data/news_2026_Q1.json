@@ -210579,5 +210579,65 @@
       "credit",
       "card"
     ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/dodgers/251760/dodgers-make-seven-injury-list-moves-before-opening-day/",
+    "title": "Dodgers Make Seven Injury List Moves Before Opening Day",
+    "fetched_on": "2026-03-27T02:34:36.467886+00:00",
+    "content": "Mar 10, 2026; Phoenix, Arizona, USA; Los Angeles Dodgers manager Dave Roberts against the Arizona Diamondbacks during a spring training game at Camelback Ranch-Glendale. Mandatory Credit: Mark J. Reb… [+1664 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phoenix",
+      "USA",
+      "Arizona",
+      "Mar",
+      "Los",
+      "Dodgers",
+      "Make",
+      "Injury",
+      "List",
+      "Moves"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/markets/18-6b-in-bitcoin-options-expire-friday-should-traders-prepare-for-75k-btc",
+    "title": "$18.6B in Bitcoin options expire Friday: Should traders prepare for $75K BTC?",
+    "fetched_on": "2026-03-27T02:34:36.467886+00:00",
+    "content": "Key takeaways:\r\n<ul><li>Over 90% of Bitcoin call options may expire worthless if the price fails to break above $71,000 by Friday.\r\n</li><li>Traders fear rising inflation and worsening credit conditi… [+4085 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BTC",
+      "Friday",
+      "Bitcoin",
+      "traders",
+      "options",
+      "expire",
+      "prepare",
+      "chars",
+      "Key",
+      "takeaways"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00977-z",
+    "title": "Trump’s new science advisers include 12 technology chiefs — and one academic",
+    "fetched_on": "2026-03-27T02:34:36.467886+00:00",
+    "content": "D\r\nFacebook co-founder Mark Zuckerberg (left) has been named to President Trumps science and technology advisory council. Credit: Will Oliver/EPA/Bloomberg via Getty\r\nUS President Donald Trump has na… [+2806 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Zuckerberg",
+      "left",
+      "Facebook",
+      "Mark",
+      "President",
+      "science",
+      "technology",
+      "Trump",
+      "include",
+      "chiefs"
+    ]
   }
 ]
