@@ -1,6 +1,31 @@
 {
-  "2026-03-26": {
+  "2026-03-27": {
     "status": "no company in the news"
+  },
+  "2026-03-26": {
+    "articles": [
+      {
+        "title": "FW: Europe’s first robot boxing match",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Trump Assembles the AIvengers",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: Weather Prediction Prediction",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-25": {
     "articles": [
