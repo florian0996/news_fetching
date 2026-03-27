@@ -213542,5 +213542,144 @@
       "hosts",
       "time"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-27/sec-division-overseeing-private-credit-firms-lost-24-of-staff",
+    "title": "SEC Division Overseeing Private Credit Firms Lost 24% of Staff",
+    "fetched_on": "2026-03-27T21:37:06.283033+00:00",
+    "content": "Nearly a quarter of the staff in the Securities and Exchange Commission’s division overseeing hedge funds, private credit firms, mutual funds and many investment products, left the agency last year, according to a new report.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Division",
+      "Overseeing",
+      "Private",
+      "Firms",
+      "SEC",
+      "Lost",
+      "Staff",
+      "Securities",
+      "Exchange"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-03-27/shadow-loans-at-1-800-hit-canadians-shut-out-by-banks",
+    "title": "Shadow Loans at 1,800% Hit Stressed Consumers Shut Out by Banks",
+    "fetched_on": "2026-03-27T21:37:06.580396+00:00",
+    "content": "Also: Why Arc’teryx is winning",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hit",
+      "Loans",
+      "Stressed",
+      "Consumers",
+      "Shut",
+      "Banks",
+      "Arc’teryx",
+      "Shadow",
+      "winning"
+    ]
+  },
+  {
+    "source": "disneyfoodblog.com [NewsAPI]",
+    "url": "https://www.disneyfoodblog.com/2026/03/26/theres-a-new-disney-visa-perk-at-hollywood-studios-and-youre-gonna-love-it/",
+    "title": "There’s a NEW Disney Visa Perk at Hollywood Studios…and You’re Gonna Love It!",
+    "fetched_on": "2026-03-27T21:37:05.609339+00:00",
+    "content": "There’s a new Disney Visa perk at Walt Disney World! In case you didn’t know, Chase Disney Visa Cardholders get some exclusive perks in the Disney Parks for completely free with their debit or credit… [+2805 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Disney",
+      "Visa",
+      "Studios",
+      "Hollywood",
+      "Gonna",
+      "Love",
+      "Perk",
+      "World",
+      "’re",
+      "Walt"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-taylor-lautner-wife-tay-dome-4581024/",
+    "title": "Tay Dome: 5 Things to Know About Taylor Lautner’s Wife",
+    "fetched_on": "2026-03-27T21:37:05.609339+00:00",
+    "content": "View galleryImage Credit: Variety via Getty Images\r\nTaylor Lautner is going to be a dad! The Twilight star wed his wife, influencer and registered nurse Tay Dome, in 2022 at a Robles, California wine… [+4194 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Taylor",
+      "Lautner",
+      "Dome",
+      "Things",
+      "Credit",
+      "Variety",
+      "View",
+      "Getty",
+      "Images",
+      "Tay"
+    ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/calian-increases-its-committed-credit-facility-to-pursue-growth-and-announces-management-change",
+    "title": "Calian Increases its Committed Credit Facility to Pursue Growth and Announces Management Change",
+    "fetched_on": "2026-03-27T21:37:05.609339+00:00",
+    "content": "(All amounts in release are in Canadian dollars)\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from… [+6525 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Change",
+      "Canada",
+      "Increases",
+      "Committed",
+      "Credit",
+      "Facility",
+      "Pursue",
+      "Growth",
+      "Announces",
+      "Management"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/03/26/3263459/0/en/Calian-Increases-its-Committed-Credit-Facility-to-Pursue-Growth-and-Announces-Management-Change.html",
+    "title": "Calian Increases its Committed Credit Facility to Pursue Growth and Announces Management Change",
+    "fetched_on": "2026-03-27T21:37:05.609339+00:00",
+    "content": "(All amounts in release are in Canadian dollars)\r\nOTTAWA, Ontario, March 26, 2026 (GLOBE NEWSWIRE) -- Calian® Group Ltd. (Calian or the Company) (TSX:CGY), a mission-critical solutions company focuse… [+4392 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "OTTAWA",
+      "Ontario",
+      "March",
+      "Calian",
+      "Change",
+      "GLOBE",
+      "NEWSWIRE",
+      "Group",
+      "Increases",
+      "Committed"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/pro/our-favourite-web-hosting-company-is-giving-you-access-to-ais-latest-superstar-for-free-one-click-gets-you-openclaw-on-hostingers-shared-hosting",
+    "title": "Our favorite web hosting company is providing access to AI's latest superstar for free: One click gets you OpenClaw on Hostinger's shared hosting",
+    "fetched_on": "2026-03-27T21:37:05.609339+00:00",
+    "content": "<ul><li>One-click deployment removes technical barriers for running advanced AI agents</li><li>Integrated AI credits simplify access to multiple models without manual setup</li><li>Managed hosting ke… [+4091 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "hosting",
+      "One-click",
+      "Integrated",
+      "Managed",
+      "access",
+      "chars",
+      "Hostinger",
+      "free",
+      "agents",
+      "setup"
+    ]
   }
 ]
