@@ -212762,5 +212762,118 @@
       "conferences",
       "baby"
     ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-27/epa-finalizes-higher-biofuels-quota-to-bolster-domestic-demand",
+    "title": "US Finalizes Higher Biofuels Quota to Boost Domestic Demand",
+    "fetched_on": "2026-03-27T17:54:03.238769+00:00",
+    "content": "The Trump administration unveiled long-awaited biofuels blending standards, imposing a stronger mandate than a plan proposed last year in a further show of support for producers and American farmers.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Biofuels",
+      "Finalizes",
+      "Higher",
+      "Quota",
+      "Boost",
+      "Domestic",
+      "Demand",
+      "Trump",
+      "American",
+      "standards"
+    ]
+  },
+  {
+    "source": "Bloomberg – Politics [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-27/trump-promises-farmers-help-is-on-the-way-video",
+    "title": "Trump Promises Farmers Help Is on the Way",
+    "fetched_on": "2026-03-27T17:54:03.238783+00:00",
+    "content": "President Donald Trump announced new loan guarantees for farmers and food suppliers to bolster US agricultural communities. He spoke at the White House on Friday. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Farmers",
+      "Promises",
+      "President",
+      "Donald",
+      "communities",
+      "Source",
+      "Bloomberg",
+      "Friday",
+      "announced"
+    ]
+  },
+  {
+    "source": "Fortune [NewsAPI]",
+    "url": "https://fortune.com/2026/03/26/gen-z-credit-scores-declining-under-trump-student-loan-crackdown/",
+    "title": "Gen Z’s credit scores are cratering — and Trump’s student loan crackdown is the biggest reason why",
+    "fetched_on": "2026-03-27T17:54:02.512293+00:00",
+    "content": "The Trump administration has moved aggressively to restart student loan collections, and a record number of borrowers cant keep up. The result is showing up in a damaging and lasting way: a generatio… [+4995 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "student",
+      "loan",
+      "Gen",
+      "cratering",
+      "collections",
+      "credit",
+      "scores",
+      "crackdown",
+      "biggest"
+    ]
+  },
+  {
+    "source": "Cointelegraph [NewsAPI]",
+    "url": "https://cointelegraph.com/news/mezo-aerodrome-base-token-trading-bitcoin-defi",
+    "title": "Mezo taps Aerodrome to support token trading on Base in Bitcoin DeFi push",
+    "fetched_on": "2026-03-27T17:54:02.512293+00:00",
+    "content": "Mezo, a Bitcoin-native lending protocol, will collaborate with Aerodrome Finance to support trading activity for its token and Bitcoin-backed stablecoin on the Base network, as projects look for ways… [+2210 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Aerodrome",
+      "Base",
+      "Mezo",
+      "Bitcoin",
+      "Bitcoin-native",
+      "Finance",
+      "Bitcoin-backed",
+      "support",
+      "protocol"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/oaktree-private-credit-fund-to-pay-out-85-in-redemption-requests-4584945",
+    "title": "Oaktree private credit fund to pay out 8.5% in redemption requests",
+    "fetched_on": "2026-03-27T17:54:09.077440+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oaktree",
+      "requests",
+      "private",
+      "credit",
+      "fund",
+      "pay",
+      "redemption"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/buy-crypto-with-credit-card-223323104.html",
+    "title": "Can you buy crypto with a credit card? See the pros and cons.",
+    "fetched_on": "2026-03-27T17:54:19.250714+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "card",
+      "buy",
+      "crypto",
+      "credit",
+      "cons",
+      "pros"
+    ]
   }
 ]
