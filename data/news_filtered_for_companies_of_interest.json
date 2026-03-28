@@ -1,6 +1,32 @@
 {
+  "2026-03-28": {
+    "articles": [
+      {
+        "title": "LendingClub Bank review (2026): A top-rated online bank with high yields and low fees",
+        "url": "https://finance.yahoo.com/personal-finance/banking/review/lendingclub-bank-review-230320850.html",
+        "platforms_mentioned": [
+          "Lending Club"
+        ]
+      }
+    ]
+  },
   "2026-03-27": {
-    "status": "no company in the news"
+    "articles": [
+      {
+        "title": "FW: Synthesia's stealth competitor?",
+        "url": null,
+        "platforms_mentioned": [
+          "Viola Credit"
+        ]
+      },
+      {
+        "title": "FW: \"Ok Claude, should I fire myself?\"",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-26": {
     "articles": [
