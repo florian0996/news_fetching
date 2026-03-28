@@ -215311,5 +215311,85 @@
       "fund",
       "share"
     ]
+  },
+  {
+    "source": "Freerepublic.com [NewsAPI]",
+    "url": "https://freerepublic.com/focus/f-chat/4372480/posts",
+    "title": "Astronomy Picture of the Day - Hickson 44 in Leo",
+    "fetched_on": "2026-03-28T18:43:08.313324+00:00",
+    "content": "Skip to comments.\r\nAstronomy Picture of the Day - Hickson 44 in LeoNASA ^\r\n | 27 Mar, 2026\r\n | Image Credit &amp; Copyright: Peter Kennett\r\nPosted on 03/27/2026 11:41:49 AM PDT by MtnClimber\r\nExplana… [+2896 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hickson",
+      "Day",
+      "Picture",
+      "Astronomy",
+      "Leo",
+      "Skip",
+      "Mar",
+      "Copyright",
+      "comments",
+      "Image"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/piaget-scales-place-vendome-flagship/",
+    "title": "Piaget scales Place Vendôme flagship",
+    "fetched_on": "2026-03-28T18:43:08.313324+00:00",
+    "content": "Retail\r\nMarch 27, 2026\r\n The boutique takes on Piagets rolling Extraleganza interior concept. Image credit: Richemont \r\n By Zach James for Luxury Daily News Service\r\nSwiss jeweler Piaget is giving a … [+4971 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Place",
+      "Vendôme",
+      "Retail",
+      "Extraleganza",
+      "concept",
+      "Piaget",
+      "scales",
+      "flagship",
+      "boutique"
+    ]
+  },
+  {
+    "source": "Alltoc.com [NewsAPI]",
+    "url": "https://alltoc.com/world/what-happened-with-kash-patels-emails",
+    "title": "What happened with Kash Patel’s emails? #world",
+    "fetched_on": "2026-03-28T18:43:08.313324+00:00",
+    "content": "Iran-linked hackers have accessed FBI Director Kash Patels personal email account and published materials taken from the inbox, including photos and documents. Multiple summaries credit a hacking gro… [+1733 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kash",
+      "Patel",
+      "Patels",
+      "happened",
+      "Iran-linked",
+      "FBI",
+      "Director",
+      "chars",
+      "world",
+      "inbox"
+    ]
+  },
+  {
+    "source": "Salon [NewsAPI]",
+    "url": "https://www.salon.com/2026/03/27/iran-linked-hackers-breach-fbi-director-kash-patels-personal-email/",
+    "title": "Iran-linked hackers breach FBI Director Kash Patel’s personal email",
+    "fetched_on": "2026-03-28T18:43:08.313324+00:00",
+    "content": "A hacking group linked to Iran published information from FBI Director Kash Patels personal email account Friday. The Handala Hack Team took credit for the breach. The U.S. believes Handala is one of… [+1552 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Director",
+      "Kash",
+      "FBI",
+      "Friday",
+      "Patel",
+      "Patels",
+      "Iran",
+      "personal",
+      "email",
+      "Iran-linked"
+    ]
   }
 ]
