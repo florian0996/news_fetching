@@ -214140,5 +214140,125 @@
       "Industry",
       "Private-Credit"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-28/pakistan-gets-initial-imf-approval-for-1-2-billion-of-loans",
+    "title": "Pakistan Gets Initial IMF Approval for $1.2 Billion of Loans",
+    "fetched_on": "2026-03-28T08:41:51.362317+00:00",
+    "content": "Pakistan reached an initial agreement with the International Monetary Fund to unlock about $1.2 billion from a $7 billion bailout program, as geopolitical risks from the conflict in the Middle East threaten to upend its economic recovery.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "Pakistan",
+      "Initial",
+      "IMF",
+      "Approval",
+      "Loans",
+      "International",
+      "Monetary",
+      "Fund",
+      "Middle"
+    ]
+  },
+  {
+    "source": "RTE [NewsAPI]",
+    "url": "https://www.rte.ie/news/business/2026/0327/1565464-consumer-creditunion/",
+    "title": "Consumer sentiment sank in March – Credit Union index",
+    "fetched_on": "2026-03-28T08:41:50.146829+00:00",
+    "content": "Irish consumer sentiment fell to its weakest level in three years, according to the Credit Union consumer sentiment index March.\r\nA survey of 1,000 adults conducted by Core Research \"paints a picture… [+1926 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "Credit",
+      "Union",
+      "Consumer",
+      "sentiment",
+      "Irish",
+      "index",
+      "years",
+      "Research",
+      "sank"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/funding/ai-led-lending-platform-uncia-raises-3-million-from-pavestone-to-scale-up-expand-overseas/articleshow/129842279.cms",
+    "title": "AI-led lending platform Uncia raises $3 million from Pavestone to scale up, expand overseas",
+    "fetched_on": "2026-03-28T08:41:50.146829+00:00",
+    "content": "AI-native lending technology platform Uncia has raised $3 million (around Rs 25 crore) from venture capital firm Pavestone, as it looks to accelerate domestic growth and expand into global markets.Th… [+1862 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Uncia",
+      "crore",
+      "chars",
+      "Pavestone",
+      "million",
+      "platform",
+      "AI-led",
+      "raises",
+      "raised",
+      "markets.Th"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/tracker_posts/pay-laters-next-chapter-why-credit-unions-are-rethinking-installment-payments/",
+    "title": "Pay Later’s Next Chapter: Why Credit Unions Are Rethinking Installment Payments",
+    "fetched_on": "2026-03-28T08:41:50.146829+00:00",
+    "content": "Buy now, pay later (BNPL) has rapidly evolved from a niche payment option into a routine part of everyday spending. As installment tools expand across discretionary purchases and household essentials… [+12365 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BNPL",
+      "Pay",
+      "Chapter",
+      "Credit",
+      "Unions",
+      "Rethinking",
+      "Buy",
+      "spending",
+      "Installment",
+      "Payments"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515",
+    "title": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House",
+    "fetched_on": "2026-03-28T08:41:50.146829+00:00",
+    "content": "Amid Prime Minister Mark Carneys calls that the Canada-U.S. relationship is ruptured, Ottawa has committed $175 million to a mining project in northern Quebec whose major U.S. investor is closely lin… [+14272 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Ottawa",
+      "mining",
+      "project",
+      "Nunavik",
+      "Trump",
+      "White",
+      "House",
+      "Amid",
+      "Prime"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/economy/policy/articles/gen-z-credit-scores-cratering-171630455.html",
+    "title": "Gen Z’s credit scores are cratering—and Trump’s student loan crackdown is the biggest reason why",
+    "fetched_on": "2026-03-28T08:42:04.505968+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "Gen",
+      "cratering",
+      "credit",
+      "scores",
+      "student",
+      "loan",
+      "crackdown",
+      "biggest",
+      "reason"
+    ]
   }
 ]
