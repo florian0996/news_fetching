@@ -216066,5 +216066,25 @@
       "Offered",
       "Caused"
     ]
+  },
+  {
+    "source": "Hurriyet Daily News [NewsAPI]",
+    "url": "https://www.hurriyetdailynews.com/war-driven-oil-shock-pushes-up-loan-rate-expectations-in-turkiye-220405",
+    "title": "War-driven oil shock pushes up loan rate expectations in Türkiye",
+    "fetched_on": "2026-03-29T09:39:32.539668+00:00",
+    "content": "ISTANBUL\r\nThe war centered on Iran has begun to reshape borrowing costs in Türkiye, with banking sources saying some lenders are preparing to raise commercial loan rates by 5 to 6 percentage points f… [+2087 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Türkiye",
+      "chars",
+      "loan",
+      "ISTANBUL",
+      "Iran",
+      "War-driven",
+      "percentage",
+      "oil",
+      "shock",
+      "pushes"
+    ]
   }
 ]
