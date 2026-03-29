@@ -216743,5 +216743,30 @@
       "required",
       "bonus"
     ]
+  },
+  {
+    "source": "Top Stories [RSS]",
+    "url": "https://finance.yahoo.com/markets/options/articles/many-personal-loans-once-202148929.html",
+    "title": "How many personal loans can you have at once?",
+    "fetched_on": "2026-03-29T20:36:18.758312+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "personal",
+      "loans"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/markets/options/articles/car-collateral-loan-160951029.html",
+    "title": "Can I use my car as collateral for a loan?",
+    "fetched_on": "2026-03-29T20:36:19.174260+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loan",
+      "car",
+      "collateral"
+    ]
   }
 ]
