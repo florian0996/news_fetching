@@ -216405,5 +216405,85 @@
       "chars",
       "DUIs"
     ]
+  },
+  {
+    "source": "CNBC [NewsAPI]",
+    "url": "https://www.cnbc.com/2026/03/28/the-mistake-people-make-when-talking-about-money-with-their-partner.html",
+    "title": "Expecting to fight about money with your partner? You might be wrong, study finds",
+    "fetched_on": "2026-03-29T14:39:39.471764+00:00",
+    "content": "Senior couple having coffee in front of suburban home\r\nFor many couples, money is a source of stress: They might be facing credit card debt or student loans, trying to buy a house, or figuring out ch… [+3791 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Expecting",
+      "partner",
+      "chars",
+      "money",
+      "fight",
+      "Senior",
+      "wrong",
+      "study",
+      "stress",
+      "loans"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/who-is-carolyn-bessette-mother-ann-freeman-5508482/",
+    "title": "Who Is Carolyn Bessette’s Mother? About Ann Freeman",
+    "fetched_on": "2026-03-29T14:39:39.471764+00:00",
+    "content": "Image Credit: Getty Images\r\nAnn Freeman has largely stayed out of the public eye for decadesbut renewed interest in her daughter Carolyn Bessette-Kennedy has brought her back into the spotlight. Foll… [+2608 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mother",
+      "Bessette",
+      "Carolyn",
+      "Ann",
+      "Freeman",
+      "Credit",
+      "Getty",
+      "Foll",
+      "chars",
+      "Image"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/?p=821502&preview=true&preview_id=821502",
+    "title": "Critical Disney World Ticket Option Disappears at 3 Parks; Guests Caught off Guard",
+    "fetched_on": "2026-03-29T14:39:39.471764+00:00",
+    "content": "Disney World’s spring break season has barely arrived, but guests are already being hit with lockouts and blockouts.\r\nHere’s everything you need to know.\r\nCredit: Inside The Magic\r\nDisney World Sprin… [+5138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Parks",
+      "Guests",
+      "Disney",
+      "World",
+      "Ticket",
+      "Option",
+      "Disappears",
+      "Caught",
+      "Guard",
+      "Critical"
+    ]
+  },
+  {
+    "source": "Creative Bloq [NewsAPI]",
+    "url": "https://www.creativebloq.com/entertainment/gaming/basketball-classics-switch-review-it-feels-like-an-nes-throwback-in-a-good-way",
+    "title": "Basketball Classics (Switch) review: it feels like an NES throwback, in a good way",
+    "fetched_on": "2026-03-29T14:39:39.471764+00:00",
+    "content": "Why you can trust Creative Bloq\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.\r\n(Image credit: Accl… [+4040 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Switch",
+      "Classics",
+      "review",
+      "NES",
+      "Creative",
+      "Bloq",
+      "Basketball",
+      "throwback",
+      "feels",
+      "good"
+    ]
   }
 ]
