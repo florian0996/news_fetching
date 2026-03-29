@@ -216106,5 +216106,65 @@
       "chars",
       "person"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_745aab53-673a-49e2-a639-b856cf648d6d",
+    "title": "My ex opened a credit card using our son's Social Security number and he's now been denied student loans. What now?",
+    "fetched_on": "2026-03-29T11:31:29.285896+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Social",
+      "Security",
+      "loans",
+      "opened",
+      "credit",
+      "card",
+      "son",
+      "number",
+      "denied",
+      "student"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/03/harry-potter-film-actors-could-return-for-deathly-hallows-ending-in-hbo-series-dr1/",
+    "title": "‘Harry Potter’ Film Trio Could Return for ‘Deathly Hallows’ Ending in HBO Series",
+    "fetched_on": "2026-03-29T11:31:29.285896+00:00",
+    "content": "The brand-new wizarding world has finally been unveiled in the first official trailer for HBO’s Harry Potter television series, which is now set to premiere this Christmas.\r\nCredit: HBO\r\nHarry Potter… [+5367 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Deathly",
+      "Christmas",
+      "Harry",
+      "Series",
+      "HBO",
+      "Potter",
+      "Potter’",
+      "Film",
+      "Trio",
+      "Return"
+    ]
+  },
+  {
+    "source": "Geeky Gadgets [NewsAPI]",
+    "url": "https://www.geeky-gadgets.com/credit-card-technology-2026/",
+    "title": "The Secret Espionage Tech Hidden Inside Your Credit Card",
+    "fetched_on": "2026-03-29T11:31:29.285896+00:00",
+    "content": "Credit cards are more than just convenient payment methods, theyre a culmination of decades of technological innovation, some of which have surprising origins. As Veritasium explores, the magnetic st… [+7207 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Secret",
+      "Espionage",
+      "Tech",
+      "Hidden",
+      "Inside",
+      "Card",
+      "cards",
+      "methods",
+      "theyre"
+    ]
   }
 ]
