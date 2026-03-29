@@ -216086,5 +216086,25 @@
       "shock",
       "pushes"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/news/international/us/why-some-people-take-credit-for-what-you-created/articleshow/129862783.cms",
+    "title": "Why Some People Take Credit for What You Created",
+    "fetched_on": "2026-03-29T10:36:24.426522+00:00",
+    "content": "You expressed an idea in a meeting, which was acknowledged and then forgotten. The idea re-emerges days later, this time expressed confidently by another person. The difference is subtle, but the ori… [+2692 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "People",
+      "Credit",
+      "Created",
+      "meeting",
+      "forgotten",
+      "expressed",
+      "idea",
+      "acknowledged",
+      "chars",
+      "person"
+    ]
   }
 ]
