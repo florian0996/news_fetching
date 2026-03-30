@@ -217134,5 +217134,45 @@
       "deutscher",
       "bei"
     ]
+  },
+  {
+    "source": "Newsonjapan.com [NewsAPI]",
+    "url": "https://newsonjapan.com/article/148758.php",
+    "title": "Concerns Rise Over Excessive AI Investment and Private Credit Risk",
+    "fetched_on": "2026-03-30T07:45:15.701756+00:00",
+    "content": "TOKYO, Mar 29 (News On Japan) -\r\n A growing private credit market tied to the AI boom is emerging as a hidden source of concern for investors, with commentators on TV Tokyo's financial program Mornin… [+6224 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mar",
+      "chars",
+      "Japan",
+      "Mornin",
+      "Private",
+      "Credit",
+      "TOKYO",
+      "Rise",
+      "Excessive",
+      "Investment"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/technology/everything-from-iphones-playstation5-to-your-netflix-subscription-is-about-to-get-a-lot-more-expensive-10607343/",
+    "title": "Everything from iPhones and PlayStations to your Netflix subscription is about to get a lot more expensive",
+    "fetched_on": "2026-03-30T07:45:15.701756+00:00",
+    "content": "If you are an average working individual whether you live in India, the US, or the UK, its no secret that you are already burdened by the high cost of living and possibly credit card debt. Things are… [+6621 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "India",
+      "Netflix",
+      "debt",
+      "iPhones",
+      "PlayStations",
+      "subscription",
+      "lot",
+      "expensive",
+      "average",
+      "working"
+    ]
   }
 ]
