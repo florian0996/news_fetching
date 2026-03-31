@@ -218475,5 +218475,145 @@
       "interest",
       "purchases"
     ]
+  },
+  {
+    "source": "Bloomberg – Economics [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-30/australia-to-ban-credit-debit-card-surcharges-in-hit-to-banks",
+    "title": "Australia to Ban Credit, Debit Card Surcharges in Hit to Banks",
+    "fetched_on": "2026-03-31T02:35:00.555568+00:00",
+    "content": "The Reserve Bank of Australia won’t allow surcharges on debit and credit cards from October, a move that will hit banks’ revenue and bring the country in line with peers in Europe and the UK.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "October",
+      "Australia",
+      "Credit",
+      "Debit",
+      "Surcharges",
+      "Hit",
+      "Ban",
+      "Reserve",
+      "Europe",
+      "Banks"
+    ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/politics/trump-wants-to-take-the-oil-from-iran-admits-troops-would-have-to-deploy-to-kharg-island-for-a-while/",
+    "title": "Trump Wants to ‘Take the Oil’ From Iran, Admits Troops Would Have to Deploy to Kharg Island for ‘A While’",
+    "fetched_on": "2026-03-31T02:34:59.367565+00:00",
+    "content": "(Photo Credit: Mark Schiefelbein for AP)\r\nPresident Donald Trump said his preference is to “take the oil” from Iran despite whatever gripes his critics would have about it during an interview with th… [+2504 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Iran",
+      "Trump",
+      "Admits",
+      "While’",
+      "Photo",
+      "Credit",
+      "Mark",
+      "President",
+      "chars",
+      "Oil’"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/companies/us-treasury-to-consult-with-insurance-regulators-on-private-credit-lenders-sources-say-11774830917693.html",
+    "title": "US Treasury to consult with insurance regulators on private credit lenders, sources say",
+    "fetched_on": "2026-03-31T02:34:59.367565+00:00",
+    "content": "* US Treasury plans meetings with insurance regulators, seeks details on leverage, liquidity\r\n* Consultations come as private credit lenders strained by asset quality, liquidity concerns\r\n* Bessent s… [+3138 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Treasury",
+      "chars",
+      "Consultations",
+      "Bessent",
+      "insurance",
+      "credit",
+      "liquidity",
+      "regulators",
+      "private",
+      "lenders"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/microfinance-sector-back-on-track-with-higher-value-loans/articleshow/129886638.cms",
+    "title": "Microfinance sector back on track with higher-value loans",
+    "fetched_on": "2026-03-31T02:34:59.367565+00:00",
+    "content": "Kolkata: The microfinance market recorded a month-on-month growth in gross loan portfolio in February, with large lenders increasing loan disbursements to customers with robust track record.The secto… [+2367 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kolkata",
+      "February",
+      "chars",
+      "Microfinance",
+      "track",
+      "growth",
+      "secto",
+      "loan",
+      "sector",
+      "back"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/microfinance-sector-back-on-track-with-higher-value-loans/articleshow/129889417.cms",
+    "title": "Microfinance sector back on track with higher-value loans",
+    "fetched_on": "2026-03-31T02:34:59.367565+00:00",
+    "content": "Kolkata: The microfinance market recorded a month-on-month growth in gross loan portfolio in February, with large lenders increasing loan disbursements to customers with robust track record.The secto… [+2365 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kolkata",
+      "February",
+      "chars",
+      "Microfinance",
+      "track",
+      "growth",
+      "secto",
+      "loan",
+      "sector",
+      "back"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-00959-1",
+    "title": "Quantum simulations verified by experiments for the first time",
+    "fetched_on": "2026-03-31T02:34:59.367565+00:00",
+    "content": "Neutron-scattering experiments that helped to verify the quantum predictions were carried out at Oak Ridge National Laboratory, Tennessee. Credit: Oak Ridge National Laboratory\r\nThe hope for quantum … [+4101 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tennessee",
+      "Ridge",
+      "National",
+      "Oak",
+      "Laboratory",
+      "Neutron-scattering",
+      "experiments",
+      "Quantum",
+      "simulations",
+      "verified"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-01010-z",
+    "title": "Anthony Leggett obituary: physicist who brought quantum theory to the macro world",
+    "fetched_on": "2026-03-31T02:34:59.367565+00:00",
+    "content": "Credit: L. Brian Stauffer, University of Illinois Urbana-Champaign\r\nOriginally educated as a philosopher, Anthony (Tony) Leggett later switched to theoretical condensed-matter physics, and rapidly ma… [+3002 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tony",
+      "Anthony",
+      "chars",
+      "Credit",
+      "Stauffer",
+      "University",
+      "Leggett",
+      "Brian",
+      "Illinois",
+      "Originally"
+    ]
   }
 ]
