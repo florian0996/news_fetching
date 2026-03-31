@@ -222250,5 +222250,85 @@
       "UPDATE",
       "T-shirt"
     ]
+  },
+  {
+    "source": "ABC News (AU) [NewsAPI]",
+    "url": "https://www.abc.net.au/news/2026-03-31/rba-surcharges-debit-credit-new-reforms-october-2026/106500064",
+    "title": "Surcharges on debit and credit cards to go from October",
+    "fetched_on": "2026-03-31T23:36:31.063233+00:00",
+    "content": "The Reserve Bank of Australia has introduced reforms that will remove surcharges on debit, prepaid and credit cards, on card networks including eftpos, Mastercard and Visa. \r\nThe ban is expected to s… [+4962 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mastercard",
+      "Visa",
+      "credit",
+      "October",
+      "Reserve",
+      "Bank",
+      "Australia",
+      "Surcharges",
+      "debit",
+      "cards"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2026/03/30/nyt-strands-answers-tuesday-march-31/",
+    "title": "NYT Strands Answers Today: Hints & Clues For Tuesday, March 31 (For A Rainy Day)",
+    "fetched_on": "2026-03-31T23:36:31.063233+00:00",
+    "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nIts the last day of March, Strandistarians, and we have words to uncover before April arrives. Lets solve todays NYT Strands!\r\nLooking f… [+1711 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "March",
+      "NYT",
+      "Strandistarians",
+      "Strands",
+      "Clues",
+      "Tuesday",
+      "Credit",
+      "Answers",
+      "Hints",
+      "Day"
+    ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/dodgers/252140/unexpected-dodgers-pitcher-named-secret-weapon-for-2026/",
+    "title": "Unexpected Dodgers Pitcher Named ‘Secret Weapon’ for 2026",
+    "fetched_on": "2026-03-31T23:36:31.063233+00:00",
+    "content": "Mar 26, 2026; Los Angeles, California, USA; Los Angeles Dodgers pitcher Will Klein (61) throws a pitch against the Arizona Diamondbacks during the eighth inning at Dodger Stadium. Mandatory Credit: K… [+1970 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Los",
+      "Angeles",
+      "Mar",
+      "California",
+      "USA",
+      "Dodgers",
+      "Pitcher",
+      "Named",
+      "Secret",
+      "Klein"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2026/03/30/arc-raiders-flashpoint-update-release-time-new-content/",
+    "title": "Here’s When The ‘Arc Raiders’ Flashpoint Update Goes Live With New Guns, New Arc Enemies And More",
+    "fetched_on": "2026-03-31T23:36:31.063233+00:00",
+    "content": "Credit: Embark Studios\r\nThe next big Arc Raiders update is almost here and some exciting new content is on the way for the denizens of Speranza. New guns for the first time in ages, a powerful new Ar… [+6063 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Arc",
+      "Update",
+      "Credit",
+      "Embark",
+      "Speranza",
+      "Raiders’",
+      "Flashpoint",
+      "Live",
+      "Enemies",
+      "Studios"
+    ]
   }
 ]
