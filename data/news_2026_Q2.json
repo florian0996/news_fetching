@@ -1096,5 +1096,618 @@
       "credit",
       "cards"
     ]
+  },
+  {
+    "source": "CryptoSlate [NewsAPI]",
+    "url": "https://cryptoslate.com/2b-ftx-payouts-begins-today-bitcoin-liquidity-test/",
+    "title": "Bitcoin has to survive a new major liquidity test today as $2.2B hits the market on top of geopolitical pressure",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "FTX will begin its fourth creditor distribution on March 31, with about $2.2 billion set to reach eligible customers through BitGo, Kraken, and Payoneer within 1 to 3 business days.\r\nOn paper, this m… [+4672 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kraken",
+      "March",
+      "FTX",
+      "Payoneer",
+      "Bitcoin",
+      "hits",
+      "billion",
+      "BitGo",
+      "business",
+      "days"
+    ]
+  },
+  {
+    "source": "The American Prospect [NewsAPI]",
+    "url": "http://prospect.org/2026/03/31/scams-consumer-protection-cfpb-bilt-credit-cards/",
+    "title": "When Consumer Protection Stops, Scammers Run Amok",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "A fintech credit card called Bilt, sold as an easy way to pay rent and promising hefty rewards, is the subject of hundreds of complaints to the Consumer Financial Protection Bureau (CFPB). Among othe… [+11417 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "CFPB",
+      "Consumer",
+      "Protection",
+      "Stops",
+      "Scammers",
+      "Bilt",
+      "Bureau",
+      "Run",
+      "Amok",
+      "Financial"
+    ]
+  },
+  {
+    "source": "Deadline [NewsAPI]",
+    "url": "http://deadline.com/2026/03/uk-film-tv-fund-allegro-2-6-million-capital-facility-1236769715/",
+    "title": "UK Film & TV Fund Allegro Finance Secures $2.6M Working Capital Facility",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "London-based film and TV lending platform Allegro Finance has secured a £2 million ($2.6M) working capital facility from Beechbrook Capital, through funds managed on behalf of the British Business Ba… [+2161 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Working",
+      "Capital",
+      "Allegro",
+      "Finance",
+      "Facility",
+      "Secures",
+      "million",
+      "chars",
+      "Film",
+      "London-based"
+    ]
+  },
+  {
+    "source": "Luxurydaily.com [NewsAPI]",
+    "url": "https://www.luxurydaily.com/launching-the-nyc-edit-ebay-takes-advice-from-fashions-inner-circle/",
+    "title": "Launching ‘The NYC Edit,’ eBay takes advice from fashion’s inner circle",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "Retail\r\nMarch 31, 2026\r\n The NYC Edit is available at ebay.com/nycedit. Image credit: eBay \r\n By Amirah Keaton\r\nOnline retail platform eBay is bringing the habits of New York Citys fashion set to the… [+5945 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "NYC",
+      "Edit",
+      "March",
+      "Launching",
+      "nycedit",
+      "Retail",
+      "eBay",
+      "ebay.com",
+      "fashion",
+      "advice"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/aziz-ansari-shuts-the-door-on-master-of-none-season-4-id-probably-just-do-a-different-show/",
+    "title": "Aziz Ansari Shuts the Door on Master of None Season 4: “I’d Probably Just Do a Different Show”",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "Picture Credit: Netflix\r\nIf youve been holding out hope for another culinary and romantic adventure with Dev Shah, it might be time to officially hang up your pasta maker. Aziz Ansari has confirmed w… [+2931 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Season",
+      "Show",
+      "Picture",
+      "Credit",
+      "Netflix",
+      "Shah",
+      "Aziz",
+      "Ansari",
+      "Shuts",
+      "Door"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/government/publications/secretary-of-state-determination-under-regulation-5-of-the-universal-credit-surpluses-and-self-employed-losses-digital-service-amendment-regulatio--2",
+    "title": "Decision: Secretary of State Determination under Regulation 5 of the Universal Credit (Surpluses and Self-Employed Losses) (Digital Service) Amendment Regulations 2015 [2026 determination]",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "We use some essential cookies to make this website work.\r\nWed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\r\nWe also use coo… [+70 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Secretary",
+      "Credit",
+      "Surpluses",
+      "Losses",
+      "Digital",
+      "Amendment",
+      "Regulation",
+      "Regulations",
+      "Determination",
+      "Decision"
+    ]
+  },
+  {
+    "source": "Livemint [NewsAPI]",
+    "url": "https://www.livemint.com/industry/nbfcs-to-see-steady-credit-demand-despite-us-iran-war-11774939400694.html",
+    "title": "NBFCs to see steady credit demand despite US-Iran war",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "Shaji Varghese, chief executive officer of Muthoot Fincorp, said that of Indias 60 million small businesses, only 2030% have access to credit, underscoring the critical role NBFCs play in bridging th… [+2144 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Varghese",
+      "Fincorp",
+      "Indias",
+      "Shaji",
+      "Muthoot",
+      "chief",
+      "million",
+      "businesses",
+      "underscoring"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/partnerships/2026/credit-unions-want-fintechs-on-speed-dial/",
+    "title": "Credit Unions Want FinTechs on Speed Dial",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "FinTech partnerships with credit unions rose nearly 20% last year, even as similar arrangements with large banks fell sharply, indicating a reallocation of effort toward institutions that can move mo… [+3205 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Unions",
+      "Speed",
+      "Dial",
+      "Credit",
+      "year",
+      "sharply",
+      "indicating",
+      "partnerships",
+      "rose"
+    ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/92727/liverpool-must-pay-e100m-to-sign-potential-mohamed-salah-replacement.html",
+    "title": "Liverpool must pay €100m to sign potential Mohamed Salah replacement",
+    "fetched_on": "2026-04-01T09:07:25.536311+00:00",
+    "content": "Liverpools forward planning ahead of a post Mohamed Salah era has taken a significant turn, with fresh developments emerging around Yan Diomande. Credit must go to Sky Germany for reporting the lates… [+4245 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mohamed",
+      "Salah",
+      "Diomande",
+      "Yan",
+      "pay",
+      "turn",
+      "Liverpool",
+      "Liverpools",
+      "chars",
+      "sign"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
+    "title": "Best credit cards with no annual fee for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560720+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "credit",
+      "cards",
+      "annual",
+      "fee"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-to-build-credit-193812135.html",
+    "title": "Best credit cards to build credit for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560694+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "credit",
+      "cards",
+      "build"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-gas-234013440.html",
+    "title": "Best credit cards for gas for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560889+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "credit",
+      "cards",
+      "gas"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-202825345.html",
+    "title": "The best credit cards for April: See our picks for the top cash-back, rewards, travel cards, and more",
+    "fetched_on": "2026-04-01T09:07:40.560624+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "rewards",
+      "April",
+      "cash-back",
+      "travel",
+      "cards",
+      "credit",
+      "picks",
+      "top"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-streaming-185209431.html",
+    "title": "Best credit cards with streaming perks for April 2026: Save on Netflix, Hulu, and more",
+    "fetched_on": "2026-04-01T09:07:40.560685+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Hulu",
+      "April",
+      "Save",
+      "Netflix",
+      "credit",
+      "cards",
+      "streaming",
+      "perks"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-cash-back-credit-cards-182338292.html",
+    "title": "The best cash-back credit cards for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560849+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "cash-back",
+      "credit",
+      "cards"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-walmart-182948137.html",
+    "title": "Best credit cards for shopping at Walmart (April 2026)",
+    "fetched_on": "2026-04-01T09:07:40.560842+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Walmart",
+      "credit",
+      "cards",
+      "shopping"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/the-best-student-credit-card-235405006.html",
+    "title": "Best student credit cards for April 2026: Start building credit with rewards on spending",
+    "fetched_on": "2026-04-01T09:07:40.560677+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Start",
+      "spending",
+      "credit",
+      "student",
+      "cards",
+      "building",
+      "rewards"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-no-foreign-transaction-fees-234302581.html",
+    "title": "Best credit cards with no foreign transaction fees in April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560736+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "credit",
+      "cards",
+      "foreign",
+      "transaction",
+      "fees"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-rewards-credit-cards-172941111.html",
+    "title": "Best rewards credit cards for April 2026: Maximize your everyday spending",
+    "fetched_on": "2026-04-01T09:07:40.560752+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Maximize",
+      "spending",
+      "rewards",
+      "credit",
+      "cards",
+      "everyday"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-restaurants-154321852.html",
+    "title": "Best credit cards for restaurants for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560815+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "credit",
+      "cards",
+      "restaurants"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-target-225114661.html",
+    "title": "Best credit cards for shopping at Target (April 2026)",
+    "fetched_on": "2026-04-01T09:07:40.560834+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Target",
+      "credit",
+      "cards",
+      "shopping"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-entertainment-credits-161159655.html",
+    "title": "Best credit cards to save money on sports, concerts, and more in April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560728+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "concerts",
+      "April",
+      "sports",
+      "credit",
+      "cards",
+      "save",
+      "money"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-signup-welcome-bonus-offers-180435497.html",
+    "title": "Best credit card sign-up bonuses and welcome offers for April 2026 — Enjoy boosted first-year credit card rewards",
+    "fetched_on": "2026-04-01T09:07:40.560857+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Enjoy",
+      "credit",
+      "card",
+      "rewards",
+      "sign-up",
+      "bonuses",
+      "offers",
+      "boosted",
+      "first-year"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-wedding-expenses-001947317.html",
+    "title": "Best credit cards for wedding expenses (April 2026)",
+    "fetched_on": "2026-04-01T09:07:40.560712+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "expenses",
+      "credit",
+      "cards",
+      "wedding"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-discover-credit-cards-191129586.html",
+    "title": "Best Discover credit cards for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560760+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Discover",
+      "credit",
+      "cards"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html",
+    "title": "The best credit cards for Airbnb rentals in April 2026: Earn points and cash back for your stay",
+    "fetched_on": "2026-04-01T09:07:40.560634+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Earn",
+      "Airbnb",
+      "stay",
+      "credit",
+      "cards",
+      "rentals",
+      "points",
+      "cash",
+      "back"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-home-improvement-214525388.html",
+    "title": "Best credit cards for home improvement in April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560799+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "credit",
+      "cards",
+      "home",
+      "improvement"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-disney-credit-card-173118356.html",
+    "title": "Best credit cards for Disney vacations in April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560881+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Disney",
+      "credit",
+      "cards",
+      "vacations"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-secured-credit-cards-171300343.html",
+    "title": "Best secured credit cards for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560776+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "secured",
+      "credit",
+      "cards"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/the-best-0-apr-credit-cards-for-april-2026-avoid-paying-interest-for-up-to-24-months-on-purchases-and-balance-transfers-181718625.html",
+    "title": "The best 0% APR credit cards for April 2026: Avoid paying interest for up to 24 months on purchases and balance transfers",
+    "fetched_on": "2026-04-01T09:07:40.560643+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "APR",
+      "April",
+      "Avoid",
+      "months",
+      "transfers",
+      "credit",
+      "cards",
+      "paying",
+      "interest",
+      "purchases"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-hotels-184659649.html",
+    "title": "Best hotel credit cards for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560768+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "hotel",
+      "credit",
+      "cards"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html",
+    "title": "Best credit cards for shopping on Amazon for April 2026: Boost your Amazon purchases with valuable rewards",
+    "fetched_on": "2026-04-01T09:07:40.560807+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Boost",
+      "Amazon",
+      "rewards",
+      "credit",
+      "cards",
+      "shopping",
+      "purchases",
+      "valuable"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://www.barrons.com/articles/guggenheims-anne-walsh-sees-private-credit-concerns-as-noise-c64f49e5?siteid=yhoof2&yptr=yahoo",
+    "title": "Guggenheim’s Anne Walsh Sees Private Credit Concerns as Noise",
+    "fetched_on": "2026-04-01T09:07:40.560605+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Noise",
+      "Anne",
+      "Walsh",
+      "Private",
+      "Credit",
+      "Concerns",
+      "Guggenheim"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-balance-transfer-credit-cards-123841213.html",
+    "title": "The best balance transfer credit cards for April 2026: Don't pay any interest until 2027",
+    "fetched_on": "2026-04-01T09:07:40.560651+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "balance",
+      "transfer",
+      "credit",
+      "cards",
+      "pay",
+      "interest"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-chase-credit-card-173042163.html",
+    "title": "Best Chase credit cards for April 2026",
+    "fetched_on": "2026-04-01T09:07:40.560873+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Chase",
+      "credit",
+      "cards"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-groceries-175714926.html",
+    "title": "Best credit cards for groceries (April 2026)",
+    "fetched_on": "2026-04-01T09:07:40.560897+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "groceries",
+      "credit",
+      "cards"
+    ]
   }
 ]
