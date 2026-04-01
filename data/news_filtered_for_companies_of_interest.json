@@ -1,6 +1,24 @@
 {
-  "2026-03-31": {
+  "2026-04-01": {
     "status": "no company in the news"
+  },
+  "2026-03-31": {
+    "articles": [
+      {
+        "title": "FW: Blackstone? The Hedge Fund Manager??",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: Are Algae Securities Fraud?",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      }
+    ]
   },
   "2026-03-30": {
     "articles": [
