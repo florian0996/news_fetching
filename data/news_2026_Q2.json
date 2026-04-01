@@ -3875,5 +3875,121 @@
       "consolidation",
       "loan"
     ]
+  },
+  {
+    "source": "EurekAlert [NewsAPI]",
+    "url": "https://www.eurekalert.org/news-releases/1122224",
+    "title": "Biochar from peanut shells boosts soil health and crop quality over the long term",
+    "fetched_on": "2026-04-01T22:39:31.226588+00:00",
+    "content": "image: Long-term peanut shell biochar application improves soil fertility and bacterial network stability across tobacco-growing regions in China\r\nview more \r\nCredit: Zhuzhu Liao, Peiyan Li, Xianjie … [+5180 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Xianjie",
+      "chars",
+      "Long-term",
+      "Credit",
+      "Zhuzhu",
+      "Liao",
+      "Peiyan",
+      "China",
+      "peanut",
+      "image"
+    ]
+  },
+  {
+    "source": "Africasacountry.com [NewsAPI]",
+    "url": "https://africasacountry.com/2026/03/could-expanding-protected-land-undermine-biodiversity/",
+    "title": "Could expanding protected land undermine biodiversity?",
+    "fetched_on": "2026-04-01T22:39:31.226588+00:00",
+    "content": "Paradoxically, conservation efforts in Liberia and Senegal are threatening native ecology.Gambia River in the Niokolo Koba National Park, Tambacounda, Senegal. Image credit Victor Suarez Naranjo via … [+12472 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Tambacounda",
+      "biodiversity",
+      "Senegal",
+      "Park",
+      "Paradoxically",
+      "expanding",
+      "protected",
+      "land",
+      "undermine",
+      "chars"
+    ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/dodgers/252200/gavin-stone-inching-closer-to-return-after-spring-training-setback/",
+    "title": "Gavin Stone Inching Closer to Return After Spring Training Setback",
+    "fetched_on": "2026-04-01T22:39:31.226588+00:00",
+    "content": "Feb 24, 2026; Phoenix, Arizona, USA; Los Angeles Dodgers pitcher Gavin Stone against the Cleveland Guardians during a spring training game at Camelback Ranch-Glendale. Mandatory Credit: Mark J. Rebil… [+1626 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Phoenix",
+      "Arizona",
+      "USA",
+      "Stone",
+      "Feb",
+      "Los",
+      "Gavin",
+      "Spring",
+      "Training",
+      "Inching"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/the-trade-desk/",
+    "title": "The Trade Desk",
+    "fetched_on": "2026-04-01T22:39:31.226588+00:00",
+    "content": "Credit: Sam Navarro-Imagn Images\r\nTrades are the lifeblood of fantasy baseball home leagues. The conversations around them help keep us connected, engaged, and make our league more fun. Striking deal… [+11031 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Sam",
+      "Desk",
+      "Images",
+      "Trade",
+      "Trades",
+      "Navarro-Imagn",
+      "lifeblood",
+      "fantasy",
+      "baseball"
+    ]
+  },
+  {
+    "source": "Investing.com (English) [RSS]",
+    "url": "https://www.investing.com/news/stock-market-news/kkr-caps-redemptions-at-one-of-its-private-credit-funds-4594410",
+    "title": "KKR caps redemptions at one of its private credit funds",
+    "fetched_on": "2026-04-01T22:39:41.253600+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "KKR",
+      "funds",
+      "caps",
+      "redemptions",
+      "private",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/news/jpmorgans-jamie-dimon-plans-small-business-lending-hiring-push-to-shore-up-american-dream-100044580.html",
+    "title": "JPMorgan's Jamie Dimon plans small business lending, hiring push to shore up American Dream",
+    "fetched_on": "2026-04-01T22:39:47.970479+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Dream",
+      "Jamie",
+      "Dimon",
+      "American",
+      "JPMorgan",
+      "lending",
+      "hiring",
+      "plans",
+      "small",
+      "business"
+    ]
   }
 ]
