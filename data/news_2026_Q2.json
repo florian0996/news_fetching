@@ -3991,5 +3991,65 @@
       "small",
       "business"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/globe-newswire/purpose-investments-inc-announces-2026-first-quarter-distributions-for-purpose-specialty-lending-trust",
+    "title": "Purpose Investments Inc. Announces 2026 First Quarter Distributions for Purpose Specialty Lending Trust",
+    "fetched_on": "2026-04-01T23:38:11.132854+00:00",
+    "content": "TORONTO, March 31, 2026 (GLOBE NEWSWIRE) Purpose Investments Inc. is pleased to announce the 2026 first-quarter distributions for Purpose Specialty Lending Trust.\r\nTHIS CONTENT IS RESERVED FOR SUBSCR… [+5031 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Purpose",
+      "Investments",
+      "Specialty",
+      "Lending",
+      "Trust",
+      "Distributions",
+      "March",
+      "TORONTO",
+      "GLOBE",
+      "NEWSWIRE"
+    ]
+  },
+  {
+    "source": "GlobeNewswire [NewsAPI]",
+    "url": "https://www.globenewswire.com/news-release/2026/03/31/3266228/0/en/Purpose-Investments-Inc-Announces-2026-First-Quarter-Distributions-for-Purpose-Specialty-Lending-Trust.html",
+    "title": "Purpose Investments Inc. Announces 2026 First Quarter Distributions for Purpose Specialty Lending Trust",
+    "fetched_on": "2026-04-01T23:38:11.132854+00:00",
+    "content": "TORONTO, March 31, 2026 (GLOBE NEWSWIRE) -- Purpose Investments Inc. is pleased to announce the 2026 first-quarter distributions for Purpose Specialty Lending Trust.\r\n<table><tr><td> </td><td>Ticker … [+2820 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Purpose",
+      "Investments",
+      "Specialty",
+      "Lending",
+      "Trust",
+      "Distributions",
+      "March",
+      "TORONTO",
+      "GLOBE",
+      "NEWSWIRE"
+    ]
+  },
+  {
+    "source": "Forbes [NewsAPI]",
+    "url": "https://www.forbes.com/sites/erikkain/2026/03/31/nyt-strands-answers-wednesday-april-1/",
+    "title": "NYT Strands Answers Today: Hints & Clues For Wednesday, April 1 (Don’t Make A Peep)",
+    "fetched_on": "2026-04-01T23:38:11.132854+00:00",
+    "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nApril 1 is also April Fools Day, also known as the worst day to be online because even though its hard to believe half the stuff we read… [+1962 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "NYT",
+      "Strands",
+      "Today",
+      "Clues",
+      "Wednesday",
+      "Peep",
+      "Credit",
+      "chars",
+      "Answers"
+    ]
   }
 ]
