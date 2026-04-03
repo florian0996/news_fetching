@@ -7616,5 +7616,102 @@
       "SANDY",
       "GLOBE"
     ]
+  },
+  {
+    "source": "Neatorama.com [NewsAPI]",
+    "url": "https://www.neatorama.com/2026/04/01/A-Gallery-of-Cute-Cats-Who-Got-Themselves-Into-Tight-Spots/",
+    "title": "A Gallery of Cute Cats Who Got Themselves Into Tight Spots",
+    "fetched_on": "2026-04-03T02:32:39.980783+00:00",
+    "content": "(Image credit: MissHissss) \r\nCat lovers know that house cats can be very particular about a Place To Exist. They can turn themselves into liquid in order to fit in some small and often forbidden spot… [+615 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Image",
+      "Exist",
+      "Cats",
+      "MissHissss",
+      "Gallery",
+      "Cute",
+      "Tight",
+      "Place",
+      "credit",
+      "Cat"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/tech/you-cant-spread-your-energy-like-peanut-butter-tim-cook-shares-rare-insight-into-apples-ruthless-approach-to-new-ideas",
+    "title": "‘You can’t spread your energy like peanut butter’: Tim Cook shares rare insight into Apple’s ‘ruthless’ approach to new ideas — and it says a lot about what to expect (or not) from the company moving forward",
+    "fetched_on": "2026-04-03T02:32:39.980783+00:00",
+    "content": "(Image credit: Future)\r\nWe're celebrating Apple's 50th birthday with a week of content about the tech giant. It covers everything from personal recollections from our writers to the greatest — and wo… [+4693 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Future",
+      "Apple",
+      "Tim",
+      "Image",
+      "Cook",
+      "butter’",
+      "ruthless’",
+      "ideas",
+      "expect",
+      "forward"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-01054-1",
+    "title": "‘It’s a real shock’: quantum-computing breakthroughs pose imminent risks to cybersecurity",
+    "fetched_on": "2026-04-03T02:32:39.980783+00:00",
+    "content": "Cloudflare is one of several cybersecurity companies now reassessing their timelines to provide protection against quantum hacking.Credit: Richard B. Levine/Alamy\r\nThe world could be caught off guard… [+3148 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Richard",
+      "Levine",
+      "Alamy",
+      "Cloudflare",
+      "shock’",
+      "quantum-computing",
+      "hacking.Credit",
+      "guard",
+      "cybersecurity"
+    ]
+  },
+  {
+    "source": "Nature.com [NewsAPI]",
+    "url": "https://www.nature.com/articles/d41586-026-01011-y",
+    "title": "‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools",
+    "fetched_on": "2026-04-03T02:32:39.980783+00:00",
+    "content": "Escherichia coli produce a diverse array of proteins to help protect them against bacteriophages (green). Credit: M. Maeder/Dept of Microbiology, Biozentrum/SPL\r\nBacteria have been fighting off virus… [+3403 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Treasure",
+      "green",
+      "Escherichia",
+      "proteins",
+      "bacteriophages",
+      "Biozentrum",
+      "trove’",
+      "antiviral",
+      "inspire",
+      "powerful"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-blunt-message-anyone-holding-143031254.html",
+    "title": "Cramer Has A Blunt Message For Anyone Holding Private Credit: 'Don't Get Dead!'",
+    "fetched_on": "2026-04-03T02:32:56.868966+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Dead",
+      "Blunt",
+      "Message",
+      "Holding",
+      "Private",
+      "Cramer"
+    ]
   }
 ]
