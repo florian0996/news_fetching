@@ -9830,5 +9830,45 @@
       "Framework",
       "Vance"
     ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/lakers/252346/lakers-face-reigning-nba-champions-amid-hot-streak/",
+    "title": "Lakers Face Reigning NBA Champions Amid Hot Streak",
+    "fetched_on": "2026-04-03T23:36:41.113157+00:00",
+    "content": "Los Angeles, California, USA; Los Angeles Lakers forward LeBron James (23) dunks in the second half against the Cleveland Cavaliers at Crypto.com Arena. Mandatory Credit: Jayne Kamin-Oncea-Imagn Imag… [+1663 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "California",
+      "USA",
+      "Los",
+      "Angeles",
+      "James",
+      "Arena",
+      "Lakers",
+      "Face",
+      "Reigning",
+      "NBA"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/04/02/the-raspberry-pi-4-with-3-gb-ram-is-no-joke/",
+    "title": "The Raspberry Pi 4 With 3 GB RAM is No Joke",
+    "fetched_on": "2026-04-03T23:36:41.113157+00:00",
+    "content": "Raspberry Pi 5 price increases. (Credit: Jeff Geerling)\r\nAlthough easily dismissed by some as another cruel April Fools joke, Raspberry Pi’s announcement of a new 3 GB model of the Raspberry Pi 4 alo… [+1323 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Raspberry",
+      "RAM",
+      "Joke",
+      "price",
+      "increases",
+      "Credit",
+      "Jeff",
+      "Geerling",
+      "April",
+      "Fools"
+    ]
   }
 ]
