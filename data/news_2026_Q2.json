@@ -7976,5 +7976,56 @@
       "review",
       "film"
     ]
+  },
+  {
+    "source": "YLE News [NewsAPI]",
+    "url": "https://yle.fi/a/74-20218748",
+    "title": "Bill payment defaults near record high in Finland",
+    "fetched_on": "2026-04-03T08:57:38.509052+00:00",
+    "content": "The number of people in Finland who habe defaulted on bill payments rose to 385,000 as of the end of March, according to credit rating agency Suomen Asiakastieto.\r\nThe latest figure reflected an incr… [+867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Finland",
+      "March",
+      "Asiakastieto",
+      "Bill",
+      "Suomen",
+      "payment",
+      "payments",
+      "defaults",
+      "record",
+      "high"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/economy/policy/articles/us-treasury-meet-insurance-regulators-224411305.html",
+    "title": "US Treasury to meet with insurance regulators to discuss private credit markets",
+    "fetched_on": "2026-04-03T08:58:05.537506+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Treasury",
+      "markets",
+      "meet",
+      "insurance",
+      "regulators",
+      "discuss",
+      "private",
+      "credit"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-va-loan-lenders-182919054.html",
+    "title": "The best VA loan lenders of April 2026",
+    "fetched_on": "2026-04-03T08:58:05.537611+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "loan",
+      "lenders"
+    ]
   }
 ]
