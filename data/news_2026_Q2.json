@@ -11718,5 +11718,25 @@
       "Mastercard",
       "chars"
     ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/lakers/252390/lakers-star-injured-just-before-playoffs-is-out-indefinitely/",
+    "title": "Lakers Star Injured Just Before Playoffs is ‘Out Indefinitely’",
+    "fetched_on": "2026-04-04T22:32:35.443729+00:00",
+    "content": "Los Angeles, California, USA; Los Angeles Lakers guard Luka Doncic (77) smiles after a dunk in the final minutes of the game against the Cleveland Cavaliers at Crypto.com Arena. Mandatory Credit: Jay… [+2086 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Los",
+      "Angeles",
+      "California",
+      "USA",
+      "Doncic",
+      "Arena",
+      "Lakers",
+      "Star",
+      "Injured",
+      "Playoffs"
+    ]
   }
 ]
