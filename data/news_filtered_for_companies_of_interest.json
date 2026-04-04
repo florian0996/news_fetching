@@ -1,6 +1,17 @@
 {
-  "2026-04-03": {
+  "2026-04-04": {
     "status": "no company in the news"
+  },
+  "2026-04-03": {
+    "articles": [
+      {
+        "title": "📊 Onzekere markten: waarom maken mozzeno-Notes het verschil?",
+        "url": null,
+        "platforms_mentioned": [
+          "Mozzeno"
+        ]
+      }
+    ]
   },
   "2026-04-02": {
     "articles": [
