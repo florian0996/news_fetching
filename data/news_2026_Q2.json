@@ -10204,5 +10204,45 @@
       "loan",
       "lenders"
     ]
+  },
+  {
+    "source": "Financial Post [NewsAPI]",
+    "url": "https://financialpost.com/pmn/business-pmn/ex-credit-suisse-economist-quits-rate-panel-to-become-thai-vice-finance-minister",
+    "title": "Ex-Credit Suisse Economist Quits Rate Panel to Become Thai Vice Finance Minister",
+    "fetched_on": "2026-04-04T05:58:36.464790+00:00",
+    "content": "(Bloomberg) Santitarn Sathirathai, a former economist at Credit Suisse Group AG, has quit as a member of the Bank of Thailands Monetary Policy Committee to join Prime Minister Anutin Charnvirakuls ne… [+3884 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bloomberg",
+      "chars",
+      "Santitarn",
+      "Sathirathai",
+      "Suisse",
+      "Minister",
+      "Economist",
+      "Rate",
+      "Panel",
+      "Thai"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-architecture-of-resilience-why-indias-private-credit-stands-apart/articleshow/129994601.cms",
+    "title": "The architecture of resilience: Why India’s private credit stands apart",
+    "fetched_on": "2026-04-04T05:58:36.464790+00:00",
+    "content": "Globally, the private credit market has entered a phase of heightened uncertainty. This has occurred as the sector is increasingly being exposed to vulnerabilities in leveraged credit structures in d… [+4923 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Globally",
+      "India",
+      "private",
+      "credit",
+      "resilience",
+      "uncertainty",
+      "architecture",
+      "stands",
+      "market",
+      "entered"
+    ]
   }
 ]
