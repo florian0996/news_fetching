@@ -11698,5 +11698,25 @@
       "pull",
       "money"
     ]
+  },
+  {
+    "source": "BGR [NewsAPI]",
+    "url": "https://www.bgr.com/2135032/what-does-credit-card-rfid-chip-store/",
+    "title": "Does Your Credit Card Chip Store Your Purchase History?",
+    "fetched_on": "2026-04-04T21:34:26.392259+00:00",
+    "content": "Credit card chips have been in modern cards for a while now, and are a security feature used for authentication, as Mastercard ditched the magnetic stripe completely years ago. But to make it all wor… [+1407 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "History",
+      "Store",
+      "Purchase",
+      "Credit",
+      "Card",
+      "Chip",
+      "chips",
+      "cards",
+      "Mastercard",
+      "chars"
+    ]
   }
 ]
