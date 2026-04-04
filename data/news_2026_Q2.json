@@ -10244,5 +10244,65 @@
       "market",
       "entered"
     ]
+  },
+  {
+    "source": "Acast.com [NewsAPI]",
+    "url": "https://shows.acast.com/whatnext-tbd-tech-power-and-the-future/episodes/why-everyone-is-freaking-out-about-private-credit",
+    "title": "What Next: TBD | Tech, power, and the future - Why Everyone Is Freaking Out About Private Credit",
+    "fetched_on": "2026-04-04T07:12:22.344195+00:00",
+    "content": "In the wake of the 2008 financial crisis, private credit or shadow banking grew as an alternative to the regulations and shared risk that institutional banks operate within. What happens if a crisis … [+519 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "TBD",
+      "Tech",
+      "Private",
+      "Credit",
+      "Freaking",
+      "power",
+      "crisis",
+      "future",
+      "financial",
+      "wake"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/shadow-bank-blue-owl-caps-021700097.html",
+    "title": "Shadow bank Blue Owl caps private credit redemptions after investors try to pull $5.4 billion",
+    "fetched_on": "2026-04-04T07:12:52.361487+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "billion",
+      "Blue",
+      "Owl",
+      "Shadow",
+      "pull",
+      "bank",
+      "caps",
+      "private",
+      "credit",
+      "redemptions"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-lowers-carlyle-group-inc-003600096.html",
+    "title": "BMO Lowers The Carlyle Group Inc. (CG) PT Amid Rising BDC Redemptions and Credit Strains",
+    "fetched_on": "2026-04-04T07:12:52.361558+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "BMO",
+      "Lowers",
+      "Carlyle",
+      "Group",
+      "Strains",
+      "Amid",
+      "Rising",
+      "BDC",
+      "Redemptions",
+      "Credit"
+    ]
   }
 ]
