@@ -11138,5 +11138,45 @@
       "quarter-final",
       "Permission"
     ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2026/04/03/dr-harrison-lee-the-surgeon-behind-some-of-hollywoods-most-talked-about-transformations/",
+    "title": "Dr. Harrison Lee: The Surgeon Behind Some of Hollywood’s Most Talked-About Transformations",
+    "fetched_on": "2026-04-04T16:38:18.653020+00:00",
+    "content": "Image Credit: Dr. Harrison Lee\r\nDr. Harrison Lee has built a reputation for natural-looking results, and his Instagram following shows it. \r\nIn conversations around celebrity transformations in Holly… [+5867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Harrison",
+      "Lee",
+      "Credit",
+      "Surgeon",
+      "Hollywood",
+      "Image",
+      "Instagram",
+      "Transformations",
+      "results",
+      "Holly"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/are-stricter-rules-holding-back-fintech-startups-qed-investors-nigel-morris-weighs-in/articleshow/130004953.cms",
+    "title": "Are stricter rules holding back fintech startups? QED Investors' Nigel Morris weighs in",
+    "fetched_on": "2026-04-04T16:38:18.653020+00:00",
+    "content": "Regulatory tightening in Indias fintech sector has created near-term challenges for startups, particularly in the early stage, QED Investors co-founder and managing partner Nigel Morristold ET during… [+1416 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "QED",
+      "startups",
+      "Nigel",
+      "fintech",
+      "stricter",
+      "rules",
+      "holding",
+      "back",
+      "chars",
+      "Investors'"
+    ]
   }
 ]
