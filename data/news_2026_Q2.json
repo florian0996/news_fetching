@@ -10938,5 +10938,105 @@
       "years",
       "chars"
     ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/cpex-pii-filter/",
+    "title": "cpex-pii-filter added to PyPI",
+    "fetched_on": "2026-04-04T14:39:53.819778+00:00",
+    "content": "High-performance PII detection and masking library for ContextForge.\r\nFeatures\r\n<ul><li>Detects 12+ PII types (SSN, email, credit cards, phone numbers, and more)</li><li>Built-in detectors default to… [+8110 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "High-performance",
+      "PII",
+      "added",
+      "ContextForge",
+      "Detects",
+      "SSN",
+      "PyPI",
+      "detection",
+      "masking",
+      "library"
+    ]
+  },
+  {
+    "source": "Fangraphs.com [NewsAPI]",
+    "url": "https://fantasy.fangraphs.com/ottoneu-starting-pitching-planner-april-6-12/",
+    "title": "Ottoneu Starting Pitching Planner: April 6–12",
+    "fetched_on": "2026-04-04T14:39:53.819778+00:00",
+    "content": "Credit: Jay Biggerstaff-Imagn Images\r\nWelcome back to the Ottoneu Starting Pitching Planner. Based on the Roster Resource Probables Grid, Ive organized every starter slated to start next week into fo… [+6475 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Planner",
+      "Starting",
+      "Pitching",
+      "April",
+      "Credit",
+      "Jay",
+      "Ottoneu",
+      "Images",
+      "Grid",
+      "Ive"
+    ]
+  },
+  {
+    "source": "What's on Netflix [NewsAPI]",
+    "url": "https://www.whats-on-netflix.com/news/the-gentlemen-season-2-everything-we-know-so-far-04-2026/",
+    "title": "The Gentlemen Season 2: Expected Netflix Release Date & Everything We Know So Far",
+    "fetched_on": "2026-04-04T14:39:53.819778+00:00",
+    "content": "Picture Credit: Netflix\r\nGuy Ritchie’s first foray into television was a big hit for Netflix. After months of speculation following the launch of season 1, the series was renewed for season 2 in Augu… [+17314 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Netflix",
+      "Expected",
+      "Date",
+      "Credit",
+      "Season",
+      "Gentlemen",
+      "Release",
+      "Picture",
+      "Guy",
+      "Ritchie"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a0bfb0aa-03de-409b-8725-1e1c2b3b410c",
+    "title": "Blue Owl falls after capping withdrawals in two private credit funds",
+    "fetched_on": "2026-04-04T14:39:53.819778+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "Owl",
+      "IAB",
+      "Blue",
+      "click"
+    ]
+  },
+  {
+    "source": "Newser [NewsAPI]",
+    "url": "https://www.newser.com/story/386638/boom-for-new-kings-of-wall-street-may-be-peaking.html",
+    "title": "Boom for 'New Kings of Wall Street' May Be Peaking",
+    "fetched_on": "2026-04-04T14:39:53.819778+00:00",
+    "content": "The wave of redemption requests—seen at the likes of Blue Owl Capital, Apollo, Blackstone, BlackRock, and Cliffwater—is stirring questions about whether private credit's long boom is peaking. The rus… [+531 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Apollo",
+      "Blackstone",
+      "Street",
+      "Capital",
+      "Cliffwater",
+      "Peaking",
+      "BlackRock",
+      "Kings",
+      "Wall",
+      "Blue"
+    ]
   }
 ]
