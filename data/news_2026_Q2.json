@@ -12452,5 +12452,45 @@
       "Guns",
       "Begs"
     ]
+  },
+  {
+    "source": "Livefromalounge.com [NewsAPI]",
+    "url": "https://livefromalounge.com/hdfc-bank-mid-tier-credit-cards-changes-2026/",
+    "title": "Changes coming to HDFC Bank’s mid-tier credit cards: BizPower, Diners Club Privilege and Regalia Gold. Some Good, Some Very Good.",
+    "fetched_on": "2026-04-05T21:34:46.456921+00:00",
+    "content": "HDFC Bank has long been the largest credit card issuer in India and a pioneer in developing HNI credit card products in India. They also became the largest credit card issuer in India and have mainta… [+9544 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Diners",
+      "Gold",
+      "India",
+      "Club",
+      "Privilege",
+      "Regalia",
+      "Good",
+      "credit",
+      "HDFC",
+      "Bank"
+    ]
+  },
+  {
+    "source": "Pypi.org [NewsAPI]",
+    "url": "https://pypi.org/project/langchain-signalfuse/",
+    "title": "langchain-signalfuse added to PyPI",
+    "fetched_on": "2026-04-05T21:34:46.456921+00:00",
+    "content": "LangChain tools for the SignalFuse crypto trading signal API.\r\nInstall\r\npipinstalllangchain-signalfuse\r\nUsage\r\nfromlangchain_signalfuseimportSignalFuseTool,MacroRegimeTooltools=[SignalFuseTool(credit… [+641 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "API",
+      "signalfuseimportSignalFuseTool,MacroRegimeTooltools",
+      "SignalFuseTool",
+      "credit",
+      "chars",
+      "langchain-signalfuse",
+      "added",
+      "PyPI",
+      "LangChain",
+      "tools"
+    ]
   }
 ]
