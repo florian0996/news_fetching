@@ -12532,5 +12532,45 @@
       "Marin",
       "Women"
     ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/2026/04/04/is-donald-trump-at-walter-reed-hospital/",
+    "title": "Is Donald Trump at Walter Reed Hospital Today? Rumors Explained",
+    "fetched_on": "2026-04-05T23:36:31.422372+00:00",
+    "content": "Image Credit: Getty Images\r\nDonald Trump is almost 80 years old, and his health has become a nationwide topic since his 2025 medical diagnosis with chronic venous insufficiency. On April 4, 2026, the… [+2677 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Today",
+      "Donald",
+      "Trump",
+      "Walter",
+      "Reed",
+      "Hospital",
+      "Credit",
+      "Getty",
+      "April",
+      "Explained"
+    ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/04/04/exposing-a-radiation-hardened-2-4-ghz-wi-fi-receiver-to-500-kilograys/",
+    "title": "Exposing a Radiation-Hardened 2.4 GHz Wi-Fi Receiver to 500 Kilograys",
+    "fetched_on": "2026-04-05T23:36:31.422372+00:00",
+    "content": "Exposing the Wi-Fi chip to gamma radiation. (Credit: Yasuto Narukiyo et al, 2026)\r\nFrom outer space to down here on Earth, there are many places where ionizing radiation levels are high enough that t… [+1943 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kilograys",
+      "Exposing",
+      "Receiver",
+      "Wi-Fi",
+      "Radiation-Hardened",
+      "GHz",
+      "Credit",
+      "radiation",
+      "chip",
+      "gamma"
+    ]
   }
 ]
