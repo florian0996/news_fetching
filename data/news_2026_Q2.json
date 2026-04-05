@@ -12492,5 +12492,45 @@
       "LangChain",
       "tools"
     ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/lakers/252443/lakers-lose-austin-reaves-to-injury-in-second-major-injury-blow/",
+    "title": "Lakers Lose Austin Reaves to Injury in Second Major Injury Blow",
+    "fetched_on": "2026-04-05T22:34:05.955229+00:00",
+    "content": "Oklahoma City, Oklahoma, USA; Los Angeles Lakers guard Austin Reaves (15) shoots a three point basket against the Oklahoma City Thunder during the first quarter at Paycom Center. Mandatory Credit: Al… [+1689 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Oklahoma",
+      "Austin",
+      "Reaves",
+      "City",
+      "USA",
+      "Injury",
+      "Los",
+      "Center",
+      "Lakers",
+      "Lose"
+    ]
+  },
+  {
+    "source": "The Augusta Chronicle [NewsAPI]",
+    "url": "https://www.augustachronicle.com/story/sports/pga/2026/04/04/maria-jose-marin-wins-anwa-2026-miracle-shot-golden-bell/89469893007/",
+    "title": "Maria Jose Marin wins 2026 Augusta National Women's Amateur",
+    "fetched_on": "2026-04-05T22:34:05.955229+00:00",
+    "content": "Apr 13, 2025; Augusta, Georgia, USA; Patrons walk along on the 15th green during the final round of the Masters Tournament at Augusta National Golf Club. Mandatory Credit: Peter Casey-Imagn Images\r\nA… [+5211 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Augusta",
+      "National",
+      "Georgia",
+      "USA",
+      "Apr",
+      "Patrons",
+      "Club",
+      "Jose",
+      "Marin",
+      "Women"
+    ]
   }
 ]
