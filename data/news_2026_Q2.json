@@ -11798,5 +11798,45 @@
       "Credit",
       "’ll"
     ]
+  },
+  {
+    "source": "Hackaday [NewsAPI]",
+    "url": "https://hackaday.com/2026/04/03/reverse-engineering-a-handheld-car-tire-pressure-gauge/",
+    "title": "Reverse-Engineering a Handheld Car Tire Pressure Gauge",
+    "fetched_on": "2026-04-05T02:40:33.835628+00:00",
+    "content": "The SDIC 8-bit MCU. (Credit: electronupdate, YouTube)\r\nIn this wonderful world of MEMS technology, sensor technology has been downsized and reduced in cost to the point where you can buy a car tire p… [+1245 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "MCU",
+      "SDIC",
+      "Handheld",
+      "Pressure",
+      "Gauge",
+      "Credit",
+      "Car",
+      "Tire",
+      "Reverse-Engineering",
+      "electronupdate"
+    ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/lakers/252394/how-the-lakers-can-survive-without-luka-doncic/",
+    "title": "How the Lakers Can Survive Without Luka Doncic",
+    "fetched_on": "2026-04-05T02:40:33.835628+00:00",
+    "content": "Los Angeles Lakers guard Luka Doncic (77) hops to the side of the court during a play against the Oklahoma City Thunder during the second half at Paycom Center. Mandatory Credit: Alonzo Adams-Imagn I… [+2087 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Luka",
+      "Doncic",
+      "Lakers",
+      "Center",
+      "Survive",
+      "Los",
+      "Angeles",
+      "Oklahoma",
+      "City",
+      "Thunder"
+    ]
   }
 ]
