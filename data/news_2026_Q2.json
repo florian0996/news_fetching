@@ -12055,5 +12055,45 @@
       "rates",
       "thing"
     ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/hdfc-bank-reports-12-credit-growth-deposits-rise-144-in-march-quarter/article70823073.ece",
+    "title": "HDFC Bank reports 12% credit growth, deposits rise 14.4% in March quarter",
+    "fetched_on": "2026-04-05T11:32:26.679421+00:00",
+    "content": "The country's second-largest lender HDFC Bank on Saturday reported a 12 per cent credit growth to Rs 29.6 lakh crore for the March quarter.\r\nIts total advances were Rs 26.43 lakh crore at the end of … [+2149 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "Bank",
+      "March",
+      "lakh",
+      "Saturday",
+      "credit",
+      "growth",
+      "quarter",
+      "reports",
+      "deposits"
+    ]
+  },
+  {
+    "source": "9to5Toys [NewsAPI]",
+    "url": "http://9to5toys.com/2026/04/04/amazon-400-off-unlocked-galaxy-z-fold-7/",
+    "title": "Amazon now offering a major $400 discount on unlocked Galaxy Z Fold 7",
+    "fetched_on": "2026-04-05T11:32:26.679421+00:00",
+    "content": "There are still some notable bundle options and $150 in FREE credit live on Galaxy S26 models right now straight from Samsung, but Amazon is now offering a giant $400 off the Jet Black Galaxy Z Fold … [+1286 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Fold",
+      "Galaxy",
+      "Samsung",
+      "offering",
+      "chars",
+      "Amazon",
+      "FREE",
+      "Jet",
+      "Black",
+      "major"
+    ]
   }
 ]
