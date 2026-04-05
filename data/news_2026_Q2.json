@@ -11938,5 +11938,83 @@
       "bills",
       "cycle"
     ]
+  },
+  {
+    "source": "Business Insider [NewsAPI]",
+    "url": "https://www.businessinsider.com/art-investment-wealthy-jpmorgan-director-buyers-investing-paintings-luxury-auctions-2026-4",
+    "title": "Art investment is booming for the ultra-wealthy. But JPMorgan sees a few caveats for aspiring buyers.",
+    "fetched_on": "2026-04-05T09:40:58.485295+00:00",
+    "content": "After a couple of down years, the luxury-art market is coming back for ultra-wealth investors.\r\nAlexandra Levitt Reach, a senior lending specialist at JPMorgan Private Bank, told BI that her firm's a… [+2495 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Art",
+      "ultra-wealthy",
+      "investment",
+      "booming",
+      "JPMorgan",
+      "Reach",
+      "Bank",
+      "buyers",
+      "Levitt",
+      "Private"
+    ]
+  },
+  {
+    "source": "Goodereader [NewsAPI]",
+    "url": "https://goodereader.com/blog/electronic-readers/xteink-x3-is-a-small-e-reader-that-is-the-same-size-as-a-credit-card",
+    "title": "Xteink X3 is a small e-reader that is the same size as a credit card",
+    "fetched_on": "2026-04-05T09:40:58.485295+00:00",
+    "content": "Xteink X4 generated a ton of buzz last year due to its low cost. Why is this e-reader so popular? You can buy it for $69, which is in impulse-buy territory. Some users are unhappy with the limited nu… [+1792 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Xteink",
+      "generated",
+      "cost",
+      "e-reader",
+      "small",
+      "size",
+      "credit",
+      "card",
+      "ton",
+      "buzz"
+    ]
+  },
+  {
+    "source": "CBC News [NewsAPI]",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-centre-for-craft-design-billy-maclellan-bette-macdonald-460-club-9.7151936",
+    "title": "Cape Breton Centre for Craft & Design spoofs iconic film Ghost in fundraiser",
+    "fetched_on": "2026-04-05T09:40:58.485295+00:00",
+    "content": "A couple of Cape Breton celebrities are lending their talents to a fundraising campaign for an island arts institution.\r\nThe Cape Breton Centre for Craft &amp; Design is trying to raise $46,000 to ma… [+1327 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Breton",
+      "Craft",
+      "Centre",
+      "Design",
+      "Cape",
+      "Ghost",
+      "institution",
+      "spoofs",
+      "iconic",
+      "film"
+    ]
+  },
+  {
+    "source": "News Index [RSS]",
+    "url": "https://www.barrons.com/articles/private-credit-funds-face-higher-financing-costs-in-bond-market-8aff4f45?siteid=yhoof2&yptr=yahoo",
+    "title": "Private-Credit Funds Face Higher Financing Costs in Bond Market. Here’s Why.",
+    "fetched_on": "2026-04-05T09:41:27.573719+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Market",
+      "Funds",
+      "Face",
+      "Higher",
+      "Financing",
+      "Costs",
+      "Bond",
+      "Private-Credit"
+    ]
   }
 ]
