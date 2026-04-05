@@ -11898,5 +11898,45 @@
       "Initiative",
       "Banking"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-logs-higher-deposit-growth-than-gross-loan-expansion/articleshow/130015752.cms",
+    "title": "AU Small Finance Bank logs higher deposit growth than gross loan expansion",
+    "fetched_on": "2026-04-05T08:47:22.223008+00:00",
+    "content": "Kolkata: AU Small Finance Bank's deposit growth outpaced its gross loan portfolio expansion, bucking an industry trend.The bank on Saturday reported a 22.8% year-on-year deposit growth to Rs 1.53 lak… [+859 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Small",
+      "Finance",
+      "Bank",
+      "Kolkata",
+      "deposit",
+      "growth",
+      "lak",
+      "chars",
+      "Saturday",
+      "gross"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/economy/policy/articles/record-breaking-number-americans-t-101500046.html",
+    "title": "A record-breaking number of Americans can’t pay their credit card bills in full. Here’s how you can break the debt cycle",
+    "fetched_on": "2026-04-05T08:47:52.002027+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Americans",
+      "full",
+      "record-breaking",
+      "number",
+      "n’t",
+      "pay",
+      "credit",
+      "card",
+      "bills",
+      "cycle"
+    ]
   }
 ]
