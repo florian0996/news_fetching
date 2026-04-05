@@ -12312,5 +12312,25 @@
       "match",
       "tourer"
     ]
+  },
+  {
+    "source": "English Premier League Index - Opta Stats [NewsAPI]",
+    "url": "https://eplindex.com/144872/report-newcastle-united-ready-to-join-the-race-to-sign-man-city-defender.html",
+    "title": "Report: Newcastle United ready to join the race to sign Man City defender",
+    "fetched_on": "2026-04-05T15:35:58.302556+00:00",
+    "content": "Credit to SportsBoom for breaking a story that carries real Premier League intrigue, Nathan Aké could soon find himself at the centre of a compelling summer tug of war. The Dutch international, once … [+3150 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Newcastle",
+      "Nathan",
+      "Report",
+      "United",
+      "Man",
+      "City",
+      "Credit",
+      "Premier",
+      "League",
+      "Aké"
+    ]
   }
 ]
