@@ -11838,5 +11838,45 @@
       "City",
       "Thunder"
     ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pnb-union-idfc-bank-see-credit-outpace-deposit-growth/articleshow/130012210.cms",
+    "title": "PNB, Union & IDFC Bank see credit outpace deposit growth",
+    "fetched_on": "2026-04-05T05:14:01.778095+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "PNB",
+      "Union",
+      "IDFC",
+      "Bank",
+      "EMI",
+      "loan",
+      "credit",
+      "outpace",
+      "deposit",
+      "growth"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/microfinance-replaces-informal-credit-report/articleshow/130012113.cms",
+    "title": "Microfinance replaces informal credit: Report",
+    "fetched_on": "2026-04-05T05:14:01.778095+00:00",
+    "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Report",
+      "EMI",
+      "Microfinance",
+      "credit",
+      "loan",
+      "replaces",
+      "informal",
+      "CalculatorDetermine",
+      "monthly",
+      "installment"
+    ]
   }
 ]
