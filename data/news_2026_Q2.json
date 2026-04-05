@@ -11878,5 +11878,25 @@
       "monthly",
       "installment"
     ]
+  },
+  {
+    "source": "The Daily Hodl [NewsAPI]",
+    "url": "https://dailyhodl.com/2026/04/04/jpmorgan-chase-lending-80000000000-to-small-businesses-in-american-dream-initiative/",
+    "title": "JPMorgan Chase Lending $80,000,000,000 to Small Businesses in ‘American Dream’ Initiative",
+    "fetched_on": "2026-04-05T07:10:28.328136+00:00",
+    "content": "Banking giant JPMorgan Chase is committing tens of billions of dollars in new lending to small businesses as part of a broader effort to expand access to capital and support economic growth in the US… [+1979 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chase",
+      "Small",
+      "Businesses",
+      "American",
+      "Lending",
+      "chars",
+      "JPMorgan",
+      "Dream’",
+      "Initiative",
+      "Banking"
+    ]
   }
 ]

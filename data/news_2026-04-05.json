@@ -1,10 +1,10 @@
 [
   {
-    "source": "Bloomberg – Markets [RSS]",
+    "source": "Bloomberg \u2013 Markets [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-04-04/pakistan-says-it-will-repay-matured-loan-deposits-to-uae",
     "title": "Pakistan Says It Will Repay Matured Loan Deposits to UAE",
-    "fetched_on": "2026-04-05T05:14:02.458298+00:00",
-    "content": "Pakistan will return matured loan deposits to the United Arab Emirates, in a move that will strain the South Asian nation’s reserves.",
+    "fetched_on": "2026-04-05T07:10:28.894869+00:00",
+    "content": "Pakistan will return matured loan deposits to the United Arab Emirates, in a move that will strain the South Asian nation\u2019s reserves.",
     "platforms_mentioned": [],
     "keywords": [
       "Loan",
@@ -20,11 +20,11 @@
     ]
   },
   {
-    "source": "Bloomberg – Economics [RSS]",
+    "source": "Bloomberg \u2013 Economics [RSS]",
     "url": "https://www.bloomberg.com/news/articles/2026-04-04/france-to-offer-loans-to-small-businesses-hit-by-fuel-costs",
     "title": "France to Offer Loans to Small Businesses Hit by Fuel Costs",
-    "fetched_on": "2026-04-05T05:14:03.308119+00:00",
-    "content": "The French government will offer loans of as much as €50,000 ($57,600) to small businesses that are the most exposed to rising fuel costs in transportation, fishing and agriculture.",
+    "fetched_on": "2026-04-05T07:10:29.725882+00:00",
+    "content": "The French government will offer loans of as much as \u20ac50,000 ($57,600) to small businesses that are the most exposed to rising fuel costs in transportation, fishing and agriculture.",
     "platforms_mentioned": [],
     "keywords": [
       "Small",
@@ -43,8 +43,8 @@
     "source": "Hackaday [NewsAPI]",
     "url": "https://hackaday.com/2026/04/03/reverse-engineering-a-handheld-car-tire-pressure-gauge/",
     "title": "Reverse-Engineering a Handheld Car Tire Pressure Gauge",
-    "fetched_on": "2026-04-05T05:14:01.778095+00:00",
-    "content": "The SDIC 8-bit MCU. (Credit: electronupdate, YouTube) In this wonderful world of MEMS technology, sensor technology has been downsized and reduced in cost to the point where you can buy a car tire p... [+1245 chars]",
+    "fetched_on": "2026-04-05T07:10:28.328136+00:00",
+    "content": "The SDIC 8-bit MCU. (Credit: electronupdate, YouTube)\r\nIn this wonderful world of MEMS technology, sensor technology has been downsized and reduced in cost to the point where you can buy a car tire p\u2026 [+1245 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "MCU",
@@ -124,7 +124,7 @@
     "url": "https://frequentmiler.com/credit-card-collectibles-frequent-miler-on-the-air-ep352-4-3-26/",
     "title": "Credit Card Collectibles | Frequent Miler on the Air Ep352 | 4-3-26",
     "fetched_on": "2026-04-05T02:40:33.835628+00:00",
-    "content": "In this episode, we’ll talk about how United credit cards make United miles more valuable, how Southwest discount codes make Southwest points more valuable, and we’ll take you on a ride through a cla... [+3004 chars]",
+    "content": "In this episode, we\u2019ll talk about how United credit cards make United miles more valuable, how Southwest discount codes make Southwest points more valuable, and we\u2019ll take you on a ride through a cla... [+3004 chars]",
     "platforms_mentioned": [],
     "keywords": [
       "valuable",
@@ -136,13 +136,13 @@
       "Southwest",
       "Miler",
       "Credit",
-      "’ll"
+      "\u2019ll"
     ]
   },
   {
     "source": "Lasportsreport.com [NewsAPI]",
     "url": "https://lasportsreport.com/lakers/252390/lakers-star-injured-just-before-playoffs-is-out-indefinitely/",
-    "title": "Lakers Star Injured Just Before Playoffs is ‘Out Indefinitely’",
+    "title": "Lakers Star Injured Just Before Playoffs is \u2018Out Indefinitely\u2019",
     "fetched_on": "2026-04-05T02:40:33.835628+00:00",
     "content": "Los Angeles, California, USA; Los Angeles Lakers guard Luka Doncic (77) smiles after a dunk in the final minutes of the game against the Cleveland Cavaliers at Crypto.com Arena. Mandatory Credit: Jay... [+2086 chars]",
     "platforms_mentioned": [],
@@ -160,10 +160,10 @@
     ]
   },
   {
-    "source": "Crunchbase News – Seed Funding [Scrape]",
+    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/",
-    "title": "Exclusive: Miravoice, Builder Of An AI ‘Interviewer’ To Conduct Phone Surveys, Raises $6.3M",
-    "fetched_on": "2026-04-05T05:14:25.837603+00:00",
+    "title": "Exclusive: Miravoice, Builder Of An AI \u2018Interviewer\u2019 To Conduct Phone Surveys, Raises $6.3M",
+    "fetched_on": "2026-04-05T07:10:40.800198+00:00",
     "content": "Miravoice, a startup using AI voice agents to conduct long-form phone surveys, has raised $6.3 million in a seed funding round, the company tells Crunchbase News exclusively.",
     "platforms_mentioned": [],
     "keywords": [
@@ -172,7 +172,7 @@
       "Raises",
       "Exclusive",
       "Builder",
-      "Interviewer’",
+      "Interviewer\u2019",
       "Conduct",
       "Phone",
       "Crunchbase",
@@ -180,10 +180,10 @@
     ]
   },
   {
-    "source": "Crunchbase News – Seed Funding [Scrape]",
+    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/data-largest-seed-rounds-ai-startups/",
     "title": "The Largest Recent Seed Rounds Are All For AI Companies",
-    "fetched_on": "2026-04-05T05:14:26.003289+00:00",
+    "fetched_on": "2026-04-05T07:10:40.946856+00:00",
     "content": "A majority of top seed funding recipients in the past six months operate at the intersection of AI and the physical world. Using Crunchbase data, we take a look at some of the sector's biggest seed rounds in recent months.",
     "platforms_mentioned": [],
     "keywords": [
@@ -200,11 +200,11 @@
     ]
   },
   {
-    "source": "Crunchbase News – Seed Funding [Scrape]",
+    "source": "Crunchbase News \u2013 Seed Funding [Scrape]",
     "url": "https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/",
-    "title": "Seed Funding Hasn’t Stalled, But It’s Skewing Larger And Is More Competitive Than Ever, Crunchbase Data Shows",
-    "fetched_on": "2026-04-05T05:14:26.179666+00:00",
-    "content": "Among U.S. seed funding deals, it’s only the upper bands of larger and outlier seed rounds - those $10 million and above - that grew in 2025, Crunchbase data shows.",
+    "title": "Seed Funding Hasn\u2019t Stalled, But It\u2019s Skewing Larger And Is More Competitive Than Ever, Crunchbase Data Shows",
+    "fetched_on": "2026-04-05T07:10:41.102441+00:00",
+    "content": "Among U.S. seed funding deals, it\u2019s only the upper bands of larger and outlier seed rounds \u2014 those $10 million and above \u2014 that grew in 2025, Crunchbase data shows.",
     "platforms_mentioned": [],
     "keywords": [
       "Crunchbase",
@@ -222,9 +222,9 @@
   {
     "source": "CNBC Technology [RSS]",
     "url": "https://www.cnbc.com/2026/03/18/fed-march-rate-decision.html",
-    "title": "Fed holds interest rates steady - here’s what that means for consumers",
-    "fetched_on": "2026-04-05T05:14:28.514571+00:00",
-    "content": "From mortgage rates to auto loans and credit cards, here’s a look at how the Fed's March interest rate decision may affect your finances.",
+    "title": "Fed holds interest rates steady \u2014 here\u2019s what that means for consumers",
+    "fetched_on": "2026-04-05T07:10:43.033747+00:00",
+    "content": "From mortgage rates to auto loans and credit cards, here\u2019s a look at how the Fed's March interest rate decision may affect your finances.",
     "platforms_mentioned": [],
     "keywords": [
       "Fed",
@@ -243,7 +243,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html",
     "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
-    "fetched_on": "2026-04-05T05:14:28.748740+00:00",
+    "fetched_on": "2026-04-05T07:10:43.169858+00:00",
     "content": "Blue Owl attributed the higher-than-usual requests to \"heightened market concerns around AI-related disruption to software companies.\"",
     "platforms_mentioned": [],
     "keywords": [
@@ -263,7 +263,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html",
     "title": "Private credit's cracks open door for Wall Street banks' comeback: 'The tug of war is just starting'",
-    "fetched_on": "2026-04-05T05:14:28.748871+00:00",
+    "fetched_on": "2026-04-05T07:10:43.169994+00:00",
     "content": "Wall Street banks may finally be getting a long-awaited opening to claw back market share from private credit lenders.",
     "platforms_mentioned": [],
     "keywords": [
@@ -283,7 +283,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html",
     "title": "Moody's cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow",
-    "fetched_on": "2026-04-05T05:14:28.748915+00:00",
+    "fetched_on": "2026-04-05T07:10:43.170037+00:00",
     "content": "The move by Moody's is the latest sign of distress in private credit; retail investors have been rushing to withdraw funds, from Blackstone to Apollo.",
     "platforms_mentioned": [],
     "keywords": [
@@ -303,7 +303,7 @@
     "source": "CNBC Finance [RSS]",
     "url": "https://www.cnbc.com/2026/03/23/apollo-private-credit-fund-gives-investors-only-45percent-of-requested-withdrawals.html",
     "title": "Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund",
-    "fetched_on": "2026-04-05T05:14:28.748922+00:00",
+    "fetched_on": "2026-04-05T07:10:43.170044+00:00",
     "content": "The withdrawals show that Apollo didn't avoid the rush of investor redemptions plaguing rivals, driven by concern over private credit loans to software firms.",
     "platforms_mentioned": [],
     "keywords": [
@@ -323,7 +323,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/04/01/student-loan-parent-plus-borrowers-deadline.html",
     "title": "Parents with student loans are running out of time to secure forgiveness and affordable payments",
-    "fetched_on": "2026-04-05T05:14:28.949015+00:00",
+    "fetched_on": "2026-04-05T07:10:43.302795+00:00",
     "content": "Parents with student debt still have time to consolidate their loans and preserve their access to affordable repayment plans and debt forgiveness.",
     "platforms_mentioned": [],
     "keywords": [
@@ -343,7 +343,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/31/boston-fed-credit-card-aprs-have-a-meaningful-impact-on-spending.html",
     "title": "Credit card APRs have an 'economically meaningful' impact on consumer spending, Boston Fed finds",
-    "fetched_on": "2026-04-05T05:14:28.949035+00:00",
+    "fetched_on": "2026-04-05T07:10:43.302816+00:00",
     "content": "When credit card rates go up, borrowers spend less on plastic, according to a research paper by the Federal Reserve Bank of Boston.",
     "platforms_mentioned": [],
     "keywords": [
@@ -363,7 +363,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/30/student-loan-borrowers-deadline-save.html",
     "title": "More than 7 million student loan borrowers face deadline to leave Biden-era repayment plan. What to know",
-    "fetched_on": "2026-04-05T05:14:28.949053+00:00",
+    "fetched_on": "2026-04-05T07:10:43.302831+00:00",
     "content": "Student loan borrowers will be removed from the Saving on a Valuable Education, or SAVE, plan, later this year, Trump officials said.",
     "platforms_mentioned": [],
     "keywords": [
@@ -383,7 +383,7 @@
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/25/sports-betting-credit-health-ny-fed.html",
     "title": "As March Madness unfolds, NY Fed highlights sports betting toll on consumer credit health",
-    "fetched_on": "2026-04-05T05:14:28.949128+00:00",
+    "fetched_on": "2026-04-05T07:10:43.302907+00:00",
     "content": "As sports gambling becomes more popular and less restricted, consumer credit health is suffering, according to a new report by the New York Fed.",
     "platforms_mentioned": [],
     "keywords": [
@@ -402,9 +402,9 @@
   {
     "source": "CNBC Personal Fin. [RSS]",
     "url": "https://www.cnbc.com/2026/03/24/student-loan-save-forbearance.html",
-    "title": "More than 7 million student loan borrowers are in a defunct payment plan - what that means for their money",
-    "fetched_on": "2026-04-05T05:14:28.949149+00:00",
-    "content": "Here's what student loan borrowers should know about the consequences of remaining in the SAVE forbearance - and what their other options are.",
+    "title": "More than 7 million student loan borrowers are in a defunct payment plan \u2014 what that means for their money",
+    "fetched_on": "2026-04-05T07:10:43.302928+00:00",
+    "content": "Here's what student loan borrowers should know about the consequences of remaining in the SAVE forbearance \u2014 and what their other options are.",
     "platforms_mentioned": [],
     "keywords": [
       "loan",
@@ -423,7 +423,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-perks-calendar-year-214541060.html",
     "title": "The complete list of credit card perks that reset each calendar year (2026)",
-    "fetched_on": "2026-04-05T05:14:29.663295+00:00",
+    "fetched_on": "2026-04-05T07:10:43.585794+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -441,7 +441,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pnb-union-idfc-bank-see-credit-outpace-deposit-growth/articleshow/130012210.cms",
     "title": "PNB, Union & IDFC Bank see credit outpace deposit growth",
-    "fetched_on": "2026-04-05T05:14:01.778095+00:00",
+    "fetched_on": "2026-04-05T07:10:28.328136+00:00",
     "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
     "platforms_mentioned": [],
     "keywords": [
@@ -461,7 +461,7 @@
     "source": "The Times of India [NewsAPI]",
     "url": "https://timesofindia.indiatimes.com/business/india-business/microfinance-replaces-informal-credit-report/articleshow/130012113.cms",
     "title": "Microfinance replaces informal credit: Report",
-    "fetched_on": "2026-04-05T05:14:01.778095+00:00",
+    "fetched_on": "2026-04-05T07:10:28.328136+00:00",
     "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
     "platforms_mentioned": [],
     "keywords": [
@@ -481,7 +481,7 @@
     "source": "All Finance [RSS]",
     "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-4-2026-100000113.html",
     "title": "HELOC and home equity loan rates Saturday, April 4, 2026: Low and tied to the prime",
-    "fetched_on": "2026-04-05T05:14:29.663337+00:00",
+    "fetched_on": "2026-04-05T07:10:43.585731+00:00",
     "content": "",
     "platforms_mentioned": [],
     "keywords": [
@@ -528,6 +528,26 @@
       "FHA",
       "loan",
       "lenders"
+    ]
+  },
+  {
+    "source": "The Daily Hodl [NewsAPI]",
+    "url": "https://dailyhodl.com/2026/04/04/jpmorgan-chase-lending-80000000000-to-small-businesses-in-american-dream-initiative/",
+    "title": "JPMorgan Chase Lending $80,000,000,000 to Small Businesses in \u2018American Dream\u2019 Initiative",
+    "fetched_on": "2026-04-05T07:10:28.328136+00:00",
+    "content": "Banking giant JPMorgan Chase is committing tens of billions of dollars in new lending to small businesses as part of a broader effort to expand access to capital and support economic growth in the US\u2026 [+1979 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Chase",
+      "Small",
+      "Businesses",
+      "American",
+      "Lending",
+      "chars",
+      "JPMorgan",
+      "Dream\u2019",
+      "Initiative",
+      "Banking"
     ]
   }
 ]
