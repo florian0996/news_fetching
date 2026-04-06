@@ -12652,5 +12652,62 @@
       "depend",
       "financial"
     ]
+  },
+  {
+    "source": "Anfieldindex.com [NewsAPI]",
+    "url": "https://anfieldindex.com/92881/joyce-soft-underbelly-to-this-liverpool-squad.html",
+    "title": "Paul Joyce: Soft underbelly to this Liverpool squad",
+    "fetched_on": "2026-04-06T07:46:56.909712+00:00",
+    "content": "Credit to The Times and Paul Joyce for a forensic breakdown of Liverpools 4-0 defeat to Manchester City, a performance he describes as a complete and utter abdication of responsibility.\r\nThat verdict… [+3469 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Joyce",
+      "Paul",
+      "Soft",
+      "City",
+      "Credit",
+      "Times",
+      "Manchester",
+      "Liverpool",
+      "Liverpools",
+      "responsibility"
+    ]
+  },
+  {
+    "source": "The Times of India [NewsAPI]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q4-biz-update-loans-rise-11-deposits-grow-12-yoy/articleshow/130034185.cms",
+    "title": "YES Bank Q4 biz update: Loans rise 11%, deposits grow 12% YoY",
+    "fetched_on": "2026-04-06T07:46:56.909712+00:00",
+    "content": "Private lender YES Bank reported steady balance sheet growth for the March quarter, with both advances and deposits expanding at a healthy pace, supported by an improvement in its low-cost deposit fr… [+1585 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Bank",
+      "Loans",
+      "chars",
+      "Private",
+      "March",
+      "biz",
+      "update",
+      "rise",
+      "grow",
+      "YoY"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/economy/policy/articles/why-more-small-businesses-adding-090000469.html",
+    "title": "Why more small businesses are adding credit card surcharges — and what it means for your wallet",
+    "fetched_on": "2026-04-06T07:47:25.300633+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "surcharges",
+      "wallet",
+      "small",
+      "businesses",
+      "adding",
+      "credit",
+      "card"
+    ]
   }
 ]
