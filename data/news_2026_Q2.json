@@ -12612,5 +12612,45 @@
       "case",
       "bond"
     ]
+  },
+  {
+    "source": "Mediaite [NewsAPI]",
+    "url": "https://www.mediaite.com/politics/we-got-him-trump-celebrates-miraculous-rescue-of-second-f-15-crew-member-who-was-shot-down-in-iran/",
+    "title": "‘WE GOT HIM!’ Trump Celebrates ‘Miraculous’ Rescue of Second F-15 Crew Member Who Was Shot Down in Iran",
+    "fetched_on": "2026-04-06T05:26:55.273355+00:00",
+    "content": "(Photo Credit: AP Photo/Alex Brandon, Pool)\r\nPresident Donald Trump early on Sunday morning celebrated the “miraculous” rescue of the second crew member from the F-15 fighter jet who was shot down in… [+4789 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Shot",
+      "Pool",
+      "Photo",
+      "Rescue",
+      "Crew",
+      "Member",
+      "Trump",
+      "Celebrates",
+      "Miraculous’",
+      "Iran"
+    ]
+  },
+  {
+    "source": "BusinessLine [NewsAPI]",
+    "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/personal-loan-emi-interest-cost/article70825833.ece",
+    "title": "Personal loan, EMI, interest cost",
+    "fetched_on": "2026-04-06T05:26:55.273355+00:00",
+    "content": "Borrowers loan tenure depend on financial obligations and cash flow. While most applicants usually focus on the loan amount, interest rate and EMI, they often ignore loan tenure that regulates the to… [+3456 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "EMI",
+      "Borrowers",
+      "loan",
+      "interest",
+      "Personal",
+      "flow",
+      "tenure",
+      "cost",
+      "depend",
+      "financial"
+    ]
   }
 ]
