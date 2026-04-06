@@ -12572,5 +12572,45 @@
       "chip",
       "gamma"
     ]
+  },
+  {
+    "source": "Ozbargain.com.au [NewsAPI]",
+    "url": "https://www.ozbargain.com.au/node/954618",
+    "title": "Updated ZeroHero Plan 15c/Kwh for First 15kwhs @ Globird",
+    "fetched_on": "2026-04-06T02:41:48.871547+00:00",
+    "content": "Extremely popular plan seems to be even better.\r\nThe standard ZEROHERO plan works with any battery brand and includes these core features:3 hours of free daily grid charging$1/day credit for avoiding… [+338 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Kwh",
+      "Globird",
+      "Extremely",
+      "Plan",
+      "ZeroHero",
+      "Updated",
+      "popular",
+      "chars",
+      "features",
+      "hours"
+    ]
+  },
+  {
+    "source": "The Indian Express [NewsAPI]",
+    "url": "https://indianexpress.com/article/business/banking-and-finance/at-1-bond-mis-selling-case-hdfc-bank-acts-against-15-executives-for-alleged-role-10619482/",
+    "title": "AT-1 bond mis-selling case: HDFC Bank acts against 15 executives for alleged role",
+    "fetched_on": "2026-04-06T02:41:48.871547+00:00",
+    "content": "HDFC Bank is learnt to have taken disciplinary action against 15 executives for their role in the alleged mis-selling of Credit Suisse Additional Tier-1 bonds.\r\nInvestors have alleged that the AT-1 b… [+1836 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "HDFC",
+      "Bank",
+      "executives",
+      "Additional",
+      "Credit",
+      "Suisse",
+      "mis-selling",
+      "role",
+      "case",
+      "bond"
+    ]
   }
 ]
