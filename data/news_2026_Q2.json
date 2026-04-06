@@ -13716,5 +13716,44 @@
       "Bank",
       "Growing"
     ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://sports.yahoo.com/articles/sporting-jax-names-vystar-credit-213842851.html",
+    "title": "Sporting JAX names VyStar Credit Union as exclusive credit union partner",
+    "fetched_on": "2026-04-06T21:39:44.314744+00:00",
+    "content": "Sporting Club Jacksonville has announced a multi-year partnership with VyStar Credit Union, designating the financial institution as the Exclusive Credit Union Partner of Sporting JAX.\r\nThe community… [+1635 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Union",
+      "Sporting",
+      "JAX",
+      "exclusive",
+      "partner",
+      "Club",
+      "Jacksonville",
+      "VyStar",
+      "designating"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/clark-howard-calls-credit-score-125058638.html",
+    "title": "Clark Howard Calls Credit Score Warning ‘Gibberish’ for Borrowers in the Upper 700s",
+    "fetched_on": "2026-04-06T21:39:57.386479+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Warning",
+      "Gibberish’",
+      "Upper",
+      "Howard",
+      "Calls",
+      "Credit",
+      "Score",
+      "Borrowers",
+      "Clark"
+    ]
   }
 ]
