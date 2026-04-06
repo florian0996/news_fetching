@@ -13835,5 +13835,85 @@
       "chars",
       "Thrilled"
     ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.com/news/articles/c78ljve3x7xo",
+    "title": "Disability benefits change means my son could lose £200 a month - it's terrifying",
+    "fetched_on": "2026-04-06T23:38:36.978449+00:00",
+    "content": "The government's impact statement into the change to Universal Credit found some people were already \"struggling to get by\" on the standard allowance of £400 for a single person, meaning the health t… [+101 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "chars",
+      "Universal",
+      "Credit",
+      "change",
+      "Disability",
+      "lose",
+      "month",
+      "struggling",
+      "person",
+      "meaning"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.co.uk/news/articles/c78ljve3x7xo",
+    "title": "'Benefits changes mean my son could lose out on £200 a month'",
+    "fetched_on": "2026-04-06T23:38:36.978449+00:00",
+    "content": "The government's impact statement into the change to Universal Credit found some people were already \"struggling to get by\" on the standard allowance of £400 for a single person, meaning the health t… [+1029 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Benefits",
+      "chars",
+      "Universal",
+      "Credit",
+      "month",
+      "struggling",
+      "person",
+      "meaning",
+      "son",
+      "lose"
+    ]
+  },
+  {
+    "source": "BBC News [NewsAPI]",
+    "url": "https://www.bbc.co.uk/news/articles/cn085pdly86o",
+    "title": "'It's a massive help': Benefits and pensions rise as two-child cap ends",
+    "fetched_on": "2026-04-06T23:38:36.978449+00:00",
+    "content": "Other changes to the basic allowance for universal credit, paid to all claimants of the benefit, mean about three million families will receive an average increase of £120 this year.\r\nHowever, the he… [+1147 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "credit",
+      "paid",
+      "year",
+      "Benefits",
+      "benefit",
+      "massive",
+      "pensions",
+      "rise",
+      "two-child",
+      "cap"
+    ]
+  },
+  {
+    "source": "Www.gov.uk [NewsAPI]",
+    "url": "https://www.gov.uk/guidance/universal-credit-what-you-could-get-if-you-have-a-health-condition-or-disability",
+    "title": "Universal Credit: what you could get if you have a health condition or disability",
+    "fetched_on": "2026-04-06T23:38:36.978449+00:00",
+    "content": "You may get more money on top of your standard allowance if you cannot work because of a health condition or disability.\r\nThis extra amount of money is for people who have limited capability for work… [+3097 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "health",
+      "condition",
+      "Credit",
+      "disability",
+      "Universal",
+      "money",
+      "work",
+      "top",
+      "standard",
+      "allowance"
+    ]
   }
 ]
