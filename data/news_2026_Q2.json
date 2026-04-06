@@ -12709,5 +12709,83 @@
       "credit",
       "card"
     ]
+  },
+  {
+    "source": "Bloomberg – Industries [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-06/smfg-nippon-life-in-talks-to-set-up-3-billion-lbo-loan-fund",
+    "title": "SMFG, Nippon Life in Talks to Set Up $3 Billion LBO Loan Fund",
+    "fetched_on": "2026-04-06T09:11:35.272919+00:00",
+    "content": "Sumitomo Mitsui Financial Group Inc. and Nippon Life Insurance Co. are in talks to set up a private credit fund with initial capital of at least ¥500 billion ($3.1 billion), people familiar with the matter said, as the Japanese financial giants seek to capitalize on a surge in corporate deals.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Billion",
+      "SMFG",
+      "Nippon",
+      "Life",
+      "Talks",
+      "Set",
+      "Fund",
+      "Financial",
+      "LBO",
+      "Loan"
+    ]
+  },
+  {
+    "source": "Yahoo Entertainment [NewsAPI]",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_97790a6c-8b28-4cf6-91d1-cebbedc7d400",
+    "title": "Why more small businesses are adding credit card surcharges — and what it means for your wallet",
+    "fetched_on": "2026-04-06T09:11:34.129012+00:00",
+    "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "including",
+      "chars",
+      "Accept",
+      "Transparency",
+      "Consent",
+      "Framework",
+      "IAB",
+      "surcharges",
+      "click",
+      "partners"
+    ]
+  },
+  {
+    "source": "TechRadar [NewsAPI]",
+    "url": "https://www.techradar.com/tech/the-hp-ipod-7-forgotten-apple-products-you-didnt-even-know-existed",
+    "title": "The HP iPod? 7 forgotten Apple products you didn’t even know existed",
+    "fetched_on": "2026-04-06T09:11:34.129012+00:00",
+    "content": "(Image credit: Future)\r\nWe're celebrating Apple's 50th birthday with a week of content about the tech giant. It covers everything from personal recollections from our writers to the greatest — and wo… [+9186 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "iPod",
+      "Future",
+      "Apple",
+      "Image",
+      "chars",
+      "forgotten",
+      "existed",
+      "credit",
+      "birthday",
+      "giant"
+    ]
+  },
+  {
+    "source": "All Finance [RSS]",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bank-canada-finds-aave-defi-035900202.html",
+    "title": "Bank of Canada Finds Aave DeFi Lending Technically Feasible",
+    "fetched_on": "2026-04-06T09:11:48.650202+00:00",
+    "content": "",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Feasible",
+      "Canada",
+      "Finds",
+      "Aave",
+      "Lending",
+      "Technically",
+      "Bank",
+      "DeFi"
+    ]
   }
 ]
