@@ -13755,5 +13755,85 @@
       "Borrowers",
       "Clark"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-06/goldman-says-it-s-ready-to-pounce-as-retail-flees-private-credit",
+    "title": "Goldman Says It’s Ready to Pounce as Retail Flees Private Credit",
+    "fetched_on": "2026-04-06T22:39:04.889486+00:00",
+    "content": "Goldman Sachs Group Inc. says a reliance on stickier, more patient institutional investors, rather than wealthy individuals, helped its $15.7 billion private credit fund narrowly escape the broader exodus plaguing peers this year.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Goldman",
+      "Ready",
+      "Pounce",
+      "Retail",
+      "Flees",
+      "Sachs",
+      "Group",
+      "Private",
+      "Credit",
+      "stickier"
+    ]
+  },
+  {
+    "source": "Bloomberg – Business [RSS]",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-04-06/private-credit-s-blue-owl-at-new-low-evening-briefing-americas",
+    "title": "Private Credit Poster Child Blue Owl Hits Record Low",
+    "fetched_on": "2026-04-06T22:39:05.580937+00:00",
+    "content": "The drop capped weeks of declines fueled by mounting concerns over the health of the $1.8 trillion market.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Credit",
+      "Poster",
+      "Child",
+      "Blue",
+      "Owl",
+      "Hits",
+      "Record",
+      "Private",
+      "trillion",
+      "market"
+    ]
+  },
+  {
+    "source": "New York Post [NewsAPI]",
+    "url": "https://nypost.com/2026/04/05/world-news/graduate-mocked-after-fleeing-us-over-60-a-month-student-loans/",
+    "title": "Graduate with masters in ‘historic preservation’ mocked after fleeing US and defaulting over $60-a-month student loans",
+    "fetched_on": "2026-04-06T22:39:04.275648+00:00",
+    "content": "A college graduate has been branded a “loser” and a “whiny b—h,” after fleeing the US and defaulting on her student loans over her $60-a-month repayments.\r\nAmanda Lynn Tully, 37, admitted she was “ne… [+3113 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "loser",
+      "repayments",
+      "fleeing",
+      "defaulting",
+      "student",
+      "loans",
+      "Graduate",
+      "historic",
+      "whiny",
+      "Tully"
+    ]
+  },
+  {
+    "source": "SempreInter [NewsAPI]",
+    "url": "https://sempreinter.com/2026/04/05/inter-milan-roma-thuram-honest-missed-lautaro/",
+    "title": "Inter Milan 5-2 Roma – MOTM Marcus Thuram Thrilled To Welcome His Partner In Crime Back: ‘I Missed Lautaro Martinez’",
+    "fetched_on": "2026-04-06T22:39:04.275648+00:00",
+    "content": "Marcus Thuram delivered a man of the match performance as Inter Milan thrashed Roma 5-2 on Easter Sunday, and the France striker was generous and honest in sharing the credit, openly admitting how mu… [+1563 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Milan",
+      "Marcus",
+      "Thuram",
+      "Roma",
+      "Inter",
+      "MOTM",
+      "Back",
+      "Sunday",
+      "chars",
+      "Thrilled"
+    ]
   }
 ]
