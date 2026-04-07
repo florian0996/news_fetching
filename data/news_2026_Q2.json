@@ -16745,5 +16745,125 @@
       "chars",
       "underwater"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-07/oncoclinicas-onco3-mulls-seeking-emergency-protection-from-creditors-in-brazil",
+    "title": "Oncoclinicas Mulls Seeking Emergency Protection From Creditors in Brazil",
+    "fetched_on": "2026-04-07T21:43:20.732614+00:00",
+    "content": "Oncoclinicas do Brasil Servicos Medicos SA is considering seeking emergency protection from creditors as financial pressures mount, according to people familiar with the matter.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Emergency",
+      "Protection",
+      "Seeking",
+      "Creditors",
+      "Oncoclinicas",
+      "Mulls",
+      "Brazil",
+      "Brasil",
+      "Servicos",
+      "Medicos"
+    ]
+  },
+  {
+    "source": "Bloomberg – Technology [RSS]",
+    "url": "https://www.bloomberg.com/news/videos/2026-04-07/why-marathon-s-richards-is-worried-about-direct-lending-video",
+    "title": "Why Marathon's Richards Is Worried About Direct Lending",
+    "fetched_on": "2026-04-07T21:43:25.456353+00:00",
+    "content": "Marathon Asset Management Chair and CEO Bruce Richards explains why he sees a correction in direct lending. Speaking on \"Bloomberg The Close,\" Richards says software has the biggest problems in direct lending, expecting the default rate to go to 15% in that sector. (Source: Bloomberg)",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Marathon",
+      "Direct",
+      "Richards",
+      "Lending",
+      "Worried",
+      "Asset",
+      "Management",
+      "Chair",
+      "CEO",
+      "Bruce"
+    ]
+  },
+  {
+    "source": "USA Today [NewsAPI]",
+    "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/04/06/nfl-rumors-von-miller-explains-raiders-post/89482595007/",
+    "title": "Von Miller explains post about Raiders from April 1",
+    "fetched_on": "2026-04-07T21:43:19.936754+00:00",
+    "content": "Former Denver Broncos pass-rusher Von Miller gave Broncos Country quite the scare when he posted a graphic on April 1 informing the league he was signing with the Las Vegas Raiders. Lending credibili… [+1097 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Miller",
+      "Raiders",
+      "Broncos",
+      "Von",
+      "Denver",
+      "Country",
+      "Las",
+      "Vegas",
+      "informing"
+    ]
+  },
+  {
+    "source": "Hollywood Life [NewsAPI]",
+    "url": "https://hollywoodlife.com/feature/byron-allen-stephen-colbert-late-show-replacement-5511178/",
+    "title": "Who Is Byron Allen? All About Stephen Colbert’s ‘Late Show’ Time Slot Replacement",
+    "fetched_on": "2026-04-07T21:43:19.936754+00:00",
+    "content": "Image Credit: Getty Images; CBS\r\nAs The Late Show with Stephen Colbert enters its final weeks on the air, CBS has introduced a new comedian to take Stephen Colberts late-night time slot: Byron Allen.… [+1736 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Allen",
+      "Stephen",
+      "Byron",
+      "CBS",
+      "Colbert",
+      "Late",
+      "Time",
+      "Slot",
+      "Credit",
+      "Getty"
+    ]
+  },
+  {
+    "source": "Cheezburger.com [NewsAPI]",
+    "url": "https://cheezburger.com/44931589/aunt-finds-19-year-old-nieces-bank-statements-demands-niece-give-her-a-monthly-loan-after",
+    "title": "Aunt finds 19-year-old niece's bank statements, demands niece give her a monthly loan after discovering her savings account, niece refuses: ‘I'm tired of helping you out’",
+    "fetched_on": "2026-04-07T21:43:19.936754+00:00",
+    "content": "That is a question the mother and aunt in the story below are probably thinking to themselves every time they come running to their 19-year-old daughter and ask her for more money.\r\nWhen one grows up… [+1356 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "niece",
+      "Aunt",
+      "finds",
+      "statements",
+      "demands",
+      "account",
+      "refuses",
+      "daughter",
+      "money",
+      "bank"
+    ]
+  },
+  {
+    "source": "Raw Story [NewsAPI]",
+    "url": "https://www.rawstory.com/trump-2676671424/",
+    "title": "'He is so jealous': Trump brutally mocked for repeating false claim about Osama Bin Laden",
+    "fetched_on": "2026-04-07T21:43:19.936754+00:00",
+    "content": "The internet erupted on Monday after President Donald Trump tried to take credit for a military operation that killed the mastermind behind the September 11 attacks on the United States which Trump d… [+1753 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Trump",
+      "September",
+      "chars",
+      "Osama",
+      "Bin",
+      "Laden",
+      "Monday",
+      "President",
+      "Donald",
+      "United"
+    ]
   }
 ]
