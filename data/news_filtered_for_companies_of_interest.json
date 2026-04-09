@@ -1,8 +1,18 @@
 {
+  "2026-04-09": {
+    "status": "no company in the news"
+  },
   "2026-04-08": {
     "articles": [
       {
         "title": "FW: AI agent startups to watch",
+        "url": null,
+        "platforms_mentioned": [
+          "CRX"
+        ]
+      },
+      {
+        "title": "FW: Money Stuff: Robot Retail Investors",
         "url": null,
         "platforms_mentioned": [
           "CRX"
