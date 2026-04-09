@@ -22302,5 +22302,45 @@
       "platforms",
       "partnering"
     ]
+  },
+  {
+    "source": "Lasportsreport.com [NewsAPI]",
+    "url": "https://lasportsreport.com/dodgers/252618/kyle-tucker-explains-decision-to-sign-with-dodgers-over-blue-jays/",
+    "title": "Kyle Tucker Explains Decision to Sign with Dodgers over Blue Jays",
+    "fetched_on": "2026-04-09T23:38:55.298345+00:00",
+    "content": "Apr 7, 2026; Toronto, Ontario, CAN; Los Angeles Dodgers right fielder Kyle Tucker (23) hits an RBI double against the Toronto Blue Jays in the ninth inning at Rogers Centre. Mandatory Credit: Dan Ham… [+1843 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Ontario",
+      "Tucker",
+      "Blue",
+      "Jays",
+      "Dodgers",
+      "Toronto",
+      "Apr",
+      "Los",
+      "Centre",
+      "Kyle"
+    ]
+  },
+  {
+    "source": "pymnts.com [NewsAPI]",
+    "url": "https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2026/fed-rewrites-rules-to-bring-cross-border-payments-to-fednow/",
+    "title": "Fed Rewrites Rules to Bring Cross-Border Payments to FedNow",
+    "fetched_on": "2026-04-09T23:38:55.298345+00:00",
+    "content": "The Federal Reserve Board proposed Wednesday (April 8) that U.S. banks and credit unions be allowed to use intermediaries to transfer funds through the FedNow® Service.This would mark a change from t… [+2067 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "April",
+      "Wednesday",
+      "chars",
+      "Rewrites",
+      "Rules",
+      "Bring",
+      "Payments",
+      "Federal",
+      "Reserve",
+      "Board"
+    ]
   }
 ]
