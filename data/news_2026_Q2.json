@@ -22202,5 +22202,105 @@
       "President",
       "Ajay"
     ]
+  },
+  {
+    "source": "Bloomberg – Markets [RSS]",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-09/mercer-bonds-sink-as-pulp-firm-seeks-to-strip-lender-protections",
+    "title": "Mercer Bonds Sink as Pulp Firm Seeks to Strip Lender Protections",
+    "fetched_on": "2026-04-09T22:42:24.337566+00:00",
+    "content": "Mercer International Inc.’s bonds slumped after it sought to ditch rules requiring equal treatment for all creditors &mdash; a move that would give the struggling pulp producer the power to pick and choose which lenders to favor in a restructuring.",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Mercer",
+      "Bonds",
+      "Pulp",
+      "Sink",
+      "Firm",
+      "Seeks",
+      "Strip",
+      "Protections",
+      "International",
+      "Inc.’s"
+    ]
+  },
+  {
+    "source": "BleepingComputer [NewsAPI]",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+    "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
+    "fetched_on": "2026-04-09T22:42:23.710320+00:00",
+    "content": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image.\r\nWhen clicking the c… [+2867 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "SVG",
+      "image",
+      "Graphics",
+      "Magento",
+      "Scalable",
+      "Vector",
+      "credit",
+      "Hackers",
+      "online",
+      "chars"
+    ]
+  },
+  {
+    "source": "Inside the Magic [NewsAPI]",
+    "url": "https://insidethemagic.net/2026/04/disney-world-reservations-sold-out-may-4-emd1/",
+    "title": "Disney World Runs out of Park Reservations: Gates Will Lock in 26 Days",
+    "fetched_on": "2026-04-09T22:42:23.710320+00:00",
+    "content": "Disney World has announced that select reservations have sold out for select guests on a special day that will bring joy and wonder to millions around the globe.\r\nCredit: Inside the Magic\r\nDisney Wor… [+5770 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "World",
+      "Gates",
+      "Reservations",
+      "Disney",
+      "Runs",
+      "Park",
+      "Lock",
+      "select",
+      "globe",
+      "Days"
+    ]
+  },
+  {
+    "source": "1000mg.jp [NewsAPI]",
+    "url": "https://1000mg.jp/246796/",
+    "title": "【動画】2018年に新種として登録された糸を吐く昆虫がキモかわいい。",
+    "fetched_on": "2026-04-09T22:42:23.710320+00:00",
+    "content": "Eugryllacris guomashan is a rare raspy cricket species first described in 2018 from Yunnan, China, notable for its unique ability to spin silk from its mouth to build shelters. Credit: pic.twitter.co… [+66 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "【動画】",
+      "年に新種として登録された糸を吐く昆虫がキモかわいい",
+      "China",
+      "Yunnan",
+      "Credit",
+      "chars",
+      "Eugryllacris",
+      "notable",
+      "shelters",
+      "guomashan"
+    ]
+  },
+  {
+    "source": "Finovate.com [NewsAPI]",
+    "url": "https://finovate.com/onepay-partners-with-workday-wellness-to-expand-distribution/",
+    "title": "OnePay Partners with Workday Wellness to Expand Distribution",
+    "fetched_on": "2026-04-09T22:42:23.710320+00:00",
+    "content": "<ul>\n<li>OnePay is partnering with Workday Wellness to embed banking, investing, and credit tools directly into employer HR and benefits platforms. </li>\n\n\n\n<li>The integration shifts financial welln… [+3526 chars]",
+    "platforms_mentioned": [],
+    "keywords": [
+      "Workday",
+      "Wellness",
+      "OnePay",
+      "Distribution",
+      "investing",
+      "Partners",
+      "Expand",
+      "banking",
+      "platforms",
+      "partnering"
+    ]
   }
 ]
